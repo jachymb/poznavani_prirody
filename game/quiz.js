@@ -151,8 +151,9 @@
     for (const pool of [fresh, all]) {
       if (!pool.length) continue;
       for (let tries = 0; tries < 200; tries++) {
-        // Známější druhy (článek ve více jazycích) se losují častěji.
-        const [target, classmates] = pickWeighted(pool, ([s]) => 1 + (s.pop || 0));
+        // Známější druhy (článek ve více jazycích) se losují častěji. Dělení odmocninou z velikosti třídy
+        // brání velkým třídám vytlačit malé; 1/ln n má téměř nulový účinek, plná rovnost by malé třídy pořád opakovala.
+        const [target, classmates] = pickWeighted(pool, ([s, mates]) => (1 + (s.pop || 0)) / Math.sqrt(mates.length));
         const q = pick(makers)(target, classmates, easy);
         if (!q) continue;
         const other = target.facts.filter((f) => f !== q.shownFact);
