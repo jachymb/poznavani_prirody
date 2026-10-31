@@ -40,7 +40,7 @@ CLASSES = {
     "ptaci": ("Q5113", "Ptáci", "zivocichove"),
     "plazi": ("Q10811", "Plazi", "zivocichove"),
     "obojzivelnici": ("Q10908", "Obojživelníci", "zivocichove"),
-    "ryby": ("Q343460 Q204861 Q22109932 Q21286786 Q857497 Q61881941 Q61881939 Q51290695 Q61881938 Q15100334 Q20722244 Q152", "Ryby", "zivocichove"),
+    "ryby": ("Q343460 Q204861 Q22109932 Q21286786 Q857497 Q61881941 Q61881939 Q51290695 Q61881938 Q15100334 Q20722244 Q152", "Ryby a příbuzní strunatci", "zivocichove"),
     "paryby": ("Q25371 Q149104", "Paryby", "zivocichove"),
     "pavoukovci": ("Q1358 Q19430", "Pavoukovci", "zivocichove"),
     "mekkysi": ("Q4867740 Q25368 Q128257 Q188906", "Měkkýši", "zivocichove"),
