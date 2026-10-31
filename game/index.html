@@ -44,6 +44,13 @@
   .kingdom small { display: block; font-size: 15px; font-weight: 400; color: var(--soft); }
   .kingdom:not(:disabled):hover { transform: translateY(-3px); border-color: var(--brand); }
   .kingdom:disabled { opacity: .55; cursor: default; }
+  .class-choice { margin-top: 24px; }
+  .class-choice h2 { font-size: 22px; margin: 0 0 8px; }
+  .class-choice h3 { font-size: 18px; margin: 14px 0 6px; }
+  .groups { display: flex; flex-wrap: wrap; gap: 8px; }
+  .group { min-height: 44px; padding: 6px 12px; background: var(--card); border: 2px solid var(--line); border-radius: 12px; font-size: 16px; font-weight: 700; }
+  .group:hover { border-color: var(--brand); }
+  .group small { font-weight: 400; color: var(--soft); }
 
   .bar { display: flex; align-items: center; gap: 12px; margin-bottom: 12px; font-weight: 700; }
   .bar .home { background: none; border: 0; padding: 6px 8px; color: var(--soft); font-weight: 700; }
@@ -163,6 +170,16 @@
       el("small", {}, playable ? `${names} · ${count} druhů` : hasData ? "Na vybraných kontinentech málo druhů" : "Už brzy"));
   }
 
+  // Kvíz jen z jedné třídy. Nabízí se jen třídy, které při současném výběru jdou hrát.
+  function classChoices() {
+    const sections = KINGDOMS.map((k) => {
+      const buttons = classesOf(k.id).filter((c) => window.Quiz.makeQuestion([c], questionOptions())).map((c) =>
+        el("button", { class: "group", onclick: () => startGame(k, { classSlug: c.slug }) }, c.name, " ", el("small", {}, String(c.species.length))));
+      return buttons.length ? el("section", {}, el("h3", {}, `${k.icon} ${k.label}`), el("div", { class: "groups" }, ...buttons)) : null;
+    });
+    return [el("h2", {}, "Nebo si vyber jen jednu skupinu"), ...sections];
+  }
+
   // Mapa je pro myš a dotyk; pro klávesnici a čtečky slouží zaškrtávací políčka pod ní.
   function continentPicker(onChange) {
     const { width, height, paths } = window.WORLD_MAP;
@@ -227,25 +244,34 @@
   function showHome() {
     game = null;
     const kingdoms = el("div", { class: "kingdoms" });
-    const renderKingdoms = () => kingdoms.replaceChildren(...KINGDOMS.map(kingdomButton));
+    const classes = el("div", { class: "class-choice" });
+    const renderKingdoms = () => {
+      kingdoms.replaceChildren(...KINGDOMS.map(kingdomButton));
+      classes.replaceChildren(...classChoices().filter(Boolean));
+    };
     app.replaceChildren(
       el("h1", {}, "Poznávání přírody"),
       el("p", { class: "lead" }, "Poznáš, kdo je kdo? Vyber si, co chceš objevovat."),
       continentPicker(renderKingdoms),
       gameOptions(renderKingdoms),
       kingdoms,
+      classes,
       el("footer", {}, "Texty a fotky pocházejí z Wikipedie a Wikimedia Commons. Mapa: Natural Earth."),
     );
     renderKingdoms();
   }
 
-  // only: id druhů pro opakování chyb, jinak běžné kolo o ROUND otázkách.
-  function startGame(kingdom, only = null) {
+  // only: id druhů pro opakování chyb, jinak běžné kolo o ROUND otázkách. classSlug: hraje se jen tato třída.
+  function startGame(kingdom, { only = null, classSlug = null } = {}) {
+    const classes = classesOf(kingdom.id).filter((c) => !classSlug || c.slug === classSlug);
+    const available = classes.reduce((sum, c) => sum + c.species.length, 0);
     game = {
       kingdom,
-      classes: classesOf(kingdom.id),
+      classSlug,
+      classes,
       only,
-      total: only ? only.size : ROUND,
+      // malá třída nemá dost druhů na celé kolo, ať se v něm neopakují
+      total: only ? only.size : Math.min(ROUND, available),
       score: 0,
       asked: 0,
       seen: new Set(),
@@ -388,22 +414,22 @@
     const share = game.score / answered;
     const stars = share >= 0.9 ? 3 : share >= 0.6 ? 2 : share >= 0.3 ? 1 : 0;
     const words = ["Nevzdávej to, příště to bude lepší!", "Dobrý začátek!", "Skvělá práce!", "Přírodu znáš opravdu výborně!"];
-    const { kingdom } = game;
+    const { kingdom, classSlug } = game;
     const missed = new Set(game.history.filter((h) => !h.right).map((h) => h.species.id));
     const scoreText = `${game.score} z ${game.history.length}`;
     announce(`Konec kola. ${scoreText}. ${words[stars]}`);
     const first = missed.size
-      ? el("button", { class: "primary", onclick: () => startGame(kingdom, missed) }, `Zopakovat chyby (${missed.size})`)
-      : el("button", { class: "primary", onclick: () => startGame(kingdom) }, "Hrát znovu");
+      ? el("button", { class: "primary", onclick: () => startGame(kingdom, { only: missed, classSlug }) }, `Zopakovat chyby (${missed.size})`)
+      : el("button", { class: "primary", onclick: () => startGame(kingdom, { classSlug }) }, "Hrát znovu");
     app.replaceChildren(el("section", { class: "result" },
       el("div", { class: "stars" }, "⭐".repeat(stars) || "🌱"),
       el("h1", { class: "big" }, scoreText),
       el("p", { class: "lead" }, words[stars]),
       first,
-      missed.size ? el("button", { class: "secondary", onclick: () => startGame(kingdom) }, "Hrát znovu") : null,
+      missed.size ? el("button", { class: "secondary", onclick: () => startGame(kingdom, { classSlug }) }, "Hrát znovu") : null,
       el("h2", {}, "Druhy z tohoto kola"),
       roundSummary(),
-      el("button", { class: "link", onclick: showHome }, "Vybrat jinou říši"),
+      el("button", { class: "link", onclick: showHome }, "Zpět na výběr"),
     ));
     first.focus({ preventScroll: true });
     window.scrollTo(0, 0);
