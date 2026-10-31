@@ -51,7 +51,36 @@ CLASSES = {
     "ostatni_bezobratli": ("Q190090 Q610887 Q209924 Q190701", "Další bezobratlí", "zivocichove"),
     "hmyz": ("Q1390", "Hmyz", "zivocichove"),
 }
-EXCLUDE = ("Homo ",)  # rod člověk: fotky lidí do hádání druhů nepatří
+EXCLUDE = ("Homo ",)  # rod člověk: fotky lidí do hádání druhů nepatří; výjimkou je ruční EASTER_EGG
+# Vzácný vtípek: člověk jako jeden ze savců, s tvrzeními, která by platila i pro jiná zvířata.
+# Váha losování je 1 (pop 0). "not": savci, pro které tvrzení jistě neplatí.
+# "false_for_human": existující tvrzení o jiných savcích, která pro člověka jistě neplatí, slouží jako špatné odpovědi.
+EASTER_EGG = {
+    "class": "savci",
+    "species": {
+        "id": "Q15978631", "name": "Člověk moudrý", "latin": "Homo sapiens", "family": "hominidé", "order": "primáti",
+        "wiki": "https://cs.wikipedia.org/wiki/%C4%8Clov%C4%9Bk_moudr%C3%BD",
+        "photos": [{"url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Akha_cropped_hires.JPG", "page": "https://commons.wikimedia.org/wiki/File:Akha_cropped_hires.JPG",
+                    "author": "Weltenbummler84", "license": "CC BY-SA 2.0 de"}],
+        "continents": ["EU", "AS", "AF", "NA", "SA", "AN", "OC"], "pop": 0, "egg": True,
+    },
+    "facts": [
+        ("Dospělý jedinec má obvykle 32 zubů.", "čísla", ["Lev", "Vlk obecný", "Liška obecná", "Slon africký", "Medvěd hnědý"]),
+        ("Březost trvá asi devět měsíců.", "čísla", ["Lev", "Vlk obecný", "Liška obecná", "Slon africký", "Tygr"]),
+        ("Samice obvykle rodí jedno mládě.", "mláďata", ["Vlk obecný", "Liška obecná", "Prase divoké", "Ježek západní"]),
+        ("Ochlazuje se pocením po celém těle.", "chování", ["Vlk obecný", "Liška obecná", "Prase divoké", "Slon africký"]),
+    ],
+    "false_for_human": [
+        ("Keporkak", "Má velmi dlouhé ploutve, až třetinu těla."),
+        ("Mýval severní", "Má výraznou černou masku na obličeji a pruhovaný ocas."),
+        ("Plejtvák obrovský", "Váží zhruba 72 až 135 tun."),
+        ("Pižmoň severní", "Rohy nosí samci i samice."),
+        ("Sob polární", "Má široké paznehty (kopyta), takže se neboří do sněhu."),
+        ("Mrož lední", "Kly mohou být dlouhé až jeden metr."),
+        ("Lemur kata", "Má dlouhý pruhovaný ocas, který mu pomáhá při skocích."),
+        ("Gepard štíhlý", "Má černé pruhy od očí k tlamě."),
+    ],
+}
 MIN_TEXT = 1500  # kratší text je pahýl, i když nemá šablonu
 MAX_PHOTOS = 4
 CATEGORIES = {"vzhled", "potrava", "výskyt", "chování", "mláďata", "čísla", "vztahy", "růst", "využití", "jedovatost", "účinky"}
@@ -565,6 +594,17 @@ def plain_text(text):
     return match.group(1).upper() + text[len("Tento druh ") + 1:]
 
 
+def add_easter_egg(species):
+    """Přidá EASTER_EGG mezi druhy třídy. Chybějící druh nebo tvrzení je chyba, ať vtípek tiše nezmizí."""
+    by_name = {s["name"]: s for s in species}
+    human = EASTER_EGG["species"]
+    facts = [{"id": f"{human['id']}#{i}", "text": text, "cat": cat, "not": sorted(by_name[n]["id"] for n in others)}
+             for i, (text, cat, others) in enumerate(EASTER_EGG["facts"])]
+    for name, text in EASTER_EGG["false_for_human"]:
+        next(f for f in by_name[name]["facts"] if f["text"] == text)["not"].append(human["id"])
+    species.append({**human, "facts": facts})
+
+
 def write_game_data():
     """Do hry patří jen druhy s kontinenty, tedy po všech krocích, a třídy s dostatkem druhů."""
     built = {}
@@ -576,6 +616,8 @@ def write_game_data():
     for small, target in MERGE_INTO.items():
         if small in built and target in built:
             built[target]["species"] += built.pop(small)["species"]
+    if built.get(EASTER_EGG["class"], {}).get("species"):
+        add_easter_egg(built[EASTER_EGG["class"]]["species"])
     classes = [data for data in built.values() if len(data["species"]) >= MIN_CLASS_SPECIES]
     (ROOT / "game" / "data.js").write_text("window.GAME_DATA = " + json.dumps(classes, ensure_ascii=False) + ";\n", encoding="utf-8")
 

@@ -37,6 +37,9 @@
     return [...wordsA].filter((w) => wordsB.has(w)).length / shorter >= 0.6;
   }
 
+  // Člověk je vzácný vtípek: smí být jen hledaným druhem, ne špatnou odpovědí u opic a lidoopů.
+  const notEgg = (s) => !s.egg;
+
   // Znalec: nejbližší příbuzní (čeleď, řád, třída). Začátečník: stejný řád, ale jiná čeleď, druhy se liší víc.
   function relatives(target, classmates, count, easy) {
     const out = [];
@@ -51,9 +54,10 @@
     };
     const inFamily = (s) => target.family && s.family === target.family;
     const inOrder = (s) => target.order && s.order === target.order;
+    const others = classmates.filter(notEgg);
     const groups = easy
-      ? [classmates.filter((s) => inOrder(s) && !inFamily(s)), classmates.filter((s) => !inFamily(s)), classmates]
-      : [classmates.filter(inFamily), classmates.filter(inOrder), classmates];
+      ? [others.filter((s) => inOrder(s) && !inFamily(s)), others.filter((s) => !inFamily(s)), others]
+      : [others.filter(inFamily), others.filter(inOrder), others];
     groups.forEach(add);
     return out.length === count ? out : null;
   }
@@ -116,7 +120,7 @@
     const byId = new Map(classmates.map((s) => [s.id, s]));
     const others = [];
     const names = new Set([target.name]);
-    for (const s of shuffle(fact.not.map((id) => byId.get(id)).filter(Boolean))) {
+    for (const s of shuffle(fact.not.map((id) => byId.get(id)).filter((s) => s && notEgg(s)))) {
       if (others.length < 3 && !names.has(s.name)) {
         names.add(s.name);
         others.push(s);
@@ -167,12 +171,12 @@
     species: c.species.filter((s) => s.continents.some((code) => selected.has(code))),
   }));
 
-  // Pro začátečníka nejznámější čtvrtina každé třídy.
-  const popularOnly = (classes) => classes.map((c) => ({
-    ...c,
-    species: [...c.species].sort((a, b) => (b.pop || 0) - (a.pop || 0))
-      .slice(0, Math.max(BEGINNER_MIN, Math.ceil(c.species.length * BEGINNER_SHARE))),
-  }));
+  // Pro začátečníka nejznámější čtvrtina každé třídy (a vzácný vtípek, ten má vlastní nízkou váhu).
+  const popularOnly = (classes) => classes.map((c) => {
+    const limit = Math.max(BEGINNER_MIN, Math.ceil(c.species.length * BEGINNER_SHARE));
+    const known = [...c.species].sort((a, b) => (b.pop || 0) - (a.pop || 0)).slice(0, limit);
+    return { ...c, species: [...new Set([...known, ...c.species.filter((s) => s.egg)])] };
+  });
 
   window.Quiz = { makeQuestion, isCorrect, inContinents, popularOnly, tooSimilar, isDull, MAKERS };
 })();

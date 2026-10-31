@@ -28,6 +28,35 @@ assert(window.Quiz.isDull({ text: "Kvete od června do srpna." }) && !window.Qui
     assert(t.type === "findFact" || t.type === "findSpecies", "bez fotek jsou jen textové otázky");
   }
 }
+{
+  const mammals = classes.find((c) => c.species.some((s) => s.egg));
+  assert(mammals, "člověk je ve hře");
+  const human = mammals.species.find((s) => s.egg);
+  assert.strictEqual(human.pop, 0, "váha člověka je 1");
+  for (const beginner of [[mammals], window.Quiz.popularOnly([mammals])]) {
+    const types = new Set();
+    for (let i = 0; i < 400; i++) {
+      const q = window.Quiz.makeQuestion(beginner, { only: new Set([human.id]), easy: beginner[0] !== mammals });
+      types.add(q.type);
+      assert.strictEqual(q.target, human);
+      if (q.type === "findFact") {
+        const wrong = q.options.filter((o) => !o.species).map((o) => o.text);
+        const all = mammals.species.flatMap((s) => s.facts);
+        assert(wrong.every((t) => all.some((f) => f.text === t && f.not.includes(human.id))), "špatná věta pro člověka jistě neplatí");
+      }
+    }
+    assert.strictEqual(types.size, 4, `člověk musí jít hledat ve všech typech otázek, má ${[...types]}`);
+  }
+  const counts = { human: 0, distractor: 0 };
+  for (let i = 0; i < 60000; i++) {
+    const q = window.Quiz.makeQuestion([mammals]);
+    if (q.target === human) counts.human++;
+    else if (q.options.some((o) => o.species === human)) counts.distractor++;
+  }
+  assert.strictEqual(counts.distractor, 0, "člověk není špatná odpověď");
+  assert(counts.human < 60, `člověk má být vzácný, vyšel ${counts.human}× z 60000`);
+  console.log("člověk jako cíl:", counts.human, "z 60000 otázek o savcích");
+}
 for (const cls of classes) {
   assert(cls.species.every((s) => s.latin), "každý druh má latinský název");
   assert(cls.species.every((s) => s.continents.length), "každý druh má kontinent");
