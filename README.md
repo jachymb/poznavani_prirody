@@ -28,15 +28,16 @@ Test: `node game/quiz_check.js`
 
 Každá skupina druhů v `CLASSES` v `pipeline.py` prochází těmito kroky:
 
-1. **Stažení:** `python pipeline.py fetch <skupina>` stáhne z Wikidat a české Wikipedie druhy s článkem, který není pahýl, a jejich fotky do `data/<skupina>/`. Přerušené stahování naváže. Nastav `WIKIMEDIA_CONTACT` na svůj kontakt, Wikimedia pak povoluje 200 požadavků za minutu místo 10.
-2. **Fakta a fotky:** subagent z článku vybere tvrzení s doslovnou citací a posoudí fotky.
-3. **Negativní tvrzení:** subagent určí, pro které druhy tvrzení s jistotou neplatí. Z toho vznikají špatné odpovědi.
-4. **Přísná kontrola:** silnější model znovu projde tvrzení, negativní úsudky a fotky.
-5. **Kontinenty:** subagent přiřadí druhům kontinenty výskytu.
+1. **Stažení:** `python pipeline.py fetch <skupina>` stáhne z Wikidat a české Wikipedie druhy s článkem a jejich fotky do `data/<skupina>/`. Přidává jen nové druhy a přerušené stahování naváže. Nastav `WIKIMEDIA_CONTACT` na svůj kontakt, Wikimedia pak povoluje 200 požadavků za minutu místo 10.
+2. **Fakta a fotky:** subagent z článku vybere tvrzení s doslovnou citací a posoudí fotky. O použitelnosti rozhoduje on, ne šablona Pahýl: článek vyřadí, jen když neobsahuje žádnou informaci vhodnou pro otázku.
+3. **Další fotky:** `python pipeline.py photos <skupina>` najde druhům s méně než dvěma schválenými fotkami další na Wikimedia Commons a subagent je posoudí stejně přísně.
+4. **Negativní tvrzení:** subagent určí, pro které druhy tvrzení s jistotou neplatí. Z toho vznikají špatné odpovědi.
+5. **Přísná kontrola:** silnější model znovu projde tvrzení, negativní úsudky a fotky.
+6. **Kontinenty:** subagent přiřadí druhům kontinenty výskytu.
 
-`python pipeline.py next <počet>` vypíše další dávku úloh a řeší přechody mezi kroky. Když už není co dělat, složí `game/data.js`. `python pipeline.py todo <skupina>` ukáže, co ve skupině chybí.
+Každý krok zpracuje jen to, co ještě neprošlo. `python pipeline.py next <počet>` vypíše další dávku úloh a řeší přechody mezi kroky. Když už není co dělat, složí `game/data.js`. `python pipeline.py todo <skupina>` ukáže, co ve skupině chybí.
 
-Kroky 2 až 5 provádějí subagenti Claude Code přes lokální workflow, které není součástí repozitáře. Stejně tak v něm nejsou stažená data z adresáře `data/`, takže samotný `pipeline.py` databázi znovu nevytvoří.
+Kroky 2 až 6 kromě hledání fotek provádějí subagenti Claude Code přes lokální workflow, které není součástí repozitáře. Stejně tak v něm nejsou stažená data z adresáře `data/`, takže samotný `pipeline.py` databázi znovu nevytvoří.
 
 ## Zásady obsahu
 

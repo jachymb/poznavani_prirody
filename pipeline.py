@@ -1,10 +1,12 @@
 """Datová pipeline hry Poznávání přírody (jen standardní knihovna).
 
-  python pipeline.py fetch savci   # Wikidata + česká Wikipedie -> data/savci/ (po přerušení naváže)
+  python pipeline.py fetch savci   # Wikidata + česká Wikipedie -> data/savci/; přidává jen nové druhy, po přerušení naváže
+  python pipeline.py photos savci  # druhům s méně než 2 schválenými fotkami najde další na Wikimedia Commons
   python pipeline.py next 900      # další dávka úloh pro workflow; přechody mezi kroky řeší sám, nakonec složí game/data.js
   python pipeline.py todo savci    # co ještě chybí v jednotlivých krocích workflow
 
-Kroky jedné třídy: fakta a fotky -> negativní tvrzení -> přísná kontrola -> kontinenty.
+Kroky jedné třídy: fakta a fotky -> další fotky -> negativní tvrzení -> přísná kontrola -> kontinenty.
+Každý krok zpracuje jen to, co ještě neprošlo, hotové výsledky zůstávají.
 Novou třídu přidáš jedním řádkem do CLASSES.
 """
 import contextlib, functools, html, http.client, json, os, random, re, sys, textwrap, time, urllib.error, urllib.parse, urllib.request
@@ -81,14 +83,15 @@ EASTER_EGG = {
         ("Gepard štíhlý", "Má černé pruhy od očí k tlamě."),
     ],
 }
-MIN_TEXT = 1500  # kratší text je pahýl, i když nemá šablonu
 MAX_PHOTOS = 4
+MIN_COMMONS_WIDTH = 800  # další fotky z Commons mají být kvalitní
+WANTED_PHOTOS = 2  # s menším počtem schválených fotek se hledají další
 CATEGORIES = {"vzhled", "potrava", "výskyt", "chování", "mláďata", "čísla", "vztahy", "růst", "využití", "jedovatost", "účinky"}
 CONTINENTS = ("EU", "AS", "AF", "NA", "SA", "AN", "OC")
 MIN_CLASS_SPECIES = 4  # méně druhů nestačí na otázku se čtyřmi možnostmi
 # skupiny, kterým po kontrole zbylo příliš málo druhů, se ve hře připojí k širší skupině
-MERGE_INTO = {"lisejniky": "vreckovytrusne", "rasy": "mechorosty", "zahavci": "ostatni_bezobratli", "ostnokozci": "ostatni_bezobratli",
-              "krouzkovci": "ostatni_bezobratli", "stonozkovci": "ostatni_bezobratli"}
+MERGE_INTO = {"lisejniky": "vreckovytrusne", "rasy": "mechorosty", "presliky": "kapradiny", "zahavci": "ostatni_bezobratli", "ostnokozci": "ostatni_bezobratli",
+              "krouzkovci": "ostatni_bezobratli", "stonozkovci": "ostatni_bezobratli", "plostenci": "ostatni_bezobratli"}
 BAD_FILE = re.compile(
     r"map|range|distribution|areal|rozsir|rozšíř|status|logo|icon|skull|lebk|skelet|skeleton|dead|killed|mrtv"
     r"|troph|stamp|známk|footprint|scat|illustration|drawing|painting|kresb|engraving|lithograph|fossil|herbar|herbář",
@@ -128,9 +131,9 @@ def get(url, raw=False, attempts=6):
             time.sleep(5 * 2**attempt)
 
 
-def wiki(**params):
+def wiki(host="cs.wikipedia.org", **params):
     params.update(format="json", formatversion=2)
-    return get("https://cs.wikipedia.org/w/api.php?" + urllib.parse.urlencode(params))["query"]
+    return get(f"https://{host}/w/api.php?" + urllib.parse.urlencode(params))["query"]
 
 
 def sparql(query, attempts=6):
@@ -173,18 +176,37 @@ def paths(slug):
     return d, d / "species.json", d / "articles", d / "thumbs", d / "facts", d / "neg_jobs", d / "neg"
 
 
+def species_roots():
+    """Ke každému druhu s českým článkem kořeny z CLASSES, pod které patří. Ukládá se, jeden průchod stačí pro všechny skupiny."""
+    file = ROOT / "data" / "species_roots.json"
+    all_roots = sorted({q for cfg in CLASSES.values() for q in cfg[0].split()})
+    state = json.loads(file.read_text("utf-8")) if file.exists() else {}
+    if state.get("all_roots") != all_roots:
+        state = {"all_roots": all_roots, "roots": {}, "checked": []}
+    checked = set(state["checked"])
+    pending = [s for s in species_with_czech_article() if s not in checked]
+    values_roots = " ".join(f"wd:{q}" for q in all_roots)
+    for i in range(0, len(pending), 100):
+        chunk = pending[i:i + 100]
+        for r in sparql_by_species(chunk, lambda v: f"SELECT DISTINCT ?s ?root WHERE {{ VALUES ?s {{ {v} }} VALUES ?root {{ {values_roots} }} ?s wdt:P171+ ?root. }}"):
+            state["roots"].setdefault(r["s"]["value"].rsplit("/", 1)[1], []).append(r["root"]["value"].rsplit("/", 1)[1])
+        checked.update(chunk)
+        state["checked"] = sorted(checked)
+        file.write_text(json.dumps(state), encoding="utf-8")
+        print(f"  zařazení druhů {len(checked)}/{len(checked) + len(pending) - i - len(chunk)}", flush=True)
+    return state["roots"]
+
+
 def list_species(qids, skip=()):
-    """Druhy s českým článkem v daných taxonech: {qid: {title, latin, p18, family, order}}."""
-    roots = " ".join(f"wd:{q}" for q in qids)
-    candidates = [s for s in species_with_czech_article() if s not in skip]
-    members = sorted({r["s"]["value"].rsplit("/", 1)[1] for r in sparql_by_species(
-        candidates, lambda values: f"SELECT DISTINCT ?s WHERE {{ VALUES ?s {{ {values} }} VALUES ?root {{ {roots} }} ?s wdt:P171+ ?root. }}")})
+    """Druhy s českým článkem v daných taxonech: {qid: {title, latin, p18, commons, family, order}}."""
+    wanted = set(qids)
+    members = sorted(s for s, roots in species_roots().items() if wanted & set(roots) and s not in skip)
     out = {}
-    for r in sparql_by_species(members, lambda values: f"""SELECT ?s ?art ?latin ?img WHERE {{ VALUES ?s {{ {values} }}
-        ?art schema:about ?s; schema:isPartOf <https://cs.wikipedia.org/>. OPTIONAL {{?s wdt:P225 ?latin}} OPTIONAL {{?s wdt:P18 ?img}} }}"""):
+    for r in sparql_by_species(members, lambda values: f"""SELECT ?s ?art ?latin ?img ?cat WHERE {{ VALUES ?s {{ {values} }}
+        ?art schema:about ?s; schema:isPartOf <https://cs.wikipedia.org/>. OPTIONAL {{?s wdt:P225 ?latin}} OPTIONAL {{?s wdt:P18 ?img}} OPTIONAL {{?s wdt:P373 ?cat}} }}"""):
         sid = r["s"]["value"].rsplit("/", 1)[1]
         title = urllib.parse.unquote(r["art"]["value"].rsplit("/", 1)[1]).replace("_", " ")
-        sp = out.setdefault(sid, {"title": title, "latin": r.get("latin", {}).get("value", ""), "p18": [], "family": "", "order": ""})
+        sp = out.setdefault(sid, {"title": title, "latin": r.get("latin", {}).get("value", ""), "commons": r.get("cat", {}).get("value", ""), "p18": [], "family": "", "order": ""})
         if "img" in r:
             file = urllib.parse.unquote(r["img"]["value"].rsplit("/", 1)[1])
             if file not in sp["p18"]:
@@ -199,33 +221,36 @@ def list_species(qids, skip=()):
     return out
 
 
-def stub_titles(titles):
-    """Názvy, které nesou šablonu Pahýl."""
-    stubs = set()
-    for i in range(0, len(titles), 50):
-        query = {"action": "query", "prop": "templates", "tltemplates": "Šablona:Pahýl", "tllimit": 500, "titles": "|".join(titles[i:i + 50])}
-        for p in wiki(**query)["pages"]:
-            if p.get("templates"):
-                stubs.add(p["title"])
-    return stubs
+def good_files(files):
+    return [f for f in files if f.lower().endswith((".jpg", ".jpeg")) and not BAD_FILE.search(f)]
 
 
 def photo_candidates(sp, article_images):
     files = [f.removeprefix("Soubor:") for f in article_images]
-    ordered = list(dict.fromkeys(sp["p18"] + files))
-    good = [f for f in ordered if f.lower().endswith((".jpg", ".jpeg")) and not BAD_FILE.search(f)]
+    return image_records(good_files(list(dict.fromkeys(sp["p18"] + files))), MAX_PHOTOS)
+
+
+def commons_candidates(category, known=(), limit=MAX_PHOTOS):
+    """Fotky z kategorie druhu na Wikimedia Commons, které ještě nemá."""
+    members = wiki(host="commons.wikimedia.org", action="query", list="categorymembers", cmtitle=f"Category:{category}", cmtype="file", cmlimit=100)["categorymembers"]
+    known = {f.replace(" ", "_") for f in known}
+    files = [m["title"].removeprefix("File:") for m in members]
+    return image_records(good_files([f for f in files if f.replace(" ", "_") not in known]), limit, MIN_COMMONS_WIDTH)
+
+
+def image_records(good, limit, min_width=400):
     if not good:
         return []
     pages = wiki(
-        action="query", prop="imageinfo", titles="|".join("Soubor:" + f for f in good[:MAX_PHOTOS * 3]),
+        host="commons.wikimedia.org", action="query", prop="imageinfo", titles="|".join("File:" + f for f in good[:limit * 3]),
         iiprop="url|extmetadata|size", iiurlwidth=500, iiextmetadatalanguage="cs",
         iiextmetadatafilter="Artist|LicenseShortName|ImageDescription",
     )["pages"]
-    info = {p["title"].removeprefix("Soubor:").replace(" ", "_"): p["imageinfo"][0] for p in pages if p.get("imageinfo")}
+    info = {p["title"].split(":", 1)[1].replace(" ", "_"): p["imageinfo"][0] for p in pages if p.get("imageinfo")}
     photos = []
     for f in good:
         ii = info.get(f.replace(" ", "_"))
-        if not ii or ii["width"] < 400:
+        if not ii or ii["width"] < min_width:
             continue
         meta = ii.get("extmetadata") or {}  # API vrací prázdný seznam místo slovníku
         photos.append({
@@ -236,8 +261,21 @@ def photo_candidates(sp, article_images):
             "license": strip_html(meta.get("LicenseShortName", {}).get("value")),
             "desc": strip_html(meta.get("ImageDescription", {}).get("value"))[:200],
         })
-        if len(photos) == MAX_PHOTOS:
+        if len(photos) == limit:
             break
+    return photos
+
+
+def download_photos(thumbs, sid, candidates, start=0):
+    """Stáhne náhledy, číslování navazuje na fotky, které už druh má."""
+    photos = []
+    for ph in candidates:
+        try:
+            content = get(ph["url"], raw=True)
+        except urllib.error.HTTPError:
+            continue
+        (thumbs / f"{sid}_{start + len(photos)}.jpg").write_bytes(content)
+        photos.append(ph)
     return photos
 
 
@@ -246,16 +284,10 @@ def fetch_species(slug, sid, sp):
     _, _, articles, thumbs, *_ = paths(slug)
     page = wiki(action="query", prop="extracts|images", titles=sp["title"], explaintext=1, exlimit=1, imlimit=100)["pages"][0]
     text = SECTION_END.split(page.get("extract", ""))[0].strip()
-    if len(text) < MIN_TEXT:
-        return "short"
-    photos = []
-    for ph in photo_candidates(sp, [i["title"] for i in page.get("images", [])]):
-        try:
-            content = get(ph["url"], raw=True)
-        except urllib.error.HTTPError:
-            continue
-        (thumbs / f"{sid}_{len(photos)}.jpg").write_bytes(content)
-        photos.append(ph)
+    if not text:  # o použitelnosti článku jinak rozhoduje subagent
+        return "empty"
+    candidates = photo_candidates(sp, [i["title"] for i in page.get("images", [])])
+    photos = download_photos(thumbs, sid, candidates or commons_candidates(sp["commons"] or sp["latin"]))
     if not photos:
         return "photoless"
     name = re.sub(r"\s*\(.*\)$", "", sp["title"])
@@ -271,26 +303,24 @@ def fetch(slug):
     base, species_file, articles, thumbs, *_ = paths(slug)
     articles.mkdir(parents=True, exist_ok=True)
     thumbs.mkdir(exist_ok=True)
-    if any((base / "facts").glob("*.json")):
-        # schválení fotek jsou indexy do species.json, nová data by je tiše posunula
-        sys.exit(f"{base / 'facts'} už obsahuje výsledky. Pro nové stažení smaž celý {base}.")
-    for sub in ("facts", "neg", "neg_jobs", "review", "review_jobs", "continents", "continent_jobs"):
+    for sub in ("facts", "more_photos", "photo_jobs", "neg", "neg_jobs", "review", "review_jobs", "continents", "continent_jobs"):
         (base / sub).mkdir(exist_ok=True)
     # Wikidata někdy řadí druh do více tříd; zpracuje ho jen první
     others = set()
     for other in CLASSES:
         if other != slug and paths(other)[1].exists():
             others |= set(json.loads(paths(other)[1].read_text("utf-8")))
-    listed = list_species(CLASSES[slug][0].split(), others)
+    existing = json.loads(species_file.read_text("utf-8")) if species_file.exists() else {}
+    listed = list_species(CLASSES[slug][0].split(), others | set(existing))
     found = {k: v for k, v in listed.items() if not v["latin"].startswith(EXCLUDE) and v["title"] != v["latin"]}
-    print(f"Druhů s článkem (s českým názvem): {len(found)}", flush=True)
-    stubs = stub_titles([v["title"] for v in found.values()])
-    # průběžný stav, ať přerušené stahování naváže; species.json vznikne až po dokončení
+    print(f"Nových druhů s článkem (s českým názvem): {len(found)}", flush=True)
+    # průběžný stav, ať přerušené stahování naváže; species.json se změní až po dokončení.
+    # Už stažené druhy zůstávají beze změny, schválení fotek jsou indexy do jejich seznamu.
     partial = base / "species.partial.json"
     state = json.loads(partial.read_text("utf-8")) if partial.exists() else {"keep": {}, "done": []}
-    keep, finished = state["keep"], set(state["done"])
+    keep, finished = {**state["keep"], **existing}, set(state["done"])
     outcome = Counter()
-    pending = [(sid, sp) for sid, sp in sorted(found.items()) if sp["title"] not in stubs and sid not in finished]
+    pending = [(sid, sp) for sid, sp in sorted(found.items()) if sid not in finished]
     # Wikimedia doporučuje nejvýš 3 souběžné požadavky
     with ThreadPoolExecutor(3) as pool:
         for n, ((sid, _), result) in enumerate(zip(pending, pool.map(lambda item: fetch_species(slug, *item), pending))):
@@ -302,10 +332,51 @@ def fetch(slug):
             if n % 25 == 0:
                 partial.write_text(json.dumps({"keep": keep, "done": sorted(finished)}, ensure_ascii=False), encoding="utf-8")
                 print(f"  {n}/{len(pending)}", flush=True)
-    short, photoless = outcome["short"], outcome["photoless"]
-    species_file.write_text(json.dumps(keep, ensure_ascii=False, indent=1), encoding="utf-8")
+    save_species(species_file, keep)
     partial.unlink(missing_ok=True)
-    print(f"Pahýly: {len(stubs)}, krátké: {short}, bez použitelné fotky: {photoless}, ponecháno: {len(keep)}", flush=True)
+    print(f"Prázdné články: {outcome['empty']}, bez použitelné fotky: {outcome['photoless']}, druhů celkem: {len(keep)}", flush=True)
+
+
+def save_species(species_file, species):
+    # atomicky, souběžný krok pipeline nesmí přečíst rozepsaný soubor
+    temporary = species_file.with_suffix(".tmp")
+    temporary.write_text(json.dumps(species, ensure_ascii=False, indent=1), encoding="utf-8")
+    os.replace(temporary, species_file)
+
+
+def more_photos(slug, batch=25):
+    """Druhům s málo schválenými fotkami přidá kandidáty z Commons a úlohy pro jejich posouzení. Každý druh jen jednou."""
+    base, species_file, _, thumbs, *_ = paths(slug)
+    (base / "photo_jobs").mkdir(exist_ok=True)
+    (base / "more_photos").mkdir(exist_ok=True)
+    species, facts, _ = load_facts(slug)
+    targets = [s for s, v in facts.items() if len(v["photos"]) < WANTED_PHOTOS and not (base / "photo_jobs" / f"{s}.json").exists()]
+    print(f"{slug}: hledám další fotky pro {len(targets)} druhů", flush=True)
+    categories = {r["s"]["value"].rsplit("/", 1)[1]: r["cat"]["value"] for r in sparql_by_species(
+        targets, lambda values: f"SELECT ?s ?cat WHERE {{ VALUES ?s {{ {values} }} ?s wdt:P373 ?cat }}")}
+
+    def search(sid):
+        sp = species[sid]
+        known = [p["file"] for p in sp["photos"]]
+        return download_photos(thumbs, sid, commons_candidates(categories.get(sid) or sp["latin"], known), len(known))
+
+    found = 0
+    with ThreadPoolExecutor(3) as pool:
+        for i in range(0, len(targets), batch):
+            chunk = targets[i:i + batch]
+            results = list(pool.map(search, chunk))
+            for sid, photos in zip(chunk, results):
+                species[sid]["photos"] += photos
+            save_species(species_file, species)
+            for sid, photos in zip(chunk, results):
+                start = len(species[sid]["photos"]) - len(photos)
+                job = {"species": species[sid]["name"], "latin": species[sid]["latin"], "photos": [
+                    {"i": start + n, "file": p["file"], "desc": p["desc"], "image": f"data/{slug}/thumbs/{sid}_{start + n}.jpg"} for n, p in enumerate(photos)]}
+                (base / "photo_jobs" / f"{sid}.json").write_text(json.dumps(job, ensure_ascii=False, indent=1), encoding="utf-8")
+                if not photos:
+                    (base / "more_photos" / f"{sid}.json").write_text('{"photos": []}', encoding="utf-8")
+                found += len(photos)
+            print(f"  {i + len(chunk)}/{len(targets)}, nalezeno {found} fotek", flush=True)
 
 
 def missing(slug, stage):
@@ -313,12 +384,12 @@ def missing(slug, stage):
     base, species_file, *_ = paths(slug)
     if stage == "facts":
         return [s for s in json.loads(species_file.read_text("utf-8")) if not has_valid_output(base / "facts" / f"{s}.json")]
-    jobs, results = {"negatives": ("neg_jobs", "neg"), "review": ("review_jobs", "review"), "continents": ("continent_jobs", "continents")}[stage]
+    jobs, results = {"photos": ("photo_jobs", "more_photos"), "negatives": ("neg_jobs", "neg"), "review": ("review_jobs", "review"), "continents": ("continent_jobs", "continents")}[stage]
     return [j.stem for j in sorted((base / jobs).glob("*.json")) if not has_valid_output(base / results / j.name)]
 
 
 def todo(slug):
-    for stage in ("facts", "negatives", "review", "continents"):
+    for stage in ("facts", "photos", "negatives", "review", "continents"):
         print(f"{stage}:", json.dumps(missing(slug, stage)))
 
 
@@ -330,27 +401,47 @@ def next_batch(limit):
     print(json.dumps(batch))
 
 
+def out_of_date(slug):
+    """Přibyly od posledního sestavení built.json nějaké výsledky?"""
+    base = paths(slug)[0]
+    built = base / "built.json"
+    if not built.exists():
+        return True
+    newest = max((f.stat().st_mtime for sub in ("facts", "more_photos", "neg", "review", "continents") for f in (base / sub).glob("*.json")), default=0)
+    return newest > built.stat().st_mtime
+
+
 def find_batch(limit):
     for slug, (_, _, kingdom) in CLASSES.items():
-        base, species_file, *_ = paths(slug)
-        if not species_file.exists():
+        if not paths(slug)[1].exists():
             continue
-        prepare = {
-            "negatives": lambda: negatives(slug),
-            "review": lambda: (build(slug), review(slug)),
-            "continents": lambda: (build(slug), continents(slug)),
-        }
-        for stage, jobs in (("facts", None), ("negatives", "neg_jobs"), ("review", "review_jobs"), ("continents", "continent_jobs")):
-            if jobs and not any((base / jobs).glob("*.json")):
-                prepare[stage]()
+
+        def batch(stage):
             ids = missing(slug, stage)
-            if ids:
-                return {"stage": stage, "slug": slug, "kingdom": kingdom, "ids": ids[:limit]}
-    for slug in CLASSES:
-        if paths(slug)[1].exists():
-            if not (paths(slug)[0] / "sitelinks.json").exists():
-                popularity(slug)
+            return {"stage": stage, "slug": slug, "kingdom": kingdom, "ids": ids[:limit]} if ids else None
+
+        stale = out_of_date(slug)
+        found = batch("facts") or batch("photos")
+        if found:
+            return found
+        if stale:
+            sync_negatives(slug)
+        found = batch("negatives")
+        if found:
+            return found
+        if stale:
+            popularity(slug)
             build(slug)
+            sync_review(slug)
+        found = batch("review")
+        if found:
+            return found
+        if stale:
+            sync_continents(slug)
+        found = batch("continents")
+        if found:
+            return found
+    write_game_data()
     return {"stage": "done"}
 
 
@@ -390,7 +481,7 @@ def leaks_name(text, sp):
 
 def load_facts(slug):
     """Načte výstupy kroku 1; tvrzení bez doslovné opory v článku nebo prozrazující název zahodí."""
-    _, species_file, articles, _, facts_dir, *_ = paths(slug)
+    base, species_file, articles, _, facts_dir, *_ = paths(slug)
     species = json.loads(species_file.read_text("utf-8"))
     out, dropped = {}, Counter()
     for sid, sp in species.items():
@@ -400,6 +491,9 @@ def load_facts(slug):
             continue
         try:
             raw = read_json(file)
+            if raw.get("usable") is False:
+                dropped["článek bez použitelných informací"] += 1
+                continue
             article = norm((articles / f"{sid}.txt").read_text("utf-8").split("\n---\n", 1)[1])
             facts = []
             for i, f in enumerate(raw["facts"]):
@@ -415,7 +509,11 @@ def load_facts(slug):
                     dropped[reason] += 1
                 else:
                     facts.append({"id": f"{sid}#{i}", "text": f["text"], "quote": f["quote"], "category": f["category"]})
-            photos = sorted({p["i"] for p in raw["photos"] if p["ok"] and 0 <= p["i"] < len(sp["photos"])})
+            judged = list(raw["photos"])
+            extra = base / "more_photos" / f"{sid}.json"
+            if extra.exists():
+                judged += read_json(extra)["photos"]
+            photos = sorted({p["i"] for p in judged if p["ok"] and 0 <= p["i"] < len(sp["photos"])})
         except (json.JSONDecodeError, KeyError, TypeError) as e:
             dropped[f"neplatný soubor ({type(e).__name__})"] += 1
             print("  neplatný výstup:", file.name, e)
@@ -424,17 +522,25 @@ def load_facts(slug):
     return species, out, dropped
 
 
-def negatives(slug, batch=20, candidates=12):
-    base, _, articles, _, _, jobs_dir, neg_dir = paths(slug)
-    # id tvrzení i čísla úloh se mění, staré výsledky by se přiřadily k jiným tvrzením
-    for old in [*jobs_dir.glob("*.json"), *neg_dir.glob("*.json"), *(base / "review_jobs").glob("*.json"), *(base / "review").glob("*.json")]:
-        old.unlink()
+def next_job_number(jobs_dir, prefix=""):
+    numbers = [int(m.group(1)) for j in jobs_dir.glob("*.json") if (m := re.fullmatch(prefix + r"(\d+)", j.stem))]
+    return max(numbers, default=-1) + 1
+
+
+def jobs_in(jobs_dir):
+    return [read_json(j) for j in sorted(jobs_dir.glob("*.json"))]
+
+
+def sync_negatives(slug, batch=20, candidates=12):
+    """Úlohy pro tvrzení, která negativním krokem ještě neprošla."""
+    base, _, articles, _, _, jobs_dir, _ = paths(slug)
     species, facts, dropped = load_facts(slug)
     usable = {s: v for s, v in facts.items() if v["photos"] and v["facts"]}
-    print("Zahozeno:", dict(dropped))
-    print(f"Použitelných druhů: {len(usable)}, tvrzení: {sum(len(v['facts']) for v in usable.values())}, bez schválené fotky: {sum(not v['photos'] for v in facts.values())}")
     jobs_dir.mkdir(exist_ok=True)
-    rng = random.Random(slug)
+    (base / "neg").mkdir(exist_ok=True)
+    covered = {f["id"] for job in jobs_in(jobs_dir) for f in job["facts"]}
+    print("Zahozeno:", dict(dropped))
+    rng = random.Random(slug + str(len(covered)))
     by_order = defaultdict(list)
     for sid in usable:
         by_order[species[sid]["order"]].append(sid)
@@ -446,9 +552,10 @@ def negatives(slug, batch=20, candidates=12):
         rng.shuffle(pool)
         return sorted(pool, key=lambda s: used[s])[:k]
 
-    n = 0
+    n = next_job_number(jobs_dir)
+    first = n
     for order, members in sorted(by_order.items()):
-        all_facts = [f for s in members for f in usable[s]["facts"]]
+        all_facts = [f for s in members for f in usable[s]["facts"] if f["id"] not in covered]
         rng.shuffle(all_facts)
         for i in range(0, len(all_facts), batch):
             chunk = all_facts[i:i + batch]
@@ -465,57 +572,56 @@ def negatives(slug, batch=20, candidates=12):
                    "candidates": profiles}
             (jobs_dir / f"{n:04}.json").write_text(json.dumps(job, ensure_ascii=False, indent=1), encoding="utf-8")
             n += 1
-    print(f"Úloh: {n}")
-    print(json.dumps([f"{i:04}" for i in range(n)]))
+    print(f"Nových úloh negativního kroku: {n - first}")
 
 
-def review(slug, fact_batch=40, photo_batch=30):
-    """Úlohy pro druhou, přísnější kontrolu všeho, co prošlo do built.json."""
+def sync_review(slug, fact_batch=40, photo_batch=30):
+    """Úlohy přísné kontroly pro tvrzení a fotky z built.json, které jí ještě neprošly."""
     base = paths(slug)[0]
-    if any((base / "review").glob("*.json")):
-        # built.json obsahuje jen to, co kontrola propustila; po smazání výsledků by se vyřazené vrátilo bez kontroly
-        sys.exit(f"{base / 'review'} už obsahuje výsledky. Pro novou kontrolu ho vyprázdni a spusť build, teprve pak review.")
     species, facts, _ = load_facts(slug)
     built = {s["id"]: s for s in json.loads((base / "built.json").read_text("utf-8"))["species"]}
     jobs_dir = base / "review_jobs"
     jobs_dir.mkdir(exist_ok=True)
     (base / "review").mkdir(exist_ok=True)
-    for old in jobs_dir.glob("*.json"):
-        old.unlink()
+    done = [item for job in jobs_in(jobs_dir) for item in job]
+    done_facts = {item["id"] for item in done if "id" in item}
+    done_photos = {(item["species_id"], item["i"]) for item in done if "species_id" in item}
     quotes = {f["id"]: f["quote"] for v in facts.values() for f in v["facts"]}
     fact_items = [
         {"id": f["id"], "species": s["name"], "latin": s["latin"], "text": f["text"], "quote": quotes[f["id"]],
          "claimed_false_for": {q: f"{built[q]['name']} ({built[q]['latin']})" for q in f["not"]}}
-        for s in built.values() for f in s["facts"]
+        for s in built.values() for f in s["facts"] if f["id"] not in done_facts
     ]
     photo_items = [
         {"species_id": sid, "i": i, "species": built[sid]["name"], "latin": built[sid]["latin"], "file": species[sid]["photos"][i]["file"],
          "desc": species[sid]["photos"][i]["desc"], "image": f"data/{slug}/thumbs/{sid}_{i}.jpg"}
-        for sid in built for i in facts[sid]["photos"]
+        for sid in built for i in facts[sid]["photos"] if (sid, i) not in done_photos
     ]
-    ids = []
-    for prefix, items, size in (("f", fact_items, fact_batch), ("p", photo_items, photo_batch)):
+    for prefix, items, size in (("f_", fact_items, fact_batch), ("p_", photo_items, photo_batch)):
+        start = next_job_number(jobs_dir, prefix)
         for n in range(0, len(items), size):
-            ids.append(f"{prefix}_{n // size:04}")
-            (jobs_dir / f"{ids[-1]}.json").write_text(json.dumps(items[n:n + size], ensure_ascii=False, indent=1), encoding="utf-8")
-    print(f"Tvrzení: {len(fact_items)}, fotek: {len(photo_items)}, úloh: {len(ids)}")
-    print(json.dumps(ids))
+            (jobs_dir / f"{prefix}{start + n // size:04}.json").write_text(json.dumps(items[n:n + size], ensure_ascii=False, indent=1), encoding="utf-8")
+    print(f"K přísné kontrole: {len(fact_items)} tvrzení, {len(photo_items)} fotek")
 
 
-def continents(slug, batch=25):
-    """Úlohy pro přiřazení kontinentů druhům, které prošly do built.json."""
+def sync_continents(slug, batch=25):
+    """Úlohy pro přiřazení kontinentů novým druhům z built.json."""
     base, _, articles, *_ = paths(slug)
     (base / "continent_jobs").mkdir(exist_ok=True)
     (base / "continents").mkdir(exist_ok=True)
+    done = {item["id"] for job in jobs_in(base / "continent_jobs") for item in job}
     items = []
     for s in json.loads((base / "built.json").read_text("utf-8"))["species"]:
+        if s["id"] in done:
+            continue
         text = (articles / f"{s['id']}.txt").read_text("utf-8").split("\n---\n", 1)[1]
         parts = re.split(r"^==+\s*(.+?)\s*==+\s*$", text, flags=re.M)
         geo = "\n".join(parts[i + 1] for i in range(1, len(parts) - 1, 2) if GEO_SECTION.search(parts[i]))
         items.append({"id": s["id"], "name": s["name"], "latin": s["latin"], "excerpt": (parts[0][:600] + "\n" + geo[:1500]).strip()})
+    start = next_job_number(base / "continent_jobs", "c_")
     for n in range(0, len(items), batch):
-        (base / "continent_jobs" / f"c_{n // batch:04}.json").write_text(json.dumps(items[n:n + batch], ensure_ascii=False, indent=1), encoding="utf-8")
-    print(f"Kontinenty: {len(items)} druhů")
+        (base / "continent_jobs" / f"c_{start + n // batch:04}.json").write_text(json.dumps(items[n:n + batch], ensure_ascii=False, indent=1), encoding="utf-8")
+    print(f"Kontinenty: {len(items)} nových druhů")
 
 
 def build(slug):
@@ -576,14 +682,15 @@ def build(slug):
 def popularity(slug, batch=300):
     """Počet jazykových verzí článku jako měřítko známosti druhu, ukládá se do sitelinks.json."""
     base, species_file, *_ = paths(slug)
-    ids = list(json.loads(species_file.read_text("utf-8")))
-    counts = {}
+    file = base / "sitelinks.json"
+    counts = json.loads(file.read_text("utf-8")) if file.exists() else {}
+    ids = [s for s in json.loads(species_file.read_text("utf-8")) if s not in counts]
     for i in range(0, len(ids), batch):
         values = " ".join(f"wd:{q}" for q in ids[i:i + batch])
         for r in sparql(f"SELECT ?s ?n WHERE {{ VALUES ?s {{ {values} }} ?s wikibase:sitelinks ?n }}"):
             counts[r["s"]["value"].rsplit("/", 1)[1]] = int(r["n"]["value"])
-    (base / "sitelinks.json").write_text(json.dumps(counts), encoding="utf-8")
-    print(f"{slug}: známost u {len(counts)} z {len(ids)} druhů", flush=True)
+    file.write_text(json.dumps(counts), encoding="utf-8")
+    print(f"{slug}: známost doplněna u {len(ids)} druhů", flush=True)
 
 
 def plain_text(text):
@@ -624,4 +731,4 @@ def write_game_data():
 
 if __name__ == "__main__":
     sys.stdout.reconfigure(encoding="utf-8")
-    {"fetch": fetch, "next": next_batch, "todo": todo, "build": build, "popularity": popularity}[sys.argv[1]](sys.argv[2])
+    {"fetch": fetch, "photos": more_photos, "next": next_batch, "todo": todo, "build": build, "popularity": popularity}[sys.argv[1]](sys.argv[2])
