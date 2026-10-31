@@ -5,6 +5,8 @@
   // Tvrzení jen o období kvetení, růstu nebo o velikosti: pravdivá, ale špatně se pamatují a dítě je může jen hádat.
   const DULL = /^(tento druh )?((kvete|roste|vyrůstá|se objevuje|objevuje se|plodnice rost[eo]u?)\b.* (ledn|lede|únor|březn|břez|dubn|dube|květn|květe|červn|červe|srpn|srpe|září|říjn|říje|listop|prosin|jaře|létě|podzim)|(dorůstá|dosahuje|měří|má klobouk|klobouk měří|může dorůst)\b)/i;
   const DULL_WEIGHT = 0.15;
+  // Vazby na jiné druhy jsou to nejzajímavější. Vzhled jde často uhádnout z fotky, ale dítěti taková snadná otázka občas udělá radost.
+  const TOPIC_WEIGHTS = { vztahy: 4, potrava: 2, vzhled: 0.4 };
 
   const pick = (arr) => arr[Math.floor(Math.random() * arr.length)];
   const shuffle = (arr) => {
@@ -24,7 +26,7 @@
     return items[items.length - 1];
   }
   const isDull = (fact) => DULL.test(fact.text);
-  const pickFact = (facts) => pickWeighted(facts, (f) => (isDull(f) ? DULL_WEIGHT : 1));
+  const pickFact = (facts) => pickWeighted(facts, (f) => (isDull(f) ? DULL_WEIGHT : 1) * (TOPIC_WEIGHTS[f.cat] ?? 1));
 
   const wordsOf = (text) => new Set(text.toLowerCase().replace(/^tento druh /, "").replace(/[.,:;]/g, "")
     .split(/\s+/).filter((w) => w.length > 2 && !/\d/.test(w)));
