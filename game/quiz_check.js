@@ -64,6 +64,7 @@ assert(window.Quiz.isDull({ text: "Kvete od června do srpna." }) && !window.Qui
     assert(q.options.every((o) => o.species.peers === q.target.peers), "fotky savců jsou z jeho užší skupiny");
   }
 }
+assert(classes.find((c) => c.slug === "ryby").species.some((s) => s.name === "Treska obecná"), "treska patří mezi ryby");
 for (const cls of classes) {
   assert(cls.species.every((s) => s.latin), "každý druh má latinský název");
   assert(cls.species.every((s) => s.continents.length), "každý druh má kontinent");

@@ -89,6 +89,8 @@ GAME_GROUPS = {
     "stopkovytrusne": ("Q27720 Q132006 Q132763 Q136810", "Stopkovýtrusé houby", "houby"),
     "vreckovytrusne": ("Q843232 Q133607 Q133551 Q132180 Q132159 Q133144 Q5066753 Q10504037 Q133571", "Vřeckovýtrusé houby", "houby"),
 }
+# Řády kostnatých ryb, které na Wikidatech nejsou napojené na kořeny skupiny Ryby (tresky, parmice).
+ORDERS_OF_FISH = {"hrdloploutví", "Mulliformes"}
 OTHER_GROUPS = {"zivocichove": ("ostatni_zivocichove", "Ostatní živočichové"), "rostliny": ("ostatni_rostliny", "Ostatní rostliny"), "houby": ("ostatni_houby", "Ostatní houby")}
 # Savci jsou tak různorodí, že špatná odpověď z celé třídy (delfín u kočky) nic neprověří, proto se porovnávají v užší skupině.
 # Klíče jsou české názvy čeledí, nebo řádů, pokud se řád nedělí. Co tu není, tvoří skupinu podle svého řádu.
@@ -892,6 +894,8 @@ def write_game_data():
             if s["continents"] and s["photos"]:
                 own = set(roots.get(s["id"], []))
                 group = next((g for key, g in groups.items() if own & set(GAME_GROUPS[key][0].split())), others[kingdom])
+                if s["order"] in ORDERS_OF_FISH:
+                    group = groups["ryby"]
                 group["species"].append(s)
     for group in groups.values():
         if len(group["species"]) < MIN_CLASS_SPECIES:
