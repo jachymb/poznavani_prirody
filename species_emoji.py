@@ -201,6 +201,10 @@ RULES = {
 }
 
 
+for _dicots in ("rosidy", "asteridy", "ostatni_dvoudelozne"):  # dvouděložné jsou ve hře ve třech skupinách
+    RULES[_dicots] = RULES["dvoudelozne"]
+
+
 def species_emoji(group, species):
     for test, emoji in RULES.get(group, []):
         if test(species):

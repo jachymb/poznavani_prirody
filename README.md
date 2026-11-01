@@ -44,6 +44,8 @@ Každá skupina druhů v `CLASSES` v `pipeline.py` prochází těmito kroky:
 
 Savci navíc procházejí negativním krokem vůči podobným druhům z užší skupiny (`MAMMAL_PEERS` v `pipeline.py`), hra z nich bere špatné odpovědi. Ruční opravy jsou v `manual.json` v adresářích jednotlivých kroků v `data/`.
 
+Skupiny ve hře určuje `GAME_GROUPS` podle stromu druhu na Wikidatech. Dvouděložné se dál dělí podle řádu (APG IV) na superrosidy („Příbuzné růžím“), superasteridy („Příbuzné slunečnicím“) a ostatní dvouděložné. Zastaralé nebo chybějící řády z Wikidat nahrazuje `MODERN_ORDERS` a `FAMILY_ORDERS`.
+
 Každý krok zpracuje jen to, co ještě neprošlo. `python pipeline.py next <počet>` vypíše další dávku úloh a řeší přechody mezi kroky. Když už není co dělat, složí `game/data.js`. `python pipeline.py todo <skupina>` ukáže, co ve skupině chybí.
 
 Kroky 2 až 7 kromě hledání fotek provádějí subagenti Claude Code přes workflow `.claude/workflows/poznavani-prirody.js` (argumenty jsou výstup `pipeline.py next`). Mezivýsledky všech kroků jsou v `data/`. Chybí jen náhledy fotek pro kontrolu subagenty (`data/*/thumbs/`, 6,5 GB), které se do GitHubu nevejdou; adresy originálů jsou v `species.json`.

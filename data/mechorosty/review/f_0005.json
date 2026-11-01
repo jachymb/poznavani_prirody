@@ -1,0 +1,26 @@
+{"drop_facts": [
+ {"id": "Q1460161#x0", "why": "sporné: druh spíše kyselých, živinami chudých půd; formulace nejasná pro děti"},
+ {"id": "Q146224#x1", "why": "sporné (výskyt v Severní Americe, vazba na původní boreální lesy); 'severské' zavádějící"},
+ {"id": "Q1752834#x2", "why": "neměřitelné srovnání se všemi mechy, sporné (např. prutník stříbřitý je také velmi odolný)"},
+ {"id": "Q1752834#x3", "why": "vynechává 'často' - z častého převládání dělá pravidlo"},
+ {"id": "Q1763341#x0", "why": "údaj o jedné konkrétní lokalitě zobecněný na druh, bez článku nedává smysl"},
+ {"id": "Q1763341#x1", "why": "lokální údaj o jedné italské lokalitě, pro děti nesrozumitelný (zbytkové populace)"},
+ {"id": "Q179213#x1", "why": "zavádí: mech sám nezáří, jen odráží dopadající světlo"},
+ {"id": "Q292408#x2", "why": "horní mez 'až 2-3 cm' podána jako typická výška"},
+ {"id": "Q292408#x3", "why": "sporný výskyt v Antarktidě, bez spolehlivé opory"},
+ {"id": "Q867250#x0", "why": "posun: v citaci jen mezi rašeliníky, ne mezi všemi mechy"},
+ {"id": "Q867250#x1", "why": "obtížně ověřitelný, sporný údaj o podílu napadených populací"}
+],
+"drop_pairs": [
+ {"id": "Q137867#0", "species": "Q385125"},
+ {"id": "Q137867#1", "species": "Q385125"},
+ {"id": "Q1404902#0", "species": "Q385125"},
+ {"id": "Q146224#x0", "species": "Q1937687"},
+ {"id": "Q149109#1", "species": "Q385125"},
+ {"id": "Q1572669#3", "species": "Q146224"},
+ {"id": "Q1777800#1", "species": "Q3490169"},
+ {"id": "Q1937687#1", "species": "Q150994"},
+ {"id": "Q245867#1", "species": "Q385125"},
+ {"id": "Q442127#x1", "species": "Q1572669"},
+ {"id": "Q867250#x3", "species": "Q179213"}
+]}

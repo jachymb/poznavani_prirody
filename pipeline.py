@@ -84,6 +84,43 @@ GAME_GROUPS = {
     "stopkovytrusne": ("Q27720 Q132006 Q132763 Q136810", "Stopkovýtrusé houby", "houby"),
     "vreckovytrusne": ("Q843232 Q133607 Q133551 Q132180 Q132159 Q133144 Q5066753 Q10504037 Q133571", "Vřeckovýtrusé houby", "houby"),
 }
+# Dvouděložné jsou ve hře rozdělené podle řádu (APG IV) na superrosidy, superasteridy a zbytek (bazální krytosemenné,
+# magnoliidy, bazální dvouděložné). Řády jsou české i latinské, jak je vrací Wikidata.
+DICOT_GROUPS = {"rosidy": "Příbuzné růžím", "asteridy": "Příbuzné slunečnicím", "ostatni_dvoudelozne": "Ostatní dvouděložné"}
+SUPERROSIDS = {
+    "lomikamenotvaré", "révotvaré", "kacibotvaré", "bobotvaré", "růžotvaré", "bukotvaré", "tykvotvaré", "jesencotvaré", "šťavelotvaré",
+    "malpighiotvaré", "kakostotvaré", "myrtotvaré", "mýdelníkotvaré", "slézotvaré", "brukvotvaré",
+    "Saxifragales", "Vitales", "Zygophyllales", "Fabales", "Rosales", "Fagales", "Cucurbitales", "Celastrales", "Oxalidales", "Malpighiales",
+    "Geraniales", "Myrtales", "Crossosomatales", "Picramniales", "Huerteales", "Sapindales", "Malvales", "Brassicales",
+}
+SUPERASTERIDS = {
+    "santálotvaré", "hvozdíkotvaré", "dřínotvaré", "vřesovcotvaré", "garyotvaré", "hořcotvaré", "brutnákotvaré", "lilkotvaré", "hluchavkotvaré",
+    "cesmínotvaré", "hvězdnicotvaré", "štětkotvaré", "miříkotvaré",
+    "Berberidopsidales", "Santalales", "Caryophyllales", "Cornales", "Ericales", "Icacinales", "Metteniusales", "Garryales", "Gentianales",
+    "Boraginales", "Vahliales", "Solanales", "Lamiales", "Aquifoliales", "Asterales", "Escalloniales", "Bruniales", "Paracryphiales",
+    "Dipsacales", "Apiales",
+}
+# Zastaralé řády z Wikidat na řády podle APG IV a PPG I; podle čeledi tam, kde starý řád zahrnoval víc dnešních.
+MODERN_ORDERS = {
+    "Ebenales": "vřesovcotvaré", "Cardiopteridales": "cesmínotvaré", "Boraginales": "brutnákotvaré", "Vitales": "révotvaré",
+    "Amaryllidales": "chřestotvaré", "Aspleniales": "osladičotvaré", "Parkeriales": "osladičotvaré", "Leucodontales": "rokytotvaré",
+}
+FAMILY_ORDERS = {
+    "stružkovcovité": "brutnákotvaré", "dileniovité": "dileniotvaré",
+    # Wikidata u těchto čeledí řád neuvádí
+    "plovatkovití": "Hygrophila", "okružákovití": "Hygrophila", "Acroloxidae": "Hygrophila", "Rhizocarpaceae": "Rhizocarpales",
+    "pijavkovití": "Arhynchobdellida",
+}
+
+
+def modern_order(order, family):
+    return FAMILY_ORDERS.get(family) or MODERN_ORDERS.get(order, order)
+
+
+def dicot_group(order):
+    return "rosidy" if order in SUPERROSIDS else "asteridy" if order in SUPERASTERIDS else "ostatni_dvoudelozne"
+
+
 # Latinský název, který se při stahování z Wikidat nepodařilo získat; podle české Wikipedie.
 LATIN_NAMES = {"Q1394001": "Correlophus ciliatus"}
 # Řády kostnatých ryb, které na Wikidatech nejsou napojené na kořeny skupiny Ryby (tresky, parmice).
@@ -1123,7 +1160,9 @@ def add_easter_egg(species):
 def write_game_data():
     """Do hry patří jen druhy s kontinenty, tedy po všech krocích, a třídy s dostatkem druhů."""
     roots = json.loads(ROOTS_FILE.read_text("utf-8"))["roots"]
-    groups = {slug: {"slug": slug, "name": name, "kingdom": kingdom, "species": []} for slug, (_, name, kingdom) in GAME_GROUPS.items()}
+    groups = {slug: {"slug": slug, "name": name, "kingdom": kingdom, "species": []} for slug, (_, name, kingdom) in GAME_GROUPS.items()
+              if slug != "dvoudelozne"}
+    groups.update({slug: {"slug": slug, "name": name, "kingdom": "rostliny", "species": []} for slug, name in DICOT_GROUPS.items()})
     others = {kingdom: {"slug": slug, "name": name, "kingdom": kingdom, "species": []} for kingdom, (slug, name) in OTHER_GROUPS.items()}
     for slug, (_, _, kingdom) in CLASSES.items():
         file = paths(slug)[0] / "built.json"
@@ -1134,11 +1173,14 @@ def write_game_data():
             s["photos"] = [{k: v for k, v in p.items() if k not in ("reviewed", "i")} for p in s["photos"] if p.get("reviewed")]
             if s["continents"] and s["photos"]:
                 s["latin"] = s["latin"] or LATIN_NAMES.get(s["id"], "")
+                s["order"] = modern_order(s["order"], s["family"])
                 own = set(roots.get(s["id"], []))
-                group = next((g for key, g in groups.items() if own & set(GAME_GROUPS[key][0].split())), others[kingdom])
+                key = next((key for key, cfg in GAME_GROUPS.items() if own & set(cfg[0].split())), None)
+                if key == "dvoudelozne":
+                    key = dicot_group(s["order"])
                 if s["order"] in ORDERS_OF_FISH:
-                    group = groups["ryby"]
-                group["species"].append(s)
+                    key = "ryby"
+                (groups[key] if key else others[kingdom])["species"].append(s)
     for group in groups.values():
         if len(group["species"]) < MIN_CLASS_SPECIES:
             others[group["kingdom"]]["species"] += group["species"]

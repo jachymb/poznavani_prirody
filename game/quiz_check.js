@@ -91,7 +91,8 @@ assert(window.Quiz.isDull({ text: "Kvete od června do srpna." }) && !window.Qui
   }
 }
 assert(classes.find((c) => c.slug === "ryby").species.some((s) => s.name === "Treska obecná"), "treska patří mezi ryby");
-for (const [slug, name] of [["jednodelozne", "Kukuřice setá"], ["jednodelozne", "Kokosovník ořechoplodý"], ["dvoudelozne", "Rajče jedlé"], ["dvoudelozne", "Leknín bílý"]]) {
+for (const [slug, name] of [["jednodelozne", "Kukuřice setá"], ["jednodelozne", "Kokosovník ořechoplodý"], ["asteridy", "Rajče jedlé"], ["ostatni_dvoudelozne", "Leknín bílý"], ["rosidy", "Jabloň domácí"],
+  ["asteridy", "Tomel japonský"], ["asteridy", "Svazenka vratičolistá"], ["rosidy", "Réva vinná"], ["ostatni_dvoudelozne", "Kuratela americká"]]) {
   assert(classes.find((c) => c.slug === slug).species.some((s) => s.name === name), `${name} patří do ${slug}`);
 }
 const emojiOf = (name) => classes.flatMap((c) => c.species).find((s) => s.name === name)?.emoji;

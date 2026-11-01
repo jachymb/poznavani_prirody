@@ -1,0 +1,29 @@
+{"drop_facts": [
+ {"id": "Q2233063#x1", "why": "chybný překlad woolly -> vlnité (má být chlupaté/plstnaté); nepřesné"},
+ {"id": "Q2247460#x1", "why": "vratička má jediný list s plodnou a neplodnou částí; 'o něco delší' bez kontextu nedává smysl"},
+ {"id": "Q2247460#x2", "why": "přidává 'na velké vzdálenosti', citace to neuvádí"},
+ {"id": "Q2247460#x5", "why": "reliktové != dávné; rodiče (B. multifidum, B. lunaria) jsou žijící druhy, zavádějící"},
+ {"id": "Q256971#x0", "why": "kolonie tvoří oddenky, ne kořeny; biologicky nepřesné"},
+ {"id": "Q256971#x1", "why": "v ČR roste hlavně na suchých písčinách a u železnic; sporné"},
+ {"id": "Q902211#x1", "why": "zahradnický údaj; druh roste v horách a na severu a snáší mnohem silnější mráz; zavádějící"},
+ {"id": "Q905897#x0", "why": "podle českých zdrojů dorůstá až 1,2 m a listy až 150 cm; podhodnocená horní mez"},
+ {"id": "Q905897#x1", "why": "pleviny kryjí hlavně spodní část řapíku, ne žebra listů; nepřesné"}
+],
+"drop_pairs": [
+ {"id": "Q1546744#1", "species": "Q2036293"},
+ {"id": "Q1637866#1", "species": "Q2220785"},
+ {"id": "Q1684201#0", "species": "Q2678657"},
+ {"id": "Q1684201#0", "species": "Q674547"},
+ {"id": "Q1684201#0", "species": "Q718312"},
+ {"id": "Q2273882#0", "species": "Q2678657"},
+ {"id": "Q2273882#0", "species": "Q674547"},
+ {"id": "Q2273882#0", "species": "Q718312"},
+ {"id": "Q213548#3", "species": "Q661822"},
+ {"id": "Q2233063#x3", "species": "Q958103"},
+ {"id": "Q256971#x3", "species": "Q937406"},
+ {"id": "Q902211#x0", "species": "Q1684201"},
+ {"id": "Q902211#x0", "species": "Q936546"},
+ {"id": "Q902211#x2", "species": "Q2273882"},
+ {"id": "Q902211#x2", "species": "Q2654918"},
+ {"id": "Q923786#0", "species": "Q2036293"}
+]}
