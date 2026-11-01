@@ -1,1 +1,47 @@
-{"facts": [{"text": "Tento druh po stisknutí stonku zmodrá.", "quote": "Po otlačení modrající.", "category": "vzhled"}, {"text": "Tento druh roste od srpna do prosince, většinou ve skupinách.", "quote": "Roste v srpnu až prosinci (vzácně i později), většinou ve skupinách", "category": "růst"}, {"text": "Obsahuje psilocybin a psilocin, které působí na mysl.", "quote": "Psychoaktivní houba, obsahuje psilocybin a psilocin.", "category": "účinky"}], "photos": [{"i": 0, "ok": true, "why": "Živé plodnice v mechu, na kloboucích je vidět modrání; název odpovídá synonymu v článku."}, {"i": 1, "ok": false, "why": "Plodnice je z části zakrytá a částečně z dolní strany, znaky jako modrání nejsou dobře vidět."}, {"i": 2, "ok": true, "why": "Živé plodnice ve volné přírodě, na kloboucích jsou vidět modré skvrny, popis odpovídá druhu."}, {"i": 3, "ok": true, "why": "Živé plodnice v trávě ve shluku, dlouhé světlé třeně odpovídají popisu druhu."}]}
+{
+ "facts": [
+  {
+   "text": "Tento druh po stisknutí stonku zmodrá.",
+   "quote": "Po otlačení modrající.",
+   "category": "vzhled"
+  },
+  {
+   "text": "Tento druh roste od srpna do prosince, většinou ve skupinách.",
+   "quote": "Roste v srpnu až prosinci (vzácně i později), většinou ve skupinách",
+   "category": "růst"
+  },
+  {
+   "text": "Obsahuje psilocybin a psilocin, které působí na mysl.",
+   "quote": "Psychoaktivní houba, obsahuje psilocybin a psilocin.",
+   "category": "účinky"
+  },
+  {
+   "text": "Klobouk mění barvu s vlhkostí: za vlhka je karamelově hnědý, vysycháním bledne do špinavě bílé.",
+   "quote": "nejčastěji však karamelově hnědé, vysycháním přechází do špinavě bílé",
+   "category": "vzhled",
+   "manual": true
+  }
+ ],
+ "photos": [
+  {
+   "i": 0,
+   "ok": true,
+   "why": "Živé plodnice v mechu, na kloboucích je vidět modrání; název odpovídá synonymu v článku."
+  },
+  {
+   "i": 1,
+   "ok": false,
+   "why": "Plodnice je z části zakrytá a částečně z dolní strany, znaky jako modrání nejsou dobře vidět."
+  },
+  {
+   "i": 2,
+   "ok": true,
+   "why": "Živé plodnice ve volné přírodě, na kloboucích jsou vidět modré skvrny, popis odpovídá druhu."
+  },
+  {
+   "i": 3,
+   "ok": true,
+   "why": "Živé plodnice v trávě ve shluku, dlouhé světlé třeně odpovídají popisu druhu."
+  }
+ ]
+}

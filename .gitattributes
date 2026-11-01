@@ -1,3 +1,5 @@
+# Všude LF (soubory tak zapisují nástroje i pipeline), bez varování o převodu na CRLF.
+* text=auto eol=lf
 # Hook spouští sh, s CRLF by nefungoval. Složená hra je generovaná a na jednom řádku, diff nedává smysl.
 .githooks/* text eol=lf
 dist/* binary
