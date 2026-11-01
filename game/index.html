@@ -188,7 +188,7 @@
     const playable = window.Quiz.makeQuestion(classes, questionOptions());
     const count = classes.reduce((sum, c) => sum + c.species.length, 0);
     const hasData = (window.GAME_DATA || []).some((c) => c.kingdom === k.id);
-    const names = classes.length > 3 ? `${classes.length} ${classes.length < 5 ? "skupiny" : "skupin"}` : classes.map((c) => c.name).join(", ");
+    const names = `${classes.length} ${classes.length === 1 ? "skupina" : classes.length < 5 ? "skupiny" : "skupin"}`;
     return el("button", { class: "kingdom", disabled: !playable, onclick: () => startGame(k) },
       el("span", { class: "icon" }, k.icon),
       k.label,
