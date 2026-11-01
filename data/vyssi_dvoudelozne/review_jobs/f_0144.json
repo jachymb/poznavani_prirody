@@ -1,0 +1,391 @@
+[
+ {
+  "id": "Q157277#1",
+  "species": "Dub cer",
+  "latin": "Quercus cerris",
+  "text": "Přirozeně roste jen ve směsi s jinými stromy.",
+  "quote": "Přirozeně však rostl pouze v příměsi s jinými stromy.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q157283#0",
+  "species": "Saturejka zahradní",
+  "latin": "Satureja hortensis",
+  "text": "Kvete od července až do prvních mrazíků.",
+  "quote": "Kvete od července až do prvních mrazíků.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q157283#1",
+  "species": "Saturejka zahradní",
+  "latin": "Satureja hortensis",
+  "text": "Dosahuje výšky asi 30 cm.",
+  "quote": "Dosahuje výšky asi 30 cm.",
+  "claimed_false_for": {
+   "Q1610350": "Mateřídouška ozdobná (Thymus pulcherrimus)",
+   "Q4135152": "Plotovník Davidův (Hemiptelea davidii)"
+  }
+ },
+ {
+  "id": "Q157285#4",
+  "species": "Barborka obecná",
+  "latin": "Barbarea vulgaris",
+  "text": "Opylující hmyz roznáší jeho pyl na blizny jiných květů.",
+  "quote": "opylující hmyz, který saje nektar ze žlázek v květním lůžku a roznáší pyl na blizny jiných květů",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q157285#5",
+  "species": "Barborka obecná",
+  "latin": "Barbarea vulgaris",
+  "text": "Včely z jeho pylu získávají hodně výživy.",
+  "quote": "Pyl barborky má pro včely vysokou výživnou hodnotu.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q157299#0",
+  "species": "Tlustice vejčitá",
+  "latin": "Crassula ovata",
+  "text": "Listy jsou zásobárnou vody pro období sucha.",
+  "quote": "které jsou zásobárnou vody pro období sucha",
+  "claimed_false_for": {
+   "Q1079241": "Josta (Ribes ×nidigrolaria)",
+   "Q146661": "Rybíz červený (Ribes rubrum)",
+   "Q149372": "Meruzalka krvavá (Ribes sanguineum)",
+   "Q159036": "Kozlík dvoudomý (Valeriana dioica)",
+   "Q159331": "Brslen Fortuneův (Euonymus fortunei)",
+   "Q161553": "Talovín zimní (Eranthis hyemalis)",
+   "Q17777412": "Meruzalka sněžná (Ribes niveum)",
+   "Q2078310": "Meruzalka smutná (Ribes triste)"
+  }
+ },
+ {
+  "id": "Q157307#5",
+  "species": "Morušovník bílý",
+  "latin": "Morus alba",
+  "text": "Jeho listy jedí housenky bourců.",
+  "quote": "krmnou rostlinou housenek nočního motýla bource morušového",
+  "claimed_false_for": {
+   "Q12024677": "Jeřáb milský (Sorbus milensis)",
+   "Q1543749": "Buk východní (Fagus orientalis)",
+   "Q161169": "Mochnovec křovitý (Dasiphora fruticosa)",
+   "Q161621": "Dryádka osmiplátečná (Dryas octopetala)",
+   "Q162787": "Růže májová (Rosa majalis)",
+   "Q163056": "Ostružiník sladkoplodý (Rubus armeniacus)",
+   "Q163788": "Blahovičník Gunnův (Eucalyptus gunnii)",
+   "Q165137": "Třešeň ptačí (Prunus avium)",
+   "Q311228": "Jitrocel vejčitý (Plantago ovata)",
+   "Q43300": "Kdouloň obecná (Cydonia oblonga)",
+   "Q76941": "Mochna písečná (Potentilla arenaria)"
+  }
+ },
+ {
+  "id": "Q157334#4",
+  "species": "Jetel ladní",
+  "latin": "Trifolium campestre",
+  "text": "Syslové, hraboši, králíci i zajíci jedí jeho bylinné části.",
+  "quote": "Bylinné části zase slouží za potravu syslům, hrabošům, králíkům i zajícům.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q157334#5",
+  "species": "Jetel ladní",
+  "latin": "Trifolium campestre",
+  "text": "Opylují ho i motýli.",
+  "quote": "opylovány jsou hmyzem (včely, čmeláci, motýli)",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q157343#0",
+  "species": "Rozrazil rezekvítek",
+  "latin": "Veronica chamaedrys",
+  "text": "Kvete od dubna do srpna.",
+  "quote": "Rostlina kvete od dubna do srpna.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q157343#1",
+  "species": "Rozrazil rezekvítek",
+  "latin": "Veronica chamaedrys",
+  "text": "Často roste na trávnících, pastvinách, mezích, loukách a v zahradách.",
+  "quote": "Často roste na trávnících, pastvinách, mezích, loukách a v zahradách",
+  "claimed_false_for": {
+   "Q15545507": "Mandloň obecná (Prunus amygdalus)",
+   "Q652206": "Beninkasa voskonosná (Benincasa hispida)"
+  }
+ },
+ {
+  "id": "Q157347#4",
+  "species": "Krvavec toten",
+  "latin": "Sanguisorba officinalis",
+  "text": "Hraboš severní si na podzim dělá zásoby z jeho oddenků.",
+  "quote": "Oddenky jsou důležitou potravou hraboše severního, který si z nich na podzim vytváří zásoby",
+  "claimed_false_for": {
+   "Q12024677": "Jeřáb milský (Sorbus milensis)",
+   "Q1543749": "Buk východní (Fagus orientalis)",
+   "Q163788": "Blahovičník Gunnův (Eucalyptus gunnii)",
+   "Q165137": "Třešeň ptačí (Prunus avium)",
+   "Q43300": "Kdouloň obecná (Cydonia oblonga)"
+  }
+ },
+ {
+  "id": "Q157384#5",
+  "species": "Bublinatka obecná",
+  "latin": "Utricularia vulgaris",
+  "text": "Vodní ptáci občas roznášejí jeho pupeny do dalších vod.",
+  "quote": "přichytí se občas na peří vodních ptáků a je takto roznášen do vzdálenějších míst",
+  "claimed_false_for": {
+   "Q136648": "Paznehtník měkký (Acanthus mollis)",
+   "Q159131": "Šalvěj etiopská (Salvia aethiopis)",
+   "Q159492": "Mochna zlatá (Potentilla aurea)",
+   "Q159826": "Řepovník svraskalý (Rapistrum rugosum)",
+   "Q161080": "Šalvěj zářivá (Salvia splendens)",
+   "Q163952": "Klinopád obecný (Clinopodium vulgare)",
+   "Q1721165": "Šanta lesostepní (Nepeta nuda)",
+   "Q259318": "Drmek obecný (Vitex agnus-castus)",
+   "Q26297": "Šťovík kyselý (Rumex acetosa)",
+   "Q26726": "Konopí seté (Cannabis sativa)",
+   "Q5470682": "Zlatice prostřední (Forsythia ×intermedia)"
+  }
+ },
+ {
+  "id": "Q157407#2",
+  "species": "Kuklík městský",
+  "latin": "Geum urbanum",
+  "text": "Semena se šíří přichycením na srst zvěře.",
+  "quote": "nažky se zachytnou za srst zvěře nebo šat lidí",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q157408#6",
+  "species": "Jitrocel kopinatý",
+  "latin": "Plantago lanceolata",
+  "text": "Ovce a další zvířata ho požírají.",
+  "quote": "Samotný jitrocel kopinatý je požírán ovcemi a dalšími hospodářskými a lesními zvířaty",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q157408#7",
+  "species": "Jitrocel kopinatý",
+  "latin": "Plantago lanceolata",
+  "text": "Včely z něj sbírají pyl.",
+  "quote": "poskytuje včelám velké množství kvalitního pylu, který dělnice odnášejí do úlu",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q157422#0",
+  "species": "Čistec lesní",
+  "latin": "Stachys sylvatica",
+  "text": "Spásá ho i nosatec Datonychus urticae.",
+  "quote": "Spásačem je nosatec Datonychus urticae (Boheman, 1845)",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q157422#1",
+  "species": "Čistec lesní",
+  "latin": "Stachys sylvatica",
+  "text": "Kvete od června do září.",
+  "quote": "Je vytrvalá, kvete od června do září.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q157452#0",
+  "species": "Ptačinec velkokvětý",
+  "latin": "Stellaria holostea",
+  "text": "Kvete od dubna do června.",
+  "quote": "kvete vidličnatým květenstvím na dlouhých květních stopkách od dubna do června",
+  "claimed_false_for": {
+   "Q829752": "Bytel metlatý (Bassia scoparia)",
+   "Q955003": "Kuřinka obroubená (Spergularia media)"
+  }
+ },
+ {
+  "id": "Q157452#1",
+  "species": "Ptačinec velkokvětý",
+  "latin": "Stellaria holostea",
+  "text": "Hojně roste v sušších listnatých a smíšených lesích.",
+  "quote": "Hojně roste v sušších listnatých a smíšených lesích",
+  "claimed_false_for": {
+   "Q10890841": "Hadí mord maloúborný (Scorzonera parviflora)",
+   "Q122778": "Hvozdík sivý (Dianthus gratianopolitanus)",
+   "Q955003": "Kuřinka obroubená (Spergularia media)"
+  }
+ },
+ {
+  "id": "Q157490#1",
+  "species": "Hrachor jarní",
+  "latin": "Lathyrus vernus",
+  "text": "Barva květů se mění podle toho, jak jsou staré.",
+  "quote": "Barva květu závisí na obsahu kyselin v květu a velmi nápadně se mění i se stářím květů.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1575025#0",
+  "species": "Iberka gibraltarská",
+  "latin": "Iberis gibraltarica",
+  "text": "Květy jsou bílé až slabě fialové.",
+  "quote": "Květy jsou bílé až slabě fialové a květenství mají v průměru až osm centimetrů.",
+  "claimed_false_for": {
+   "Q144940": "Jmelí bílé (Viscum album)"
+  }
+ },
+ {
+  "id": "Q157518#4",
+  "species": "Vrba křehká",
+  "latin": "Salix fragilis",
+  "text": "Zvěř a dobytek ho málo poškozují, protože listí je hořké.",
+  "quote": "Zvěř a dobytek druh málo poškozují, protože listí je hořké",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q157519#2",
+  "species": "Vrba ušatá",
+  "latin": "Salix aurita",
+  "text": "Opyluje ho hmyz.",
+  "quote": "je v převážné míře opylována hmyzem",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q157540#4",
+  "species": "Vrba popelavá",
+  "latin": "Salix cinerea",
+  "text": "Vytváří vhodné podmínky pro olši a další lužní druhy.",
+  "quote": "vhodné životní podmínky pro olši lepkavou (Alnus glutinosa) a další lužní druhy",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q157552#8",
+  "species": "Prvosenka jarní",
+  "latin": "Primula veris",
+  "text": "Housenky motýla pestrobarvce petrklíčového žijí na tomto druhu.",
+  "quote": "Prvosenka jarní je živnou rostlinou housenek ohroženého motýla pestrobarvce petrklíčového",
+  "claimed_false_for": {
+   "Q101815": "Čajovník čínský (Camellia sinensis)",
+   "Q1348567": "Máslovník africký (Vitellaria paradoxa)",
+   "Q1428973": "Sapan nádherný (Caesalpinia pulcherrima)",
+   "Q147064": "Topol černý (Populus nigra)",
+   "Q267749": "Jojoba kalifornská (Simmondsia chinensis)",
+   "Q290590": "Orixa japonská (Orixa japonica)"
+  }
+ },
+ {
+  "id": "Q157552#9",
+  "species": "Prvosenka jarní",
+  "latin": "Primula veris",
+  "text": "Jeho semena žere larva jednoho druhu mola.",
+  "quote": "Semena např. konzumuje larva mola Amblyptilia punctidactyla.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q157552#10",
+  "species": "Prvosenka jarní",
+  "latin": "Primula veris",
+  "text": "Na tomto druhu parazitují mnohé mšice.",
+  "quote": "Na prvosence jarní parazitují i mnohé mšice",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q157561#0",
+  "species": "Kostival lékařský",
+  "latin": "Symphytum officinale",
+  "text": "Jedna rostlina obsahuje až 800 semen.",
+  "quote": "Jedna rostlina obsahuje až 800 semen.",
+  "claimed_false_for": {
+   "Q341668": "Kamejka rolní (Buglossoides arvensis)"
+  }
+ },
+ {
+  "id": "Q157561#1",
+  "species": "Kostival lékařský",
+  "latin": "Symphytum officinale",
+  "text": "Kvete od května do července.",
+  "quote": "Kvete od května do července.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q157577#4",
+  "species": "Pilát lékařský",
+  "latin": "Anchusa officinalis",
+  "text": "Larvy některých brouků se živí jeho listy.",
+  "quote": "Listy jsou živnou rostlinou larev některých tesaříkovitých brouků",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q157577#5",
+  "species": "Pilát lékařský",
+  "latin": "Anchusa officinalis",
+  "text": "Má šupinky, které brání mouchám v přístupu k nektaru.",
+  "quote": "které mají za úkol zabránit dešťové vodě a vetřelcům, hlavně mouchám, přístup k nektaru",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q157583#4",
+  "species": "Jetel horský",
+  "latin": "Trifolium montanum",
+  "text": "Dobytek ho dobře přijímá, když je mladý.",
+  "quote": "V mladém stavu je tento druh dobytkem dobře přijímán",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q157585#0",
+  "species": "Kakost luční",
+  "latin": "Geranium pratense",
+  "text": "Kvete od června do září.",
+  "quote": "Kvete od června do září.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q157585#1",
+  "species": "Kakost luční",
+  "latin": "Geranium pratense",
+  "text": "Za 24 hodin vytvoří 1,3 až 1,5 mg nektaru.",
+  "quote": "Produkce nektaru je 1,3 – 1,5 mg/24 hodin",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q157619#4",
+  "species": "Hluchavka nachová",
+  "latin": "Lamium purpureum",
+  "text": "Včely sbírají jeho pyl.",
+  "quote": "Hluchavka nachová poskytuje včelám také pyl",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q157624#0",
+  "species": "Bříza pýřitá",
+  "latin": "Betula pubescens",
+  "text": "Tento druh se vyskytuje také v České republice a na Slovensku.",
+  "quote": "Vyskytuje se také v České republice a na Slovensku.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q157624#1",
+  "species": "Bříza pýřitá",
+  "latin": "Betula pubescens",
+  "text": "Tento druh je opadavý strom vysoký 10 až 20 metrů.",
+  "quote": "Bříza pýřitá je opadavý strom, 10 až 20 metrů vysoký.",
+  "claimed_false_for": {
+   "Q157569": "Rdesno obojživelné (Persicaria amphibia)",
+   "Q218155": "Dub cesmínovitý (Quercus ilex)",
+   "Q3565069": "Dub hálkový (Quercus infectoria)",
+   "Q510340": "Bokarnea tlustokmenná (Beaucarnea recurvata)",
+   "Q847898": "Kociánek dvoudomý (Antennaria dioica)"
+  }
+ },
+ {
+  "id": "Q157626#4",
+  "species": "Hluchavka bílá",
+  "latin": "Lamium album",
+  "text": "Poskytuje včelám pyl.",
+  "quote": "poskytují včelám také pyl",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q157631#2",
+  "species": "Jablečník obecný",
+  "latin": "Marrubium vulgare",
+  "text": "Včelám dává hodně nektaru, i za suchého počasí.",
+  "quote": "je vynikající nektarodárnou rostlinou, která tvoří nektar i za suchého počasí",
+  "claimed_false_for": {}
+ }
+]

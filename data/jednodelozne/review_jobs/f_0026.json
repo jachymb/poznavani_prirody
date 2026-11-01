@@ -1,0 +1,498 @@
+[
+ {
+  "id": "Q157428#0",
+  "species": "Hyacint východní",
+  "latin": "Hyacinthus orientalis",
+  "text": "Kvete brzy na jaře, už v březnu až dubnu.",
+  "quote": "Kvete brzy na jaře, už v březnu až dubnu.",
+  "claimed_false_for": {
+   "Q158918": "Mařice pilovitá (Cladium mariscus)",
+   "Q159284": "Hlavinka horská (Traunsteinera globosa)",
+   "Q161124": "Kruštík bahenní (Epipactis palustris)",
+   "Q161153": "Vstavač kukačka (Anacamptis morio)",
+   "Q161879": "Zblochan vodní (Glyceria maxima)",
+   "Q51148": "Pažitka pobřežní (Allium schoenoprasum)",
+   "Q977605": "Střevíčník královnin (Cypripedium reginae)"
+  }
+ },
+ {
+  "id": "Q157428#1",
+  "species": "Hyacint východní",
+  "latin": "Hyacinthus orientalis",
+  "text": "Pěstuje se jako okrasná rostlina v zahradách a parcích.",
+  "quote": "V ČR je často pěstován jako okrasná rostlina v zahradách a parcích.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q157430#6",
+  "species": "Kokořík vonný",
+  "latin": "Polygonatum odoratum",
+  "text": "Býložravá zvířata se tomuto druhu vyhýbají.",
+  "quote": "vyhýbají se jí i býložravá zvířata",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q157431#2",
+  "species": "Okrotice červená",
+  "latin": "Cephalanthera rubra",
+  "text": "Je silně závislá na houbách, které žijí s jejími kořeny.",
+  "quote": "Jako jiné orchideje je silně závislá na mykorhize.",
+  "claimed_false_for": {
+   "Q158918": "Mařice pilovitá (Cladium mariscus)",
+   "Q161107": "Česnek planý (Allium oleraceum)",
+   "Q161158": "Modřenec širolistý (Muscari botryoides)",
+   "Q161879": "Zblochan vodní (Glyceria maxima)",
+   "Q51148": "Pažitka pobřežní (Allium schoenoprasum)"
+  }
+ },
+ {
+  "id": "Q157433#0",
+  "species": "Vemeník dvoulistý",
+  "latin": "Platanthera bifolia",
+  "text": "Roste hlavně na loukách, v křovinách a v světlých lesích.",
+  "quote": "Roste v širokém spektru různých stanovišť, především na loukách, v křovinách, v světlých listnatých lesích a v lesních lemech",
+  "claimed_false_for": {
+   "Q158109": "Psárka polní (Alopecurus myosuroides)",
+   "Q158868": "Řečanka přímořská (Najas marina)",
+   "Q161013": "Zblochanec oddálený (Puccinellia distans)"
+  }
+ },
+ {
+  "id": "Q157433#1",
+  "species": "Vemeník dvoulistý",
+  "latin": "Platanthera bifolia",
+  "text": "Kvete od května do července.",
+  "quote": "Kvete od května do července.",
+  "claimed_false_for": {
+   "Q2568766": "Ladoňka vídeňská (Scilla vindobonensis)"
+  }
+ },
+ {
+  "id": "Q157435#0",
+  "species": "Vstavač mužský",
+  "latin": "Orchis mascula",
+  "text": "Kvete od května do června.",
+  "quote": "Kvete od května do června",
+  "claimed_false_for": {
+   "Q2568766": "Ladoňka vídeňská (Scilla vindobonensis)",
+   "Q3338330": "Bahenka šášinovitá (Crypsis schoenoides)"
+  }
+ },
+ {
+  "id": "Q157435#1",
+  "species": "Vstavač mužský",
+  "latin": "Orchis mascula",
+  "text": "Dorůstá výšky až 60 cm.",
+  "quote": "dorůstá výšky až 60 cm",
+  "claimed_false_for": {
+   "Q161153": "Vstavač kukačka (Anacamptis morio)",
+   "Q161158": "Modřenec širolistý (Muscari botryoides)",
+   "Q1974931": "Tořič modropyský (Ophrys speculum)"
+  }
+ },
+ {
+  "id": "Q157542#4",
+  "species": "Vemeníček zelený",
+  "latin": "Dactylorhiza viridis",
+  "text": "Semena klíčí jen spolu s houbou, od které čerpají živiny.",
+  "quote": "Semena proto úspěšně vyklíčí jen po propojení s myceliem mykorhizní houby, od které čerpají potřebné živiny.",
+  "claimed_false_for": {
+   "Q1190377": "Angínovník čínský (Iris domestica)",
+   "Q158944": "Ladoňka sibiřská (Scilla siberica)",
+   "Q159026": "Ostřice dvouřadá (Carex disticha)",
+   "Q160354": "Rdestice hustolistá (Groenlandia densa)",
+   "Q161230": "Česnek viničný (Allium vineale)",
+   "Q175719": "Liliochvostec mohutný (Eremurus robustus)",
+   "Q332062": "Čirok dvoubarevný (Sorghum bicolor)",
+   "Q4268503": "Česnek karatavský (Allium karataviense)"
+  }
+ },
+ {
+  "id": "Q157547#0",
+  "species": "Kýchavice bílá",
+  "latin": "Veratrum album",
+  "text": "Spásá ji tesařík úzkoštítý.",
+  "quote": "Mezi její spásače patří tesařík úzkoštítý (Agapanthia villosoviridescens).",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q157547#1",
+  "species": "Kýchavice bílá",
+  "latin": "Veratrum album",
+  "text": "Kořen je silně jedovatý.",
+  "quote": "Kořen kýchavice bílé je silně jedovatý.",
+  "claimed_false_for": {
+   "Q158234": "Ostřice latnatá (Carex paniculata)",
+   "Q161311": "Sveřep vzpřímený (Bromus erectus)",
+   "Q3847968": "Vousatka prstnatá (Bothriochloa ischaemum)"
+  }
+ },
+ {
+  "id": "Q157571#4",
+  "species": "Lipnice roční",
+  "latin": "Poa annua",
+  "text": "Dobytek ho rád žere.",
+  "quote": "dobytek ho rád požírá",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1577447#5",
+  "species": "Taka protisečná",
+  "latin": "Tacca leontopetaloides",
+  "text": "Semena roznášejí ptáci, kteří plody sežerou, hlavně kruhoočka.",
+  "quote": "Semena roznášejí ptáci kteří plody požírají, hlavně z rodu kruhoočko (Zosterops).",
+  "claimed_false_for": {
+   "Q12055152": "Snědek rozkladitý (Ornithogalum divergens)",
+   "Q1367838": "Prstnatec májový (Dactylorhiza majalis)",
+   "Q158887": "Vodní mor americký (Elodea nuttallii)",
+   "Q159275": "Ladoňka dvoulistá (Scilla bifolia)",
+   "Q163312": "Česnek podivný (Allium paradoxum)",
+   "Q3502763": "Česnek vysokohorský (Allium oreophilum)"
+  }
+ },
+ {
+  "id": "Q157883#0",
+  "species": "Jílek mnohokvětý",
+  "latin": "Lolium multiflorum",
+  "text": "Tento druh je v zemědělských oblastech považován za škodlivý plevel.",
+  "quote": "V zemědělských oblastech je však tato tráva považována za škodlivý plevel.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q157883#1",
+  "species": "Jílek mnohokvětý",
+  "latin": "Lolium multiflorum",
+  "text": "Pěstuje se i jako okrasná tráva.",
+  "quote": "Pěstovaná je i jako okrasná tráva.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q157890#4",
+  "species": "Smrkovník plazivý",
+  "latin": "Goodyera repens",
+  "text": "Semena klíčí s pomocí houby, která je vyživuje.",
+  "quote": "která se propojí myceliem s bezlistým zárodkem orchideje a vyživuje jej",
+  "claimed_false_for": {
+   "Q1129703": "Rákosovka (Hakonechloa macra)",
+   "Q15041677": "Šafrán setý (Crocus sativus)",
+   "Q157430": "Kokořík vonný (Polygonatum odoratum)",
+   "Q159221": "Agáve sisalová (Agave sisalana)",
+   "Q159234": "Česnek hranatý (Allium angulosum)",
+   "Q159662": "Česnek tuhý (Allium strictum)",
+   "Q159722": "Metlice trsnatá (Deschampsia cespitosa)",
+   "Q159784": "Šášina rezavá (Schoenus ferrugineus)",
+   "Q839611": "Puškinie ladoňkovitá (Puschkinia scilloides)"
+  }
+ },
+ {
+  "id": "Q157893#6",
+  "species": "Hlízovec Loeselův",
+  "latin": "Liparis loeselii",
+  "text": "Tento druh se jako semenáček vyvíjí jen v symbióze s mykorhizní houbou.",
+  "quote": "může se vyvinout v semenáček jen při symbióze s podhoubím mykorhizní houby",
+  "claimed_false_for": {
+   "Q10967219": "Snědek Kochův (Ornithogalum kochii)",
+   "Q157885": "Kostřava ovčí (Festuca ovina)",
+   "Q159299": "Kokořík mnohokvětý (Polygonatum multiflorum)",
+   "Q2086586": "Chrastice kanárská (Phalaris canariensis)",
+   "Q219500": "Haworthiopsis limifolia (Haworthia limifolia)",
+   "Q2303755": "Snědek pyrenejský (Ornithogalum pyrenaicum)",
+   "Q2568766": "Ladoňka vídeňská (Scilla vindobonensis)",
+   "Q2667079": "Česnek aflatunský (Allium aflatunense)",
+   "Q3338330": "Bahenka šášinovitá (Crypsis schoenoides)",
+   "Q3735732": "Česnek stopečkatý (Allium stipitatum)"
+  }
+ },
+ {
+  "id": "Q157971#4",
+  "species": "Korálice trojklaná",
+  "latin": "Corallorhiza trifida",
+  "text": "Žije v symbióze se smrky, topoly, vrbami a zeravy.",
+  "quote": "trojstranné symbiózy se stromy rodů smrk (Picea), topol (Populus), vrba (Salix) nebo zerav (Thuja)",
+  "claimed_false_for": {
+   "Q1194889": "Aloe kapská (Aloe ferox)",
+   "Q12027920": "Kamyšník polní (Bolboschoenus planiculmis)",
+   "Q1378081": "Juka krátkolistá (Yucca brevifolia)",
+   "Q33913": "Voňatka citronová (Cymbopogon citratus)"
+  }
+ },
+ {
+  "id": "Q157971#5",
+  "species": "Korálice trojklaná",
+  "latin": "Corallorhiza trifida",
+  "text": "Žije v symbióze s houbami vatička a plesňák.",
+  "quote": "a s houbami rodů vatička (Tomentella) a plesňák (Thelephora)",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q157971#6",
+  "species": "Korálice trojklaná",
+  "latin": "Corallorhiza trifida",
+  "text": "Houby, se kterými tento druh žije, berou látky z kořenů zelených rostlin.",
+  "quote": "stejně paraziticky je odebírají z kořenů zelených rostlin",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q158110#0",
+  "species": "Medyněk vlnatý",
+  "latin": "Holcus lanatus",
+  "text": "Roste na vlhkých loukách chudých na vápno.",
+  "quote": "Má rád vlhké, na vápno chudé louky.",
+  "claimed_false_for": {
+   "Q1746442": "Toulitka Scherzerova (Anthurium scherzerianum)",
+   "Q2700676": "Vodoklas vodní (Orontium aquaticum)"
+  }
+ },
+ {
+  "id": "Q158110#1",
+  "species": "Medyněk vlnatý",
+  "latin": "Holcus lanatus",
+  "text": "Kvete od června do září.",
+  "quote": "Kvete od června do září.",
+  "claimed_false_for": {
+   "Q158237": "Ostřice prstnatá (Carex digitata)"
+  }
+ },
+ {
+  "id": "Q158117#0",
+  "species": "Vstavač osmahlý",
+  "latin": "Neotinea ustulata",
+  "text": "Dorůstá do výšky 20 až 40 centimetrů.",
+  "quote": "Rostliny dosahující výšky 20–40 cm",
+  "claimed_false_for": {
+   "Q1190377": "Angínovník čínský (Iris domestica)",
+   "Q175719": "Liliochvostec mohutný (Eremurus robustus)",
+   "Q332062": "Čirok dvoubarevný (Sorghum bicolor)"
+  }
+ },
+ {
+  "id": "Q158117#1",
+  "species": "Vstavač osmahlý",
+  "latin": "Neotinea ustulata",
+  "text": "Kvete od května do června.",
+  "quote": "Kvete od května do června",
+  "claimed_false_for": {
+   "Q157890": "Smrkovník plazivý (Goodyera repens)",
+   "Q158944": "Ladoňka sibiřská (Scilla siberica)"
+  }
+ },
+ {
+  "id": "Q158118#4",
+  "species": "Rudohlávek jehlancovitý",
+  "latin": "Anacamptis pyramidalis",
+  "text": "Motýli opylují jeho květy.",
+  "quote": "její květy opylují motýli",
+  "claimed_false_for": {
+   "Q1129703": "Rákosovka (Hakonechloa macra)",
+   "Q159722": "Metlice trsnatá (Deschampsia cespitosa)",
+   "Q159784": "Šášina rezavá (Schoenus ferrugineus)"
+  }
+ },
+ {
+  "id": "Q158118#5",
+  "species": "Rudohlávek jehlancovitý",
+  "latin": "Anacamptis pyramidalis",
+  "text": "Mladé rostliny rostou s podporou houby, která je infikuje.",
+  "quote": "vývoj nové rostliny trvá déle než 6 let a probíhá za podpory orchideoidní mykorhizy",
+  "claimed_false_for": {
+   "Q101711": "Konvalinka vonná (Convallaria majalis)",
+   "Q157428": "Hyacint východní (Hyacinthus orientalis)",
+   "Q158109": "Psárka polní (Alopecurus myosuroides)",
+   "Q158868": "Řečanka přímořská (Najas marina)",
+   "Q161013": "Zblochanec oddálený (Puccinellia distans)",
+   "Q17235117": "Kosatec písečný (Iris arenaria)",
+   "Q2425310": "Šáchor dlouhý (Cyperus longus)",
+   "Q2602766": "Česnek zlatožlutý (Allium moly)"
+  }
+ },
+ {
+  "id": "Q158328#0",
+  "species": "Ostřice vřesovištní",
+  "latin": "Carex ericetorum",
+  "text": "Kvete nejčastěji v březnu až v dubnu.",
+  "quote": "Kvete nejčastěji v březnu až v dubnu.",
+  "claimed_false_for": {
+   "Q12043120": "Ostřice zčernalá (Carex aterrima)",
+   "Q158110": "Medyněk vlnatý (Holcus lanatus)",
+   "Q159017": "Ostřice bledavá (Carex pallescens)",
+   "Q159103": "Ostřice dvoudomá (Carex dioica)",
+   "Q164122": "Proso vláskovité (Panicum capillare)"
+  }
+ },
+ {
+  "id": "Q158328#1",
+  "species": "Ostřice vřesovištní",
+  "latin": "Carex ericetorum",
+  "text": "Roste na písčinách a ve světlých lesích.",
+  "quote": "Vyskytuje se v nížinách až pahorkatinách na písčinách, ve vřesovištích a ve světlých lesích.",
+  "claimed_false_for": {
+   "Q134926": "Puja Raimondova (Puya raimondii)",
+   "Q199075": "Ensete habešské (Ensete ventricosum)",
+   "Q2379130": "Dračinka jižní (Cordyline australis)"
+  }
+ },
+ {
+  "id": "Q158389#0",
+  "species": "Washingtonie vláknitá",
+  "latin": "Washingtonia filifera",
+  "text": "Dorůstá do výšky 15 až 20 metrů.",
+  "quote": "Dorůstá výšky 15–20 m",
+  "claimed_false_for": {
+   "Q1073621": "Ozdobnice čínská (Miscanthus sinensis)",
+   "Q1160185": "Pěchava vápnomilná (Sesleria caerulea)",
+   "Q15324975": "Kostus africký (Costus afer)",
+   "Q2849950": "Klokanka žlutavá (Anigozanthos flavidus)",
+   "Q843726": "Nypa cukrodárná (Nypa fruticans)"
+  }
+ },
+ {
+  "id": "Q158389#1",
+  "species": "Washingtonie vláknitá",
+  "latin": "Washingtonia filifera",
+  "text": "Z listů si některé indiánské kmeny vyráběly obuv.",
+  "quote": "Některé kalifornské indiánské kmeny (např. Cahuilla) si z listů vyráběli obuv",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q158534#0",
+  "species": "Rdest prorostlý",
+  "latin": "Potamogeton perfoliatus",
+  "text": "Listy jsou jen pod vodou, na hladině žádné nejsou.",
+  "quote": "Listy jsou pouze ponořené, listy plovoucí na hladině se nevytváří.",
+  "claimed_false_for": {
+   "Q1470418": "Žabníček vzplývavý (Luronium natans)",
+   "Q370566": "Rdest vzplývavý (Potamogeton natans)"
+  }
+ },
+ {
+  "id": "Q158534#1",
+  "species": "Rdest prorostlý",
+  "latin": "Potamogeton perfoliatus",
+  "text": "Nejčastěji roste v rybnících, řekách, mrtvých říčních ramenech a pískovnách.",
+  "quote": "Nejčastěji roste v rybnících, řekách, mrtvých říčních ramenech a pískovnách.",
+  "claimed_false_for": {
+   "Q1400982": "Kohátka kalíškatá (Tofieldia calyculata)",
+   "Q15312475": "Kulkas zamiolistý (Zamioculcas zamiifolia)",
+   "Q156124": "Střevíčník pantoflíček (Cypripedium calceolus)",
+   "Q159146": "Sveřep jalový (Bromus sterilis)",
+   "Q2037558": "Česnek růžový (Allium roseum)",
+   "Q208705": "Troskut prstnatý (Cynodon dactylon)",
+   "Q30968": "Árón italský (Arum italicum)",
+   "Q836366": "Árón plamatý (Arum maculatum)"
+  }
+ },
+ {
+  "id": "Q158808#0",
+  "species": "Šáchor papírodárný",
+  "latin": "Cyperus papyrus",
+  "text": "Ve starověkém Egyptě sloužila k výrobě psacího materiálu.",
+  "quote": "ve starověkém Egyptě sloužila k výrobě papyru.",
+  "claimed_false_for": {
+   "Q10641333": "Česnek převislý (Allium cernuum)",
+   "Q12043115": "Ostřice křivoklasá (Carex curvata)",
+   "Q1276484": "Hrotnosemenka bílá (Rhynchospora alba)",
+   "Q158831": "Ostřice chudokvětá (Carex pauciflora)",
+   "Q159069": "Ostřice třeslicovitá (Carex brizoides)",
+   "Q161098": "Pšenice setá (Triticum aestivum)",
+   "Q161128": "Ostřice vyvýšená (Carex elata)",
+   "Q161291": "Bika mnohokvětá (Luzula multiflora)",
+   "Q161800": "Sveřep stoklasa (Bromus secalinus)",
+   "Q163946": "Modřenec chocholatý (Muscari comosum)",
+   "Q1746442": "Toulitka Scherzerova (Anthurium scherzerianum)",
+   "Q2700676": "Vodoklas vodní (Orontium aquaticum)"
+  }
+ },
+ {
+  "id": "Q158808#1",
+  "species": "Šáchor papírodárný",
+  "latin": "Cyperus papyrus",
+  "text": "Dorůstá do výšky 2–5 metrů.",
+  "quote": "Dosahuje výšky 2–5 m",
+  "claimed_false_for": {
+   "Q126235": "Ostřice prosová (Carex panicea)",
+   "Q157940": "Ostřice odchylná (Carex appropinquata)",
+   "Q159891": "Ostřice vždyzelená (Carex sempervirens)",
+   "Q161722": "Jílek vytrvalý (Lolium perenne)",
+   "Q163539": "Hnědenec zvrhlý (Limodorum abortivum)",
+   "Q163559": "Dosna indická (Canna indica)",
+   "Q164838": "Ostřice Hostova (Carex hostiana)",
+   "Q2074966": "Ostřice Micheliova (Carex michelii)",
+   "Q50346809": "Kostřava rákosovitá (Lolium arundinaceum)",
+   "Q934537": "Liliochvostec himálajský (Eremurus himalaicus)"
+  }
+ },
+ {
+  "id": "Q158829#4",
+  "species": "Kruštík drobnolistý",
+  "latin": "Epipactis microphylla",
+  "text": "Někdy žije v symbióze s houbami lanýži.",
+  "quote": "si někdy vypomáhá prostřednictvím symbiotické mykorhizy, např. s houbami rodu lanýž (Tuber)",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q158829#5",
+  "species": "Kruštík drobnolistý",
+  "latin": "Epipactis microphylla",
+  "text": "Semena se při klíčení musí spojit s houbami.",
+  "quote": "Semeno s nepatrnou zásobou výživných látek se již v počátku klíčení musí spojit s podhoubím symbiotických hub",
+  "claimed_false_for": {
+   "Q158918": "Mařice pilovitá (Cladium mariscus)",
+   "Q161107": "Česnek planý (Allium oleraceum)",
+   "Q161158": "Modřenec širolistý (Muscari botryoides)",
+   "Q161879": "Zblochan vodní (Glyceria maxima)",
+   "Q51148": "Pažitka pobřežní (Allium schoenoprasum)"
+  }
+ },
+ {
+  "id": "Q158829#6",
+  "species": "Kruštík drobnolistý",
+  "latin": "Epipactis microphylla",
+  "text": "Hmyz ho zřídka opyluje.",
+  "quote": "ojediněle se na opylení podílí hmyz",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q158842#0",
+  "species": "Bařička bahenní",
+  "latin": "Triglochin palustris",
+  "text": "Listy jsou dlouhé asi 30 centimetrů a jen 1 až 2 milimetry široké.",
+  "quote": "Čepele jsou celistvé, čárkovité, asi 30 cm dlouhé a jen 1–2 mm široké.",
+  "claimed_false_for": {
+   "Q157863": "Rdest kadeřavý (Potamogeton crispus)",
+   "Q159020": "Bahnička mokřadní (Eleocharis palustris)",
+   "Q159100": "Drobnička bezkořenná (Wolffia arrhiza)",
+   "Q161809": "Šplhavnice zlatá (Epipremnum aureum)",
+   "Q1788480": "Žabník kopinatý (Alisma lanceolatum)",
+   "Q1994229": "Motýlovec věncový (Hedychium coronarium)",
+   "Q21063": "Žabník jitrocelový (Alisma plantago-aquatica)",
+   "Q227997": "Kolokázie jedlá (Colocasia esculenta)",
+   "Q3339674": "Žabníkovka žlutá (Limnocharis flava)"
+  }
+ },
+ {
+  "id": "Q158842#1",
+  "species": "Bařička bahenní",
+  "latin": "Triglochin palustris",
+  "text": "Roste na vlhkých loukách a v rašeliništích.",
+  "quote": "vlhkých luk až rašelinišť",
+  "claimed_false_for": {
+   "Q158534": "Rdest prorostlý (Potamogeton perfoliatus)",
+   "Q160722": "Rdest tupolistý (Potamogeton obtusifolius)",
+   "Q163351": "Rdestík hřebenitý (Potamogeton pectinatus)"
+  }
+ },
+ {
+  "id": "Q158868#0",
+  "species": "Řečanka přímořská",
+  "latin": "Najas marina",
+  "text": "Opylování se děje pomocí vody.",
+  "quote": "Opylování se děje pomocí vody (hydrogamie).",
+  "claimed_false_for": {
+   "Q156984": "Blatnice bahenní (Scheuchzeria palustris)",
+   "Q157571": "Lipnice roční (Poa annua)",
+   "Q159358": "Ostřice stinná (Carex umbrosa)",
+   "Q164844": "Kosatec měňavý (Iris versicolor)",
+   "Q165013": "Ostřice plstnatá (Carex tomentosa)"
+  }
+ }
+]

@@ -1,0 +1,549 @@
+[
+ {
+  "id": "Q208060#2",
+  "species": "Alexandr malý",
+  "latin": "Psittacula krameri",
+  "text": "Samice snáší 3 až 5 vajec.",
+  "quote": "Samice snáší 3–5 vajec a sedí na nich 22 dní.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q208060#3",
+  "species": "Alexandr malý",
+  "latin": "Psittacula krameri",
+  "text": "Je hlučný a často se ozývá vřískavým voláním „krí-krí-krí“.",
+  "quote": "Hlučný pták, často se ozývá vřískavým „krí-krí-krí“.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q208405#0",
+  "species": "Buřňák severní",
+  "latin": "Puffinus puffinus",
+  "text": "Hnízdí v norách na malých ostrovech.",
+  "quote": "Hnízdí v norách na malých ostrovech",
+  "claimed_false_for": {
+   "Q1080950": "Potápka novozélandská (Poliocephalus rufopectus)",
+   "Q1265896": "Albatros hnědý (Phoebetria fusca)",
+   "Q26896": "Buřňák lední (Fulmarus glacialis)",
+   "Q28106837": "Hvízdák eurasijský (Mareca penelope)",
+   "Q783272": "Kukačka modrolící (Phaenicophaeus viridirostris)",
+   "Q786350": "Albatros šedohlavý (Thalassarche chrysostoma)",
+   "Q790627": "Lori olivový (Chalcopsitta duivenbodei)"
+  }
+ },
+ {
+  "id": "Q208405#1",
+  "species": "Buřňák severní",
+  "latin": "Puffinus puffinus",
+  "text": "Tento druh navštěvuje ostrovy jen v noci.",
+  "quote": "které navštěvuje pouze v noci",
+  "claimed_false_for": {
+   "Q1068196": "Albatros chathamský (Thalassarche eremita)",
+   "Q1269596": "Kukačka černá (Surniculus velutinus)",
+   "Q18841": "Břehouš černoocasý (Limosa limosa)",
+   "Q276185": "Buřňák obrovský (Macronectes giganteus)",
+   "Q600319": "Albatros černonohý (Phoebastria nigripes)",
+   "Q748861": "Kakadu přílbový (Callocephalon fimbriatum)",
+   "Q80736": "Tricha orlí (Psittrichas fulgidus)"
+  }
+ },
+ {
+  "id": "Q208405#2",
+  "species": "Buřňák severní",
+  "latin": "Puffinus puffinus",
+  "text": "Váží 350 až 575 gramů.",
+  "quote": "Váží 350–575 g",
+  "claimed_false_for": {
+   "Q1088841": "Buřník peruánský (Pelecanoides garnotii)",
+   "Q1265896": "Albatros hnědý (Phoebetria fusca)",
+   "Q26896": "Buřňák lední (Fulmarus glacialis)",
+   "Q786350": "Albatros šedohlavý (Thalassarche chrysostoma)",
+   "Q790627": "Lori olivový (Chalcopsitta duivenbodei)"
+  }
+ },
+ {
+  "id": "Q208405#3",
+  "species": "Buřňák severní",
+  "latin": "Puffinus puffinus",
+  "text": "Přezimuje v Jižní Americe, hlavně v Brazílii a Argentině.",
+  "quote": "přezimovávají v Jižní Americe, především v Brazílii a Argentině",
+  "claimed_false_for": {
+   "Q1267254": "Buřňák černohlavý (Pterodroma leucoptera)",
+   "Q2088805": "Albatros campbellský (Thalassarche impavida)",
+   "Q338996": "Páv konžský (Afropavo congensis)",
+   "Q431702": "Lelkoun ušatý (Batrachostomus auritus)",
+   "Q511566": "Buřňák středomořský (Puffinus yelkouan)",
+   "Q735296": "Albatros galapážský (Phoebastria irrorata)",
+   "Q777724": "Kukačka srílanská (Centropus chlororhynchos)",
+   "Q853412": "Albatros bělohřbetý (Phoebastria albatrus)",
+   "Q860375": "Buřňák chathamský (Pterodroma axillaris)",
+   "Q946155": "Kukačka rudozobá (Carpococcyx renauldi)"
+  }
+ },
+ {
+  "id": "Q208682#0",
+  "species": "Albatros stěhovavý",
+  "latin": "Diomedea exulans",
+  "text": "Tento druh má největší rozpětí křídel ze všech ptáků: až 3,6 metru.",
+  "quote": "rozpětí křídel dosahuje až 3,6 m, což je vůbec největší rozpětí křídel mezi všemi ptáky",
+  "claimed_false_for": {
+   "Q1068196": "Albatros chathamský (Thalassarche eremita)",
+   "Q1262679": "Buřňák pruhokřídlý (Pterodroma inexpectata)",
+   "Q1269596": "Kukačka černá (Surniculus velutinus)",
+   "Q18841": "Břehouš černoocasý (Limosa limosa)",
+   "Q27074593": "Buřňáček nejmenší (Oceanodroma microsoma)",
+   "Q27074602": "Buřňák šedohřbetý (Ardenna bulleri)",
+   "Q276185": "Buřňák obrovský (Macronectes giganteus)",
+   "Q574859": "Buřňák kermadecký (Pterodroma cervicalis)",
+   "Q596787": "Buřňák Cookův (Pterodroma cookii)",
+   "Q600319": "Albatros černonohý (Phoebastria nigripes)",
+   "Q748861": "Kakadu přílbový (Callocephalon fimbriatum)",
+   "Q80736": "Tricha orlí (Psittrichas fulgidus)"
+  }
+ },
+ {
+  "id": "Q208682#1",
+  "species": "Albatros stěhovavý",
+  "latin": "Diomedea exulans",
+  "text": "Tento druh tráví většinu života na moři a na souš přilétá jen k hnízdění.",
+  "quote": "Tento pták tráví většinu života na moři a na souš přilétá pouze za účelem hnízdění.",
+  "claimed_false_for": {
+   "Q1061873": "Zoborožec luzonský (Penelopides manillae)",
+   "Q1265532": "Ostnák malý (Microparra capensis)",
+   "Q1267247": "Hoko žlutozobý (Crax fasciolata)",
+   "Q27074540": "Husa sněžní (Anser caerulescens)"
+  }
+ },
+ {
+  "id": "Q208682#2",
+  "species": "Albatros stěhovavý",
+  "latin": "Diomedea exulans",
+  "text": "Tento druh uletí v mládí průměrně 183 000 km za rok.",
+  "quote": "nedospělci uletí v průměru 183 000 km ročně",
+  "claimed_false_for": {
+   "Q338996": "Páv konžský (Afropavo congensis)",
+   "Q431702": "Lelkoun ušatý (Batrachostomus auritus)",
+   "Q777724": "Kukačka srílanská (Centropus chlororhynchos)",
+   "Q946155": "Kukačka rudozobá (Carpococcyx renauldi)"
+  }
+ },
+ {
+  "id": "Q208682#3",
+  "species": "Albatros stěhovavý",
+  "latin": "Diomedea exulans",
+  "text": "Tento druh loví hlavně hlavonožce a ryby na moři.",
+  "quote": "Potravu shání výhradně na moři, kde loví hlavně hlavonožce a ryby",
+  "claimed_false_for": {
+   "Q338996": "Páv konžský (Afropavo congensis)",
+   "Q431702": "Lelkoun ušatý (Batrachostomus auritus)",
+   "Q777724": "Kukačka srílanská (Centropus chlororhynchos)",
+   "Q946155": "Kukačka rudozobá (Carpococcyx renauldi)"
+  }
+ },
+ {
+  "id": "Q208682#4",
+  "species": "Albatros stěhovavý",
+  "latin": "Diomedea exulans",
+  "text": "Tento druh drží křídla roztažená bez svalové námahy.",
+  "quote": "takže albatros nepotřebuje k udržování roztažených křídel používat svaly a nespotřebová tak prakticky žádnou energii",
+  "claimed_false_for": {
+   "Q1269596": "Kukačka černá (Surniculus velutinus)",
+   "Q18841": "Břehouš černoocasý (Limosa limosa)",
+   "Q748861": "Kakadu přílbový (Callocephalon fimbriatum)",
+   "Q80736": "Tricha orlí (Psittrichas fulgidus)"
+  }
+ },
+ {
+  "id": "Q208682#5",
+  "species": "Albatros stěhovavý",
+  "latin": "Diomedea exulans",
+  "text": "Tento druh žije s jedním partnerem celý život.",
+  "quote": "se svým partnerem utváří celoživotní monogamní páry",
+  "claimed_false_for": {
+   "Q28106837": "Hvízdák eurasijský (Mareca penelope)"
+  }
+ },
+ {
+  "id": "Q208710#0",
+  "species": "Cvrčilka zelená",
+  "latin": "Locustella naevia",
+  "text": "Tento druh se ozývá často i v noci.",
+  "quote": "Zpěv, kterým se často ozývá i v noci",
+  "claimed_false_for": {
+   "Q1145127": "Holub maorský (Hemiphaga novaeseelandiae)",
+   "Q25354": "Sojka obecná (Garrulus glandarius)",
+   "Q331190": "Křivka bělokřídlá (Loxia leucoptera)",
+   "Q973463": "Kolibřík černobradý (Archilochus alexandri)"
+  }
+ },
+ {
+  "id": "Q208710#1",
+  "species": "Cvrčilka zelená",
+  "latin": "Locustella naevia",
+  "text": "Tento druh žije skrytě ve vlhkých loukách a bažinách.",
+  "quote": "Žije skrytě na vlhkých loukách, rašeliništích a v bažinách",
+  "claimed_false_for": {
+   "Q733777": "Koroptev sumaterská (Arborophila orientalis)",
+   "Q747686": "Bělořit plavý (Oenanthe isabellina)",
+   "Q844776": "Albatros světlehřbetý (Phoebetria palpebrata)",
+   "Q998616": "Medosavka hlučná (Manorina melanocephala)"
+  }
+ },
+ {
+  "id": "Q208714#0",
+  "species": "Pelikán hnědý",
+  "latin": "Pelecanus occidentalis",
+  "text": "Dožívá se ve volné přírodě průměrně 15 až 25 let.",
+  "quote": "ve volné přírodě se dožívají průměrně 15–25 let.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q208714#1",
+  "species": "Pelikán hnědý",
+  "latin": "Pelecanus occidentalis",
+  "text": "Tento druh se za potravou vrhá střemhlav do vody z výšky 10 metrů.",
+  "quote": "Jako jediný pelikán se za svou potravou také vrhá střemhlav do vody z výšky 10 m.",
+  "claimed_false_for": {
+   "Q125895": "Šoupálek krátkoprstý (Certhia brachydactyla)",
+   "Q130730": "Volavka bílá (Ardea alba)",
+   "Q18700": "Člunozobec africký (Balaeniceps rex)",
+   "Q26063": "Pelikán australský (Pelecanus conspicillatus)",
+   "Q26114": "Sluka lesní (Scolopax rusticola)",
+   "Q26248": "Tangara škrabošková (Ramphocelus nigrogularis)",
+   "Q373114": "Ibis černohlavý (Threskiornis melanocephalus)",
+   "Q652151": "Kladivouš africký (Scopus umbretta)",
+   "Q724987": "Papoušek mniší (Myiopsitta monachus)"
+  }
+ },
+ {
+  "id": "Q2088805#0",
+  "species": "Albatros campbellský",
+  "latin": "Thalassarche impavida",
+  "text": "Hnízdí jen na jednom ostrově a jeho sousedním ostrůvku.",
+  "quote": "hnízdí pouze na Campbellově ostrově a přilehlém ostrůvku Isle de Jeanette-Marie",
+  "claimed_false_for": {
+   "Q1080950": "Potápka novozélandská (Poliocephalus rufopectus)",
+   "Q1088841": "Buřník peruánský (Pelecanoides garnotii)",
+   "Q1261182": "Buřňák třepetavý (Puffinus gavia)",
+   "Q1262679": "Buřňák pruhokřídlý (Pterodroma inexpectata)",
+   "Q1265896": "Albatros hnědý (Phoebetria fusca)",
+   "Q26896": "Buřňák lední (Fulmarus glacialis)",
+   "Q28106837": "Hvízdák eurasijský (Mareca penelope)",
+   "Q511566": "Buřňák středomořský (Puffinus yelkouan)",
+   "Q596787": "Buřňák Cookův (Pterodroma cookii)",
+   "Q783272": "Kukačka modrolící (Phaenicophaeus viridirostris)",
+   "Q786350": "Albatros šedohlavý (Thalassarche chrysostoma)",
+   "Q790627": "Lori olivový (Chalcopsitta duivenbodei)"
+  }
+ },
+ {
+  "id": "Q2088805#1",
+  "species": "Albatros campbellský",
+  "latin": "Thalassarche impavida",
+  "text": "Tento druh má světle žluté oči.",
+  "quote": "barva duhovek, která je u albatrosa campbellského světle žlutá",
+  "claimed_false_for": {
+   "Q1261182": "Buřňák třepetavý (Puffinus gavia)",
+   "Q1266122": "Buřňák taiko (Pterodroma magentae)",
+   "Q208682": "Albatros stěhovavý (Diomedea exulans)",
+   "Q25761": "Husice liščí (Tadorna tadorna)",
+   "Q26017": "Chřástal polní (Crex crex)",
+   "Q607024": "Buřňáček Wilsonův (Oceanites oceanicus)",
+   "Q735296": "Albatros galapážský (Phoebastria irrorata)",
+   "Q786350": "Albatros šedohlavý (Thalassarche chrysostoma)",
+   "Q926867": "Alkoun holubí (Cepphus columba)"
+  }
+ },
+ {
+  "id": "Q2088805#2",
+  "species": "Albatros campbellský",
+  "latin": "Thalassarche impavida",
+  "text": "Hnízdo je jen hromádka hlíny přímo na zemi.",
+  "quote": "Hnízdo představuje pouze hromádka hlíny přímo na zemi.",
+  "claimed_false_for": {
+   "Q1262679": "Buřňák pruhokřídlý (Pterodroma inexpectata)",
+   "Q1269596": "Kukačka černá (Surniculus velutinus)",
+   "Q18841": "Břehouš černoocasý (Limosa limosa)",
+   "Q27074593": "Buřňáček nejmenší (Oceanodroma microsoma)",
+   "Q27074602": "Buřňák šedohřbetý (Ardenna bulleri)",
+   "Q574859": "Buřňák kermadecký (Pterodroma cervicalis)",
+   "Q596787": "Buřňák Cookův (Pterodroma cookii)",
+   "Q748861": "Kakadu přílbový (Callocephalon fimbriatum)",
+   "Q80736": "Tricha orlí (Psittrichas fulgidus)"
+  }
+ },
+ {
+  "id": "Q2088805#3",
+  "species": "Albatros campbellský",
+  "latin": "Thalassarche impavida",
+  "text": "Může se dožít více než 30 let.",
+  "quote": "Může se dožít více než 30 let.",
+  "claimed_false_for": {
+   "Q1269596": "Kukačka černá (Surniculus velutinus)"
+  }
+ },
+ {
+  "id": "Q209419#0",
+  "species": "Husa krátkozobá",
+  "latin": "Anser brachyrhynchus",
+  "text": "Tento druh má růžové nohy.",
+  "quote": "Nohy jsou růžové",
+  "claimed_false_for": {
+   "Q131044": "Labuť černá (Cygnus atratus)",
+   "Q28106778": "Čírka modrokřídlá (Spatula discors)",
+   "Q378533": "Polák dlouhozobý (Aythya valisineria)",
+   "Q646096": "Polák tmavý (Aythya novaeseelandiae)",
+   "Q747813": "Husice rajská (Tadorna variegata)",
+   "Q755653": "Husa císařská (Anser canagicus)"
+  }
+ },
+ {
+  "id": "Q209419#1",
+  "species": "Husa krátkozobá",
+  "latin": "Anser brachyrhynchus",
+  "text": "Tento druh poprvé vzlétne až v 56 dnech věku.",
+  "quote": "Vzletnosti dosahují v 56 dnech věku",
+  "claimed_false_for": {
+   "Q168514": "Hrdlička divoká (Streptopelia turtur)",
+   "Q208004": "Plameňák karibský (Phoenicopterus ruber)",
+   "Q25402": "Labuť velká (Cygnus olor)"
+  }
+ },
+ {
+  "id": "Q210422#1",
+  "species": "Rákosník zpěvný",
+  "latin": "Acrocephalus palustris",
+  "text": "Mláďata opouštějí hnízdo ve věku 11 až 13 dnů.",
+  "quote": "Mláďata hnízdo opouštějí ve věku 11–13 dnů.",
+  "claimed_false_for": {
+   "Q1085327": "Dvojzoborožec hnědavý (Buceros hydrocorax)",
+   "Q191386": "Kavče žlutozobé (Pyrrhocorax graculus)",
+   "Q27075785": "Zvonek zelený (Chloris chloris)",
+   "Q28484": "Čimango žlutavý (Milvago chimachima)",
+   "Q527830": "Pelikán africký (Pelecanus rufescens)"
+  }
+ },
+ {
+  "id": "Q210791#0",
+  "species": "Cistovník rákosníkový",
+  "latin": "Cisticola juncidis",
+  "text": "Hnízdo staví jen samec, asi za dva až tři dny.",
+  "quote": "Hnízdo staví 2–3 dny pouze samec",
+  "claimed_false_for": {
+   "Q25234": "Kos černý (Turdus merula)",
+   "Q25485": "Sýkora koňadra (Parus major)",
+   "Q26742": "Polák velký (Aythya ferina)",
+   "Q781886": "Polák hnědavý (Aythya australis)"
+  }
+ },
+ {
+  "id": "Q210791#1",
+  "species": "Cistovník rákosníkový",
+  "latin": "Cisticola juncidis",
+  "text": "Snáší 4 až 6 vajec, mláďata se líhnou za 11 až 15 dnů.",
+  "quote": "Samice do hnízda snáší 4–6 vajec, ze kterých se mláďata líhnou po 11–15 dnech.",
+  "claimed_false_for": {
+   "Q1004361": "Albatros Bullerův (Thalassarche bulleri)",
+   "Q1088841": "Buřník peruánský (Pelecanoides garnotii)",
+   "Q786350": "Albatros šedohlavý (Thalassarche chrysostoma)"
+  }
+ },
+ {
+  "id": "Q21090684#0",
+  "species": "Orel volavý",
+  "latin": "Clanga clanga",
+  "text": "Tento druh má rozpětí křídel 153 až 185 cm.",
+  "quote": "Rozpětí jeho křídel je mezi 153 a 185 cm.",
+  "claimed_false_for": {
+   "Q177856": "Sup bělohlavý (Gyps fulvus)",
+   "Q194314": "Kondor kalifornský (Gymnogyps californianus)",
+   "Q25572": "Moták pilich (Circus cyaneus)",
+   "Q26205": "Strnad obecný (Emberiza citrinella)",
+   "Q27674": "Sedmihlásek hajní (Hippolais icterina)",
+   "Q285165": "Frankolín obecný (Francolinus francolinus)",
+   "Q41181": "Orel skalní (Aquila chrysaetos)",
+   "Q500278": "Rýžovník šedý (Padda oryzivora)",
+   "Q795558": "Orel jávský (Nisaetus bartelsi)"
+  }
+ },
+ {
+  "id": "Q21090684#1",
+  "species": "Orel volavý",
+  "latin": "Clanga clanga",
+  "text": "Tento druh někdy ukrade kořist jiným dravcům.",
+  "quote": "Krade kořist i jiným dravcům, především luňákovi hnědému.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q211253#0",
+  "species": "Papoušek patagonský",
+  "latin": "Cyanoliseus patagonus",
+  "text": "Tento druh hnízdí ve skalách nebo v norách, ne ve stromech.",
+  "quote": "nehnízdí v dutinách stromů, nýbrž v dutinách vápencových či pískovcových skal a v březích vytvořených norách o délce až 2,5 metrů",
+  "claimed_false_for": {
+   "Q1024059": "Kakariki žlutočelý (Cyanoramphus auriceps)",
+   "Q117255367": "Lori límcový (Vini solitaria)",
+   "Q775300": "Aratinga žlutý (Guaruba guarouba)",
+   "Q790627": "Lori olivový (Chalcopsitta duivenbodei)",
+   "Q848617": "Neoféma Bourkova (Neopsephotus bourkii)"
+  }
+ },
+ {
+  "id": "Q211253#1",
+  "species": "Papoušek patagonský",
+  "latin": "Cyanoliseus patagonus",
+  "text": "Tento druh se dožívá 20 až 30 let.",
+  "quote": "Dožívá se dvaceti až třiceti let.",
+  "claimed_false_for": {
+   "Q18847": "Slípka zelenonohá (Gallinula chloropus)",
+   "Q848617": "Neoféma Bourkova (Neopsephotus bourkii)"
+  }
+ },
+ {
+  "id": "Q212055#0",
+  "species": "Alkoun obecný",
+  "latin": "Cepphus grylle",
+  "text": "Tento druh má červené nohy.",
+  "quote": "Nohy jsou poměrně dlouhé a krvavě červené.",
+  "claimed_false_for": {
+   "Q1260591": "Bekasina chathamská (Coenocorypha pusilla)",
+   "Q27160": "Racek žlutonohý (Larus fuscus)",
+   "Q327118": "Sup bengálský (Gyps bengalensis)",
+   "Q331179": "Kačka strakatá (Histrionicus histrionicus)",
+   "Q389505": "Racek bělohlavý (Larus cachinnans)",
+   "Q600319": "Albatros černonohý (Phoebastria nigripes)",
+   "Q636452": "Kulík novozélandský (Charadrius obscurus)",
+   "Q76496": "Koliha východní (Numenius madagascariensis)"
+  }
+ },
+ {
+  "id": "Q212302#0",
+  "species": "Slípka novozélandská",
+  "latin": "Porphyrio hochstetteri",
+  "text": "Tento druh nemůže létat, jeho křídla jsou zakrnělá.",
+  "quote": "Křídla jsou zakrnělá a neumožňují let ani klouzání.",
+  "claimed_false_for": {
+   "Q1253755": "Kakadu růžový (Eolophus roseicapilla)",
+   "Q1267654": "Chřástal africký (Crex egregia)",
+   "Q1275053": "Trubač agami (Psophia crepitans)",
+   "Q174466": "Sýc rousný (Aegolius funereus)",
+   "Q194024": "Chřástal kropenatý (Porzana porzana)",
+   "Q218448": "Lejsčík chathamský (Petroica traversi)",
+   "Q21949185": "Jeřáb bílý (Leucogeranus leucogeranus)",
+   "Q235052": "Ťuhýk rudohlavý (Lanius senator)",
+   "Q25376": "Lyska černá (Fulica atra)",
+   "Q494983": "Jeřáb kápový (Grus monacha)",
+   "Q838955": "Ara kobaltový (Anodorhynchus leari)"
+  }
+ },
+ {
+  "id": "Q212302#1",
+  "species": "Slípka novozélandská",
+  "latin": "Porphyrio hochstetteri",
+  "text": "Tento druh jí hlavně trávy.",
+  "quote": "Hlavní potravní složku fiordlandské populace tvoří lipnicovité rostliny rodu Chionochloa.",
+  "claimed_false_for": {
+   "Q161829": "Tučňák císařský (Aptenodytes forsteri)",
+   "Q174466": "Sýc rousný (Aegolius funereus)",
+   "Q218448": "Lejsčík chathamský (Petroica traversi)",
+   "Q235052": "Ťuhýk rudohlavý (Lanius senator)",
+   "Q838955": "Ara kobaltový (Anodorhynchus leari)"
+  }
+ },
+ {
+  "id": "Q212302#2",
+  "species": "Slípka novozélandská",
+  "latin": "Porphyrio hochstetteri",
+  "text": "Tento druh se ve volné přírodě dožívá kolem 16–18 let.",
+  "quote": "Ve volné přírodě se dožívá kolem 16–18 let",
+  "claimed_false_for": {
+   "Q27075875": "Čížek ohnivý (Spinus cucullatus)"
+  }
+ },
+ {
+  "id": "Q212302#3",
+  "species": "Slípka novozélandská",
+  "latin": "Porphyrio hochstetteri",
+  "text": "Tento druh měří na délku těla až 63 cm.",
+  "quote": "Dosahuje délky těla až 63 cm.",
+  "claimed_false_for": {
+   "Q1086846": "Chřástalec malý (Heliornis fulica)",
+   "Q1275053": "Trubač agami (Psophia crepitans)",
+   "Q25307": "Straka obecná (Pica pica)",
+   "Q25384": "Kalous ušatý (Asio otus)",
+   "Q270680": "Chřástal malý (Zapornia parva)",
+   "Q27074593": "Buřňáček nejmenší (Oceanodroma microsoma)",
+   "Q27075875": "Čížek ohnivý (Spinus cucullatus)",
+   "Q734829": "Kivi hnědý (Apteryx mantelli)"
+  }
+ },
+ {
+  "id": "Q212302#4",
+  "species": "Slípka novozélandská",
+  "latin": "Porphyrio hochstetteri",
+  "text": "Tento druh se brání proti ptačím dravcům tím, že znehybní tělo.",
+  "quote": "klasická obrana proti ptačímu predátorství: znehybnění těla.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q212302#5",
+  "species": "Slípka novozélandská",
+  "latin": "Porphyrio hochstetteri",
+  "text": "Tento druh obvykle snese dvě vejce.",
+  "quote": "Samice klade 1–3, nejčastěji 2 vejce",
+  "claimed_false_for": {
+   "Q194024": "Chřástal kropenatý (Porzana porzana)",
+   "Q198837": "Kakariki rudočelý (Cyanoramphus novaezelandiae)",
+   "Q25376": "Lyska černá (Fulica atra)",
+   "Q748236": "Albatros královský (Diomedea epomophora)"
+  }
+ },
+ {
+  "id": "Q212937#0",
+  "species": "Husovec strakatý",
+  "latin": "Anseranas semipalmata",
+  "text": "Žije v hlučných hejnech, která mohou mít i tisíce ptáků.",
+  "quote": "společenský druh žijící ve velmi početných, hlučných hejnech, která mohou čítat i několik tisíců jedinců",
+  "claimed_false_for": {
+   "Q11842208": "Kulík pobřežní (Charadrius novaeseelandiae)",
+   "Q2017168": "Kukačka indonéská (Phaenicophaeus curvirostris)",
+   "Q420499": "Kachna měkkozobá (Hymenolaimus malacorhynchos)",
+   "Q859861": "Zoborožec srílanský (Ocyceros gingalensis)",
+   "Q914045": "Kachna bystřinná (Merganetta armata)"
+  }
+ },
+ {
+  "id": "Q212937#1",
+  "species": "Husovec strakatý",
+  "latin": "Anseranas semipalmata",
+  "text": "Tento druh se díky zvláštnímu zadnímu prstu dobře drží na větvích stromů.",
+  "quote": "Díky zvláštně přizpůsobenému zadnímu prstu se dobře udrží na větvích stromů",
+  "claimed_false_for": {
+   "Q26147": "Tenkozobec opačný (Recurvirostra avosetta)",
+   "Q26597": "Hoholka lední (Clangula hyemalis)",
+   "Q26603": "Labuť malá (Cygnus columbianus)"
+  }
+ },
+ {
+  "id": "Q213021#0",
+  "species": "Tučňák oslí",
+  "latin": "Pygoscelis papua",
+  "text": "Tento druh má jasně oranžový nebo červený pruh po stranách zobáku.",
+  "quote": "jasně oranžovým až červeným pruhem po stranách zobáku",
+  "claimed_false_for": {
+   "Q171655": "Drop velký (Otis tarda)",
+   "Q258889": "Lelkoun krátkoocasý (Batrachostomus poliolophus)",
+   "Q602084": "Terej maskový (Sula dactylatra)",
+   "Q646096": "Polák tmavý (Aythya novaeseelandiae)",
+   "Q913892": "Holub pokřovní (Phaps elegans)"
+  }
+ },
+ {
+  "id": "Q213021#1",
+  "species": "Tučňák oslí",
+  "latin": "Pygoscelis papua",
+  "text": "Dožívá se průměrně 13 let.",
+  "quote": "Ve volné přírodě se dožívá průměrně 13 let.",
+  "claimed_false_for": {}
+ }
+]

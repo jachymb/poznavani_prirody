@@ -1,0 +1,464 @@
+[
+ {
+  "id": "Q1204865#1",
+  "species": "Jedle jehlicovitá",
+  "latin": "Abies holophylla",
+  "text": "Z dřeva tohoto druhu se vyrábí překližka i hudební nástroje.",
+  "quote": "vyrábí se z něj překližka, dýha ale i některé hudební nástroje",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q12203342#0",
+  "species": "Smrk lesklý",
+  "latin": "Picea polita",
+  "text": "Přirozeně roste na japonských ostrovech Honšú, Šikoku a Kjúšú.",
+  "quote": "Smrk lesklý je přirozeně rozšířen v Japonsku, a to na ostrovech Honšú, Šikoku a Kjúšú.",
+  "claimed_false_for": {
+   "Q1116374": "Borovice dlouhověká (Pinus longaeva)",
+   "Q1451343": "Jedle Fraserova (Abies fraseri)",
+   "Q147278": "Borovice limba (Pinus cembra)",
+   "Q147824": "Smrk omorika (Picea omorika)",
+   "Q161070": "Blahočet ztepilý (Araucaria heterophylla)",
+   "Q1640268": "Borovice Montezumova (Pinus montezumae)",
+   "Q251370": "Borovice Jeffreyova (Pinus jeffreyi)",
+   "Q3239660": "Smrk štětinatý (Picea asperata)",
+   "Q469151": "Smrk červený (Picea rubens)",
+   "Q593894": "Jedlovec Mertensův (Tsuga mertensiana)",
+   "Q670040": "Cypřiš arizonský (Cupressus arizonica)"
+  }
+ },
+ {
+  "id": "Q137009#0",
+  "species": "Borovice Engelmannova",
+  "latin": "Pinus engelmannii",
+  "text": "Dorůstá do výšky 20–30 metrů.",
+  "quote": "Roste v podobě stromu, vysokého 20–30 metrů.",
+  "claimed_false_for": {
+   "Q147417": "Zerav obrovský (Thuja plicata)",
+   "Q148920": "Jedle kavkazská (Abies nordmanniana)",
+   "Q149851": "Sekvojovec obrovský (Sequoiadendron giganteum)"
+  }
+ },
+ {
+  "id": "Q137009#1",
+  "species": "Borovice Engelmannova",
+  "latin": "Pinus engelmannii",
+  "text": "Samičí šišky dozrávají až ve druhém roce.",
+  "quote": "dozrávají 2. rokem",
+  "claimed_false_for": {
+   "Q1451343": "Jedle Fraserova (Abies fraseri)",
+   "Q147824": "Smrk omorika (Picea omorika)",
+   "Q3239660": "Smrk štětinatý (Picea asperata)",
+   "Q469151": "Smrk červený (Picea rubens)",
+   "Q593894": "Jedlovec Mertensův (Tsuga mertensiana)"
+  }
+ },
+ {
+  "id": "Q146935#0",
+  "species": "Cedr himálajský",
+  "latin": "Cedrus deodara",
+  "text": "Za optimálních podmínek vyroste přes 60 metrů.",
+  "quote": "Za optimálních podmínek dorůstá výšky přes 60 metrů.",
+  "claimed_false_for": {
+   "Q128116": "Smrk sivý (Picea glauca)",
+   "Q1429751": "Tisovec Montezumův (Taxodium mucronatum)",
+   "Q158780": "Blahočet chilský (Araucaria araucana)",
+   "Q164767": "Nohoplod širolistý (Podocarpus latifolius)",
+   "Q3286876": "Borovice Armandova (Pinus armandii)",
+   "Q3308307": "Borovice Martínezova (Pinus maximartinezii)",
+   "Q368248": "Borovice kadidlová (Pinus taeda)",
+   "Q61105": "Cedr libanonský (Cedrus libani)"
+  }
+ },
+ {
+  "id": "Q146935#1",
+  "species": "Cedr himálajský",
+  "latin": "Cedrus deodara",
+  "text": "Dřevo se používá na stavbu lodí.",
+  "quote": "V Indii se dřevo cedru používá pro stavbu lodí",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q148630#0",
+  "species": "Jalovec chvojka",
+  "latin": "Juniperus sabina",
+  "text": "Dosahuje výšky nejvýš 1,5 metru.",
+  "quote": "Chvojka klášterská je jehličnatý keř dosahující výšky max. 1,5 m.",
+  "claimed_false_for": {
+   "Q128116": "Smrk sivý (Picea glauca)",
+   "Q1429751": "Tisovec Montezumův (Taxodium mucronatum)",
+   "Q147417": "Zerav obrovský (Thuja plicata)",
+   "Q148920": "Jedle kavkazská (Abies nordmanniana)",
+   "Q149851": "Sekvojovec obrovský (Sequoiadendron giganteum)",
+   "Q158780": "Blahočet chilský (Araucaria araucana)",
+   "Q164767": "Nohoplod širolistý (Podocarpus latifolius)",
+   "Q255029": "Pazeravec Bidwillův (Libocedrus bidwillii)",
+   "Q3286876": "Borovice Armandova (Pinus armandii)",
+   "Q3308307": "Borovice Martínezova (Pinus maximartinezii)",
+   "Q368248": "Borovice kadidlová (Pinus taeda)",
+   "Q61105": "Cedr libanonský (Cedrus libani)"
+  }
+ },
+ {
+  "id": "Q148630#1",
+  "species": "Jalovec chvojka",
+  "latin": "Juniperus sabina",
+  "text": "Houba rez hrušňová přezimuje na tomto druhu a na jaře se přenáší na hrušně.",
+  "quote": "v kterých přezimují výtrusy houby a z kterých se potom na jaře přenáší na hrušně",
+  "claimed_false_for": {
+   "Q128116": "Smrk sivý (Picea glauca)",
+   "Q1429751": "Tisovec Montezumův (Taxodium mucronatum)",
+   "Q147417": "Zerav obrovský (Thuja plicata)",
+   "Q148920": "Jedle kavkazská (Abies nordmanniana)",
+   "Q149851": "Sekvojovec obrovský (Sequoiadendron giganteum)",
+   "Q158780": "Blahočet chilský (Araucaria araucana)",
+   "Q164767": "Nohoplod širolistý (Podocarpus latifolius)",
+   "Q255029": "Pazeravec Bidwillův (Libocedrus bidwillii)",
+   "Q3286876": "Borovice Armandova (Pinus armandii)",
+   "Q3308307": "Borovice Martínezova (Pinus maximartinezii)",
+   "Q368248": "Borovice kadidlová (Pinus taeda)",
+   "Q61105": "Cedr libanonský (Cedrus libani)"
+  }
+ },
+ {
+  "id": "Q157230#0",
+  "species": "Borovice vejmutovka",
+  "latin": "Pinus strobus",
+  "text": "Tento druh je jediným stromem, se kterým tvoří symbiózu klouzek bílý.",
+  "quote": "Borovice vejmutovka je jediným stromem, se kterým tvoří symbiózu klouzek bílý.",
+  "claimed_false_for": {
+   "Q1044186": "Borovice hustokvětá (Pinus densiflora)",
+   "Q1116374": "Borovice dlouhověká (Pinus longaeva)",
+   "Q1451343": "Jedle Fraserova (Abies fraseri)",
+   "Q147278": "Borovice limba (Pinus cembra)",
+   "Q147824": "Smrk omorika (Picea omorika)",
+   "Q161070": "Blahočet ztepilý (Araucaria heterophylla)",
+   "Q1640268": "Borovice Montezumova (Pinus montezumae)",
+   "Q251370": "Borovice Jeffreyova (Pinus jeffreyi)",
+   "Q3239660": "Smrk štětinatý (Picea asperata)",
+   "Q469151": "Smrk červený (Picea rubens)",
+   "Q593894": "Jedlovec Mertensův (Tsuga mertensiana)",
+   "Q670040": "Cypřiš arizonský (Cupressus arizonica)"
+  }
+ },
+ {
+  "id": "Q157230#1",
+  "species": "Borovice vejmutovka",
+  "latin": "Pinus strobus",
+  "text": "Tento druh je hojně rozšířen po celém světě mimo svůj přirozený domov.",
+  "quote": "Mimo svůj přirozený areál rozšíření (východní část USA a Kanady) je hojně rozšířena po celém světě",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q157230#2",
+  "species": "Borovice vejmutovka",
+  "latin": "Pinus strobus",
+  "text": "Dorůstá do výšky 60 až 70 metrů.",
+  "quote": "Jde o relativně mohutný strom 60–70 m (80 m) vysoký",
+  "claimed_false_for": {
+   "Q1044186": "Borovice hustokvětá (Pinus densiflora)",
+   "Q1116374": "Borovice dlouhověká (Pinus longaeva)",
+   "Q1451343": "Jedle Fraserova (Abies fraseri)",
+   "Q147278": "Borovice limba (Pinus cembra)",
+   "Q147824": "Smrk omorika (Picea omorika)",
+   "Q1640268": "Borovice Montezumova (Pinus montezumae)",
+   "Q251370": "Borovice Jeffreyova (Pinus jeffreyi)",
+   "Q3239660": "Smrk štětinatý (Picea asperata)",
+   "Q469151": "Smrk červený (Picea rubens)",
+   "Q593894": "Jedlovec Mertensův (Tsuga mertensiana)",
+   "Q670040": "Cypřiš arizonský (Cupressus arizonica)"
+  }
+ },
+ {
+  "id": "Q157230#3",
+  "species": "Borovice vejmutovka",
+  "latin": "Pinus strobus",
+  "text": "Dřevo tohoto druhu je měkké, lehké a velmi trvanlivé.",
+  "quote": "To je měkké, lehké, velmi trvanlivé a snadno štípatelné, lehce se obrábí (modelářské dřevo)",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1619005#0",
+  "species": "Jedle himálajská",
+  "latin": "Abies spectabilis",
+  "text": "Roste ve výškách 2700 až 4000 metrů nad mořem.",
+  "quote": "Roste v nadmořských výškách 2700–4000 m.",
+  "claimed_false_for": {
+   "Q1451343": "Jedle Fraserova (Abies fraseri)",
+   "Q147824": "Smrk omorika (Picea omorika)",
+   "Q161070": "Blahočet ztepilý (Araucaria heterophylla)",
+   "Q469151": "Smrk červený (Picea rubens)"
+  }
+ },
+ {
+  "id": "Q1619005#1",
+  "species": "Jedle himálajská",
+  "latin": "Abies spectabilis",
+  "text": "Kvete v dubnu a květnu.",
+  "quote": "Doba květu je duben–květen.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q2065540#1",
+  "species": "Tis západoamerický",
+  "latin": "Taxus brevifolia",
+  "text": "Pochází ze severozápadní části tichomořského pobřeží Severní Ameriky.",
+  "quote": "pochází ze severozápadní části tichomořského pobřeží Severní Ameriky",
+  "claimed_false_for": {
+   "Q1044186": "Borovice hustokvětá (Pinus densiflora)",
+   "Q1116374": "Borovice dlouhověká (Pinus longaeva)",
+   "Q1451343": "Jedle Fraserova (Abies fraseri)",
+   "Q147278": "Borovice limba (Pinus cembra)",
+   "Q147824": "Smrk omorika (Picea omorika)",
+   "Q161070": "Blahočet ztepilý (Araucaria heterophylla)",
+   "Q1640268": "Borovice Montezumova (Pinus montezumae)",
+   "Q3239660": "Smrk štětinatý (Picea asperata)",
+   "Q469151": "Smrk červený (Picea rubens)",
+   "Q670040": "Cypřiš arizonský (Cupressus arizonica)"
+  }
+ },
+ {
+  "id": "Q2233487#0",
+  "species": "Jedle šensijská",
+  "latin": "Abies chensiensis",
+  "text": "Dorůstá až do výšky 50 metrů.",
+  "quote": "dorůstající výšky až 50 m",
+  "claimed_false_for": {
+   "Q128116": "Smrk sivý (Picea glauca)",
+   "Q1429751": "Tisovec Montezumův (Taxodium mucronatum)",
+   "Q164767": "Nohoplod širolistý (Podocarpus latifolius)",
+   "Q3286876": "Borovice Armandova (Pinus armandii)",
+   "Q3308307": "Borovice Martínezova (Pinus maximartinezii)",
+   "Q61105": "Cedr libanonský (Cedrus libani)"
+  }
+ },
+ {
+  "id": "Q2233487#1",
+  "species": "Jedle šensijská",
+  "latin": "Abies chensiensis",
+  "text": "Roste v horách v Číně, Tibetu a Indii.",
+  "quote": "Je to horská dřevina, rostoucí v Číně, Tibetu a Indii.",
+  "claimed_false_for": {
+   "Q128116": "Smrk sivý (Picea glauca)",
+   "Q1429751": "Tisovec Montezumův (Taxodium mucronatum)",
+   "Q147417": "Zerav obrovský (Thuja plicata)",
+   "Q148920": "Jedle kavkazská (Abies nordmanniana)",
+   "Q149851": "Sekvojovec obrovský (Sequoiadendron giganteum)",
+   "Q158780": "Blahočet chilský (Araucaria araucana)",
+   "Q164767": "Nohoplod širolistý (Podocarpus latifolius)",
+   "Q255029": "Pazeravec Bidwillův (Libocedrus bidwillii)",
+   "Q3308307": "Borovice Martínezova (Pinus maximartinezii)",
+   "Q368248": "Borovice kadidlová (Pinus taeda)",
+   "Q61105": "Cedr libanonský (Cedrus libani)"
+  }
+ },
+ {
+  "id": "Q2411222#0",
+  "species": "Smrk Maximovičův",
+  "latin": "Picea maximowiczii",
+  "text": "Dorůstá až 30 metrů vysoko.",
+  "quote": "dorůstá až 30 m výšky",
+  "claimed_false_for": {
+   "Q128116": "Smrk sivý (Picea glauca)",
+   "Q1429751": "Tisovec Montezumův (Taxodium mucronatum)",
+   "Q147417": "Zerav obrovský (Thuja plicata)",
+   "Q148920": "Jedle kavkazská (Abies nordmanniana)",
+   "Q149851": "Sekvojovec obrovský (Sequoiadendron giganteum)",
+   "Q158780": "Blahočet chilský (Araucaria araucana)",
+   "Q164767": "Nohoplod širolistý (Podocarpus latifolius)",
+   "Q3286876": "Borovice Armandova (Pinus armandii)",
+   "Q368248": "Borovice kadidlová (Pinus taeda)",
+   "Q61105": "Cedr libanonský (Cedrus libani)"
+  }
+ },
+ {
+  "id": "Q2411222#1",
+  "species": "Smrk Maximovičův",
+  "latin": "Picea maximowiczii",
+  "text": "Tento druh je ve volné přírodě ohrožený.",
+  "quote": "Ve volné přírodě to je ohrožený druh stromu.",
+  "claimed_false_for": {
+   "Q128116": "Smrk sivý (Picea glauca)",
+   "Q147417": "Zerav obrovský (Thuja plicata)",
+   "Q148920": "Jedle kavkazská (Abies nordmanniana)",
+   "Q164767": "Nohoplod širolistý (Podocarpus latifolius)",
+   "Q368248": "Borovice kadidlová (Pinus taeda)"
+  }
+ },
+ {
+  "id": "Q2703200#0",
+  "species": "Smrk Wilsonův",
+  "latin": "Picea wilsonii",
+  "text": "Dorůstá až 50 metrů do výšky.",
+  "quote": "dorůstá až 50 m výšky",
+  "claimed_false_for": {
+   "Q128116": "Smrk sivý (Picea glauca)",
+   "Q1429751": "Tisovec Montezumův (Taxodium mucronatum)",
+   "Q164767": "Nohoplod širolistý (Podocarpus latifolius)",
+   "Q3286876": "Borovice Armandova (Pinus armandii)",
+   "Q3308307": "Borovice Martínezova (Pinus maximartinezii)",
+   "Q61105": "Cedr libanonský (Cedrus libani)"
+  }
+ },
+ {
+  "id": "Q2703200#1",
+  "species": "Smrk Wilsonův",
+  "latin": "Picea wilsonii",
+  "text": "Roste v horských lesích, 1400 až 2800 metrů nad mořem.",
+  "quote": "Roste v horských lesích v nadmořských výškách 1400-2800 m n. m.",
+  "claimed_false_for": {
+   "Q161070": "Blahočet ztepilý (Araucaria heterophylla)"
+  }
+ },
+ {
+  "id": "Q2703233#0",
+  "species": "Borovice pozdní",
+  "latin": "Pinus serotina",
+  "text": "Šišky se otevírají až po požárech.",
+  "quote": "serotinního charakteru (otevírají se po požárech)",
+  "claimed_false_for": {
+   "Q1429751": "Tisovec Montezumův (Taxodium mucronatum)",
+   "Q147417": "Zerav obrovský (Thuja plicata)",
+   "Q148920": "Jedle kavkazská (Abies nordmanniana)",
+   "Q158780": "Blahočet chilský (Araucaria araucana)",
+   "Q164767": "Nohoplod širolistý (Podocarpus latifolius)",
+   "Q255029": "Pazeravec Bidwillův (Libocedrus bidwillii)",
+   "Q61105": "Cedr libanonský (Cedrus libani)"
+  }
+ },
+ {
+  "id": "Q2703233#1",
+  "species": "Borovice pozdní",
+  "latin": "Pinus serotina",
+  "text": "Na severu svého areálu se často kříží s příbuzným druhem.",
+  "quote": "Na severu svého areálu často hybridizuje",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q391374#0",
+  "species": "Smrk Koyamův",
+  "latin": "Picea koyamae",
+  "text": "Tento druh je ve volné přírodě velmi vzácný.",
+  "quote": "Ve volné přírodě je to dnes vzácný druh",
+  "claimed_false_for": {
+   "Q128116": "Smrk sivý (Picea glauca)",
+   "Q147417": "Zerav obrovský (Thuja plicata)",
+   "Q148920": "Jedle kavkazská (Abies nordmanniana)",
+   "Q164767": "Nohoplod širolistý (Podocarpus latifolius)",
+   "Q368248": "Borovice kadidlová (Pinus taeda)"
+  }
+ },
+ {
+  "id": "Q391374#1",
+  "species": "Smrk Koyamův",
+  "latin": "Picea koyamae",
+  "text": "Časté tajfuny ohrožují jeho populaci.",
+  "quote": "Populace je ohrožována také častými tajfuny.",
+  "claimed_false_for": {
+   "Q128116": "Smrk sivý (Picea glauca)",
+   "Q1429751": "Tisovec Montezumův (Taxodium mucronatum)",
+   "Q147417": "Zerav obrovský (Thuja plicata)",
+   "Q148920": "Jedle kavkazská (Abies nordmanniana)",
+   "Q149851": "Sekvojovec obrovský (Sequoiadendron giganteum)",
+   "Q158780": "Blahočet chilský (Araucaria araucana)",
+   "Q164767": "Nohoplod širolistý (Podocarpus latifolius)",
+   "Q255029": "Pazeravec Bidwillův (Libocedrus bidwillii)",
+   "Q3308307": "Borovice Martínezova (Pinus maximartinezii)",
+   "Q368248": "Borovice kadidlová (Pinus taeda)",
+   "Q61105": "Cedr libanonský (Cedrus libani)"
+  }
+ },
+ {
+  "id": "Q510129#0",
+  "species": "Damaroň filipínská",
+  "latin": "Agathis philippinensis",
+  "text": "Vytváří nevětvený kmen vysoký až 65 metrů.",
+  "quote": "Vytváří až 65 metrů vysoký nevětvený kmen",
+  "claimed_false_for": {
+   "Q1044186": "Borovice hustokvětá (Pinus densiflora)",
+   "Q1116374": "Borovice dlouhověká (Pinus longaeva)",
+   "Q1451343": "Jedle Fraserova (Abies fraseri)",
+   "Q147278": "Borovice limba (Pinus cembra)",
+   "Q147824": "Smrk omorika (Picea omorika)",
+   "Q1640268": "Borovice Montezumova (Pinus montezumae)",
+   "Q251370": "Borovice Jeffreyova (Pinus jeffreyi)",
+   "Q3239660": "Smrk štětinatý (Picea asperata)",
+   "Q469151": "Smrk červený (Picea rubens)",
+   "Q593894": "Jedlovec Mertensův (Tsuga mertensiana)",
+   "Q670040": "Cypřiš arizonský (Cupressus arizonica)"
+  }
+ },
+ {
+  "id": "Q510129#1",
+  "species": "Damaroň filipínská",
+  "latin": "Agathis philippinensis",
+  "text": "Tento druh je zdrojem cenné pryskyřice.",
+  "quote": "Kromě dřeva je tento strom zdrojem velmi hodnotné pryskyřice",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q754765#0",
+  "species": "Modřín sibiřský",
+  "latin": "Larix sibirica",
+  "text": "Dřevo je velmi odolné proti trouchnivění a hmyzu.",
+  "quote": "Díky svému obsahu pryskyřice je velmi odolný proti trouchnivění, plísním a hmyzu",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q754765#1",
+  "species": "Modřín sibiřský",
+  "latin": "Larix sibirica",
+  "text": "Strom začíná tvořit semena v 10 až 15 letech.",
+  "quote": "Strom začíná tvořit semena v 10–15 letech.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q756334#0",
+  "species": "Modřín dahurský",
+  "latin": "Larix gmelinii",
+  "text": "Dorůstá výšky 10 až 30 metrů ve své domovině.",
+  "quote": "ve své domovině dorůstá výšky 10–30 m, výjimečně až 40 m",
+  "claimed_false_for": {
+   "Q161070": "Blahočet ztepilý (Araucaria heterophylla)"
+  }
+ },
+ {
+  "id": "Q756334#1",
+  "species": "Modřín dahurský",
+  "latin": "Larix gmelinii",
+  "text": "Šišky dozrávají na podzim.",
+  "quote": "Šišky dozrávají již na podzim",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q955413#0",
+  "species": "Damaroň jižní",
+  "latin": "Agathis australis",
+  "text": "Kmen bez větví je vysoký až 50 metrů.",
+  "quote": "Vytváří až 50 metrů vysoký nevětvený kmen",
+  "claimed_false_for": {
+   "Q128116": "Smrk sivý (Picea glauca)",
+   "Q1429751": "Tisovec Montezumův (Taxodium mucronatum)",
+   "Q164767": "Nohoplod širolistý (Podocarpus latifolius)",
+   "Q3286876": "Borovice Armandova (Pinus armandii)",
+   "Q3308307": "Borovice Martínezova (Pinus maximartinezii)",
+   "Q61105": "Cedr libanonský (Cedrus libani)"
+  }
+ },
+ {
+  "id": "Q955413#1",
+  "species": "Damaroň jižní",
+  "latin": "Agathis australis",
+  "text": "Z pryskyřice se vyrábí linoleum, barvy a laky.",
+  "quote": "Kromě dřeva je strom zdrojem hodnotné pryskyřice, která se využívá při výrobě linolea, kvalitních barev a laků.",
+  "claimed_false_for": {
+   "Q1429751": "Tisovec Montezumův (Taxodium mucronatum)",
+   "Q147417": "Zerav obrovský (Thuja plicata)",
+   "Q148920": "Jedle kavkazská (Abies nordmanniana)",
+   "Q149851": "Sekvojovec obrovský (Sequoiadendron giganteum)",
+   "Q164767": "Nohoplod širolistý (Podocarpus latifolius)",
+   "Q255029": "Pazeravec Bidwillův (Libocedrus bidwillii)",
+   "Q61105": "Cedr libanonský (Cedrus libani)"
+  }
+ }
+]

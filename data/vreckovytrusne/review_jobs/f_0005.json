@@ -1,0 +1,363 @@
+[
+ {
+  "id": "Q10635270#0",
+  "species": "Americké padlí angreštové",
+  "latin": "Podosphaera mors-uvae",
+  "text": "Koncem května pokryje mladé výhonky bělavým povlakem.",
+  "quote": "Koncem května se objevuje na mladých výhoncích povlak bělavého moučnatého epifytického mycelia",
+  "claimed_false_for": {
+   "Q10438421": "Míhavka vodní (Vibrissea truncorum)",
+   "Q10572848": "Terčka žlutozelená (Lanzia luteovirescens)",
+   "Q1773888": "Zelenitka měděnková (Chlorociboria aeruginascens)",
+   "Q2305506": "Kořenitka nadmutá (Rhizina undulata)",
+   "Q2866408": "Čihovitka masová (Ascocoryne sarcoides)",
+   "Q3388167": "Kališník obecný (Helvella acetabulum)",
+   "Q529191": "Hlízenka sasanková (Dumontinia tuberosa)",
+   "Q605828": "Mozkovka rosolovitá (Ascotremella faginea)",
+   "Q9384107": "Jehnědka olšová (Ciboria caucus)"
+  }
+ },
+ {
+  "id": "Q10635270#2",
+  "species": "Americké padlí angreštové",
+  "latin": "Podosphaera mors-uvae",
+  "text": "Pokrývá plody nejdřív bílým a později hnědým povlakem.",
+  "quote": "Infekce pokrývá zprvu bílým, později hnědým plsťovitým povlakem plody",
+  "claimed_false_for": {
+   "Q10438421": "Míhavka vodní (Vibrissea truncorum)",
+   "Q10572848": "Terčka žlutozelená (Lanzia luteovirescens)",
+   "Q1773888": "Zelenitka měděnková (Chlorociboria aeruginascens)",
+   "Q2305506": "Kořenitka nadmutá (Rhizina undulata)",
+   "Q2866408": "Čihovitka masová (Ascocoryne sarcoides)",
+   "Q3388167": "Kališník obecný (Helvella acetabulum)",
+   "Q529191": "Hlízenka sasanková (Dumontinia tuberosa)",
+   "Q605828": "Mozkovka rosolovitá (Ascotremella faginea)",
+   "Q9384107": "Jehnědka olšová (Ciboria caucus)"
+  }
+ },
+ {
+  "id": "Q1129282#0",
+  "species": "Smrž obecný",
+  "latin": "Morchella esculenta",
+  "text": "Roste od dubna do května, někdy už i v březnu.",
+  "quote": "Roste od dubna do května, někdy už i v březnu.",
+  "claimed_false_for": {
+   "Q1516648": "Chřapáč kadeřavý (Helvella crispa)"
+  }
+ },
+ {
+  "id": "Q1129282#1",
+  "species": "Smrž obecný",
+  "latin": "Morchella esculenta",
+  "text": "Povrch klobouku je posetý hlubokými jamkami.",
+  "quote": "Celý jeho povrch je poset hlubokými jamkami",
+  "claimed_false_for": {
+   "Q19733": "Rosolovka mozkovitá (Tremella mesenterica)",
+   "Q217227": "Paličkovice nachová (Claviceps purpurea)",
+   "Q241408": "Dřevnatka kyjovitá (Xylaria polymorpha)",
+   "Q937345": "Ohnivec šarlatový (Sarcoscypha coccinea)"
+  }
+ },
+ {
+  "id": "Q1462244#0",
+  "species": "Chřapáč jamkatý",
+  "latin": "Helvella lacunosa",
+  "text": "Má klobouk ve tvaru sedla s několika laloky.",
+  "quote": "zpravidla sedlovitý či cípatý, složený z několika, obyčejně 2 až 4, nepravidelných větších laloků",
+  "claimed_false_for": {
+   "Q1251715": "Mísenka oranžová (Aleuria aurantia)",
+   "Q1327882": "Smrž kuželovitý (Morchella conica)",
+   "Q1463716": "Kačenka česká (Verpa bohemica)",
+   "Q19733": "Rosolovka mozkovitá (Tremella mesenterica)",
+   "Q217227": "Paličkovice nachová (Claviceps purpurea)",
+   "Q241408": "Dřevnatka kyjovitá (Xylaria polymorpha)",
+   "Q937345": "Ohnivec šarlatový (Sarcoscypha coccinea)"
+  }
+ },
+ {
+  "id": "Q1462244#2",
+  "species": "Chřapáč jamkatý",
+  "latin": "Helvella lacunosa",
+  "text": "Vyrůstá z holé země, z listí, v mechu nebo na tlejícím dřevě.",
+  "quote": "Vyrůstá z holé půdy, z listí, v mechu nebo na tlejícím dřevě.",
+  "claimed_false_for": {
+   "Q217227": "Paličkovice nachová (Claviceps purpurea)"
+  }
+ },
+ {
+  "id": "Q1463716#3",
+  "species": "Kačenka česká",
+  "latin": "Verpa bohemica",
+  "text": "Má klobouk přirostlý ke třeni jen nahoře.",
+  "quote": "Až v samém vrcholu klobouku je tento připojen ke třeni",
+  "claimed_false_for": {
+   "Q1129282": "Smrž obecný (Morchella esculenta)",
+   "Q1327882": "Smrž kuželovitý (Morchella conica)"
+  }
+ },
+ {
+  "id": "Q1516648#0",
+  "species": "Chřapáč kadeřavý",
+  "latin": "Helvella crispa",
+  "text": "Plodnice se objevují od července do listopadu.",
+  "quote": "Plodnice se vyskytují od července do listopadu.",
+  "claimed_false_for": {
+   "Q1129282": "Smrž obecný (Morchella esculenta)",
+   "Q1327882": "Smrž kuželovitý (Morchella conica)",
+   "Q1463716": "Kačenka česká (Verpa bohemica)",
+   "Q2627281": "Ucháč obrovský (Gyromitra gigas)",
+   "Q900804": "Ucháč obecný (Gyromitra esculenta)",
+   "Q937345": "Ohnivec šarlatový (Sarcoscypha coccinea)"
+  }
+ },
+ {
+  "id": "Q1516648#1",
+  "species": "Chřapáč kadeřavý",
+  "latin": "Helvella crispa",
+  "text": "Roste především v listnatých a smíšených lesích.",
+  "quote": "především v listnatých a smíšených lesích",
+  "claimed_false_for": {
+   "Q217227": "Paličkovice nachová (Claviceps purpurea)",
+   "Q900804": "Ucháč obecný (Gyromitra esculenta)"
+  }
+ },
+ {
+  "id": "Q19733#0",
+  "species": "Rosolovka mozkovitá",
+  "latin": "Tremella mesenterica",
+  "text": "Roste od podzimu do jara na větvích listnatých stromů, zvláště dubů.",
+  "quote": "Roste běžně od podzimu do jara na suchých nebo opadavých větévkách listnatých stromů, zvláště dubů.",
+  "claimed_false_for": {
+   "Q1129282": "Smrž obecný (Morchella esculenta)",
+   "Q1251715": "Mísenka oranžová (Aleuria aurantia)",
+   "Q1327882": "Smrž kuželovitý (Morchella conica)",
+   "Q1463716": "Kačenka česká (Verpa bohemica)",
+   "Q1516648": "Chřapáč kadeřavý (Helvella crispa)",
+   "Q217227": "Paličkovice nachová (Claviceps purpurea)",
+   "Q2627281": "Ucháč obrovský (Gyromitra gigas)"
+  }
+ },
+ {
+  "id": "Q217227#1",
+  "species": "Paličkovice nachová",
+  "latin": "Claviceps purpurea",
+  "text": "Parazituje na travinách, hlavně na žitu.",
+  "quote": "cizopasí především v mladých semenících žita",
+  "claimed_false_for": {
+   "Q1129282": "Smrž obecný (Morchella esculenta)",
+   "Q1327882": "Smrž kuželovitý (Morchella conica)",
+   "Q1516648": "Chřapáč kadeřavý (Helvella crispa)",
+   "Q19733": "Rosolovka mozkovitá (Tremella mesenterica)",
+   "Q241408": "Dřevnatka kyjovitá (Xylaria polymorpha)",
+   "Q2627281": "Ucháč obrovský (Gyromitra gigas)",
+   "Q900804": "Ucháč obecný (Gyromitra esculenta)",
+   "Q937345": "Ohnivec šarlatový (Sarcoscypha coccinea)"
+  }
+ },
+ {
+  "id": "Q217227#2",
+  "species": "Paličkovice nachová",
+  "latin": "Claviceps purpurea",
+  "text": "Promění část květu v tmavý, tvrdý útvar.",
+  "quote": "mění jej v tmavý tvrdý útvar",
+  "claimed_false_for": {
+   "Q1129282": "Smrž obecný (Morchella esculenta)",
+   "Q1327882": "Smrž kuželovitý (Morchella conica)",
+   "Q1516648": "Chřapáč kadeřavý (Helvella crispa)",
+   "Q19733": "Rosolovka mozkovitá (Tremella mesenterica)",
+   "Q241408": "Dřevnatka kyjovitá (Xylaria polymorpha)",
+   "Q2627281": "Ucháč obrovský (Gyromitra gigas)",
+   "Q900804": "Ucháč obecný (Gyromitra esculenta)",
+   "Q937345": "Ohnivec šarlatový (Sarcoscypha coccinea)"
+  }
+ },
+ {
+  "id": "Q217227#5",
+  "species": "Paličkovice nachová",
+  "latin": "Claviceps purpurea",
+  "text": "Parazituje i na ječmeni a pšenici.",
+  "quote": "Paličkovice cizopasí především v mladých semenících žita, ale i ječmene, pšenice a dalších druhů travin.",
+  "claimed_false_for": {
+   "Q1129282": "Smrž obecný (Morchella esculenta)",
+   "Q1462244": "Chřapáč jamkatý (Helvella lacunosa)",
+   "Q1463716": "Kačenka česká (Verpa bohemica)",
+   "Q1516648": "Chřapáč kadeřavý (Helvella crispa)",
+   "Q19733": "Rosolovka mozkovitá (Tremella mesenterica)",
+   "Q241408": "Dřevnatka kyjovitá (Xylaria polymorpha)",
+   "Q2627281": "Ucháč obrovský (Gyromitra gigas)",
+   "Q900804": "Ucháč obecný (Gyromitra esculenta)",
+   "Q937345": "Ohnivec šarlatový (Sarcoscypha coccinea)"
+  }
+ },
+ {
+  "id": "Q217227#7",
+  "species": "Paličkovice nachová",
+  "latin": "Claviceps purpurea",
+  "text": "Vylučuje sladkou šťávu, která láká hmyz.",
+  "quote": "která je silným lákadlem pro hmyz",
+  "claimed_false_for": {
+   "Q1129282": "Smrž obecný (Morchella esculenta)",
+   "Q1462244": "Chřapáč jamkatý (Helvella lacunosa)",
+   "Q1463716": "Kačenka česká (Verpa bohemica)",
+   "Q1516648": "Chřapáč kadeřavý (Helvella crispa)",
+   "Q19733": "Rosolovka mozkovitá (Tremella mesenterica)",
+   "Q241408": "Dřevnatka kyjovitá (Xylaria polymorpha)",
+   "Q2627281": "Ucháč obrovský (Gyromitra gigas)",
+   "Q900804": "Ucháč obecný (Gyromitra esculenta)",
+   "Q937345": "Ohnivec šarlatový (Sarcoscypha coccinea)"
+  }
+ },
+ {
+  "id": "Q241408#0",
+  "species": "Dřevnatka kyjovitá",
+  "latin": "Xylaria polymorpha",
+  "text": "Roste v trsech na pařezech a kořenech listnatých stromů.",
+  "quote": "Roste obvykle v trsech na pařezech a rozkládajících se kořenech listnatých stromů",
+  "claimed_false_for": {
+   "Q1327882": "Smrž kuželovitý (Morchella conica)",
+   "Q1463716": "Kačenka česká (Verpa bohemica)",
+   "Q217227": "Paličkovice nachová (Claviceps purpurea)",
+   "Q900804": "Ucháč obecný (Gyromitra esculenta)"
+  }
+ },
+ {
+  "id": "Q241408#1",
+  "species": "Dřevnatka kyjovitá",
+  "latin": "Xylaria polymorpha",
+  "text": "Na jaře rostou mladé, našedlé plodnice.",
+  "quote": "Na jaře se vyskytují mladá (našedlá) stromata",
+  "claimed_false_for": {
+   "Q1251715": "Mísenka oranžová (Aleuria aurantia)",
+   "Q19733": "Rosolovka mozkovitá (Tremella mesenterica)",
+   "Q217227": "Paličkovice nachová (Claviceps purpurea)",
+   "Q937345": "Ohnivec šarlatový (Sarcoscypha coccinea)"
+  }
+ },
+ {
+  "id": "Q2627281#1",
+  "species": "Ucháč obrovský",
+  "latin": "Gyromitra gigas",
+  "text": "Klobouk připomíná lidský mozek.",
+  "quote": "místy až charakterem připomínajícím povrch lidského mozku",
+  "claimed_false_for": {
+   "Q217227": "Paličkovice nachová (Claviceps purpurea)",
+   "Q241408": "Dřevnatka kyjovitá (Xylaria polymorpha)",
+   "Q937345": "Ohnivec šarlatový (Sarcoscypha coccinea)"
+  }
+ },
+ {
+  "id": "Q619358#0",
+  "species": "Suchá skvrnitost listů peckovin",
+  "latin": "Stigmina carpophila",
+  "text": "Tvoří na listech skvrny velké asi 5 milimetrů.",
+  "quote": "Na listech tvoří okolo 5 mm velké fialovočervené až červenohnědé skvrny s tmavým okrajem.",
+  "claimed_false_for": {
+   "Q10438442": "Vodnička potoční (Cudoniella clavus)",
+   "Q10519246": "Ohnivec černý (Plectania melastoma)",
+   "Q1129282": "Smrž obecný (Morchella esculenta)",
+   "Q12954767": "Řasnatka modromléčná (Peziza saniosa)",
+   "Q1367539": "Ouško kornoutovité (Otidea onotica)",
+   "Q1463716": "Kačenka česká (Verpa bohemica)",
+   "Q1552015": "Pazoubek zelený (Microglossum viride)",
+   "Q1553596": "Terčovnice síťnatá (Disciotis venosa)",
+   "Q19733": "Rosolovka mozkovitá (Tremella mesenterica)",
+   "Q61944831": "Destice chřapáčová (Discina ancilis)"
+  }
+ },
+ {
+  "id": "Q619358#1",
+  "species": "Suchá skvrnitost listů peckovin",
+  "latin": "Stigmina carpophila",
+  "text": "Potřebuje k šíření déšť.",
+  "quote": "Deště jsou nezbytné pro šíření spor.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q619358#2",
+  "species": "Suchá skvrnitost listů peckovin",
+  "latin": "Stigmina carpophila",
+  "text": "Pokrývá plody velkým množstvím skvrn.",
+  "quote": "Plody jsou pokryty velkým množstvím skvrn.",
+  "claimed_false_for": {
+   "Q10438442": "Vodnička potoční (Cudoniella clavus)",
+   "Q10519246": "Ohnivec černý (Plectania melastoma)",
+   "Q1129282": "Smrž obecný (Morchella esculenta)",
+   "Q12954767": "Řasnatka modromléčná (Peziza saniosa)",
+   "Q1367539": "Ouško kornoutovité (Otidea onotica)",
+   "Q1463716": "Kačenka česká (Verpa bohemica)",
+   "Q1552015": "Pazoubek zelený (Microglossum viride)",
+   "Q1553596": "Terčovnice síťnatá (Disciotis venosa)",
+   "Q19733": "Rosolovka mozkovitá (Tremella mesenterica)",
+   "Q61944831": "Destice chřapáčová (Discina ancilis)"
+  }
+ },
+ {
+  "id": "Q619358#3",
+  "species": "Suchá skvrnitost listů peckovin",
+  "latin": "Stigmina carpophila",
+  "text": "Tento druh se nejvíce šíří za teplého a vlhkého počasí.",
+  "quote": "Onemocnění se podle některých zdrojů šíří především za teplejšího (optimum 15–20 °C) a vlhkého počasí.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q900804#0",
+  "species": "Ucháč obecný",
+  "latin": "Gyromitra esculenta",
+  "text": "Roste nejčastěji pod borovicemi v jehličnatých lesích.",
+  "quote": "můžeme nejčastěji nalézt v jehličnatých lesích, především pod borovicemi",
+  "claimed_false_for": {
+   "Q1463716": "Kačenka česká (Verpa bohemica)",
+   "Q1516648": "Chřapáč kadeřavý (Helvella crispa)",
+   "Q19733": "Rosolovka mozkovitá (Tremella mesenterica)",
+   "Q217227": "Paličkovice nachová (Claviceps purpurea)",
+   "Q937345": "Ohnivec šarlatový (Sarcoscypha coccinea)"
+  }
+ },
+ {
+  "id": "Q900804#1",
+  "species": "Ucháč obecný",
+  "latin": "Gyromitra esculenta",
+  "text": "Roste od března do května.",
+  "quote": "v období března až května",
+  "claimed_false_for": {
+   "Q1516648": "Chřapáč kadeřavý (Helvella crispa)"
+  }
+ },
+ {
+  "id": "Q900804#3",
+  "species": "Ucháč obecný",
+  "latin": "Gyromitra esculenta",
+  "text": "Jed působí hlavně na trávicí ústrojí a játra.",
+  "quote": "Jed působí především na trávicí ústrojí a játra",
+  "claimed_false_for": {
+   "Q19733": "Rosolovka mozkovitá (Tremella mesenterica)",
+   "Q217227": "Paličkovice nachová (Claviceps purpurea)",
+   "Q241408": "Dřevnatka kyjovitá (Xylaria polymorpha)",
+   "Q937345": "Ohnivec šarlatový (Sarcoscypha coccinea)"
+  }
+ },
+ {
+  "id": "Q937345#0",
+  "species": "Ohnivec šarlatový",
+  "latin": "Sarcoscypha coccinea",
+  "text": "Roste na mrtvém dřevě listnatých stromů.",
+  "quote": "Roste vzácně v předjaří a začátkem jara na mrtvém dřevě listnatých stromů",
+  "claimed_false_for": {
+   "Q1327882": "Smrž kuželovitý (Morchella conica)",
+   "Q1463716": "Kačenka česká (Verpa bohemica)",
+   "Q1516648": "Chřapáč kadeřavý (Helvella crispa)",
+   "Q217227": "Paličkovice nachová (Claviceps purpurea)",
+   "Q900804": "Ucháč obecný (Gyromitra esculenta)"
+  }
+ },
+ {
+  "id": "Q937345#1",
+  "species": "Ohnivec šarlatový",
+  "latin": "Sarcoscypha coccinea",
+  "text": "Plodničky jsou 2 až 5 cm široké.",
+  "quote": "Plodničky jsou 2 až 5 cm široké",
+  "claimed_false_for": {
+   "Q217227": "Paličkovice nachová (Claviceps purpurea)"
+  }
+ }
+]

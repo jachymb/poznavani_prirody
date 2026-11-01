@@ -1,0 +1,101 @@
+[
+ {
+  "id": "Q1130991#0",
+  "species": "Ježovka obecná",
+  "latin": "Sphaerechinus granularis",
+  "text": "Živí se řasami rostoucími na povrchu kamenů.",
+  "quote": "se živí řasami rostoucími na povrchu kamenů",
+  "claimed_false_for": {
+   "Q21120": "Hvězdice růžová (Asterias rubens)",
+   "Q2212339": "Placouš výstřední (Dendraster excentricus)",
+   "Q2993412": "Hvězdice Linckova (Protoreaster lincki)"
+  }
+ },
+ {
+  "id": "Q1130991#1",
+  "species": "Ježovka obecná",
+  "latin": "Sphaerechinus granularis",
+  "text": "Často se maskuje kusem řasy nebo schránkami měkkýšů.",
+  "quote": "Často se maskuje kusem řasy nebo schránkami měkkýšů",
+  "claimed_false_for": {
+   "Q1140786": "Hvězdice amurská (Asterias amurensis)",
+   "Q21120": "Hvězdice růžová (Asterias rubens)",
+   "Q26634": "Hvězdice trnová koruna (Acanthaster planci)",
+   "Q2993412": "Hvězdice Linckova (Protoreaster lincki)",
+   "Q822952": "Hvězdice síťovaná (Oreaster reticulatus)",
+   "Q882716": "Hvězdice modrá (Linckia laevigata)"
+  }
+ },
+ {
+  "id": "Q1140786#0",
+  "species": "Hvězdice amurská",
+  "latin": "Asterias amurensis",
+  "text": "Dorůstá až do půl metru.",
+  "quote": "její velikost se vyšplhá až na půl metru",
+  "claimed_false_for": {
+   "Q1130991": "Ježovka obecná (Sphaerechinus granularis)",
+   "Q139182": "Houba komínová (Aplysina aerophoba)",
+   "Q2212339": "Placouš výstřední (Dendraster excentricus)",
+   "Q664443": "Ježovka jedlá (Echinus esculentus)"
+  }
+ },
+ {
+  "id": "Q1140786#1",
+  "species": "Hvězdice amurská",
+  "latin": "Asterias amurensis",
+  "text": "Patří mezi 100 nejhorších invazních druhů světa.",
+  "quote": "zařazena na seznam 100 nejhorších invazních druhů světa",
+  "claimed_false_for": {
+   "Q1130991": "Ježovka obecná (Sphaerechinus granularis)",
+   "Q139182": "Houba komínová (Aplysina aerophoba)",
+   "Q21120": "Hvězdice růžová (Asterias rubens)",
+   "Q2212339": "Placouš výstřední (Dendraster excentricus)",
+   "Q26634": "Hvězdice trnová koruna (Acanthaster planci)",
+   "Q2993412": "Hvězdice Linckova (Protoreaster lincki)",
+   "Q664443": "Ježovka jedlá (Echinus esculentus)"
+  }
+ },
+ {
+  "id": "Q1140786#2",
+  "species": "Hvězdice amurská",
+  "latin": "Asterias amurensis",
+  "text": "Jí rybí vajíčka a měkkýše.",
+  "quote": "představuje nebezpečí pro původní druhy živočichů (měkkýši, požírá rybí vajíčka)",
+  "claimed_false_for": {
+   "Q1130991": "Ježovka obecná (Sphaerechinus granularis)",
+   "Q2212339": "Placouš výstřední (Dendraster excentricus)",
+   "Q664443": "Ježovka jedlá (Echinus esculentus)"
+  }
+ },
+ {
+  "id": "Q139182#1",
+  "species": "Houba komínová",
+  "latin": "Aplysina aerophoba",
+  "text": "Žije v mělkých, osluněných vodách do 20 m hloubky.",
+  "quote": "Žije v mělkých, osluněných vodách do 20 m hloubky.",
+  "claimed_false_for": {
+   "Q21120": "Hvězdice růžová (Asterias rubens)"
+  }
+ },
+ {
+  "id": "Q664443#0",
+  "species": "Ježovka jedlá",
+  "latin": "Echinus esculentus",
+  "text": "Dosahuje velikosti 16 cm.",
+  "quote": "Dosahuje velikosti 16 cm.",
+  "claimed_false_for": {
+   "Q2212339": "Placouš výstřední (Dendraster excentricus)"
+  }
+ },
+ {
+  "id": "Q882716#3",
+  "species": "Hvězdice modrá",
+  "latin": "Linckia laevigata",
+  "text": "Jí také řasy a mikroby.",
+  "quote": "nepohrdne ani řasami a mikroby",
+  "claimed_false_for": {
+   "Q21120": "Hvězdice růžová (Asterias rubens)",
+   "Q26634": "Hvězdice trnová koruna (Acanthaster planci)"
+  }
+ }
+]

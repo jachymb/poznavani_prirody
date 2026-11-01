@@ -1,0 +1,268 @@
+{
+ "facts": [
+  {
+   "id": "Q12104#2",
+   "species": "Oves setý",
+   "text": "Má šedozelené listy, na okrajích drsné.",
+   "quote": "Čepele mají dosti drsnou strukturu z obou stran, zvláště pak na okrajích, jejich barva je šedozelená"
+  },
+  {
+   "id": "Q109995#2",
+   "species": "Sněženka podsněžník",
+   "text": "Množí se podzemními cibulkami.",
+   "quote": "Množí se cibulkami, které bývají v létě a na podzim několik centimetrů pod zemí"
+  },
+  {
+   "id": "Q500857#2",
+   "species": "Lontar vějířovitý",
+   "text": "Tento druh má listy dlouhé 1,5 až 3 metry.",
+   "quote": "Listy jsou zpeřené, dlouhé 1,5 až 3 metry."
+  },
+  {
+   "id": "Q42729158#1",
+   "species": "Tuberóza hlíznatá",
+   "text": "Květy mají velmi silnou, omamnou vůni.",
+   "quote": "Květy mají specifickou, intenzivní až omamnou vůni."
+  },
+  {
+   "id": "Q158008#0",
+   "species": "Puškvorec obecný",
+   "text": "Celá rostlina nápadně voní, nejvíc při rozlomení oddenku.",
+   "quote": "Celá rostlina je charakteristická nápadnou vůní, zvláště při rozlomení oddenku."
+  },
+  {
+   "id": "Q13187#0",
+   "species": "Kokosovník ořechoplodý",
+   "text": "Tento druh dorůstá až do výšky 30 metrů.",
+   "quote": "je až 30 metrů vysoká palma"
+  },
+  {
+   "id": "Q12099#1",
+   "species": "Žito seté",
+   "text": "Tento druh se opyluje pylem z jiných rostlin.",
+   "quote": "Žito je cizosprašná rostlina"
+  },
+  {
+   "id": "Q276262#3",
+   "species": "Pýr plazivý",
+   "text": "Tento druh vylučuje do půdy látku, která brání růstu jiných rostlin.",
+   "quote": "Do půdy vylučuje ze svých živých i odumírajících částí alelopatickou látku, glykosid agropyren, který potlačuje vývin ostatních rostlin."
+  },
+  {
+   "id": "Q1493#0",
+   "species": "Ananasovník chocholatý",
+   "text": "Dorůstá do výšky 60 až 120 centimetrů.",
+   "quote": "Ananasovník dorůstá výšky 60–120 cm a šířky kolem 50–100 cm."
+  },
+  {
+   "id": "Q1391422#0",
+   "species": "Šáchor hlíznatý",
+   "text": "Pochází z Afriky, jižní a střední Evropy a jižní Asie.",
+   "quote": "původem z Afriky, jižní Evropy, střední Evropy a jižní Asie"
+  },
+  {
+   "id": "Q693409#0",
+   "species": "Imperata válcovitá",
+   "text": "Tento druh může vyrůst až do výšky tří metrů.",
+   "quote": "může dosahovat výšky až 3 metrů"
+  },
+  {
+   "id": "Q109995#6",
+   "species": "Sněženka podsněžník",
+   "text": "Včely medonosné sbírají jeho nektar a pyl, když se na chvíli oteplí.",
+   "quote": "sbírají včely medonosné uvnitř sněženkových květů nektar a pyl"
+  },
+  {
+   "id": "Q11575#8",
+   "species": "Kukuřice setá",
+   "text": "Na klasech parazituje houba sněť.",
+   "quote": "která na kukuřičných klasech parazituje"
+  },
+  {
+   "id": "Q28367#0",
+   "species": "Chřest lékařský",
+   "text": "Tento druh dorůstá do výšky asi 40 až 150 centimetrů.",
+   "quote": "asi 40 až 150 cm vysokou, bylinu s krátkým dřevnatým oddenkem."
+  },
+  {
+   "id": "Q101711#3",
+   "species": "Konvalinka vonná",
+   "text": "Roste ve světlých lesích, křovinách a na horských loukách.",
+   "quote": "ve světlých lesích a křovinách a na horských loukách"
+  },
+  {
+   "id": "Q28557#1",
+   "species": "Rákos obecný",
+   "text": "Kvete od června do září.",
+   "quote": "Kvete od června do září."
+  },
+  {
+   "id": "Q27657#0",
+   "species": "Datlovník kanárský",
+   "text": "Jen zřídka dosahuje dvaceti metrů výšky.",
+   "quote": "Jen zřídka dosahuje 20metrové výšky."
+  },
+  {
+   "id": "Q500857#4",
+   "species": "Lontar vějířovitý",
+   "text": "Na spadaných plodech se pasou vepři.",
+   "quote": "spadaných plodech se pasou vepři"
+  },
+  {
+   "id": "Q23400#3",
+   "species": "Česnek kuchyňský",
+   "text": "Na květenství rostou drobné cibulky, které slouží k rozmnožování.",
+   "quote": "pacibulky, které slouží k vegetativnímu rozmnožování"
+  },
+  {
+   "id": "Q161114#1",
+   "species": "Trsť rákosovitá",
+   "text": "Vytlačuje původní rostliny a vytváří husté porosty.",
+   "quote": "Vytváří husté shluky homogenních porostů a vytlačuje původní druhy rostlin."
+  }
+ ],
+ "candidates": {
+  "Q161098": {
+   "name": "Pšenice setá",
+   "latin": "Triticum aestivum",
+   "family": "lipnicovité",
+   "lead": "Pšenice setá (Triticum aestivum nebo také T. vulgare) je jedna z nejrozšířenějších obilnin (po kukuřici a rýži). Původem patrně z Blízkého východu je po tisíciletí šlechtěna a pěstována po celém světě.\n\n\n== Popis ==\nJedno- nebo dvouletá trsnatá tráva dorůstá výšky 50–130 cm. Na hladkém a lysém dutém stéble s hladkými kolénky vyrůstají čárkovité listy s prodlouženými jazýčky a oušky. Květenství je čtyřhranný nepravý klas s klásky po 2–4 kvítcích. Pleva je vejčitá, kýlnatá s jedním zoubkem, pluchy",
+   "facts": [
+    "Kvete v červnu a červenci.",
+    "Dorůstá do výšky 50 až 130 cm."
+   ]
+  },
+  "Q165196": {
+   "name": "Proso seté",
+   "latin": "Panicum miliaceum",
+   "family": "lipnicovité",
+   "lead": "Proso seté (Panicum miliaceum) je obilnina z čeledi lipnicovitých.\n\n\n== Historie prosa ==\nProso patří vedle pšenice a ječmene k nejstarším kulturním plodinám. Jeho pravlastí je Čína, východní Asie a Indie. Zrna prosa byla nalezena na různých místech Evropy ve stavbách pocházejících z doby kamenné (kultura s lineární keramikou). Oblastí nálezů je i Mezopotámie. Pravděpodobně asi do raného novověku bylo v lidské stravě hlavní obilovinou. Postupně ho vytlačovaly pšenice, žito, později\nrýže a kukuři",
+   "facts": [
+    "Pochází z Číny, východní Asie a Indie.",
+    "Vedle pšenice a ječmene patří k nejstarším pěstovaným plodinám."
+   ]
+  },
+  "Q159221": {
+   "name": "Agáve sisalová",
+   "latin": "Agave sisalana",
+   "family": "chřestovité",
+   "lead": "Agáve sisalová (Agave sisalana) je víceletá xerofytní rostlina z čeledi chřestovitých (Asparagaceae), kde je v dnešní taxonomii řazena do podčeledi agávových (Agavoideae). Z jejích listů se získává textilní vlákno sisal. Její druhové jméno je odvozeno od mexického města Sisal na poloostrově Yucatán odkud původně pochází. Nejvíce se pěstuje v Brazílii, ale také v Tanzanii, Angole, Keni, Indonésii a\nna Floridě.\n\n\n== Popis ==\nAgáve má tlustý, ale relativně krátký dřevitý stonek z kterého vyrůstají ",
+   "facts": [
+    "Po odkvětu rostlina hyne."
+   ]
+  },
+  "Q13187": {
+   "name": "Kokosovník ořechoplodý",
+   "latin": "Cocos nucifera",
+   "family": "arekovité",
+   "lead": "Kokosovník ořechoplodý (Cocos nucifera) je palma z čeledí arekovitých, původem pravděpodobně z jihovýchodní Asie, pěstovaná v tropických oblastech na březích moří a velkých řek. Pěstován je pro svůj plod, respektive jeho semeno, nazývané kokosový ořech.\n\n\n== Popis ==\nKokosovník ořechoplodý je až 30 metrů vysoká palma, v kmeni často prohnutá. Kmen je pokryt hustými kruhovými jizvami. Listy podlouhlého tvaru vyrůstají na vrcholku palmy a jsou dlouhé až 6 metrů a mají silnou tenkou žilku uprostřed.",
+   "facts": [
+    "Tento druh dorůstá až do výšky 30 metrů.",
+    "Tento druh má kmen pokrytý hustými kruhovými jizvami.",
+    "Tento druh se šíří po vodě, protože jeho plody plavou.",
+    "Tento druh má žluté květy v dlouhých latách."
+   ]
+  },
+  "Q1493": {
+   "name": "Ananasovník chocholatý",
+   "latin": "Ananas comosus",
+   "family": "bromeliovité",
+   "lead": "Ananasovník chocholatý (Ananas comosus), též ananas chocholatý, nebo jen zkráceně ananas, je pantropická rostlina z čeledi broméliovitých (Bromeliaceae) původem z tropické Jižní Ameriky. Je to víceletá tropická bylina s listy v přízemní růžici, která se pěstuje především pro plodenství zvané ananas v tropech a teplých subtropech.\n\n\n== Nomenklatura ==\nAnanas comosus (L.) Merr.,  1917\n\n\n=== Variety ===\nAnanas comosus (L.) Merr. var. comosus\nAnanas comosus (L.) Merr. var. ananassoides (Baker) Coppe",
+   "facts": [
+    "Dorůstá do výšky 60 až 120 centimetrů.",
+    "Tento druh má 50 až 200 malých květů.",
+    "Dozrává asi tři měsíce po odkvětu.",
+    "Pěstuje se i jako pokojová rostlina.",
+    "Má rád světlo, ale přímé slunce mu škodí.",
+    "Pochází z tropické Ameriky.",
+    "Housenka jednoho motýla škodí v jeho květenství.",
+    "Housenka jiného motýla provrtává jeho stonky.",
+    "Jeden druh červce okusem poškozuje jeho listy."
+   ]
+  },
+  "Q42562": {
+   "name": "Kurkuma",
+   "latin": "Curcuma longa",
+   "family": "zázvorníkovité",
+   "lead": "Kurkuma neboli indický šafrán je koření ze sušeného mletého oddenku kurkumovníku dlouhého (Curcuma longa). Obsahuje asi 5 % éterického oleje (hlavní složky sabinen, felandren a žluté barvivo kurkumin). Používá se v kari koření; hojně se využívá v pákistánské, indické, perské a thajské kuchyni.\nZ kurkumy se také vyrábí škrobová moučka; na trhu se objevuje pod názvem arrowroot, někdy se také nazývá koa.\nKurkuma se používá též jako barvivo do potravin, například do bezvaječných těstovin, polévek, r",
+   "facts": [
+    "Plody jsou tobolky, které se ve zralosti samy rozevírají.",
+    "Stonek bývá vysoký až 1,5 metru."
+   ]
+  },
+  "Q33943": {
+   "name": "Euterpe brazilská",
+   "latin": "Euterpe oleracea",
+   "family": "arekovité",
+   "lead": "Euterpe brazilská (Euterpe oleracea), česky též kapustoň brazilská, je druh palmy pocházející z tropické Ameriky. V Brazílii je známa jako açaí [asají]. Je to štíhlá palma se zpeřenými rozměrnými listy. Je přirozeně rozšířena v nížinách Jižní Ameriky. Má mnohostranné využití. Jádro růstového vrcholu se konzumuje jako palmové zelí, z plodů se připravují populární osvěžující nápoje. Je také\nvyužívána v domorodé jihoamerické medicíně. Produkty z plodů jsou v posledních letech populární i mimo Jižní",
+   "facts": [
+    "Kvete a plodí celý rok.",
+    "Dorůstá až do výšky 20 metrů.",
+    "Tento druh se pěstuje i jako okrasná rostlina.",
+    "Má kulaté, purpurově černé plody."
+   ]
+  },
+  "Q158008": {
+   "name": "Puškvorec obecný",
+   "latin": "Acorus calamus",
+   "family": "puškvorcovité",
+   "lead": "Puškvorec obecný (Acorus calamus) je léčivá rostlina z čeledi puškvorcovité (Acoraceae). Některé starší taxonomické systémy řadí puškvorec do čeledi árónovité (Araceae). Puškvorec je také tradičním kořením.\n\n\n== Popis ==\nPuškvorec obecný je vytrvalá bylina dorůstající výšky nejčastěji 50–150 cm. Na bázi vyrůstá z plazivého oddenku o tloušťce až 3 cm. Celá rostlina je charakteristická nápadnou vůní, zvláště při rozlomení oddenku.\nLodyha je tříhranná.\nListy jsou střídavé, dvouřadě uspořádané, přis",
+   "facts": [
+    "Celá rostlina nápadně voní, nejvíc při rozlomení oddenku.",
+    "Listy mají mečovitý tvar.",
+    "V Česku kvete nejčastěji v červnu a červenci.",
+    "Roste na březích stojatých a pomalu tekoucích vod.",
+    "Obsahuje beta-asaron, který je podezřelý z vyvolávání rakoviny."
+   ]
+  },
+  "Q1391422": {
+   "name": "Šáchor hlíznatý",
+   "latin": "Cyperus rotundus",
+   "family": "šáchorovité",
+   "lead": "Šáchor hlíznatý (Cyperus rotundus) je vytrvalá rostlina z čeledi šáchorovité, původem z Afriky, jižní Evropy, střední Evropy a jižní Asie. Podle Červeného seznamu IUCN jde o málo dotčený taxon.\n\nSlovo cyperus pochází z řeckého κύπερος, kyperos, rotundus pochází z latiny.",
+   "facts": [
+    "Pochází z Afriky, jižní a střední Evropy a jižní Asie.",
+    "Tento druh je vytrvalá rostlina."
+   ]
+  },
+  "Q165403": {
+   "name": "Palma olejná",
+   "latin": "Elaeis guineensis",
+   "family": "arekovité",
+   "lead": "Palma olejná (Elaeis guineensis), známá také jako olejnice obecná, je tropický strom z čeledi arekovitých. Z oplodí této palmy se získává palmový olej, který je světle žlutý až oranžový a používá se v potravinářství nebo třeba k výrobě biopaliva, kosmetických přípravků a pracích prášků. Z jedné vzrostlé palmy se ročně sklízí 5–10 plodenství. Kromě oleje poskytuje olejná palma sladkou mízu,\npoužívanou k výrobě vína, cukru nebo octa. Listy se využívají k výrobě pleteného zboží a dřevo (včetně dřev",
+   "facts": [
+    "Tento druh ročně dává 5 až 10 shluků plodů."
+   ]
+  },
+  "Q11575": {
+   "name": "Kukuřice setá",
+   "latin": "Zea mays",
+   "family": "lipnicovité",
+   "lead": "Kukuřice setá (Zea mays) je druh jednoděložné rostliny z čeledi lipnicovitých (Poaceae). Český název kukuřice patří mezi novotvary vytvořené v 19. století Janem Svatoplukem Preslem.\n\n\n== Botanická charakteristika ==\n\nJedná se o robustní jednoletou trávu, dorůstající nejčastěji do výšky 1–3 m. Někdy zvláště v suchých podmínkách může být i nižší, např. jen 0,5 m, jsou ale známy rostliny i šestimetrové. Listy jsou střídavé, přisedlé s listovými pochvami a souběžnou žilnatinou. Čepele jsou asi 30–90",
+   "facts": [
+    "Tento druh dorůstá nejčastěji do výšky 1 až 3 metrů.",
+    "Kořeny tohoto druhu mohou sahat až čtyři metry do hloubky, pokud půda dovolí.",
+    "Listy bývají 30 až 90 centimetrů dlouhé.",
+    "Pyl roznáší hlavně vítr, hmyz pomáhá málo.",
+    "Jeden klas tohoto druhu nese od 60 do více než 1000 zrnek.",
+    "Bez pomoci člověka se už semena z klasu neuvolní.",
+    "Pochází ze Střední Ameriky.",
+    "Pylová zrna tohoto druhu vydrží živá jen 10 až 30 minut.",
+    "Na klasech parazituje houba sněť.",
+    "Zavíječ mu škodí."
+   ]
+  },
+  "Q3391243": {
+   "name": "Cukrová třtina",
+   "latin": "Saccharum officinarum",
+   "family": "lipnicovité",
+   "lead": "Třtinovec cukrový (Saccharum officinarum), neboli cukrová třtina, je druh jednoděložné rostliny z čeledi lipnicovitých (Poaceae). V dnešní době je hojně pěstovaná především kvůli vysokému obsahu cukru.\n\n\n== Botanická charakteristika ==\n\nCukrová třtina je víceletá, značně mohutná tráva se vzpřímenými masivními stébly, která mohou být až 6 m vysoká a 5 cm tlustá. Stéblo má v průměru asi 20 až 40 kolének a je vyplněno měkkou dření, která obsahuje až 20 % cukru (především tedy sacharózy, dále také m",
+   "facts": [
+    "Dorůstá až do výšky šesti metrů.",
+    "Kvete velkým peřovitým květenstvím vysokým až 80 cm.",
+    "Tento druh roste z kusů stébel zanechaných v půdě.",
+    "Vylisovaná stébla se topí nebo slouží k výrobě papíru."
+   ]
+  }
+ }
+}

@@ -1,0 +1,32 @@
+{"drop_facts": [
+{"id": "Q33602#6", "why": "zaměňuje horní mez za typickou hodnotu: článek uvádí v přírodě 10-20, vzácně možná 30 let, v zajetí téměř 40"},
+{"id": "Q33602#9", "why": "sporné: šakal obecný se v areálu pandy běžně nevyskytuje, údaj je pochybný"},
+{"id": "Q33609#4", "why": "sporný a vnitřně rozporný údaj: článek uvádí průměrně 56 km denně, telemetrie ukazuje i vyšší roční hodnoty"},
+{"id": "Q339418#0", "why": "sporné: cukrová třtina není hlavní potravou druhu, jde o všežravce žijícího i tam, kde třtina neroste"},
+{"id": "Q35517#7", "why": "vynechává další dřeviny a vodní rostliny, působí jako úplný výčet potravy; slovo jeřábů lze číst jako ptáky"}
+], "drop_pairs": [
+{"id": "Q33609#10", "species": "Q34505"},
+{"id": "Q339418#1", "species": "Q284417"},
+{"id": "Q339418#1", "species": "Q302166"},
+{"id": "Q34505#6", "species": "Q160042"},
+{"id": "Q34706#2", "species": "Q132576"},
+{"id": "Q34706#2", "species": "Q132922"},
+{"id": "Q34706#2", "species": "Q133006"},
+{"id": "Q34706#2", "species": "Q26582"},
+{"id": "Q34706#2", "species": "Q33609"},
+{"id": "Q34706#4", "species": "Q43375"},
+{"id": "Q34706#5", "species": "Q4388"},
+{"id": "Q35255#0", "species": "Q131907"},
+{"id": "Q35255#5", "species": "Q122783"},
+{"id": "Q35255#8", "species": "Q132072"},
+{"id": "Q35255#8", "species": "Q132905"},
+{"id": "Q35255#9", "species": "Q42627"},
+{"id": "Q35517#8", "species": "Q173128"},
+{"id": "Q35694#2", "species": "Q4126704"},
+{"id": "Q35694#3", "species": "Q172886"},
+{"id": "Q35694#3", "species": "Q81091"},
+{"id": "Q35694#8", "species": "Q36341"},
+{"id": "Q35694#8", "species": "Q43576"},
+{"id": "Q35694#8", "species": "Q8332"},
+{"id": "Q35694#8", "species": "Q33609"}
+]}

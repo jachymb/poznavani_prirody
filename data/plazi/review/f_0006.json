@@ -1,0 +1,25 @@
+{"drop_facts": [
+{"id": "Q2600292#0", "why": "prozrazuje název: želva čtyřoká je pojmenována podle skvrn připomínajících oči"},
+{"id": "Q262555#0", "why": "„do 20 cm“ dělá horní mez, ale článek uvádí i větší jedince (a druh bývá větší)"},
+{"id": "Q262555#3", "why": "sporné a vnitřně matoucí: denní druh, aktivní hlavně ráno a odpoledne, nikoli za šera"},
+{"id": "Q2625714#1", "why": "přidává „hlavně ovoce a semena“, citace vyjmenovává i listy a řasy bez důrazu"},
+{"id": "Q2625714#3", "why": "krkolomné („dá víc samic“), bez vztahu k druhu"},
+{"id": "Q2702835#0", "why": "nejasné a sporné: „celodenní“ může znamenat denní i nepřetržitou aktivitu, had není aktivní celý den"},
+{"id": "Q2712717#0", "why": "sporné: údaj z návodu k chovu; brokesie obvykle nocují na nízkých větvičkách"},
+{"id": "Q2716137#0", "why": "vypouští „mohou“ a „i“: možná horní hodnota vydávána za typickou"},
+{"id": "Q2716241#1", "why": "„převážně“ platí pro šestičlenný výčet, zkrácení na tři položky posouvá význam"},
+{"id": "Q2716647#0", "why": "pevná délka 21 cm, článek uvádí i jedince do 30 cm"}
+], "drop_pairs": [
+{"id": "Q262555#2", "species": "Q187036"},
+{"id": "Q262555#2", "species": "Q2600292"},
+{"id": "Q2625714#2", "species": "Q504839"},
+{"id": "Q265773#2", "species": "Q4504"},
+{"id": "Q265773#3", "species": "Q790586"},
+{"id": "Q268501#0", "species": "Q2716241"},
+{"id": "Q2716137#2", "species": "Q208648"},
+{"id": "Q2716137#2", "species": "Q2822603"},
+{"id": "Q2716137#2", "species": "Q844254"},
+{"id": "Q2716594#1", "species": "Q262555"},
+{"id": "Q2716594#1", "species": "Q301016"},
+{"id": "Q2716594#1", "species": "Q754182"}
+]}

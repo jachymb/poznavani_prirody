@@ -1,0 +1,498 @@
+[
+ {
+  "id": "Q158168#0",
+  "species": "Ostřice lesní",
+  "latin": "Carex sylvatica",
+  "text": "Dorůstá do výšky 30 až 100 centimetrů.",
+  "quote": "dosahující výšky nejčastěji 30–100 cm",
+  "claimed_false_for": {
+   "Q1443970": "Ostřice pevná (Carex firma)"
+  }
+ },
+ {
+  "id": "Q158168#1",
+  "species": "Ostřice lesní",
+  "latin": "Carex sylvatica",
+  "text": "Kvete v Česku od května do července.",
+  "quote": "V ČR kvete nejčastěji v květnu až v červenci.",
+  "claimed_false_for": {
+   "Q10396359": "Šafrán karpatský (Crocus heuffelianus)",
+   "Q161119": "Přestup drsný (Smilax aspera)"
+  }
+ },
+ {
+  "id": "Q158190#0",
+  "species": "Ostřice obecná",
+  "latin": "Carex nigra",
+  "text": "Většinou vyroste 10 až 80 centimetrů vysoko.",
+  "quote": "Jedná se o rostlinu dosahující výšky nejčastěji 10–80, vzácněji až 110 cm.",
+  "claimed_false_for": {
+   "Q157897": "Okřehek hrbatý (Lemna gibba)"
+  }
+ },
+ {
+  "id": "Q158190#1",
+  "species": "Ostřice obecná",
+  "latin": "Carex nigra",
+  "text": "Kvete nejčastěji od května do července.",
+  "quote": "Kvete nejčastěji v květnu až v červenci.",
+  "claimed_false_for": {
+   "Q2074966": "Ostřice Micheliova (Carex michelii)"
+  }
+ },
+ {
+  "id": "Q158194#0",
+  "species": "Okřehek trojbrázdý",
+  "latin": "Lemna trisulca",
+  "text": "Většinou se množí novými rostlinami, ne semeny.",
+  "quote": "Vegetativní rozmnožování vysoce převažuje nad pohlavním",
+  "claimed_false_for": {
+   "Q1314837": "Prstnatec bezový (Dactylorhiza sambucina)",
+   "Q5620593": "Šáchor žlutavý (Cyperus flavescens)"
+  }
+ },
+ {
+  "id": "Q158194#1",
+  "species": "Okřehek trojbrázdý",
+  "latin": "Lemna trisulca",
+  "text": "V Česku se běžně vyskytuje od nížin do podhůří.",
+  "quote": "V ČR se vyskytuje poměrně běžně od nížin do podhůří.",
+  "claimed_false_for": {
+   "Q1314837": "Prstnatec bezový (Dactylorhiza sambucina)",
+   "Q149094": "Řemenatka červená (Clivia miniata)",
+   "Q15041677": "Šafrán setý (Crocus sativus)",
+   "Q15312475": "Kulkas zamiolistý (Zamioculcas zamiifolia)",
+   "Q15324975": "Kostus africký (Costus afer)",
+   "Q163946": "Modřenec chocholatý (Muscari comosum)",
+   "Q2175092": "Glorióza vznešená (Gloriosa superba)",
+   "Q23485": "Cibule kuchyňská (Allium cepa)",
+   "Q5620593": "Šáchor žlutavý (Cyperus flavescens)"
+  }
+ },
+ {
+  "id": "Q158234#0",
+  "species": "Ostřice latnatá",
+  "latin": "Carex paniculata",
+  "text": "Tento druh dorůstá obvykle do výšky 40 až 100 centimetrů.",
+  "quote": "Jedná se o rostlinu dosahující výšky nejčastěji 40–100 cm.",
+  "claimed_false_for": {
+   "Q159640": "Zevar nejmenší (Sparganium natans)",
+   "Q159896": "Sítina trojklaná (Juncus trifidus)",
+   "Q161119": "Přestup drsný (Smilax aspera)"
+  }
+ },
+ {
+  "id": "Q158234#1",
+  "species": "Ostřice latnatá",
+  "latin": "Carex paniculata",
+  "text": "Kvete většinou od května do června.",
+  "quote": "Kvete nejčastěji v květnu až v červnu.",
+  "claimed_false_for": {
+   "Q164122": "Proso vláskovité (Panicum capillare)"
+  }
+ },
+ {
+  "id": "Q158237#0",
+  "species": "Ostřice prstnatá",
+  "latin": "Carex digitata",
+  "text": "Dorůstá většinou do výšky 10 až 30 centimetrů.",
+  "quote": "Jedná se o rostlinu dosahující výšky nejčastěji 10–30 cm.",
+  "claimed_false_for": {
+   "Q146572": "Orobinec úzkolistý (Typha angustifolia)"
+  }
+ },
+ {
+  "id": "Q158237#1",
+  "species": "Ostřice prstnatá",
+  "latin": "Carex digitata",
+  "text": "Kvete většinou v dubnu a květnu.",
+  "quote": "Kvete nejčastěji v dubnu až v květnu.",
+  "claimed_false_for": {
+   "Q159028": "Skřípina lesní (Scirpus sylvaticus)",
+   "Q159962": "Smělek štíhlý (Koeleria macrantha)",
+   "Q161304": "Bahnička jednoplevá (Eleocharis uniglumis)",
+   "Q162399": "Bezkolenec rákosovitý (Molinia arundinacea)",
+   "Q208705": "Troskut prstnatý (Cynodon dactylon)"
+  }
+ },
+ {
+  "id": "Q158312#0",
+  "species": "Ostřice srstnatá",
+  "latin": "Carex hirta",
+  "text": "Kvete hlavně v květnu a v červnu.",
+  "quote": "Kvete nejčastěji v květnu až v červnu.",
+  "claimed_false_for": {
+   "Q162399": "Bezkolenec rákosovitý (Molinia arundinacea)",
+   "Q763872": "Kuňucha (Ambrosina bassii)"
+  }
+ },
+ {
+  "id": "Q158312#1",
+  "species": "Ostřice srstnatá",
+  "latin": "Carex hirta",
+  "text": "Nahoře jsou samčí květy, dole samičí.",
+  "quote": "nahoře jsou klásky čistě samčí, dole čistě samičí.",
+  "claimed_false_for": {
+   "Q159953": "Paličkovec šedavý (Corynephorus canescens)",
+   "Q161800": "Sveřep stoklasa (Bromus secalinus)",
+   "Q163411": "Křivatec český (Gagea bohemica)",
+   "Q163559": "Dosna indická (Canna indica)",
+   "Q163963": "Psineček výběžkatý (Agrostis stolonifera)",
+   "Q2700676": "Vodoklas vodní (Orontium aquaticum)"
+  }
+ },
+ {
+  "id": "Q158383#0",
+  "species": "Trachykarpus žíněný",
+  "latin": "Trachycarpus fortunei",
+  "text": "Tento druh dorůstá až do výšky 15 metrů.",
+  "quote": "Z pevného kmene, jenž zajišťuje maximální celkovou výšku rostliny až 15 metrů",
+  "claimed_false_for": {
+   "Q1400982": "Kohátka kalíškatá (Tofieldia calyculata)",
+   "Q15559539": "Kamyšník vrcholičnatý (Bolboschoenus yagara)",
+   "Q159286": "Česnek kulatohlavý (Allium sphaerocephalon)",
+   "Q161879": "Zblochan vodní (Glyceria maxima)",
+   "Q164619": "Kostřava sivá (Festuca pallens)",
+   "Q165439": "Orobinec sítinovitý (Typha laxmannii)",
+   "Q18461": "Šmel okoličnatý (Butomus umbellatus)",
+   "Q579146": "Milička menší (Eragrostis minor)"
+  }
+ },
+ {
+  "id": "Q158383#1",
+  "species": "Trachykarpus žíněný",
+  "latin": "Trachycarpus fortunei",
+  "text": "Tento druh má na vrcholu vějíř listů široký až 110 cm.",
+  "quote": "vyrůstají charakteristické tmavě zelené listy tvořící na vrcholu rostliny vějíř, který dosahuje průměru až 110 cm",
+  "claimed_false_for": {
+   "Q158194": "Okřehek trojbrázdý (Lemna trisulca)",
+   "Q161158": "Modřenec širolistý (Muscari botryoides)",
+   "Q161291": "Bika mnohokvětá (Luzula multiflora)",
+   "Q165403": "Palma olejná (Elaeis guineensis)",
+   "Q2086586": "Chrastice kanárská (Phalaris canariensis)",
+   "Q25292": "Datlovník pravý (Phoenix dactylifera)",
+   "Q33943": "Euterpe brazilská (Euterpe oleracea)",
+   "Q660200": "Chamedorea sličná (Chamaedorea elegans)",
+   "Q843726": "Nypa cukrodárná (Nypa fruticans)"
+  }
+ },
+ {
+  "id": "Q158383#2",
+  "species": "Trachykarpus žíněný",
+  "latin": "Trachycarpus fortunei",
+  "text": "Tento druh pochází ze střední a severovýchodní Číny.",
+  "quote": "Rostlina je původem ze střední a severovýchodní Číny.",
+  "claimed_false_for": {
+   "Q140088": "Acoelorrhaphe wrightii (Acoelorraphe wrightii)",
+   "Q161158": "Modřenec širolistý (Muscari botryoides)",
+   "Q161747": "Žumara nízká (Chamaerops humilis)",
+   "Q165403": "Palma olejná (Elaeis guineensis)",
+   "Q2086586": "Chrastice kanárská (Phalaris canariensis)",
+   "Q25292": "Datlovník pravý (Phoenix dactylifera)",
+   "Q33943": "Euterpe brazilská (Euterpe oleracea)",
+   "Q660200": "Chamedorea sličná (Chamaedorea elegans)",
+   "Q732371": "Lodoicea seychelská (Lodoicea maldivica)"
+  }
+ },
+ {
+  "id": "Q158383#3",
+  "species": "Trachykarpus žíněný",
+  "latin": "Trachycarpus fortunei",
+  "text": "Tento druh poskytuje vlákna, z nichž se v Číně dělají provazy a koše.",
+  "quote": "Z vláken z kmene Trachycarpus fortunei se v Číně vyrábějí různé výrobky, jako např. provazy, hrubé oděvy, pláštěnky, koše, košťata a štětce.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q158521#0",
+  "species": "Ostřice liščí",
+  "latin": "Carex vulpina",
+  "text": "Tento druh obvykle dosahuje výšky 30 až 100 cm.",
+  "quote": "Jedná se o rostlinu dosahující výšky nejčastěji 30–100 cm.",
+  "claimed_false_for": {
+   "Q164843": "Ostřice vláskovitá (Carex capillaris)",
+   "Q673348": "Ravenala madagaskarská (Ravenala madagascariensis)"
+  }
+ },
+ {
+  "id": "Q158521#1",
+  "species": "Ostřice liščí",
+  "latin": "Carex vulpina",
+  "text": "Tento druh má spodní listové pochvy, které se rozpadají na černavá vlákna.",
+  "quote": "Pochvy dolních listů se rozpadají na černavá vlákna.",
+  "claimed_false_for": {
+   "Q1466032": "Ostřice převislá (Carex pendula)"
+  }
+ },
+ {
+  "id": "Q158524#0",
+  "species": "Ostřice chabá",
+  "latin": "Carex flacca",
+  "text": "Dosahuje výšky nejčastěji 10 až 50 centimetrů.",
+  "quote": "dosahující výšky nejčastěji 10–50 cm",
+  "claimed_false_for": {
+   "Q159100": "Drobnička bezkořenná (Wolffia arrhiza)"
+  }
+ },
+ {
+  "id": "Q158524#1",
+  "species": "Ostřice chabá",
+  "latin": "Carex flacca",
+  "text": "Kvete nejčastěji v květnu.",
+  "quote": "Kvete nejčastěji v květnu.",
+  "claimed_false_for": {
+   "Q161119": "Přestup drsný (Smilax aspera)",
+   "Q161311": "Sveřep vzpřímený (Bromus erectus)",
+   "Q163527": "Ježatka kuří noha (Echinochloa crus-galli)",
+   "Q858360": "Čirok halabský (Sorghum halepense)"
+  }
+ },
+ {
+  "id": "Q158634#0",
+  "species": "Oves hluchý",
+  "latin": "Avena fatua",
+  "text": "Stébla bývají vysoká 50 až 120 centimetrů.",
+  "quote": "stébly vysokými 50 až 120 cm",
+  "claimed_false_for": {
+   "Q148904": "Strelície královská (Strelitzia reginae)",
+   "Q159152": "Sítina žabí (Juncus bufonius)",
+   "Q161114": "Trsť rákosovitá (Arundo donax)"
+  }
+ },
+ {
+  "id": "Q158634#1",
+  "species": "Oves hluchý",
+  "latin": "Avena fatua",
+  "text": "Jedna rostlina vytvoří až tisíc zrníček.",
+  "quote": "jedná rostlina vyprodukuje až 1000 obilek",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q158634#2",
+  "species": "Oves hluchý",
+  "latin": "Avena fatua",
+  "text": "Jeho zrníčka se snadno přichytí na srst zvířat.",
+  "quote": "osinaté obilky se také snadno přichycují na srst zvířat",
+  "claimed_false_for": {
+   "Q13187": "Kokosovník ořechoplodý (Cocos nucifera)",
+   "Q33466": "Kardamovník obecný (Elettaria cardamomum)"
+  }
+ },
+ {
+  "id": "Q158634#3",
+  "species": "Oves hluchý",
+  "latin": "Avena fatua",
+  "text": "Ostnatý výběžek se podle vlhkosti točí a zavrtá zrníčko do země.",
+  "quote": "Osina je hydroskopická a při změně vlhkosti vykonává otáčivý pohyb, který může zašpičatělou obilku zavrtat do půdy",
+  "claimed_false_for": {
+   "Q157924": "Ostřice zobánkatá (Carex rostrata)",
+   "Q158234": "Ostřice latnatá (Carex paniculata)",
+   "Q158524": "Ostřice chabá (Carex flacca)",
+   "Q158901": "Ostřice tmavá (Carex atrata)",
+   "Q159608": "Ostřice Davallova (Carex davalliana)",
+   "Q160494": "Skřípinka smáčknutá (Blysmus compressus)",
+   "Q164838": "Ostřice Hostova (Carex hostiana)",
+   "Q21173": "Kosatec žlutý (Iris pseudacorus)"
+  }
+ },
+ {
+  "id": "Q158676#0",
+  "species": "Zevar jednoduchý",
+  "latin": "Sparganium emersum",
+  "text": "Dorůstá obvykle do výšky 20 až 60 centimetrů.",
+  "quote": "dorůstají výšky nejčastěji 20–60 cm",
+  "claimed_false_for": {
+   "Q159100": "Drobnička bezkořenná (Wolffia arrhiza)"
+  }
+ },
+ {
+  "id": "Q158676#1",
+  "species": "Zevar jednoduchý",
+  "latin": "Sparganium emersum",
+  "text": "Některé listy plavou na hladině vody.",
+  "quote": "u zaplavených rostlin i plovoucí na hladině",
+  "claimed_false_for": {
+   "Q147783": "Lipnice luční (Poa pratensis)",
+   "Q159146": "Sveřep jalový (Bromus sterilis)",
+   "Q159894": "Ostřice drobná (Carex supina)",
+   "Q159991": "Bika klasnatá (Luzula spicata)",
+   "Q161311": "Sveřep vzpřímený (Bromus erectus)",
+   "Q163351": "Rdestík hřebenitý (Potamogeton pectinatus)",
+   "Q164122": "Proso vláskovité (Panicum capillare)",
+   "Q956289": "Ostřice Hallerova (Carex halleriana)"
+  }
+ },
+ {
+  "id": "Q158828#0",
+  "species": "Ostřice měkkoostenná",
+  "latin": "Carex muricata",
+  "text": "Dosahuje výšky nejčastěji 30 až 110 centimetrů.",
+  "quote": "dosahující výšky nejčastěji 30–110 cm",
+  "claimed_false_for": {
+   "Q164843": "Ostřice vláskovitá (Carex capillaris)",
+   "Q673348": "Ravenala madagaskarská (Ravenala madagascariensis)"
+  }
+ },
+ {
+  "id": "Q158828#1",
+  "species": "Ostřice měkkoostenná",
+  "latin": "Carex muricata",
+  "text": "Tento druh roste hlavně ve světlých listnatých lesích.",
+  "quote": "Roste hlavně ve světlých listnatých lesích a v křovinách",
+  "claimed_false_for": {
+   "Q12104": "Oves setý (Avena sativa)",
+   "Q148734": "Zevar vzpřímený (Sparganium erectum)",
+   "Q161098": "Pšenice setá (Triticum aestivum)",
+   "Q165439": "Orobinec sítinovitý (Typha laxmannii)",
+   "Q290967": "Jubea chilská (Jubaea chilensis)"
+  }
+ },
+ {
+  "id": "Q158829#0",
+  "species": "Kruštík drobnolistý",
+  "latin": "Epipactis microphylla",
+  "text": "Roste ve stínu starších listnatých lesů.",
+  "quote": "je lesní druh rostoucí ve starších listnatých lesích",
+  "claimed_false_for": {
+   "Q12060404": "Třtina nachová (Calamagrostis phragmitoides)",
+   "Q1253057": "Mečík střechovitý (Gladiolus imbricatus)",
+   "Q159287": "Vstavač bahenní (Anacamptis palustris)",
+   "Q162300": "Kosatec nízký (Iris pumila)",
+   "Q693409": "Imperata válcovitá (Imperata cylindrica)"
+  }
+ },
+ {
+  "id": "Q158829#1",
+  "species": "Kruštík drobnolistý",
+  "latin": "Epipactis microphylla",
+  "text": "Květy silně voní po vanilce nebo hřebíčku.",
+  "quote": "silně voní po vanilce či hřebíčku",
+  "claimed_false_for": {
+   "Q157574": "Ostřice písečná (Carex arenaria)",
+   "Q158524": "Ostřice chabá (Carex flacca)"
+  }
+ },
+ {
+  "id": "Q158829#2",
+  "species": "Kruštík drobnolistý",
+  "latin": "Epipactis microphylla",
+  "text": "Kvete od června do srpna.",
+  "quote": "Kvete v období od června do srpna.",
+  "claimed_false_for": {
+   "Q109995": "Sněženka podsněžník (Galanthus nivalis)",
+   "Q158944": "Ladoňka sibiřská (Scilla siberica)",
+   "Q159275": "Ladoňka dvoulistá (Scilla bifolia)",
+   "Q163062": "Modřenec hroznatý (Muscari neglectum)"
+  }
+ },
+ {
+  "id": "Q158829#3",
+  "species": "Kruštík drobnolistý",
+  "latin": "Epipactis microphylla",
+  "text": "Dorůstá obvykle do výšky 15 až 30 centimetrů.",
+  "quote": "lodyhou vysokou obvykle 15 až 30 cm",
+  "claimed_false_for": {
+   "Q175719": "Liliochvostec mohutný (Eremurus robustus)",
+   "Q8043098": "Žlutokap jižní (Xanthorrhoea australis)"
+  }
+ },
+ {
+  "id": "Q158831#0",
+  "species": "Ostřice chudokvětá",
+  "latin": "Carex pauciflora",
+  "text": "Dorůstá jen do výšky 10 až 20 centimetrů.",
+  "quote": "dosahuje výšky pouze 10–20 cm",
+  "claimed_false_for": {
+   "Q11575": "Kukuřice setá (Zea mays)",
+   "Q157895": "Ostřice ostrá (Carex acutiformis)",
+   "Q158026": "Ostřice plstnatoplodá (Carex lasiocarpa)",
+   "Q158521": "Ostřice liščí (Carex vulpina)",
+   "Q158956": "Skřípinec jezerní (Schoenoplectus lacustris)",
+   "Q164230": "Chundelka metlice (Apera spica-venti)",
+   "Q2175092": "Glorióza vznešená (Gloriosa superba)",
+   "Q28557": "Rákos obecný (Phragmites australis)",
+   "Q378568": "Vetiverie ovsuchovitá (Chrysopogon zizanioides)"
+  }
+ },
+ {
+  "id": "Q158831#1",
+  "species": "Ostřice chudokvětá",
+  "latin": "Carex pauciflora",
+  "text": "Roste hlavně na rašeliništích a rašelinných loukách.",
+  "quote": "Roste hlavně na rašeliništích a na rašelinných loukách.",
+  "claimed_false_for": {
+   "Q12027920": "Kamyšník polní (Bolboschoenus planiculmis)",
+   "Q148904": "Strelície královská (Strelitzia reginae)",
+   "Q158383": "Trachykarpus žíněný (Trachycarpus fortunei)",
+   "Q159706": "Ostřice skalní (Carex rupestris)"
+  }
+ },
+ {
+  "id": "Q158887#0",
+  "species": "Vodní mor americký",
+  "latin": "Elodea nuttallii",
+  "text": "Tento druh má samčí květy, které vyplouvají na hladinu.",
+  "quote": "Samčí květy se před rozkvětem uvolňují a vyplouvají na hladinu",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q158894#0",
+  "species": "Lipnice hajní",
+  "latin": "Poa nemoralis",
+  "text": "Dorůstá do výšky 30 až 80 cm.",
+  "quote": "Dorůstá do výšky 30 až 80 cm.",
+  "claimed_false_for": {
+   "Q15238126": "Skrytěnka bodlinatá (Crypsis aculeata)",
+   "Q157897": "Okřehek hrbatý (Lemna gibba)",
+   "Q158901": "Ostřice tmavá (Carex atrata)",
+   "Q159444": "Křivatec nejmenší (Gagea minima)",
+   "Q159896": "Sítina trojklaná (Juncus trifidus)"
+  }
+ },
+ {
+  "id": "Q158894#1",
+  "species": "Lipnice hajní",
+  "latin": "Poa nemoralis",
+  "text": "Tento druh rád roste ve stínu lesů.",
+  "quote": "Lipnice hajní je typický stínomilný lesní druh",
+  "claimed_false_for": {
+   "Q159953": "Paličkovec šedavý (Corynephorus canescens)",
+   "Q163411": "Křivatec český (Gagea bohemica)",
+   "Q163559": "Dosna indická (Canna indica)",
+   "Q500857": "Lontar vějířovitý (Borassus flabellifer)"
+  }
+ },
+ {
+  "id": "Q158901#0",
+  "species": "Ostřice tmavá",
+  "latin": "Carex atrata",
+  "text": "Dosahuje výšky nejčastěji 15 až 30 centimetrů.",
+  "quote": "Jedná se o rostlinu dosahující výšky nejčastěji 15–30 cm.",
+  "claimed_false_for": {
+   "Q161311": "Sveřep vzpřímený (Bromus erectus)",
+   "Q3338330": "Bahenka šášinovitá (Crypsis schoenoides)"
+  }
+ },
+ {
+  "id": "Q158901#1",
+  "species": "Ostřice tmavá",
+  "latin": "Carex atrata",
+  "text": "Kvete nejčastěji v červnu a červenci.",
+  "quote": "Kvete nejčastěji v červnu až v červenci.",
+  "claimed_false_for": {
+   "Q160038": "Ostřice tlapkatá (Carex pediformis)"
+  }
+ },
+ {
+  "id": "Q158902#0",
+  "species": "Křivatec luční",
+  "latin": "Gagea pratensis",
+  "text": "Kvete brzy z jara, nejčastěji v březnu a dubnu.",
+  "quote": "Rostlina vykvétá brzy z jara, nejčastěji v březnu a dubnu",
+  "claimed_false_for": {
+   "Q1369364": "Třtina rákosovitá (Calamagrostis arundinacea)",
+   "Q152553": "Ocún jesenní (Colchicum autumnale)",
+   "Q156363": "Lilie zlatohlavá (Lilium martagon)",
+   "Q161114": "Trsť rákosovitá (Arundo donax)"
+  }
+ }
+]

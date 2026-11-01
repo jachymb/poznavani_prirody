@@ -1,0 +1,174 @@
+[
+ {
+  "id": "Q571290#6",
+  "species": "Rak bahenní",
+  "latin": "Astacus leptodactylus",
+  "text": "Potočnice napadají tento druh na žábrách a na zadečku.",
+  "quote": "Raci jsou nejčastěji napadáni na žábrách, spodní straně zadečku a v ohbí nožek potočnicí",
+  "claimed_false_for": {
+   "Q1135229": "Žábronožka solná (Artemia salina)",
+   "Q134974": "Světélkovec atlantský (Meganyctiphanes norvegica)",
+   "Q1646839": "Stínka mechová (Philoscia muscorum)",
+   "Q2716301": "Vilejš stvolnatý (Lepas anatifera)",
+   "Q27690": "Humr evropský (Homarus gammarus)",
+   "Q2798958": "Stínka drobná (Lepidoniscus minutus)",
+   "Q492178": "Blešivec obecný (Gammarus pulex)"
+  }
+ },
+ {
+  "id": "Q586336#4",
+  "species": "Beruška vodní",
+  "latin": "Asellus aquaticus",
+  "text": "Seškrabává z kamenů povlaky řas a bakterií.",
+  "quote": "seškrabávají organické povlaky (perifyton nebo biofilm) řas a bakterií z kamenů",
+  "claimed_false_for": {
+   "Q206070": "Krab palmový (Birgus latro)",
+   "Q37668": "Humr americký (Homarus americanus)"
+  }
+ },
+ {
+  "id": "Q586336#5",
+  "species": "Beruška vodní",
+  "latin": "Asellus aquaticus",
+  "text": "Může přenést na ryby nemoc, pokud nese vrtejše.",
+  "quote": "mohou berušky na ryby přenášet onemocnění akantocefalózu, pokud jsou samy hostitely vrtejšů",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q61642001#0",
+  "species": "Rak mramorovaný",
+  "latin": "Procambarus virginalis",
+  "text": "Všichni jedinci tohoto druhu jsou samice.",
+  "quote": "Rozmnožuje se partenogeneticky a všichni jedinci druhu jsou samice.",
+  "claimed_false_for": {
+   "Q107078367": "Rak pruhovaný (Faxonius limosus)",
+   "Q1133124": "Rak červený (Procambarus clarkii)",
+   "Q134974": "Světélkovec atlantský (Meganyctiphanes norvegica)",
+   "Q1519675": "Rak mexický (Cambarellus patzcuarensis)",
+   "Q1573371": "Stínka zední (Oniscus asellus)",
+   "Q273655": "Velekrab japonský (Macrocheira kaempferi)",
+   "Q571290": "Rak bahenní (Astacus leptodactylus)",
+   "Q720597": "Krab bradavčitý (Eriphia verrucosa)",
+   "Q823941": "Krab říční (Eriocheir sinensis)"
+  }
+ },
+ {
+  "id": "Q61642001#1",
+  "species": "Rak mramorovaný",
+  "latin": "Procambarus virginalis",
+  "text": "Často přenáší račí mor.",
+  "quote": "přenašeči račího moru.",
+  "claimed_false_for": {
+   "Q1135229": "Žábronožka solná (Artemia salina)",
+   "Q134974": "Světélkovec atlantský (Meganyctiphanes norvegica)",
+   "Q1646839": "Stínka mechová (Philoscia muscorum)",
+   "Q210959": "Rak říční (Astacus astacus)",
+   "Q2716301": "Vilejš stvolnatý (Lepas anatifera)",
+   "Q2798958": "Stínka drobná (Lepidoniscus minutus)",
+   "Q492178": "Blešivec obecný (Gammarus pulex)"
+  }
+ },
+ {
+  "id": "Q693000#1",
+  "species": "Rak signální",
+  "latin": "Pacifastacus leniusculus",
+  "text": "Přenáší račí mor, ale je vůči němu imunní.",
+  "quote": "Navíc přenáší račí mor, vůči němuž je však imunní",
+  "claimed_false_for": {
+   "Q1135229": "Žábronožka solná (Artemia salina)",
+   "Q1317340": "Listonoh jarní (Lepidurus apus)",
+   "Q134974": "Světélkovec atlantský (Meganyctiphanes norvegica)",
+   "Q1573371": "Stínka zední (Oniscus asellus)",
+   "Q273655": "Velekrab japonský (Macrocheira kaempferi)",
+   "Q571290": "Rak bahenní (Astacus leptodactylus)",
+   "Q720597": "Krab bradavčitý (Eriphia verrucosa)"
+  }
+ },
+ {
+  "id": "Q720580#2",
+  "species": "Krab měnlivý",
+  "latin": "Pachygrapsus marmoratus",
+  "text": "Živí se mořskými řasami a mlži.",
+  "quote": "Živí se mořskými řasami a mlži, jako je slávka jedlá nebo svijonožci.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q720580#3",
+  "species": "Krab měnlivý",
+  "latin": "Pachygrapsus marmoratus",
+  "text": "Loví ho chobotnice pižmová.",
+  "quote": "Jedním z jeho největších predátorů je chobotnice pižmová (Eledone moschata).",
+  "claimed_false_for": {
+   "Q107078367": "Rak pruhovaný (Faxonius limosus)",
+   "Q1519675": "Rak mexický (Cambarellus patzcuarensis)",
+   "Q1646839": "Stínka mechová (Philoscia muscorum)",
+   "Q210959": "Rak říční (Astacus astacus)",
+   "Q2798958": "Stínka drobná (Lepidoniscus minutus)",
+   "Q492178": "Blešivec obecný (Gammarus pulex)"
+  }
+ },
+ {
+  "id": "Q720580#4",
+  "species": "Krab měnlivý",
+  "latin": "Pachygrapsus marmoratus",
+  "text": "Larvy se živí planktonem.",
+  "quote": "Larvy kraba měnlivého se živí planktonem a mohou přežít až 31 dní.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q720597#2",
+  "species": "Krab bradavčitý",
+  "latin": "Eriphia verrucosa",
+  "text": "Tento druh se živí také raky poustevníčky a mnohoštětinatci.",
+  "quote": "raky poustevníčky a mnohoštětinatci",
+  "claimed_false_for": {
+   "Q1135229": "Žábronožka solná (Artemia salina)",
+   "Q1646839": "Stínka mechová (Philoscia muscorum)",
+   "Q2716301": "Vilejš stvolnatý (Lepas anatifera)",
+   "Q2798958": "Stínka drobná (Lepidoniscus minutus)"
+  }
+ },
+ {
+  "id": "Q720597#3",
+  "species": "Krab bradavčitý",
+  "latin": "Eriphia verrucosa",
+  "text": "V Černém moři dokáže zabít invazivní rapanu dravou.",
+  "quote": "dokáže zabít invazivní rapanu dravou",
+  "claimed_false_for": {
+   "Q107078367": "Rak pruhovaný (Faxonius limosus)",
+   "Q1135229": "Žábronožka solná (Artemia salina)",
+   "Q1519675": "Rak mexický (Cambarellus patzcuarensis)",
+   "Q1646839": "Stínka mechová (Philoscia muscorum)",
+   "Q210959": "Rak říční (Astacus astacus)",
+   "Q2798958": "Stínka drobná (Lepidoniscus minutus)",
+   "Q492178": "Blešivec obecný (Gammarus pulex)"
+  }
+ },
+ {
+  "id": "Q935625#0",
+  "species": "Kreveta drsná",
+  "latin": "Stenopus hispidus",
+  "text": "Pomáhá murénám očistit ústa.",
+  "quote": "jiným živočichům (nejčastěji murénám) pomáhá v očištění úst",
+  "claimed_false_for": {
+   "Q107078367": "Rak pruhovaný (Faxonius limosus)",
+   "Q1135229": "Žábronožka solná (Artemia salina)",
+   "Q1519675": "Rak mexický (Cambarellus patzcuarensis)",
+   "Q1646839": "Stínka mechová (Philoscia muscorum)",
+   "Q210959": "Rak říční (Astacus astacus)",
+   "Q2798958": "Stínka drobná (Lepidoniscus minutus)",
+   "Q492178": "Blešivec obecný (Gammarus pulex)"
+  }
+ },
+ {
+  "id": "Q935625#1",
+  "species": "Kreveta drsná",
+  "latin": "Stenopus hispidus",
+  "text": "Žije ve skalních nebo korálových puklinách.",
+  "quote": "Přebývá ve skalních nebo korálových puklinách.",
+  "claimed_false_for": {
+   "Q1135229": "Žábronožka solná (Artemia salina)",
+   "Q134974": "Světélkovec atlantský (Meganyctiphanes norvegica)"
+  }
+ }
+]

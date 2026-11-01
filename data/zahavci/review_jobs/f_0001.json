@@ -1,0 +1,112 @@
+[
+ {
+  "id": "Q1551947#0",
+  "species": "Nezmar zelený",
+  "latin": "Hydra viridissima",
+  "text": "Živí se drobnými vodními živočichy, například buchankami nebo perloočkami.",
+  "quote": "Je to masožravec, živící se drobnými vodními živočichy (např. buchankami nebo perloočkami).",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1888438#4",
+  "species": "Medúzka sladkovodní",
+  "latin": "Craspedacusta sowerbyi",
+  "text": "Vodní ptáci nebo lidé tento druh pravděpodobně šíří do nových vod.",
+  "quote": "rozšířil pravděpodobně za pomoci vodních ptáků nebo lidí",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q2470250#0",
+  "species": "Kořenoústka plicnatá",
+  "latin": "Rhizostoma pulmo",
+  "text": "Živí se nejdrobnějšími organismy.",
+  "quote": "Živí se nejdrobnějšími organismy",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q2470250#1",
+  "species": "Kořenoústka plicnatá",
+  "latin": "Rhizostoma pulmo",
+  "text": "Žahnutí je velmi slabé a člověku neublíží.",
+  "quote": "její žahnutí je velmi slabé a člověku neublíží",
+  "claimed_false_for": {
+   "Q310432": "Čtyřhranka Fleckerova (Chironex fleckeri)",
+   "Q522939": "Talířovka obrovská (Cyanea capillata)"
+  }
+ },
+ {
+  "id": "Q310432#0",
+  "species": "Čtyřhranka Fleckerova",
+  "latin": "Chironex fleckeri",
+  "text": "Žije v pobřežních vodách kolem Austrálie od října do května.",
+  "quote": "obývající příbřežní vody okolo Austrálie v období od října do května",
+  "claimed_false_for": {
+   "Q2470250": "Kořenoústka plicnatá (Rhizostoma pulmo)",
+   "Q580826": "Sasanka koňská (Actinia equina)",
+   "Q935234": "Sasanka karafiátová (Metridium senile)"
+  }
+ },
+ {
+  "id": "Q310432#1",
+  "species": "Čtyřhranka Fleckerova",
+  "latin": "Chironex fleckeri",
+  "text": "Jed tohoto druhu patří k nejsilnějším na světě.",
+  "quote": "patří k nejsilnějším jedům na této planetě",
+  "claimed_false_for": {
+   "Q1551947": "Nezmar zelený (Hydra viridissima)",
+   "Q1888438": "Medúzka sladkovodní (Craspedacusta sowerbyi)",
+   "Q2470250": "Kořenoústka plicnatá (Rhizostoma pulmo)",
+   "Q522939": "Talířovka obrovská (Cyanea capillata)",
+   "Q580826": "Sasanka koňská (Actinia equina)",
+   "Q935234": "Sasanka karafiátová (Metridium senile)"
+  }
+ },
+ {
+  "id": "Q522939#4",
+  "species": "Talířovka obrovská",
+  "latin": "Cyanea capillata",
+  "text": "Loví také žebernatky a malé medúzy.",
+  "quote": "Talířovky samy se pak živí zooplanktonem, malými rybami, žebernatkami a rodem malých medúz, zvaných Aurelia.",
+  "claimed_false_for": {
+   "Q1551947": "Nezmar zelený (Hydra viridissima)",
+   "Q2470250": "Kořenoústka plicnatá (Rhizostoma pulmo)"
+  }
+ },
+ {
+  "id": "Q522939#5",
+  "species": "Talířovka obrovská",
+  "latin": "Cyanea capillata",
+  "text": "Kožatka velká se živí tímto druhem.",
+  "quote": "Kožatka velká se na talířovkách krmí téměř exkluzivně ve velkém množství během letní sezóny okolo východní Kanady.",
+  "claimed_false_for": {
+   "Q1551947": "Nezmar zelený (Hydra viridissima)",
+   "Q1888438": "Medúzka sladkovodní (Craspedacusta sowerbyi)"
+  }
+ },
+ {
+  "id": "Q522939#6",
+  "species": "Talířovka obrovská",
+  "latin": "Cyanea capillata",
+  "text": "Krevety u tohoto druhu nacházejí potravu i úkryt.",
+  "quote": "chovají jako plovoucí oázy, poskytující jak potravu, tak úkryt",
+  "claimed_false_for": {
+   "Q1551947": "Nezmar zelený (Hydra viridissima)",
+   "Q1888438": "Medúzka sladkovodní (Craspedacusta sowerbyi)"
+  }
+ },
+ {
+  "id": "Q580826#0",
+  "species": "Sasanka koňská",
+  "latin": "Actinia equina",
+  "text": "Žije v symbióze s rakem poustevníčkem.",
+  "quote": "Sasanka koňská udržuje symbiózu s rakem poustevníčkem.",
+  "claimed_false_for": {
+   "Q1551947": "Nezmar zelený (Hydra viridissima)",
+   "Q1888438": "Medúzka sladkovodní (Craspedacusta sowerbyi)",
+   "Q2470250": "Kořenoústka plicnatá (Rhizostoma pulmo)",
+   "Q310432": "Čtyřhranka Fleckerova (Chironex fleckeri)",
+   "Q522939": "Talířovka obrovská (Cyanea capillata)",
+   "Q935234": "Sasanka karafiátová (Metridium senile)"
+  }
+ }
+]

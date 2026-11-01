@@ -1,0 +1,418 @@
+[
+ {
+  "id": "Q106094#0",
+  "species": "Borovice pinie",
+  "latin": "Pinus pinea",
+  "text": "Může dorůst až do výšky 30 metrů.",
+  "quote": "Může dorůst výšky až 30 metrů.",
+  "claimed_false_for": {
+   "Q146935": "Cedr himálajský (Cedrus deodara)",
+   "Q146992": "Jedle bělokorá (Abies alba)",
+   "Q147468": "Zerav západní (Thuja occidentalis)",
+   "Q149851": "Sekvojovec obrovský (Sequoiadendron giganteum)",
+   "Q179729": "Tis červený (Taxus baccata)",
+   "Q211457": "Borovice halepská (Pinus halepensis)"
+  }
+ },
+ {
+  "id": "Q106094#1",
+  "species": "Borovice pinie",
+  "latin": "Pinus pinea",
+  "text": "Dává pevné dřevo na okna, dveře a nábytek.",
+  "quote": "Dřevo pinie je hojně využíváno především jako stavební materiál (okna, dveře, schody, kuchyňský nábytek)",
+  "claimed_false_for": {
+   "Q147475": "Borovice kleč (Pinus mugo)",
+   "Q26325": "Jalovec obecný (Juniperus communis)"
+  }
+ },
+ {
+  "id": "Q145954#0",
+  "species": "Borovice černá",
+  "latin": "Pinus nigra",
+  "text": "Dorůstá až do výšky 40 metrů.",
+  "quote": "Statný strom dorůstající až 40 metrů.",
+  "claimed_false_for": {
+   "Q147475": "Borovice kleč (Pinus mugo)"
+  }
+ },
+ {
+  "id": "Q145954#1",
+  "species": "Borovice černá",
+  "latin": "Pinus nigra",
+  "text": "Má tmavě zelené jehlice dlouhé 8 až 15 centimetrů.",
+  "quote": "Tmavě zelené 8–15 cm dlouhé špičaté jehlice vyrůstají z brachyblastů ve svazečcích po dvou.",
+  "claimed_false_for": {
+   "Q146025": "Smrk pichlavý (Picea pungens)",
+   "Q146048": "Modřín opadavý (Larix decidua)",
+   "Q146935": "Cedr himálajský (Cedrus deodara)",
+   "Q146992": "Jedle bělokorá (Abies alba)",
+   "Q147468": "Zerav západní (Thuja occidentalis)",
+   "Q147475": "Borovice kleč (Pinus mugo)",
+   "Q147513": "Cypřiš stálezelený (Cupressus sempervirens)",
+   "Q147824": "Smrk omorika (Picea omorika)",
+   "Q150129": "Sekvoje vždyzelená (Sequoia sempervirens)",
+   "Q179729": "Tis červený (Taxus baccata)"
+  }
+ },
+ {
+  "id": "Q145992#0",
+  "species": "Smrk ztepilý",
+  "latin": "Picea abies",
+  "text": "Dorůstá až do výšky 50 metrů.",
+  "quote": "Dorůstá výšky až 50 m.",
+  "claimed_false_for": {
+   "Q147468": "Zerav západní (Thuja occidentalis)",
+   "Q179729": "Tis červený (Taxus baccata)",
+   "Q211457": "Borovice halepská (Pinus halepensis)",
+   "Q26325": "Jalovec obecný (Juniperus communis)",
+   "Q61105": "Cedr libanonský (Cedrus libani)"
+  }
+ },
+ {
+  "id": "Q145992#1",
+  "species": "Smrk ztepilý",
+  "latin": "Picea abies",
+  "text": "Má jehlice dlouhé 10 až 25 milimetrů.",
+  "quote": "Jehlice jsou 10–25 mm dlouhé, 1 mm široké, na průřezu čtyřhranné a na konci zašpičatělé.",
+  "claimed_false_for": {
+   "Q133128": "Borovice lesní (Pinus sylvestris)",
+   "Q147468": "Zerav západní (Thuja occidentalis)",
+   "Q149851": "Sekvojovec obrovský (Sequoiadendron giganteum)"
+  }
+ },
+ {
+  "id": "Q145992#2",
+  "species": "Smrk ztepilý",
+  "latin": "Picea abies",
+  "text": "Po vypadnutí semen šišky opadají celé.",
+  "quote": "po vysemenění opadávají v celku.",
+  "claimed_false_for": {
+   "Q146935": "Cedr himálajský (Cedrus deodara)",
+   "Q146992": "Jedle bělokorá (Abies alba)",
+   "Q179729": "Tis červený (Taxus baccata)",
+   "Q61105": "Cedr libanonský (Cedrus libani)"
+  }
+ },
+ {
+  "id": "Q146992#0",
+  "species": "Jedle bělokorá",
+  "latin": "Abies alba",
+  "text": "Dorůstá až do výšky 65 metrů.",
+  "quote": "Velmi vysoký strom (až 65 m) s válcovitým rovným kmenem o průměru až 2 m.",
+  "claimed_false_for": {
+   "Q106094": "Borovice pinie (Pinus pinea)",
+   "Q133128": "Borovice lesní (Pinus sylvestris)",
+   "Q145954": "Borovice černá (Pinus nigra)",
+   "Q146025": "Smrk pichlavý (Picea pungens)",
+   "Q147475": "Borovice kleč (Pinus mugo)",
+   "Q147824": "Smrk omorika (Picea omorika)",
+   "Q211457": "Borovice halepská (Pinus halepensis)",
+   "Q61105": "Cedr libanonský (Cedrus libani)"
+  }
+ },
+ {
+  "id": "Q147468#1",
+  "species": "Zerav západní",
+  "latin": "Thuja occidentalis",
+  "text": "Pochází ze Severní Ameriky a v Evropě se pěstuje.",
+  "quote": "Pochází ze Severní Ameriky a v Evropě je pěstován od 16. století.",
+  "claimed_false_for": {
+   "Q106094": "Borovice pinie (Pinus pinea)",
+   "Q145954": "Borovice černá (Pinus nigra)",
+   "Q146048": "Modřín opadavý (Larix decidua)",
+   "Q146935": "Cedr himálajský (Cedrus deodara)",
+   "Q146992": "Jedle bělokorá (Abies alba)",
+   "Q147475": "Borovice kleč (Pinus mugo)",
+   "Q147513": "Cypřiš stálezelený (Cupressus sempervirens)",
+   "Q147824": "Smrk omorika (Picea omorika)",
+   "Q179729": "Tis červený (Taxus baccata)"
+  }
+ },
+ {
+  "id": "Q147468#3",
+  "species": "Zerav západní",
+  "latin": "Thuja occidentalis",
+  "text": "Šišky zůstávají na stromě až do další zimy.",
+  "quote": "Zralé šišky zůstávají na zeravu až do zimy následujícího roku",
+  "claimed_false_for": {
+   "Q146935": "Cedr himálajský (Cedrus deodara)",
+   "Q146992": "Jedle bělokorá (Abies alba)",
+   "Q179729": "Tis červený (Taxus baccata)",
+   "Q61105": "Cedr libanonský (Cedrus libani)"
+  }
+ },
+ {
+  "id": "Q147468#4",
+  "species": "Zerav západní",
+  "latin": "Thuja occidentalis",
+  "text": "Všechny části rostliny jsou jedovaté.",
+  "quote": "Všechny části rostliny jsou jedovaté.",
+  "claimed_false_for": {
+   "Q133128": "Borovice lesní (Pinus sylvestris)",
+   "Q145992": "Smrk ztepilý (Picea abies)",
+   "Q146048": "Modřín opadavý (Larix decidua)",
+   "Q146992": "Jedle bělokorá (Abies alba)",
+   "Q149851": "Sekvojovec obrovský (Sequoiadendron giganteum)",
+   "Q156800": "Metasekvoje čínská (Metasequoia glyptostroboides)"
+  }
+ },
+ {
+  "id": "Q147475#1",
+  "species": "Borovice kleč",
+  "latin": "Pinus mugo",
+  "text": "Roste převážně v horách nad hranicí lesa.",
+  "quote": "vyskytuje se převážně v horských oblastech nad horní hranicí lesa",
+  "claimed_false_for": {
+   "Q106094": "Borovice pinie (Pinus pinea)",
+   "Q147468": "Zerav západní (Thuja occidentalis)",
+   "Q147513": "Cypřiš stálezelený (Cupressus sempervirens)",
+   "Q150129": "Sekvoje vždyzelená (Sequoia sempervirens)"
+  }
+ },
+ {
+  "id": "Q147513#1",
+  "species": "Cypřiš stálezelený",
+  "latin": "Cupressus sempervirens",
+  "text": "Šišky se někdy otevřou až po požáru.",
+  "quote": "U některých jedinců zůstanou na stromě neotevřené i po několik let, až případný blízký požár indukuje jejich otevření a vypuštění životaschopných semen.",
+  "claimed_false_for": {
+   "Q146025": "Smrk pichlavý (Picea pungens)",
+   "Q146048": "Modřín opadavý (Larix decidua)",
+   "Q146992": "Jedle bělokorá (Abies alba)",
+   "Q147824": "Smrk omorika (Picea omorika)",
+   "Q179729": "Tis červený (Taxus baccata)"
+  }
+ },
+ {
+  "id": "Q147824#1",
+  "species": "Smrk omorika",
+  "latin": "Picea omorika",
+  "text": "Dorůstá do výšky 20 až 35 metrů.",
+  "quote": "Jedná se o vždyzelený strom vysoký 20–35 metrů",
+  "claimed_false_for": {
+   "Q146935": "Cedr himálajský (Cedrus deodara)",
+   "Q146992": "Jedle bělokorá (Abies alba)",
+   "Q26325": "Jalovec obecný (Juniperus communis)"
+  }
+ },
+ {
+  "id": "Q149851#0",
+  "species": "Sekvojovec obrovský",
+  "latin": "Sequoiadendron giganteum",
+  "text": "V přírodě roste jen v Kalifornii v USA.",
+  "quote": "se v přírodě vyskytuje pouze v USA v Kalifornii",
+  "claimed_false_for": {
+   "Q106094": "Borovice pinie (Pinus pinea)",
+   "Q145954": "Borovice černá (Pinus nigra)",
+   "Q146025": "Smrk pichlavý (Picea pungens)",
+   "Q146048": "Modřín opadavý (Larix decidua)",
+   "Q146935": "Cedr himálajský (Cedrus deodara)",
+   "Q146992": "Jedle bělokorá (Abies alba)",
+   "Q147468": "Zerav západní (Thuja occidentalis)",
+   "Q147475": "Borovice kleč (Pinus mugo)",
+   "Q147513": "Cypřiš stálezelený (Cupressus sempervirens)",
+   "Q147824": "Smrk omorika (Picea omorika)",
+   "Q179729": "Tis červený (Taxus baccata)"
+  }
+ },
+ {
+  "id": "Q149851#3",
+  "species": "Sekvojovec obrovský",
+  "latin": "Sequoiadendron giganteum",
+  "text": "Má měkkou kůru silnou 50 cm i více.",
+  "quote": "Borka je nápadně měkká a tlustá (50 cm i více)",
+  "claimed_false_for": {
+   "Q133128": "Borovice lesní (Pinus sylvestris)",
+   "Q145992": "Smrk ztepilý (Picea abies)",
+   "Q146048": "Modřín opadavý (Larix decidua)",
+   "Q146935": "Cedr himálajský (Cedrus deodara)",
+   "Q146992": "Jedle bělokorá (Abies alba)",
+   "Q147468": "Zerav západní (Thuja occidentalis)",
+   "Q156800": "Metasekvoje čínská (Metasequoia glyptostroboides)",
+   "Q179729": "Tis červený (Taxus baccata)",
+   "Q211457": "Borovice halepská (Pinus halepensis)",
+   "Q61105": "Cedr libanonský (Cedrus libani)"
+  }
+ },
+ {
+  "id": "Q150129#1",
+  "species": "Sekvoje vždyzelená",
+  "latin": "Sequoia sempervirens",
+  "text": "Dorůstá až do výšky 116 metrů.",
+  "quote": "dosahující výšky až 116 m",
+  "claimed_false_for": {
+   "Q106094": "Borovice pinie (Pinus pinea)",
+   "Q133128": "Borovice lesní (Pinus sylvestris)",
+   "Q145954": "Borovice černá (Pinus nigra)",
+   "Q145992": "Smrk ztepilý (Picea abies)",
+   "Q146025": "Smrk pichlavý (Picea pungens)",
+   "Q147475": "Borovice kleč (Pinus mugo)",
+   "Q147824": "Smrk omorika (Picea omorika)",
+   "Q149851": "Sekvojovec obrovský (Sequoiadendron giganteum)",
+   "Q211457": "Borovice halepská (Pinus halepensis)",
+   "Q26325": "Jalovec obecný (Juniperus communis)",
+   "Q61105": "Cedr libanonský (Cedrus libani)"
+  }
+ },
+ {
+  "id": "Q150129#3",
+  "species": "Sekvoje vždyzelená",
+  "latin": "Sequoia sempervirens",
+  "text": "Dřevo dobře odolává hnilobě.",
+  "quote": "Kvalitní dřevo sekvojí dobře odolává hnilobě",
+  "claimed_false_for": {
+   "Q145992": "Smrk ztepilý (Picea abies)"
+  }
+ },
+ {
+  "id": "Q156800#0",
+  "species": "Metasekvoje čínská",
+  "latin": "Metasequoia glyptostroboides",
+  "text": "Dorůstá do výšky přes 35 metrů.",
+  "quote": "dorůstá výšky přes 35 m",
+  "claimed_false_for": {
+   "Q106094": "Borovice pinie (Pinus pinea)",
+   "Q147475": "Borovice kleč (Pinus mugo)",
+   "Q211457": "Borovice halepská (Pinus halepensis)",
+   "Q26325": "Jalovec obecný (Juniperus communis)"
+  }
+ },
+ {
+  "id": "Q156800#1",
+  "species": "Metasekvoje čínská",
+  "latin": "Metasequoia glyptostroboides",
+  "text": "Jehlice se na podzim barví žlutě až červenohnědě.",
+  "quote": "před opadem se barví žlutě až červenohnědě",
+  "claimed_false_for": {
+   "Q106094": "Borovice pinie (Pinus pinea)",
+   "Q145954": "Borovice černá (Pinus nigra)",
+   "Q146935": "Cedr himálajský (Cedrus deodara)",
+   "Q146992": "Jedle bělokorá (Abies alba)",
+   "Q147468": "Zerav západní (Thuja occidentalis)",
+   "Q147475": "Borovice kleč (Pinus mugo)",
+   "Q147513": "Cypřiš stálezelený (Cupressus sempervirens)",
+   "Q147824": "Smrk omorika (Picea omorika)",
+   "Q150129": "Sekvoje vždyzelená (Sequoia sempervirens)",
+   "Q179729": "Tis červený (Taxus baccata)"
+  }
+ },
+ {
+  "id": "Q156800#3",
+  "species": "Metasekvoje čínská",
+  "latin": "Metasequoia glyptostroboides",
+  "text": "V mládí velmi rychle roste, když má vhodné podmínky.",
+  "quote": "v mládí velmi rychle roste",
+  "claimed_false_for": {
+   "Q179729": "Tis červený (Taxus baccata)"
+  }
+ },
+ {
+  "id": "Q179729#2",
+  "species": "Tis červený",
+  "latin": "Taxus baccata",
+  "text": "Semena roznášejí ptáci a hlodavci.",
+  "quote": "O rozšiřování semen se starají především ptáci (především drozdovití, jeřábci aj.) a hlodavci",
+  "claimed_false_for": {
+   "Q147468": "Zerav západní (Thuja occidentalis)",
+   "Q156800": "Metasekvoje čínská (Metasequoia glyptostroboides)",
+   "Q211457": "Borovice halepská (Pinus halepensis)"
+  }
+ },
+ {
+  "id": "Q179729#6",
+  "species": "Tis červený",
+  "latin": "Taxus baccata",
+  "text": "Má měkké, lesklé jehlice dlouhé 2 až 3 cm.",
+  "quote": "Asi 2 mm široké a 20–30 mm dlouhé špičaté a měkké jehlice mají leskle tmavozelenou svrchní stranu",
+  "claimed_false_for": {
+   "Q106094": "Borovice pinie (Pinus pinea)",
+   "Q145954": "Borovice černá (Pinus nigra)",
+   "Q147468": "Zerav západní (Thuja occidentalis)",
+   "Q147475": "Borovice kleč (Pinus mugo)",
+   "Q147513": "Cypřiš stálezelený (Cupressus sempervirens)"
+  }
+ },
+ {
+  "id": "Q179729#7",
+  "species": "Tis červený",
+  "latin": "Taxus baccata",
+  "text": "Jehlice vydrží na stromě 5 až 8 let.",
+  "quote": "na stromě vytrvávají 5–8 let",
+  "claimed_false_for": {
+   "Q146048": "Modřín opadavý (Larix decidua)"
+  }
+ },
+ {
+  "id": "Q179729#8",
+  "species": "Tis červený",
+  "latin": "Taxus baccata",
+  "text": "Tento druh je prudce jedovatý.",
+  "quote": "je celá rostlina prudce jedovatá",
+  "claimed_false_for": {
+   "Q106094": "Borovice pinie (Pinus pinea)",
+   "Q145954": "Borovice černá (Pinus nigra)",
+   "Q146025": "Smrk pichlavý (Picea pungens)",
+   "Q146048": "Modřín opadavý (Larix decidua)",
+   "Q146935": "Cedr himálajský (Cedrus deodara)",
+   "Q146992": "Jedle bělokorá (Abies alba)",
+   "Q147475": "Borovice kleč (Pinus mugo)",
+   "Q147513": "Cypřiš stálezelený (Cupressus sempervirens)",
+   "Q147824": "Smrk omorika (Picea omorika)"
+  }
+ },
+ {
+  "id": "Q211457#0",
+  "species": "Borovice halepská",
+  "latin": "Pinus halepensis",
+  "text": "Okřídlená semena roznáší vítr.",
+  "quote": "uvolňují mnoho okřídlených semen, která roznáší vítr",
+  "claimed_false_for": {
+   "Q26325": "Jalovec obecný (Juniperus communis)"
+  }
+ },
+ {
+  "id": "Q26325#5",
+  "species": "Jalovec obecný",
+  "latin": "Juniperus communis",
+  "text": "Roste na větším území než ostatní jehličnany.",
+  "quote": "Jalovec obecný má největší areál rozšíření ze všech jehličnanů",
+  "claimed_false_for": {
+   "Q106094": "Borovice pinie (Pinus pinea)",
+   "Q133128": "Borovice lesní (Pinus sylvestris)",
+   "Q145954": "Borovice černá (Pinus nigra)",
+   "Q145992": "Smrk ztepilý (Picea abies)",
+   "Q146025": "Smrk pichlavý (Picea pungens)",
+   "Q147824": "Smrk omorika (Picea omorika)",
+   "Q149851": "Sekvojovec obrovský (Sequoiadendron giganteum)",
+   "Q156800": "Metasekvoje čínská (Metasequoia glyptostroboides)",
+   "Q211457": "Borovice halepská (Pinus halepensis)"
+  }
+ },
+ {
+  "id": "Q61105#1",
+  "species": "Cedr libanonský",
+  "latin": "Cedrus libani",
+  "text": "Dorůstá do výše 20 až 40 metrů.",
+  "quote": "Dorůstá podle místních podmínek do výše 20 až 40 m",
+  "claimed_false_for": {
+   "Q147475": "Borovice kleč (Pinus mugo)"
+  }
+ },
+ {
+  "id": "Q61105#2",
+  "species": "Cedr libanonský",
+  "latin": "Cedrus libani",
+  "text": "Má jehlice ve svazcích po 30 až 40.",
+  "quote": "na krátkých bočních větvičkách jsou ve svazcích po 30 až 40",
+  "claimed_false_for": {
+   "Q145992": "Smrk ztepilý (Picea abies)",
+   "Q146992": "Jedle bělokorá (Abies alba)",
+   "Q147468": "Zerav západní (Thuja occidentalis)",
+   "Q149851": "Sekvojovec obrovský (Sequoiadendron giganteum)",
+   "Q156800": "Metasekvoje čínská (Metasequoia glyptostroboides)",
+   "Q179729": "Tis červený (Taxus baccata)",
+   "Q211457": "Borovice halepská (Pinus halepensis)",
+   "Q26325": "Jalovec obecný (Juniperus communis)"
+  }
+ }
+]

@@ -1,0 +1,39 @@
+[
+ {
+  "id": "Q1059580#0",
+  "species": "Saranče stěhovavá",
+  "latin": "Locusta migratoria",
+  "text": "Tento druh je býložravý.",
+  "quote": "Také jsou na rozdíl od kobylek býložravá.",
+  "claimed_false_for": {
+   "Q527496": "Šídlo královské (Anax imperator)",
+   "Q940337": "Štěnice domácí (Cimex lectularius)"
+  }
+ },
+ {
+  "id": "Q865651#2",
+  "species": "Drsnokřídlec březový",
+  "latin": "Biston betularia",
+  "text": "Samička snese asi 2000 vajíček.",
+  "quote": "Samička po oplodnění snáší asi 2000 vajíček",
+  "claimed_false_for": {
+   "Q190491": "Roháč obecný (Lucanus cervus)",
+   "Q940337": "Štěnice domácí (Cimex lectularius)"
+  }
+ },
+ {
+  "id": "Q865651#3",
+  "species": "Drsnokřídlec březový",
+  "latin": "Biston betularia",
+  "text": "Při nebezpečí se housenka pustí větvičky a spadne na zem.",
+  "quote": "V případě nebezpečí se housenka pustí větvičky, na které se nachází, a spadne na zem.",
+  "claimed_false_for": {
+   "Q190491": "Roháč obecný (Lucanus cervus)",
+   "Q27711": "Cvrček domácí (Acheta domesticus)",
+   "Q486957": "Ruměnice pospolná (Pyrrhocoris apterus)",
+   "Q527496": "Šídlo královské (Anax imperator)",
+   "Q624996": "Puchýřník lékařský (Lytta vesicatoria)",
+   "Q940337": "Štěnice domácí (Cimex lectularius)"
+  }
+ }
+]

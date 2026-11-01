@@ -1,0 +1,481 @@
+[
+ {
+  "id": "Q11088565#0",
+  "species": "Trýzel vonný",
+  "latin": "Erysimum odoratum",
+  "text": "Kvete obvykle od června do srpna.",
+  "quote": "Rostlina obvykle kvete v červnu až srpnu.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1111359#0",
+  "species": "Šalvěj lékařská",
+  "latin": "Salvia officinalis",
+  "text": "Tento druh má listy stříbrošedé až zelené.",
+  "quote": "stříbrošedé až zelené",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1111359#1",
+  "species": "Šalvěj lékařská",
+  "latin": "Salvia officinalis",
+  "text": "Tento druh má světle fialové květy, někdy bílé.",
+  "quote": "která je světle fialová, občas bílá",
+  "claimed_false_for": {
+   "Q147498": "Jilm horský (Ulmus glabra)",
+   "Q159248": "Blatěnka vodní (Limosella aquatica)",
+   "Q161704": "Opletník plotní (Calystegia sepium)",
+   "Q341578": "Tořice rolní (Torilis arvensis)",
+   "Q932516": "Pastala rozprostřená (Turnera diffusa)"
+  }
+ },
+ {
+  "id": "Q1111359#2",
+  "species": "Šalvěj lékařská",
+  "latin": "Salvia officinalis",
+  "text": "Tento druh obvykle kvete od května do července.",
+  "quote": "Šalvěj obvykle kvete v květnu až červenci",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1111359#3",
+  "species": "Šalvěj lékařská",
+  "latin": "Salvia officinalis",
+  "text": "Původně roste ve Středomoří a v Malé Asii.",
+  "quote": "Původní areál rozšíření šalvěje lékařské zahrnoval oblast Středomoří a Malé Asie",
+  "claimed_false_for": {
+   "Q257757": "Pačule obecná (Pogostemon cablin)"
+  }
+ },
+ {
+  "id": "Q111185#0",
+  "species": "Ločidlo čertovo lejno",
+  "latin": "Ferula assa-foetida",
+  "text": "Původně roste na písčitých pláních v Íránu a Afghánistánu.",
+  "quote": "kde původně roste v nadmořské výšce okolo 1000 m na rozlehlých pláních s písčitou půdou",
+  "claimed_false_for": {
+   "Q101815": "Čajovník čínský (Camellia sinensis)",
+   "Q17245203": "Růže Jundzillova (Rosa marginata)",
+   "Q21110": "Máčka přímořská (Eryngium maritimum)",
+   "Q27609": "Rozpuk jízlivý (Cicuta virosa)",
+   "Q3938471": "Jeřáb sitka (Sorbus sitchensis)",
+   "Q905980": "Hladýš širolistý (Laserpitium latifolium)"
+  }
+ },
+ {
+  "id": "Q111185#1",
+  "species": "Ločidlo čertovo lejno",
+  "latin": "Ferula assa-foetida",
+  "text": "Vysoká květonosná lodyha vyroste až v pátém roce.",
+  "quote": "Teprve v pátém roce (řidčeji i později), až kořen nastřádá dostatek živin, vyroste vysoká květonosná lodyha",
+  "claimed_false_for": {
+   "Q133477": "Morač větší (Ammi majus)",
+   "Q158550": "Štětinec laločnatý (Echinocystis lobata)",
+   "Q26686": "Kopr vonný (Anethum graveolens)"
+  }
+ },
+ {
+  "id": "Q111185#2",
+  "species": "Ločidlo čertovo lejno",
+  "latin": "Ferula assa-foetida",
+  "text": "Po zralosti semen celá rostlina odumírá.",
+  "quote": "Asi za šest týdnů od vyrašení lodyhy jsou již zralá semena a lodyha, stejně jako celá rostlina, umírá.",
+  "claimed_false_for": {
+   "Q1549723": "Koprníček bezobalný (Ligusticum mutellina)",
+   "Q1618457": "Oplopanax hrozivý (Oplopanax horridus)",
+   "Q164101": "Fuchsie magellanská (Fuchsia magellanica)",
+   "Q165137": "Třešeň ptačí (Prunus avium)",
+   "Q26354": "Břečťan popínavý (Hedera helix)",
+   "Q660414": "Trnovec Kristův (Paliurus spina-christi)",
+   "Q839302": "Pryskyřník mnohokvětý (Ranunculus polyanthemos)"
+  }
+ },
+ {
+  "id": "Q111185#3",
+  "species": "Ločidlo čertovo lejno",
+  "latin": "Ferula assa-foetida",
+  "text": "Vyroste do výšky 1 až 2 metrů.",
+  "quote": "Bývá vysoká 1 až 2 m a tlustá jako lidská paže",
+  "claimed_false_for": {
+   "Q218462": "Kerblík třebule (Anthriscus cerefolium)",
+   "Q2345294": "Sesel roční (Seseli annuum)",
+   "Q252331": "Bulvuška hlíznatá (Bunium bulbocastanum)",
+   "Q882880": "Bezobalka sivá (Trinia glauca)"
+  }
+ },
+ {
+  "id": "Q11130005#0",
+  "species": "Skalník mnohokvětý",
+  "latin": "Cotoneaster multiflorus",
+  "text": "Kvete od května do června.",
+  "quote": "Kvetou v květnu až červnu",
+  "claimed_false_for": {
+   "Q134283": "Dobromysl obecná (Origanum vulgare)",
+   "Q469382": "Jilm americký (Ulmus americana)"
+  }
+ },
+ {
+  "id": "Q11130005#1",
+  "species": "Skalník mnohokvětý",
+  "latin": "Cotoneaster multiflorus",
+  "text": "Tento druh na podzim zbarví listy žlutě.",
+  "quote": "na podzim se barví žlutě",
+  "claimed_false_for": {
+   "Q156904": "Olše lepkavá (Alnus glutinosa)"
+  }
+ },
+ {
+  "id": "Q111346#0",
+  "species": "Svlačec rolní",
+  "latin": "Convolvulus arvensis",
+  "text": "Tento druh otevírá květy jen za slunného počasí, ráno mezi sedmou a osmou hodinou.",
+  "quote": "Květy se otevírají jen za slunného počasí, ráno mezi sedmou a osmou hodinou",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q111346#2",
+  "species": "Svlačec rolní",
+  "latin": "Convolvulus arvensis",
+  "text": "Tento druh dá až 500 semen z jedné rostliny.",
+  "quote": "Z jedné rostliny se získá až 500 semen",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q111346#3",
+  "species": "Svlačec rolní",
+  "latin": "Convolvulus arvensis",
+  "text": "Tento druh má kořeny až 3 metry hluboko v zemi.",
+  "quote": "mohutný kořenový systém sahající až 3 m hluboko",
+  "claimed_false_for": {
+   "Q162461": "Stozrník lnovitý (Radiola linoides)"
+  }
+ },
+ {
+  "id": "Q11178290#0",
+  "species": "Kozí brada východní",
+  "latin": "Tragopogon orientalis",
+  "text": "Kvete v létě žlutými květy.",
+  "quote": "kvetoucí v letních měsících žlutými květy ve vrcholových úborech",
+  "claimed_false_for": {
+   "Q1413870": "Havez česnáčková (Adenostyles alliariae)",
+   "Q1431280": "Bodlák nicí (Carduus nutans)",
+   "Q156921": "Chrpa modrá (Centaurea cyanus)",
+   "Q161633": "Tolije bahenní (Parnassia palustris)",
+   "Q5190122": "Chrpinka obecná (Crupina vulgaris)"
+  }
+ },
+ {
+  "id": "Q11178290#1",
+  "species": "Kozí brada východní",
+  "latin": "Tragopogon orientalis",
+  "text": "Obvykle žije dva roky.",
+  "quote": "Dvouletá rostlina",
+  "claimed_false_for": {
+   "Q1277255": "Lagenárie obecná (Lagenaria siceraria)",
+   "Q14756456": "Zvonek moravský (Campanula moravica)",
+   "Q1569852": "Chrpa čekánek (Centaurea scabiosa)",
+   "Q157854": "Ibišek trojdílný (Hibiscus trionum)",
+   "Q312441": "Astra čínská (Callistephus chinensis)",
+   "Q3489669": "Zvonek jesenický (Campanula gelida)",
+   "Q5190122": "Chrpinka obecná (Crupina vulgaris)",
+   "Q900420": "Jestřábník zední (Hieracium murorum)",
+   "Q94857": "Harmala stepní (Peganum harmala)"
+  }
+ },
+ {
+  "id": "Q11178290#2",
+  "species": "Kozí brada východní",
+  "latin": "Tragopogon orientalis",
+  "text": "Po poranění vytéká bílá lepkavá šťáva.",
+  "quote": "po poranění prýští bílá lepkavá šťáva",
+  "claimed_false_for": {
+   "Q1135944": "Kokotice evropská (Cuscuta europaea)",
+   "Q158942": "Svazenka vratičolistá (Phacelia tanacetifolia)",
+   "Q2714739": "Pěnišník velkolistý (Rhododendron macrophyllum)",
+   "Q283386": "Plamének celolistý (Clematis integrifolia)",
+   "Q3984178": "Pastarček potoční (Tephroseris crispa)",
+   "Q575748": "Krásenka zpeřená (Cosmos bipinnatus)",
+   "Q849411": "Turan roční (Erigeron annuus)"
+  }
+ },
+ {
+  "id": "Q11178290#3",
+  "species": "Kozí brada východní",
+  "latin": "Tragopogon orientalis",
+  "text": "Květy bývají otevřené jen dopoledne.",
+  "quote": "Úbory jsou obvykle otevřené jen v dopoledních hodinách.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q11181633#0",
+  "species": "Cicimek čínský",
+  "latin": "Ziziphus jujuba",
+  "text": "Tento druh kvete od května do července.",
+  "quote": "Květy rozkvétají v květnu až červenci",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q11181633#1",
+  "species": "Cicimek čínský",
+  "latin": "Ziziphus jujuba",
+  "text": "Tento druh má dřevo vhodné na soustružené výrobky.",
+  "quote": "Dřevo stromů má hustou strukturu, dobře se strojově opracovává a je používáno pro výrobu soustružených výrobků.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q11181633#2",
+  "species": "Cicimek čínský",
+  "latin": "Ziziphus jujuba",
+  "text": "Dorůstá do výšky 5 až 8 metrů.",
+  "quote": "dorůstající do výše 5 až 8 m",
+  "claimed_false_for": {
+   "Q157401": "Zákula japonská (Kerria japonica)",
+   "Q159560": "Muchovník oválný (Amelanchier ovalis)",
+   "Q160062": "Skalník černoplodý (Cotoneaster melanocarpus)",
+   "Q2614003": "Ostružiník nutkajský (Rubus parviflorus)",
+   "Q3106488": "Růže nutkanská (Rosa nutkana)",
+   "Q3107741": "Boží květ zahradní (Dodecatheon meadia)",
+   "Q45680": "Svensona sličná (Swainsona formosa)",
+   "Q5131966": "Jochovec olšolistý (Clethra alnifolia)"
+  }
+ },
+ {
+  "id": "Q11181633#3",
+  "species": "Cicimek čínský",
+  "latin": "Ziziphus jujuba",
+  "text": "Tento druh má na mladých větvích trny.",
+  "quote": "Mladé větve jsou rovné a trnité",
+  "claimed_false_for": {
+   "Q162774": "Temnoplodec černoplodý (Aronia melanocarpa)"
+  }
+ },
+ {
+  "id": "Q1120893#0",
+  "species": "Oman hnidák",
+  "latin": "Inula conyzae",
+  "text": "Dorůstá obvykle do výšky 30 až 60 centimetrů.",
+  "quote": "vysoká průměrně 30 až 60 cm",
+  "claimed_false_for": {
+   "Q1267255": "Mužák prorostlý (Silphium perfoliatum)",
+   "Q50346430": "Sedmikvítek evropský (Lysimachia europaea)"
+  }
+ },
+ {
+  "id": "Q1120893#1",
+  "species": "Oman hnidák",
+  "latin": "Inula conyzae",
+  "text": "Tento druh po rozemnutí listů silně a nepříjemně voní.",
+  "quote": "Listy po rozemnutí vydávají silné, pro mnohé lidi nepříjemné aroma.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1120893#2",
+  "species": "Oman hnidák",
+  "latin": "Inula conyzae",
+  "text": "Tento druh láká na nektar drobný hmyz, který ho opyluje.",
+  "quote": "Květy jsou opylovány drobným hmyzem přilétajícím pro nektar.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1120893#3",
+  "species": "Oman hnidák",
+  "latin": "Inula conyzae",
+  "text": "Tento druh šíří semena větrem nebo mravenci.",
+  "quote": "Nažky semena jsou šířené za pomoci chmýru větrem, nebo je šíří mravenci odnášejíce je do mravenišť.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q112917#0",
+  "species": "Hadí kořen větší",
+  "latin": "Bistorta officinalis",
+  "text": "Kvete hlavně v červnu a červenci.",
+  "quote": "Rostliny kvetou ve středoevropských podmínkách převážně v červnu a červenci.",
+  "claimed_false_for": {
+   "Q158141": "Lýkovec vonný (Daphne cneorum)",
+   "Q159560": "Muchovník oválný (Amelanchier ovalis)"
+  }
+ },
+ {
+  "id": "Q112917#1",
+  "species": "Hadí kořen větší",
+  "latin": "Bistorta officinalis",
+  "text": "Dorůstá zhruba do výšky jednoho metru.",
+  "quote": "Je to asi 1 metr vysoká bylina",
+  "claimed_false_for": {
+   "Q1266124": "Rožec nízký (Cerastium pumilum)",
+   "Q131219": "Pampelišky smetánky (Taraxacum officinale)",
+   "Q1368577": "Kosmatcovník jedlý (Carpobrotus edulis)",
+   "Q150956": "Rebutia flavistylus (Rebutia flavistyla)",
+   "Q15589639": "Velbloudník tenkokřídlý (Corispermum pallasii)",
+   "Q92468897": "Rebutia albopectinata (Aylostera albopectinata)"
+  }
+ },
+ {
+  "id": "Q112917#2",
+  "species": "Hadí kořen větší",
+  "latin": "Bistorta officinalis",
+  "text": "Květy tvoří husté růžové klasy na konci lodyhy.",
+  "quote": "Lodyha je ukončena hustým, 4 až 7 cm dlouhým klasnatým květenstvím bledě růžových květů",
+  "claimed_false_for": {
+   "Q111346": "Svlačec rolní (Convolvulus arvensis)",
+   "Q1159849": "Hvozdík Lumnitzerův (Dianthus lumnitzeri)",
+   "Q134453": "Láčkovka soudečková (Nepenthes ampullaria)",
+   "Q13710": "Nocenka zahradní (Mirabilis jalapa)",
+   "Q158209": "Úrazník položený (Sagina procumbens)",
+   "Q166843": "Kvajáva hrušková (Psidium guajava)",
+   "Q2016755": "Silenka ušnice (Silene otites)",
+   "Q3714335": "Kamzičník Columnův (Doronicum columnae)",
+   "Q80531": "Ibiškovec jedlý (Abelmoschus esculentus)"
+  }
+ },
+ {
+  "id": "Q1130177#0",
+  "species": "Chrpa luční",
+  "latin": "Centaurea jacea",
+  "text": "Kvete od července do září.",
+  "quote": "Vykvétá od července do září.",
+  "claimed_false_for": {
+   "Q5190122": "Chrpinka obecná (Crupina vulgaris)"
+  }
+ },
+ {
+  "id": "Q1130177#1",
+  "species": "Chrpa luční",
+  "latin": "Centaurea jacea",
+  "text": "Tento druh opylují včely, motýli a další hmyz.",
+  "quote": "Opylována je včelami, motýly a dalším hmyzem",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1130177#2",
+  "species": "Chrpa luční",
+  "latin": "Centaurea jacea",
+  "text": "Dorůstá do výšky 50 až 120 centimetrů.",
+  "quote": "dosahuje do výše 50 až 120 cm",
+  "claimed_false_for": {
+   "Q12033758": "Lněnka Dollinerova (Thesium dollineri)",
+   "Q15579368": "Jestřábník Rohlenův (Hieracium rohlenae)",
+   "Q158546": "Zimolez tatarský (Lonicera tatarica)",
+   "Q5228460": "Kamzičník kavkazský (Doronicum orientale)"
+  }
+ },
+ {
+  "id": "Q1130177#3",
+  "species": "Chrpa luční",
+  "latin": "Centaurea jacea",
+  "text": "Po dozrání vítr rozfoukává jeho lehká semena.",
+  "quote": "Po uzrání se zákrov, který dosud nažky chránil, rozloží a vítr semena rozfouká.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q113401971#0",
+  "species": "Slaník stříbrný",
+  "latin": "Caragana halodendron",
+  "text": "Kvete v červnu a červenci.",
+  "quote": "Kvete v červnu a červenci.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q113401971#1",
+  "species": "Slaník stříbrný",
+  "latin": "Caragana halodendron",
+  "text": "Tento druh po opadu listů tvoří ostny.",
+  "quote": "po opadu lístků se obojí přeměňuje v ostny",
+  "claimed_false_for": {
+   "Q131342": "Bob obecný (Vicia faba)",
+   "Q1467033": "Šeřík Meyerův (Syringa meyeri)",
+   "Q157983": "Netvařec křovitý (Amorpha fruticosa)",
+   "Q159773": "Hrachor chlupatý (Lathyrus hirsutus)",
+   "Q1616054": "Nádhernice rudá (Clianthus puniceus)",
+   "Q162905": "Vítod obecný (Polygala vulgaris)",
+   "Q163363": "Jetel alpínský (Trifolium alpestre)",
+   "Q164986": "Hvězdoš háčkatý (Callitriche hamulata)",
+   "Q528886": "Vítod větší (Polygala major)",
+   "Q641513": "Mopan (Colophospermum mopane)"
+  }
+ },
+ {
+  "id": "Q1135236#0",
+  "species": "Durian cibetkový",
+  "latin": "Durio zibethinus",
+  "text": "Květy rostou přímo na větvích a kmeni stromu.",
+  "quote": "vyrůstají ve svazečcích po 3–10 přímo ze silnějšich větví nebo kmene",
+  "claimed_false_for": {
+   "Q1137540": "Kenaf (Hibiscus cannabinus)",
+   "Q138617": "Vlnovec pětimužný (Ceiba pentandra)",
+   "Q153343": "Sléz přehlížený (Malva neglecta)",
+   "Q156831": "Lípa velkolistá (Tilia platyphyllos)",
+   "Q164232": "Devaterník velkokvětý (Helianthemum nummularium)",
+   "Q1758702": "Čistec hlíznatý (Stachys affinis)",
+   "Q1805242": "Křižmolístka čnělkatá (Phuopsis stylosa)",
+   "Q29951": "Šťovík menší (Rumex acetosella)",
+   "Q638145": "Slézovka trojklaná (Malope trifida)",
+   "Q848396": "Devaterka poléhavá (Fumana procumbens)"
+  }
+ },
+ {
+  "id": "Q1135236#1",
+  "species": "Durian cibetkový",
+  "latin": "Durio zibethinus",
+  "text": "Kvete od března do dubna.",
+  "quote": "Kvete od března do dubna a plody následně dozrávají 3-4 měsíce po odkvětu.",
+  "claimed_false_for": {
+   "Q158496": "Proskurník lékařský (Althaea officinalis)",
+   "Q158746": "Lípa malolistá (Tilia cordata)",
+   "Q163812": "Křez tenkolistý (Diplotaxis tenuifolia)",
+   "Q2601080": "Devaterník šedý (Helianthemum oelandicum)",
+   "Q606369": "Mračňák Theophrastův (Abutilon theophrasti)",
+   "Q638145": "Slézovka trojklaná (Malope trifida)",
+   "Q80531": "Ibiškovec jedlý (Abelmoschus esculentus)"
+  }
+ },
+ {
+  "id": "Q1135236#2",
+  "species": "Durian cibetkový",
+  "latin": "Durio zibethinus",
+  "text": "Dorůstá do výšky 20 až 40 metrů.",
+  "quote": "dorůstající výšky 20–40 m",
+  "claimed_false_for": {
+   "Q1145301": "Zmijovnice hadová (Rauvolfia serpentina)",
+   "Q153343": "Sléz přehlížený (Malva neglecta)",
+   "Q157854": "Ibišek trojdílný (Hibiscus trionum)",
+   "Q158141": "Lýkovec vonný (Daphne cneorum)",
+   "Q158496": "Proskurník lékařský (Althaea officinalis)",
+   "Q159170": "Ledenec přímořský (Lotus maritimus)",
+   "Q162777": "Kručinka barvířská (Genista tinctoria)",
+   "Q164942": "Dřípatka horská (Soldanella montana)",
+   "Q27682": "Topolovka růžová (Alcea rosea)",
+   "Q319390": "Ibišek súdánský (Hibiscus sabdariffa)",
+   "Q42385": "Kakaovník pravý (Theobroma cacao)"
+  }
+ },
+ {
+  "id": "Q1135236#3",
+  "species": "Durian cibetkový",
+  "latin": "Durio zibethinus",
+  "text": "Tento druh má plody pokryté hustými ostny.",
+  "quote": "hustými ostny kuželovitého tvaru",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1135944#0",
+  "species": "Kokotice evropská",
+  "latin": "Cuscuta europaea",
+  "text": "Tento druh nemá zelenou barvu a parazituje na jiných rostlinách.",
+  "quote": "je jednoletá, nezelená bylina, která nemá funkční chloroplasty a proto parazituje na jiných rostlinách",
+  "claimed_false_for": {
+   "Q10998": "Lilek brambor (Solanum tuberosum)",
+   "Q111346": "Svlačec rolní (Convolvulus arvensis)",
+   "Q131584": "Mák setý (Papaver somniferum)",
+   "Q146400": "Lilek černý (Solanum nigrum)",
+   "Q149625": "Koniklec alpinský (Pulsatilla alpina)",
+   "Q1509784": "Lilík mochyňovitý (Nicandra physalodes)",
+   "Q156091": "Rulík zlomocný (Atropa bella-donna)",
+   "Q158303": "Mahónie cesmínolistá (Mahonia aquifolium)",
+   "Q158356": "Tomel viržinský (Diospyros virginiana)",
+   "Q164402": "Opletník břečťanovitý (Calystegia hederacea)",
+   "Q181095": "Tabák virginský (Nicotiana tabacum)",
+   "Q683282": "Lilek sodomský (Solanum linnaeanum)"
+  }
+ }
+]

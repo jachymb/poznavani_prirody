@@ -1,0 +1,406 @@
+[
+ {
+  "id": "Q160068#0",
+  "species": "Záraza vyšší",
+  "latin": "Orobanche elatior",
+  "text": "Parazituje na kořenech jiné rostliny.",
+  "quote": "u níž parazituje na kořenovém systému",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q160068#1",
+  "species": "Záraza vyšší",
+  "latin": "Orobanche elatior",
+  "text": "Kvete od konce května do konce června.",
+  "quote": "s periodou kvetení konec května až konec června",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q160092#5",
+  "species": "Ostružiník moruška",
+  "latin": "Rubus chamaemorus",
+  "text": "Ptáci a savci roznášejí jeho semena.",
+  "quote": "Po strávení dužniny jsou semínka vyloučena trávicím traktem, načež dochází k široké",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q160092#6",
+  "species": "Ostružiník moruška",
+  "latin": "Rubus chamaemorus",
+  "text": "Jedna můra se živí jen jeho listy.",
+  "quote": "Můra druhu Coleophora thulea z rodu pouzdrovníčků nemá dokonce žádnou jinou známou potravu než zmiňované listy.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q160095#5",
+  "species": "Divizna malokvětá",
+  "latin": "Verbascum thapsus",
+  "text": "Nejlépe ho opylují ploskočelky a pestřenky.",
+  "quote": "za nejlepší opylovače jsou považovány blanokřídlé ploskočelky a dvoukřídlé pestřenky",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q160095#6",
+  "species": "Divizna malokvětá",
+  "latin": "Verbascum thapsus",
+  "text": "Kozy ho pasou, ostatní býložravci ne.",
+  "quote": "býložravci, vyjma koz, nespásají",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q160102#0",
+  "species": "Jehlice trnitá",
+  "latin": "Ononis spinosa",
+  "text": "Dorůstá do výšky okolo 60 cm.",
+  "quote": "Dorůstá do výšky okolo 60 cm",
+  "claimed_false_for": {
+   "Q1407409": "Jetel ostuda Ponertova (Trifolium infamia-ponertii)"
+  }
+ },
+ {
+  "id": "Q160102#1",
+  "species": "Jehlice trnitá",
+  "latin": "Ononis spinosa",
+  "text": "Kvete v červenci a srpnu.",
+  "quote": "Kvete v červenci a srpnu",
+  "claimed_false_for": {
+   "Q5835832": "Erinacea trnitá (Erinacea anthyllis)"
+  }
+ },
+ {
+  "id": "Q160121#1",
+  "species": "Kamélie japonská",
+  "latin": "Camellia japonica",
+  "text": "Květy mohou být bílé, krémové, červené i fialové.",
+  "quote": "Barva květů od bílé a krémové, po všechny odstíny červené a fialové",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q160127#2",
+  "species": "Lakušník štětičkový",
+  "latin": "Ranunculus penicillatus",
+  "text": "Opyluje ho hmyz.",
+  "quote": "jsou opylovány hmyzem",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q160186#0",
+  "species": "Saturejka horská",
+  "latin": "Satureja montana",
+  "text": "Dorůstá až do výšky 30 cm.",
+  "quote": "je vytrvalá bylina dorůstající výšky až 30 cm",
+  "claimed_false_for": {
+   "Q1071585": "Šalvěj hispánská (Salvia hispanica)",
+   "Q10878191": "Slivoň slíva (Prunus insititia)",
+   "Q1152721": "Krásnoplodka japonská (Callicarpa japonica)",
+   "Q134453": "Láčkovka soudečková (Nepenthes ampullaria)",
+   "Q161538": "Komule Davidova (Buddleja davidii)",
+   "Q3658522": "Bodlák lopuchovitý (Carduus personata)"
+  }
+ },
+ {
+  "id": "Q160186#1",
+  "species": "Saturejka horská",
+  "latin": "Satureja montana",
+  "text": "Kvete od července do září.",
+  "quote": "Kvete od července do září.",
+  "claimed_false_for": {
+   "Q157277": "Dub cer (Quercus cerris)",
+   "Q159306": "Iberka vždyzelená (Iberis sempervirens)"
+  }
+ },
+ {
+  "id": "Q160239#4",
+  "species": "Lebeda lesklá",
+  "latin": "Atriplex sagittata",
+  "text": "Opylují ho hmyz nebo vítr.",
+  "quote": "opylovány jsou hmyzem, větrem nebo autogamně",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q160254#4",
+  "species": "Strošek pomněnkový",
+  "latin": "Lappula squarrosa",
+  "text": "Zvířata ji nespásají, protože páchne.",
+  "quote": "Rostlina v čerstvém stavu zapáchá a není zvířaty spásána.",
+  "claimed_false_for": {
+   "Q905980": "Hladýš širolistý (Laserpitium latifolium)"
+  }
+ },
+ {
+  "id": "Q160346#4",
+  "species": "Jablečník cizí",
+  "latin": "Marrubium peregrinum",
+  "text": "Když chybí opylující hmyz, může se opylit vlastním pylem.",
+  "quote": "v případě nedostatku opylujícího hmyzu se mohou opylit i vlastním pylem",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q160361#0",
+  "species": "Len tenkolistý",
+  "latin": "Linum tenuifolium",
+  "text": "Kvete od června do srpna.",
+  "quote": "Rostlina kvete od června do srpna.",
+  "claimed_false_for": {
+   "Q159565": "Vrba jíva (Salix caprea)",
+   "Q28141": "Vrba plazivá (Salix repens)",
+   "Q74174": "Violka Rivinova (Viola riviniana)"
+  }
+ },
+ {
+  "id": "Q160361#1",
+  "species": "Len tenkolistý",
+  "latin": "Linum tenuifolium",
+  "text": "Roste na slunných, skalnatých a suchých místech.",
+  "quote": "roste na slunných, skalnatých a suchých stanovištích",
+  "claimed_false_for": {
+   "Q157846": "Žindava evropská (Sanicula europaea)"
+  }
+ },
+ {
+  "id": "Q160428#0",
+  "species": "Pryskyřník zvrhlý",
+  "latin": "Ranunculus hybridus",
+  "text": "Kvete od června do srpna.",
+  "quote": "Kvete v červnu až v srpnu.",
+  "claimed_false_for": {
+   "Q147648": "Hlaváček jarní (Adonis vernalis)",
+   "Q157557": "Orsej jarní (Ficaria verna)"
+  }
+ },
+ {
+  "id": "Q160428#1",
+  "species": "Pryskyřník zvrhlý",
+  "latin": "Ranunculus hybridus",
+  "text": "Roste ve východní části Alp.",
+  "quote": "roste ve východní části Alp",
+  "claimed_false_for": {
+   "Q161823": "Lončatník guyanský (Couroupita guianensis)",
+   "Q163981": "Lípa americká (Tilia americana)"
+  }
+ },
+ {
+  "id": "Q160459#6",
+  "species": "Pryšec tuhý",
+  "latin": "Euphorbia stricta",
+  "text": "Mravenci roznášejí jeho semena.",
+  "quote": "Jen o málo dál semena roznášejí mravenci",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q160572#4",
+  "species": "Laskavec hrubozel",
+  "latin": "Amaranthus blitum",
+  "text": "Semena projdou trávicím ústrojím dobytka a klíčivost neztratí.",
+  "quote": "Průchod zažívacím traktem dobytka nebo pobyt v hnojí nesnižuje jejich klíčivost.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q160575#6",
+  "species": "Černucha setá",
+  "latin": "Nigella sativa",
+  "text": "Jeho květy navštěvuje různý hmyz, který hledá pyl a nektar.",
+  "quote": "Květy černuchy seté jsou navštěvovány rozličným hmyzem, hledajícím pyl a nektar",
+  "claimed_false_for": {
+   "Q104212": "Chmel otáčivý (Humulus lupulus)"
+  }
+ },
+ {
+  "id": "Q160575#7",
+  "species": "Černucha setá",
+  "latin": "Nigella sativa",
+  "text": "Potlačuje růst některých rostlin, které rostou poblíž.",
+  "quote": "Rostlina potlačuje růst některých rostlin, především z čeledi bobovité, nacházejících se v jejím okolí.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q160575#8",
+  "species": "Černucha setá",
+  "latin": "Nigella sativa",
+  "text": "Divoké včely jeho květy téměř nevyhledávají.",
+  "quote": "divoké druhy včel květy téměř nevyhledávají",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q160576#0",
+  "species": "Fíkovník pryžodárný",
+  "latin": "Ficus elastica",
+  "text": "Opylují ho pouze chalcidky.",
+  "quote": "Opylovat ho mohou pouze chalcidky.",
+  "claimed_false_for": {
+   "Q1333877": "Pabuk Alessandrův (Nothofagus alessandrii)",
+   "Q156843": "Hledík větší (Antirrhinum majus)",
+   "Q158066": "Jarmanka větší (Astrantia major)",
+   "Q161627": "Violka divotvárná (Viola mirabilis)",
+   "Q17245203": "Růže Jundzillova (Rosa marginata)",
+   "Q1743596": "Jabloň drobnoplodá (Malus baccata)",
+   "Q1759912": "Kopřiva morušolistá (Urtica morifolia)",
+   "Q3008882": "Tavolníkovec velkokvětý (Sorbaria grandiflora)",
+   "Q3106488": "Růže nutkanská (Rosa nutkana)",
+   "Q392023": "Ostružiník voskovaný (Rubus cockburnianus)",
+   "Q5448566": "Tužebník červený (Filipendula rubra)",
+   "Q660414": "Trnovec Kristův (Paliurus spina-christi)"
+  }
+ },
+ {
+  "id": "Q160576#1",
+  "species": "Fíkovník pryžodárný",
+  "latin": "Ficus elastica",
+  "text": "Vylučuje jedovatý latex.",
+  "quote": "Rostlina vylučuje jedovatý latex",
+  "claimed_false_for": {
+   "Q1334892": "Kdoulovec čínský (Pseudocydonia sinensis)",
+   "Q145631": "Růže arkansaská (Rosa arkansana)",
+   "Q147492": "Jilm vaz (Ulmus laevis)",
+   "Q148663": "Jahodník trávnice (Fragaria viridis)",
+   "Q1529852": "Břestovec hladký (Celtis laevigata)",
+   "Q158929": "Růže sivá (Rosa glauca)",
+   "Q18915339": "Geum × heldreichii (Geum ×heldreichii)",
+   "Q497124": "Mochnička trojčetná (Waldsteinia ternata)"
+  }
+ },
+ {
+  "id": "Q160585#4",
+  "species": "Máta rolní",
+  "latin": "Mentha arvensis",
+  "text": "Plody roznáší voda, vítr i živočichové.",
+  "quote": "snadno roznáší voda, vítr i živočichové",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q160741#4",
+  "species": "Vrba velkolistá",
+  "latin": "Salix appendiculata",
+  "text": "Zvěř ji okusuje, a to přispívá k jejímu úbytku.",
+  "quote": "okusu zvěře",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q160827#4",
+  "species": "Hořeček mnohotvarý český",
+  "latin": "Gentianella bohemica",
+  "text": "Žije v symbióze s houbami v kořenech.",
+  "quote": "U taxonu, hlavně u mladších rostlin, je prokázána endotrofní mykorhiza",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1610350#4",
+  "species": "Mateřídouška ozdobná",
+  "latin": "Thymus pulcherrimus",
+  "text": "Na tomto druhu může žít poloparazitická lněnka alpská.",
+  "quote": "Může být hostitelskou rostlinou pro poloparazitickou lněnku alpskou",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q161040#0",
+  "species": "Morušovník černý",
+  "latin": "Morus nigra",
+  "text": "Tento strom dorůstá běžně do výšky 10 metrů.",
+  "quote": "opadavý strom dorůstající běžně výšky 10 m",
+  "claimed_false_for": {
+   "Q1033449": "Ostružiník ježiník (Rubus caesius)",
+   "Q13158": "Jahodník velkoplodý (Fragaria × ananassa)",
+   "Q1548650": "Kozí brada pochybná (Tragopogon dubius)",
+   "Q157347": "Krvavec toten (Sanguisorba officinalis)",
+   "Q158201": "Tavolník japonský (Spiraea japonica)",
+   "Q159191": "Laskavec krvavý (Amaranthus cruentus)",
+   "Q159553": "Hloh obecný (Crataegus laevigata)",
+   "Q160092": "Ostružiník moruška (Rubus chamaemorus)",
+   "Q164553": "Plamenka latnatá (Phlox paniculata)",
+   "Q4356004": "Ostružiník dřípený (Rubus laciniatus)",
+   "Q882650": "Locika vytrvalá (Lactuca perennis)"
+  }
+ },
+ {
+  "id": "Q161040#1",
+  "species": "Morušovník černý",
+  "latin": "Morus nigra",
+  "text": "Daří se mu spíš ve Středomoří nebo ve vinařských oblastech.",
+  "quote": "daří se jí spíš ve Středomoří nebo ve vinařských oblastech",
+  "claimed_false_for": {
+   "Q161621": "Dryádka osmiplátečná (Dryas octopetala)"
+  }
+ },
+ {
+  "id": "Q161050#6",
+  "species": "Jaterník podléška",
+  "latin": "Hepatica nobilis",
+  "text": "Roste často pod lískami.",
+  "quote": "tato bylina se často nachází pod lískami",
+  "claimed_false_for": {
+   "Q159727": "Lakušník niťolistý (Ranunculus trichophyllus)",
+   "Q163322": "Úpor peprný (Elatine hydropiper)"
+  }
+ },
+ {
+  "id": "Q161090#0",
+  "species": "Svízel vonný",
+  "latin": "Galium odoratum",
+  "text": "Kvete v květnu a červnu.",
+  "quote": "drobnými bílými květy, které kvetou v květnu a červnu",
+  "claimed_false_for": {
+   "Q1479326": "Kokotice povázka (Cuscuta epithymum)",
+   "Q160745": "Hořec panonský (Gentiana pannonica)",
+   "Q162853": "Hořec tolitovitý (Gentiana asclepiadea)"
+  }
+ },
+ {
+  "id": "Q161090#1",
+  "species": "Svízel vonný",
+  "latin": "Galium odoratum",
+  "text": "Často tvoří husté porosty v listnatých lesích.",
+  "quote": "často tvoří husté porosty v listnatých lesích",
+  "claimed_false_for": {
+   "Q158352": "Bračka rolní (Sherardia arvensis)",
+   "Q158572": "Hořec žlutý (Gentiana lutea)",
+   "Q158959": "Hořeček ladní (Gentianella campestris)",
+   "Q159757": "Svízel bahenní (Galium palustre)",
+   "Q160620": "Rožec pochybný (Cerastium dubium)",
+   "Q160909": "Svízel sudetský (Galium sudeticum)",
+   "Q196178": "Žlutoroh jeřábolistý (Xanthoceras sorbifolium)",
+   "Q4992358": "Hlavoš západní (Cephalanthus occidentalis)"
+  }
+ },
+ {
+  "id": "Q161093#4",
+  "species": "Barvínkovec růžový",
+  "latin": "Catharanthus roseus",
+  "text": "Mravenci roznášejí jeho semena.",
+  "quote": "s oblibou je roznášejí mravenci",
+  "claimed_false_for": {
+   "Q163578": "Vrba bylinná (Salix herbacea)"
+  }
+ },
+ {
+  "id": "Q161110#4",
+  "species": "Kotvice plovoucí",
+  "latin": "Trapa natans",
+  "text": "Ptáci a jiní živočichové mohou jeho plody přenášet na jiná místa.",
+  "quote": "mohou na jiná místa přenášet ptáci nebo jiní živočichové",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q161126#4",
+  "species": "Kozinec cizrnovitý",
+  "latin": "Astragalus cicer",
+  "text": "Poskytuje včelám pyl a nektar.",
+  "quote": "poskytuje dostatek pylu i nektaru pro včely",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q161126#5",
+  "species": "Kozinec cizrnovitý",
+  "latin": "Astragalus cicer",
+  "text": "Dobře snese intenzivní pastvu zvířat.",
+  "quote": "dobře snáší intenzivní pastvu",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q161160#0",
+  "species": "Komonice lékařská",
+  "latin": "Melilotus officinalis",
+  "text": "Sušená nať je prostředkem proti molům.",
+  "quote": "Sušená nať položená volně nebo v látkovém pytlíčku je prostředkem proti molům",
+  "claimed_false_for": {}
+ }
+]

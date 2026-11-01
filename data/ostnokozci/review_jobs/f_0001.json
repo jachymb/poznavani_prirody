@@ -1,0 +1,186 @@
+[
+ {
+  "id": "Q1130991#0",
+  "species": "Ježovka obecná",
+  "latin": "Sphaerechinus granularis",
+  "text": "Živí se řasami rostoucími na povrchu kamenů.",
+  "quote": "se živí řasami rostoucími na povrchu kamenů",
+  "claimed_false_for": {
+   "Q1140786": "Hvězdice amurská (Asterias amurensis)",
+   "Q139182": "Houba komínová (Aplysina aerophoba)",
+   "Q26634": "Hvězdice trnová koruna (Acanthaster planci)"
+  }
+ },
+ {
+  "id": "Q1130991#1",
+  "species": "Ježovka obecná",
+  "latin": "Sphaerechinus granularis",
+  "text": "Často se maskuje kusem řasy nebo schránkami měkkýšů.",
+  "quote": "Často se maskuje kusem řasy nebo schránkami měkkýšů",
+  "claimed_false_for": {
+   "Q139182": "Houba komínová (Aplysina aerophoba)"
+  }
+ },
+ {
+  "id": "Q1140786#2",
+  "species": "Hvězdice amurská",
+  "latin": "Asterias amurensis",
+  "text": "Jí rybí vajíčka a měkkýše.",
+  "quote": "představuje nebezpečí pro původní druhy živočichů (měkkýši, požírá rybí vajíčka)",
+  "claimed_false_for": {
+   "Q139182": "Houba komínová (Aplysina aerophoba)",
+   "Q26634": "Hvězdice trnová koruna (Acanthaster planci)"
+  }
+ },
+ {
+  "id": "Q139182#0",
+  "species": "Houba komínová",
+  "latin": "Aplysina aerophoba",
+  "text": "Tento druh je potravou mořského plže.",
+  "quote": "Houba komínová je potravou mořského plže druhu Tylodina perversa.",
+  "claimed_false_for": {
+   "Q1130991": "Ježovka obecná (Sphaerechinus granularis)",
+   "Q1140786": "Hvězdice amurská (Asterias amurensis)",
+   "Q2212339": "Placouš výstřední (Dendraster excentricus)",
+   "Q26634": "Hvězdice trnová koruna (Acanthaster planci)",
+   "Q2993412": "Hvězdice Linckova (Protoreaster lincki)",
+   "Q664443": "Ježovka jedlá (Echinus esculentus)",
+   "Q822952": "Hvězdice síťovaná (Oreaster reticulatus)",
+   "Q882716": "Hvězdice modrá (Linckia laevigata)"
+  }
+ },
+ {
+  "id": "Q139182#1",
+  "species": "Houba komínová",
+  "latin": "Aplysina aerophoba",
+  "text": "Žije v mělkých, osluněných vodách do 20 m hloubky.",
+  "quote": "Žije v mělkých, osluněných vodách do 20 m hloubky.",
+  "claimed_false_for": {
+   "Q2212339": "Placouš výstřední (Dendraster excentricus)",
+   "Q664443": "Ježovka jedlá (Echinus esculentus)"
+  }
+ },
+ {
+  "id": "Q2212339#0",
+  "species": "Placouš výstřední",
+  "latin": "Dendraster excentricus",
+  "text": "Hlavními predátory jsou platýs hvězdnatý, krabi a hvězdice.",
+  "quote": "Hlavními predátory placouše výstředního jsou platýs hvězdnatý, krabi a hvězdice.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q2212339#1",
+  "species": "Placouš výstřední",
+  "latin": "Dendraster excentricus",
+  "text": "Potravu tvoří hlavně klanonožci a larvy korýšů.",
+  "quote": "kterou tvoří převážně klanonožci a larvy korýšů",
+  "claimed_false_for": {
+   "Q1130991": "Ježovka obecná (Sphaerechinus granularis)",
+   "Q26634": "Hvězdice trnová koruna (Acanthaster planci)",
+   "Q2993412": "Hvězdice Linckova (Protoreaster lincki)",
+   "Q822952": "Hvězdice síťovaná (Oreaster reticulatus)"
+  }
+ },
+ {
+  "id": "Q26634#0",
+  "species": "Hvězdice trnová koruna",
+  "latin": "Acanthaster planci",
+  "text": "Živí se prakticky jen korály.",
+  "quote": "Kromě občasného ulovení drobných rybek se živí prakticky jen korály.",
+  "claimed_false_for": {
+   "Q1130991": "Ježovka obecná (Sphaerechinus granularis)",
+   "Q1140786": "Hvězdice amurská (Asterias amurensis)",
+   "Q139182": "Houba komínová (Aplysina aerophoba)",
+   "Q2212339": "Placouš výstřední (Dendraster excentricus)"
+  }
+ },
+ {
+  "id": "Q26634#1",
+  "species": "Hvězdice trnová koruna",
+  "latin": "Acanthaster planci",
+  "text": "Má jen málo přirozených nepřátel.",
+  "quote": "Tato hvězdice má jen málo přirozených nepřátel.",
+  "claimed_false_for": {
+   "Q2212339": "Placouš výstřední (Dendraster excentricus)",
+   "Q664443": "Ježovka jedlá (Echinus esculentus)"
+  }
+ },
+ {
+  "id": "Q2993412#0",
+  "species": "Hvězdice Linckova",
+  "latin": "Protoreaster lincki",
+  "text": "Živí se mlži, jejichž lastury otvírá pomocí ramen.",
+  "quote": "se živí mlži, jejichž lastury otvírá pomocí ramen",
+  "claimed_false_for": {
+   "Q1130991": "Ježovka obecná (Sphaerechinus granularis)",
+   "Q139182": "Houba komínová (Aplysina aerophoba)",
+   "Q2212339": "Placouš výstřední (Dendraster excentricus)",
+   "Q664443": "Ježovka jedlá (Echinus esculentus)"
+  }
+ },
+ {
+  "id": "Q2993412#1",
+  "species": "Hvězdice Linckova",
+  "latin": "Protoreaster lincki",
+  "text": "Když se rameno odlomí, opět doroste.",
+  "quote": "Pokud se její rameno odlomí, opět doroste",
+  "claimed_false_for": {
+   "Q1130991": "Ježovka obecná (Sphaerechinus granularis)",
+   "Q139182": "Houba komínová (Aplysina aerophoba)",
+   "Q2212339": "Placouš výstřední (Dendraster excentricus)",
+   "Q664443": "Ježovka jedlá (Echinus esculentus)"
+  }
+ },
+ {
+  "id": "Q664443#0",
+  "species": "Ježovka jedlá",
+  "latin": "Echinus esculentus",
+  "text": "Dosahuje velikosti 16 cm.",
+  "quote": "Dosahuje velikosti 16 cm.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q664443#1",
+  "species": "Ježovka jedlá",
+  "latin": "Echinus esculentus",
+  "text": "Tento druh je častou potravou některých mořských ryb.",
+  "quote": "Stává se častou potravou některých mořských ryb",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q822952#2",
+  "species": "Hvězdice síťovaná",
+  "latin": "Oreaster reticulatus",
+  "text": "Mladí jedinci žijí v mořských travách.",
+  "quote": "mladiství obývají mořské trávy",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q822952#3",
+  "species": "Hvězdice síťovaná",
+  "latin": "Oreaster reticulatus",
+  "text": "Larvy se usazují obvykle mezi mořskými řasami.",
+  "quote": "obvykle mezi mořskými řasami",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q882716#2",
+  "species": "Hvězdice modrá",
+  "latin": "Linckia laevigata",
+  "text": "Živí se převážně mršinami, které najde na dně moře.",
+  "quote": "Živí se převážně mršinami všeho druhu, které nalézá na dně moře",
+  "claimed_false_for": {
+   "Q1130991": "Ježovka obecná (Sphaerechinus granularis)",
+   "Q139182": "Houba komínová (Aplysina aerophoba)",
+   "Q2212339": "Placouš výstřední (Dendraster excentricus)"
+  }
+ },
+ {
+  "id": "Q882716#3",
+  "species": "Hvězdice modrá",
+  "latin": "Linckia laevigata",
+  "text": "Jí také řasy a mikroby.",
+  "quote": "nepohrdne ani řasami a mikroby",
+  "claimed_false_for": {}
+ }
+]

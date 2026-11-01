@@ -1,0 +1,260 @@
+{
+ "facts": [
+  {
+   "id": "Q145939#2",
+   "species": "Jedle ojíněná",
+   "text": "Jehličky jsou modrošedé ze všech stran.",
+   "quote": "modrošedě ojíněné ze všech stran"
+  },
+  {
+   "id": "Q1936162#0",
+   "species": "Jedle křivolistá",
+   "text": "Roste v horách, ve výškách 2300 až 3600 metrů.",
+   "quote": "Strom roste v nadmořských výškách 2300–3600 m"
+  },
+  {
+   "id": "Q147278#2",
+   "species": "Borovice limba",
+   "text": "Má jehlice po pěti v jednom svazečku.",
+   "quote": "Jehlice stříbřitě zelenomodré po pěti ve svazečku"
+  },
+  {
+   "id": "Q161070#0",
+   "species": "Blahočet ztepilý",
+   "text": "Tento druh dorůstá do výšky téměř 50 metrů.",
+   "quote": "Strom vyrůstající do výšky skoro 50 m"
+  },
+  {
+   "id": "Q1044186#3",
+   "species": "Borovice hustokvětá",
+   "text": "Tento druh dává dřevo, které se hlavně používá na výrobu papíru.",
+   "quote": "dřeva, používaného hlavně na výrobu papíru"
+  },
+  {
+   "id": "Q593894#3",
+   "species": "Jedlovec Mertensův",
+   "text": "Roste obvykle v chladném a vlhkém podnebí.",
+   "quote": "Roste zpravidla na stanovištích s chladnějším, vlhkým klimatem a dostatkem srážek"
+  },
+  {
+   "id": "Q147417#0",
+   "species": "Zerav obrovský",
+   "text": "Tento druh má ploché větévky se šupinatými listy.",
+   "quote": "Listí stromu vytváří ploché větévky se šupinatými listy."
+  },
+  {
+   "id": "Q1144409#0",
+   "species": "Jedlovec západní",
+   "text": "Dorůstá až do výšky 82 metrů.",
+   "quote": "může dosáhnout výšky až 82 metrů"
+  },
+  {
+   "id": "Q33482#1",
+   "species": "Zeravec východní",
+   "text": "Tento druh má malé listy jako šupinky, asi 2 milimetry dlouhé.",
+   "quote": "Drobné šupinovité listy jsou asi 2 mm dlouhé"
+  },
+  {
+   "id": "Q218425#3",
+   "species": "Smrk černý",
+   "text": "Dřevo tohoto druhu se hodí k výrobě papíru.",
+   "quote": "Dřevo lze využít k výrobě papíru aj."
+  },
+  {
+   "id": "Q33482#0",
+   "species": "Zeravec východní",
+   "text": "Tento druh obvykle dorůstá do výšky 12 až 15 metrů.",
+   "quote": "vyrůstá jako strom obvykle do výšky 12 až 15 m"
+  },
+  {
+   "id": "Q1723636#3",
+   "species": "Jalovec cedrovitý",
+   "text": "Tento druh dával velmi odolné dřevo, které dlouho vydrží.",
+   "quote": "Dřevo stromů bylo v minulosti velmi ceněno pro své vlastnosti, hlavně trvanlivost"
+  },
+  {
+   "id": "Q133096#1",
+   "species": "Borovice jedlá",
+   "text": "Tento druh se dožívá okolo 400 let.",
+   "quote": "nejstarší exempláře mívají okolo 400 roků"
+  },
+  {
+   "id": "Q670040#2",
+   "species": "Cypřiš arizonský",
+   "text": "Tento druh má šupinovité listy dlouhé 2 až 5 milimetrů.",
+   "quote": "Šupinovité listy jsou hladké, dlouhé 2 až 5 mm"
+  },
+  {
+   "id": "Q94302257#3",
+   "species": "Prumnopitys ferruginea",
+   "text": "Tento druh má rovné, tvrdé a trvanlivé dřevo, které se hodí na nábytek.",
+   "quote": "Dřevo stromu je rovné, tvrdé, trvanlivé a pěkně vybarvené. Je využíváno hlavně v interiéru, nejčastěji na výrobu nábytků"
+  },
+  {
+   "id": "Q936888#3",
+   "species": "Borovice osinatá",
+   "text": "Tento druh snáší vysoké mrazy i sucho.",
+   "quote": "snáší vysoké mrazy i sucho"
+  },
+  {
+   "id": "Q1768635#1",
+   "species": "Jalovec šupinatý",
+   "text": "Roste ve výškách od 1600 do 4900 metrů nad mořem.",
+   "quote": "Roste v nadmořských výškách 1,600-4,900 m n. m."
+  },
+  {
+   "id": "Q1640268#2",
+   "species": "Borovice Montezumova",
+   "text": "Šišky dozrávají dva roky.",
+   "quote": "dozrávají 2 roky"
+  },
+  {
+   "id": "Q847304#3",
+   "species": "Fitzroya cypřišovitá",
+   "text": "Šišky tohoto druhu dozrávají za jeden rok.",
+   "quote": "Šištice dozrávají prvým rokem"
+  },
+  {
+   "id": "Q837410#1",
+   "species": "Borovice tuhá",
+   "text": "Tento druh má některé šišky, které se otevřou až od velkého horka.",
+   "quote": "se část jejich šišek otevírá až na vnější podnět – zvýšenou teplotu"
+  }
+ ],
+ "candidates": {
+  "Q3087592": {
+   "name": "Borovice pichlavá",
+   "latin": "Pinus pungens",
+   "family": "borovicovité",
+   "lead": "Borovice pichlavá (Pinus pungens) je druh borovice, pocházející z východu Severní Ameriky.\n\n\n== Popis ==\nJe to obvykle menší stálezelený strom, dorůstající výšky 6–12 metrů, s přímým nebo pokřiveně vystoupavým kmenem a nepravidelnou kulovitou korunou, která se sama špatně čistí od suchých větví. Borka je tenká, šedohnědá až červenohnědá, v dospělosti rozpraskaná do nepravidelných hrubě šupinatých plátů. Dožívá se zhruba 250 let.\nJehlice vyrůstají po dvou, zřídka i po třech ve svazečcích s vytrva",
+   "facts": [
+    "Dožívá se zhruba 250 let.",
+    "Tento druh má na šiškách nápadné ostny až 1 cm dlouhé."
+   ]
+  },
+  "Q1144815": {
+   "name": "Tis japonský",
+   "latin": "Taxus cuspidata",
+   "family": "tisovité",
+   "lead": "Tis japonský (Taxus cuspidata) je jehličnatá dřevina z čeledi tisovitých, přirozeně rozšířená ve východní Asii. Podobá se evropskému tisu červenému a stejně jako on bývá často pěstován jako okrasná dřevina.\n\n\n== Popis ==\n\nJe to stálezelený, dlouhověký, dvoudomý strom nebo rozměrný keř, dorůstající výšky 5–10–18 metrů. Borka na kmeni a na větvích je červenošedohnědá, odlupuje se v drobných šupinách nebo podélných plátech. Jehlice jsou 1–3 cm dlouhé a 2–3 mm široké, mírně srpovitě zahnuté, leskle ",
+   "facts": [
+    "Roste hlavně ve stínu vlhkých lesů, 500 až 1000 metrů nad mořem.",
+    "Semeno je ve zralosti částečně obaleno jasně červeným obalem.",
+    "Jehličky tvoří na větvičkách široké písmeno V.",
+    "Tento druh se používá k pěstování malých stromků zvaných bonsaje."
+   ]
+  },
+  "Q1070125": {
+   "name": "Jedle kalifornská",
+   "latin": "Abies bracteata",
+   "family": "borovicovité",
+   "lead": "Jedle kalifornská (Abies bracteata) je severoamerický jehličnatý strom z čeledi borovicovitých, z rodu jedlí, a jediný zástupce podrodu Pseudotorreya.\n\n\n== Synonyma ==\nAbies religiosa sensu\nAbies venusta\nPicea bracteata\nPinus bracteata\nSequoia religiosa\nTaxodium sempervirens\n\n\n== Popis ==\nStálezelený, jehličnatý, spíše pomaleji rostoucí (15–30 cm za rok a 1,8–4,5 m za 10 let) strom, dorůstající do výšky okolo 12–30 m. Kmen dosahuje průměru až 1 m. Větve vyrůstají z kmene v pravých úhlech, u star",
+   "facts": [
+    "Dorůstá do výšky asi 12 až 30 metrů.",
+    "Kvete v květnu, semena se šíří od pozdního srpna do října.",
+    "Tento druh má na spodku jehlic dva široké bílé proužky."
+   ]
+  },
+  "Q1510186": {
+   "name": "Jalovec kadidlový",
+   "latin": "Juniperus thurifera",
+   "family": "cypřišovité",
+   "lead": "Jalovec kadidlový (Juniperus thurifera) je stálezelený strom nebo keř, který může dorůst až do výšky blízké 20 metrů. Je dvoudomá, světlomilná, suchomilná, na kvalitu půdy nenáročná aromatická dřevina s jehlicovitými a šupinovitými listy.\n\n\n== Rozšíření ==\nTato dlouhověká rostlina, s reliktním rozšířením z třetihor, roste převážně v pohořích západního Středomoří, kde na místech s vápencovým podložím dává přednost údolím a roklinám s kontinentálním podnebím.\nCentrum výskytu jalovce kadidlového je",
+   "facts": [
+    "Obvykle dorůstá jako strom do výšky asi 12 metrů.",
+    "Mladé listy jsou jehličkovité, starší listy jsou šupinovité.",
+    "Některé jedince jsou podle odhadu starší než 500 let.",
+    "Semena roznášejí zvířata, hlavně ptáci."
+   ]
+  },
+  "Q1290204": {
+   "name": "Jedle nádherná",
+   "latin": "Abies magnifica",
+   "family": "borovicovité",
+   "lead": "Jedle nádherná (Abies magnifica) je mohutný stálezelený jehličnatý strom původem z jihozápadní části Severní Ameriky (od Oregonu po Kalifornii).\n\n\n== Synonyma ==\nAbies amabilis varieta magnifica\nAbies campylocarpa\nAbies magnifica varieta argentea\nAbies magnifica varieta critchfieldii\nAbies magnifica poddruh shastensis\nAbies nobilis varieta magnifica\nAbies shastensis\nPinus campylocarpa\nPinus magnifica\nPinus nobilis varieta magnifica\nPicea magnifica\nPseudotsuga magnifica.\n\n\n== Popis ==\nStálezelený",
+   "facts": [
+    "Dožívá se více než 600 let.",
+    "Dorůstá až do výšky 77 metrů.",
+    "Semena dozrávají v říjnu.",
+    "Tento druh má lehké a měkké dřevo."
+   ]
+  },
+  "Q3237846": {
+   "name": "Borovice ježatá",
+   "latin": "Pinus echinata",
+   "family": "borovicovité",
+   "lead": "Borovice ježatá (Pinus echinata) je statný jednodomý jehličnatý strom, dorůstající do výšky 30 až 40 m, původem z východu Spojených států amerických. Roste poměrně rychle, je spolehlivým zdrojem kvalitního dřeva a bývá hojně využívána pro zalesňování nových i opuštěných lesních ploch.\n\n\n== Rozšíření ==\nDruh patří mezi nejrozšířenější borovice na východě Spojených států, kde přirozeně roste asi na 1 140 000 km², většinou se vyskytuje na málo úživné, špatně provzdušněné půdě. Borovice ježatá je pů",
+   "facts": [
+    "Tento druh dorůstá do výšky 30 až 40 metrů.",
+    "Tento druh má jehlice svázané po dvou až třech.",
+    "Tento druh šíří semena větrem, většina spadne nedaleko.",
+    "Tento druh snese mrazy i pod minus 20 stupňů Celsia."
+   ]
+  },
+  "Q6313668": {
+   "name": "Jalovec tuhý pobřežní",
+   "latin": "Juniperus conferta",
+   "family": "cypřišovité",
+   "lead": "Jalovec tuhý pobřežní (Juniperus rigida subsp. conferta) je poddruh jalovce tuhého, rozšířený v Japonsku a východním Rusku. Vyznačuje se šídlovitými jehlicemi podobnými jehlicím jalovce obecného a nízkým, poléhavým růstem. Je pěstován jako okrasná pokryvná dřevina.\n\n\n== Popis ==\nJalovec tuhý pobřežní je dvoudomý, nízký, poléhavý keř s plazivými kmínky, tvořící husté porosty. Větévky jsou rezavě hnědé, hustě pokryté jehlicemi. Jehlice jsou tuhé, pichlavé, více či méně prohnuté, 10 až 17 mm dlouhé",
+   "facts": [
+    "Opylení probíhá v červenci, plody dozrávají až na podzim příštího roku."
+   ]
+  },
+  "Q658749": {
+   "name": "Jalovec poléhavý",
+   "latin": "Juniperus procumbens",
+   "family": "cypřišovité",
+   "lead": "Jalovec poléhavý (Juniperus procumbens, syn. J. chinensis var. procumbens) je jehličnatá dřevina z čeledi cypřišovité. Je to poléhavý keř s jehlicovitými listy a šedými letorosty. Pochází z Japonska. V České republice je zřídka pěstován jako okrasná pokryvná dřevina.\n\n\n== Popis ==\nJalovec poléhavý je plazivý keř dorůstající výšky 40 až 70 cm. Větve jsou dlouhé, poléhavé, na konci vystoupavé. Letorosty jsou husté, tuhé, sivé. Jehlice jsou tuhé, jehlicovité, 6 až 8 mm dlouhé, na vrcholu ostře špič",
+   "facts": [
+    "Dorůstá do výšky 40 až 70 centimetrů.",
+    "Jehličky rostou po třech kolem větve."
+   ]
+  },
+  "Q17275264": {
+   "name": "Cypřišek nutkajský",
+   "latin": "Cupressus nootkatensis",
+   "family": "cypřišovité",
+   "lead": "Cypřišek nutkajský (Cupressus nootkatensis, syn. Xanthocyparis nootkatensis a další – viz taxobox, česky též pacypřiš nutkajský) je druh stromu z čeledi cypřišovitých, pocházející z pobřežních oblastí Pacifiku na severozápadě Severní Ameriky. Jeho druhové jméno je odvozeno z anglického názvu domorodého obyvatelstva obývajícího přilehlé okolí Vancouverova ostrova v Britské Kolumbii.\n\n\n== Taxonomie ==\nTaxonomická historie tohoto druhu je značně komplikovaná. Po svém objevu byl roku 1824 popsán jak",
+   "facts": [
+    "Tento druh dorůstá až do výšky 40 metrů.",
+    "Nejstarší známý strom tohoto druhu je starý přes 1800 let.",
+    "Tento druh obvykle roste na vlhkých místech v horách.",
+    "Tento druh potřebuje silnou sněhovou pokrývku, která chrání kořeny před mrazem."
+   ]
+  },
+  "Q137004": {
+   "name": "Ketelerka Davidova",
+   "latin": "Keteleeria davidiana",
+   "family": "borovicovité",
+   "lead": "Ketelerka Davidova (Keteleeria davidiana) je jehličnatý strom z čeledi borovicovitých, pocházející z Číny a Tchaj-wanu.\n\n\n== Rozšíření ==\nRoste v suchých a teplých oblastech, převážně kopcovitých, od 200 do 1500 m n. m., převážně v těchto čínských provinciích: Chu-nan, Chu-pej, Jün-nan, Kan-su, Kuej-čou, Šan-si, S’-čchuan a v autonomní oblasti Kuang-si. Dále roste ještě na ostrově Tchaj-wanu.\n\n\n== Popis ==\nKetelerka Davidova je strom vysoký až 50 m s průměrem kmene okolo 250 cm. Mladý strom mívá",
+   "facts": [
+    "Tento druh může být vysoký až 50 metrů.",
+    "Tento druh má na jaře červené pupeny, dobře vidět z dálky."
+   ]
+  },
+  "Q3308307": {
+   "name": "Borovice Martínezova",
+   "latin": "Pinus maximartinezii",
+   "family": "borovicovité",
+   "lead": "Borovice Martínezova (Pinus maximartinezii) je mexická pětijehličná borovice, mající nejvyšší počet děložních lístků ze všech známých rostlin (až 24) a jedny z největších semen ze všech borovic. Je reliktním druhem, objeveným teprve v 60. letech 20. století, pojmenována byla na počest mexického botanika Maximina Martíneze.\n\n\n== Popis ==\nStálezelený, jehličnatý strom, dorůstající do výšky 20 m. Kmen dosahuje průměru 0,4 m. Větve jsou nepravidelné. Koruna je široká, kopulovitá, někdy nepravidelná.",
+   "facts": [
+    "Jehlice mají obvykle po pěti v jednom svazečku.",
+    "Šišky mohou vážit až dva kilogramy.",
+    "Ptáci roznášejí semena z jeho šišek dál.",
+    "Pochází z Mexika, ze států Durango a Zacatecas."
+   ]
+  },
+  "Q3506484": {
+   "name": "Borovice vrcholová",
+   "latin": "Pinus culminicola",
+   "family": "borovicovité",
+   "lead": "Borovice vrcholová (Pinus culminicola) je drobná mexická vysokohorská keřovitá borovice, velmi ohrožená lesními požáry.\n\n\n== Popis ==\nStálezelený, jehličnatý, větrosprašný a jednodomý keř, dorůstající do výšky 1–5 m a u dospělých jedinců do šířky 10 m. Kmen je vícečetný, dosahuje průměru do 15–25 cm. Větve vyrůstají hned u země, jsou početné, větve prvního řádu (hlavní větve) jsou ležaté až stoupající, větve vyšších řádů (vedlejší větve) jsou stoupající až vztyčené, krátké, silné, pevné, ale pru",
+   "facts": [
+    "Tento druh dorůstá do výšky 1 až 5 metrů.",
+    "Tento druh roste jen na vysokých horách nad 3000 metrů.",
+    "Tento druh má zralé šišky v říjnu, semena se šíří v listopadu.",
+    "Tento druh šíří semena, která ptáci zakopávají do země."
+   ]
+  }
+ }
+}

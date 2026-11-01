@@ -1,0 +1,28 @@
+{"drop_facts": [
+{"id": "Q1171262#0", "why": "„věnec“ není vysvětlený, bez článku nesrozumitelné; „proudění potravy“ je krkolomné"},
+{"id": "Q1171262#1", "why": "„věnec“ není vysvětlený, bez článku nesrozumitelné"},
+{"id": "Q1410121#5", "why": "gramaticky chybně: akuzativ místo podmětu („Některé mořské měkkýše ho loví“)"},
+{"id": "Q1410121#6", "why": "posouvá citaci: „přičítá se podíl“ změněno na „podílí se“; role bakterie v bělení korálů je sporná"},
+{"id": "Q30092#5", "why": "gramaticky chybně: „Kosy, drozdy a špačky“ místo podmětu v 1. pádě"},
+{"id": "Q30092#6", "why": "krkolomné, chybí předmět („Jedí ježci…“) a není jasné, koho jedí"},
+{"id": "Q5130403#0", "why": "sporný údaj: u roupice bělavé se běžně uvádějí větší délky než 15 mm"},
+{"id": "Q901174#0", "why": "sporná přesná horní mez délky, zdroje se v maximu liší"}
+], "drop_pairs": [
+{"id": "Q1051334#0", "species": "Q1501422"},
+{"id": "Q1051334#0", "species": "Q30092"},
+{"id": "Q1434787#0", "species": "Q1410121"},
+{"id": "Q1434787#0", "species": "Q30041"},
+{"id": "Q1434787#1", "species": "Q1410121"},
+{"id": "Q1434787#1", "species": "Q21155"},
+{"id": "Q1569834#0", "species": "Q1051334"},
+{"id": "Q1569834#0", "species": "Q30041"},
+{"id": "Q1569834#1", "species": "Q1171262"},
+{"id": "Q1569834#1", "species": "Q30041"},
+{"id": "Q1569834#1", "species": "Q30092"},
+{"id": "Q21155#6", "species": "Q1051334"},
+{"id": "Q21155#6", "species": "Q1410121"},
+{"id": "Q21155#6", "species": "Q1569834"},
+{"id": "Q30041#0", "species": "Q1051334"},
+{"id": "Q5130403#1", "species": "Q30041"},
+{"id": "Q901174#1", "species": "Q21155"}
+]}

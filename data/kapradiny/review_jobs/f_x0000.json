@@ -1,0 +1,67 @@
+[
+ {
+  "id": "Q1345500#2",
+  "species": "Papratka samičí",
+  "latin": "Athyrium filix-femina",
+  "text": "Má v oddencích jedovatý olej.",
+  "quote": "Jedovatý olej z oddenků",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q21122#2",
+  "species": "Přeslička bahenní",
+  "latin": "Equisetum palustre",
+  "text": "Obsahuje jedovatý alkaloid palustrin, který může otrávit dobytek.",
+  "quote": "Obsahuje jedovatý piperidinový alkaloid palustrin, který nemizí ani po sušení",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q213548#4",
+  "species": "Hasivka orličí",
+  "latin": "Pteridium aquilinum",
+  "text": "Obsahuje enzym, který v těle ničí vitamín B1.",
+  "quote": "Syrová hasivka obsahuje enzym thiaminázu, který z organismu odbourává thiamin.",
+  "claimed_false_for": {
+   "Q1684201": "Hnědovka křídlatá (Microsorum pteropus)",
+   "Q743883": "Osladič obecný (Polypodium vulgare)"
+  }
+ },
+ {
+  "id": "Q213548#5",
+  "species": "Hasivka orličí",
+  "latin": "Pteridium aquilinum",
+  "text": "Obsahuje látku ptaquilosid, která může být karcinogenní.",
+  "quote": "V zelených částech hasivky je obsažen také potenciálně karcinogenní seskviterpen ptaquilosid.",
+  "claimed_false_for": {
+   "Q11258500": "Přeslička Mooreova (Equisetum ×moorei)",
+   "Q1355107": "Přeslička lesní (Equisetum sylvaticum)",
+   "Q1684201": "Hnědovka křídlatá (Microsorum pteropus)",
+   "Q743883": "Osladič obecný (Polypodium vulgare)",
+   "Q936546": "Přeslička největší (Equisetum telmateia)"
+  }
+ },
+ {
+  "id": "Q322994#2",
+  "species": "Kapraď samec",
+  "latin": "Dryopteris filix-mas",
+  "text": "Obsahuje látky jedovaté pro člověka.",
+  "quote": "obsahuje látky jedovaté i pro člověka",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q733398#4",
+  "species": "Podezřeň královská",
+  "latin": "Osmunda regalis",
+  "text": "Má extrakt klasifikovaný jako nebezpečnou látku.",
+  "quote": "Extrakt z podezřeně královské je klasifikován jako nebezpečná látka.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q733398#5",
+  "species": "Podezřeň královská",
+  "latin": "Osmunda regalis",
+  "text": "Tento druh je spojován s několika případy otrav.",
+  "quote": "Bylo totiž zjištěno několik případů otrav, které se dávaly do souvislosti s touto rostlinou",
+  "claimed_false_for": {}
+ }
+]

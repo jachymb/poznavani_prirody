@@ -1,0 +1,61 @@
+[
+ {
+  "id": "Q134912#0",
+  "species": "Nitěnka obecná",
+  "latin": "Tubifex tubifex",
+  "text": "Živí se organickými zbytky a bakteriemi z bahna.",
+  "quote": "Živí se organickými zbytky a bakteriemi z bahna.",
+  "claimed_false_for": {
+   "Q1051334": "Pijavka koňská (Haemopis sanguisuga)",
+   "Q133020": "Riftie hlubinná (Riftia pachyptila)",
+   "Q1410121": "Hermodice ohnivá (Hermodice carunculata)",
+   "Q150856": "Chobotnatka kachní (Theromyzon tessulatum)",
+   "Q1569834": "Afroditka plstnatá (Aphrodita aculeata)",
+   "Q30041": "Pijavka lékařská (Hirudo medicinalis)"
+  }
+ },
+ {
+  "id": "Q134912#1",
+  "species": "Nitěnka obecná",
+  "latin": "Tubifex tubifex",
+  "text": "Dýchá zadním koncem těla, který je vysunut do vodního sloupce.",
+  "quote": "dýchá zadním koncem těla, který je vysunut do vodního sloupce.",
+  "claimed_false_for": {
+   "Q1051334": "Pijavka koňská (Haemopis sanguisuga)",
+   "Q133020": "Riftie hlubinná (Riftia pachyptila)",
+   "Q1501422": "Žížala hnojní (Eisenia fetida)",
+   "Q150856": "Chobotnatka kachní (Theromyzon tessulatum)",
+   "Q30041": "Pijavka lékařská (Hirudo medicinalis)",
+   "Q5130403": "Roupice bělavá (Enchytraeus albidus)",
+   "Q901174": "Nereidka hnědá (Nereis pelagica)"
+  }
+ },
+ {
+  "id": "Q150856#0",
+  "species": "Chobotnatka kachní",
+  "latin": "Theromyzon tessulatum",
+  "text": "Živí se krví vodních ptáků.",
+  "quote": "živící se krví vodních ptáků",
+  "claimed_false_for": {
+   "Q1051334": "Pijavka koňská (Haemopis sanguisuga)",
+   "Q1171262": "Rournatec paví (Sabella pavonina)",
+   "Q134912": "Nitěnka obecná (Tubifex tubifex)",
+   "Q1410121": "Hermodice ohnivá (Hermodice carunculata)",
+   "Q1434787": "Rournatec ozdobný (Spirobranchus giganteus)",
+   "Q1501422": "Žížala hnojní (Eisenia fetida)",
+   "Q1569834": "Afroditka plstnatá (Aphrodita aculeata)",
+   "Q21155": "Pískovník rybářský (Arenicola marina)",
+   "Q30092": "Žížala obecná (Lumbricus terrestris)",
+   "Q5130403": "Roupice bělavá (Enchytraeus albidus)",
+   "Q901174": "Nereidka hnědá (Nereis pelagica)"
+  }
+ },
+ {
+  "id": "Q150856#1",
+  "species": "Chobotnatka kachní",
+  "latin": "Theromyzon tessulatum",
+  "text": "Tento druh je převážně noční.",
+  "quote": "Jedná se o převážně nočního živočicha.",
+  "claimed_false_for": {}
+ }
+]

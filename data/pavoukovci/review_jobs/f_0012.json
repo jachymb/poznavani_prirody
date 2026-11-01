@@ -1,0 +1,88 @@
+[
+ {
+  "id": "Q1759007#0",
+  "species": "Křižák keřový",
+  "latin": "Larinioides patagiatus",
+  "text": "Tento druh je nejčastěji vidět od května do října.",
+  "quote": "Dospělce lze v přírodě najít prakticky celoročně, zejména ale od května do října.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1759007#1",
+  "species": "Křižák keřový",
+  "latin": "Larinioides patagiatus",
+  "text": "Loví do sítě hlavně létavý hmyz.",
+  "quote": "Pavouk do ní loví primárně létavý hmyz.",
+  "claimed_false_for": {
+   "Q1058545": "Skálovka mravencožravá (Callilepis nocturna)",
+   "Q1425775": "Běžník zelený (Diaea dorsata)",
+   "Q1704634": "Slíďák mokřadní (Pardosa amentata)",
+   "Q1946372": "Štír kubánský (Centruroides gracilis)",
+   "Q472994": "Zápřednice jedovatá (Cheiracanthium punctorium)",
+   "Q548969": "Sklípkan Klaasův (Brachypelma klaasi)",
+   "Q742349": "Běžník kopretinový (Misumena vatia)"
+  }
+ },
+ {
+  "id": "Q2418994#0",
+  "species": "Šestiočka ryšavá",
+  "latin": "Harpactea rubicunda",
+  "text": "Loví v noci a sítě netká.",
+  "quote": "Jde o nočního lovce, jenž netká síť, ale kořisti se zmocňuje aktivně.",
+  "claimed_false_for": {
+   "Q1058583": "Skákavka bělovlasá (Euophrys frontalis)",
+   "Q1313444": "Snovačka uťatá (Episinus truncatus)",
+   "Q1624306": "Křižák načervenalý (Araneus alsine)",
+   "Q1758710": "Skákavka nosatcová (Ballus chalybeius)",
+   "Q1953235": "Křižák rudohnědý (Larinioides ixobolus)",
+   "Q2190878": "Skákavka úzká (Marpissa nivoyi)",
+   "Q27501462": "Pokoutník stepní (Eratigena agrestis)",
+   "Q917794": "Třesavka jižní (Holocnemus pluchei)"
+  }
+ },
+ {
+  "id": "Q2418994#1",
+  "species": "Šestiočka ryšavá",
+  "latin": "Harpactea rubicunda",
+  "text": "Typicky žije pod kameny.",
+  "quote": "typicky žije pod kameny a jinými podobnými předměty",
+  "claimed_false_for": {
+   "Q1624306": "Křižák načervenalý (Araneus alsine)",
+   "Q1953235": "Křižák rudohnědý (Larinioides ixobolus)"
+  }
+ },
+ {
+  "id": "Q617000#0",
+  "species": "Sklípkan největší",
+  "latin": "Theraphosa blondi",
+  "text": "Samice se dožívají 15 až 25 let.",
+  "quote": "Samice dospívají za 3 až 6 let a dožívají se 15 až 25 let.",
+  "claimed_false_for": {
+   "Q1058545": "Skálovka mravencožravá (Callilepis nocturna)",
+   "Q113297": "Snovačka jedovatá (Latrodectus mactans)",
+   "Q1164137": "Třesavka velká (Pholcus phalangioides)",
+   "Q119195": "Vodouch stříbřitý (Argyroneta aquatica)",
+   "Q1317090": "Slíďák tarentský (Lycosa tarantula)",
+   "Q1318127": "Třesavka kosmopolitní (Crossopriza lyoni)",
+   "Q1425775": "Běžník zelený (Diaea dorsata)",
+   "Q1498643": "Křižák velký (Araneus angulatus)",
+   "Q1500718": "Čelistnatka rákosní (Tetragnatha extensa)",
+   "Q169513": "Skákavka pruhovaná (Salticus scenicus)",
+   "Q1704634": "Slíďák mokřadní (Pardosa amentata)",
+   "Q21175": "Klíště obecné (Ixodes ricinus)",
+   "Q337509": "Křižák obecný (Araneus diadematus)",
+   "Q472994": "Zápřednice jedovatá (Cheiracanthium punctorium)",
+   "Q597490": "Křižák luční (Mangora acalypha)",
+   "Q742349": "Běžník kopretinový (Misumena vatia)",
+   "Q751959": "Křižák mostní (Larinioides sclopetarius)"
+  }
+ },
+ {
+  "id": "Q617000#1",
+  "species": "Sklípkan největší",
+  "latin": "Theraphosa blondi",
+  "text": "Roste neobvykle rychle a za dva roky přeroste většinu podobných zvířat.",
+  "quote": "Tento druh roste neobvykle rychle, během 2 let je schopen přerůst většinu druhů sklípkanů.",
+  "claimed_false_for": {}
+ }
+]

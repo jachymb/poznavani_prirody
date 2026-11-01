@@ -1,0 +1,24 @@
+{"drop_facts": [
+{"id": "Q2212339#0", "why": "chybí, čí jsou to predátoři; věta nemá jasný podmět"},
+{"id": "Q2212339#1", "why": "sporné: placouš se živí i rozsivkami a detritem; navíc chybí, čí je to potrava"},
+{"id": "Q26634#0", "why": "přehnané: mláďata žerou řasy a dospělci při nedostatku i jinou potravu; vynechává i výjimku z citace"},
+{"id": "Q2993412#0", "why": "sporné: druh je všežravý (houby, drobní bezobratlí), mlži nejsou doložená hlavní potrava"},
+{"id": "Q882716#2", "why": "sporné: živí se hlavně povlakem řas a mikroorganismů a detritem, ne převážně mršinami"}
+], "drop_pairs": [
+{"id": "Q1130991#0", "species": "Q1140786"},
+{"id": "Q1130991#0", "species": "Q26634"},
+{"id": "Q1140786#2", "species": "Q26634"},
+{"id": "Q139182#0", "species": "Q1130991"},
+{"id": "Q139182#0", "species": "Q1140786"},
+{"id": "Q139182#0", "species": "Q2212339"},
+{"id": "Q139182#0", "species": "Q26634"},
+{"id": "Q139182#0", "species": "Q2993412"},
+{"id": "Q139182#0", "species": "Q664443"},
+{"id": "Q139182#0", "species": "Q822952"},
+{"id": "Q139182#0", "species": "Q882716"},
+{"id": "Q139182#1", "species": "Q2212339"},
+{"id": "Q139182#1", "species": "Q664443"},
+{"id": "Q26634#1", "species": "Q2212339"},
+{"id": "Q26634#1", "species": "Q664443"},
+{"id": "Q2993412#1", "species": "Q139182"}
+]}

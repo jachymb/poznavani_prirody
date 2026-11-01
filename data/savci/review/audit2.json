@@ -1,0 +1,103 @@
+{
+ "drop_facts": [
+  {
+   "id": "Q41960#0",
+   "why": "misleading"
+  },
+  {
+   "id": "Q657056#3",
+   "why": "misleading"
+  },
+  {
+   "id": "Q723575#3",
+   "why": "style"
+  },
+  {
+   "id": "Q602823#1",
+   "why": "gives away species name"
+  },
+  {
+   "id": "Q215343#7",
+   "why": "misleading overgeneralisation"
+  },
+  {
+   "id": "Q281008#1",
+   "why": "meaningless without context / pet-care advice"
+  },
+  {
+   "id": "Q688601#2",
+   "why": "unclear without context"
+  },
+  {
+   "id": "Q784161#4",
+   "why": "odd wording, can mislead"
+  },
+  {
+   "id": "Q626027#0",
+   "why": "awkward Czech, hard for age"
+  },
+  {
+   "id": "Q4126704#1",
+   "why": "misleading/overgeneralised"
+  },
+  {
+   "id": "Q577677#0",
+   "why": "misleading"
+  },
+  {
+   "id": "Q819985#0",
+   "why": "misleading/vague"
+  },
+  {
+   "id": "Q178089#2",
+   "why": "ungrammatical Czech"
+  },
+  {
+   "id": "Q817180#2",
+   "why": "awkward Czech"
+  },
+  {
+   "id": "Q663412#0",
+   "why": "awkward Czech"
+  },
+  {
+   "id": "Q559289#1",
+   "why": "awkward wording"
+  },
+  {
+   "id": "Q29995#5",
+   "why": "missing context / incomplete"
+  },
+  {
+   "id": "Q1345391#1",
+   "why": "quote does not cover statement"
+  }
+ ],
+ "drop_pairs": [
+  {
+   "id": "Q133006#7",
+   "species": "Q599672"
+  },
+  {
+   "id": "Q181191#1",
+   "species": "Q276290"
+  }
+ ],
+ "reject_photos": [
+  {
+   "species_id": "Q1768169",
+   "i": 0,
+   "why": "identity cannot be judged"
+  },
+  {
+   "species_id": "Q194198",
+   "i": 0,
+   "why": "person dominates"
+  },
+  {
+   "species_id": "Q494436",
+   "i": 1,
+   "why": "identity uncertain"
+  }
+ ]
+}

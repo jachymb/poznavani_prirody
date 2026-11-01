@@ -1,0 +1,31 @@
+{"drop_facts": [
+{"id": "Q599519#1", "why": "zastaralý rekord (dnes uváděno 41 let) a nejasný podmět 'jeden jedinec'"},
+{"id": "Q608572#1", "why": "vynechává podmínku 'v přírodě', v zajetí žije déle"},
+{"id": "Q608656#2", "why": "vynechává 'časně ráno nebo pozdě odpoledne', posouvá význam citace"},
+{"id": "Q608656#3", "why": "vynechává 'v kohoutku', výška bez upřesnění je zavádějící"},
+{"id": "Q645732#0", "why": "vynechává 'někdy', příležitostné chování podává jako obecné"},
+{"id": "Q649549#0", "why": "sporný extrémní údaj, pásovec žere hlavně brouky a larvy"},
+{"id": "Q649836#1", "why": "odporuje biologii, P. maniculatus na jihovýchodě USA z velké části chybí"},
+{"id": "Q651814#1", "why": "zastaralý a sporný odhad populace (novější odhady se liší)"},
+{"id": "Q654370#1", "why": "sporné, doložena i větší stáda než 20 jedinců"},
+{"id": "Q660139#0", "why": "zastaralý areál, japonské populace se dnes řadí k H. alaschanicus"},
+{"id": "Q692664#1", "why": "sporné, nad zemí je aktivní zhruba 7 až 8 měsíců v roce"}
+], "drop_pairs": [
+{"id": "Q599519#0", "species": "Q213141"},
+{"id": "Q599519#0", "species": "Q301371"},
+{"id": "Q608656#1", "species": "Q184004"},
+{"id": "Q632701#0", "species": "Q221612"},
+{"id": "Q632701#0", "species": "Q626027"},
+{"id": "Q632701#1", "species": "Q534801"},
+{"id": "Q643741#1", "species": "Q281008"},
+{"id": "Q644293#0", "species": "Q132905"},
+{"id": "Q645732#1", "species": "Q373465"},
+{"id": "Q649549#1", "species": "Q42627"},
+{"id": "Q654370#0", "species": "Q183339"},
+{"id": "Q654370#0", "species": "Q184004"},
+{"id": "Q654370#0", "species": "Q221342"},
+{"id": "Q654370#0", "species": "Q646488"},
+{"id": "Q668004#1", "species": "Q109262313"},
+{"id": "Q673700#0", "species": "Q43576"},
+{"id": "Q695973#0", "species": "Q728636"}
+]}

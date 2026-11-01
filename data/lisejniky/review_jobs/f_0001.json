@@ -1,0 +1,207 @@
+[
+ {
+  "id": "Q113273#0",
+  "species": "Dutohlávka červcová",
+  "latin": "Cladonia coccifera",
+  "text": "Okraje pohárků jsou šarlatově červené.",
+  "quote": "Apothecia jsou na okrajích pohárků šarlatově červená",
+  "claimed_false_for": {
+   "Q1365267": "Mapovník zeměpisný (Rhizocarpon geographicum)",
+   "Q2974933": "Dutohlávka kuželovitá (Cladonia coniocraea)",
+   "Q582664": "Pukléřka islandská (Cetraria islandica)"
+  }
+ },
+ {
+  "id": "Q1365267#0",
+  "species": "Mapovník zeměpisný",
+  "latin": "Rhizocarpon geographicum",
+  "text": "Roste v horských oblastech s nízkým znečištěním ovzduší.",
+  "quote": "Roste v horských oblastech s nízkým znečištěním ovzduší.",
+  "claimed_false_for": {
+   "Q1811239": "Misnička zední (Lecanora muralis)",
+   "Q475341": "Terčovník zední (Xanthoria parietina)"
+  }
+ },
+ {
+  "id": "Q1811239#0",
+  "species": "Misnička zední",
+  "latin": "Lecanora muralis",
+  "text": "Roste na podkladu bohatém na vápník a živiny.",
+  "quote": "Kosmopolitní druh lišejníků rostoucí na substrátech obsahujících vápník a bohatých živinami.",
+  "claimed_false_for": {
+   "Q1365267": "Mapovník zeměpisný (Rhizocarpon geographicum)",
+   "Q582664": "Pukléřka islandská (Cetraria islandica)"
+  }
+ },
+ {
+  "id": "Q1811239#1",
+  "species": "Misnička zední",
+  "latin": "Lecanora muralis",
+  "text": "Stélka dorůstá až 10 cm v průměru.",
+  "quote": "dorůstá velikosti až 10 cm v průměru",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q182281#0",
+  "species": "Pukléřka sosnová",
+  "latin": "Vulpicida pinastri",
+  "text": "Žlutou barvu mu dělá kyselina, která pravděpodobně odhání plže.",
+  "quote": "Žluté zbarvení je způsobeno vysoce toxickou kyselinou vulpinovou v jádru, která pravděpodobně slouží jako ochrana proti plžům.",
+  "claimed_false_for": {
+   "Q199127": "Terčovník pohledný (Xanthoria elegans)",
+   "Q475341": "Terčovník zední (Xanthoria parietina)"
+  }
+ },
+ {
+  "id": "Q182281#1",
+  "species": "Pukléřka sosnová",
+  "latin": "Vulpicida pinastri",
+  "text": "Roste hlavně na smrcích a borovicích.",
+  "quote": "převážně na větvích a kmenech převážně smrků a borovic",
+  "claimed_false_for": {
+   "Q1365267": "Mapovník zeměpisný (Rhizocarpon geographicum)",
+   "Q199127": "Terčovník pohledný (Xanthoria elegans)",
+   "Q3374554": "Hávnatka psí (Peltigera canina)",
+   "Q582664": "Pukléřka islandská (Cetraria islandica)"
+  }
+ },
+ {
+  "id": "Q199127#0",
+  "species": "Terčovník pohledný",
+  "latin": "Xanthoria elegans",
+  "text": "Snese nízké teploty a vyskytuje se až do 7000 metrů nad mořem.",
+  "quote": "toleruje např. nízké teploty a vyskytuje se až do 7000 metrů nad mořem.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q199127#1",
+  "species": "Terčovník pohledný",
+  "latin": "Xanthoria elegans",
+  "text": "Vyskytuje se na pobřežních skalách a minerálně bohatých horninách.",
+  "quote": "Vyskytuje se na pobřežních skalách a jiných minerálně bohatých horninách.",
+  "claimed_false_for": {
+   "Q2079766": "Dutohlávka horská (Cladonia stellaris)",
+   "Q248744": "Dutohlávka sobí (Cladonia rangiferina)",
+   "Q3374554": "Hávnatka psí (Peltigera canina)",
+   "Q582664": "Pukléřka islandská (Cetraria islandica)"
+  }
+ },
+ {
+  "id": "Q2079766#0",
+  "species": "Dutohlávka horská",
+  "latin": "Cladonia stellaris",
+  "text": "Sobi a karibové jedí tento druh v zimních měsících.",
+  "quote": "Lišejník je sobem a karibem preferován jako potravinový zdroj během zimních měsíců",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q2079766#1",
+  "species": "Dutohlávka horská",
+  "latin": "Cladonia stellaris",
+  "text": "Při příznivých podmínkách přirůstá ročně méně než 0,5 cm.",
+  "quote": "příznivých podmínkách přirůstá průměrně méně jak 0,5 cm ročně .",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q248744#1",
+  "species": "Dutohlávka sobí",
+  "latin": "Cladonia rangiferina",
+  "text": "Roste velmi pomalu, asi 3 až 5 mm za rok.",
+  "quote": "velmi pomalu, asi 3-5 mm za rok",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q3374554#0",
+  "species": "Hávnatka psí",
+  "latin": "Peltigera canina",
+  "text": "Dává přednost vlhkým a méně úživným půdám, často spolu s mechy.",
+  "quote": "Upřednostňuje spíše vlhké a méně úživné půdy, často spolu s mechy.",
+  "claimed_false_for": {
+   "Q1811239": "Misnička zední (Lecanora muralis)",
+   "Q475341": "Terčovník zední (Xanthoria parietina)"
+  }
+ },
+ {
+  "id": "Q3374554#1",
+  "species": "Hávnatka psí",
+  "latin": "Peltigera canina",
+  "text": "Roste od nížin až do hor, v lesích i mimo les.",
+  "quote": "Je rozšířena od nížin až do hor, v lesích i mimo les.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q475341#0",
+  "species": "Terčovník zední",
+  "latin": "Xanthoria parietina",
+  "text": "Roste na větvích stromů i na kamenech.",
+  "quote": "Roste jak epifyticky (na větvích stromů), talk epiliticky (na kamenech).",
+  "claimed_false_for": {
+   "Q1365267": "Mapovník zeměpisný (Rhizocarpon geographicum)",
+   "Q2079766": "Dutohlávka horská (Cladonia stellaris)",
+   "Q248744": "Dutohlávka sobí (Cladonia rangiferina)",
+   "Q3374554": "Hávnatka psí (Peltigera canina)",
+   "Q582664": "Pukléřka islandská (Cetraria islandica)"
+  }
+ },
+ {
+  "id": "Q475341#1",
+  "species": "Terčovník zední",
+  "latin": "Xanthoria parietina",
+  "text": "Žlutou barvu mu dává látka, která chrání před slunečním zářením.",
+  "quote": "Žlutá barva je daná sekundárním metabolitem parietinem, který stélku chrání před nepříznivým vlivem slunečního záření.",
+  "claimed_false_for": {
+   "Q10646489": "Terčovka válcovitá (Hypogymnia tubulosa)",
+   "Q2079766": "Dutohlávka horská (Cladonia stellaris)",
+   "Q248744": "Dutohlávka sobí (Cladonia rangiferina)",
+   "Q3374554": "Hávnatka psí (Peltigera canina)",
+   "Q582664": "Pukléřka islandská (Cetraria islandica)",
+   "Q881824": "Terčovka bublinatá (Hypogymnia physodes)",
+   "Q904074": "Větvičník slívový (Evernia prunastri)"
+  }
+ },
+ {
+  "id": "Q881824#0",
+  "species": "Terčovka bublinatá",
+  "latin": "Hypogymnia physodes",
+  "text": "Roste na kyselé borce stromů.",
+  "quote": "V oblibě má zejména kyselou borku dřevin",
+  "claimed_false_for": {
+   "Q1365267": "Mapovník zeměpisný (Rhizocarpon geographicum)",
+   "Q199127": "Terčovník pohledný (Xanthoria elegans)",
+   "Q3374554": "Hávnatka psí (Peltigera canina)",
+   "Q582664": "Pukléřka islandská (Cetraria islandica)"
+  }
+ },
+ {
+  "id": "Q881824#1",
+  "species": "Terčovka bublinatá",
+  "latin": "Hypogymnia physodes",
+  "text": "V silně znečištěných oblastech se nevyskytuje.",
+  "quote": "ve velmi postižených oblastech se však nevyskytuje",
+  "claimed_false_for": {
+   "Q475341": "Terčovník zední (Xanthoria parietina)"
+  }
+ },
+ {
+  "id": "Q904074#0",
+  "species": "Větvičník slívový",
+  "latin": "Evernia prunastri",
+  "text": "Horní strana je zelenošedá, spodní bělavá.",
+  "quote": "Vrchní část stélky má barvu zelenošedou, spodní je bělavá.",
+  "claimed_false_for": {
+   "Q10646489": "Terčovka válcovitá (Hypogymnia tubulosa)",
+   "Q199127": "Terčovník pohledný (Xanthoria elegans)",
+   "Q475341": "Terčovník zední (Xanthoria parietina)"
+  }
+ },
+ {
+  "id": "Q904074#1",
+  "species": "Větvičník slívový",
+  "latin": "Evernia prunastri",
+  "text": "Chybí ve silně znečištěných oblastech.",
+  "quote": "V silně znečistěných oblastech chybí.",
+  "claimed_false_for": {
+   "Q475341": "Terčovník zední (Xanthoria parietina)"
+  }
+ }
+]

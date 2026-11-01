@@ -1,0 +1,32 @@
+{"drop_facts": [
+{"id": "Q1093540#1", "why": "délka listů nepřímo prozrazuje název velkolistý"},
+{"id": "Q11739000#1", "why": "pravopisná chyba, správně dožluta"},
+{"id": "Q1249099#0", "why": "přidává až, citace uvádí okolo 20 m; krkolomné až okolo"},
+{"id": "Q156853#1", "why": "přidává jen a krkolomné do pěti až deseti"},
+{"id": "Q156853#3", "why": "masíčko je bez článku nesrozumitelné, zní jako maso"},
+{"id": "Q158783#0", "why": "nejasný podmět, žloutnou listy, ne celý strom"},
+{"id": "Q161067#2", "why": "nepřímo prozrazuje název opojný, psychoaktivní je pro dítě nesrozumitelné"},
+{"id": "Q161067#3", "why": "nedává smysl, události doprovází ceremonie pití kavy, ne rostlina"},
+{"id": "Q161116#1", "why": "velké květy prozrazují název velkokvětý"}
+], "drop_pairs": [
+{"id": "Q10786205#0", "species": "Q11739000"},
+{"id": "Q10786205#0", "species": "Q1859063"},
+{"id": "Q10786205#0", "species": "Q839507"},
+{"id": "Q1093540#0", "species": "Q794061"},
+{"id": "Q1249099#1", "species": "Q839507"},
+{"id": "Q156853#0", "species": "Q1093540"},
+{"id": "Q156853#0", "species": "Q1859063"},
+{"id": "Q156853#0", "species": "Q2386378"},
+{"id": "Q158722#0", "species": "Q2724976"},
+{"id": "Q158722#0", "species": "Q546069"},
+{"id": "Q158783#2", "species": "Q26006"},
+{"id": "Q158783#2", "species": "Q546069"},
+{"id": "Q161116#2", "species": "Q794061"},
+{"id": "Q161116#2", "species": "Q942409"},
+{"id": "Q161116#3", "species": "Q21397476"},
+{"id": "Q164091#2", "species": "Q1074257"},
+{"id": "Q164091#2", "species": "Q1093540"},
+{"id": "Q164091#2", "species": "Q2386378"},
+{"id": "Q164091#2", "species": "Q2724976"},
+{"id": "Q1709343#0", "species": "Q786072"}
+]}

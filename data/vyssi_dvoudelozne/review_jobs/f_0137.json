@@ -1,0 +1,469 @@
+[
+ {
+  "id": "Q133893#5",
+  "species": "Lomikámen vždyzelený",
+  "latin": "Saxifraga aizoides",
+  "text": "V Evropě se tímto druhem živí housenky vřetenušky severské.",
+  "quote": "živí housenky vřetenušky severské (Zygaena exulans)",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1339284#0",
+  "species": "Pryskyřník lítý",
+  "latin": "Ranunculus sceleratus",
+  "text": "Roste hlavně na vlhkých zabahněných místech u rybníků a v příkopech.",
+  "quote": "hlavně na vlhkých zabahněných místech na okrajích rybníků",
+  "claimed_false_for": {
+   "Q148623": "Koniklec německý (Pulsatilla vulgaris)",
+   "Q148929": "Orlíček obecný (Aquilegia vulgaris)",
+   "Q149652": "Hlaváček plamenný (Adonis flammea)",
+   "Q15527780": "Jeřáb dunajský (Sorbus danubialis)",
+   "Q18746153": "Mahóniodřišťál Neubertův (× Mahoberberis neubertii)",
+   "Q2436341": "Sasanka baldenská (Anemone baldensis)",
+   "Q283386": "Plamének celolistý (Clematis integrifolia)",
+   "Q341582": "Chruplavník rolní (Polycnemum arvense)"
+  }
+ },
+ {
+  "id": "Q1339284#1",
+  "species": "Pryskyřník lítý",
+  "latin": "Ranunculus sceleratus",
+  "text": "Stonek bývá obvykle 20 až 50 cm vysoký.",
+  "quote": "obvykle 20–50 (ale někdy až 100) cm vysoký",
+  "claimed_false_for": {
+   "Q146110": "Topol osika (Populus tremula)",
+   "Q15367015": "Rohohlavec srpovitý (Ceratocephala falcata)"
+  }
+ },
+ {
+  "id": "Q133964#4",
+  "species": "Kadidlovník pravý",
+  "latin": "Boswellia sacra",
+  "text": "Dobytek a velbloudi spásají listy tohoto druhu.",
+  "quote": "Listy stromů rostoucích na dostupném místě bývají také spásány dobytkem i velbloudy.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q134253#0",
+  "species": "Gynostema pětilistá",
+  "latin": "Gynostemma pentaphyllum",
+  "text": "Pochází z oblastí jižní Číny.",
+  "quote": "jejíž původ je v oblastech jižní Číny",
+  "claimed_false_for": {
+   "Q157872": "Šalvěj muškátová (Salvia sclarea)",
+   "Q157980": "Posed bílý (Bryonia alba)",
+   "Q159602": "Třezalka pěkná (Hypericum pulchrum)",
+   "Q159645": "Bublinatka bledožlutá (Utricularia × ochroleuca)",
+   "Q161180": "Tykev velkoplodá (Cucurbita maxima)",
+   "Q38646266": "Čajot (Sicyos edulis)",
+   "Q4384728": "Libenka hranatá (Sicyos angulatus)",
+   "Q7229863": "Tykev obecná (Cucurbita pepo)"
+  }
+ },
+ {
+  "id": "Q134253#1",
+  "species": "Gynostema pětilistá",
+  "latin": "Gynostemma pentaphyllum",
+  "text": "Vydrží mráz až do −15 °C.",
+  "quote": "Je mrazuvzdorná až do −15 °C.",
+  "claimed_false_for": {
+   "Q1707437": "Naras bodlinatý (Acanthosicyos horridus)",
+   "Q2308434": "Lufa válcovitá (Luffa aegyptiaca)",
+   "Q652206": "Beninkasa voskonosná (Benincasa hispida)",
+   "Q81602": "Meloun cukrový (Cucumis melo)",
+   "Q845019": "Netýkavka balzamína (Impatiens balsamina)",
+   "Q913609": "Kolokvinta obecná (Citrullus colocynthis)"
+  }
+ },
+ {
+  "id": "Q134283#4",
+  "species": "Dobromysl obecná",
+  "latin": "Origanum vulgare",
+  "text": "Hmyz ho opyluje.",
+  "quote": "opylovány jsou hmyzem",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q134283#5",
+  "species": "Dobromysl obecná",
+  "latin": "Origanum vulgare",
+  "text": "Poskytuje včelám málo pylu.",
+  "quote": "Pylu poskytuje včelám málo",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q134347#4",
+  "species": "Hoja masitá",
+  "latin": "Hoya carnosa",
+  "text": "Mšice často napadají tento druh a výrazně ho poškozují.",
+  "quote": "Velmi často ji také napadají mšice, které rostlinu výrazně poškozují.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q134453#5",
+  "species": "Láčkovka soudečková",
+  "latin": "Nepenthes ampullaria",
+  "text": "Některé bakterie a larvy komárů pomáhají rostlině rozkládat listy.",
+  "quote": "Tyto organismy pomáhají rostlině rozkládat listovou hmotu a dodávat rostlině dusík ve formě amonných iontů.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q134453#6",
+  "species": "Láčkovka soudečková",
+  "latin": "Nepenthes ampullaria",
+  "text": "V jeho láčkách žijí některé z nejmenších žab.",
+  "quote": "některé nejmenší druhy žab Starého světa",
+  "claimed_false_for": {
+   "Q112917": "Hadí kořen větší (Bistorta officinalis)",
+   "Q12027723": "Kalina Davidova (Viburnum davidii)",
+   "Q1370878": "Rožec rolní (Cerastium arvense)",
+   "Q157853": "Líčidlo americké (Phytolacca americana)",
+   "Q160239": "Lebeda lesklá (Atriplex sagittata)",
+   "Q1754334": "Slanobýl obecný (Salsola tragus)",
+   "Q2119407": "Merlík smrdutý (Chenopodium vulvaria)",
+   "Q3143948": "Rozchodníkovec velký (Hylotelephium maximum)",
+   "Q3179665": "Tupela lesní (Nyssa sylvatica)",
+   "Q41793383": "Disocactus flagelliformis (Aporocactus flagelliformis)",
+   "Q736307": "Rosnolist lusitánský (Drosophyllum lusitanicum)",
+   "Q958046": "Růže bahenní (Rosa palustris)"
+  }
+ },
+ {
+  "id": "Q1345772#4",
+  "species": "Kozí brada luční",
+  "latin": "Tragopogon pratensis",
+  "text": "Hmyz ho opyluje, když přilétá pro nektar.",
+  "quote": "Kvítky se mohou opylit vlastním i cizím pylem, který přináší hmyz slétající se za nektarem.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1348567#4",
+  "species": "Máslovník africký",
+  "latin": "Vitellaria paradoxa",
+  "text": "Včely opylují jeho květy.",
+  "quote": "Květy máslovníku jsou opylovány zejména včelami.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q13539275#0",
+  "species": "Dračinec vroubený",
+  "latin": "Dracaena marginata",
+  "text": "Pochází z Madagaskaru.",
+  "quote": "původem z Madagaskaru",
+  "claimed_false_for": {
+   "Q132263": "Paprika křídlatá (Capsicum baccatum)",
+   "Q132973": "Láčkovka rádža (Nepenthes rajah)",
+   "Q133560": "Dračinec rumělkový (Dracaena cinnabari)",
+   "Q1534538": "Hvězdnice zlatovlásek (Galatella linosyris)",
+   "Q160095": "Divizna malokvětá (Verbascum thapsus)",
+   "Q160185": "Růže rolní (Rosa arvensis)",
+   "Q161058": "Blín černý (Hyoscyamus niger)",
+   "Q161780": "Mochyně židovská (Alkekengi officinarum)",
+   "Q196332": "Kustovnice cizí (Lycium barbarum)",
+   "Q3486643": "Smilacina hroznovitá (Maianthemum racemosum)",
+   "Q37937": "Povijnice batátová (Ipomoea batatas)",
+   "Q602633": "Tabák selský (Nicotiana rustica)"
+  }
+ },
+ {
+  "id": "Q13539275#1",
+  "species": "Dračinec vroubený",
+  "latin": "Dracaena marginata",
+  "text": "Dorůstá až do výšky 2 metrů.",
+  "quote": "Dorůstá až do výšky 2 m.",
+  "claimed_false_for": {
+   "Q156538": "Kaučukovník brazilský (Hevea brasiliensis)"
+  }
+ },
+ {
+  "id": "Q1355893#0",
+  "species": "Oka",
+  "latin": "Oxalis tuberosa",
+  "text": "Roste v Andách od Venezuely po Argentinu.",
+  "quote": "konkrétně ve středních a jižních Andách od Venezuely po Argentinu",
+  "claimed_false_for": {
+   "Q149341": "Koniklec otevřený (Pulsatilla patens)",
+   "Q15366572": "Routevník koriandrolistý (Callianthemum coriandrifolium)",
+   "Q157950": "Silenka nicí (Silene nutans)",
+   "Q158576": "Šťavel kyselý (Oxalis acetosella)",
+   "Q159504": "Drobnokvět pobřežní (Corrigiola litoralis)",
+   "Q160019": "Mandloň nízká (Prunus tenella)",
+   "Q3109451": "Protěž žlutobílá (Pseudognaphalium luteoalbum)",
+   "Q3655396": "Konopí rumištní (Cannabis ruderalis)",
+   "Q7844860": "Kolostrom aralkovitý (Trochodendron aralioides)",
+   "Q819184": "Hojník chlumní (Sideritis montana)"
+  }
+ },
+ {
+  "id": "Q1355893#1",
+  "species": "Oka",
+  "latin": "Oxalis tuberosa",
+  "text": "Jeho hlízy jsou podzemní stonky.",
+  "quote": "Jedná se o podzemní stonkové hlízy",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q135669#0",
+  "species": "Vrba celolistá",
+  "latin": "Salix integra",
+  "text": "Kvete v dubnu.",
+  "quote": "kvete v dubnu",
+  "claimed_false_for": {
+   "Q148882": "Pryšec obecný (Euphorbia esula)",
+   "Q155867": "Skočec obecný (Ricinus communis)",
+   "Q157563": "Pryskyřník prudký (Ranunculus acris)",
+   "Q158578": "Drnavec lékařský (Parietaria officinalis)",
+   "Q160098": "Mochna nátržník (Potentilla erecta)"
+  }
+ },
+ {
+  "id": "Q135669#1",
+  "species": "Vrba celolistá",
+  "latin": "Salix integra",
+  "text": "Původní je v Japonsku a Koreji.",
+  "quote": "Je původní v oblastech Japonska a Koreje.",
+  "claimed_false_for": {
+   "Q12209024": "Pryskyřník peřenosečný (Ranunculus millefoliatus)",
+   "Q157519": "Vrba ušatá (Salix aurita)",
+   "Q157561": "Kostival lékařský (Symphytum officinale)",
+   "Q159046": "Violka bílá (Viola alba)",
+   "Q208253": "Pryšec nádherný (Euphorbia pulcherrima)",
+   "Q6090472": "Kvajáva brazilská (Psidium guineense)",
+   "Q9373285": "Vrba slezská (Salix silesiaca)"
+  }
+ },
+ {
+  "id": "Q1357333#0",
+  "species": "Aktinidie stříbrná",
+  "latin": "Actinidia polygama",
+  "text": "Roste v horských oblastech Japonska a Číny.",
+  "quote": "Roste v horských oblastech Japonska a Číny ve výškách od 500 do 1900 metrů nad mořem.",
+  "claimed_false_for": {
+   "Q1138945": "Darlingtonie kalifornská (Darlingtonia californica)",
+   "Q14959": "Zapota obecná (Manilkara zapota)",
+   "Q159244": "Svízelka chlupatá (Cruciata laevipes)",
+   "Q161413": "Prvosenka nejmenší (Primula minima)",
+   "Q161748": "Ožanka lesní (Teucrium scorodonia)",
+   "Q683819": "Dub černomořský (Quercus pontica)"
+  }
+ },
+ {
+  "id": "Q1357333#1",
+  "species": "Aktinidie stříbrná",
+  "latin": "Actinidia polygama",
+  "text": "Dospělá rostlina dorůstá výšky 5–6 metrů.",
+  "quote": "V dospělosti dorůstá výšky 5–6 metrů.",
+  "claimed_false_for": {
+   "Q1292857": "Pouterie sapota (Pouteria sapota)",
+   "Q1421121": "Vřesovec čtyřřadý (Erica tetralix)",
+   "Q164120": "Pochybek severní (Androsace septentrionalis)",
+   "Q254436": "Zlatobýl kanadský (Solidago canadensis)",
+   "Q26615": "Vřes obecný (Calluna vulgaris)",
+   "Q2699200": "Libavka hrotitá (Gaultheria mucronata)",
+   "Q311426": "Paprika křovitá (Capsicum frutescens)",
+   "Q50346430": "Sedmikvítek evropský (Lysimachia europaea)",
+   "Q899812": "Šalvěj bílá (Salvia apiana)"
+  }
+ },
+ {
+  "id": "Q1363283#0",
+  "species": "Volovec vrbolistý",
+  "latin": "Buphthalmum salicifolium",
+  "text": "Tento druh je původní v Evropě.",
+  "quote": "Tento druh je původní v Evropě",
+  "claimed_false_for": {
+   "Q160123": "Lokanka lepá (Clarkia unguiculata)",
+   "Q17479806": "Korokie skalníková (Corokia cotoneaster)",
+   "Q35905": "Leucéna bělohlavá (Leucaena leucocephala)",
+   "Q59420273": "Fejchoa (Feijoa sellowiana)"
+  }
+ },
+ {
+  "id": "Q1363283#1",
+  "species": "Volovec vrbolistý",
+  "latin": "Buphthalmum salicifolium",
+  "text": "Kvete od června do září.",
+  "quote": "Kvete od června do září.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q136648#2",
+  "species": "Paznehtník měkký",
+  "latin": "Acanthus mollis",
+  "text": "Slimáci a hlemýždi ho napadají.",
+  "quote": "náchylné k napadení slimáky a hlemýždi",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1366575#4",
+  "species": "Bakopa drobnolistá",
+  "latin": "Bacopa monnieri",
+  "text": "Někteří vodní ptáci pomáhají šířit jeho semena.",
+  "quote": "Pomáhají je šířit i někteří vodní ptáci",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1366575#5",
+  "species": "Bakopa drobnolistá",
+  "latin": "Bacopa monnieri",
+  "text": "Housenky dvou druhů motýlů a můr ji spásají.",
+  "quote": "Rostliny spásají larvy motýla babočky Anartia jatrophae a můry blýskavky Spodoptera litura.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q136702#4",
+  "species": "Streptosolen Jamesonův",
+  "latin": "Streptosolen jamesonii",
+  "text": "Motýli často navštěvují jeho květy.",
+  "quote": "Často je navštěvují také motýli.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q136725#0",
+  "species": "Opuncie hnědoostná",
+  "latin": "Opuntia phaeacantha",
+  "text": "Plody i stonkové články jsou důležitým zdrojem potravy pro pouštní zvěř.",
+  "quote": "Plody i stonkové články představují důležitý zdroj potravy pro pouštní divokou zvěř.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q136725#1",
+  "species": "Opuncie hnědoostná",
+  "latin": "Opuntia phaeacantha",
+  "text": "V Česku může omezovat kriticky ohroženou skalní kapradinu.",
+  "quote": "Může zde omezovat mj. kriticky ohroženou skalní kapradinu podmrvku hadcovou.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q136730#3",
+  "species": "Skalník Zabelův",
+  "latin": "Cotoneaster zabelii",
+  "text": "Ptáci šíří jeho plody.",
+  "quote": "Díky šíření plodů ptactvem",
+  "claimed_false_for": {
+   "Q148936": "Koniklec luční (Pulsatilla pratensis)",
+   "Q950247": "Hruštička menší (Pyrola minor)"
+  }
+ },
+ {
+  "id": "Q1368577#4",
+  "species": "Kosmatcovník jedlý",
+  "latin": "Carpobrotus edulis",
+  "text": "Suchozemské želvy jedí jeho dužnaté listy.",
+  "quote": "Dužnaté listy jsou potravou suchozemských želv",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1368577#5",
+  "species": "Kosmatcovník jedlý",
+  "latin": "Carpobrotus edulis",
+  "text": "Plody a květy tohoto druhu jedí například paviáni, antilopy a dikobrazi.",
+  "quote": "ovoce a květy samotné požírají např. paviáni, antilopy či dikobrazi.",
+  "claimed_false_for": {
+   "Q1159849": "Hvozdík Lumnitzerův (Dianthus lumnitzeri)",
+   "Q1335122": "Řebříček bertrám (Achillea ptarmica)",
+   "Q159104": "Divizna brunátná (Verbascum phoeniceum)"
+  }
+ },
+ {
+  "id": "Q1368577#6",
+  "species": "Kosmatcovník jedlý",
+  "latin": "Carpobrotus edulis",
+  "text": "Roztoči se živí pylem tohoto druhu.",
+  "quote": "Pylem se vyživují zástupci rodu savenka, Typhlodromus a další roztoči",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1377367#0",
+  "species": "Hořec křížatý",
+  "latin": "Gentiana cruciata",
+  "text": "Květy jsou modré a mají tvar zvonku.",
+  "quote": "Modré čtyřčetné oboupohlavné květy zvonkovitého tvaru vyrůstají po několika v úžlabích listů a na vrcholku lodyhy.",
+  "claimed_false_for": {
+   "Q156854": "Svízel syřišťový (Galium verum)",
+   "Q158992": "Klokoč zpeřený (Staphylea pinnata)",
+   "Q159422": "Mařinka barvířská (Asperula tinctoria)",
+   "Q159744": "Svízel povázka (Galium mollugo)",
+   "Q159912": "Zeměžluč přímořská (Centaurium littorale)",
+   "Q165424": "Střemcha obecná (Prunus padus)",
+   "Q638145": "Slézovka trojklaná (Malope trifida)"
+  }
+ },
+ {
+  "id": "Q1377367#1",
+  "species": "Hořec křížatý",
+  "latin": "Gentiana cruciata",
+  "text": "Vyskytuje se na suchých loukách a stráních.",
+  "quote": "Obvykle se vyskytuje na suchých loukách, málo využívaných pastvinách a stráních",
+  "claimed_false_for": {
+   "Q134347": "Hoja masitá (Hoya carnosa)",
+   "Q158947": "Svízel severní (Galium boreale)",
+   "Q163578": "Vrba bylinná (Salix herbacea)",
+   "Q1674576": "Hořec chladnomilný (Gentiana frigida)",
+   "Q47685": "Kávovník arabský (Coffea arabica)"
+  }
+ },
+ {
+  "id": "Q138183#6",
+  "species": "Inga jedlá",
+  "latin": "Inga edulis",
+  "text": "Opice a ptáci jedí dužinu lusků a semena odhazují.",
+  "quote": "otvírají a dužinu vyžírají, přičemž semena odhazují.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1383317#0",
+  "species": "Netřesk brvitý",
+  "latin": "Sempervivum ciliosum",
+  "text": "Pochází z Bulharska, Řecka, Albánie a Makedonie.",
+  "quote": "Tento druh netřesku pochází z Bulharska, Řecka, Albánie a Makedonie.",
+  "claimed_false_for": {
+   "Q10912510": "Dvoukvětec zmarlikolistý (Disanthus cercidifolius)",
+   "Q1537045": "Darmera štítnatá (Darmera peltata)",
+   "Q162752": "Bergenie tučnolistá (Bergenia crassifolia)",
+   "Q4425210": "Meruzalka jezerní (Ribes lacustre)",
+   "Q913129": "Vilín virginský (Hamamelis virginiana)"
+  }
+ },
+ {
+  "id": "Q1383317#1",
+  "species": "Netřesk brvitý",
+  "latin": "Sempervivum ciliosum",
+  "text": "V létě kvete nažloutlými květy.",
+  "quote": "v létě kvete žlutavými květy",
+  "claimed_false_for": {
+   "Q1327535": "Rozchodníkovec nachový (Hylotelephium telephium)",
+   "Q149372": "Meruzalka krvavá (Ribes sanguineum)",
+   "Q161553": "Talovín zimní (Eranthis hyemalis)",
+   "Q17777412": "Meruzalka sněžná (Ribes niveum)"
+  }
+ },
+ {
+  "id": "Q139925#5",
+  "species": "Merlík čilský",
+  "latin": "Chenopodium quinoa",
+  "text": "Ptáci rádi zobou jeho zrna.",
+  "quote": "zrna se stanou oblíbenou potravou ptáků",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1405636#4",
+  "species": "Fíkovník banyán",
+  "latin": "Ficus benghalensis",
+  "text": "Opyluje ho jediný druh drobné vosy.",
+  "quote": "Každý druh fíkovníku je opylován jediným druhem vosy",
+  "claimed_false_for": {
+   "Q102088": "Růže převislá (Rosa pendulina)",
+   "Q1066106": "Maklura oranžová (Maclura pomifera)",
+   "Q146951": "Slivoň myrobalán (Prunus cerasifera)",
+   "Q1509784": "Lilík mochyňovitý (Nicandra physalodes)",
+   "Q157407": "Kuklík městský (Geum urbanum)",
+   "Q158900": "Mochna jahodovitá (Potentilla sterilis)",
+   "Q158953": "Tavolníkovec jeřábolistý (Sorbaria sorbifolia)",
+   "Q159174": "Komonice nejvyšší (Melilotus altissimus)",
+   "Q2087013": "Růže perská (Rosa persica)",
+   "Q671227": "Hadinec červený (Pontechium maculatum)",
+   "Q7376217": "Ostružiník ojíněný (Rubus occidentalis)"
+  }
+ }
+]

@@ -1,0 +1,250 @@
+{
+ "facts": [
+  {
+   "id": "Q160723#1",
+   "species": "Třtina chloupkatá",
+   "text": "Tento druh roste hojně hlavně ve vyšších horských polohách.",
+   "quote": "V ČR je hojná především ve vyšších polohách a horských oblastech."
+  },
+  {
+   "id": "Q50346809#0",
+   "species": "Kostřava rákosovitá",
+   "text": "Kvete v červnu a červenci.",
+   "quote": "vykvétá v červnu až červenci"
+  },
+  {
+   "id": "Q11575#4",
+   "species": "Kukuřice setá",
+   "text": "Jeden klas tohoto druhu nese od 60 do více než 1000 zrnek.",
+   "quote": "v každém klasu jich je od 60 po více než 1000"
+  },
+  {
+   "id": "Q158901#1",
+   "species": "Ostřice tmavá",
+   "text": "Kvete nejčastěji v červnu a červenci.",
+   "quote": "Kvete nejčastěji v červnu až v červenci."
+  },
+  {
+   "id": "Q159020#2",
+   "species": "Bahnička mokřadní",
+   "text": "Tento druh dorůstá do výšky 10 až 80 centimetrů.",
+   "quote": "od 10 do 80 cm vysoká bylina"
+  },
+  {
+   "id": "Q159053#0",
+   "species": "Zevar úzkolistý",
+   "text": "Dorůstá obvykle do výšky 10 až 100 centimetrů.",
+   "quote": "dorůstají výšky nejčastěji 10–100 cm"
+  },
+  {
+   "id": "Q161797#1",
+   "species": "Suchopýr pochvatý",
+   "text": "Tento druh má dlouhé bílé chlupy, které pomáhají semenům létat i plout.",
+   "quote": "vytvářejí tak létací, případně plovací aparát k lepšímu rozšiřování semen vzduchem a vodou"
+  },
+  {
+   "id": "Q157766#1",
+   "species": "Ostřice šedavá",
+   "text": "Tento druh kvete nejčastěji od května do července.",
+   "quote": "Kvete nejčastěji v květnu až v červenci."
+  },
+  {
+   "id": "Q159251#0",
+   "species": "Ostřice šáchorovitá",
+   "text": "Tento druh kvete nejčastěji od června do září.",
+   "quote": "Kvete nejčastěji v červnu až v září."
+  },
+  {
+   "id": "Q1322131#1",
+   "species": "Kamýšek obecný",
+   "text": "Roste v trsech a dorůstá do výše 50 až 100 cm.",
+   "quote": "v trsech rostoucí rostlina dorůstající do výše 50 až 100 cm"
+  },
+  {
+   "id": "Q159894#0",
+   "species": "Ostřice drobná",
+   "text": "Dorůstá obvykle do výšky 5 až 25 centimetrů.",
+   "quote": "Jedná se o rostlinu dosahující výšky nejčastěji 5–25 cm."
+  },
+  {
+   "id": "Q12104#0",
+   "species": "Oves setý",
+   "text": "Dorůstá do výšky 40 až 150 centimetrů.",
+   "quote": "Jednoletá tráva, která dorůstá výšky mezi 40 až 150 cm."
+  },
+  {
+   "id": "Q12060404#0",
+   "species": "Třtina nachová",
+   "text": "Tento druh dorůstá obvykle do výšky 80 až 120 centimetrů.",
+   "quote": "dosahující výšky nejčastěji 80–120 cm"
+  },
+  {
+   "id": "Q161879#3",
+   "species": "Zblochan vodní",
+   "text": "Vytváří husté porosty, které omezují jiné rostliny.",
+   "quote": "Vytvářejí monokultury, které na stanovišti výrazně snižují množství jiných rostlinných druhů"
+  },
+  {
+   "id": "Q1466543#0",
+   "species": "Proso prutnaté",
+   "text": "Tento druh vyroste až do výšky dvou metrů.",
+   "quote": "Kultivary dorůstají 120–160 cm, původní druh až 2 m."
+  },
+  {
+   "id": "Q158994#2",
+   "species": "Rosička krvavá",
+   "text": "Roste i podél solených silnic, kde rostliny citlivé na sůl nepřežijí.",
+   "quote": "A právě v tomto úzkém vegetačním pásu, ve které nemohou druhy citlivé na zasolenou půdu přežít"
+  },
+  {
+   "id": "Q158994#0",
+   "species": "Rosička krvavá",
+   "text": "Kvete od června až do října.",
+   "quote": "Kvítky rozkvétají od června až do října."
+  },
+  {
+   "id": "Q158237#0",
+   "species": "Ostřice prstnatá",
+   "text": "Dorůstá většinou do výšky 10 až 30 centimetrů.",
+   "quote": "Jedná se o rostlinu dosahující výšky nejčastěji 10–30 cm."
+  },
+  {
+   "id": "Q163963#2",
+   "species": "Psineček výběžkatý",
+   "text": "Jeho květy často opyluje drobný létavý hmyz.",
+   "quote": "Jsou cizosprašné a bývají opylované drobným létavým hmyzem"
+  },
+  {
+   "id": "Q159953#0",
+   "species": "Paličkovec šedavý",
+   "text": "Dožívá se dvou až šesti let.",
+   "quote": "dožívají se dvou až šesti let"
+  }
+ ],
+ "candidates": {
+  "Q146572": {
+   "name": "Orobinec úzkolistý",
+   "latin": "Typha angustifolia",
+   "family": "orobincovité",
+   "lead": "Orobinec úzkolistý (Typha angustifolia) je druh jednoděložné rostliny z čeledi orobincovité.\n\n\n== Popis ==\nJedná se o vytrvalou, cca 1–3 m vysokou rostlinu s oddenkem. Listy jsou jednoduché, střídavé, přisedlé, uspořádané do 2 řad. Čepele jsou celistvé, čárkovité se souběžnou žilnatinou, jsou asi 3 mm – 1 cm široké (tedy užší než u orobince širokolistého, zato širší než u orobince sítinovitého, víceméně tmavozelené. Květy jsou v květenstvích, hustých tlustých klasech složených z mnoha květů, něk",
+   "facts": [
+    "Tento druh má listy široké asi 3 mm až 1 cm.",
+    "Tento druh šíří pyl pomocí větru."
+   ]
+  },
+  "Q598076": {
+   "name": "Ostřice Bigelowova",
+   "latin": "Carex bigelowii",
+   "family": "šáchorovité",
+   "lead": "Ostřice Bigelowova (Carex bigelowii, syn: Carex rigida, Carex fyllae) je druh jednoděložné rostliny z čeledi šáchorovité (Cyperaceae).\n\n\n== Popis ==\nJedná se o rostlinu dosahující výšky nejčastěji 10-20, vzácněji až 30 cm (mimo ČR až 50 cm). Je vytrvalá a netrsnatá. Listy jsou střídavé, přisedlé, s listovými pochvami. Lodyha je ostře trojhranná, hladká nebo nahoře trochu drsná, delší než listy. Čepele jsou asi 1,5-4, vzácněji až 6 mm široké, při zasychání na okraji podvinuté. Bazální pochvy jsou",
+   "facts": [
+    "Kvete nejčastěji v červnu a červenci.",
+    "Roste v Česku jen vysoko v horách nad hranicí lesa."
+   ]
+  },
+  "Q1021163": {
+   "name": "Bilbergie nicí",
+   "latin": "Billbergia nutans",
+   "family": "bromeliovité",
+   "lead": "Bilbergie nicí (Billbergia nutans) je vytrvalá tropická rostlina, která se v podmínkách mírného podnebí pěstuje jako pokojová rostlina. Bývá žádána jak pro úzké tmavozelené listy rostoucí v růžici, tak i pro obloukovitě převisající květenství tvořené zelenomodrými květy s červenými listeny. Oblíbena je také pro nenáročnost na pravidelnou péči. Je nejpěstovanějším druhem z rodu bilbergie. Pochází z\nvlhkých lesů Jižní Ameriky, konkrétně z Brazílie, Paraguaye, Uruguaye a severu Argentiny.\n\n\n== Ekol",
+   "facts": [
+    "Roste na stromech, ale ze stromů nebere žádnou výživu.",
+    "Dospělé rostliny kvetou průběžně po celý rok."
+   ]
+  },
+  "Q164838": {
+   "name": "Ostřice Hostova",
+   "latin": "Carex hostiana",
+   "family": "šáchorovité",
+   "lead": "Ostřice Hostova (Carex hostiana) je druh jednoděložné rostliny z čeledi šáchorovité (Cyperaceae).\n\n\n== Popis ==\nJedná se o rostlinu dosahující výšky nejčastěji 20–60 cm, Je vytrvalá, řídce trsnatá, s krátkým oddenkem a krátkými obloukovitými výběžky. Listy jsou střídavé, přisedlé, s listovými pochvami. Lodyha je tupě trojhranná, jen nahoře drsná, asi 2× delší než listy, čepele jsou asi 2–5 mm široké, na líci tmavozelené, na rubu sivé. Bazální pochvy jsou nejčastěji bělavé až šedavé, roztřepené v",
+   "facts": [
+    "Tento druh má samčí a samičí květy zvlášť.",
+    "Tento druh je v Česku silně ohrožený."
+   ]
+  },
+  "Q159069": {
+   "name": "Ostřice třeslicovitá",
+   "latin": "Carex brizoides",
+   "family": "šáchorovité",
+   "lead": "Ostřice třeslicovitá (Carex brizoides, syn. Vignea brizoides), neboli tuřice třeslicovitá, je druh jednoděložné rostliny z čeledi šáchorovité (Cyperaceae).\n\n\n== Popis ==\nJedná se o rostlinu dosahující výšky asi 20–70 cm. Je vytrvalá, vytváří dlouhé plazivé oddenky, ze kterých vyrůstají jednotlivé lodyhy, tvoří tak často rozsáhlé porosty, je tedy netrsnatá. Listy jsou střídavé, přisedlé, s listovými pochvami. Lodyha je ostře trojhranná, v době květu výrazně kratší než listy sterilních výhonů, v d",
+   "facts": [
+    "Dorůstá do výšky 20 až 70 centimetrů.",
+    "Kvete hlavně v květnu a červnu."
+   ]
+  },
+  "Q158676": {
+   "name": "Zevar jednoduchý",
+   "latin": "Sparganium emersum",
+   "family": "orobincovité",
+   "lead": "Zevar jednoduchý (Sparganium emersum, syn.: Sparganium simplex) je druh jednoděložné rostliny, podle systému APG III patří do čeledi orobincovitých (Typhaceae).\n\n\n== Popis ==\nJedná se o vytrvalou bažinnou až vodní rostlinu s oddenkem, kořenící v zemi, dorůstají výšky nejčastěji 20–60 cm. Listy jsou jednoduché, střídavé, přisedlé, uspořádané do 2 řad. Listy mohou být vzpřímené nebo u zaplavených rostlin i plovoucí na hladině. Čepele jsou celistvé, čárkovité, trojhranné, se souběžnou žilnatinou, j",
+   "facts": [
+    "Dorůstá obvykle do výšky 20 až 60 centimetrů.",
+    "Některé listy plavou na hladině vody."
+   ]
+  },
+  "Q159345": {
+   "name": "Hrotnosemenka hnědá",
+   "latin": "Rhynchospora fusca",
+   "family": "šáchorovité",
+   "lead": "Hrotnosemenka hnědá (Rhynchospora fusca) je vytrvalá, slabě trsnatá bylina rostoucí na vlhkých místech. V české krajině je tato mokřadní rostlina z čeledi šáchorovitých sice původním druhem, ale nyní je již silně ohrožená vymizením.\n\n\n== Rozšíření ==\nBylina je rozšířena téměř v celé Evropě a na severoamerickém kontinentu na východě Kanady a Spojených států amerických. V české přírodě se ještě ve 20. století vyskytovala na jihu Čech na Třeboňsku a na severu Čech v okolí Doks. V současnosti roste ",
+   "facts": [
+    "Dorůstá do výšky 10 až 40 centimetrů.",
+    "Roste na vlhkých, občas zaplavovaných půdách.",
+    "Kvete od května do července.",
+    "Opyluje ji vítr."
+   ]
+  },
+  "Q158894": {
+   "name": "Lipnice hajní",
+   "latin": "Poa nemoralis",
+   "family": "lipnicovité",
+   "lead": "Lipnice hajní (Poa nemoralis) je rostlina z čeledí lipnicovité.\n\n\n== Popis ==\nVíceletá volně trsnatá tráva středního vzrůstu se střední až pozdní raností vývoje. Dorůstá do výšky 30 až 80 cm. Stéblo je středně vysoké, tenké, bohatě olistěné. Vystoupavá kolénka často temně zbarvená.\nListy jsou ploché až svinuté, modro- až tmavozelené. Čepel nejvyššího listu od stébla kolmo odstálá, delší nebo stejně dlouhá jako listová pochva. Jazýček velmi krátký, uťatý, většinou chybí. Vernace složená. Květenst",
+   "facts": [
+    "Dorůstá do výšky 30 až 80 cm.",
+    "Tento druh rád roste ve stínu lesů."
+   ]
+  },
+  "Q159156": {
+   "name": "Sveřep měkký",
+   "latin": "Bromus hordeaceus",
+   "family": "lipnicovité",
+   "lead": "Sveřep měkký (Bromus hordeaceus) je středně vysoká, v poslední době se rychle rozšiřující, volně trsnatá plevelná tráva vytvářející poměrně malé a nepevné trsy, druh ze širokého rodu sveřep.\n\n\n== Taxonomie ==\nV České republice roste ve dvou poddruzích:\n\nsveřep měkký pravý (Bromus hordeaceus  subsp. hordeaceus)\nsveřep měkký lysý (Bromus hordeaceus  subsp. pseudothominii)\n\n\n== Výskyt ==\nRoste s výjimkou severních oblastí téměř v celé Evropě a kolem Středozemního moře i v severní Africe a na západě",
+   "facts": [
+    "Kvete od května do července.",
+    "Jedna rostlina dá po dozrání až 1500 zrníček."
+   ]
+  },
+  "Q159194": {
+   "name": "Šejdračka bahenní",
+   "latin": "Zannichellia palustris",
+   "family": "rdestovité",
+   "lead": "Šejdračka bahenní (Zannichellia palustris) je druh jednoděložných rostlin z čeledi rdestovité (Potamogetonaceae). Starší taxonomické systémy ji často řadí do samostatné čeledi šejdračkovité (Zannichelliaceae).\n\n\n== Popis ==\nJedná se o vytrvalou vodní rostlinu s tenkými oddenky, kořenící ve dně. Lodyha je dole plazivá a často v uzlinách kořenující, nahoře vzplývá, celá rostlina je ponořená. Listy jsou jednoduché, jen ponořené, přisedlé, většinou (kromě nekvetoucích větví) vstřícné (na rozdíl od r",
+   "facts": [
+    "Tento druh kvete pod vodou.",
+    "Tento druh roste ve velké části světa."
+   ]
+  },
+  "Q161323": {
+   "name": "Sítina slatinná",
+   "latin": "Juncus subnodulosus",
+   "family": "sítinovité",
+   "lead": "Sítina slatinná (Juncus subnodulosus) je jednou z téměř dvou desítek původních druhů sítin, které v české přírodě rostou. Patří ke vzrostným sítinám s olistěnými lodyhami a oblými, dutými, přehrádkovanými listy.\n\n\n== Rozšíření ==\nAreál sítiny slatinné zahrnuje Evropu od Britských ostrovů a Pyrenejského poloostrova na západě až po Ukrajinu a Turecko na východě. Severní hranice probíhá jihem Skandinávského poloostrova a jižní okolo Středozemního moře, včetně přesahu do Alžírska a Maroka v severní ",
+   "facts": [
+    "Dorůstá do výšky až 120 centimetrů.",
+    "Kvete od června do srpna.",
+    "Tento druh šíří semena větrem, vodou i zvířaty.",
+    "Tento druh je v Česku velmi vzácný."
+   ]
+  },
+  "Q160038": {
+   "name": "Ostřice tlapkatá",
+   "latin": "Carex pediformis",
+   "family": "šáchorovité",
+   "lead": "Ostřice tlapkatá (Carex pediformis) je druh jednoděložné rostliny z čeledi šáchorovité (Cyperaceae).\n\n\n== Popis ==\nJedná se o rostlinu dosahující výšky nejčastěji 5–40 cm. Je vytrvalá a trsnatá, tvoří drny s krátkými oddenky, ze kterých vyrůstají plazivé větve. Listy jsou střídavé, přisedlé, s listovými pochvami. Lodyha je asi stejně dlouhá jako listy, alespoň nahoře je drsná. Čepele jsou asi 1,5–2 mm široké, slabě drsné, tmavě zelené. Bazální pochvy jsou hnědočervené až fialově hnědé, síťnatě r",
+   "facts": [
+    "Tento druh kvete nejčastěji v dubnu až v květnu.",
+    "Tento druh má nahoře klásky s pylem a dole klásky se semeny."
+   ]
+  }
+ }
+}

@@ -1,0 +1,519 @@
+[
+ {
+  "id": "Q43375#10",
+  "species": "Rys ostrovid",
+  "latin": "Lynx lynx",
+  "text": "Vlci, medvědi, levharti nebo tygři ho v některých oblastech mohou ohrožovat.",
+  "quote": "Může jít o vlky, medvědy, levharty či tygry",
+  "claimed_false_for": {
+   "Q148752": "Lenochod hnědokrký (Bradypus variegatus)",
+   "Q210314": "Kočka pampová (Leopardus colocola)"
+  }
+ },
+ {
+  "id": "Q434197#4",
+  "species": "Lasice horská",
+  "latin": "Mustela altaica",
+  "text": "U jezera Balchaš loví hlavně hraboše, myši a ondatry.",
+  "quote": "V oblasti při jezeře Balchaš se na jídelníčku nachází především hraboši, myši, ještěrky, ondatry, hryzci a ptáci.",
+  "claimed_false_for": {
+   "Q129727": "Rys iberský (Lynx pardinus)",
+   "Q1762962": "Pásovec dlouhouchý (Cabassous tatouay)",
+   "Q183330": "Fosa (Cryptoprocta ferox)",
+   "Q18498": "Vlk obecný (Canis lupus)",
+   "Q18764": "Oviječ skvrnitý (Paradoxurus hermaphroditus)",
+   "Q192710": "Tapír čabrakový (Tapirus indicus)",
+   "Q23907": "Gepard štíhlý (Acinonyx jubatus)",
+   "Q247774": "Hyrare (Eira barbara)",
+   "Q466597": "Lachtan jihoafrický (Arctocephalus pusillus)",
+   "Q533063": "Klokan uzdičkový (Onychogalea fraenata)",
+   "Q591450": "Rejsek obecný (Sorex araneus)"
+  }
+ },
+ {
+  "id": "Q434197#5",
+  "species": "Lasice horská",
+  "latin": "Mustela altaica",
+  "text": "Jí také ještěrky a hmyz.",
+  "quote": "Dále požírá ještěrky, hmyz a v malé míře i ryby a obojživelníky.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q434197#6",
+  "species": "Lasice horská",
+  "latin": "Mustela altaica",
+  "text": "Konkurují mu kolonok, hranostaj, kuna skalní a tchořík skvrnitý.",
+  "quote": "jako je kolonok, hranostaj, kuna skalní a tchořík skvrnitý",
+  "claimed_false_for": {
+   "Q1767321": "Dikobraz filipínský (Hystrix pumila)",
+   "Q209291": "Klokan rudoboký (Thylogale billardierii)",
+   "Q223960": "Tapír horský (Tapirus pinchaque)",
+   "Q23121": "Mangusta žíhaná (Mungos mungo)",
+   "Q257432": "Pes šedý (Lycalopex vetulus)",
+   "Q688601": "Outloň váhavý (Nycticebus coucang)",
+   "Q757265": "Cibetka asijská (Viverra zibetha)",
+   "Q838840": "Fret malý (Bassariscus sumichrasti)"
+  }
+ },
+ {
+  "id": "Q43576#6",
+  "species": "Kočka divoká",
+  "latin": "Felis silvestris",
+  "text": "Loví ptáky až do velikosti slepice.",
+  "quote": "dále ptáci až do velikosti slepice",
+  "claimed_false_for": {
+   "Q142715": "Lenochod tříprstý (Bradypus tridactylus)",
+   "Q752691": "Lenochod dvouprstý (Choloepus didactylus)"
+  }
+ },
+ {
+  "id": "Q43576#8",
+  "species": "Kočka divoká",
+  "latin": "Felis silvestris",
+  "text": "Rys a vlk mohou tento druh ulovit.",
+  "quote": "Může být napadena a sežrána rysem, vlkem",
+  "claimed_false_for": {
+   "Q134015": "Surikata (Suricata suricatta)",
+   "Q183255": "Prase savanové (Phacochoerus africanus)",
+   "Q283426": "Grizon velký (Galictis vittata)",
+   "Q331850": "Pes krátkouchý (Atelocynus microtis)",
+   "Q601913": "Pes argentinský (Lycalopex griseus)",
+   "Q743563": "Mangusta trpasličí (Helogale parvula)",
+   "Q75070": "Pásovec kulovitý (Tolypeutes matacus)",
+   "Q852769": "Bodlín bezocasý (Tenrec ecaudatus)"
+  }
+ },
+ {
+  "id": "Q4388#4",
+  "species": "Veverka obecná",
+  "latin": "Sciurus vulgaris",
+  "text": "Kuny, kočky a lišky ji loví.",
+  "quote": "Mezi predátory patří především kuna lesní, kočka divoká, liška obecná",
+  "claimed_false_for": {
+   "Q131538": "Kapybara (Hydrochoerus hydrochaeris)",
+   "Q368754": "Hulman stříbrný (Trachypithecus cristatus)",
+   "Q998141": "Gibon bělolící (Nomascus leucogenys)"
+  }
+ },
+ {
+  "id": "Q4388#5",
+  "species": "Veverka obecná",
+  "latin": "Sciurus vulgaris",
+  "text": "Lasice kolčava loví její mláďata.",
+  "quote": "lasice kolčava, která loví především mláďata",
+  "claimed_false_for": {
+   "Q368754": "Hulman stříbrný (Trachypithecus cristatus)",
+   "Q998141": "Gibon bělolící (Nomascus leucogenys)"
+  }
+ },
+ {
+  "id": "Q4388#6",
+  "species": "Veverka obecná",
+  "latin": "Sciurus vulgaris",
+  "text": "Jí také vejce a mláďata ptáků z hnízd.",
+  "quote": "vejci a mláďaty ptáků v hnízdě",
+  "claimed_false_for": {
+   "Q431981": "Lachtan ušatý (Eumetopias jubatus)",
+   "Q622882": "Kudu malý (Tragelaphus imberbis)",
+   "Q755733": "Plískavice chilská (Cephalorhynchus eutropia)"
+  }
+ },
+ {
+  "id": "Q4535#4",
+  "species": "Tuleň bajkalský",
+  "latin": "Pusa sibirica",
+  "text": "Loví ho medvěd hnědý.",
+  "quote": "predátorům tuleně bajkalského patří medvěd hnědý.",
+  "claimed_false_for": {
+   "Q142715": "Lenochod tříprstý (Bradypus tridactylus)",
+   "Q190674": "Kočka rybářská (Prionailurus viverrinus)",
+   "Q194222": "Vačice středoamerická (Marmosa mexicana)",
+   "Q244174": "Pásovec malý (Zaedyus pichiy)",
+   "Q743563": "Mangusta trpasličí (Helogale parvula)",
+   "Q747238": "Skunk jižní (Conepatus humboldtii)",
+   "Q752691": "Lenochod dvouprstý (Choloepus didactylus)"
+  }
+ },
+ {
+  "id": "Q4535#5",
+  "species": "Tuleň bajkalský",
+  "latin": "Pusa sibirica",
+  "text": "Orli a psovité šelmy ohrožují jeho mláďata.",
+  "quote": "hlavně orlům a psovitým šelmám",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q4535#6",
+  "species": "Tuleň bajkalský",
+  "latin": "Pusa sibirica",
+  "text": "Občas jí i různonožce.",
+  "quote": "Pojídají občas i jiné druhy živočichů včetně různonožců",
+  "claimed_false_for": {
+   "Q125815593": "Šakal pruhovaný (Lupulella adusta)",
+   "Q131907": "Rys červený (Lynx rufus)",
+   "Q241256": "Cibetka africká (Civettictis civetta)",
+   "Q35255": "Puma americká (Puma concolor)",
+   "Q42627": "Kočka bengálská (Prionailurus bengalensis)",
+   "Q833653": "Létavec stěhovavý (Miniopterus schreibersii)"
+  }
+ },
+ {
+  "id": "Q46148#4",
+  "species": "Vydra africká",
+  "latin": "Aonyx capensis",
+  "text": "Sladkovodní krabi tvoří 42 až 65 procent jeho potravy.",
+  "quote": "Sladkovodní krabi tvoří 42–65 % potravy této šelmy.",
+  "claimed_false_for": {
+   "Q134015": "Surikata (Suricata suricatta)",
+   "Q183255": "Prase savanové (Phacochoerus africanus)",
+   "Q192233": "Kočka Temminckova (Pardofelis temminckii)",
+   "Q283426": "Grizon velký (Galictis vittata)",
+   "Q331850": "Pes krátkouchý (Atelocynus microtis)",
+   "Q34706": "Levhart skvrnitý (Panthera pardus)",
+   "Q601913": "Pes argentinský (Lycalopex griseus)",
+   "Q70529": "Tchořík skvrnitý (Vormela peregusna)",
+   "Q743563": "Mangusta trpasličí (Helogale parvula)",
+   "Q75070": "Pásovec kulovitý (Tolypeutes matacus)",
+   "Q852769": "Bodlín bezocasý (Tenrec ecaudatus)"
+  }
+ },
+ {
+  "id": "Q46148#5",
+  "species": "Vydra africká",
+  "latin": "Aonyx capensis",
+  "text": "Krokodýli nilští ho mohou ulovit.",
+  "quote": "Vydry africké se mohou stát kořistí krokodýlů nilských.",
+  "claimed_false_for": {
+   "Q123900653": "Promyka zlatá (Urva auropunctata)",
+   "Q1355755": "Zajíc tolaj (Lepus tolai)",
+   "Q137641": "Medvěd brýlatý (Tremarctos ornatus)",
+   "Q1414665": "Oviječ tmavý (Paradoxurus jerdoni)",
+   "Q190674": "Kočka rybářská (Prionailurus viverrinus)",
+   "Q213141": "Binturong (Arctictis binturong)",
+   "Q26423": "Sobol asijský (Martes zibellina)",
+   "Q379732": "Lachtan kalifornský (Zalophus californianus)",
+   "Q618026": "Makak vepří (Macaca nemestrina)"
+  }
+ },
+ {
+  "id": "Q465019#4",
+  "species": "Nahur modrý",
+  "latin": "Pseudois nayaur",
+  "text": "Irbis v mnoha oblastech loví tento druh jako nejoblíbenější kořist.",
+  "quote": "V mnoha regionech je nahur nejoblíbenější kořistí irbisa.",
+  "claimed_false_for": {
+   "Q167797": "Vikuňa (Vicugna vicugna)",
+   "Q182304": "Jaguarundi (Puma yagouaroundi)",
+   "Q242602": "Kamzík bělák (Oreamnos americanus)",
+   "Q273577": "Voduška puku (Kobus vardonii)",
+   "Q322145": "Sobol americký (Martes americana)",
+   "Q387240": "Gazela dorkas (Gazella dorcas)",
+   "Q646488": "Jelen lyrorohý (Rucervus eldii)",
+   "Q695736": "Antilopa Derbyho (Taurotragus derbianus)",
+   "Q741516": "Pekari páskovaný (Pecari tajacu)",
+   "Q755007": "Bahnivec jižní (Redunca arundinum)",
+   "Q774635": "Tana horská (Tupaia montana)",
+   "Q81091": "Zubr evropský (Bison bonasus)"
+  }
+ },
+ {
+  "id": "Q465786#4",
+  "species": "Plch zahradní",
+  "latin": "Eliomys quercinus",
+  "text": "Živí se hmyzem a bezobratlými živočichy.",
+  "quote": "Živí se zejména hmyzem a bezobratlými živočichy",
+  "claimed_false_for": {
+   "Q131538": "Kapybara (Hydrochoerus hydrochaeris)",
+   "Q181191": "Bobr evropský (Castor fiber)"
+  }
+ },
+ {
+  "id": "Q465786#5",
+  "species": "Plch zahradní",
+  "latin": "Eliomys quercinus",
+  "text": "Živí se i malými savci, ptačími mláďaty a vejci.",
+  "quote": "drobnými savci i ptačími mláďaty a vejci",
+  "claimed_false_for": {
+   "Q195350": "Mara slaništní (Dolichotis salinicola)",
+   "Q79803": "Morče domácí (Cavia porcellus)"
+  }
+ },
+ {
+  "id": "Q465786#6",
+  "species": "Plch zahradní",
+  "latin": "Eliomys quercinus",
+  "text": "Z rostlin jí převážně ovoce a semena stromů.",
+  "quote": "Z rostlinné potravy převažují různé druhy ovoce a semena stromů",
+  "claimed_false_for": {
+   "Q28157482": "Hyena čabraková (Parahyaena brunnea)"
+  }
+ },
+ {
+  "id": "Q468500#4",
+  "species": "Veverka popelavá",
+  "latin": "Sciurus carolinensis",
+  "text": "Jí také houby, ovoce, hmyz, vejce a malé savce.",
+  "quote": "konzumuje velmi často i houby, ovoce, řidčeji malé savce, vejce nebo hmyz",
+  "claimed_false_for": {
+   "Q194313": "Mara stepní (Dolichotis patagonum)",
+   "Q741524": "Dikobraz srstnatonosý (Hystrix indica)",
+   "Q81056": "Bobr kanadský (Castor canadensis)"
+  }
+ },
+ {
+  "id": "Q468500#5",
+  "species": "Veverka popelavá",
+  "latin": "Sciurus carolinensis",
+  "text": "Pomáhá šířit duby, buky a lísky.",
+  "quote": "tak vlastně pomáhá šířit duby, buky a lísky",
+  "claimed_false_for": {
+   "Q29220": "Nosorožec sumaterský (Dicerorhinus sumatrensis)",
+   "Q301053": "Gibon kápový (Hylobates pileatus)",
+   "Q304884": "Tarbíkomyš Merriamova (Dipodomys merriami)"
+  }
+ },
+ {
+  "id": "Q471785#2",
+  "species": "Antilopa koňská",
+  "latin": "Hippotragus equinus",
+  "text": "Lvi, levharti, psi hyenovití a hyeny loví tento druh.",
+  "quote": "kterými jsou lvi, levharti, psi hyenovití a hyeny",
+  "claimed_false_for": {
+   "Q132072": "Běluha severní (Delphinapterus leucas)",
+   "Q132905": "Keporkak (Megaptera novaeangliae)",
+   "Q184004": "Pižmoň severní (Ovibos moschatus)",
+   "Q203897": "Plískavice šedá (Grampus griseus)",
+   "Q208132": "Kosatka černá (Pseudorca crassidens)",
+   "Q42196": "Plejtvák obrovský (Balaenoptera musculus)",
+   "Q504501": "Jelenec bahenní (Blastocerus dichotomus)"
+  }
+ },
+ {
+  "id": "Q476930#4",
+  "species": "Kotul veverovitý",
+  "latin": "Saimiri sciureus",
+  "text": "Jí i hmyz, měkkýše, krabi a drobné obratlovce.",
+  "quote": "měkkýši, krabi a drobní obratlovci.",
+  "claimed_false_for": {
+   "Q101500289": "Hulman rudolící (Semnopithecus vetulus)",
+   "Q233936": "Lemur severní (Lepilemur septentrionalis)",
+   "Q270098": "Klokan obrovský (Macropus giganteus)",
+   "Q307157": "Gorila východní (Gorilla beringei)",
+   "Q726151": "Klokan quokka (Setonix brachyurus)"
+  }
+ },
+ {
+  "id": "Q494968#6",
+  "species": "Tuleň pacifický",
+  "latin": "Phoca largha",
+  "text": "Jí zejména sledi, lososy a tresky.",
+  "quote": "k němu patří zejména sledi, lososi, koruši, tresky, vranky, smačky nebo platýsi.",
+  "claimed_false_for": {
+   "Q1017417": "Pískomil veverkoocasý (Sekeetamys calurus)",
+   "Q159918": "Nosorožec tuponosý (Ceratotherium simum)",
+   "Q188957": "Vlček etiopský (Canis simensis)",
+   "Q209755": "Kuskus medvědí (Ailurops ursinus)",
+   "Q23121": "Mangusta žíhaná (Mungos mungo)",
+   "Q30197": "Irbis (Panthera uncia)",
+   "Q33602": "Panda velká (Ailuropoda melanoleuca)"
+  }
+ },
+ {
+  "id": "Q494968#7",
+  "species": "Tuleň pacifický",
+  "latin": "Phoca largha",
+  "text": "Orli, krkavci a vlci patří mezi jeho predátory.",
+  "quote": "K potvrzeným predátorům tuleňů pacifických patří kosatky, světlouni pacifičtí, mroži, orli skalní, orli východní, krkavci, medvědi lední i hnědí, vlci, lišky polární a lachtani ušatí.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q503813#4",
+  "species": "Bobruška",
+  "latin": "Aplodontia rufa",
+  "text": "V zimě okousuje větvičky keřů a stromů.",
+  "quote": "V zimě, když se k nim nemůže dostat, okousuje větvičky keřů a stromů i kůru.",
+  "claimed_false_for": {
+   "Q1251864": "Svišť tarbagan (Marmota sibirica)",
+   "Q153433": "Gibon zlatolící (Nomascus gabriellae)",
+   "Q1832731": "Tadarida lysá (Cheiromeles torquatus)",
+   "Q304415": "Psoun Allenův (Cynomys parvidens)",
+   "Q784161": "Vačice zapotécká (Tlacuatzin canescens)",
+   "Q854681": "Sysel perličkový (Spermophilus suslicus)"
+  }
+ },
+ {
+  "id": "Q503813#6",
+  "species": "Bobruška",
+  "latin": "Aplodontia rufa",
+  "text": "Kojoti, rysi, kočky a psi jsou predátoři tohoto druhu.",
+  "quote": "Mezi predátory bobrušky patří především kojot, rys červený, kočka a pes.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q504501#4",
+  "species": "Jelenec bahenní",
+  "latin": "Blastocerus dichotomus",
+  "text": "Loví ho jaguáři a pumy.",
+  "quote": "Hlavními predátory jsou jaguáři a pumy.",
+  "claimed_false_for": {
+   "Q1353785": "Prase sundské (Sus verrucosus)",
+   "Q140": "Lev (Panthera leo)",
+   "Q229337": "Sambar indický (Rusa unicolor)",
+   "Q255576": "Nyala horská (Tragelaphus buxtoni)",
+   "Q257838": "Kozorožec walia (Capra walie)",
+   "Q271705": "Gazela Thomsonova (Eudorcas thomsonii)",
+   "Q663412": "Sambar ostrovní (Rusa timorensis)",
+   "Q757265": "Cibetka asijská (Viverra zibetha)"
+  }
+ },
+ {
+  "id": "Q504501#5",
+  "species": "Jelenec bahenní",
+  "latin": "Blastocerus dichotomus",
+  "text": "Často onemocní infekčními chorobami přenášenými skotem.",
+  "quote": "Jelenci bahenní jsou také častou obětí infekčních chorob přenášených skotem.",
+  "claimed_false_for": {
+   "Q137641": "Medvěd brýlatý (Tremarctos ornatus)",
+   "Q1768774": "Pásovec jedenáctipásý (Cabassous unicinctus)",
+   "Q300994": "Plískavice tmavá (Lagenorhynchus obscurus)",
+   "Q518580": "Galidie proužkovaná (Galidia elegans)"
+  }
+ },
+ {
+  "id": "Q518580#4",
+  "species": "Galidie proužkovaná",
+  "latin": "Galidia elegans",
+  "text": "Loví v mělké vodě drobné ryby, korýše a žáby.",
+  "quote": "Dokáže také v mělké vodě lovit drobné ryby, korýše i žáby",
+  "claimed_false_for": {
+   "Q174296": "Gaur (Bos gaurus)"
+  }
+ },
+ {
+  "id": "Q518580#5",
+  "species": "Galidie proužkovaná",
+  "latin": "Galidia elegans",
+  "text": "Soutěží o potravu s cibetkou indickou.",
+  "quote": "soutěž o potravu s rozšířenou cibetkou indickou",
+  "claimed_false_for": {
+   "Q159918": "Nosorožec tuponosý (Ceratotherium simum)",
+   "Q26913": "Tuleň obecný (Phoca vitulina)",
+   "Q79803": "Morče domácí (Cavia porcellus)"
+  }
+ },
+ {
+  "id": "Q518580#6",
+  "species": "Galidie proužkovaná",
+  "latin": "Galidia elegans",
+  "text": "Zdivočelí psi a kočky ohrožují tento druh.",
+  "quote": "Dále je ohrožována zdivočelými psy a kočkami",
+  "claimed_false_for": {
+   "Q40994": "Mrož lední (Odobenus rosmarus)"
+  }
+ },
+ {
+  "id": "Q529738#3",
+  "species": "Prase bradavičnaté",
+  "latin": "Phacochoerus aethiopicus",
+  "text": "Jí dužnaté hlízy, které jsou v suchu zdrojem vody.",
+  "quote": "Živí se i dužnatými hlízami, které jsou pro něj v suchých oblastech vítaným zdrojem vody.",
+  "claimed_false_for": {
+   "Q300949": "Vorvaňovec anarnak (Hyperoodon ampullatus)",
+   "Q432513": "Lachtan novozélandský (Phocarctos hookeri)",
+   "Q738564": "Sviňucha běloploutvá (Phocoenoides dalli)"
+  }
+ },
+ {
+  "id": "Q529738#4",
+  "species": "Prase bradavičnaté",
+  "latin": "Phacochoerus aethiopicus",
+  "text": "Jí také bezobratlé živočichy.",
+  "quote": "V menší míře konzumuje i mršiny, bezobratlé živočichy a trus různých obratlovců.",
+  "claimed_false_for": {
+   "Q174296": "Gaur (Bos gaurus)",
+   "Q189466": "Ovce tlustorohá (Ovis canadensis)",
+   "Q860736": "Huemul jižní (Hippocamelus bisulcus)"
+  }
+ },
+ {
+  "id": "Q535406#4",
+  "species": "Prase celebeské",
+  "latin": "Sus celebensis",
+  "text": "Krajta mřížkovaná je jeho přirozeným predátorem.",
+  "quote": "Přirozeným predátorem je krajta mřížkovaná (Python reticulates).",
+  "claimed_false_for": {
+   "Q140": "Lev (Panthera leo)",
+   "Q257838": "Kozorožec walia (Capra walie)",
+   "Q774716": "Králík východoamerický (Sylvilagus floridanus)"
+  }
+ },
+ {
+  "id": "Q536862#4",
+  "species": "Nártoun filipínský",
+  "latin": "Carlito syrichta",
+  "text": "Varani, sovy a mnoho menších šelem ho loví.",
+  "quote": "Mezi jejich přirozené predátory patří varani, sovy a mnoho menších šelem",
+  "claimed_false_for": {
+   "Q179020": "Plejtvák myšok (Balaenoptera physalus)",
+   "Q232054": "Axis indický (Axis axis)",
+   "Q33261": "Ocelot velký (Leopardus pardalis)"
+  }
+ },
+ {
+  "id": "Q536862#5",
+  "species": "Nártoun filipínský",
+  "latin": "Carlito syrichta",
+  "text": "Jí i pavouky, korýše a drobné plazy.",
+  "quote": "Mimo hmyzu konzumují pavouky, korýše i drobné plazy a obratlovce.",
+  "claimed_false_for": {
+   "Q209497": "Klokan žlutonohý (Petrogale xanthopus)"
+  }
+ },
+ {
+  "id": "Q541610#4",
+  "species": "Antilopa Sharpeova",
+  "latin": "Raphicerus sharpei",
+  "text": "Predátory tohoto druhu jsou gepardi, hyeny, šakali a draví ptáci.",
+  "quote": "K jejich predátorům patří gepardi, hyeny, šakali a draví ptáci",
+  "claimed_false_for": {
+   "Q131340": "Kamzík horský (Rupicapra rupicapra)",
+   "Q300949": "Vorvaňovec anarnak (Hyperoodon ampullatus)",
+   "Q432513": "Lachtan novozélandský (Phocarctos hookeri)",
+   "Q494436": "Goral tmavý (Naemorhedus goral)",
+   "Q738564": "Sviňucha běloploutvá (Phocoenoides dalli)"
+  }
+ },
+ {
+  "id": "Q541610#5",
+  "species": "Antilopa Sharpeova",
+  "latin": "Raphicerus sharpei",
+  "text": "Živí se trávou, čerstvými větvičkami a ovocem.",
+  "quote": "okusují čerstvé větvičky, žerou ovoce",
+  "claimed_false_for": {
+   "Q159426": "Narval (Monodon monoceros)",
+   "Q300961": "Plískavice novozélandská (Cephalorhynchus hectori)",
+   "Q577677": "Vydra skvrnitá (Hydrictis maculicollis)",
+   "Q968416": "Pláštník velký (Calyptophractus retusus)"
+  }
+ },
+ {
+  "id": "Q543695#2",
+  "species": "Lemur mongoz",
+  "latin": "Eulemur mongoz",
+  "text": "Opyluje rostliny a šíří jejich semena.",
+  "quote": "Proto působí jako opylovač a šiřitel semen",
+  "claimed_false_for": {
+   "Q190154": "Adax núbijský (Addax nasomaculatus)"
+  }
+ },
+ {
+  "id": "Q543695#3",
+  "species": "Lemur mongoz",
+  "latin": "Eulemur mongoz",
+  "text": "Jí také larvy a brouky.",
+  "quote": "Bylo pozorováno také pojídání larev a brouků",
+  "claimed_false_for": {
+   "Q1140418": "Chápan pavoučí (Brachyteles arachnoides)"
+  }
+ }
+]

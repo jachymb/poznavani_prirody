@@ -1,0 +1,358 @@
+[
+ {
+  "id": "Q15586845#5",
+  "species": "Prha úzkolistá",
+  "latin": "Arnica angustifolia",
+  "text": "Sobi a losi ji rádi jedí.",
+  "quote": "jednou z bylin, které jsou oblíbenou potravou sobí i losí populace",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q15593797#0",
+  "species": "Chlupáček zední",
+  "latin": "Pilosella officinarum",
+  "text": "Opyluje ho hmyz, nebo se opyluje samo.",
+  "quote": "opylovány jsou hmyzem nebo též samosprašně",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q15593797#1",
+  "species": "Chlupáček zední",
+  "latin": "Pilosella officinarum",
+  "text": "Nesnáší zastínění a vlhko.",
+  "quote": "Nesnáší zastínění a vlhko.",
+  "claimed_false_for": {
+   "Q159122": "Vrba černající (Salix myrsinifolia)",
+   "Q16983174": "Chlupáček myší ouško (Hieracium lactucella)",
+   "Q849890": "Věsenka nachová (Prenanthes purpurea)"
+  }
+ },
+ {
+  "id": "Q15602001#4",
+  "species": "Pcháč žlutoostenný",
+  "latin": "Cirsium brachycephalum",
+  "text": "Larvy hmyzu napadají jeho nažky v úborech.",
+  "quote": "úborech napadány larvami hmyzu.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1560642#5",
+  "species": "Dvouzubec černoplodý",
+  "latin": "Bidens frondosa",
+  "text": "Ondatry se živí jeho rostlinami u vodních toků.",
+  "quote": "rostliny z blízkosti vodních toků potravou pro ondatry",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1560642#6",
+  "species": "Dvouzubec černoplodý",
+  "latin": "Bidens frondosa",
+  "text": "Jeho semena jedí drobní hlodavci, bažanti a další ptáci.",
+  "quote": "Na suché půdě se semeny krmí drobní hlodavci, bažanti a další ptáci",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1560642#7",
+  "species": "Dvouzubec černoplodý",
+  "latin": "Bidens frondosa",
+  "text": "Zajíci žerou jeho mladé rostliny.",
+  "quote": "mladými rostlinami pak zajíci",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q15618255#0",
+  "species": "Orsej blatoucholistý",
+  "latin": "Ficaria calthifolia",
+  "text": "Kvete brzy na jaře, v březnu až v dubnu.",
+  "quote": "Kvete brzy na jaře, v březnu až v dubnu.",
+  "claimed_false_for": {
+   "Q104253351": "Větrnice narcisokvětá (Anemonastrum narcissiflorum)",
+   "Q12209033": "Pryskyřník stranokvětý (Ranunculus lateriflorus)",
+   "Q1472658": "Starček vejčitý (Senecio ovatus)",
+   "Q149951": "Mák polní (Papaver argemone)"
+  }
+ },
+ {
+  "id": "Q15618255#1",
+  "species": "Orsej blatoucholistý",
+  "latin": "Ficaria calthifolia",
+  "text": "Roste na loukách, sušších stráních a ve světlých lesích.",
+  "quote": "v loukách, sušších stráních a světlých lesích",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q15630491#4",
+  "species": "Starček přímětník",
+  "latin": "Jacobaea vulgaris",
+  "text": "Housenky motýla přástevníka se jím živí.",
+  "quote": "je žírnou rostlinou housenek motýla přástevníka",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q156307#4",
+  "species": "Vrba babylónská",
+  "latin": "Salix babylonica",
+  "text": "Brouci tesaříci napadají dřevo tohoto druhu.",
+  "quote": "bývá napadáno živočišnými škůdci, např. brouky tesaříky druhu Anoplophora",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q156625#0",
+  "species": "Světlice barvířská",
+  "latin": "Carthamus tinctorius",
+  "text": "Včelaři ji mají rádi, protože má hodně nektaru.",
+  "quote": "Světlice barvířská je také vhodná pro včelaře jako medonosná rostlina pro vysoký obsah nektaru v pozdním létě.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q156625#1",
+  "species": "Světlice barvířská",
+  "latin": "Carthamus tinctorius",
+  "text": "Používá se jako žluté přírodní barvivo.",
+  "quote": "Používá se jako žluté přírodní barvivo",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q156635#4",
+  "species": "Jetel luční",
+  "latin": "Trifolium pratense",
+  "text": "Včely mají z jeho pylu výživnou potravu.",
+  "quote": "Pylová zrna jetele lučního jsou pro včely velmi výživná.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q156635#5",
+  "species": "Jetel luční",
+  "latin": "Trifolium pratense",
+  "text": "Dlouhá trubka květu může včelám ztěžovat sběr nektaru.",
+  "quote": "Nevýhodou jetele lučního je dlouhá trubka květu, která může včelám ztěžovat sběr nektaru.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q156635#6",
+  "species": "Jetel luční",
+  "latin": "Trifolium pratense",
+  "text": "Dobytek se jím krmí.",
+  "quote": "je vyséván pro krmení dobytka",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q156841#0",
+  "species": "Mydlice lékařská",
+  "latin": "Saponaria officinalis",
+  "text": "Výměšky kořenů jsou jedovaté pro ryby.",
+  "quote": "výměšky kořenů jsou jedovaté pro ryby",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q156841#1",
+  "species": "Mydlice lékařská",
+  "latin": "Saponaria officinalis",
+  "text": "Tento druh je medonosný.",
+  "quote": "a je medonosná",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q156841#2",
+  "species": "Mydlice lékařská",
+  "latin": "Saponaria officinalis",
+  "text": "Kvete po celé léto.",
+  "quote": "Kvetou po celé léto.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q156841#3",
+  "species": "Mydlice lékařská",
+  "latin": "Saponaria officinalis",
+  "text": "Roste podél vodních toků a na březích stojatých vod.",
+  "quote": "roste podél vodních toků a na březích stojatých vod",
+  "claimed_false_for": {
+   "Q1159849": "Hvozdík Lumnitzerův (Dianthus lumnitzeri)",
+   "Q159104": "Divizna brunátná (Verbascum phoeniceum)",
+   "Q615022": "Merlík trpasličí (Dysphania pumilio)"
+  }
+ },
+ {
+  "id": "Q156865#0",
+  "species": "Řepík lékařský",
+  "latin": "Agrimonia eupatoria",
+  "text": "Plody se přichytávají na zvířata i na lidi.",
+  "quote": "Měkkými chloupky pokryté plody rostliny se přichytávají na jakékoliv zvíře nebo osobu, která přichází do styku s rostlinou.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q156865#1",
+  "species": "Řepík lékařský",
+  "latin": "Agrimonia eupatoria",
+  "text": "Tento druh je vytrvalá bylina vysoká až 100 cm.",
+  "quote": "Vytrvalá bylina až 100 cm vysoká.",
+  "claimed_false_for": {
+   "Q12024679": "Jeřáb sudetský (Sorbus sudetica)",
+   "Q12358": "Pohanka tatarská (Fagopyrum tataricum)",
+   "Q146198": "Jeřáb ptačí (Sorbus aucuparia)",
+   "Q157175": "Kopřiva žahavka (Urtica urens)",
+   "Q158930": "Skalník celokrajný (Cotoneaster integerrimus)",
+   "Q158987": "Střemcha pozdní (Prunus serotina)",
+   "Q160062": "Skalník černoplodý (Cotoneaster melanocarpus)",
+   "Q161920": "Višeň turecká (Prunus mahaleb)",
+   "Q162829": "Střemcha virginská (Prunus virginiana)",
+   "Q214733": "Javor cukrový (Acer saccharum)",
+   "Q2577765": "Hluchavka zkřížená (Lamium hybridum)"
+  }
+ },
+ {
+  "id": "Q156895#4",
+  "species": "Bříza bělokorá",
+  "latin": "Betula pendula",
+  "text": "Ptáci si rádi dělají dutiny v kmeni tohoto druhu.",
+  "quote": "Břízy jsou stromem, kde si s oblibou dělají dutiny v kmeni ptáci",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q156895#6",
+  "species": "Bříza bělokorá",
+  "latin": "Betula pendula",
+  "text": "Tvoří první porosty lesa spolu s borovicí lesní.",
+  "quote": "Tvoří iniciální stadium lesního ekosystému např. spolu s borovicí lesní",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q156918#4",
+  "species": "Vrba bílá",
+  "latin": "Salix alba",
+  "text": "Poskytuje včelám dobrou jarní potravu.",
+  "quote": "poskytující kvalitní jarní pastvu včelám",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q156944#7",
+  "species": "Javor klen",
+  "latin": "Acer pseudoplatanus",
+  "text": "Houba svraštělka může na podzim napadat listy.",
+  "quote": "Na podzim mohou být listy javorů napadeny houbou svraštělkou javorovou (Rhytisma acerinum), která se projevuje černými skvrnami.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q156944#8",
+  "species": "Javor klen",
+  "latin": "Acer pseudoplatanus",
+  "text": "Býložravci, například koně nebo jeleni, jedí jeho semena a semenáčky.",
+  "quote": "kteří při pastvě z nedostatku vhodnější potravy konzumují nažky (na podzim) nebo klíčící semenáčky (na jaře) klenu",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q156944#9",
+  "species": "Javor klen",
+  "latin": "Acer pseudoplatanus",
+  "text": "Včely z jeho nektaru vyrábějí med.",
+  "quote": "Včely vyrábějí z nektaru javorový med.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1569528#2",
+  "species": "Razilka smrdutá",
+  "latin": "Aposeris foetida",
+  "text": "Opyluje ho létající hmyz.",
+  "quote": "Protandrické květy jsou opylovány létajícím hmyzem",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1569852#4",
+  "species": "Chrpa čekánek",
+  "latin": "Centaurea scabiosa",
+  "text": "Mravenci se živí jeho dužnatými přívěsky na semenech a roznášejí semena.",
+  "quote": "kterým se živí mravenci a nažky přitom roznášejí po okolí",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1569852#5",
+  "species": "Chrpa čekánek",
+  "latin": "Centaurea scabiosa",
+  "text": "Zvířata na jaře spásají jeho mladé rostliny.",
+  "quote": "ta z jara mladé rostliny spásají",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q15699806#0",
+  "species": "Ostružiník řasnatý",
+  "latin": "Rubus plicatus",
+  "text": "Kvete od května do srpna.",
+  "quote": "Kvete od května do srpna.",
+  "claimed_false_for": {
+   "Q1737093": "Zelkova habrolistá (Zelkova carpinifolia)",
+   "Q37453": "Meruňka obecná (Prunus armeniaca)"
+  }
+ },
+ {
+  "id": "Q15699806#1",
+  "species": "Ostružiník řasnatý",
+  "latin": "Rubus plicatus",
+  "text": "Zakoření, když se špička ohnuté větve dotkne půdy.",
+  "quote": "Dotkne-li se špička obloučnaté větve půdy, obyčejně hned zakoření.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1570130#0",
+  "species": "Rosnatka kapská",
+  "latin": "Drosera capensis",
+  "text": "Loví velmi malý hmyz.",
+  "quote": "v případě rosnatky kapské velmi malý hmyz",
+  "claimed_false_for": {
+   "Q168649": "Rosnatka královská (Drosera regia)"
+  }
+ },
+ {
+  "id": "Q1570130#1",
+  "species": "Rosnatka kapská",
+  "latin": "Drosera capensis",
+  "text": "Obalí kořist celým listem.",
+  "quote": "Drosera capensis navíc ovine kolem kořisti celý svůj list.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q157078#0",
+  "species": "Lnice květel",
+  "latin": "Linaria vulgaris",
+  "text": "Opylují ho čmeláci.",
+  "quote": "Její květy jsou opylovány čmeláky.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q157078#1",
+  "species": "Lnice květel",
+  "latin": "Linaria vulgaris",
+  "text": "Jedna rostlina vytvoří až 32 000 semen.",
+  "quote": "až 32 000 na rostlinu",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q157154#4",
+  "species": "Jitrocel větší",
+  "latin": "Plantago major",
+  "text": "Jeho semena jsou krmivem pro ptáky.",
+  "quote": "Semena jsou dobrým krmivem pro doma chované exotické i volně žijící ptáky.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q157154#5",
+  "species": "Jitrocel větší",
+  "latin": "Plantago major",
+  "text": "Semena se snadno lepí na peří a chlupy zvířat.",
+  "quote": "Ve vlhku semena slizovatí a snadno se lepí na peří či chlupy zvířat",
+  "claimed_false_for": {
+   "Q1193369": "Jasan americký (Fraxinus americana)"
+  }
+ },
+ {
+  "id": "Q157277#0",
+  "species": "Dub cer",
+  "latin": "Quercus cerris",
+  "text": "Dorůstá do výšky 20 až 30 metrů.",
+  "quote": "je strom dorůstající výšek 20–30 m",
+  "claimed_false_for": {
+   "Q1196169": "Olše japonská (Alnus japonica)",
+   "Q156870": "Zeměžluč okolíkatá (Centaurium erythraea)",
+   "Q3232597": "Kýlatka čtyřlistá (Polycarpon tetraphyllum)"
+  }
+ }
+]

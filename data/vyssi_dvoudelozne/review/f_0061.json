@@ -1,0 +1,40 @@
+{
+ "drop_facts": [
+  {"id": "Q161313#1", "why": "odporuje biologii: huseník kavkazský je nízká skalnička do cca 30-40 cm, ne do 1 m"},
+  {"id": "Q161329#2", "why": "zájmeno 'ho' bez jasného odkazu, u rostliny bez článku nesrozumitelné"},
+  {"id": "Q161338#3", "why": "posouvá význam: citace říká 'kromě větru a vody' i ptáci a mravenci, tvrzení vypadá jako úplný výčet; navíc krkolomné 'druh rozšiřuje'"},
+  {"id": "Q161364#0", "why": "bez jasného podmětu: 'Většina stromů' zní jako tvrzení o všech stromech"},
+  {"id": "Q161364#3", "why": "krkolomné a bez jasného podmětu"},
+  {"id": "Q161369#1", "why": "sporné: oddenkatý klonální druh vytrvává na stanovišti typicky mnohem déle než šest let"},
+  {"id": "Q161372#1", "why": "přidává 'každý' a odporuje flórám: lupina bílá má obvykle 5-9 lístků"},
+  {"id": "Q161379#2", "why": "odporuje biologii: míšek brslenu evropského je oranžový, červenorůžová je tobolka"},
+  {"id": "Q161406#1", "why": "zaměňuje typickou hodnotu za horní mez: citace uvádí kolem 3 m, max. 5 m"},
+  {"id": "Q161406#3", "why": "krkolomné 'má dřevo na řezby' a vynechává 'někdy'"},
+  {"id": "Q161413#0", "why": "vynechává podmínku: v nižších polohách kvete už v květnu"}
+ ],
+ "drop_pairs": [
+  {"id": "Q161344#0", "species": "Q163035"},
+  {"id": "Q161344#0", "species": "Q575748"},
+  {"id": "Q161344#1", "species": "Q158999"},
+  {"id": "Q161344#2", "species": "Q7485552"},
+  {"id": "Q161344#3", "species": "Q1103807"},
+  {"id": "Q161361#0", "species": "Q131342"},
+  {"id": "Q161361#0", "species": "Q159773"},
+  {"id": "Q161364#2", "species": "Q15634290"},
+  {"id": "Q161364#2", "species": "Q269224"},
+  {"id": "Q161369#0", "species": "Q2948337"},
+  {"id": "Q161369#0", "species": "Q726420"},
+  {"id": "Q161369#2", "species": "Q157583"},
+  {"id": "Q161379#1", "species": "Q12332586"},
+  {"id": "Q161379#1", "species": "Q1499457"},
+  {"id": "Q161379#1", "species": "Q156918"},
+  {"id": "Q161379#1", "species": "Q164402"},
+  {"id": "Q161379#1", "species": "Q164645"},
+  {"id": "Q161379#1", "species": "Q2363208"},
+  {"id": "Q161406#0", "species": "Q159812"},
+  {"id": "Q161406#2", "species": "Q149269"},
+  {"id": "Q161406#2", "species": "Q158515"},
+  {"id": "Q161406#2", "species": "Q159499"},
+  {"id": "Q161406#2", "species": "Q860731"}
+ ]
+}

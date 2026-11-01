@@ -1,0 +1,12 @@
+{"drop_facts": [
+{"id": "Q188212#5", "why": "sporný údaj: délka života je jen odhad 27 až 50 let, měřené maximum je nižší"},
+{"id": "Q192158#2", "why": "sporný údaj: výška výskoku není změřená, zdroje uvádějí 6 až 9 m, navíc jde o horní mez"},
+{"id": "Q192158#6", "why": "přehnané: mečouni jsou jen sezónní část potravy, hlavní potravou jsou hlavonožci a jiné ryby"},
+{"id": "Q370444#5", "why": "vytrženo z kontextu: článek uvádí hlavně mršiny a ryby, bezobratlí jsou jen okrajová část potravy"}
+], "drop_pairs": [
+{"id": "Q129026#6", "species": "Q188212"},
+{"id": "Q318090#0", "species": "Q129026"},
+{"id": "Q318090#1", "species": "Q370444"},
+{"id": "Q726259#1", "species": "Q84822"},
+{"id": "Q726384#1", "species": "Q26337"}
+]}

@@ -1,0 +1,526 @@
+[
+ {
+  "id": "Q158987#1",
+  "species": "Střemcha pozdní",
+  "latin": "Prunus serotina",
+  "text": "Květy opyluje létající hmyz, který hledá pyl a nektar.",
+  "quote": "opylovány jsou létajícím hmyzem nacházející v květech dostatek pylu i",
+  "claimed_false_for": {
+   "Q157175": "Kopřiva žahavka (Urtica urens)",
+   "Q165145": "Dub letní (Quercus robur)"
+  }
+ },
+ {
+  "id": "Q158987#2",
+  "species": "Střemcha pozdní",
+  "latin": "Prunus serotina",
+  "text": "Dožívá se nejvýše 180 let.",
+  "quote": "dožívají se nejvýše 180 let",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q158987#3",
+  "species": "Střemcha pozdní",
+  "latin": "Prunus serotina",
+  "text": "Tento druh se v Evropě rychle šíří lesy i loukami.",
+  "quote": "Velmi rychle se šíří v lesích i mimo",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q158996#0",
+  "species": "Hvězdoš jarní",
+  "latin": "Callitriche palustris",
+  "text": "Žije jen jeden rok.",
+  "quote": "Je to jednoletá jednodomá rostlina",
+  "claimed_false_for": {
+   "Q119954": "Tekoma vzpřímená (Tecoma stans)",
+   "Q1521008": "Šalvěj skvostná (Salvia elegans)",
+   "Q1530616": "Cedronela kanárská (Cedronella canariensis)",
+   "Q15586845": "Prha úzkolistá (Arnica angustifolia)",
+   "Q156037": "Máta peprná (Mentha ×piperita)",
+   "Q157085": "Náprstník velkokvětý (Digitalis grandiflora)",
+   "Q161658": "Tučnice obecná (Pinguicula vulgaris)",
+   "Q22701": "Bez černý (Sambucus nigra)",
+   "Q389185": "Papírovník čínský (Broussonetia papyrifera)",
+   "Q783863": "Pelyněk ladní (Artemisia campestris)"
+  }
+ },
+ {
+  "id": "Q158996#1",
+  "species": "Hvězdoš jarní",
+  "latin": "Callitriche palustris",
+  "text": "Roste ve vodě i na vlhké půdě.",
+  "quote": "rostoucí ve vodním prostředí i na pevné půdě ve vlhkém substrátu",
+  "claimed_false_for": {
+   "Q160078": "Sápa hlíznatá (Phlomoides tuberosa)",
+   "Q162598": "Hvozdík písečný (Dianthus arenarius)"
+  }
+ },
+ {
+  "id": "Q158996#2",
+  "species": "Hvězdoš jarní",
+  "latin": "Callitriche palustris",
+  "text": "Stonky bývají obvykle do 30 cm dlouhé.",
+  "quote": "V uzlinách větvené křehké lodyhy bývají dlouhé obvykle do 30, výjimečně i do 70 cm",
+  "claimed_false_for": {
+   "Q146136": "Krušina olšová (Frangula alnus)",
+   "Q1548732": "Pyskatec lesklý (Prasium majus)",
+   "Q158150": "Pámelník bílý (Symphoricarpos albus)",
+   "Q319390": "Ibišek súdánský (Hibiscus sabdariffa)"
+  }
+ },
+ {
+  "id": "Q158996#3",
+  "species": "Hvězdoš jarní",
+  "latin": "Callitriche palustris",
+  "text": "Plody se vyvíjejí pod hladinou vody.",
+  "quote": "Po opylení samičího květu se tyčinky a blizny stáčejí pod hladinu a plody se vyvíjejí ponořené.",
+  "claimed_false_for": {
+   "Q102240169": "Šalvěj rozmarýna (Salvia rosmarinus)",
+   "Q129775": "Šalvěj přeslenitá (Salvia verticillata)",
+   "Q146269": "Topol bílý (Populus alba)",
+   "Q148926": "Hlaváček letní (Adonis aestivalis)",
+   "Q158390": "Karbinec evropský (Lycopus europaeus)",
+   "Q159122": "Vrba černající (Salix myrsinifolia)",
+   "Q159360": "Svízel nízký (Galium pumilum)",
+   "Q160346": "Jablečník cizí (Marrubium peregrinum)",
+   "Q161924": "Máta dlouholistá (Mentha longifolia)",
+   "Q17741137": "Jitrocel nejvyšší (Plantago altissima)",
+   "Q2241463": "Šklebivec přímý (Misopates orontium)",
+   "Q257757": "Pačule obecná (Pogostemon cablin)"
+  }
+ },
+ {
+  "id": "Q158999#0",
+  "species": "Stolístek přeslenatý",
+  "latin": "Myriophyllum verticillatum",
+  "text": "Lodyhy bývají dlouhé 40 až 200 centimetrů.",
+  "quote": "chabými lodyhami dlouhými 40 až 200 cm",
+  "claimed_false_for": {
+   "Q132145": "Kolopejka vděčná (Kalanchoe blossfeldiana)",
+   "Q162521": "Lomikámen hvězdovitý (Saxifraga stellaris)",
+   "Q601161": "Violka olysalá (Viola epipsila)"
+  }
+ },
+ {
+  "id": "Q158999#1",
+  "species": "Stolístek přeslenatý",
+  "latin": "Myriophyllum verticillatum",
+  "text": "Kvete od června do září, pyl roznáší vítr.",
+  "quote": "Květy rozkvétají v červnu až září a jsou opylovány větrem",
+  "claimed_false_for": {
+   "Q132145": "Kolopejka vděčná (Kalanchoe blossfeldiana)",
+   "Q146967": "Vlochyně bahenní (Vaccinium uliginosum)",
+   "Q149812": "Meruzalka nádherná (Ribes speciosum)",
+   "Q1537045": "Darmera štítnatá (Darmera peltata)",
+   "Q158746": "Lípa malolistá (Tilia cordata)",
+   "Q161665": "Rozchodnice růžová (Rhodiola rosea)",
+   "Q162521": "Lomikámen hvězdovitý (Saxifraga stellaris)"
+  }
+ },
+ {
+  "id": "Q158999#2",
+  "species": "Stolístek přeslenatý",
+  "latin": "Myriophyllum verticillatum",
+  "text": "Na podzim tvoří pupeny plné zásob, kterým nevadí mráz.",
+  "quote": "pupeny se zásobou živin, kterým nevadí promrznutí",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q158999#3",
+  "species": "Stolístek přeslenatý",
+  "latin": "Myriophyllum verticillatum",
+  "text": "Roste obvykle v rybnících, slepých ramenech řek a kanálech.",
+  "quote": "Obvyklá místa jsou rybníky, slepá ramena řek, vodní kanály",
+  "claimed_false_for": {
+   "Q1315944": "Sinowilsonie Henryova (Sinowilsonia henryi)",
+   "Q156790": "Marakuja (Passiflora edulis)",
+   "Q156835": "Sléz lesní (Malva sylvestris)",
+   "Q1592259": "Skalník vrbolistý (Cotoneaster salicifolius)",
+   "Q163018": "Pivoňka keřovitá (Paeonia suffruticosa)",
+   "Q20792193": "Pustoryl Falconeriho (Philadelphus × falconeri)",
+   "Q780123": "Rozchodník pochybný (Phedimus spurius)",
+   "Q913129": "Vilín virginský (Hamamelis virginiana)"
+  }
+ },
+ {
+  "id": "Q159008#0",
+  "species": "Hluchavka objímavá",
+  "latin": "Lamium amplexicaule",
+  "text": "Roste na polích, v zahradách a na suchých trávnících.",
+  "quote": "Roste na polích, v zahradách, vinicích, chmelnicích, úhorech, suchých trávnících",
+  "claimed_false_for": {
+   "Q117068": "Cesmína paraguayská (Ilex paraguariensis)"
+  }
+ },
+ {
+  "id": "Q159008#1",
+  "species": "Hluchavka objímavá",
+  "latin": "Lamium amplexicaule",
+  "text": "Kvete od března až do září.",
+  "quote": "Rostliny vykvétají po celou vegetační sezonu, od března až do září",
+  "claimed_false_for": {
+   "Q15348437": "Čistec velkokvětý (Betonica macrantha)",
+   "Q161473": "Kosmatec třpytivý (Mesembryanthemum crystallinum)",
+   "Q161538": "Komule Davidova (Buddleja davidii)",
+   "Q161653": "Černýš luční (Melampyrum pratense)",
+   "Q164270": "Zvěšinec zední (Cymbalaria muralis)",
+   "Q18042564": "Pitulník horský (Galeobdolon montanum)",
+   "Q38859": "Bazalka pravá (Ocimum basilicum)",
+   "Q818481": "Řimbaba obecná (Tanacetum parthenium)"
+  }
+ },
+ {
+  "id": "Q159008#2",
+  "species": "Hluchavka objímavá",
+  "latin": "Lamium amplexicaule",
+  "text": "Jedna rostlina vytvoří asi 200 semen.",
+  "quote": "jedna jich vyprodukuje asi 200",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q159008#3",
+  "species": "Hluchavka objímavá",
+  "latin": "Lamium amplexicaule",
+  "text": "Mravenci roznášejí semena, protože si pochutnávají na jejich masíčku.",
+  "quote": "roznášejí mravenci požírající masíčko na tvrdkách",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q159029#0",
+  "species": "Šedivka šedá",
+  "latin": "Berteroa incana",
+  "text": "Kvete od května do září.",
+  "quote": "od května do září.",
+  "claimed_false_for": {
+   "Q13268229": "Zapalice žluťuchovitá (Isopyrum thalictroides)",
+   "Q164032": "Osívka jarní (Draba verna)"
+  }
+ },
+ {
+  "id": "Q159034#0",
+  "species": "Kohoutek věncový",
+  "latin": "Silene coronaria",
+  "text": "Tento druh má stříbřité listy i po odkvětu.",
+  "quote": "okrasná svým stříbřitým listem i po odkvětu",
+  "claimed_false_for": {
+   "Q155825": "Mucholapka podivná (Dionaea muscipula)",
+   "Q157569": "Rdesno obojživelné (Persicaria amphibia)",
+   "Q158209": "Úrazník položený (Sagina procumbens)",
+   "Q158711": "Ptačinec prostřední (Stellaria media)",
+   "Q164439": "Ostrožka zahradní (Consolida ajacis)",
+   "Q18421053": "Křídlatka japonská (Reynoutria japonica)",
+   "Q4280447": "Truskavec obecný (Polygonum arenastrum)",
+   "Q848142": "Kerblík obecný (Anthriscus caucalis)"
+  }
+ },
+ {
+  "id": "Q159034#1",
+  "species": "Kohoutek věncový",
+  "latin": "Silene coronaria",
+  "text": "Kvete obvykle v červenci a srpnu.",
+  "quote": "Rostlina kvete obvykle v červenci a srpnu.",
+  "claimed_false_for": {
+   "Q149269": "Javor japonský (Acer japonicum)",
+   "Q158132": "Bažanka vytrvalá (Mercurialis perennis)",
+   "Q159046": "Violka bílá (Viola alba)",
+   "Q47161": "Jabloň lesní (Malus sylvestris)"
+  }
+ },
+ {
+  "id": "Q159034#2",
+  "species": "Kohoutek věncový",
+  "latin": "Silene coronaria",
+  "text": "Dorůstá do výšky 30 až 70 centimetrů.",
+  "quote": "vysokou 30 až 70 cm",
+  "claimed_false_for": {
+   "Q155825": "Mucholapka podivná (Dionaea muscipula)",
+   "Q158209": "Úrazník položený (Sagina procumbens)",
+   "Q18421053": "Křídlatka japonská (Reynoutria japonica)"
+  }
+ },
+ {
+  "id": "Q159034#3",
+  "species": "Kohoutek věncový",
+  "latin": "Silene coronaria",
+  "text": "Tento druh se hlavně rozmnožuje semeny.",
+  "quote": "Semena jsou hlavním způsobem rozmnožování",
+  "claimed_false_for": {
+   "Q28922301": "Křídlatka sachalinská (Reynoutria sachalinensis)"
+  }
+ },
+ {
+  "id": "Q159036#0",
+  "species": "Kozlík dvoudomý",
+  "latin": "Valeriana dioica",
+  "text": "Kvete od května do června.",
+  "quote": "Kvete od května do června",
+  "claimed_false_for": {
+   "Q151439": "Hořčík jestřábníkovitý (Picris hieracioides)",
+   "Q252391": "Leycesterie krásná (Leycesteria formosa)",
+   "Q324331": "Plicník lékařský (Pulmonaria officinalis)"
+  }
+ },
+ {
+  "id": "Q159036#1",
+  "species": "Kozlík dvoudomý",
+  "latin": "Valeriana dioica",
+  "text": "Samčí a samičí květy rostou na různých rostlinách.",
+  "quote": "Vyskytují se zvlášť se samčími a zvlášť ze samičími květy.",
+  "claimed_false_for": {
+   "Q11058458": "Kalina Henryho (Viburnum henryi)",
+   "Q145781": "Janovec metlatý (Cytisus scoparius)",
+   "Q158150": "Pámelník bílý (Symphoricarpos albus)",
+   "Q161525": "Zimozel severní (Linnaea borealis)",
+   "Q164326": "Hlaváč žlutavý (Scabiosa ochroleuca)",
+   "Q180606": "Kalina vrásčitolistá (Viburnum rhytidophyllum)",
+   "Q3498187": "Kalina vonná (Viburnum farreri)",
+   "Q4115036": "Kalina zubatá (Viburnum dentatum)",
+   "Q678294": "Kalina višňolistá (Viburnum prunifolium)"
+  }
+ },
+ {
+  "id": "Q159036#2",
+  "species": "Kozlík dvoudomý",
+  "latin": "Valeriana dioica",
+  "text": "Na konci plodů má pérovitý chmýr asi 10 mm dlouhý.",
+  "quote": "jsou na vrcholu opatřeny pérovitým chmýrem o délce asi 10 mm",
+  "claimed_false_for": {
+   "Q1103807": "Zimolez kamčatský (Lonicera kamtschatica)",
+   "Q11058458": "Kalina Henryho (Viburnum henryi)",
+   "Q12027723": "Kalina Davidova (Viburnum davidii)",
+   "Q159732": "Vikev chlupatá (Vicia hirsuta)",
+   "Q252391": "Leycesterie krásná (Leycesteria formosa)",
+   "Q324331": "Plicník lékařský (Pulmonaria officinalis)",
+   "Q3708857": "Dvojštítník břichatý (Dipelta yunnanensis)",
+   "Q4011060": "Kalina kulovitá (Viburnum ×carlcephalum)",
+   "Q861485": "Kalina Carlesiova (Viburnum carlesii)",
+   "Q901245": "Pipla osmahlá (Nonea pulla)"
+  }
+ },
+ {
+  "id": "Q159036#3",
+  "species": "Kozlík dvoudomý",
+  "latin": "Valeriana dioica",
+  "text": "Roste na mokrých loukách a rašeliništích.",
+  "quote": "Roste na zamokřených loukách, rašeliništích,",
+  "claimed_false_for": {
+   "Q151439": "Hořčík jestřábníkovitý (Picris hieracioides)",
+   "Q159732": "Vikev chlupatá (Vicia hirsuta)",
+   "Q901245": "Pipla osmahlá (Nonea pulla)"
+  }
+ },
+ {
+  "id": "Q159046#0",
+  "species": "Violka bílá",
+  "latin": "Viola alba",
+  "text": "Kvete brzy na jaře, od března do dubna.",
+  "quote": "Kvete v březnu až v dubnu.",
+  "claimed_false_for": {
+   "Q10701922": "Úpor trojmužný (Elatine triandra)",
+   "Q148889": "Pryšec kolovratec (Euphorbia helioscopia)",
+   "Q157960": "Jeřáb muk (Sorbus aria)",
+   "Q159468": "Vrbovka drchničkolistá (Epilobium anagallidifolium)",
+   "Q161525": "Zimozel severní (Linnaea borealis)",
+   "Q839771": "Máčka ladní (Eryngium campestre)"
+  }
+ },
+ {
+  "id": "Q159046#1",
+  "species": "Violka bílá",
+  "latin": "Viola alba",
+  "text": "Tento druh má všechny listy přímo u země.",
+  "quote": "Listy jsou pouze v přízemní růžici, lodyha se nevytváří.",
+  "claimed_false_for": {
+   "Q10878191": "Slivoň slíva (Prunus insititia)",
+   "Q158425": "Vrba hrotolistá (Salix hastata)",
+   "Q158912": "Vrba pětimužná (Salix pentandra)",
+   "Q159602": "Třezalka pěkná (Hypericum pulchrum)",
+   "Q164326": "Hlaváč žlutavý (Scabiosa ochroleuca)",
+   "Q170662": "Mangostana lahodná (Garcinia mangostana)",
+   "Q2003088": "Topol úzkolistý (Populus angustifolia)",
+   "Q208253": "Pryšec nádherný (Euphorbia pulcherrima)",
+   "Q341680": "Violka rolní (Viola arvensis)",
+   "Q39648": "Vrba polární (Salix polaris)"
+  }
+ },
+ {
+  "id": "Q159060#0",
+  "species": "Ožanka hroznatá",
+  "latin": "Teucrium botrys",
+  "text": "Květy mají růžově fialovou korunu zvláštního tvaru.",
+  "quote": "a růžově fialovou korunu charakteristického tvaru",
+  "claimed_false_for": {
+   "Q104212": "Chmel otáčivý (Humulus lupulus)",
+   "Q1938923": "Ptačí zob vejčitolistý (Ligustrum ovalifolium)",
+   "Q2583942": "Lvoušek oranžový (Leonotis leonurus)",
+   "Q311847": "Prorostlík nejtenčí (Bupleurum tenuissimum)",
+   "Q500383": "Mombín sladký (Spondias dulcis)",
+   "Q522881": "Kolovník zašpičatělý (Cola acuminata)"
+  }
+ },
+ {
+  "id": "Q159060#1",
+  "species": "Ožanka hroznatá",
+  "latin": "Teucrium botrys",
+  "text": "Kvete od července do září.",
+  "quote": "Rostlina kvete od července do září až",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q159064#0",
+  "species": "Oměj pestrý",
+  "latin": "Aconitum variegatum",
+  "text": "Kvete od června do srpna.",
+  "quote": "Kvete v červnu až v srpnu.",
+  "claimed_false_for": {
+   "Q157557": "Orsej jarní (Ficaria verna)",
+   "Q161050": "Jaterník podléška (Hepatica nobilis)",
+   "Q164064": "Škornice alpská (Epimedium alpinum)",
+   "Q854714": "Dub šarlatový (Quercus coccinea)"
+  }
+ },
+ {
+  "id": "Q159064#1",
+  "species": "Oměj pestrý",
+  "latin": "Aconitum variegatum",
+  "text": "Horní část květu tvoří vysoká přilba jako helma.",
+  "quote": "horní tvoří přilbu, která je kuželovitá až vakovitá",
+  "claimed_false_for": {
+   "Q1266138": "Plicník tmavý (Pulmonaria obscura)",
+   "Q132741": "Aktinidie kolomikta (Actinidia kolomikta)",
+   "Q157358": "Sasanka lesní (Anemone sylvestris)",
+   "Q158335": "Lakušník vzplývavý (Ranunculus fluitans)",
+   "Q161056": "Sasanka hajní (Anemone nemorosa)",
+   "Q161508": "Pryskyřník ledovcový (Ranunculus glacialis)",
+   "Q2064748": "Lakušník štítnatý (Ranunculus peltatus)",
+   "Q208032": "Medvědice lékařská (Arctostaphylos uva-ursi)",
+   "Q2727171": "Mandloň trojlaločná (Prunus triloba)",
+   "Q341560": "Pryskyřník rolní (Ranunculus arvensis)",
+   "Q5131218": "Plamének latnatý (Clematis paniculata)"
+  }
+ },
+ {
+  "id": "Q159076#0",
+  "species": "Rdesno blešník",
+  "latin": "Persicaria lapathifolia",
+  "text": "Kvete od července do října.",
+  "quote": "Kvete v červenci až říjnu.",
+  "claimed_false_for": {
+   "Q162390": "Zimolez lesklý (Lonicera nitida)",
+   "Q41521670": "Jeřáb olšolistý (Karpatiosorbus alnifrons)"
+  }
+ },
+ {
+  "id": "Q159076#1",
+  "species": "Rdesno blešník",
+  "latin": "Persicaria lapathifolia",
+  "text": "Jedna rostlina vytvoří až 1300 plodů.",
+  "quote": "na jedné rostlině se vytvoří až 1300 plodů",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q159076#2",
+  "species": "Rdesno blešník",
+  "latin": "Persicaria lapathifolia",
+  "text": "Stonek má nápadně zvětšené uzliny.",
+  "quote": "má nápadně zvětšené uzliny.",
+  "claimed_false_for": {
+   "Q271937": "Lofofora Williamsova (Lophophora williamsii)",
+   "Q469576": "Topol osikovitý (Populus tremuloides)",
+   "Q93121709": "Rebutia muscula (Aylostera muscula)"
+  }
+ },
+ {
+  "id": "Q159076#3",
+  "species": "Rdesno blešník",
+  "latin": "Persicaria lapathifolia",
+  "text": "Semena vyklíčí i po průchodu zvířecím trávicím ústrojím.",
+  "quote": "ani projití zažívacím traktem dobytka, rozšiřují se na nová místa také v chlévském hnoji.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q159079#0",
+  "species": "Všivec bahenní",
+  "latin": "Pedicularis palustris",
+  "text": "Tento druh bere vodu a minerály z kořenů jiných rostlin.",
+  "quote": "využívá kořenového systému mnoha jiných vytrvalých rostlin",
+  "claimed_false_for": {
+   "Q1000854": "Šalvěj červenokořenná (Salvia miltiorrhiza)",
+   "Q102240169": "Šalvěj rozmarýna (Salvia rosmarinus)",
+   "Q117068": "Cesmína paraguayská (Ilex paraguariensis)",
+   "Q1366575": "Bakopa drobnolistá (Bacopa monnieri)",
+   "Q157408": "Jitrocel kopinatý (Plantago lanceolata)",
+   "Q158392": "Čistec bahenní (Stachys palustris)",
+   "Q159714": "Zběhovec jehlancovitý (Ajuga pyramidalis)",
+   "Q159725": "Rozrazil štítkovitý (Veronica scutellata)",
+   "Q160095": "Divizna malokvětá (Verbascum thapsus)",
+   "Q164174": "Třešeň křovitá (Prunus fruticosa)",
+   "Q374027": "Anoda hřebenitá (Anoda cristata)"
+  }
+ },
+ {
+  "id": "Q159079#1",
+  "species": "Všivec bahenní",
+  "latin": "Pedicularis palustris",
+  "text": "Kvete v květnu a červnu.",
+  "quote": "Květy kvetoucí v květnu a červnu",
+  "claimed_false_for": {
+   "Q10912510": "Dvoukvětec zmarlikolistý (Disanthus cercidifolius)",
+   "Q15251193": "Buřina jablečníkovitá (Chaiturus marrubiastrum)",
+   "Q15349645": "Všivec krkonošský (Pedicularis sudetica)",
+   "Q159060": "Ožanka hroznatá (Teucrium botrys)",
+   "Q161417": "Sporýš lékařský (Verbena officinalis)"
+  }
+ },
+ {
+  "id": "Q159079#2",
+  "species": "Všivec bahenní",
+  "latin": "Pedicularis palustris",
+  "text": "Dorůstá do výšky 20 až 60 centimetrů.",
+  "quote": "dorůstá do výše 20 až 60 cm",
+  "claimed_false_for": {
+   "Q147498": "Jilm horský (Ulmus glabra)",
+   "Q159248": "Blatěnka vodní (Limosella aquatica)"
+  }
+ },
+ {
+  "id": "Q159079#3",
+  "species": "Všivec bahenní",
+  "latin": "Pedicularis palustris",
+  "text": "Tento druh šíří semena větrem nebo vodou.",
+  "quote": "Semena jsou roznášena větrem nebo vodou",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q159083#0",
+  "species": "Mordovka větevnatá",
+  "latin": "Orobanche ramosa",
+  "text": "Tento druh bere všechny živiny i vodu z jiné rostliny.",
+  "quote": "Nemá chlorofyl a bez svého hostitele nemůže žít, čerpá z něho všechny živiny včetně vody.",
+  "claimed_false_for": {
+   "Q1333239": "Violka psí (Viola canina)",
+   "Q134419": "Opuncie poléhavá (Opuntia humifusa)",
+   "Q158372": "Černohlávek velkokvětý (Prunella grandiflora)",
+   "Q159450": "Divizna švábovitá (Verbascum blattaria)",
+   "Q159714": "Zběhovec jehlancovitý (Ajuga pyramidalis)",
+   "Q159718": "Pobřežnice jednokvětá (Littorella uniflora)",
+   "Q160096": "Kakost smrdutý (Geranium robertianum)",
+   "Q160273": "Chocholačka bílá (Pseudofumaria alba)",
+   "Q160561": "Karbinec statný (Lycopus exaltatus)",
+   "Q164035": "Hluchavka skvrnitá (Lamium maculatum)",
+   "Q1938923": "Ptačí zob vejčitolistý (Ligustrum ovalifolium)",
+   "Q311228": "Jitrocel vejčitý (Plantago ovata)"
+  }
+ },
+ {
+  "id": "Q159083#1",
+  "species": "Mordovka větevnatá",
+  "latin": "Orobanche ramosa",
+  "text": "Kvete od července do září ve střední Evropě.",
+  "quote": "Kvete ve střední Evropě v době od července do září",
+  "claimed_false_for": {
+   "Q623461": "Jasmín nahokvětý (Jasminum nudiflorum)"
+  }
+ }
+]

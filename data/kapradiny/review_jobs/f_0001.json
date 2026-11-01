@@ -1,0 +1,535 @@
+[
+ {
+  "id": "Q2247460#1",
+  "species": "Vratička heřmánkolistá",
+  "latin": "Botrychium matricariifolium",
+  "text": "Roste 5 až 10 let pod zemí, než se ukáže nad zemí.",
+  "quote": "se vyvíjejí 5-10 let pod zemí",
+  "claimed_false_for": {
+   "Q2705087": "Azola americká (Azolla filiculoides)",
+   "Q635586": "Nepukalka vzplývající (Salvinia natans)"
+  }
+ },
+ {
+  "id": "Q256971#0",
+  "species": "Přeslička větevnatá",
+  "latin": "Equisetum ramosissimum",
+  "text": "Dorůstá obvykle 20 až 100 centimetrů na výšku.",
+  "quote": "nejčastěji 20-100 cm vysoká rostlina",
+  "claimed_false_for": {
+   "Q2220785": "Vratička mnohoklaná (Botrychium multifidum)",
+   "Q2247460": "Vratička heřmánkolistá (Botrychium matricariifolium)",
+   "Q3023471": "Blánatec kentský (Hymenophyllum tunbrigense)"
+  }
+ },
+ {
+  "id": "Q256971#1",
+  "species": "Přeslička větevnatá",
+  "latin": "Equisetum ramosissimum",
+  "text": "Roste na písku a v borových lesích.",
+  "quote": "Roste na písčinách a v borech",
+  "claimed_false_for": {
+   "Q1130272": "Jelení jazyk celolistý (Asplenium scolopendrium)",
+   "Q1130386": "Pérovník pštrosí (Matteuccia struthiopteris)",
+   "Q1684201": "Hnědovka křídlatá (Microsorum pteropus)",
+   "Q2705087": "Azola americká (Azolla filiculoides)",
+   "Q3023471": "Blánatec kentský (Hymenophyllum tunbrigense)",
+   "Q635586": "Nepukalka vzplývající (Salvinia natans)",
+   "Q958103": "Kapradiník bažinný (Thelypteris palustris)",
+   "Q998341": "Bukovinec osladičovitý (Phegopteris connectilis)"
+  }
+ },
+ {
+  "id": "Q263881#0",
+  "species": "Přeslička zimní",
+  "latin": "Equisetum hyemale",
+  "text": "Dorůstá do výšky asi 30 až 100 centimetrů.",
+  "quote": "Přeslička zimní je vytrvalá, cca 30-100 cm vysoká rostlina.",
+  "claimed_false_for": {
+   "Q2220785": "Vratička mnohoklaná (Botrychium multifidum)",
+   "Q2247460": "Vratička heřmánkolistá (Botrychium matricariifolium)",
+   "Q3023471": "Blánatec kentský (Hymenophyllum tunbrigense)"
+  }
+ },
+ {
+  "id": "Q263881#1",
+  "species": "Přeslička zimní",
+  "latin": "Equisetum hyemale",
+  "text": "Tento druh má tmavě zelený stonek, který se skoro nevětví.",
+  "quote": "Stonek je relativně mohutný, přezimující a tmavě zelený, na rozdíl od většiny přesliček se nevětví, jen výjimečně se trochu naspodu větví.",
+  "claimed_false_for": {
+   "Q1130272": "Jelení jazyk celolistý (Asplenium scolopendrium)",
+   "Q1684201": "Hnědovka křídlatá (Microsorum pteropus)",
+   "Q2705087": "Azola americká (Azolla filiculoides)",
+   "Q3023471": "Blánatec kentský (Hymenophyllum tunbrigense)",
+   "Q322994": "Kapraď samec (Dryopteris filix-mas)",
+   "Q635586": "Nepukalka vzplývající (Salvinia natans)",
+   "Q905897": "Kapraď rozložená (Dryopteris dilatata)",
+   "Q958103": "Kapradiník bažinný (Thelypteris palustris)",
+   "Q998341": "Bukovinec osladičovitý (Phegopteris connectilis)"
+  }
+ },
+ {
+  "id": "Q2705087#0",
+  "species": "Azola americká",
+  "latin": "Azolla filiculoides",
+  "text": "Tento druh za dobrých podmínek zdvojnásobí plochu za 10 dnů.",
+  "quote": "Za příhodných podmínek rostlina za 10 dnů zdvojnásobí plochu, na které roste",
+  "claimed_false_for": {
+   "Q107592": "Přeslička rolní (Equisetum arvense)",
+   "Q11258500": "Přeslička Mooreova (Equisetum ×moorei)",
+   "Q1345500": "Papratka samičí (Athyrium filix-femina)",
+   "Q1754958": "Kyvor lékařský (Asplenium ceterach)",
+   "Q21122": "Přeslička bahenní (Equisetum palustre)",
+   "Q2176480": "Puchýřník hladký (Cystopteris dickieana)",
+   "Q2220785": "Vratička mnohoklaná (Botrychium multifidum)",
+   "Q28957": "Kapradina laločnatá (Polystichum aculeatum)",
+   "Q733398": "Podezřeň královská (Osmunda regalis)",
+   "Q902211": "Sleziník červený (Asplenium trichomanes)",
+   "Q905897": "Kapraď rozložená (Dryopteris dilatata)",
+   "Q936546": "Přeslička největší (Equisetum telmateia)"
+  }
+ },
+ {
+  "id": "Q2705087#2",
+  "species": "Azola americká",
+  "latin": "Azolla filiculoides",
+  "text": "Tento druh neroste v tekoucí vodě, protože se na dně nedrží.",
+  "quote": "Svými tenkými kořínky není zakotvena do dna, a proto se nemůže vyskytovat v tekoucí vodě.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q2705087#3",
+  "species": "Azola americká",
+  "latin": "Azolla filiculoides",
+  "text": "Tento druh se používá jako hnojivo na rýžovištích.",
+  "quote": "Využívá se např. ke hnojení na rýžovištích",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q2716094#0",
+  "species": "Nepukalka obtížná",
+  "latin": "Salvinia molesta",
+  "text": "Tento druh má tenké a křehké lodyhy dlouhé 10 až 15 centimetrů.",
+  "quote": "Její lodyhy jsou tenké, málo větvené a křehké, 10–15 cm dlouhé.",
+  "claimed_false_for": {
+   "Q1345500": "Papratka samičí (Athyrium filix-femina)",
+   "Q28957": "Kapradina laločnatá (Polystichum aculeatum)",
+   "Q733398": "Podezřeň královská (Osmunda regalis)",
+   "Q905897": "Kapraď rozložená (Dryopteris dilatata)",
+   "Q936546": "Přeslička největší (Equisetum telmateia)"
+  }
+ },
+ {
+  "id": "Q2716094#1",
+  "species": "Nepukalka obtížná",
+  "latin": "Salvinia molesta",
+  "text": "Tento druh se množí tak, že se dlouhé lodyhy rozdělí na kratší části.",
+  "quote": "Tudíž vyrůstá z řízků, které byly odděleny od mateřské rostliny, dělením delších lodyh na kratší části.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q28957#0",
+  "species": "Kapradina laločnatá",
+  "latin": "Polystichum aculeatum",
+  "text": "Tento druh má listy dlouhé 50 až 70 centimetrů.",
+  "quote": "Ty jsou 50 až 70 cm dlouhé",
+  "claimed_false_for": {
+   "Q1197925": "Prutovka nahá (Psilotum nudum)",
+   "Q1332525": "Marsilka čtyřlistá (Marsilea quadrifolia)",
+   "Q2247460": "Vratička heřmánkolistá (Botrychium matricariifolium)",
+   "Q635586": "Nepukalka vzplývající (Salvinia natans)",
+   "Q743883": "Osladič obecný (Polypodium vulgare)"
+  }
+ },
+ {
+  "id": "Q28957#1",
+  "species": "Kapradina laločnatá",
+  "latin": "Polystichum aculeatum",
+  "text": "Tento druh vytváří výtrusy, které dozrávají od července do září.",
+  "quote": "Výtrusy dozrávají od července do září.",
+  "claimed_false_for": {
+   "Q1355107": "Přeslička lesní (Equisetum sylvaticum)",
+   "Q936546": "Přeslička největší (Equisetum telmateia)"
+  }
+ },
+ {
+  "id": "Q299246#0",
+  "species": "Míčovka kulkonosná",
+  "latin": "Pilularia globulifera",
+  "text": "Tento druh má listy až 30 centimetrů dlouhé, když je pod vodou.",
+  "quote": "mohou listy dorůst do délky i 30 cm",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q299246#1",
+  "species": "Míčovka kulkonosná",
+  "latin": "Pilularia globulifera",
+  "text": "Tento druh dokáže dlouho přečkat ve vlhké půdě a znovu vyklíčit.",
+  "quote": "Oplodněné megaspory mohou po delší dobu přetrvávat ve vlhkém substrátu a zachovat si klíčivost.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q299246#2",
+  "species": "Míčovka kulkonosná",
+  "latin": "Pilularia globulifera",
+  "text": "Tento druh se pravděpodobně šíří přilepením na peří ptáků.",
+  "quote": "přilepením rosolovitého obsahu sporokarpů na peří ptáků",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q299246#3",
+  "species": "Míčovka kulkonosná",
+  "latin": "Pilularia globulifera",
+  "text": "Tento druh byl v Česku dlouho považován za vyhynulý.",
+  "quote": "byl považován za vyhynulý",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q3023471#0",
+  "species": "Blánatec kentský",
+  "latin": "Hymenophyllum tunbrigense",
+  "text": "Tento druh je velmi malá kapradina, jen 2 až 6 centimetrů vysoká.",
+  "quote": "Blánatec kentský je víceletá a velmi malá kapradina, 2–6 centimetrů vysoká.",
+  "claimed_false_for": {
+   "Q107592": "Přeslička rolní (Equisetum arvense)",
+   "Q11258500": "Přeslička Mooreova (Equisetum ×moorei)",
+   "Q1197925": "Prutovka nahá (Psilotum nudum)",
+   "Q1345500": "Papratka samičí (Athyrium filix-femina)",
+   "Q1684201": "Hnědovka křídlatá (Microsorum pteropus)",
+   "Q213548": "Hasivka orličí (Pteridium aquilinum)",
+   "Q256971": "Přeslička větevnatá (Equisetum ramosissimum)",
+   "Q743883": "Osladič obecný (Polypodium vulgare)"
+  }
+ },
+ {
+  "id": "Q3023471#1",
+  "species": "Blánatec kentský",
+  "latin": "Hymenophyllum tunbrigense",
+  "text": "V Česku se tento druh dnes považuje za vyhynulý.",
+  "quote": "Dnes je u nás řazen mezi vyhynulé druhy.",
+  "claimed_false_for": {
+   "Q107592": "Přeslička rolní (Equisetum arvense)",
+   "Q1123127": "Přeslička luční (Equisetum pratense)",
+   "Q1345500": "Papratka samičí (Athyrium filix-femina)",
+   "Q213548": "Hasivka orličí (Pteridium aquilinum)",
+   "Q2176480": "Puchýřník hladký (Cystopteris dickieana)",
+   "Q743883": "Osladič obecný (Polypodium vulgare)"
+  }
+ },
+ {
+  "id": "Q322994#0",
+  "species": "Kapraď samec",
+  "latin": "Dryopteris filix-mas",
+  "text": "Tento druh má mladé listy stočené do spirály.",
+  "quote": "Listy jsou v mládí svinuty do spirály a tvoří tzv. „biskupské berly“",
+  "claimed_false_for": {
+   "Q11258500": "Přeslička Mooreova (Equisetum ×moorei)",
+   "Q1197925": "Prutovka nahá (Psilotum nudum)",
+   "Q1355107": "Přeslička lesní (Equisetum sylvaticum)",
+   "Q263881": "Přeslička zimní (Equisetum hyemale)",
+   "Q635586": "Nepukalka vzplývající (Salvinia natans)",
+   "Q933847": "Přeslička různobarvá (Equisetum variegatum)",
+   "Q936546": "Přeslička největší (Equisetum telmateia)"
+  }
+ },
+ {
+  "id": "Q322994#1",
+  "species": "Kapraď samec",
+  "latin": "Dryopteris filix-mas",
+  "text": "Tento druh na podzim dozrává a jeho listy pak rychle usychají.",
+  "quote": "Výtrusy dozrávají na podzim a listy pak rychle usychají.",
+  "claimed_false_for": {
+   "Q1130272": "Jelení jazyk celolistý (Asplenium scolopendrium)",
+   "Q263881": "Přeslička zimní (Equisetum hyemale)",
+   "Q743883": "Osladič obecný (Polypodium vulgare)",
+   "Q933847": "Přeslička různobarvá (Equisetum variegatum)"
+  }
+ },
+ {
+  "id": "Q542735#0",
+  "species": "Kapradina hrálovitá",
+  "latin": "Polystichum lonchitis",
+  "text": "Tento druh dorůstá do výšky 10 až 50 centimetrů.",
+  "quote": "dosahuje výšky od 10 do 50 cm.",
+  "claimed_false_for": {
+   "Q635586": "Nepukalka vzplývající (Salvinia natans)"
+  }
+ },
+ {
+  "id": "Q542735#1",
+  "species": "Kapradina hrálovitá",
+  "latin": "Polystichum lonchitis",
+  "text": "Tento druh roste v Česku hlavně u horní hranice lesa.",
+  "quote": "V České republice vyhledává lesní světliny při horní hranici lesa",
+  "claimed_false_for": {
+   "Q1130272": "Jelení jazyk celolistý (Asplenium scolopendrium)",
+   "Q1197925": "Prutovka nahá (Psilotum nudum)",
+   "Q1332525": "Marsilka čtyřlistá (Marsilea quadrifolia)",
+   "Q635586": "Nepukalka vzplývající (Salvinia natans)",
+   "Q936546": "Přeslička největší (Equisetum telmateia)"
+  }
+ },
+ {
+  "id": "Q59420181#0",
+  "species": "Žebrovice různolistá",
+  "latin": "Struthiopteris spicant",
+  "text": "Některé listy dorostou až 80 cm na délku.",
+  "quote": "Sporofyly jsou většinou vzpřímené a dosahují délky až 80 cm.",
+  "claimed_false_for": {
+   "Q1332525": "Marsilka čtyřlistá (Marsilea quadrifolia)",
+   "Q2000383": "Vláskatec tajemný (Trichomanes speciosum)",
+   "Q2716094": "Nepukalka obtížná (Salvinia molesta)",
+   "Q299246": "Míčovka kulkonosná (Pilularia globulifera)",
+   "Q635586": "Nepukalka vzplývající (Salvinia natans)"
+  }
+ },
+ {
+  "id": "Q59420181#1",
+  "species": "Žebrovice různolistá",
+  "latin": "Struthiopteris spicant",
+  "text": "Listy s výtrusy na podzim odumírají.",
+  "quote": "Na podzim pak sporofyly odumírají.",
+  "claimed_false_for": {
+   "Q263881": "Přeslička zimní (Equisetum hyemale)",
+   "Q28957": "Kapradina laločnatá (Polystichum aculeatum)",
+   "Q905897": "Kapraď rozložená (Dryopteris dilatata)"
+  }
+ },
+ {
+  "id": "Q635586#0",
+  "species": "Nepukalka vzplývající",
+  "latin": "Salvinia natans",
+  "text": "Spodní strana listů je hustě chlupatá.",
+  "quote": "Spodní strana listu je hustě chlupatá",
+  "claimed_false_for": {
+   "Q107592": "Přeslička rolní (Equisetum arvense)",
+   "Q21122": "Přeslička bahenní (Equisetum palustre)",
+   "Q936546": "Přeslička největší (Equisetum telmateia)"
+  }
+ },
+ {
+  "id": "Q635586#1",
+  "species": "Nepukalka vzplývající",
+  "latin": "Salvinia natans",
+  "text": "Ve volné přírodě vytváří velké plovoucí polštáře na hladině.",
+  "quote": "Ve volné přírodě tato kapradina tvoří rozsáhlé polštáře na hladině.",
+  "claimed_false_for": {
+   "Q107592": "Přeslička rolní (Equisetum arvense)",
+   "Q11258500": "Přeslička Mooreova (Equisetum ×moorei)",
+   "Q1345500": "Papratka samičí (Athyrium filix-femina)",
+   "Q1754958": "Kyvor lékařský (Asplenium ceterach)",
+   "Q21122": "Přeslička bahenní (Equisetum palustre)",
+   "Q2176480": "Puchýřník hladký (Cystopteris dickieana)",
+   "Q2220785": "Vratička mnohoklaná (Botrychium multifidum)",
+   "Q28957": "Kapradina laločnatá (Polystichum aculeatum)",
+   "Q733398": "Podezřeň královská (Osmunda regalis)",
+   "Q902211": "Sleziník červený (Asplenium trichomanes)",
+   "Q905897": "Kapraď rozložená (Dryopteris dilatata)",
+   "Q936546": "Přeslička největší (Equisetum telmateia)"
+  }
+ },
+ {
+  "id": "Q733398#0",
+  "species": "Podezřeň královská",
+  "latin": "Osmunda regalis",
+  "text": "Tento druh už v Česku vyhynul.",
+  "quote": "V ČR je podezřeň královská vyhynulou rostlinou",
+  "claimed_false_for": {
+   "Q107592": "Přeslička rolní (Equisetum arvense)",
+   "Q1301661": "Bukovník kapraďovitý (Gymnocarpium dryopteris)",
+   "Q1345500": "Papratka samičí (Athyrium filix-femina)",
+   "Q21122": "Přeslička bahenní (Equisetum palustre)",
+   "Q2176480": "Puchýřník hladký (Cystopteris dickieana)",
+   "Q256971": "Přeslička větevnatá (Equisetum ramosissimum)",
+   "Q902211": "Sleziník červený (Asplenium trichomanes)",
+   "Q937406": "Kapraď podobná (Dryopteris expansa)",
+   "Q998341": "Bukovinec osladičovitý (Phegopteris connectilis)"
+  }
+ },
+ {
+  "id": "Q733398#1",
+  "species": "Podezřeň královská",
+  "latin": "Osmunda regalis",
+  "text": "Tento druh má zelené listy dlouhé 60 až 160 centimetrů.",
+  "quote": "Neplodné listy jsou dlouhé 60–160 cm",
+  "claimed_false_for": {
+   "Q1301661": "Bukovník kapraďovitý (Gymnocarpium dryopteris)",
+   "Q2000383": "Vláskatec tajemný (Trichomanes speciosum)",
+   "Q2176480": "Puchýřník hladký (Cystopteris dickieana)",
+   "Q3023471": "Blánatec kentský (Hymenophyllum tunbrigense)",
+   "Q902211": "Sleziník červený (Asplenium trichomanes)",
+   "Q937406": "Kapraď podobná (Dryopteris expansa)",
+   "Q998341": "Bukovinec osladičovitý (Phegopteris connectilis)"
+  }
+ },
+ {
+  "id": "Q733398#2",
+  "species": "Podezřeň královská",
+  "latin": "Osmunda regalis",
+  "text": "Tento druh má rezavě zbarvené plodné listy odděleně od zelených listů.",
+  "quote": "Má odděleně rostoucí rezavě zbarvené plodolisty s výtrusy",
+  "claimed_false_for": {
+   "Q1301661": "Bukovník kapraďovitý (Gymnocarpium dryopteris)",
+   "Q1345500": "Papratka samičí (Athyrium filix-femina)",
+   "Q2000383": "Vláskatec tajemný (Trichomanes speciosum)",
+   "Q2176480": "Puchýřník hladký (Cystopteris dickieana)",
+   "Q2716094": "Nepukalka obtížná (Salvinia molesta)",
+   "Q3023471": "Blánatec kentský (Hymenophyllum tunbrigense)",
+   "Q902211": "Sleziník červený (Asplenium trichomanes)",
+   "Q937406": "Kapraď podobná (Dryopteris expansa)",
+   "Q998341": "Bukovinec osladičovitý (Phegopteris connectilis)"
+  }
+ },
+ {
+  "id": "Q733398#3",
+  "species": "Podezřeň královská",
+  "latin": "Osmunda regalis",
+  "text": "Tento druh má kořeny, které zahradníci používají pro pěstování orchidejí.",
+  "quote": "se používají jako osmundový kořen, který je v zahradnictví využíván jako opěrná konstrukce pro pěstování orchidejí",
+  "claimed_false_for": {
+   "Q107592": "Přeslička rolní (Equisetum arvense)",
+   "Q1301661": "Bukovník kapraďovitý (Gymnocarpium dryopteris)",
+   "Q1345500": "Papratka samičí (Athyrium filix-femina)",
+   "Q2000383": "Vláskatec tajemný (Trichomanes speciosum)",
+   "Q21122": "Přeslička bahenní (Equisetum palustre)",
+   "Q2176480": "Puchýřník hladký (Cystopteris dickieana)",
+   "Q256971": "Přeslička větevnatá (Equisetum ramosissimum)",
+   "Q2716094": "Nepukalka obtížná (Salvinia molesta)",
+   "Q3023471": "Blánatec kentský (Hymenophyllum tunbrigense)",
+   "Q902211": "Sleziník červený (Asplenium trichomanes)",
+   "Q937406": "Kapraď podobná (Dryopteris expansa)",
+   "Q998341": "Bukovinec osladičovitý (Phegopteris connectilis)"
+  }
+ },
+ {
+  "id": "Q743883#0",
+  "species": "Osladič obecný",
+  "latin": "Polypodium vulgare",
+  "text": "Listy zůstávají přes zimu a nové rostou v květnu a červnu.",
+  "quote": "Vytrvávají přes zimu a nové raší v květnu a červnu.",
+  "claimed_false_for": {
+   "Q213548": "Hasivka orličí (Pteridium aquilinum)",
+   "Q635586": "Nepukalka vzplývající (Salvinia natans)",
+   "Q937406": "Kapraď podobná (Dryopteris expansa)"
+  }
+ },
+ {
+  "id": "Q743883#1",
+  "species": "Osladič obecný",
+  "latin": "Polypodium vulgare",
+  "text": "Za sucha se jeho listy svinují, aby se méně vypařovala voda.",
+  "quote": "Jejich čepele se za sucha svinují na ochranu před zvýšeným odpařováním vody.",
+  "claimed_false_for": {
+   "Q2716094": "Nepukalka obtížná (Salvinia molesta)",
+   "Q635586": "Nepukalka vzplývající (Salvinia natans)"
+  }
+ },
+ {
+  "id": "Q902211#0",
+  "species": "Sleziník červený",
+  "latin": "Asplenium trichomanes",
+  "text": "Roste na skalách i ve spárách zdí.",
+  "quote": "Roste na skalách, různých sutích i ve spárách zdí.",
+  "claimed_false_for": {
+   "Q1332525": "Marsilka čtyřlistá (Marsilea quadrifolia)",
+   "Q21122": "Přeslička bahenní (Equisetum palustre)",
+   "Q2716094": "Nepukalka obtížná (Salvinia molesta)",
+   "Q299246": "Míčovka kulkonosná (Pilularia globulifera)",
+   "Q635586": "Nepukalka vzplývající (Salvinia natans)"
+  }
+ },
+ {
+  "id": "Q902211#1",
+  "species": "Sleziník červený",
+  "latin": "Asplenium trichomanes",
+  "text": "Listy jsou dlouhé 15 až 40 centimetrů.",
+  "quote": "Listy rostou z hustého trsu, většinou přezimují, jsou dlouhé 15–40 cm a široké asi 2 cm.",
+  "claimed_false_for": {
+   "Q2176480": "Puchýřník hladký (Cystopteris dickieana)",
+   "Q2716094": "Nepukalka obtížná (Salvinia molesta)"
+  }
+ },
+ {
+  "id": "Q905897#0",
+  "species": "Kapraď rozložená",
+  "latin": "Dryopteris dilatata",
+  "text": "Dorůstá až do výšky 1,2 metru.",
+  "quote": "Dorůstá do výšky až 1,2 m.",
+  "claimed_false_for": {
+   "Q1130272": "Jelení jazyk celolistý (Asplenium scolopendrium)",
+   "Q1197925": "Prutovka nahá (Psilotum nudum)",
+   "Q1332525": "Marsilka čtyřlistá (Marsilea quadrifolia)",
+   "Q1355107": "Přeslička lesní (Equisetum sylvaticum)",
+   "Q2247460": "Vratička heřmánkolistá (Botrychium matricariifolium)",
+   "Q635586": "Nepukalka vzplývající (Salvinia natans)",
+   "Q743883": "Osladič obecný (Polypodium vulgare)"
+  }
+ },
+ {
+  "id": "Q905897#1",
+  "species": "Kapraď rozložená",
+  "latin": "Dryopteris dilatata",
+  "text": "Drobné výtrusy dozrávají od července do listopadu.",
+  "quote": "Spory dorůstají v období od července do listopadu.",
+  "claimed_false_for": {
+   "Q1355107": "Přeslička lesní (Equisetum sylvaticum)",
+   "Q936546": "Přeslička největší (Equisetum telmateia)"
+  }
+ },
+ {
+  "id": "Q923786#0",
+  "species": "Sleziník netíkovitý",
+  "latin": "Asplenium adiantum-nigrum",
+  "text": "V Česku je tento druh velmi vzácný.",
+  "quote": "V Česku a v celé střední Evropě se vyskytuje jen velmi vzácně",
+  "claimed_false_for": {
+   "Q21122": "Přeslička bahenní (Equisetum palustre)",
+   "Q213548": "Hasivka orličí (Pteridium aquilinum)",
+   "Q905897": "Kapraď rozložená (Dryopteris dilatata)"
+  }
+ },
+ {
+  "id": "Q933847#0",
+  "species": "Přeslička různobarvá",
+  "latin": "Equisetum variegatum",
+  "text": "Tento druh je v Česku velmi vzácný.",
+  "quote": "V ČR je to velmi vzácný a kriticky ohrožený druh (C1)",
+  "claimed_false_for": {
+   "Q322994": "Kapraď samec (Dryopteris filix-mas)",
+   "Q905897": "Kapraď rozložená (Dryopteris dilatata)",
+   "Q958103": "Kapradiník bažinný (Thelypteris palustris)",
+   "Q998341": "Bukovinec osladičovitý (Phegopteris connectilis)"
+  }
+ },
+ {
+  "id": "Q933847#1",
+  "species": "Přeslička různobarvá",
+  "latin": "Equisetum variegatum",
+  "text": "Tento druh obvykle přezimuje, tedy přežije zimu.",
+  "quote": "Stonek většinou přezimuje a je nevětvený.",
+  "claimed_false_for": {
+   "Q635586": "Nepukalka vzplývající (Salvinia natans)",
+   "Q958103": "Kapradiník bažinný (Thelypteris palustris)",
+   "Q998341": "Bukovinec osladičovitý (Phegopteris connectilis)"
+  }
+ },
+ {
+  "id": "Q936546#0",
+  "species": "Přeslička největší",
+  "latin": "Equisetum telmateia",
+  "text": "Dorůstá nejčastěji do 150 cm, vzácně až do 200 cm.",
+  "quote": "vysoká nejčastěji 50–150 cm, vzácněji až 200 cm",
+  "claimed_false_for": {
+   "Q1130272": "Jelení jazyk celolistý (Asplenium scolopendrium)",
+   "Q1684201": "Hnědovka křídlatá (Microsorum pteropus)",
+   "Q2220785": "Vratička mnohoklaná (Botrychium multifidum)",
+   "Q2247460": "Vratička heřmánkolistá (Botrychium matricariifolium)",
+   "Q2705087": "Azola americká (Azolla filiculoides)",
+   "Q3023471": "Blánatec kentský (Hymenophyllum tunbrigense)",
+   "Q635586": "Nepukalka vzplývající (Salvinia natans)",
+   "Q958103": "Kapradiník bažinný (Thelypteris palustris)",
+   "Q998341": "Bukovinec osladičovitý (Phegopteris connectilis)"
+  }
+ }
+]

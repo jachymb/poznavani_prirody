@@ -1,0 +1,415 @@
+[
+ {
+  "id": "Q2167755#2",
+  "species": "Timoj trojlaločný",
+  "latin": "Laser trilobum",
+  "text": "Jeho květy dávají nektar opylovačům.",
+  "quote": "květy poskytují opylovačům nektar",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q2177531#0",
+  "species": "Locika prutnatá",
+  "latin": "Lactuca viminea",
+  "text": "Může dorůst do délky 30 až 60 centimetrů.",
+  "quote": "může dorůst délky 30 až 60 centimetrů",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q2177531#1",
+  "species": "Locika prutnatá",
+  "latin": "Lactuca viminea",
+  "text": "Kvete od července do srpna.",
+  "quote": "doba kvetení je od července až do srpna",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q217778#0",
+  "species": "Bršlice kozí noha",
+  "latin": "Aegopodium podagraria",
+  "text": "Nové rostliny vyrostou i z oddenků, které zůstanou v půdě.",
+  "quote": "Při rytí je třeba oddenky z půdy vybírat, jinak rostliny vyrostou znovu",
+  "claimed_false_for": {
+   "Q26686": "Kopr vonný (Anethum graveolens)",
+   "Q312919": "Krabilice mámivá (Chaerophyllum temulum)"
+  }
+ },
+ {
+  "id": "Q217778#1",
+  "species": "Bršlice kozí noha",
+  "latin": "Aegopodium podagraria",
+  "text": "Roste v podrostu lesů a na stinných pasekách.",
+  "quote": "podrostu smíšených a listnatých lesů, lužních lesů a na stinných pasekách",
+  "claimed_false_for": {
+   "Q17133397": "Sesel sivý (Seseli osseum)",
+   "Q311847": "Prorostlík nejtenčí (Bupleurum tenuissimum)",
+   "Q3595658": "Vachellia leucophloea (Acacia leucophloea)"
+  }
+ },
+ {
+  "id": "Q218155#4",
+  "species": "Dub cesmínovitý",
+  "latin": "Quercus ilex",
+  "text": "Prasata dříve jedla jeho žaludy.",
+  "quote": "žaludy sloužily dříve jako potrava pro prasata",
+  "claimed_false_for": {
+   "Q11799270": "Orlíček zkřížený (Aquilegia cultorum)",
+   "Q148939": "Líska turecká (Corylus colurna)",
+   "Q1489573": "Habrovec virginský (Ostrya virginiana)",
+   "Q156904": "Olše lepkavá (Alnus glutinosa)",
+   "Q161290": "Konopice dvouklaná (Galeopsis bifida)",
+   "Q341680": "Violka rolní (Viola arvensis)",
+   "Q848396": "Devaterka poléhavá (Fumana procumbens)",
+   "Q929465": "Postopčák cizí (Comptonia peregrina)"
+  }
+ },
+ {
+  "id": "Q21874197#0",
+  "species": "Turanka kanadská",
+  "latin": "Erigeron canadensis",
+  "text": "Jako plevel se často vyskytuje na vinicích.",
+  "quote": "Jako plevel se často vyskytuje na vinicích.",
+  "claimed_false_for": {
+   "Q1431626": "Lakušník okrouhlý (Ranunculus circinatus)",
+   "Q966855": "Ibišek dřípený (Hibiscus schizopetalus)"
+  }
+ },
+ {
+  "id": "Q21874197#1",
+  "species": "Turanka kanadská",
+  "latin": "Erigeron canadensis",
+  "text": "Preferuje písčité půdy.",
+  "quote": "Preferuje písčité půdy",
+  "claimed_false_for": {
+   "Q15385772": "Pryšec kosmatý (Euphorbia illirica)"
+  }
+ },
+ {
+  "id": "Q21877442#4",
+  "species": "Argánie trnitá",
+  "latin": "Sideroxylon spinosum",
+  "text": "Kozy, ovce a dobytek jedí jeho listy a plody.",
+  "quote": "hlavní krmivo pro kozy, ovce i hovězí dobytek",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q21877442#5",
+  "species": "Argánie trnitá",
+  "latin": "Sideroxylon spinosum",
+  "text": "Dvoukřídlý hmyz opyluje jeho květy, zejména bzučivky a pestřenky.",
+  "quote": "Jsou opylovány především dvoukřídlým hmyzem, zejména bzučivkami a pestřenkami",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q21877442#6",
+  "species": "Argánie trnitá",
+  "latin": "Sideroxylon spinosum",
+  "text": "Houby žijí na kořenech v symbióze.",
+  "quote": "Na kořenech argánie žijí v symbióze mykorhizní houby",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q21976301#4",
+  "species": "Tolice srpovitá",
+  "latin": "Medicago falcata",
+  "text": "K nektaru jeho hlubokých květů dosáhnou čmeláci a motýli modrásci.",
+  "quote": "hlavně čmeláci a motýli modrásci",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q21976301#5",
+  "species": "Tolice srpovitá",
+  "latin": "Medicago falcata",
+  "text": "Drobné včely se k jeho nektaru dostávají jen stěží.",
+  "quote": "byť se drobné včely k nektaru dostávají jen stěží",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q2220315#4",
+  "species": "Sinokvět chrpovitý",
+  "latin": "Jurinea cyanoides",
+  "text": "Housenky motýlů zavíječů žerou jeho dozrávající nažky.",
+  "quote": "Dozrávající nažky vyžírají larvy motýlů zavíječů rodu Dioryctria.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q2223143#4",
+  "species": "Batolka ptačincolistá",
+  "latin": "Claytonia sibirica",
+  "text": "Opyluje ho hmyz hledající nektar.",
+  "quote": "je přenášen nektar hledajícím hmyzem z jiných květů",
+  "claimed_false_for": {
+   "Q29951": "Šťovík menší (Rumex acetosella)"
+  }
+ },
+ {
+  "id": "Q2241463#4",
+  "species": "Šklebivec přímý",
+  "latin": "Misopates orontium",
+  "text": "Opyluje ho hmyz, nebo se opyluje samo.",
+  "quote": "opylován je hmyzem nebo samosprašně",
+  "claimed_false_for": {
+   "Q1193369": "Jasan americký (Fraxinus americana)"
+  }
+ },
+ {
+  "id": "Q226969#0",
+  "species": "Jestřábník huňatý",
+  "latin": "Hieracium villosum",
+  "text": "Roste na slunných místech na vápenité půdě.",
+  "quote": "roste na slunných stanovištích v minerálně bohaté vápenité půdě",
+  "claimed_false_for": {
+   "Q1761334": "Šťovík bahenní (Rumex palustris)",
+   "Q261340": "Kanarína kanárská (Canarina canariensis)"
+  }
+ },
+ {
+  "id": "Q226969#1",
+  "species": "Jestřábník huňatý",
+  "latin": "Hieracium villosum",
+  "text": "V Česku roste jen v Hrubém Jeseníku.",
+  "quote": "roste pouze v Hrubém Jeseníku",
+  "claimed_false_for": {
+   "Q1415671": "Chrpa chlumní (Centaurea triumfettii)",
+   "Q1537333": "Astřička novobelgická (Symphyotrichum novi-belgii)",
+   "Q1761334": "Šťovík bahenní (Rumex palustris)",
+   "Q599435": "Zlatobýl obecný (Solidago virgaurea)",
+   "Q939756": "Starček úzkolistý (Senecio inaequidens)"
+  }
+ },
+ {
+  "id": "Q2280877#0",
+  "species": "Kopřiva konopovitá",
+  "latin": "Urtica cannabina",
+  "text": "Dorůstá obvykle do výšky 50 až 150 centimetrů.",
+  "quote": "Její obvyklá výška je 50 až 150 centimetrů.",
+  "claimed_false_for": {
+   "Q11130005": "Skalník mnohokvětý (Cotoneaster multiflorus)",
+   "Q147525": "Dub červený (Quercus rubra)",
+   "Q159560": "Muchovník oválný (Amelanchier ovalis)",
+   "Q165321": "Sakura ozdobná (Prunus serrulata)",
+   "Q311430": "Akácie Mearnsova (Acacia mearnsii)",
+   "Q45757": "Chlebovník různolistý (Artocarpus heterophyllus)",
+   "Q470006": "Břestovec západní (Celtis occidentalis)"
+  }
+ },
+ {
+  "id": "Q2280877#1",
+  "species": "Kopřiva konopovitá",
+  "latin": "Urtica cannabina",
+  "text": "Roste na okrajích lesů, v křovinách a podél cest.",
+  "quote": "Roste v různých typech prostředí, včetně okrajů lesů, křovin, rumišť a podél cest.",
+  "claimed_false_for": {
+   "Q12024679": "Jeřáb sudetský (Sorbus sudetica)"
+  }
+ },
+ {
+  "id": "Q2281662#0",
+  "species": "Vlákeň oboupohlavná",
+  "latin": "Sida hermaphrodita",
+  "text": "Květy se opylují samy.",
+  "quote": "Oboupohlavné bílé až slabě růžové květy jsou samosprašné.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q2281662#1",
+  "species": "Vlákeň oboupohlavná",
+  "latin": "Sida hermaphrodita",
+  "text": "Pochází ze Severní Ameriky, kde roste u jezer a velkých řek.",
+  "quote": "Pochází ze Severní Ameriky kde roste převážně ve vlhkých oblastech okolo jezer a velkých řek",
+  "claimed_false_for": {
+   "Q156835": "Sléz lesní (Malva sylvestris)",
+   "Q158496": "Proskurník lékařský (Althaea officinalis)",
+   "Q160273": "Chocholačka bílá (Pseudofumaria alba)",
+   "Q164232": "Devaterník velkokvětý (Helianthemum nummularium)",
+   "Q2166505": "Podranka dlouhoplodá (Podranea ricasoliana)",
+   "Q254655": "Zvonečník klasnatý (Phyteuma spicatum)",
+   "Q2601080": "Devaterník šedý (Helianthemum oelandicum)",
+   "Q4011060": "Kalina kulovitá (Viburnum ×carlcephalum)",
+   "Q577521": "Lípěnka africká (Sparrmannia africana)"
+  }
+ },
+ {
+  "id": "Q2281662#2",
+  "species": "Vlákeň oboupohlavná",
+  "latin": "Sida hermaphrodita",
+  "text": "Z jejího porostu se vyrábí krmivo nebo bioplyn.",
+  "quote": "Pro výrobu krmiva (lze dobře silážovat) nebo bioplynu",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q2281662#3",
+  "species": "Vlákeň oboupohlavná",
+  "latin": "Sida hermaphrodita",
+  "text": "Dokáže růst na jednom místě 20 až 25 let.",
+  "quote": "dokáže růst na jednom stanovišti 20 až 25 let",
+  "claimed_false_for": {
+   "Q374027": "Anoda hřebenitá (Anoda cristata)"
+  }
+ },
+ {
+  "id": "Q2302697#0",
+  "species": "Vrba Matsudova",
+  "latin": "Salix matsudana",
+  "text": "Pochází ze severovýchodu Číny a z Koreje.",
+  "quote": "Pochází ze severovýchodu Číny a z Koreje",
+  "claimed_false_for": {
+   "Q12209024": "Pryskyřník peřenosečný (Ranunculus millefoliatus)",
+   "Q157561": "Kostival lékařský (Symphytum officinale)",
+   "Q159046": "Violka bílá (Viola alba)",
+   "Q208253": "Pryšec nádherný (Euphorbia pulcherrima)",
+   "Q6090472": "Kvajáva brazilská (Psidium guineense)",
+   "Q9373285": "Vrba slezská (Salix silesiaca)"
+  }
+ },
+ {
+  "id": "Q2305124#0",
+  "species": "Pryšec myrtovitý",
+  "latin": "Euphorbia myrsinites",
+  "text": "Svými výměšky ohrožuje blízké rostliny.",
+  "quote": "Rostlina je výrazně alelopatická, ohrožuje výměšky blízké rostliny.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q2305124#1",
+  "species": "Pryšec myrtovitý",
+  "latin": "Euphorbia myrsinites",
+  "text": "Kvete od dubna do července.",
+  "quote": "Kvete od dubna do července.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q2319755#4",
+  "species": "Šanta hroznovitá",
+  "latin": "Nepeta racemosa",
+  "text": "Slimáci mohou tento druh poškozovat.",
+  "quote": "může být poškozována slimáky a padlím",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q232344#0",
+  "species": "Violka dvoukvětá",
+  "latin": "Viola biflora",
+  "text": "Kvete od května do srpna.",
+  "quote": "Kvete od května do srpna.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q232344#1",
+  "species": "Violka dvoukvětá",
+  "latin": "Viola biflora",
+  "text": "V Česku roste hlavně v horách.",
+  "quote": "V ČR roste hlavně v horách",
+  "claimed_false_for": {
+   "Q108684": "Violka vonná (Viola odorata)",
+   "Q12861234": "Violka zahradní (Viola ×wittrockiana)",
+   "Q128939": "Mučenka pletní (Passiflora incarnata)",
+   "Q156307": "Vrba babylónská (Salix babylonica)",
+   "Q156790": "Marakuja (Passiflora edulis)",
+   "Q164649": "Drobýšek nejmenší (Anagallis minima)",
+   "Q164700": "Černucha rolní (Nigella arvensis)",
+   "Q5131218": "Plamének latnatý (Clematis paniculata)",
+   "Q5422812": "Violka obojetná (Viola ambigua)"
+  }
+ },
+ {
+  "id": "Q2333372#0",
+  "species": "Pieris japonská",
+  "latin": "Pieris japonica",
+  "text": "Kvete v březnu a dubnu.",
+  "quote": "Kvete v březnu a dubnu",
+  "claimed_false_for": {
+   "Q147305": "Vrbina penízková (Lysimachia nummularia)",
+   "Q148907": "Hlaváček roční (Adonis annua)",
+   "Q158748": "Netýkavka nedůtklivá (Impatiens noli-tangere)",
+   "Q3822167": "Proměnka trojbarvá (Gilia tricolor)",
+   "Q5527672": "Sněžníček chloupkatý (Gaultheria hispidula)",
+   "Q948690": "Plchoplod otevřený (Calotropis procera)"
+  }
+ },
+ {
+  "id": "Q2333372#1",
+  "species": "Pieris japonská",
+  "latin": "Pieris japonica",
+  "text": "Mladé listy na jaře bývají zářivě bronzové, červené nebo růžové.",
+  "quote": "Mladé listy na jaře bývají obvykle zářivě zbarvené, bronzové, červené nebo růžové barvy.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q234193#5",
+  "species": "Moringa olejodárná",
+  "latin": "Moringa oleifera",
+  "text": "Domácí zvířata, hlavně velbloudi, rádi žerou jeho větve.",
+  "quote": "Větve jsou oblíbeným krmivem pro domácí zvířata, hlavně velbloudy.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q234238#4",
+  "species": "Morinda barvířská",
+  "latin": "Morinda citrifolia",
+  "text": "Savci, hlavně kaloni, jedí jeho plody a roznášejí semena.",
+  "quote": "V přírodě je konzumují mnozí savci, hlavně kaloni, kteří se starají o rozptýlení semen po okolí.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q234238#5",
+  "species": "Morinda barvířská",
+  "latin": "Morinda citrifolia",
+  "text": "Prasata jedí jeho plody.",
+  "quote": "Plodenstvími se též krmí prasata",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q23425#0",
+  "species": "Okurka setá",
+  "latin": "Cucumis sativus",
+  "text": "Pochází z vlhkých a teplých krajů Indie a Číny.",
+  "quote": "Pochází z vlhkých a teplých krajů Indie a Číny.",
+  "claimed_false_for": {
+   "Q157872": "Šalvěj muškátová (Salvia sclarea)",
+   "Q157980": "Posed bílý (Bryonia alba)",
+   "Q159602": "Třezalka pěkná (Hypericum pulchrum)",
+   "Q159645": "Bublinatka bledožlutá (Utricularia × ochroleuca)",
+   "Q161180": "Tykev velkoplodá (Cucurbita maxima)",
+   "Q38646266": "Čajot (Sicyos edulis)",
+   "Q4384728": "Libenka hranatá (Sicyos angulatus)",
+   "Q7229863": "Tykev obecná (Cucurbita pepo)"
+  }
+ },
+ {
+  "id": "Q23425#1",
+  "species": "Okurka setá",
+  "latin": "Cucumis sativus",
+  "text": "Květy jsou sytě žluté a velké 2 až 4 centimetry.",
+  "quote": "Okurky vytváří 2 až 4 centimetry velké, sytě žluté květy.",
+  "claimed_false_for": {
+   "Q1130177": "Chrpa luční (Centaurea jacea)",
+   "Q652206": "Beninkasa voskonosná (Benincasa hispida)",
+   "Q845019": "Netýkavka balzamína (Impatiens balsamina)"
+  }
+ },
+ {
+  "id": "Q23425#3",
+  "species": "Okurka setá",
+  "latin": "Cucumis sativus",
+  "text": "Plody se využívají v kosmetice jako součást pleťových masek.",
+  "quote": "Dále se okurky využívají také v kosmetice jako součást pleťových masek.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q23501#5",
+  "species": "Rajče jedlé",
+  "latin": "Solanum lycopersicum",
+  "text": "Ve skleníku ho opylují čmeláci.",
+  "quote": "květy opylují za pomoci čmeláků",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q2352976#2",
+  "species": "Paprska velkokvětá",
+  "latin": "Orlaya grandiflora",
+  "text": "Opyluje ho drobný létající hmyz, který přilétá pro nektar.",
+  "quote": "je opyluje drobný létající hmyz slétající se za nektarem",
+  "claimed_false_for": {}
+ }
+]

@@ -1,0 +1,506 @@
+[
+ {
+  "id": "Q1133124#0",
+  "species": "Rak červený",
+  "latin": "Procambarus clarkii",
+  "text": "Živí se drobnými bezobratlými.",
+  "quote": "Ohrožují tak místní populaci drobných bezobratlých, kterými se živí.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1133124#1",
+  "species": "Rak červený",
+  "latin": "Procambarus clarkii",
+  "text": "Pohlavní dospělosti dosahuje už v prvním roce života.",
+  "quote": "pohlavní dospělosti dosahuje již v prvním roce života.",
+  "claimed_false_for": {
+   "Q210959": "Rak říční (Astacus astacus)",
+   "Q27690": "Humr evropský (Homarus gammarus)"
+  }
+ },
+ {
+  "id": "Q1135229#0",
+  "species": "Žábronožka solná",
+  "latin": "Artemia salina",
+  "text": "Živí se zelenými řasami.",
+  "quote": "Požírá zelené řasy.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1135229#1",
+  "species": "Žábronožka solná",
+  "latin": "Artemia salina",
+  "text": "Žije ve slaných jezerech.",
+  "quote": "Žije ve slaných jezerech.",
+  "claimed_false_for": {
+   "Q134974": "Světélkovec atlantský (Meganyctiphanes norvegica)",
+   "Q135052": "Listonoh americký (Triops longicaudatus)",
+   "Q1573371": "Stínka zední (Oniscus asellus)",
+   "Q1646839": "Stínka mechová (Philoscia muscorum)",
+   "Q181075": "Krab světlonohý (Grapsus grapsus)",
+   "Q210959": "Rak říční (Astacus astacus)",
+   "Q287523": "Rak kamenáč (Austropotamobius torrentium)",
+   "Q4483881": "Krevetka kroužková (Macrobrachium assamense)",
+   "Q720597": "Krab bradavčitý (Eriphia verrucosa)",
+   "Q935625": "Kreveta drsná (Stenopus hispidus)"
+  }
+ },
+ {
+  "id": "Q1300629#0",
+  "species": "Svinka obecná",
+  "latin": "Armadillidium vulgare",
+  "text": "Živí se rozkládající rostlinnou hmotou, lišejníky a řasami.",
+  "quote": "Živí se rozkládající se rostlinnou hmotou, lišejníky a řasami.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1300629#1",
+  "species": "Svinka obecná",
+  "latin": "Armadillidium vulgare",
+  "text": "Často ji loví pavouci, například šestiočky.",
+  "quote": "Často bývá kořistí pavouků z rodu šestiočka",
+  "claimed_false_for": {
+   "Q206070": "Krab palmový (Birgus latro)",
+   "Q273655": "Velekrab japonský (Macrocheira kaempferi)",
+   "Q37668": "Humr americký (Homarus americanus)",
+   "Q720597": "Krab bradavčitý (Eriphia verrucosa)"
+  }
+ },
+ {
+  "id": "Q132808#0",
+  "species": "Listonoh letní",
+  "latin": "Triops cancriformis",
+  "text": "Tento druh je aktivní od května do srpna.",
+  "quote": "Aktivní je od května do srpna",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q132808#1",
+  "species": "Listonoh letní",
+  "latin": "Triops cancriformis",
+  "text": "Dosahuje délky až 10 cm.",
+  "quote": "dosahuje délky až 10 cm",
+  "claimed_false_for": {
+   "Q1300629": "Svinka obecná (Armadillidium vulgare)",
+   "Q135052": "Listonoh americký (Triops longicaudatus)",
+   "Q1646839": "Stínka mechová (Philoscia muscorum)",
+   "Q720580": "Krab měnlivý (Pachygrapsus marmoratus)"
+  }
+ },
+ {
+  "id": "Q134974#0",
+  "species": "Světélkovec atlantský",
+  "latin": "Meganyctiphanes norvegica",
+  "text": "Živí se drobnými klanonožci.",
+  "quote": "Živí se drobnými klanonožci",
+  "claimed_false_for": {
+   "Q206070": "Krab palmový (Birgus latro)"
+  }
+ },
+ {
+  "id": "Q1573371#0",
+  "species": "Stínka zední",
+  "latin": "Oniscus asellus",
+  "text": "Tento druh se živí tlejícími zbytky listí.",
+  "quote": "Mezi její potravu patří tlející zbytky listí.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1573371#1",
+  "species": "Stínka zední",
+  "latin": "Oniscus asellus",
+  "text": "Často ho loví pavouci.",
+  "quote": "Často bývá kořistí pavouků z rodu šestiočka",
+  "claimed_false_for": {
+   "Q206070": "Krab palmový (Birgus latro)",
+   "Q273655": "Velekrab japonský (Macrocheira kaempferi)",
+   "Q37668": "Humr americký (Homarus americanus)",
+   "Q720597": "Krab bradavčitý (Eriphia verrucosa)"
+  }
+ },
+ {
+  "id": "Q181075#0",
+  "species": "Krab světlonohý",
+  "latin": "Grapsus grapsus",
+  "text": "Žije na březích Jižní a Střední Ameriky a v Mexiku.",
+  "quote": "Žije na březích Jižní Ameriky (nejjižněji v Peru), Střední Ameriky a Mexika.",
+  "claimed_false_for": {
+   "Q107078367": "Rak pruhovaný (Faxonius limosus)",
+   "Q134974": "Světélkovec atlantský (Meganyctiphanes norvegica)",
+   "Q210959": "Rak říční (Astacus astacus)",
+   "Q27690": "Humr evropský (Homarus gammarus)",
+   "Q492178": "Blešivec obecný (Gammarus pulex)"
+  }
+ },
+ {
+  "id": "Q181075#1",
+  "species": "Krab světlonohý",
+  "latin": "Grapsus grapsus",
+  "text": "Mladí jedinci se dobře maskují na černých lávových pobřežích.",
+  "quote": "a dobře se maskují na černých lávových pobřežích sopečných ostrovů.",
+  "claimed_false_for": {
+   "Q107078367": "Rak pruhovaný (Faxonius limosus)",
+   "Q1133124": "Rak červený (Procambarus clarkii)",
+   "Q1135229": "Žábronožka solná (Artemia salina)",
+   "Q1317340": "Listonoh jarní (Lepidurus apus)",
+   "Q134974": "Světélkovec atlantský (Meganyctiphanes norvegica)",
+   "Q1519675": "Rak mexický (Cambarellus patzcuarensis)",
+   "Q1573371": "Stínka zední (Oniscus asellus)",
+   "Q571290": "Rak bahenní (Astacus leptodactylus)",
+   "Q823941": "Krab říční (Eriocheir sinensis)"
+  }
+ },
+ {
+  "id": "Q206070#0",
+  "species": "Krab palmový",
+  "latin": "Birgus latro",
+  "text": "Dokáže ulovit i menší obratlovce.",
+  "quote": "dokáže ulovit i menší obratlovce.",
+  "claimed_false_for": {
+   "Q1135229": "Žábronožka solná (Artemia salina)",
+   "Q1646839": "Stínka mechová (Philoscia muscorum)",
+   "Q2716301": "Vilejš stvolnatý (Lepas anatifera)",
+   "Q2798958": "Stínka drobná (Lepidoniscus minutus)"
+  }
+ },
+ {
+  "id": "Q206070#1",
+  "species": "Krab palmový",
+  "latin": "Birgus latro",
+  "text": "Dožívá se až šedesáti let.",
+  "quote": "Dožívá se až šedesáti let.",
+  "claimed_false_for": {
+   "Q107078367": "Rak pruhovaný (Faxonius limosus)",
+   "Q1133124": "Rak červený (Procambarus clarkii)",
+   "Q1135229": "Žábronožka solná (Artemia salina)",
+   "Q1317340": "Listonoh jarní (Lepidurus apus)",
+   "Q134974": "Světélkovec atlantský (Meganyctiphanes norvegica)",
+   "Q1519675": "Rak mexický (Cambarellus patzcuarensis)",
+   "Q1573371": "Stínka zední (Oniscus asellus)",
+   "Q823941": "Krab říční (Eriocheir sinensis)"
+  }
+ },
+ {
+  "id": "Q210959#3",
+  "species": "Rak říční",
+  "latin": "Astacus astacus",
+  "text": "Loví ho také norek americký nebo ondatra.",
+  "quote": "Nepůvodním predátorem je například norek americký či ondatra.",
+  "claimed_false_for": {
+   "Q1135229": "Žábronožka solná (Artemia salina)",
+   "Q134974": "Světélkovec atlantský (Meganyctiphanes norvegica)",
+   "Q273655": "Velekrab japonský (Macrocheira kaempferi)"
+  }
+ },
+ {
+  "id": "Q2716301#0",
+  "species": "Vilejš stvolnatý",
+  "latin": "Lepas anatifera",
+  "text": "Živí se filtrováním planktonu.",
+  "quote": "Živí se filtrováním planktonu.",
+  "claimed_false_for": {
+   "Q1300629": "Svinka obecná (Armadillidium vulgare)",
+   "Q1573371": "Stínka zední (Oniscus asellus)",
+   "Q181075": "Krab světlonohý (Grapsus grapsus)",
+   "Q210959": "Rak říční (Astacus astacus)",
+   "Q273655": "Velekrab japonský (Macrocheira kaempferi)",
+   "Q37668": "Humr americký (Homarus americanus)",
+   "Q43735": "Strašek paví (Odontodactylus scyllarus)",
+   "Q571290": "Rak bahenní (Astacus leptodactylus)"
+  }
+ },
+ {
+  "id": "Q2716301#1",
+  "species": "Vilejš stvolnatý",
+  "latin": "Lepas anatifera",
+  "text": "Přisedá na tělech želv a velryb.",
+  "quote": "na tělech želv a velryb",
+  "claimed_false_for": {
+   "Q1300629": "Svinka obecná (Armadillidium vulgare)",
+   "Q1317340": "Listonoh jarní (Lepidurus apus)",
+   "Q132808": "Listonoh letní (Triops cancriformis)",
+   "Q135052": "Listonoh americký (Triops longicaudatus)",
+   "Q1573371": "Stínka zední (Oniscus asellus)",
+   "Q181075": "Krab světlonohý (Grapsus grapsus)",
+   "Q210959": "Rak říční (Astacus astacus)",
+   "Q273655": "Velekrab japonský (Macrocheira kaempferi)",
+   "Q37668": "Humr americký (Homarus americanus)",
+   "Q43735": "Strašek paví (Odontodactylus scyllarus)",
+   "Q571290": "Rak bahenní (Astacus leptodactylus)",
+   "Q586336": "Beruška vodní (Asellus aquaticus)"
+  }
+ },
+ {
+  "id": "Q273655#0",
+  "species": "Velekrab japonský",
+  "latin": "Macrocheira kaempferi",
+  "text": "Živí se rostlinami i živočichy, převážně měkkýši.",
+  "quote": "Velekrab je všežravec, živí se jak rostlinami, tak živočichy, převážně měkkýši.",
+  "claimed_false_for": {
+   "Q1135229": "Žábronožka solná (Artemia salina)",
+   "Q2716301": "Vilejš stvolnatý (Lepas anatifera)"
+  }
+ },
+ {
+  "id": "Q27690#0",
+  "species": "Humr evropský",
+  "latin": "Homarus gammarus",
+  "text": "Dokáže klepety otevírat lastury mlžů, kterými se živí.",
+  "quote": "Dovede s nimi otevírat lastury mlžů, kterými se živí.",
+  "claimed_false_for": {
+   "Q1135229": "Žábronožka solná (Artemia salina)",
+   "Q1317340": "Listonoh jarní (Lepidurus apus)",
+   "Q134974": "Světélkovec atlantský (Meganyctiphanes norvegica)",
+   "Q1573371": "Stínka zední (Oniscus asellus)"
+  }
+ },
+ {
+  "id": "Q27690#1",
+  "species": "Humr evropský",
+  "latin": "Homarus gammarus",
+  "text": "Za potravou se vydává v noci.",
+  "quote": "Za potravou se vydává v noci.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q2798958#0",
+  "species": "Stínka drobná",
+  "latin": "Lepidoniscus minutus",
+  "text": "Žije v opadavé vrstvě listnatých a smíšených lesů.",
+  "quote": "Jde o lesní druh obývající opadavé vrstvy listnatých a smíšených lesů.",
+  "claimed_false_for": {
+   "Q107078367": "Rak pruhovaný (Faxonius limosus)",
+   "Q1135229": "Žábronožka solná (Artemia salina)",
+   "Q132808": "Listonoh letní (Triops cancriformis)",
+   "Q210959": "Rak říční (Astacus astacus)",
+   "Q273655": "Velekrab japonský (Macrocheira kaempferi)",
+   "Q287523": "Rak kamenáč (Austropotamobius torrentium)",
+   "Q37668": "Humr americký (Homarus americanus)",
+   "Q693000": "Rak signální (Pacifastacus leniusculus)",
+   "Q720597": "Krab bradavčitý (Eriphia verrucosa)",
+   "Q823941": "Krab říční (Eriocheir sinensis)"
+  }
+ },
+ {
+  "id": "Q2798958#1",
+  "species": "Stínka drobná",
+  "latin": "Lepidoniscus minutus",
+  "text": "Dýchá žaberními destičkami, proto musí žít ve vlhku.",
+  "quote": "Dýchá pomocí žaberních destiček vespodu zadečku, proto musí žít ve vlhkém prostředí.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q287523#4",
+  "species": "Rak kamenáč",
+  "latin": "Austropotamobius torrentium",
+  "text": "Norek americký loví tento druh.",
+  "quote": "predace přemnoženým nepůvodním druhem – norkem americkým",
+  "claimed_false_for": {
+   "Q1135229": "Žábronožka solná (Artemia salina)",
+   "Q134974": "Světélkovec atlantský (Meganyctiphanes norvegica)",
+   "Q2716301": "Vilejš stvolnatý (Lepas anatifera)",
+   "Q27690": "Humr evropský (Homarus gammarus)"
+  }
+ },
+ {
+  "id": "Q287523#5",
+  "species": "Rak kamenáč",
+  "latin": "Austropotamobius torrentium",
+  "text": "Pstruzi likvidují mladé jedince tohoto druhu.",
+  "quote": "pstruhů likvidujících mladé jedince",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q287523#6",
+  "species": "Rak kamenáč",
+  "latin": "Austropotamobius torrentium",
+  "text": "Plíseň způsobující račí mor ohrožuje tento druh.",
+  "quote": "jehož původcem je plíseň Aphanomyces astaci",
+  "claimed_false_for": {
+   "Q107078367": "Rak pruhovaný (Faxonius limosus)",
+   "Q1135229": "Žábronožka solná (Artemia salina)",
+   "Q134974": "Světélkovec atlantský (Meganyctiphanes norvegica)",
+   "Q1646839": "Stínka mechová (Philoscia muscorum)",
+   "Q2716301": "Vilejš stvolnatý (Lepas anatifera)",
+   "Q27690": "Humr evropský (Homarus gammarus)",
+   "Q2798958": "Stínka drobná (Lepidoniscus minutus)",
+   "Q492178": "Blešivec obecný (Gammarus pulex)"
+  }
+ },
+ {
+  "id": "Q37668#6",
+  "species": "Humr americký",
+  "latin": "Homarus americanus",
+  "text": "Může jíst také kraby, žahavce a malé ryby.",
+  "quote": "včetně jiných korýšů (jako jsou krabi (Brachyura)), hadic (Ophiuroidea), žahavců (Cnidaria) a malých ryb (Pisces)",
+  "claimed_false_for": {
+   "Q1135229": "Žábronožka solná (Artemia salina)",
+   "Q134974": "Světélkovec atlantský (Meganyctiphanes norvegica)",
+   "Q1646839": "Stínka mechová (Philoscia muscorum)",
+   "Q2716301": "Vilejš stvolnatý (Lepas anatifera)",
+   "Q2798958": "Stínka drobná (Lepidoniscus minutus)"
+  }
+ },
+ {
+  "id": "Q37668#7",
+  "species": "Humr americký",
+  "latin": "Homarus americanus",
+  "text": "Tento druh se živí i mrtvými živočichy a řasami.",
+  "quote": "Živí se také mrtvými živočichy, řasami a vochou (Zostera).",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q37668#8",
+  "species": "Humr americký",
+  "latin": "Homarus americanus",
+  "text": "Bakterie způsobuje u tohoto druhu nemoc zvanou červenoosací choroba.",
+  "quote": "způsobené bakterií Aerococcus viridans",
+  "claimed_false_for": {
+   "Q1135229": "Žábronožka solná (Artemia salina)",
+   "Q134974": "Světélkovec atlantský (Meganyctiphanes norvegica)",
+   "Q1646839": "Stínka mechová (Philoscia muscorum)",
+   "Q2716301": "Vilejš stvolnatý (Lepas anatifera)",
+   "Q2798958": "Stínka drobná (Lepidoniscus minutus)",
+   "Q492178": "Blešivec obecný (Gammarus pulex)"
+  }
+ },
+ {
+  "id": "Q43735#2",
+  "species": "Strašek paví",
+  "latin": "Odontodactylus scyllarus",
+  "text": "Loví malé rybičky a jiné korýše.",
+  "quote": "požírá malé rybičky a ostatní korýše",
+  "claimed_false_for": {
+   "Q1300629": "Svinka obecná (Armadillidium vulgare)",
+   "Q2716301": "Vilejš stvolnatý (Lepas anatifera)",
+   "Q2798958": "Stínka drobná (Lepidoniscus minutus)",
+   "Q586336": "Beruška vodní (Asellus aquaticus)"
+  }
+ },
+ {
+  "id": "Q4483881#0",
+  "species": "Krevetka kroužková",
+  "latin": "Macrobrachium assamense",
+  "text": "Žije ve Východním Himálaji.",
+  "quote": "je druh krevety vyskytující se ve Východním Himálaji.",
+  "claimed_false_for": {
+   "Q107078367": "Rak pruhovaný (Faxonius limosus)",
+   "Q1133124": "Rak červený (Procambarus clarkii)",
+   "Q1135229": "Žábronožka solná (Artemia salina)",
+   "Q1317340": "Listonoh jarní (Lepidurus apus)",
+   "Q134974": "Světélkovec atlantský (Meganyctiphanes norvegica)",
+   "Q1519675": "Rak mexický (Cambarellus patzcuarensis)",
+   "Q1573371": "Stínka zední (Oniscus asellus)",
+   "Q273655": "Velekrab japonský (Macrocheira kaempferi)",
+   "Q571290": "Rak bahenní (Astacus leptodactylus)",
+   "Q720597": "Krab bradavčitý (Eriphia verrucosa)",
+   "Q823941": "Krab říční (Eriocheir sinensis)"
+  }
+ },
+ {
+  "id": "Q4483881#1",
+  "species": "Krevetka kroužková",
+  "latin": "Macrobrachium assamense",
+  "text": "Po výměně krunýře vyhledává úkryt před predátory.",
+  "quote": "Těsně po výměně krunýře jsou krevetky velmi zranitelné a vyhledávají úkryt před predátory.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q492178#0",
+  "species": "Blešivec obecný",
+  "latin": "Gammarus pulex",
+  "text": "Tento druh se živí hlavně spadaným listím z listnatých stromů.",
+  "quote": "Hlavním zdrojem potravy tohoto druhu je obvykle spadané listí z listnatých stromů, které spadlo do vody.",
+  "claimed_false_for": {
+   "Q134974": "Světélkovec atlantský (Meganyctiphanes norvegica)",
+   "Q181075": "Krab světlonohý (Grapsus grapsus)",
+   "Q27690": "Humr evropský (Homarus gammarus)",
+   "Q43735": "Strašek paví (Odontodactylus scyllarus)"
+  }
+ },
+ {
+  "id": "Q492178#1",
+  "species": "Blešivec obecný",
+  "latin": "Gammarus pulex",
+  "text": "Tento druh se živí i larvami jepic.",
+  "quote": "Živí se však larvami jepic",
+  "claimed_false_for": {
+   "Q134974": "Světélkovec atlantský (Meganyctiphanes norvegica)",
+   "Q27690": "Humr evropský (Homarus gammarus)",
+   "Q43735": "Strašek paví (Odontodactylus scyllarus)"
+  }
+ },
+ {
+  "id": "Q492178#2",
+  "species": "Blešivec obecný",
+  "latin": "Gammarus pulex",
+  "text": "Ochotně jí i mršiny, například uhynulé ryby.",
+  "quote": "přijímají i mršiny, např. uhynulé ryby.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q492178#3",
+  "species": "Blešivec obecný",
+  "latin": "Gammarus pulex",
+  "text": "Samice nosí vajíčka v snůškovém vaku na břiše.",
+  "quote": "Samice neklade vajíčka volně, ale do snůškového vaku (marsupia) na břišní straně těla, ve kterém je pak nosí s sebou.",
+  "claimed_false_for": {
+   "Q1133124": "Rak červený (Procambarus clarkii)",
+   "Q27690": "Humr evropský (Homarus gammarus)",
+   "Q61642001": "Rak mramorovaný (Procambarus virginalis)"
+  }
+ },
+ {
+  "id": "Q492178#4",
+  "species": "Blešivec obecný",
+  "latin": "Gammarus pulex",
+  "text": "Dává přednost tekoucím vodám.",
+  "quote": "zjevně dává přednost tekoucím vodám",
+  "claimed_false_for": {
+   "Q132808": "Listonoh letní (Triops cancriformis)",
+   "Q134974": "Světélkovec atlantský (Meganyctiphanes norvegica)",
+   "Q1573371": "Stínka zední (Oniscus asellus)",
+   "Q181075": "Krab světlonohý (Grapsus grapsus)",
+   "Q27690": "Humr evropský (Homarus gammarus)",
+   "Q2798958": "Stínka drobná (Lepidoniscus minutus)",
+   "Q43735": "Strašek paví (Odontodactylus scyllarus)"
+  }
+ },
+ {
+  "id": "Q492178#5",
+  "species": "Blešivec obecný",
+  "latin": "Gammarus pulex",
+  "text": "Většina jedinců nežije déle než jeden rok.",
+  "quote": "většina jedinců však nežije déle než jeden rok",
+  "claimed_false_for": {
+   "Q27690": "Humr evropský (Homarus gammarus)",
+   "Q43735": "Strašek paví (Odontodactylus scyllarus)"
+  }
+ },
+ {
+  "id": "Q571290#4",
+  "species": "Rak bahenní",
+  "latin": "Astacus leptodactylus",
+  "text": "Jí v dospělosti rostliny, například vodní mor, rdest nebo stolístek.",
+  "quote": "V dospělosti tvoří až 80% račího jídelníčku rostlinná strava s obsahem vápníku – vodní mor, růžkatec, rdest, stolístek",
+  "claimed_false_for": {
+   "Q1135229": "Žábronožka solná (Artemia salina)",
+   "Q134974": "Světélkovec atlantský (Meganyctiphanes norvegica)",
+   "Q2716301": "Vilejš stvolnatý (Lepas anatifera)",
+   "Q27690": "Humr evropský (Homarus gammarus)"
+  }
+ },
+ {
+  "id": "Q571290#5",
+  "species": "Rak bahenní",
+  "latin": "Astacus leptodactylus",
+  "text": "Největšími nepřáteli tohoto druhu jsou vydra říční a norek americký.",
+  "quote": "vydra říční (Lutra lutra) a norek americký (Mustela vison)",
+  "claimed_false_for": {
+   "Q1135229": "Žábronožka solná (Artemia salina)",
+   "Q134974": "Světélkovec atlantský (Meganyctiphanes norvegica)",
+   "Q2716301": "Vilejš stvolnatý (Lepas anatifera)",
+   "Q27690": "Humr evropský (Homarus gammarus)"
+  }
+ }
+]

@@ -1,0 +1,37 @@
+[
+ {
+  "id": "Q1140786#0",
+  "species": "Hvězdice amurská",
+  "latin": "Asterias amurensis",
+  "text": "Tento druh dorůstá až do půl metru.",
+  "quote": "její velikost se vyšplhá až na půl metru",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1140786#1",
+  "species": "Hvězdice amurská",
+  "latin": "Asterias amurensis",
+  "text": "Tento druh patří mezi 100 nejhorších invazních druhů světa.",
+  "quote": "zařazena na seznam 100 nejhorších invazních druhů světa",
+  "claimed_false_for": {
+   "Q822952": "Hvězdice síťovaná (Oreaster reticulatus)",
+   "Q882716": "Hvězdice modrá (Linckia laevigata)"
+  }
+ },
+ {
+  "id": "Q822952#0",
+  "species": "Hvězdice síťovaná",
+  "latin": "Oreaster reticulatus",
+  "text": "Dorůstá až 50 centimetrů.",
+  "quote": "dorůstá někdy až 50 centimetrů",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q882716#0",
+  "species": "Hvězdice modrá",
+  "latin": "Linckia laevigata",
+  "text": "Tento druh dosahuje velikosti kolem 30 až 40 cm.",
+  "quote": "Velikost těla dosahuje kolem 30–40 cm.",
+  "claimed_false_for": {}
+ }
+]

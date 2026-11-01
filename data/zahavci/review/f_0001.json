@@ -1,0 +1,11 @@
+{"drop_facts": [
+  {"id": "Q2470250#0", "why": "Vynechává pokračování citace (umí lapat i větší kořist); 'nejdrobnější organismy' je nepřesné a nejasné."},
+  {"id": "Q2470250#1", "why": "Nejasný podmět; 'člověku neublíží' je příliš silné, žahnutí může způsobit podráždění kůže."},
+  {"id": "Q310432#0", "why": "Zavádějící: období říjen-květen platí jen pro sezónu medúz, polypy žijí celoročně; výskyt je hlavně severní Austrálie a Indopacifik, ne 'kolem Austrálie'."},
+  {"id": "Q580826#0", "why": "Biologicky chybné: Actinia equina žije přichycená na skalách, symbióza s poustevníčky je typická pro jiné sasanky (Calliactis, Adamsia)."}
+], "drop_pairs": [
+  {"id": "Q310432#1", "species": "Q522939"},
+  {"id": "Q310432#1", "species": "Q580826"},
+  {"id": "Q310432#1", "species": "Q935234"},
+  {"id": "Q522939#4", "species": "Q2470250"}
+]}

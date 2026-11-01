@@ -1,0 +1,389 @@
+[
+ {
+  "id": "Q1029175#4",
+  "species": "Pcháč bělohlavý",
+  "latin": "Cirsium eriophorum",
+  "text": "Larvy hmyzu žijící v jeho úborech mohou zničit část semen.",
+  "quote": "zničena larvami hmyzu žijící paraziticky v úborech",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1029175#5",
+  "species": "Pcháč bělohlavý",
+  "latin": "Cirsium eriophorum",
+  "text": "Plži také požírají jeho mladé listy.",
+  "quote": "Mladé listy požírají i plži.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1029175#6",
+  "species": "Pcháč bělohlavý",
+  "latin": "Cirsium eriophorum",
+  "text": "Ovce a kozy žerou jeho mladé listy.",
+  "quote": "hlavně ovcemi a kozami",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1031875#4",
+  "species": "Růže Woodsova",
+  "latin": "Rosa woodsii",
+  "text": "Ptáci a drobní savci jedí šípky a roznášejí semena.",
+  "quote": "které konzumují a rozšiřují ptáci a drobní savci",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1031875#5",
+  "species": "Růže Woodsova",
+  "latin": "Rosa woodsii",
+  "text": "Zvěř sbírá šípky, které zůstávají na keři až do zimy.",
+  "quote": "zralé šípky zůstávají na keři dlouho do zimy, dokud je neobere zvěř",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1033449#0",
+  "species": "Ostružiník ježiník",
+  "latin": "Rubus caesius",
+  "text": "Kvete od května do července.",
+  "quote": "Kvete od května do července",
+  "claimed_false_for": {
+   "Q147492": "Jilm vaz (Ulmus laevis)"
+  }
+ },
+ {
+  "id": "Q1033449#1",
+  "species": "Ostružiník ježiník",
+  "latin": "Rubus caesius",
+  "text": "Roste na suchých i zamokřených místech a tvoří neprostupné houštiny.",
+  "quote": "Roste hojně v suchých i zamokřených biotopech, kde tvoří neprostupné houštiny.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1034504#0",
+  "species": "Kerblík lesklý",
+  "latin": "Anthriscus nitida",
+  "text": "Kvete mezi červnem a srpnem.",
+  "quote": "kvete mezi červnem a srpnem",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1034504#1",
+  "species": "Kerblík lesklý",
+  "latin": "Anthriscus nitida",
+  "text": "Vyskytuje se v horách střední a jihovýchodní Evropy.",
+  "quote": "je horský druh rozšířený v horách střední a jihovýchodní Evropy",
+  "claimed_false_for": {
+   "Q41505": "Lokvát japonský (Eriobotrya japonica)"
+  }
+ },
+ {
+  "id": "Q1035400#4",
+  "species": "Kalužník šruchový",
+  "latin": "Lythrum portula",
+  "text": "Hmyz nebo voda roznášejí jeho semena.",
+  "quote": "semeny roznášenými hmyzem nebo vodou",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q10360891#0",
+  "species": "Kakost nachový",
+  "latin": "Geranium purpureum",
+  "text": "Květy mají v průměru 4–8 mm.",
+  "quote": "Tmavě purpurové květy mají v průměru 4–8 mm",
+  "claimed_false_for": {
+   "Q158387": "Kakost krvavý (Geranium sanguineum)",
+   "Q158542": "Kakost hnědočervený (Geranium phaeum)",
+   "Q160096": "Kakost smrdutý (Geranium robertianum)",
+   "Q3898877": "Pelargonie páskatá (Pelargonium zonale)"
+  }
+ },
+ {
+  "id": "Q10360891#1",
+  "species": "Kakost nachový",
+  "latin": "Geranium purpureum",
+  "text": "Roste v křovinách, řídkých trávnících, suchých skalách a zdech.",
+  "quote": "Roste v křovinách, řídkých trávnících a nebo suchých skalách a zdech.",
+  "claimed_false_for": {
+   "Q131226": "Čočka jedlá (Lens culinaris)"
+  }
+ },
+ {
+  "id": "Q104212#4",
+  "species": "Chmel otáčivý",
+  "latin": "Humulus lupulus",
+  "text": "Mšice saje šťávy z jeho listů.",
+  "quote": "Mšice chmelová (Phorodon humuli) na spodní straně listů saje rostlinné šťávy",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q104212#5",
+  "species": "Chmel otáčivý",
+  "latin": "Humulus lupulus",
+  "text": "Sviluška saje listy a dělá na nich puchýře.",
+  "quote": "Sviluška chmelová (Tetranychus urticae) sáním na listech způsobuje puchýře",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q104212#6",
+  "species": "Chmel otáčivý",
+  "latin": "Humulus lupulus",
+  "text": "Houbová plíseň napadá jeho výhony a listy.",
+  "quote": "Plíseň chmelová (Pseudoperonospora humuli) je houbová choroba, která napadá výhony, listy a následně hlávky.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1055493#4",
+  "species": "Svícník rozšířený",
+  "latin": "Ceropegia ampliata",
+  "text": "Okolní rostliny podpírají jeho slabé stonky.",
+  "quote": "Velmi často je obklopen jinou, stejné životní podmínky preferující vegetací, která jeho nepevné stonky podpírá.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1055493#5",
+  "species": "Svícník rozšířený",
+  "latin": "Ceropegia ampliata",
+  "text": "Opylující mouchy dostávají malé množství řídkého nektaru.",
+  "quote": "které odměnou dostávají malé množství řídkého nektaru",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1062389#4",
+  "species": "Hranoplod indický",
+  "latin": "Combretum indicum",
+  "text": "Na nové květy jako první nalétají lišajové s dlouhými sosáky.",
+  "quote": "jako první na ně nalétají lišajové s dlouhými sosáky",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1062389#5",
+  "species": "Hranoplod indický",
+  "latin": "Combretum indicum",
+  "text": "Liána se pne po okolních rostlinách, které jí slouží jako opora.",
+  "quote": "využívá okolních rostlin jako opory",
+  "claimed_false_for": {
+   "Q158468": "Pimentovník pravý (Pimenta dioica)",
+   "Q159253": "Vrbovka chlumní (Epilobium collinum)",
+   "Q159528": "Blahovičník kulatoplodý (Eucalyptus globulus)",
+   "Q159604": "Vrbovka čtyřhranná (Epilobium tetragonum)",
+   "Q159730": "Pochybek prodloužený (Androsace elongata)",
+   "Q160104": "Vrbovka úzkolistá (Chamaenerion angustifolium)",
+   "Q163314": "Kyprej prutnatý (Lythrum virgatum)",
+   "Q165104": "Vrbovka Lamyova (Epilobium lamyi)",
+   "Q2918709": "Manovec mouřenínský (Alhagi maurorum)",
+   "Q3062004": "Kvandong cypřišovitý (Exocarpos cupressiformis)",
+   "Q6122027": "Myrta obecná (Myrtus communis)"
+  }
+ },
+ {
+  "id": "Q1066106#4",
+  "species": "Maklura oranžová",
+  "latin": "Maclura pomifera",
+  "text": "Ptáci a volně žijící savci jedí jeho spadaná plodenství a semena v zimě.",
+  "quote": "Spadaná plodenství a jejich semena jsou nouzovou zimní potravou pro ptáky a volně žijící savce",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1066106#5",
+  "species": "Maklura oranžová",
+  "latin": "Maclura pomifera",
+  "text": "Zvířata roznášejí jeho nestrávená semena do okolí.",
+  "quote": "nestrávená semena jsou zvířaty roznášena do okolí",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q10692526#0",
+  "species": "Zimolez Tellmannův",
+  "latin": "Lonicera ×tellmanniana",
+  "text": "Je bohatým zdrojem nektaru a pylu pro včely.",
+  "quote": "Je bohatým zdrojem nektaru a pylu pro včely",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q10692526#1",
+  "species": "Zimolez Tellmannův",
+  "latin": "Lonicera ×tellmanniana",
+  "text": "Celá rostlina je jedovatá.",
+  "quote": "Plody jsou červené nebo černé bobule, které jsou jedovaté stejně jako celá rostlina.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q10701922#4",
+  "species": "Úpor trojmužný",
+  "latin": "Elatine triandra",
+  "text": "Květy nad vodou opyluje hmyz nebo vítr.",
+  "quote": "jsou opylovány klasickým přenosem pylu z prašníků na blizny, ať již za pomoci větru nebo hmyzu",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1074622#4",
+  "species": "Dymnivka plná",
+  "latin": "Corydalis solida",
+  "text": "Květy opyluje hmyz.",
+  "quote": "Květy opylí hmyz",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1079241#0",
+  "species": "Josta",
+  "latin": "Ribes ×nidigrolaria",
+  "text": "Vznikl, když pyl z angreštu opylil květy černého rybízu.",
+  "quote": "Vznikl tak, že květy černého rybízu byly opyleny pylem z květů angreštu.",
+  "claimed_false_for": {
+   "Q1017264": "Dub cesmínolistý (Quercus ilicifolia)",
+   "Q1074130": "Vilín měkký (Hamamelis mollis)",
+   "Q133850": "Lomikámen bažinný (Saxifraga hirculus)",
+   "Q1383317": "Netřesk brvitý (Sempervivum ciliosum)",
+   "Q149260": "Rybíz alpínský (Ribes alpinum)",
+   "Q157532": "Vrba trojmužná (Salix triandra)",
+   "Q159484": "Vrba šedá (Salix eleagnos)",
+   "Q161665": "Rozchodnice růžová (Rhodiola rosea)",
+   "Q164323": "Weigelie růžová (Weigela florida)",
+   "Q2705184": "Tlustice stromkovitá (Crassula arborescens)",
+   "Q41503": "Srstka angrešt (Ribes uva-crispa)",
+   "Q922370": "Rozchodníkovec nádherný (Hylotelephium spectabile)"
+  }
+ },
+ {
+  "id": "Q1079241#1",
+  "species": "Josta",
+  "latin": "Ribes ×nidigrolaria",
+  "text": "Plody jsou ve zralosti 1 až 3 centimetry velké a fialové.",
+  "quote": "Ve stádiu zralosti obvykle mívají velikost 1 až 3 centimetry a mívají fialovou barvu.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q108281267#0",
+  "species": "Jírovec Dupontův",
+  "latin": "Aesculus × dupontii",
+  "text": "Dorůstá do výšky asi 20 metrů.",
+  "quote": "dorůstá do výšky cca 20 m",
+  "claimed_false_for": {
+   "Q1328685": "Cesmína vroubkovaná (Ilex crenata)",
+   "Q141953": "Microcitrus australisica (Microcitrus australasica)",
+   "Q15634290": "Javor amurský (Acer ginnala)",
+   "Q163448": "Krasoskalník pyrenejský (Petrocallis pyrenaica)",
+   "Q164261": "Pryskyřník hajní (Ranunculus nemorosus)",
+   "Q34007": "Ledvinovník západní (Anacardium occidentale)",
+   "Q630904": "Štěničník paprskující (Bifora radians)"
+  }
+ },
+ {
+  "id": "Q108281267#1",
+  "species": "Jírovec Dupontův",
+  "latin": "Aesculus × dupontii",
+  "text": "Často se sází v parcích a zahradách.",
+  "quote": "bývá vysazován jako solitéra v parcích a zahradách",
+  "claimed_false_for": {
+   "Q159195": "Hořinka východní (Conringia orientalis)"
+  }
+ },
+ {
+  "id": "Q1084114#0",
+  "species": "Starček jarní",
+  "latin": "Senecio vernalis",
+  "text": "Kvete od dubna do června.",
+  "quote": "Kvete na písčitém podloží, rumištích, pasekách a loukách od dubna do června.",
+  "claimed_false_for": {
+   "Q116137": "Radyk prutnatý (Chondrilla juncea)",
+   "Q1640921": "Šťavel kozí noha (Oxalis pes-caprae)",
+   "Q2220315": "Sinokvět chrpovitý (Jurinea cyanoides)",
+   "Q857720": "Starčkovec jestřábníkolistý (Erechtites hieraciifolius)"
+  }
+ },
+ {
+  "id": "Q1084114#1",
+  "species": "Starček jarní",
+  "latin": "Senecio vernalis",
+  "text": "Obsahuje toxické látky, které jsou nebezpečné především pro dobytek.",
+  "quote": "které jsou nebezpečné především pro dobytek, u kterého způsobují otravy.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q10855099#0",
+  "species": "Čechrava zahradní",
+  "latin": "Astilbe × arendsii",
+  "text": "Vhodné pro pěstování je stanoviště v polostínu.",
+  "quote": "Vhodné pro pěstování je stanoviště v polostínu",
+  "claimed_false_for": {
+   "Q159471": "Rozchodník šestiřadý (Sedum sexangulare)",
+   "Q161724": "Netřesk střešní (Sempervivum tectorum)"
+  }
+ },
+ {
+  "id": "Q10855099#1",
+  "species": "Čechrava zahradní",
+  "latin": "Astilbe × arendsii",
+  "text": "Množí se dělením trsů.",
+  "quote": "Kultivary se množí vegetativně, dělením trsů.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q108684#4",
+  "species": "Violka vonná",
+  "latin": "Viola odorata",
+  "text": "Parazituje na něm mimo jiné hmyz bejlomorka.",
+  "quote": "Na violce vonné parazituje mj. hmyz rodu bejlomorka",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q108684#5",
+  "species": "Violka vonná",
+  "latin": "Viola odorata",
+  "text": "Larva bejlomorky žije v hálce.",
+  "quote": "Kolem nakladeného vajíčka se tvoří hálka. Larva v hálce je oranžově zbarvena.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q10878191#7",
+  "species": "Slivoň slíva",
+  "latin": "Prunus insititia",
+  "text": "Larvy tmavky švestkové se vyvíjejí v jádrech jeho pecek.",
+  "quote": "jehož larvy se vyvíjejí v jádrech pecek",
+  "claimed_false_for": {
+   "Q1033449": "Ostružiník ježiník (Rubus caesius)",
+   "Q13158": "Jahodník velkoplodý (Fragaria × ananassa)",
+   "Q147459": "Jeřáb břek (Sorbus torminalis)",
+   "Q1548650": "Kozí brada pochybná (Tragopogon dubius)",
+   "Q157347": "Krvavec toten (Sanguisorba officinalis)",
+   "Q158201": "Tavolník japonský (Spiraea japonica)",
+   "Q159191": "Laskavec krvavý (Amaranthus cruentus)",
+   "Q159553": "Hloh obecný (Crataegus laevigata)",
+   "Q160092": "Ostružiník moruška (Rubus chamaemorus)",
+   "Q164553": "Plamenka latnatá (Phlox paniculata)",
+   "Q4356004": "Ostružiník dřípený (Rubus laciniatus)",
+   "Q882650": "Locika vytrvalá (Lactuca perennis)"
+  }
+ },
+ {
+  "id": "Q1088271#5",
+  "species": "Habr východní",
+  "latin": "Carpinus orientalis",
+  "text": "Savci a ptáci jedí jeho drobné plody.",
+  "quote": "Drobné plody jsou oblíbeným pokrmem savců i ptáků",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1088271#6",
+  "species": "Habr východní",
+  "latin": "Carpinus orientalis",
+  "text": "V suchu jedí jeho listy dobytek, osli, kozy a ovce.",
+  "quote": "V období sucha, při nedostatku trávy pro pastvu, se jeho listy a mladé větvičky používají jako náhradní krmivo pro dobytek (osly, kozy, ovce), který je žere",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1096322#2",
+  "species": "Kyčelnice žláznatá",
+  "latin": "Cardamine glanduligera",
+  "text": "Hmyz hledající nektar roznáší pyl na jiné květy.",
+  "quote": "na hlavu hmyzu snažícího se dostat k nektaru a ten pak pyl roznáší na jiné květy",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q10998#7",
+  "species": "Lilek brambor",
+  "latin": "Solanum tuberosum",
+  "text": "Larvy mandelinky požírají jeho listy.",
+  "quote": "mandelinka bramborová, jejíž larvy požírají listy",
+  "claimed_false_for": {}
+ }
+]

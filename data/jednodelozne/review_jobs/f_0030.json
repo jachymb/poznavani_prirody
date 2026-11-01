@@ -1,0 +1,472 @@
+[
+ {
+  "id": "Q162470#1",
+  "species": "Bahnička drobná",
+  "latin": "Eleocharis parvula",
+  "text": "Roste na mělčinách stojatých či pomalu tekoucích vod.",
+  "quote": "Roste na mělčinách stojatých či pomalu tekoucích vod a na obnažených dnech rybníků.",
+  "claimed_false_for": {
+   "Q134926": "Puja Raimondova (Puya raimondii)",
+   "Q158117": "Vstavač osmahlý (Neotinea ustulata)",
+   "Q158237": "Ostřice prstnatá (Carex digitata)",
+   "Q159293": "Kruštík modrofialový (Epipactis purpurata)",
+   "Q163052": "Bér zelený (Setaria viridis)",
+   "Q199075": "Ensete habešské (Ensete ventricosum)"
+  }
+ },
+ {
+  "id": "Q162491#4",
+  "species": "Bika lesní",
+  "latin": "Luzula sylvatica",
+  "text": "Zajíci ji rádi jedí, když leží hodně sněhu.",
+  "quote": "Při vysoké sněhové pokrývce je oblíbenou potravou zajíců",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q162491#5",
+  "species": "Bika lesní",
+  "latin": "Luzula sylvatica",
+  "text": "Opyluje ho vítr nebo hmyz.",
+  "quote": "po větrosnubném nebo hmyzosnubném opylení",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q162755#4",
+  "species": "Vstavač vojenský",
+  "latin": "Orchis militaris",
+  "text": "Opylují ho blanokřídlý nebo dvoukřídlý hmyz.",
+  "quote": "květy jsou opylovány blanokřídlým nebo dvoukřídlým hmyzem",
+  "claimed_false_for": {
+   "Q157885": "Kostřava ovčí (Festuca ovina)",
+   "Q2086586": "Chrastice kanárská (Phalaris canariensis)",
+   "Q3338330": "Bahenka šášinovitá (Crypsis schoenoides)"
+  }
+ },
+ {
+  "id": "Q162924#0",
+  "species": "Česnek hadí",
+  "latin": "Allium victorialis",
+  "text": "Roste hlavně v horských oblastech.",
+  "quote": "Jeho domovem jsou hlavně horské oblasti od jihozápadní Evropy",
+  "claimed_false_for": {
+   "Q133818": "Větrobýl jedenapůlstopý (Angraecum sesquipedale)",
+   "Q158918": "Mařice pilovitá (Cladium mariscus)",
+   "Q161879": "Zblochan vodní (Glyceria maxima)"
+  }
+ },
+ {
+  "id": "Q162924#1",
+  "species": "Česnek hadí",
+  "latin": "Allium victorialis",
+  "text": "V Česku je tento druh vzácný a silně ohrožený.",
+  "quote": "V ČR to je vzácný a silně ohrožený druh, kategorie C2.",
+  "claimed_false_for": {
+   "Q157885": "Kostřava ovčí (Festuca ovina)",
+   "Q159299": "Kokořík mnohokvětý (Polygonatum multiflorum)",
+   "Q2086586": "Chrastice kanárská (Phalaris canariensis)",
+   "Q219500": "Haworthiopsis limifolia (Haworthia limifolia)",
+   "Q2667079": "Česnek aflatunský (Allium aflatunense)",
+   "Q3735732": "Česnek stopečkatý (Allium stipitatum)"
+  }
+ },
+ {
+  "id": "Q163050#0",
+  "species": "Tulipán planý",
+  "latin": "Tulipa sylvestris",
+  "text": "Kvete od konce dubna do poloviny května.",
+  "quote": "Doba květu je od konce dubna do poloviny května",
+  "claimed_false_for": {
+   "Q156363": "Lilie zlatohlavá (Lilium martagon)",
+   "Q159811": "Lilie bělostná (Lilium candidum)",
+   "Q161311": "Sveřep vzpřímený (Bromus erectus)",
+   "Q763872": "Kuňucha (Ambrosina bassii)"
+  }
+ },
+ {
+  "id": "Q163050#1",
+  "species": "Tulipán planý",
+  "latin": "Tulipa sylvestris",
+  "text": "Roste ve světlých, zvláště listnatých lesích a v křovinách.",
+  "quote": "Roste ve světlých, zvláště listnatých lesích a v křovinách",
+  "claimed_false_for": {
+   "Q158234": "Ostřice latnatá (Carex paniculata)",
+   "Q161311": "Sveřep vzpřímený (Bromus erectus)",
+   "Q3847968": "Vousatka prstnatá (Bothriochloa ischaemum)"
+  }
+ },
+ {
+  "id": "Q163052#6",
+  "species": "Bér zelený",
+  "latin": "Setaria viridis",
+  "text": "Zastiňuje pěstované rostliny a bere jim vodu a živiny.",
+  "quote": "které pěstované rostliny utlačují, zastiňují a obírají o vláhu a živiny",
+  "claimed_false_for": {
+   "Q162030": "Řezan pilolistý (Stratiotes aloides)",
+   "Q162425": "Ostřice nízká (Carex humilis)",
+   "Q164827": "Ostřice ptačí nožka (Carex ornithopoda)",
+   "Q164843": "Ostřice vláskovitá (Carex capillaris)"
+  }
+ },
+ {
+  "id": "Q163052#7",
+  "species": "Bér zelený",
+  "latin": "Setaria viridis",
+  "text": "Zvířata ráda žerou jeho mladé rostlinky.",
+  "quote": "Mladé rostlinky jsou poměrně dobrá pícnina a zvířata je ráda zkrmují",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q163086#0",
+  "species": "Tajnička rýžovitá",
+  "latin": "Leersia oryzoides",
+  "text": "Dorůstá zpravidla do výšky 30–120 cm.",
+  "quote": "Dorůstá výšek zpravidla 30–120 cm",
+  "claimed_false_for": {
+   "Q162300": "Kosatec nízký (Iris pumila)",
+   "Q839349": "Ostřice malokvětá (Carex parviflora)"
+  }
+ },
+ {
+  "id": "Q163086#1",
+  "species": "Tajnička rýžovitá",
+  "latin": "Leersia oryzoides",
+  "text": "Roste hlavně na březích vod a na říčních náplavách.",
+  "quote": "Jejím stanovištěm jsou hlavně břehy vod a říční náplavy.",
+  "claimed_false_for": {
+   "Q10641333": "Česnek převislý (Allium cernuum)",
+   "Q161098": "Pšenice setá (Triticum aestivum)",
+   "Q161800": "Sveřep stoklasa (Bromus secalinus)",
+   "Q163946": "Modřenec chocholatý (Muscari comosum)",
+   "Q1746442": "Toulitka Scherzerova (Anthurium scherzerianum)"
+  }
+ },
+ {
+  "id": "Q163312#0",
+  "species": "Česnek podivný",
+  "latin": "Allium paradoxum",
+  "text": "Jeho domovina je na Kavkaze, v horách Turkmenistánu a severního Íránu.",
+  "quote": "Druh má svojí domovinu na Kavkaze, v horách Turkmenistánu a severního Íránu.",
+  "claimed_false_for": {
+   "Q1129703": "Rákosovka (Hakonechloa macra)",
+   "Q159221": "Agáve sisalová (Agave sisalana)",
+   "Q159784": "Šášina rezavá (Schoenus ferrugineus)"
+  }
+ },
+ {
+  "id": "Q163312#1",
+  "species": "Česnek podivný",
+  "latin": "Allium paradoxum",
+  "text": "Tento druh se někdy pěstuje jako okrasná rostlina.",
+  "quote": "Je někdy pěstován jako okrasná rostlina",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q163411#4",
+  "species": "Křivatec český",
+  "latin": "Gagea bohemica",
+  "text": "Hmyz se slétá na jeho květy pro nektar i pyl.",
+  "quote": "Na květy se slétá hmyz pro nektar i pyl.",
+  "claimed_false_for": {
+   "Q159405": "Ostřice řídkoklasá (Carex remota)",
+   "Q159815": "Ovsík vyvýšený (Arrhenatherum elatius)"
+  }
+ },
+ {
+  "id": "Q163539#4",
+  "species": "Hnědenec zvrhlý",
+  "latin": "Limodorum abortivum",
+  "text": "Opylují ho někdy samotářské včely pelonosky.",
+  "quote": "bývají někdy opylovány samotářskými včelami pelonoskami",
+  "claimed_false_for": {
+   "Q159247": "Ostřice Otrubova (Carex otrubae)"
+  }
+ },
+ {
+  "id": "Q163539#5",
+  "species": "Hnědenec zvrhlý",
+  "latin": "Limodorum abortivum",
+  "text": "Houba, ze které se živí, žije v symbióze se stromy.",
+  "quote": "se stromem vytváří tzv. ektomykorhizu",
+  "claimed_false_for": {
+   "Q1424440": "Denivka plavá (Hemerocallis fulva)",
+   "Q1545525": "Tulipán Greigův (Tulipa greigii)",
+   "Q159247": "Ostřice Otrubova (Carex otrubae)",
+   "Q159274": "Bělozářka liliovitá (Anthericum liliago)",
+   "Q161099": "Česnek ořešec (Allium scorodoprasum)",
+   "Q161115": "Agáve obecná (Agave americana)",
+   "Q165077": "Šafrán jarní (Crocus vernus)"
+  }
+ },
+ {
+  "id": "Q163539#6",
+  "species": "Hnědenec zvrhlý",
+  "latin": "Limodorum abortivum",
+  "text": "Semena při klíčení potřebují látky od houby.",
+  "quote": "závislá na přísunu uhlíkatých látek od houbového endofytu",
+  "claimed_false_for": {
+   "Q101711": "Konvalinka vonná (Convallaria majalis)",
+   "Q157428": "Hyacint východní (Hyacinthus orientalis)",
+   "Q158109": "Psárka polní (Alopecurus myosuroides)",
+   "Q158868": "Řečanka přímořská (Najas marina)",
+   "Q161013": "Zblochanec oddálený (Puccinellia distans)",
+   "Q17235117": "Kosatec písečný (Iris arenaria)",
+   "Q2425310": "Šáchor dlouhý (Cyperus longus)",
+   "Q2602766": "Česnek zlatožlutý (Allium moly)"
+  }
+ },
+ {
+  "id": "Q163963#4",
+  "species": "Psineček výběžkatý",
+  "latin": "Agrostis stolonifera",
+  "text": "Na větší vzdálenosti ho šíří i zvířata.",
+  "quote": "přenosem zemědělskou technikou či zvířaty",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q164122#4",
+  "species": "Proso vláskovité",
+  "latin": "Panicum capillare",
+  "text": "Skot sežere jeho semena a některá vyjdou trusem živá.",
+  "quote": "Při pokusech s krmením skotu bylo zjištěno okolo 5 % živých obilek nalezených v jejích exkrementech.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q164237#0",
+  "species": "Třeslice prostřední",
+  "latin": "Briza media",
+  "text": "Roste na suchých loukách, pastvinách a lesních okrajích.",
+  "quote": "Suché louky, pastviny, lesní okraje.",
+  "claimed_false_for": {
+   "Q112520": "Anubis zakrslý (Anubias barteri)",
+   "Q15238126": "Skrytěnka bodlinatá (Crypsis aculeata)",
+   "Q159021": "Ostřice nedošáchor (Carex pseudocyperus)",
+   "Q164181": "Přeslenice vodní (Hydrilla verticillata)"
+  }
+ },
+ {
+  "id": "Q164237#1",
+  "species": "Třeslice prostřední",
+  "latin": "Briza media",
+  "text": "Kvete od května do června.",
+  "quote": "Kvete od května do června",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q164827#0",
+  "species": "Ostřice ptačí nožka",
+  "latin": "Carex ornithopoda",
+  "text": "Dosahuje výšky obvykle 5 až 15 cm.",
+  "quote": "dosahující výšky nejčastěji 5–15 cm",
+  "claimed_false_for": {
+   "Q134926": "Puja Raimondova (Puya raimondii)",
+   "Q159027": "Třtina šedavá (Calamagrostis canescens)",
+   "Q199075": "Ensete habešské (Ensete ventricosum)",
+   "Q2379130": "Dračinka jižní (Cordyline australis)"
+  }
+ },
+ {
+  "id": "Q164827#1",
+  "species": "Ostřice ptačí nožka",
+  "latin": "Carex ornithopoda",
+  "text": "Kvete nejčastěji v dubnu a květnu.",
+  "quote": "Kvete nejčastěji v dubnu až v",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q164844#0",
+  "species": "Kosatec měňavý",
+  "latin": "Iris versicolor",
+  "text": "Listy i kořeny jsou jedovaté a mohou způsobit zánět žaludku a střev.",
+  "quote": "Listy i kořeny rostliny jsou jedovaté a mohou způsobit zánět žaludku a střev.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q164844#1",
+  "species": "Kosatec měňavý",
+  "latin": "Iris versicolor",
+  "text": "Kvetou od května do července.",
+  "quote": "Kvetou během května až července.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q165077#0",
+  "species": "Šafrán jarní",
+  "latin": "Crocus vernus",
+  "text": "Množí se pomocí dceřiných cibulek.",
+  "quote": "Množí se pomocí dceřiných cibulek.",
+  "claimed_false_for": {
+   "Q161158": "Modřenec širolistý (Muscari botryoides)"
+  }
+ },
+ {
+  "id": "Q165077#1",
+  "species": "Šafrán jarní",
+  "latin": "Crocus vernus",
+  "text": "Tento druh je původní v Alpách, v Pyrenejích a na Balkáně.",
+  "quote": "která je původní v Alpách, v Pyrenejích a na Balkáně",
+  "claimed_false_for": {
+   "Q1129703": "Rákosovka (Hakonechloa macra)",
+   "Q159221": "Agáve sisalová (Agave sisalana)",
+   "Q839611": "Puškinie ladoňkovitá (Puschkinia scilloides)"
+  }
+ },
+ {
+  "id": "Q1746442#4",
+  "species": "Toulitka Scherzerova",
+  "latin": "Anthurium scherzerianum",
+  "text": "V přírodě roste na stromech, jen se na ně přichytává.",
+  "quote": "epifytická na stromech, přičemž jejich hrubou kůru nebo dutiny používá pouze pro upevnění kořenů",
+  "claimed_false_for": {
+   "Q1400982": "Kohátka kalíškatá (Tofieldia calyculata)",
+   "Q1470418": "Žabníček vzplývavý (Luronium natans)",
+   "Q15295761": "Rdest Wrightův (Potamogeton wrightii)",
+   "Q15312475": "Kulkas zamiolistý (Zamioculcas zamiifolia)",
+   "Q156124": "Střevíčník pantoflíček (Cypripedium calceolus)",
+   "Q158842": "Bařička bahenní (Triglochin palustris)",
+   "Q159146": "Sveřep jalový (Bromus sterilis)",
+   "Q2037558": "Česnek růžový (Allium roseum)",
+   "Q208705": "Troskut prstnatý (Cynodon dactylon)",
+   "Q30968": "Árón italský (Arum italicum)",
+   "Q370566": "Rdest vzplývavý (Potamogeton natans)",
+   "Q836366": "Árón plamatý (Arum maculatum)"
+  }
+ },
+ {
+  "id": "Q1785436#0",
+  "species": "Tořič kyperský",
+  "latin": "Ophrys kotschyi",
+  "text": "Kvete na jaře, od konce února do začátku dubna.",
+  "quote": "Kvete od konce února do začátku dubna.",
+  "claimed_false_for": {
+   "Q1194889": "Aloe kapská (Aloe ferox)",
+   "Q12027920": "Kamyšník polní (Bolboschoenus planiculmis)",
+   "Q157426": "Kruštík širolistý pravý (Epipactis helleborine)",
+   "Q157435": "Vstavač mužský (Orchis mascula)",
+   "Q158160": "Ostřice Buxbaumova (Carex buxbaumii)",
+   "Q158168": "Ostřice lesní (Carex sylvatica)",
+   "Q158922": "Sklenobýl bezlistý (Epipogium aphyllum)",
+   "Q164542": "Mečík bahenní (Gladiolus palustris)"
+  }
+ },
+ {
+  "id": "Q1785436#1",
+  "species": "Tořič kyperský",
+  "latin": "Ophrys kotschyi",
+  "text": "Roste jen na Kypru a na některých řeckých ostrovech.",
+  "quote": "rostoucí pouze na Kypru a některých řeckých ostrovech v Egejském moři",
+  "claimed_false_for": {
+   "Q109995": "Sněženka podsněžník (Galanthus nivalis)",
+   "Q1253057": "Mečík střechovitý (Gladiolus imbricatus)",
+   "Q1426766": "Ječmenice písečná (Leymus arenarius)",
+   "Q15504195": "Ladoňka zářící (Scilla luciliae)",
+   "Q158190": "Ostřice obecná (Carex nigra)",
+   "Q159119": "Bledule letní (Leucojum aestivum)",
+   "Q159203": "Mnohokvět hroznatý (Kniphofia uvaria)",
+   "Q159953": "Paličkovec šedavý (Corynephorus canescens)",
+   "Q266732": "Vstavač řídkokvětý (Anacamptis laxiflora)",
+   "Q2993897": "Denivka žlutá (Hemerocallis lilioasphodelus)",
+   "Q673348": "Ravenala madagaskarská (Ravenala madagascariensis)",
+   "Q7224923": "Vanilovník plocholistý (Vanilla planifolia)"
+  }
+ },
+ {
+  "id": "Q1788480#0",
+  "species": "Žabník kopinatý",
+  "latin": "Alisma lanceolatum",
+  "text": "Roste přirozeně v Evropě a západní Asii.",
+  "quote": "roste přirozeně v Evropě a západní Asii",
+  "claimed_false_for": {
+   "Q164844": "Kosatec měňavý (Iris versicolor)"
+  }
+ },
+ {
+  "id": "Q1788480#1",
+  "species": "Žabník kopinatý",
+  "latin": "Alisma lanceolatum",
+  "text": "Květy se otevírají hlavně dopoledne.",
+  "quote": "Květy se otevírají hlavně dopoledne",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1932852#0",
+  "species": "Smldinec křídlatý",
+  "latin": "Dioscorea alata",
+  "text": "Hlízy mohou vážit až 10 kg.",
+  "quote": "které mohou dosáhnout až 10 kg",
+  "claimed_false_for": {
+   "Q12055152": "Snědek rozkladitý (Ornithogalum divergens)",
+   "Q1367838": "Prstnatec májový (Dactylorhiza majalis)",
+   "Q1460946": "Ostřice skloněná (Carex demissa)",
+   "Q158887": "Vodní mor americký (Elodea nuttallii)",
+   "Q159275": "Ladoňka dvoulistá (Scilla bifolia)",
+   "Q159734": "Ostřice bažinná (Carex limosa)",
+   "Q163312": "Česnek podivný (Allium paradoxum)",
+   "Q276262": "Pýr plazivý (Elymus repens)",
+   "Q28367": "Chřest lékařský (Asparagus officinalis)",
+   "Q3502763": "Česnek vysokohorský (Allium oreophilum)",
+   "Q4338343": "Ostřice pískomilná (Carex pseudobrizoides)",
+   "Q858360": "Čirok halabský (Sorghum halepense)"
+  }
+ },
+ {
+  "id": "Q1932852#1",
+  "species": "Smldinec křídlatý",
+  "latin": "Dioscorea alata",
+  "text": "Tento druh se šíří jako plevel ve Spojených státech.",
+  "quote": "V USA se šíří jako plevel.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1945905#5",
+  "species": "Kornoutice africká",
+  "latin": "Zantedeschia aethiopica",
+  "text": "Divoká prasata a dikobrazi se živí jeho oddenky.",
+  "quote": "Oddenky jsou oblíbenou potravou divokých prasat a dikobrazů",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1945905#7",
+  "species": "Kornoutice africká",
+  "latin": "Zantedeschia aethiopica",
+  "text": "Ptáci a hlodavci šíří jeho semena.",
+  "quote": "Pohlavně je šířena hlavně ptáky a hlodavci",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q199075#0",
+  "species": "Ensete habešské",
+  "latin": "Ensete ventricosum",
+  "text": "Může dosáhnout výšky šest až osm metrů.",
+  "quote": "Může dosahovat výšky šest až osm metrů.",
+  "claimed_false_for": {
+   "Q1443970": "Ostřice pevná (Carex firma)",
+   "Q15324975": "Kostus africký (Costus afer)",
+   "Q154500": "Závitka mnohokořenná (Spirodela polyrhiza)",
+   "Q157574": "Ostřice písečná (Carex arenaria)",
+   "Q159163": "Kamyšník přímořský (Bolboschoenus maritimus)",
+   "Q163559": "Dosna indická (Canna indica)",
+   "Q2938380": "Ostřice Buchananova (Carex buchananii)",
+   "Q33466": "Kardamovník obecný (Elettaria cardamomum)"
+  }
+ },
+ {
+  "id": "Q199075#1",
+  "species": "Ensete habešské",
+  "latin": "Ensete ventricosum",
+  "text": "Z řapíků se získává vlákno na tkaní rohoží.",
+  "quote": "z řapíků se získává vlákno používané ke tkaní rohoží",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1994229#0",
+  "species": "Motýlovec věncový",
+  "latin": "Hedychium coronarium",
+  "text": "Pochází z východní Asie.",
+  "quote": "Původně pochází z východní Asie, kde roste v horských oblastech Indie a Nepálu.",
+  "claimed_false_for": {
+   "Q15324975": "Kostus africký (Costus afer)",
+   "Q163559": "Dosna indická (Canna indica)",
+   "Q2938380": "Ostřice Buchananova (Carex buchananii)"
+  }
+ }
+]

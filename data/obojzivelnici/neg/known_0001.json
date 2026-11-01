@@ -1,0 +1,19 @@
+{"results": [
+{"id":"Q26395#0","false_for":[],"bad":false,"why":""},
+{"id":"Q31694#4","false_for":[],"bad":false,"why":""},
+{"id":"Q159404#5","false_for":[],"bad":false,"why":""},
+{"id":"Q15856#1","false_for":["Q146375","Q159404","Q215247","Q26395","Q337616","Q319393","Q31694","Q44324","Q243242","Q321087"],"bad":false,"why":""},
+{"id":"Q159404#2","false_for":[],"bad":false,"why":""},
+{"id":"Q215247#2","false_for":[],"bad":false,"why":""},
+{"id":"Q15856#0","false_for":[],"bad":false,"why":""},
+{"id":"Q146375#2","false_for":["Q159404","Q31694","Q215247","Q15856","Q26395"],"bad":true,"why":"Citace uvádí jen počet vajíček, šňůry v ní nejsou."},
+{"id":"Q319393#3","false_for":["Q215247","Q243242"],"bad":false,"why":""},
+{"id":"Q22718#0","false_for":[],"bad":false,"why":""},
+{"id":"Q27465#4","false_for":[],"bad":false,"why":""},
+{"id":"Q2142057#2","false_for":["Q15856","Q146375","Q159404","Q26395","Q215247","Q321087","Q739887"],"bad":false,"why":""},
+{"id":"Q337616#0","false_for":["Q319393"],"bad":false,"why":""},
+{"id":"Q321087#4","false_for":["Q319393","Q159404","Q15856","Q739887","Q31694","Q44324"],"bad":false,"why":""},
+{"id":"Q44324#4","false_for":["Q15856"],"bad":false,"why":""},
+{"id":"Q321087#5","false_for":["Q31694","Q26395","Q15856","Q319393","Q44324","Q243242","Q146375","Q159404","Q215247","Q739887"],"bad":false,"why":""},
+{"id":"Q146375#8","false_for":["Q15856","Q26395","Q215247"],"bad":true,"why":"Pulci žijící z uhynulých ryb je pochybné a dítě by to mohlo zmást."}
+]}

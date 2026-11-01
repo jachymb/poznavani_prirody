@@ -1,0 +1,164 @@
+{
+ "facts": [
+  {
+   "id": "Q3624860#0",
+   "species": "Sumka obecná",
+   "text": "Tento druh se přichycuje k podkladu levým bokem.",
+   "quote": "K substrátu se atypicky přichycují z levého boku"
+  },
+  {
+   "id": "Q10672222#1",
+   "species": "Podrepka vodní",
+   "text": "Samice klade vajíčka na okřehek.",
+   "quote": "Samice klade vajíčka na okřehek."
+  },
+  {
+   "id": "Q4921692#1",
+   "species": "Salpa řetězová",
+   "text": "Tento druh dosahuje velikosti až 33 cm.",
+   "quote": "dosahuje velikosti až 33 cm"
+  },
+  {
+   "id": "Q545813#0",
+   "species": "Mákovka vodní",
+   "text": "Tento druh se živí bakteriemi, řasami a pylovými zrny plovoucími na hladině.",
+   "quote": "Potrava druhu se skládá z bakterií, řas a pylových zrn plovoucích na hladině."
+  },
+  {
+   "id": "Q4921692#2",
+   "species": "Salpa řetězová",
+   "text": "Tímto druhem se živí mořské želvy, mořští ptáci a mnoho ryb.",
+   "quote": "mořské želvy, mořští ptáci a mnoho ryb"
+  },
+  {
+   "id": "Q3624860#1",
+   "species": "Sumka obecná",
+   "text": "Tento druh dosahuje velikosti 5 až 18 cm.",
+   "quote": "podlouhlé tělo dosahuje velikosti 5 až 18 cm"
+  },
+  {
+   "id": "Q2567701#0",
+   "species": "Sumka trubičkovitá",
+   "text": "Tento druh měří na délku asi 15 centimetrů.",
+   "quote": "Její vakovité tělo měří na délku asi 15 cm"
+  },
+  {
+   "id": "Q14856149#1",
+   "species": "Larvěnka obrovská",
+   "text": "Tento druh má modrošedé až tmavě modré tělo.",
+   "quote": "Tělo je šedomodře až tmavě modře zbarvené."
+  },
+  {
+   "id": "Q14856149#0",
+   "species": "Larvěnka obrovská",
+   "text": "Tento druh měří 6 až 9 milimetrů.",
+   "quote": "Délka těla je 6–9 mm."
+  },
+  {
+   "id": "Q837241#0",
+   "species": "Zřasenka středomořská",
+   "text": "Tento druh se živí filtrováním vody.",
+   "quote": "Jde o filtrátora, jenž tvoří povlaky na skalnatých dnech"
+  },
+  {
+   "id": "Q10672222#0",
+   "species": "Podrepka vodní",
+   "text": "Tento druh se živí listy okřehku menšího.",
+   "quote": "Druh se živí listy okřehku menšího."
+  },
+  {
+   "id": "Q837241#1",
+   "species": "Zřasenka středomořská",
+   "text": "Tento druh tvoří kolonie o průměru asi 10 cm.",
+   "quote": "na průměr měří asi 10 cm"
+  }
+ ],
+ "candidates": {
+  "Q4921692": {
+   "name": "Salpa řetězová",
+   "latin": "Thetys vagina",
+   "family": "Salpovci",
+   "lead": "Salpa řetězová (Thetys vagina) je druh pláštěnce ze třídy salp.\n\n\n== Taxonomie ==\nPopisnou autoritu salpy řetězové představuje německý přírodovědec Wilhelm Gottlieb Tilesius von Tilenau (1802). Salpa řetězová je jediným zástupcem rodu Thetys v čeledi salpovití (Salpidae). Druhové jméno vagina získala díky svému vzhledu velké duté trubice.\nVědecká synonyma k platnému jménu Thetys vagina jsou následující:\n\nSalpa (Thetys) vagina Tilesius, 1802\nSalpa costata Quoy & Gaimard, 1825\nSalpa herculea Dall,",
+   "facts": [
+    "Živí se tím, že filtruje vodu.",
+    "Tento druh dosahuje velikosti až 33 cm.",
+    "Tímto druhem se živí mořské želvy, mořští ptáci a mnoho ryb.",
+    "Australské langusty ho jedí a využívají k přepravě."
+   ]
+  },
+  "Q2567701": {
+   "name": "Sumka trubičkovitá",
+   "latin": "Ciona intestinalis",
+   "family": "Cionidae",
+   "lead": "Sumka trubičkovitá (Ciona intestinalis) je druh pláštěnce.\n\n\n== Popis ==\nSumka trubičkovitá představuje solitérně žijícího zástupce sumek, ačkoli často vyrůstá ve shlucích. Její vakovité tělo měří na délku asi 15 cm, velmi výrazné jsou sifony. Tělo je bezbarvé až průsvitné, s osmi, respektive šesti červenými pigmentovými skvrnami, které se objevují na ústí přijímacího, respektive vyvrhovacího sifonu.\nHojnost; malý kompaktní genom; existence planktonní larvy s pouze asi 2 600 buňkami, které podlé",
+   "facts": [
+    "Tento druh měří na délku asi 15 centimetrů.",
+    "Tento druh se dožívá až šesti měsíců, v zajetí i rok a půl."
+   ]
+  },
+  "Q10672222": {
+   "name": "Podrepka vodní",
+   "latin": "Sminthurides aquaticus",
+   "family": "Sminthurididae",
+   "lead": "Podrepka vodní (Sminthurides aquaticus) patří k nejmenším druhům členovců, druh je řazen k chvostoskokům z čeledi podrepkovití. Druh se dokáže s ohledem na svoji velikost pohybovat na vodní hladině.\n\n\n== Vzhled ==\nSamec je menší než samice, samec má půl milimetru a samice 1 milimetr. Tělo je průhledné a zbarvení se pohybuje ve škále od bílé, přes fialovou až po zelenou. Hruď a zadeček jsou spojené. Má dvě jednoduché oči. Tykadla mají 4 články, a u samce jsou tykadla uzpůsobena k přidržování sami",
+   "facts": [
+    "Tento druh se živí listy okřehku menšího.",
+    "Samice klade vajíčka na okřehek."
+   ]
+  },
+  "Q545813": {
+   "name": "Mákovka vodní",
+   "latin": "Podura aquatica",
+   "family": "mákovkovití",
+   "lead": "Mákovka vodní (Podura aquatica Linnaeus, 1758) je druh řádu chvostoskoci patřící jako jeden ze čtyř do čeledi mákovkovitých, společně s druhem Podura infernalis jediný žijící. Jedná se o hojný druh vyskytující se v holarktické oblasti.\nJde o výhradně vodní druh, který po celý svůj život žije na hladině stojatých vod. Dosahuje délky asi 1,5 milimetru; druh je obvykle modrošedé, někdy načernalé barvy. Potrava druhu se skládá z bakterií, řas a pylových zrn plovoucích na hladině.\nVyskytuje se i v Če",
+   "facts": [
+    "Tento druh se živí bakteriemi, řasami a pylovými zrny plovoucími na hladině."
+   ]
+  },
+  "Q837241": {
+   "name": "Zřasenka středomořská",
+   "latin": "Botryllus schlosseri",
+   "family": "Styelidae",
+   "lead": "Zřasenka středomořská (Botryllus schlosseri) je druh pláštěnce.\n\n\n== Popis ==\nZřasenka středomořská představuje koloniální sumku ze řádu zřasenek (Stolidobranchia). Nepohlavně vznikající kolonie této zřasenky jsou kulaté nebo laločnaté, na průměr měří asi 10 cm a tvoří ploché povlaky jen několik milimetrů silné. Zbarvení zřasenek je variabilní, s odstíny žluté, hnědé, zelené, modré, fialové či černé. Kolonii tvoří jednotliví zooidi, kteří sdílejí společný vyvrhovací otvor.\nDohromady utvářejí cha",
+   "facts": [
+    "Tento druh se živí filtrováním vody.",
+    "Tento druh tvoří kolonie o průměru asi 10 cm."
+   ]
+  },
+  "Q1534556": {
+   "name": "Sumka zlatoústá",
+   "latin": "Polycarpa aurata",
+   "family": "Styelidae",
+   "lead": "Sumka zlatoústá (Polycarpa aurata) je druh pláštěnce z čeledi zřasenkovití (Styelidae).\nVyskytuje se v tropických vodách Indického a Tichého oceánu od Srí Lanky a Malediv po Filipíny, Mikronésii, Šalomounovy ostrovy a Velký bariérový útes. Jde o jeden z nejběžnějších druhů Indo-Pacifiku.\nSumka zlatoústá patří mezi solitérně žijící sumky, v kontrastu s mnoha koloniálně žijícími zřasenkami anebo pospolitkami. Tělo měří na výšku asi 10 centimetrů, má fazolovitý tvar a po stranách je mírně zploštělé",
+   "facts": [
+    "Nepřáteli tohoto druhu jsou hlavně nahožábří.",
+    "Živí se filtrací vody."
+   ]
+  },
+  "Q14856149": {
+   "name": "Larvěnka obrovská",
+   "latin": "Tetrodontophora bielanensis",
+   "family": "Onychiuridae",
+   "lead": "Larvěnka obrovská (Tetrodontophora bielanensis) je druh chvostoskoka (Collembola) z čeledi larvěnkovití (Onychiuridae).\nVyskytuje se především v horských lesích střední, východní a jihovýchodní Evropy.\n\n\n== Popis ==\nDélka těla je 6–9 mm. To z ní činí jeden z největších a nejmohutnějších druhů své čeledi a zároveň největšího evropského chvostoskoka. S hmotností až 7 mg je nejtěžší evropský chvostoskok. Vnějším vzhledem připomíná stejnonožce, od nichž se však snadno odlišuje šesti nohama. Skákací ",
+   "facts": [
+    "Tento druh měří 6 až 9 milimetrů.",
+    "Tento druh má modrošedé až tmavě modré tělo.",
+    "Tento druh se živí rozloženými rostlinami, listím a dřevem.",
+    "Tento druh žije tři roky.",
+    "Tento druh jí houbová vlákna a mrtvá zvířata.",
+    "Tento druh se brání lepkavým sekretem, který zmate dravého střevlíka."
+   ]
+  },
+  "Q3624860": {
+   "name": "Sumka obecná",
+   "latin": "Ascidia mentula",
+   "family": "Ascidiidae",
+   "lead": "Sumka obecná (Ascidia mentula) je druh pláštěnce z čeledi sumkovití (Ascidiidae), jenž žije v regionu Středozemního moře a u evropského pobřeží včetně Norska a Velké Británie. Sumky rostou od nepatrných hloubek, kde vytvářejí početné agregace, až po hloubky přesahující 200 m. Žijí v zastíněných částech skalnatého dna, někdy se přichycují i ke kamenům, či dokonce chaluhám nebo schránkám velkých\nměkkýšů. K substrátu se atypicky přichycují z levého boku, v kontrastu s ostatními sumkami, které k pov",
+   "facts": [
+    "Tento druh se přichycuje k podkladu levým bokem.",
+    "Tento druh dosahuje velikosti 5 až 18 cm.",
+    "V jeho těle žije kreveta, se kterou je v symbióze."
+   ]
+  }
+ }
+}

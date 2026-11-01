@@ -1,0 +1,38 @@
+{
+ "drop_facts": [
+  {"id": "Q613177#4", "why": "slovo 'vak' prozrazuje název vakoplšík; nosí jen samice"},
+  {"id": "Q613177#5", "why": "průměr čtyř let ve volné přírodě je nepravděpodobný (spíš maximum kolem 5 let)"},
+  {"id": "Q6145#0", "why": "sporný údaj, běžně se uvádí asi 5000 až 7000 bodlin"},
+  {"id": "Q6145#1", "why": "přidává slovo 'hlavně', které v citaci není"},
+  {"id": "Q614947#0", "why": "sporná barva očí, obvykle se uvádějí hnědé"},
+  {"id": "Q614947#3", "why": "odporuje biologii, lori rodí obvykle 1 až 2 mláďata"},
+  {"id": "Q618026#0", "why": "'prasečí' prozrazuje název makak vepří"},
+  {"id": "Q622880#2", "why": "vynechává 'obvykle'; stáda bývají větší a nejsou to čistě rodinné skupiny"},
+  {"id": "Q622882#0", "why": "nepřesné, běžně se uvádí 11 až 15 pruhů"},
+  {"id": "Q623173#5", "why": "nemá jasný podmět, 'největší hrozba' je sporná a neměřitelná"},
+  {"id": "Q626023#0", "why": "množné číslo bez podmětu; vynechává získávání vody z tuků"}
+ ],
+ "drop_pairs": [
+  {"id": "Q613721#0", "species": "Q244172"},
+  {"id": "Q613721#1", "species": "Q687102"},
+  {"id": "Q613836#0", "species": "Q132072"},
+  {"id": "Q613836#1", "species": "Q817174"},
+  {"id": "Q613836#1", "species": "Q194198"},
+  {"id": "Q613836#1", "species": "Q602823"},
+  {"id": "Q614947#2", "species": "Q122783"},
+  {"id": "Q618026#1", "species": "Q425601"},
+  {"id": "Q622882#1", "species": "Q210872"},
+  {"id": "Q623173#2", "species": "Q221056"},
+  {"id": "Q623173#4", "species": "Q328809"},
+  {"id": "Q623173#4", "species": "Q460977"},
+  {"id": "Q623389#0", "species": "Q26838"},
+  {"id": "Q623389#0", "species": "Q668030"},
+  {"id": "Q623466#0", "species": "Q1017417"},
+  {"id": "Q623466#0", "species": "Q216871"},
+  {"id": "Q626023#2", "species": "Q241256"},
+  {"id": "Q626023#2", "species": "Q245305"},
+  {"id": "Q626023#2", "species": "Q584064"},
+  {"id": "Q626023#2", "species": "Q626049"},
+  {"id": "Q626023#2", "species": "Q747238"}
+ ]
+}

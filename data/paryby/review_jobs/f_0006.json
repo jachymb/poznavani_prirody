@@ -1,0 +1,245 @@
+[
+ {
+  "id": "Q129026#6",
+  "species": "Žralok bílý",
+  "latin": "Carcharodon carcharias",
+  "text": "Mláďata měří při narození obvykle přes metr.",
+  "quote": "Velikost mláďat při narození je obvykle více než 1 metr",
+  "claimed_false_for": {
+   "Q188212": "Žralok tygří (Galeocerdo cuvier)",
+   "Q190469": "Žralok bělavý (Carcharhinus leucas)",
+   "Q192158": "Žralok mako (Isurus oxyrinchus)",
+   "Q26337": "Žralok modrý (Prionace glauca)",
+   "Q318090": "Žralok dlouhoploutvý (Carcharhinus longimanus)",
+   "Q726384": "Žralok černoploutvý (Carcharhinus melanopterus)",
+   "Q80378": "Žralok obrovský (Rhincodon typus)"
+  }
+ },
+ {
+  "id": "Q188212#1",
+  "species": "Žralok tygří",
+  "latin": "Galeocerdo cuvier",
+  "text": "Často loví želvy, jejichž tvrdý krunýř dokáže prokousat.",
+  "quote": "Pravidelnou kořistí bývají želvy, na jejichž krunýře má vhodně vyvinuté čelisti a zuby.",
+  "claimed_false_for": {
+   "Q80378": "Žralok obrovský (Rhincodon typus)"
+  }
+ },
+ {
+  "id": "Q188212#5",
+  "species": "Žralok tygří",
+  "latin": "Galeocerdo cuvier",
+  "text": "Tento druh se zřejmě dožívá až 50 let.",
+  "quote": "Dožívá se zřejmě až 50 let.",
+  "claimed_false_for": {
+   "Q129026": "Žralok bílý (Carcharodon carcharias)",
+   "Q26337": "Žralok modrý (Prionace glauca)",
+   "Q370444": "Žralok malohlavý (Somniosus microcephalus)",
+   "Q726384": "Žralok černoploutvý (Carcharhinus melanopterus)",
+   "Q80378": "Žralok obrovský (Rhincodon typus)"
+  }
+ },
+ {
+  "id": "Q190469#0",
+  "species": "Žralok bělavý",
+  "latin": "Carcharhinus leucas",
+  "text": "Měří od 2 do 3,5 metru.",
+  "quote": "Délka dospělých jedinců se pohybuje od 2 do 3,5 metru",
+  "claimed_false_for": {
+   "Q185260": "Žralok veliký (Cetorhinus maximus)",
+   "Q80378": "Žralok obrovský (Rhincodon typus)"
+  }
+ },
+ {
+  "id": "Q190469#1",
+  "species": "Žralok bělavý",
+  "latin": "Carcharhinus leucas",
+  "text": "Dokáže po určitou dobu žít ve sladké vodě.",
+  "quote": "Na rozdíl od většiny ostatních mořských žraloků dokáže tento druh po určitou dobu žít ve sladké vodě.",
+  "claimed_false_for": {
+   "Q185260": "Žralok veliký (Cetorhinus maximus)",
+   "Q26337": "Žralok modrý (Prionace glauca)",
+   "Q318090": "Žralok dlouhoploutvý (Carcharhinus longimanus)",
+   "Q618595": "Liškoun obecný (Alopias vulpinus)",
+   "Q80378": "Žralok obrovský (Rhincodon typus)"
+  }
+ },
+ {
+  "id": "Q192158#0",
+  "species": "Žralok mako",
+  "latin": "Isurus oxyrinchus",
+  "text": "Dokáže plavat rychlostí až 70 km/h.",
+  "quote": "dokáže plout rychlostí až 70 km/h",
+  "claimed_false_for": {
+   "Q185260": "Žralok veliký (Cetorhinus maximus)",
+   "Q370444": "Žralok malohlavý (Somniosus microcephalus)",
+   "Q80378": "Žralok obrovský (Rhincodon typus)"
+  }
+ },
+ {
+  "id": "Q192158#2",
+  "species": "Žralok mako",
+  "latin": "Isurus oxyrinchus",
+  "text": "Dokáže vyskočit přibližně 9 metrů nad hladinu.",
+  "quote": "Dokážou vyskočit přibližně 9 metrů nad hladinu",
+  "claimed_false_for": {
+   "Q370444": "Žralok malohlavý (Somniosus microcephalus)",
+   "Q80378": "Žralok obrovský (Rhincodon typus)"
+  }
+ },
+ {
+  "id": "Q192158#3",
+  "species": "Žralok mako",
+  "latin": "Isurus oxyrinchus",
+  "text": "Jí hlavně hlavonožce a kostnaté ryby.",
+  "quote": "Hlavní složkou potravy jsou hlavonožci, kostnaté ryby včetně makrel, tuňáků",
+  "claimed_false_for": {
+   "Q185260": "Žralok veliký (Cetorhinus maximus)",
+   "Q80378": "Žralok obrovský (Rhincodon typus)"
+  }
+ },
+ {
+  "id": "Q192158#6",
+  "species": "Žralok mako",
+  "latin": "Isurus oxyrinchus",
+  "text": "Často se živí mečouny.",
+  "quote": "Ti jsou totiž často jejich zdrojem potravy",
+  "claimed_false_for": {
+   "Q169468": "Žralok zebrovitý (Stegostoma fasciatum)"
+  }
+ },
+ {
+  "id": "Q318090#0",
+  "species": "Žralok dlouhoploutvý",
+  "latin": "Carcharhinus longimanus",
+  "text": "Žije ve volné vodě daleko od břehů.",
+  "quote": "pelagický (žijící ve volné vodě daleko od břehů a dna)",
+  "claimed_false_for": {
+   "Q129026": "Žralok bílý (Carcharodon carcharias)",
+   "Q190469": "Žralok bělavý (Carcharhinus leucas)",
+   "Q726384": "Žralok černoploutvý (Carcharhinus melanopterus)"
+  }
+ },
+ {
+  "id": "Q318090#1",
+  "species": "Žralok dlouhoploutvý",
+  "latin": "Carcharhinus longimanus",
+  "text": "Tráví většinu času v horních vrstvách oceánu.",
+  "quote": "Žralok dlouhoploutvý tráví většinu času v horních vrstvách oceánu do hloubky maximálně 150 metrů",
+  "claimed_false_for": {
+   "Q370444": "Žralok malohlavý (Somniosus microcephalus)"
+  }
+ },
+ {
+  "id": "Q318090#6",
+  "species": "Žralok dlouhoploutvý",
+  "latin": "Carcharhinus longimanus",
+  "text": "Tento druh se živí hlavně hlavonožci a kostnatými rybami.",
+  "quote": "Hlavní potravou žraloka dlouhoploutvého jsou pelagické druhy hlavonožců a kostnaté ryby",
+  "claimed_false_for": {
+   "Q185260": "Žralok veliký (Cetorhinus maximus)",
+   "Q80378": "Žralok obrovský (Rhincodon typus)"
+  }
+ },
+ {
+  "id": "Q370444#5",
+  "species": "Žralok malohlavý",
+  "latin": "Somniosus microcephalus",
+  "text": "Jí chobotnice, mlže, kraby a medúzy.",
+  "quote": "(chobotnice, mlže, kraby, medúzy aj.)",
+  "claimed_false_for": {
+   "Q185260": "Žralok veliký (Cetorhinus maximus)"
+  }
+ },
+ {
+  "id": "Q618595#0",
+  "species": "Liškoun obecný",
+  "latin": "Alopias vulpinus",
+  "text": "Ocas tvoří až polovinu celkové délky.",
+  "quote": "K jeho velikosti přispívá především kaudální (ocasní) ploutev, která představuje až polovinu celkové délky jedince.",
+  "claimed_false_for": {
+   "Q188212": "Žralok tygří (Galeocerdo cuvier)",
+   "Q190469": "Žralok bělavý (Carcharhinus leucas)",
+   "Q26337": "Žralok modrý (Prionace glauca)",
+   "Q370444": "Žralok malohlavý (Somniosus microcephalus)",
+   "Q726384": "Žralok černoploutvý (Carcharhinus melanopterus)",
+   "Q80378": "Žralok obrovský (Rhincodon typus)"
+  }
+ },
+ {
+  "id": "Q618595#1",
+  "species": "Liškoun obecný",
+  "latin": "Alopias vulpinus",
+  "text": "Ocasem žene hejno ryb na jedno místo.",
+  "quote": "s jehož pomocí nejprve nažene hejno ryb do jednoho místa",
+  "claimed_false_for": {
+   "Q169468": "Žralok zebrovitý (Stegostoma fasciatum)",
+   "Q370444": "Žralok malohlavý (Somniosus microcephalus)",
+   "Q80378": "Žralok obrovský (Rhincodon typus)"
+  }
+ },
+ {
+  "id": "Q641642#0",
+  "species": "Rejnok ostnatý",
+  "latin": "Raja clavata",
+  "text": "Tento druh se živí kraby, krevetami a malými rybami.",
+  "quote": "Rejnoci se živí kraby, krevetami, malými rybami, škeblemi a jedí dokonce i různé druhy korýšů.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q641642#1",
+  "species": "Rejnok ostnatý",
+  "latin": "Raja clavata",
+  "text": "Samice za rok vyprodukuje až 150 vajec.",
+  "quote": "Samice za rok vyprodukuje až 150 vajec umístěných v pouzdru.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q726259#0",
+  "species": "Kladivoun obecný",
+  "latin": "Sphyrna zygaena",
+  "text": "Živí se kostnatými rybami i bezobratlými živočichy.",
+  "quote": "Jde o dravce, živící se kostnatými rybami i bezobratlými živočichy.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q726259#1",
+  "species": "Kladivoun obecný",
+  "latin": "Sphyrna zygaena",
+  "text": "Větší jedinci útočí i na jiné žraloky a rejnoky.",
+  "quote": "Větší jedinci si dovolí zaútočit i na jiné žraloky či rejnoky.",
+  "claimed_false_for": {
+   "Q321976": "Manta obrovská (Mobula birostris)",
+   "Q338891": "Kladivoun tiburo (Sphyrna tiburo)",
+   "Q84822": "Máčka skvrnitá (Scyliorhinus canicula)",
+   "Q964954": "Trnucha modroskvrnná (Taeniura lymma)"
+  }
+ },
+ {
+  "id": "Q726384#1",
+  "species": "Žralok černoploutvý",
+  "latin": "Carcharhinus melanopterus",
+  "text": "Samice rodí 2 až 5 mláďat.",
+  "quote": "samice rodí 2-5 mláďat v cyklech",
+  "claimed_false_for": {
+   "Q188212": "Žralok tygří (Galeocerdo cuvier)",
+   "Q26337": "Žralok modrý (Prionace glauca)",
+   "Q80378": "Žralok obrovský (Rhincodon typus)"
+  }
+ },
+ {
+  "id": "Q80378#3",
+  "species": "Žralok obrovský",
+  "latin": "Rhincodon typus",
+  "text": "Samice rodí v jednom vrhu až 300 mláďat.",
+  "quote": "V jednom vrhu samice rodí i 300 mláďat",
+  "claimed_false_for": {
+   "Q169468": "Žralok zebrovitý (Stegostoma fasciatum)",
+   "Q185260": "Žralok veliký (Cetorhinus maximus)",
+   "Q192158": "Žralok mako (Isurus oxyrinchus)",
+   "Q26337": "Žralok modrý (Prionace glauca)",
+   "Q318090": "Žralok dlouhoploutvý (Carcharhinus longimanus)",
+   "Q618595": "Liškoun obecný (Alopias vulpinus)"
+  }
+ }
+]

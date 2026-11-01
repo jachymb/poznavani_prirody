@@ -1,0 +1,283 @@
+{
+ "facts": [
+  {
+   "id": "Q261574#0",
+   "species": "Ženetka tečkovaná",
+   "text": "Tento druh váží 1,3 až 2,3 kg.",
+   "quote": "Váží od 1,3 do 2,3 kg."
+  },
+  {
+   "id": "Q525088#1",
+   "species": "Fanaloka",
+   "text": "Tento druh je aktivní v noci.",
+   "quote": "Fanaloka je noční živočich."
+  },
+  {
+   "id": "Q185295#3",
+   "species": "Hyenka hřivnatá",
+   "text": "Samec hlavně chrání noru před predátory.",
+   "quote": "samcova úloha je především ochrana nory před predátory"
+  },
+  {
+   "id": "Q226735#0",
+   "species": "Zorila velká",
+   "text": "Živí se hmyzem, pavoukovci, žížalami, hlodavci, plazy, ptáky i obojživelníky.",
+   "quote": "živí se bezobratlými (hmyzem, pavoukovci, žížalami atd.), hlodavci, plazy, ptáky a jejich vejci a obojživelníky"
+  },
+  {
+   "id": "Q842467#0",
+   "species": "Pes pouštní",
+   "text": "Živí se hlavně brouky a hlodavci.",
+   "quote": "Potravu tvoří hlavně brouci, hlodavci, menší ptáci, mršiny, vejce ale i části rostlin."
+  },
+  {
+   "id": "Q272933#0",
+   "species": "Liška chama",
+   "text": "Živí se hmyzem, drobnými hlodavci, ještěry a mršinami.",
+   "quote": "Živí se převážně hmyzem, drobnými hlodavci, ještěry ale i mršinami."
+  },
+  {
+   "id": "Q613760#1",
+   "species": "Promyka mungo",
+   "text": "V některých zemích je nebezpečným invazním druhem.",
+   "quote": "V některých zemích, kam byla zavlečena člověkem, je vedena jako nebezpečný invazní druh"
+  },
+  {
+   "id": "Q14592562#1",
+   "species": "Olinguito",
+   "text": "Váží okolo 900 gramů.",
+   "quote": "váží okolo 900 gramů"
+  },
+  {
+   "id": "Q44299#3",
+   "species": "Kojot prérijní",
+   "text": "Mladí zůstávají s rodiči až do věku 20 měsíců.",
+   "quote": "Do dosažení úplné dospělosti, tj. do věku 20 měsíců, doprovázejí mladí kojoti své rodiče"
+  },
+  {
+   "id": "Q44299#2",
+   "species": "Kojot prérijní",
+   "text": "Žijí v párech nebo v rodinných smečkách.",
+   "quote": "Kojoti žijí v párech nebo v rodinných smečkách."
+  },
+  {
+   "id": "Q83774#1",
+   "species": "Vydra obrovská",
+   "text": "Žije ve skupinách až po dvacet jedinců.",
+   "quote": "žije ve skupinách čítajících až dvacet jedinců"
+  },
+  {
+   "id": "Q513081#0",
+   "species": "Nandinie",
+   "text": "Živí se především ovocem.",
+   "quote": "Živí se především ovocem"
+  },
+  {
+   "id": "Q178973#1",
+   "species": "Fretka domácí",
+   "text": "Tento druh byl ochočen z tchoře tmavého.",
+   "quote": "Fretka byla domestikována z tchoře tmavého"
+  },
+  {
+   "id": "Q133189#1",
+   "species": "Psík mývalovitý",
+   "text": "Jeho mláďata jsou oblíbenou potravou větších šelem.",
+   "quote": "Psík mývalovitý, hlavně jeho mláďata, jsou oblíbenou potravou mnoha větších šelem."
+  },
+  {
+   "id": "Q754393#0",
+   "species": "Puchol žíhaný",
+   "text": "Přes den spí v dutinách stromů, v noci loví.",
+   "quote": "tráví den spánkem v dutinách stromů a v noci vyráží lovit drobnou kořist"
+  },
+  {
+   "id": "Q739525#0",
+   "species": "Liška písečná",
+   "text": "Loví hlodavce, ještěrky a další malé plazy.",
+   "quote": "Loví různé hlodavce, ještěrky a další malé plazy, ptáky,"
+  },
+  {
+   "id": "Q745751#0",
+   "species": "Liška velkouchá",
+   "text": "Živí se hlodavci, hmyzem, malými ptáky a plazy.",
+   "quote": "Živí se především různými hlodavci, zajícovci, hmyzem, malými ptáky, plazy, mršinami, ovocem, zeleninou a semeny."
+  },
+  {
+   "id": "Q332414#1",
+   "species": "Jezevec šedý",
+   "text": "Neloví drůbež, proto s lidmi nemá spory.",
+   "quote": "nevytváří s lidmi žádné konflikty, jelikož neloví"
+  },
+  {
+   "id": "Q402885#0",
+   "species": "Tchoř černonohý",
+   "text": "Tento druh se živí hlavně psouny prériovými.",
+   "quote": "Jeho existence je závislá na dostatku psounů prériových, kteří tvoří 90 % jeho jídelníčku."
+  },
+  {
+   "id": "Q232129#0",
+   "species": "Jezevec americký",
+   "text": "Živí se hlavně sysly, psouny a pytlonoši.",
+   "quote": "Živí se zejména sysly, psouny a pytlonoši"
+  }
+ ],
+ "candidates": {
+  "Q131907": {
+   "name": "Rys červený",
+   "latin": "Lynx rufus",
+   "family": "kočkovití",
+   "lead": "Rys červený (Lynx rufus) je kočkovitá šelma z rodu rys, která vytváří dvanáct odlišných poddruhů. Žije v Severní Americe a v Mexiku a je považován za poměrně hojný druh.\n\n\n== Popis ==\nNa délku měří 0,5–1,2 metru (průměrně okolo 0,8 m), na výšku mezi 30 a 60 cm, délka ocasu je 9–20 cm. Hmotnost je velmi variabilní a obvykle dosahuje 4–18 kg, výjimečně i více. Větší jedinci žijí na severu a v otevřenější krajině. Pohlavní dimorfismus, kdy samci jsou větší, je poměrně zřetelný. Samci váží v průměru",
+   "facts": [
+    "Živí se hlavně zajíci a králíky.",
+    "Loví hlavně v noci a za soumraku.",
+    "Výborně šplhá a má ostrý zrak.",
+    "Mláďata se rodí na jaře, obvykle jich bývají 2 až 4.",
+    "Živí se také hlodavci, obojživelníky a ptáky.",
+    "Dravci, jako orli a sovy, ohrožují malá mláďata tohoto druhu.",
+    "Pumy a vlci jsou nepřátelé dospělých jedinců tohoto druhu."
+   ]
+  },
+  "Q23772801": {
+   "name": "Kočka bornejská",
+   "latin": "Catopuma badia",
+   "family": "kočkovití",
+   "lead": "Kočka bornejská (Catopuma badia, dříve Felis badia; české synonymum je kočka Grayova) je endemický druh malé kočkovité šelmy, obývající pouze ostrov Borneo. Veškeré údaje o druhu pocházejí ze šesti kůží ulovených koček a jednoho živého jedince, který byl chycen v listopadu roku 1992. V přírodě je pozorována jen málokdy a o jejím způsobu života není nic známo.\n\n\n== Popis ==\nHmotnost: 2,3–4,5 kg\nDélka: 53–67 cm + 32–39 cm ocas\nVýška: 28 cm\nKočka bornejská se podobá malé kočce Temminckově, srst je ",
+   "facts": [
+    "Žije jen na ostrově Borneo.",
+    "Odhaduje se, že žije nejvýš 2 500 jedinců."
+   ]
+  },
+  "Q192421": {
+   "name": "Margay",
+   "latin": "Leopardus wiedii",
+   "family": "kočkovití",
+   "lead": "Margay (Leopardus wiedii) je menší kočkovitá šelma, která žije v tropických lesích a křovinatých oblastech od Mexika po Jižní Ameriku.\n\n\n== Taxonomie ==\nUváděno je 11 poddruhů.\n\nLeopardus wiedii amazonicus Cabrera, 1917 (výskyt: horní Amazonie)\nL. w. boliviae Pocock, 1941 (svahy And)\nL. w. cooperi Goldman, 1943 (jihovýchodní Texas a sousedící regiony v Mexiku)\nL. w. glauculus Thomas, 1903 (suché oblasti v Mexiku); včetně ssp. oaxacensis\nL. w. nicaraguae J. A. Allen, 1919 (Střední Amerika); včetn",
+   "facts": [
+    "Tento druh je nejaktivnější mezi 18. hodinou a 4. hodinou ranní.",
+    "Dokáže slézat po kmeni hlavou dolů díky pružným nohám.",
+    "Většinu jídla tvoří hlodavci.",
+    "Mláďata jsou tmavší než dospělí.",
+    "Loví například myši, krysy, veverky, ptáky a ještěrky.",
+    "Loví také opice, například tamaríny.",
+    "Jí také ovoce a trávu."
+   ]
+  },
+  "Q19939": {
+   "name": "Tygr",
+   "latin": "Panthera tigris",
+   "family": "kočkovití",
+   "lead": "Tygr (Panthera tigris) je velká kočkovitá šelma žijící v Asii. Ze současných kočkovitých šelem je největší a díky charakteristickým tmavým pruhům na zlatožluté či rudohnědé srsti nezaměnitelný. Někteří tygři běžně dosahují délky trupu přes 2 m, délka ocasu bývá až 90 cm a hmotnost samců mnohdy více než 200 kg; samice jsou výrazně menší, dosahují hmotnosti maximálně kolem 130 kg. Díky těmto\nparametrům je tygr po ledním a hnědém medvědovi třetím největším suchozemským predátorem.\nTygři jsou obvykl",
+   "facts": [
+    "Loví hlavně velká kopytnatá zvířata.",
+    "Tento druh má tmavé pruhy na zlatožluté nebo rudohnědé srsti.",
+    "Má na břiše bílou nebo světle béžovou srst.",
+    "Je třetí největší suchozemský predátor na světě.",
+    "Umí přeplavat řeky široké šest až osm kilometrů.",
+    "Tento druh je aktivní hlavně za soumraku a v noci.",
+    "Tento druh obvykle žije sám, ne ve skupinách.",
+    "Žije ve volné přírodě jen asi 3 670 až 4 390 jedinců.",
+    "Loví i zajíce, králíky a ptáky.",
+    "Medvěd hnědý občas loví jeho koťata.",
+    "Smečka dhoulů může skolit mladé, staré nebo nemocné jedince."
+   ]
+  },
+  "Q518580": {
+   "name": "Galidie proužkovaná",
+   "latin": "Galidia elegans",
+   "family": "madagaskarské šelmy",
+   "lead": "Galidie proužkovaná (Galidia elegans) je malá, suchozemská šelma, endemit Madagaskaru. Je jediným druhem rodu galidie a vzhledem i chováním se dá vzdáleně připodobnit k velké lasici.\n\n\n== Výskyt ==\nNa Madagaskaru obývá hlavně lesnaté, subtropické a tropické oblasti v severní, východní, západní a centrální oblasti ostrova. Vyskytuje se ve vlhkých i suchých lesích v nadmořské výšce až do 2000 m, nejhojnější bývá pod 1500 m. Je nejvíce rozšířeným druhem celé čeledi, přesto o jejím životě není dost ",
+   "facts": [
+    "Má na ocase čtyři až šest černých kroužků.",
+    "Jí malé savce, ptáky, ryby a vejce.",
+    "Dokáže dobře šplhat po stromech i plavat.",
+    "Váží jen 0,7 až 0,9 kilogramu.",
+    "Loví v mělké vodě drobné ryby, korýše a žáby.",
+    "Soutěží o potravu s cibetkou indickou.",
+    "Zdivočelí psi a kočky ohrožují tento druh."
+   ]
+  },
+  "Q571449": {
+   "name": "Lachtan antarktický",
+   "latin": "Arctocephalus gazella",
+   "family": "lachtanovití",
+   "lead": "Lachtan antarktický (Arctocephalus gazella) patří do skupiny šelem, jejichž končetiny se proměnily v ploutve a celkově jsou výborně přizpůsobené k životu ve vodě.\n\n\n== Výskyt ==\nLachtani antarktičtí žijí více na jihu než ostatní druhy, až v oblastech blízkých Antarktidě. Jejich místa výskytu jsou vymezena na sezónně volné, nezamrzlé vody Jižního oceánu a jižních oblasti Atlantského, Indického i Tichého oceánu v místech s vlivem antarktické konvergence. Žijí ve volném moři a k odpočinku vylézají ",
+   "facts": [
+    "Samci bývají téměř čtyřikrát těžší než samice.",
+    "Tento druh v zimě jí stejně krilu (drobných korýšů) jako ryb.",
+    "Samice žijí ve volné přírodě průměrně 23 let.",
+    "Samci se potápějí až do hloubky 350 metrů.",
+    "Tento druh se živí rybami, krilem, hlavonožci a korýši.",
+    "Loví ho tuleň leopardí a kosatka dravá.",
+    "Tento druh příležitostně napadá i menší tučňáky."
+   ]
+  },
+  "Q571618": {
+   "name": "Lachtan galapážský",
+   "latin": "Arctocephalus galapagoensis",
+   "family": "lachtanovití",
+   "lead": "Lachtan galapážský (Arctocephalus galapagoensis) je druh mořského savce z čeledi lachtanovitých. Je endemitem Ekvádoru – Galapágy a ostrov Isla de la Plata. V důsledku oteplování oceánu se v roce 2010 objevila kolonie lachtanů galapážských také u peruánského pobřeží.\n\n\n== Vzhled ==\nJe nejmenším druhem lachtana: samci dosahují délky okolo 150 cm a váhy okolo 64 kg, samice bývají dlouhé okolo 120 cm a váží asi 28 kg. Srst má šedohnědé zbarvení.\n\n\n== Rozmnožování ==\nObdobí rozmnožování trvá od květ",
+   "facts": [
+    "Živí se hlavně rybami a měkkýši.",
+    "Nejvíce času tráví na souši."
+   ]
+  },
+  "Q632701": {
+   "name": "Fret kočičí",
+   "latin": "Bassariscus astutus",
+   "family": "medvídkovití",
+   "lead": "Fret kočičí (Bassariscus astutus Lichtenstein, 1830) je drobná samotářská noční šelma z čeledi medvídkovitých.\n\n\n== Výskyt ==\nAreálem rozšíření tohoto druhu jsou střední a západní USA a severní Mexiko, jeho biotopem jsou pouště, lesy a hory, má rád skalnatá místa. Aktivní je převážně v noci, den přespává v různých dutinách a skalních úkrytech.\n\n\n== Popis ==\nFret kočičí má štíhlé tělo dlouhé 30–42 cm, s ocasem dlouhým 31–44 cm. Hmotnost je asi 0,8 až 1,3 kg. Obvyklé zbarvení srsti je šedohnědá ne",
+   "facts": [
+    "Živí se ptáky, malými savci, vejci, členovci, plody a ořechy.",
+    "Je aktivní převážně v noci."
+   ]
+  },
+  "Q304415": {
+   "name": "Psoun Allenův",
+   "latin": "Cynomys parvidens",
+   "family": "veverkovití",
+   "lead": "Psoun Allenův (Cynomys parvidens) je denní, společenský hlodavec, vytvářející hrabáním rozsáhle podzemní kolonie. Přes zimní období, od listopadu do počátku dubna, hibernuje se svými druhy v podzemních norách. Je nejzápadněji žijícím druhem rodu psoun.\n\n\n== Rozšíření ==\nŽije výhradně ve Spojených státech amerických, ve třech nevelkých oblastech na jihu a jihozápadě státu Utah. Tyto kolonie, jejichž celková plocha se odhaduje na pouhých 28 km², se nacházejí v oblastech Awapa Plateau, East Fork a ",
+   "facts": [
+    "Tento druh je aktivní ve dne.",
+    "Jí hlavně mladé rostliny a vodu získává z nich.",
+    "Spí přes zimu v norách od listopadu do začátku dubna.",
+    "Tento druh má mláďata, která vylezou z nory v pěti až šesti týdnech.",
+    "Loví ho kojot, jezevec, liška a lasice.",
+    "Loví ho orel skalní a jestřáb lesní.",
+    "Sežere občas brouky nebo cikády."
+   ]
+  },
+  "Q262307": {
+   "name": "Dikobraz obecný",
+   "latin": "Hystrix cristata",
+   "family": "dikobrazovití",
+   "lead": "Dikobraz obecný (Hystrix cristata) je největší druh dikobraza. Na zadní polovině těla má ostny a na hlavě typické dlouhé štětiny. Vyskytuje se v rovníkové a severní Africe. Je to jediný druh žijící také v Evropě.\n\n\n== Výskyt ==\nVyskytuje se v rovníkové Africe v Tanzanii, v Etiopii a v pruhu od Kamerunu po Senegal. V severní Africe obývá pobřeží Středozemního moře od Maroka po Libyi. V Evropě žije v Itálii na Sicílii a na Apeninském poloostrově, kde na sever zasahuje až k Bologni.\nŽije v sušších ",
+   "facts": [
+    "Tento druh jí především byliny, ovoce, listí i kůru.",
+    "Tento druh se dožívá přes 20 let."
+   ]
+  },
+  "Q209594": {
+   "name": "Klokan znamenaný",
+   "latin": "Thylogale stigmatica",
+   "family": "klokanovití",
+   "lead": "Klokan znamenaný (Thylogale stigmatica) je menší druh klokana z rodu Thylogale, který se vyskytuje v Austrálii a na Nové Guineji. Stejně jako jeho nejbližší příbuzní má podsadité tělo a je červenavě zbarvený.\n\n\n== Systematika ==\nDruh poprvé popsal John Gould v roce 1860 jako Halmaturus stigmatica. Thomas Oldfield klokana přeřadil do rodu Macropus a Iredale & Troughton ve svém checklistu z roku 1934 druh zařadili do rodu Thylogale. Nejbližším příbuzným klokana znamenaného je klokan uru (Thylogale",
+   "facts": [
+    "Živí se rostlinami, spadlým ovocem, semeny a houbami.",
+    "Tento druh je aktivní ve dne i v noci.",
+    "Psi ho v Austrálii podle odhadů loví."
+   ]
+  },
+  "Q820184": {
+   "name": "Bahnivec horský",
+   "latin": "Redunca fulvorufula",
+   "family": "turovití",
+   "lead": "Bahnivec horský (Redunca fulvorufula) je antilopa obývající severovýchodní část Jižní Afriky. Vyskytuje se v hornatých oblastech v lesích, nebo v krajinách s roztroušenými stromi a keři, většinou poblíž vodního zdroje.\n\n\n== Popis ==\nKohoutková výška se pohybuje kolem 75 cm, hmotnost může přesáhnout i 30 kg. Srst se liší podle třech poddruhů (viz níže), ale většinou je rudohnědá nebo šedá s bílou břišní částí těla. Samci mají zhruba 35 cm dlouhé růžky, které využívají k soubojům o samice v období",
+   "facts": [
+    "Tento druh má mláďata, která po pár hodinách jdou za matkou.",
+    "Dožívá se v přírodě průměrně 12 let.",
+    "Živí se trávou, listy, pupeny, květy a ovocem, pokud je k dispozici.",
+    "Lvi, levharti, hyeny, šakali a karakalové loví tento druh."
+   ]
+  }
+ }
+}

@@ -1,0 +1,10 @@
+{"photos": [
+{"i": 3, "ok": true, "why": "Volně žijící květozob na větvi, dobře viditelný, červená skvrna na hrudi, název souboru i popis odpovídají"},
+{"i": 4, "ok": false, "why": "Popis uvádí jiný druh (hrdlička), i když na fotce je květozob; metadata si odporují"},
+{"i": 5, "ok": true, "why": "Volně žijící květozob na větvi, dobře viditelný, popis odpovídá druhu"},
+{"i": 6, "ok": false, "why": "Zvíře je malé a daleko, na velké ploše oblohy, sotva rozpoznatelné"},
+{"i": 7, "ok": false, "why": "Popis uvádí jiný druh (hrdlička), metadata nesouhlasí s fotkou"},
+{"i": 8, "ok": true, "why": "Volně žijící květozob v koruně stromu, poznatelný podle hlavy a rudé hrudi, popis odpovídá"},
+{"i": 9, "ok": false, "why": "Preparát ze sbírky muzea s etiketou, ne živé zvíře"},
+{"i": 10, "ok": false, "why": "Zvíře je příliš malé a vzdálené na modré obloze, druh nelze spolehlivě poznat"}
+]}

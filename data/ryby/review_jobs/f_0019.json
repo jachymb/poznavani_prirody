@@ -1,0 +1,490 @@
+[
+ {
+  "id": "Q374092#5",
+  "species": "Vranka obecná",
+  "latin": "Cottus gobio",
+  "text": "Jsou citlivé na znečištění vody a nedostatek kyslíku.",
+  "quote": "Jsou velmi citlivé na výskyt znečištění či nedostatek kyslíku ve vodách.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q3743#2",
+  "species": "Kančík managujský",
+  "latin": "Parachromis managuensis",
+  "text": "Mláďata se živí různými bezobratlými živočichy.",
+  "quote": "mláďata se spoléhají na různé druhy bezobratlých živočichů",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q3753597#0",
+  "species": "Mečovka tmavá",
+  "latin": "Xiphophorus nigrensis",
+  "text": "Nejraději jí živou potravu, třeba perloočky a komáří larvy.",
+  "quote": "preferuje živou potravu (perloočky, komáří larvy)",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q3753597#1",
+  "species": "Mečovka tmavá",
+  "latin": "Xiphophorus nigrensis",
+  "text": "Samice rodí 10 až 15 mláďat.",
+  "quote": "Samice rodí 10–15 mláďat",
+  "claimed_false_for": {
+   "Q1963645": "Bodlok bahamský (Acanthurus bariene)",
+   "Q214278": "Střevle potoční (Phoxinus phoxinus)",
+   "Q777613": "Hruj hadovitá (Ophidion barbatum)",
+   "Q826713": "Slunečnice pestrá (Lepomis gibbosus)"
+  }
+ },
+ {
+  "id": "Q3754395#0",
+  "species": "Plata mečíkatá",
+  "latin": "Xiphophorus xiphidium",
+  "text": "Tento druh je všežravý, nejraději jí živou potravu.",
+  "quote": "Jedná se o všežravou rybu, preferuje živou potravu",
+  "claimed_false_for": {
+   "Q1963645": "Bodlok bahamský (Acanthurus bariene)",
+   "Q777613": "Hruj hadovitá (Ophidion barbatum)"
+  }
+ },
+ {
+  "id": "Q3754395#1",
+  "species": "Plata mečíkatá",
+  "latin": "Xiphophorus xiphidium",
+  "text": "Samice rodí přibližně 40–60 mláďat.",
+  "quote": "Samice rodí přibližně 40–60 mláďat.",
+  "claimed_false_for": {
+   "Q1963645": "Bodlok bahamský (Acanthurus bariene)",
+   "Q214278": "Střevle potoční (Phoxinus phoxinus)",
+   "Q777613": "Hruj hadovitá (Ophidion barbatum)",
+   "Q826713": "Slunečnice pestrá (Lepomis gibbosus)"
+  }
+ },
+ {
+  "id": "Q3757835#0",
+  "species": "Limie modrá",
+  "latin": "Limia tridens",
+  "text": "Samice rodí 40 mláďat.",
+  "quote": "samice rodí 40 mláďat",
+  "claimed_false_for": {
+   "Q195606": "Kvintana sklovitá (Quintana atrizona)",
+   "Q2165517": "Klipka čtyřoká (Chaetodon capistratus)",
+   "Q30066": "Hranáč šedý (Cyclopterus lumpus)",
+   "Q642906": "Aju východní (Plecoglossus altivelis)",
+   "Q833940": "Kranasovec štíhlý (Rachycentron canadum)"
+  }
+ },
+ {
+  "id": "Q3757835#1",
+  "species": "Limie modrá",
+  "latin": "Limia tridens",
+  "text": "Jí i rostliny a řasy.",
+  "quote": "rostlinnou potravu, řasy",
+  "claimed_false_for": {
+   "Q777613": "Hruj hadovitá (Ophidion barbatum)"
+  }
+ },
+ {
+  "id": "Q3758843#2",
+  "species": "Živorodka salvadorská",
+  "latin": "Poecilia salvatoris",
+  "text": "Tento druh je všežravý, dává přednost živé potravě, například planktonu a korýšům.",
+  "quote": "Jedná se o všežravou rybu, preferuje živou potravu (plankton, korýši, krevety)",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q3761965#0",
+  "species": "Pancéřníček napský",
+  "latin": "Corydoras napoensis",
+  "text": "Žije v Peru a Kolumbii.",
+  "quote": "Vyskytuje se v Peru a Kolumbii.",
+  "claimed_false_for": {
+   "Q133444": "Pangas vláknoploutvý (Pangasius sanitwongsei)",
+   "Q1661584": "Perutýn žoldnéř (Pterois miles)",
+   "Q2157453": "Kranas americký (Seriola lalandi)",
+   "Q312296": "Pangas spodnooký (Pangasianodon hypophthalmus)",
+   "Q3779283": "Pasumec elektrický (Malapterurus electricus)"
+  }
+ },
+ {
+  "id": "Q3761965#1",
+  "species": "Pancéřníček napský",
+  "latin": "Corydoras napoensis",
+  "text": "Dožívá se průměrně 3 až 5 let.",
+  "quote": "Dožívá se průměrně 3 až 5 let, v přírodě žije déle.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q3764497#2",
+  "species": "Mečovka Cortezova",
+  "latin": "Xiphophorus cortezi",
+  "text": "Preferuje živou potravu, třeba perloočky a komáří larvy.",
+  "quote": "preferuje živou potravu (perloočky, komáří larvy)",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q3764497#3",
+  "species": "Mečovka Cortezova",
+  "latin": "Xiphophorus cortezi",
+  "text": "Okusuje řasy.",
+  "quote": "Okusuje řasy.",
+  "claimed_false_for": {
+   "Q777613": "Hruj hadovitá (Ophidion barbatum)"
+  }
+ },
+ {
+  "id": "Q3768219#0",
+  "species": "Mečovka trpasličí",
+  "latin": "Xiphophorus pygmaeus",
+  "text": "Preferuje živou potravu, například perloočky a komáří larvy.",
+  "quote": "preferuje živou potravu (perloočky, komáří larvy)",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q3768219#1",
+  "species": "Mečovka trpasličí",
+  "latin": "Xiphophorus pygmaeus",
+  "text": "Samice rodí 10 až 30 mláďat, podle své velikosti.",
+  "quote": "Samice rodí 10–30 mláďat, dle své velikosti.",
+  "claimed_false_for": {
+   "Q2165517": "Klipka čtyřoká (Chaetodon capistratus)",
+   "Q30066": "Hranáč šedý (Cyclopterus lumpus)",
+   "Q642906": "Aju východní (Plecoglossus altivelis)",
+   "Q833940": "Kranasovec štíhlý (Rachycentron canadum)"
+  }
+ },
+ {
+  "id": "Q3769057#0",
+  "species": "Bodlok oranžovoocasý",
+  "latin": "Acanthurus auranticavus",
+  "text": "Živí se vodními rostlinami, planktonem a drobnými živočichy.",
+  "quote": "se živí jako ostatní bodloci vodními rostlinami, planktonem a dalšími drobnými živočichy",
+  "claimed_false_for": {
+   "Q1139971": "Tkaničnice atlantská (Trichiurus lepturus)",
+   "Q159323": "Sumec velký (Silurus glanis)",
+   "Q4889552": "Cichlida ocasooká (Cichla ocellaris)"
+  }
+ },
+ {
+  "id": "Q3769057#1",
+  "species": "Bodlok oranžovoocasý",
+  "latin": "Acanthurus auranticavus",
+  "text": "Mláďata žijí v měkkých korálech.",
+  "quote": "Mláďata obývají měkké korály v hloubce 2 m.",
+  "claimed_false_for": {
+   "Q1257383": "Pancéřníček leopardí (Corydoras trilineatus)",
+   "Q159323": "Sumec velký (Silurus glanis)",
+   "Q1687707": "Tetra kosočtverečná (Hyphessobrycon anisitsi)",
+   "Q28599938": "Razbora Espeho (Trigonostigma espei)",
+   "Q4889552": "Cichlida ocasooká (Cichla ocellaris)",
+   "Q81110": "Kapr obecný (Cyprinus carpio)",
+   "Q855808": "Hořavka duhová (Rhodeus sericeus)",
+   "Q863850": "Pancéřníček skvrnitý (Corydoras paleatus)"
+  }
+ },
+ {
+  "id": "Q3779283#0",
+  "species": "Pasumec elektrický",
+  "latin": "Malapterurus electricus",
+  "text": "Živí se hlavně rybami, které omráčí proudem.",
+  "quote": "živí se převážně rybami omráčenými elektrickými výboji.",
+  "claimed_false_for": {
+   "Q1257383": "Pancéřníček leopardí (Corydoras trilineatus)",
+   "Q133444": "Pangas vláknoploutvý (Pangasius sanitwongsei)",
+   "Q1711785": "Pancéřníček Juliův (Corydoras julii)",
+   "Q188879": "Losos obecný (Salmo salar)",
+   "Q428623": "Krátkotělka guatemalská (Phallichthys amates)",
+   "Q606358": "Peřovec kukaččí (Synodontis multipunctatus)",
+   "Q614326": "Muréna hvězdovitá (Echidna nebulosa)",
+   "Q739380": "Pangas velký (Pangasianodon gigas)",
+   "Q767055": "Plotos proužkatý (Plotosus lineatus)",
+   "Q833957": "Sumeček americký (Ameiurus nebulosus)",
+   "Q900949": "Ropušnice skvrnitá (Scorpaena porcus)",
+   "Q998380": "Sumeček černý (Ameiurus melas)"
+  }
+ },
+ {
+  "id": "Q3779283#1",
+  "species": "Pasumec elektrický",
+  "latin": "Malapterurus electricus",
+  "text": "Dokáže vytvořit napětí 200 až 350 voltů.",
+  "quote": "Svým elektrickým orgánem dokáže vytvořit napětí cca 200 – 350 V.",
+  "claimed_false_for": {
+   "Q1257383": "Pancéřníček leopardí (Corydoras trilineatus)",
+   "Q133444": "Pangas vláknoploutvý (Pangasius sanitwongsei)",
+   "Q1711785": "Pancéřníček Juliův (Corydoras julii)",
+   "Q188879": "Losos obecný (Salmo salar)",
+   "Q428623": "Krátkotělka guatemalská (Phallichthys amates)",
+   "Q606358": "Peřovec kukaččí (Synodontis multipunctatus)",
+   "Q614326": "Muréna hvězdovitá (Echidna nebulosa)",
+   "Q739380": "Pangas velký (Pangasianodon gigas)",
+   "Q767055": "Plotos proužkatý (Plotosus lineatus)",
+   "Q833957": "Sumeček americký (Ameiurus nebulosus)",
+   "Q900949": "Ropušnice skvrnitá (Scorpaena porcus)",
+   "Q998380": "Sumeček černý (Ameiurus melas)"
+  }
+ },
+ {
+  "id": "Q385764#0",
+  "species": "Mihule mořská",
+  "latin": "Petromyzon marinus",
+  "text": "Parazituje na rybách.",
+  "quote": "Živí se paraziticky, parazituje na rybách",
+  "claimed_false_for": {
+   "Q2021864": "Leskyně skvrnitá (Lampris guttatus)",
+   "Q237619": "Hrouzek obecný (Gobio gobio)",
+   "Q28599939": "Razbora klínoskvrnná (Trigonostigma heteromorpha)",
+   "Q3233721": "Mečovka Montezumova (Xiphophorus montezumae)",
+   "Q326219": "Parma obecná (Barbus barbus)",
+   "Q536224": "Okounek černý (Micropterus dolomieu)",
+   "Q582842": "Hlaváč obecný (Pomatoschistus microps)",
+   "Q863850": "Pancéřníček skvrnitý (Corydoras paleatus)",
+   "Q900868": "Bodlok žlutý (Zebrasoma flavescens)",
+   "Q924585": "Dánio duhové (Danio albolineatus)"
+  }
+ },
+ {
+  "id": "Q385764#1",
+  "species": "Mihule mořská",
+  "latin": "Petromyzon marinus",
+  "text": "Larvy se živí planktonem.",
+  "quote": "a živí se planktonem a detritem.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q387344#0",
+  "species": "Keříčkovec červenolemý",
+  "latin": "Clarias gariepinus",
+  "text": "Není náročný na obsah kyslíku ve vodě.",
+  "quote": "není náročný na obsah kyslíku",
+  "claimed_false_for": {
+   "Q2857311": "Pstruh obecný (Salmo trutta)"
+  }
+ },
+ {
+  "id": "Q387344#1",
+  "species": "Keříčkovec červenolemý",
+  "latin": "Clarias gariepinus",
+  "text": "Dorůstá až do délky 120 cm.",
+  "quote": "dorůstá délky 120 cm",
+  "claimed_false_for": {
+   "Q1130760": "Jehla mořská (Syngnathus typhle)",
+   "Q1543723": "Peřovec černobřichý (Synodontis nigriventris)",
+   "Q1544489": "Tetra paraguayská (Moenkhausia sanctaefilomenae)",
+   "Q1697113": "Pancéřníček smaragdový (Brochis splendens)",
+   "Q392294": "Sumec sklovitý (Kryptopterus bicirrhis)",
+   "Q863850": "Pancéřníček skvrnitý (Corydoras paleatus)",
+   "Q945393": "Rypoun Petersův (Gnathonemus petersii)",
+   "Q965336": "Pancéřníček Sterbův (Corydoras sterbai)"
+  }
+ },
+ {
+  "id": "Q387352#0",
+  "species": "Lezec obojživelný",
+  "latin": "Periophthalmus barbarus",
+  "text": "Živí se hmyzem a kraby.",
+  "quote": "vyhledává zde potravu (hmyz, krabi)",
+  "claimed_false_for": {
+   "Q654583": "Ostroretka stěhovavá (Chondrostoma nasus)"
+  }
+ },
+ {
+  "id": "Q387352#1",
+  "species": "Lezec obojživelný",
+  "latin": "Periophthalmus barbarus",
+  "text": "Dokáže dýchat vzduch.",
+  "quote": "je schopen dýchat vzduch",
+  "claimed_false_for": {
+   "Q143503": "Zubatec obecný (Dentex dentex)",
+   "Q165278": "Štika obecná (Esox lucius)",
+   "Q2090926": "Soltýn tmavopruhý (Sphyraena jello)",
+   "Q237619": "Hrouzek obecný (Gobio gobio)",
+   "Q392294": "Sumec sklovitý (Kryptopterus bicirrhis)",
+   "Q481523": "Útesník maomao (Abudefduf abdominalis)",
+   "Q629430": "Tetra krvavá (Hyphessobrycon eques)",
+   "Q654583": "Ostroretka stěhovavá (Chondrostoma nasus)",
+   "Q947679": "Kněžík srpkovitý (Thalassoma lunare)"
+  }
+ },
+ {
+  "id": "Q387817#0",
+  "species": "Pancéřníček panda",
+  "latin": "Corydoras panda",
+  "text": "Vyhledává zbytky potravy na dně.",
+  "quote": "Vyhledává zbytky potravy na dně",
+  "claimed_false_for": {
+   "Q1130760": "Jehla mořská (Syngnathus typhle)",
+   "Q2857311": "Pstruh obecný (Salmo trutta)",
+   "Q3779283": "Pasumec elektrický (Malapterurus electricus)"
+  }
+ },
+ {
+  "id": "Q387817#1",
+  "species": "Pancéřníček panda",
+  "latin": "Corydoras panda",
+  "text": "Jikry se líhnou za čtyři dny.",
+  "quote": "Líhnou se za čtyři dny.",
+  "claimed_false_for": {
+   "Q188879": "Losos obecný (Salmo salar)"
+  }
+ },
+ {
+  "id": "Q392294#0",
+  "species": "Sumec sklovitý",
+  "latin": "Kryptopterus bicirrhis",
+  "text": "Žije původně v asijských řekách Mekong a Chao Phraya.",
+  "quote": "Původní domovinou této ryby jsou asijské řeky Mekong a Chao Phraya.",
+  "claimed_false_for": {
+   "Q135004": "Krunýřovec skvrnitý (Ancistrus cirrhosus)",
+   "Q1505634": "Tetra červenoploutvá (Aphyocharax anisitsi)",
+   "Q1661584": "Perutýn žoldnéř (Pterois miles)",
+   "Q1687707": "Tetra kosočtverečná (Hyphessobrycon anisitsi)",
+   "Q2157453": "Kranas americký (Seriola lalandi)",
+   "Q2660517": "Pancéřníček brazilský (Callichthys callichthys)",
+   "Q3779283": "Pasumec elektrický (Malapterurus electricus)",
+   "Q387817": "Pancéřníček panda (Corydoras panda)",
+   "Q741269": "Pancéřníček zelený (Corydoras aeneus)"
+  }
+ },
+ {
+  "id": "Q428623#1",
+  "species": "Krátkotělka guatemalská",
+  "latin": "Phallichthys amates",
+  "text": "Samice rodí 10 až 80 mláďat.",
+  "quote": "Samice rodí 10–80 mláďat, která jsou velká 3–5 mm.",
+  "claimed_false_for": {
+   "Q1963645": "Bodlok bahamský (Acanthurus bariene)",
+   "Q214278": "Střevle potoční (Phoxinus phoxinus)",
+   "Q777613": "Hruj hadovitá (Ophidion barbatum)",
+   "Q826713": "Slunečnice pestrá (Lepomis gibbosus)"
+  }
+ },
+ {
+  "id": "Q44064#2",
+  "species": "Losos nerka",
+  "latin": "Oncorhynchus nerka",
+  "text": "Žere i krevety.",
+  "quote": "Součástí jejich potravy jsou i krevety.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q44064#3",
+  "species": "Losos nerka",
+  "latin": "Oncorhynchus nerka",
+  "text": "Mladí jedinci žerou hmyz.",
+  "quote": "Mladí jedinci požírají hmyz.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q456485#0",
+  "species": "Živorodka křížená",
+  "latin": "Poecilia formosa",
+  "text": "Samice se páří se samci jiných druhů ryb.",
+  "quote": "Ve volné přírodě se samice typicky páří se samci z jednoho ze čtyř různých druhů",
+  "claimed_false_for": {
+   "Q1071955": "Koníček mořský (Hippocampus guttulatus)"
+  }
+ },
+ {
+  "id": "Q456485#1",
+  "species": "Živorodka křížená",
+  "latin": "Poecilia formosa",
+  "text": "Rodí 60 až 100 mláďat každých 30–40 dní.",
+  "quote": "pak rodí 60 až 100 mláďat každých 30–40 dní",
+  "claimed_false_for": {
+   "Q1963645": "Bodlok bahamský (Acanthurus bariene)",
+   "Q214278": "Střevle potoční (Phoxinus phoxinus)",
+   "Q777613": "Hruj hadovitá (Ophidion barbatum)",
+   "Q826713": "Slunečnice pestrá (Lepomis gibbosus)"
+  }
+ },
+ {
+  "id": "Q458204#0",
+  "species": "Paropušnice proměnlivá",
+  "latin": "Pteroidichthys amboinensis",
+  "text": "Menší rybky připlují k tomuto druhu bez obav.",
+  "quote": "Menší rybky připlují do těsné blízkosti bez obav.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q458204#1",
+  "species": "Paropušnice proměnlivá",
+  "latin": "Pteroidichthys amboinensis",
+  "text": "Dorůstá maximálně do 12 cm.",
+  "quote": "dorůstá maximálně velikosti 12 cm",
+  "claimed_false_for": {
+   "Q1139189": "Ostenec oranžovoproužkatý (Balistapus undulatus)",
+   "Q1543756": "Muréna šedá (Gymnothorax griseus)",
+   "Q1755989": "Ďas americký (Lophius americanus)",
+   "Q201235": "Paúhoř elektrický (Electrophorus electricus)",
+   "Q3233194": "Pražman velkooký (Calamus calamus)",
+   "Q387344": "Keříčkovec červenolemý (Clarias gariepinus)",
+   "Q522309": "Útesník Lorenzův (Abudefduf lorenzi)",
+   "Q723654": "Siven americký (Salvelinus fontinalis)",
+   "Q827441": "Skalára amazonská (Pterophyllum scalare)"
+  }
+ },
+ {
+  "id": "Q465261#0",
+  "species": "Chanos stříbřitý",
+  "latin": "Chanos chanos",
+  "text": "Živí se převážně řasami a zooplanktonem.",
+  "quote": "Živí se převážně řasami a zooplanktonem.",
+  "claimed_false_for": {
+   "Q283274": "Gymnarch nilský (Gymnarchus niloticus)",
+   "Q300955": "Jeseter velký (Acipenser sturio)",
+   "Q7045": "Pilobřich ostnitý (Zeus faber)",
+   "Q737579": "Jeseter krátkorypý (Acipenser brevirostrum)",
+   "Q945616": "Rozedranec pihovitý (Antennarius coccineus)"
+  }
+ },
+ {
+  "id": "Q475211#0",
+  "species": "Losos keta",
+  "latin": "Oncorhynchus keta",
+  "text": "Obvykle váží 4,4 až 10 kg.",
+  "quote": "Losos keta obvykle váží od 4,4 do 10 kg",
+  "claimed_false_for": {
+   "Q1760196": "Pestřenec očkatý (Lamprologus ocellatus)",
+   "Q2482211": "Kanic jednoskvrnnný (Caesioperca rasor)",
+   "Q301019": "Mihule říční (Lampetra fluviatilis)",
+   "Q502228": "Mřenka mramorovaná (Barbatula barbatula)",
+   "Q592469": "Útesník Höflerův (Abudefduf hoefleri)"
+  }
+ },
+ {
+  "id": "Q475211#1",
+  "species": "Losos keta",
+  "latin": "Oncorhynchus keta",
+  "text": "Ve sladké vodě získá tmavě olivově zelenou barvu.",
+  "quote": "Když se přesune do sladké vody, barva se změní na tmavě olivově zelenou",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q481523#0",
+  "species": "Útesník maomao",
+  "latin": "Abudefduf abdominalis",
+  "text": "Dospělí jedinci dorůstají délky až 10 centimetrů.",
+  "quote": "Dospělí jedinci dorůstají délky až 10 centimetrů.",
+  "claimed_false_for": {
+   "Q258797": "Tlamovec černoploutvý (Labidochromis caeruleus)",
+   "Q2692345": "Chňapal americký (Lutjanus analis)",
+   "Q3442": "Vrubozubec paví (Astronotus ocellatus)",
+   "Q491934": "Kaproun obecný (Amia calva)",
+   "Q522309": "Útesník Lorenzův (Abudefduf lorenzi)",
+   "Q592469": "Útesník Höflerův (Abudefduf hoefleri)",
+   "Q690512": "Havýš čtyřhranný (Tetrosomus gibbosus)",
+   "Q827441": "Skalára amazonská (Pterophyllum scalare)"
+  }
+ },
+ {
+  "id": "Q481523#1",
+  "species": "Útesník maomao",
+  "latin": "Abudefduf abdominalis",
+  "text": "Plave poblíž vodní hladiny.",
+  "quote": "Ryba plave poblíž vodní hladiny.",
+  "claimed_false_for": {
+   "Q690512": "Havýš čtyřhranný (Tetrosomus gibbosus)"
+  }
+ }
+]

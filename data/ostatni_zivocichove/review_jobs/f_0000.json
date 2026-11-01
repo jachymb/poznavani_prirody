@@ -1,0 +1,321 @@
+[
+ {
+  "id": "Q144700#0",
+  "species": "Mník jednovousý",
+  "latin": "Lota lota",
+  "text": "Mladí jedinci a jikry jsou potravou pro mnoho dravých ryb, například štiky.",
+  "quote": "Mladí jedinci a jikry mníka jsou potravou pro mnoho dravých ryb, mezi které patří například štika",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q144700#1",
+  "species": "Mník jednovousý",
+  "latin": "Lota lota",
+  "text": "Loví převážně korýše, jikry, červy a larvy vodního hmyzu.",
+  "quote": "Loví převážně korýše, jikry, červi, larvy",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q144700#2",
+  "species": "Mník jednovousý",
+  "latin": "Lota lota",
+  "text": "Tento druh je aktivní hlavně za soumraku a za svítání.",
+  "quote": "Jelikož jsou aktivní především za snížených světelných podmínek za soumraku a za svítání",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q144700#3",
+  "species": "Mník jednovousý",
+  "latin": "Lota lota",
+  "text": "Dožívá se obvykle 10 až 15 let.",
+  "quote": "Mník se obvykle dožívá 10–15 let, výjimečně až 20 let.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q199788#0",
+  "species": "Treska obecná",
+  "latin": "Gadus morhua",
+  "text": "Na začátku života se živí planktonem.",
+  "quote": "Treska obecná se na začátku života živí planktonem",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q199788#1",
+  "species": "Treska obecná",
+  "latin": "Gadus morhua",
+  "text": "Později pojídá korýše, měkkýše a menší ryby.",
+  "quote": "později se z ní stává dravá ryba, která pojídá mnohoštětinatce, korýše, měkkýše a menší druhy ryb",
+  "claimed_false_for": {
+   "Q3823518": "Strunovec vodní (Gordius aquaticus)",
+   "Q902024": "Ploštěnka mléčná (Dendrocoelum lacteum)"
+  }
+ },
+ {
+  "id": "Q199788#2",
+  "species": "Treska obecná",
+  "latin": "Gadus morhua",
+  "text": "Loví malé ryby, například sledi.",
+  "quote": "vyhledává svoji kořist v podobě malých ryb (např. sledi)",
+  "claimed_false_for": {
+   "Q3823518": "Strunovec vodní (Gordius aquaticus)",
+   "Q902024": "Ploštěnka mléčná (Dendrocoelum lacteum)"
+  }
+ },
+ {
+  "id": "Q199788#3",
+  "species": "Treska obecná",
+  "latin": "Gadus morhua",
+  "text": "Může se dožít až 60 let.",
+  "quote": "V ideálním stavu se může treska obecná dožít až 60 let",
+  "claimed_false_for": {
+   "Q7171": "Parmice nachová (Mullus barbatus)",
+   "Q752683": "Treska polak (Pollachius pollachius)"
+  }
+ },
+ {
+  "id": "Q202406#0",
+  "species": "Treska skvrnitá",
+  "latin": "Melanogrammus aeglefinus",
+  "text": "Dospělí jedinci loví menší ryby, například sleď obecný.",
+  "quote": "dospělí jedinci loví menší ryby jako je sleď obecný",
+  "claimed_false_for": {
+   "Q3823518": "Strunovec vodní (Gordius aquaticus)",
+   "Q7171": "Parmice nachová (Mullus barbatus)",
+   "Q902024": "Ploštěnka mléčná (Dendrocoelum lacteum)"
+  }
+ },
+ {
+  "id": "Q273083#0",
+  "species": "Treska bezvousá",
+  "latin": "Merlangius merlangus",
+  "text": "Požírá malé rybky, krevety a kraby.",
+  "quote": "Vedle malých rybek požírá krevety, kraby, měkkýše, mnohoštětinatce a hlavonožce.",
+  "claimed_false_for": {
+   "Q3823518": "Strunovec vodní (Gordius aquaticus)",
+   "Q902024": "Ploštěnka mléčná (Dendrocoelum lacteum)"
+  }
+ },
+ {
+  "id": "Q273083#1",
+  "species": "Treska bezvousá",
+  "latin": "Merlangius merlangus",
+  "text": "Nejčastěji žije v hloubce 30 až 100 metrů.",
+  "quote": "Obývá slané a brakické vody do 200 m hloubek, nejčastěji mezi 30–100 m.",
+  "claimed_false_for": {
+   "Q3823518": "Strunovec vodní (Gordius aquaticus)"
+  }
+ },
+ {
+  "id": "Q3823518#0",
+  "species": "Strunovec vodní",
+  "latin": "Gordius aquaticus",
+  "text": "Larvy jsou vnitřní parazité hmyzu, zvláště brouků.",
+  "quote": "Larvy představují vnitřní parazity, resp. parazitoidy hmyzu, zvláště brouků.",
+  "claimed_false_for": {
+   "Q144700": "Mník jednovousý (Lota lota)",
+   "Q199788": "Treska obecná (Gadus morhua)",
+   "Q202406": "Treska skvrnitá (Melanogrammus aeglefinus)",
+   "Q273083": "Treska bezvousá (Merlangius merlangus)",
+   "Q5125285": "Treska tmavá (Pollachius virens)",
+   "Q7171": "Parmice nachová (Mullus barbatus)",
+   "Q726276": "Štikozubec obecný (Merluccius merluccius)",
+   "Q743248": "Treska modravá (Micromesistius poutassou)",
+   "Q752683": "Treska polak (Pollachius pollachius)",
+   "Q846231": "Treska pestrá (Theragra chalcogramma)",
+   "Q902024": "Ploštěnka mléčná (Dendrocoelum lacteum)",
+   "Q919598": "Štikozubec tichooceánský (Merluccius productus)"
+  }
+ },
+ {
+  "id": "Q5125285#0",
+  "species": "Treska tmavá",
+  "latin": "Pollachius virens",
+  "text": "Dospělí jedinci se obvykle dožívají 16–20 let.",
+  "quote": "Dospělí jedinci se obvykle dožívají 16–20 let",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q5125285#1",
+  "species": "Treska tmavá",
+  "latin": "Pollachius virens",
+  "text": "Živí se nesnědeným lososím krmivem z rybích farem.",
+  "quote": "shromažďovat se v okolí rybích farem a živit se nesnědeným lososím krmivem",
+  "claimed_false_for": {
+   "Q3823518": "Strunovec vodní (Gordius aquaticus)",
+   "Q902024": "Ploštěnka mléčná (Dendrocoelum lacteum)"
+  }
+ },
+ {
+  "id": "Q5125285#2",
+  "species": "Treska tmavá",
+  "latin": "Pollachius virens",
+  "text": "Mladí jedinci se obvykle vyskytují v blízkosti břehu.",
+  "quote": "Mladí jedinci se obvykle vyskytují v blízkosti břehu",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q5125285#3",
+  "species": "Treska tmavá",
+  "latin": "Pollachius virens",
+  "text": "Samice produkují 500 tisíc až 9 milionů jiker.",
+  "quote": "Samice produkují v závislosti na své velikosti 500 tisíc až 9 milionů jiker",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q7171#0",
+  "species": "Parmice nachová",
+  "latin": "Mullus barbatus",
+  "text": "Živí se drobnými bezobratlými živočichy.",
+  "quote": "živí se drobnými bezobratlými živočichy",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q7171#1",
+  "species": "Parmice nachová",
+  "latin": "Mullus barbatus",
+  "text": "Citlivé hmatové vousky slouží k hledání kořisti.",
+  "quote": "K vyhledávání kořisti jí slouží citlivé hmatové vousky.",
+  "claimed_false_for": {
+   "Q3823518": "Strunovec vodní (Gordius aquaticus)",
+   "Q5125285": "Treska tmavá (Pollachius virens)",
+   "Q726276": "Štikozubec obecný (Merluccius merluccius)",
+   "Q743248": "Treska modravá (Micromesistius poutassou)",
+   "Q752683": "Treska polak (Pollachius pollachius)",
+   "Q902024": "Ploštěnka mléčná (Dendrocoelum lacteum)",
+   "Q919598": "Štikozubec tichooceánský (Merluccius productus)"
+  }
+ },
+ {
+  "id": "Q726276#0",
+  "species": "Štikozubec obecný",
+  "latin": "Merluccius merluccius",
+  "text": "Loví hlavně jiné ryby, například sardinky a tresky.",
+  "quote": "loví hlavně jiné ryby, jejich kořistí se stávají sardinky, ančovičky, šproti, sledi a tresky",
+  "claimed_false_for": {
+   "Q3823518": "Strunovec vodní (Gordius aquaticus)",
+   "Q7171": "Parmice nachová (Mullus barbatus)",
+   "Q902024": "Ploštěnka mléčná (Dendrocoelum lacteum)"
+  }
+ },
+ {
+  "id": "Q726276#1",
+  "species": "Štikozubec obecný",
+  "latin": "Merluccius merluccius",
+  "text": "Mladé rybky se první rok svého života živí hlavně korýši.",
+  "quote": "mladé rybky se první rok svého života, dokud nedorostou asi 16 cm, živí hlavně korýši",
+  "claimed_false_for": {
+   "Q3823518": "Strunovec vodní (Gordius aquaticus)",
+   "Q902024": "Ploštěnka mléčná (Dendrocoelum lacteum)"
+  }
+ },
+ {
+  "id": "Q743248#0",
+  "species": "Treska modravá",
+  "latin": "Micromesistius poutassou",
+  "text": "Živí se menšími rybami, korýši a hlavonožci.",
+  "quote": "Její potravou jsou menší ryby, korýši a hlavonožci",
+  "claimed_false_for": {
+   "Q3823518": "Strunovec vodní (Gordius aquaticus)",
+   "Q902024": "Ploštěnka mléčná (Dendrocoelum lacteum)"
+  }
+ },
+ {
+  "id": "Q743248#1",
+  "species": "Treska modravá",
+  "latin": "Micromesistius poutassou",
+  "text": "Dožívá se až dvaceti let.",
+  "quote": "Dožívá se až dvaceti let.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q743248#2",
+  "species": "Treska modravá",
+  "latin": "Micromesistius poutassou",
+  "text": "V noci pluje blízko hladiny.",
+  "quote": "V noci provádí vertikální migraci do blízkosti hladiny.",
+  "claimed_false_for": {
+   "Q7171": "Parmice nachová (Mullus barbatus)"
+  }
+ },
+ {
+  "id": "Q743248#3",
+  "species": "Treska modravá",
+  "latin": "Micromesistius poutassou",
+  "text": "Samice nakladou až 150 tisíc jiker.",
+  "quote": "Samice nakladou až 150 tisíc jiker",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q752683#0",
+  "species": "Treska polak",
+  "latin": "Pollachius pollachius",
+  "text": "Dorůstá délky až 130 cm a hmotnosti 18,1 kg.",
+  "quote": "Dorůstá délky až 130 cm a hmotnosti 18,1 kg.",
+  "claimed_false_for": {
+   "Q3823518": "Strunovec vodní (Gordius aquaticus)",
+   "Q7171": "Parmice nachová (Mullus barbatus)",
+   "Q902024": "Ploštěnka mléčná (Dendrocoelum lacteum)"
+  }
+ },
+ {
+  "id": "Q752683#1",
+  "species": "Treska polak",
+  "latin": "Pollachius pollachius",
+  "text": "Obývá pobřežní oblasti s pevným dnem.",
+  "quote": "Obývá pobřežní oblasti s pevným dnem",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q846231#0",
+  "species": "Treska pestrá",
+  "latin": "Theragra chalcogramma",
+  "text": "Měří 40 až 45 cm na délku.",
+  "quote": "Měří 40 až 45 cm na délku",
+  "claimed_false_for": {
+   "Q3823518": "Strunovec vodní (Gordius aquaticus)",
+   "Q7171": "Parmice nachová (Mullus barbatus)",
+   "Q902024": "Ploštěnka mléčná (Dendrocoelum lacteum)"
+  }
+ },
+ {
+  "id": "Q846231#1",
+  "species": "Treska pestrá",
+  "latin": "Theragra chalcogramma",
+  "text": "Žije v severní části Tichého oceánu.",
+  "quote": "se vyskytuje v severní části Tichého oceánu",
+  "claimed_false_for": {
+   "Q3823518": "Strunovec vodní (Gordius aquaticus)",
+   "Q7171": "Parmice nachová (Mullus barbatus)",
+   "Q902024": "Ploštěnka mléčná (Dendrocoelum lacteum)"
+  }
+ },
+ {
+  "id": "Q902024#0",
+  "species": "Ploštěnka mléčná",
+  "latin": "Dendrocoelum lacteum",
+  "text": "Živí se drobnými organismy a řasami.",
+  "quote": "Živí se drobnými organismy a řasami.",
+  "claimed_false_for": {
+   "Q3823518": "Strunovec vodní (Gordius aquaticus)"
+  }
+ },
+ {
+  "id": "Q919598#0",
+  "species": "Štikozubec tichooceánský",
+  "latin": "Merluccius productus",
+  "text": "Přirozenými nepřáteli jsou kytovci, tuleni a mečouni.",
+  "quote": "Mezi přirozené nepřátele patří kytovci, tuleni a mečouni",
+  "claimed_false_for": {
+   "Q3823518": "Strunovec vodní (Gordius aquaticus)",
+   "Q902024": "Ploštěnka mléčná (Dendrocoelum lacteum)"
+  }
+ },
+ {
+  "id": "Q919598#1",
+  "species": "Štikozubec tichooceánský",
+  "latin": "Merluccius productus",
+  "text": "Samice kladou miliony jiker.",
+  "quote": "samice kladou miliony jiker",
+  "claimed_false_for": {}
+ }
+]

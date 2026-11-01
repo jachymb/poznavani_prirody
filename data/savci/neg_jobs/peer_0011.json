@@ -1,0 +1,267 @@
+{
+ "facts": [
+  {
+   "id": "Q827270#1",
+   "species": "Bělozubka šedá",
+   "text": "Žije v Evropě od Pyrenejského poloostrova po severní Polsko.",
+   "quote": "je v Evropě rozšířena od severu Pyrenejského poloostrova a jižní Francie přes střední Evropu, Apeninský a Balkánský poloostrov až po severní Polsko"
+  },
+  {
+   "id": "Q581661#0",
+   "species": "Tana obecná",
+   "text": "Tento druh je aktivní přes den a rychle utíká před nebezpečím.",
+   "quote": "Tana obecná je denní a velice mrštné zvíře, které před nebezpečím dokáží velice rychle uprchnout."
+  },
+  {
+   "id": "Q1416175#4",
+   "species": "Ježek jihoafrický",
+   "text": "Tento druh může jíst i vejce, houby a jiné savce.",
+   "quote": "konzumovat může ale také jiné druhy savců, vejce nebo i houby"
+  },
+  {
+   "id": "Q1416175#3",
+   "species": "Ježek jihoafrický",
+   "text": "Ve volné přírodě se dožívá asi tří let.",
+   "quote": "Věk dožití činí ve volné přírodě okolo tří let"
+  },
+  {
+   "id": "Q836725#0",
+   "species": "Ježek bělobřichý",
+   "text": "Tento druh je aktivní v noci.",
+   "quote": "Je to terestrický hmyzožravec s noční aktivitou."
+  },
+  {
+   "id": "Q1062541#0",
+   "species": "Bělozubka hnědá",
+   "text": "Tento druh má na bocích žlázy, které vylučují silný pach.",
+   "quote": "prostřednictvím nichž vylučují silný a nepříjemný odér"
+  },
+  {
+   "id": "Q754041#1",
+   "species": "Štětinatec haitský",
+   "text": "Žere hmyz, pavouky a měkkýše.",
+   "quote": "Žere nejrůznější hmyz, pavouky, měkkýše, drobné obojživelníky a plazy"
+  },
+  {
+   "id": "Q613721#1",
+   "species": "Rejsec černý",
+   "text": "Dožívá se obvykle 15 až 19 měsíců.",
+   "quote": "Obvykle se dožívají 15 až 19 měsíců."
+  },
+  {
+   "id": "Q581371#1",
+   "species": "Tana indická",
+   "text": "Jí hmyz, žížaly i plody.",
+   "quote": "V jejich jídelníčku lze najít hmyz, žížaly i plody"
+  },
+  {
+   "id": "Q754041#0",
+   "species": "Štětinatec haitský",
+   "text": "Tento druh je aktivní v noci.",
+   "quote": "Jeho strava, za kterou vychází v noci, je především živočišná."
+  },
+  {
+   "id": "Q5198886#0",
+   "species": "Letucha malajská",
+   "text": "Žere ovoce, mladé výhonky rostlin, pupeny i některé květy.",
+   "quote": "žere ovoce, mladé výhonky rostlin, pupeny i některé květy."
+  },
+  {
+   "id": "Q591450#3",
+   "species": "Rejsek obecný",
+   "text": "Tento druh se v přírodě dožívá většinou 14 měsíců.",
+   "quote": "Rejsek obecný se v přírodě dožívá většinou 14 měsíců"
+  },
+  {
+   "id": "Q591450#5",
+   "species": "Rejsek obecný",
+   "text": "Sýci rousní a sovy pálené často loví tento druh.",
+   "quote": "Rejsci se stávají častou potravou sov, zvláště sýce rousného a sovy pálené"
+  },
+  {
+   "id": "Q1070063#1",
+   "species": "Ježek amurský",
+   "text": "Tento druh váží 600 až 1000 gramů.",
+   "quote": "Celková hmotnost se pohybuje mezi 600–1000 g"
+  },
+  {
+   "id": "Q378959#4",
+   "species": "Tana severní",
+   "text": "Živí se plody, semeny a listy některých stromů.",
+   "quote": "živí se různými tropickými plody, semeny i listy určitých stromů"
+  },
+  {
+   "id": "Q1416175#2",
+   "species": "Ježek jihoafrický",
+   "text": "Tento druh rodí průměrně čtyři mláďata.",
+   "quote": "porodí průměrně čtyři mláďata"
+  },
+  {
+   "id": "Q626921#3",
+   "species": "Bělozubka bělobřichá",
+   "text": "Tento druh také požírá stonožky, žížaly a zdechliny.",
+   "quote": "V menší míře požírá též stonožky, žížaly a zdechliny."
+  },
+  {
+   "id": "Q378959#3",
+   "species": "Tana severní",
+   "text": "Někdy loví i malé savce.",
+   "quote": "někdy uloví i malé savce"
+  },
+  {
+   "id": "Q6145#3",
+   "species": "Ježek západní",
+   "text": "Při nebezpečí se stočí do klubíčka.",
+   "quote": "Uslyší-li predátora (lišku, psa), stočí se do klubíčka"
+  },
+  {
+   "id": "Q378959#1",
+   "species": "Tana severní",
+   "text": "V přírodě se dožívá asi pěti let.",
+   "quote": "Dožívají se v přírodě asi pěti let"
+  }
+ ],
+ "candidates": {
+  "Q903548": {
+   "name": "Ježek východní",
+   "latin": "Erinaceus roumanicus",
+   "family": "ježkovití",
+   "lead": "Ježek východní (Erinaceus roumanicus) je jeden ze dvou druhů ježků žijících na území ČR; druhým je ježek západní (Erinaceus europaeus).\n\n\n== Popis ==\nHlava ježka východního je celkově světlá, u mladých jedinců naopak velmi tmavá. Břicho je tmavohnědé s bílou skvrnou na hrdle a na prsou, u starých jedinců až bělavé. Bodliny má nepravidelně pruhované či jednobarevné, směřující do stran (rozcuchané), délka 17–22 mm, počet bodlin asi 6000–7000.\nObdobí rozmnožování je duben–září, období zimního spánk",
+   "facts": [
+    "Váží asi 900 gramů.",
+    "Nejraději žije na suchých a teplých místech."
+   ]
+  },
+  "Q581371": {
+   "name": "Tana indická",
+   "latin": "Anathana ellioti",
+   "family": "tanovití",
+   "lead": "Tana indická (Anathana ellioti) je druh tany z čeledi tanovití (Tupaiidae), jediný zástupce rodu Anathana. Americký přírodovědec Marcus Ward Lyon Jr., jenž rod Anathana vědecky popsal, sice na základě drobných rozdílů v osrstění rozlišoval i samostatné druhy A. pallida a A. wroughtoni, ovšem jejich platnost je sporná. Areál výskytu bez jejich akceptace zahrnuje východní, střední i jižní části\nIndického subkontinentu jižně od Gangy. I vzhledem k nedostatku muzejních vzorků jde nicméně z hlediska ",
+   "facts": [
+    "Tento druh je aktivní během dne.",
+    "Jí hmyz, žížaly i plody.",
+    "Jí plody libory měnivé."
+   ]
+  },
+  "Q754036": {
+   "name": "Vychuchol pyrenejský",
+   "latin": "Galemys pyrenaicus",
+   "family": "krtkovití",
+   "lead": "Vychuchol pyrenejský (Galemys pyrenaicus) je savec, který je aktivní hlavně v noci. Je to jeden ze dvou žijících druhů vychucholů na území Evropy. Tento druh se vyskytuje hlavně na severu Španělska a v Pyrenejích.\n\n\n== Taxonomie ==\nSpolečně s vychucholem povolžským patří do tribu vychucholové. Dříve bylo v tomto tribu mnohem více druhů, ale časem všechny druhy vyhynuly.\n\n\n== Popis ==\nVychuchol pyrenejský je dlouhý 11 až 16 cm s ocasem dlouhým od 12 do 16 cm. Váží 35 až 80 g. Vychucholové mají ci",
+   "facts": [
+    "Loví hlemýždě a garnáty.",
+    "Tento druh je aktivní hlavně v noci."
+   ]
+  },
+  "Q581661": {
+   "name": "Tana obecná",
+   "latin": "Tupaia glis",
+   "family": "tanovití",
+   "lead": "Tana obecná (Tupaia glis) je malý savec z čeledi tanovitých (Tupaiidae). Průměrná tělesná délka se pohybuje mezi 16 až 21 cm a průměrná hmotnost okolo 190 g. Barva srsti je velice různorodá. Od rudě hnědé, našedlé až černé, břicho je bělavé. Její dlouhý ocas, který dosahuje délky 12–21 cm je hustě osrstěný a téměř dosahuje stejné délky, jako celé tělo tany. Tlapky jsou holé, ale mají ostré drápky\na i nad nosem má neosrstěné místo. Obě pohlaví jsou si velmi podobná.\nTana obecná patří k největším ",
+   "facts": [
+    "Tento druh je aktivní přes den a rychle utíká před nebezpečím.",
+    "Mláďata se rodí bez srsti a nevidí.",
+    "Živí se především hmyzem, zvláště mravenci.",
+    "Jí také ovoce, listy, pupeny a semena."
+   ]
+  },
+  "Q591450": {
+   "name": "Rejsek obecný",
+   "latin": "Sorex araneus",
+   "family": "rejskovití",
+   "lead": "Rejsek obecný či rejsek lesní nebo rejsek evropský (Sorex araneus) je drobný a nejhojnější zástupce čeledi rejskovitých (Soricidae), jeden z našich nejhojnějších savců.\n\n\n== Popis ==\nRejsek obecný měří průměrně 55–82 mm na délku (bez ocasu), délka ocasu je35–50 mm a hmotnost přibližně 5–12 gramů. Rejsek je charakteristický sametově tmavohnědou srstí, která je na bocích světlejší a na břiše žlutavá. Nedospělí jedinci mají srst kratší až do doby, kdy začnou línat a letní srst nahradí srst zimní. O",
+   "facts": [
+    "Tento druh je aktivní celý rok a v zimě nespí.",
+    "Za den musí sníst potravu o hmotnosti 80–90 % svého těla.",
+    "Samice rodí 5 až 7 mláďat.",
+    "Tento druh se v přírodě dožívá většinou 14 měsíců.",
+    "Tento druh se živí hmyzem, slimáky a pavouky.",
+    "Sýci rousní a sovy pálené často loví tento druh.",
+    "Kočky, lasice nebo lišky tento druh příležitostně loví."
+   ]
+  },
+  "Q378959": {
+   "name": "Tana severní",
+   "latin": "Tupaia belangeri",
+   "family": "tanovití",
+   "lead": "Tana severní (Tupaia belangeri) je drobný savec z čeledi tanovitých. Obývají tropické pralesy Jihovýchodní Asie do nadmořské výšky 1000 metrů.\n\n\n== Popis ==\nTana severní je drobný živočich o hmotností 100 až 150 gramů, její délka těla je od  12,5 do 18 cm, osrstěný ocas má dlouhý 14,5 až 17,5 cm. Má dlouhé štíhlé tělo, zřetelné ušní boltce a velké černé oči. Končetiny mají stejně dlouhé, chodidla jsou lysá, prsty mají zakřivené drápky. Mají dlouhý čenich bez viditelných hmatových vousků a stejně",
+   "facts": [
+    "Tento druh je aktivní hlavně přes den.",
+    "V přírodě se dožívá asi pěti let.",
+    "Hlavní potravu tvoří bezobratlí a drobní obratlovci.",
+    "Někdy loví i malé savce.",
+    "Živí se plody, semeny a listy některých stromů."
+   ]
+  },
+  "Q5198886": {
+   "name": "Letucha malajská",
+   "latin": "Galeopterus variegatus",
+   "family": "letuchovití",
+   "lead": "Letucha malajská, resp. letuška indická (Galeopterus variegatus) je zvláštní noční savec z čeledi letuchovitých.\n\n\n== Synonyma ==\nCynocephalus variegatus\nGaleopithecus natunae\nGaleopithecus tellonis\nGaleopithecus variegatus\nGaleopterus abbotti\nGaleopterus lautensis\nGaleopterus variegates\n\n\n== Popis ==\nLetucha malajská má štíhlé tělo dosahující délky přibližně 40 cm, z toho ocas tvoří mnohdy více než polovinu.\nHmotnost je v rozmezí 0,9 – 2 kg. Hlava je malá, má malé zakulacené uši a tupý čenich a",
+   "facts": [
+    "Žere ovoce, mladé výhonky rostlin, pupeny i některé květy.",
+    "Mláďata žijí prvních 6 měsíců na matčině břiše."
+   ]
+  },
+  "Q1070063": {
+   "name": "Ježek amurský",
+   "latin": "Erinaceus amurensis",
+   "family": "ježkovití",
+   "lead": "Ježek amurský (Erinaceus amurensis) je druh hmyzožravce z čeledi ježkovití (Erinaceidae), jeden ze čtyř zástupců rodu Erinaceus. Za jeho popisnou autoritu je pokládán ruský zoolog Leopold von Schrenck (1859), ovšem jako samostatný druh bývá ježek amurský uznáván až od 80. let 20. století.\nJedná se o relativně mohutného zástupce ježků, s masivnější lebkou než má evropský ježek západní (E. europaeus). Délka těla činí 158–287 mm, velmi krátký ocas měří jen asi 17–42 mm. Délka přední tlapy činí 34–5",
+   "facts": [
+    "Tento druh je noční a jí hmyz.",
+    "Tento druh váží 600 až 1000 gramů.",
+    "Jeho přirozeným predátorem může být sobol asijský."
+   ]
+  },
+  "Q827270": {
+   "name": "Bělozubka šedá",
+   "latin": "Crocidura suaveolens",
+   "family": "rejskovití",
+   "lead": "Bělozubka šedá (Crocidura suaveolens) je menší hmyzožravec z čeledi rejskovití. Obývá palearktidu.\n\n\n== Rozšíření a četnost ==\nBělozubka šedá je v Evropě rozšířena od severu Pyrenejského poloostrova a jižní Francie přes střední Evropu, Apeninský a Balkánský poloostrov až po severní Polsko. Žije i na větších ostrovech Středomoří.",
+   "facts": [
+    "Je to menší hmyzožravec.",
+    "Žije v Evropě od Pyrenejského poloostrova po severní Polsko."
+   ]
+  },
+  "Q257774": {
+   "name": "Ježek pustinný",
+   "latin": "Paraechinus aethiopicus",
+   "family": "ježkovití",
+   "lead": "Ježek pustinný (Paraechinus aethiopicus) žije na severu Afriky (od Maroka a Mauritánie na západě až po Somálsko na východě) a na Arabském poloostrově.\nVzhledem poněkud připomíná své o trochu větší evropské příbuzné (ježek západní a ježek východní), ale má proměnlivější zbarvení. Bodliny jsou obvykle pískové hnědé s tmavšími špičkami, avšak tmavé či bílé formy nejsou nijak vzácné. Ježek pustinný si hrabe mělkou, nerozvětvenou noru, ve které tráví den. V noci, když se ochladí, vychází a hledá bezo",
+   "facts": [
+    "Štíři jsou jeho oblíbenou pochoutkou.",
+    "V červenci nebo srpnu rodí 5 mláďat."
+   ]
+  },
+  "Q1416175": {
+   "name": "Ježek jihoafrický",
+   "latin": "Atelerix frontalis",
+   "family": "ježkovití",
+   "lead": "Ježek jihoafrický (Atelerix frontalis) je druh hmyzožravce náležícího do čeledi ježkovití (Erinaceidae) a rodu Atelerix, historicky však patřil do rodu Erinaceus. Druh, který se rozrůznil na dva poddruhy (nejisté), popsal Andrew Smith v roce 1831.\n\n\n== Výskyt ==\nJežek jihoafrický je zvířetem afrotropické (etiopské) oblasti, obývá jižní části Afriky. Osídlil Angolu, Botswanu, Namibii, Jihoafrickou republiku a Zimbabwe, možná se vyskytuje i ve státě Lesotho. V tomto areálu rozšíření vytvořil dvě p",
+   "facts": [
+    "Tento druh je aktivní hlavně za svítání a za soumraku.",
+    "Živí se třeba termity a hlemýždi.",
+    "Tento druh rodí průměrně čtyři mláďata.",
+    "Ve volné přírodě se dožívá asi tří let.",
+    "Tento druh může jíst i vejce, houby a jiné savce.",
+    "Loví ho například výr bělavý.",
+    "Tento druh se dokáže pomocí bodlin ubránit i lvovi."
+   ]
+  },
+  "Q1062541": {
+   "name": "Bělozubka hnědá",
+   "latin": "Suncus murinus",
+   "family": "rejskovití",
+   "lead": "Bělozubka hnědá (Suncus murinus) je druh hmyzožravce z čeledi rejskovití (Soricidae) a rodu Suncus.\n\n\n== Výskyt ==\nPůvodní areál výskytu bělozubky hnědé zahrnuje území od jižní Asie a Afghánistánu až po Malajské souostroví a jižní Japonsko. Zavlečené populace však žijí v mnoha státech a regionech celého světa, podle vyhodnocení Mezinárodního svazu ochrany přírody (IUCN) z roku 2016 sem patří abecedně: Bahrajn, Komory, Džibutsko, Egypt, Eritrea, Guam, Irák, Jemen, Keňa, Kuvajt, Madagaskar, Mauric",
+   "facts": [
+    "Tento druh má na bocích žlázy, které vylučují silný pach.",
+    "Tento druh je aktivní v noci.",
+    "Jí často i rostliny a někdy i lidské jídlo.",
+    "Tento druh měří bez ocasu asi 15 cm.",
+    "Loví bezobratlé a malé obratlovce.",
+    "Může lovit původní druhy a soupeřit s nimi."
+   ]
+  }
+ }
+}

@@ -1,0 +1,493 @@
+[
+ {
+  "id": "Q159103#0",
+  "species": "Ostřice dvoudomá",
+  "latin": "Carex dioica",
+  "text": "Kvete nejčastěji v květnu a červnu.",
+  "quote": "Kvete nejčastěji v květnu až v červnu.",
+  "claimed_false_for": {
+   "Q15238126": "Skrytěnka bodlinatá (Crypsis aculeata)",
+   "Q159896": "Sítina trojklaná (Juncus trifidus)"
+  }
+ },
+ {
+  "id": "Q159103#1",
+  "species": "Ostřice dvoudomá",
+  "latin": "Carex dioica",
+  "text": "Tento druh má samčí a samičí rostliny zvlášť.",
+  "quote": "existují tedy samčí a samičí rostliny.",
+  "claimed_false_for": {
+   "Q154500": "Závitka mnohokořenná (Spirodela polyrhiza)",
+   "Q157929": "Ostřice jarní (Carex caryophyllea)",
+   "Q158168": "Ostřice lesní (Carex sylvatica)",
+   "Q159146": "Sveřep jalový (Bromus sterilis)",
+   "Q159163": "Kamyšník přímořský (Bolboschoenus maritimus)",
+   "Q159413": "Bika ladní (Luzula campestris)",
+   "Q159702": "Kostřava červená (Festuca rubra)",
+   "Q159706": "Ostřice skalní (Carex rupestris)",
+   "Q159734": "Ostřice bažinná (Carex limosa)",
+   "Q159968": "Kostřava obrovská (Festuca gigantea)",
+   "Q163349": "Kostřava walliská (Festuca valesiaca)",
+   "Q3206251": "Rdest trávolistý (Potamogeton gramineus)"
+  }
+ },
+ {
+  "id": "Q159119#0",
+  "species": "Bledule letní",
+  "latin": "Leucojum aestivum",
+  "text": "Tento druh má bílé květy se žlutou nebo zelenou skvrnou na špičce.",
+  "quote": "Jsou bílé barvy, pod špičkou mají žlutou až zelenou skvrnu.",
+  "claimed_false_for": {
+   "Q145686": "Kosatec sibiřský (Iris sibirica)",
+   "Q157885": "Kostřava ovčí (Festuca ovina)",
+   "Q158118": "Rudohlávek jehlancovitý (Anacamptis pyramidalis)",
+   "Q159289": "Bělozářka větevnatá (Anthericum ramosum)",
+   "Q161310": "Suchopýrek trsnatý (Trichophorum cespitosum)",
+   "Q917324": "Ostřice rusá (Carex flava)"
+  }
+ },
+ {
+  "id": "Q159119#1",
+  "species": "Bledule letní",
+  "latin": "Leucojum aestivum",
+  "text": "Tento druh kvete nejčastěji v květnu.",
+  "quote": "Kvete o něco později než bledule jarní, nejčastěji v květnu.",
+  "claimed_false_for": {
+   "Q1190377": "Angínovník čínský (Iris domestica)",
+   "Q15502195": "Bradáček srdčitý (Neottia cordata)",
+   "Q157890": "Smrkovník plazivý (Goodyera repens)",
+   "Q157893": "Hlízovec Loeselův (Liparis loeselii)"
+  }
+ },
+ {
+  "id": "Q159143#0",
+  "species": "Sítina klubkatá",
+  "latin": "Juncus conglomeratus",
+  "text": "Obvykle kvete v červnu a červenci.",
+  "quote": "Obvykle rozkvétá v červnu a červenci.",
+  "claimed_false_for": {
+   "Q15075480": "Tulipán banátský (Tulipa hungarica)",
+   "Q165013": "Ostřice plstnatá (Carex tomentosa)"
+  }
+ },
+ {
+  "id": "Q159143#1",
+  "species": "Sítina klubkatá",
+  "latin": "Juncus conglomeratus",
+  "text": "Tento druh nemá nektar, pyl přenáší vítr.",
+  "quote": "Květy neprodukují nektar a pyl potřebný k opylení je přenášen větrem.",
+  "claimed_false_for": {
+   "Q159444": "Křivatec nejmenší (Gagea minima)"
+  }
+ },
+ {
+  "id": "Q159146#0",
+  "species": "Sveřep jalový",
+  "latin": "Bromus sterilis",
+  "text": "Dorůstá do výšky 30 až 100 centimetrů.",
+  "quote": "vysoká 30 až 100 cm",
+  "claimed_false_for": {
+   "Q164843": "Ostřice vláskovitá (Carex capillaris)",
+   "Q673348": "Ravenala madagaskarská (Ravenala madagascariensis)"
+  }
+ },
+ {
+  "id": "Q159146#1",
+  "species": "Sveřep jalový",
+  "latin": "Bromus sterilis",
+  "text": "Jedna rostlina vytvoří přes 500 malých zrníček.",
+  "quote": "Na jedné rostlině dozraje přes 500 obilek.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q159152#0",
+  "species": "Sítina žabí",
+  "latin": "Juncus bufonius",
+  "text": "Kvete od června do října.",
+  "quote": "kvete od června do října",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q159152#1",
+  "species": "Sítina žabí",
+  "latin": "Juncus bufonius",
+  "text": "Dorůstá jen do výšky nejvýše 30 centimetrů.",
+  "quote": "nejvyšší lodyhy nedosahují výše než 30 cm",
+  "claimed_false_for": {
+   "Q161311": "Sveřep vzpřímený (Bromus erectus)",
+   "Q163351": "Rdestík hřebenitý (Potamogeton pectinatus)",
+   "Q370566": "Rdest vzplývavý (Potamogeton natans)"
+  }
+ },
+ {
+  "id": "Q159152#2",
+  "species": "Sítina žabí",
+  "latin": "Juncus bufonius",
+  "text": "Často se opyluje sama.",
+  "quote": "Často dochází k samoopylení",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q159152#3",
+  "species": "Sítina žabí",
+  "latin": "Juncus bufonius",
+  "text": "S prvními mrazy odumírá.",
+  "quote": "S nástupem prvých mrazů umírá.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q159156#0",
+  "species": "Sveřep měkký",
+  "latin": "Bromus hordeaceus",
+  "text": "Kvete od května do července.",
+  "quote": "Kvete v květnu až červenci.",
+  "claimed_false_for": {
+   "Q1195489": "Skunkovka páchnoucí (Symplocarpus foetidus)"
+  }
+ },
+ {
+  "id": "Q159156#1",
+  "species": "Sveřep měkký",
+  "latin": "Bromus hordeaceus",
+  "text": "Jedna rostlina dá po dozrání až 1500 zrníček.",
+  "quote": "Z jedné rostliny vypadne po dozrání až 1500 obilek",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q159163#0",
+  "species": "Kamyšník přímořský",
+  "latin": "Bolboschoenus maritimus",
+  "text": "Dorůstá do výšky 0,7 metru, výjimečně až 1,5 metru.",
+  "quote": "dosahující do výše 0,7 až výjimečně 1,5 m",
+  "claimed_false_for": {
+   "Q164843": "Ostřice vláskovitá (Carex capillaris)",
+   "Q673348": "Ravenala madagaskarská (Ravenala madagascariensis)"
+  }
+ },
+ {
+  "id": "Q159163#1",
+  "species": "Kamyšník přímořský",
+  "latin": "Bolboschoenus maritimus",
+  "text": "Kvete od května do července.",
+  "quote": "Kvete od května do července.",
+  "claimed_false_for": {
+   "Q162399": "Bezkolenec rákosovitý (Molinia arundinacea)",
+   "Q763872": "Kuňucha (Ambrosina bassii)"
+  }
+ },
+ {
+  "id": "Q159163#2",
+  "species": "Kamyšník přímořský",
+  "latin": "Bolboschoenus maritimus",
+  "text": "Roste na vlhkých místech, která se občas zaplaví vodou.",
+  "quote": "Vyrůstá na vlhkých místech která jsou příležitostně zaplavována",
+  "claimed_false_for": {
+   "Q12104": "Oves setý (Avena sativa)",
+   "Q159444": "Křivatec nejmenší (Gagea minima)",
+   "Q163052": "Bér zelený (Setaria viridis)"
+  }
+ },
+ {
+  "id": "Q159163#3",
+  "species": "Kamyšník přímořský",
+  "latin": "Bolboschoenus maritimus",
+  "text": "Jeho pevné listy slouží k pletení rohoží a tkaní koberců.",
+  "quote": "Ve státech s větším rozšířením se jeho houževnatých listů využívá k pletení rohoží, tkaní koberců",
+  "claimed_false_for": {
+   "Q154500": "Závitka mnohokořenná (Spirodela polyrhiza)",
+   "Q163351": "Rdestík hřebenitý (Potamogeton pectinatus)",
+   "Q3338330": "Bahenka šášinovitá (Crypsis schoenoides)",
+   "Q370566": "Rdest vzplývavý (Potamogeton natans)"
+  }
+ },
+ {
+  "id": "Q159194#0",
+  "species": "Šejdračka bahenní",
+  "latin": "Zannichellia palustris",
+  "text": "Tento druh kvete pod vodou.",
+  "quote": "vykvétají pod vodou",
+  "claimed_false_for": {
+   "Q1233923": "Árón východní (Arum cylindraceum)",
+   "Q154500": "Závitka mnohokořenná (Spirodela polyrhiza)",
+   "Q158994": "Rosička krvavá (Digitaria sanguinalis)",
+   "Q159413": "Bika ladní (Luzula campestris)",
+   "Q159487": "Rdest dlouholistý (Potamogeton praelongus)",
+   "Q161565": "Šípatka střelolistá (Sagittaria sagittifolia)",
+   "Q33943": "Euterpe brazilská (Euterpe oleracea)",
+   "Q370566": "Rdest vzplývavý (Potamogeton natans)",
+   "Q654001": "Babelka řezanovitá (Pistia stratiotes)",
+   "Q80079": "Aloe pravá (Aloe vera)"
+  }
+ },
+ {
+  "id": "Q159203#0",
+  "species": "Mnohokvět hroznatý",
+  "latin": "Kniphofia uvaria",
+  "text": "Tento druh mění barvu květů z červené na žlutou.",
+  "quote": "Barevně přecházejí poupata postupně přes červenou, oranžovou, až plně rozevřené květy nabývají žlutého až krémového zbarvení.",
+  "claimed_false_for": {
+   "Q130882": "Česnek medvědí (Allium ursinum)",
+   "Q15312475": "Kulkas zamiolistý (Zamioculcas zamiifolia)",
+   "Q15476974": "Pětiprstka hustokvětá (Gymnadenia densiflora)",
+   "Q157427": "Okrotice dlouholistá (Cephalanthera longifolia)",
+   "Q157542": "Vemeníček zelený (Dactylorhiza viridis)",
+   "Q159278": "Česnek kýlnatý (Allium carinatum)",
+   "Q159662": "Česnek tuhý (Allium strictum)",
+   "Q163649": "Morovinka hustolistá (Egeria densa)",
+   "Q17235117": "Kosatec písečný (Iris arenaria)",
+   "Q2074966": "Ostřice Micheliova (Carex michelii)",
+   "Q763872": "Kuňucha (Ambrosina bassii)",
+   "Q977605": "Střevíčník královnin (Cypripedium reginae)"
+  }
+ },
+ {
+  "id": "Q159203#1",
+  "species": "Mnohokvět hroznatý",
+  "latin": "Kniphofia uvaria",
+  "text": "Kvete v letních měsících.",
+  "quote": "Obdobím květu jsou letní měsíce.",
+  "claimed_false_for": {
+   "Q15041677": "Šafrán setý (Crocus sativus)",
+   "Q806126": "Ostřice Buekova (Carex buekii)"
+  }
+ },
+ {
+  "id": "Q159212#0",
+  "species": "Ostřice oddálená",
+  "latin": "Carex distans",
+  "text": "Tento druh má nahoře klásky s pylem, dole s pestíky.",
+  "quote": "klásky čistě samčí, dole čistě samičí",
+  "claimed_false_for": {
+   "Q1129703": "Rákosovka (Hakonechloa macra)",
+   "Q1165724": "Šáchor jedlý (Cyperus esculentus)",
+   "Q157893": "Hlízovec Loeselův (Liparis loeselii)",
+   "Q159815": "Ovsík vyvýšený (Arrhenatherum elatius)",
+   "Q579146": "Milička menší (Eragrostis minor)",
+   "Q625395": "Rdest smáčknutý (Potamogeton compressus)"
+  }
+ },
+ {
+  "id": "Q159212#1",
+  "species": "Ostřice oddálená",
+  "latin": "Carex distans",
+  "text": "Tento druh roste na zasolených loukách a u pramenů.",
+  "quote": "Najdeme ji na zasolených loukách a prameništích, hlavně na minerálně bohatých.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q159221#1",
+  "species": "Agáve sisalová",
+  "latin": "Agave sisalana",
+  "text": "Tento druh hyne po odkvětu.",
+  "quote": "Po odkvětu rostlina hyne.",
+  "claimed_false_for": {
+   "Q1129703": "Rákosovka (Hakonechloa macra)",
+   "Q15502088": "Bradáček vejčitý (Neottia ovata)",
+   "Q157427": "Okrotice dlouholistá (Cephalanthera longifolia)",
+   "Q158118": "Rudohlávek jehlancovitý (Anacamptis pyramidalis)",
+   "Q158165": "Ostřice ježatá (Carex echinata)",
+   "Q159284": "Hlavinka horská (Traunsteinera globosa)",
+   "Q162300": "Kosatec nízký (Iris pumila)",
+   "Q1985749": "Snědek nicí (Ornithogalum nutans)",
+   "Q2278032": "Duma thébská (Hyphaene thebaica)",
+   "Q28367": "Chřest lékařský (Asparagus officinalis)",
+   "Q42285": "Česnek hlíznatý (Allium tuberosum)"
+  }
+ },
+ {
+  "id": "Q159247#0",
+  "species": "Ostřice Otrubova",
+  "latin": "Carex otrubae",
+  "text": "Dorůstá obvykle do výšky 20 až 80 centimetrů.",
+  "quote": "dosahující výšky nejčastěji 20–80 cm",
+  "claimed_false_for": {
+   "Q15238126": "Skrytěnka bodlinatá (Crypsis aculeata)",
+   "Q157897": "Okřehek hrbatý (Lemna gibba)",
+   "Q159444": "Křivatec nejmenší (Gagea minima)"
+  }
+ },
+ {
+  "id": "Q159247#1",
+  "species": "Ostřice Otrubova",
+  "latin": "Carex otrubae",
+  "text": "Kvete obvykle v květnu a červnu.",
+  "quote": "Kvete nejčastěji v květnu až v červnu.",
+  "claimed_false_for": {
+   "Q162399": "Bezkolenec rákosovitý (Molinia arundinacea)"
+  }
+ },
+ {
+  "id": "Q159251#0",
+  "species": "Ostřice šáchorovitá",
+  "latin": "Carex bohemica",
+  "text": "Tento druh kvete nejčastěji od června do září.",
+  "quote": "Kvete nejčastěji v červnu až v září.",
+  "claimed_false_for": {
+   "Q160038": "Ostřice tlapkatá (Carex pediformis)"
+  }
+ },
+ {
+  "id": "Q159251#1",
+  "species": "Ostřice šáchorovitá",
+  "latin": "Carex bohemica",
+  "text": "Tento druh má mnoho drobných klásků, hustě sbalených do kulaté hlávky.",
+  "quote": "Klásky jsou drobné a početné a jsou hustě shloučeny do kulovité hlávky.",
+  "claimed_false_for": {
+   "Q159921": "Ostřice sazová (Carex fuliginosa)",
+   "Q162399": "Bezkolenec rákosovitý (Molinia arundinacea)",
+   "Q165196": "Proso seté (Panicum miliaceum)",
+   "Q1945905": "Kornoutice africká (Zantedeschia aethiopica)",
+   "Q3391243": "Cukrová třtina (Saccharum officinarum)",
+   "Q50346809": "Kostřava rákosovitá (Lolium arundinaceum)",
+   "Q763872": "Kuňucha (Ambrosina bassii)",
+   "Q806126": "Ostřice Buekova (Carex buekii)"
+  }
+ },
+ {
+  "id": "Q159254#0",
+  "species": "Ostřice pochvatá",
+  "latin": "Carex vaginata",
+  "text": "Dorůstá nejčastěji do výšky 10 až 40 centimetrů.",
+  "quote": "dosahující výšky nejčastěji 10-40 (vzácněji až 60) cm",
+  "claimed_false_for": {
+   "Q163559": "Dosna indická (Canna indica)",
+   "Q500857": "Lontar vějířovitý (Borassus flabellifer)"
+  }
+ },
+ {
+  "id": "Q159255#0",
+  "species": "Sítina Gerardova",
+  "latin": "Juncus gerardi",
+  "text": "Roste na vlhkých loukách, které jsou trochu slané.",
+  "quote": "rostoucí na vlhkých, slaných loukách",
+  "claimed_false_for": {
+   "Q158109": "Psárka polní (Alopecurus myosuroides)",
+   "Q161119": "Přestup drsný (Smilax aspera)",
+   "Q161311": "Sveřep vzpřímený (Bromus erectus)",
+   "Q673348": "Ravenala madagaskarská (Ravenala madagascariensis)"
+  }
+ },
+ {
+  "id": "Q159255#1",
+  "species": "Sítina Gerardova",
+  "latin": "Juncus gerardi",
+  "text": "Může dorůst do výšky 50 centimetrů.",
+  "quote": "může být vysoká do 50 cm",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q159255#2",
+  "species": "Sítina Gerardova",
+  "latin": "Juncus gerardi",
+  "text": "Kvete v letních měsících, od června do září.",
+  "quote": "Byliny kvetou v letních měsících, zpravidla průběžně od června do září.",
+  "claimed_false_for": {
+   "Q157929": "Ostřice jarní (Carex caryophyllea)",
+   "Q159413": "Bika ladní (Luzula campestris)"
+  }
+ },
+ {
+  "id": "Q159255#3",
+  "species": "Sítina Gerardova",
+  "latin": "Juncus gerardi",
+  "text": "Dobytek, koně i ovce ji v přírodě pasou.",
+  "quote": "v přírodě sítina spásána dobytkem, koňmi i ovcemi",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q159274#1",
+  "species": "Bělozářka liliovitá",
+  "latin": "Anthericum liliago",
+  "text": "Má šest bílých okvětních lístků.",
+  "quote": "Okvětních lístků je 6, jsou bílé a cca 15–22 mm dlouhé, všechny víceméně stejné.",
+  "claimed_false_for": {
+   "Q161077": "Monstera skvostná (Monstera deliciosa)",
+   "Q161293": "Bahnička chudokvětá (Eleocharis quinqueflora)",
+   "Q162137": "Aloe stromovitá (Aloe arborescens)",
+   "Q51148": "Pažitka pobřežní (Allium schoenoprasum)",
+   "Q544137": "Posidonie mořská (Posidonia oceanica)"
+  }
+ },
+ {
+  "id": "Q159275#0",
+  "species": "Ladoňka dvoulistá",
+  "latin": "Scilla bifolia",
+  "text": "Z jedné cibule obvykle vyroste jen jeden stvol.",
+  "quote": "Z jedné cibule vyráží většinou jen 1 stvol",
+  "claimed_false_for": {
+   "Q145686": "Kosatec sibiřský (Iris sibirica)",
+   "Q157885": "Kostřava ovčí (Festuca ovina)",
+   "Q158118": "Rudohlávek jehlancovitý (Anacamptis pyramidalis)",
+   "Q159283": "Švihlík krutiklas (Spiranthes spiralis)",
+   "Q159289": "Bělozářka větevnatá (Anthericum ramosum)",
+   "Q159299": "Kokořík mnohokvětý (Polygonatum multiflorum)",
+   "Q161310": "Suchopýrek trsnatý (Trichophorum cespitosum)",
+   "Q917324": "Ostřice rusá (Carex flava)"
+  }
+ },
+ {
+  "id": "Q159275#1",
+  "species": "Ladoňka dvoulistá",
+  "latin": "Scilla bifolia",
+  "text": "Tento druh má šest volných lístků, většinou světle fialově modrých.",
+  "quote": "Okvětí se skládá ze 6 okvětních lístků, jsou volné, asi 10–11 mm dlouhé. Jsou většinou oboustranně světle fialově modré",
+  "claimed_false_for": {
+   "Q119135": "Vraní oko čtyřlisté (Paris quadrifolia)",
+   "Q1195489": "Skunkovka páchnoucí (Symplocarpus foetidus)",
+   "Q12055152": "Snědek rozkladitý (Ornithogalum divergens)",
+   "Q158042": "Měkčilka jednolistá (Malaxis monophyllos)",
+   "Q158902": "Křivatec luční (Gagea pratensis)",
+   "Q159203": "Mnohokvět hroznatý (Kniphofia uvaria)",
+   "Q161476": "Tořič pavoukonosný (Ophrys sphegodes)",
+   "Q2425310": "Šáchor dlouhý (Cyperus longus)"
+  }
+ },
+ {
+  "id": "Q159278#0",
+  "species": "Česnek kýlnatý",
+  "latin": "Allium carinatum",
+  "text": "Dorůstá asi 15 až 40 centimetrů vysoko.",
+  "quote": "cca 15–40 cm vysokou rostlinu",
+  "claimed_false_for": {
+   "Q158902": "Křivatec luční (Gagea pratensis)"
+  }
+ },
+ {
+  "id": "Q159278#1",
+  "species": "Česnek kýlnatý",
+  "latin": "Allium carinatum",
+  "text": "Tento druh má fialové květy.",
+  "quote": "Okvětní lístky jsou cca 4–6 mm dlouhé a 1,5–2 mm široké, fialové, na hřbetě kýlnaté.",
+  "claimed_false_for": {
+   "Q21173": "Kosatec žlutý (Iris pseudacorus)",
+   "Q2993897": "Denivka žlutá (Hemerocallis lilioasphodelus)",
+   "Q3495727": "Snědek ocasatý (Albuca bracteata)",
+   "Q7224923": "Vanilovník plocholistý (Vanilla planifolia)",
+   "Q80079": "Aloe pravá (Aloe vera)"
+  }
+ },
+ {
+  "id": "Q159279#0",
+  "species": "Běloprstka bělavá",
+  "latin": "Pseudorchis albida",
+  "text": "Tento druh dorůstá do výšky 10 až 30 centimetrů.",
+  "quote": "10 až 30 cm vysoká bylina",
+  "claimed_false_for": {
+   "Q161077": "Monstera skvostná (Monstera deliciosa)",
+   "Q161099": "Česnek ořešec (Allium scorodoprasum)",
+   "Q162137": "Aloe stromovitá (Aloe arborescens)",
+   "Q42729158": "Tuberóza hlíznatá (Agave amica)"
+  }
+ },
+ {
+  "id": "Q159279#1",
+  "species": "Běloprstka bělavá",
+  "latin": "Pseudorchis albida",
+  "text": "Tento druh kvete od května do července.",
+  "quote": "května do července",
+  "claimed_false_for": {
+   "Q12032661": "Ladoňka karpatská (Scilla kladnii)",
+   "Q152553": "Ocún jesenní (Colchicum autumnale)"
+  }
+ }
+]

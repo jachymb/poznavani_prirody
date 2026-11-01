@@ -1,0 +1,85 @@
+[
+ {
+  "id": "Q579784#0",
+  "species": "Vratička měsíční",
+  "latin": "Botrychium lunaria",
+  "text": "Roste na suchých pastvinách a travnatých stráních.",
+  "quote": "Vyskytuje se na suchých pastvinách, travnatých stráních, častěji na vápnitých půdách.",
+  "claimed_false_for": {
+   "Q1332525": "Marsilka čtyřlistá (Marsilea quadrifolia)",
+   "Q1574713": "Jinořadec kadeřavý (Cryptogramma crispa)",
+   "Q2000383": "Vláskatec tajemný (Trichomanes speciosum)",
+   "Q21122": "Přeslička bahenní (Equisetum palustre)",
+   "Q2273882": "Sleziník hadcový (Asplenium cuneifolium)",
+   "Q322994": "Kapraď samec (Dryopteris filix-mas)",
+   "Q674547": "Papratka horská (Athyrium distentifolium)",
+   "Q937406": "Kapraď podobná (Dryopteris expansa)"
+  }
+ },
+ {
+  "id": "Q579784#1",
+  "species": "Vratička měsíční",
+  "latin": "Botrychium lunaria",
+  "text": "Roste na všech kontinentech kromě Antarktidy.",
+  "quote": "Druh se nachází na všech kontinentech s výjimkou Antarktidy",
+  "claimed_false_for": {
+   "Q1574713": "Jinořadec kadeřavý (Cryptogramma crispa)",
+   "Q2000383": "Vláskatec tajemný (Trichomanes speciosum)",
+   "Q2247460": "Vratička heřmánkolistá (Botrychium matricariifolium)",
+   "Q2273882": "Sleziník hadcový (Asplenium cuneifolium)",
+   "Q2466601": "Vratička jednoduchá (Botrychium simplex)",
+   "Q674547": "Papratka horská (Athyrium distentifolium)",
+   "Q937406": "Kapraď podobná (Dryopteris expansa)"
+  }
+ },
+ {
+  "id": "Q630002#0",
+  "species": "Diksonie antarktická",
+  "latin": "Dicksonia antarctica",
+  "text": "Dorůstá až do výšky 15 metrů.",
+  "quote": "Dorůstá výšky až 15 metrů.",
+  "claimed_false_for": {
+   "Q933847": "Přeslička různobarvá (Equisetum variegatum)"
+  }
+ },
+ {
+  "id": "Q630002#1",
+  "species": "Diksonie antarktická",
+  "latin": "Dicksonia antarctica",
+  "text": "Hojně roste v Austrálii.",
+  "quote": "Hojně roste v Austrálii.",
+  "claimed_false_for": {
+   "Q933847": "Přeslička různobarvá (Equisetum variegatum)"
+  }
+ },
+ {
+  "id": "Q674547#0",
+  "species": "Papratka horská",
+  "latin": "Athyrium distentifolium",
+  "text": "Listy dorůstají až do 150 centimetrů a rostou v hustých trsech.",
+  "quote": "Listy vyrůstají v hustých trsech a dorůstají až do 150 cm.",
+  "claimed_false_for": {
+   "Q1546744": "Osladič přehlížený (Polypodium interjectum)",
+   "Q1637866": "Kapraď hřebenitá (Dryopteris cristata)",
+   "Q1684201": "Hnědovka křídlatá (Microsorum pteropus)",
+   "Q1754958": "Kyvor lékařský (Asplenium ceterach)",
+   "Q191532": "Puchýřník křehký (Cystopteris fragilis)",
+   "Q2176480": "Puchýřník hladký (Cystopteris dickieana)",
+   "Q542735": "Kapradina hrálovitá (Polystichum lonchitis)",
+   "Q718312": "Onoklea citlivá (Onoclea sensibilis)",
+   "Q743883": "Osladič obecný (Polypodium vulgare)"
+  }
+ },
+ {
+  "id": "Q674547#1",
+  "species": "Papratka horská",
+  "latin": "Athyrium distentifolium",
+  "text": "Nejvíce roste v Krkonoších, na Šumavě a v Hrubém Jeseníku.",
+  "quote": "Nejhojněji se papratka horská vyskytuje na Šumavě, v Krkonoších a v Hrubém Jeseníku.",
+  "claimed_false_for": {
+   "Q1684201": "Hnědovka křídlatá (Microsorum pteropus)",
+   "Q1754958": "Kyvor lékařský (Asplenium ceterach)",
+   "Q718312": "Onoklea citlivá (Onoclea sensibilis)"
+  }
+ }
+]

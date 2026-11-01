@@ -1,0 +1,567 @@
+[
+ {
+  "id": "Q240929#1",
+  "species": "Květopas jabloňový",
+  "latin": "Anthonomus pomorum",
+  "text": "Dospělci se živí listy a ožírají i plody.",
+  "quote": "dále živí listy a ožerem poškozují i plody",
+  "claimed_false_for": {
+   "Q1565317": "Slunéčko devatenáctitečné (Anisosticta novemdecimpunctata)",
+   "Q852831": "Světluška větší (Lampyris noctiluca)"
+  }
+ },
+ {
+  "id": "Q243794#0",
+  "species": "Slunéčko dvaadvacetitečné",
+  "latin": "Psyllobora vigintiduopunctata",
+  "text": "Tento druh se živí padlím na bylinách i na keřích.",
+  "quote": "se živí padlím, a to jak na bylinách, tak i na keřích",
+  "claimed_false_for": {
+   "Q1041775": "Mrchožrout housenkář (Dendroxena quadrimaculata)",
+   "Q1886568": "Slunéčko vojtěškové (Subcoccinella vigintiquatuorpunctata)",
+   "Q221792": "Pestrokrovečník mravenčí (Thanasimus formicarius)"
+  }
+ },
+ {
+  "id": "Q243794#1",
+  "species": "Slunéčko dvaadvacetitečné",
+  "latin": "Psyllobora vigintiduopunctata",
+  "text": "Žije v lesích, na pastvinách a v zahradách.",
+  "quote": "Preferuje lesy, pastviny a zahrady.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q243913#0",
+  "species": "Modrásek nejmenší",
+  "latin": "Cupido minimus",
+  "text": "Housenky se živí semeníky a nezralými plody.",
+  "quote": "Bělavé housenky se živí semeníky a nezralými plody.",
+  "claimed_false_for": {
+   "Q1318172": "Zelenopláštník březový (Geometra papilionaria)",
+   "Q1333342": "Přástevník americký (Hyphantria cunea)",
+   "Q1401296": "Martináč bukový (Aglia tau)",
+   "Q1532591": "Lesklice zelenavá (Somatochlora metallica)",
+   "Q175754": "Zavíječ zimostrázový (Cydalima perspectalis)",
+   "Q217603": "Zobonosec kopřivový (Hypena proboscidalis)",
+   "Q937995": "Okáč černohnědý (Erebia ligea)"
+  }
+ },
+ {
+  "id": "Q243913#1",
+  "species": "Modrásek nejmenší",
+  "latin": "Cupido minimus",
+  "text": "Hlavní živnou rostlinou je úročník bolhoj.",
+  "quote": "Hlavní živnou rostlinou modráska nejmenšího je úročník bolhoj (Anthyllis vulneraria).",
+  "claimed_false_for": {
+   "Q1137199": "Babočka síťkovaná (Araschnia levana)",
+   "Q134747": "Bourec morušový (Bombyx mori)",
+   "Q1519595": "Páskovec dvojzubý (Cordulegaster bidentata)",
+   "Q161384": "Lišaj vrbkový (Deilephila elpenor)",
+   "Q1621049": "Vztyčnořitka lipová (Phalera bucephala)",
+   "Q176297": "Okáč ječmínkový (Lasiommata maera)",
+   "Q1829198": "Předivka zhoubná (Yponomeuta evonymella)",
+   "Q1949538": "Cikáda sedmnáctiletá (Magicicada septendecim)",
+   "Q630602": "Soumračník čárkovaný (Hesperia comma)",
+   "Q882485": "Šidélko brvonohé (Platycnemis pennipes)",
+   "Q930583": "Obaleč prýtový (Rhyacionia buoliana)"
+  }
+ },
+ {
+  "id": "Q2441354#0",
+  "species": "Saranče páskovaná",
+  "latin": "Euchorthippus declivus",
+  "text": "Živí se trávami.",
+  "quote": "Živí se trávami.",
+  "claimed_false_for": {
+   "Q1314922": "Modrásek černočárný (Pseudophilotes baton)",
+   "Q1427018": "Lesklice skvrnitá (Somatochlora flavomaculata)",
+   "Q261181": "Kobylka zelená (Tettigonia viridissima)",
+   "Q27711": "Cvrček domácí (Acheta domesticus)",
+   "Q455302": "Cvrčivec révový (Oecanthus pellucens)",
+   "Q460891": "Cvrčík mravenčí (Myrmecophilus acervorum)",
+   "Q762610": "Koník skleníkový (Diestrammena asynamora)",
+   "Q811585": "Čmelák rokytový (Bombus hypnorum)",
+   "Q847103": "Mravenec rezavý (Myrmica ruginodis)"
+  }
+ },
+ {
+  "id": "Q2441354#1",
+  "species": "Saranče páskovaná",
+  "latin": "Euchorthippus declivus",
+  "text": "Vajíčka přezimují v půdě.",
+  "quote": "Vajíčka přezimují v půdě.",
+  "claimed_false_for": {
+   "Q1935365": "Šidélko kopovité (Coenagrion hastulatum)",
+   "Q367020": "Žirafík smaragdový (Ampulex compressa)",
+   "Q727567": "Cvrček polní (Gryllus campestris)",
+   "Q851578": "Žluťásek borůvkový (Colias palaeno)"
+  }
+ },
+ {
+  "id": "Q244178#0",
+  "species": "Včela květná",
+  "latin": "Apis florea",
+  "text": "Tento druh si staví jediný plást, nejčastěji zavěšený na větvi stromu.",
+  "quote": "Tyto včely si stavějí jediný plást o ploše 2-12 dm2 nejčastěji zavěšený na větvi stromu.",
+  "claimed_false_for": {
+   "Q1049335": "Pilořitka velká (Urocerus gigas)",
+   "Q1088853": "Osenice polní (Agrotis segetum)",
+   "Q1163848": "Pískorypka obecná (Andrena flavipes)",
+   "Q121791": "Sršeň mandarínská (Vespa mandarinia)",
+   "Q1542272": "Pískorypka chrastavcová (Andrena hattorfiana)",
+   "Q1662116": "Čmelák úhorový (Bombus ruderarius)",
+   "Q1911846": "Zednice kakostová (Hoplitis villosa)",
+   "Q468719": "Vroubenka americká (Leptoglossus occidentalis)",
+   "Q520934": "Ohniváček celíkový (Lycaena virgaureae)",
+   "Q847103": "Mravenec rezavý (Myrmica ruginodis)"
+  }
+ },
+ {
+  "id": "Q244178#1",
+  "species": "Včela květná",
+  "latin": "Apis florea",
+  "text": "Dělnice je drobná, jen 9–10 mm dlouhá.",
+  "quote": "Dělnice včely květné je drobná jen 9–10 mm dlouhá.",
+  "claimed_false_for": {
+   "Q1316279": "Střechatka obecná (Sialis lutaria)",
+   "Q149046": "Vlnáč Argus (Henosepilachna argus)",
+   "Q465588": "Slunéčko růžové (Oenopia conglobata)"
+  }
+ },
+ {
+  "id": "Q244228#0",
+  "species": "Šidélko lesklé",
+  "latin": "Nehalennia speciosa",
+  "text": "Tento druh je nejdrobnější evropská vážka.",
+  "quote": "je nejdrobnější evropská vážka",
+  "claimed_false_for": {
+   "Q1471977": "Šídlo luční (Brachytron pratense)",
+   "Q1532591": "Lesklice zelenavá (Somatochlora metallica)",
+   "Q1621978": "Šídlo rašelinné (Aeshna subarctica)",
+   "Q1746508": "Šidélko malé (Ischnura pumilio)",
+   "Q1746557": "Klínatka vidlitá (Onychogomphus forcipatus)",
+   "Q1809089": "Okáč horský (Erebia epiphron)",
+   "Q1909388": "Chrobák vrubounovitý (Sisyphus schaefferi)",
+   "Q302485": "Vážka ploská (Libellula depressa)",
+   "Q41633": "Jasoň červenooký (Parnassius apollo)",
+   "Q623150": "Zelenáček devaterníkový (Adscita geryon)",
+   "Q65031": "Vážka bělořitná (Orthetrum albistylum)",
+   "Q882485": "Šidélko brvonohé (Platycnemis pennipes)"
+  }
+ },
+ {
+  "id": "Q244228#1",
+  "species": "Šidélko lesklé",
+  "latin": "Nehalennia speciosa",
+  "text": "Preferuje mělké stojaté a dobře prohřáté vody.",
+  "quote": "Šidélka preferují mělké stojaté a dobře prohřáté vody rašelinišť a slanišť s ostřicovými porosty.",
+  "claimed_false_for": {
+   "Q162310": "Masařka obecná (Sarcophaga carnaria)",
+   "Q1746557": "Klínatka vidlitá (Onychogomphus forcipatus)",
+   "Q2483149": "Měkkokrovečník huňatý (Lagria hirta)",
+   "Q248379": "Motýlice obecná (Calopteryx virgo)",
+   "Q536004": "Vosa saská (Dolichovespula saxonica)",
+   "Q541201": "Bělopásek jednořadý (Limenitis reducta)",
+   "Q728093": "Klínatka žlutonohá (Gomphus flavipes)"
+  }
+ },
+ {
+  "id": "Q245100#0",
+  "species": "Kobylka zpěvavá",
+  "latin": "Tettigonia cantans",
+  "text": "Živí se převážně hmyzem, občas i rostlinnou stravou.",
+  "quote": "Tento druh je převážně masožravý, živí se hmyzem, ale příležitostně také rostlinnou stravou.",
+  "claimed_false_for": {
+   "Q10578977": "Saranče černopruhá (Mecostethus parapleurus)",
+   "Q1314922": "Modrásek černočárný (Pseudophilotes baton)",
+   "Q587722": "Saranče pestrá (Arcyptera fusca)",
+   "Q811585": "Čmelák rokytový (Bombus hypnorum)"
+  }
+ },
+ {
+  "id": "Q245100#1",
+  "species": "Kobylka zpěvavá",
+  "latin": "Tettigonia cantans",
+  "text": "Zpěv je slyšet až na 50 metrů daleko.",
+  "quote": "Její zpěv je hlasitý, slyšitelný až na 50 metrů",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q2469727#0",
+  "species": "Kroužilka běžná",
+  "latin": "Empis tessellata",
+  "text": "Měří 8,5 až 12 milimetrů.",
+  "quote": "s 8,5–12 milimetry délky",
+  "claimed_false_for": {
+   "Q1030757": "Hladinatka člunohřbetá (Velia caprai)",
+   "Q1621049": "Vztyčnořitka lipová (Phalera bucephala)",
+   "Q162310": "Masařka obecná (Sarcophaga carnaria)",
+   "Q1743610": "Vrtule třešňová (Rhagoletis cerasi)",
+   "Q1969488": "Saranče vrzavá (Psophus stridulus)",
+   "Q3983062": "Koutule skvrnitá (Clogmia albipunctata)"
+  }
+ },
+ {
+  "id": "Q2469727#1",
+  "species": "Kroužilka běžná",
+  "latin": "Empis tessellata",
+  "text": "Na miříkovitých ji lze spatřit od dubna do srpna.",
+  "quote": "kde může být spatřena od dubna do srpna zejména na miříkovitých",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q2483149#0",
+  "species": "Měkkokrovečník huňatý",
+  "latin": "Lagria hirta",
+  "text": "Tento druh se živí mladými listy.",
+  "quote": "živí se mladými listy",
+  "claimed_false_for": {
+   "Q159543": "Slunéčko sedmitečné (Coccinella septempunctata)",
+   "Q372687": "Mrchožrout černý (Phosphuga atrata)",
+   "Q580176": "Střevlík zrnitý (Carabus granulatus)",
+   "Q676908": "Planetka dvojskvrnná (Chilocorus bipustulatus)",
+   "Q794323": "Lýkožrout smrkový (Ips typographus)"
+  }
+ },
+ {
+  "id": "Q2483149#1",
+  "species": "Měkkokrovečník huňatý",
+  "latin": "Lagria hirta",
+  "text": "Larvy přezimují a na jaře se kuklí.",
+  "quote": "které přezimují, kuklí se na jaře",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q248328#0",
+  "species": "Kousavec hlodavý",
+  "latin": "Rhagium mordax",
+  "text": "Larvy tohoto druhu jsou potravou parazitické vosy.",
+  "quote": "Ischnoceros rusticus je parazitoidní vosa, která se živí larvami kousavce hlodavého.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q248328#1",
+  "species": "Kousavec hlodavý",
+  "latin": "Rhagium mordax",
+  "text": "Vyskytuje se v celé Evropě, Kazachstánu a Rusku.",
+  "quote": "Brouk se vyskytuje v celé Evropě, dále Kazachstánu a Rusku.",
+  "claimed_false_for": {
+   "Q67814938": "Argyronome ruslana (Argynnis ruslana)"
+  }
+ },
+ {
+  "id": "Q248379#0",
+  "species": "Motýlice obecná",
+  "latin": "Calopteryx virgo",
+  "text": "Dospělci loví drobný létající hmyz.",
+  "quote": "Dospělci loví drobný létající hmyz",
+  "claimed_false_for": {
+   "Q1545665": "Ostruháček jilmový (Satyrium w-album)",
+   "Q156954": "Mandelinka bramborová (Leptinotarsa decemlineata)",
+   "Q1754843": "Tesařík rudý (Pyrrhidium sanguineum)"
+  }
+ },
+ {
+  "id": "Q248379#1",
+  "species": "Motýlice obecná",
+  "latin": "Calopteryx virgo",
+  "text": "Vývoj nymf trvá dva roky.",
+  "quote": "Vývoj nymf trvá dva roky.",
+  "claimed_false_for": {
+   "Q1492044": "Šídlatka hnědá (Sympecma fusca)",
+   "Q156954": "Mandelinka bramborová (Leptinotarsa decemlineata)"
+  }
+ },
+ {
+  "id": "Q250269#0",
+  "species": "Vrtule velkohlavá",
+  "latin": "Ceratitis capitata",
+  "text": "Ničí více než 200 druhů ovoce a zeleniny.",
+  "quote": "pro schopnost osídlit více než 200 tropických druhů ovoce a zeleniny, které tím znehodnocuje a ničí.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q250269#1",
+  "species": "Vrtule velkohlavá",
+  "latin": "Ceratitis capitata",
+  "text": "Samička klade vajíčka do ovoce, které začíná dozrávat.",
+  "quote": "Samička klade 1 až 10 vajíček 1 mm hluboko, často do ovoce, které začíná dozrávat.",
+  "claimed_false_for": {
+   "Q1333342": "Přástevník americký (Hyphantria cunea)",
+   "Q144273": "Komár útočný (Aedes vexans)",
+   "Q152856": "Strašilka humří (Dryococelus australis)",
+   "Q1620507": "Kloš jelení (Lipoptena cervi)",
+   "Q1649781": "Pakomárec skotský (Culicoides impunctatus)",
+   "Q201378": "Číhalka obecná (Rhagio scolopaceus)",
+   "Q2469727": "Kroužilka běžná (Empis tessellata)",
+   "Q337769": "Pabourovec jestřábníkový (Lemonia dumi)",
+   "Q3512312": "Kroužilka žlutavá (Empis livida)",
+   "Q5114915": "Bzikavka slepoočka (Chrysops caecutiens)",
+   "Q674760": "Přástevník medvědí (Arctia caja)",
+   "Q9394417": "Roupec sršňový (Asilus crabroniformis)"
+  }
+ },
+ {
+  "id": "Q2523150#0",
+  "species": "Lumek ozbrojený",
+  "latin": "Amblyteles armatorius",
+  "text": "Dospělci se živí nektarem a pylem.",
+  "quote": "živí se nektarem a pylem",
+  "claimed_false_for": {
+   "Q10694237": "Marše pobřežní (Tetrix tuerki)"
+  }
+ },
+ {
+  "id": "Q2523150#1",
+  "species": "Lumek ozbrojený",
+  "latin": "Amblyteles armatorius",
+  "text": "Samičky kladou vajíčka do housenek můr.",
+  "quote": "Samičky této parazitické vosy kladou vajíčka do housenek můr.",
+  "claimed_false_for": {
+   "Q2561096": "Lumek veliký (Rhyssa persuasoria)",
+   "Q367020": "Žirafík smaragdový (Ampulex compressa)"
+  }
+ },
+ {
+  "id": "Q2537221#0",
+  "species": "Škvor obecný",
+  "latin": "Forficula auricularia",
+  "text": "Tento druh je všežravý.",
+  "quote": "Je všežravý",
+  "claimed_false_for": {
+   "Q133413": "Blecha písečná (Tunga penetrans)",
+   "Q163771": "Babočka jilmová (Nymphalis polychloros)",
+   "Q1649781": "Pakomárec skotský (Culicoides impunctatus)",
+   "Q2561096": "Lumek veliký (Rhyssa persuasoria)",
+   "Q263784": "Čmelák humenní (Bombus ruderatus)",
+   "Q717055": "Svižník polní (Cicindela campestris)",
+   "Q735875": "Blýskavka ořešáková (Amphipyra pyramidea)"
+  }
+ },
+ {
+  "id": "Q2537221#1",
+  "species": "Škvor obecný",
+  "latin": "Forficula auricularia",
+  "text": "Samice pečlivě pečují o larvy a vajíčka.",
+  "quote": "Samice se velmi pečlivě starají o larvy a vajíčka",
+  "claimed_false_for": {
+   "Q133413": "Blecha písečná (Tunga penetrans)",
+   "Q163771": "Babočka jilmová (Nymphalis polychloros)",
+   "Q1649781": "Pakomárec skotský (Culicoides impunctatus)",
+   "Q1702508": "Slunéčko pestré (Hippodamia variegata)",
+   "Q2165154": "Slunéčko šestnáctiskvrnné (Halyzia sedecimguttata)",
+   "Q2561096": "Lumek veliký (Rhyssa persuasoria)",
+   "Q473854": "Slunéčko vřesové (Coccinella hieroglyphica)",
+   "Q603128": "Bzučivka zelená (Lucilia sericata)",
+   "Q717055": "Svižník polní (Cicindela campestris)",
+   "Q735875": "Blýskavka ořešáková (Amphipyra pyramidea)",
+   "Q973034": "Modrásek hořcový (Phengaris alcon)"
+  }
+ },
+ {
+  "id": "Q2557995#1",
+  "species": "Mšice bavlníková",
+  "latin": "Aphis gossypii",
+  "text": "Může mít až padesát generací za rok.",
+  "quote": "může mít až padesát generací za rok",
+  "claimed_false_for": {
+   "Q11796194": "Kněžice zelená (Palomena viridissima)",
+   "Q2133916": "Bělásek východní (Leptidea morsei)",
+   "Q2940155": "Kněžice rohatá (Carpocoris fuscispinus)",
+   "Q341135": "Slunéčko osmnáctiskvrnné (Myrrha octodecimguttata)",
+   "Q486957": "Ruměnice pospolná (Pyrrhocoris apterus)",
+   "Q600498": "Kněžice zeleninová (Nezara viridula)",
+   "Q608908": "Šidélko kroužkované (Enallagma cyathigerum)"
+  }
+ },
+ {
+  "id": "Q2561096#0",
+  "species": "Lumek veliký",
+  "latin": "Rhyssa persuasoria",
+  "text": "Klade vajíčka do larev dřevokazného hmyzu.",
+  "quote": "Samička klade vajíčka do larev dřevokazného hmyzu a tím brání jeho přemnožení.",
+  "claimed_false_for": {
+   "Q1049335": "Pilořitka velká (Urocerus gigas)",
+   "Q1088853": "Osenice polní (Agrotis segetum)",
+   "Q1163848": "Pískorypka obecná (Andrena flavipes)",
+   "Q121791": "Sršeň mandarínská (Vespa mandarinia)",
+   "Q136668": "Sršeň asijská (Vespa velutina)",
+   "Q1542272": "Pískorypka chrastavcová (Andrena hattorfiana)",
+   "Q1662116": "Čmelák úhorový (Bombus ruderarius)",
+   "Q1911846": "Zednice kakostová (Hoplitis villosa)",
+   "Q221487": "Vosík francouzský (Polistes dominula)",
+   "Q468719": "Vroubenka americká (Leptoglossus occidentalis)",
+   "Q520934": "Ohniváček celíkový (Lycaena virgaureae)",
+   "Q847103": "Mravenec rezavý (Myrmica ruginodis)"
+  }
+ },
+ {
+  "id": "Q2561096#1",
+  "species": "Lumek veliký",
+  "latin": "Rhyssa persuasoria",
+  "text": "Vyhledává larvy pilořitek čichem, i pod dřevem.",
+  "quote": "Samička má vysoce vyvinutý čich, kterým zjistí larvy pilořitek i pod dřevem.",
+  "claimed_false_for": {
+   "Q1112967": "Ovád hovězí (Tabanus bovinus)",
+   "Q1774364": "Včela skalní (Apis laboriosa)",
+   "Q20993": "Střevlík měděný (Carabus cancellatus)",
+   "Q2362946": "Čmelák temný (Bombus argillaceus)",
+   "Q244178": "Včela květná (Apis florea)",
+   "Q25647": "Štětconoš trnkový (Orgyia antiqua)",
+   "Q3088397": "Okáč menší (Erebia sudetica)"
+  }
+ },
+ {
+  "id": "Q256218#0",
+  "species": "Majka obecná",
+  "latin": "Meloe proscarabaeus",
+  "text": "Larvy parazitují převážně v komůrkách samotářských včel.",
+  "quote": "Larvy parazitují převážně v komůrkách samotářských včel.",
+  "claimed_false_for": {
+   "Q1189216": "Zlatohlávek tmavý (Oxythyrea funesta)",
+   "Q1535893": "Střevlík fialový (Carabus violaceus)",
+   "Q15768393": "Modrásek vikvicový (Lysandra coridon)",
+   "Q1683382": "Listokaz japonský (Popillia japonica)",
+   "Q179827": "Červenáček ohnivý (Pyrochroa coccinea)",
+   "Q2171176": "Chrobák jednorohý (Bolbelasmus unicornis)",
+   "Q585566": "Lalokonosec rýhovaný (Otiorhynchus sulcatus)",
+   "Q605798": "Blýskavka rožcová (Panemeria tenebrata)",
+   "Q638257": "Kousavec korový (Rhagium inquisitor)",
+   "Q775764": "Krajník pižmový (Calosoma sycophanta)",
+   "Q839571": "Tesařík alpský (Rosalia alpina)",
+   "Q867291": "Soumračník máčkový (Erynnis tages)"
+  }
+ },
+ {
+  "id": "Q256218#1",
+  "species": "Majka obecná",
+  "latin": "Meloe proscarabaeus",
+  "text": "Dospělci se živí částmi rostlin.",
+  "quote": "Dospělci se živí částmi rostlin.",
+  "claimed_false_for": {
+   "Q1766078": "Huňáček obecný (Scymnus frontalis)",
+   "Q278629": "Drvopleň obecný (Cossus cossus)",
+   "Q970279": "Slunéčko dlouhoskvrnné (Myzia oblongoguttata)"
+  }
+ },
+ {
+  "id": "Q25647#0",
+  "species": "Štětconoš trnkový",
+  "latin": "Orgyia antiqua",
+  "text": "Housenky se živí listím listnatých stromů.",
+  "quote": "Housenky se živí listím listnatých stromů",
+  "claimed_false_for": {
+   "Q1126187": "Perleťovec malý (Issoria lathonia)",
+   "Q1303045": "Modrásek tažný (Leptotes pirithous)",
+   "Q1314962": "Modrásek čičorkový (Cupido alcetas)",
+   "Q158699": "Babočka paví oko (Aglais io)",
+   "Q1755105": "Běloskvrnáč pampeliškový (Amata phegea)",
+   "Q2133916": "Bělásek východní (Leptidea morsei)",
+   "Q2166753": "Vřetenuška čičorková (Zygaena ephialtes)",
+   "Q957807": "Modrásek rozchodníkový (Scolitantides orion)",
+   "Q957832": "Pestrokřídlec červený (Zerynthia rumina)"
+  }
+ },
+ {
+  "id": "Q25647#2",
+  "species": "Štětconoš trnkový",
+  "latin": "Orgyia antiqua",
+  "text": "Samička nemůže létat, protože má zakrnělá křídla.",
+  "quote": "Samička namísto toho není schopna letu, jelikož má zakrnělá křídla",
+  "claimed_false_for": {
+   "Q1088853": "Osenice polní (Agrotis segetum)",
+   "Q127008": "Srpice obecná (Panorpa communis)",
+   "Q1303096": "Srpokřídlec trnkový (Cilix glaucata)",
+   "Q151543": "Hranostajník vrbový (Cerura vinula)",
+   "Q163794": "Lišaj šeříkový (Sphinx ligustri)",
+   "Q30982": "Batolec duhový (Apatura iris)",
+   "Q311653": "Bělásek rezedkový (Pontia daplidice)",
+   "Q486537": "Ostnohřbetka ovocná (Stictocephala bisonia)",
+   "Q663181": "Okáč pýrový (Pararge aegeria)",
+   "Q937987": "Přástevník kostivalový (Euplagia quadripunctaria)"
+  }
+ },
+ {
+  "id": "Q25647#3",
+  "species": "Štětconoš trnkový",
+  "latin": "Orgyia antiqua",
+  "text": "Samička naklade většinou 200 až 400 vajíček.",
+  "quote": "Samička po oplodnění naklade většinou 200 až 400 malých, hladkých vajíček",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q25699504#0",
+  "species": "Modrásek jetelový",
+  "latin": "Lysandra bellargus",
+  "text": "Rozpětí křídel je 28 až 35 milimetrů.",
+  "quote": "Rozpětí křídel motýla je 28 až 35 mm",
+  "claimed_false_for": {
+   "Q1519595": "Páskovec dvojzubý (Cordulegaster bidentata)",
+   "Q161384": "Lišaj vrbkový (Deilephila elpenor)",
+   "Q1621049": "Vztyčnořitka lipová (Phalera bucephala)",
+   "Q176297": "Okáč ječmínkový (Lasiommata maera)",
+   "Q1829198": "Předivka zhoubná (Yponomeuta evonymella)",
+   "Q1949538": "Cikáda sedmnáctiletá (Magicicada septendecim)",
+   "Q930583": "Obaleč prýtový (Rhyacionia buoliana)"
+  }
+ },
+ {
+  "id": "Q25699504#1",
+  "species": "Modrásek jetelový",
+  "latin": "Lysandra bellargus",
+  "text": "Hlavní živnou rostlinou je čičorka pestrá.",
+  "quote": "Hlavní živnou rostlinou modráska jetelového je čičorka pestrá",
+  "claimed_false_for": {
+   "Q1303063": "Bourovec topolový (Poecilocampa populi)",
+   "Q1365048": "Lišaj pupalkový (Proserpinus proserpina)",
+   "Q1479779": "Ohniváček modrolesklý (Lycaena alciphron)",
+   "Q157609": "Babočka kopřivová (Aglais urticae)",
+   "Q167435": "Atlas velký (Attacus atlas)",
+   "Q45902": "Bekyně zlatořitná (Euproctis chrysorrhoea)",
+   "Q786013": "Nesytka ovádová (Paranthrene tabaniformis)",
+   "Q997409": "Vřetenuška ligrusová (Zygaena carniolica)"
+  }
+ },
+ {
+  "id": "Q25767#1",
+  "species": "Bekyně pižmová",
+  "latin": "Euproctis similis",
+  "text": "Na housenkách parazitují různé druhy lumků.",
+  "quote": "Parazitují na nich také různé druhy lumků.",
+  "claimed_false_for": {
+   "Q175045": "Ploštička březová (Kleidocerys resedae)",
+   "Q177833": "Šidélko rudoočko (Erythromma najas)",
+   "Q268319": "Kudlanka nábožná (Mantis religiosa)",
+   "Q283282": "Vážka obecná (Sympetrum vulgatum)"
+  }
+ },
+ {
+  "id": "Q25779#1",
+  "species": "Kropenatec jetelový",
+  "latin": "Chiasmia clathrata",
+  "text": "Dospělci létají přes den, ale mohou být aktivní i za soumraku.",
+  "quote": "Dospělci létají přes den, ale mohou být aktivní i za soumraku.",
+  "claimed_false_for": {
+   "Q26842": "Rybenka domácí (Lepisma saccharina)"
+  }
+ },
+ {
+  "id": "Q25818#0",
+  "species": "Kropenatec borový",
+  "latin": "Macaria liturata",
+  "text": "Housenky žijí na jehličnanech.",
+  "quote": "Housenky žijí od června do září na různých druzích borovic",
+  "claimed_false_for": {
+   "Q1126187": "Perleťovec malý (Issoria lathonia)",
+   "Q1303045": "Modrásek tažný (Leptotes pirithous)",
+   "Q1314962": "Modrásek čičorkový (Cupido alcetas)",
+   "Q158699": "Babočka paví oko (Aglais io)",
+   "Q1755105": "Běloskvrnáč pampeliškový (Amata phegea)",
+   "Q2133916": "Bělásek východní (Leptidea morsei)",
+   "Q2166753": "Vřetenuška čičorková (Zygaena ephialtes)",
+   "Q45515": "Bekyně černé L (Arctornis l-nigrum)",
+   "Q957807": "Modrásek rozchodníkový (Scolitantides orion)",
+   "Q957832": "Pestrokřídlec červený (Zerynthia rumina)"
+  }
+ }
+]

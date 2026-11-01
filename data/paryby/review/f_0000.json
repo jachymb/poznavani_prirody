@@ -1,0 +1,30 @@
+{"drop_facts": [
+{"id": "Q1126782#1", "why": "bílé okraje ploutví nepřímo prozrazují název bělocípý"},
+{"id": "Q1160972#0", "why": "chybí podmět"},
+{"id": "Q129026#0", "why": "chybí podmět; vypuštěné 'i' mění horní mez na typickou hodnotu"},
+{"id": "Q129026#1", "why": "chybí podmět"},
+{"id": "Q129026#2", "why": "vynechává podmínku 'na krátkou vzdálenost'"},
+{"id": "Q129026#4", "why": "chybí podmět"},
+{"id": "Q129026#7", "why": "věk samců zobecněn na celý druh, přidané 'až'"},
+{"id": "Q169468#0", "why": "údaj o potravě dospělců zobecněn na celý druh"},
+{"id": "Q169468#1", "why": "přidané 'až': článek uvádí největší jedince snad až 3,5 m"},
+{"id": "Q185260#0", "why": "chybí podmět"},
+{"id": "Q185260#1", "why": "chybí podmět; krkolomné; vypouští malé ryby a bezobratlé"},
+{"id": "Q188212#0", "why": "nepřesné: tygří žraloci dospívají i při menší délce než 3,25 m"},
+{"id": "Q188212#4", "why": "pruhy nepřímo prozrazují název tygří"},
+{"id": "Q192158#1", "why": "krkolomné 'má zuby vidět'"},
+{"id": "Q192158#4", "why": "vynechává 'brzy na jaře'"},
+{"id": "Q192158#5", "why": "sporný údaj: teplota se liší podle části těla a zdroje"},
+{"id": "Q26337#0", "why": "'spíše noční lovec' posunuto na 'hlavně v noci'"},
+{"id": "Q26337#2", "why": "vynechává 'příležitostně i 20 let'"},
+{"id": "Q28133219#1", "why": "'šířka disku' je pro desetileté dítě nesrozumitelná"}
+], "drop_pairs": [
+{"id": "Q1126782#2", "species": "Q192158"},
+{"id": "Q129026#6", "species": "Q28133219"},
+{"id": "Q190469#0", "species": "Q129026"},
+{"id": "Q190469#0", "species": "Q311651"},
+{"id": "Q192158#3", "species": "Q169468"},
+{"id": "Q28133219#3", "species": "Q29150"},
+{"id": "Q29121#1", "species": "Q370444"},
+{"id": "Q29121#3", "species": "Q695344"}
+]}

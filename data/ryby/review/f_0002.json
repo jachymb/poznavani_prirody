@@ -1,0 +1,43 @@
+{
+ "drop_facts": [
+  {"id": "Q1522625#0", "why": "střílení proudu vody z tlamy nepřímo prozrazuje název stříkoun"},
+  {"id": "Q1522625#1", "why": "vidět oběma očima najednou není totéž co binokulární vidění; zavádějící a 'vzácné u ryb' je sporné"},
+  {"id": "Q1535154#2", "why": "sporné absolutní tvrzení o chování, že neúspěšný lov nikdy neopakuje"},
+  {"id": "Q1535154#3", "why": "přivádění mladých na svět nepřímo prozrazuje přívlastek živorodá"},
+  {"id": "Q159323#1", "why": "sporné a nepravděpodobné: běžný věk až 50 let u sumce, navíc protimluv běžně a až"},
+  {"id": "Q159323#4", "why": "vír zmatující kořist je nedoložené, sporné tvrzení"},
+  {"id": "Q162274#2", "why": "krkolomné 'tento druh jako mládě žije'"},
+  {"id": "Q165278#0", "why": "posun citace: přidává 'hlavně', citace platí jen pro první roky; 'u nás' nejasné"},
+  {"id": "Q165278#1", "why": "sporný údaj: měření rychlosti štiky uvádějí kolem 4 m/s, 7 až 9 m/s není ověřené"},
+  {"id": "Q1687707#1", "why": "chybné 'žije u řek' a citace je jen výřez z výčtu lokalit, ne celý areál"}
+ ],
+ "drop_pairs": [
+  {"id": "Q1505634#0", "species": "Q27773"},
+  {"id": "Q1505634#2", "species": "Q188879"},
+  {"id": "Q1505634#2", "species": "Q27773"},
+  {"id": "Q1505634#3", "species": "Q265081"},
+  {"id": "Q159323#5", "species": "Q128785"},
+  {"id": "Q159323#5", "species": "Q1340577"},
+  {"id": "Q159323#5", "species": "Q1402074"},
+  {"id": "Q159323#5", "species": "Q203572"},
+  {"id": "Q159323#5", "species": "Q2157453"},
+  {"id": "Q159323#5", "species": "Q3758843"},
+  {"id": "Q159323#5", "species": "Q3764497"},
+  {"id": "Q159323#5", "species": "Q855167"},
+  {"id": "Q162274#3", "species": "Q1142975"},
+  {"id": "Q162274#3", "species": "Q2396858"},
+  {"id": "Q162274#3", "species": "Q798246"},
+  {"id": "Q1638555#0", "species": "Q206507"},
+  {"id": "Q1638555#0", "species": "Q260041"},
+  {"id": "Q165278#2", "species": "Q943193"},
+  {"id": "Q1687707#2", "species": "Q782345"},
+  {"id": "Q1687707#2", "species": "Q928382"},
+  {"id": "Q169444#0", "species": "Q1461873"},
+  {"id": "Q169444#0", "species": "Q1767177"},
+  {"id": "Q169444#0", "species": "Q806299"},
+  {"id": "Q169444#1", "species": "Q165278"},
+  {"id": "Q169444#1", "species": "Q917705"},
+  {"id": "Q169444#2", "species": "Q5559787"},
+  {"id": "Q169444#2", "species": "Q76098"}
+ ]
+}

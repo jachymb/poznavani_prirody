@@ -1,0 +1,372 @@
+[
+ {
+  "id": "Q113297#1",
+  "species": "Snovačka jedovatá",
+  "latin": "Latrodectus mactans",
+  "text": "Tento druh je aktivní převážně v noci.",
+  "quote": "Snovačka jedovatá je aktivní převážně v noci.",
+  "claimed_false_for": {
+   "Q169513": "Skákavka pruhovaná (Salticus scenicus)"
+  }
+ },
+ {
+  "id": "Q113297#2",
+  "species": "Snovačka jedovatá",
+  "latin": "Latrodectus mactans",
+  "text": "Tento druh si spřádá velkou lepkavou síť o průměru 30 až 40 centimetrů.",
+  "quote": "si spřádá trojrozměrnou síť o průměru 300–400 mm a se silně lepkavým středem",
+  "claimed_false_for": {
+   "Q1142349": "Veleštír císařský (Pandinus imperator)",
+   "Q119195": "Vodouch stříbřitý (Argyroneta aquatica)",
+   "Q169513": "Skákavka pruhovaná (Salticus scenicus)",
+   "Q21175": "Klíště obecné (Ixodes ricinus)",
+   "Q773744": "Štír nejjedovatější (Leiurus quinquestriatus)"
+  }
+ },
+ {
+  "id": "Q113297#3",
+  "species": "Snovačka jedovatá",
+  "latin": "Latrodectus mactans",
+  "text": "Loví hmyz, jiné pavouky i drobné obratlovce.",
+  "quote": "Živí se hmyzem, pavouky a drobnými obratlovci.",
+  "claimed_false_for": {
+   "Q1133152": "Ostrorep americký (Limulus polyphemus)",
+   "Q21175": "Klíště obecné (Ixodes ricinus)"
+  }
+ },
+ {
+  "id": "Q113297#4",
+  "species": "Snovačka jedovatá",
+  "latin": "Latrodectus mactans",
+  "text": "Vidí velmi špatně, ale vnímá chvění své sítě.",
+  "quote": "Snovačky mají velmi špatný zrak. Ke komunikaci proto využívají vibrace, které vysílají i vnímají skrze své sítě,",
+  "claimed_false_for": {
+   "Q1133152": "Ostrorep americký (Limulus polyphemus)",
+   "Q1142349": "Veleštír císařský (Pandinus imperator)",
+   "Q169513": "Skákavka pruhovaná (Salticus scenicus)",
+   "Q21175": "Klíště obecné (Ixodes ricinus)",
+   "Q773744": "Štír nejjedovatější (Leiurus quinquestriatus)"
+  }
+ },
+ {
+  "id": "Q113297#6",
+  "species": "Snovačka jedovatá",
+  "latin": "Latrodectus mactans",
+  "text": "Snese najednou více než 200 vajíček.",
+  "quote": "každá snůška obsahuje více než 200 vajíček",
+  "claimed_false_for": {
+   "Q1142349": "Veleštír císařský (Pandinus imperator)",
+   "Q1164137": "Třesavka velká (Pholcus phalangioides)",
+   "Q119195": "Vodouch stříbřitý (Argyroneta aquatica)",
+   "Q169513": "Skákavka pruhovaná (Salticus scenicus)",
+   "Q773744": "Štír nejjedovatější (Leiurus quinquestriatus)"
+  }
+ },
+ {
+  "id": "Q113297#9",
+  "species": "Snovačka jedovatá",
+  "latin": "Latrodectus mactans",
+  "text": "Loví i mnohonožky, stonožky a štíry.",
+  "quote": "Loví však i pozemní živočichy, jako např. mnohonožky, stonožky, štíry",
+  "claimed_false_for": {
+   "Q1335549": "Sviluška chmelová (Tetranychus urticae)",
+   "Q169513": "Skákavka pruhovaná (Salticus scenicus)",
+   "Q21175": "Klíště obecné (Ixodes ricinus)"
+  }
+ },
+ {
+  "id": "Q1133152#1",
+  "species": "Ostrorep americký",
+  "latin": "Limulus polyphemus",
+  "text": "Na zadní části těla má špičatý hrot dlouhý asi jako polovina těla.",
+  "quote": "Telson je výrazně dlouhý – zhruba polovina délky těla, na konci špičatý",
+  "claimed_false_for": {
+   "Q1137615": "Pokoutník domácí (Tegenaria domestica)",
+   "Q1164137": "Třesavka velká (Pholcus phalangioides)",
+   "Q119195": "Vodouch stříbřitý (Argyroneta aquatica)",
+   "Q1317090": "Slíďák tarentský (Lycosa tarantula)",
+   "Q1335549": "Sviluška chmelová (Tetranychus urticae)",
+   "Q169513": "Skákavka pruhovaná (Salticus scenicus)",
+   "Q337509": "Křižák obecný (Araneus diadematus)"
+  }
+ },
+ {
+  "id": "Q1137615#0",
+  "species": "Pokoutník domácí",
+  "latin": "Tegenaria domestica",
+  "text": "Samice dosahuje délky těla 7,5 až 13 mm.",
+  "quote": "Samice dosahuje délky těla 7,5 až 13 mm",
+  "claimed_false_for": {
+   "Q1133152": "Ostrorep americký (Limulus polyphemus)",
+   "Q1142349": "Veleštír císařský (Pandinus imperator)",
+   "Q1498643": "Křižák velký (Araneus angulatus)",
+   "Q773744": "Štír nejjedovatější (Leiurus quinquestriatus)"
+  }
+ },
+ {
+  "id": "Q1137615#1",
+  "species": "Pokoutník domácí",
+  "latin": "Tegenaria domestica",
+  "text": "Tento druh je aktivní hlavně v noci.",
+  "quote": "ale aktivní je hlavně v noci.",
+  "claimed_false_for": {
+   "Q169513": "Skákavka pruhovaná (Salticus scenicus)"
+  }
+ },
+ {
+  "id": "Q1137615#3",
+  "species": "Pokoutník domácí",
+  "latin": "Tegenaria domestica",
+  "text": "Spřádá husté pavučiny v rozích místností.",
+  "quote": "V rozích místností, výklencích a jiných podobných místech spřádá husté, vodorovně napnuté pavučiny",
+  "claimed_false_for": {
+   "Q1133152": "Ostrorep americký (Limulus polyphemus)",
+   "Q1142349": "Veleštír císařský (Pandinus imperator)",
+   "Q119195": "Vodouch stříbřitý (Argyroneta aquatica)",
+   "Q169513": "Skákavka pruhovaná (Salticus scenicus)",
+   "Q21175": "Klíště obecné (Ixodes ricinus)",
+   "Q773744": "Štír nejjedovatější (Leiurus quinquestriatus)"
+  }
+ },
+ {
+  "id": "Q1142349#1",
+  "species": "Veleštír císařský",
+  "latin": "Pandinus imperator",
+  "text": "V nebezpečí se brání klepety.",
+  "quote": "V nebezpečí se brání klepety a může bolestivě štípnout.",
+  "claimed_false_for": {
+   "Q113297": "Snovačka jedovatá (Latrodectus mactans)",
+   "Q1137615": "Pokoutník domácí (Tegenaria domestica)",
+   "Q1164137": "Třesavka velká (Pholcus phalangioides)",
+   "Q119195": "Vodouch stříbřitý (Argyroneta aquatica)",
+   "Q1498643": "Křižák velký (Araneus angulatus)",
+   "Q169513": "Skákavka pruhovaná (Salticus scenicus)",
+   "Q21175": "Klíště obecné (Ixodes ricinus)",
+   "Q337509": "Křižák obecný (Araneus diadematus)",
+   "Q4661821": "Sklípkanec jedovatý (Atrax robustus)"
+  }
+ },
+ {
+  "id": "Q1164137#3",
+  "species": "Třesavka velká",
+  "latin": "Pholcus phalangioides",
+  "text": "Žije hlavně v budovách, zejména ve sklepích.",
+  "quote": "vyskytuje převážně v budovách, hlavně ve vyhřívaných a suchých sklepích",
+  "claimed_false_for": {
+   "Q1133152": "Ostrorep americký (Limulus polyphemus)",
+   "Q1142349": "Veleštír císařský (Pandinus imperator)",
+   "Q119195": "Vodouch stříbřitý (Argyroneta aquatica)",
+   "Q21175": "Klíště obecné (Ixodes ricinus)",
+   "Q773744": "Štír nejjedovatější (Leiurus quinquestriatus)"
+  }
+ },
+ {
+  "id": "Q119195#1",
+  "species": "Vodouch stříbřitý",
+  "latin": "Argyroneta aquatica",
+  "text": "Samečci tohoto druhu jsou větší než samičky.",
+  "quote": "Jde o jednoho z mála druhů pavouků, jejichž samečci (10–15 mm) jsou větší než samičky (8–9 mm).",
+  "claimed_false_for": {
+   "Q113297": "Snovačka jedovatá (Latrodectus mactans)",
+   "Q1133152": "Ostrorep americký (Limulus polyphemus)",
+   "Q1498643": "Křižák velký (Araneus angulatus)",
+   "Q21175": "Klíště obecné (Ixodes ricinus)",
+   "Q337509": "Křižák obecný (Araneus diadematus)"
+  }
+ },
+ {
+  "id": "Q1317090#0",
+  "species": "Slíďák tarentský",
+  "latin": "Lycosa tarantula",
+  "text": "Tento druh je aktivní v noci.",
+  "quote": "aktivní je během noci",
+  "claimed_false_for": {
+   "Q169513": "Skákavka pruhovaná (Salticus scenicus)"
+  }
+ },
+ {
+  "id": "Q1317090#1",
+  "species": "Slíďák tarentský",
+  "latin": "Lycosa tarantula",
+  "text": "Buduje si nory vystlané hedvábím, jejichž vchod maskuje rostlinami.",
+  "quote": "Buduje si hedvábím vystlané nory, jejichž ústí maskuje vegetací",
+  "claimed_false_for": {
+   "Q113297": "Snovačka jedovatá (Latrodectus mactans)",
+   "Q1137615": "Pokoutník domácí (Tegenaria domestica)",
+   "Q1164137": "Třesavka velká (Pholcus phalangioides)",
+   "Q119195": "Vodouch stříbřitý (Argyroneta aquatica)",
+   "Q1498643": "Křižák velký (Araneus angulatus)",
+   "Q169513": "Skákavka pruhovaná (Salticus scenicus)",
+   "Q337509": "Křižák obecný (Araneus diadematus)",
+   "Q773744": "Štír nejjedovatější (Leiurus quinquestriatus)"
+  }
+ },
+ {
+  "id": "Q1335549#0",
+  "species": "Sviluška chmelová",
+  "latin": "Tetranychus urticae",
+  "text": "Škodí okurkám, bramborám, vínu a malinám.",
+  "quote": "Škodí chmelu, okurkám, bramborám, vínu, malinám a mnoha dalším hospodářským rostlinám",
+  "claimed_false_for": {
+   "Q113297": "Snovačka jedovatá (Latrodectus mactans)",
+   "Q1133152": "Ostrorep americký (Limulus polyphemus)",
+   "Q1137615": "Pokoutník domácí (Tegenaria domestica)",
+   "Q1142349": "Veleštír císařský (Pandinus imperator)",
+   "Q1164137": "Třesavka velká (Pholcus phalangioides)",
+   "Q119195": "Vodouch stříbřitý (Argyroneta aquatica)",
+   "Q1498643": "Křižák velký (Araneus angulatus)",
+   "Q169513": "Skákavka pruhovaná (Salticus scenicus)",
+   "Q21175": "Klíště obecné (Ixodes ricinus)",
+   "Q337509": "Křižák obecný (Araneus diadematus)",
+   "Q4661821": "Sklípkanec jedovatý (Atrax robustus)",
+   "Q773744": "Štír nejjedovatější (Leiurus quinquestriatus)"
+  }
+ },
+ {
+  "id": "Q1335549#1",
+  "species": "Sviluška chmelová",
+  "latin": "Tetranychus urticae",
+  "text": "Pochází z Eurasie a dnes žije po celém světě.",
+  "quote": "původně žijící v Eurasii, ale dnes kosmopolitní",
+  "claimed_false_for": {
+   "Q113297": "Snovačka jedovatá (Latrodectus mactans)",
+   "Q1142349": "Veleštír císařský (Pandinus imperator)",
+   "Q119195": "Vodouch stříbřitý (Argyroneta aquatica)",
+   "Q1317090": "Slíďák tarentský (Lycosa tarantula)",
+   "Q773744": "Štír nejjedovatější (Leiurus quinquestriatus)",
+   "Q902450": "Křižák pruhovaný (Argiope bruennichi)"
+  }
+ },
+ {
+  "id": "Q169513#0",
+  "species": "Skákavka pruhovaná",
+  "latin": "Salticus scenicus",
+  "text": "Loví mouchy.",
+  "quote": "Usedne-li v blízkosti pavouka moucha, zaregistruje jí skákavka postranníma očima",
+  "claimed_false_for": {
+   "Q1335549": "Sviluška chmelová (Tetranychus urticae)",
+   "Q21175": "Klíště obecné (Ixodes ricinus)"
+  }
+ },
+ {
+  "id": "Q21175#1",
+  "species": "Klíště obecné",
+  "latin": "Ixodes ricinus",
+  "text": "Živí se krví savců, plazů a ptáků.",
+  "quote": "Živí se sáním krve na savcích, plazech nebo ptácích",
+  "claimed_false_for": {
+   "Q113297": "Snovačka jedovatá (Latrodectus mactans)",
+   "Q1137615": "Pokoutník domácí (Tegenaria domestica)",
+   "Q1142349": "Veleštír císařský (Pandinus imperator)",
+   "Q1164137": "Třesavka velká (Pholcus phalangioides)",
+   "Q119195": "Vodouch stříbřitý (Argyroneta aquatica)",
+   "Q1335549": "Sviluška chmelová (Tetranychus urticae)",
+   "Q169513": "Skákavka pruhovaná (Salticus scenicus)",
+   "Q337509": "Křižák obecný (Araneus diadematus)",
+   "Q773744": "Štír nejjedovatější (Leiurus quinquestriatus)",
+   "Q902450": "Křižák pruhovaný (Argiope bruennichi)"
+  }
+ },
+ {
+  "id": "Q21175#3",
+  "species": "Klíště obecné",
+  "latin": "Ixodes ricinus",
+  "text": "Samice naklade do půdy 1000 až 3000 vajíček.",
+  "quote": "Samice pak naklade do půdy 1000–3000 vajíček.",
+  "claimed_false_for": {
+   "Q1142349": "Veleštír císařský (Pandinus imperator)",
+   "Q1164137": "Třesavka velká (Pholcus phalangioides)",
+   "Q119195": "Vodouch stříbřitý (Argyroneta aquatica)",
+   "Q169513": "Skákavka pruhovaná (Salticus scenicus)",
+   "Q773744": "Štír nejjedovatější (Leiurus quinquestriatus)"
+  }
+ },
+ {
+  "id": "Q21175#4",
+  "species": "Klíště obecné",
+  "latin": "Ixodes ricinus",
+  "text": "Larvy několik dní sají na ještěrkách a ptácích.",
+  "quote": "Šestinohé larvy hned hledají drobná zvířata (ještěrky, ptáky) a několik dní na nich sají.",
+  "claimed_false_for": {
+   "Q113297": "Snovačka jedovatá (Latrodectus mactans)",
+   "Q1137615": "Pokoutník domácí (Tegenaria domestica)",
+   "Q1142349": "Veleštír císařský (Pandinus imperator)",
+   "Q1164137": "Třesavka velká (Pholcus phalangioides)",
+   "Q119195": "Vodouch stříbřitý (Argyroneta aquatica)",
+   "Q1317090": "Slíďák tarentský (Lycosa tarantula)",
+   "Q1335549": "Sviluška chmelová (Tetranychus urticae)",
+   "Q169513": "Skákavka pruhovaná (Salticus scenicus)",
+   "Q337509": "Křižák obecný (Araneus diadematus)",
+   "Q773744": "Štír nejjedovatější (Leiurus quinquestriatus)",
+   "Q902450": "Křižák pruhovaný (Argiope bruennichi)"
+  }
+ },
+ {
+  "id": "Q337509#0",
+  "species": "Křižák obecný",
+  "latin": "Araneus diadematus",
+  "text": "Jeho kořistí bývá poletující hmyz.",
+  "quote": "čeká na potenciální kořist, kterou bývá poletující hmyz",
+  "claimed_false_for": {
+   "Q1133152": "Ostrorep americký (Limulus polyphemus)",
+   "Q1142349": "Veleštír císařský (Pandinus imperator)",
+   "Q119195": "Vodouch stříbřitý (Argyroneta aquatica)",
+   "Q21175": "Klíště obecné (Ixodes ricinus)",
+   "Q773744": "Štír nejjedovatější (Leiurus quinquestriatus)"
+  }
+ },
+ {
+  "id": "Q4661821#0",
+  "species": "Sklípkanec jedovatý",
+  "latin": "Atrax robustus",
+  "text": "Žije jen v Austrálii, v okruhu asi 160 km od Sydney.",
+  "quote": "se vyskytuje pouze v Austrálii, kde je rozšířen v okruhu asi 160 kilometrů od města Sydney",
+  "claimed_false_for": {
+   "Q113297": "Snovačka jedovatá (Latrodectus mactans)",
+   "Q1137615": "Pokoutník domácí (Tegenaria domestica)",
+   "Q1142349": "Veleštír císařský (Pandinus imperator)",
+   "Q1164137": "Třesavka velká (Pholcus phalangioides)",
+   "Q119195": "Vodouch stříbřitý (Argyroneta aquatica)",
+   "Q1498643": "Křižák velký (Araneus angulatus)",
+   "Q169513": "Skákavka pruhovaná (Salticus scenicus)",
+   "Q337509": "Křižák obecný (Araneus diadematus)",
+   "Q773744": "Štír nejjedovatější (Leiurus quinquestriatus)"
+  }
+ },
+ {
+  "id": "Q4661821#3",
+  "species": "Sklípkanec jedovatý",
+  "latin": "Atrax robustus",
+  "text": "Tento druh je aktivní hlavně v noci.",
+  "quote": "Jsou aktivní převážně v noci",
+  "claimed_false_for": {
+   "Q169513": "Skákavka pruhovaná (Salticus scenicus)"
+  }
+ },
+ {
+  "id": "Q773744#3",
+  "species": "Štír nejjedovatější",
+  "latin": "Leiurus quinquestriatus",
+  "text": "Žije v suchých a pouštních oblastech.",
+  "quote": "se vyskytuje v suchých až pouštních oblastech Afriky",
+  "claimed_false_for": {
+   "Q1142349": "Veleštír císařský (Pandinus imperator)",
+   "Q119195": "Vodouch stříbřitý (Argyroneta aquatica)",
+   "Q21175": "Klíště obecné (Ixodes ricinus)",
+   "Q337509": "Křižák obecný (Araneus diadematus)"
+  }
+ },
+ {
+  "id": "Q902450#1",
+  "species": "Křižák pruhovaný",
+  "latin": "Argiope bruennichi",
+  "text": "Tento druh se živí hlavně kobylkami.",
+  "quote": "ale kobylky, které tvoří hlavní zdroj jeho potravy",
+  "claimed_false_for": {
+   "Q1133152": "Ostrorep americký (Limulus polyphemus)",
+   "Q119195": "Vodouch stříbřitý (Argyroneta aquatica)",
+   "Q169513": "Skákavka pruhovaná (Salticus scenicus)",
+   "Q21175": "Klíště obecné (Ixodes ricinus)"
+  }
+ }
+]

@@ -1,0 +1,616 @@
+[
+ {
+  "id": "Q37383#3",
+  "species": "Podzemnice olejná",
+  "latin": "Arachis hypogaea",
+  "text": "Má semena dlouhá 7 až 21 milimetrů.",
+  "quote": "Délka semen se pohybuje mezi 7–21 mm a váhy od ca 0,2 do 2 gramů.",
+  "claimed_false_for": {
+   "Q1029175": "Pcháč bělohlavý (Cirsium eriophorum)",
+   "Q157334": "Jetel ladní (Trifolium campestre)",
+   "Q157583": "Jetel horský (Trifolium montanum)",
+   "Q159593": "Jetel alpský (Trifolium alpinum)",
+   "Q161126": "Kozinec cizrnovitý (Astragalus cicer)",
+   "Q161160": "Komonice lékařská (Melilotus officinalis)",
+   "Q165238": "Komonice zubatá (Melilotus dentatus)",
+   "Q805037": "Kakost oddenkatý (Geranium macrorrhizum)"
+  }
+ },
+ {
+  "id": "Q37453#1",
+  "species": "Meruňka obecná",
+  "latin": "Prunus armeniaca",
+  "text": "Kvete na loňských výhonech.",
+  "quote": "Kvete na loňských letorostech.",
+  "claimed_false_for": {
+   "Q1277255": "Lagenárie obecná (Lagenaria siceraria)",
+   "Q131226": "Čočka jedlá (Lens culinaris)",
+   "Q181095": "Tabák virginský (Nicotiana tabacum)",
+   "Q242573": "Truskavec ptačí (Polygonum aviculare)",
+   "Q26158": "Sedmikráska chudobka (Bellis perennis)",
+   "Q83193": "Locika setá (Lactuca sativa)"
+  }
+ },
+ {
+  "id": "Q37453#2",
+  "species": "Meruňka obecná",
+  "latin": "Prunus armeniaca",
+  "text": "Plody jsou oranžové peckovice.",
+  "quote": "Plody meruňky jsou peckovice s oranžovým oplodím.",
+  "claimed_false_for": {
+   "Q102240169": "Šalvěj rozmarýna (Salvia rosmarinus)",
+   "Q146604": "Rybíz černý (Ribes nigrum)",
+   "Q155825": "Mucholapka podivná (Dionaea muscipula)",
+   "Q157417": "Trnovník akát (Robinia pseudoacacia)",
+   "Q158742": "Baobab prstnatý (Adansonia digitata)",
+   "Q26663": "Pelyněk černobýl (Artemisia vulgaris)",
+   "Q27264": "Kokoška pastuší tobolka (Capsella bursa-pastoris)",
+   "Q272754": "Povijnice vodní (Ipomoea aquatica)",
+   "Q41611": "Koriandr setý (Coriandrum sativum)",
+   "Q45757": "Chlebovník různolistý (Artocarpus heterophyllus)",
+   "Q80235": "Tamarind indický (Tamarindus indica)",
+   "Q93235": "Brusnice brusinka (Vaccinium vitis-idaea)"
+  }
+ },
+ {
+  "id": "Q37453#3",
+  "species": "Meruňka obecná",
+  "latin": "Prunus armeniaca",
+  "text": "Plody jednotlivých odrůd váží 40 až 90 gramů.",
+  "quote": "Jednotlivé plody různých odrůd mají hmotnost 40–90 gramů.",
+  "claimed_false_for": {
+   "Q111346": "Svlačec rolní (Convolvulus arvensis)",
+   "Q146110": "Topol osika (Populus tremula)",
+   "Q146198": "Jeřáb ptačí (Sorbus aucuparia)",
+   "Q157154": "Jitrocel větší (Plantago major)",
+   "Q160575": "Černucha setá (Nigella sativa)",
+   "Q170461": "Azadirachta indická (Azadirachta indica)",
+   "Q22694": "Majoránka zahradní (Origanum majorana)",
+   "Q22701": "Bez černý (Sambucus nigra)",
+   "Q26354": "Břečťan popínavý (Hedera helix)",
+   "Q42385": "Kakaovník pravý (Theobroma cacao)"
+  }
+ },
+ {
+  "id": "Q37937#1",
+  "species": "Povijnice batátová",
+  "latin": "Ipomoea batatas",
+  "text": "Květy jsou velké zhruba 3 až 7 cm.",
+  "quote": "Velikost květů se pohybuje okolo 3–7 cm.",
+  "claimed_false_for": {
+   "Q12252383": "Ostružiník maliník (Rubus idaeus)",
+   "Q124969": "Líska obecná (Corylus avellana)",
+   "Q155814": "Pelyněk estragon (Artemisia dracunculus)",
+   "Q156307": "Vrba babylónská (Salix babylonica)",
+   "Q165191": "Řepa obecná (Beta vulgaris)",
+   "Q165424": "Střemcha obecná (Prunus padus)",
+   "Q26745": "Javor mléč (Acer platanoides)",
+   "Q28437": "Heřmánek pravý (Matricaria chamomilla)",
+   "Q310050": "Smuteň lékařská (Phyllanthus emblica)"
+  }
+ },
+ {
+  "id": "Q380279#0",
+  "species": "Vigna hranatá",
+  "latin": "Vigna angularis",
+  "text": "Pěstuje se ve Východní Asii a v Himálaji.",
+  "quote": "pěstovaná ve Východní Asii a v Himálaji",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q380279#1",
+  "species": "Vigna hranatá",
+  "latin": "Vigna angularis",
+  "text": "Dává malé fazolky dlouhé asi 5 milimetrů.",
+  "quote": "poskytující malé, asi 5 mm dlouhé fazolky",
+  "claimed_false_for": {
+   "Q238486": "Delonix královská (Delonix regia)",
+   "Q42339": "Fazol obecný (Phaseolus vulgaris)"
+  }
+ },
+ {
+  "id": "Q38646266#0",
+  "species": "Čajot",
+  "latin": "Sicyos edulis",
+  "text": "Pochází ze Střední Ameriky.",
+  "quote": "Pochází ze Střední Ameriky",
+  "claimed_false_for": {
+   "Q130201": "Mák vlčí (Papaver rhoeas)",
+   "Q131219": "Pampelišky smetánky (Taraxacum officinale)",
+   "Q13182": "Liči čínské (Litchi chinensis)",
+   "Q155867": "Skočec obecný (Ricinus communis)",
+   "Q156106": "Tolice vojtěška (Medicago sativa)",
+   "Q156895": "Bříza bělokorá (Betula pendula)",
+   "Q207642": "Kata jedlá (Catha edulis)",
+   "Q27344": "Zimostráz vždyzelený (Buxus sempervirens)",
+   "Q37453": "Meruňka obecná (Prunus armeniaca)",
+   "Q46871": "Ořešák královský (Juglans regia)",
+   "Q5413585": "Brusnice borůvka (Vaccinium myrtillus)"
+  }
+ },
+ {
+  "id": "Q38859#0",
+  "species": "Bazalka pravá",
+  "latin": "Ocimum basilicum",
+  "text": "Kvete od června do září.",
+  "quote": "Kvete od června do září.",
+  "claimed_false_for": {
+   "Q146281": "Hrušeň obecná (Pyrus communis)",
+   "Q157552": "Prvosenka jarní (Primula veris)"
+  }
+ },
+ {
+  "id": "Q3919027#0",
+  "species": "Mangovník indický",
+  "latin": "Mangifera indica",
+  "text": "Dožívá se až 300 let.",
+  "quote": "dožívá se i 300 let",
+  "claimed_false_for": {
+   "Q111346": "Svlačec rolní (Convolvulus arvensis)",
+   "Q146198": "Jeřáb ptačí (Sorbus aucuparia)",
+   "Q157154": "Jitrocel větší (Plantago major)",
+   "Q160575": "Černucha setá (Nigella sativa)",
+   "Q22694": "Majoránka zahradní (Origanum majorana)",
+   "Q22701": "Bez černý (Sambucus nigra)",
+   "Q234193": "Moringa olejodárná (Moringa oleifera)"
+  }
+ },
+ {
+  "id": "Q3919027#5",
+  "species": "Mangovník indický",
+  "latin": "Mangifera indica",
+  "text": "Listy na stromě vydrží několik let.",
+  "quote": "Listy vytrvávají na stromech po několik let",
+  "claimed_false_for": {
+   "Q131517": "Višeň obecná (Prunus cerasus)",
+   "Q145930": "Měsíček lékařský (Calendula officinalis)",
+   "Q146186": "Mišpule obecná (Mespilus germanica)",
+   "Q146661": "Rybíz červený (Ribes rubrum)",
+   "Q157307": "Morušovník bílý (Morus alba)",
+   "Q158563": "Dřišťál obecný (Berberis vulgaris)",
+   "Q26811": "Kmín kořenný (Carum carvi)",
+   "Q3384": "Brukev řepák (Brassica rapa)",
+   "Q484447": "Mungo fazole (Vigna radiata)"
+  }
+ },
+ {
+  "id": "Q41505#0",
+  "species": "Lokvát japonský",
+  "latin": "Eriobotrya japonica",
+  "text": "Může dosahovat výšky až 10 metrů.",
+  "quote": "Může dosahovat výšky až 10 m.",
+  "claimed_false_for": {
+   "Q146212": "Brukev zelná (Brassica oleracea)",
+   "Q146967": "Vlochyně bahenní (Vaccinium uliginosum)",
+   "Q148396": "Meduňka lékařská (Melissa officinalis)",
+   "Q23425": "Okurka setá (Cucumis sativus)",
+   "Q23501": "Rajče jedlé (Solanum lycopersicum)",
+   "Q81464": "Špenát setý (Spinacia oleracea)"
+  }
+ },
+ {
+  "id": "Q41505#1",
+  "species": "Lokvát japonský",
+  "latin": "Eriobotrya japonica",
+  "text": "Semena tohoto druhu jsou jedovatá.",
+  "quote": "Semena obsahují, jako u mnohých jiných růžovitých semen, amygdalin a jsou proto jedovatá.",
+  "claimed_false_for": {
+   "Q134283": "Dobromysl obecná (Origanum vulgare)",
+   "Q146604": "Rybíz černý (Ribes nigrum)",
+   "Q147701": "Oreláník barvířský (Bixa orellana)",
+   "Q150452": "Potočnice lékařská (Nasturtium officinale)",
+   "Q155909": "Kopřiva dvoudomá (Urtica dioica)",
+   "Q165191": "Řepa obecná (Beta vulgaris)",
+   "Q25686": "Pelyněk pravý (Artemisia absinthium)",
+   "Q26663": "Pelyněk černobýl (Artemisia vulgaris)",
+   "Q26745": "Javor mléč (Acer platanoides)"
+  }
+ },
+ {
+  "id": "Q41611#0",
+  "species": "Koriandr setý",
+  "latin": "Coriandrum sativum",
+  "text": "Žije jen jeden rok.",
+  "quote": "Jedná se o jednoletou mrkvovitou bylinu",
+  "claimed_false_for": {
+   "Q11181633": "Cicimek čínský (Ziziphus jujuba)",
+   "Q14677": "Chlebovník obecný (Artocarpus altilis)",
+   "Q165378": "Rakytník řešetlákový (Hippophae rhamnoides)",
+   "Q208253": "Pryšec nádherný (Euphorbia pulcherrima)",
+   "Q22699": "Kaštanovník setý (Castanea sativa)",
+   "Q232571": "Hřebíčkovec šabrejový (Syzygium cumini)",
+   "Q26615": "Vřes obecný (Calluna vulgaris)",
+   "Q34887": "Papája obecná (Carica papaya)"
+  }
+ },
+ {
+  "id": "Q42339#0",
+  "species": "Fazol obecný",
+  "latin": "Phaseolus vulgaris",
+  "text": "Pochází z tropických oblastí Ameriky.",
+  "quote": "Tento rostlinný druh pochází z tropických oblastí Ameriky.",
+  "claimed_false_for": {
+   "Q1111359": "Šalvěj lékařská (Salvia officinalis)",
+   "Q156918": "Vrba bílá (Salix alba)",
+   "Q158642": "Dřín obecný (Cornus mas)",
+   "Q158785": "Javor babyka (Acer campestre)",
+   "Q159565": "Vrba jíva (Salix caprea)",
+   "Q178265": "Plesnivec alpský (Leontopodium nivale)",
+   "Q188614": "Pastinák setý (Pastinaca sativa)",
+   "Q193449": "Longan (Dimocarpus longan)",
+   "Q208032": "Medvědice lékařská (Arctostaphylos uva-ursi)",
+   "Q632559": "Kajan indický (Cajanus cajan)",
+   "Q81375": "Cizrna beraní (Cicer arietinum)"
+  }
+ },
+ {
+  "id": "Q42385#0",
+  "species": "Kakaovník pravý",
+  "latin": "Theobroma cacao",
+  "text": "Pochází z tropické oblasti Jižní Ameriky.",
+  "quote": "Původem pochází z tropické oblasti Jižní Ameriky",
+  "claimed_false_for": {
+   "Q11181633": "Cicimek čínský (Ziziphus jujuba)",
+   "Q14677": "Chlebovník obecný (Artocarpus altilis)",
+   "Q165378": "Rakytník řešetlákový (Hippophae rhamnoides)",
+   "Q208253": "Pryšec nádherný (Euphorbia pulcherrima)",
+   "Q22699": "Kaštanovník setý (Castanea sativa)",
+   "Q232571": "Hřebíčkovec šabrejový (Syzygium cumini)",
+   "Q25284": "Petržel zahradní (Petroselinum crispum)",
+   "Q26615": "Vřes obecný (Calluna vulgaris)",
+   "Q34887": "Papája obecná (Carica papaya)",
+   "Q45108": "Len setý (Linum usitatissimum)",
+   "Q49855": "Eutrema japonská (Eutrema japonicum)",
+   "Q7540": "Lilek vejcoplodý (Solanum melongena)"
+  }
+ },
+ {
+  "id": "Q42385#1",
+  "species": "Kakaovník pravý",
+  "latin": "Theobroma cacao",
+  "text": "Má tmavě zelené, lesklé listy dlouhé až 30 cm.",
+  "quote": "Listy jsou tmavě zelené, až 30 cm dlouhé, celokrajné a lesklé",
+  "claimed_false_for": {
+   "Q160585": "Máta rolní (Mentha arvensis)",
+   "Q190326": "Violka trojbarevná (Viola tricolor)",
+   "Q192190": "Cesmína ostrolistá (Ilex aquifolium)"
+  }
+ },
+ {
+  "id": "Q42385#3",
+  "species": "Kakaovník pravý",
+  "latin": "Theobroma cacao",
+  "text": "Květy vyrůstají přímo na kmeni nebo na silných větvích.",
+  "quote": "vyrůstají přímo na kmeni nebo na silných větvích",
+  "claimed_false_for": {
+   "Q104212": "Chmel otáčivý (Humulus lupulus)",
+   "Q131342": "Bob obecný (Vicia faba)",
+   "Q1380": "Paprika setá (Capsicum annuum)",
+   "Q146190": "Slunečnice topinambur (Helianthus tuberosus)",
+   "Q160585": "Máta rolní (Mentha arvensis)",
+   "Q161058": "Blín černý (Hyoscyamus niger)",
+   "Q165145": "Dub letní (Quercus robur)",
+   "Q190326": "Violka trojbarevná (Viola tricolor)",
+   "Q190887": "Soterek obecný (Abrus precatorius)",
+   "Q192190": "Cesmína ostrolistá (Ilex aquifolium)",
+   "Q37937": "Povijnice batátová (Ipomoea batatas)",
+   "Q83124": "Maniok jedlý (Manihot esculenta)"
+  }
+ },
+ {
+  "id": "Q42385#4",
+  "species": "Kakaovník pravý",
+  "latin": "Theobroma cacao",
+  "text": "Obsahuje theobromin, povzbuzující látku příbuznou kofeinu.",
+  "quote": "Kakao obsahuje alkaloid theobromin, je příbuzný s kofeinem, má podobně povzbuzující účinky",
+  "claimed_false_for": {
+   "Q13158": "Jahodník velkoplodý (Fragaria × ananassa)",
+   "Q134283": "Dobromysl obecná (Origanum vulgare)",
+   "Q146684": "Jahodník obecný (Fragaria vesca)",
+   "Q156037": "Máta peprná (Mentha ×piperita)",
+   "Q157552": "Prvosenka jarní (Primula veris)",
+   "Q158496": "Proskurník lékařský (Althaea officinalis)",
+   "Q159447": "Karambola obecná (Averrhoa carambola)",
+   "Q161040": "Morušovník černý (Morus nigra)",
+   "Q166843": "Kvajáva hrušková (Psidium guajava)",
+   "Q25686": "Pelyněk pravý (Artemisia absinthium)",
+   "Q7224565": "Ředkev setá (Raphanus sativus)",
+   "Q80024": "Pomelo (Citrus maxima)"
+  }
+ },
+ {
+  "id": "Q428750#0",
+  "species": "Momordika hořká okurka",
+  "latin": "Momordica charantia",
+  "text": "Ve větším množství jsou zralé plody a semena jedovaté.",
+  "quote": "Ve větším množství je rostlina, zvláště zralé plody a semena, jedovatá.",
+  "claimed_false_for": {
+   "Q38859": "Bazalka pravá (Ocimum basilicum)"
+  }
+ },
+ {
+  "id": "Q43300#0",
+  "species": "Kdouloň obecná",
+  "latin": "Cydonia oblonga",
+  "text": "Má žluté plody podobné jablkům.",
+  "quote": "Plody (kdoule) jsou kulovité až podlouhlé malvice žluté barvy podobné jablkům",
+  "claimed_false_for": {
+   "Q13158": "Jahodník velkoplodý (Fragaria × ananassa)",
+   "Q146400": "Lilek černý (Solanum nigrum)",
+   "Q157552": "Prvosenka jarní (Primula veris)",
+   "Q16528": "Lotos ořechonosný (Nelumbo nucifera)",
+   "Q17507129": "Lubenice obecná (Citrullus lanatus)",
+   "Q190887": "Soterek obecný (Abrus precatorius)",
+   "Q26686": "Kopr vonný (Anethum graveolens)"
+  }
+ },
+ {
+  "id": "Q43300#1",
+  "species": "Kdouloň obecná",
+  "latin": "Cydonia oblonga",
+  "text": "Kvete pozdě, když už pominou nebezpečné mrazíky.",
+  "quote": "kdoule kvetou pozdně, obvykle když už všechny nebezpečné mrazíky pominuly",
+  "claimed_false_for": {
+   "Q26158": "Sedmikráska chudobka (Bellis perennis)"
+  }
+ },
+ {
+  "id": "Q43300#2",
+  "species": "Kdouloň obecná",
+  "latin": "Cydonia oblonga",
+  "text": "Dorůstá až do výšky osmi metrů.",
+  "quote": "Jde o keř nebo strom dosahující výšky až 8 m",
+  "claimed_false_for": {
+   "Q146269": "Topol bílý (Populus alba)",
+   "Q147064": "Topol černý (Populus nigra)",
+   "Q156904": "Olše lepkavá (Alnus glutinosa)",
+   "Q158482": "Tomel japonský (Diospyros kaki)"
+  }
+ },
+ {
+  "id": "Q43300#3",
+  "species": "Kdouloň obecná",
+  "latin": "Cydonia oblonga",
+  "text": "Plody voní po citrusech.",
+  "quote": "Voní po citrusech.",
+  "claimed_false_for": {
+   "Q13158": "Jahodník velkoplodý (Fragaria × ananassa)",
+   "Q17507129": "Lubenice obecná (Citrullus lanatus)"
+  }
+ },
+ {
+  "id": "Q43511#0",
+  "species": "Fenykl obecný",
+  "latin": "Foeniculum vulgare",
+  "text": "Roste planě ve Středomoří.",
+  "quote": "Roste planě ve Středomoří",
+  "claimed_false_for": {
+   "Q1380": "Paprika setá (Capsicum annuum)",
+   "Q146190": "Slunečnice topinambur (Helianthus tuberosus)",
+   "Q190887": "Soterek obecný (Abrus precatorius)",
+   "Q37937": "Povijnice batátová (Ipomoea batatas)",
+   "Q83124": "Maniok jedlý (Manihot esculenta)"
+  }
+ },
+ {
+  "id": "Q44120#0",
+  "species": "Slivoň švestka",
+  "latin": "Prunus domestica",
+  "text": "Kvete od dubna do května.",
+  "quote": "Doba kvetení je od dubna do května.",
+  "claimed_false_for": {
+   "Q131584": "Mák setý (Papaver somniferum)",
+   "Q134283": "Dobromysl obecná (Origanum vulgare)",
+   "Q155909": "Kopřiva dvoudomá (Urtica dioica)",
+   "Q165191": "Řepa obecná (Beta vulgaris)",
+   "Q25686": "Pelyněk pravý (Artemisia absinthium)",
+   "Q26663": "Pelyněk černobýl (Artemisia vulgaris)",
+   "Q45108": "Len setý (Linum usitatissimum)"
+  }
+ },
+ {
+  "id": "Q44120#1",
+  "species": "Slivoň švestka",
+  "latin": "Prunus domestica",
+  "text": "Plody jsou tmavomodré, fialové nebo načervenalé.",
+  "quote": "Barva je tmavomodrá, fialovomodrá až modročerná či načervenalá.",
+  "claimed_false_for": {
+   "Q11006": "Sója luštinatá (Glycine max)",
+   "Q124969": "Líska obecná (Corylus avellana)",
+   "Q130201": "Mák vlčí (Papaver rhoeas)",
+   "Q133205": "Pískavice řecké seno (Trigonella foenum-graecum)",
+   "Q156538": "Kaučukovník brazilský (Hevea brasiliensis)",
+   "Q156625": "Světlice barvířská (Carthamus tinctorius)",
+   "Q218462": "Kerblík třebule (Anthriscus cerefolium)",
+   "Q26726": "Konopí seté (Cannabis sativa)"
+  }
+ },
+ {
+  "id": "Q44120#2",
+  "species": "Slivoň švestka",
+  "latin": "Prunus domestica",
+  "text": "Dorůstá až do výšky deseti metrů.",
+  "quote": "Jedná se o strom nebo keř, který je až 10 m vysoký.",
+  "claimed_false_for": {
+   "Q138617": "Vlnovec pětimužný (Ceiba pentandra)",
+   "Q218155": "Dub cesmínovitý (Quercus ilex)",
+   "Q26899": "Jírovec maďal (Aesculus hippocastanum)",
+   "Q30046": "Réva vinná (Vitis vinifera)"
+  }
+ },
+ {
+  "id": "Q44120#5",
+  "species": "Slivoň švestka",
+  "latin": "Prunus domestica",
+  "text": "Pochází z Kavkazu a rozšířil se do celého světa.",
+  "quote": "Pochází z Kavkazu, odkud se pak rozšířila do celého světa.",
+  "claimed_false_for": {
+   "Q13189": "Broskvoň obecná (Prunus persica)",
+   "Q146604": "Rybíz černý (Ribes nigrum)",
+   "Q147701": "Oreláník barvířský (Bixa orellana)"
+  }
+ },
+ {
+  "id": "Q45108#0",
+  "species": "Len setý",
+  "latin": "Linum usitatissimum",
+  "text": "Kvete světle modře.",
+  "quote": "kvete světle modře",
+  "claimed_false_for": {
+   "Q146684": "Jahodník obecný (Fragaria vesca)",
+   "Q150064": "Cedrát (Citrus medica)",
+   "Q155814": "Pelyněk estragon (Artemisia dracunculus)",
+   "Q156137": "Dub korkový (Quercus suber)",
+   "Q156625": "Světlice barvířská (Carthamus tinctorius)",
+   "Q158482": "Tomel japonský (Diospyros kaki)",
+   "Q25408": "Řebříček obecný (Achillea millefolium)",
+   "Q26297": "Šťovík kyselý (Rumex acetosa)",
+   "Q26354": "Břečťan popínavý (Hedera helix)",
+   "Q28298": "Miřík celer (Apium graveolens)",
+   "Q41503": "Srstka angrešt (Ribes uva-crispa)",
+   "Q49855": "Eutrema japonská (Eutrema japonicum)"
+  }
+ },
+ {
+  "id": "Q45108#1",
+  "species": "Len setý",
+  "latin": "Linum usitatissimum",
+  "text": "Dorůstá výšky asi 1,2 m.",
+  "quote": "Dorůstá výšky asi 1,2 m",
+  "claimed_false_for": {
+   "Q138617": "Vlnovec pětimužný (Ceiba pentandra)",
+   "Q146400": "Lilek černý (Solanum nigrum)",
+   "Q15545507": "Mandloň obecná (Prunus amygdalus)",
+   "Q158289": "Třezalka tečkovaná (Hypericum perforatum)",
+   "Q218155": "Dub cesmínovitý (Quercus ilex)",
+   "Q26899": "Jírovec maďal (Aesculus hippocastanum)",
+   "Q30046": "Réva vinná (Vitis vinifera)"
+  }
+ },
+ {
+  "id": "Q45757#0",
+  "species": "Chlebovník různolistý",
+  "latin": "Artocarpus heterophyllus",
+  "text": "Dorůstá do výšky 10 až 25 metrů.",
+  "quote": "Stálezelený, jednodomý strom vysoký 10 až 25 m",
+  "claimed_false_for": {
+   "Q129018": "Trnka obecná (Prunus spinosa)",
+   "Q147075": "Brutnák lékařský (Borago officinalis)",
+   "Q156928": "Kalina obecná (Viburnum opulus)",
+   "Q156938": "Teka obrovská (Tectona grandis)",
+   "Q157819": "Kozlík lékařský (Valeriana officinalis)",
+   "Q235889": "Kotvičník zemní (Tribulus terrestris)",
+   "Q2763698": "Sezam indický (Sesamum indicum)",
+   "Q38646266": "Čajot (Sicyos edulis)",
+   "Q38859": "Bazalka pravá (Ocimum basilicum)"
+  }
+ },
+ {
+  "id": "Q45757#1",
+  "species": "Chlebovník různolistý",
+  "latin": "Artocarpus heterophyllus",
+  "text": "Žije asi 100 let.",
+  "quote": "Mívá životnost asi 100 let",
+  "claimed_false_for": {
+   "Q22699": "Kaštanovník setý (Castanea sativa)",
+   "Q34887": "Papája obecná (Carica papaya)"
+  }
+ },
+ {
+  "id": "Q45757#2",
+  "species": "Chlebovník různolistý",
+  "latin": "Artocarpus heterophyllus",
+  "text": "Jeho dřevo odolává termitům i houbovým parazitům.",
+  "quote": "Je odolné proti termitům i houbovitým parazitům.",
+  "claimed_false_for": {
+   "Q3355098": "Pomerančovník čínský (Citrus ×sinensis)"
+  }
+ },
+ {
+  "id": "Q45757#4",
+  "species": "Chlebovník různolistý",
+  "latin": "Artocarpus heterophyllus",
+  "text": "Jeho květy opyluje hmyz a vítr.",
+  "quote": "Květy jsou opylovány hmyzem a větrem.",
+  "claimed_false_for": {
+   "Q146110": "Topol osika (Populus tremula)"
+  }
+ },
+ {
+  "id": "Q46871#1",
+  "species": "Ořešák královský",
+  "latin": "Juglans regia",
+  "text": "V Česku kvete v dubnu a květnu.",
+  "quote": "V České republice kvete v dubnu a květnu",
+  "claimed_false_for": {
+   "Q25408": "Řebříček obecný (Achillea millefolium)",
+   "Q26932": "Lopuch větší (Arctium lappa)",
+   "Q30959": "Durman obecný (Datura stramonium)"
+  }
+ },
+ {
+  "id": "Q476864#0",
+  "species": "Rambutan",
+  "latin": "Nephelium lappaceum",
+  "text": "Plody jsou pokryté měkkými ostny.",
+  "quote": "kulovité až oválné červené plody pokryté měkkými ostny",
+  "claimed_false_for": {
+   "Q146212": "Brukev zelná (Brassica oleracea)",
+   "Q146281": "Hrušeň obecná (Pyrus communis)",
+   "Q146967": "Vlochyně bahenní (Vaccinium uliginosum)",
+   "Q147096": "Pomerančovník hořký (Citrus × aurantium)",
+   "Q148396": "Meduňka lékařská (Melissa officinalis)",
+   "Q156790": "Marakuja (Passiflora edulis)",
+   "Q158018": "Rudodřev koka (Erythroxylum coca)",
+   "Q23501": "Rajče jedlé (Solanum lycopersicum)",
+   "Q36071": "Řečík pistáciový (Pistacia vera)"
+  }
+ },
+ {
+  "id": "Q476864#1",
+  "species": "Rambutan",
+  "latin": "Nephelium lappaceum",
+  "text": "Nejvíce se pěstuje v Thajsku.",
+  "quote": "Největším pěstitelem rambutanu je Thajsko.",
+  "claimed_false_for": {
+   "Q132734": "Pohanka obecná (Fagopyrum esculentum)",
+   "Q146066": "Růže šípková (Rosa canina)",
+   "Q156307": "Vrba babylónská (Salix babylonica)",
+   "Q178265": "Plesnivec alpský (Leontopodium nivale)",
+   "Q182448": "Henovník bílý (Lawsonia inermis)",
+   "Q26545": "Křen selský (Armoracia rusticana)",
+   "Q26736": "Hřebíčkovec kořenný (Syzygium aromaticum)",
+   "Q26899": "Jírovec maďal (Aesculus hippocastanum)",
+   "Q37453": "Meruňka obecná (Prunus armeniaca)",
+   "Q38646266": "Čajot (Sicyos edulis)",
+   "Q44120": "Slivoň švestka (Prunus domestica)"
+  }
+ },
+ {
+  "id": "Q484447#1",
+  "species": "Mungo fazole",
+  "latin": "Vigna radiata",
+  "text": "Kvete žlutozelenými květy v hroznech.",
+  "quote": "Rostlina kvete žlutozelenými květy ve stažených hroznech",
+  "claimed_false_for": {
+   "Q155825": "Mucholapka podivná (Dionaea muscipula)",
+   "Q157417": "Trnovník akát (Robinia pseudoacacia)",
+   "Q158742": "Baobab prstnatý (Adansonia digitata)",
+   "Q27264": "Kokoška pastuší tobolka (Capsella bursa-pastoris)",
+   "Q93235": "Brusnice brusinka (Vaccinium vitis-idaea)"
+  }
+ },
+ {
+  "id": "Q484447#3",
+  "species": "Mungo fazole",
+  "latin": "Vigna radiata",
+  "text": "Sklízí se dva až čtyři měsíce po zasetí.",
+  "quote": "Sklizeň probíhá dva až čtyři měsíce po výsevu.",
+  "claimed_false_for": {
+   "Q146269": "Topol bílý (Populus alba)",
+   "Q147064": "Topol černý (Populus nigra)",
+   "Q156904": "Olše lepkavá (Alnus glutinosa)",
+   "Q158482": "Tomel japonský (Diospyros kaki)"
+  }
+ }
+]

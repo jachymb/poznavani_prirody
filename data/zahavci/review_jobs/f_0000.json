@@ -1,0 +1,85 @@
+[
+ {
+  "id": "Q1888438#0",
+  "species": "Medúzka sladkovodní",
+  "latin": "Craspedacusta sowerbyi",
+  "text": "Dorůstá do velikosti 20 až 25 milimetrů.",
+  "quote": "Dospělý jedinec má v průměru 20–25 mm.",
+  "claimed_false_for": {
+   "Q522939": "Talířovka obrovská (Cyanea capillata)",
+   "Q935234": "Sasanka karafiátová (Metridium senile)"
+  }
+ },
+ {
+  "id": "Q1888438#2",
+  "species": "Medúzka sladkovodní",
+  "latin": "Craspedacusta sowerbyi",
+  "text": "Vyskytuje se nejvíce v létě, od července do září.",
+  "quote": "Nejvíce jedinců ve stádiu medúzy se vyskytuje v letních měsících od července do září",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1888438#3",
+  "species": "Medúzka sladkovodní",
+  "latin": "Craspedacusta sowerbyi",
+  "text": "Počet chapadel roste z 16 až na 500.",
+  "quote": "Během jejich vývoje v dospělce se významně zvyšuje počet chapadel (ze 16 až na 500)",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q522939#0",
+  "species": "Talířovka obrovská",
+  "latin": "Cyanea capillata",
+  "text": "Tento druh se živí drobným planktonem a malými rybami.",
+  "quote": "Talířovky samy se pak živí zooplanktonem, malými rybami",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q522939#1",
+  "species": "Talířovka obrovská",
+  "latin": "Cyanea capillata",
+  "text": "Tento druh zůstává většinou blízko hladiny, nejvýš do 20 metrů.",
+  "quote": "Talířovky obrovské zůstávají většinou těsně u hladiny, maximálně do 20 metrů hloubky.",
+  "claimed_false_for": {
+   "Q935234": "Sasanka karafiátová (Metridium senile)"
+  }
+ },
+ {
+  "id": "Q522939#2",
+  "species": "Talířovka obrovská",
+  "latin": "Cyanea capillata",
+  "text": "Tento druh má nepřátele: mořské ptáky, velké ryby a mořské želvy.",
+  "quote": "Nepřátelé talířovky zahrnují mořské ptáky, větší ryby jako třeba měsíčník svítívý, další druhy medúz a mořské želvy.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q522939#3",
+  "species": "Talířovka obrovská",
+  "latin": "Cyanea capillata",
+  "text": "Tento druh má u větších jedinců chapadla dlouhá přes 30 metrů.",
+  "quote": "Chapadla větších jedinců mohou dosahovat délky 30 a více metrů.",
+  "claimed_false_for": {
+   "Q1888438": "Medúzka sladkovodní (Craspedacusta sowerbyi)",
+   "Q935234": "Sasanka karafiátová (Metridium senile)"
+  }
+ },
+ {
+  "id": "Q935234#0",
+  "species": "Sasanka karafiátová",
+  "latin": "Metridium senile",
+  "text": "Tento druh chytá potravu malými chapadly z proudící vody.",
+  "quote": "Na vrchu se nachází četná malá bílá chapadla, která slouží pro chytání potravy z okolo proudící vody.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q935234#1",
+  "species": "Sasanka karafiátová",
+  "latin": "Metridium senile",
+  "text": "Tento druh při nebezpečí stáhne horní chapadla do těla.",
+  "quote": "V případě ohrožení je sasanka schopna zatáhnout horní chapadla do těla.",
+  "claimed_false_for": {
+   "Q1888438": "Medúzka sladkovodní (Craspedacusta sowerbyi)",
+   "Q522939": "Talířovka obrovská (Cyanea capillata)"
+  }
+ }
+]

@@ -1,0 +1,30 @@
+{"drop_facts": [
+{"id": "Q113273#0", "why": "posun významu: červené jsou plodnice (apothecia) na okrajích, ne samy okraje"},
+{"id": "Q182281#0", "why": "gramatika: 'mu' nesedí k ženskému rodu pukléřka, hovorové 'dělá'"},
+{"id": "Q182281#1", "why": "nepřímo prozrazuje název: sosna = borovice, pukléřka sosnová"},
+{"id": "Q2079766#0", "why": "karibu je poddruh soba, ne jiné zvíře; 'karibové' je krkolomný tvar"},
+{"id": "Q2079766#1", "why": "vynechává 'průměrně' z citace; horní mez bez něj neplatí"},
+{"id": "Q881824#1", "why": "vytržené: článek říká, že je velmi odolná a snáší velké imise; dítě by se naučilo opak"},
+{"id": "Q904074#1", "why": "gramatická chyba 've silně'"}
+], "drop_pairs": [
+{"id": "Q1365267#0", "species": "Q1811239"},
+{"id": "Q1365267#0", "species": "Q475341"},
+{"id": "Q1811239#0", "species": "Q582664"},
+{"id": "Q199127#1", "species": "Q2079766"},
+{"id": "Q199127#1", "species": "Q248744"},
+{"id": "Q199127#1", "species": "Q3374554"},
+{"id": "Q199127#1", "species": "Q582664"},
+{"id": "Q475341#0", "species": "Q1365267"},
+{"id": "Q475341#0", "species": "Q2079766"},
+{"id": "Q475341#0", "species": "Q248744"},
+{"id": "Q475341#0", "species": "Q3374554"},
+{"id": "Q475341#0", "species": "Q582664"},
+{"id": "Q475341#1", "species": "Q2079766"},
+{"id": "Q475341#1", "species": "Q904074"},
+{"id": "Q881824#0", "species": "Q199127"},
+{"id": "Q881824#0", "species": "Q3374554"},
+{"id": "Q881824#0", "species": "Q582664"},
+{"id": "Q904074#0", "species": "Q10646489"},
+{"id": "Q904074#0", "species": "Q199127"},
+{"id": "Q904074#0", "species": "Q475341"}
+]}

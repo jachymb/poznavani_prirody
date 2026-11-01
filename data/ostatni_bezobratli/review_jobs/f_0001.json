@@ -1,0 +1,109 @@
+[
+ {
+  "id": "Q10672222#0",
+  "species": "Podrepka vodní",
+  "latin": "Sminthurides aquaticus",
+  "text": "Tento druh se živí listy okřehku menšího.",
+  "quote": "Druh se živí listy okřehku menšího.",
+  "claimed_false_for": {
+   "Q1534556": "Sumka zlatoústá (Polycarpa aurata)",
+   "Q2567701": "Sumka trubičkovitá (Ciona intestinalis)",
+   "Q3624860": "Sumka obecná (Ascidia mentula)",
+   "Q4921692": "Salpa řetězová (Thetys vagina)",
+   "Q545813": "Mákovka vodní (Podura aquatica)",
+   "Q837241": "Zřasenka středomořská (Botryllus schlosseri)"
+  }
+ },
+ {
+  "id": "Q10672222#1",
+  "species": "Podrepka vodní",
+  "latin": "Sminthurides aquaticus",
+  "text": "Samice klade vajíčka na okřehek.",
+  "quote": "Samice klade vajíčka na okřehek.",
+  "claimed_false_for": {
+   "Q1534556": "Sumka zlatoústá (Polycarpa aurata)",
+   "Q2567701": "Sumka trubičkovitá (Ciona intestinalis)",
+   "Q3624860": "Sumka obecná (Ascidia mentula)",
+   "Q4921692": "Salpa řetězová (Thetys vagina)",
+   "Q837241": "Zřasenka středomořská (Botryllus schlosseri)"
+  }
+ },
+ {
+  "id": "Q14856149#4",
+  "species": "Larvěnka obrovská",
+  "latin": "Tetrodontophora bielanensis",
+  "text": "Jí houbová vlákna a mrtvá zvířata.",
+  "quote": "houbovými hyfami, mršinami a řasami",
+  "claimed_false_for": {
+   "Q1534556": "Sumka zlatoústá (Polycarpa aurata)",
+   "Q2567701": "Sumka trubičkovitá (Ciona intestinalis)",
+   "Q3624860": "Sumka obecná (Ascidia mentula)",
+   "Q4921692": "Salpa řetězová (Thetys vagina)",
+   "Q837241": "Zřasenka středomořská (Botryllus schlosseri)"
+  }
+ },
+ {
+  "id": "Q1534556#0",
+  "species": "Sumka zlatoústá",
+  "latin": "Polycarpa aurata",
+  "text": "Nepřáteli tohoto druhu jsou hlavně nahožábří.",
+  "quote": "Predátory této sumky jsou zejména nahožábří.",
+  "claimed_false_for": {
+   "Q10672222": "Podrepka vodní (Sminthurides aquaticus)",
+   "Q14856149": "Larvěnka obrovská (Tetrodontophora bielanensis)",
+   "Q545813": "Mákovka vodní (Podura aquatica)"
+  }
+ },
+ {
+  "id": "Q1534556#1",
+  "species": "Sumka zlatoústá",
+  "latin": "Polycarpa aurata",
+  "text": "Živí se filtrací vody.",
+  "quote": "potravu si zajišťují filtrací vody",
+  "claimed_false_for": {
+   "Q10672222": "Podrepka vodní (Sminthurides aquaticus)",
+   "Q14856149": "Larvěnka obrovská (Tetrodontophora bielanensis)",
+   "Q545813": "Mákovka vodní (Podura aquatica)"
+  }
+ },
+ {
+  "id": "Q3624860#2",
+  "species": "Sumka obecná",
+  "latin": "Ascidia mentula",
+  "text": "V jeho těle žije kreveta, se kterou je v symbióze.",
+  "quote": "Těla těchto sumek však obývají některé symbiotické organismy, dokumentován byl například vztah s krevetou Ascidonia flavomaculata.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q4921692#2",
+  "species": "Salpa řetězová",
+  "latin": "Thetys vagina",
+  "text": "Mořské želvy, mořští ptáci a mnoho ryb se živí tímto druhem.",
+  "quote": "mořské želvy, mořští ptáci a mnoho ryb",
+  "claimed_false_for": {
+   "Q10672222": "Podrepka vodní (Sminthurides aquaticus)",
+   "Q14856149": "Larvěnka obrovská (Tetrodontophora bielanensis)",
+   "Q545813": "Mákovka vodní (Podura aquatica)"
+  }
+ },
+ {
+  "id": "Q4921692#3",
+  "species": "Salpa řetězová",
+  "latin": "Thetys vagina",
+  "text": "Australské langusty ho jedí a využívají k přepravě.",
+  "quote": "Studie z roku 2015 potvrdila, že salpu řetězovou využívají langusty australské",
+  "claimed_false_for": {
+   "Q10672222": "Podrepka vodní (Sminthurides aquaticus)",
+   "Q14856149": "Larvěnka obrovská (Tetrodontophora bielanensis)",
+   "Q545813": "Mákovka vodní (Podura aquatica)"
+  }
+ },
+ {
+  "id": "Q545813#0",
+  "species": "Mákovka vodní",
+  "latin": "Podura aquatica",
+  "text": "Tento druh se živí bakteriemi, řasami a pylovými zrny plovoucími na hladině.",
+  "quote": "Potrava druhu se skládá z bakterií, řas a pylových zrn plovoucích na hladině.",
+  "claimed_false_for": {}
+ }
+]

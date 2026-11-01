@@ -1,0 +1,484 @@
+[
+ {
+  "id": "Q1125768#0",
+  "species": "Sleziník routička",
+  "latin": "Asplenium ruta-muraria",
+  "text": "Roste ve skalních štěrbinách, na kamenitých sutích a na zdech.",
+  "quote": "pokrývá skalní štěrbiny, kamenité sutě (převážně vápence, dolomity, vápnité pískovce), kamenné a cihlové zdi.",
+  "claimed_false_for": {
+   "Q2247460": "Vratička heřmánkolistá (Botrychium matricariifolium)",
+   "Q2705087": "Azola americká (Azolla filiculoides)",
+   "Q948839": "Přeslička poříční (Equisetum fluviatile)"
+  }
+ },
+ {
+  "id": "Q1125768#1",
+  "species": "Sleziník routička",
+  "latin": "Asplenium ruta-muraria",
+  "text": "Dorůstá jen do 3 až 10 centimetrů.",
+  "quote": "kapradina vysoká 3–10 cm.",
+  "claimed_false_for": {
+   "Q1130272": "Jelení jazyk celolistý (Asplenium scolopendrium)",
+   "Q1301661": "Bukovník kapraďovitý (Gymnocarpium dryopteris)",
+   "Q2092520": "Bukovník vápencový (Gymnocarpium robertianum)",
+   "Q59420181": "Žebrovice různolistá (Struthiopteris spicant)",
+   "Q902211": "Sleziník červený (Asplenium trichomanes)",
+   "Q948839": "Přeslička poříční (Equisetum fluviatile)"
+  }
+ },
+ {
+  "id": "Q1197925#2",
+  "species": "Prutovka nahá",
+  "latin": "Psilotum nudum",
+  "text": "Žije v symbióze s houbou, jejíž vlákna prorůstají jeho podzemní části.",
+  "quote": "prorostlé vlákny symbiotické houby",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1197925#3",
+  "species": "Prutovka nahá",
+  "latin": "Psilotum nudum",
+  "text": "Houbová vlákna mu dodávají živiny.",
+  "quote": "Je vyživován prostřednictvím mykorhizy houbovými vlákny",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1546744#1",
+  "species": "Osladič přehlížený",
+  "latin": "Polypodium interjectum",
+  "text": "V Česku roste vzácně na světlých skalnatých místech.",
+  "quote": "se v Česku vyskytuje vzácně na světlých skalních stanovištích",
+  "claimed_false_for": {
+   "Q1684201": "Hnědovka křídlatá (Microsorum pteropus)",
+   "Q2247460": "Vratička heřmánkolistá (Botrychium matricariifolium)",
+   "Q2705087": "Azola americká (Azolla filiculoides)",
+   "Q59420181": "Žebrovice různolistá (Struthiopteris spicant)",
+   "Q902211": "Sleziník červený (Asplenium trichomanes)",
+   "Q948839": "Přeslička poříční (Equisetum fluviatile)"
+  }
+ },
+ {
+  "id": "Q1552374#0",
+  "species": "Sleziník zelený",
+  "latin": "Asplenium viride",
+  "text": "Zachytává částečky půdy a umožňuje klíčení náročnějším rostlinám.",
+  "quote": "Zachytává částečky půdy a tím umožňuje klíčení náročnějším rostlinám.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1552374#1",
+  "species": "Sleziník zelený",
+  "latin": "Asplenium viride",
+  "text": "Roste na stinných, vlhkých, vápencových skalách.",
+  "quote": "roste převážně na stinných, vlhkých, vápencových skalách",
+  "claimed_false_for": {
+   "Q1637866": "Kapraď hřebenitá (Dryopteris cristata)",
+   "Q213548": "Hasivka orličí (Pteridium aquilinum)",
+   "Q733398": "Podezřeň královská (Osmunda regalis)"
+  }
+ },
+ {
+  "id": "Q1574713#0",
+  "species": "Jinořadec kadeřavý",
+  "latin": "Cryptogramma crispa",
+  "text": "Roste v kamenných sutích nebo ve skalních štěrbinách.",
+  "quote": "Vyskytuje se v kamenných sutích nebo skalních štěrbinách",
+  "claimed_false_for": {
+   "Q1130386": "Pérovník pštrosí (Matteuccia struthiopteris)",
+   "Q2466601": "Vratička jednoduchá (Botrychium simplex)",
+   "Q299246": "Míčovka kulkonosná (Pilularia globulifera)",
+   "Q958103": "Kapradiník bažinný (Thelypteris palustris)"
+  }
+ },
+ {
+  "id": "Q1574713#1",
+  "species": "Jinořadec kadeřavý",
+  "latin": "Cryptogramma crispa",
+  "text": "Roste jen na kyselém podkladu.",
+  "quote": "Roste jen na kyselých substrátech.",
+  "claimed_false_for": {
+   "Q1125768": "Sleziník routička (Asplenium ruta-muraria)",
+   "Q2273882": "Sleziník hadcový (Asplenium cuneifolium)",
+   "Q901435": "Sleziník nepravý (Asplenium adulterinum)"
+  }
+ },
+ {
+  "id": "Q1637866#0",
+  "species": "Kapraď hřebenitá",
+  "latin": "Dryopteris cristata",
+  "text": "Vyskytuje se především při okrajích rašelinišť, v olšinách a březových močálech.",
+  "quote": "Vyskytuje se především při okrajích rašelinišť, v olšinách a březových močálech.",
+  "claimed_false_for": {
+   "Q1130272": "Jelení jazyk celolistý (Asplenium scolopendrium)",
+   "Q1684201": "Hnědovka křídlatá (Microsorum pteropus)",
+   "Q1754958": "Kyvor lékařský (Asplenium ceterach)",
+   "Q2092520": "Bukovník vápencový (Gymnocarpium robertianum)",
+   "Q2176480": "Puchýřník hladký (Cystopteris dickieana)",
+   "Q2247460": "Vratička heřmánkolistá (Botrychium matricariifolium)",
+   "Q3023471": "Blánatec kentský (Hymenophyllum tunbrigense)",
+   "Q902211": "Sleziník červený (Asplenium trichomanes)"
+  }
+ },
+ {
+  "id": "Q1637866#1",
+  "species": "Kapraď hřebenitá",
+  "latin": "Dryopteris cristata",
+  "text": "Listy jsou dlouhé asi 30 až 80 cm.",
+  "quote": "asi 30–80 cm dlouhými listy",
+  "claimed_false_for": {
+   "Q1754958": "Kyvor lékařský (Asplenium ceterach)",
+   "Q2176480": "Puchýřník hladký (Cystopteris dickieana)",
+   "Q2247460": "Vratička heřmánkolistá (Botrychium matricariifolium)",
+   "Q3023471": "Blánatec kentský (Hymenophyllum tunbrigense)"
+  }
+ },
+ {
+  "id": "Q1753134#0",
+  "species": "Sleziník severní",
+  "latin": "Asplenium septentrionale",
+  "text": "Dosahuje výšky 5 až 15 cm.",
+  "quote": "dosahující výšky 5–15 cm",
+  "claimed_false_for": {
+   "Q1130272": "Jelení jazyk celolistý (Asplenium scolopendrium)",
+   "Q1301661": "Bukovník kapraďovitý (Gymnocarpium dryopteris)",
+   "Q2092520": "Bukovník vápencový (Gymnocarpium robertianum)",
+   "Q59420181": "Žebrovice různolistá (Struthiopteris spicant)",
+   "Q948839": "Přeslička poříční (Equisetum fluviatile)"
+  }
+ },
+ {
+  "id": "Q1753134#1",
+  "species": "Sleziník severní",
+  "latin": "Asplenium septentrionale",
+  "text": "Roste ve skalních štěrbinách a na sutích.",
+  "quote": "ve skalních štěrbinách, sutích a na podobných stanovištích",
+  "claimed_false_for": {
+   "Q1637866": "Kapraď hřebenitá (Dryopteris cristata)",
+   "Q213548": "Hasivka orličí (Pteridium aquilinum)",
+   "Q733398": "Podezřeň královská (Osmunda regalis)"
+  }
+ },
+ {
+  "id": "Q191532#0",
+  "species": "Puchýřník křehký",
+  "latin": "Cystopteris fragilis",
+  "text": "Osidluje hlavně vlhké skály a staré zdi.",
+  "quote": "Osidluje hlavně vlhké skály, staré zdi,",
+  "claimed_false_for": {
+   "Q2247460": "Vratička heřmánkolistá (Botrychium matricariifolium)",
+   "Q2705087": "Azola americká (Azolla filiculoides)",
+   "Q948839": "Přeslička poříční (Equisetum fluviatile)"
+  }
+ },
+ {
+  "id": "Q191532#1",
+  "species": "Puchýřník křehký",
+  "latin": "Cystopteris fragilis",
+  "text": "Listy jsou dlouhé 100 až 400 mm.",
+  "quote": "100 až 400 mm dlouhé",
+  "claimed_false_for": {
+   "Q2705087": "Azola americká (Azolla filiculoides)",
+   "Q3023471": "Blánatec kentský (Hymenophyllum tunbrigense)"
+  }
+ },
+ {
+  "id": "Q202067#0",
+  "species": "Puchýřník sudetský",
+  "latin": "Cystopteris sudetica",
+  "text": "Roste ve stinných lesích, na vápenitých sutích.",
+  "quote": "Stinné humózní lesy, vápenité sutě, vzácně kamenité svahy.",
+  "claimed_false_for": {
+   "Q1637866": "Kapraď hřebenitá (Dryopteris cristata)",
+   "Q733398": "Podezřeň královská (Osmunda regalis)"
+  }
+ },
+ {
+  "id": "Q2036293#1",
+  "species": "Kapraď rezavá",
+  "latin": "Dryopteris affinis",
+  "text": "Listy mohou být až 120 cm dlouhé.",
+  "quote": "až 120 cm dlouhými listy",
+  "claimed_false_for": {
+   "Q1130272": "Jelení jazyk celolistý (Asplenium scolopendrium)",
+   "Q1637866": "Kapraď hřebenitá (Dryopteris cristata)",
+   "Q2176480": "Puchýřník hladký (Cystopteris dickieana)",
+   "Q2233063": "Kapradinka skalní (Woodsia ilvensis)"
+  }
+ },
+ {
+  "id": "Q2092520#1",
+  "species": "Bukovník vápencový",
+  "latin": "Gymnocarpium robertianum",
+  "text": "Výtrusy dozrávají od června do srpna.",
+  "quote": "červen až srpen",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q2233063#1",
+  "species": "Kapradinka skalní",
+  "latin": "Woodsia ilvensis",
+  "text": "Na každé straně listu má 8 až 16 lístků.",
+  "quote": "Po každé straně má 8–16 lístků",
+  "claimed_false_for": {
+   "Q2705087": "Azola americká (Azolla filiculoides)",
+   "Q948839": "Přeslička poříční (Equisetum fluviatile)"
+  }
+ },
+ {
+  "id": "Q2247460#2",
+  "species": "Vratička heřmánkolistá",
+  "latin": "Botrychium matricariifolium",
+  "text": "Potřebuje houby, které mu dodávají živiny.",
+  "quote": "plně závislá na výživě houbou arbuskulární mykorhizy",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q2273882#0",
+  "species": "Sleziník hadcový",
+  "latin": "Asplenium cuneifolium",
+  "text": "Dorůstá do výšky 10 až 30 centimetrů.",
+  "quote": "vysoká asi 10 až 30 cm",
+  "claimed_false_for": {
+   "Q2705087": "Azola americká (Azolla filiculoides)",
+   "Q3023471": "Blánatec kentský (Hymenophyllum tunbrigense)",
+   "Q948839": "Přeslička poříční (Equisetum fluviatile)"
+  }
+ },
+ {
+  "id": "Q2273882#1",
+  "species": "Sleziník hadcový",
+  "latin": "Asplenium cuneifolium",
+  "text": "Roste jen ve štěrbinách skal.",
+  "quote": "roste výhradně ve štěrbinách hadcových skal střední a jižní Evropy",
+  "claimed_false_for": {
+   "Q2247460": "Vratička heřmánkolistá (Botrychium matricariifolium)",
+   "Q2705087": "Azola americká (Azolla filiculoides)",
+   "Q948839": "Přeslička poříční (Equisetum fluviatile)"
+  }
+ },
+ {
+  "id": "Q2466601#0",
+  "species": "Vratička jednoduchá",
+  "latin": "Botrychium simplex",
+  "text": "Tento druh se v Česku posledních 50 let nepodařilo spatřit.",
+  "quote": "Nebyla během posledních 50 let spatřena na území České republiky",
+  "claimed_false_for": {
+   "Q1552374": "Sleziník zelený (Asplenium viride)",
+   "Q1637866": "Kapraď hřebenitá (Dryopteris cristata)",
+   "Q21122": "Přeslička bahenní (Equisetum palustre)",
+   "Q2233063": "Kapradinka skalní (Woodsia ilvensis)"
+  }
+ },
+ {
+  "id": "Q2466601#1",
+  "species": "Vratička jednoduchá",
+  "latin": "Botrychium simplex",
+  "text": "Patří mezi nejvzácnější rostliny Evropy.",
+  "quote": "patřící mezi nejvzácnější rostliny Evropy.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q2654918#0",
+  "species": "Kapradina Braunova",
+  "latin": "Polystichum braunii",
+  "text": "Roste ve stinných horských stráních a lesích.",
+  "quote": "Roste ve stinných horských stráních a lesích",
+  "claimed_false_for": {
+   "Q733398": "Podezřeň královská (Osmunda regalis)"
+  }
+ },
+ {
+  "id": "Q2654918#1",
+  "species": "Kapradina Braunova",
+  "latin": "Polystichum braunii",
+  "text": "Listy jsou dlouhé 20 až 90 centimetrů a široké 7 až 16 centimetrů.",
+  "quote": "20–90 cm dlouhé a 7–16 cm široké listy",
+  "claimed_false_for": {
+   "Q2176480": "Puchýřník hladký (Cystopteris dickieana)",
+   "Q2233063": "Kapradinka skalní (Woodsia ilvensis)"
+  }
+ },
+ {
+  "id": "Q2678657#0",
+  "species": "Pérnatec horský",
+  "latin": "Oreopteris limbosperma",
+  "text": "Dorůstá až do výšky 100 cm.",
+  "quote": "Dorůstá až do výšky 100 cm.",
+  "claimed_false_for": {
+   "Q1130272": "Jelení jazyk celolistý (Asplenium scolopendrium)",
+   "Q1301661": "Bukovník kapraďovitý (Gymnocarpium dryopteris)",
+   "Q1684201": "Hnědovka křídlatá (Microsorum pteropus)",
+   "Q1754958": "Kyvor lékařský (Asplenium ceterach)",
+   "Q2092520": "Bukovník vápencový (Gymnocarpium robertianum)",
+   "Q2176480": "Puchýřník hladký (Cystopteris dickieana)",
+   "Q2247460": "Vratička heřmánkolistá (Botrychium matricariifolium)",
+   "Q2705087": "Azola americká (Azolla filiculoides)",
+   "Q3023471": "Blánatec kentský (Hymenophyllum tunbrigense)",
+   "Q59420181": "Žebrovice různolistá (Struthiopteris spicant)",
+   "Q902211": "Sleziník červený (Asplenium trichomanes)"
+  }
+ },
+ {
+  "id": "Q2678657#1",
+  "species": "Pérnatec horský",
+  "latin": "Oreopteris limbosperma",
+  "text": "Žlázky mívají silně citrónovou vůni.",
+  "quote": "Žlázky mívají silně citrónovou vůni.",
+  "claimed_false_for": {
+   "Q1684201": "Hnědovka křídlatá (Microsorum pteropus)",
+   "Q2247460": "Vratička heřmánkolistá (Botrychium matricariifolium)",
+   "Q2705087": "Azola americká (Azolla filiculoides)",
+   "Q3023471": "Blánatec kentský (Hymenophyllum tunbrigense)",
+   "Q948839": "Přeslička poříční (Equisetum fluviatile)"
+  }
+ },
+ {
+  "id": "Q2705087#4",
+  "species": "Azola americká",
+  "latin": "Azolla filiculoides",
+  "text": "Ptáci a savci roznášejí jeho výtrusy přilepené k peří nebo chlupům.",
+  "quote": "bývají roznášeny přilepené k peří ptáků nebo k chlupům savců",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q2705087#5",
+  "species": "Azola americká",
+  "latin": "Azolla filiculoides",
+  "text": "Některá hospodářská zvířata ji jedí jako krmivo.",
+  "quote": "slouží také jako výživné krmivo pro některá hospodářská zvířata",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q2705087#6",
+  "species": "Azola americká",
+  "latin": "Azolla filiculoides",
+  "text": "Zastíní sluneční světlo, takže jiné vodní rostliny a řasy odumírají.",
+  "quote": "zastíní sluneční svit a způsobí odumírání jiných vodních rostlin a řas",
+  "claimed_false_for": {
+   "Q1197925": "Prutovka nahá (Psilotum nudum)",
+   "Q1345500": "Papratka samičí (Athyrium filix-femina)",
+   "Q1753134": "Sleziník severní (Asplenium septentrionale)",
+   "Q191532": "Puchýřník křehký (Cystopteris fragilis)",
+   "Q202067": "Puchýřník sudetský (Cystopteris sudetica)",
+   "Q256971": "Přeslička větevnatá (Equisetum ramosissimum)",
+   "Q322994": "Kapraď samec (Dryopteris filix-mas)",
+   "Q542735": "Kapradina hrálovitá (Polystichum lonchitis)"
+  }
+ },
+ {
+  "id": "Q4678994#0",
+  "species": "Netík Venušin vlas",
+  "latin": "Adiantum capillus-veneris",
+  "text": "Roste nejčastěji na vápenatých horninách u pramenů.",
+  "quote": "Většinou roste na vápenatých horninách v blízkosti pramenů.",
+  "claimed_false_for": {
+   "Q1301661": "Bukovník kapraďovitý (Gymnocarpium dryopteris)",
+   "Q213548": "Hasivka orličí (Pteridium aquilinum)",
+   "Q2273882": "Sleziník hadcový (Asplenium cuneifolium)",
+   "Q299246": "Míčovka kulkonosná (Pilularia globulifera)",
+   "Q901435": "Sleziník nepravý (Asplenium adulterinum)"
+  }
+ },
+ {
+  "id": "Q4678994#1",
+  "species": "Netík Venušin vlas",
+  "latin": "Adiantum capillus-veneris",
+  "text": "Ve střední Evropě se pěstuje ve sklenících.",
+  "quote": "V podmínkách střední Evropy se pěstuje ve sklenících",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q523210#0",
+  "species": "Kapraď osténkatá",
+  "latin": "Dryopteris carthusiana",
+  "text": "Roste hlavně ve vlhkých lesích, nejčastěji v bučinách.",
+  "quote": "roste především v humózních vlhčích lesích (především bučiny)",
+  "claimed_false_for": {
+   "Q1684201": "Hnědovka křídlatá (Microsorum pteropus)",
+   "Q1754958": "Kyvor lékařský (Asplenium ceterach)",
+   "Q2247460": "Vratička heřmánkolistá (Botrychium matricariifolium)",
+   "Q2705087": "Azola americká (Azolla filiculoides)",
+   "Q902211": "Sleziník červený (Asplenium trichomanes)"
+  }
+ },
+ {
+  "id": "Q523210#1",
+  "species": "Kapraď osténkatá",
+  "latin": "Dryopteris carthusiana",
+  "text": "Spory dozrávají od července do září.",
+  "quote": "Spory jsou zralé od července do září.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q630002#0",
+  "species": "Diksonie antarktická",
+  "latin": "Dicksonia antarctica",
+  "text": "Dorůstá až do výšky 15 metrů.",
+  "quote": "Dorůstá výšky až 15 metrů.",
+  "claimed_false_for": {
+   "Q1332525": "Marsilka čtyřlistá (Marsilea quadrifolia)",
+   "Q2092520": "Bukovník vápencový (Gymnocarpium robertianum)",
+   "Q2220785": "Vratička mnohoklaná (Botrychium multifidum)",
+   "Q263881": "Přeslička zimní (Equisetum hyemale)",
+   "Q2654918": "Kapradina Braunova (Polystichum braunii)",
+   "Q2678657": "Pérnatec horský (Oreopteris limbosperma)",
+   "Q635586": "Nepukalka vzplývající (Salvinia natans)",
+   "Q847497": "Hadilka obecná (Ophioglossum vulgatum)",
+   "Q905897": "Kapraď rozložená (Dryopteris dilatata)",
+   "Q923786": "Sleziník netíkovitý (Asplenium adiantum-nigrum)",
+   "Q936546": "Přeslička největší (Equisetum telmateia)"
+  }
+ },
+ {
+  "id": "Q630002#1",
+  "species": "Diksonie antarktická",
+  "latin": "Dicksonia antarctica",
+  "text": "Hojně roste v Austrálii.",
+  "quote": "Hojně roste v Austrálii.",
+  "claimed_false_for": {
+   "Q2092520": "Bukovník vápencový (Gymnocarpium robertianum)",
+   "Q2220785": "Vratička mnohoklaná (Botrychium multifidum)",
+   "Q263881": "Přeslička zimní (Equisetum hyemale)",
+   "Q2654918": "Kapradina Braunova (Polystichum braunii)",
+   "Q2678657": "Pérnatec horský (Oreopteris limbosperma)",
+   "Q635586": "Nepukalka vzplývající (Salvinia natans)",
+   "Q905897": "Kapraď rozložená (Dryopteris dilatata)"
+  }
+ },
+ {
+  "id": "Q661822#0",
+  "species": "Kapradinka alpínská",
+  "latin": "Woodsia alpina",
+  "text": "Nejlépe roste na vápencích a břidlicích.",
+  "quote": "Pro její růst jsou vhodné zejména vápence a břidličnaté horniny.",
+  "claimed_false_for": {
+   "Q1684201": "Hnědovka křídlatá (Microsorum pteropus)",
+   "Q2705087": "Azola americká (Azolla filiculoides)",
+   "Q948839": "Přeslička poříční (Equisetum fluviatile)"
+  }
+ },
+ {
+  "id": "Q661822#1",
+  "species": "Kapradinka alpínská",
+  "latin": "Woodsia alpina",
+  "text": "Vznikla zkřížením dvou jiných druhů.",
+  "quote": "vznikla zkřížením kapradinky skalní (Woodsia ilvensis) a druhu Woodsia glabella",
+  "claimed_false_for": {
+   "Q1130272": "Jelení jazyk celolistý (Asplenium scolopendrium)",
+   "Q1684201": "Hnědovka křídlatá (Microsorum pteropus)",
+   "Q2247460": "Vratička heřmánkolistá (Botrychium matricariifolium)",
+   "Q2705087": "Azola americká (Azolla filiculoides)",
+   "Q3023471": "Blánatec kentský (Hymenophyllum tunbrigense)",
+   "Q59420181": "Žebrovice různolistá (Struthiopteris spicant)",
+   "Q948839": "Přeslička poříční (Equisetum fluviatile)"
+  }
+ },
+ {
+  "id": "Q718312#0",
+  "species": "Onoklea citlivá",
+  "latin": "Onoclea sensibilis",
+  "text": "Tento druh je považován za jedovatý.",
+  "quote": "Je považována za jedovatou.",
+  "claimed_false_for": {}
+ }
+]

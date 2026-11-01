@@ -1,0 +1,278 @@
+{
+ "facts": [
+  {
+   "id": "Q18498#5",
+   "species": "Vlk obecný",
+   "text": "Tento druh dokáže krátce sprintovat rychlostí až 64 km/h.",
+   "quote": "na krátké vzdálenosti dokáží sprintovat rychlostí 56 až 64 km/h"
+  },
+  {
+   "id": "Q43230#3",
+   "species": "Ženetka skvrnitá",
+   "text": "Ve volné přírodě žije průměrně 9,5 let.",
+   "quote": "Průměrný věk v přírodě je 9,5 let"
+  },
+  {
+   "id": "Q434197#3",
+   "species": "Lasice horská",
+   "text": "Obvykle se narodí 2 až 6 mláďat.",
+   "quote": "Samice následně vrhá 1 až 8 (obvykle 2 až 6)"
+  },
+  {
+   "id": "Q602823#2",
+   "species": "Charza jižní",
+   "text": "Tento druh je aktivní hlavně přes den.",
+   "quote": "Jde o šelmu s nejspíše denní aktivitou a to především v dopoledních a pozdně odpoledních hodinách."
+  },
+  {
+   "id": "Q35694#5",
+   "species": "Jaguár americký",
+   "text": "Žije od Mexika až po Paraguay.",
+   "quote": "Vyskytuje se od Mexika přes velkou část Střední Ameriky jižně do Paraguaye"
+  },
+  {
+   "id": "Q137641#0",
+   "species": "Medvěd brýlatý",
+   "text": "Staví si hnízdo na stromě z pevných větví.",
+   "quote": "si pomocí silných větví staví hnízdo na stromě"
+  },
+  {
+   "id": "Q23907#3",
+   "species": "Gepard štíhlý",
+   "text": "Přichází o kořist, když ji lvi nebo hyeny odeženou.",
+   "quote": "O kořist často přichází, lvi nebo hyeny ho snadno odeženou."
+  },
+  {
+   "id": "Q166794#4",
+   "species": "Manul",
+   "text": "Žije v kamenitých stepích a horských loukách střední Asie.",
+   "quote": "Obývá kamenité, křovinaté stepi a horské louky střední Asie."
+  },
+  {
+   "id": "Q209324#4",
+   "species": "Tuleň grónský",
+   "text": "Dožívá se obvykle kolem 20 let, nejvýše kolem 30.",
+   "quote": "Typicky se dožívají věku kolem 20 let, maximálně kolem 30 let."
+  },
+  {
+   "id": "Q145016#3",
+   "species": "Medvěd pyskatý",
+   "text": "Potravu hledá jen čichem, protože špatně vidí a slyší.",
+   "quote": "Svou potravu hledá výhradně čichem, neboť má špatný zrak a velmi špatný sluch."
+  },
+  {
+   "id": "Q213047#1",
+   "species": "Kočka horská",
+   "text": "Tento druh je aktivní hlavně v noci.",
+   "quote": "jsou aktivní hlavně v noci"
+  },
+  {
+   "id": "Q175329#2",
+   "species": "Kočka pouštní",
+   "text": "V zajetí se dožívá až 13 let.",
+   "quote": "V zajetí se kočka písečná dožívá až 13 let."
+  },
+  {
+   "id": "Q42627#2",
+   "species": "Kočka bengálská",
+   "text": "Tento druh je aktivní v noci a přes den odpočívá.",
+   "quote": "Kočky bengálské jsou samotářská zvířata s noční aktivitou. Ve dne odpočívají v doupatech v dutinách stromů nebo v jeskyních."
+  },
+  {
+   "id": "Q124410#3",
+   "species": "Medvěd ušatý",
+   "text": "Dožívá se až 25 let.",
+   "quote": "Dožívá se až 25 let."
+  },
+  {
+   "id": "Q626049#3",
+   "species": "Oviječ maskovaný",
+   "text": "Tento druh má v jednom vrhu až čtyři mláďata.",
+   "quote": "Samičky mohou mít až čtyři mláďata v jednom vrhu"
+  },
+  {
+   "id": "Q43375#6",
+   "species": "Rys ostrovid",
+   "text": "Rodí obvykle dvě mláďata.",
+   "quote": "rodí samice 1 až 4 (nejčastěji 2) mláďata"
+  },
+  {
+   "id": "Q29995#5",
+   "species": "Vydra říční",
+   "text": "Na centimetr čtvereční kůže roste až 50 000 chlupů.",
+   "quote": "Na jednom centimetru čtverečním kůže jí roste až 50 000 chlupů"
+  },
+  {
+   "id": "Q215343#5",
+   "species": "Rypouš sloní",
+   "text": "Tento druh tvoří skupiny zvané harémy, typicky s desítkami až stovkami samic.",
+   "quote": "avšak typicky čítají několik desítek či stovek samic"
+  },
+  {
+   "id": "Q494968#1",
+   "species": "Tuleň pacifický",
+   "text": "Od zimy do začátku léta žije tento druh na mořském ledu.",
+   "quote": "Od zimy do počátku léta obývají jižní okraje mořské ledové pokrývky"
+  },
+  {
+   "id": "Q82738#5",
+   "species": "Liška polární",
+   "text": "Nepřáteli jsou vlci a někdy i lední medvědi.",
+   "quote": "Kromě člověka představuje hrozbu vlk polární a případně lední medvěd"
+  }
+ ],
+ "candidates": {
+  "Q274177": {
+   "name": "Kočka plochočelá",
+   "latin": "Prionailurus planiceps",
+   "family": "kočkovití",
+   "lead": "Kočka plochočelá (Prionailurus planiceps) je málo známá a vzácná malá kočkovitá šelma, žijící na ostrovech Borneo, Sumatra a na Malajském poloostrově.\n\n\n== Popis ==\nHmotnost: 1,5–3 kg\nDélka těla: 41–61 cm\nDélka ocasu: 15–20 cm\nVýška: 33–50 cm\nKočka plochočelá je velká asi jako domácí kočka, ale výrazně se od ní odlišuje tělesnými proporcemi. Má širokou hlavu s poněkud plochým čelem, což jí dalo jméno. Uši jsou malé a nízko nasazené, podobně jako u manula, oči naopak velmi velké a hlavu opticky j",
+   "facts": [
+    "Jí hlavně ryby a žáby.",
+    "Má mezi prsty plovací blánu.",
+    "Žije u vody, například v bažinách nebo u řek.",
+    "Váží jen 1,5 až 3 kilogramy."
+   ]
+  },
+  "Q36135": {
+   "name": "Levhart obláčkový",
+   "latin": "Neofelis nebulosa",
+   "family": "kočkovití",
+   "lead": "Levhart obláčkový, známý jako pardál obláčkový či harimauda (Neofelis nebulosa), je samotářsky žijící velká kočkovitá šelma. Druh popsal Edward Griffith v roce 1821. Spolu s levhartem Diardovým byli až do roku 2006 řazeni do jednoho druhu, od té doby sdílejí pouze rod Neofelis. Levhart obláčkový se vyskytuje v jižní, jihovýchodní a východní Asii, kde obývá především různé typy tropických lesů. Jde\no nejmenší z velkých koček, dosahuje velikosti velmi malých exemplářů levharta skvrnitého. Hmotnost",
+   "facts": [
+    "Tento druh má dlouhé horní špičáky.",
+    "Loví opice, dikobrazy, prasata a jeleny.",
+    "Žije v tropických lesích jižní a východní Asie.",
+    "Tráví většinu času na zemi, i když umí dobře šplhat.",
+    "Rodí obvykle dvě koťata, nejvíc pět.",
+    "Dožívá se 11 až 17 let."
+   ]
+  },
+  "Q600654": {
+   "name": "Tuleň karibský",
+   "latin": "Monachus tropicalis",
+   "family": "tuleňovití",
+   "lead": "Tuleň karibský (Neomonachus tropicalis) je vyhynulý ploutvonožec z čeledi tuleňovití (Phocidae), nejbližší příbuzný stále žijícího tuleně havajského (N. schauinslandi). Historicky šlo o široce rozšířeného savce Karibského moře, jenž se vyskytoval od pobřeží Spojených států přes Velké a Malé Antily a Bahamy až po břehy severní Jižní Ameriky. Velikost dospělců činila 2–2,5 m, zbarvení srsti se\npohybovalo v šedohnědých a prošedivělých odstínech na hřbetu a mezi okrově žlutou až žlutavě bílou na spo",
+   "facts": [
+    "Tento druh má jako mládě černou srst.",
+    "Tento druh má na břiše okrově žlutou až žlutavě bílou srst.",
+    "Tento druh v zajetí ochotně přijímá nabízené ryby.",
+    "Tento druh tráví většinu času ve vodě.",
+    "Tento druh na odpočinek často vyhledává písečné pláže.",
+    "Tento druh na některých ostrovech žije vedle mořských ptáků.",
+    "Tento druh má vlastního roztoče, který na něm žije.",
+    "Dorůstá do délky 2 až 2,5 metru."
+   ]
+  },
+  "Q331850": {
+   "name": "Pes krátkouchý",
+   "latin": "Atelocynus microtis",
+   "family": "psovití",
+   "lead": "Pes krátkouchý (Atelocynus microtis) je jihoamerická psovitá šelma, jediný zástupce rodu Atelocynus. Žije v nížinných deštných pralesích Amazonie, v oblastech neobývaných lidmi. Má tmavou červeno-hnědo-černo-šedou srst, krátké a štíhlé končetiny, krátké kulaté uši, huňatý ocas a štíhlý, dlouhý čenich, který připomíná liščí. Váží okolo 10 kg. Žije zřejmě samotářsky nebo v párech. Loví ryby, malé\nsavce, brouky, žáby, ptáky a ještěrky. Často si pochutná i na ovoci. Mezinárodní svaz ochrany přírody ",
+   "facts": [
+    "Loví hlavně ryby.",
+    "Mezi prsty na nohou má malou blánu.",
+    "Je aktivní hlavně za denního světla.",
+    "Váží zhruba 10 kilogramů."
+   ]
+  },
+  "Q121439": {
+   "name": "Mýval severní",
+   "latin": "Procyon lotor",
+   "family": "medvídkovití",
+   "lead": "Mýval severní (Procyon lotor), lidově také medvídek mýval, je středně velký savec z čeledi medvídkovití původem ze Severní Ameriky. Člověkem byl však zavlečen i do jiných částí světa, například do Evropy, Japonska nebo na Kavkaz, kde je invazním druhem. Jeho přirozeným biotopem jsou listnaté a smíšené lesy s dostatkem vody. Díky své přizpůsobivosti se stále častěji vyskytuje také v horských\nlesích, slaniskách a ve městech, kde je často považován za vážného škůdce.\nMýval severní je největším zást",
+   "facts": [
+    "Má výraznou černou masku na obličeji a pruhovaný ocas.",
+    "Tento druh je většinou aktivní v noci.",
+    "Asi 40 % jeho jídla tvoří živočichové bez páteře.",
+    "Rodí 2 až 5 mláďat."
+   ]
+  },
+  "Q204322": {
+   "name": "Kočka šedá",
+   "latin": "Felis bieti",
+   "family": "kočkovití",
+   "lead": "Kočka šedá (Felis bieti) obývá horské oblasti severovýchodní části Tibetské náhorní plošiny, v nadmořských výškách 2500–5000 m. Jedná se o jeden z nejméně známých druhů kočkovitých šelem.\n\n\n== Vzhled ==\nHmotnost: 6 až 9 kg\nDélka: 68–84 cm + 29–36 cm délka ocasu\nJsou to zavalité kočky, podstatně větší než běžná kočka domácí. V zimě mají žlutošedou srst, v létě jsou tmavohnědé. Srst je dlouhá, hustá a má silnou podsadu. Uším vyrůstají na černých koncích štětinky. Na hřbetě a končetinách mají tmavš",
+   "facts": [
+    "Jí hlavně hraboše a pišťuchy.",
+    "Loví hlavně za soumraku a za svítání."
+   ]
+  },
+  "Q178089": {
+   "name": "Hyena skvrnitá",
+   "latin": "Crocuta crocuta",
+   "family": "hyenovití",
+   "lead": "Hyena skvrnitá (Crocuta crocuta) je největší druh hyeny vyskytující se v Africe, jižně od Sahary. Je zároveň nejhojnější velkou africkou šelmou, celkový počet zvířat žijících ve volné přírodě se pohybuje mezi 27 000 a 47 000 (stav k roku 2015). Jedná se o potravního oportunistu – predátora i mrchožrouta zároveň, který žije ve smečkách obvykle zvaných klany. Hyeny jsou pozorné a pečlivé matky,\nproto známé přirovnání „hyení matka“ určené nezodpovědným lidským matkám je naprosto scestné. Ačkoliv do",
+   "facts": [
+    "Loví hlavně velká zvířata s kopyty, třeba zebry.",
+    "Tento druh je aktivní hlavně za soumraku a v noci.",
+    "Žije v klanech, které bývají od tří do 80 zvířat.",
+    "Matka pečuje o mláďata téměř rok.",
+    "Umí běžet rychle, údajně až 65 km/h.",
+    "Silnými zuby rozdrtí i silné kosti."
+   ]
+  },
+  "Q28157482": {
+   "name": "Hyena čabraková",
+   "latin": "Parahyaena brunnea",
+   "family": "hyenovití",
+   "lead": "Hyena čabraková (Parahyaena brunnea) je druh hyeny žijící v jižní Africe.\n\n\n== Synonyma ==\nHyaena brunnea\n\n\n== Popis ==\nHyena čabraková je vysokonohá, poměrně subtilní šelma, připomínající stavbou těla spíše vlka než ostatní hyeny. Je mnohem štíhlejší než hyena skvrnitá, ale větší než hyena žíhaná. Dorůstá hmotnosti 35–50 kg, délky těla 100–130 cm, ocas měří 25 cm a výška v kohoutku může dosáhnout až 85 cm. Na rozdíl od ostatních hyen jsou samci větší než samice. Stavba těla je poměrně štíhlá, s",
+   "facts": [
+    "Tento druh má dlouhou hřívu, která působí mohutně.",
+    "Živí se hlavně zdechlinami, tedy mrtvými zvířaty.",
+    "Nespolupracují při lovu, potravu hledají samostatně.",
+    "Dožívá se až 13 let v zajetí."
+   ]
+  },
+  "Q1070483": {
+   "name": "Vřešťan pláštíkový",
+   "latin": "Alouatta palliata",
+   "family": "chápanovití",
+   "lead": "Vřešťan pláštíkový (Alouatta palliata) je primát z čeledi chápanovití (Atelidae) a rodu vřešťan (Alouatta) žijící v deštných lesích Střední a Jižní Ameriky od Mexika až po západní svahy And. Druh popsal John Edward Gray roku 1849.\nVřešťani jsou velké a zavalité opice, vyznačují se černým zbarvením, avšak většina opic má navíc dlouhou žlutou nebo hnědou srst, jež roste po stranách těla. Hlavní složku potravy tvoří listí. Vzhledem k tomu, že jsou listy těžko stravitelné a dodají tělu pouze málo en",
+   "facts": [
+    "Jí hlavně listy.",
+    "Tráví většinu dne odpočinkem a spánkem.",
+    "Tento druh se ozývá hlasitým řevem slyšitelným až několik kilometrů daleko.",
+    "Žije v deštných lesích Střední a Jižní Ameriky.",
+    "Dožívá se v přírodě průměrně asi 25 let.",
+    "Pomáhá roznášet semena, ze kterých mohou vyrůst rostliny."
+   ]
+  },
+  "Q194222": {
+   "name": "Vačice středoamerická",
+   "latin": "Marmosa mexicana",
+   "family": "vačicovití",
+   "lead": "Vačice středoamerická (Marmosa mexicana) je druh středoamerické vačice (Didelphimorphia) z čeledi vačicovití (Didelphidae).\n\n\n== Popis ==\nVačice středoamerická je malý až středně velký vačnatec. Její srst má rezavě hnědou barvu v jasných až tlumených odstínech. Srst na hřbetě, bocích a vnějších stranách končetin je u kořínků šedavá s rezavě hnědými špičkami. Čelo a čenich jsou světlejší. Kolem očí se nacházejí černé kroužky, jejichž výraznost se liší v závislosti na oblasti výskytu jedince. Líce",
+   "facts": [
+    "Tento druh žije hlavně na stromech, až do 30 metrů výšky.",
+    "Tento druh je aktivní hlavně v noci a žije sám.",
+    "Živí se hmyzem a ovocem.",
+    "Mláďata měří po narození nejvýše 12 milimetrů."
+   ]
+  },
+  "Q223960": {
+   "name": "Tapír horský",
+   "latin": "Tapirus pinchaque",
+   "family": "tapírovití",
+   "lead": "Tapír horský (Tapirus pinchaque) je druh lichokopytníka z čeledi tapírovití (Tapiridae), který se vyskytuje v andské oblasti Kolumbie, Ekvádoru a Peru. Kvůli životu v horských oblastech jde o jediného tapíra s hustou srstí, kterou vynikají zejména mladá zvířata. S délkou asi 180 cm a hmotností 150–200 kg jde o nejmenší druh tapíra, jehož charakteristickým znakem jsou bílé pysky a případně i špičky\nuší.\nTapír horský obývá jak vlhké mlžné lesy, tak otevřené křoviny a stepi. Jde o oportunistického ",
+   "facts": [
+    "Tento druh má jako jediný hustou, kudrnatou srst.",
+    "Živí se hlavně listy, bylinami a plody.",
+    "Tento druh pomáhá rostlinám šířit semena.",
+    "Tento druh je aktivní hlavně za soumraku.",
+    "Tento druh má mláďata, která hned umí stát.",
+    "Žije zřejmě nejvýš 2 500 dospělých zvířat ve volné přírodě."
+   ]
+  },
+  "Q613836": {
+   "name": "Bodlín Telfairův",
+   "latin": "Echinops telfairi",
+   "family": "bodlínovití",
+   "lead": "Bodlín Telfairův, též bodlín drobný, bodlín menší nebo ježkobodlín Telfairův (Echinops telfairi) je malý druh bodlína, ježkovi podobný savec, který je endemitem ostrova Madagaskar.\n\n\n== Popis ==\nhmotnost: 100–230 g\ndélka těla: 14–18 cm\ndélka ocasu: cca 1 cm\nZbarvení bodlin na hřbetě kolísá od bělavé po téměř černou v závislosti na množství melaninu, spodní stranu těla pokrývá jemná světlejší srst.\n\n\n== Rozšíření a stanoviště ==\nBodlín Telfairův je endemit Madagaskaru, vyskytuje se hlavně v suchý",
+   "facts": [
+    "Živí se hlavně živočichy bez páteře.",
+    "Tento druh se při ohrožení brání ostny a stočí se do klubíčka."
+   ]
+  }
+ }
+}

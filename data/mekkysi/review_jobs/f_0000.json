@@ -1,0 +1,573 @@
+[
+ {
+  "id": "Q1123809#0",
+  "species": "Chobotnice kroužkovaná",
+  "latin": "Hapalochlaena lunulata",
+  "text": "Tento druh při rozrušení ukáže na těle asi šedesát modrých kruhů.",
+  "quote": "V případě, že se chobotnice rozruší, se jí následkem reakcí buněk chromatoforů objeví na těle okolo šedesáti modrých kruhů.",
+  "claimed_false_for": {
+   "Q1232698": "Oliheň obecná (Loligo vulgaris)",
+   "Q1632342": "Sépie vějířovitá (Sepia apama)",
+   "Q1940276": "Dunovka proměnlivá (Theba pisana)",
+   "Q21113": "Plzák černý (Arion ater)",
+   "Q22019793": "Hlemýžď kropenatý (Cornu aspersum)",
+   "Q245314": "Hlemýžď zahradní (Helix pomatia)",
+   "Q3819564": "Sepiola tichomořská (Rossia pacifica)",
+   "Q689003": "Člunice jezerní (Acroloxus lacustris)",
+   "Q756724": "Sépie obecná (Sepia officinalis)",
+   "Q81851905": "Hlemýžď pruhovaný (Helix thessalica)",
+   "Q898580": "Papáskovka žíhaná (Caucasotachea vindobonensis)",
+   "Q908799": "Keřovka plavá (Fruticicola fruticum)"
+  }
+ },
+ {
+  "id": "Q1123809#1",
+  "species": "Chobotnice kroužkovaná",
+  "latin": "Hapalochlaena lunulata",
+  "text": "Tento druh je jedovatý: jed vzniká ve slinných žlázách.",
+  "quote": "Druh je jedovatý, ve slinných žlázách je za pomocí bakterií tvořen jed tetrodotoxin (TTX).",
+  "claimed_false_for": {
+   "Q1940276": "Dunovka proměnlivá (Theba pisana)",
+   "Q21113": "Plzák černý (Arion ater)",
+   "Q22019793": "Hlemýžď kropenatý (Cornu aspersum)",
+   "Q245314": "Hlemýžď zahradní (Helix pomatia)",
+   "Q689003": "Člunice jezerní (Acroloxus lacustris)",
+   "Q81851905": "Hlemýžď pruhovaný (Helix thessalica)",
+   "Q898580": "Papáskovka žíhaná (Caucasotachea vindobonensis)",
+   "Q908799": "Keřovka plavá (Fruticicola fruticum)"
+  }
+ },
+ {
+  "id": "Q1232698#0",
+  "species": "Oliheň obecná",
+  "latin": "Loligo vulgaris",
+  "text": "Tento druh může v ohrožení vypustit oblak inkoustu, který zmate nepřítele.",
+  "quote": "V ohrožení může vypustit oblak modročerného inkoustu, který zmate protivníka",
+  "claimed_false_for": {
+   "Q182258": "Přílipka misková (Patella vulgata)",
+   "Q1940276": "Dunovka proměnlivá (Theba pisana)",
+   "Q21113": "Plzák černý (Arion ater)",
+   "Q689003": "Člunice jezerní (Acroloxus lacustris)",
+   "Q898580": "Papáskovka žíhaná (Caucasotachea vindobonensis)",
+   "Q908799": "Keřovka plavá (Fruticicola fruticum)",
+   "Q932364": "Plzák španělský (Arion vulgaris)"
+  }
+ },
+ {
+  "id": "Q1232698#1",
+  "species": "Oliheň obecná",
+  "latin": "Loligo vulgaris",
+  "text": "Má deset ramen, dvě z nich jsou delší a slouží k lovu.",
+  "quote": "má deset nezatažitelných ramen, z nichž dvě jsou prodloužena a slouží k lovu",
+  "claimed_false_for": {
+   "Q151201": "Zej karibský (Aplysia dactylomela)",
+   "Q182258": "Přílipka misková (Patella vulgata)",
+   "Q1850495": "Chobotnice skvrnitá (Hapalochlaena maculosa)",
+   "Q1940276": "Dunovka proměnlivá (Theba pisana)",
+   "Q21113": "Plzák černý (Arion ater)",
+   "Q689003": "Člunice jezerní (Acroloxus lacustris)",
+   "Q898580": "Papáskovka žíhaná (Caucasotachea vindobonensis)",
+   "Q908799": "Keřovka plavá (Fruticicola fruticum)",
+   "Q932364": "Plzák španělský (Arion vulgaris)"
+  }
+ },
+ {
+  "id": "Q151201#0",
+  "species": "Zej karibský",
+  "latin": "Aplysia dactylomela",
+  "text": "Dorůstá až do délky 41 cm.",
+  "quote": "Největší zaznamenaná délka je 41 cm.",
+  "claimed_false_for": {
+   "Q1123809": "Chobotnice kroužkovaná (Hapalochlaena lunulata)",
+   "Q1632342": "Sépie vějířovitá (Sepia apama)",
+   "Q182258": "Přílipka misková (Patella vulgata)",
+   "Q1844769": "Písečník novozélandský (Potamopyrgus antipodarum)",
+   "Q2120872": "Chobotnice pruhovaná (Hapalochlaena fasciata)",
+   "Q22019793": "Hlemýžď kropenatý (Cornu aspersum)",
+   "Q245314": "Hlemýžď zahradní (Helix pomatia)",
+   "Q3819564": "Sepiola tichomořská (Rossia pacifica)",
+   "Q689003": "Člunice jezerní (Acroloxus lacustris)",
+   "Q773951": "Modranka karpatská (Bielzia coerulans)",
+   "Q908799": "Keřovka plavá (Fruticicola fruticum)",
+   "Q912404": "Chobotnice velká (Enteroctopus dofleini)"
+  }
+ },
+ {
+  "id": "Q151201#1",
+  "species": "Zej karibský",
+  "latin": "Aplysia dactylomela",
+  "text": "Živí se hlavně mořskými řasami.",
+  "quote": "Živí se převážně mořskými řasami.",
+  "claimed_false_for": {
+   "Q1123809": "Chobotnice kroužkovaná (Hapalochlaena lunulata)",
+   "Q1632342": "Sépie vějířovitá (Sepia apama)",
+   "Q1844769": "Písečník novozélandský (Potamopyrgus antipodarum)",
+   "Q2120872": "Chobotnice pruhovaná (Hapalochlaena fasciata)",
+   "Q22019793": "Hlemýžď kropenatý (Cornu aspersum)",
+   "Q245314": "Hlemýžď zahradní (Helix pomatia)",
+   "Q3819564": "Sepiola tichomořská (Rossia pacifica)",
+   "Q689003": "Člunice jezerní (Acroloxus lacustris)",
+   "Q773951": "Modranka karpatská (Bielzia coerulans)",
+   "Q908799": "Keřovka plavá (Fruticicola fruticum)",
+   "Q912404": "Chobotnice velká (Enteroctopus dofleini)"
+  }
+ },
+ {
+  "id": "Q1632342#0",
+  "species": "Sépie vějířovitá",
+  "latin": "Sepia apama",
+  "text": "Tento druh mění barvu kůže podle okolí.",
+  "quote": "Její kůže má schopnost měnit zbarvení v závislosti na svém okolí",
+  "claimed_false_for": {
+   "Q174549": "Slimák žlutý (Malacolimax tenellus)",
+   "Q1844769": "Písečník novozélandský (Potamopyrgus antipodarum)",
+   "Q1940276": "Dunovka proměnlivá (Theba pisana)",
+   "Q21113": "Plzák černý (Arion ater)",
+   "Q22019793": "Hlemýžď kropenatý (Cornu aspersum)",
+   "Q245314": "Hlemýžď zahradní (Helix pomatia)",
+   "Q26908": "Oblovka žravá (Achatina fulica)",
+   "Q773951": "Modranka karpatská (Bielzia coerulans)",
+   "Q81851905": "Hlemýžď pruhovaný (Helix thessalica)",
+   "Q908799": "Keřovka plavá (Fruticicola fruticum)",
+   "Q932364": "Plzák španělský (Arion vulgaris)"
+  }
+ },
+ {
+  "id": "Q1632342#1",
+  "species": "Sépie vějířovitá",
+  "latin": "Sepia apama",
+  "text": "Při nebezpečí vypustí tmavé barvivo a uteče.",
+  "quote": "množství tmavého barviva, které znesnadní její zaměření, zmate útočníka a umožní únik do bezpečí.",
+  "claimed_false_for": {
+   "Q174549": "Slimák žlutý (Malacolimax tenellus)",
+   "Q1844769": "Písečník novozélandský (Potamopyrgus antipodarum)",
+   "Q1940276": "Dunovka proměnlivá (Theba pisana)",
+   "Q21113": "Plzák černý (Arion ater)",
+   "Q22019793": "Hlemýžď kropenatý (Cornu aspersum)",
+   "Q245314": "Hlemýžď zahradní (Helix pomatia)",
+   "Q26908": "Oblovka žravá (Achatina fulica)",
+   "Q773951": "Modranka karpatská (Bielzia coerulans)",
+   "Q81851905": "Hlemýžď pruhovaný (Helix thessalica)",
+   "Q908799": "Keřovka plavá (Fruticicola fruticum)",
+   "Q932364": "Plzák španělský (Arion vulgaris)"
+  }
+ },
+ {
+  "id": "Q1632342#2",
+  "species": "Sépie vějířovitá",
+  "latin": "Sepia apama",
+  "text": "Tento druh má tři srdce a modrou krev.",
+  "quote": "Zvláštností je, že sépie vějířovitá má tři srdce a modrou krev",
+  "claimed_false_for": {
+   "Q174549": "Slimák žlutý (Malacolimax tenellus)",
+   "Q1844769": "Písečník novozélandský (Potamopyrgus antipodarum)",
+   "Q1940276": "Dunovka proměnlivá (Theba pisana)",
+   "Q21113": "Plzák černý (Arion ater)",
+   "Q22019793": "Hlemýžď kropenatý (Cornu aspersum)",
+   "Q245314": "Hlemýžď zahradní (Helix pomatia)",
+   "Q26908": "Oblovka žravá (Achatina fulica)",
+   "Q773951": "Modranka karpatská (Bielzia coerulans)",
+   "Q81851905": "Hlemýžď pruhovaný (Helix thessalica)",
+   "Q908799": "Keřovka plavá (Fruticicola fruticum)",
+   "Q932364": "Plzák španělský (Arion vulgaris)"
+  }
+ },
+ {
+  "id": "Q1632342#3",
+  "species": "Sépie vějířovitá",
+  "latin": "Sepia apama",
+  "text": "Až 95 % dne tento druh odpočívá.",
+  "quote": "Až 95 % dne stráví odpočíváním",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1632342#4",
+  "species": "Sépie vějířovitá",
+  "latin": "Sepia apama",
+  "text": "Loví malé ryby, kraby a krevety mezi řasami.",
+  "quote": "Jedná se o dravce, který loví mezi řasami menší ryby, kraby, krevety a další korýše.",
+  "claimed_false_for": {
+   "Q174549": "Slimák žlutý (Malacolimax tenellus)",
+   "Q1844769": "Písečník novozélandský (Potamopyrgus antipodarum)",
+   "Q1940276": "Dunovka proměnlivá (Theba pisana)",
+   "Q21113": "Plzák černý (Arion ater)",
+   "Q22019793": "Hlemýžď kropenatý (Cornu aspersum)",
+   "Q245314": "Hlemýžď zahradní (Helix pomatia)",
+   "Q26908": "Oblovka žravá (Achatina fulica)",
+   "Q773951": "Modranka karpatská (Bielzia coerulans)",
+   "Q81851905": "Hlemýžď pruhovaný (Helix thessalica)",
+   "Q908799": "Keřovka plavá (Fruticicola fruticum)",
+   "Q932364": "Plzák španělský (Arion vulgaris)"
+  }
+ },
+ {
+  "id": "Q174549#0",
+  "species": "Slimák žlutý",
+  "latin": "Malacolimax tenellus",
+  "text": "Tento druh nemá ulitu.",
+  "quote": "Nemá ulitu.",
+  "claimed_false_for": {
+   "Q182258": "Přílipka misková (Patella vulgata)",
+   "Q1844769": "Písečník novozélandský (Potamopyrgus antipodarum)",
+   "Q689003": "Člunice jezerní (Acroloxus lacustris)",
+   "Q81851905": "Hlemýžď pruhovaný (Helix thessalica)",
+   "Q898580": "Papáskovka žíhaná (Caucasotachea vindobonensis)"
+  }
+ },
+ {
+  "id": "Q174549#1",
+  "species": "Slimák žlutý",
+  "latin": "Malacolimax tenellus",
+  "text": "Tento druh se živí hlavně houbami, lišejníky a zbytky rostlin.",
+  "quote": "Tento slimák se živí hlavně houbami, lišejníky a zbytky rostlin.",
+  "claimed_false_for": {
+   "Q1123809": "Chobotnice kroužkovaná (Hapalochlaena lunulata)",
+   "Q1232698": "Oliheň obecná (Loligo vulgaris)",
+   "Q1850495": "Chobotnice skvrnitá (Hapalochlaena maculosa)",
+   "Q2120872": "Chobotnice pruhovaná (Hapalochlaena fasciata)",
+   "Q756724": "Sépie obecná (Sepia officinalis)",
+   "Q912404": "Chobotnice velká (Enteroctopus dofleini)"
+  }
+ },
+ {
+  "id": "Q182258#0",
+  "species": "Přílipka misková",
+  "latin": "Patella vulgata",
+  "text": "Může se dožít až 20 let.",
+  "quote": "Mohou se dožít až 20 let.",
+  "claimed_false_for": {
+   "Q1123809": "Chobotnice kroužkovaná (Hapalochlaena lunulata)",
+   "Q1232698": "Oliheň obecná (Loligo vulgaris)",
+   "Q1632342": "Sépie vějířovitá (Sepia apama)",
+   "Q1844769": "Písečník novozélandský (Potamopyrgus antipodarum)",
+   "Q773951": "Modranka karpatská (Bielzia coerulans)",
+   "Q912404": "Chobotnice velká (Enteroctopus dofleini)",
+   "Q932364": "Plzák španělský (Arion vulgaris)"
+  }
+ },
+ {
+  "id": "Q182258#1",
+  "species": "Přílipka misková",
+  "latin": "Patella vulgata",
+  "text": "Zuby tohoto druhu jsou pevnější než pavučina.",
+  "quote": "Tyto zuby představují nejpevnější známý biologický materiál, který je dokonce mnohem pevnější než pavučina.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q182258#2",
+  "species": "Přílipka misková",
+  "latin": "Patella vulgata",
+  "text": "Po výletech za potravou se vždy vrací na stejné místo.",
+  "quote": "Mohou se vzdálit až metr od místa příchytu, na konci dne se však vždy vrátí na to samé místo, odkud se vyplazily.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q182258#3",
+  "species": "Přílipka misková",
+  "latin": "Patella vulgata",
+  "text": "Živí se drobnými částečkami mořských řas.",
+  "quote": "kde se krmí malými částečky mořských řas",
+  "claimed_false_for": {
+   "Q1123809": "Chobotnice kroužkovaná (Hapalochlaena lunulata)",
+   "Q1232698": "Oliheň obecná (Loligo vulgaris)",
+   "Q1632342": "Sépie vějířovitá (Sepia apama)",
+   "Q174549": "Slimák žlutý (Malacolimax tenellus)",
+   "Q245314": "Hlemýžď zahradní (Helix pomatia)",
+   "Q26908": "Oblovka žravá (Achatina fulica)",
+   "Q773951": "Modranka karpatská (Bielzia coerulans)",
+   "Q81851905": "Hlemýžď pruhovaný (Helix thessalica)",
+   "Q912404": "Chobotnice velká (Enteroctopus dofleini)",
+   "Q932364": "Plzák španělský (Arion vulgaris)"
+  }
+ },
+ {
+  "id": "Q1844769#0",
+  "species": "Písečník novozélandský",
+  "latin": "Potamopyrgus antipodarum",
+  "text": "Tento druh má za rok až 230 potomků od jedné samice.",
+  "quote": "Každá samice může vyprodukovat až 230 potomků za jediný rok.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1844769#1",
+  "species": "Písečník novozélandský",
+  "latin": "Potamopyrgus antipodarum",
+  "text": "Tento druh přežije i ve vodě s hodně solí.",
+  "quote": "Dokáže ustát i vody s poměrně vysokým podílem soli",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1844769#2",
+  "species": "Písečník novozélandský",
+  "latin": "Potamopyrgus antipodarum",
+  "text": "Tento druh je aktivní v noci.",
+  "quote": "Jedná se o nočního živočicha.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1844769#3",
+  "species": "Písečník novozélandský",
+  "latin": "Potamopyrgus antipodarum",
+  "text": "Tento druh v nových oblastech většinou nemá přirozené nepřátele.",
+  "quote": "v invadovaných oblastech písečníci většinou nemají přirozené nepřátele",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1850495#0",
+  "species": "Chobotnice skvrnitá",
+  "latin": "Hapalochlaena maculosa",
+  "text": "Tento druh patří mezi menší, měří asi 20 cm.",
+  "quote": "Mezi chobotnicemi je malým druhem, měřícím okolo 20 cm.",
+  "claimed_false_for": {
+   "Q1632342": "Sépie vějířovitá (Sepia apama)",
+   "Q1940276": "Dunovka proměnlivá (Theba pisana)",
+   "Q21113": "Plzák černý (Arion ater)",
+   "Q22019793": "Hlemýžď kropenatý (Cornu aspersum)",
+   "Q245314": "Hlemýžď zahradní (Helix pomatia)",
+   "Q689003": "Člunice jezerní (Acroloxus lacustris)",
+   "Q81851905": "Hlemýžď pruhovaný (Helix thessalica)",
+   "Q898580": "Papáskovka žíhaná (Caucasotachea vindobonensis)",
+   "Q908799": "Keřovka plavá (Fruticicola fruticum)"
+  }
+ },
+ {
+  "id": "Q1850495#1",
+  "species": "Chobotnice skvrnitá",
+  "latin": "Hapalochlaena maculosa",
+  "text": "Objevují se jasně modré kruhy, když je zvíře podrážděné.",
+  "quote": "je-li chobotnice podrážděná, skvrny ztmavnou a uvnitř se objeví jasně modré kruhy či kruhovité obrazce",
+  "claimed_false_for": {
+   "Q1232698": "Oliheň obecná (Loligo vulgaris)",
+   "Q1632342": "Sépie vějířovitá (Sepia apama)",
+   "Q1940276": "Dunovka proměnlivá (Theba pisana)",
+   "Q21113": "Plzák černý (Arion ater)",
+   "Q22019793": "Hlemýžď kropenatý (Cornu aspersum)",
+   "Q245314": "Hlemýžď zahradní (Helix pomatia)",
+   "Q3819564": "Sepiola tichomořská (Rossia pacifica)",
+   "Q689003": "Člunice jezerní (Acroloxus lacustris)",
+   "Q756724": "Sépie obecná (Sepia officinalis)",
+   "Q81851905": "Hlemýžď pruhovaný (Helix thessalica)",
+   "Q898580": "Papáskovka žíhaná (Caucasotachea vindobonensis)",
+   "Q908799": "Keřovka plavá (Fruticicola fruticum)"
+  }
+ },
+ {
+  "id": "Q1850495#2",
+  "species": "Chobotnice skvrnitá",
+  "latin": "Hapalochlaena maculosa",
+  "text": "Tento druh je jedovatý a jeho zbarvení varuje ostatní.",
+  "quote": "Výrazný vzor objevující se při podráždění je formou aposematismu a varuje před jedovatostí nositele",
+  "claimed_false_for": {
+   "Q1940276": "Dunovka proměnlivá (Theba pisana)",
+   "Q21113": "Plzák černý (Arion ater)",
+   "Q22019793": "Hlemýžď kropenatý (Cornu aspersum)",
+   "Q245314": "Hlemýžď zahradní (Helix pomatia)",
+   "Q689003": "Člunice jezerní (Acroloxus lacustris)",
+   "Q81851905": "Hlemýžď pruhovaný (Helix thessalica)",
+   "Q898580": "Papáskovka žíhaná (Caucasotachea vindobonensis)",
+   "Q908799": "Keřovka plavá (Fruticicola fruticum)"
+  }
+ },
+ {
+  "id": "Q1850495#4",
+  "species": "Chobotnice skvrnitá",
+  "latin": "Hapalochlaena maculosa",
+  "text": "Tento druh žije sám a za jinými jde jen na rozmnožování.",
+  "quote": "Chobotnice skvrnité jsou samotářsky žijící tvorové, jiné jedince svého druhu vyhledávají pouze při rozmnožování",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1850495#5",
+  "species": "Chobotnice skvrnitá",
+  "latin": "Hapalochlaena maculosa",
+  "text": "Samice hlídá vajíčka šest až sedm měsíců.",
+  "quote": "o něž se stará kolem šesti až sedmi měsíců",
+  "claimed_false_for": {
+   "Q1232698": "Oliheň obecná (Loligo vulgaris)",
+   "Q1632342": "Sépie vějířovitá (Sepia apama)",
+   "Q1940276": "Dunovka proměnlivá (Theba pisana)",
+   "Q21113": "Plzák černý (Arion ater)",
+   "Q22019793": "Hlemýžď kropenatý (Cornu aspersum)",
+   "Q245314": "Hlemýžď zahradní (Helix pomatia)",
+   "Q689003": "Člunice jezerní (Acroloxus lacustris)",
+   "Q756724": "Sépie obecná (Sepia officinalis)",
+   "Q81851905": "Hlemýžď pruhovaný (Helix thessalica)",
+   "Q898580": "Papáskovka žíhaná (Caucasotachea vindobonensis)",
+   "Q908799": "Keřovka plavá (Fruticicola fruticum)"
+  }
+ },
+ {
+  "id": "Q1940276#0",
+  "species": "Dunovka proměnlivá",
+  "latin": "Theba pisana",
+  "text": "Ulita bývá krémová až oranžová s hnědými proužky.",
+  "quote": "zpravidla mívá krémově bílé, žluté až oranžové pozadí, na němž mohou být hnědé, do spirály uspořádané proužky.",
+  "claimed_false_for": {
+   "Q1123809": "Chobotnice kroužkovaná (Hapalochlaena lunulata)",
+   "Q174549": "Slimák žlutý (Malacolimax tenellus)",
+   "Q1850495": "Chobotnice skvrnitá (Hapalochlaena maculosa)",
+   "Q2120872": "Chobotnice pruhovaná (Hapalochlaena fasciata)",
+   "Q912404": "Chobotnice velká (Enteroctopus dofleini)"
+  }
+ },
+ {
+  "id": "Q1940276#1",
+  "species": "Dunovka proměnlivá",
+  "latin": "Theba pisana",
+  "text": "Ulita bývá široká 12 až 25 milimetrů.",
+  "quote": "Ulita dosahuje šířky 12 až 25 mm a výšky 9 až 20 mm.",
+  "claimed_false_for": {
+   "Q1123809": "Chobotnice kroužkovaná (Hapalochlaena lunulata)",
+   "Q174549": "Slimák žlutý (Malacolimax tenellus)",
+   "Q1844769": "Písečník novozélandský (Potamopyrgus antipodarum)",
+   "Q1850495": "Chobotnice skvrnitá (Hapalochlaena maculosa)",
+   "Q2120872": "Chobotnice pruhovaná (Hapalochlaena fasciata)",
+   "Q689003": "Člunice jezerní (Acroloxus lacustris)",
+   "Q912404": "Chobotnice velká (Enteroctopus dofleini)"
+  }
+ },
+ {
+  "id": "Q1940276#2",
+  "species": "Dunovka proměnlivá",
+  "latin": "Theba pisana",
+  "text": "Tento druh je aktivní hlavně v noci a při vlhku.",
+  "quote": "Aktivní jsou převážně v noci a zejména v obdobích vysoké vlhkosti, bez ohledu na teplotu.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q21113#0",
+  "species": "Plzák černý",
+  "latin": "Arion ater",
+  "text": "Dorůstá do délky 10 až 13 centimetrů.",
+  "quote": "Dospělý jedinec dosahuje 10 až 13 cm.",
+  "claimed_false_for": {
+   "Q1232698": "Oliheň obecná (Loligo vulgaris)",
+   "Q151201": "Zej karibský (Aplysia dactylomela)",
+   "Q182258": "Přílipka misková (Patella vulgata)",
+   "Q1844769": "Písečník novozélandský (Potamopyrgus antipodarum)",
+   "Q1850495": "Chobotnice skvrnitá (Hapalochlaena maculosa)",
+   "Q2120872": "Chobotnice pruhovaná (Hapalochlaena fasciata)",
+   "Q689003": "Člunice jezerní (Acroloxus lacustris)",
+   "Q756724": "Sépie obecná (Sepia officinalis)",
+   "Q81851905": "Hlemýžď pruhovaný (Helix thessalica)",
+   "Q898580": "Papáskovka žíhaná (Caucasotachea vindobonensis)",
+   "Q912404": "Chobotnice velká (Enteroctopus dofleini)"
+  }
+ },
+ {
+  "id": "Q21113#1",
+  "species": "Plzák černý",
+  "latin": "Arion ater",
+  "text": "Tento druh je aktivní hlavně v noci.",
+  "quote": "Aktivním se plzák stává hlavně v noci, kdy se vydává za potravou.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q2120872#0",
+  "species": "Chobotnice pruhovaná",
+  "latin": "Hapalochlaena fasciata",
+  "text": "Tento druh měří jen 4,5 centimetru.",
+  "quote": "měří 4,5 cm",
+  "claimed_false_for": {
+   "Q1232698": "Oliheň obecná (Loligo vulgaris)",
+   "Q1632342": "Sépie vějířovitá (Sepia apama)",
+   "Q1940276": "Dunovka proměnlivá (Theba pisana)",
+   "Q21113": "Plzák černý (Arion ater)",
+   "Q689003": "Člunice jezerní (Acroloxus lacustris)",
+   "Q756724": "Sépie obecná (Sepia officinalis)",
+   "Q898580": "Papáskovka žíhaná (Caucasotachea vindobonensis)",
+   "Q908799": "Keřovka plavá (Fruticicola fruticum)"
+  }
+ },
+ {
+  "id": "Q2120872#1",
+  "species": "Chobotnice pruhovaná",
+  "latin": "Hapalochlaena fasciata",
+  "text": "Tento druh má silný jed, který vylučuje při kousnutí.",
+  "quote": "jež chobotnice vylučuje při kousnutí",
+  "claimed_false_for": {
+   "Q1940276": "Dunovka proměnlivá (Theba pisana)",
+   "Q21113": "Plzák černý (Arion ater)",
+   "Q22019793": "Hlemýžď kropenatý (Cornu aspersum)",
+   "Q245314": "Hlemýžď zahradní (Helix pomatia)",
+   "Q689003": "Člunice jezerní (Acroloxus lacustris)",
+   "Q81851905": "Hlemýžď pruhovaný (Helix thessalica)",
+   "Q898580": "Papáskovka žíhaná (Caucasotachea vindobonensis)",
+   "Q908799": "Keřovka plavá (Fruticicola fruticum)"
+  }
+ },
+ {
+  "id": "Q22019793#0",
+  "species": "Hlemýžď kropenatý",
+  "latin": "Cornu aspersum",
+  "text": "Tento druh je aktivní hlavně v noci.",
+  "quote": "Hlemýžď kropenatý je aktivní především v noci, se dvěma vrcholy aktivity, tj. 2 a 6 hodin po západu slunce.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q22019793#1",
+  "species": "Hlemýžď kropenatý",
+  "latin": "Cornu aspersum",
+  "text": "Tento druh má pevnou tenkou ulitu z vápna.",
+  "quote": "Dospělý jedinec má pevnou tenkou ulitu z uhličitanu vápenatého.",
+  "claimed_false_for": {
+   "Q1123809": "Chobotnice kroužkovaná (Hapalochlaena lunulata)",
+   "Q174549": "Slimák žlutý (Malacolimax tenellus)",
+   "Q1850495": "Chobotnice skvrnitá (Hapalochlaena maculosa)",
+   "Q2120872": "Chobotnice pruhovaná (Hapalochlaena fasciata)",
+   "Q912404": "Chobotnice velká (Enteroctopus dofleini)"
+  }
+ },
+ {
+  "id": "Q22019793#2",
+  "species": "Hlemýžď kropenatý",
+  "latin": "Cornu aspersum",
+  "text": "Jedna snůška má 80 až 140 vajíček.",
+  "quote": "Dva týdny po spáření klade snůšku obsahující 80–140 vajíček.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q22019793#3",
+  "species": "Hlemýžď kropenatý",
+  "latin": "Cornu aspersum",
+  "text": "Dospělým se stane zhruba po dvou letech.",
+  "quote": "Dospělosti hlemýžď dosahuje zhruba po dvou letech od vylíhnutí.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q22019793#4",
+  "species": "Hlemýžď kropenatý",
+  "latin": "Cornu aspersum",
+  "text": "Žere například kopřivy, břečťan a různé trávy.",
+  "quote": "Ve svém původním prostředí požírá z volně rostoucích rostlin např. kopřivu dvoudomou (Urtica dioica), břečťan popínavý (Hedera helix) nebo různé druhy trav.",
+  "claimed_false_for": {
+   "Q1123809": "Chobotnice kroužkovaná (Hapalochlaena lunulata)",
+   "Q1232698": "Oliheň obecná (Loligo vulgaris)",
+   "Q151201": "Zej karibský (Aplysia dactylomela)",
+   "Q1632342": "Sépie vějířovitá (Sepia apama)",
+   "Q182258": "Přílipka misková (Patella vulgata)",
+   "Q1850495": "Chobotnice skvrnitá (Hapalochlaena maculosa)",
+   "Q2120872": "Chobotnice pruhovaná (Hapalochlaena fasciata)",
+   "Q3819564": "Sepiola tichomořská (Rossia pacifica)",
+   "Q912404": "Chobotnice velká (Enteroctopus dofleini)"
+  }
+ },
+ {
+  "id": "Q22019793#5",
+  "species": "Hlemýžď kropenatý",
+  "latin": "Cornu aspersum",
+  "text": "Na zimu se schovává do štěrbin nebo se zahrabe do země.",
+  "quote": "Před zimou si vyhledává úkryt v chráněných místech (škvíry, trhliny a pukliny ve zdech atd.) nebo se zahrabe pod povrch půdy",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q245314#0",
+  "species": "Hlemýžď zahradní",
+  "latin": "Helix pomatia",
+  "text": "Dožívá se v přírodě asi šesti let.",
+  "quote": "V přírodě se dožívá přibližně šesti let",
+  "claimed_false_for": {
+   "Q689003": "Člunice jezerní (Acroloxus lacustris)"
+  }
+ }
+]

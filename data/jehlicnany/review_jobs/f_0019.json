@@ -1,0 +1,600 @@
+[
+ {
+  "id": "Q1116374#8",
+  "species": "Borovice dlouhověká",
+  "latin": "Pinus longaeva",
+  "text": "Může nakazit rez vejmutovková.",
+  "quote": "je sice náchylná k infekci rzí vejmutovkovou",
+  "claimed_false_for": {
+   "Q1330391": "Zeravinec japonský (Thujopsis dolabrata)"
+  }
+ },
+ {
+  "id": "Q1144409#3",
+  "species": "Jedlovec západní",
+  "latin": "Tsuga heterophylla",
+  "text": "Snáší hodně stínu, mladé stromky rostou pod většími stromy.",
+  "quote": "je druh, který hodně toleruje stín",
+  "claimed_false_for": {
+   "Q2703233": "Borovice pozdní (Pinus serotina)"
+  }
+ },
+ {
+  "id": "Q1204865#x0",
+  "species": "Jedle jehlicovitá",
+  "latin": "Abies holophylla",
+  "text": "Dožívá se 400 až 900 let.",
+  "quote": "Доживает до 400— 900 лет",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1204865#x1",
+  "species": "Jedle jehlicovitá",
+  "latin": "Abies holophylla",
+  "text": "Je největší jehličnatý strom ruského Dálného východu.",
+  "quote": "самая крупная хвойная порода Дальнего Востока",
+  "claimed_false_for": {
+   "Q1044186": "Borovice hustokvětá (Pinus densiflora)",
+   "Q137071": "Borovice pavejmutka (Pinus pseudostrobus)",
+   "Q1399164": "Pazerav sbíhavý (Calocedrus decurrens)",
+   "Q147278": "Borovice limba (Pinus cembra)",
+   "Q147468": "Zerav západní (Thuja occidentalis)",
+   "Q1510186": "Jalovec kadidlový (Juniperus thurifera)",
+   "Q1640268": "Borovice Montezumova (Pinus montezumae)",
+   "Q3505749": "Borovice virginská (Pinus virginiana)",
+   "Q4992302": "Nohoplod sněžný (Podocarpus nivalis)",
+   "Q665625": "Hlavotis čínský (Cephalotaxus sinensis)",
+   "Q774829": "Borovice sibiřská (Pinus sibirica)"
+  }
+ },
+ {
+  "id": "Q1204865#x2",
+  "species": "Jedle jehlicovitá",
+  "latin": "Abies holophylla",
+  "text": "Má bílé měkké dřevo, které se používá jako stavební materiál.",
+  "quote": "Древесина белая, мягкая. Употребляется, подобно еловой, как строительный материал.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1204865#x3",
+  "species": "Jedle jehlicovitá",
+  "latin": "Abies holophylla",
+  "text": "Někdy se pěstuje jako okrasná rostlina.",
+  "quote": "is sometimes, but not commonly, used as an ornamental plant.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1204865#x4",
+  "species": "Jedle jehlicovitá",
+  "latin": "Abies holophylla",
+  "text": "Semena se uvolňují v říjnu, když se zralé šišky rozpadnou.",
+  "quote": "are released after the cones disintegrate at maturity in October.",
+  "claimed_false_for": {
+   "Q1137143": "Jedlovec kanadský (Tsuga canadensis)",
+   "Q1440975": "Toreja kalifornská (Torreya californica)",
+   "Q184300": "Jalovec červenoplodý (Juniperus oxycedrus)",
+   "Q2703200": "Smrk Wilsonův (Picea wilsonii)",
+   "Q3285379": "Borovice Gerardova (Pinus gerardiana)",
+   "Q583885": "Borovice jednolistá (Pinus monophylla)",
+   "Q595832": "Toreja tisolistá (Torreya taxifolia)",
+   "Q866150": "Borovice ostnitá (Pinus muricata)"
+  }
+ },
+ {
+  "id": "Q1290204#3",
+  "species": "Jedle nádherná",
+  "latin": "Abies magnifica",
+  "text": "Má lehké a měkké dřevo.",
+  "quote": "Dřevo je lehké, měkké",
+  "claimed_false_for": {
+   "Q2065540": "Tis západoamerický (Taxus brevifolia)",
+   "Q754765": "Modřín sibiřský (Larix sibirica)",
+   "Q756334": "Modřín dahurský (Larix gmelinii)"
+  }
+ },
+ {
+  "id": "Q1290970#x0",
+  "species": "Cypřišovec Leylandův",
+  "latin": "Cupressus ×leylandii",
+  "text": "Roste velmi rychle, ročně přibližně o jeden metr.",
+  "quote": "It grows very fast with yearly increases of 1 m.",
+  "claimed_false_for": {
+   "Q147475": "Borovice kleč (Pinus mugo)",
+   "Q1619005": "Jedle himálajská (Abies spectabilis)",
+   "Q26325": "Jalovec obecný (Juniperus communis)",
+   "Q3308389": "Borovice Nelsonova (Pinus nelsonii)",
+   "Q3506511": "Borovice limbovitá (Pinus cembroides)",
+   "Q61105": "Cedr libanonský (Cedrus libani)",
+   "Q847304": "Fitzroya cypřišovitá (Fitzroya cupressoides)"
+  }
+ },
+ {
+  "id": "Q1290970#x2",
+  "species": "Cypřišovec Leylandův",
+  "latin": "Cupressus ×leylandii",
+  "text": "Je téměř vždy neplodný a množí se hlavně řízky.",
+  "quote": "It is almost always sterile, and is propagated mainly by cuttings.",
+  "claimed_false_for": {
+   "Q1249109": "Borovice Elliottova (Pinus elliottii)",
+   "Q1290204": "Jedle nádherná (Abies magnifica)",
+   "Q147426": "Smrk sitka (Picea sitchensis)",
+   "Q147475": "Borovice kleč (Pinus mugo)",
+   "Q161360": "Cypřišek Lawsonův (Chamaecyparis lawsoniana)",
+   "Q1744650": "Cypřišek zeravovitý (Chamaecyparis thyoides)",
+   "Q2411222": "Smrk Maximovičův (Picea maximowiczii)",
+   "Q26325": "Jalovec obecný (Juniperus communis)",
+   "Q3308389": "Borovice Nelsonova (Pinus nelsonii)",
+   "Q3506511": "Borovice limbovitá (Pinus cembroides)",
+   "Q61105": "Cedr libanonský (Cedrus libani)",
+   "Q847304": "Fitzroya cypřišovitá (Fitzroya cupressoides)"
+  }
+ },
+ {
+  "id": "Q1290970#x3",
+  "species": "Cypřišovec Leylandův",
+  "latin": "Cupressus ×leylandii",
+  "text": "Má mělké kořeny, a proto se velké stromy snadno převracejí.",
+  "quote": "because their roots are relatively shallow, a large leylandii tends to topple over",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1290970#x4",
+  "species": "Cypřišovec Leylandův",
+  "latin": "Cupressus ×leylandii",
+  "text": "Někteří škůdci z řad motýlů mohou za několik týdnů sežrat listí celého stromu.",
+  "quote": "ミノガ類は数週間で木全体の葉を食い尽くしてしまうことがある",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1290970#x5",
+  "species": "Cypřišovec Leylandův",
+  "latin": "Cupressus ×leylandii",
+  "text": "Napadá ho houba, která v horkých oblastech strom nakonec zahubí.",
+  "quote": "Canker causes extensive dieback and ultimately kills the tree.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q133097#x0",
+  "species": "Parasitaxus ustus",
+  "latin": "Parasitaxus usta",
+  "text": "Žije jako parazit na jiném jehličnanu.",
+  "quote": "en parasitant un autre conifère endémique",
+  "claimed_false_for": {
+   "Q1283223": "Jedle vznešená (Abies procera)",
+   "Q146935": "Cedr himálajský (Cedrus deodara)",
+   "Q147417": "Zerav obrovský (Thuja plicata)",
+   "Q148920": "Jedle kavkazská (Abies nordmanniana)",
+   "Q149548": "Borovice zobanitá (Pinus uncinata)",
+   "Q157697": "Jalovec čínský (Juniperus chinensis)",
+   "Q2347049": "Jalovec polokulovitý (Juniperus semiglobosa)",
+   "Q3308307": "Borovice Martínezova (Pinus maximartinezii)",
+   "Q390100": "Jedle korejská (Abies koreana)",
+   "Q716580": "Jedle Kawakamiova (Abies kawakamii)",
+   "Q854884": "Borovice Thunbergova (Pinus thunbergii)",
+   "Q854892": "Jedle řecká (Abies cephalonica)"
+  }
+ },
+ {
+  "id": "Q133097#x1",
+  "species": "Parasitaxus ustus",
+  "latin": "Parasitaxus usta",
+  "text": "Nemá vlastní kořeny, využívá kořeny svého hostitele.",
+  "quote": "Il est remarquable par son absence de racines ; il utilise en effet celles de son hôte auxquelles il est accroché.",
+  "claimed_false_for": {
+   "Q1044186": "Borovice hustokvětá (Pinus densiflora)",
+   "Q1145286": "Smrk východní (Picea orientalis)",
+   "Q1204865": "Jedle jehlicovitá (Abies holophylla)",
+   "Q12203342": "Smrk lesklý (Picea polita)",
+   "Q137071": "Borovice pavejmutka (Pinus pseudostrobus)",
+   "Q1399164": "Pazerav sbíhavý (Calocedrus decurrens)",
+   "Q147278": "Borovice limba (Pinus cembra)",
+   "Q147468": "Zerav západní (Thuja occidentalis)",
+   "Q1510186": "Jalovec kadidlový (Juniperus thurifera)",
+   "Q157230": "Borovice vejmutovka (Pinus strobus)",
+   "Q1619005": "Jedle himálajská (Abies spectabilis)",
+   "Q1640268": "Borovice Montezumova (Pinus montezumae)",
+   "Q2093561": "Smrk Schrenkův (Picea schrenkiana)",
+   "Q2233487": "Jedle šensijská (Abies chensiensis)",
+   "Q2411222": "Smrk Maximovičův (Picea maximowiczii)",
+   "Q2703233": "Borovice pozdní (Pinus serotina)",
+   "Q3505749": "Borovice virginská (Pinus virginiana)",
+   "Q378592": "Jedle posvátná (Abies religiosa)",
+   "Q391374": "Smrk Koyamův (Picea koyamae)",
+   "Q4992302": "Nohoplod sněžný (Podocarpus nivalis)",
+   "Q665625": "Hlavotis čínský (Cephalotaxus sinensis)",
+   "Q774829": "Borovice sibiřská (Pinus sibirica)",
+   "Q955413": "Damaroň jižní (Agathis australis)"
+  }
+ },
+ {
+  "id": "Q133097#x2",
+  "species": "Parasitaxus ustus",
+  "latin": "Parasitaxus usta",
+  "text": "Je jediným známým případem parazitismu mezi nahosemennými rostlinami.",
+  "quote": "est le seul cas connu de parasitisme chez les gymnospermes",
+  "claimed_false_for": {
+   "Q1249109": "Borovice Elliottova (Pinus elliottii)",
+   "Q1290204": "Jedle nádherná (Abies magnifica)",
+   "Q147426": "Smrk sitka (Picea sitchensis)",
+   "Q147475": "Borovice kleč (Pinus mugo)",
+   "Q161360": "Cypřišek Lawsonův (Chamaecyparis lawsoniana)",
+   "Q1744650": "Cypřišek zeravovitý (Chamaecyparis thyoides)",
+   "Q2411222": "Smrk Maximovičův (Picea maximowiczii)",
+   "Q26325": "Jalovec obecný (Juniperus communis)",
+   "Q3308389": "Borovice Nelsonova (Pinus nelsonii)",
+   "Q3506511": "Borovice limbovitá (Pinus cembroides)",
+   "Q61105": "Cedr libanonský (Cedrus libani)",
+   "Q847304": "Fitzroya cypřišovitá (Fitzroya cupressoides)"
+  }
+ },
+ {
+  "id": "Q133097#x3",
+  "species": "Parasitaxus ustus",
+  "latin": "Parasitaxus usta",
+  "text": "Klíčení semen je závislé na houbě, která žije v kořenech hostitele.",
+  "quote": "Ce champignon semble être indispensable pour assurer la germination des graines",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q133228#x0",
+  "species": "Diselma Archerova",
+  "latin": "Diselma archeri",
+  "text": "Vyskytuje se na západě Tasmánie ve výšce 550 až 1400 metrů.",
+  "quote": "Man findet sie in Höhen von 550 bis 1400 Metern in subalpinen und alpinen Heidemooren und Geröllfeldern",
+  "claimed_false_for": {
+   "Q1145286": "Smrk východní (Picea orientalis)",
+   "Q1204865": "Jedle jehlicovitá (Abies holophylla)",
+   "Q12203342": "Smrk lesklý (Picea polita)",
+   "Q1283223": "Jedle vznešená (Abies procera)",
+   "Q146935": "Cedr himálajský (Cedrus deodara)",
+   "Q147417": "Zerav obrovský (Thuja plicata)",
+   "Q148920": "Jedle kavkazská (Abies nordmanniana)",
+   "Q149548": "Borovice zobanitá (Pinus uncinata)",
+   "Q157230": "Borovice vejmutovka (Pinus strobus)",
+   "Q157697": "Jalovec čínský (Juniperus chinensis)",
+   "Q1619005": "Jedle himálajská (Abies spectabilis)",
+   "Q2065540": "Tis západoamerický (Taxus brevifolia)",
+   "Q2093561": "Smrk Schrenkův (Picea schrenkiana)",
+   "Q2233487": "Jedle šensijská (Abies chensiensis)",
+   "Q2347049": "Jalovec polokulovitý (Juniperus semiglobosa)",
+   "Q2411222": "Smrk Maximovičův (Picea maximowiczii)",
+   "Q2703233": "Borovice pozdní (Pinus serotina)",
+   "Q3308307": "Borovice Martínezova (Pinus maximartinezii)",
+   "Q378592": "Jedle posvátná (Abies religiosa)",
+   "Q390100": "Jedle korejská (Abies koreana)",
+   "Q391374": "Smrk Koyamův (Picea koyamae)",
+   "Q716580": "Jedle Kawakamiova (Abies kawakamii)",
+   "Q754765": "Modřín sibiřský (Larix sibirica)",
+   "Q756191": "Borovice kanárská (Pinus canariensis)",
+   "Q756334": "Modřín dahurský (Larix gmelinii)",
+   "Q854884": "Borovice Thunbergova (Pinus thunbergii)",
+   "Q854892": "Jedle řecká (Abies cephalonica)",
+   "Q955413": "Damaroň jižní (Agathis australis)"
+  }
+ },
+ {
+  "id": "Q133228#x1",
+  "species": "Diselma Archerova",
+  "latin": "Diselma archeri",
+  "text": "Dorůstá výšky 1,5 až 4 metry a bývá keřem nebo malým stromem.",
+  "quote": "Diselma archeri bildet immergrüne zweihäusige Sträucher oder kleine Bäume mit Wuchshöhen von 1,5 bis 4 m",
+  "claimed_false_for": {
+   "Q1283223": "Jedle vznešená (Abies procera)",
+   "Q146935": "Cedr himálajský (Cedrus deodara)",
+   "Q147417": "Zerav obrovský (Thuja plicata)",
+   "Q148920": "Jedle kavkazská (Abies nordmanniana)",
+   "Q2347049": "Jalovec polokulovitý (Juniperus semiglobosa)",
+   "Q3308307": "Borovice Martínezova (Pinus maximartinezii)",
+   "Q390100": "Jedle korejská (Abies koreana)",
+   "Q716580": "Jedle Kawakamiova (Abies kawakamii)",
+   "Q754765": "Modřín sibiřský (Larix sibirica)",
+   "Q756191": "Borovice kanárská (Pinus canariensis)",
+   "Q756334": "Modřín dahurský (Larix gmelinii)",
+   "Q854884": "Borovice Thunbergova (Pinus thunbergii)",
+   "Q854892": "Jedle řecká (Abies cephalonica)"
+  }
+ },
+ {
+  "id": "Q133228#x2",
+  "species": "Diselma Archerova",
+  "latin": "Diselma archeri",
+  "text": "Má nejmenší šišky mezi jehličnany jižní polokoule, možná vůbec nejmenší.",
+  "quote": "Sie sind die kleinsten Koniferenzapfen der Südhemisphäre und wahrscheinlich",
+  "claimed_false_for": {
+   "Q128116": "Smrk sivý (Picea glauca)",
+   "Q137009": "Borovice Engelmannova (Pinus engelmannii)",
+   "Q1458175": "Pamodřín líbezný (Pseudolarix amabilis)",
+   "Q147472": "Borovice Douglasova (Pinus douglasiana)",
+   "Q148542": "Borovice bahenní (Pinus palustris)",
+   "Q149851": "Sekvojovec obrovský (Sequoiadendron giganteum)",
+   "Q748888": "Borovice montereyská (Pinus radiata)"
+  }
+ },
+ {
+  "id": "Q133228#x3",
+  "species": "Diselma Archerova",
+  "latin": "Diselma archeri",
+  "text": "Dává přednost kyselým, často mokrým a plochým rašelinným půdám.",
+  "quote": "Sie bevorzugt saure, oft auch nasse, flache Torfböden.",
+  "claimed_false_for": {
+   "Q1510186": "Jalovec kadidlový (Juniperus thurifera)"
+  }
+ },
+ {
+  "id": "Q1451343#2",
+  "species": "Jedle Fraserova",
+  "latin": "Abies fraseri",
+  "text": "Roste jen v horách na východě USA.",
+  "quote": "Endemit východní části USA – Appalačské pohoří ve státech Severní Karolína, Tennessee a Virginie",
+  "claimed_false_for": {
+   "Q2065540": "Tis západoamerický (Taxus brevifolia)",
+   "Q754765": "Modřín sibiřský (Larix sibirica)",
+   "Q756191": "Borovice kanárská (Pinus canariensis)",
+   "Q756334": "Modřín dahurský (Larix gmelinii)"
+  }
+ },
+ {
+  "id": "Q1458175#0",
+  "species": "Pamodřín líbezný",
+  "latin": "Pseudolarix amabilis",
+  "text": "Roste přirozeně jen v jihovýchodní Číně.",
+  "quote": "Jeho místem současného výskytu je jihovýchodní Čína",
+  "claimed_false_for": {
+   "Q1145286": "Smrk východní (Picea orientalis)",
+   "Q1204865": "Jedle jehlicovitá (Abies holophylla)",
+   "Q12203342": "Smrk lesklý (Picea polita)",
+   "Q157230": "Borovice vejmutovka (Pinus strobus)",
+   "Q1619005": "Jedle himálajská (Abies spectabilis)",
+   "Q2093561": "Smrk Schrenkův (Picea schrenkiana)",
+   "Q2233487": "Jedle šensijská (Abies chensiensis)",
+   "Q2411222": "Smrk Maximovičův (Picea maximowiczii)",
+   "Q2703233": "Borovice pozdní (Pinus serotina)",
+   "Q378592": "Jedle posvátná (Abies religiosa)",
+   "Q391374": "Smrk Koyamův (Picea koyamae)",
+   "Q955413": "Damaroň jižní (Agathis australis)"
+  }
+ },
+ {
+  "id": "Q145939#4",
+  "species": "Jedle ojíněná",
+  "latin": "Abies concolor",
+  "text": "Jehlice spásá jelenec ušatý.",
+  "quote": "jehlice stromu spásá jelenec ušatý",
+  "claimed_false_for": {
+   "Q147388": "Kryptomerie japonská (Cryptomeria japonica)"
+  }
+ },
+ {
+  "id": "Q146021#0",
+  "species": "Borovice rumelská",
+  "latin": "Pinus peuce",
+  "text": "Jehlice rostou po pěti v jednom svazečku.",
+  "quote": "Jehlice vyrůstají ve svazečcích po 5",
+  "claimed_false_for": {
+   "Q1145286": "Smrk východní (Picea orientalis)",
+   "Q1204865": "Jedle jehlicovitá (Abies holophylla)",
+   "Q12203342": "Smrk lesklý (Picea polita)",
+   "Q1619005": "Jedle himálajská (Abies spectabilis)",
+   "Q2093561": "Smrk Schrenkův (Picea schrenkiana)",
+   "Q2233487": "Jedle šensijská (Abies chensiensis)",
+   "Q2411222": "Smrk Maximovičův (Picea maximowiczii)",
+   "Q2703233": "Borovice pozdní (Pinus serotina)",
+   "Q378592": "Jedle posvátná (Abies religiosa)",
+   "Q391374": "Smrk Koyamův (Picea koyamae)",
+   "Q955413": "Damaroň jižní (Agathis australis)"
+  }
+ },
+ {
+  "id": "Q146048#x0",
+  "species": "Modřín opadavý",
+  "latin": "Larix decidua",
+  "text": "Dožívá se téměř 1000 let.",
+  "quote": "Its life span has been confirmed to be close to 1000 years",
+  "claimed_false_for": {
+   "Q106094": "Borovice pinie (Pinus pinea)",
+   "Q1451343": "Jedle Fraserova (Abies fraseri)",
+   "Q211457": "Borovice halepská (Pinus halepensis)"
+  }
+ },
+ {
+  "id": "Q146048#x1",
+  "species": "Modřín opadavý",
+  "latin": "Larix decidua",
+  "text": "Přežije zimní teploty až −50 °C.",
+  "quote": "able to survive winter temperatures down to at least −50 °C",
+  "claimed_false_for": {
+   "Q106094": "Borovice pinie (Pinus pinea)",
+   "Q137071": "Borovice pavejmutka (Pinus pseudostrobus)",
+   "Q1399164": "Pazerav sbíhavý (Calocedrus decurrens)",
+   "Q147513": "Cypřiš stálezelený (Cupressus sempervirens)",
+   "Q150129": "Sekvoje vždyzelená (Sequoia sempervirens)",
+   "Q1510186": "Jalovec kadidlový (Juniperus thurifera)",
+   "Q156800": "Metasekvoje čínská (Metasequoia glyptostroboides)",
+   "Q1640268": "Borovice Montezumova (Pinus montezumae)",
+   "Q211457": "Borovice halepská (Pinus halepensis)",
+   "Q4992302": "Nohoplod sněžný (Podocarpus nivalis)"
+  }
+ },
+ {
+  "id": "Q146048#x2",
+  "species": "Modřín opadavý",
+  "latin": "Larix decidua",
+  "text": "Jeho semena jsou důležitou potravou pro čížky, čečetky a další ptáky.",
+  "quote": "The seeds are an important food for some birds, notably siskin, redpoll, and citril finch",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q146048#x3",
+  "species": "Modřín opadavý",
+  "latin": "Larix decidua",
+  "text": "Pupeny a nezralé šišky požírá tetřev hlušec.",
+  "quote": "the buds and immature cones are eaten by capercaillie",
+  "claimed_false_for": {
+   "Q106094": "Borovice pinie (Pinus pinea)",
+   "Q147513": "Cypřiš stálezelený (Cupressus sempervirens)",
+   "Q150129": "Sekvoje vždyzelená (Sequoia sempervirens)",
+   "Q156800": "Metasekvoje čínská (Metasequoia glyptostroboides)",
+   "Q211457": "Borovice halepská (Pinus halepensis)",
+   "Q61105": "Cedr libanonský (Cedrus libani)"
+  }
+ },
+ {
+  "id": "Q146048#x4",
+  "species": "Modřín opadavý",
+  "latin": "Larix decidua",
+  "text": "Jehlice na podzim zežloutnou a opadají.",
+  "quote": "turn bright yellow before they fall in the autumn",
+  "claimed_false_for": {
+   "Q145992": "Smrk ztepilý (Picea abies)",
+   "Q146992": "Jedle bělokorá (Abies alba)",
+   "Q147513": "Cypřiš stálezelený (Cupressus sempervirens)",
+   "Q150129": "Sekvoje vždyzelená (Sequoia sempervirens)",
+   "Q179729": "Tis červený (Taxus baccata)",
+   "Q26325": "Jalovec obecný (Juniperus communis)",
+   "Q61105": "Cedr libanonský (Cedrus libani)"
+  }
+ },
+ {
+  "id": "Q146048#x5",
+  "species": "Modřín opadavý",
+  "latin": "Larix decidua",
+  "text": "Jeho dřevo je velmi ceněné při stavbě jachet.",
+  "quote": "is particularly valued for yacht building",
+  "claimed_false_for": {
+   "Q156800": "Metasekvoje čínská (Metasequoia glyptostroboides)",
+   "Q26325": "Jalovec obecný (Juniperus communis)"
+  }
+ },
+ {
+  "id": "Q146935#x0",
+  "species": "Cedr himálajský",
+  "latin": "Cedrus deodara",
+  "text": "Dorůstá výšky 40 až 50 metrů.",
+  "quote": "It is a large coniferous tree reaching 40–50 metres",
+  "claimed_false_for": {
+   "Q106094": "Borovice pinie (Pinus pinea)",
+   "Q1440975": "Toreja kalifornská (Torreya californica)",
+   "Q1451343": "Jedle Fraserova (Abies fraseri)",
+   "Q147513": "Cypřiš stálezelený (Cupressus sempervirens)",
+   "Q179729": "Tis červený (Taxus baccata)",
+   "Q184300": "Jalovec červenoplodý (Juniperus oxycedrus)",
+   "Q211457": "Borovice halepská (Pinus halepensis)",
+   "Q26325": "Jalovec obecný (Juniperus communis)",
+   "Q3285379": "Borovice Gerardova (Pinus gerardiana)",
+   "Q3496220": "Patisovec převislý (Glyptostrobus pensilis)",
+   "Q583885": "Borovice jednolistá (Pinus monophylla)",
+   "Q595832": "Toreja tisolistá (Torreya taxifolia)"
+  }
+ },
+ {
+  "id": "Q146935#x1",
+  "species": "Cedr himálajský",
+  "latin": "Cedrus deodara",
+  "text": "Roste v nadmořské výšce 1 500 až 3 200 metrů.",
+  "quote": "It grows at elevations of 1,500–3,200 m",
+  "claimed_false_for": {
+   "Q106094": "Borovice pinie (Pinus pinea)",
+   "Q148542": "Borovice bahenní (Pinus palustris)",
+   "Q150129": "Sekvoje vždyzelená (Sequoia sempervirens)",
+   "Q211457": "Borovice halepská (Pinus halepensis)",
+   "Q748888": "Borovice montereyská (Pinus radiata)"
+  }
+ },
+ {
+  "id": "Q146935#x2",
+  "species": "Cedr himálajský",
+  "latin": "Cedrus deodara",
+  "text": "Opyluje ho vítr.",
+  "quote": "Deodar is a wind-pollinated monoecious species",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q146935#x4",
+  "species": "Cedr himálajský",
+  "latin": "Cedrus deodara",
+  "text": "Dřevo odolává hnilobě, proto se z něj stavějí obytné lodě.",
+  "quote": "Its rot-resistant character also makes it an ideal wood for constructing the well-known houseboats",
+  "claimed_false_for": {
+   "Q145992": "Smrk ztepilý (Picea abies)"
+  }
+ },
+ {
+  "id": "Q146935#x5",
+  "species": "Cedr himálajský",
+  "latin": "Cedrus deodara",
+  "text": "Zralé šišky se rozpadají a uvolňují okřídlená semena.",
+  "quote": "to release the winged seeds",
+  "claimed_false_for": {
+   "Q1044186": "Borovice hustokvětá (Pinus densiflora)",
+   "Q106094": "Borovice pinie (Pinus pinea)",
+   "Q137071": "Borovice pavejmutka (Pinus pseudostrobus)",
+   "Q145954": "Borovice černá (Pinus nigra)",
+   "Q145992": "Smrk ztepilý (Picea abies)",
+   "Q146048": "Modřín opadavý (Larix decidua)",
+   "Q147278": "Borovice limba (Pinus cembra)",
+   "Q1510186": "Jalovec kadidlový (Juniperus thurifera)",
+   "Q1640268": "Borovice Montezumova (Pinus montezumae)",
+   "Q179729": "Tis červený (Taxus baccata)",
+   "Q211457": "Borovice halepská (Pinus halepensis)",
+   "Q26325": "Jalovec obecný (Juniperus communis)",
+   "Q3505749": "Borovice virginská (Pinus virginiana)",
+   "Q4992302": "Nohoplod sněžný (Podocarpus nivalis)",
+   "Q665625": "Hlavotis čínský (Cephalotaxus sinensis)",
+   "Q774829": "Borovice sibiřská (Pinus sibirica)"
+  }
+ },
+ {
+  "id": "Q147388#1",
+  "species": "Kryptomerie japonská",
+  "latin": "Cryptomeria japonica",
+  "text": "Jehlice jsou zahnuté jako srp a dlouhé do 1 cm.",
+  "quote": "Jehlice jsou leskle či temně zelené, srpovitě zahnuté, dlouhé 0,5–1 cm",
+  "claimed_false_for": {
+   "Q106094": "Borovice pinie (Pinus pinea)",
+   "Q145954": "Borovice černá (Pinus nigra)",
+   "Q145992": "Smrk ztepilý (Picea abies)",
+   "Q146048": "Modřín opadavý (Larix decidua)",
+   "Q146992": "Jedle bělokorá (Abies alba)",
+   "Q179729": "Tis červený (Taxus baccata)",
+   "Q61105": "Cedr libanonský (Cedrus libani)"
+  }
+ },
+ {
+  "id": "Q147388#2",
+  "species": "Kryptomerie japonská",
+  "latin": "Cryptomeria japonica",
+  "text": "Šišky dozrávají už v prvním roce.",
+  "quote": "Šišky jsou kulovité, 1–3 cm dlouhé, červenohnědé, dřevnatějící; uzrávají v prvním roce.",
+  "claimed_false_for": {
+   "Q106094": "Borovice pinie (Pinus pinea)",
+   "Q145954": "Borovice černá (Pinus nigra)",
+   "Q147513": "Cypřiš stálezelený (Cupressus sempervirens)",
+   "Q211457": "Borovice halepská (Pinus halepensis)",
+   "Q26325": "Jalovec obecný (Juniperus communis)",
+   "Q61105": "Cedr libanonský (Cedrus libani)"
+  }
+ },
+ {
+  "id": "Q147426#1",
+  "species": "Smrk sitka",
+  "latin": "Picea sitchensis",
+  "text": "Má ostré jehlice dlouhé 15 až 25 milimetrů.",
+  "quote": "Listy jsou silné, ostré a jehlovité, 15 až 25 mm dlouhé",
+  "claimed_false_for": {
+   "Q756191": "Borovice kanárská (Pinus canariensis)"
+  }
+ },
+ {
+  "id": "Q147468#3",
+  "species": "Zerav západní",
+  "latin": "Thuja occidentalis",
+  "text": "Šišky zůstávají na stromě až do další zimy.",
+  "quote": "Zralé šišky zůstávají na zeravu až do zimy následujícího roku",
+  "claimed_false_for": {
+   "Q1204865": "Jedle jehlicovitá (Abies holophylla)",
+   "Q1619005": "Jedle himálajská (Abies spectabilis)",
+   "Q2233487": "Jedle šensijská (Abies chensiensis)",
+   "Q378592": "Jedle posvátná (Abies religiosa)"
+  }
+ }
+]

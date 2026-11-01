@@ -1,0 +1,452 @@
+[
+ {
+  "id": "Q10496671#0",
+  "species": "Řepovník vytrvalý",
+  "latin": "Rapistrum perenne",
+  "text": "Kvete od června do srpna.",
+  "quote": "který kvete od června do srpna.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q10496671#1",
+  "species": "Řepovník vytrvalý",
+  "latin": "Rapistrum perenne",
+  "text": "Má jasně žluté květy na koncích větví.",
+  "quote": "Čtyřčetné, jasně žluté květy na koncích větví",
+  "claimed_false_for": {
+   "Q158515": "Bez chebdí (Sambucus ebulus)",
+   "Q160388": "Penízek horský (Noccaea montana)",
+   "Q234193": "Moringa olejodárná (Moringa oleifera)",
+   "Q240620": "Měsíčnice roční (Lunaria annua)"
+  }
+ },
+ {
+  "id": "Q10496671#2",
+  "species": "Řepovník vytrvalý",
+  "latin": "Rapistrum perenne",
+  "text": "Tento druh se množí i novými výhonky z tlustého kořene.",
+  "quote": "Rozmnožuje se také výhonky vyrůstajícími z tlustého hlavního kořene.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q10496671#3",
+  "species": "Řepovník vytrvalý",
+  "latin": "Rapistrum perenne",
+  "text": "Obvykle dorůstá do výšky 30 až 80 centimetrů.",
+  "quote": "obvykle dorůstající do výše 30 až 80 cm.",
+  "claimed_false_for": {
+   "Q234193": "Moringa olejodárná (Moringa oleifera)"
+  }
+ },
+ {
+  "id": "Q11797118#0",
+  "species": "Hladýš andělikový",
+  "latin": "Laserpitium archangelica",
+  "text": "Dorůstá až do výšky 150 centimetrů.",
+  "quote": "je až 150 cm vysoká",
+  "claimed_false_for": {
+   "Q1549723": "Koprníček bezobalný (Ligusticum mutellina)",
+   "Q157393": "Pavlovnie plstnatá (Paulownia tomentosa)",
+   "Q159360": "Svízel nízký (Galium pumilum)"
+  }
+ },
+ {
+  "id": "Q11797118#1",
+  "species": "Hladýš andělikový",
+  "latin": "Laserpitium archangelica",
+  "text": "Kvete od července do září.",
+  "quote": "Květy rozkvétají od července do září.",
+  "claimed_false_for": {
+   "Q157393": "Pavlovnie plstnatá (Paulownia tomentosa)"
+  }
+ },
+ {
+  "id": "Q11797118#2",
+  "species": "Hladýš andělikový",
+  "latin": "Laserpitium archangelica",
+  "text": "Tento druh je v Česku kriticky ohrožený.",
+  "quote": "vyhodnocen jako druh kriticky ohrožený",
+  "claimed_false_for": {
+   "Q1152744": "Prorostlík srpovitý (Bupleurum falcatum)",
+   "Q157393": "Pavlovnie plstnatá (Paulownia tomentosa)",
+   "Q159360": "Svízel nízký (Galium pumilum)",
+   "Q25284": "Petržel zahradní (Petroselinum crispum)",
+   "Q3299334": "Máčka obrovská (Eryngium giganteum)"
+  }
+ },
+ {
+  "id": "Q11797118#3",
+  "species": "Hladýš andělikový",
+  "latin": "Laserpitium archangelica",
+  "text": "Stonek je dutý a podélně rýhovaný.",
+  "quote": "Přímá lodyha je dutá, podélně rýhovaná",
+  "claimed_false_for": {
+   "Q157393": "Pavlovnie plstnatá (Paulownia tomentosa)",
+   "Q2078310": "Meruzalka smutná (Ribes triste)"
+  }
+ },
+ {
+  "id": "Q12718073#0",
+  "species": "Šabřina tatarská",
+  "latin": "Conioselinum tataricum",
+  "text": "Kvete v srpnu a září.",
+  "quote": "Kvete v srpnu a září",
+  "claimed_false_for": {
+   "Q157393": "Pavlovnie plstnatá (Paulownia tomentosa)",
+   "Q2078310": "Meruzalka smutná (Ribes triste)",
+   "Q252331": "Bulvuška hlíznatá (Bunium bulbocastanum)",
+   "Q312919": "Krabilice mámivá (Chaerophyllum temulum)"
+  }
+ },
+ {
+  "id": "Q12718073#2",
+  "species": "Šabřina tatarská",
+  "latin": "Conioselinum tataricum",
+  "text": "Roste v horách, na stinných a polostinných místech.",
+  "quote": "rostoucí v montánním a subalpínském stupni na stinných a polostinných místech",
+  "claimed_false_for": {
+   "Q1152744": "Prorostlík srpovitý (Bupleurum falcatum)",
+   "Q157393": "Pavlovnie plstnatá (Paulownia tomentosa)",
+   "Q159360": "Svízel nízký (Galium pumilum)",
+   "Q252331": "Bulvuška hlíznatá (Bunium bulbocastanum)",
+   "Q25284": "Petržel zahradní (Petroselinum crispum)",
+   "Q3299334": "Máčka obrovská (Eryngium giganteum)"
+  }
+ },
+ {
+  "id": "Q12718073#3",
+  "species": "Šabřina tatarská",
+  "latin": "Conioselinum tataricum",
+  "text": "Má uvnitř dutou lodyhu.",
+  "quote": "uvnitř dutá",
+  "claimed_false_for": {
+   "Q157393": "Pavlovnie plstnatá (Paulownia tomentosa)",
+   "Q2078310": "Meruzalka smutná (Ribes triste)"
+  }
+ },
+ {
+  "id": "Q129775#4",
+  "species": "Šalvěj přeslenitá",
+  "latin": "Salvia verticillata",
+  "text": "Květy opyluje blanokřídlý hmyz.",
+  "quote": "jsou opylovány blanokřídlým hmyzem",
+  "claimed_false_for": {
+   "Q164986": "Hvězdoš háčkatý (Callitriche hamulata)"
+  }
+ },
+ {
+  "id": "Q1362051#0",
+  "species": "Pleška stopkatá",
+  "latin": "Willemetia stipitata",
+  "text": "Kvete v červenci a srpnu.",
+  "quote": "Úbory rozkvétají v červenci a srpnu.",
+  "claimed_false_for": {
+   "Q157976": "Pelyněk brotan (Artemisia abrotanum)"
+  }
+ },
+ {
+  "id": "Q1362051#1",
+  "species": "Pleška stopkatá",
+  "latin": "Willemetia stipitata",
+  "text": "Pyl přenáší hmyz z jiných rostlin.",
+  "quote": "Rostliny jsou cizosprašné, jejich pyl přenáší hmyz.",
+  "claimed_false_for": {
+   "Q682164": "Ambrozie peřenolistá (Ambrosia artemisiifolia)"
+  }
+ },
+ {
+  "id": "Q1362051#2",
+  "species": "Pleška stopkatá",
+  "latin": "Willemetia stipitata",
+  "text": "Dorůstá do výšky 30 až 50 centimetrů.",
+  "quote": "vysokou 30 až 50 cm",
+  "claimed_false_for": {
+   "Q1076269": "Pazvonek chloupkatý (Codonopsis pilosula)",
+   "Q2838916": "Protěž nízká (Gnaphalium supinum)",
+   "Q80235": "Tamarind indický (Tamarindus indica)"
+  }
+ },
+ {
+  "id": "Q1362051#3",
+  "species": "Pleška stopkatá",
+  "latin": "Willemetia stipitata",
+  "text": "V Česku roste v nadmořských výškách 400 až 1200 metrů.",
+  "quote": "v Česku roste v nadmořských výškách 400 až 1200 m.",
+  "claimed_false_for": {
+   "Q2838916": "Protěž nízká (Gnaphalium supinum)"
+  }
+ },
+ {
+  "id": "Q1420828#1",
+  "species": "Dřín kanadský",
+  "latin": "Cornus canadensis",
+  "text": "Květy jsou drobné, asi 2 mm v průměru.",
+  "quote": "Květy jsou drobné, asi 2 mm v průměru.",
+  "claimed_false_for": {
+   "Q20792193": "Pustoryl Falconeriho (Philadelphus × falconeri)"
+  }
+ },
+ {
+  "id": "Q14530198#0",
+  "species": "Mýdelník čínský",
+  "latin": "Sapindus mukorossi",
+  "text": "Jeden strom dá ročně 30 až 35 kg plodů.",
+  "quote": "Jeden strom může vyprodukovat 30 až 35 kg plodů ročně.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q14530198#1",
+  "species": "Mýdelník čínský",
+  "latin": "Sapindus mukorossi",
+  "text": "Plody obsahují saponin, který má přirozené čistící vlastnosti.",
+  "quote": "Mýdlový ořech obsahuje sloučeninu saponin, která má přirozené čistící vlastnosti",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q145399#4",
+  "species": "Koniklec velkokvětý",
+  "latin": "Pulsatilla grandis",
+  "text": "Tento druh je vysoce jedovatý.",
+  "quote": "Koniklec je vysoce jedovatý",
+  "claimed_false_for": {
+   "Q34887": "Papája obecná (Carica papaya)"
+  }
+ },
+ {
+  "id": "Q145930#0",
+  "species": "Měsíček lékařský",
+  "latin": "Calendula officinalis",
+  "text": "Pochází z jihu Evropy a z Orientu.",
+  "quote": "původem z jihu Evropy a Orientu",
+  "claimed_false_for": {
+   "Q1319071": "Krásnoočko velkokvěté (Coreopsis grandiflora)",
+   "Q1894641": "Astřička novoanglická (Symphyotrichum novae-angliae)",
+   "Q21874197": "Turanka kanadská (Erigeron canadensis)",
+   "Q682164": "Ambrozie peřenolistá (Ambrosia artemisiifolia)",
+   "Q80235": "Tamarind indický (Tamarindus indica)"
+  }
+ },
+ {
+  "id": "Q145930#1",
+  "species": "Měsíček lékařský",
+  "latin": "Calendula officinalis",
+  "text": "Květní úbory jsou až 8 cm velké.",
+  "quote": "Úbory květů jsou až 8 cm",
+  "claimed_false_for": {
+   "Q157976": "Pelyněk brotan (Artemisia abrotanum)",
+   "Q2140433": "Turan ostrý (Erigeron acris)",
+   "Q21874197": "Turanka kanadská (Erigeron canadensis)",
+   "Q2838916": "Protěž nízká (Gnaphalium supinum)",
+   "Q682164": "Ambrozie peřenolistá (Ambrosia artemisiifolia)"
+  }
+ },
+ {
+  "id": "Q146149#0",
+  "species": "Buk lesní",
+  "latin": "Fagus sylvatica",
+  "text": "Kvete v dubnu a květnu.",
+  "quote": "Kvete v dubnu a květnu.",
+  "claimed_false_for": {
+   "Q157583": "Jetel horský (Trifolium montanum)"
+  }
+ },
+ {
+  "id": "Q146149#1",
+  "species": "Buk lesní",
+  "latin": "Fagus sylvatica",
+  "text": "Dožívá se 200 až 400 let.",
+  "quote": "Dožívá se 200-400 let.",
+  "claimed_false_for": {
+   "Q1510231": "Bříza černá (Betula nigra)",
+   "Q156807": "Vlaštovičník větší (Chelidonium majus)",
+   "Q157583": "Jetel horský (Trifolium montanum)",
+   "Q163949": "Bažanka roční (Mercurialis annua)"
+  }
+ },
+ {
+  "id": "Q146149#2",
+  "species": "Buk lesní",
+  "latin": "Fagus sylvatica",
+  "text": "Dřevo se snadno štípe a je hnědé až narůžovělé.",
+  "quote": "snadno štípatelné dřevo hnědé až narůžovělé barvy",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q146149#3",
+  "species": "Buk lesní",
+  "latin": "Fagus sylvatica",
+  "text": "Kmen má hladkou kůru bělošedé barvy.",
+  "quote": "pokrytý tenkou hladkou borkou bělošedé barvy",
+  "claimed_false_for": {
+   "Q1017264": "Dub cesmínolistý (Quercus ilicifolia)",
+   "Q1066116": "Dub srpovitý (Quercus falcata)",
+   "Q156807": "Vlaštovičník větší (Chelidonium majus)",
+   "Q157583": "Jetel horský (Trifolium montanum)",
+   "Q163949": "Bažanka roční (Mercurialis annua)",
+   "Q1711441": "Ořešák větší (Juglans major)",
+   "Q3565069": "Dub hálkový (Quercus infectoria)",
+   "Q899686": "Dub pyrenejský (Quercus pyrenaica)"
+  }
+ },
+ {
+  "id": "Q147834#2",
+  "species": "Čemeřice černá",
+  "latin": "Helleborus niger",
+  "text": "Tento druh je prudce jedovatý.",
+  "quote": "Čemeřice černá je prudce jedovatá",
+  "claimed_false_for": {
+   "Q34887": "Papája obecná (Carica papaya)"
+  }
+ },
+ {
+  "id": "Q149325#0",
+  "species": "Mák pochybný",
+  "latin": "Papaver dubium",
+  "text": "Kvete od června do srpna.",
+  "quote": "kvetoucí od června do srpna cihlově červenými květy",
+  "claimed_false_for": {
+   "Q15490947": "Koniklec jižní (Pulsatilla zimmermannii)",
+   "Q1743596": "Jabloň drobnoplodá (Malus baccata)"
+  }
+ },
+ {
+  "id": "Q149325#1",
+  "species": "Mák pochybný",
+  "latin": "Papaver dubium",
+  "text": "Dorůstá do výšky 50 až 100 centimetrů.",
+  "quote": "Má lodyhu vysokou 50 až 100 cm",
+  "claimed_false_for": {
+   "Q141953": "Microcitrus australisica (Microcitrus australasica)",
+   "Q15490947": "Koniklec jižní (Pulsatilla zimmermannii)",
+   "Q159770": "Zemědým Vaillantův (Fumaria vaillantii)",
+   "Q1743596": "Jabloň drobnoplodá (Malus baccata)",
+   "Q5131218": "Plamének latnatý (Clematis paniculata)"
+  }
+ },
+ {
+  "id": "Q149325#2",
+  "species": "Mák pochybný",
+  "latin": "Papaver dubium",
+  "text": "Květy opylovačům nabízejí jen pyl, ne nektar.",
+  "quote": "Květ lákající opylovače na výrazné okvětí nenabízí nektar, pouze pyl.",
+  "claimed_false_for": {
+   "Q111346": "Svlačec rolní (Convolvulus arvensis)",
+   "Q159770": "Zemědým Vaillantův (Fumaria vaillantii)"
+  }
+ },
+ {
+  "id": "Q149325#3",
+  "species": "Mák pochybný",
+  "latin": "Papaver dubium",
+  "text": "Semena roznáší vítr.",
+  "quote": "rozptylována větrem",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q15219694#0",
+  "species": "Ranunculus × polyanthemoides",
+  "latin": "Ranunculus polyanthemoides",
+  "text": "Většina autorů ho považuje za kříženec dvou jiných druhů.",
+  "quote": "Dnešními autory je většinou považován za křížence",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q15219694#1",
+  "species": "Ranunculus × polyanthemoides",
+  "latin": "Ranunculus polyanthemoides",
+  "text": "Vyskytuje se i v České republice.",
+  "quote": "Je udáván i z České republiky.",
+  "claimed_false_for": {
+   "Q141953": "Microcitrus australisica (Microcitrus australasica)",
+   "Q5131218": "Plamének latnatý (Clematis paniculata)"
+  }
+ },
+ {
+  "id": "Q15350096#0",
+  "species": "Marulka šantovitá",
+  "latin": "Clinopodium nepeta",
+  "text": "Může přilákat motýly.",
+  "quote": "a může přilákat motýly.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q15350096#1",
+  "species": "Marulka šantovitá",
+  "latin": "Clinopodium nepeta",
+  "text": "Kvete od července do září.",
+  "quote": "Kvete v červenci až září.",
+  "claimed_false_for": {
+   "Q21369716": "Kdoulovec nádherný (Chaenomeles ×superba)"
+  }
+ },
+ {
+  "id": "Q156251#0",
+  "species": "Kapara trnitá",
+  "latin": "Capparis spinosa",
+  "text": "Roste v celé oblasti Středozemního moře.",
+  "quote": "roste v celé oblasti Středozemního moře",
+  "claimed_false_for": {
+   "Q1251952": "Mokřadka Douglasova (Limnanthes douglasii)",
+   "Q160388": "Penízek horský (Noccaea montana)",
+   "Q234193": "Moringa olejodárná (Moringa oleifera)"
+  }
+ },
+ {
+  "id": "Q156251#1",
+  "species": "Kapara trnitá",
+  "latin": "Capparis spinosa",
+  "text": "Květy mají mnoho dlouhých fialových tyčinek.",
+  "quote": "velkým počtem nezvykle dlouhých fialových tyčinek",
+  "claimed_false_for": {
+   "Q159643": "Křez zední (Diplotaxis muralis)",
+   "Q159769": "Hulevník Loeselův (Sisymbrium loeselii)",
+   "Q160388": "Penízek horský (Noccaea montana)",
+   "Q162271": "Brukev prodloužená (Brassica elongata)",
+   "Q1753488": "Rukev obecná (Rorippa sylvestris)"
+  }
+ },
+ {
+  "id": "Q158018#0",
+  "species": "Rudodřev koka",
+  "latin": "Erythroxylum coca",
+  "text": "Roste ve vlhkých pralesích v Andách, od 300 do 2000 metrů nad mořem.",
+  "quote": "pochází pravděpodobně z vlhkých pralesů na východních svazích bolivijských a peruánských And, roste od 300 m nad mořem až do výše cca 2000 m nad mořem",
+  "claimed_false_for": {
+   "Q148552": "Pryšec chvojka (Euphorbia cyparissias)",
+   "Q157540": "Vrba popelavá (Salix cinerea)",
+   "Q159122": "Vrba černající (Salix myrsinifolia)",
+   "Q162496": "Vrbina hajní (Lysimachia nemorum)",
+   "Q164975": "Vrba uťatá (Salix retusa)",
+   "Q341680": "Violka rolní (Viola arvensis)"
+  }
+ },
+ {
+  "id": "Q158018#1",
+  "species": "Rudodřev koka",
+  "latin": "Erythroxylum coca",
+  "text": "Má červené plody, dlouhé asi jeden centimetr.",
+  "quote": "Plod je podlouhle vejčitá, asi 0,7–1 cm dlouhá jednosemenná peckovice, mající červené zabarvení",
+  "claimed_false_for": {
+   "Q11006": "Sója luštinatá (Glycine max)",
+   "Q148552": "Pryšec chvojka (Euphorbia cyparissias)",
+   "Q157540": "Vrba popelavá (Salix cinerea)",
+   "Q159122": "Vrba černající (Salix myrsinifolia)",
+   "Q162496": "Vrbina hajní (Lysimachia nemorum)",
+   "Q164975": "Vrba uťatá (Salix retusa)",
+   "Q1661351": "Lobelka nadmutá (Lobelia inflata)",
+   "Q17246150": "Žebrolístek žebříčkový (Chamaebatiaria millefolium)",
+   "Q19391707": "Vrba náhrobní (Salix ×sepulcralis)",
+   "Q311471": "Kalaba obvejčitá (Calophyllum inophyllum)",
+   "Q341680": "Violka rolní (Viola arvensis)",
+   "Q45108": "Len setý (Linum usitatissimum)"
+  }
+ },
+ {
+  "id": "Q159006#0",
+  "species": "Bublinatka prostřední",
+  "latin": "Utricularia intermedia",
+  "text": "Kvete od června do srpna.",
+  "quote": "Rozkvétá od června do srpna",
+  "claimed_false_for": {}
+ }
+]

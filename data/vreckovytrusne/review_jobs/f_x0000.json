@@ -1,0 +1,22 @@
+[
+ {
+  "id": "Q2118699#4",
+  "species": "Housenice červená",
+  "latin": "Cordyceps militaris",
+  "text": "Obsahuje kordycepin, látku s biologickými účinky zkoumanými v pokusech.",
+  "quote": "houba obsahuje především polysacharidy, karotenoidy a nukleosidy – adenosin, kordycepin",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q217227#4",
+  "species": "Paličkovice nachová",
+  "latin": "Claviceps purpurea",
+  "text": "Tento druh je jedovatý.",
+  "quote": "je jedovatá vřeckovýtrusná houba",
+  "claimed_false_for": {
+   "Q1010057": "Korová nekróza kaštanovníku (Cryphonectria parasitica)",
+   "Q205117": "Nektriové usychání větví (Nectria cinnabarina)",
+   "Q2315947": "Padlí jabloňové (Podosphaera leucotricha)"
+  }
+ }
+]

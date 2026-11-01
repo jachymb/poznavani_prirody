@@ -1,0 +1,459 @@
+[
+ {
+  "id": "Q129018#6",
+  "species": "Trnka obecná",
+  "latin": "Prunus spinosa",
+  "text": "Mnozí ptáci vyhledávají tento druh pro hnízdění.",
+  "quote": "Mnozí ptáci ji vyhledávají pro hnízdění.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q129775#4",
+  "species": "Šalvěj přeslenitá",
+  "latin": "Salvia verticillata",
+  "text": "Květy opyluje blanokřídlý hmyz.",
+  "quote": "jsou opylovány blanokřídlým hmyzem",
+  "claimed_false_for": {
+   "Q158130": "Stolístek klasnatý (Myriophyllum spicatum)"
+  }
+ },
+ {
+  "id": "Q129775#5",
+  "species": "Šalvěj přeslenitá",
+  "latin": "Salvia verticillata",
+  "text": "Záraza bílá občas parazituje na tomto druhu.",
+  "quote": "Občas se stává nechtěným objektem cizopasné zárazy bílé",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q130224#4",
+  "species": "Mochna plazivá",
+  "latin": "Potentilla reptans",
+  "text": "Zvířata také roznášejí jeho semena.",
+  "quote": "Semena jsou rozšiřována i zvířaty",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1302761#2",
+  "species": "Mateřídouškovec vonný",
+  "latin": "Thymbra capitata",
+  "text": "Včely na jeho květech sbírají nektar.",
+  "quote": "Je také významnou medonosnou rostlinou vzhledem k produkci nektaru",
+  "claimed_false_for": {
+   "Q158996": "Hvězdoš jarní (Callitriche palustris)",
+   "Q26297": "Šťovík kyselý (Rumex acetosa)",
+   "Q26726": "Konopí seté (Cannabis sativa)"
+  }
+ },
+ {
+  "id": "Q131517#0",
+  "species": "Višeň obecná",
+  "latin": "Prunus cerasus",
+  "text": "Dorůstá do výšky okolo 10 metrů.",
+  "quote": "Višeň obecná dorůstá výšky okolo 10 m.",
+  "claimed_false_for": {
+   "Q1415682": "Růže plstnatá (Rosa tomentosa)",
+   "Q1425243": "Vrba bobkolistá (Salix phylicifolia)",
+   "Q146186": "Mišpule obecná (Mespilus germanica)",
+   "Q149743": "Slivoň žláznatá (Prunus glandulosa)",
+   "Q158037": "Kdoulovec japonský (Chaenomeles japonica)",
+   "Q158359": "Růže bedrníkolistá (Rosa spinosissima)",
+   "Q158858": "Lobelka modrá (Lobelia erinus)",
+   "Q159327": "Makleja srdčitá (Macleaya cordata)",
+   "Q478530": "Růže bílá (Rosa × alba)",
+   "Q90595797": "Šalvěj Yangova (Salvia yangii)"
+  }
+ },
+ {
+  "id": "Q131517#1",
+  "species": "Višeň obecná",
+  "latin": "Prunus cerasus",
+  "text": "Bílé květy rostou ve svazcích.",
+  "quote": "Bílé květy rostou ve svazcích.",
+  "claimed_false_for": {
+   "Q147843": "Vrbina obecná (Lysimachia vulgaris)",
+   "Q159903": "Mochna sedmilistá (Potentilla heptaphylla)",
+   "Q161717": "Rdesno červivec (Persicaria maculosa)",
+   "Q3410988": "Puršovka trojzubá (Purshia tridentata)"
+  }
+ },
+ {
+  "id": "Q131517#2",
+  "species": "Višeň obecná",
+  "latin": "Prunus cerasus",
+  "text": "Kvete začátkem května.",
+  "quote": "Kvete začátkem května.",
+  "claimed_false_for": {
+   "Q145631": "Růže arkansaská (Rosa arkansana)",
+   "Q147492": "Jilm vaz (Ulmus laevis)",
+   "Q148663": "Jahodník trávnice (Fragaria viridis)",
+   "Q158150": "Pámelník bílý (Symphoricarpos albus)",
+   "Q158929": "Růže sivá (Rosa glauca)",
+   "Q159570": "Pajasan žláznatý (Ailanthus altissima)"
+  }
+ },
+ {
+  "id": "Q131517#3",
+  "species": "Višeň obecná",
+  "latin": "Prunus cerasus",
+  "text": "Dřevo se zpracovává v nábytkářském průmyslu.",
+  "quote": "Višňové dřevo se zpracovává v nábytkářském průmyslu.",
+  "claimed_false_for": {
+   "Q1033449": "Ostružiník ježiník (Rubus caesius)",
+   "Q13158": "Jahodník velkoplodý (Fragaria × ananassa)",
+   "Q1548650": "Kozí brada pochybná (Tragopogon dubius)",
+   "Q157347": "Krvavec toten (Sanguisorba officinalis)",
+   "Q158201": "Tavolník japonský (Spiraea japonica)",
+   "Q159191": "Laskavec krvavý (Amaranthus cruentus)",
+   "Q160092": "Ostružiník moruška (Rubus chamaemorus)",
+   "Q164553": "Plamenka latnatá (Phlox paniculata)",
+   "Q4356004": "Ostružiník dřípený (Rubus laciniatus)",
+   "Q882650": "Locika vytrvalá (Lactuca perennis)"
+  }
+ },
+ {
+  "id": "Q13158#8",
+  "species": "Jahodník velkoplodý",
+  "latin": "Fragaria × ananassa",
+  "text": "Včely a čmeláci pomáhají opylovat jeho květy.",
+  "quote": "Včely a čmeláci ovšem přispívají",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q13158#9",
+  "species": "Jahodník velkoplodý",
+  "latin": "Fragaria × ananassa",
+  "text": "Plži vyžírají do jeho plodů hluboké otvory.",
+  "quote": "vyžírají do jahod hluboké otvory",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q13158#10",
+  "species": "Jahodník velkoplodý",
+  "latin": "Fragaria × ananassa",
+  "text": "Larvy brouků ožírají jeho kořeny.",
+  "quote": "larvy ožírají kořeny",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q13188#0",
+  "species": "Marhaník granátový",
+  "latin": "Punica granatum",
+  "text": "Pochází původně z malého ostrova Sokotra u pobřeží Somálska.",
+  "quote": "pochází původně z malého ostrova Sokotra u pobřeží Somálska",
+  "claimed_false_for": {
+   "Q11643111": "Hřebíčkovec jávský (Syzygium samarangense)",
+   "Q12341330": "Čilimník časný (Cytisus × praecox)",
+   "Q13268229": "Zapalice žluťuchovitá (Isopyrum thalictroides)",
+   "Q1520028": "Balmín metlatý (Leptospermum scoparium)",
+   "Q1549096": "Halucha vodní (Oenanthe aquatica)",
+   "Q157513": "Kyprej vrbice (Lythrum salicaria)",
+   "Q159094": "Vrbovka malokvětá (Epilobium parviflorum)",
+   "Q159468": "Vrbovka drchničkolistá (Epilobium anagallidifolium)",
+   "Q159659": "Vrbovka rozmarýnolistá (Epilobium dodonaei)",
+   "Q161180": "Tykev velkoplodá (Cucurbita maxima)",
+   "Q162540": "Vrbovka ptačincolistá (Epilobium alsinifolium)",
+   "Q3374608": "Pemfis (Pemphis acidula)"
+  }
+ },
+ {
+  "id": "Q13188#1",
+  "species": "Marhaník granátový",
+  "latin": "Punica granatum",
+  "text": "Ke klíčení potřebují semena teplotu 20 až 25 stupňů.",
+  "quote": "Ke klíčení potřebují semena teplotu 20 až 25 stupňů",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q13189#8",
+  "species": "Broskvoň obecná",
+  "latin": "Prunus persica",
+  "text": "Červci a puklice mohou tento druh napadat.",
+  "quote": "Další broskvoně mohou být napadeny červci a puklicemi",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q13189#9",
+  "species": "Broskvoň obecná",
+  "latin": "Prunus persica",
+  "text": "Houba způsobuje kadeřavost mladých listů tohoto druhu.",
+  "quote": "Tato choroba je způsobena houbou Taphrina deformans.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1319071#2",
+  "species": "Krásnoočko velkokvěté",
+  "latin": "Coreopsis grandiflora",
+  "text": "Jeho květy rádi spásají býložravci, od zajíců po skot.",
+  "quote": "Květiny jsou s oblibou spásány býložravými zvířaty, od zajíců přes srnčí po skot.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1319071#3",
+  "species": "Krásnoočko velkokvěté",
+  "latin": "Coreopsis grandiflora",
+  "text": "Jeho květy opyluje hmyz.",
+  "quote": "Květy jsou hmyzosnubné.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1321268#0",
+  "species": "Kalina modroplodá",
+  "latin": "Viburnum tinus",
+  "text": "Tento druh je rozšířen téměř v celém Středomoří.",
+  "quote": "Je rozšířen téměř v celém Středomoří.",
+  "claimed_false_for": {
+   "Q1805242": "Křižmolístka čnělkatá (Phuopsis stylosa)",
+   "Q180606": "Kalina vrásčitolistá (Viburnum rhytidophyllum)",
+   "Q252391": "Leycesterie krásná (Leycesteria formosa)",
+   "Q3492271": "Kalina Sieboldova (Viburnum sieboldii)",
+   "Q4115036": "Kalina zubatá (Viburnum dentatum)"
+  }
+ },
+ {
+  "id": "Q1321268#1",
+  "species": "Kalina modroplodá",
+  "latin": "Viburnum tinus",
+  "text": "Dobře snáší řez, proto se používá do živých plotů.",
+  "quote": "Protože dobře snáší řez, je používána do živých plotů.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1323731#4",
+  "species": "Vlasokvět okurkový",
+  "latin": "Trichosanthes cucumerina",
+  "text": "Opylují i mravenci a jiný hmyz.",
+  "quote": "Opylení zajišťují včely, vosy, motýli i můry, mravenci a jiný hmyz přilétající pro pyl a nektar",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q132677#0",
+  "species": "Iboga",
+  "latin": "Tabernanthe iboga",
+  "text": "Žerou gorily, prasata a dikobrazi.",
+  "quote": "Pro své účinky je iboga požívána i gorilami, prasaty a dikobrazy.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q132677#1",
+  "species": "Iboga",
+  "latin": "Tabernanthe iboga",
+  "text": "Květy rostou ve skupinách po pěti až dvanácti.",
+  "quote": "Květy jsou růžové či růžovobílé a rostou ve skupinách po pěti až dvanácti.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q132677#2",
+  "species": "Iboga",
+  "latin": "Tabernanthe iboga",
+  "text": "Plodí oranžové bobule.",
+  "quote": "Plodí oranžově zbarvené, zašpičatělé, oválné bobule s rozbrázděným endospermem.",
+  "claimed_false_for": {
+   "Q156854": "Svízel syřišťový (Galium verum)",
+   "Q158992": "Klokoč zpeřený (Staphylea pinnata)",
+   "Q159257": "Hořeček nahořklý (Gentianella amarella)",
+   "Q159422": "Mařinka barvířská (Asperula tinctoria)",
+   "Q159744": "Svízel povázka (Galium mollugo)",
+   "Q159912": "Zeměžluč přímořská (Centaurium littorale)",
+   "Q159969": "Hořec Clusiův (Gentiana clusii)",
+   "Q165424": "Střemcha obecná (Prunus padus)",
+   "Q3061088": "Jícnovka velkokvětá (Eustoma russellianum)",
+   "Q638145": "Slézovka trojklaná (Malope trifida)"
+  }
+ },
+ {
+  "id": "Q132677#3",
+  "species": "Iboga",
+  "latin": "Tabernanthe iboga",
+  "text": "Tento druh je keř vysoký jeden až dva metry.",
+  "quote": "Iboga je jeden až dva metry vysoký keř.",
+  "claimed_false_for": {
+   "Q1405636": "Fíkovník banyán (Ficus benghalensis)",
+   "Q156854": "Svízel syřišťový (Galium verum)",
+   "Q158992": "Klokoč zpeřený (Staphylea pinnata)",
+   "Q159257": "Hořeček nahořklý (Gentianella amarella)",
+   "Q159422": "Mařinka barvířská (Asperula tinctoria)",
+   "Q159744": "Svízel povázka (Galium mollugo)",
+   "Q159912": "Zeměžluč přímořská (Centaurium littorale)",
+   "Q159969": "Hořec Clusiův (Gentiana clusii)",
+   "Q3061088": "Jícnovka velkokvětá (Eustoma russellianum)",
+   "Q638145": "Slézovka trojklaná (Malope trifida)"
+  }
+ },
+ {
+  "id": "Q132677#4",
+  "species": "Iboga",
+  "latin": "Tabernanthe iboga",
+  "text": "Roste v deštných pralesích západní Afriky.",
+  "quote": "Iboga roste v deštných pralesích západní Afriky",
+  "claimed_false_for": {
+   "Q1145301": "Zmijovnice hadová (Rauvolfia serpentina)",
+   "Q1479326": "Kokotice povázka (Cuscuta epithymum)",
+   "Q155833": "Oleandr obecný (Nerium oleander)",
+   "Q157331": "Tolita lékařská (Vincetoxicum hirundinaria)",
+   "Q159772": "Svízel lesní (Galium sylvaticum)",
+   "Q160745": "Hořec panonský (Gentiana pannonica)",
+   "Q161093": "Barvínkovec růžový (Catharanthus roseus)",
+   "Q162853": "Hořec tolitovitý (Gentiana asclepiadea)",
+   "Q163785": "Hořec bezlodyžný (Gentiana acaulis)",
+   "Q6585129": "Zlateň věncová (Glebionis coronaria)",
+   "Q805037": "Kakost oddenkatý (Geranium macrorrhizum)",
+   "Q92472362": "Rebutia pygmaea (Aylostera pygmaea)"
+  }
+ },
+ {
+  "id": "Q1327535#4",
+  "species": "Rozchodníkovec nachový",
+  "latin": "Hylotelephium telephium",
+  "text": "Housenky motýla jasoně červenookého žerou jeho listy.",
+  "quote": "je žírnou rostlinou housenek motýla jasoně červenookého",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1327535#5",
+  "species": "Rozchodníkovec nachový",
+  "latin": "Hylotelephium telephium",
+  "text": "Na podzim ho hojně navštěvují včely i jiný hmyz.",
+  "quote": "Protože kvete i na podzim, je hojně navštěvován včelami i jiným hmyzem",
+  "claimed_false_for": {
+   "Q146066": "Růže šípková (Rosa canina)",
+   "Q1537045": "Darmera štítnatá (Darmera peltata)",
+   "Q159301": "Mokrýš vstřícnolistý (Chrysosplenium oppositifolium)",
+   "Q159699": "Mokrýš střídavolistý (Chrysosplenium alternifolium)",
+   "Q162752": "Bergenie tučnolistá (Bergenia crassifolia)",
+   "Q17243721": "Huseník chudokvětý (Fourraea alpina)",
+   "Q4425210": "Meruzalka jezerní (Ribes lacustre)",
+   "Q951931": "Hruštička zelenokvětá (Pyrola chlorantha)"
+  }
+ },
+ {
+  "id": "Q1328685#0",
+  "species": "Cesmína vroubkovaná",
+  "latin": "Ilex crenata",
+  "text": "Roste v horských lesích v nadmořské výšce 700 až 2100 metrů.",
+  "quote": "Roste v horských lesích v nadmořské výšce 700 až 2100 m.",
+  "claimed_false_for": {
+   "Q157976": "Pelyněk brotan (Artemisia abrotanum)",
+   "Q1927560": "Špirlice nachová (Sarracenia purpurea)"
+  }
+ },
+ {
+  "id": "Q1328685#1",
+  "species": "Cesmína vroubkovaná",
+  "latin": "Ilex crenata",
+  "text": "Kvete v květnu až červnu.",
+  "quote": "Kvete v květnu až červnu.",
+  "claimed_false_for": {
+   "Q157976": "Pelyněk brotan (Artemisia abrotanum)"
+  }
+ },
+ {
+  "id": "Q1329209#1",
+  "species": "Vistárie květnatá",
+  "latin": "Wisteria floribunda",
+  "text": "Tento druh je velmi bujně rostoucí liána.",
+  "quote": "je velmi agresivní, bujně rostoucí liána",
+  "claimed_false_for": {
+   "Q158153": "Jetel jahodnatý (Trifolium fragiferum)",
+   "Q158908": "Čičorka pestrá (Securigera varia)",
+   "Q159511": "Kuklík horský (Geum montanum)",
+   "Q162777": "Kručinka barvířská (Genista tinctoria)",
+   "Q162826": "Kolenec rolní (Spergula arvensis)",
+   "Q162849": "Zarděnice hřebenitá (Erythrina crista-galli)",
+   "Q165213": "Indigovník pravý (Indigofera tinctoria)",
+   "Q17271654": "Jeřáb labský (Sorbus albensis)",
+   "Q22701": "Bez černý (Sambucus nigra)",
+   "Q757123": "Akácie sivozelená (Acacia dealbata)"
+  }
+ },
+ {
+  "id": "Q1330506#0",
+  "species": "Zvonek tečkovaný",
+  "latin": "Campanula punctata",
+  "text": "Kvete od června do srpna.",
+  "quote": "Kvete od června do srpna.",
+  "claimed_false_for": {
+   "Q261340": "Kanarína kanárská (Canarina canariensis)"
+  }
+ },
+ {
+  "id": "Q133477#4",
+  "species": "Morač větší",
+  "latin": "Ammi majus",
+  "text": "Může uškodit zvířatům, která spasou mladé rostliny.",
+  "quote": "Obsažené látky mohou také uškodit zvířatům při spasení mladých rostlin",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q133616#0",
+  "species": "Lomikámen nicí",
+  "latin": "Saxifraga cernua",
+  "text": "Dorůstá obvykle 10 až 20 cm.",
+  "quote": "Obvykle dorůstá 10 až 20 cm",
+  "claimed_false_for": {
+   "Q1079241": "Josta (Ribes ×nidigrolaria)",
+   "Q1327535": "Rozchodníkovec nachový (Hylotelephium telephium)",
+   "Q146661": "Rybíz červený (Ribes rubrum)",
+   "Q149372": "Meruzalka krvavá (Ribes sanguineum)",
+   "Q159331": "Brslen Fortuneův (Euonymus fortunei)",
+   "Q17777412": "Meruzalka sněžná (Ribes niveum)",
+   "Q2078310": "Meruzalka smutná (Ribes triste)"
+  }
+ },
+ {
+  "id": "Q133616#1",
+  "species": "Lomikámen nicí",
+  "latin": "Saxifraga cernua",
+  "text": "Rozmnožuje se pomocí hnědočervených pacibulek.",
+  "quote": "vyrůstají hnědočervené pacibulky, pomocí kterých se rostlina vegetativně rozmnožuje.",
+  "claimed_false_for": {
+   "Q146066": "Růže šípková (Rosa canina)",
+   "Q156921": "Chrpa modrá (Centaurea cyanus)",
+   "Q159738": "Pivoňka lékařská (Paeonia officinalis)",
+   "Q913129": "Vilín virginský (Hamamelis virginiana)"
+  }
+ },
+ {
+  "id": "Q1337058#6",
+  "species": "Akácie zkroucená",
+  "latin": "Acacia tortilis",
+  "text": "Mnoho zvířat žere jeho lusky, například opice, sloni a žirafy.",
+  "quote": "Mnoho býložravých zvířat je ihned po opadu požírá, hlavně opice, sloni, antilopy, žirafy, velbloudi, kozy a další.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1337058#7",
+  "species": "Akácie zkroucená",
+  "latin": "Acacia tortilis",
+  "text": "Listy jsou oblíbeným krmivem domácích i volně žijících zvířat.",
+  "quote": "Stejně tak jsou čerstvé i suché listy oblíbeným krmivem domácích i",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1337058#8",
+  "species": "Akácie zkroucená",
+  "latin": "Acacia tortilis",
+  "text": "Termiti rádi žerou jeho dřevo po skácení.",
+  "quote": "často je po skácení napadáno hnilobnými houbami i hmyzem, je oblíbeno u termitů",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q133867#0",
+  "species": "Lomikámen zrnatý",
+  "latin": "Saxifraga granulata",
+  "text": "Pasoucí se dobytek tuto rostlinu nespásá.",
+  "quote": "Pasoucí se dobytek tuto rostlinu nespásá.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q133867#1",
+  "species": "Lomikámen zrnatý",
+  "latin": "Saxifraga granulata",
+  "text": "Kvete od května do července.",
+  "quote": "Kvete od května do července.",
+  "claimed_false_for": {
+   "Q10912510": "Dvoukvětec zmarlikolistý (Disanthus cercidifolius)",
+   "Q913129": "Vilín virginský (Hamamelis virginiana)"
+  }
+ }
+]

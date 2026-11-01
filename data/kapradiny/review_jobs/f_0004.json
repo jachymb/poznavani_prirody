@@ -1,0 +1,86 @@
+[
+ {
+  "id": "Q718312#1",
+  "species": "Onoklea citlivá",
+  "latin": "Onoclea sensibilis",
+  "text": "Množí se výtrusy nebo dělením oddenků.",
+  "quote": "Množí se generativně výtrusy nebo vegetativně dělením oddenků.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q847497#0",
+  "species": "Hadilka obecná",
+  "latin": "Ophioglossum vulgatum",
+  "text": "Výtrusy jsou zralé od června do srpna.",
+  "quote": "Výtrusy jsou zralé od června do srpna.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q847497#1",
+  "species": "Hadilka obecná",
+  "latin": "Ophioglossum vulgatum",
+  "text": "Roste ve světlých lesích, na vlhkých loukách a pastvinách.",
+  "quote": "Výskyt ve světlých lesích, na vlhkých až mokrých loukách a pastvinách, výjimečně v rákosinách.",
+  "claimed_false_for": {
+   "Q1552374": "Sleziník zelený (Asplenium viride)",
+   "Q1684201": "Hnědovka křídlatá (Microsorum pteropus)",
+   "Q2000383": "Vláskatec tajemný (Trichomanes speciosum)",
+   "Q2233063": "Kapradinka skalní (Woodsia ilvensis)",
+   "Q4678994": "Netík Venušin vlas (Adiantum capillus-veneris)",
+   "Q661822": "Kapradinka alpínská (Woodsia alpina)"
+  }
+ },
+ {
+  "id": "Q901435#0",
+  "species": "Sleziník nepravý",
+  "latin": "Asplenium adulterinum",
+  "text": "Dosahuje výšky 10 až 20 cm.",
+  "quote": "dosahující výšky 10 až 20 cm",
+  "claimed_false_for": {
+   "Q1130386": "Pérovník pštrosí (Matteuccia struthiopteris)",
+   "Q1345500": "Papratka samičí (Athyrium filix-femina)",
+   "Q1637866": "Kapraď hřebenitá (Dryopteris cristata)",
+   "Q213548": "Hasivka orličí (Pteridium aquilinum)",
+   "Q263881": "Přeslička zimní (Equisetum hyemale)",
+   "Q2678657": "Pérnatec horský (Oreopteris limbosperma)",
+   "Q733398": "Podezřeň královská (Osmunda regalis)",
+   "Q905897": "Kapraď rozložená (Dryopteris dilatata)"
+  }
+ },
+ {
+  "id": "Q901435#1",
+  "species": "Sleziník nepravý",
+  "latin": "Asplenium adulterinum",
+  "text": "Vyhledává holé skály nebo polozastíněné štěrbiny.",
+  "quote": "Pro růst vyhledává holé skály nebo polozastíněné štěrbiny",
+  "claimed_false_for": {
+   "Q2247460": "Vratička heřmánkolistá (Botrychium matricariifolium)",
+   "Q2705087": "Azola americká (Azolla filiculoides)",
+   "Q948839": "Přeslička poříční (Equisetum fluviatile)"
+  }
+ },
+ {
+  "id": "Q948839#0",
+  "species": "Přeslička poříční",
+  "latin": "Equisetum fluviatile",
+  "text": "Roste přímo z vody nebo ve velmi vlhkém prostředí.",
+  "quote": "rostoucí přímo z vody nebo ve velmi vlhkém prostředí",
+  "claimed_false_for": {
+   "Q1197925": "Prutovka nahá (Psilotum nudum)",
+   "Q1546744": "Osladič přehlížený (Polypodium interjectum)",
+   "Q1574713": "Jinořadec kadeřavý (Cryptogramma crispa)",
+   "Q256971": "Přeslička větevnatá (Equisetum ramosissimum)",
+   "Q901435": "Sleziník nepravý (Asplenium adulterinum)"
+  }
+ },
+ {
+  "id": "Q948839#1",
+  "species": "Přeslička poříční",
+  "latin": "Equisetum fluviatile",
+  "text": "Bývá vysoká 30 až 150 cm.",
+  "quote": "vysoká nejčastěji 30-150 cm",
+  "claimed_false_for": {
+   "Q901435": "Sleziník nepravý (Asplenium adulterinum)"
+  }
+ }
+]

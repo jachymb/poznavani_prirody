@@ -1,0 +1,109 @@
+[
+ {
+  "id": "Q1138172#0",
+  "species": "Plavuň pučivá",
+  "latin": "Lycopodium annotinum",
+  "text": "Roste hlavně v jehličnatých lesích.",
+  "quote": "roste v jehličnatých, vzácněji v listnatých horských a podhorských lesích s kyselým podkladem",
+  "claimed_false_for": {
+   "Q899476": "Plavuňka zaplavovaná (Lycopodiella inundata)"
+  }
+ },
+ {
+  "id": "Q1192790#1",
+  "species": "Šídlatka jezerní",
+  "latin": "Isoëtes lacustris",
+  "text": "Tento druh je citlivý na čistotu vody.",
+  "quote": "Je citlivá na čistotu vody.",
+  "claimed_false_for": {
+   "Q1138172": "Plavuň pučivá (Lycopodium annotinum)",
+   "Q1142154": "Vranec jedlový (Huperzia selago)",
+   "Q1245997": "Vraneček brvitý (Selaginella selaginoides)",
+   "Q245842": "Plavuník cypřiškovitý (Diphasiastrum tristachyum)",
+   "Q2715589": "Plavuník alpínský (Diphasiastrum alpinum)",
+   "Q466426": "Plavuň vidlačka (Lycopodium clavatum)",
+   "Q787930": "Plavuník zploštělý (Diphasiastrum complanatum)",
+   "Q9372557": "Plavuník Zeillerův (Diphasiastrum zeilleri)"
+  }
+ },
+ {
+  "id": "Q1245997#0",
+  "species": "Vraneček brvitý",
+  "latin": "Selaginella selaginoides",
+  "text": "Lodyhy jsou vysoké asi 5 centimetrů.",
+  "quote": "které jsou cca 5 cm vysoké",
+  "claimed_false_for": {
+   "Q1138172": "Plavuň pučivá (Lycopodium annotinum)",
+   "Q2715589": "Plavuník alpínský (Diphasiastrum alpinum)"
+  }
+ },
+ {
+  "id": "Q1245997#1",
+  "species": "Vraneček brvitý",
+  "latin": "Selaginella selaginoides",
+  "text": "Nejčastěji roste v podhorských a horských oblastech.",
+  "quote": "Vyskytuje se na vlhkých místech (skály, pastviny) s neutrální až alkalickou půdou, nejčastěji v podhorských a horských oblastech.",
+  "claimed_false_for": {
+   "Q7447419": "Vraneček Kraussův (Selaginella kraussiana)",
+   "Q899476": "Plavuňka zaplavovaná (Lycopodiella inundata)"
+  }
+ },
+ {
+  "id": "Q2715589#0",
+  "species": "Plavuník alpínský",
+  "latin": "Diphasiastrum alpinum",
+  "text": "Má plazivé stonky dlouhé až 50 cm.",
+  "quote": "Plavuník alpínský má plazivé lodyhy, které mohou dosáhnout délky až 50 cm.",
+  "claimed_false_for": {
+   "Q1142154": "Vranec jedlový (Huperzia selago)",
+   "Q1192790": "Šídlatka jezerní (Isoëtes lacustris)",
+   "Q1245997": "Vraneček brvitý (Selaginella selaginoides)",
+   "Q2529160": "Šídlatka ostnovýtrusá (Isoëtes echinospora)",
+   "Q899476": "Plavuňka zaplavovaná (Lycopodiella inundata)"
+  }
+ },
+ {
+  "id": "Q466426#1",
+  "species": "Plavuň vidlačka",
+  "latin": "Lycopodium clavatum",
+  "text": "Tento druh se hojně množí i plazivými lodyhami.",
+  "quote": "hojně množí i vegetativně plazivými lodyhami",
+  "claimed_false_for": {
+   "Q1142154": "Vranec jedlový (Huperzia selago)",
+   "Q1192790": "Šídlatka jezerní (Isoëtes lacustris)",
+   "Q2529160": "Šídlatka ostnovýtrusá (Isoëtes echinospora)"
+  }
+ },
+ {
+  "id": "Q7447419#1",
+  "species": "Vraneček Kraussův",
+  "latin": "Selaginella kraussiana",
+  "text": "Kromě výtrusů se šíří i zakořeňujícími stonky.",
+  "quote": "Kromě výtrusů se šíří i zakořeňujícími stonky.",
+  "claimed_false_for": {
+   "Q1142154": "Vranec jedlový (Huperzia selago)",
+   "Q1192790": "Šídlatka jezerní (Isoëtes lacustris)",
+   "Q2529160": "Šídlatka ostnovýtrusá (Isoëtes echinospora)"
+  }
+ },
+ {
+  "id": "Q787930#0",
+  "species": "Plavuník zploštělý",
+  "latin": "Diphasiastrum complanatum",
+  "text": "Roste většinou na kyselých půdách.",
+  "quote": "Roste většinou na kyselých půdách",
+  "claimed_false_for": {
+   "Q1245997": "Vraneček brvitý (Selaginella selaginoides)"
+  }
+ },
+ {
+  "id": "Q9372557#0",
+  "species": "Plavuník Zeillerův",
+  "latin": "Diphasiastrum zeilleri",
+  "text": "Tento druh se vyskytuje ve světlých borových lesích a na pastvinách.",
+  "quote": "Tento druh se vyskytuje ve světlých borových lesích a pastvinách na kyselém substrátu.",
+  "claimed_false_for": {
+   "Q899476": "Plavuňka zaplavovaná (Lycopodiella inundata)"
+  }
+ }
+]

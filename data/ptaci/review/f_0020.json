@@ -1,0 +1,43 @@
+{
+ "drop_facts": [
+  {"id": "Q188877#1", "why": "vynechává podmínku: v zimě jí hlavně semena a bukvice, hmyz jen mimo zimu"},
+  {"id": "Q18987#0", "why": "přidává „až“, citace uvádí 64 cm bez horní meze"},
+  {"id": "Q18987#5", "why": "nepravděpodobná a sporná délka života 20–30 let jako běžná hodnota"},
+  {"id": "Q190083#3", "why": "zobecňuje na druh, houká samec; vynechává také „až“ u dosahu"},
+  {"id": "Q19055#0", "why": "„sněhově bílý“ nepřímo prozrazuje název bělokur běloocasý"},
+  {"id": "Q19055#2", "why": "zavádějící: v zimě jí hlavně pupeny a větvičky vrb, semena nejsou hlavní potrava; vynechává i „upřednostňují“"},
+  {"id": "Q19058#1", "why": "zobecňuje na druh, bubnují kohouti"},
+  {"id": "Q19058#3", "why": "krkolomné „Tento druh má kuřata, která…“"},
+  {"id": "Q19068#1", "why": "zobecňuje na druh, tančí jen samci"},
+  {"id": "Q191096#3", "why": "krkolomné a nesrozumitelné „až tam, kde les končí“, posouvá význam citace"},
+  {"id": "Q191125#0", "why": "sporné: měření ukazují lety obvykle pod 6000 m, rekord kolem 7300 m, ne každoročně přes 8000 m"},
+  {"id": "Q191386#0", "why": "„žlutý zobák“ prozrazuje název kavče žlutozobé"},
+  {"id": "Q191683#0", "why": "přidává hodnotící „jen“, které v citaci není"},
+  {"id": "Q191723#1", "why": "přidává „jen“ k sekundám, v citaci se „jen“ týká hloubky"},
+  {"id": "Q191968#1", "why": "přítomný čas „letí“ u vyhynulého druhu, nejistý odhad, „na tahu“ prozrazuje název holub stěhovavý"}
+ ],
+ "drop_pairs": [
+  {"id": "Q188877#0", "species": "Q185784"},
+  {"id": "Q188877#0", "species": "Q191096"},
+  {"id": "Q188877#0", "species": "Q25440"},
+  {"id": "Q188877#0", "species": "Q26198"},
+  {"id": "Q188877#0", "species": "Q26205"},
+  {"id": "Q18987#3", "species": "Q1066503"},
+  {"id": "Q190083#0", "species": "Q170177"},
+  {"id": "Q190083#0", "species": "Q193192"},
+  {"id": "Q190083#1", "species": "Q25348"},
+  {"id": "Q190083#2", "species": "Q244284"},
+  {"id": "Q19068#0", "species": "Q688641"},
+  {"id": "Q19068#3", "species": "Q1045174"},
+  {"id": "Q19068#3", "species": "Q906894"},
+  {"id": "Q191096#0", "species": "Q27074824"},
+  {"id": "Q191096#0", "species": "Q501063"},
+  {"id": "Q191096#0", "species": "Q528117"},
+  {"id": "Q191096#0", "species": "Q550316"},
+  {"id": "Q191096#0", "species": "Q583220"},
+  {"id": "Q191096#0", "species": "Q593759"},
+  {"id": "Q191096#2", "species": "Q1261199"},
+  {"id": "Q191386#1", "species": "Q1261360"},
+  {"id": "Q191386#1", "species": "Q528117"}
+ ]
+}

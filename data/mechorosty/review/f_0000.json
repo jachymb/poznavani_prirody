@@ -1,0 +1,30 @@
+{"drop_facts": [
+{"id": "Q1156618#1", "why": "sporné: suchomilný suchozemský mech, využití v akvaristice je pochybné; navíc krkolomná formulace"},
+{"id": "Q1432956#1", "why": "vlnkaté listy nepřímo prozrazují název čeřitý"},
+{"id": "Q149101#1", "why": "mechy nemají pravé stonky, citace mluví o lodyžkách"},
+{"id": "Q1731367#0", "why": "čtyři zuby prozrazují název čtyřzoubek"},
+{"id": "Q1752834#0", "why": "posun významu: délka lodyžky zaměněna za celkovou výšku a absolutní mez nejvýš"},
+{"id": "Q1752834#1", "why": "červená barva nepřímo prozrazuje název nachový; změna barvy celé rostliny je sporná"},
+{"id": "Q1763341#1", "why": "počet lokalit je časem proměnný a bez data, druh ustupuje, údaj může být zastaralý"},
+{"id": "Q1777800#0", "why": "dlouhá vodorovná patra jsou pro dítě nesrozumitelná a bez článku nedávají smysl"},
+{"id": "Q178025#0", "why": "sporný údaj: rostliny bývají běžně i mnohem nižší než 20 cm, horní hodnoty nejsou typické"},
+{"id": "Q179213#0", "why": "odporuje biologii: nesvítí sám, jen odráží dopadající světlo"},
+{"id": "Q292408#0", "why": "přidané slovo jen, které v citaci není"},
+{"id": "Q310560#1", "why": "vynechává prameniště z citace; hlavní vazba na jehličnaté lesy je sporná"},
+{"id": "Q442127#0", "why": "rozestoupí se nevystihuje odstálé lístky, nepřesná a nejasná formulace"},
+{"id": "Q442127#1", "why": "gramaticky chybné Nerostě; vyhýbá se neznamená neroste, článek uvádí roztroušený výskyt i na vápnitém podkladu"},
+{"id": "Q867250#0", "why": "odstávající lístky prozrazují název kostrbatý, článek to výslovně uvádí"},
+{"id": "Q867250#1", "why": "přidané slovo hlavně, které v citaci není"}
+], "drop_pairs": [
+{"id": "Q11875652#1", "species": "Q442127"},
+{"id": "Q149101#0", "species": "Q992846"},
+{"id": "Q178025#3", "species": "Q1937687"},
+{"id": "Q182303#1", "species": "Q11875652"},
+{"id": "Q1937687#1", "species": "Q1460161"},
+{"id": "Q1937687#1", "species": "Q149101"},
+{"id": "Q1937687#1", "species": "Q1646440"},
+{"id": "Q1937687#1", "species": "Q1777800"},
+{"id": "Q1937687#1", "species": "Q178025"},
+{"id": "Q1937687#1", "species": "Q179213"},
+{"id": "Q1937687#1", "species": "Q385125"}
+]}

@@ -1,0 +1,390 @@
+[
+ {
+  "id": "Q1070125#4",
+  "species": "Jedle kalifornská",
+  "latin": "Abies bracteata",
+  "text": "Vosy chalcidky někdy požírají jeho semena.",
+  "quote": "Občas semena stromu požírá druh býložravých amerických vos chalcidek (Chalcidoidea)",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1116374#6",
+  "species": "Borovice dlouhověká",
+  "latin": "Pinus longaeva",
+  "text": "Lýkohub občas útočí na tento druh.",
+  "quote": "Na strom občas útočí lýkohub Dendroctonus ponderosae",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1116374#7",
+  "species": "Borovice dlouhověká",
+  "latin": "Pinus longaeva",
+  "text": "Trpasličí jmelí občas napadá tento druh.",
+  "quote": "je strom občas napadán trpasličím jmelím Arceuthobium camylopodum",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1116374#8",
+  "species": "Borovice dlouhověká",
+  "latin": "Pinus longaeva",
+  "text": "Rez vejmutovková může tento druh nakazit.",
+  "quote": "je sice náchylná k infekci rzí vejmutovkovou",
+  "claimed_false_for": {
+   "Q145939": "Jedle ojíněná (Abies concolor)",
+   "Q165387": "Smrk Engelmannův (Picea engelmannii)",
+   "Q1744650": "Cypřišek zeravovitý (Chamaecyparis thyoides)",
+   "Q657812": "Jedle sicilská (Abies nebrodensis)",
+   "Q658749": "Jalovec poléhavý (Juniperus procumbens)",
+   "Q670040": "Cypřiš arizonský (Cupressus arizonica)"
+  }
+ },
+ {
+  "id": "Q1137607#4",
+  "species": "Smrk sibiřský",
+  "latin": "Picea obovata",
+  "text": "Roste jako příměs mezi jedlemi, limbami a modříny.",
+  "quote": "jako příměs jedlových, limbových a modřínových porostů",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1137607#5",
+  "species": "Smrk sibiřský",
+  "latin": "Picea obovata",
+  "text": "Tento druh se v severovýchodní Evropě snadno kříží s blízce příbuzným druhem.",
+  "quote": "v místech dotyku jejich areálů v severovýchodní Evropě snadno kříží",
+  "claimed_false_for": {
+   "Q133096": "Borovice jedlá (Pinus edulis)",
+   "Q145939": "Jedle ojíněná (Abies concolor)",
+   "Q165387": "Smrk Engelmannův (Picea engelmannii)",
+   "Q1744650": "Cypřišek zeravovitý (Chamaecyparis thyoides)",
+   "Q628329": "Borovice kalábrijská (Pinus brutia)",
+   "Q657812": "Jedle sicilská (Abies nebrodensis)",
+   "Q658749": "Jalovec poléhavý (Juniperus procumbens)",
+   "Q670040": "Cypřiš arizonský (Cupressus arizonica)"
+  }
+ },
+ {
+  "id": "Q1145286#6",
+  "species": "Smrk východní",
+  "latin": "Picea orientalis",
+  "text": "Zvěř tento druh v mládí často okusuje.",
+  "quote": "v mládí často poškozována okusem zvěří",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1249109#4",
+  "species": "Borovice Elliottova",
+  "latin": "Pinus elliottii",
+  "text": "Jeho semena na větší vzdálenost obvykle roznášejí semenožraví ptáci.",
+  "quote": "obvykle zaslouží semenožraví ptáci",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1249109#5",
+  "species": "Borovice Elliottova",
+  "latin": "Pinus elliottii",
+  "text": "V Jižní Africe přerůstá původní druhy.",
+  "quote": "přerůstají původní druhy",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1249109#6",
+  "species": "Borovice Elliottova",
+  "latin": "Pinus elliottii",
+  "text": "V Queenslandu mění řídké eukalyptové lesy na lesy tohoto druhu.",
+  "quote": "mění řídké eukalyptové lesy na lesy borové",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1283223#4",
+  "species": "Jedle vznešená",
+  "latin": "Abies procera",
+  "text": "Housenky zavíječe žerou jeho šišky a jehlice.",
+  "quote": "jehož larvy vrtají a žerou šišky, jehlice, letorosty",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1283223#6",
+  "species": "Jedle vznešená",
+  "latin": "Abies procera",
+  "text": "Hnědák Schweinitzův někdy poškozuje jeho kořeny.",
+  "quote": "Kořeny stromu v některých případech poškozuje hnědák Schweinitzův",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1290204#4",
+  "species": "Jedle nádherná",
+  "latin": "Abies magnifica",
+  "text": "Občas ho napadá trpasličí jmelí.",
+  "quote": "je občas napadána jedlovým trpasličím jmelím",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1290204#5",
+  "species": "Jedle nádherná",
+  "latin": "Abies magnifica",
+  "text": "Někdy ho napadá bělokaz.",
+  "quote": "Strom je někdy napadán bělokazem Scolytus ventralis",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1290204#6",
+  "species": "Jedle nádherná",
+  "latin": "Abies magnifica",
+  "text": "Kořenovník vrstevnatý ho může poškodit.",
+  "quote": "je též náchylný k poškození mšicemi a kořenovníkem vrstevnatým",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q133096#4",
+  "species": "Borovice jedlá",
+  "latin": "Pinus edulis",
+  "text": "Hlodavci v zimě sežerou část semen, které ptáci uschovali.",
+  "quote": "uskladněných semen v zimě najdou a sežerou hlodavci.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q133096#5",
+  "species": "Borovice jedlá",
+  "latin": "Pinus edulis",
+  "text": "Roste spolu s jalovci a tvoří s nimi porosty.",
+  "quote": "Ve společnosti jalovců a menšího počtu borovic jiných druhů tam vytváří porosty",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q133096#6",
+  "species": "Borovice jedlá",
+  "latin": "Pinus edulis",
+  "text": "Opadaným jehličím omezuje výskyt suchých travin a nízkých keřů poblíž.",
+  "quote": "omezuje tak výskyt suchých travin a nízkých keřů vyrůstajících v blízkosti",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q133097#2",
+  "species": "Parasitaxus ustus",
+  "latin": "Parasitaxus usta",
+  "text": "Odčerpává živiny, které houba vytvořila pro svého hostitele.",
+  "quote": "odčerpává živiny vyprodukované houbou pro svého hostitele",
+  "claimed_false_for": {
+   "Q137004": "Ketelerka Davidova (Keteleeria davidiana)",
+   "Q1399164": "Pazerav sbíhavý (Calocedrus decurrens)",
+   "Q145954": "Borovice černá (Pinus nigra)",
+   "Q1542823": "Jedle Veitchova (Abies veitchii)",
+   "Q2347049": "Jalovec polokulovitý (Juniperus semiglobosa)",
+   "Q255029": "Pazeravec Bidwillův (Libocedrus bidwillii)",
+   "Q3308389": "Borovice Nelsonova (Pinus nelsonii)",
+   "Q3505749": "Borovice virginská (Pinus virginiana)",
+   "Q390313": "Tajvánie kryptomeriovitá (Taiwania cryptomerioides)",
+   "Q6313668": "Jalovec tuhý pobřežní (Juniperus conferta)",
+   "Q747652": "Borovice himálajská (Pinus wallichiana)",
+   "Q944853": "Hustořadec vranečkový (Athrotaxis selaginoides)"
+  }
+ },
+ {
+  "id": "Q137071#7",
+  "species": "Borovice pavejmutka",
+  "latin": "Pinus pseudostrobus",
+  "text": "Vroubenky požírají semena tohoto druhu.",
+  "quote": "Semena stromu požírá vroubenka americká",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q137071#8",
+  "species": "Borovice pavejmutka",
+  "latin": "Pinus pseudostrobus",
+  "text": "Brouk vyžírá šišky tohoto druhu.",
+  "quote": "brouk Conophthorus ponderosae podvrtává a vyžírá šišky",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q137400#4",
+  "species": "Lagarostrobus Franklinův",
+  "latin": "Lagarostrobos franklinii",
+  "text": "Semena roznášejí i ptáci.",
+  "quote": "jsou rozptylována větrem, ptáky nebo tekoucí vodou",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1440975#5",
+  "species": "Toreja kalifornská",
+  "latin": "Torreya californica",
+  "text": "Ptáci a hlodavci odnášejí jeho semena dál od stromu.",
+  "quote": "Do větších vzdáleností je odnášejí ptáci a hlodavci",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1440975#6",
+  "species": "Toreja kalifornská",
+  "latin": "Torreya californica",
+  "text": "Roste mezi platany, dříny, olšemi a javory.",
+  "quote": "se váže na stromy jako platan západní, dřín Nuttallův, olše oregonská a některé javory",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1451343#5",
+  "species": "Jedle Fraserova",
+  "latin": "Abies fraseri",
+  "text": "Roste spolu s břízami, jasanem a javorem cukrovým.",
+  "quote": "břízou papírovitou, břízou žlutou, jasanem Fraxinus caroliniana, javorem cukrovým",
+  "claimed_false_for": {
+   "Q137004": "Ketelerka Davidova (Keteleeria davidiana)",
+   "Q1542823": "Jedle Veitchova (Abies veitchii)",
+   "Q255029": "Pazeravec Bidwillův (Libocedrus bidwillii)",
+   "Q3308389": "Borovice Nelsonova (Pinus nelsonii)",
+   "Q390313": "Tajvánie kryptomeriovitá (Taiwania cryptomerioides)",
+   "Q944853": "Hustořadec vranečkový (Athrotaxis selaginoides)"
+  }
+ },
+ {
+  "id": "Q145939#4",
+  "species": "Jedle ojíněná",
+  "latin": "Abies concolor",
+  "text": "Jelenec ušatý spásá jeho jehlice.",
+  "quote": "jehlice stromu spásá jelenec ušatý",
+  "claimed_false_for": {
+   "Q1055286": "Mikrobiota křížolistá (Microbiota decussata)",
+   "Q1166864": "Jedle nikkoská (Abies homolepis)",
+   "Q133228": "Diselma Archerova (Diselma archeri)",
+   "Q1458175": "Pamodřín líbezný (Pseudolarix amabilis)",
+   "Q157697": "Jalovec čínský (Juniperus chinensis)",
+   "Q178116": "Borovice drobnokvětá (Pinus parviflora)",
+   "Q271582": "Borovice přímořská (Pinus pinaster)",
+   "Q3285379": "Borovice Gerardova (Pinus gerardiana)"
+  }
+ },
+ {
+  "id": "Q145939#6",
+  "species": "Jedle ojíněná",
+  "latin": "Abies concolor",
+  "text": "Poskytuje domov puštíkovi západnímu a orlu bělohlavému.",
+  "quote": "poskytuje životní prostředí mnoha druhům zvířat: puštíku západnímu, orlu bělohlavému",
+  "claimed_false_for": {
+   "Q137004": "Ketelerka Davidova (Keteleeria davidiana)",
+   "Q145954": "Borovice černá (Pinus nigra)",
+   "Q1542823": "Jedle Veitchova (Abies veitchii)",
+   "Q2347049": "Jalovec polokulovitý (Juniperus semiglobosa)",
+   "Q255029": "Pazeravec Bidwillův (Libocedrus bidwillii)",
+   "Q390313": "Tajvánie kryptomeriovitá (Taiwania cryptomerioides)",
+   "Q6313668": "Jalovec tuhý pobřežní (Juniperus conferta)",
+   "Q747652": "Borovice himálajská (Pinus wallichiana)",
+   "Q944853": "Hustořadec vranečkový (Athrotaxis selaginoides)"
+  }
+ },
+ {
+  "id": "Q145992#4",
+  "species": "Smrk ztepilý",
+  "latin": "Picea abies",
+  "text": "Kůrovci ho napadají v teplejších oblastech.",
+  "quote": "náchylnost k polomům a škůdcům, zejména kůrovci v teplejších",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q146992#4",
+  "species": "Jedle bělokorá",
+  "latin": "Abies alba",
+  "text": "Kořeny spolupracují s houbami: ryzci, holubinkami a muchomůrkami.",
+  "quote": "Kořeny hojně využívají mykorhizu, zvláště s holubinkovitými houbami (ryzce, holubinky) a muchomůrkami.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q146992#6",
+  "species": "Jedle bělokorá",
+  "latin": "Abies alba",
+  "text": "Přemnožená spárkatá zvěř silně okusuje mladé stromy.",
+  "quote": "masivnímu okusu mladých jedinců od přemnožené spárkaté zvěře",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q147417#6",
+  "species": "Zerav obrovský",
+  "latin": "Thuja plicata",
+  "text": "Svou vůní odrazuje moly.",
+  "quote": "jelikož jeho vůně odrazuje moly",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q147434#4",
+  "species": "Jedle obrovská",
+  "latin": "Abies grandis",
+  "text": "Napadá parazitická houba václavka.",
+  "quote": "náchylnost na napadení parazitickou houbou václavkou",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q147468#6",
+  "species": "Zerav západní",
+  "latin": "Thuja occidentalis",
+  "text": "Napadá drobný motýl molovka tújová.",
+  "quote": "Nejběžnějším parazitem je drobný motýl molovka tújová.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q148542#6",
+  "species": "Borovice bahenní",
+  "latin": "Pinus palustris",
+  "text": "Mnoho druhů ptáků, myší, veverek, křepelek a krůt se živí jeho semeny.",
+  "quote": "Mnoho druhů ptáků, myší, veverek, křepelek a krůt se živí semeny",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q148542#7",
+  "species": "Borovice bahenní",
+  "latin": "Pinus palustris",
+  "text": "Králíci okusují jeho mladé sazenice.",
+  "quote": "Mladé sazenice okusují králíci",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q148542#8",
+  "species": "Borovice bahenní",
+  "latin": "Pinus palustris",
+  "text": "Strakapoud kokardový rád hnízdí ve starých stromech.",
+  "quote": "Staré stromy této borovice jsou přednostním hnízdištěm strakapouda kokardového",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q148950#4",
+  "species": "Tisovec dvouřadý",
+  "latin": "Taxodium distichum",
+  "text": "Bromélie tilandsie roste na koruně tohoto druhu.",
+  "quote": "rostoucí témě pravidelně v jeho koruně",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1510186#4",
+  "species": "Jalovec kadidlový",
+  "latin": "Juniperus thurifera",
+  "text": "Kozy a ovce žerou jeho listy i mladé semenáčky.",
+  "quote": "kozy a ovce, které v době nedostatku trávy spásají lístky jalovců, včetně mladých semenáčů",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1510186#5",
+  "species": "Jalovec kadidlový",
+  "latin": "Juniperus thurifera",
+  "text": "Ptáci a dobytek jedí dužnatou část plodů a tvrdá semena vypuzují.",
+  "quote": "Tito požírači plodů většinou konzumují pouze dužnatou část jalovčinek a obsažená tvrdá semena vypuzují.",
+  "claimed_false_for": {
+   "Q133096": "Borovice jedlá (Pinus edulis)",
+   "Q133128": "Borovice lesní (Pinus sylvestris)",
+   "Q145939": "Jedle ojíněná (Abies concolor)",
+   "Q147278": "Borovice limba (Pinus cembra)",
+   "Q165387": "Smrk Engelmannův (Picea engelmannii)",
+   "Q1744650": "Cypřišek zeravovitý (Chamaecyparis thyoides)",
+   "Q628329": "Borovice kalábrijská (Pinus brutia)",
+   "Q657812": "Jedle sicilská (Abies nebrodensis)",
+   "Q670040": "Cypřiš arizonský (Cupressus arizonica)"
+  }
+ },
+ {
+  "id": "Q1546541#4",
+  "species": "Borovice mexická",
+  "latin": "Pinus ayacahuite",
+  "text": "Trpasličí jmelí parazituje na tomto druhu.",
+  "quote": "V Chiapasu, Guatemale a Oaxace je strom hostitelem trpasličího jmelí",
+  "claimed_false_for": {
+   "Q133128": "Borovice lesní (Pinus sylvestris)",
+   "Q147278": "Borovice limba (Pinus cembra)"
+  }
+ }
+]

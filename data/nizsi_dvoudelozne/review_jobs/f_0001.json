@@ -1,0 +1,540 @@
+[
+ {
+  "id": "Q1709343#1",
+  "species": "Láhevník ostnitý",
+  "latin": "Annona muricata",
+  "text": "Kvete na jaře, až šest týdnů.",
+  "quote": "Strom kvete na jaře po dobu až 6 týdnů.",
+  "claimed_false_for": {
+   "Q1093540": "Šácholan velkolistý (Magnolia macrophylla)",
+   "Q165416": "Sazaník květnatý (Calycanthus floridus)",
+   "Q1859063": "Šácholan viržinský (Magnolia virginiana)"
+  }
+ },
+ {
+  "id": "Q1709343#2",
+  "species": "Láhevník ostnitý",
+  "latin": "Annona muricata",
+  "text": "Má tmavě hnědé nebo purpurové květy.",
+  "quote": "Tmavě hnědé nebo purpurové třílaločné květy vyrůstají po dvou nebo ve větším počtu.",
+  "claimed_false_for": {
+   "Q1074257": "Liliovník čínský (Liriodendron chinense)",
+   "Q1093540": "Šácholan velkolistý (Magnolia macrophylla)",
+   "Q1859063": "Šácholan viržinský (Magnolia virginiana)",
+   "Q2386378": "Šácholan obvejčitý (Magnolia obovata)",
+   "Q2724976": "Muškátovník vonný (Myristica fragrans)",
+   "Q584469": "Kašťa bělavá (Sassafras albidum)",
+   "Q692162": "Okoličnatka kalifornská (Umbellularia californica)",
+   "Q839507": "Šácholan hvězdovitý (Magnolia stellata)"
+  }
+ },
+ {
+  "id": "Q1709343#3",
+  "species": "Láhevník ostnitý",
+  "latin": "Annona muricata",
+  "text": "Má jedovatá semena.",
+  "quote": "Semena, která se v dužině nacházejí, jsou jedovatá",
+  "claimed_false_for": {
+   "Q1074257": "Liliovník čínský (Liriodendron chinense)",
+   "Q1093540": "Šácholan velkolistý (Magnolia macrophylla)",
+   "Q1859063": "Šácholan viržinský (Magnolia virginiana)",
+   "Q2386378": "Šácholan obvejčitý (Magnolia obovata)",
+   "Q839507": "Šácholan hvězdovitý (Magnolia stellata)",
+   "Q942031": "Šácholan liliokvětý (Magnolia liliiflora)"
+  }
+ },
+ {
+  "id": "Q1859063#0",
+  "species": "Šácholan viržinský",
+  "latin": "Magnolia virginiana",
+  "text": "Kvete v červnu až červenci, když už má listy.",
+  "quote": "Kvete v červnu až červenci, po olistění.",
+  "claimed_false_for": {
+   "Q156853": "Kopytník evropský (Asarum europaeum)",
+   "Q794061": "Šácholan obnažený (Magnolia denudata)",
+   "Q942409": "Šácholan japonský (Magnolia kobus)"
+  }
+ },
+ {
+  "id": "Q1859063#1",
+  "species": "Šácholan viržinský",
+  "latin": "Magnolia virginiana",
+  "text": "Má bílé květy, které voní.",
+  "quote": "Květy jsou bílé, vonné, 5 až 8 cm široké, polokulovité.",
+  "claimed_false_for": {
+   "Q158783": "Liliovník tulipánokvětý (Liriodendron tulipifera)",
+   "Q2566375": "Zimnokvět časný (Chimonanthus praecox)",
+   "Q948827": "Muďoul trojlaločný (Asimina triloba)"
+  }
+ },
+ {
+  "id": "Q1859063#2",
+  "species": "Šácholan viržinský",
+  "latin": "Magnolia virginiana",
+  "text": "Roste na bažinách a v bažinatých lesích.",
+  "quote": "Roste na bažinách a v bažinatých lesích, v zálivech a na savanách",
+  "claimed_false_for": {
+   "Q2386378": "Šácholan obvejčitý (Magnolia obovata)",
+   "Q2566375": "Zimnokvět časný (Chimonanthus praecox)",
+   "Q26006": "Vavřín vznešený (Laurus nobilis)",
+   "Q819208": "Šácholan Fraserův (Magnolia fraseri)"
+  }
+ },
+ {
+  "id": "Q1859063#3",
+  "species": "Šácholan viržinský",
+  "latin": "Magnolia virginiana",
+  "text": "Má tmavě červené plody dlouhé 4 až 5 cm.",
+  "quote": "Souplodí jsou tmavě červená, elipsoidní, 4 až 5 cm dlouhá.",
+  "claimed_false_for": {
+   "Q158722": "Kafrovník lékařský (Cinnamomum camphora)",
+   "Q1709343": "Láhevník ostnitý (Annona muricata)",
+   "Q26006": "Vavřín vznešený (Laurus nobilis)",
+   "Q37153": "Hruškovec přelahodný (Persea americana)"
+  }
+ },
+ {
+  "id": "Q21397476#0",
+  "species": "Sazaník Raulstonův",
+  "latin": "×Sinocalycalycanthus raulstonii",
+  "text": "Má vínově červené, vonné květy.",
+  "quote": "Květy jsou vínově červené, vonné a dosahují průměru až 7,5 cm.",
+  "claimed_false_for": {
+   "Q1074257": "Liliovník čínský (Liriodendron chinense)",
+   "Q158783": "Liliovník tulipánokvětý (Liriodendron tulipifera)",
+   "Q161116": "Šácholan velkokvětý (Magnolia grandiflora)",
+   "Q2724976": "Muškátovník vonný (Myristica fragrans)",
+   "Q3284219": "Citronela hrotitá (Citronella mucronata)",
+   "Q546069": "Šácholan vrbolistý (Magnolia salicifolia)",
+   "Q786072": "Kabomba karolínská (Cabomba caroliniana)",
+   "Q833994": "Boldovník vonný (Peumus boldus)",
+   "Q839507": "Šácholan hvězdovitý (Magnolia stellata)",
+   "Q942409": "Šácholan japonský (Magnolia kobus)",
+   "Q990982": "Šácholan tříplátečný (Magnolia tripetala)"
+  }
+ },
+ {
+  "id": "Q21397476#1",
+  "species": "Sazaník Raulstonův",
+  "latin": "×Sinocalycalycanthus raulstonii",
+  "text": "Netvoří semena, množí se jen z částí rostliny.",
+  "quote": "Rostlina netvoří semena a je proto možno ji množit pouze vegetativně.",
+  "claimed_false_for": {
+   "Q1074257": "Liliovník čínský (Liriodendron chinense)",
+   "Q158783": "Liliovník tulipánokvětý (Liriodendron tulipifera)",
+   "Q161116": "Šácholan velkokvětý (Magnolia grandiflora)",
+   "Q1709343": "Láhevník ostnitý (Annona muricata)",
+   "Q2724976": "Muškátovník vonný (Myristica fragrans)",
+   "Q3284219": "Citronela hrotitá (Citronella mucronata)",
+   "Q546069": "Šácholan vrbolistý (Magnolia salicifolia)",
+   "Q833994": "Boldovník vonný (Peumus boldus)",
+   "Q839507": "Šácholan hvězdovitý (Magnolia stellata)",
+   "Q942409": "Šácholan japonský (Magnolia kobus)",
+   "Q990982": "Šácholan tříplátečný (Magnolia tripetala)"
+  }
+ },
+ {
+  "id": "Q220963#0",
+  "species": "Kananga vonná",
+  "latin": "Cananga odorata",
+  "text": "Dorůstá do výšky 10 až 20 metrů.",
+  "quote": "vyrůstající do výše 10 až 20 m",
+  "claimed_false_for": {
+   "Q11739000": "Sazaník čínský (Calycanthus chinensis)",
+   "Q156853": "Kopytník evropský (Asarum europaeum)",
+   "Q158273": "Podražec křovištní (Aristolochia clematitis)",
+   "Q21397476": "Sazaník Raulstonův (×Sinocalycalycanthus raulstonii)",
+   "Q786072": "Kabomba karolínská (Cabomba caroliniana)"
+  }
+ },
+ {
+  "id": "Q220963#1",
+  "species": "Kananga vonná",
+  "latin": "Cananga odorata",
+  "text": "Kvete celý rok, nejvíce před obdobím sucha.",
+  "quote": "Kvetou celoročně, s výrazným vrcholem před obdobím sucha.",
+  "claimed_false_for": {
+   "Q1249099": "Šácholan přišpičatělý (Magnolia acuminata)",
+   "Q158722": "Kafrovník lékařský (Cinnamomum camphora)",
+   "Q161116": "Šácholan velkokvětý (Magnolia grandiflora)",
+   "Q2386378": "Šácholan obvejčitý (Magnolia obovata)",
+   "Q2566375": "Zimnokvět časný (Chimonanthus praecox)",
+   "Q26006": "Vavřín vznešený (Laurus nobilis)",
+   "Q546069": "Šácholan vrbolistý (Magnolia salicifolia)",
+   "Q794061": "Šácholan obnažený (Magnolia denudata)",
+   "Q819208": "Šácholan Fraserův (Magnolia fraseri)",
+   "Q942031": "Šácholan liliokvětý (Magnolia liliiflora)"
+  }
+ },
+ {
+  "id": "Q220963#2",
+  "species": "Kananga vonná",
+  "latin": "Cananga odorata",
+  "text": "Opylují ho noční motýli a drobní brouci.",
+  "quote": "Květy jsou opylovány nočními motýly a drobnými brouky z čeledí lesknáčkovitých, mandelinkovitých a nosatcovitých.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q220963#3",
+  "species": "Kananga vonná",
+  "latin": "Cananga odorata",
+  "text": "Jedí jeho plody ptáci, opice, netopýři i veverky.",
+  "quote": "Plody konzumují ptáci, opice, netopýři i veverky a",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q220963#4",
+  "species": "Kananga vonná",
+  "latin": "Cananga odorata",
+  "text": "Poprvé kvete asi ve třech letech.",
+  "quote": "Stromy začínají na plantážích kvést ve věku asi tří let",
+  "claimed_false_for": {
+   "Q43084": "Pepřovník černý (Piper nigrum)"
+  }
+ },
+ {
+  "id": "Q220963#5",
+  "species": "Kananga vonná",
+  "latin": "Cananga odorata",
+  "text": "Vyrábí se z něj olej používaný v kosmetice.",
+  "quote": "Pěstuje se pro voňavé květy, z kterých se destiluje éterický olej užívaný v kosmetice, v potravinářství i aromaterapii.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q2386378#0",
+  "species": "Šácholan obvejčitý",
+  "latin": "Magnolia obovata",
+  "text": "Kvete v červnu, až když vyrostou listy.",
+  "quote": "Kvete v červnu, po olistění.",
+  "claimed_false_for": {
+   "Q220963": "Kananga vonná (Cananga odorata)",
+   "Q2566375": "Zimnokvět časný (Chimonanthus praecox)",
+   "Q472653": "Láhevník síťovaný (Annona reticulata)",
+   "Q546069": "Šácholan vrbolistý (Magnolia salicifolia)",
+   "Q948827": "Muďoul trojlaločný (Asimina triloba)"
+  }
+ },
+ {
+  "id": "Q2386378#1",
+  "species": "Šácholan obvejčitý",
+  "latin": "Magnolia obovata",
+  "text": "Dává měkké dřevo, se kterým se dobře pracuje.",
+  "quote": "Dřevo je měkké, světlé a dobře opracovatelné.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q2566375#0",
+  "species": "Zimnokvět časný",
+  "latin": "Chimonanthus praecox",
+  "text": "Kvete v zimě, zpravidla od ledna do března.",
+  "quote": "v podmínkách střední Evropy zpravidla od ledna do března.",
+  "claimed_false_for": {
+   "Q11739000": "Sazaník čínský (Calycanthus chinensis)",
+   "Q158783": "Liliovník tulipánokvětý (Liriodendron tulipifera)",
+   "Q1859063": "Šácholan viržinský (Magnolia virginiana)",
+   "Q21397476": "Sazaník Raulstonův (×Sinocalycalycanthus raulstonii)",
+   "Q900986": "Klanopraška čínská (Schisandra chinensis)",
+   "Q942031": "Šácholan liliokvětý (Magnolia liliiflora)"
+  }
+ },
+ {
+  "id": "Q2566375#1",
+  "species": "Zimnokvět časný",
+  "latin": "Chimonanthus praecox",
+  "text": "Má sladce vonné květy.",
+  "quote": "Jsou sladce vonné, 1,5 až 4 cm široké.",
+  "claimed_false_for": {
+   "Q990982": "Šácholan tříplátečný (Magnolia tripetala)"
+  }
+ },
+ {
+  "id": "Q2566375#2",
+  "species": "Zimnokvět časný",
+  "latin": "Chimonanthus praecox",
+  "text": "V domovině může dorůst až do 13 metrů výšky.",
+  "quote": "v domovině i nevelký strom dorůstající výšky až 13 metrů.",
+  "claimed_false_for": {
+   "Q786072": "Kabomba karolínská (Cabomba caroliniana)",
+   "Q839507": "Šácholan hvězdovitý (Magnolia stellata)"
+  }
+ },
+ {
+  "id": "Q2566375#3",
+  "species": "Zimnokvět časný",
+  "latin": "Chimonanthus praecox",
+  "text": "Přirozeně roste v horských lesích Číny, do 1100 metrů nad mořem.",
+  "quote": "Vyskytuje se v horských lesích v nadmořských výškách od 500 do 1100 metrů.",
+  "claimed_false_for": {
+   "Q158783": "Liliovník tulipánokvětý (Liriodendron tulipifera)",
+   "Q161067": "Pepřovník opojný (Piper methysticum)",
+   "Q1859063": "Šácholan viržinský (Magnolia virginiana)",
+   "Q21397476": "Sazaník Raulstonův (×Sinocalycalycanthus raulstonii)",
+   "Q3284219": "Citronela hrotitá (Citronella mucronata)",
+   "Q370239": "Skořicovník pravý (Cinnamomum verum)",
+   "Q43084": "Pepřovník černý (Piper nigrum)",
+   "Q839507": "Šácholan hvězdovitý (Magnolia stellata)"
+  }
+ },
+ {
+  "id": "Q26006#0",
+  "species": "Vavřín vznešený",
+  "latin": "Laurus nobilis",
+  "text": "Dorůstá až do výšky 12 metrů.",
+  "quote": "V původním areálu rozšíření dorůstá výšky až 12 metrů.",
+  "claimed_false_for": {
+   "Q786072": "Kabomba karolínská (Cabomba caroliniana)",
+   "Q839507": "Šácholan hvězdovitý (Magnolia stellata)"
+  }
+ },
+ {
+  "id": "Q26006#1",
+  "species": "Vavřín vznešený",
+  "latin": "Laurus nobilis",
+  "text": "Pochází z Přední Asie a rozšířil se do celého Středomoří.",
+  "quote": "Pochází z Přední Asie, odkud se rozšířil do celého Středomoří",
+  "claimed_false_for": {
+   "Q1074257": "Liliovník čínský (Liriodendron chinense)",
+   "Q158783": "Liliovník tulipánokvětý (Liriodendron tulipifera)",
+   "Q161116": "Šácholan velkokvětý (Magnolia grandiflora)",
+   "Q1709343": "Láhevník ostnitý (Annona muricata)",
+   "Q2724976": "Muškátovník vonný (Myristica fragrans)",
+   "Q3284219": "Citronela hrotitá (Citronella mucronata)",
+   "Q546069": "Šácholan vrbolistý (Magnolia salicifolia)",
+   "Q786072": "Kabomba karolínská (Cabomba caroliniana)",
+   "Q833994": "Boldovník vonný (Peumus boldus)",
+   "Q839507": "Šácholan hvězdovitý (Magnolia stellata)",
+   "Q942409": "Šácholan japonský (Magnolia kobus)",
+   "Q990982": "Šácholan tříplátečný (Magnolia tripetala)"
+  }
+ },
+ {
+  "id": "Q26006#2",
+  "species": "Vavřín vznešený",
+  "latin": "Laurus nobilis",
+  "text": "Tento druh je symbolem vítězství už od starověku.",
+  "quote": "Od starověku je znám jako symbol vítězství.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q26006#3",
+  "species": "Vavřín vznešený",
+  "latin": "Laurus nobilis",
+  "text": "Tento druh se dnes pěstuje hlavně pro okrasu.",
+  "quote": "V současnosti se pěstuje po celém světě hlavně pro okrasu",
+  "claimed_false_for": {
+   "Q161067": "Pepřovník opojný (Piper methysticum)",
+   "Q370239": "Skořicovník pravý (Cinnamomum verum)",
+   "Q43084": "Pepřovník černý (Piper nigrum)"
+  }
+ },
+ {
+  "id": "Q2724976#0",
+  "species": "Muškátovník vonný",
+  "latin": "Myristica fragrans",
+  "text": "Může být vysoký až 15 metrů.",
+  "quote": "dosahující výšky až 15 metrů",
+  "claimed_false_for": {
+   "Q164091": "Touleň srdčitá (Houttuynia cordata)",
+   "Q275620": "Anona šupinatá (Annona squamosa)"
+  }
+ },
+ {
+  "id": "Q2724976#1",
+  "species": "Muškátovník vonný",
+  "latin": "Myristica fragrans",
+  "text": "Kvete bledě žlutými, voňavými květy.",
+  "quote": "Rozkvétá bledě žlutými voskovitými vonnými květy",
+  "claimed_false_for": {
+   "Q158722": "Kafrovník lékařský (Cinnamomum camphora)",
+   "Q161116": "Šácholan velkokvětý (Magnolia grandiflora)",
+   "Q2386378": "Šácholan obvejčitý (Magnolia obovata)",
+   "Q546069": "Šácholan vrbolistý (Magnolia salicifolia)",
+   "Q794061": "Šácholan obnažený (Magnolia denudata)",
+   "Q942031": "Šácholan liliokvětý (Magnolia liliiflora)"
+  }
+ },
+ {
+  "id": "Q2724976#2",
+  "species": "Muškátovník vonný",
+  "latin": "Myristica fragrans",
+  "text": "Šíří semena, když holubi zobou jeho plody.",
+  "quote": "místní holubi rádi zobali plody muškátovníku a pilně rozsévali semena",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q275620#1",
+  "species": "Anona šupinatá",
+  "latin": "Annona squamosa",
+  "text": "Má jedovatá semena.",
+  "quote": "Semena jsou toxická",
+  "claimed_false_for": {
+   "Q1074257": "Liliovník čínský (Liriodendron chinense)",
+   "Q1093540": "Šácholan velkolistý (Magnolia macrophylla)",
+   "Q1859063": "Šácholan viržinský (Magnolia virginiana)",
+   "Q2386378": "Šácholan obvejčitý (Magnolia obovata)",
+   "Q839507": "Šácholan hvězdovitý (Magnolia stellata)",
+   "Q942031": "Šácholan liliokvětý (Magnolia liliiflora)"
+  }
+ },
+ {
+  "id": "Q275620#2",
+  "species": "Anona šupinatá",
+  "latin": "Annona squamosa",
+  "text": "Dorůstá do výšky 3 až 8 metrů.",
+  "quote": "Strom s rozkladitou nebo okrouhlou korunou vyrůstá do výše 3 až 8 m",
+  "claimed_false_for": {
+   "Q1074257": "Liliovník čínský (Liriodendron chinense)",
+   "Q1093540": "Šácholan velkolistý (Magnolia macrophylla)",
+   "Q692162": "Okoličnatka kalifornská (Umbellularia californica)"
+  }
+ },
+ {
+  "id": "Q275620#3",
+  "species": "Anona šupinatá",
+  "latin": "Annona squamosa",
+  "text": "Při velkém suchu shazuje listy.",
+  "quote": "Za přílišného sucha ve vegetační době strom shazuje listy",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q310795#0",
+  "species": "Leknínec hrozivý",
+  "latin": "Euryale ferox",
+  "text": "Má listy zelené nahoře a tmavě fialové dole.",
+  "quote": "Na líci jsou zelené, na rubu tmavě purpurové, se silně vyniklou žilnatinou.",
+  "claimed_false_for": {
+   "Q10786205": "Sazaník západní (Calycanthus occidentalis)",
+   "Q1249099": "Šácholan přišpičatělý (Magnolia acuminata)",
+   "Q158783": "Liliovník tulipánokvětý (Liriodendron tulipifera)",
+   "Q165416": "Sazaník květnatý (Calycanthus floridus)",
+   "Q2386378": "Šácholan obvejčitý (Magnolia obovata)",
+   "Q2566375": "Zimnokvět časný (Chimonanthus praecox)",
+   "Q37153": "Hruškovec přelahodný (Persea americana)",
+   "Q472653": "Láhevník síťovaný (Annona reticulata)",
+   "Q584469": "Kašťa bělavá (Sassafras albidum)",
+   "Q794061": "Šácholan obnažený (Magnolia denudata)",
+   "Q819208": "Šácholan Fraserův (Magnolia fraseri)",
+   "Q948827": "Muďoul trojlaločný (Asimina triloba)"
+  }
+ },
+ {
+  "id": "Q310795#1",
+  "species": "Leknínec hrozivý",
+  "latin": "Euryale ferox",
+  "text": "Má květy, které se otevírají na hladině nebo pod ní.",
+  "quote": "Květy se otevírají na hladině nebo pod ní.",
+  "claimed_false_for": {
+   "Q10786205": "Sazaník západní (Calycanthus occidentalis)",
+   "Q1249099": "Šácholan přišpičatělý (Magnolia acuminata)",
+   "Q158783": "Liliovník tulipánokvětý (Liriodendron tulipifera)",
+   "Q165416": "Sazaník květnatý (Calycanthus floridus)",
+   "Q2386378": "Šácholan obvejčitý (Magnolia obovata)",
+   "Q2566375": "Zimnokvět časný (Chimonanthus praecox)",
+   "Q37153": "Hruškovec přelahodný (Persea americana)",
+   "Q472653": "Láhevník síťovaný (Annona reticulata)",
+   "Q584469": "Kašťa bělavá (Sassafras albidum)",
+   "Q794061": "Šácholan obnažený (Magnolia denudata)",
+   "Q819208": "Šácholan Fraserův (Magnolia fraseri)",
+   "Q948827": "Muďoul trojlaločný (Asimina triloba)"
+  }
+ },
+ {
+  "id": "Q3284219#0",
+  "species": "Citronela hrotitá",
+  "latin": "Citronella mucronata",
+  "text": "Dorůstá až do výšky 12 metrů.",
+  "quote": "Stálezelený strom až 12 m vysoký",
+  "claimed_false_for": {
+   "Q158273": "Podražec křovištní (Aristolochia clematitis)",
+   "Q161067": "Pepřovník opojný (Piper methysticum)",
+   "Q162365": "Ještěrkovec nicí (Saururus cernuus)",
+   "Q164091": "Touleň srdčitá (Houttuynia cordata)",
+   "Q310795": "Leknínec hrozivý (Euryale ferox)",
+   "Q786072": "Kabomba karolínská (Cabomba caroliniana)",
+   "Q839507": "Šácholan hvězdovitý (Magnolia stellata)",
+   "Q942031": "Šácholan liliokvětý (Magnolia liliiflora)"
+  }
+ },
+ {
+  "id": "Q3284219#1",
+  "species": "Citronela hrotitá",
+  "latin": "Citronella mucronata",
+  "text": "Pochází z Chile v Jižní Americe.",
+  "quote": "pochází z jihoamerického Chile",
+  "claimed_false_for": {
+   "Q1093540": "Šácholan velkolistý (Magnolia macrophylla)",
+   "Q158273": "Podražec křovištní (Aristolochia clematitis)",
+   "Q161067": "Pepřovník opojný (Piper methysticum)",
+   "Q162365": "Ještěrkovec nicí (Saururus cernuus)",
+   "Q164091": "Touleň srdčitá (Houttuynia cordata)",
+   "Q310795": "Leknínec hrozivý (Euryale ferox)",
+   "Q370239": "Skořicovník pravý (Cinnamomum verum)",
+   "Q839507": "Šácholan hvězdovitý (Magnolia stellata)",
+   "Q900986": "Klanopraška čínská (Schisandra chinensis)",
+   "Q942031": "Šácholan liliokvětý (Magnolia liliiflora)",
+   "Q942409": "Šácholan japonský (Magnolia kobus)"
+  }
+ },
+ {
+  "id": "Q3284219#3",
+  "species": "Citronela hrotitá",
+  "latin": "Citronella mucronata",
+  "text": "Snese mrazy až do minus osmi stupňů Celsia.",
+  "quote": "toleruje teplotu až −8 °C",
+  "claimed_false_for": {
+   "Q161067": "Pepřovník opojný (Piper methysticum)",
+   "Q370239": "Skořicovník pravý (Cinnamomum verum)"
+  }
+ },
+ {
+  "id": "Q370239#0",
+  "species": "Skořicovník pravý",
+  "latin": "Cinnamomum verum",
+  "text": "V přírodě dorůstá do výšky 6 až 10 metrů.",
+  "quote": "který dorůstá do výše 6 až 10 metrů",
+  "claimed_false_for": {
+   "Q1074257": "Liliovník čínský (Liriodendron chinense)",
+   "Q158783": "Liliovník tulipánokvětý (Liriodendron tulipifera)",
+   "Q161116": "Šácholan velkokvětý (Magnolia grandiflora)",
+   "Q786072": "Kabomba karolínská (Cabomba caroliniana)"
+  }
+ },
+ {
+  "id": "Q370239#1",
+  "species": "Skořicovník pravý",
+  "latin": "Cinnamomum verum",
+  "text": "Má modročerné bobule jako plody.",
+  "quote": "Plodem je bobule, v době zralosti modročerné barvy",
+  "claimed_false_for": {
+   "Q1074257": "Liliovník čínský (Liriodendron chinense)",
+   "Q158783": "Liliovník tulipánokvětý (Liriodendron tulipifera)",
+   "Q161116": "Šácholan velkokvětý (Magnolia grandiflora)",
+   "Q546069": "Šácholan vrbolistý (Magnolia salicifolia)",
+   "Q839507": "Šácholan hvězdovitý (Magnolia stellata)",
+   "Q942409": "Šácholan japonský (Magnolia kobus)",
+   "Q990982": "Šácholan tříplátečný (Magnolia tripetala)"
+  }
+ },
+ {
+  "id": "Q37153#0",
+  "species": "Hruškovec přelahodný",
+  "latin": "Persea americana",
+  "text": "Dožívá se věku 50 až 100 let.",
+  "quote": "Dožívá se věku 50 až 100 let.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q37153#1",
+  "species": "Hruškovec přelahodný",
+  "latin": "Persea americana",
+  "text": "Pochází z teplých krajů Ameriky.",
+  "quote": "Pochází ze subtropických a tropických oblastí Nového světa",
+  "claimed_false_for": {
+   "Q1074257": "Liliovník čínský (Liriodendron chinense)",
+   "Q2724976": "Muškátovník vonný (Myristica fragrans)",
+   "Q546069": "Šácholan vrbolistý (Magnolia salicifolia)",
+   "Q839507": "Šácholan hvězdovitý (Magnolia stellata)",
+   "Q942409": "Šácholan japonský (Magnolia kobus)"
+  }
+ }
+]

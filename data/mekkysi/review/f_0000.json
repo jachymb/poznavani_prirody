@@ -1,0 +1,30 @@
+{"drop_facts": [
+ {"id": "Q174549#0", "why": "Slimáci mají pod pláštěm zakrnělou vnitřní ulitu, takže tvrzení je biologicky nepřesné."},
+ {"id": "Q182258#2", "why": "Slovo vždy je přehnané, návrat na domovské místo je běžný, ale ne bez výjimky."},
+ {"id": "Q1844769#0", "why": "Krkolomná formulace: druh má potomky od jedné samice."},
+ {"id": "Q1850495#0", "why": "Vynechává podmínku mezi chobotnicemi, samotné patří mezi menší nedává smysl."},
+ {"id": "Q1850495#1", "why": "Nejasný podmět: není jasné, kde se kruhy objevují a o jakém zvířeti je řeč."},
+ {"id": "Q2120872#0", "why": "Přidává slovo jen a 4,5 cm je spíše délka pláště než celého těla včetně ramen."}
+], "drop_pairs": [
+ {"id": "Q151201#0", "species": "Q1632342"},
+ {"id": "Q151201#0", "species": "Q912404"},
+ {"id": "Q151201#1", "species": "Q1844769"},
+ {"id": "Q1632342#2", "species": "Q174549"},
+ {"id": "Q1632342#2", "species": "Q1844769"},
+ {"id": "Q1632342#2", "species": "Q1940276"},
+ {"id": "Q1632342#2", "species": "Q21113"},
+ {"id": "Q1632342#2", "species": "Q22019793"},
+ {"id": "Q1632342#2", "species": "Q245314"},
+ {"id": "Q1632342#2", "species": "Q26908"},
+ {"id": "Q1632342#2", "species": "Q773951"},
+ {"id": "Q1632342#2", "species": "Q81851905"},
+ {"id": "Q1632342#2", "species": "Q908799"},
+ {"id": "Q1632342#2", "species": "Q932364"},
+ {"id": "Q21113#0", "species": "Q1232698"},
+ {"id": "Q21113#0", "species": "Q151201"},
+ {"id": "Q21113#0", "species": "Q1850495"},
+ {"id": "Q21113#0", "species": "Q2120872"},
+ {"id": "Q21113#0", "species": "Q756724"},
+ {"id": "Q21113#0", "species": "Q81851905"},
+ {"id": "Q22019793#1", "species": "Q174549"}
+]}

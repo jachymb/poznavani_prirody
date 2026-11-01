@@ -1,0 +1,409 @@
+[
+ {
+  "id": "Q503989#0",
+  "species": "Babočka osiková",
+  "latin": "Nymphalis antiopa",
+  "text": "Housenka se živí listy bříz, vrb nebo topolů.",
+  "quote": "Housenka se živí listy břízy, osiky, jívy, jilmu, vrby nebo topolu",
+  "claimed_false_for": {
+   "Q26764": "Bělásek zelný (Pieris brassicae)",
+   "Q503978": "Perleťovec stříbropásek (Argynnis paphia)",
+   "Q740169": "Ohniváček černokřídlý (Lycaena phlaeas)"
+  }
+ },
+ {
+  "id": "Q503989#1",
+  "species": "Babočka osiková",
+  "latin": "Nymphalis antiopa",
+  "text": "Samci si zakládají vlastní území.",
+  "quote": "samci zakládají svá teritoria",
+  "claimed_false_for": {
+   "Q26842": "Rybenka domácí (Lepisma saccharina)",
+   "Q28175": "Chroust obecný (Melolontha melolontha)",
+   "Q940337": "Štěnice domácí (Cimex lectularius)"
+  }
+ },
+ {
+  "id": "Q527496#0",
+  "species": "Šídlo královské",
+  "latin": "Anax imperator",
+  "text": "Loví za letu mouchy.",
+  "quote": "Během letu také loví svou kořist (mouchy).",
+  "claimed_false_for": {
+   "Q157565": "Okáč bojínkový (Melanargia galathea)",
+   "Q158603": "Babočka bodláková (Vanessa cardui)",
+   "Q166111": "Moucha domácí (Musca domestica)",
+   "Q206474": "Žluťásek řešetlákový (Gonepteryx rhamni)",
+   "Q26842": "Rybenka domácí (Lepisma saccharina)",
+   "Q28175": "Chroust obecný (Melolontha melolontha)",
+   "Q41633": "Jasoň červenooký (Parnassius apollo)",
+   "Q45532": "Bekyně velkohlavá (Lymantria dispar)",
+   "Q752274": "Čmelák zemní (Bombus terrestris)",
+   "Q940337": "Štěnice domácí (Cimex lectularius)"
+  }
+ },
+ {
+  "id": "Q527496#1",
+  "species": "Šídlo královské",
+  "latin": "Anax imperator",
+  "text": "Larvy se živí jiným hmyzem, pulci a rybičkami.",
+  "quote": "Jsou dravé a živí se jiným hmyzem, pulci a rybičkami.",
+  "claimed_false_for": {
+   "Q1148004": "Komár tropický (Aedes aegypti)",
+   "Q1345952": "Ostruháček ostružinový (Callophrys rubi)",
+   "Q158699": "Babočka paví oko (Aglais io)",
+   "Q27958": "Komár pisklavý (Culex pipiens)",
+   "Q30034": "Včela medonosná (Apis mellifera)",
+   "Q663181": "Okáč pýrový (Pararge aegeria)",
+   "Q811483": "Bělásek ovocný (Aporia crataegi)"
+  }
+ },
+ {
+  "id": "Q624996#1",
+  "species": "Puchýřník lékařský",
+  "latin": "Lytta vesicatoria",
+  "text": "Vylíhlé larvy vyhledávají hnízda samotářských včel.",
+  "quote": "vylíhlý triungulin (larva majek a vějířníků) vyhledává hnízda samotářských hostitelských včel",
+  "claimed_false_for": {
+   "Q148769": "Mravenec lesní (Formica rufa)",
+   "Q156954": "Mandelinka bramborová (Leptinotarsa decemlineata)",
+   "Q159543": "Slunéčko sedmitečné (Coccinella septempunctata)",
+   "Q1750802": "Vruboun posvátný (Scarabaeus sacer)",
+   "Q26764": "Bělásek zelný (Pieris brassicae)",
+   "Q30258": "Sršeň obecná (Vespa crabro)",
+   "Q477918": "Komár tygrovaný (Aedes albopictus)",
+   "Q486957": "Ruměnice pospolná (Pyrrhocoris apterus)",
+   "Q503978": "Perleťovec stříbropásek (Argynnis paphia)",
+   "Q731970": "Zlatohlávek zlatý (Cetonia aurata)",
+   "Q740169": "Ohniváček černokřídlý (Lycaena phlaeas)"
+  }
+ },
+ {
+  "id": "Q663181#1",
+  "species": "Okáč pýrový",
+  "latin": "Pararge aegeria",
+  "text": "Samice klade vajíčka na různé druhy lesních trav.",
+  "quote": "Samice klade vajíčka jednotlivě na různé druhy lesních trav",
+  "claimed_false_for": {
+   "Q26764": "Bělásek zelný (Pieris brassicae)",
+   "Q503978": "Perleťovec stříbropásek (Argynnis paphia)"
+  }
+ },
+ {
+  "id": "Q683592#1",
+  "species": "Bělásek řepkový",
+  "latin": "Pieris napi",
+  "text": "Přezimuje jako kukla přilepená k rostlině.",
+  "quote": "Zimní období druh přežívá ve stadiu kukly přilepené k rostlině.",
+  "claimed_false_for": {
+   "Q136668": "Sršeň asijská (Vespa velutina)",
+   "Q158699": "Babočka paví oko (Aglais io)",
+   "Q2537221": "Škvor obecný (Forficula auricularia)",
+   "Q27958": "Komár pisklavý (Culex pipiens)",
+   "Q30034": "Včela medonosná (Apis mellifera)",
+   "Q811483": "Bělásek ovocný (Aporia crataegi)"
+  }
+ },
+ {
+  "id": "Q727567#1",
+  "species": "Cvrček polní",
+  "latin": "Gryllus campestris",
+  "text": "Živí se výhonky, jemnými lístky a trávou.",
+  "quote": "Cvrček polní se živí výhonky, jemnými lístky a trávou.",
+  "claimed_false_for": {
+   "Q166111": "Moucha domácí (Musca domestica)",
+   "Q260482": "Vosa obecná (Vespula vulgaris)",
+   "Q268319": "Kudlanka nábožná (Mantis religiosa)",
+   "Q752274": "Čmelák zemní (Bombus terrestris)",
+   "Q940337": "Štěnice domácí (Cimex lectularius)"
+  }
+ },
+ {
+  "id": "Q729353#0",
+  "species": "Nosorožík kapucínek",
+  "latin": "Oryctes nasicornis",
+  "text": "Larvy žijí 3–5 let v trouchnivějícím dřevě.",
+  "quote": "Larvy žijí v trouchnivějícím dřevě v humusu v pařeništích nebo v kompostu 3–5 let.",
+  "claimed_false_for": {
+   "Q121791": "Sršeň mandarínská (Vespa mandarinia)",
+   "Q156454": "Babočka admirál (Vanessa atalanta)",
+   "Q161533": "Modrásek jehlicový (Polyommatus icarus)",
+   "Q179530": "Otakárek fenyklový (Papilio machaon)",
+   "Q27653": "Bělásek řepový (Pieris rapae)",
+   "Q30982": "Batolec duhový (Apatura iris)",
+   "Q31080": "Otakárek ovocný (Iphiclides podalirius)",
+   "Q683592": "Bělásek řepkový (Pieris napi)",
+   "Q754675": "Babočka bílé C (Polygonia c-album)",
+   "Q792871": "Modrásek krušinový (Celastrina argiolus)"
+  }
+ },
+ {
+  "id": "Q729353#1",
+  "species": "Nosorožík kapucínek",
+  "latin": "Oryctes nasicornis",
+  "text": "Létá hlavně v noci a v podvečer.",
+  "quote": "Létá zejména v noci a v podvečer.",
+  "claimed_false_for": {
+   "Q156954": "Mandelinka bramborová (Leptinotarsa decemlineata)",
+   "Q159543": "Slunéčko sedmitečné (Coccinella septempunctata)",
+   "Q26764": "Bělásek zelný (Pieris brassicae)",
+   "Q477918": "Komár tygrovaný (Aedes albopictus)",
+   "Q486957": "Ruměnice pospolná (Pyrrhocoris apterus)",
+   "Q503978": "Perleťovec stříbropásek (Argynnis paphia)",
+   "Q731970": "Zlatohlávek zlatý (Cetonia aurata)",
+   "Q740169": "Ohniváček černokřídlý (Lycaena phlaeas)"
+  }
+ },
+ {
+  "id": "Q731970#1",
+  "species": "Zlatohlávek zlatý",
+  "latin": "Cetonia aurata",
+  "text": "Larvy se živí organickým materiálem, například v kompostech.",
+  "quote": "kde se krmí organickým materiálem",
+  "claimed_false_for": {
+   "Q167435": "Atlas velký (Attacus atlas)",
+   "Q179530": "Otakárek fenyklový (Papilio machaon)",
+   "Q212398": "Monarcha stěhovavý (Danaus plexippus)",
+   "Q41524": "Lišaj smrtihlav (Acherontia atropos)",
+   "Q624996": "Puchýřník lékařský (Lytta vesicatoria)",
+   "Q663181": "Okáč pýrový (Pararge aegeria)",
+   "Q811483": "Bělásek ovocný (Aporia crataegi)",
+   "Q840434": "Včela obrovská (Apis dorsata)"
+  }
+ },
+ {
+  "id": "Q754675#1",
+  "species": "Babočka bílé C",
+  "latin": "Polygonia c-album",
+  "text": "Housenky se ukrývají na spodní straně listů.",
+  "quote": "Obvykle se ukrývají na spodní straně listů",
+  "claimed_false_for": {
+   "Q152856": "Strašilka humří (Dryococelus australis)",
+   "Q161528": "Modrásek černoskvrnný (Phengaris arion)",
+   "Q248379": "Motýlice obecná (Calopteryx virgo)",
+   "Q466194": "Rus domácí (Blattella germanica)",
+   "Q503799": "Herkules antilský (Dynastes hercules)",
+   "Q727567": "Cvrček polní (Gryllus campestris)"
+  }
+ },
+ {
+  "id": "Q792871#0",
+  "species": "Modrásek krušinový",
+  "latin": "Celastrina argiolus",
+  "text": "Housenky nejsou vybíravé a živí se celou řadou rostlin.",
+  "quote": "Co se týče potravy nejsou housenky vybíravé a živí se celou řadou rostlin.",
+  "claimed_false_for": {
+   "Q130888": "Octomilka obecná (Drosophila melanogaster)",
+   "Q1750802": "Vruboun posvátný (Scarabaeus sacer)",
+   "Q179530": "Otakárek fenyklový (Papilio machaon)",
+   "Q212398": "Monarcha stěhovavý (Danaus plexippus)",
+   "Q27711": "Cvrček domácí (Acheta domesticus)",
+   "Q466194": "Rus domácí (Blattella germanica)",
+   "Q624996": "Puchýřník lékařský (Lytta vesicatoria)",
+   "Q840434": "Včela obrovská (Apis dorsata)"
+  }
+ },
+ {
+  "id": "Q792871#1",
+  "species": "Modrásek krušinový",
+  "latin": "Celastrina argiolus",
+  "text": "Přezimuje jako kukla na spodní straně listů nebo v opadance.",
+  "quote": "Motýl přezimuje ve stadiu kukly na spodní straně listů a v opadance.",
+  "claimed_false_for": {
+   "Q157609": "Babočka kopřivová (Aglais urticae)",
+   "Q161528": "Modrásek černoskvrnný (Phengaris arion)",
+   "Q248379": "Motýlice obecná (Calopteryx virgo)",
+   "Q369034": "Dlouhozobka svízelová (Macroglossum stellatarum)",
+   "Q503799": "Herkules antilský (Dynastes hercules)",
+   "Q503989": "Babočka osiková (Nymphalis antiopa)",
+   "Q727567": "Cvrček polní (Gryllus campestris)",
+   "Q754668": "Okáč luční (Maniola jurtina)"
+  }
+ },
+ {
+  "id": "Q811483#0",
+  "species": "Bělásek ovocný",
+  "latin": "Aporia crataegi",
+  "text": "Housenky se živí listy hlohu, trnky, jeřábu a slivoně.",
+  "quote": "Živnou rostlinou housenky běláska ovocného jsou různé druhy hlohu, trnky, ale také jeřáb, slivoň",
+  "claimed_false_for": {
+   "Q121791": "Sršeň mandarínská (Vespa mandarinia)",
+   "Q156454": "Babočka admirál (Vanessa atalanta)",
+   "Q161533": "Modrásek jehlicový (Polyommatus icarus)",
+   "Q179530": "Otakárek fenyklový (Papilio machaon)",
+   "Q190491": "Roháč obecný (Lucanus cervus)",
+   "Q27653": "Bělásek řepový (Pieris rapae)",
+   "Q476326": "Krtonožka obecná (Gryllotalpa gryllotalpa)",
+   "Q683592": "Bělásek řepkový (Pieris napi)",
+   "Q754675": "Babočka bílé C (Polygonia c-album)"
+  }
+ },
+ {
+  "id": "Q811483#1",
+  "species": "Bělásek ovocný",
+  "latin": "Aporia crataegi",
+  "text": "Samice klade vajíčka ve shlucích po 50 až 200 kusech.",
+  "quote": "Samice klade shluky vajíček, čítající 50 až 200 kusů",
+  "claimed_false_for": {
+   "Q1148004": "Komár tropický (Aedes aegypti)",
+   "Q1345952": "Ostruháček ostružinový (Callophrys rubi)",
+   "Q30034": "Včela medonosná (Apis mellifera)",
+   "Q527496": "Šídlo královské (Anax imperator)",
+   "Q663181": "Okáč pýrový (Pararge aegeria)"
+  }
+ },
+ {
+  "id": "Q840434#0",
+  "species": "Včela obrovská",
+  "latin": "Apis dorsata",
+  "text": "Dělnice je až 2 cm dlouhá.",
+  "quote": "Dělnice včely obrovské je až 2 cm dlouhá.",
+  "claimed_false_for": {
+   "Q130888": "Octomilka obecná (Drosophila melanogaster)",
+   "Q167435": "Atlas velký (Attacus atlas)",
+   "Q1750802": "Vruboun posvátný (Scarabaeus sacer)",
+   "Q179530": "Otakárek fenyklový (Papilio machaon)",
+   "Q212398": "Monarcha stěhovavý (Danaus plexippus)",
+   "Q27711": "Cvrček domácí (Acheta domesticus)",
+   "Q41524": "Lišaj smrtihlav (Acherontia atropos)",
+   "Q466194": "Rus domácí (Blattella germanica)",
+   "Q624996": "Puchýřník lékařský (Lytta vesicatoria)",
+   "Q663181": "Okáč pýrový (Pararge aegeria)",
+   "Q811483": "Bělásek ovocný (Aporia crataegi)"
+  }
+ },
+ {
+  "id": "Q858284#0",
+  "species": "Titán obrovský",
+  "latin": "Titanus giganteus",
+  "text": "Obývá deštné pralesy Jižní Ameriky.",
+  "quote": "Obývá deštné pralesy Jižní Ameriky.",
+  "claimed_false_for": {
+   "Q152856": "Strašilka humří (Dryococelus australis)",
+   "Q157609": "Babočka kopřivová (Aglais urticae)",
+   "Q161528": "Modrásek černoskvrnný (Phengaris arion)",
+   "Q248379": "Motýlice obecná (Calopteryx virgo)",
+   "Q322180": "Bělásek řeřichový (Anthocharis cardamines)",
+   "Q369034": "Dlouhozobka svízelová (Macroglossum stellatarum)",
+   "Q503989": "Babočka osiková (Nymphalis antiopa)",
+   "Q727567": "Cvrček polní (Gryllus campestris)",
+   "Q754668": "Okáč luční (Maniola jurtina)"
+  }
+ },
+ {
+  "id": "Q858284#1",
+  "species": "Titán obrovský",
+  "latin": "Titanus giganteus",
+  "text": "Tento druh je aktivní hlavně v noci.",
+  "quote": "Dospělý brouk dobře létá a je aktivní hlavně v noci.",
+  "claimed_false_for": {
+   "Q1750802": "Vruboun posvátný (Scarabaeus sacer)",
+   "Q179530": "Otakárek fenyklový (Papilio machaon)",
+   "Q212398": "Monarcha stěhovavý (Danaus plexippus)",
+   "Q663181": "Okáč pýrový (Pararge aegeria)",
+   "Q811483": "Bělásek ovocný (Aporia crataegi)"
+  }
+ },
+ {
+  "id": "Q929463#1",
+  "species": "Modrásek cizokrajný",
+  "latin": "Lampides boeticus",
+  "text": "Na zahradách jedí housenky také hrách a fazol.",
+  "quote": "Na zahradách housenky konzumují také hrách (Pisum) a fazol (Phaseolus).",
+  "claimed_false_for": {
+   "Q152856": "Strašilka humří (Dryococelus australis)",
+   "Q157609": "Babočka kopřivová (Aglais urticae)",
+   "Q161528": "Modrásek černoskvrnný (Phengaris arion)",
+   "Q248379": "Motýlice obecná (Calopteryx virgo)",
+   "Q322180": "Bělásek řeřichový (Anthocharis cardamines)",
+   "Q369034": "Dlouhozobka svízelová (Macroglossum stellatarum)",
+   "Q466194": "Rus domácí (Blattella germanica)",
+   "Q503799": "Herkules antilský (Dynastes hercules)",
+   "Q503989": "Babočka osiková (Nymphalis antiopa)",
+   "Q754668": "Okáč luční (Maniola jurtina)"
+  }
+ },
+ {
+  "id": "Q940337#0",
+  "species": "Štěnice domácí",
+  "latin": "Cimex lectularius",
+  "text": "Tento druh se živí hlavně lidskou krví.",
+  "quote": "jenž se živí primárně lidskou krví",
+  "claimed_false_for": {
+   "Q121791": "Sršeň mandarínská (Vespa mandarinia)",
+   "Q156454": "Babočka admirál (Vanessa atalanta)",
+   "Q161533": "Modrásek jehlicový (Polyommatus icarus)",
+   "Q179530": "Otakárek fenyklový (Papilio machaon)",
+   "Q190491": "Roháč obecný (Lucanus cervus)",
+   "Q27653": "Bělásek řepový (Pieris rapae)",
+   "Q30982": "Batolec duhový (Apatura iris)",
+   "Q31080": "Otakárek ovocný (Iphiclides podalirius)",
+   "Q476326": "Krtonožka obecná (Gryllotalpa gryllotalpa)",
+   "Q683592": "Bělásek řepkový (Pieris napi)",
+   "Q754675": "Babočka bílé C (Polygonia c-album)",
+   "Q792871": "Modrásek krušinový (Celastrina argiolus)"
+  }
+ },
+ {
+  "id": "Q940337#1",
+  "species": "Štěnice domácí",
+  "latin": "Cimex lectularius",
+  "text": "Přes den se skrývá v lidských obydlích, v noci saje lidem krev.",
+  "quote": "v noci sají krev na lidech",
+  "claimed_false_for": {
+   "Q148769": "Mravenec lesní (Formica rufa)",
+   "Q156954": "Mandelinka bramborová (Leptinotarsa decemlineata)",
+   "Q159543": "Slunéčko sedmitečné (Coccinella septempunctata)",
+   "Q1750802": "Vruboun posvátný (Scarabaeus sacer)",
+   "Q26764": "Bělásek zelný (Pieris brassicae)",
+   "Q30258": "Sršeň obecná (Vespa crabro)",
+   "Q486957": "Ruměnice pospolná (Pyrrhocoris apterus)",
+   "Q503978": "Perleťovec stříbropásek (Argynnis paphia)",
+   "Q729353": "Nosorožík kapucínek (Oryctes nasicornis)",
+   "Q731970": "Zlatohlávek zlatý (Cetonia aurata)",
+   "Q740169": "Ohniváček černokřídlý (Lycaena phlaeas)"
+  }
+ },
+ {
+  "id": "Q940337#2",
+  "species": "Štěnice domácí",
+  "latin": "Cimex lectularius",
+  "text": "Sání krve trvá v průměru 3 až 10 minut.",
+  "quote": "Sání krve trvá v průměru 3–10 minut",
+  "claimed_false_for": {
+   "Q121791": "Sršeň mandarínská (Vespa mandarinia)",
+   "Q156454": "Babočka admirál (Vanessa atalanta)",
+   "Q161533": "Modrásek jehlicový (Polyommatus icarus)",
+   "Q179530": "Otakárek fenyklový (Papilio machaon)",
+   "Q190491": "Roháč obecný (Lucanus cervus)",
+   "Q27653": "Bělásek řepový (Pieris rapae)",
+   "Q30982": "Batolec duhový (Apatura iris)",
+   "Q31080": "Otakárek ovocný (Iphiclides podalirius)",
+   "Q476326": "Krtonožka obecná (Gryllotalpa gryllotalpa)",
+   "Q683592": "Bělásek řepkový (Pieris napi)",
+   "Q754675": "Babočka bílé C (Polygonia c-album)",
+   "Q792871": "Modrásek krušinový (Celastrina argiolus)"
+  }
+ },
+ {
+  "id": "Q940337#4",
+  "species": "Štěnice domácí",
+  "latin": "Cimex lectularius",
+  "text": "Kromě lidí saje krev i psům, kočkám a ptákům v klecích.",
+  "quote": "mohou sát i na psech, kočkách a ptácích v klecích",
+  "claimed_false_for": {
+   "Q121791": "Sršeň mandarínská (Vespa mandarinia)",
+   "Q156454": "Babočka admirál (Vanessa atalanta)",
+   "Q161533": "Modrásek jehlicový (Polyommatus icarus)",
+   "Q179530": "Otakárek fenyklový (Papilio machaon)",
+   "Q190491": "Roháč obecný (Lucanus cervus)",
+   "Q27653": "Bělásek řepový (Pieris rapae)",
+   "Q30982": "Batolec duhový (Apatura iris)",
+   "Q31080": "Otakárek ovocný (Iphiclides podalirius)",
+   "Q476326": "Krtonožka obecná (Gryllotalpa gryllotalpa)",
+   "Q683592": "Bělásek řepkový (Pieris napi)",
+   "Q754675": "Babočka bílé C (Polygonia c-album)",
+   "Q792871": "Modrásek krušinový (Celastrina argiolus)"
+  }
+ }
+]

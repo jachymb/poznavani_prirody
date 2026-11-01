@@ -1,0 +1,520 @@
+[
+ {
+  "id": "Q2245678#0",
+  "species": "Rákosnička madagaskarská",
+  "latin": "Heterixalus madagascariensis",
+  "text": "Živí se hlavně menším hmyzem, například cvrčky a mouchami.",
+  "quote": "Za potravu této žábě slouží převážně menší hmyz, např. menší cvrčci, mouchy",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q2246059#7",
+  "species": "Rákosnička mramorovaná",
+  "latin": "Hyperolius marmoratus",
+  "text": "Klade vajíčka na rostliny ve vodě.",
+  "quote": "samice je klade v malých skupinkách po dvaceti na rostlinstvo ve vodě",
+  "claimed_false_for": {
+   "Q615690": "Pralesnička harlekýn (Dendrobates leucomelas)",
+   "Q943919": "Mantela černožlutá (Mantella cowanii)",
+   "Q963997": "Pralesnička strašná (Phyllobates terribilis)"
+  }
+ },
+ {
+  "id": "Q2249158#0",
+  "species": "Červorovec splývavý",
+  "latin": "Typhlonectes natans",
+  "text": "Vyskytuje se v Kolumbii a Venezuele.",
+  "quote": "V přírodě se vyskytuje v Kolumbii a Venezuele.",
+  "claimed_false_for": {
+   "Q1033375": "Leiopelma Hamiltonova (Leiopelma hamiltoni)",
+   "Q138526": "Čolek hranatý (Lissotriton helveticus)",
+   "Q2275494": "Atelopus hladký (Atelopus carrikeri)",
+   "Q2702010": "Skokan Blythův (Limnonectes blythii)",
+   "Q282715": "Čolek horský (Ichthyosaura alpestris)",
+   "Q44324": "Skokan ostronosý (Rana arvalis)",
+   "Q996518": "Ocasatka americká (Ascaphus truei)"
+  }
+ },
+ {
+  "id": "Q2249158#1",
+  "species": "Červorovec splývavý",
+  "latin": "Typhlonectes natans",
+  "text": "Dorůstá až 55 cm.",
+  "quote": "Dorůstá až 55 cm.",
+  "claimed_false_for": {
+   "Q1033375": "Leiopelma Hamiltonova (Leiopelma hamiltoni)",
+   "Q138526": "Čolek hranatý (Lissotriton helveticus)",
+   "Q1759940": "Ropucha Blombergova (Rhaebo blombergi)",
+   "Q2275494": "Atelopus hladký (Atelopus carrikeri)",
+   "Q2702010": "Skokan Blythův (Limnonectes blythii)",
+   "Q282715": "Čolek horský (Ichthyosaura alpestris)",
+   "Q285343": "Žabice podivná (Pseudis paradoxa)",
+   "Q44324": "Skokan ostronosý (Rana arvalis)",
+   "Q654718": "Drápatka vodní (Xenopus laevis)",
+   "Q996518": "Ocasatka americká (Ascaphus truei)"
+  }
+ },
+ {
+  "id": "Q226081#2",
+  "species": "Parosnička rajská",
+  "latin": "Dyscophus antongilii",
+  "text": "Loví hmyz, který se kolem něj pohybuje.",
+  "quote": "obvykle sedí na místě a lapají hmyz pohybující se okolo",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q226081#3",
+  "species": "Parosnička rajská",
+  "latin": "Dyscophus antongilii",
+  "text": "Pulci tohoto druhu se živí vodním planktonem.",
+  "quote": "Pulci se vylíhnou za 36 hodin po nakladení vajec a živí se vodním",
+  "claimed_false_for": {
+   "Q2237200": "Cecílie zlatá (Schistometopum thomense)",
+   "Q2249158": "Červorovec splývavý (Typhlonectes natans)",
+   "Q2691035": "Vakorosnička rohatá (Gastrotheca cornuta)"
+  }
+ },
+ {
+  "id": "Q226081#4",
+  "species": "Parosnička rajská",
+  "latin": "Dyscophus antongilii",
+  "text": "Dospělí jedinci nápadnou barvou odrazují dravce od útoku.",
+  "quote": "Dospělé žáby svou nápadnou barvou předem odrazují dravce od útoku.",
+  "claimed_false_for": {
+   "Q2445924": "Drsnokožka kornatá (Theloderma corticale)",
+   "Q629332": "Surýn úhořovitý (Siren lacertina)"
+  }
+ },
+ {
+  "id": "Q22718#0",
+  "species": "Axolotl mexický",
+  "latin": "Ambystoma mexicanum",
+  "text": "V dospělosti žere žížaly a drobné rybky.",
+  "quote": "v dospělosti přijímá též žížaly, drobné rybky, mláďata myší",
+  "claimed_false_for": {
+   "Q2142057": "Rosnička zelená (Hyla arborea)"
+  }
+ },
+ {
+  "id": "Q22718#1",
+  "species": "Axolotl mexický",
+  "latin": "Ambystoma mexicanum",
+  "text": "Má velkou schopnost regenerace.",
+  "quote": "Má velkou schopnost regenerace.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q2274157#4",
+  "species": "Leiopelma Archeyova",
+  "latin": "Leiopelma archeyi",
+  "text": "Tento druh se živí drobným hmyzem, mravenci, roztoči a červy.",
+  "quote": "živí se drobným hmyzem, mravenci, roztoči, stejnonožci, různonožci, červy, plži a dalšími bezobratlými",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q2274157#5",
+  "species": "Leiopelma Archeyova",
+  "latin": "Leiopelma archeyi",
+  "text": "Krysy, kočky, lasice, vačice a ježci mohou tento druh lovit.",
+  "quote": "Predátory této žáby mohou být krysy, kočky, lasice, vačice, ježci",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q2274157#6",
+  "species": "Leiopelma Archeyova",
+  "latin": "Leiopelma archeyi",
+  "text": "Ohrožují invazní čolci horští, protože přenášejí nemoci.",
+  "quote": "Nebezpečím jsou také invazní čolci horští (Ichthyosaura alpestris), protože jsou přenášeči nemocí",
+  "claimed_false_for": {
+   "Q1190196": "Létavka černoblanná (Rhacophorus nigropalmatus)",
+   "Q135660": "Mantela širokoprstá (Mantella laevigata)",
+   "Q140126": "Pralesnička zlatopruhá (Phyllobates aurotaenia)",
+   "Q1759933": "Cecílie mexická (Dermophis mexicanus)",
+   "Q2237380": "Ansonie dlouhoprstá (Ansonia longidigita)",
+   "Q2246059": "Rákosnička mramorovaná (Hyperolius marmoratus)",
+   "Q2274204": "Japonečka Bürgerova (Buergeria buergeri)",
+   "Q2700528": "Listovnice Rohdeova (Phyllomedusa rohdei)",
+   "Q28004559": "Ropucha portorická (Peltophryne lemur)",
+   "Q3024052": "Kéralka indická (Melanobatrachus indicus)",
+   "Q321087": "Ropucha obrovská (Rhinella marina)",
+   "Q622886": "Ropucha krátkonohá (Epidalea calamita)"
+  }
+ },
+ {
+  "id": "Q2276837#0",
+  "species": "Mantela žlutavá",
+  "latin": "Mantella crocea",
+  "text": "Dosahuje velikosti 17 až 24 mm.",
+  "quote": "Mantela žlutavá dosahuje velikosti 17 až 24 mm",
+  "claimed_false_for": {
+   "Q2237200": "Cecílie zlatá (Schistometopum thomense)",
+   "Q2245678": "Rákosnička madagaskarská (Heterixalus madagascariensis)",
+   "Q2249158": "Červorovec splývavý (Typhlonectes natans)",
+   "Q2691035": "Vakorosnička rohatá (Gastrotheca cornuta)",
+   "Q507708": "Rohatka brazilská (Ceratophrys cornuta)",
+   "Q606431": "Kuňka žlutobřichá (Bombina variegata)",
+   "Q616507": "Blatnice skvrnitá (Pelobates fuscus)",
+   "Q660346": "Čolek dravý (Triturus carnifex)",
+   "Q940823": "Rosnice červenooká (Litoria chloris)"
+  }
+ },
+ {
+  "id": "Q2276837#1",
+  "species": "Mantela žlutavá",
+  "latin": "Mantella crocea",
+  "text": "Pulci se vyvíjejí ve vodě.",
+  "quote": "pulci se však vyvíjejí ve vodním prostředí",
+  "claimed_false_for": {
+   "Q1759933": "Cecílie mexická (Dermophis mexicanus)"
+  }
+ },
+ {
+  "id": "Q243242#0",
+  "species": "Ropucha zelená",
+  "latin": "Bufo viridis",
+  "text": "Dorůstá jen zřídka přes 8 cm.",
+  "quote": "velikostí málokdy přesáhne 8 cm",
+  "claimed_false_for": {
+   "Q146375": "Ropucha obecná (Bufo bufo)"
+  }
+ },
+ {
+  "id": "Q243242#1",
+  "species": "Ropucha zelená",
+  "latin": "Bufo viridis",
+  "text": "Vyhýbá se chladným a horským oblastem.",
+  "quote": "Vyhýbá se chladnějším a horským oblastem.",
+  "claimed_false_for": {
+   "Q4666317": "Skokan lesní (Lithobates sylvaticus)",
+   "Q775326": "Mantela zlatá (Mantella aurantiaca)"
+  }
+ },
+ {
+  "id": "Q243242#2",
+  "species": "Ropucha zelená",
+  "latin": "Bufo viridis",
+  "text": "Tento druh je aktivní hlavně v noci.",
+  "quote": "Aktivita ropuchy zelené je v převážné míře noční.",
+  "claimed_false_for": {
+   "Q2276837": "Mantela žlutavá (Mantella crocea)",
+   "Q3020973": "Pralesnička žlutopruhá (Dendrobates truncatus)",
+   "Q786955": "Pralesnička drobná (Oophaga pumilio)"
+  }
+ },
+ {
+  "id": "Q243242#3",
+  "species": "Ropucha zelená",
+  "latin": "Bufo viridis",
+  "text": "V jedné snůšce bývá 2000 až 6000 vajíček.",
+  "quote": "Počet vajíček ve snůšce (šňůrách) se pohybuje mezi 2000 a 6000.",
+  "claimed_false_for": {
+   "Q2274157": "Leiopelma Archeyova (Leiopelma archeyi)",
+   "Q2276837": "Mantela žlutavá (Mantella crocea)",
+   "Q24796785": "Rosněnka průsvitná (Espadarana prosoblepon)",
+   "Q3020973": "Pralesnička žlutopruhá (Dendrobates truncatus)",
+   "Q786955": "Pralesnička drobná (Oophaga pumilio)"
+  }
+ },
+ {
+  "id": "Q2456853#3",
+  "species": "Listovnice ostruhatá",
+  "latin": "Cruziohyla calcarifer",
+  "text": "Pulci tohoto druhu jedí i jiné pulce.",
+  "quote": "výjimkou není ani kanibalismus",
+  "claimed_false_for": {
+   "Q2274157": "Leiopelma Archeyova (Leiopelma archeyi)"
+  }
+ },
+ {
+  "id": "Q24796785#4",
+  "species": "Rosněnka průsvitná",
+  "latin": "Espadarana prosoblepon",
+  "text": "Pulci se zprvu živí řasami a planktonem.",
+  "quote": "Zprvu se živí řasami, planktonem",
+  "claimed_false_for": {
+   "Q2237200": "Cecílie zlatá (Schistometopum thomense)",
+   "Q2249158": "Červorovec splývavý (Typhlonectes natans)",
+   "Q2691035": "Vakorosnička rohatá (Gastrotheca cornuta)"
+  }
+ },
+ {
+  "id": "Q24796785#5",
+  "species": "Rosněnka průsvitná",
+  "latin": "Espadarana prosoblepon",
+  "text": "Pulci se později živí i jinými pulci.",
+  "quote": "později i jinými pulci",
+  "claimed_false_for": {
+   "Q963997": "Pralesnička strašná (Phyllobates terribilis)"
+  }
+ },
+ {
+  "id": "Q24796785#6",
+  "species": "Rosněnka průsvitná",
+  "latin": "Espadarana prosoblepon",
+  "text": "Houba, která ničí kůži, ho občas napadá.",
+  "quote": "Občas bývají napadány houbou Batrachochytrium dendrobatidis, která ničí jejich kůži",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q259425#1",
+  "species": "Mlok černý",
+  "latin": "Salamandra atra",
+  "text": "Přirozené nepřátele nemá kvůli jedovatému sekretu z pokožky.",
+  "quote": "Přirozené nepřátele nemá vzhledem k jedovatému sekretu, který vylučuje pokožkou.",
+  "claimed_false_for": {
+   "Q1540596": "Taricha zrnitá (Taricha granulosa)",
+   "Q2698012": "Mločík kalifornský (Batrachoseps attenuatus)"
+  }
+ },
+ {
+  "id": "Q26395#4",
+  "species": "Mlok skvrnitý",
+  "latin": "Salamandra salamandra",
+  "text": "Larvy se živí rybím potěrem, drobnými korýši nebo členovci.",
+  "quote": "Larvy jsou masožravé, živí se rybím potěrem, drobnými korýši nebo členovci",
+  "claimed_false_for": {
+   "Q134231": "Pablatnice nosatá (Megophrys nasuta)",
+   "Q2276155": "Mantela zelená (Mantella viridis)"
+  }
+ },
+ {
+  "id": "Q2697541#0",
+  "species": "Parosnička madagaskarská",
+  "latin": "Dyscophus insularis",
+  "text": "Živí se hmyzem a jeho larvami.",
+  "quote": "Živí se především hmyzem a jeho larvami",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q2697541#1",
+  "species": "Parosnička madagaskarská",
+  "latin": "Dyscophus insularis",
+  "text": "Rozmnožuje se v mělkých, dočasných tůních.",
+  "quote": "Rozmnožuje se v mělkých, dočasných tůních.",
+  "claimed_false_for": {
+   "Q1499291": "Ropušenka drobná (Brachycephalus ephippium)",
+   "Q220414": "Pipa americká (Pipa pipa)",
+   "Q977377": "Kuňka pralesní (Barbourula busuangensis)"
+  }
+ },
+ {
+  "id": "Q2698012#2",
+  "species": "Mločík kalifornský",
+  "latin": "Batrachoseps attenuatus",
+  "text": "Živí se bezobratlými živočichy, které uchvátí ze zálohy.",
+  "quote": "Živí se bezobratlými živočichy, které uchvátí ze zálohy",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q2700345#0",
+  "species": "Ropušenka dvouprstá",
+  "latin": "Brachycephalus didactylus",
+  "text": "Délka jejího těla je jen necelých 10 mm.",
+  "quote": "Délka jejího těla je pouze 9,6 – 9,8 mm",
+  "claimed_false_for": {
+   "Q1190196": "Létavka černoblanná (Rhacophorus nigropalmatus)",
+   "Q135660": "Mantela širokoprstá (Mantella laevigata)",
+   "Q140126": "Pralesnička zlatopruhá (Phyllobates aurotaenia)",
+   "Q1759933": "Cecílie mexická (Dermophis mexicanus)",
+   "Q2237380": "Ansonie dlouhoprstá (Ansonia longidigita)",
+   "Q2246059": "Rákosnička mramorovaná (Hyperolius marmoratus)",
+   "Q2274204": "Japonečka Bürgerova (Buergeria buergeri)",
+   "Q2700528": "Listovnice Rohdeova (Phyllomedusa rohdei)",
+   "Q28004559": "Ropucha portorická (Peltophryne lemur)",
+   "Q3024052": "Kéralka indická (Melanobatrachus indicus)",
+   "Q321087": "Ropucha obrovská (Rhinella marina)",
+   "Q622886": "Ropucha krátkonohá (Epidalea calamita)"
+  }
+ },
+ {
+  "id": "Q2700345#1",
+  "species": "Ropušenka dvouprstá",
+  "latin": "Brachycephalus didactylus",
+  "text": "Žije v lesní hrabance v deštném pralese.",
+  "quote": "Žije v lesní hrabance primárního deštného pralesa",
+  "claimed_false_for": {
+   "Q146375": "Ropucha obecná (Bufo bufo)",
+   "Q4666317": "Skokan lesní (Lithobates sylvaticus)",
+   "Q764020": "Bachratka mexická (Rhinophrynus dorsalis)"
+  }
+ },
+ {
+  "id": "Q2700528#0",
+  "species": "Listovnice Rohdeova",
+  "latin": "Phyllomedusa rohdei",
+  "text": "Žije v jihovýchodní Brazílii.",
+  "quote": "Listovnice se vyskytuje v oblasti jihovýchodní Brazílie do nadmořské výšky 1000 m n. m.",
+  "claimed_false_for": {
+   "Q10534901": "Ropucha coloradská (Incilius alvarius)",
+   "Q138514": "Pralesnička amazonská (Ranitomeya amazonica)",
+   "Q226081": "Parosnička rajská (Dyscophus antongilii)",
+   "Q2706540": "Atelopus dlouhonosý (Atelopus longirostris)",
+   "Q4670240": "Mahénka ostrovní (Sechellophryne gardineri)",
+   "Q61523": "Ropuška baleárská (Alytes muletensis)",
+   "Q733704": "Rosnička japonská (Hyla japonica)",
+   "Q775199": "Pralesnička batiková (Dendrobates auratus)",
+   "Q837990": "Ropuška starostlivá (Alytes obstetricans)",
+   "Q967892": "Rosnice zlatá (Litoria aurea)"
+  }
+ },
+ {
+  "id": "Q2700528#1",
+  "species": "Listovnice Rohdeova",
+  "latin": "Phyllomedusa rohdei",
+  "text": "Klade vajíčka do hnízda z listí nad vodní hladinou.",
+  "quote": "Žába klade svá vajíčka do hnízda z listí, které je umístěno nad vodní hladinou",
+  "claimed_false_for": {
+   "Q146375": "Ropucha obecná (Bufo bufo)",
+   "Q2274157": "Leiopelma Archeyova (Leiopelma archeyi)",
+   "Q2275335": "Skokan krabožravý (Fejervarya cancrivora)",
+   "Q2276837": "Mantela žlutavá (Mantella crocea)",
+   "Q3020973": "Pralesnička žlutopruhá (Dendrobates truncatus)",
+   "Q4666317": "Skokan lesní (Lithobates sylvaticus)",
+   "Q764020": "Bachratka mexická (Rhinophrynus dorsalis)",
+   "Q786955": "Pralesnička drobná (Oophaga pumilio)"
+  }
+ },
+ {
+  "id": "Q2702010#3",
+  "species": "Skokan Blythův",
+  "latin": "Limnonectes blythii",
+  "text": "Dokáže přemoci i jiné žáby a malé hady.",
+  "quote": "dovede přemoci i jiné žáby, či dokonce malé hady",
+  "claimed_false_for": {
+   "Q138514": "Pralesnička amazonská (Ranitomeya amazonica)",
+   "Q2706540": "Atelopus dlouhonosý (Atelopus longirostris)",
+   "Q4670240": "Mahénka ostrovní (Sechellophryne gardineri)",
+   "Q61523": "Ropuška baleárská (Alytes muletensis)",
+   "Q733704": "Rosnička japonská (Hyla japonica)",
+   "Q775199": "Pralesnička batiková (Dendrobates auratus)",
+   "Q837990": "Ropuška starostlivá (Alytes obstetricans)"
+  }
+ },
+ {
+  "id": "Q27465#4",
+  "species": "Skokan hnědý",
+  "latin": "Rana temporaria",
+  "text": "Tento druh se živí hmyzem, pavouky, žížalami, slimáky a drobnými korýši.",
+  "quote": "Potravou je mu různý hmyz včetně brouků, pavouci, žížaly, slimáci či drobní korýši.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q27465#5",
+  "species": "Skokan hnědý",
+  "latin": "Rana temporaria",
+  "text": "Může hostit v kloace parazitickou bičenku.",
+  "quote": "V kloace skokana hnědého může parazitovat bičenka Monocercomonas batrachorum.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q27988374#0",
+  "species": "Malgaška madagaskarská",
+  "latin": "Cophyla tsaratananaensis",
+  "text": "Žije téměř výhradně na bambusu.",
+  "quote": "Nachází se téměř výhradně na bambusu, v jehož stoncích se také vyvíjí pulci.",
+  "claimed_false_for": {
+   "Q138853": "Pralesnička ohnivá (Oophaga histrionica)",
+   "Q2237200": "Cecílie zlatá (Schistometopum thomense)",
+   "Q2245678": "Rákosnička madagaskarská (Heterixalus madagascariensis)",
+   "Q2249158": "Červorovec splývavý (Typhlonectes natans)",
+   "Q2691035": "Vakorosnička rohatá (Gastrotheca cornuta)",
+   "Q507708": "Rohatka brazilská (Ceratophrys cornuta)",
+   "Q540587": "Atelopus plamínkový (Atelopus ignescens)",
+   "Q606431": "Kuňka žlutobřichá (Bombina variegata)",
+   "Q616507": "Blatnice skvrnitá (Pelobates fuscus)",
+   "Q660346": "Čolek dravý (Triturus carnifex)",
+   "Q940823": "Rosnice červenooká (Litoria chloris)",
+   "Q970942": "Atelopus amazonský (Atelopus spumarius)"
+  }
+ },
+ {
+  "id": "Q27988374#1",
+  "species": "Malgaška madagaskarská",
+  "latin": "Cophyla tsaratananaensis",
+  "text": "Pulci se vyvíjejí ve stoncích bambusu.",
+  "quote": "v jehož stoncích se také vyvíjí pulci",
+  "claimed_false_for": {
+   "Q1190376": "Čolek luristánský (Neurergus kaiseri)",
+   "Q1552306": "Čolek zelenavý (Notophthalmus viridescens)",
+   "Q4666317": "Skokan lesní (Lithobates sylvaticus)",
+   "Q764020": "Bachratka mexická (Rhinophrynus dorsalis)",
+   "Q837990": "Ropuška starostlivá (Alytes obstetricans)",
+   "Q842419": "Žabka černobřichá (Latonia nigriventer)",
+   "Q967892": "Rosnice zlatá (Litoria aurea)",
+   "Q977377": "Kuňka pralesní (Barbourula busuangensis)"
+  }
+ },
+ {
+  "id": "Q28004759#0",
+  "species": "Mantila tečkovaná",
+  "latin": "Guibemantis punctatus",
+  "text": "Pulci se vyvíjejí ve vodě v paždí listů pandánů.",
+  "quote": "ve vodě shromážděné v paždí listů těchto stromů se totiž vyvíjejí její pulci",
+  "claimed_false_for": {
+   "Q10534901": "Ropucha coloradská (Incilius alvarius)",
+   "Q226081": "Parosnička rajská (Dyscophus antongilii)",
+   "Q2706540": "Atelopus dlouhonosý (Atelopus longirostris)",
+   "Q4670240": "Mahénka ostrovní (Sechellophryne gardineri)",
+   "Q61523": "Ropuška baleárská (Alytes muletensis)",
+   "Q733704": "Rosnička japonská (Hyla japonica)",
+   "Q837990": "Ropuška starostlivá (Alytes obstetricans)",
+   "Q954868": "Rohatka ozdobná (Ceratophrys ornata)",
+   "Q967892": "Rosnice zlatá (Litoria aurea)"
+  }
+ },
+ {
+  "id": "Q28004759#1",
+  "species": "Mantila tečkovaná",
+  "latin": "Guibemantis punctatus",
+  "text": "Přirozeně žije jen na Madagaskaru.",
+  "quote": "přirozeně vyskytuje pouze v rámci rezervace Amboitantely v centrální části ostrova Madagaskar",
+  "claimed_false_for": {
+   "Q1061702": "Kuňka východní (Bombina orientalis)",
+   "Q1478869": "Pralesnička barvířská (Dendrobates tinctorius)",
+   "Q1640189": "Rosnička bělopruhá (Hyla cinerea)",
+   "Q2217336": "Paropucha krtkovitá (Myobatrachus gouldii)",
+   "Q2571127": "Otylka krátkohlavá (Breviceps adspersus)",
+   "Q2698100": "Pouchalka Eiffingerova (Kurixalus eiffingeri)",
+   "Q2700345": "Ropušenka dvouprstá (Brachycephalus didactylus)",
+   "Q28053307": "Pralesnička Vanzoliniova (Ranitomeya vanzolinii)",
+   "Q337616": "Listovnice červenooká (Agalychnis callidryas)",
+   "Q372267": "Kuňka obecná (Bombina bombina)"
+  }
+ },
+ {
+  "id": "Q28005123#0",
+  "species": "Pralesnička Lehmannova",
+  "latin": "Oophaga lehmanni",
+  "text": "Má výstražné zbarvení, které varuje predátory, že je jedovatý.",
+  "quote": "aposematické zbarvení, které varuje predátory, že je jedovatá",
+  "claimed_false_for": {
+   "Q220414": "Pipa americká (Pipa pipa)",
+   "Q31694": "Skokan zelený (Pelophylax esculentus)",
+   "Q338596": "Rosnička italská (Hyla intermedia)",
+   "Q387319": "Hrabatka drsná (Pyxicephalus adspersus)",
+   "Q545917": "Skokan štíhlý (Rana dalmatina)",
+   "Q754058": "Skokan krátkonohý (Pelophylax lessonae)",
+   "Q917923": "Rosnička vietnamská (Hyla simplex)"
+  }
+ },
+ {
+  "id": "Q28005123#1",
+  "species": "Pralesnička Lehmannova",
+  "latin": "Oophaga lehmanni",
+  "text": "Žije jen v malé úzké oblasti v Kolumbii.",
+  "quote": "kde žije v malé úzké oblasti na západě kolem moře",
+  "claimed_false_for": {
+   "Q1190196": "Létavka černoblanná (Rhacophorus nigropalmatus)",
+   "Q135660": "Mantela širokoprstá (Mantella laevigata)",
+   "Q1759933": "Cecílie mexická (Dermophis mexicanus)",
+   "Q2237380": "Ansonie dlouhoprstá (Ansonia longidigita)",
+   "Q2246059": "Rákosnička mramorovaná (Hyperolius marmoratus)",
+   "Q2274204": "Japonečka Bürgerova (Buergeria buergeri)",
+   "Q2700528": "Listovnice Rohdeova (Phyllomedusa rohdei)",
+   "Q28004559": "Ropucha portorická (Peltophryne lemur)",
+   "Q3024052": "Kéralka indická (Melanobatrachus indicus)",
+   "Q321087": "Ropucha obrovská (Rhinella marina)",
+   "Q622886": "Ropucha krátkonohá (Epidalea calamita)"
+  }
+ }
+]

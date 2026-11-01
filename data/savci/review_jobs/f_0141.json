@@ -1,0 +1,663 @@
+[
+ {
+  "id": "Q131538#4",
+  "species": "Kapybara",
+  "latin": "Hydrochoerus hydrochaeris",
+  "text": "Živí se především trávami, vodními rostlinami a kůrou stromů.",
+  "quote": "především trávami, vodními rostlinami a kůrou stromů",
+  "claimed_false_for": {
+   "Q166794": "Manul (Otocolobus manul)",
+   "Q175329": "Kočka pouštní (Felis margarita)",
+   "Q23907": "Gepard štíhlý (Acinonyx jubatus)",
+   "Q30847": "Karakal (Caracal caracal)",
+   "Q35694": "Jaguár americký (Panthera onca)",
+   "Q81214": "Vorvaň obrovský (Physeter macrocephalus)"
+  }
+ },
+ {
+  "id": "Q131538#5",
+  "species": "Kapybara",
+  "latin": "Hydrochoerus hydrochaeris",
+  "text": "K přirozeným nepřátelům patří jaguár, kajman a anakonda.",
+  "quote": "Mezi nejvýznamnější přirozené nepřátele kapybar patří jaguár a další šelmy, kajman a anakonda.",
+  "claimed_false_for": {
+   "Q132072": "Běluha severní (Delphinapterus leucas)",
+   "Q132922": "Velbloud dvouhrbý (Camelus bactrianus)",
+   "Q140": "Lev (Panthera leo)",
+   "Q175329": "Kočka pouštní (Felis margarita)",
+   "Q25345": "Lasice hranostaj (Mustela erminea)",
+   "Q26283": "Ondatra pižmová (Ondatra zibethicus)",
+   "Q26838": "Zajíc polní (Lepus europaeus)",
+   "Q30197": "Irbis (Panthera uncia)",
+   "Q42710": "Buvol domácí (Bubalus bubalis)",
+   "Q82037": "Okapi (Okapia johnstoni)",
+   "Q8332": "Liška obecná (Vulpes vulpes)"
+  }
+ },
+ {
+  "id": "Q131564#1",
+  "species": "Fenek",
+  "latin": "Vulpes zerda",
+  "text": "Tento druh je aktivní hlavně v noci.",
+  "quote": "je aktivní převážně v noci, přes den se schovává",
+  "claimed_false_for": {
+   "Q15083": "Žirafa severní (Giraffa camelopardalis)",
+   "Q4388": "Veverka obecná (Sciurus vulgaris)"
+  }
+ },
+ {
+  "id": "Q131564#3",
+  "species": "Fenek",
+  "latin": "Vulpes zerda",
+  "text": "Loví ještěry, ptáky, brouky a hlodavce.",
+  "quote": "Jejich kořistí se stávají ještěři (paještěrka, gekon, scink apod.), ptáci (hlavně stepokuři, skřivani a vlaštovky) a jejich vejce a mláďata, sarančata, brouci, štíři, pavouci i jiní bezobratlí a také hlodavci",
+  "claimed_false_for": {
+   "Q131340": "Kamzík horský (Rupicapra rupicapra)",
+   "Q132072": "Běluha severní (Delphinapterus leucas)",
+   "Q132905": "Keporkak (Megaptera novaeangliae)",
+   "Q42569": "Lama krotká (Lama glama)",
+   "Q79794": "Jelen evropský (Cervus elaphus)"
+  }
+ },
+ {
+  "id": "Q131564#4",
+  "species": "Fenek",
+  "latin": "Vulpes zerda",
+  "text": "Loví ho pravděpodobně šakali, hyeny, zdivočelí psi nebo výři.",
+  "quote": "Jejich nepřáteli jsou pravděpodobně šakali, hyeny, zdivočelí psi nebo výři",
+  "claimed_false_for": {
+   "Q184004": "Pižmoň severní (Ovibos moschatus)",
+   "Q82728": "Bizon americký (Bison bison)"
+  }
+ },
+ {
+  "id": "Q131564#5",
+  "species": "Fenek",
+  "latin": "Vulpes zerda",
+  "text": "Jí kořínky, hlízy a cibule rostlin, melouny a datle.",
+  "quote": "Pojídají kořínky, hlízy a cibule rostlin, melouny a také datle",
+  "claimed_false_for": {
+   "Q33609": "Medvěd lední (Ursus maritimus)",
+   "Q43576": "Kočka divoká (Felis silvestris)"
+  }
+ },
+ {
+  "id": "Q131907#0",
+  "species": "Rys červený",
+  "latin": "Lynx rufus",
+  "text": "Živí se hlavně zajíci a králíky.",
+  "quote": "V jižní části oblasti výskytu se živí především králíky východoamerickými, na severu pak zajíci měnivými.",
+  "claimed_false_for": {
+   "Q132576": "Impala (Aepyceros melampus)",
+   "Q173651": "Pes hyenový (Lycaon pictus)",
+   "Q36101": "Koala medvídkovitý (Phascolarctos cinereus)",
+   "Q36341": "Medvěd hnědý (Ursus arctos)",
+   "Q40994": "Mrož lední (Odobenus rosmarus)",
+   "Q4126704": "Šimpanz učenlivý (Pan troglodytes)",
+   "Q71516": "Velbloud jednohrbý (Camelus dromedarius)",
+   "Q81214": "Vorvaň obrovský (Physeter macrocephalus)"
+  }
+ },
+ {
+  "id": "Q131907#1",
+  "species": "Rys červený",
+  "latin": "Lynx rufus",
+  "text": "Loví hlavně v noci a za soumraku.",
+  "quote": "Je noční lovec. Na lov vyráží většinou se soumrakem",
+  "claimed_false_for": {
+   "Q25851": "Králík divoký (Oryctolagus cuniculus)",
+   "Q26838": "Zajíc polní (Lepus europaeus)",
+   "Q42569": "Lama krotká (Lama glama)",
+   "Q81091": "Zubr evropský (Bison bonasus)"
+  }
+ },
+ {
+  "id": "Q131907#2",
+  "species": "Rys červený",
+  "latin": "Lynx rufus",
+  "text": "Výborně šplhá a má ostrý zrak.",
+  "quote": "Má ostrý zrak a dobrý čich, dokáže také výborně šplhat.",
+  "claimed_false_for": {
+   "Q122069": "Srnec obecný (Capreolus capreolus)",
+   "Q36557": "Slon africký (Loxodonta africana)",
+   "Q79794": "Jelen evropský (Cervus elaphus)",
+   "Q82728": "Bizon americký (Bison bison)"
+  }
+ },
+ {
+  "id": "Q131907#3",
+  "species": "Rys červený",
+  "latin": "Lynx rufus",
+  "text": "Na jaře se rodí většinou 2 až 4 mláďata.",
+  "quote": "Mláďata (většinou 2-4) se rodí na jaře po asi dvouměsíční březosti.",
+  "claimed_false_for": {
+   "Q131340": "Kamzík horský (Rupicapra rupicapra)",
+   "Q132072": "Běluha severní (Delphinapterus leucas)",
+   "Q132905": "Keporkak (Megaptera novaeangliae)",
+   "Q19537": "Šimpanz bonobo (Pan paniscus)",
+   "Q42569": "Lama krotká (Lama glama)",
+   "Q79794": "Jelen evropský (Cervus elaphus)"
+  }
+ },
+ {
+  "id": "Q131907#4",
+  "species": "Rys červený",
+  "latin": "Lynx rufus",
+  "text": "Živí se také hlodavci, obojživelníky a ptáky.",
+  "quote": "Kromě toho se živí také hlodavci, obojživelníky, vysokou zvěří, ptáky do velikosti labutě či jeřába, vejci i zdechlinami.",
+  "claimed_false_for": {
+   "Q132576": "Impala (Aepyceros melampus)",
+   "Q36101": "Koala medvídkovitý (Phascolarctos cinereus)",
+   "Q40994": "Mrož lední (Odobenus rosmarus)",
+   "Q71516": "Velbloud jednohrbý (Camelus dromedarius)",
+   "Q81214": "Vorvaň obrovský (Physeter macrocephalus)"
+  }
+ },
+ {
+  "id": "Q131907#6",
+  "species": "Rys červený",
+  "latin": "Lynx rufus",
+  "text": "Dospělé jedince ohrožují pumy a vlci.",
+  "quote": "Mezi ně patří pumy a vlci.",
+  "claimed_false_for": {
+   "Q134015": "Surikata (Suricata suricatta)",
+   "Q134964": "Ďábel medvědovitý (Sarcophilus harrisii)",
+   "Q15083": "Žirafa severní (Giraffa camelopardalis)",
+   "Q42627": "Kočka bengálská (Prionailurus bengalensis)"
+  }
+ },
+ {
+  "id": "Q132072#2",
+  "species": "Běluha severní",
+  "latin": "Delphinapterus leucas",
+  "text": "Tento druh je dlouhý zhruba 3,5 až 5,5 metru.",
+  "quote": "dosahuje délky těla 3,5–5,5 m",
+  "claimed_false_for": {
+   "Q131564": "Fenek (Vulpes zerda)",
+   "Q166794": "Manul (Otocolobus manul)",
+   "Q23907": "Gepard štíhlý (Acinonyx jubatus)",
+   "Q26046": "Kuna lesní (Martes martes)",
+   "Q27066": "Jezevec lesní (Meles meles)",
+   "Q36101": "Koala medvídkovitý (Phascolarctos cinereus)",
+   "Q4126704": "Šimpanz učenlivý (Pan troglodytes)",
+   "Q42699": "Serval (Leptailurus serval)",
+   "Q43375": "Rys ostrovid (Lynx lynx)",
+   "Q83310": "Myš domácí (Mus musculus)"
+  }
+ },
+ {
+  "id": "Q132072#4",
+  "species": "Běluha severní",
+  "latin": "Delphinapterus leucas",
+  "text": "Jí hlavně ryby.",
+  "quote": "hlavním zdrojem potravy jsou ryby",
+  "claimed_false_for": {
+   "Q131538": "Kapybara (Hydrochoerus hydrochaeris)",
+   "Q184004": "Pižmoň severní (Ovibos moschatus)",
+   "Q19537": "Šimpanz bonobo (Pan paniscus)",
+   "Q71516": "Velbloud jednohrbý (Camelus dromedarius)",
+   "Q81214": "Vorvaň obrovský (Physeter macrocephalus)",
+   "Q82037": "Okapi (Okapia johnstoni)"
+  }
+ },
+ {
+  "id": "Q132072#6",
+  "species": "Běluha severní",
+  "latin": "Delphinapterus leucas",
+  "text": "Pomocí zvuků hledá kořist i díry v ledu, kterými dýchá.",
+  "quote": "K navigaci a hledání kořisti používá echolokaci, která umožňuje nalézt i dýchací díry v ledu.",
+  "claimed_false_for": {
+   "Q133006": "Slon indický (Elephas maximus)",
+   "Q160042": "Buvol africký (Syncerus caffer)",
+   "Q26046": "Kuna lesní (Martes martes)",
+   "Q27066": "Jezevec lesní (Meles meles)",
+   "Q30197": "Irbis (Panthera uncia)",
+   "Q42699": "Serval (Leptailurus serval)",
+   "Q43576": "Kočka divoká (Felis silvestris)",
+   "Q79794": "Jelen evropský (Cervus elaphus)",
+   "Q81564": "Lama alpaka (Vicugna pacos)",
+   "Q82728": "Bizon americký (Bison bison)",
+   "Q82738": "Liška polární (Vulpes lagopus)"
+  }
+ },
+ {
+  "id": "Q132072#7",
+  "species": "Běluha severní",
+  "latin": "Delphinapterus leucas",
+  "text": "Mezi hlavní nepřátele patří kosatka dravá a medvěd lední.",
+  "quote": "K hlavním predátorům vyjma lidí patří kosatka dravá a medvěd lední.",
+  "claimed_false_for": {
+   "Q122069": "Srnec obecný (Capreolus capreolus)",
+   "Q131564": "Fenek (Vulpes zerda)",
+   "Q15343": "Ptakopysk podivný (Ornithorhynchus anatinus)",
+   "Q166794": "Manul (Otocolobus manul)",
+   "Q181191": "Bobr evropský (Castor fiber)",
+   "Q19939": "Tygr (Panthera tigris)",
+   "Q33261": "Ocelot velký (Leopardus pardalis)",
+   "Q36557": "Slon africký (Loxodonta africana)",
+   "Q79794": "Jelen evropský (Cervus elaphus)",
+   "Q82728": "Bizon americký (Bison bison)",
+   "Q83310": "Myš domácí (Mus musculus)"
+  }
+ },
+ {
+  "id": "Q132072#8",
+  "species": "Běluha severní",
+  "latin": "Delphinapterus leucas",
+  "text": "Jí i měkkýše, například krakatice a chobotnice.",
+  "quote": "Krmí se však i na měkkýších (krakatice, chobotnice)",
+  "claimed_false_for": {
+   "Q128098": "Šakal obecný (Canis aureus)",
+   "Q132922": "Velbloud dvouhrbý (Camelus bactrianus)",
+   "Q133006": "Slon indický (Elephas maximus)",
+   "Q19537": "Šimpanz bonobo (Pan paniscus)",
+   "Q25851": "Králík divoký (Oryctolagus cuniculus)",
+   "Q34706": "Levhart skvrnitý (Panthera pardus)",
+   "Q35517": "Los evropský (Alces alces)",
+   "Q36341": "Medvěd hnědý (Ursus arctos)",
+   "Q81564": "Lama alpaka (Vicugna pacos)",
+   "Q95036": "Nosorožec dvourohý (Diceros bicornis)"
+  }
+ },
+ {
+  "id": "Q132576#0",
+  "species": "Impala",
+  "latin": "Aepyceros melampus",
+  "text": "Má na zadku dva černé pruhy.",
+  "quote": "Pro impaly jsou charakteristické i 2 černé pruhy na hýždích a černá skvrna na spěnkách.",
+  "claimed_false_for": {
+   "Q132072": "Běluha severní (Delphinapterus leucas)",
+   "Q132922": "Velbloud dvouhrbý (Camelus bactrianus)",
+   "Q140": "Lev (Panthera leo)",
+   "Q175329": "Kočka pouštní (Felis margarita)",
+   "Q25345": "Lasice hranostaj (Mustela erminea)",
+   "Q26283": "Ondatra pižmová (Ondatra zibethicus)",
+   "Q26838": "Zajíc polní (Lepus europaeus)",
+   "Q30197": "Irbis (Panthera uncia)",
+   "Q42710": "Buvol domácí (Bubalus bubalis)",
+   "Q79803": "Morče domácí (Cavia porcellus)",
+   "Q8332": "Liška obecná (Vulpes vulpes)"
+  }
+ },
+ {
+  "id": "Q132576#1",
+  "species": "Impala",
+  "latin": "Aepyceros melampus",
+  "text": "Při útěku skáče až 10 metrů daleko a běží až 90 km/h.",
+  "quote": "Na vyrušení reagují rychlým útěkem, doprovázeným až 10 m dlouhými a 3 m vysokými skoky, při kterém mohou dosáhnout rychlosti až 90 km/h",
+  "claimed_false_for": {
+   "Q122783": "Medvěd baribal (Ursus americanus)",
+   "Q124410": "Medvěd ušatý (Ursus thibetanus)",
+   "Q172886": "Guanako (Lama guanicoe)",
+   "Q26843": "Kosatka dravá (Orcinus orca)",
+   "Q34505": "Hroch obojživelný (Hippopotamus amphibius)",
+   "Q42627": "Kočka bengálská (Prionailurus bengalensis)",
+   "Q43576": "Kočka divoká (Felis silvestris)",
+   "Q46212": "Hrabáč kapský (Orycteropus afer)",
+   "Q6145": "Ježek západní (Erinaceus europaeus)"
+  }
+ },
+ {
+  "id": "Q132576#2",
+  "species": "Impala",
+  "latin": "Aepyceros melampus",
+  "text": "Živí se převážně travinami a listy stromů.",
+  "quote": "Živí se převážně travinami a listy stromů.",
+  "claimed_false_for": {
+   "Q26843": "Kosatka dravá (Orcinus orca)",
+   "Q42627": "Kočka bengálská (Prionailurus bengalensis)",
+   "Q46212": "Hrabáč kapský (Orycteropus afer)",
+   "Q6145": "Ježek západní (Erinaceus europaeus)",
+   "Q82738": "Liška polární (Vulpes lagopus)"
+  }
+ },
+ {
+  "id": "Q132585#2",
+  "species": "Dhoul",
+  "latin": "Cuon alpinus",
+  "text": "Loví hlavně brzy ráno.",
+  "quote": "loví nejčastěji v brzkých ranních hodinách (mezi 5:00 a 8:30)",
+  "claimed_false_for": {
+   "Q122069": "Srnec obecný (Capreolus capreolus)",
+   "Q26838": "Zajíc polní (Lepus europaeus)",
+   "Q35517": "Los evropský (Alces alces)",
+   "Q36557": "Slon africký (Loxodonta africana)",
+   "Q95036": "Nosorožec dvourohý (Diceros bicornis)"
+  }
+ },
+ {
+  "id": "Q132585#5",
+  "species": "Dhoul",
+  "latin": "Cuon alpinus",
+  "text": "Vrh má obvykle čtyři až šest mláďat.",
+  "quote": "vrh čítá obvykle 4–6 mláďat",
+  "claimed_false_for": {
+   "Q132576": "Impala (Aepyceros melampus)",
+   "Q132922": "Velbloud dvouhrbý (Camelus bactrianus)",
+   "Q133006": "Slon indický (Elephas maximus)",
+   "Q42710": "Buvol domácí (Bubalus bubalis)"
+  }
+ },
+ {
+  "id": "Q132585#6",
+  "species": "Dhoul",
+  "latin": "Cuon alpinus",
+  "text": "Levharti loví mláďata a osamělé jedince tohoto druhu.",
+  "quote": "Leopardi loví dhouly, pokud k tomu mají příležitost (mláďata, osamocení jedinci)",
+  "claimed_false_for": {
+   "Q26046": "Kuna lesní (Martes martes)",
+   "Q35517": "Los evropský (Alces alces)",
+   "Q81564": "Lama alpaka (Vicugna pacos)",
+   "Q82728": "Bizon americký (Bison bison)",
+   "Q82738": "Liška polární (Vulpes lagopus)"
+  }
+ },
+ {
+  "id": "Q132585#7",
+  "species": "Dhoul",
+  "latin": "Cuon alpinus",
+  "text": "Tygři tento druh občas zabíjejí.",
+  "quote": "Tygři dhouly občas zabíjejí",
+  "claimed_false_for": {
+   "Q131907": "Rys červený (Lynx rufus)",
+   "Q134015": "Surikata (Suricata suricatta)",
+   "Q134964": "Ďábel medvědovitý (Sarcophilus harrisii)",
+   "Q15083": "Žirafa severní (Giraffa camelopardalis)",
+   "Q181191": "Bobr evropský (Castor fiber)"
+  }
+ },
+ {
+  "id": "Q132585#8",
+  "species": "Dhoul",
+  "latin": "Cuon alpinus",
+  "text": "Tygři, levharti, vlci a hyeny tomuto druhu kradou kořist.",
+  "quote": "kleptoparazitů – tygrů, levhartů, lidí, vlků, hyen a dalších",
+  "claimed_false_for": {
+   "Q122783": "Medvěd baribal (Ursus americanus)",
+   "Q15083": "Žirafa severní (Giraffa camelopardalis)",
+   "Q172886": "Guanako (Lama guanicoe)",
+   "Q26843": "Kosatka dravá (Orcinus orca)",
+   "Q34505": "Hroch obojživelný (Hippopotamus amphibius)",
+   "Q46212": "Hrabáč kapský (Orycteropus afer)",
+   "Q6145": "Ježek západní (Erinaceus europaeus)",
+   "Q82738": "Liška polární (Vulpes lagopus)"
+  }
+ },
+ {
+  "id": "Q132905#0",
+  "species": "Keporkak",
+  "latin": "Megaptera novaeangliae",
+  "text": "Hrudní ploutve měří až třetinu délky těla.",
+  "quote": "dlouhými světlými hrudními ploutvemi, které dosahují až třetinové délky těla",
+  "claimed_false_for": {
+   "Q132072": "Běluha severní (Delphinapterus leucas)",
+   "Q132922": "Velbloud dvouhrbý (Camelus bactrianus)",
+   "Q140": "Lev (Panthera leo)",
+   "Q175329": "Kočka pouštní (Felis margarita)",
+   "Q25345": "Lasice hranostaj (Mustela erminea)",
+   "Q26283": "Ondatra pižmová (Ondatra zibethicus)",
+   "Q26838": "Zajíc polní (Lepus europaeus)",
+   "Q30197": "Irbis (Panthera uncia)",
+   "Q42710": "Buvol domácí (Bubalus bubalis)",
+   "Q79803": "Morče domácí (Cavia porcellus)",
+   "Q82037": "Okapi (Okapia johnstoni)",
+   "Q8332": "Liška obecná (Vulpes vulpes)"
+  }
+ },
+ {
+  "id": "Q132905#1",
+  "species": "Keporkak",
+  "latin": "Megaptera novaeangliae",
+  "text": "Živí se hlavně krilem a malými rybkami.",
+  "quote": "Krmí se hlavně krilem a malými rybkami pohybujícími se v obřích hejnech.",
+  "claimed_false_for": {
+   "Q131564": "Fenek (Vulpes zerda)",
+   "Q159918": "Nosorožec tuponosý (Ceratotherium simum)",
+   "Q166794": "Manul (Otocolobus manul)",
+   "Q23907": "Gepard štíhlý (Acinonyx jubatus)",
+   "Q26046": "Kuna lesní (Martes martes)",
+   "Q27066": "Jezevec lesní (Meles meles)",
+   "Q36101": "Koala medvídkovitý (Phascolarctos cinereus)",
+   "Q4126704": "Šimpanz učenlivý (Pan troglodytes)",
+   "Q42699": "Serval (Leptailurus serval)",
+   "Q43375": "Rys ostrovid (Lynx lynx)",
+   "Q83310": "Myš domácí (Mus musculus)"
+  }
+ },
+ {
+  "id": "Q132905#2",
+  "species": "Keporkak",
+  "latin": "Megaptera novaeangliae",
+  "text": "Loví tak, že kolem ryb vytvoří síť z bublin.",
+  "quote": "Vytvoří síť z bublin okolo hejna ryb, které pak naberou svými ohromnými tlamami.",
+  "claimed_false_for": {
+   "Q132072": "Běluha severní (Delphinapterus leucas)",
+   "Q132922": "Velbloud dvouhrbý (Camelus bactrianus)",
+   "Q140": "Lev (Panthera leo)",
+   "Q175329": "Kočka pouštní (Felis margarita)",
+   "Q25345": "Lasice hranostaj (Mustela erminea)",
+   "Q26283": "Ondatra pižmová (Ondatra zibethicus)",
+   "Q26838": "Zajíc polní (Lepus europaeus)",
+   "Q30197": "Irbis (Panthera uncia)",
+   "Q42710": "Buvol domácí (Bubalus bubalis)",
+   "Q79803": "Morče domácí (Cavia porcellus)",
+   "Q82037": "Okapi (Okapia johnstoni)",
+   "Q8332": "Liška obecná (Vulpes vulpes)"
+  }
+ },
+ {
+  "id": "Q132905#3",
+  "species": "Keporkak",
+  "latin": "Megaptera novaeangliae",
+  "text": "Často vyskakuje z vody a plácá ploutvemi.",
+  "quote": "Keporkaci jsou proslulí svým akrobatickým chováním nad vodní hladinou.",
+  "claimed_false_for": {
+   "Q128098": "Šakal obecný (Canis aureus)",
+   "Q132922": "Velbloud dvouhrbý (Camelus bactrianus)",
+   "Q133006": "Slon indický (Elephas maximus)",
+   "Q19537": "Šimpanz bonobo (Pan paniscus)",
+   "Q25851": "Králík divoký (Oryctolagus cuniculus)",
+   "Q33609": "Medvěd lední (Ursus maritimus)",
+   "Q34706": "Levhart skvrnitý (Panthera pardus)",
+   "Q35517": "Los evropský (Alces alces)",
+   "Q36341": "Medvěd hnědý (Ursus arctos)",
+   "Q81564": "Lama alpaka (Vicugna pacos)",
+   "Q95036": "Nosorožec dvourohý (Diceros bicornis)"
+  }
+ },
+ {
+  "id": "Q132905#4",
+  "species": "Keporkak",
+  "latin": "Megaptera novaeangliae",
+  "text": "Prvních šest měsíců se mládě živí jen mateřským mlékem.",
+  "quote": "Prvních 6 měsíců se živí pouze velmi tučným mateřským mlékem",
+  "claimed_false_for": {
+   "Q4388": "Veverka obecná (Sciurus vulgaris)",
+   "Q58697": "Prase divoké (Sus scrofa)"
+  }
+ },
+ {
+  "id": "Q132905#5",
+  "species": "Keporkak",
+  "latin": "Megaptera novaeangliae",
+  "text": "Novorozená mláďata měří asi 4 až 5 metrů.",
+  "quote": "Novorozená mláďata měří asi 4–5 m",
+  "claimed_false_for": {
+   "Q132576": "Impala (Aepyceros melampus)",
+   "Q134964": "Ďábel medvědovitý (Sarcophilus harrisii)",
+   "Q160042": "Buvol africký (Syncerus caffer)",
+   "Q173128": "Medojed kapský (Mellivora capensis)",
+   "Q25345": "Lasice hranostaj (Mustela erminea)",
+   "Q26283": "Ondatra pižmová (Ondatra zibethicus)",
+   "Q26582": "Tchoř tmavý (Mustela putorius)",
+   "Q33261": "Ocelot velký (Leopardus pardalis)",
+   "Q41960": "Panda červená (Ailurus fulgens)",
+   "Q42623": "Kočka bažinná (Felis chaus)",
+   "Q81564": "Lama alpaka (Vicugna pacos)"
+  }
+ },
+ {
+  "id": "Q132905#9",
+  "species": "Keporkak",
+  "latin": "Megaptera novaeangliae",
+  "text": "Žraloci bílí výjimečně loví i dospělé jedince tohoto druhu.",
+  "quote": "výjimečně dospělé keporkaky loví i žraloci bílí",
+  "claimed_false_for": {
+   "Q124410": "Medvěd ušatý (Ursus thibetanus)",
+   "Q140": "Lev (Panthera leo)",
+   "Q14334": "Rosomák sibiřský (Gulo gulo)",
+   "Q159857": "Daněk evropský (Dama dama)",
+   "Q173128": "Medojed kapský (Mellivora capensis)",
+   "Q173651": "Pes hyenový (Lycaon pictus)",
+   "Q175329": "Kočka pouštní (Felis margarita)",
+   "Q184004": "Pižmoň severní (Ovibos moschatus)",
+   "Q44299": "Kojot prérijní (Canis latrans)",
+   "Q46212": "Hrabáč kapský (Orycteropus afer)",
+   "Q71516": "Velbloud jednohrbý (Camelus dromedarius)",
+   "Q82728": "Bizon americký (Bison bison)"
+  }
+ },
+ {
+  "id": "Q132922#1",
+  "species": "Velbloud dvouhrbý",
+  "latin": "Camelus bactrianus",
+  "text": "Jí prakticky jakékoli rostliny, včetně trávy a listů.",
+  "quote": "Velbloudí jídelníček tvoří doslova jakékoliv rostliny včetně trávy",
+  "claimed_false_for": {
+   "Q18498": "Vlk obecný (Canis lupus)",
+   "Q25311": "Lasice kolčava (Mustela nivalis)",
+   "Q34706": "Levhart skvrnitý (Panthera pardus)",
+   "Q36135": "Levhart obláčkový (Neofelis nebulosa)",
+   "Q40994": "Mrož lední (Odobenus rosmarus)",
+   "Q6145": "Ježek západní (Erinaceus europaeus)"
+  }
+ },
+ {
+  "id": "Q132922#3",
+  "species": "Velbloud dvouhrbý",
+  "latin": "Camelus bactrianus",
+  "text": "Váží obvykle 450 až 650 kilogramů.",
+  "quote": "Jejich hmotnost se pohybuje nejčastěji od 450 do 650 kg",
+  "claimed_false_for": {
+   "Q122783": "Medvěd baribal (Ursus americanus)",
+   "Q140": "Lev (Panthera leo)",
+   "Q159426": "Narval (Monodon monoceros)",
+   "Q173651": "Pes hyenový (Lycaon pictus)",
+   "Q33602": "Panda velká (Ailuropoda melanoleuca)",
+   "Q36135": "Levhart obláčkový (Neofelis nebulosa)",
+   "Q36557": "Slon africký (Loxodonta africana)",
+   "Q39624": "Sob polární (Rangifer tarandus)",
+   "Q46212": "Hrabáč kapský (Orycteropus afer)",
+   "Q79803": "Morče domácí (Cavia porcellus)"
+  }
+ },
+ {
+  "id": "Q132922#4",
+  "species": "Velbloud dvouhrbý",
+  "latin": "Camelus bactrianus",
+  "text": "Živí se i trnitými keři, které rostou v suchých oblastech.",
+  "quote": "keři rostoucí v suchých oblastech",
+  "claimed_false_for": {
+   "Q122783": "Medvěd baribal (Ursus americanus)",
+   "Q124410": "Medvěd ušatý (Ursus thibetanus)",
+   "Q34505": "Hroch obojživelný (Hippopotamus amphibius)",
+   "Q42627": "Kočka bengálská (Prionailurus bengalensis)",
+   "Q43576": "Kočka divoká (Felis silvestris)",
+   "Q46212": "Hrabáč kapský (Orycteropus afer)",
+   "Q6145": "Ježek západní (Erinaceus europaeus)",
+   "Q82738": "Liška polární (Vulpes lagopus)"
+  }
+ },
+ {
+  "id": "Q133006#1",
+  "species": "Slon indický",
+  "latin": "Elephas maximus",
+  "text": "Má na chobotu jen jeden výběžek, kterým uchopí malé věci.",
+  "quote": "Slon indický má na chobotu pouze jeden prstík (výběžek na konci chobotu sloužící k uchopení menších předmětů).",
+  "claimed_false_for": {
+   "Q132072": "Běluha severní (Delphinapterus leucas)",
+   "Q132905": "Keporkak (Megaptera novaeangliae)",
+   "Q134015": "Surikata (Suricata suricatta)",
+   "Q14334": "Rosomák sibiřský (Gulo gulo)",
+   "Q159857": "Daněk evropský (Dama dama)",
+   "Q181191": "Bobr evropský (Castor fiber)",
+   "Q18498": "Vlk obecný (Canis lupus)",
+   "Q19939": "Tygr (Panthera tigris)",
+   "Q26843": "Kosatka dravá (Orcinus orca)",
+   "Q33609": "Medvěd lední (Ursus maritimus)",
+   "Q4126704": "Šimpanz učenlivý (Pan troglodytes)",
+   "Q8332": "Liška obecná (Vulpes vulpes)"
+  }
+ },
+ {
+  "id": "Q133006#2",
+  "species": "Slon indický",
+  "latin": "Elephas maximus",
+  "text": "Tento druh je největší suchozemský živočich v Asii.",
+  "quote": "Jde o vůbec největšího suchozemského živočicha žijícího v Asii.",
+  "claimed_false_for": {
+   "Q131564": "Fenek (Vulpes zerda)",
+   "Q159918": "Nosorožec tuponosý (Ceratotherium simum)",
+   "Q166794": "Manul (Otocolobus manul)",
+   "Q23907": "Gepard štíhlý (Acinonyx jubatus)",
+   "Q26046": "Kuna lesní (Martes martes)",
+   "Q26843": "Kosatka dravá (Orcinus orca)",
+   "Q27066": "Jezevec lesní (Meles meles)",
+   "Q36101": "Koala medvídkovitý (Phascolarctos cinereus)",
+   "Q4126704": "Šimpanz učenlivý (Pan troglodytes)",
+   "Q42699": "Serval (Leptailurus serval)",
+   "Q43375": "Rys ostrovid (Lynx lynx)",
+   "Q83310": "Myš domácí (Mus musculus)"
+  }
+ },
+ {
+  "id": "Q133006#3",
+  "species": "Slon indický",
+  "latin": "Elephas maximus",
+  "text": "Každý den sní asi 100 až 230 kilogramů potravy.",
+  "quote": "u dospělých je to asi 100–230 kilogramů",
+  "claimed_false_for": {
+   "Q131538": "Kapybara (Hydrochoerus hydrochaeris)",
+   "Q166794": "Manul (Otocolobus manul)",
+   "Q175329": "Kočka pouštní (Felis margarita)",
+   "Q184004": "Pižmoň severní (Ovibos moschatus)",
+   "Q19537": "Šimpanz bonobo (Pan paniscus)",
+   "Q23907": "Gepard štíhlý (Acinonyx jubatus)",
+   "Q30847": "Karakal (Caracal caracal)",
+   "Q35694": "Jaguár americký (Panthera onca)",
+   "Q44299": "Kojot prérijní (Canis latrans)",
+   "Q71516": "Velbloud jednohrbý (Camelus dromedarius)"
+  }
+ },
+ {
+  "id": "Q133006#7",
+  "species": "Slon indický",
+  "latin": "Elephas maximus",
+  "text": "Matka kojí mládě 2 až 3 roky.",
+  "quote": "je kojeno 2–3 roky",
+  "claimed_false_for": {
+   "Q132905": "Keporkak (Megaptera novaeangliae)",
+   "Q134015": "Surikata (Suricata suricatta)",
+   "Q14334": "Rosomák sibiřský (Gulo gulo)",
+   "Q159857": "Daněk evropský (Dama dama)",
+   "Q181191": "Bobr evropský (Castor fiber)",
+   "Q18498": "Vlk obecný (Canis lupus)",
+   "Q19939": "Tygr (Panthera tigris)",
+   "Q8332": "Liška obecná (Vulpes vulpes)"
+  }
+ },
+ {
+  "id": "Q133006#9",
+  "species": "Slon indický",
+  "latin": "Elephas maximus",
+  "text": "V období sucha jí i kůru stromů.",
+  "quote": "v období sucha požírají i stromovou kůru",
+  "claimed_false_for": {
+   "Q140": "Lev (Panthera leo)",
+   "Q159426": "Narval (Monodon monoceros)",
+   "Q173651": "Pes hyenový (Lycaon pictus)",
+   "Q36135": "Levhart obláčkový (Neofelis nebulosa)",
+   "Q46212": "Hrabáč kapský (Orycteropus afer)"
+  }
+ }
+]

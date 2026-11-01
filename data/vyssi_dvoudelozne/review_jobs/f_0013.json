@@ -1,0 +1,554 @@
+[
+ {
+  "id": "Q134283#1",
+  "species": "Dobromysl obecná",
+  "latin": "Origanum vulgare",
+  "text": "Tento druh je dobrým zdrojem nektaru pro včely.",
+  "quote": "Dobromysl je dobrou nektarodárnou rostlinou.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q134283#2",
+  "species": "Dobromysl obecná",
+  "latin": "Origanum vulgare",
+  "text": "Tento druh má lodyhu se čtyřmi hranami.",
+  "quote": "na průřezu čtyřhranná",
+  "claimed_false_for": {
+   "Q1848856": "Ptačí zob obecný (Ligustrum vulgare)",
+   "Q6565319": "Šeřík obecný (Syringa vulgaris)"
+  }
+ },
+ {
+  "id": "Q134283#3",
+  "species": "Dobromysl obecná",
+  "latin": "Origanum vulgare",
+  "text": "Dorůstá do výšky 20 až 90 centimetrů.",
+  "quote": "bylina vysoká 20 až 90 cm",
+  "claimed_false_for": {
+   "Q159137": "Rozrazil lesklý (Veronica polita)",
+   "Q1848856": "Ptačí zob obecný (Ligustrum vulgare)",
+   "Q6565319": "Šeřík obecný (Syringa vulgaris)",
+   "Q764044": "Blahokeř trojmý (Clerodendrum trichotomum)"
+  }
+ },
+ {
+  "id": "Q1342885#0",
+  "species": "Hvězdnice alpská",
+  "latin": "Aster alpinus",
+  "text": "Má modrofialové květy se žlutým středem.",
+  "quote": "Kvete v červnu až červenci modrofialovými úbory se žlutým středem.",
+  "claimed_false_for": {
+   "Q12033758": "Lněnka Dollinerova (Thesium dollineri)",
+   "Q1327535": "Rozchodníkovec nachový (Hylotelephium telephium)",
+   "Q15579368": "Jestřábník Rohlenův (Hieracium rohlenae)",
+   "Q158546": "Zimolez tatarský (Lonicera tatarica)",
+   "Q159743": "Plavín štítnatý (Nymphoides peltata)",
+   "Q193798": "Ostropestřec mariánský (Silybum marianum)",
+   "Q5228460": "Kamzičník kavkazský (Doronicum orientale)",
+   "Q900420": "Jestřábník zední (Hieracium murorum)"
+  }
+ },
+ {
+  "id": "Q1342885#1",
+  "species": "Hvězdnice alpská",
+  "latin": "Aster alpinus",
+  "text": "Kvete v červnu a červenci.",
+  "quote": "Rostlina vykvétá na počátku léta, v červnu až červenci.",
+  "claimed_false_for": {
+   "Q158482": "Tomel japonský (Diospyros kaki)",
+   "Q159812": "Řečík lentišek (Pistacia lentiscus)",
+   "Q1894641": "Astřička novoanglická (Symphyotrichum novae-angliae)",
+   "Q5368614": "Dicerothamnus rhinocerotis (Elytropappus rhinocerotis)"
+  }
+ },
+ {
+  "id": "Q1342976#0",
+  "species": "Levandule korunkatá",
+  "latin": "Lavandula stoechas",
+  "text": "Tento druh dorůstá obvykle do výšky 30 až 60 centimetrů.",
+  "quote": "dosahující obvykle výšky 30–60 cm, výjimečně až 150 cm",
+  "claimed_false_for": {
+   "Q14807863": "Drmek čínský (Vitex negundo)",
+   "Q148396": "Meduňka lékařská (Melissa officinalis)",
+   "Q163831": "Katalpa trubačovitá (Catalpa bignonioides)"
+  }
+ },
+ {
+  "id": "Q1342976#2",
+  "species": "Levandule korunkatá",
+  "latin": "Lavandula stoechas",
+  "text": "Tento druh silně voní po kafru.",
+  "quote": "Celá rostlina silně voní po kafru.",
+  "claimed_false_for": {
+   "Q1894641": "Astřička novoanglická (Symphyotrichum novae-angliae)",
+   "Q3125935": "Halézie karolínská (Halesia carolina)",
+   "Q522883": "Kigélie africká (Kigelia africana)",
+   "Q627393": "Višeň plstnatá (Prunus tomentosa)"
+  }
+ },
+ {
+  "id": "Q134347#0",
+  "species": "Hoja masitá",
+  "latin": "Hoya carnosa",
+  "text": "Roste velmi rychle a potřebuje oporu.",
+  "quote": "Rostlina roste velice rychle a vyžaduje ke svému růstu oporu",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q134347#1",
+  "species": "Hoja masitá",
+  "latin": "Hoya carnosa",
+  "text": "Tento druh má lesklé, tmavě zelené listy.",
+  "quote": "lesklé, tmavě zelené dužnaté listy se silnou pokožkou",
+  "claimed_false_for": {
+   "Q159757": "Svízel bahenní (Galium palustre)",
+   "Q160104": "Vrbovka úzkolistá (Chamaenerion angustifolium)",
+   "Q160745": "Hořec panonský (Gentiana pannonica)",
+   "Q161548": "Hořec hořepník (Gentiana pneumonanthe)",
+   "Q162853": "Hořec tolitovitý (Gentiana asclepiadea)",
+   "Q937450": "Písečnice douškolistá (Arenaria serpyllifolia)"
+  }
+ },
+ {
+  "id": "Q134347#2",
+  "species": "Hoja masitá",
+  "latin": "Hoya carnosa",
+  "text": "Tento druh má květy tvaru hvězdičky s červeným středem.",
+  "quote": "vedlejší koruna je lesklá pěticípá hvězdička s červeným středem",
+  "claimed_false_for": {
+   "Q1072101": "Gardénie jasmínovitá (Gardenia jasminoides)",
+   "Q159757": "Svízel bahenní (Galium palustre)",
+   "Q160104": "Vrbovka úzkolistá (Chamaenerion angustifolium)",
+   "Q160745": "Hořec panonský (Gentiana pannonica)",
+   "Q161548": "Hořec hořepník (Gentiana pneumonanthe)",
+   "Q162853": "Hořec tolitovitý (Gentiana asclepiadea)",
+   "Q234238": "Morinda barvířská (Morinda citrifolia)",
+   "Q4425210": "Meruzalka jezerní (Ribes lacustre)",
+   "Q47685": "Kávovník arabský (Coffea arabica)",
+   "Q937450": "Písečnice douškolistá (Arenaria serpyllifolia)"
+  }
+ },
+ {
+  "id": "Q134347#3",
+  "species": "Hoja masitá",
+  "latin": "Hoya carnosa",
+  "text": "Tento druh se využívá k ozelenění stěn.",
+  "quote": "Využívá se k ozelenění stěn",
+  "claimed_false_for": {
+   "Q1546483": "Mléčka zední (Mycelis muralis)",
+   "Q156854": "Svízel syřišťový (Galium verum)",
+   "Q157331": "Tolita lékařská (Vincetoxicum hirundinaria)",
+   "Q158947": "Svízel severní (Galium boreale)",
+   "Q159244": "Svízelka chlupatá (Cruciata laevipes)",
+   "Q159422": "Mařinka barvířská (Asperula tinctoria)",
+   "Q160288": "Hořeček žlutavý (Gentianella lutescens)",
+   "Q164223": "Pryšec skočcový (Euphorbia lathyris)",
+   "Q905931": "Sevlák potoční (Sium latifolium)"
+  }
+ },
+ {
+  "id": "Q134419#0",
+  "species": "Opuncie poléhavá",
+  "latin": "Opuntia humifusa",
+  "text": "Kvete koncem jara.",
+  "quote": "Kaktus kvete koncem jara.",
+  "claimed_false_for": {
+   "Q1620531": "Smldník jelení (Peucedanum cervaria)",
+   "Q168649": "Rosnatka královská (Drosera regia)",
+   "Q27984": "Smil písečný (Helichrysum arenarium)",
+   "Q829752": "Bytel metlatý (Bassia scoparia)"
+  }
+ },
+ {
+  "id": "Q134419#1",
+  "species": "Opuncie poléhavá",
+  "latin": "Opuntia humifusa",
+  "text": "Tento druh dokáže přežít chladné zimy.",
+  "quote": "je schopna přežít chladné zimy.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1344280#0",
+  "species": "Locika vrbová",
+  "latin": "Lactuca saligna",
+  "text": "Tento druh dorůstá do výše 30 až 100 centimetrů.",
+  "quote": "dorůstající do výše 30 až 100 cm",
+  "claimed_false_for": {
+   "Q165378": "Rakytník řešetlákový (Hippophae rhamnoides)"
+  }
+ },
+ {
+  "id": "Q1344280#1",
+  "species": "Locika vrbová",
+  "latin": "Lactuca saligna",
+  "text": "Kvete v červenci a srpnu.",
+  "quote": "Rostliny vykvétají v červenci a srpnu",
+  "claimed_false_for": {
+   "Q156153": "Vachta trojlistá (Menyanthes trifoliata)",
+   "Q159528": "Blahovičník kulatoplodý (Eucalyptus globulus)",
+   "Q919244": "Vonivka třešňová (Oemleria cerasiformis)"
+  }
+ },
+ {
+  "id": "Q1344280#3",
+  "species": "Locika vrbová",
+  "latin": "Lactuca saligna",
+  "text": "Tento druh má plody klíčivé jen asi rok.",
+  "quote": "mají krátkou dobu klíčivosti, asi jen rok",
+  "claimed_false_for": {
+   "Q2068262": "Chrpa žlutá (Centaurea solstitialis)"
+  }
+ },
+ {
+  "id": "Q134453#0",
+  "species": "Láčkovka soudečková",
+  "latin": "Nepenthes ampullaria",
+  "text": "Tento druh hostí v pastech 59 druhů živočichů.",
+  "quote": "Bylo zaznamenáno 59 druhů živočichů, žijících v láčkách N. ampullaria.",
+  "claimed_false_for": {
+   "Q1075177": "Jakon (Smallanthus sonchifolius)",
+   "Q157853": "Líčidlo americké (Phytolacca americana)",
+   "Q158505": "Lebeda zahradní (Atriplex hortensis)",
+   "Q158610": "Merlík bílý (Chenopodium album)",
+   "Q159034": "Kohoutek věncový (Silene coronaria)",
+   "Q160386": "Chruplavník větší (Polycnemum majus)",
+   "Q162134": "Šater latnatý (Gypsophila paniculata)",
+   "Q162826": "Kolenec rolní (Spergula arvensis)",
+   "Q171497": "Slunečnice roční (Helianthus annuus)",
+   "Q1848151": "Protěž lesní (Gnaphalium sylvaticum)",
+   "Q311840": "Ditrichie smradlavá (Dittrichia graveolens)",
+   "Q615022": "Merlík trpasličí (Dysphania pumilio)"
+  }
+ },
+ {
+  "id": "Q134453#1",
+  "species": "Láčkovka soudečková",
+  "latin": "Nepenthes ampullaria",
+  "text": "Tento druh získává většinu živin z padajícího listí.",
+  "quote": "Láčky se přizpůsobily k zachytávání a rozkládání detritu, hlavně padajícího listí.",
+  "claimed_false_for": {
+   "Q1149295": "Opletka obecná (Fallopia convolvulus)",
+   "Q1474695": "Kuřinka červená (Spergularia rubra)",
+   "Q15543125": "Myrhovník gileadský (Commiphora gileadensis)",
+   "Q158141": "Lýkovec vonný (Daphne cneorum)",
+   "Q159560": "Muchovník oválný (Amelanchier ovalis)",
+   "Q160572": "Laskavec hrubozel (Amaranthus blitum)",
+   "Q162826": "Kolenec rolní (Spergula arvensis)",
+   "Q271937": "Lofofora Williamsova (Lophophora williamsii)",
+   "Q469576": "Topol osikovitý (Populus tremuloides)",
+   "Q6872327": "Listenatka nocenkovitá (Mirabilis nyctaginea)",
+   "Q7535": "Reveň kadeřavá (Rheum rhabarbarum)",
+   "Q93121709": "Rebutia muscula (Aylostera muscula)"
+  }
+ },
+ {
+  "id": "Q134453#2",
+  "species": "Láčkovka soudečková",
+  "latin": "Nepenthes ampullaria",
+  "text": "Kvete jednou až dvakrát ročně, vždy několik týdnů.",
+  "quote": "kvete jednou až dvakrát ročně, vždy po několik týdnů.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q134453#3",
+  "species": "Láčkovka soudečková",
+  "latin": "Nepenthes ampullaria",
+  "text": "Tento druh se vyšplhá až do 15 metrů výšky.",
+  "quote": "Stonek N. ampullaria se může vyšplhat až do 15m výšky.",
+  "claimed_false_for": {
+   "Q1159849": "Hvozdík Lumnitzerův (Dianthus lumnitzeri)",
+   "Q122778": "Hvozdík sivý (Dianthus gratianopolitanus)",
+   "Q132973": "Láčkovka rádža (Nepenthes rajah)",
+   "Q157950": "Silenka nicí (Silene nutans)",
+   "Q159113": "Drchnička modrá (Anagallis foemina)",
+   "Q163681": "Štětka laločnatá (Dipsacus laciniatus)",
+   "Q164649": "Drobýšek nejmenší (Anagallis minima)",
+   "Q26297": "Šťovík kyselý (Rumex acetosa)",
+   "Q3232597": "Kýlatka čtyřlistá (Polycarpon tetraphyllum)",
+   "Q615022": "Merlík trpasličí (Dysphania pumilio)",
+   "Q64061702": "Mochna husí (Argentina anserina)",
+   "Q955003": "Kuřinka obroubená (Spergularia media)"
+  }
+ },
+ {
+  "id": "Q1345772#0",
+  "species": "Kozí brada luční",
+  "latin": "Tragopogon pratensis",
+  "text": "Kvete od května do července.",
+  "quote": "Kvete od května do července.",
+  "claimed_false_for": {
+   "Q1537333": "Astřička novobelgická (Symphyotrichum novi-belgii)"
+  }
+ },
+ {
+  "id": "Q1345772#1",
+  "species": "Kozí brada luční",
+  "latin": "Tragopogon pratensis",
+  "text": "Tento druh šíří semena větrem díky chmýru.",
+  "quote": "Tím se chmýr stává pevnější a může být větrem odnesen do větší vzdálenosti.",
+  "claimed_false_for": {
+   "Q1031875": "Růže Woodsova (Rosa woodsii)",
+   "Q1548163": "Bedrník větší (Pimpinella major)",
+   "Q158040": "Oměj vlčí mor (Aconitum lycoctonum)",
+   "Q63598": "Zvonečník hlavatý (Phyteuma orbiculare)"
+  }
+ },
+ {
+  "id": "Q1345772#2",
+  "species": "Kozí brada luční",
+  "latin": "Tragopogon pratensis",
+  "text": "Tento druh žije jen dva roky.",
+  "quote": "Dvouletá rostlina s jednou lodyhou",
+  "claimed_false_for": {
+   "Q163955": "Čarovník pařížský (Circaea lutetiana)",
+   "Q1780814": "Hvězdička přímořská (Pallenis maritima)",
+   "Q196332": "Kustovnice cizí (Lycium barbarum)",
+   "Q207848": "Prha arnika (Arnica montana)",
+   "Q254655": "Zvonečník klasnatý (Phyteuma spicatum)",
+   "Q26158": "Sedmikráska chudobka (Bellis perennis)",
+   "Q303325": "Kamzičník rakouský (Doronicum austriacum)",
+   "Q310050": "Smuteň lékařská (Phyllanthus emblica)",
+   "Q500": "Citrus limonový (Citrus × limon)",
+   "Q609627": "Zlatobýl obrovský (Solidago gigantea)",
+   "Q9336718": "Srpovník karbincolistý (Serratula lycopifolia)"
+  }
+ },
+ {
+  "id": "Q1345772#3",
+  "species": "Kozí brada luční",
+  "latin": "Tragopogon pratensis",
+  "text": "Dorůstá až do výšky jednoho metru.",
+  "quote": "je až jeden metr vysoká luční bylina",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1348567#0",
+  "species": "Máslovník africký",
+  "latin": "Vitellaria paradoxa",
+  "text": "Tento druh obvykle dorůstá 8 až 15 metrů.",
+  "quote": "Máslovník je opadavý strom dorůstající výšky 8 až 15, výjimečně až 25 metrů.",
+  "claimed_false_for": {
+   "Q1138945": "Darlingtonie kalifornská (Darlingtonia californica)",
+   "Q1193268": "Skalenka poléhavá (Kalmia procumbens)",
+   "Q1193369": "Jasan americký (Fraxinus americana)",
+   "Q157552": "Prvosenka jarní (Primula veris)",
+   "Q157882": "Žebratka bahenní (Hottonia palustris)",
+   "Q160909": "Svízel sudetský (Galium sudeticum)",
+   "Q161707": "Kokrhel větší (Rhinanthus angustifolius)",
+   "Q3822167": "Proměnka trojbarvá (Gilia tricolor)",
+   "Q742866": "Kyhanka sivolistá (Andromeda polifolia)",
+   "Q951931": "Hruštička zelenokvětá (Pyrola chlorantha)"
+  }
+ },
+ {
+  "id": "Q1348567#3",
+  "species": "Máslovník africký",
+  "latin": "Vitellaria paradoxa",
+  "text": "Tento druh má tvrdé dřevo, které se hodí na stavby.",
+  "quote": "Dřevo máslovníku je tvrdé, těžké a dobře opracovatelné a má široké použití. Používá se zejména na stavby a konstrukce",
+  "claimed_false_for": {
+   "Q132741": "Aktinidie kolomikta (Actinidia kolomikta)",
+   "Q150055": "Brambořík perský (Cyclamen persicum)",
+   "Q157726": "Pumpava obecná (Erodium cicutarium)",
+   "Q157882": "Žebratka bahenní (Hottonia palustris)",
+   "Q158228": "Svída bílá (Cornus alba)",
+   "Q164729": "Hořec tečkovaný (Gentiana punctata)",
+   "Q2720092": "Sivěnka přímořská (Lysimachia maritima)",
+   "Q370516": "Kruhatka Matthiolova (Cortusa matthioli)",
+   "Q93235": "Brusnice brusinka (Vaccinium vitis-idaea)"
+  }
+ },
+ {
+  "id": "Q135191#0",
+  "species": "Růžovec zákulovitý",
+  "latin": "Rhodotypos scandens",
+  "text": "Kvete od dubna do června.",
+  "quote": "od dubna do června, plody dozrávají od července do září.",
+  "claimed_false_for": {
+   "Q161139": "Šanta kočičí (Nepeta cataria)",
+   "Q2532820": "Třapatka srstnatá (Rudbeckia hirta)"
+  }
+ },
+ {
+  "id": "Q135191#1",
+  "species": "Růžovec zákulovitý",
+  "latin": "Rhodotypos scandens",
+  "text": "Má bílé květy, velké 3 až 5 centimetrů.",
+  "quote": "Květy jsou bílé, velké 3 až 5 cm",
+  "claimed_false_for": {
+   "Q1195985": "Agastache svraskalá (Agastache rugosa)",
+   "Q146136": "Krušina olšová (Frangula alnus)",
+   "Q147459": "Jeřáb břek (Sorbus torminalis)",
+   "Q15546415": "Růže vinná (Rosa rubiginosa)",
+   "Q159008": "Hluchavka objímavá (Lamium amplexicaule)",
+   "Q1592259": "Skalník vrbolistý (Cotoneaster salicifolius)",
+   "Q159558": "Jeřáb oskeruše (Sorbus domestica)",
+   "Q160189": "Kontryhel obecný (Alchemilla vulgaris)",
+   "Q164043": "Hnilák smrkový (Monotropa hypopitys)",
+   "Q2306503": "Skalník přitisklý (Cotoneaster adpressus)",
+   "Q916961": "Hloh ostruhatý (Crataegus crus-galli)"
+  }
+ },
+ {
+  "id": "Q135191#2",
+  "species": "Růžovec zákulovitý",
+  "latin": "Rhodotypos scandens",
+  "text": "Má hnědočerné, lesklé plody velké asi 8 milimetrů.",
+  "quote": "což jsou asi 8 mm velké, hnědočerné, lesklé peckovice",
+  "claimed_false_for": {
+   "Q10878191": "Slivoň slíva (Prunus insititia)",
+   "Q115714": "Mochna přímá (Potentilla recta)",
+   "Q1405636": "Fíkovník banyán (Ficus benghalensis)",
+   "Q160019": "Mandloň nízká (Prunus tenella)",
+   "Q161169": "Mochnovec křovitý (Dasiphora fruticosa)",
+   "Q163791": "Pustoryl věncový (Philadelphus coronarius)",
+   "Q2699200": "Libavka hrotitá (Gaultheria mucronata)",
+   "Q4355193": "Růže Sherardova (Rosa sherardii)",
+   "Q660414": "Trnovec Kristův (Paliurus spina-christi)",
+   "Q819178": "Hvězdnice chlumní (Aster amellus)",
+   "Q958046": "Růže bahenní (Rosa palustris)"
+  }
+ },
+ {
+  "id": "Q135191#3",
+  "species": "Růžovec zákulovitý",
+  "latin": "Rhodotypos scandens",
+  "text": "Ptáci a drobní savci roznášejí jeho semena po okolí.",
+  "quote": "která po okolí roznášejí ptáci i drobní savci",
+  "claimed_false_for": {
+   "Q159179": "Vítod nahořklý (Polygala amarella)",
+   "Q469382": "Jilm americký (Ulmus americana)"
+  }
+ },
+ {
+  "id": "Q136648#1",
+  "species": "Paznehtník měkký",
+  "latin": "Acanthus mollis",
+  "text": "Tento druh vytváří květní stonek, který dorůstá až do dvou metrů.",
+  "quote": "který může dorůstat až 2 metrů",
+  "claimed_false_for": {
+   "Q15586845": "Prha úzkolistá (Arnica angustifolia)",
+   "Q156037": "Máta peprná (Mentha ×piperita)",
+   "Q161658": "Tučnice obecná (Pinguicula vulgaris)",
+   "Q1974574": "Hvězdoš hranoplodý (Callitriche platycarpa)",
+   "Q2241463": "Šklebivec přímý (Misopates orontium)",
+   "Q783863": "Pelyněk ladní (Artemisia campestris)"
+  }
+ },
+ {
+  "id": "Q1366575#0",
+  "species": "Bakopa drobnolistá",
+  "latin": "Bacopa monnieri",
+  "text": "Tento druh na severní polokouli kvete od května do září.",
+  "quote": "v subtropech na severní polokouli kvete od května do září",
+  "claimed_false_for": {
+   "Q320584": "Šalvěj divotvorná (Salvia divinorum)"
+  }
+ },
+ {
+  "id": "Q1366575#1",
+  "species": "Bakopa drobnolistá",
+  "latin": "Bacopa monnieri",
+  "text": "Opylují ho hlavně včely a motýli.",
+  "quote": "Květy jsou opylovány hmyzem, nejčastěji včelami a motýly.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1366575#2",
+  "species": "Bakopa drobnolistá",
+  "latin": "Bacopa monnieri",
+  "text": "Semena dlouho plavou po vodě a neztrácejí klíčivost.",
+  "quote": "dlouhou dobu vydrží plavat bez ujmy na klíčivosti",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1366575#3",
+  "species": "Bakopa drobnolistá",
+  "latin": "Bacopa monnieri",
+  "text": "Tento druh má stonky dlouhé 5 až 50 cm.",
+  "quote": "lodyhami, dlouhými 5 až 50 cm",
+  "claimed_false_for": {
+   "Q160561": "Karbinec statný (Lycopus exaltatus)"
+  }
+ },
+ {
+  "id": "Q136702#1",
+  "species": "Streptosolen Jamesonův",
+  "latin": "Streptosolen jamesonii",
+  "text": "Hlavními opylovateli jsou kolibříci.",
+  "quote": "Za hlavní opylovače streptosolenu jsou považováni kolibříci.",
+  "claimed_false_for": {
+   "Q1135944": "Kokotice evropská (Cuscuta europaea)",
+   "Q133964": "Kadidlovník pravý (Boswellia sacra)",
+   "Q146400": "Lilek černý (Solanum nigrum)",
+   "Q15377008": "Myrtovka (Myrrhinium atropurpureum)",
+   "Q159036": "Kozlík dvoudomý (Valeriana dioica)",
+   "Q161543": "Pstroček dvoulistý (Maianthemum bifolium)",
+   "Q164248": "Pryskyřník kosmatý (Ranunculus lanuginosus)",
+   "Q1663536": "Blín bílý (Hyoscyamus albus)",
+   "Q23501": "Rajče jedlé (Solanum lycopersicum)",
+   "Q3486643": "Smilacina hroznovitá (Maianthemum racemosum)"
+  }
+ },
+ {
+  "id": "Q136702#2",
+  "species": "Streptosolen Jamesonův",
+  "latin": "Streptosolen jamesonii",
+  "text": "Květy jsou nejdřív žluté a pak oranžové.",
+  "quote": "Koruna je zprvu žlutá, později oranžová",
+  "claimed_false_for": {
+   "Q132263": "Paprika křídlatá (Capsicum baccatum)",
+   "Q161704": "Opletník plotní (Calystegia sepium)",
+   "Q163746": "Tavolník vrbolistý (Spiraea salicifolia)",
+   "Q196332": "Kustovnice cizí (Lycium barbarum)",
+   "Q311426": "Paprika křovitá (Capsicum frutescens)"
+  }
+ },
+ {
+  "id": "Q136702#3",
+  "species": "Streptosolen Jamesonův",
+  "latin": "Streptosolen jamesonii",
+  "text": "Plodem je malá schránka plná semen.",
+  "quote": "Plodem je kulovitá až vejcovitá, asi 5 mm velká tobolka obsahující mnoho podlouhle hranatých semen.",
+  "claimed_false_for": {
+   "Q1334892": "Kdoulovec čínský (Pseudocydonia sinensis)",
+   "Q133560": "Dračinec rumělkový (Dracaena cinnabari)",
+   "Q1380": "Paprika setá (Capsicum annuum)",
+   "Q161425": "Listnatec pichlavý (Ruscus aculeatus)",
+   "Q161780": "Mochyně židovská (Alkekengi officinarum)",
+   "Q311071": "Paprika čínská (Capsicum chinense)",
+   "Q379747": "Lilek rajčenka (Solanum betaceum)",
+   "Q545550": "Mandragora lékařská (Mandragora officinarum)"
+  }
+ },
+ {
+  "id": "Q136730#0",
+  "species": "Skalník Zabelův",
+  "latin": "Cotoneaster zabelii",
+  "text": "Tento druh má jasně červené plody.",
+  "quote": "Plody jsou jasně červené",
+  "claimed_false_for": {
+   "Q1334892": "Kdoulovec čínský (Pseudocydonia sinensis)",
+   "Q146281": "Hrušeň obecná (Pyrus communis)",
+   "Q1467033": "Šeřík Meyerův (Syringa meyeri)",
+   "Q157969": "Hlošina úzkolistá (Elaeagnus angustifolia)",
+   "Q160189": "Kontryhel obecný (Alchemilla vulgaris)",
+   "Q164692": "Potočnice drobnolistá (Nasturtium microphyllum)",
+   "Q3079266": "Hrušeň Calleryova (Pyrus calleryana)",
+   "Q333877": "Ořechovec pekanový (Carya illinoinensis)",
+   "Q45757": "Chlebovník různolistý (Artocarpus heterophyllus)"
+  }
+ },
+ {
+  "id": "Q136730#1",
+  "species": "Skalník Zabelův",
+  "latin": "Cotoneaster zabelii",
+  "text": "Tento druh kvete od května do června.",
+  "quote": "kvete od května do června, opylován je hmyzem",
+  "claimed_false_for": {
+   "Q161093": "Barvínkovec růžový (Catharanthus roseus)",
+   "Q165378": "Rakytník řešetlákový (Hippophae rhamnoides)",
+   "Q803769": "Šišák bajkalský (Scutellaria baicalensis)"
+  }
+ }
+]

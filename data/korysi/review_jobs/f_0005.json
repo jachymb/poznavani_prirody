@@ -1,0 +1,88 @@
+[
+ {
+  "id": "Q1366514#0",
+  "species": "Batynomus obrovský",
+  "latin": "Bathynomus giganteus",
+  "text": "Živí se těly uhynulých živočichů.",
+  "quote": "Živí se těly uhynulých živočichů",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1366514#1",
+  "species": "Batynomus obrovský",
+  "latin": "Bathynomus giganteus",
+  "text": "Může dosáhnout délky přes 30 cm.",
+  "quote": "Může dosáhnout délky přes 30 cm",
+  "claimed_false_for": {
+   "Q1300629": "Svinka obecná (Armadillidium vulgare)",
+   "Q1317340": "Listonoh jarní (Lepidurus apus)",
+   "Q135052": "Listonoh americký (Triops longicaudatus)",
+   "Q1573371": "Stínka zední (Oniscus asellus)",
+   "Q1646839": "Stínka mechová (Philoscia muscorum)",
+   "Q21171": "Stínka obecná (Porcellio scaber)",
+   "Q2798958": "Stínka drobná (Lepidoniscus minutus)",
+   "Q287523": "Rak kamenáč (Austropotamobius torrentium)",
+   "Q43735": "Strašek paví (Odontodactylus scyllarus)",
+   "Q585024": "Kreveta baltická (Palaemon adspersus)",
+   "Q586336": "Beruška vodní (Asellus aquaticus)",
+   "Q61642001": "Rak mramorovaný (Procambarus virginalis)"
+  }
+ },
+ {
+  "id": "Q27765#0",
+  "species": "Garnát obecný",
+  "latin": "Crangon crangon",
+  "text": "Ve dne se tento druh schovává v písku před predátory, například treskou.",
+  "quote": "Ve dne se skrývají v písku před predátory, jako je treska bezvousá a další ryby",
+  "claimed_false_for": {
+   "Q107078367": "Rak pruhovaný (Faxonius limosus)",
+   "Q1133124": "Rak červený (Procambarus clarkii)",
+   "Q1135229": "Žábronožka solná (Artemia salina)",
+   "Q1300629": "Svinka obecná (Armadillidium vulgare)",
+   "Q136116": "Rak Gouldův (Astacopsis gouldi)",
+   "Q1519675": "Rak mexický (Cambarellus patzcuarensis)",
+   "Q206070": "Krab palmový (Birgus latro)",
+   "Q210959": "Rak říční (Astacus astacus)",
+   "Q4483881": "Krevetka kroužková (Macrobrachium assamense)",
+   "Q571290": "Rak bahenní (Astacus leptodactylus)",
+   "Q571443": "Krunýřovka krillová (Euphausia superba)",
+   "Q586336": "Beruška vodní (Asellus aquaticus)",
+   "Q693000": "Rak signální (Pacifastacus leniusculus)"
+  }
+ },
+ {
+  "id": "Q27765#1",
+  "species": "Garnát obecný",
+  "latin": "Crangon crangon",
+  "text": "Tento druh se živí hlavně různonožci.",
+  "quote": "jejich potravu představují hlavně různonožci a",
+  "claimed_false_for": {
+   "Q1135229": "Žábronožka solná (Artemia salina)",
+   "Q1300629": "Svinka obecná (Armadillidium vulgare)",
+   "Q206070": "Krab palmový (Birgus latro)",
+   "Q571443": "Krunýřovka krillová (Euphausia superba)",
+   "Q586336": "Beruška vodní (Asellus aquaticus)"
+  }
+ },
+ {
+  "id": "Q752188#0",
+  "species": "Krab německý",
+  "latin": "Cancer pagurus",
+  "text": "Živí se mršinami, mlži a ostnokožci.",
+  "quote": "Živí se mršinami, mlži a ostnokožci.",
+  "claimed_false_for": {
+   "Q1135229": "Žábronožka solná (Artemia salina)",
+   "Q1300629": "Svinka obecná (Armadillidium vulgare)",
+   "Q571443": "Krunýřovka krillová (Euphausia superba)",
+   "Q586336": "Beruška vodní (Asellus aquaticus)"
+  }
+ },
+ {
+  "id": "Q752188#1",
+  "species": "Krab německý",
+  "latin": "Cancer pagurus",
+  "text": "Tento druh je noční a přes den se ukrývá.",
+  "quote": "Je to noční tvor, který se přes den ukrývá.",
+  "claimed_false_for": {}
+ }
+]

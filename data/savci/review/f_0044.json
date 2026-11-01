@@ -1,0 +1,29 @@
+{"drop_facts": [
+{"id": "Q717028#2", "why": "přidává slovo 'jen', které v citaci není"},
+{"id": "Q723413#0", "why": "zastaralý údaj: rozpětí křídel netopýra velkého dosahuje asi 43 cm, ne jen 37 cm"},
+{"id": "Q723413#1", "why": "sporné: kořist na zemi hledá hlavně posloucháním šelestu, který lidé slyší, ultrazvuk slouží spíš k orientaci"},
+{"id": "Q723435#2", "why": "sporné: ovoce není hlavní potrava, ve volné přírodě jí hlavně hmyz a stromové šťávy a pryskyřice"},
+{"id": "Q723435#4", "why": "odporuje běžným údajům: ocas tvoří asi polovinu celkové délky; navíc nejasné, délky čeho"},
+{"id": "Q723435#5", "why": "nedává smysl bez článku, není jasné, čí oči a uši"},
+{"id": "Q723575#1", "why": "sporné: muntžak chocholatý je aktivní hlavně za soumraku a za úsvitu"},
+{"id": "Q724354#3", "why": "vynechává podmínku: je to jen jeden ze dvou způsobů lovu, ve větší vzdálenosti od břehu"},
+{"id": "Q724362#2", "why": "sporné: v zajetí se dožívá přes 30 let, chybí podmínka"},
+{"id": "Q724362#3", "why": "zobecňuje na celý druh, mláďata nosí jen samice; citace navíc říká, že se mládě drží samo"},
+{"id": "Q728454#1", "why": "posouvá význam: citace říká 'mohou', navíc krkolomné 'přespává v zimním spánku'"},
+{"id": "Q728636#1", "why": "vynechává podmínku 've volné přírodě', v zajetí se dožívá déle"},
+{"id": "Q728636#2", "why": "kojí jen samice, zobecnění na druh bez jasného podmětu"}
+], "drop_pairs": [
+{"id": "Q723435#1", "species": "Q613177"},
+{"id": "Q723435#3", "species": "Q104831614"},
+{"id": "Q723575#3", "species": "Q328803"},
+{"id": "Q724354#1", "species": "Q623389"},
+{"id": "Q724354#1", "species": "Q275615"},
+{"id": "Q724362#0", "species": "Q328803"},
+{"id": "Q725493#2", "species": "Q26582"},
+{"id": "Q725493#2", "species": "Q912020"},
+{"id": "Q725493#3", "species": "Q203897"},
+{"id": "Q728454#0", "species": "Q186942"},
+{"id": "Q732863#0", "species": "Q468500"},
+{"id": "Q732863#0", "species": "Q854681"},
+{"id": "Q732863#1", "species": "Q1764906"}
+]}

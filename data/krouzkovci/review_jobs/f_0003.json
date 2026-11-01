@@ -1,0 +1,207 @@
+[
+ {
+  "id": "Q1051334#0",
+  "species": "Pijavka koňská",
+  "latin": "Haemopis sanguisuga",
+  "text": "Živí se drobnými bezobratlými živočichy.",
+  "quote": "její potravou jsou drobní bezobratlí živočichové",
+  "claimed_false_for": {
+   "Q134912": "Nitěnka obecná (Tubifex tubifex)",
+   "Q30041": "Pijavka lékařská (Hirudo medicinalis)"
+  }
+ },
+ {
+  "id": "Q1051334#1",
+  "species": "Pijavka koňská",
+  "latin": "Haemopis sanguisuga",
+  "text": "Loví i mladé obojživelníky a jejich pulce.",
+  "quote": "Za oběť mohou padnout zejména mladí obojživelníci po přechodu na souš nebo jejich pulci.",
+  "claimed_false_for": {
+   "Q134912": "Nitěnka obecná (Tubifex tubifex)"
+  }
+ },
+ {
+  "id": "Q133020#0",
+  "species": "Riftie hlubinná",
+  "latin": "Riftia pachyptila",
+  "text": "Bakterie v těle tohoto druhu mění plyny z vody na organické látky.",
+  "quote": "chemosynteticky (oxidací sulfanu) plyny přijaté z vody na organické látky",
+  "claimed_false_for": {
+   "Q1171262": "Rournatec paví (Sabella pavonina)",
+   "Q134912": "Nitěnka obecná (Tubifex tubifex)",
+   "Q1434787": "Rournatec ozdobný (Spirobranchus giganteus)"
+  }
+ },
+ {
+  "id": "Q133020#1",
+  "species": "Riftie hlubinná",
+  "latin": "Riftia pachyptila",
+  "text": "Nemá trávicí soustavu.",
+  "quote": "Nemá trávicí soustavu",
+  "claimed_false_for": {
+   "Q1171262": "Rournatec paví (Sabella pavonina)",
+   "Q134912": "Nitěnka obecná (Tubifex tubifex)",
+   "Q1434787": "Rournatec ozdobný (Spirobranchus giganteus)"
+  }
+ },
+ {
+  "id": "Q1410121#0",
+  "species": "Hermodice ohnivá",
+  "latin": "Hermodice carunculata",
+  "text": "Měří obvykle asi 15 cm, někdy až dvakrát tolik.",
+  "quote": "Obvykle bývá 15 cm dlouhý, může však dosáhnout až dvojnásobné délky.",
+  "claimed_false_for": {
+   "Q133020": "Riftie hlubinná (Riftia pachyptila)",
+   "Q134912": "Nitěnka obecná (Tubifex tubifex)",
+   "Q1434787": "Rournatec ozdobný (Spirobranchus giganteus)"
+  }
+ },
+ {
+  "id": "Q1410121#2",
+  "species": "Hermodice ohnivá",
+  "latin": "Hermodice carunculata",
+  "text": "Loví hvězdice a ježovky.",
+  "quote": "Jsou aktivní lovci hvězdic a ježovek",
+  "claimed_false_for": {
+   "Q1051334": "Pijavka koňská (Haemopis sanguisuga)",
+   "Q1171262": "Rournatec paví (Sabella pavonina)",
+   "Q133020": "Riftie hlubinná (Riftia pachyptila)",
+   "Q134912": "Nitěnka obecná (Tubifex tubifex)",
+   "Q1434787": "Rournatec ozdobný (Spirobranchus giganteus)",
+   "Q1501422": "Žížala hnojní (Eisenia fetida)",
+   "Q30041": "Pijavka lékařská (Hirudo medicinalis)"
+  }
+ },
+ {
+  "id": "Q1410121#4",
+  "species": "Hermodice ohnivá",
+  "latin": "Hermodice carunculata",
+  "text": "Napadá korály a sasanky.",
+  "quote": "napadají korály a sasanky",
+  "claimed_false_for": {
+   "Q134912": "Nitěnka obecná (Tubifex tubifex)",
+   "Q1434787": "Rournatec ozdobný (Spirobranchus giganteus)"
+  }
+ },
+ {
+  "id": "Q1434787#0",
+  "species": "Rournatec ozdobný",
+  "latin": "Spirobranchus giganteus",
+  "text": "Živí se drobnými organismy a planktonem.",
+  "quote": "Své rozvětvené zakončení těla využívá pro pasivní přijímání potravy v podobě volně se vznášejících drobných organismů a planktonu.",
+  "claimed_false_for": {
+   "Q133020": "Riftie hlubinná (Riftia pachyptila)",
+   "Q1501422": "Žížala hnojní (Eisenia fetida)",
+   "Q30092": "Žížala obecná (Lumbricus terrestris)"
+  }
+ },
+ {
+  "id": "Q1434787#1",
+  "species": "Rournatec ozdobný",
+  "latin": "Spirobranchus giganteus",
+  "text": "Při ohrožení dokáže stáhnout roztřepené části těla.",
+  "quote": "V případě ohrožení dokáží stáhnout roztřepené části těla a po chvíli opět rozvinout.",
+  "claimed_false_for": {
+   "Q134912": "Nitěnka obecná (Tubifex tubifex)"
+  }
+ },
+ {
+  "id": "Q1569834#0",
+  "species": "Afroditka plstnatá",
+  "latin": "Aphrodita aculeata",
+  "text": "Zahrabává se do písku přední částí napřed.",
+  "quote": "Zahrabává se do písku přední částí napřed",
+  "claimed_false_for": {
+   "Q1501422": "Žížala hnojní (Eisenia fetida)",
+   "Q30092": "Žížala obecná (Lumbricus terrestris)"
+  }
+ },
+ {
+  "id": "Q1569834#1",
+  "species": "Afroditka plstnatá",
+  "latin": "Aphrodita aculeata",
+  "text": "Živí se malými bezobratlými, jako jsou nereidky.",
+  "quote": "živí se malými bezobratlými jako jsou nereidky",
+  "claimed_false_for": {
+   "Q134912": "Nitěnka obecná (Tubifex tubifex)",
+   "Q1501422": "Žížala hnojní (Eisenia fetida)"
+  }
+ },
+ {
+  "id": "Q21155#1",
+  "species": "Pískovník rybářský",
+  "latin": "Arenicola marina",
+  "text": "Měří kolem 15 cm, nejvýš asi 30 cm.",
+  "quote": "V dospělosti dosahuje průměrné délky kolem patnácti centimetrů, maximálně však kolem třiceti centimetrů.",
+  "claimed_false_for": {
+   "Q133020": "Riftie hlubinná (Riftia pachyptila)",
+   "Q134912": "Nitěnka obecná (Tubifex tubifex)",
+   "Q1434787": "Rournatec ozdobný (Spirobranchus giganteus)"
+  }
+ },
+ {
+  "id": "Q21155#5",
+  "species": "Pískovník rybářský",
+  "latin": "Arenicola marina",
+  "text": "Je důležitou potravou pro platýse a některé pobřežní ptáky.",
+  "quote": "Je důležitým zdrojem potravy pro platýse a několik druhů pobřežních ptáků.",
+  "claimed_false_for": {
+   "Q133020": "Riftie hlubinná (Riftia pachyptila)"
+  }
+ },
+ {
+  "id": "Q21155#6",
+  "species": "Pískovník rybářský",
+  "latin": "Arenicola marina",
+  "text": "Živí se odumřelými částečkami a drobnými organismy v sedimentu.",
+  "quote": "Červ se živí organickým detritem i mikroflórou a mikrofaunou obsaženou v sedimentu.",
+  "claimed_false_for": {
+   "Q30041": "Pijavka lékařská (Hirudo medicinalis)"
+  }
+ },
+ {
+  "id": "Q30041#0",
+  "species": "Pijavka lékařská",
+  "latin": "Hirudo medicinalis",
+  "text": "Živí se krví teplokrevných živočichů.",
+  "quote": "Její potravou je krev teplokrevných živočichů",
+  "claimed_false_for": {
+   "Q134912": "Nitěnka obecná (Tubifex tubifex)",
+   "Q21155": "Pískovník rybářský (Arenicola marina)"
+  }
+ },
+ {
+  "id": "Q30092#0",
+  "species": "Žížala obecná",
+  "latin": "Lumbricus terrestris",
+  "text": "Dorůstá délky přibližně 9 až 30 cm.",
+  "quote": "Dorůstá délky přibližně 9 až 30 cm.",
+  "claimed_false_for": {
+   "Q133020": "Riftie hlubinná (Riftia pachyptila)",
+   "Q134912": "Nitěnka obecná (Tubifex tubifex)",
+   "Q1434787": "Rournatec ozdobný (Spirobranchus giganteus)"
+  }
+ },
+ {
+  "id": "Q30092#3",
+  "species": "Žížala obecná",
+  "latin": "Lumbricus terrestris",
+  "text": "Je potravou pro ptáky, savce i plazy.",
+  "quote": "Žížala se stává obživou pro širokou škálu různých živočichů, především ptáků, savců, plazů, obojživelníků, ale i různých bezobratlých.",
+  "claimed_false_for": {
+   "Q133020": "Riftie hlubinná (Riftia pachyptila)"
+  }
+ },
+ {
+  "id": "Q901174#1",
+  "species": "Nereidka hnědá",
+  "latin": "Nereis pelagica",
+  "text": "Dýchá celým tělem.",
+  "quote": "Dýchá celým tělem.",
+  "claimed_false_for": {
+   "Q1171262": "Rournatec paví (Sabella pavonina)",
+   "Q134912": "Nitěnka obecná (Tubifex tubifex)",
+   "Q1434787": "Rournatec ozdobný (Spirobranchus giganteus)"
+  }
+ }
+]

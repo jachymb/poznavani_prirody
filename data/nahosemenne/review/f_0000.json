@@ -1,0 +1,30 @@
+{"drop_facts": [
+{"id": "Q149321#0", "why": "chybí podmět; horní mez sporná, jiné zdroje uvádějí vyšší kmeny"},
+{"id": "Q149321#1", "why": "horní mez délky listů je sporná, jiné zdroje uvádějí delší listy"},
+{"id": "Q150991#0", "why": "nepřímo prozrazuje název (plstnatá), bez článku nesrozumitelné"},
+{"id": "Q156926#2", "why": "nepřesné: roste v Namibské poušti i ve vnitrozemí, ne jen na pobřeží"},
+{"id": "Q156926#3", "why": "příjem vody z mlhy listy je vědecky sporný"},
+{"id": "Q156926#4", "why": "posouvá citaci (hlavně jen u ploštic, vynechává mouchy a motýly); role ploštice jako opylovače je sporná"},
+{"id": "Q156926#5", "why": "krkolomná věta se změnou podmětu (mají = semena)"},
+{"id": "Q161198#1", "why": "nejde o vlastnost druhu; věk nejistý, článek o píchoši uvádí jako nejstarší český cykas jinou rostlinu"},
+{"id": "Q161517#0", "why": "chybí podmět; nejistý odhad věku"},
+{"id": "Q161517#1", "why": "krkolomné a vynechává podmínku bez šišek"},
+{"id": "Q161517#3", "why": "chybí podmět; krkolomné vápencem pod zemí"},
+{"id": "Q162784#1", "why": "nejasný podmět; nahosemenné nemají pravé plody, citace říká nepravé"},
+{"id": "Q43284#1", "why": "dva laloky prozrazují název dvoulaločný"},
+{"id": "Q72368#0", "why": "chybí podmět"},
+{"id": "Q72368#1", "why": "chybí podmět"},
+{"id": "Q72368#2", "why": "chybí podmět, zájmeno mu bez odkazu"},
+{"id": "Q72368#3", "why": "nejasný podmět; posouvá význam citace (většina jedinců místo převážně dvoudomé)"},
+{"id": "Q924592#2", "why": "zájmeno ho bez odkazu, nejasné bez článku"},
+{"id": "Q924592#3", "why": "nejasný podmět, bez článku platí obecně pro mnoho rostlin"}
+], "drop_pairs": [
+{"id": "Q150991#1", "species": "Q156926"},
+{"id": "Q150991#1", "species": "Q43284"},
+{"id": "Q156926#1", "species": "Q150991"},
+{"id": "Q43284#0", "species": "Q150991"},
+{"id": "Q43284#0", "species": "Q162784"},
+{"id": "Q43284#0", "species": "Q72368"},
+{"id": "Q43284#0", "species": "Q924592"},
+{"id": "Q924592#0", "species": "Q72368"}
+]}

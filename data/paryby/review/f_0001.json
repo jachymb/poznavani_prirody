@@ -1,0 +1,29 @@
+{"drop_facts": [
+{"id": "Q29150#1", "why": "biologicky chybné: druh žije obvykle v mělčině do cca 45 m, 205 m je jen horní mez"},
+{"id": "Q311651#1", "why": "'posetý zuby' nepřímo prozrazuje název 'mnohozubý'"},
+{"id": "Q311651#3", "why": "vynechává 'v současnosti' a je sporné: uvádějí se i další predátoři, např. krokodýli"},
+{"id": "Q318090#4", "why": "nemá podmět"},
+{"id": "Q318090#5", "why": "nemá podmět"},
+{"id": "Q321976#2", "why": "zastaralé a zavádějící: rozpětí dosahuje až přes 7 m, chybí i co se měří"},
+{"id": "Q370444#0", "why": "sporné: 'běžně přes 200 let' není doloženo, věk je jen odhad z malého vzorku s velkou nejistotou"},
+{"id": "Q370444#1", "why": "zastaralý údaj: druh je doložen i v hloubkách kolem 2200 m"},
+{"id": "Q370444#2", "why": "sporné a posun citace: v citaci jsou jen mršiny, 'hlavně mršiny' je nejisté, v žaludcích převažují ryby"},
+{"id": "Q469958#0", "why": "nemá podmět a uvádí horní hmotnost jako typickou"},
+{"id": "Q469958#1", "why": "nemá podmět"},
+{"id": "Q469958#2", "why": "nemá podmět"},
+{"id": "Q625161#1", "why": "nemá podmět a nadsazená typická délka: obvykle je menší, 3,5 m je blízko maxima"},
+{"id": "Q695344#1", "why": "nemá podmět"},
+{"id": "Q695344#2", "why": "nemá podmět"},
+{"id": "Q695344#5", "why": "krkolomná formulace"},
+{"id": "Q756964#2", "why": "posun citace: z výčtu bezobratlých vybírá mlže a korýše jako hlavní potravu"}
+], "drop_pairs": [
+{"id": "Q311651#0", "species": "Q188212"},
+{"id": "Q311651#2", "species": "Q321976"},
+{"id": "Q318090#2", "species": "Q29150"},
+{"id": "Q318090#2", "species": "Q756859"},
+{"id": "Q321976#0", "species": "Q1160972"},
+{"id": "Q695344#0", "species": "Q1160972"},
+{"id": "Q695344#0", "species": "Q29150"},
+{"id": "Q695344#0", "species": "Q964954"},
+{"id": "Q695344#3", "species": "Q163523"}
+]}

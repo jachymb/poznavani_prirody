@@ -1,0 +1,320 @@
+[
+ {
+  "id": "Q146375#0",
+  "species": "Ropucha obecná",
+  "latin": "Bufo bufo",
+  "text": "Měří 7 až 15 centimetrů.",
+  "quote": "Dosahuje délky okolo 7 až 15 cm.",
+  "claimed_false_for": {
+   "Q15856": "Macarát jeskynní (Proteus anguinus)",
+   "Q2142057": "Rosnička zelená (Hyla arborea)",
+   "Q320632": "Ropucha zlatá (Incilius periglenes)",
+   "Q739887": "Veleskokan goliáší (Conraua goliath)"
+  }
+ },
+ {
+  "id": "Q146375#1",
+  "species": "Ropucha obecná",
+  "latin": "Bufo bufo",
+  "text": "Tento druh je aktivní hlavně za soumraku a v noci.",
+  "quote": "Je aktivní především za soumraku a v noci.",
+  "claimed_false_for": {
+   "Q319393": "Skokan skřehotavý (Pelophylax ridibundus)"
+  }
+ },
+ {
+  "id": "Q146375#2",
+  "species": "Ropucha obecná",
+  "latin": "Bufo bufo",
+  "text": "Klade do vody dlouhé šňůry s tisíci vajíčky.",
+  "quote": "obsahuje 1200 az 6000 vajíček",
+  "claimed_false_for": {
+   "Q15856": "Macarát jeskynní (Proteus anguinus)",
+   "Q159404": "Skokan volský (Rana catesbeiana)",
+   "Q26395": "Mlok skvrnitý (Salamandra salamandra)",
+   "Q31694": "Skokan zelený (Pelophylax esculentus)"
+  }
+ },
+ {
+  "id": "Q146375#8",
+  "species": "Ropucha obecná",
+  "latin": "Bufo bufo",
+  "text": "Pulci se živí uhynulými rybami či drobnými řasami.",
+  "quote": "Pulci se živí uhynulými rybami či drobnými řasami.",
+  "claimed_false_for": {
+   "Q15856": "Macarát jeskynní (Proteus anguinus)",
+   "Q215247": "Čolek obecný (Lissotriton vulgaris)",
+   "Q26395": "Mlok skvrnitý (Salamandra salamandra)"
+  }
+ },
+ {
+  "id": "Q15856#1",
+  "species": "Macarát jeskynní",
+  "latin": "Proteus anguinus",
+  "text": "Vejce lepí pod kameny a pak je hlídá.",
+  "quote": "jsou lepena pod kameny a následně hlídána",
+  "claimed_false_for": {
+   "Q146375": "Ropucha obecná (Bufo bufo)",
+   "Q159404": "Skokan volský (Rana catesbeiana)",
+   "Q215247": "Čolek obecný (Lissotriton vulgaris)",
+   "Q243242": "Ropucha zelená (Bufo viridis)",
+   "Q26395": "Mlok skvrnitý (Salamandra salamandra)",
+   "Q31694": "Skokan zelený (Pelophylax esculentus)",
+   "Q319393": "Skokan skřehotavý (Pelophylax ridibundus)",
+   "Q321087": "Ropucha obrovská (Rhinella marina)",
+   "Q337616": "Listovnice červenooká (Agalychnis callidryas)",
+   "Q44324": "Skokan ostronosý (Rana arvalis)"
+  }
+ },
+ {
+  "id": "Q159404#1",
+  "species": "Skokan volský",
+  "latin": "Rana catesbeiana",
+  "text": "Samice může snést až 20 000 vajíček najednou.",
+  "quote": "Samice může vyprodukovat až 20 000 vajíček ve snůšce.",
+  "claimed_false_for": {
+   "Q15856": "Macarát jeskynní (Proteus anguinus)",
+   "Q2142057": "Rosnička zelená (Hyla arborea)",
+   "Q215247": "Čolek obecný (Lissotriton vulgaris)",
+   "Q320632": "Ropucha zlatá (Incilius periglenes)"
+  }
+ },
+ {
+  "id": "Q2142057#2",
+  "species": "Rosnička zelená",
+  "latin": "Hyla arborea",
+  "text": "Hmyz a pavouky na listech stromů loví rychlým skokem.",
+  "quote": "obvykle hmyzem a pavouky, které nacházejí na listech stromů a které často loví pomocí rychlého skoku",
+  "claimed_false_for": {
+   "Q146375": "Ropucha obecná (Bufo bufo)",
+   "Q15856": "Macarát jeskynní (Proteus anguinus)",
+   "Q159404": "Skokan volský (Rana catesbeiana)",
+   "Q215247": "Čolek obecný (Lissotriton vulgaris)",
+   "Q26395": "Mlok skvrnitý (Salamandra salamandra)",
+   "Q321087": "Ropucha obrovská (Rhinella marina)",
+   "Q739887": "Veleskokan goliáší (Conraua goliath)"
+  }
+ },
+ {
+  "id": "Q2142057#3",
+  "species": "Rosnička zelená",
+  "latin": "Hyla arborea",
+  "text": "Klade vajíčka v chumáčích po deseti až padesáti kusech.",
+  "quote": "V jednom chomáči je obvykle 10 až 50 vajíček.",
+  "claimed_false_for": {
+   "Q146375": "Ropucha obecná (Bufo bufo)",
+   "Q15856": "Macarát jeskynní (Proteus anguinus)",
+   "Q159404": "Skokan volský (Rana catesbeiana)",
+   "Q215247": "Čolek obecný (Lissotriton vulgaris)",
+   "Q243242": "Ropucha zelená (Bufo viridis)",
+   "Q27465": "Skokan hnědý (Rana temporaria)"
+  }
+ },
+ {
+  "id": "Q2142057#6",
+  "species": "Rosnička zelená",
+  "latin": "Hyla arborea",
+  "text": "Klade vajíčka do porostů vodních rostlin.",
+  "quote": "bývají nakladeny v porostech vodních rostlin na mělčinách",
+  "claimed_false_for": {
+   "Q15856": "Macarát jeskynní (Proteus anguinus)"
+  }
+ },
+ {
+  "id": "Q215247#0",
+  "species": "Čolek obecný",
+  "latin": "Lissotriton vulgaris",
+  "text": "Měří šest až deset centimetrů.",
+  "quote": "je 6–10 cm velký obojživelník",
+  "claimed_false_for": {
+   "Q15856": "Macarát jeskynní (Proteus anguinus)",
+   "Q159404": "Skokan volský (Rana catesbeiana)",
+   "Q2142057": "Rosnička zelená (Hyla arborea)",
+   "Q22718": "Axolotl mexický (Ambystoma mexicanum)",
+   "Q319393": "Skokan skřehotavý (Pelophylax ridibundus)",
+   "Q739887": "Veleskokan goliáší (Conraua goliath)"
+  }
+ },
+ {
+  "id": "Q215247#1",
+  "species": "Čolek obecný",
+  "latin": "Lissotriton vulgaris",
+  "text": "Samička klade 150 až 300 vajíček do listů vodních rostlin.",
+  "quote": "Po oplodnění začne samička klást do listů vodních rostlin 150–300 vajíček.",
+  "claimed_false_for": {
+   "Q146375": "Ropucha obecná (Bufo bufo)",
+   "Q15856": "Macarát jeskynní (Proteus anguinus)",
+   "Q159404": "Skokan volský (Rana catesbeiana)",
+   "Q2142057": "Rosnička zelená (Hyla arborea)",
+   "Q243242": "Ropucha zelená (Bufo viridis)",
+   "Q27465": "Skokan hnědý (Rana temporaria)"
+  }
+ },
+ {
+  "id": "Q215247#4",
+  "species": "Čolek obecný",
+  "latin": "Lissotriton vulgaris",
+  "text": "Brzy na jaře může hlavní potravu tvořit vajíčka skokana hnědého.",
+  "quote": "V časném předjaří mohou hlavní potravu tvořit vajíčka skokana hnědého.",
+  "claimed_false_for": {
+   "Q15856": "Macarát jeskynní (Proteus anguinus)",
+   "Q320632": "Ropucha zlatá (Incilius periglenes)",
+   "Q739887": "Veleskokan goliáší (Conraua goliath)"
+  }
+ },
+ {
+  "id": "Q243242#2",
+  "species": "Ropucha zelená",
+  "latin": "Bufo viridis",
+  "text": "Tento druh je aktivní hlavně v noci.",
+  "quote": "Aktivita ropuchy zelené je v převážné míře noční.",
+  "claimed_false_for": {
+   "Q319393": "Skokan skřehotavý (Pelophylax ridibundus)"
+  }
+ },
+ {
+  "id": "Q27465#0",
+  "species": "Skokan hnědý",
+  "latin": "Rana temporaria",
+  "text": "Dospělý jedinec je dlouhý 6 až 9 cm.",
+  "quote": "Dospělý skokan má délku těla od 6 do 9 cm.",
+  "claimed_false_for": {
+   "Q15856": "Macarát jeskynní (Proteus anguinus)",
+   "Q159404": "Skokan volský (Rana catesbeiana)",
+   "Q2142057": "Rosnička zelená (Hyla arborea)",
+   "Q22718": "Axolotl mexický (Ambystoma mexicanum)",
+   "Q319393": "Skokan skřehotavý (Pelophylax ridibundus)",
+   "Q320632": "Ropucha zlatá (Incilius periglenes)",
+   "Q739887": "Veleskokan goliáší (Conraua goliath)"
+  }
+ },
+ {
+  "id": "Q319393#0",
+  "species": "Skokan skřehotavý",
+  "latin": "Pelophylax ridibundus",
+  "text": "Tento druh je aktivní ve dne.",
+  "quote": "Skokan skřehotavý je aktivní ve dne.",
+  "claimed_false_for": {
+   "Q146375": "Ropucha obecná (Bufo bufo)",
+   "Q243242": "Ropucha zelená (Bufo viridis)"
+  }
+ },
+ {
+  "id": "Q319393#3",
+  "species": "Skokan skřehotavý",
+  "latin": "Pelophylax ridibundus",
+  "text": "Větší jedinci mohou pozřít menší myš, mloka nebo rybu.",
+  "quote": "větší jedinci mohou pozřít také menší myš, mloka nebo rybu",
+  "claimed_false_for": {
+   "Q215247": "Čolek obecný (Lissotriton vulgaris)",
+   "Q243242": "Ropucha zelená (Bufo viridis)"
+  }
+ },
+ {
+  "id": "Q320632#1",
+  "species": "Ropucha zlatá",
+  "latin": "Incilius periglenes",
+  "text": "Kladla vajíčka do malých vodních nádrží.",
+  "quote": "Byl závislý na srážkách, protože vajíčka kladl do malých vodních nádrží.",
+  "claimed_false_for": {
+   "Q15856": "Macarát jeskynní (Proteus anguinus)",
+   "Q22718": "Axolotl mexický (Ambystoma mexicanum)",
+   "Q739887": "Veleskokan goliáší (Conraua goliath)"
+  }
+ },
+ {
+  "id": "Q321087#0",
+  "species": "Ropucha obrovská",
+  "latin": "Rhinella marina",
+  "text": "Dorůstá obvykle 10 až 20 centimetrů.",
+  "quote": "Dospělé žáby mají velikost obvykle 10 až 20 cm",
+  "claimed_false_for": {
+   "Q15856": "Macarát jeskynní (Proteus anguinus)",
+   "Q2142057": "Rosnička zelená (Hyla arborea)",
+   "Q215247": "Čolek obecný (Lissotriton vulgaris)",
+   "Q243242": "Ropucha zelená (Bufo viridis)",
+   "Q320632": "Ropucha zlatá (Incilius periglenes)",
+   "Q44324": "Skokan ostronosý (Rana arvalis)",
+   "Q739887": "Veleskokan goliáší (Conraua goliath)"
+  }
+ },
+ {
+  "id": "Q321087#3",
+  "species": "Ropucha obrovská",
+  "latin": "Rhinella marina",
+  "text": "Tento druh je aktivní hlavně v noci.",
+  "quote": "Jsou aktivní hlavně v noci a pohybují se i velice daleko od vody.",
+  "claimed_false_for": {
+   "Q319393": "Skokan skřehotavý (Pelophylax ridibundus)"
+  }
+ },
+ {
+  "id": "Q321087#4",
+  "species": "Ropucha obrovská",
+  "latin": "Rhinella marina",
+  "text": "Při ohrožení vylučuje jedovatou mléčně bílou tekutinu.",
+  "quote": "V ohrožení žáby vylučují z těchto žláz mléčně bílou tekutinu. Tato tekutina obsahuje bufotoxiny, které jsou toxické pro mnoho zvířat i pro člověka.",
+  "claimed_false_for": {
+   "Q15856": "Macarát jeskynní (Proteus anguinus)",
+   "Q159404": "Skokan volský (Rana catesbeiana)",
+   "Q31694": "Skokan zelený (Pelophylax esculentus)",
+   "Q319393": "Skokan skřehotavý (Pelophylax ridibundus)",
+   "Q739887": "Veleskokan goliáší (Conraua goliath)"
+  }
+ },
+ {
+  "id": "Q321087#5",
+  "species": "Ropucha obrovská",
+  "latin": "Rhinella marina",
+  "text": "Pochází ze Střední a Jižní Ameriky.",
+  "quote": "s domovinou ve Střední a Jižní Americe",
+  "claimed_false_for": {
+   "Q146375": "Ropucha obecná (Bufo bufo)",
+   "Q15856": "Macarát jeskynní (Proteus anguinus)",
+   "Q159404": "Skokan volský (Rana catesbeiana)",
+   "Q215247": "Čolek obecný (Lissotriton vulgaris)",
+   "Q243242": "Ropucha zelená (Bufo viridis)",
+   "Q26395": "Mlok skvrnitý (Salamandra salamandra)",
+   "Q31694": "Skokan zelený (Pelophylax esculentus)",
+   "Q319393": "Skokan skřehotavý (Pelophylax ridibundus)",
+   "Q44324": "Skokan ostronosý (Rana arvalis)",
+   "Q739887": "Veleskokan goliáší (Conraua goliath)"
+  }
+ },
+ {
+  "id": "Q337616#0",
+  "species": "Listovnice červenooká",
+  "latin": "Agalychnis callidryas",
+  "text": "Tento druh je aktivní hlavně v noci.",
+  "quote": "Aktivní je především v noci",
+  "claimed_false_for": {
+   "Q319393": "Skokan skřehotavý (Pelophylax ridibundus)"
+  }
+ },
+ {
+  "id": "Q44324#1",
+  "species": "Skokan ostronosý",
+  "latin": "Rana arvalis",
+  "text": "V době rozmnožování se samečci zbarví do modra.",
+  "quote": "Sameček se v době rozmnožování zabarví po celém těle do modra.",
+  "claimed_false_for": {
+   "Q146375": "Ropucha obecná (Bufo bufo)",
+   "Q15856": "Macarát jeskynní (Proteus anguinus)",
+   "Q2142057": "Rosnička zelená (Hyla arborea)",
+   "Q215247": "Čolek obecný (Lissotriton vulgaris)",
+   "Q22718": "Axolotl mexický (Ambystoma mexicanum)",
+   "Q320632": "Ropucha zlatá (Incilius periglenes)",
+   "Q739887": "Veleskokan goliáší (Conraua goliath)"
+  }
+ },
+ {
+  "id": "Q44324#4",
+  "species": "Skokan ostronosý",
+  "latin": "Rana arvalis",
+  "text": "Bývá kořistí čápů a užovek obojkových.",
+  "quote": "Skokany loví čápi a užovky obojkové",
+  "claimed_false_for": {
+   "Q15856": "Macarát jeskynní (Proteus anguinus)"
+  }
+ }
+]

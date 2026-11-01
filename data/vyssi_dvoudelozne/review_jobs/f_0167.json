@@ -1,0 +1,411 @@
+[
+ {
+  "id": "Q30959#0",
+  "species": "Durman obecný",
+  "latin": "Datura stramonium",
+  "text": "Celá rostlina je jedovatá.",
+  "quote": "Celá rostlina je jedovatá, obsahuje tropanové alkaloidy",
+  "claimed_false_for": {
+   "Q1473991": "Bedrník obecný (Pimpinella saxifraga)"
+  }
+ },
+ {
+  "id": "Q30959#1",
+  "species": "Durman obecný",
+  "latin": "Datura stramonium",
+  "text": "Kvete od června do září.",
+  "quote": "Durman kvete od června do září.",
+  "claimed_false_for": {
+   "Q158563": "Dřišťál obecný (Berberis vulgaris)",
+   "Q5772378": "Plamének bezlistý (Clematis afoliata)"
+  }
+ },
+ {
+  "id": "Q30959#2",
+  "species": "Durman obecný",
+  "latin": "Datura stramonium",
+  "text": "V Česku roste roztroušeně od nížin po podhůří.",
+  "quote": "V ČR roste roztroušeně od nížin po podhůří.",
+  "claimed_false_for": {
+   "Q133428": "Paprika chlupatá (Capsicum pubescens)",
+   "Q156538": "Kaučukovník brazilský (Hevea brasiliensis)",
+   "Q165227": "Mochyně peruánská (Physalis peruviana)",
+   "Q1663536": "Blín bílý (Hyoscyamus albus)",
+   "Q311071": "Paprika čínská (Capsicum chinense)",
+   "Q3938471": "Jeřáb sitka (Sorbus sitchensis)",
+   "Q852660": "Withanie snodárná (Withania somnifera)"
+  }
+ },
+ {
+  "id": "Q30959#3",
+  "species": "Durman obecný",
+  "latin": "Datura stramonium",
+  "text": "Plod je ostnitá tobolka se čtyřmi díly.",
+  "quote": "Plod je čtyřdílná ostnitá tobolka",
+  "claimed_false_for": {
+   "Q10998": "Lilek brambor (Solanum tuberosum)",
+   "Q133205": "Pískavice řecké seno (Trigonella foenum-graecum)",
+   "Q133428": "Paprika chlupatá (Capsicum pubescens)",
+   "Q141303": "Kustovnice čínská (Lycium chinense)",
+   "Q161704": "Opletník plotní (Calystegia sepium)",
+   "Q162815": "Ostrožka stračka (Consolida regalis)",
+   "Q165227": "Mochyně peruánská (Physalis peruviana)",
+   "Q1663536": "Blín bílý (Hyoscyamus albus)",
+   "Q311071": "Paprika čínská (Capsicum chinense)",
+   "Q3938471": "Jeřáb sitka (Sorbus sitchensis)",
+   "Q852660": "Withanie snodárná (Withania somnifera)"
+  }
+ },
+ {
+  "id": "Q310050#6",
+  "species": "Smuteň lékařská",
+  "latin": "Phyllanthus emblica",
+  "text": "Včely opylují jeho květy.",
+  "quote": "opylující včely",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q310050#7",
+  "species": "Smuteň lékařská",
+  "latin": "Phyllanthus emblica",
+  "text": "Některé můry opylují jeho květy v noci.",
+  "quote": "můry rodu Epicephala v noci",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q310157#0",
+  "species": "Křídlok velkoplodý",
+  "latin": "Pterocarpus macrocarpus",
+  "text": "Roste až do výšky 30 metrů.",
+  "quote": "rostoucí až do výšky 30 m",
+  "claimed_false_for": {
+   "Q132677": "Iboga (Tabernanthe iboga)",
+   "Q145781": "Janovec metlatý (Cytisus scoparius)",
+   "Q158127": "Kozinec sladkolistý (Astragalus glycyphyllos)",
+   "Q163372": "Čilimník černající (Cytisus nigricans)",
+   "Q25237": "Hrách setý (Pisum sativum)",
+   "Q41558": "Kručinka německá (Genista germanica)",
+   "Q85303400": "Jestřábník Englerův (Hieracium engleri)",
+   "Q894236": "Trnovník huňatý (Robinia hispida)"
+  }
+ },
+ {
+  "id": "Q310157#1",
+  "species": "Křídlok velkoplodý",
+  "latin": "Pterocarpus macrocarpus",
+  "text": "Semena si drží schopnost vyklíčit i po roce.",
+  "quote": "která si rok podržují schopnost vyklíčit",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q3106488#4",
+  "species": "Růže nutkanská",
+  "latin": "Rosa nutkana",
+  "text": "Létající hmyz přenáší jeho pyl na blizny.",
+  "quote": "přenos pyl z prašníků na blizny zajišťuje létající hmyz",
+  "claimed_false_for": {
+   "Q920344": "Zelkova pilovitá (Zelkova serrata)"
+  }
+ },
+ {
+  "id": "Q3106488#5",
+  "species": "Růže nutkanská",
+  "latin": "Rosa nutkana",
+  "text": "Ptáci a drobní savci roznášejí jeho semena po okolí.",
+  "quote": "semeny (nažkami) ze šípků, které po okolí roznášejí ptáci a drobní savci",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q3107741#4",
+  "species": "Boží květ zahradní",
+  "latin": "Dodecatheon meadia",
+  "text": "Opylují ho nejčastěji čmeláci a včely.",
+  "quote": "nejčastěji čmeláky a včelami slétající se pro pyl",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q3107741#5",
+  "species": "Boží květ zahradní",
+  "latin": "Dodecatheon meadia",
+  "text": "Opylovači kmitají křídly u jeho prašníků a uvolňují pyl.",
+  "quote": "opylovači rychle kmitají křídly v těsné blízkosti prašníků",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q311178#4",
+  "species": "Makadamie celolistá",
+  "latin": "Macadamia integrifolia",
+  "text": "Samotně rostoucí stromy mají méně přirozených opylovačů.",
+  "quote": "izolovanost snižuje dostupnost přirozených opylovačů",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q311325#0",
+  "species": "Baobab Grandidiérův",
+  "latin": "Adansonia grandidieri",
+  "text": "Roste jen na ostrově Madagaskar.",
+  "quote": "endemicky se vyskytujících na ostrově Madagaskar",
+  "claimed_false_for": {
+   "Q156835": "Sléz lesní (Malva sylvestris)",
+   "Q158496": "Proskurník lékařský (Althaea officinalis)",
+   "Q160273": "Chocholačka bílá (Pseudofumaria alba)",
+   "Q164232": "Devaterník velkokvětý (Helianthemum nummularium)",
+   "Q2166505": "Podranka dlouhoplodá (Podranea ricasoliana)",
+   "Q254655": "Zvonečník klasnatý (Phyteuma spicatum)",
+   "Q2601080": "Devaterník šedý (Helianthemum oelandicum)",
+   "Q374027": "Anoda hřebenitá (Anoda cristata)",
+   "Q4011060": "Kalina kulovitá (Viburnum ×carlcephalum)",
+   "Q42385": "Kakaovník pravý (Theobroma cacao)",
+   "Q577521": "Lípěnka africká (Sparrmannia africana)"
+  }
+ },
+ {
+  "id": "Q311325#1",
+  "species": "Baobab Grandidiérův",
+  "latin": "Adansonia grandidieri",
+  "text": "Kmen dorůstá až do výšky 25 metrů.",
+  "quote": "Kmen dorůstá až 25 m do výšky",
+  "claimed_false_for": {
+   "Q1137540": "Kenaf (Hibiscus cannabinus)",
+   "Q158141": "Lýkovec vonný (Daphne cneorum)",
+   "Q158392": "Čistec bahenní (Stachys palustris)",
+   "Q159115": "Krtičník hlíznatý (Scrophularia nodosa)",
+   "Q163199": "Sléz kučeravý (Malva verticillata)",
+   "Q606369": "Mračňák Theophrastův (Abutilon theophrasti)"
+  }
+ },
+ {
+  "id": "Q311430#0",
+  "species": "Akácie Mearnsova",
+  "latin": "Acacia mearnsii",
+  "text": "Kůra je bohatá na třísloviny, které konzervují pravou kůži.",
+  "quote": "Je bohatá na třísloviny, které konzervují a zesilují pravou kůži",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q311430#1",
+  "species": "Akácie Mearnsova",
+  "latin": "Acacia mearnsii",
+  "text": "Tento druh se vyskytuje v jihovýchodní Austrálii a na Tasmánii.",
+  "quote": "Vyskytuje se v jihovýchodní Austrálii a na Tasmánii.",
+  "claimed_false_for": {
+   "Q1103807": "Zimolez kamčatský (Lonicera kamtschatica)",
+   "Q148829": "Pryšec zářivý (Euphorbia milii)",
+   "Q159871": "Hrachor panonský pravý (Lathyrus pannonicus)",
+   "Q162905": "Vítod obecný (Polygala vulgaris)",
+   "Q2139163": "Hlošina mnohokvětá (Elaeagnus multiflora)",
+   "Q5835832": "Erinacea trnitá (Erinacea anthyllis)"
+  }
+ },
+ {
+  "id": "Q311471#5",
+  "species": "Kalaba obvejčitá",
+  "latin": "Calophyllum inophyllum",
+  "text": "Semena roznášejí kaloni a jiní ptáci.",
+  "quote": "rozptylována kaloni neb jinými ptáky",
+  "claimed_false_for": {
+   "Q135669": "Vrba celolistá (Salix integra)",
+   "Q160361": "Len tenkolistý (Linum tenuifolium)",
+   "Q160459": "Pryšec tuhý (Euphorbia stricta)",
+   "Q164356": "Vrba alpská (Salix alpina)",
+   "Q190326": "Violka trojbarevná (Viola tricolor)",
+   "Q311840": "Ditrichie smradlavá (Dittrichia graveolens)",
+   "Q853914": "Kořenovník obecný (Rhizophora mangle)"
+  }
+ },
+ {
+  "id": "Q311747#0",
+  "species": "Železnec ztepilý",
+  "latin": "Metrosideros excelsa",
+  "text": "Zavlečený kusu liščí požírá listy tohoto druhu.",
+  "quote": "Škůdcem této dřeviny je introdukovaný kusu liščí, který požírá její listy",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q311747#1",
+  "species": "Železnec ztepilý",
+  "latin": "Metrosideros excelsa",
+  "text": "Tvoří velké jasně červené květy s dlouhými tyčinkami.",
+  "quote": "velké jasně červené květy s dlouhými tyčinkami",
+  "claimed_false_for": {
+   "Q1281021": "Choulivka jerišská (Anastatica hierochuntica)",
+   "Q158695": "Huseníček rolní (Arabidopsis thaliana)",
+   "Q159427": "Čarovník alpský (Circaea alpina)",
+   "Q159669": "Vrbovka růžová (Epilobium roseum)",
+   "Q159752": "Vikev huňatá (Vicia villosa)",
+   "Q164708": "Kakost pyrenejský (Geranium pyrenaicum)",
+   "Q166843": "Kvajáva hrušková (Psidium guajava)",
+   "Q271179": "Vrcholák pravý (Terminalia catappa)",
+   "Q306504": "Eugenie jednokvětá (Eugenia uniflora)",
+   "Q5382992": "Vrbovka krátkoplodá (Epilobium brachycarpum)",
+   "Q9373395": "Pupalka velkoplodá (Oenothera macrocarpa)"
+  }
+ },
+ {
+  "id": "Q311840#6",
+  "species": "Ditrichie smradlavá",
+  "latin": "Dittrichia graveolens",
+  "text": "Semena se snadno přichytávají na srst zvířat.",
+  "quote": "se snadno přichycují za srst zvířat",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q311840#7",
+  "species": "Ditrichie smradlavá",
+  "latin": "Dittrichia graveolens",
+  "text": "Pasoucí se zvířata ji mohou sežrat, když nemají jinou potravu.",
+  "quote": "v případě nedostatku jiné potravy ale mohou být spásána",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q311847#3",
+  "species": "Prorostlík nejtenčí",
+  "latin": "Bupleurum tenuissimum",
+  "text": "Semena se šíří větrem, vodou i pomocí zvířat nebo lidí.",
+  "quote": "se do okolí šíří větrem, vodou i pomoci zvířat nebo lidí",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q312094#4",
+  "species": "Kolíkovník mořský",
+  "latin": "Avicennia marina",
+  "text": "Velbloudi a kozy jedí jeho mladé větve a listy.",
+  "quote": "jeho mladé větve a listy jako krmivo pro velbloudy a kozy",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q312094#5",
+  "species": "Kolíkovník mořský",
+  "latin": "Avicennia marina",
+  "text": "Listy spadlé do bahna jsou potravou krabů a ryb.",
+  "quote": "listy spadané do bahna slouží jako potrava krabům a do vody rybám",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q312094#6",
+  "species": "Kolíkovník mořský",
+  "latin": "Avicennia marina",
+  "text": "Opylují ho včely a mouchy.",
+  "quote": "u hmyzích opylovačů (včel a much)",
+  "claimed_false_for": {
+   "Q158130": "Stolístek klasnatý (Myriophyllum spicatum)"
+  }
+ },
+ {
+  "id": "Q312441#4",
+  "species": "Astra čínská",
+  "latin": "Callistephus chinensis",
+  "text": "Larvy osenic a kovaříků ožírají listy a kořeny.",
+  "quote": "larvy osenic a kovaříků které ožírají listy a kořeny",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q312441#5",
+  "species": "Astra čínská",
+  "latin": "Callistephus chinensis",
+  "text": "Mšice sají na listech a úborech.",
+  "quote": "mšice sající na listech i úborech",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q312441#6",
+  "species": "Astra čínská",
+  "latin": "Callistephus chinensis",
+  "text": "Houby z půdy ucpávají cévy a rostlina pak vadne.",
+  "quote": "Houby žijí v půdě a dostávají se do cévních svazků rostliny a ucpávají je",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q3125935#4",
+  "species": "Halézie karolínská",
+  "latin": "Halesia carolina",
+  "text": "Jeho květy poskytují včelám nektar a pyl.",
+  "quote": "poskytuje včelám množství nektaru a pylu",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q3125935#5",
+  "species": "Halézie karolínská",
+  "latin": "Halesia carolina",
+  "text": "Veverky a drobní hlodavci požírají jeho semena.",
+  "quote": "Semena požírají veverky a drobní hlodavci",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q3125935#6",
+  "species": "Halézie karolínská",
+  "latin": "Halesia carolina",
+  "text": "Ptáci hnízdí v dutinách po vylomených větvích.",
+  "quote": "dutiny po vylomených větvích jsou využívány ptáky ke hnízdění",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q312919#5",
+  "species": "Krabilice mámivá",
+  "latin": "Chaerophyllum temulum",
+  "text": "Má látku, která ho chrání před plísněmi.",
+  "quote": "chránící rostlinu před plísněmi",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q3163048#2",
+  "species": "Dávivec bavlníkolistý",
+  "latin": "Jatropha gossypiifolia",
+  "text": "Semena jsou pro člověka jedovatá.",
+  "quote": "Semena jsou pro člověka toxická.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q3163048#3",
+  "species": "Dávivec bavlníkolistý",
+  "latin": "Jatropha gossypiifolia",
+  "text": "Semena dobře plavou a šíří se podél vodních toků.",
+  "quote": "semeny která dokážou dobře plavat a tak se šíří i na velké vzdálenosti podél vodních toků",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q3177997#0",
+  "species": "Škumpa lysá",
+  "latin": "Rhus glabra",
+  "text": "Jeleni jedí jeho větvičky i plody.",
+  "quote": "Jeleni jedí větvičky i plody.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q3177997#1",
+  "species": "Škumpa lysá",
+  "latin": "Rhus glabra",
+  "text": "Parazitická mšice na listech způsobuje hálky.",
+  "quote": "hálky na spodní straně listů, které způsobuje parazitická mšice",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q3179665#4",
+  "species": "Tupela lesní",
+  "latin": "Nyssa sylvatica",
+  "text": "Pyl přenášejí včely a jiný létající hmyz.",
+  "quote": "Pyl ze samčích květů na samičí přenášejí včely a jiný létající hmyz.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q31931#5",
+  "species": "Hřebíčkovec jambos",
+  "latin": "Syzygium jambos",
+  "text": "Jeho květy opylují včely.",
+  "quote": "s oblibou je navštěvují včely, které je opylují.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q31931#6",
+  "species": "Hřebíčkovec jambos",
+  "latin": "Syzygium jambos",
+  "text": "Jeho semena bývají roznášena plodožravými ptáky a kaloni.",
+  "quote": "semena bývají také roznášena plodožravými ptáky a kaloni",
+  "claimed_false_for": {
+   "Q158695": "Huseníček rolní (Arabidopsis thaliana)",
+   "Q159669": "Vrbovka růžová (Epilobium roseum)",
+   "Q5382992": "Vrbovka krátkoplodá (Epilobium brachycarpum)",
+   "Q9373395": "Pupalka velkoplodá (Oenothera macrocarpa)"
+  }
+ }
+]

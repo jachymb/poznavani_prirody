@@ -1,0 +1,26 @@
+{"drop_facts": [
+{"id": "Q1317340#0", "why": "vynechává podmínku teploty vody a jarní měsíce prozrazují název listonoh jarní"},
+{"id": "Q1317340#1", "why": "nejasný podmět: čí vajíčka"},
+{"id": "Q135052#0", "why": "pevný počet 142 nohou je sporný, počet nohou se u listonohů liší"},
+{"id": "Q135052#1", "why": "posouvá citaci (plavat místo pohybovat se), krkolomné a biologicky nejisté"},
+{"id": "Q1519675#0", "why": "přidává slovo jen, které v citaci není"},
+{"id": "Q1519675#1", "why": "zobecňuje na celý druh, vejce snášejí jen samice; krkolomné"},
+{"id": "Q210959#0", "why": "horní mez 25 cm je sporná, běžné zdroje uvádějí nejvýše kolem 20 cm"},
+{"id": "Q287523#0", "why": "vynechává upřesnění za očními výkroji, krunýř má i jiné hrbolky; pro dítě nesrozumitelné"},
+{"id": "Q37668#3", "why": "posouvá význam: v potravě dominují i ostnokožci a mnohoštětinatci, slávky a spol. jsou jen příklad měkkýšů"},
+{"id": "Q37668#5", "why": "vynechává podmínku do juvenilního stádia a nemá jasný podmět"},
+{"id": "Q43735#0", "why": "sporné: širší spektrum neznamená více barev, pokusy ukazují slabší rozlišování barev než u člověka"},
+{"id": "Q571290#2", "why": "slovo bahno prozrazuje název rak bahenní"},
+{"id": "Q823941#0", "why": "slovo řeka prozrazuje název krab říční"},
+{"id": "Q823941#1", "why": "slovo řeka prozrazuje název krab říční"}
+], "drop_pairs": [
+{"id": "Q107078367#2", "species": "Q1460707"},
+{"id": "Q37668#4", "species": "Q1317340"},
+{"id": "Q37668#4", "species": "Q135052"},
+{"id": "Q37668#4", "species": "Q43735"},
+{"id": "Q37668#4", "species": "Q586336"},
+{"id": "Q571290#1", "species": "Q43735"},
+{"id": "Q586336#1", "species": "Q720580"},
+{"id": "Q720580#0", "species": "Q586336"},
+{"id": "Q720597#0", "species": "Q1646839"}
+]}

@@ -1,0 +1,614 @@
+[
+ {
+  "id": "Q282660#x0",
+  "species": "Hraboš sněžný",
+  "latin": "Chionomys nivalis",
+  "text": "Živí se zelenými částmi rostlin, trávou, pupeny, výhony a kořínky.",
+  "quote": "It feeds on the green parts of plants, grasses, buds, shoots",
+  "claimed_false_for": {
+   "Q724354": "Plískavice strakatá (Cephalorhynchus commersonii)"
+  }
+ },
+ {
+  "id": "Q282660#x1",
+  "species": "Hraboš sněžný",
+  "latin": "Chionomys nivalis",
+  "text": "Ukládá si na zimu usušenou trávu a listy do podzemních komor.",
+  "quote": "In the summer it gathers bits of grass and leaves, leaving them to dry in the sun before storing them in underground chambers for winter use as food.",
+  "claimed_false_for": {
+   "Q1052814": "Lenochod krátkokrký (Choloepus hoffmanni)",
+   "Q741516": "Pekari páskovaný (Pecari tajacu)",
+   "Q744382": "Jezevec bělohrdlý (Arctonyx collaris)",
+   "Q751965": "Plískavice saravacká (Lagenodelphis hosei)"
+  }
+ },
+ {
+  "id": "Q282660#x2",
+  "species": "Hraboš sněžný",
+  "latin": "Chionomys nivalis",
+  "text": "Nespí zimním spánkem a může se ukrýt v horských chatách.",
+  "quote": "It does not hibernate in wintertime and may take shelter in mountain huts.",
+  "claimed_false_for": {
+   "Q285884": "Svišť horský (Marmota marmota)",
+   "Q674275": "Sysel Parryův (Spermophilus parryii)",
+   "Q751958": "Myšivka horská (Sicista betulina)"
+  }
+ },
+ {
+  "id": "Q282660#x3",
+  "species": "Hraboš sněžný",
+  "latin": "Chionomys nivalis",
+  "text": "Mláďatům se oči otevírají asi po třinácti dnech.",
+  "quote": "their eyes open after about thirteen days",
+  "claimed_false_for": {
+   "Q1093802": "Psoun Merriamův (Cynomys mexicanus)",
+   "Q195350": "Mara slaništní (Dolichotis salinicola)"
+  }
+ },
+ {
+  "id": "Q283403#x0",
+  "species": "Netopýr brvitý",
+  "latin": "Myotis emarginatus",
+  "text": "Živí se hlavně pavouky a mouchami.",
+  "quote": "Geoffroy's bat feeds primarily on spiders and flies.",
+  "claimed_false_for": {
+   "Q1142526": "Listonos nosatý (Vampyrum spectrum)",
+   "Q220271": "Tapír jihoamerický (Tapirus terrestris)",
+   "Q301286": "Listonos bílý (Ectophylla alba)",
+   "Q426636": "Kaloň zlatotýlý (Pteropus conspicillatus)",
+   "Q501491": "Srnec sibiřský (Capreolus pygargus)",
+   "Q583116": "Kaloň pobřežní (Pteropus hypomelanus)",
+   "Q649684": "Kaloň malajský (Pteropus vampyrus)",
+   "Q723413": "Netopýr velký (Myotis myotis)",
+   "Q756108": "Netopýr obrovský (Nyctalus lasiopterus)"
+  }
+ },
+ {
+  "id": "Q283403#x1",
+  "species": "Netopýr brvitý",
+  "latin": "Myotis emarginatus",
+  "text": "Kořist sbírá z listů a pevných povrchů.",
+  "quote": "the species feeds primarily by gleaning prey from hard surfaces and leaves",
+  "claimed_false_for": {
+   "Q273565": "Voduška červená (Kobus leche)",
+   "Q287105": "Netopýr stromový (Nyctalus leisleri)",
+   "Q301286": "Listonos bílý (Ectophylla alba)",
+   "Q304368": "Netopýr nejmenší (Pipistrellus pygmaeus)",
+   "Q426636": "Kaloň zlatotýlý (Pteropus conspicillatus)",
+   "Q571449": "Lachtan antarktický (Arctocephalus gazella)",
+   "Q649684": "Kaloň malajský (Pteropus vampyrus)",
+   "Q660139": "Netopýr Saviův (Hypsugo savii)",
+   "Q737766": "Netopýr pobřežní (Myotis dasycneme)",
+   "Q756108": "Netopýr obrovský (Nyctalus lasiopterus)"
+  }
+ },
+ {
+  "id": "Q283403#x2",
+  "species": "Netopýr brvitý",
+  "latin": "Myotis emarginatus",
+  "text": "V létě bývá hlavně na půdách budov, v zimě v jeskyních.",
+  "quote": "Latem spotykany jest głównie na strychach budynków, zimą w jaskiniach.",
+  "claimed_false_for": {
+   "Q1142526": "Listonos nosatý (Vampyrum spectrum)",
+   "Q147128": "Plch velký (Glis glis)",
+   "Q273565": "Voduška červená (Kobus leche)",
+   "Q301286": "Listonos bílý (Ectophylla alba)",
+   "Q426636": "Kaloň zlatotýlý (Pteropus conspicillatus)",
+   "Q571449": "Lachtan antarktický (Arctocephalus gazella)",
+   "Q649684": "Kaloň malajský (Pteropus vampyrus)",
+   "Q842283": "Luskoun krátkoocasý (Manis pentadactyla)"
+  }
+ },
+ {
+  "id": "Q283403#x3",
+  "species": "Netopýr brvitý",
+  "latin": "Myotis emarginatus",
+  "text": "Nejdéle pozorovaný věk ve volné přírodě je 22 let a 8 měsíců.",
+  "quote": "Najdłuższy obserwowany wiek w warunkach naturalnych to 22 lata i 8 miesięcy.",
+  "claimed_false_for": {
+   "Q147128": "Plch velký (Glis glis)",
+   "Q2745348": "Murina ussurijská (Murina ussuriensis)"
+  }
+ },
+ {
+  "id": "Q283426#1",
+  "species": "Grizon velký",
+  "latin": "Galictis vittata",
+  "text": "Tento druh je aktivní hlavně ve dne, v noci jen výjimečně.",
+  "quote": "Jsou převážně denní, v noci jsou aktivní jen výjimečně.",
+  "claimed_false_for": {
+   "Q194675": "Vačice trpasličí (Marmosa murina)",
+   "Q307105": "Skunk skvrnitý (Spilogale putorius)",
+   "Q570548": "Jezevec smrdutý (Mydaus javanensis)",
+   "Q688655": "Olingo jižní (Bassaricyon alleni)"
+  }
+ },
+ {
+  "id": "Q284104#1",
+  "species": "Hulman zlatý",
+  "latin": "Trachypithecus geei",
+  "text": "Tráví skoro všechen čas vysoko ve stromech.",
+  "quote": "které 99 % času tráví ve středních patrech lesa a stromovém baldachýnu",
+  "claimed_false_for": {
+   "Q20085878": "Luskoun velký (Smutsia gigantea)",
+   "Q2112320": "Los americký (Alces americanus)",
+   "Q217147": "Plískavice bělonosá (Lagenorhynchus albirostris)",
+   "Q244447": "Prase zakrslé (Porcula salvania)",
+   "Q273331": "Orcela tuponosá (Orcaella brevirostris)",
+   "Q541521": "Chocholatka červená (Cephalophus natalensis)",
+   "Q725736": "Gazela dama (Nanger dama)"
+  }
+ },
+ {
+  "id": "Q300964#0",
+  "species": "Králík říční",
+  "latin": "Bunolagus monticularis",
+  "text": "Jí trávu, květiny, listy a kůru keřů podle ročního období.",
+  "quote": "Žere trávu, květiny, listy i kůru keřů v závislosti na ročním období",
+  "claimed_false_for": {
+   "Q1142526": "Listonos nosatý (Vampyrum spectrum)",
+   "Q194519": "Vakomyš tlustoocasá (Sminthopsis crassicaudata)",
+   "Q2745348": "Murina ussurijská (Murina ussuriensis)",
+   "Q852782": "Myš bobří (Hydromys chrysogaster)"
+  }
+ },
+ {
+  "id": "Q30197#4",
+  "species": "Irbis",
+  "latin": "Panthera uncia",
+  "text": "Tento druh je aktivní hlavně za soumraku a za úsvitu.",
+  "quote": "Irbis je aktivní především za soumraku a úsvitu",
+  "claimed_false_for": {
+   "Q649306": "Promyka ichneumon (Herpestes ichneumon)"
+  }
+ },
+ {
+  "id": "Q304195#x0",
+  "species": "Veverka sluneční",
+  "latin": "Heliosciurus gambianus",
+  "text": "Živí se plody, semeny, hmyzem, vejci, mladými ptáky a ještěrkami.",
+  "quote": "vars föda omfattar frukter, frön, akaciornas fruktskidor, insekter, ägg, unga fåglar och reptiler som ödlor",
+  "claimed_false_for": {
+   "Q1052814": "Lenochod krátkokrký (Choloepus hoffmanni)",
+   "Q1404332": "Poletucha vlnatá (Eupetaurus cinereus)",
+   "Q285884": "Svišť horský (Marmota marmota)",
+   "Q751965": "Plískavice saravacká (Lagenodelphis hosei)"
+  }
+ },
+ {
+  "id": "Q304195#x1",
+  "species": "Veverka sluneční",
+  "latin": "Heliosciurus gambianus",
+  "text": "Dospělé jedince loví šelmy, například genety.",
+  "quote": "De vuxna djuren utgör själva föda för genetter och leopardmårdar.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q304195#x2",
+  "species": "Veverka sluneční",
+  "latin": "Heliosciurus gambianus",
+  "text": "Mláďata ohrožují krysy, hadi a kočovní mravenci.",
+  "quote": "Ungarna kan även falla offer för råttor, ormar och vandrarmyror.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q304195#x3",
+  "species": "Veverka sluneční",
+  "latin": "Heliosciurus gambianus",
+  "text": "Tento druh je aktivní ve dne a zdržuje se hlavně v korunách stromů.",
+  "quote": "Arten är dagaktiv, och håller främst till i trädkronorna",
+  "claimed_false_for": {
+   "Q1093802": "Psoun Merriamův (Cynomys mexicanus)",
+   "Q125863341": "Veverka kapská (Geosciurus inauris)",
+   "Q1770542": "Krysa obrovská (Cricetomys gambianus)",
+   "Q184224": "Potkan (Rattus norvegicus)",
+   "Q216871": "Myšice lesní (Apodemus flavicollis)",
+   "Q247142": "Psoun prériový (Cynomys ludovicianus)",
+   "Q300984": "Plch lesní (Dryomys nitedula)",
+   "Q304884": "Tarbíkomyš Merriamova (Dipodomys merriami)",
+   "Q306148": "Tarbíkomyš tlustoocasá (Dipodomys gravipes)",
+   "Q623466": "Sysel obecný (Spermophilus citellus)",
+   "Q644293": "Myš čtyřpruhá (Rhabdomys pumilio)",
+   "Q724354": "Plískavice strakatá (Cephalorhynchus commersonii)",
+   "Q757289": "Veverka berberská (Atlantoxerus getulus)",
+   "Q82728": "Bizon americký (Bison bison)",
+   "Q854681": "Sysel perličkový (Spermophilus suslicus)"
+  }
+ },
+ {
+  "id": "Q304368#x0",
+  "species": "Netopýr nejmenší",
+  "latin": "Pipistrellus pygmaeus",
+  "text": "Živí se hlavně malými dvoukřídlými, zejména vodním hmyzem, například pakomáry.",
+  "quote": "Elle se nourrit principalement de petits diptères (en particulier les moucherons aquatiques).",
+  "claimed_false_for": {
+   "Q1142526": "Listonos nosatý (Vampyrum spectrum)",
+   "Q147128": "Plch velký (Glis glis)",
+   "Q273565": "Voduška červená (Kobus leche)",
+   "Q301286": "Listonos bílý (Ectophylla alba)",
+   "Q426636": "Kaloň zlatotýlý (Pteropus conspicillatus)",
+   "Q571449": "Lachtan antarktický (Arctocephalus gazella)",
+   "Q649684": "Kaloň malajský (Pteropus vampyrus)",
+   "Q723413": "Netopýr velký (Myotis myotis)",
+   "Q756108": "Netopýr obrovský (Nyctalus lasiopterus)",
+   "Q842283": "Luskoun krátkoocasý (Manis pentadactyla)"
+  }
+ },
+ {
+  "id": "Q304368#x2",
+  "species": "Netopýr nejmenší",
+  "latin": "Pipistrellus pygmaeus",
+  "text": "Loví vždy poblíž vody, u řek, jezer, rybníků a mokřadů.",
+  "quote": "Toujours à proximité de l'eau, elle fréquente les zones boisées à proximité de grandes rivières, de lacs ou d'étangs",
+  "claimed_false_for": {
+   "Q147128": "Plch velký (Glis glis)",
+   "Q215907": "Netopýr černý (Barbastella barbastellus)",
+   "Q220958": "Netopýr dlouhouchý (Plecotus austriacus)",
+   "Q300981": "Upír obecný (Desmodus rotundus)",
+   "Q304929": "Vampýr dlouhojazyčný (Glossophaga soricina)",
+   "Q723123": "Netopýr řasnatý (Myotis nattereri)",
+   "Q737413": "Vrápenec velký (Rhinolophus ferrumequinum)",
+   "Q754983": "Kaloň egyptský (Rousettus aegyptiacus)",
+   "Q756687": "Netopýr velkouchý (Myotis bechsteinii)",
+   "Q842283": "Luskoun krátkoocasý (Manis pentadactyla)"
+  }
+ },
+ {
+  "id": "Q304368#x3",
+  "species": "Netopýr nejmenší",
+  "latin": "Pipistrellus pygmaeus",
+  "text": "Váží jen 3,5 až 8 gramů.",
+  "quote": "Poids : 3.5 - 8 g",
+  "claimed_false_for": {
+   "Q1143192": "Komba jižní (Galago moholi)",
+   "Q1832731": "Tadarida lysá (Cheiromeles torquatus)",
+   "Q214846": "Netopýr rezavý (Nyctalus noctula)",
+   "Q220271": "Tapír jihoamerický (Tapirus terrestris)",
+   "Q287105": "Netopýr stromový (Nyctalus leisleri)",
+   "Q426636": "Kaloň zlatotýlý (Pteropus conspicillatus)",
+   "Q501491": "Srnec sibiřský (Capreolus pygargus)",
+   "Q583116": "Kaloň pobřežní (Pteropus hypomelanus)",
+   "Q737413": "Vrápenec velký (Rhinolophus ferrumequinum)",
+   "Q754983": "Kaloň egyptský (Rousettus aegyptiacus)"
+  }
+ },
+ {
+  "id": "Q304368#x4",
+  "species": "Netopýr nejmenší",
+  "latin": "Pipistrellus pygmaeus",
+  "text": "Samice se shromažďují v mateřských koloniích, často v budovách nebo dutých stromech.",
+  "quote": "Les colonies de maternité sont situées dans des arbres creux, des crevasses rocheuses et des bâtiments",
+  "claimed_false_for": {
+   "Q220271": "Tapír jihoamerický (Tapirus terrestris)",
+   "Q501491": "Srnec sibiřský (Capreolus pygargus)"
+  }
+ },
+ {
+  "id": "Q304368#x5",
+  "species": "Netopýr nejmenší",
+  "latin": "Pipistrellus pygmaeus",
+  "text": "Mláďata se často rodí jako dvojčata.",
+  "quote": "les jeunes naissent dans la seconde moitié de juin et se sont souvent des jumeaux",
+  "claimed_false_for": {
+   "Q1142526": "Listonos nosatý (Vampyrum spectrum)",
+   "Q273565": "Voduška červená (Kobus leche)",
+   "Q301286": "Listonos bílý (Ectophylla alba)",
+   "Q426636": "Kaloň zlatotýlý (Pteropus conspicillatus)",
+   "Q571449": "Lachtan antarktický (Arctocephalus gazella)",
+   "Q649684": "Kaloň malajský (Pteropus vampyrus)",
+   "Q723413": "Netopýr velký (Myotis myotis)",
+   "Q842283": "Luskoun krátkoocasý (Manis pentadactyla)"
+  }
+ },
+ {
+  "id": "Q304415#6",
+  "species": "Psoun Allenův",
+  "latin": "Cynomys parvidens",
+  "text": "Občas sežere brouky nebo cikády.",
+  "quote": "Sežere příležitostně i drobné živočichy, brouky nebo cikády",
+  "claimed_false_for": {
+   "Q209167": "Klokan uru (Thylogale brunii)"
+  }
+ },
+ {
+  "id": "Q307085#x0",
+  "species": "Lemur šedý",
+  "latin": "Hapalemur griseus",
+  "text": "Živí se hlavně bambusem.",
+  "quote": "feeds mainly on bamboo",
+  "claimed_false_for": {
+   "Q1143192": "Komba jižní (Galago moholi)",
+   "Q1184997": "Sifaka Deckenův (Propithecus deckenii)",
+   "Q1196226": "Komba Garnettova (Otolemur garnettii)",
+   "Q146457": "Rys kanadský (Lynx canadensis)",
+   "Q156606": "Makak rhesus (Macaca mulatta)",
+   "Q205837": "Maki tlustoocasý (Cheirogaleus medius)",
+   "Q208043": "Gibon lar (Hylobates lar)",
+   "Q271459": "Kolonok (Mustela sibirica)",
+   "Q301038": "Mangabej rudohlavý (Cercocebus torquatus)",
+   "Q301053": "Gibon kápový (Hylobates pileatus)",
+   "Q307262": "Avahi vlnatý (Avahi laniger)",
+   "Q42564025": "Orangutan tapanulijský (Pongo tapanuliensis)",
+   "Q516703": "Vari červený (Varecia rubra)",
+   "Q576469": "Mangabej žlutobřichý (Cercocebus chrysogaster)",
+   "Q601913": "Pes argentinský (Lycalopex griseus)",
+   "Q614947": "Lori štíhlý (Loris tardigradus)",
+   "Q688601": "Outloň váhavý (Nycticebus coucang)",
+   "Q763853": "Sifaka bílý (Propithecus candidus)",
+   "Q790684": "Makak tonkeánský (Macaca tonkeana)",
+   "Q913784": "Lemur límcový (Eulemur collaris)",
+   "Q913789": "Sifaka malý (Propithecus verreauxi)",
+   "Q972907": "Outloň jávský (Nycticebus javanicus)"
+  }
+ },
+ {
+  "id": "Q307085#x1",
+  "species": "Lemur šedý",
+  "latin": "Hapalemur griseus",
+  "text": "Kromě bambusu jí listy fíkovníků, květy, houby, stébla trav, malé plody a cukrovou třtinu.",
+  "quote": "It will also eat fig leaves, flowers, fungi, grass stems, small fruits and sugar cane.",
+  "claimed_false_for": {
+   "Q1143192": "Komba jižní (Galago moholi)"
+  }
+ },
+ {
+  "id": "Q307085#x2",
+  "species": "Lemur šedý",
+  "latin": "Hapalemur griseus",
+  "text": "Šplhá svisle a skáče ze stébla na stéblo v hustých bambusových lesích.",
+  "quote": "vertical climbers and jump from stalk to stalk in thick bamboo forests",
+  "claimed_false_for": {
+   "Q146457": "Rys kanadský (Lynx canadensis)",
+   "Q1619009": "Serau himálajský (Capricornis thar)",
+   "Q271459": "Kolonok (Mustela sibirica)",
+   "Q601913": "Pes argentinský (Lycalopex griseus)",
+   "Q614947": "Lori štíhlý (Loris tardigradus)",
+   "Q688601": "Outloň váhavý (Nycticebus coucang)",
+   "Q972907": "Outloň jávský (Nycticebus javanicus)"
+  }
+ },
+ {
+  "id": "Q307085#x3",
+  "species": "Lemur šedý",
+  "latin": "Hapalemur griseus",
+  "text": "Žije v hustých porostech bambusu a bambusových lián.",
+  "quote": "It lives in stands of dense bamboo and bamboo vines",
+  "claimed_false_for": {
+   "Q1143192": "Komba jižní (Galago moholi)",
+   "Q1184997": "Sifaka Deckenův (Propithecus deckenii)",
+   "Q1196226": "Komba Garnettova (Otolemur garnettii)",
+   "Q146457": "Rys kanadský (Lynx canadensis)",
+   "Q156606": "Makak rhesus (Macaca mulatta)",
+   "Q1619009": "Serau himálajský (Capricornis thar)",
+   "Q208043": "Gibon lar (Hylobates lar)",
+   "Q271459": "Kolonok (Mustela sibirica)",
+   "Q301038": "Mangabej rudohlavý (Cercocebus torquatus)",
+   "Q301053": "Gibon kápový (Hylobates pileatus)",
+   "Q42564025": "Orangutan tapanulijský (Pongo tapanuliensis)",
+   "Q516703": "Vari červený (Varecia rubra)",
+   "Q576469": "Mangabej žlutobřichý (Cercocebus chrysogaster)",
+   "Q601913": "Pes argentinský (Lycalopex griseus)",
+   "Q614947": "Lori štíhlý (Loris tardigradus)",
+   "Q688601": "Outloň váhavý (Nycticebus coucang)",
+   "Q790684": "Makak tonkeánský (Macaca tonkeana)",
+   "Q913789": "Sifaka malý (Propithecus verreauxi)",
+   "Q972907": "Outloň jávský (Nycticebus javanicus)"
+  }
+ },
+ {
+  "id": "Q321376#x0",
+  "species": "Maikong",
+  "latin": "Cerdocyon thous",
+  "text": "V období dešťů vyhledává kraby na bahnitých záplavových pláních.",
+  "quote": "searches for crabs on muddy floodplains during the wet season",
+  "claimed_false_for": {
+   "Q1144328": "Hulman tmavý (Trachypithecus obscurus)",
+   "Q179154": "Plejtvákovec šedý (Eschrichtius robustus)",
+   "Q188957": "Vlček etiopský (Canis simensis)",
+   "Q208549": "Tuleň středomořský (Monachus monachus)",
+   "Q209324": "Tuleň grónský (Pagophilus groenlandicus)",
+   "Q672916": "Possum černoocasý (Hemibelideus lemuroides)",
+   "Q80191": "Kočka mramorovaná (Pardofelis marmorata)"
+  }
+ },
+ {
+  "id": "Q321376#x2",
+  "species": "Maikong",
+  "latin": "Cerdocyon thous",
+  "text": "Loví v monogamních párech.",
+  "quote": "creates monogamic teams for hunting",
+  "claimed_false_for": {
+   "Q179154": "Plejtvákovec šedý (Eschrichtius robustus)",
+   "Q208549": "Tuleň středomořský (Monachus monachus)",
+   "Q209324": "Tuleň grónský (Pagophilus groenlandicus)",
+   "Q672916": "Possum černoocasý (Hemibelideus lemuroides)",
+   "Q80191": "Kočka mramorovaná (Pardofelis marmorata)"
+  }
+ },
+ {
+  "id": "Q321376#x3",
+  "species": "Maikong",
+  "latin": "Cerdocyon thous",
+  "text": "Omezuje počty hlodavců a škodlivého hmyzu.",
+  "quote": "contributes to the control of rodents and harmful insects",
+  "claimed_false_for": {
+   "Q1144328": "Hulman tmavý (Trachypithecus obscurus)",
+   "Q179154": "Plejtvákovec šedý (Eschrichtius robustus)",
+   "Q208549": "Tuleň středomořský (Monachus monachus)",
+   "Q209324": "Tuleň grónský (Pagophilus groenlandicus)",
+   "Q2112320": "Los americký (Alces americanus)",
+   "Q217147": "Plískavice bělonosá (Lagenorhynchus albirostris)",
+   "Q273331": "Orcela tuponosá (Orcaella brevirostris)",
+   "Q541521": "Chocholatka červená (Cephalophus natalensis)",
+   "Q672916": "Possum černoocasý (Hemibelideus lemuroides)",
+   "Q725736": "Gazela dama (Nanger dama)"
+  }
+ },
+ {
+  "id": "Q321376#x4",
+  "species": "Maikong",
+  "latin": "Cerdocyon thous",
+  "text": "Mláďata se osamostatní ve věku pěti až osmi měsíců.",
+  "quote": "become independent of their parents around 5–8 months old",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q321376#x5",
+  "species": "Maikong",
+  "latin": "Cerdocyon thous",
+  "text": "Raději obsazuje nory jiných zvířat, než aby si kopal vlastní.",
+  "quote": "they prefer to take over other animals' burrows",
+  "claimed_false_for": {
+   "Q1144328": "Hulman tmavý (Trachypithecus obscurus)",
+   "Q179154": "Plejtvákovec šedý (Eschrichtius robustus)",
+   "Q208549": "Tuleň středomořský (Monachus monachus)",
+   "Q209324": "Tuleň grónský (Pagophilus groenlandicus)",
+   "Q672916": "Possum černoocasý (Hemibelideus lemuroides)",
+   "Q80191": "Kočka mramorovaná (Pardofelis marmorata)"
+  }
+ },
+ {
+  "id": "Q326994#x0",
+  "species": "Svišť šedý",
+  "latin": "Marmota baibacina",
+  "text": "Zimní spánek trvá sedm až osm měsíců.",
+  "quote": "Gray marmots hibernate for 7–8 months starting in fall and emerging in May.",
+  "claimed_false_for": {
+   "Q125863341": "Veverka kapská (Geosciurus inauris)",
+   "Q1404332": "Poletucha vlnatá (Eupetaurus cinereus)",
+   "Q144923": "Medvěd malajský (Helarctos malayanus)",
+   "Q1770542": "Krysa obrovská (Cricetomys gambianus)",
+   "Q184224": "Potkan (Rattus norvegicus)",
+   "Q216580": "Norník rudý (Myodes glareolus)",
+   "Q216871": "Myšice lesní (Apodemus flavicollis)",
+   "Q247142": "Psoun prériový (Cynomys ludovicianus)",
+   "Q304884": "Tarbíkomyš Merriamova (Dipodomys merriami)",
+   "Q306148": "Tarbíkomyš tlustoocasá (Dipodomys gravipes)",
+   "Q308780": "Veverka holouchá (Exilisciurus exilis)",
+   "Q644293": "Myš čtyřpruhá (Rhabdomys pumilio)",
+   "Q724354": "Plískavice strakatá (Cephalorhynchus commersonii)",
+   "Q756912": "Veverka krátkouchá (Sciurus anomalus)",
+   "Q757289": "Veverka berberská (Atlantoxerus getulus)",
+   "Q82728": "Bizon americký (Bison bison)",
+   "Q838575": "Veverka japonská (Sciurus lis)"
+  }
+ },
+ {
+  "id": "Q326994#x1",
+  "species": "Svišť šedý",
+  "latin": "Marmota baibacina",
+  "text": "Loví ho vlci, lišky, tchoři, manulové a dravci, například jestřábi a sokoli.",
+  "quote": "Predators of gray marmots include wolves, foxes, dogs, polecats, Pallas's cat, and predator birds such as hawks and falcons.",
+  "claimed_false_for": {
+   "Q724354": "Plískavice strakatá (Cephalorhynchus commersonii)"
+  }
+ },
+ {
+  "id": "Q326994#x2",
+  "species": "Svišť šedý",
+  "latin": "Marmota baibacina",
+  "text": "Varovným voláním upozorňuje členy rodiny na přítomnost predátora.",
+  "quote": "Gray marmots use alarm calls to warn family members of predator presence.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q326994#x3",
+  "species": "Svišť šedý",
+  "latin": "Marmota baibacina",
+  "text": "V zimní noře žije deset i více zvířat, takže jim je tepleji a šetří energii.",
+  "quote": "Winter burrows hold 10 or more individuals which helps them stay warm with less energy use.",
+  "claimed_false_for": {
+   "Q1052814": "Lenochod krátkokrký (Choloepus hoffmanni)",
+   "Q304884": "Tarbíkomyš Merriamova (Dipodomys merriami)",
+   "Q308780": "Veverka holouchá (Exilisciurus exilis)",
+   "Q674275": "Sysel Parryův (Spermophilus parryii)",
+   "Q741516": "Pekari páskovaný (Pecari tajacu)",
+   "Q744382": "Jezevec bělohrdlý (Arctonyx collaris)",
+   "Q751965": "Plískavice saravacká (Lagenodelphis hosei)",
+   "Q756912": "Veverka krátkouchá (Sciurus anomalus)",
+   "Q775170": "Aguti zlatý (Dasyprocta leporina)",
+   "Q838575": "Veverka japonská (Sciurus lis)"
+  }
+ },
+ {
+  "id": "Q326994#x4",
+  "species": "Svišť šedý",
+  "latin": "Marmota baibacina",
+  "text": "Během zimního spánku ztrácí až 30 % své hmotnosti.",
+  "quote": "may lose up to 30% of body mass during long seasonal hibernation.",
+  "claimed_false_for": {
+   "Q1017417": "Pískomil veverkoocasý (Sekeetamys calurus)",
+   "Q1052814": "Lenochod krátkokrký (Choloepus hoffmanni)",
+   "Q125863341": "Veverka kapská (Geosciurus inauris)",
+   "Q1404332": "Poletucha vlnatá (Eupetaurus cinereus)",
+   "Q247142": "Psoun prériový (Cynomys ludovicianus)",
+   "Q253966": "Myš bodlinatá (Acomys cahirinus)",
+   "Q26283": "Ondatra pižmová (Ondatra zibethicus)",
+   "Q304884": "Tarbíkomyš Merriamova (Dipodomys merriami)",
+   "Q306148": "Tarbíkomyš tlustoocasá (Dipodomys gravipes)",
+   "Q308780": "Veverka holouchá (Exilisciurus exilis)",
+   "Q741516": "Pekari páskovaný (Pecari tajacu)",
+   "Q751965": "Plískavice saravacká (Lagenodelphis hosei)",
+   "Q756912": "Veverka krátkouchá (Sciurus anomalus)",
+   "Q775170": "Aguti zlatý (Dasyprocta leporina)",
+   "Q838575": "Veverka japonská (Sciurus lis)"
+  }
+ },
+ {
+  "id": "Q326994#x5",
+  "species": "Svišť šedý",
+  "latin": "Marmota baibacina",
+  "text": "Na jaře spásá keře, v létě a na podzim trávy a kvetoucí rostliny.",
+  "quote": "where they forage on sage bush in the spring, grasses and flowering plants in summer and fall.",
+  "claimed_false_for": {
+   "Q724354": "Plískavice strakatá (Cephalorhynchus commersonii)"
+  }
+ },
+ {
+  "id": "Q331850#5",
+  "species": "Pes krátkouchý",
+  "latin": "Atelocynus microtis",
+  "text": "Často jí i ovoce.",
+  "quote": "Často si pochutná i na ovoci.",
+  "claimed_false_for": {
+   "Q1142526": "Listonos nosatý (Vampyrum spectrum)",
+   "Q194519": "Vakomyš tlustoocasá (Sminthopsis crassicaudata)",
+   "Q2745348": "Murina ussurijská (Murina ussuriensis)",
+   "Q852782": "Myš bobří (Hydromys chrysogaster)"
+  }
+ },
+ {
+  "id": "Q33602#10",
+  "species": "Panda velká",
+  "latin": "Ailuropoda melanoleuca",
+  "text": "Trávit bambus pomáhají bakterie ve střevech.",
+  "quote": "specifické bakterie rozloží až 95 % bambusové biomasy na jednoduché cukry",
+  "claimed_false_for": {
+   "Q20085878": "Luskoun velký (Smutsia gigantea)",
+   "Q217147": "Plískavice bělonosá (Lagenorhynchus albirostris)",
+   "Q273331": "Orcela tuponosá (Orcaella brevirostris)",
+   "Q504488": "Netopýr vodní (Myotis daubentonii)"
+  }
+ },
+ {
+  "id": "Q33609#7",
+  "species": "Medvěd lední",
+  "latin": "Ursus maritimus",
+  "text": "Dospělá zvířata nemají na souši přirozeného nepřítele.",
+  "quote": "Jako jedna z největších šelem nemá dospělý lední medvěd na souši svého přirozeného predátora",
+  "claimed_false_for": {
+   "Q1060476": "Klokanomyš spinifexová (Notomys alexis)",
+   "Q129838": "Vakoveverka žlutobřichá (Petaurus australis)",
+   "Q209660": "Klokan nenápadný (Petrogale mareeba)",
+   "Q210165": "Possum Herbertův (Pseudochirulus herbertensis)",
+   "Q27016": "Hryzec vodní (Arvicola amphibius)",
+   "Q510022": "Klokan velký (Macropus fuliginosus)",
+   "Q536621": "Myšivka stepní (Sicista subtilis)",
+   "Q649836": "Křeček dlouhoocasý (Peromyscus maniculatus)",
+   "Q703702": "Hraboš hospodárný (Microtus oeconomus)",
+   "Q729420": "Křečík Roborovského (Phodopus roborovskii)",
+   "Q788391": "Křečík šedý (Cricetulus migratorius)",
+   "Q941564": "Křeček bavlníkový (Sigmodon hispidus)"
+  }
+ }
+]

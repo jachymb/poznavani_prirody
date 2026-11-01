@@ -1,0 +1,521 @@
+[
+ {
+  "id": "Q244377#5",
+  "species": "Kobra egyptská",
+  "latin": "Naja haje",
+  "text": "Loví domácí drůbež.",
+  "quote": "zejména při lovu domácí drůbeže",
+  "claimed_false_for": {
+   "Q183660": "Slepýš křehký (Anguis fragilis)",
+   "Q192056": "Zmije obecná (Vipera berus)",
+   "Q501566": "Agama límcová (Chlamydosaurus kingii)"
+  }
+ },
+ {
+  "id": "Q256791#0",
+  "species": "Užovka stromová",
+  "latin": "Zamenis longissimus",
+  "text": "Obvykle měří 90 až 140 centimetrů.",
+  "quote": "obvykle dosahuje délky 90 až 140 cm",
+  "claimed_false_for": {
+   "Q148595": "Ještěrka obecná (Lacerta agilis)",
+   "Q207347": "Anakonda velká (Eunectes murinus)",
+   "Q207836": "Krokodýl americký (Crocodylus acutus)",
+   "Q262555": "Želva zelenavá (Testudo hermanni)"
+  }
+ },
+ {
+  "id": "Q256791#1",
+  "species": "Užovka stromová",
+  "latin": "Zamenis longissimus",
+  "text": "Mláďata začínají přijímat potravu po prvním svlečení kůže.",
+  "quote": "po prvním svlékání začínají přijímat potravu",
+  "claimed_false_for": {
+   "Q194422": "Aligátor čínský (Alligator sinensis)",
+   "Q207836": "Krokodýl americký (Crocodylus acutus)",
+   "Q262555": "Želva zelenavá (Testudo hermanni)"
+  }
+ },
+ {
+  "id": "Q256791#2",
+  "species": "Užovka stromová",
+  "latin": "Zamenis longissimus",
+  "text": "Loví hlavně drobné savce, například hlodavce.",
+  "quote": "Loví především drobné savce (hlodavce a hmyzožravce)",
+  "claimed_false_for": {
+   "Q192095": "Kareta obecná (Caretta caretta)",
+   "Q194422": "Aligátor čínský (Alligator sinensis)",
+   "Q204061": "Ještěrka živorodá (Zootoca vivipara)",
+   "Q208648": "Užovka hladká (Coronella austriaca)",
+   "Q208796": "Leguán mořský (Amblyrhynchus cristatus)",
+   "Q272402": "Krokodýl filipínský (Crocodylus mindorensis)",
+   "Q320665": "Moloch ostnitý (Moloch horridus)",
+   "Q40581": "Bungar proužkovaný (Bungarus fasciatus)"
+  }
+ },
+ {
+  "id": "Q256791#5",
+  "species": "Užovka stromová",
+  "latin": "Zamenis longissimus",
+  "text": "Živí se ptáky, jejich mláďaty a vejci.",
+  "quote": "dále se živí ptáky, ptačími mláďaty a dokonce i jejich vejci",
+  "claimed_false_for": {
+   "Q183660": "Slepýš křehký (Anguis fragilis)",
+   "Q501566": "Agama límcová (Chlamydosaurus kingii)"
+  }
+ },
+ {
+  "id": "Q262555#2",
+  "species": "Želva zelenavá",
+  "latin": "Testudo hermanni",
+  "text": "Jí hlavně rostliny, například pampelišky a jetel.",
+  "quote": "V potravě by však měla převažovat rostlinná složka, k níž patří pampelišky, tráva, jetel nebo pekingské zelí",
+  "claimed_false_for": {
+   "Q182599": "Krokodýl mořský (Crocodylus porosus)",
+   "Q183660": "Slepýš křehký (Anguis fragilis)",
+   "Q192095": "Kareta obecná (Caretta caretta)",
+   "Q193327": "Aligátor severoamerický (Alligator mississippiensis)",
+   "Q272402": "Krokodýl filipínský (Crocodylus mindorensis)",
+   "Q369667": "Zmije útočná (Bitis arietans)",
+   "Q371183": "Zmije gabunská (Bitis gabonica)",
+   "Q4504": "Varan komodský (Varanus komodoensis)",
+   "Q655616": "Varan skvrnitý (Varanus salvator)"
+  }
+ },
+ {
+  "id": "Q320665#0",
+  "species": "Moloch ostnitý",
+  "latin": "Moloch horridus",
+  "text": "Živí se pouze mravenci.",
+  "quote": "živí se pouze mravenci",
+  "claimed_false_for": {
+   "Q148595": "Ještěrka obecná (Lacerta agilis)",
+   "Q170713": "Užovka obojková (Natrix natrix)",
+   "Q187036": "Želva bahenní (Emys orbicularitosa)",
+   "Q188690": "Mamba černá (Dendroaspis polylepis)",
+   "Q203538": "Kareta pravá (Eretmochelys imbricata)",
+   "Q215376": "Leguán zelený (Iguana iguana)",
+   "Q215388": "Hroznýš královský (Boa constrictor)",
+   "Q331213": "Gekon obrovský (Gekko gecko)",
+   "Q369667": "Zmije útočná (Bitis arietans)",
+   "Q464424": "Krajta královská (Python regius)",
+   "Q48186": "Kobra královská (Ophiophagus hannah)",
+   "Q81207": "Krokodýl bahenní (Crocodylus palustris)"
+  }
+ },
+ {
+  "id": "Q320665#1",
+  "species": "Moloch ostnitý",
+  "latin": "Moloch horridus",
+  "text": "V nebezpečí zasune hlavu mezi přední končetiny a nepříteli ukáže falešnou.",
+  "quote": "V nebezpečí zasune hlavu mezi přední končetiny a predátorovi nabízí k útoku jen hlavu falešnou",
+  "claimed_false_for": {
+   "Q168745": "Krokodýl nilský (Crocodylus niloticus)",
+   "Q183660": "Slepýš křehký (Anguis fragilis)",
+   "Q188690": "Mamba černá (Dendroaspis polylepis)",
+   "Q192056": "Zmije obecná (Vipera berus)",
+   "Q193327": "Aligátor severoamerický (Alligator mississippiensis)",
+   "Q208277": "Krokodýl siamský (Crocodylus siamensis)",
+   "Q216136": "Krajta mřížkovaná (Malayopython reticulatus)",
+   "Q245183": "Krajta tygrovitá (Python molurus)",
+   "Q371183": "Zmije gabunská (Bitis gabonica)",
+   "Q501566": "Agama límcová (Chlamydosaurus kingii)",
+   "Q81207": "Krokodýl bahenní (Crocodylus palustris)"
+  }
+ },
+ {
+  "id": "Q331213#0",
+  "species": "Gekon obrovský",
+  "latin": "Gekko gecko",
+  "text": "Živí se hmyzem a myšaty.",
+  "quote": "Živí se hmyzem, menšími gekony, myšaty a",
+  "claimed_false_for": {
+   "Q192095": "Kareta obecná (Caretta caretta)",
+   "Q208796": "Leguán mořský (Amblyrhynchus cristatus)",
+   "Q320665": "Moloch ostnitý (Moloch horridus)"
+  }
+ },
+ {
+  "id": "Q331213#1",
+  "species": "Gekon obrovský",
+  "latin": "Gekko gecko",
+  "text": "Tento druh se ozývá silným hlasem, který připomíná štěkot psa.",
+  "quote": "Tento noční plaz se ozývá silným hlasem, připomínající štěkot psa.",
+  "claimed_false_for": {
+   "Q120043": "Kožatka velká (Dermochelys coriacea)",
+   "Q192056": "Zmije obecná (Vipera berus)",
+   "Q207347": "Anakonda velká (Eunectes murinus)",
+   "Q216136": "Krajta mřížkovaná (Malayopython reticulatus)",
+   "Q256791": "Užovka stromová (Zamenis longissimus)",
+   "Q262555": "Želva zelenavá (Testudo hermanni)"
+  }
+ },
+ {
+  "id": "Q369667#0",
+  "species": "Zmije útočná",
+  "latin": "Bitis arietans",
+  "text": "Tento druh je aktivní hlavně v noci.",
+  "quote": "Je to převážně noční živočich.",
+  "claimed_false_for": {
+   "Q215376": "Leguán zelený (Iguana iguana)",
+   "Q4504": "Varan komodský (Varanus komodoensis)",
+   "Q655616": "Varan skvrnitý (Varanus salvator)"
+  }
+ },
+ {
+  "id": "Q369667#1",
+  "species": "Zmije útočná",
+  "latin": "Bitis arietans",
+  "text": "Obvykle měří kolem jednoho metru.",
+  "quote": "Dosahuje obvykle délky okolo 1 metru",
+  "claimed_false_for": {
+   "Q17134": "Gaviál indický (Gavialis gangeticus)",
+   "Q204061": "Ještěrka živorodá (Zootoca vivipara)",
+   "Q207058": "Korovec jedovatý (Heloderma suspectum)",
+   "Q242102": "Krokodýl kubánský (Crocodylus rhombifer)",
+   "Q320665": "Moloch ostnitý (Moloch horridus)",
+   "Q4504": "Varan komodský (Varanus komodoensis)"
+  }
+ },
+ {
+  "id": "Q369667#2",
+  "species": "Zmije útočná",
+  "latin": "Bitis arietans",
+  "text": "Kořist loví ze zálohy.",
+  "quote": "Útočí převážně za zálohy.",
+  "claimed_false_for": {
+   "Q183660": "Slepýš křehký (Anguis fragilis)",
+   "Q655616": "Varan skvrnitý (Varanus salvator)"
+  }
+ },
+ {
+  "id": "Q369667#3",
+  "species": "Zmije útočná",
+  "latin": "Bitis arietans",
+  "text": "Při ohrožení tento druh syčí a nafukuje tělo.",
+  "quote": "vydává zmije útočná výrazný syčivý zvuk, stočí se do obranného postavení ve tvaru písmene „S“ a zároveň své tělo nafukuje",
+  "claimed_false_for": {
+   "Q120043": "Kožatka velká (Dermochelys coriacea)"
+  }
+ },
+ {
+  "id": "Q369667#4",
+  "species": "Zmije útočná",
+  "latin": "Bitis arietans",
+  "text": "Jí menší hlodavce, obojživelníky, ještěrky a ptáky.",
+  "quote": "Její potravu tvoří menší hlodavci, obojživelníci, ještěrky, ale i ptáci.",
+  "claimed_false_for": {
+   "Q183660": "Slepýš křehký (Anguis fragilis)",
+   "Q199458": "Kareta obrovská (Chelonia mydas)",
+   "Q215376": "Leguán zelený (Iguana iguana)"
+  }
+ },
+ {
+  "id": "Q369667#5",
+  "species": "Zmije útočná",
+  "latin": "Bitis arietans",
+  "text": "Mezi přirozené nepřátele patří hadilov písař, medojed kapský, mangusty a promyky.",
+  "quote": "Především je to hadilov písař, medojed kapský, mangusty, promyky a zřejmě i surikaty.",
+  "claimed_false_for": {
+   "Q17134": "Gaviál indický (Gavialis gangeticus)",
+   "Q187036": "Želva bahenní (Emys orbicularitosa)",
+   "Q204061": "Ještěrka živorodá (Zootoca vivipara)",
+   "Q207058": "Korovec jedovatý (Heloderma suspectum)",
+   "Q208648": "Užovka hladká (Coronella austriaca)",
+   "Q208796": "Leguán mořský (Amblyrhynchus cristatus)",
+   "Q242102": "Krokodýl kubánský (Crocodylus rhombifer)",
+   "Q320665": "Moloch ostnitý (Moloch horridus)"
+  }
+ },
+ {
+  "id": "Q40581#0",
+  "species": "Bungar proužkovaný",
+  "latin": "Bungarus fasciatus",
+  "text": "Loví hlavně jiné hady.",
+  "quote": "Loví především jiné hady",
+  "claimed_false_for": {
+   "Q148595": "Ještěrka obecná (Lacerta agilis)",
+   "Q170713": "Užovka obojková (Natrix natrix)",
+   "Q194422": "Aligátor čínský (Alligator sinensis)",
+   "Q207347": "Anakonda velká (Eunectes murinus)",
+   "Q207836": "Krokodýl americký (Crocodylus acutus)",
+   "Q215388": "Hroznýš královský (Boa constrictor)",
+   "Q256791": "Užovka stromová (Zamenis longissimus)",
+   "Q262555": "Želva zelenavá (Testudo hermanni)",
+   "Q464424": "Krajta královská (Python regius)"
+  }
+ },
+ {
+  "id": "Q40581#1",
+  "species": "Bungar proužkovaný",
+  "latin": "Bungarus fasciatus",
+  "text": "Jí také žáby, drobné hlodavce, vajíčka plazů a ryby.",
+  "quote": "žáby, drobné hlodavce, vajíčka plazů a ryby",
+  "claimed_false_for": {
+   "Q148595": "Ještěrka obecná (Lacerta agilis)",
+   "Q256791": "Užovka stromová (Zamenis longissimus)",
+   "Q262555": "Želva zelenavá (Testudo hermanni)",
+   "Q464424": "Krajta královská (Python regius)"
+  }
+ },
+ {
+  "id": "Q40581#2",
+  "species": "Bungar proužkovaný",
+  "latin": "Bungarus fasciatus",
+  "text": "Tento druh je aktivní hlavně v noci.",
+  "quote": "aktivní je hlavně v noci, kdy vyráží za potravou",
+  "claimed_false_for": {
+   "Q215376": "Leguán zelený (Iguana iguana)",
+   "Q4504": "Varan komodský (Varanus komodoensis)",
+   "Q655616": "Varan skvrnitý (Varanus salvator)"
+  }
+ },
+ {
+  "id": "Q40581#3",
+  "species": "Bungar proužkovaný",
+  "latin": "Bungarus fasciatus",
+  "text": "Jeho jed působí na nervový systém.",
+  "quote": "který působí na nervový systém",
+  "claimed_false_for": {
+   "Q148595": "Ještěrka obecná (Lacerta agilis)",
+   "Q170713": "Užovka obojková (Natrix natrix)",
+   "Q187036": "Želva bahenní (Emys orbicularitosa)",
+   "Q203538": "Kareta pravá (Eretmochelys imbricata)",
+   "Q215376": "Leguán zelený (Iguana iguana)",
+   "Q215388": "Hroznýš královský (Boa constrictor)",
+   "Q331213": "Gekon obrovský (Gekko gecko)",
+   "Q464424": "Krajta královská (Python regius)",
+   "Q81207": "Krokodýl bahenní (Crocodylus palustris)"
+  }
+ },
+ {
+  "id": "Q4504#2",
+  "species": "Varan komodský",
+  "latin": "Varanus komodoensis",
+  "text": "Živí se mršinami i živou kořistí.",
+  "quote": "Živí se jak zdechlinami, tak živou kořistí",
+  "claimed_false_for": {
+   "Q183660": "Slepýš křehký (Anguis fragilis)",
+   "Q501566": "Agama límcová (Chlamydosaurus kingii)"
+  }
+ },
+ {
+  "id": "Q464424#1",
+  "species": "Krajta královská",
+  "latin": "Python regius",
+  "text": "Když je v nebezpečí, stočí se do pevné koule.",
+  "quote": "V nebezpečí se stáčí do pevné koule",
+  "claimed_false_for": {
+   "Q148595": "Ještěrka obecná (Lacerta agilis)",
+   "Q187036": "Želva bahenní (Emys orbicularitosa)",
+   "Q188690": "Mamba černá (Dendroaspis polylepis)",
+   "Q203538": "Kareta pravá (Eretmochelys imbricata)",
+   "Q215376": "Leguán zelený (Iguana iguana)",
+   "Q331213": "Gekon obrovský (Gekko gecko)",
+   "Q369667": "Zmije útočná (Bitis arietans)",
+   "Q48186": "Kobra královská (Ophiophagus hannah)",
+   "Q81207": "Krokodýl bahenní (Crocodylus palustris)"
+  }
+ },
+ {
+  "id": "Q48186#1",
+  "species": "Kobra královská",
+  "latin": "Ophiophagus hannah",
+  "text": "Je to jediný had, který si staví hnízdo.",
+  "quote": "Je to jediný had, který staví hnízdo.",
+  "claimed_false_for": {
+   "Q120043": "Kožatka velká (Dermochelys coriacea)",
+   "Q17134": "Gaviál indický (Gavialis gangeticus)",
+   "Q187036": "Želva bahenní (Emys orbicularitosa)",
+   "Q199458": "Kareta obrovská (Chelonia mydas)",
+   "Q204061": "Ještěrka živorodá (Zootoca vivipara)",
+   "Q207058": "Korovec jedovatý (Heloderma suspectum)",
+   "Q208648": "Užovka hladká (Coronella austriaca)",
+   "Q208796": "Leguán mořský (Amblyrhynchus cristatus)",
+   "Q242102": "Krokodýl kubánský (Crocodylus rhombifer)",
+   "Q244377": "Kobra egyptská (Naja haje)",
+   "Q320665": "Moloch ostnitý (Moloch horridus)",
+   "Q4504": "Varan komodský (Varanus komodoensis)"
+  }
+ },
+ {
+  "id": "Q48186#2",
+  "species": "Kobra královská",
+  "latin": "Ophiophagus hannah",
+  "text": "Samice obvykle hlídá vejce 51 až 100 dní.",
+  "quote": "obvykle po celou dobu inkubace, tedy 51 až 100 dní, a vejce bedlivě střeží",
+  "claimed_false_for": {
+   "Q120043": "Kožatka velká (Dermochelys coriacea)",
+   "Q187036": "Želva bahenní (Emys orbicularitosa)",
+   "Q199458": "Kareta obrovská (Chelonia mydas)",
+   "Q204061": "Ještěrka živorodá (Zootoca vivipara)",
+   "Q207058": "Korovec jedovatý (Heloderma suspectum)",
+   "Q208648": "Užovka hladká (Coronella austriaca)"
+  }
+ },
+ {
+  "id": "Q48186#3",
+  "species": "Kobra královská",
+  "latin": "Ophiophagus hannah",
+  "text": "Patří mezi nejdelší jedovaté hady světa.",
+  "quote": "Jedná se patrně o nejdelšího jedovatého hada na světě",
+  "claimed_false_for": {
+   "Q148595": "Ještěrka obecná (Lacerta agilis)",
+   "Q170713": "Užovka obojková (Natrix natrix)",
+   "Q187036": "Želva bahenní (Emys orbicularitosa)",
+   "Q203538": "Kareta pravá (Eretmochelys imbricata)",
+   "Q215376": "Leguán zelený (Iguana iguana)",
+   "Q215388": "Hroznýš královský (Boa constrictor)",
+   "Q331213": "Gekon obrovský (Gekko gecko)",
+   "Q369667": "Zmije útočná (Bitis arietans)",
+   "Q464424": "Krajta královská (Python regius)",
+   "Q81207": "Krokodýl bahenní (Crocodylus palustris)"
+  }
+ },
+ {
+  "id": "Q48186#4",
+  "species": "Kobra královská",
+  "latin": "Ophiophagus hannah",
+  "text": "Vylíhlá mláďata měří asi 48 až 65 cm.",
+  "quote": "se líhnou mláďata o velikosti 48–65 cm",
+  "claimed_false_for": {
+   "Q168745": "Krokodýl nilský (Crocodylus niloticus)",
+   "Q192095": "Kareta obecná (Caretta caretta)",
+   "Q194422": "Aligátor čínský (Alligator sinensis)",
+   "Q204061": "Ještěrka živorodá (Zootoca vivipara)",
+   "Q207058": "Korovec jedovatý (Heloderma suspectum)",
+   "Q208648": "Užovka hladká (Coronella austriaca)",
+   "Q208796": "Leguán mořský (Amblyrhynchus cristatus)",
+   "Q272402": "Krokodýl filipínský (Crocodylus mindorensis)",
+   "Q320665": "Moloch ostnitý (Moloch horridus)"
+  }
+ },
+ {
+  "id": "Q48186#5",
+  "species": "Kobra královská",
+  "latin": "Ophiophagus hannah",
+  "text": "Tento druh je zpravidla aktivní za denního světla.",
+  "quote": "Aktivní je zpravidla za denního světla",
+  "claimed_false_for": {
+   "Q216136": "Krajta mřížkovaná (Malayopython reticulatus)",
+   "Q245183": "Krajta tygrovitá (Python molurus)",
+   "Q371183": "Zmije gabunská (Bitis gabonica)"
+  }
+ },
+ {
+  "id": "Q48186#7",
+  "species": "Kobra královská",
+  "latin": "Ophiophagus hannah",
+  "text": "Při obraně zvedá přední část těla a roztahuje krk.",
+  "quote": "zvedá přední část těla, zastrašuje protivníka roztaženým krčním límcem (kapucí)",
+  "claimed_false_for": {
+   "Q182599": "Krokodýl mořský (Crocodylus porosus)",
+   "Q183660": "Slepýš křehký (Anguis fragilis)",
+   "Q192095": "Kareta obecná (Caretta caretta)",
+   "Q193327": "Aligátor severoamerický (Alligator mississippiensis)",
+   "Q199458": "Kareta obrovská (Chelonia mydas)",
+   "Q272402": "Krokodýl filipínský (Crocodylus mindorensis)",
+   "Q369667": "Zmije útočná (Bitis arietans)",
+   "Q371183": "Zmije gabunská (Bitis gabonica)",
+   "Q4504": "Varan komodský (Varanus komodoensis)",
+   "Q655616": "Varan skvrnitý (Varanus salvator)"
+  }
+ },
+ {
+  "id": "Q501566#0",
+  "species": "Agama límcová",
+  "latin": "Chlamydosaurus kingii",
+  "text": "Na stromech loví hlavně housenky a cikády.",
+  "quote": "Mezi potravu, kterou loví na stromech, patří většinou malí členovci (většinou housenky a cikády)",
+  "claimed_false_for": {
+   "Q182599": "Krokodýl mořský (Crocodylus porosus)",
+   "Q183660": "Slepýš křehký (Anguis fragilis)",
+   "Q192095": "Kareta obecná (Caretta caretta)",
+   "Q193327": "Aligátor severoamerický (Alligator mississippiensis)",
+   "Q199458": "Kareta obrovská (Chelonia mydas)",
+   "Q272402": "Krokodýl filipínský (Crocodylus mindorensis)"
+  }
+ },
+ {
+  "id": "Q655616#0",
+  "species": "Varan skvrnitý",
+  "latin": "Varanus salvator",
+  "text": "Tento druh je aktivní jen ve dne, od úsvitu do soumraku.",
+  "quote": "aktivní pouze ve dne, od úsvitu do soumraku",
+  "claimed_false_for": {
+   "Q194422": "Aligátor čínský (Alligator sinensis)",
+   "Q244377": "Kobra egyptská (Naja haje)",
+   "Q40581": "Bungar proužkovaný (Bungarus fasciatus)"
+  }
+ },
+ {
+  "id": "Q655616#1",
+  "species": "Varan skvrnitý",
+  "latin": "Varanus salvator",
+  "text": "Tento druh se většinou zdržuje v blízkosti vody.",
+  "quote": "se většinou zdržují v blízkosti vody",
+  "claimed_false_for": {
+   "Q207058": "Korovec jedovatý (Heloderma suspectum)",
+   "Q320665": "Moloch ostnitý (Moloch horridus)"
+  }
+ },
+ {
+  "id": "Q655616#3",
+  "species": "Varan skvrnitý",
+  "latin": "Varanus salvator",
+  "text": "Dorůstá obvykle do délky 140 až 150 centimetrů.",
+  "quote": "průměrná délka se pohybuje mezi 140 až 150 cm",
+  "claimed_false_for": {
+   "Q17134": "Gaviál indický (Gavialis gangeticus)",
+   "Q204061": "Ještěrka živorodá (Zootoca vivipara)",
+   "Q207058": "Korovec jedovatý (Heloderma suspectum)",
+   "Q208648": "Užovka hladká (Coronella austriaca)",
+   "Q242102": "Krokodýl kubánský (Crocodylus rhombifer)",
+   "Q320665": "Moloch ostnitý (Moloch horridus)",
+   "Q4504": "Varan komodský (Varanus komodoensis)"
+  }
+ },
+ {
+  "id": "Q655616#6",
+  "species": "Varan skvrnitý",
+  "latin": "Varanus salvator",
+  "text": "Živí se i mršinami.",
+  "quote": "Živí se i mršinami",
+  "claimed_false_for": {
+   "Q208796": "Leguán mořský (Amblyrhynchus cristatus)"
+  }
+ },
+ {
+  "id": "Q81207#0",
+  "species": "Krokodýl bahenní",
+  "latin": "Crocodylus palustris",
+  "text": "Pod kůží má kostěné plátky, které chrání před zraněním.",
+  "quote": "Pod kůží má vyvinuty kostěné plátky (osteodermy), které ho chrání před zraněním.",
+  "claimed_false_for": {
+   "Q170713": "Užovka obojková (Natrix natrix)",
+   "Q188690": "Mamba černá (Dendroaspis polylepis)",
+   "Q215388": "Hroznýš královský (Boa constrictor)",
+   "Q369667": "Zmije útočná (Bitis arietans)",
+   "Q464424": "Krajta královská (Python regius)",
+   "Q48186": "Kobra královská (Ophiophagus hannah)"
+  }
+ },
+ {
+  "id": "Q81207#1",
+  "species": "Krokodýl bahenní",
+  "latin": "Crocodylus palustris",
+  "text": "Klade obvykle 25 až 30 vajec.",
+  "quote": "Samice kladou obvykle 25 až 30 vajec",
+  "claimed_false_for": {
+   "Q120043": "Kožatka velká (Dermochelys coriacea)",
+   "Q187036": "Želva bahenní (Emys orbicularitosa)",
+   "Q199458": "Kareta obrovská (Chelonia mydas)",
+   "Q204061": "Ještěrka živorodá (Zootoca vivipara)",
+   "Q207058": "Korovec jedovatý (Heloderma suspectum)",
+   "Q208648": "Užovka hladká (Coronella austriaca)",
+   "Q208796": "Leguán mořský (Amblyrhynchus cristatus)",
+   "Q244377": "Kobra egyptská (Naja haje)",
+   "Q320665": "Moloch ostnitý (Moloch horridus)"
+  }
+ }
+]

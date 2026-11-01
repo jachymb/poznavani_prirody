@@ -1,0 +1,679 @@
+[
+ {
+  "id": "Q679706#x5",
+  "species": "Morče divoké",
+  "latin": "Cavia aperea",
+  "text": "Parazitují na něm hlavně roztoči, vši a blechy.",
+  "quote": "hauptsächlich Milben, Läuse und Flöhe vor",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q694473#x0",
+  "species": "Veveřička nejmenší",
+  "latin": "Sciurillus pusillus",
+  "text": "Nejčastěji tráví den v korunách stromů, alespoň devět metrů nad zemí.",
+  "quote": "spend the day in the forest canopy, usually at least 9 m (30 ft) above the ground",
+  "claimed_false_for": {
+   "Q1093802": "Psoun Merriamův (Cynomys mexicanus)",
+   "Q125863341": "Veverka kapská (Geosciurus inauris)",
+   "Q1770542": "Krysa obrovská (Cricetomys gambianus)",
+   "Q184224": "Potkan (Rattus norvegicus)",
+   "Q216580": "Norník rudý (Myodes glareolus)",
+   "Q216871": "Myšice lesní (Apodemus flavicollis)",
+   "Q247142": "Psoun prériový (Cynomys ludovicianus)",
+   "Q304884": "Tarbíkomyš Merriamova (Dipodomys merriami)",
+   "Q306148": "Tarbíkomyš tlustoocasá (Dipodomys gravipes)",
+   "Q623466": "Sysel obecný (Spermophilus citellus)",
+   "Q644293": "Myš čtyřpruhá (Rhabdomys pumilio)",
+   "Q724354": "Plískavice strakatá (Cephalorhynchus commersonii)",
+   "Q757289": "Veverka berberská (Atlantoxerus getulus)",
+   "Q82728": "Bizon americký (Bison bison)",
+   "Q854681": "Sysel perličkový (Spermophilus suslicus)"
+  }
+ },
+ {
+  "id": "Q694473#x1",
+  "species": "Veveřička nejmenší",
+  "latin": "Sciurillus pusillus",
+  "text": "Hnízdí v opuštěných hnízdech stromových termitů vystlaných vlákny ze stromů.",
+  "quote": "They have been observed nesting in abandoned arboreal termite nests lined with fibres gathered from the machimango (Eschweilera) tree.",
+  "claimed_false_for": {
+   "Q1093802": "Psoun Merriamův (Cynomys mexicanus)",
+   "Q125863341": "Veverka kapská (Geosciurus inauris)",
+   "Q144923": "Medvěd malajský (Helarctos malayanus)",
+   "Q1470645": "Krtek bělohlavý (Parascalops breweri)",
+   "Q209067": "Krtek obecný (Talpa europaea)",
+   "Q244121": "Lenochod trpasličí (Bradypus pygmaeus)",
+   "Q247142": "Psoun prériový (Cynomys ludovicianus)",
+   "Q304884": "Tarbíkomyš Merriamova (Dipodomys merriami)",
+   "Q306148": "Tarbíkomyš tlustoocasá (Dipodomys gravipes)",
+   "Q623466": "Sysel obecný (Spermophilus citellus)",
+   "Q724354": "Plískavice strakatá (Cephalorhynchus commersonii)",
+   "Q82728": "Bizon americký (Bison bison)",
+   "Q854681": "Sysel perličkový (Spermophilus suslicus)"
+  }
+ },
+ {
+  "id": "Q694473#x3",
+  "species": "Veveřička nejmenší",
+  "latin": "Sciurillus pusillus",
+  "text": "Při poplachu vydává zvuk podobný cvrčení cvrčka.",
+  "quote": "giving an alarm call described as similar to the sound of a cricket",
+  "claimed_false_for": {
+   "Q1052814": "Lenochod krátkokrký (Choloepus hoffmanni)",
+   "Q26283": "Ondatra pižmová (Ondatra zibethicus)",
+   "Q285884": "Svišť horský (Marmota marmota)",
+   "Q741516": "Pekari páskovaný (Pecari tajacu)",
+   "Q744382": "Jezevec bělohrdlý (Arctonyx collaris)",
+   "Q751965": "Plískavice saravacká (Lagenodelphis hosei)"
+  }
+ },
+ {
+  "id": "Q713853#1",
+  "species": "Delfín indočínský",
+  "latin": "Sousa chinensis",
+  "text": "Žije ve skupinách, obvykle do šesti zvířat.",
+  "quote": "Žije v menších stádech do 6, někdy až do 10 jedinců.",
+  "claimed_false_for": {
+   "Q194675": "Vačice trpasličí (Marmosa murina)",
+   "Q307105": "Skunk skvrnitý (Spilogale putorius)"
+  }
+ },
+ {
+  "id": "Q716628#1",
+  "species": "Makak munzala",
+  "latin": "Macaca munzala",
+  "text": "Žije v lesích vysoko v horách, až 3500 metrů nad mořem.",
+  "quote": "lesům v nadmořské výšce 2000–3500 m n. m.",
+  "claimed_false_for": {
+   "Q1769237": "Myš kilikijská (Acomys cilicicus)",
+   "Q192029": "Kahau nosatý (Nasalis larvatus)",
+   "Q194519": "Vakomyš tlustoocasá (Sminthopsis crassicaudata)",
+   "Q694473": "Veveřička nejmenší (Sciurillus pusillus)",
+   "Q751636": "Pavián babuin (Papio cynocephalus)",
+   "Q955340": "Mystacina novozélandská (Mystacina tuberculata)"
+  }
+ },
+ {
+  "id": "Q720696#x0",
+  "species": "Lasice dlouhoocasá",
+  "latin": "Mustela frenata",
+  "text": "Základem potravy jsou hlodavci, třeba potkani, hraboši, veverky a myši.",
+  "quote": "Głównym składnikiem pożywienia są gryzonie (szczury, nornice, wiewiórki, myszy i susły)",
+  "claimed_false_for": {
+   "Q27370": "Tuleň kuželozubý (Halichoerus grypus)",
+   "Q33602": "Panda velká (Ailuropoda melanoleuca)",
+   "Q41407": "Vydra mořská (Enhydra lutris)",
+   "Q755733": "Plískavice chilská (Cephalorhynchus eutropia)",
+   "Q840714": "Vydra jižní (Lontra provocax)",
+   "Q844643": "Lachtan jižní (Arctocephalus tropicalis)",
+   "Q998769": "Lachtan mořský (Zalophus wollebaeki)"
+  }
+ },
+ {
+  "id": "Q720696#x1",
+  "species": "Lasice dlouhoocasá",
+  "latin": "Mustela frenata",
+  "text": "Nepřáteli jsou kojoti, lišky, velké sovy a chřestýšovití.",
+  "quote": "Do wrogów łasicy długoogonowej zaliczają się kojoty preriowe, lisy, duże sowy i grzechotnikowate.",
+  "claimed_false_for": {
+   "Q27370": "Tuleň kuželozubý (Halichoerus grypus)",
+   "Q755733": "Plískavice chilská (Cephalorhynchus eutropia)",
+   "Q844643": "Lachtan jižní (Arctocephalus tropicalis)",
+   "Q998769": "Lachtan mořský (Zalophus wollebaeki)"
+  }
+ },
+ {
+  "id": "Q720696#x2",
+  "species": "Lasice dlouhoocasá",
+  "latin": "Mustela frenata",
+  "text": "Březost trvá 280 dní.",
+  "quote": "Po ciąży przedłużonej trwającej 280 dni",
+  "claimed_false_for": {
+   "Q125814326": "Šakal čabrakový (Lupulella mesomelas)",
+   "Q179154": "Plejtvákovec šedý (Eschrichtius robustus)",
+   "Q18498": "Vlk obecný (Canis lupus)",
+   "Q188957": "Vlček etiopský (Canis simensis)",
+   "Q215250": "Liška šedá (Urocyon cinereoargenteus)",
+   "Q226735": "Zorila velká (Ictonyx striatus)",
+   "Q263706": "Liška šedohnědá (Vulpes velox)",
+   "Q26582": "Tchoř tmavý (Mustela putorius)",
+   "Q283426": "Grizon velký (Galictis vittata)",
+   "Q672916": "Possum černoocasý (Hemibelideus lemuroides)",
+   "Q732127": "Tchoř stepní (Mustela eversmanii)",
+   "Q80191": "Kočka mramorovaná (Pardofelis marmorata)",
+   "Q8332": "Liška obecná (Vulpes vulpes)",
+   "Q838840": "Fret malý (Bassariscus sumichrasti)"
+  }
+ },
+ {
+  "id": "Q720696#x3",
+  "species": "Lasice dlouhoocasá",
+  "latin": "Mustela frenata",
+  "text": "Dobře plave a šplhá na stromy.",
+  "quote": "Dobrze pływają i wspinają się na drzewa.",
+  "claimed_false_for": {
+   "Q27370": "Tuleň kuželozubý (Halichoerus grypus)",
+   "Q755733": "Plískavice chilská (Cephalorhynchus eutropia)",
+   "Q844643": "Lachtan jižní (Arctocephalus tropicalis)",
+   "Q998769": "Lachtan mořský (Zalophus wollebaeki)"
+  }
+ },
+ {
+  "id": "Q724349#x0",
+  "species": "Elektra tmavá",
+  "latin": "Peponocephala electra",
+  "text": "Živí se hlavně kalmary a malými rybami.",
+  "quote": "feed primarily on pelagic and mesopelagic squid and small fish",
+  "claimed_false_for": {
+   "Q125815593": "Šakal pruhovaný (Lupulella adusta)",
+   "Q13408062": "Jak domácí (Bos grunniens)",
+   "Q180404": "Wapiti (Cervus canadensis)",
+   "Q207043": "Přímorožec jihoafrický (Oryx gazella)",
+   "Q207906": "Jelen milu (Elaphurus davidianus)",
+   "Q219565": "Zebra Grévyho (Equus grevyi)",
+   "Q271705": "Gazela Thomsonova (Eudorcas thomsonii)",
+   "Q39624": "Sob polární (Rangifer tarandus)",
+   "Q756889": "Daněk mezopotámský (Dama mesopotamica)",
+   "Q853358": "Gazela Soemmerringova (Nanger soemmerringii)",
+   "Q902896": "Kamzík středozemní (Rupicapra pyrenaica)"
+  }
+ },
+ {
+  "id": "Q724349#x1",
+  "species": "Elektra tmavá",
+  "latin": "Peponocephala electra",
+  "text": "Živí se v noci, kdy je kořist blízko hladiny.",
+  "quote": "Melon-headed whales feed at night",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q724349#x2",
+  "species": "Elektra tmavá",
+  "latin": "Peponocephala electra",
+  "text": "Cestuje většinou ve velkých skupinách po 100 až 500 jedincích.",
+  "quote": "usually travel in large groups of 100 – 500 individuals",
+  "claimed_false_for": {
+   "Q203897": "Plískavice šedá (Grampus griseus)",
+   "Q247990": "Delfín kapverdský (Stenella frontalis)",
+   "Q26843": "Kosatka dravá (Orcinus orca)",
+   "Q725493": "Sviňucha kalifornská (Phocoena sinus)",
+   "Q735210": "Kulohlavec Sieboldův (Globicephala macrorhynchus)",
+   "Q755733": "Plískavice chilská (Cephalorhynchus eutropia)"
+  }
+ },
+ {
+  "id": "Q724349#x4",
+  "species": "Elektra tmavá",
+  "latin": "Peponocephala electra",
+  "text": "Mohou ho lovit velcí žraloci a kosatky.",
+  "quote": "may be preyed upon by large sharks and killer whales",
+  "claimed_false_for": {
+   "Q103928246": "Hulman nilgirský (Semnopithecus johnii)",
+   "Q112307733": "Klokan irma (Notamacropus irma)",
+   "Q178228": "Koza bezoárová (Capra aegagrus)",
+   "Q187943": "Vidloroh americký (Antilocapra americana)",
+   "Q26843": "Kosatka dravá (Orcinus orca)",
+   "Q368033": "Antilopa trávní (Raphicerus campestris)",
+   "Q723575": "Muntžak chocholatý (Elaphodus cephalophus)",
+   "Q756073": "Pekari bělobradý (Tayassu pecari)",
+   "Q836308": "Hutia-konga (Capromys pilorides)",
+   "Q842374": "Goral východní (Naemorhedus caudatus)"
+  }
+ },
+ {
+  "id": "Q724349#x5",
+  "species": "Elektra tmavá",
+  "latin": "Peponocephala electra",
+  "text": "Samice rodí jedno mládě jednou za 3 až 4 roky.",
+  "quote": "Females give birth to a single calf every 3–4 years",
+  "claimed_false_for": {
+   "Q112307733": "Klokan irma (Notamacropus irma)",
+   "Q187943": "Vidloroh americký (Antilocapra americana)",
+   "Q2112320": "Los americký (Alces americanus)",
+   "Q244447": "Prase zakrslé (Porcula salvania)",
+   "Q368033": "Antilopa trávní (Raphicerus campestris)",
+   "Q504488": "Netopýr vodní (Myotis daubentonii)",
+   "Q520434": "Lemur červenavý (Eulemur rufus)",
+   "Q541521": "Chocholatka červená (Cephalophus natalensis)",
+   "Q56116672": "Titi rezavý (Plecturocebus moloch)",
+   "Q725736": "Gazela dama (Nanger dama)",
+   "Q756073": "Pekari bělobradý (Tayassu pecari)",
+   "Q790691": "Lemur bělohlavý (Eulemur fulvus)",
+   "Q836308": "Hutia-konga (Capromys pilorides)"
+  }
+ },
+ {
+  "id": "Q726151#0",
+  "species": "Klokan quokka",
+  "latin": "Setonix brachyurus",
+  "text": "Žije jen na jihozápadním pobřeží Austrálie.",
+  "quote": "endemitní druh jihozápadního pobřeží Austrálie",
+  "claimed_false_for": {
+   "Q1470645": "Krtek bělohlavý (Parascalops breweri)",
+   "Q1763709": "Ježek bělokrký (Hemiechinus collaris)",
+   "Q194426": "Vačík rejsčí (Caenolestes fuliginosus)",
+   "Q209067": "Krtek obecný (Talpa europaea)",
+   "Q209620": "Klokan žlutoskvrnný (Dorcopsis luctuosa)",
+   "Q244121": "Lenochod trpasličí (Bradypus pygmaeus)",
+   "Q244372": "Rejsek malý (Sorex minutus)",
+   "Q369889": "Bělozubka nejmenší (Suncus etruscus)",
+   "Q465986": "Rejsec vodní (Neomys fodiens)",
+   "Q581709": "Bércoun rezavý (Elephantulus rufescens)",
+   "Q754046": "Srstín krysí (Echinosorex gymnura)"
+  }
+ },
+ {
+  "id": "Q726151#2",
+  "species": "Klokan quokka",
+  "latin": "Setonix brachyurus",
+  "text": "Tento druh se živí trávami, listy a sukulentními rostlinami.",
+  "quote": "Klokan se živí rostlinnou potravou, tj. trávami, listy, sukulentními",
+  "claimed_false_for": {
+   "Q1470645": "Krtek bělohlavý (Parascalops breweri)",
+   "Q209067": "Krtek obecný (Talpa europaea)",
+   "Q244372": "Rejsek malý (Sorex minutus)",
+   "Q369889": "Bělozubka nejmenší (Suncus etruscus)",
+   "Q465986": "Rejsec vodní (Neomys fodiens)",
+   "Q752020": "Possum medosavý (Tarsipes rostratus)"
+  }
+ },
+ {
+  "id": "Q728643#x0",
+  "species": "Jelen bělohubý",
+  "latin": "Cervus albirostris",
+  "text": "Mláďata se rodí s bílými skvrnami.",
+  "quote": "The calves are born with white spots",
+  "claimed_false_for": {
+   "Q1009881": "Buvolec pestrý (Damaliscus pygargus)",
+   "Q180035": "Zajíc bělák (Lepus timidus)",
+   "Q190154": "Adax núbijský (Addax nasomaculatus)",
+   "Q203897": "Plískavice šedá (Grampus griseus)",
+   "Q213084": "Antilopa skákavá (Antidorcas marsupialis)",
+   "Q216435": "Plískavice běloboká (Lagenorhynchus acutus)",
+   "Q242602": "Kamzík bělák (Oreamnos americanus)",
+   "Q369817": "Přímorožec šavlorohý (Oryx dammah)",
+   "Q42710": "Buvol domácí (Bubalus bubalis)",
+   "Q45079": "Gayal (Bos frontalis)",
+   "Q471785": "Antilopa koňská (Hippotragus equinus)",
+   "Q608572": "Králík pouštní (Sylvilagus audubonii)",
+   "Q622880": "Buvolec stepní (Alcelaphus buselaphus)",
+   "Q754034": "Serau malý (Capricornis crispus)",
+   "Q81063": "Zajíc měnivý (Lepus americanus)",
+   "Q820184": "Bahnivec horský (Redunca fulvorufula)"
+  }
+ },
+ {
+  "id": "Q728643#x1",
+  "species": "Jelen bělohubý",
+  "latin": "Cervus albirostris",
+  "text": "Živí se hlavně trávami a ostřicemi.",
+  "quote": "primarily grasses and sedges",
+  "claimed_false_for": {
+   "Q103928246": "Hulman nilgirský (Semnopithecus johnii)",
+   "Q193683": "Velryba černá (Eubalaena glacialis)",
+   "Q301018": "Plískavice pestrá (Lagenorhynchus cruciger)",
+   "Q756073": "Pekari bělobradý (Tayassu pecari)",
+   "Q833607": "Dikdik Kirkův (Madoqua kirkii)",
+   "Q836308": "Hutia-konga (Capromys pilorides)",
+   "Q938385": "Kančil jávský (Tragulus javanicus)"
+  }
+ },
+ {
+  "id": "Q728643#x2",
+  "species": "Jelen bělohubý",
+  "latin": "Cervus albirostris",
+  "text": "Občas ho uloví vlci nebo irbisové.",
+  "quote": "although Himalayan wolves and snow leopards have been",
+  "claimed_false_for": {
+   "Q103928246": "Hulman nilgirský (Semnopithecus johnii)",
+   "Q112307733": "Klokan irma (Notamacropus irma)",
+   "Q190154": "Adax núbijský (Addax nasomaculatus)",
+   "Q193683": "Velryba černá (Eubalaena glacialis)",
+   "Q234597": "Sitatunga (Tragelaphus spekii)",
+   "Q242602": "Kamzík bělák (Oreamnos americanus)",
+   "Q271705": "Gazela Thomsonova (Eudorcas thomsonii)",
+   "Q301018": "Plískavice pestrá (Lagenorhynchus cruciger)",
+   "Q317393": "Anoa nížinný (Bubalus depressicornis)",
+   "Q368033": "Antilopa trávní (Raphicerus campestris)",
+   "Q369817": "Přímorožec šavlorohý (Oryx dammah)",
+   "Q471785": "Antilopa koňská (Hippotragus equinus)",
+   "Q622880": "Buvolec stepní (Alcelaphus buselaphus)",
+   "Q756073": "Pekari bělobradý (Tayassu pecari)",
+   "Q756196": "Antilopa černouchá (Raphicerus melanotis)",
+   "Q833607": "Dikdik Kirkův (Madoqua kirkii)",
+   "Q836308": "Hutia-konga (Capromys pilorides)",
+   "Q938385": "Kančil jávský (Tragulus javanicus)"
+  }
+ },
+ {
+  "id": "Q728643#x3",
+  "species": "Jelen bělohubý",
+  "latin": "Cervus albirostris",
+  "text": "Žije v nadmořské výšce 3500 až 5100 metrů.",
+  "quote": "elevations between 3,500 to 5,100 metres",
+  "claimed_false_for": {
+   "Q207744": "Kulohlavec černý (Globicephala melas)",
+   "Q214835": "Liška džunglová (Vulpes bengalensis)",
+   "Q232054": "Axis indický (Axis axis)",
+   "Q239381": "Antilopa vraná (Hippotragus niger)",
+   "Q244410": "Velryba jižní (Eubalaena australis)",
+   "Q2649322": "Delfín guayanský (Sotalia guianensis)",
+   "Q27497247": "Žirafa masajská (Giraffa tippelskirchi)",
+   "Q300991": "Plískavice jižní (Lagenorhynchus australis)",
+   "Q304343": "Gazela rezavočelá (Eudorcas rufifrons)",
+   "Q328809": "Pakůň žíhaný (Connochaetes taurinus)",
+   "Q494968": "Tuleň pacifický (Phoca largha)",
+   "Q533451": "Muntžak sundský (Muntiacus muntjak)",
+   "Q56120524": "Titi Orbignův (Plecturocebus donacophilus)",
+   "Q738564": "Sviňucha běloploutvá (Phocoenoides dalli)",
+   "Q913784": "Lemur límcový (Eulemur collaris)",
+   "Q927065": "Pudu jižní (Pudu puda)"
+  }
+ },
+ {
+  "id": "Q728643#x4",
+  "species": "Jelen bělohubý",
+  "latin": "Cervus albirostris",
+  "text": "Na zimu sestupuje z vysokých pastvin do chráněných lesů a údolí.",
+  "quote": "down to lower, wind-sheltered woodlands and valleys",
+  "claimed_false_for": {
+   "Q125815593": "Šakal pruhovaný (Lupulella adusta)",
+   "Q190154": "Adax núbijský (Addax nasomaculatus)",
+   "Q207043": "Přímorožec jihoafrický (Oryx gazella)",
+   "Q219565": "Zebra Grévyho (Equus grevyi)",
+   "Q234597": "Sitatunga (Tragelaphus spekii)",
+   "Q271705": "Gazela Thomsonova (Eudorcas thomsonii)",
+   "Q317393": "Anoa nížinný (Bubalus depressicornis)",
+   "Q369817": "Přímorožec šavlorohý (Oryx dammah)",
+   "Q471785": "Antilopa koňská (Hippotragus equinus)",
+   "Q756196": "Antilopa černouchá (Raphicerus melanotis)",
+   "Q833607": "Dikdik Kirkův (Madoqua kirkii)",
+   "Q853358": "Gazela Soemmerringova (Nanger soemmerringii)",
+   "Q938385": "Kančil jávský (Tragulus javanicus)"
+  }
+ },
+ {
+  "id": "Q728643#x5",
+  "species": "Jelen bělohubý",
+  "latin": "Cervus albirostris",
+  "text": "V zajetí se dožívá až 21 let.",
+  "quote": "have been reported to live up to 21 years in captivity",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q732477#x0",
+  "species": "Kusu liščí",
+  "latin": "Trichosurus vulpecula",
+  "text": "Tento druh je aktivní v noci a žije převážně na stromech.",
+  "quote": "The common brushtail possum is largely arboreal and nocturnal.",
+  "claimed_false_for": {
+   "Q104831614": "Klokan rudý (Osphranter rufus)",
+   "Q1334561": "Klokánek rudohnědý (Aepyprymnus rufescens)",
+   "Q134964": "Ďábel medvědovitý (Sarcophilus harrisii)",
+   "Q15343": "Ptakopysk podivný (Ornithorhynchus anatinus)",
+   "Q193182": "Ježura australská (Tachyglossus aculeatus)",
+   "Q194268": "Bandikut nosatý (Perameles nasuta)",
+   "Q275608": "Klokánek krysí (Potorous tridactylus)",
+   "Q36341": "Medvěd hnědý (Ursus arctos)",
+   "Q752436": "Vombat obecný (Vombatus ursinus)",
+   "Q754050": "Vakorejsek čtyřprstý (Dasyuroides byrnei)"
+  }
+ },
+ {
+  "id": "Q732477#x1",
+  "species": "Kusu liščí",
+  "latin": "Trichosurus vulpecula",
+  "text": "Na Nový Zéland ho lidé zavlekli v 50. letech 19. století kvůli kožešině.",
+  "quote": "The common brushtail possum was introduced to New Zealand in the 1850s to establish a fur industry",
+  "claimed_false_for": {
+   "Q109262312": "Klokan Parryův (Notamacropus parryi)",
+   "Q109262322": "Klokan parma (Notamacropus parma)",
+   "Q1134186": "Vombat severní (Lasiorhinus krefftii)",
+   "Q184389": "Pes hřivnatý (Chrysocyon brachyurus)",
+   "Q194405": "Vačice Emiliina (Gracilinanus emiliae)",
+   "Q194426": "Vačík rejsčí (Caenolestes fuliginosus)",
+   "Q194516": "Kunovec tečkovaný (Dasyurus viverrinus)",
+   "Q194663": "Vačice opossum (Didelphis marsupialis)",
+   "Q194671": "Vačice čtyřoká (Philander opossum)",
+   "Q209291": "Klokan rudoboký (Thylogale billardierii)",
+   "Q209497": "Klokan žlutonohý (Petrogale xanthopus)",
+   "Q209548": "Kuskus skvrnitý (Spilocuscus maculatus)",
+   "Q209594": "Klokan znamenaný (Thylogale stigmatica)",
+   "Q273577": "Voduška puku (Kobus vardonii)",
+   "Q475449": "Vombat chluponosý (Lasiorhinus latifrons)",
+   "Q533063": "Klokan uzdičkový (Onychogalea fraenata)",
+   "Q660423": "Vačice vydří (Chironectes minimus)",
+   "Q668004": "Vakovec létavý (Petauroides volans)",
+   "Q723435": "Vakoveverka létavá (Petaurus breviceps)",
+   "Q784161": "Vačice zapotécká (Tlacuatzin canescens)",
+   "Q838944": "Langur duk (Pygathrix nemaeus)",
+   "Q928390": "Possum vlnitý (Pseudocheirus peregrinus)"
+  }
+ },
+ {
+  "id": "Q732477#x2",
+  "species": "Kusu liščí",
+  "latin": "Trichosurus vulpecula",
+  "text": "Novorozené mládě měří jen 1,5 cm a váží 2 g.",
+  "quote": "A newborn brushtail possum is only 1.5 cm (0.6 in) long and weighs only 2 g (0.07 oz).",
+  "claimed_false_for": {
+   "Q184389": "Pes hřivnatý (Chrysocyon brachyurus)",
+   "Q273577": "Voduška puku (Kobus vardonii)",
+   "Q838944": "Langur duk (Pygathrix nemaeus)"
+  }
+ },
+ {
+  "id": "Q732477#x3",
+  "species": "Kusu liščí",
+  "latin": "Trichosurus vulpecula",
+  "text": "Březost trvá jen 16 až 18 dní.",
+  "quote": "Females have a gestation period of 16–18 days",
+  "claimed_false_for": {
+   "Q104831614": "Klokan rudý (Osphranter rufus)",
+   "Q147267": "Vačice virginská (Didelphis virginiana)",
+   "Q1761999": "Velemyš obláčková (Phloeomys pallidus)",
+   "Q194268": "Bandikut nosatý (Perameles nasuta)",
+   "Q275608": "Klokánek krysí (Potorous tridactylus)",
+   "Q36101": "Koala medvídkovitý (Phascolarctos cinereus)",
+   "Q36341": "Medvěd hnědý (Ursus arctos)",
+   "Q754050": "Vakorejsek čtyřprstý (Dasyuroides byrnei)"
+  }
+ },
+ {
+  "id": "Q732477#x4",
+  "species": "Kusu liščí",
+  "latin": "Trichosurus vulpecula",
+  "text": "Živí se nejraději listy eukalyptů, ale jí i květy, plody a semena.",
+  "quote": "It prefers Eucalyptus leaves, but also eats flowers, shoots, fruits, and seeds.",
+  "claimed_false_for": {
+   "Q104831614": "Klokan rudý (Osphranter rufus)",
+   "Q1134186": "Vombat severní (Lasiorhinus krefftii)",
+   "Q1761999": "Velemyš obláčková (Phloeomys pallidus)",
+   "Q194405": "Vačice Emiliina (Gracilinanus emiliae)",
+   "Q194426": "Vačík rejsčí (Caenolestes fuliginosus)",
+   "Q194516": "Kunovec tečkovaný (Dasyurus viverrinus)",
+   "Q194663": "Vačice opossum (Didelphis marsupialis)",
+   "Q194671": "Vačice čtyřoká (Philander opossum)",
+   "Q209755": "Kuskus medvědí (Ailurops ursinus)",
+   "Q275608": "Klokánek krysí (Potorous tridactylus)",
+   "Q36341": "Medvěd hnědý (Ursus arctos)",
+   "Q475449": "Vombat chluponosý (Lasiorhinus latifrons)",
+   "Q660423": "Vačice vydří (Chironectes minimus)",
+   "Q723435": "Vakoveverka létavá (Petaurus breviceps)",
+   "Q752436": "Vombat obecný (Vombatus ursinus)",
+   "Q784161": "Vačice zapotécká (Tlacuatzin canescens)"
+  }
+ },
+ {
+  "id": "Q732477#x5",
+  "species": "Kusu liščí",
+  "latin": "Trichosurus vulpecula",
+  "text": "V Austrálii ho ohrožují psi, lišky, kočky, varani, hadi a sovy.",
+  "quote": "In Australia, brushtail possums are threatened by humans, tiger quolls, dogs, foxes, cats, goannas, carpet snakes, and powerful owls.",
+  "claimed_false_for": {
+   "Q184389": "Pes hřivnatý (Chrysocyon brachyurus)",
+   "Q194405": "Vačice Emiliina (Gracilinanus emiliae)",
+   "Q273577": "Voduška puku (Kobus vardonii)",
+   "Q838944": "Langur duk (Pygathrix nemaeus)"
+  }
+ },
+ {
+  "id": "Q735222#x0",
+  "species": "Gazela Grantova",
+  "latin": "Nanger granti",
+  "text": "Získává většinu vody z rostlin, které jí.",
+  "quote": "They get most of their moisture from the plants they eat, so they do not often have to drink water.",
+  "claimed_false_for": {
+   "Q207744": "Kulohlavec černý (Globicephala melas)",
+   "Q244410": "Velryba jižní (Eubalaena australis)",
+   "Q2649322": "Delfín guayanský (Sotalia guianensis)",
+   "Q300991": "Plískavice jižní (Lagenorhynchus australis)",
+   "Q494968": "Tuleň pacifický (Phoca largha)",
+   "Q738564": "Sviňucha běloploutvá (Phocoenoides dalli)"
+  }
+ },
+ {
+  "id": "Q735222#x1",
+  "species": "Gazela Grantova",
+  "latin": "Nanger granti",
+  "text": "Někdy se připojuje ke skupinám příbuzného druhu, aby se chránil před predátory.",
+  "quote": "Grant's gazelle will sometimes join groups of Thomson's gazelle to protect themselves from predators.",
+  "claimed_false_for": {
+   "Q207744": "Kulohlavec černý (Globicephala melas)",
+   "Q214835": "Liška džunglová (Vulpes bengalensis)",
+   "Q244410": "Velryba jižní (Eubalaena australis)",
+   "Q2649322": "Delfín guayanský (Sotalia guianensis)",
+   "Q300991": "Plískavice jižní (Lagenorhynchus australis)",
+   "Q494968": "Tuleň pacifický (Phoca largha)",
+   "Q56120524": "Titi Orbignův (Plecturocebus donacophilus)",
+   "Q738564": "Sviňucha běloploutvá (Phocoenoides dalli)",
+   "Q913784": "Lemur límcový (Eulemur collaris)"
+  }
+ },
+ {
+  "id": "Q735222#x2",
+  "species": "Gazela Grantova",
+  "latin": "Nanger granti",
+  "text": "Loví ho nejčastěji gepardi a psi hyenoví.",
+  "quote": "The most common predators of the Grant's gazelle are the cheetah and African wild dog",
+  "claimed_false_for": {
+   "Q103928246": "Hulman nilgirský (Semnopithecus johnii)",
+   "Q112307733": "Klokan irma (Notamacropus irma)",
+   "Q1470645": "Krtek bělohlavý (Parascalops breweri)",
+   "Q178228": "Koza bezoárová (Capra aegagrus)",
+   "Q187943": "Vidloroh americký (Antilocapra americana)",
+   "Q193683": "Velryba černá (Eubalaena glacialis)",
+   "Q194426": "Vačík rejsčí (Caenolestes fuliginosus)",
+   "Q209620": "Klokan žlutoskvrnný (Dorcopsis luctuosa)",
+   "Q244121": "Lenochod trpasličí (Bradypus pygmaeus)",
+   "Q301018": "Plískavice pestrá (Lagenorhynchus cruciger)",
+   "Q723575": "Muntžak chocholatý (Elaphodus cephalophus)",
+   "Q752020": "Possum medosavý (Tarsipes rostratus)",
+   "Q754046": "Srstín krysí (Echinosorex gymnura)",
+   "Q756073": "Pekari bělobradý (Tayassu pecari)",
+   "Q836308": "Hutia-konga (Capromys pilorides)",
+   "Q842374": "Goral východní (Naemorhedus caudatus)"
+  }
+ },
+ {
+  "id": "Q735222#x3",
+  "species": "Gazela Grantova",
+  "latin": "Nanger granti",
+  "text": "Mláďata jsou první dny téměř nehybná.",
+  "quote": "Fawns are immobile for the first few days",
+  "claimed_false_for": {
+   "Q174296": "Gaur (Bos gaurus)",
+   "Q203897": "Plískavice šedá (Grampus griseus)",
+   "Q216435": "Plískavice běloboká (Lagenorhynchus acutus)",
+   "Q26547": "Jak divoký (Bos mutus)",
+   "Q42710": "Buvol domácí (Bubalus bubalis)"
+  }
+ },
+ {
+  "id": "Q735222#x4",
+  "species": "Gazela Grantova",
+  "latin": "Nanger granti",
+  "text": "Březost trvá 198 dní.",
+  "quote": "The gestation period for the gazelle lasts for 198 days.",
+  "claimed_false_for": {
+   "Q180035": "Zajíc bělák (Lepus timidus)",
+   "Q190674": "Kočka rybářská (Prionailurus viverrinus)",
+   "Q203897": "Plískavice šedá (Grampus griseus)",
+   "Q213084": "Antilopa skákavá (Antidorcas marsupialis)",
+   "Q216435": "Plískavice běloboká (Lagenorhynchus acutus)",
+   "Q42710": "Buvol domácí (Bubalus bubalis)",
+   "Q608572": "Králík pouštní (Sylvilagus audubonii)",
+   "Q81063": "Zajíc měnivý (Lepus americanus)"
+  }
+ },
+ {
+  "id": "Q735222#x5",
+  "species": "Gazela Grantova",
+  "latin": "Nanger granti",
+  "text": "Samci při sporech kolem sebe kráčejí a kývají krky ze strany na stranu.",
+  "quote": "The bucks circle each other and swing their necks from side to side, displaying their neck power.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q751958#0",
+  "species": "Myšivka horská",
+  "latin": "Sicista betulina",
+  "text": "Má tělo dlouhé 5 až 7 centimetrů.",
+  "quote": "Délka těla dosahuje 5 až 7 cm",
+  "claimed_false_for": {
+   "Q1094722": "Poletuška severní (Glaucomys sabrinus)"
+  }
+ },
+ {
+  "id": "Q752141#1",
+  "species": "Kozorožec kavkazský",
+  "latin": "Capra caucasica",
+  "text": "Predátory tohoto druhu jsou vlci a rysi.",
+  "quote": "Jejich predátory jsou vlci a rysi.",
+  "claimed_false_for": {
+   "Q20085878": "Luskoun velký (Smutsia gigantea)",
+   "Q217147": "Plískavice bělonosá (Lagenorhynchus albirostris)",
+   "Q244447": "Prase zakrslé (Porcula salvania)",
+   "Q273331": "Orcela tuponosá (Orcaella brevirostris)",
+   "Q504488": "Netopýr vodní (Myotis daubentonii)",
+   "Q520434": "Lemur červenavý (Eulemur rufus)",
+   "Q541521": "Chocholatka červená (Cephalophus natalensis)",
+   "Q56116672": "Titi rezavý (Plecturocebus moloch)",
+   "Q617979": "Kahau mentavejský (Simias concolor)",
+   "Q790691": "Lemur bělohlavý (Eulemur fulvus)"
+  }
+ },
+ {
+  "id": "Q754034#1",
+  "species": "Serau malý",
+  "latin": "Capricornis crispus",
+  "text": "Žije pouze v Japonsku.",
+  "quote": "obývá pouze Japonsko",
+  "claimed_false_for": {
+   "Q186267": "Argali altajský (Ovis ammon)"
+  }
+ },
+ {
+  "id": "Q754395#1",
+  "species": "Antilopa srnčí",
+  "latin": "Pelea capreolus",
+  "text": "Samec má vzpřímené, téměř rovné rohy dlouhé 15 až 27 cm.",
+  "quote": "Samec má, na rozdíl od samice, vzpřímené, téměř rovné rohy dlouhé 15 až 27 cm.",
+  "claimed_false_for": {
+   "Q186267": "Argali altajský (Ovis ammon)"
+  }
+ },
+ {
+  "id": "Q755733#0",
+  "species": "Plískavice chilská",
+  "latin": "Cephalorhynchus eutropia",
+  "text": "Žije většinou v malých skupinách po 2 až 15 zvířatech.",
+  "quote": "Žije většinou v menších skupinkách o 2–15 jedincích",
+  "claimed_false_for": {
+   "Q20085878": "Luskoun velký (Smutsia gigantea)",
+   "Q2112320": "Los americký (Alces americanus)",
+   "Q541521": "Chocholatka červená (Cephalophus natalensis)"
+  }
+ }
+]

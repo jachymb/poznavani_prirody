@@ -1,0 +1,546 @@
+[
+ {
+  "id": "Q206507#2",
+  "species": "Tetra citronová",
+  "latin": "Hyphessobrycon pulchripinnis",
+  "text": "Tento druh se živí převážně drobnými korýši, červy a vodními řasami.",
+  "quote": "živí se převážně drobnými korýši, červy a vodními řasami",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q2067460#0",
+  "species": "Panchax prstencový",
+  "latin": "Epiplatys annulatus",
+  "text": "Tento druh se zdržuje hlavně u hladiny a číhá tam na hmyz.",
+  "quote": "zdržující se převážně u hladiny, kde číhá na hmyz.",
+  "claimed_false_for": {
+   "Q1071955": "Koníček mořský (Hippocampus guttulatus)",
+   "Q201177": "Vyza malá (Huso dauricus)",
+   "Q747645": "Jeseter ruský (Acipenser gueldenstaedtii)"
+  }
+ },
+ {
+  "id": "Q2067460#1",
+  "species": "Panchax prstencový",
+  "latin": "Epiplatys annulatus",
+  "text": "Pochází původně ze západní Afriky.",
+  "quote": "Původně pochází ze západní Afriky, z povodí řeky Moa v Sierra Leone.",
+  "claimed_false_for": {
+   "Q1429252": "Limie Perugiova (Limia perugiae)",
+   "Q195606": "Kvintana sklovitá (Quintana atrizona)",
+   "Q2165517": "Klipka čtyřoká (Chaetodon capistratus)",
+   "Q30066": "Hranáč šedý (Cyclopterus lumpus)",
+   "Q3754395": "Plata mečíkatá (Xiphophorus xiphidium)",
+   "Q456485": "Živorodka křížená (Poecilia formosa)",
+   "Q642906": "Aju východní (Plecoglossus altivelis)",
+   "Q806299": "Xenotoka červenoocasá (Xenotoca eiseni)",
+   "Q906572": "Živorodka širokoploutvá (Poecilia latipinna)",
+   "Q963331": "Žirardinka lesklá (Girardinus metallicus)"
+  }
+ },
+ {
+  "id": "Q2081360#0",
+  "species": "Letoun měkkoploutvý",
+  "latin": "Exocoetus volitans",
+  "text": "Plachtí nad vodou na zvětšených ploutvích.",
+  "quote": "klouže či plachtí nad vodou na zvětšených a zesílených ploutvích",
+  "claimed_false_for": {
+   "Q1142975": "Medaka japonská (Oryzias latipes)",
+   "Q1409451": "Hlaváčovec pastelový (Nemateleotris magnifica)",
+   "Q2306485": "Soltýn barakuda (Sphyraena barracuda)",
+   "Q2857311": "Pstruh obecný (Salmo trutta)",
+   "Q374092": "Vranka obecná (Cottus gobio)",
+   "Q728408": "Sekavec písečný (Cobitis taenia)",
+   "Q756771": "Jeseter sibiřský (Acipenser baerii)",
+   "Q76280": "Lín obecný (Tinca tinca)",
+   "Q917209": "Muréna nosatá (Rhinomuraena quaesita)",
+   "Q945616": "Rozedranec pihovitý (Antennarius coccineus)"
+  }
+ },
+ {
+  "id": "Q2081360#1",
+  "species": "Letoun měkkoploutvý",
+  "latin": "Exocoetus volitans",
+  "text": "Uniká před delfíny, mečouny a tuňáky plachtěním.",
+  "quote": "Plachtění používají při úniku před predátory, např. před delfíny, mečouny a tuňáky.",
+  "claimed_false_for": {
+   "Q1142975": "Medaka japonská (Oryzias latipes)",
+   "Q1409451": "Hlaváčovec pastelový (Nemateleotris magnifica)",
+   "Q374092": "Vranka obecná (Cottus gobio)",
+   "Q728408": "Sekavec písečný (Cobitis taenia)",
+   "Q756771": "Jeseter sibiřský (Acipenser baerii)",
+   "Q76280": "Lín obecný (Tinca tinca)",
+   "Q917209": "Muréna nosatá (Rhinomuraena quaesita)",
+   "Q945616": "Rozedranec pihovitý (Antennarius coccineus)"
+  }
+ },
+ {
+  "id": "Q2090926#0",
+  "species": "Soltýn tmavopruhý",
+  "latin": "Sphyraena jello",
+  "text": "Živí se převážně jinými rybami a olihněmi.",
+  "quote": "Živí se převážně jinými rybami a olihněmi",
+  "claimed_false_for": {
+   "Q2164550": "Chňapálek rudomořský (Caesio suevica)",
+   "Q77062": "Vřeténka mandarín (Synchiropus splendidus)"
+  }
+ },
+ {
+  "id": "Q2090926#1",
+  "species": "Soltýn tmavopruhý",
+  "latin": "Sphyraena jello",
+  "text": "Mladší jedinci se sdružují do hejn kvůli ochraně před predátory.",
+  "quote": "Mladší jedinci se často sdružují do velkých, organizovaných hejn kvůli ochraně před predátory",
+  "claimed_false_for": {
+   "Q2330446": "Odranec pravý (السمكة الصخرية المرجانية)",
+   "Q782345": "Bahník australský (Neoceratodus forsteri)"
+  }
+ },
+ {
+  "id": "Q211316#0",
+  "species": "Jeseter malý",
+  "latin": "Acipenser ruthenus",
+  "text": "Živí se larvami vodního hmyzu, červy a měkkýši.",
+  "quote": "larvy vodního hmyzu, červi, měkkýši, korýši, pijavky",
+  "claimed_false_for": {
+   "Q1519608": "Rozedranec proužkovaný (Antennarius striatus)",
+   "Q1920243": "Kanic itajara (Epinephelus itajara)",
+   "Q2021864": "Leskyně skvrnitá (Lampris guttatus)",
+   "Q847501": "Pomec císařský (Pomacanthus imperator)",
+   "Q882822": "Perutýn čertovský (Parapterois heterura)"
+  }
+ },
+ {
+  "id": "Q211316#2",
+  "species": "Jeseter malý",
+  "latin": "Acipenser ruthenus",
+  "text": "Jikry se kladou na štěrkové dno.",
+  "quote": "Jikry jsou kladeny na štěrkové dno",
+  "claimed_false_for": {
+   "Q1519608": "Rozedranec proužkovaný (Antennarius striatus)",
+   "Q1920243": "Kanic itajara (Epinephelus itajara)",
+   "Q2021864": "Leskyně skvrnitá (Lampris guttatus)",
+   "Q26387": "Úhoř říční (Anguilla anguilla)",
+   "Q3541": "Skalára vysoká (Pterophyllum altum)",
+   "Q847501": "Pomec císařský (Pomacanthus imperator)",
+   "Q855167": "Tetra měděná (Hasemania nana)"
+  }
+ },
+ {
+  "id": "Q211316#3",
+  "species": "Jeseter malý",
+  "latin": "Acipenser ruthenus",
+  "text": "Dožívá se až 27 let.",
+  "quote": "Nejvyšší zaznamenaný věk byl 27 let.",
+  "claimed_false_for": {
+   "Q1697113": "Pancéřníček smaragdový (Brochis splendens)",
+   "Q3541": "Skalára vysoká (Pterophyllum altum)",
+   "Q855167": "Tetra měděná (Hasemania nana)"
+  }
+ },
+ {
+  "id": "Q2124700#0",
+  "species": "Zploštělec dlouhohlavý",
+  "latin": "Papilloculiceps longiceps",
+  "text": "Hlavní potravou jsou menší ryby.",
+  "quote": "Hlavní součástí jídelníčku jsou menší ryby.",
+  "claimed_false_for": {
+   "Q1954062": "Chňapálek různopruhý (Caesio varilineata)",
+   "Q2192025": "Chňapálek modrožlutý (Caesio teres)",
+   "Q2394320": "Limie strakatá (Limia vittata)",
+   "Q629430": "Tetra krvavá (Hyphessobrycon eques)",
+   "Q934761": "Vlkouš obecný (Anarhichas lupus)"
+  }
+ },
+ {
+  "id": "Q2124700#1",
+  "species": "Zploštělec dlouhohlavý",
+  "latin": "Papilloculiceps longiceps",
+  "text": "Loví ze zálohy a má velkou tlamu.",
+  "quote": "Je to dravá ryba s velkou tlamou lovící ze zálohy.",
+  "claimed_false_for": {
+   "Q1954062": "Chňapálek různopruhý (Caesio varilineata)",
+   "Q2192025": "Chňapálek modrožlutý (Caesio teres)",
+   "Q2394320": "Limie strakatá (Limia vittata)",
+   "Q629430": "Tetra krvavá (Hyphessobrycon eques)"
+  }
+ },
+ {
+  "id": "Q212552#0",
+  "species": "Úhořovec mořský",
+  "latin": "Conger conger",
+  "text": "Má jedovatou krev.",
+  "quote": "Jeho krev je jedovatá.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q212552#1",
+  "species": "Úhořovec mořský",
+  "latin": "Conger conger",
+  "text": "Bývá dlouhý okolo 150 cm.",
+  "quote": "Bývá dlouhý okolo 150 cm",
+  "claimed_false_for": {
+   "Q1021931": "Chňapálek zlatohřbetý (Caesio xanthonota)",
+   "Q2217479": "Útesník indopacifický (Abudefduf vaigiensis)",
+   "Q2330446": "Odranec pravý (السمكة الصخرية المرجانية)",
+   "Q469754": "Okoun žlutý (Perca flavescens)",
+   "Q77062": "Vřeténka mandarín (Synchiropus splendidus)"
+  }
+ },
+ {
+  "id": "Q2131058#0",
+  "species": "Ropušnička kolébavá",
+  "latin": "Ablabys taenianotus",
+  "text": "Živí se malými krevetami a dalšími drobnými korýši.",
+  "quote": "Živí se malými krevetami a dalšími drobnými korýši.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q2131058#1",
+  "species": "Ropušnička kolébavá",
+  "latin": "Ablabys taenianotus",
+  "text": "Trny hřbetní ploutve jsou jedovaté.",
+  "quote": "Trny hřbetní ploutve jsou jedovaté.",
+  "claimed_false_for": {
+   "Q1139189": "Ostenec oranžovoproužkatý (Balistapus undulatus)",
+   "Q1162971": "Plata skvrnitá (Xiphophorus maculatus)",
+   "Q1543756": "Muréna šedá (Gymnothorax griseus)",
+   "Q1755989": "Ďas americký (Lophius americanus)",
+   "Q201235": "Paúhoř elektrický (Electrophorus electricus)",
+   "Q206507": "Tetra citronová (Hyphessobrycon pulchripinnis)",
+   "Q3233194": "Pražman velkooký (Calamus calamus)",
+   "Q522309": "Útesník Lorenzův (Abudefduf lorenzi)",
+   "Q723654": "Siven americký (Salvelinus fontinalis)",
+   "Q827441": "Skalára amazonská (Pterophyllum scalare)"
+  }
+ },
+ {
+  "id": "Q21325605#0",
+  "species": "Mbuna černosiná",
+  "latin": "Pseudotropheus cyaneorhabdos",
+  "text": "Dorůst může do délky 7,5 centimetru.",
+  "quote": "Tento druh může dorůst do délky 7,5 centimetru.",
+  "claimed_false_for": {
+   "Q258797": "Tlamovec černoploutvý (Labidochromis caeruleus)",
+   "Q2692345": "Chňapal americký (Lutjanus analis)",
+   "Q272188": "Mečovka mexická (Xiphophorus hellerii)",
+   "Q3442": "Vrubozubec paví (Astronotus ocellatus)",
+   "Q491934": "Kaproun obecný (Amia calva)",
+   "Q522309": "Útesník Lorenzův (Abudefduf lorenzi)",
+   "Q592469": "Útesník Höflerův (Abudefduf hoefleri)",
+   "Q690512": "Havýš čtyřhranný (Tetrosomus gibbosus)",
+   "Q827441": "Skalára amazonská (Pterophyllum scalare)"
+  }
+ },
+ {
+  "id": "Q21325605#1",
+  "species": "Mbuna černosiná",
+  "latin": "Pseudotropheus cyaneorhabdos",
+  "text": "Žije jen v jezeře Malawi, kolem ostrova Likoma.",
+  "quote": "endemický v jezeře Malawi, kde je znám pouze z okolí ostrova Likoma",
+  "claimed_false_for": {
+   "Q1340577": "Živorodka Wingeova (Poecilia wingei)",
+   "Q178523": "Neonka zelená (Hemigrammus hyanuary)",
+   "Q258797": "Tlamovec černoploutvý (Labidochromis caeruleus)",
+   "Q2692345": "Chňapal americký (Lutjanus analis)",
+   "Q272188": "Mečovka mexická (Xiphophorus hellerii)",
+   "Q3442": "Vrubozubec paví (Astronotus ocellatus)",
+   "Q491934": "Kaproun obecný (Amia calva)",
+   "Q522309": "Útesník Lorenzův (Abudefduf lorenzi)",
+   "Q5559787": "Skifie žlutá (Skiffia francesae)",
+   "Q592469": "Útesník Höflerův (Abudefduf hoefleri)",
+   "Q690512": "Havýš čtyřhranný (Tetrosomus gibbosus)",
+   "Q827441": "Skalára amazonská (Pterophyllum scalare)"
+  }
+ },
+ {
+  "id": "Q2137399#0",
+  "species": "Hadohlavec duhový",
+  "latin": "Channa bleheri",
+  "text": "Pochází z indického Ásámu, z povodí řeky Brahmaputry.",
+  "quote": "Pochází z indického Ásámu, z povodí řeky Brahmaputry.",
+  "claimed_false_for": {
+   "Q1204162": "Kanic tukula (Epinephelus tukula)",
+   "Q139544": "Bojovnice bělolemá (Betta albimarginata)",
+   "Q1536867": "Čichavec tmavohnědý (Sphaerichthys osphromenoides)",
+   "Q1543723": "Peřovec černobřichý (Synodontis nigriventris)",
+   "Q201235": "Paúhoř elektrický (Electrophorus electricus)",
+   "Q206507": "Tetra citronová (Hyphessobrycon pulchripinnis)",
+   "Q2688707": "Klipka rudoskvrnná (Chaetodon paucifasciatus)",
+   "Q549": "Bojovnice pestrá (Betta splendens)",
+   "Q782345": "Bahník australský (Neoceratodus forsteri)",
+   "Q841996": "Štíhlotělka stříkavá (Copella arnoldi)",
+   "Q943624": "Vrčivka trpasličí (Trichopsis pumila)"
+  }
+ },
+ {
+  "id": "Q2137399#1",
+  "species": "Hadohlavec duhový",
+  "latin": "Channa bleheri",
+  "text": "Umí vyskočit i z dobře zakrytého akvária.",
+  "quote": "Hadohlavci jsou schopni vyskočit i z dobře zakrytého akvária.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q214034#0",
+  "species": "Platýs bradavičnatý",
+  "latin": "Platichthys flesus",
+  "text": "Dospělí jedinci se živí plži, mlži, červy a malými rybami.",
+  "quote": "dospělí jedinci se živí plži a mlži s měkkými ulitami, červy, drobnými korýši a malými rybami",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q214034#1",
+  "species": "Platýs bradavičnatý",
+  "latin": "Platichthys flesus",
+  "text": "Samice klade až 2 000 000 jiker.",
+  "quote": "Samice klade od 100 000 do 2 000 000 jiker.",
+  "claimed_false_for": {
+   "Q1760196": "Pestřenec očkatý (Lamprologus ocellatus)",
+   "Q2728272": "Ostrozubka desetiskvrnná (Cnesterodon decemmaculatus)",
+   "Q3761965": "Pancéřníček napský (Corydoras napoensis)",
+   "Q519849": "Tetra černá (Gymnocorymbus ternetzi)",
+   "Q741269": "Pancéřníček zelený (Corydoras aeneus)",
+   "Q752178": "Blatňák tmavý (Umbra krameri)",
+   "Q943624": "Vrčivka trpasličí (Trichopsis pumila)"
+  }
+ },
+ {
+  "id": "Q214278#0",
+  "species": "Střevle potoční",
+  "latin": "Phoxinus phoxinus",
+  "text": "Dožívá se v průměru 5 let.",
+  "quote": "Dožívá se v průměru 5 let.",
+  "claimed_false_for": {
+   "Q265783": "Saramugo španělský (Anaecypris hispanica)"
+  }
+ },
+ {
+  "id": "Q214278#1",
+  "species": "Střevle potoční",
+  "latin": "Phoxinus phoxinus",
+  "text": "Dorůstá asi 10 cm.",
+  "quote": "V průměru dorůstá 10 cm, výjimečně až 13 cm.",
+  "claimed_false_for": {
+   "Q169444": "Dánio pruhované (Danio rerio)",
+   "Q2702953": "Razborka bornejská (Boraras brigittae)",
+   "Q28599938": "Razbora Espeho (Trigonostigma espei)",
+   "Q81110": "Kapr obecný (Cyprinus carpio)",
+   "Q928382": "Piraňa červená (Pygocentrus nattereri)"
+  }
+ },
+ {
+  "id": "Q214278#2",
+  "species": "Střevle potoční",
+  "latin": "Phoxinus phoxinus",
+  "text": "Jí hmyz, měkkýše, korýše a řasy.",
+  "quote": "Hlavním zdrojem potravy je zoobentos, náletový hmyz, měkkýši, korýši, řasy a v neposlední řadě i detrit.",
+  "claimed_false_for": {
+   "Q182894": "Bolen dravý (Aspius aspius)",
+   "Q5084535": "Ještěrohlavec hlubokomořský (Bathysaurus ferox)"
+  }
+ },
+ {
+  "id": "Q214278#3",
+  "species": "Střevle potoční",
+  "latin": "Phoxinus phoxinus",
+  "text": "Žije v hejnech.",
+  "quote": "Jedná se o typicky hejnovou rybu.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q2143094#2",
+  "species": "Broník obrněný",
+  "latin": "Agonus cataphractus",
+  "text": "Tento druh se živí drobnými korýši, malými rybkami u dna a červy.",
+  "quote": "Broník obrněný se živí drobnými korýši, malými rybkami, které žijí u dna, či červy.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q2143094#3",
+  "species": "Broník obrněný",
+  "latin": "Agonus cataphractus",
+  "text": "Klade jikry na chaluhy.",
+  "quote": "Samička vystoupí do mělčích vod, kde naklade chomáčky jiker na vodní rostliny – chaluhy.",
+  "claimed_false_for": {
+   "Q166812": "Okoun říční (Perca fluviatilis)",
+   "Q2394320": "Limie strakatá (Limia vittata)",
+   "Q311673": "Kujaba brazilská (Salminus brasiliensis)",
+   "Q629430": "Tetra krvavá (Hyphessobrycon eques)",
+   "Q782345": "Bahník australský (Neoceratodus forsteri)",
+   "Q931839": "Drsek rhonský (Zingel asper)"
+  }
+ },
+ {
+  "id": "Q2148124#0",
+  "species": "Klipka žebrovaná",
+  "latin": "Chaetodon austriacus",
+  "text": "Živí se korálovými polypy.",
+  "quote": "Živí se korálovými polypy, které vykusuje.",
+  "claimed_false_for": {
+   "Q1136303": "Živorodka zlatá (Poecilia gillii)",
+   "Q1140081": "Úhoř japonský (Anguilla japonica)",
+   "Q1440363": "Mlokovka mlokovitá (Lepidogalaxias salamandroides)",
+   "Q2157453": "Kranas americký (Seriola lalandi)",
+   "Q2170401": "Plata Couchova (Xiphophorus couchianus)",
+   "Q5240255": "Hladinovka čtyřoká (Anableps anableps)",
+   "Q575704": "Kranas Dumerilův (Seriola dumerili)",
+   "Q752178": "Blatňák tmavý (Umbra krameri)",
+   "Q81964": "Hřebeník velký (Ophiodon elongatus)",
+   "Q852229": "Keříčkovec žabí (Clarias batrachus)"
+  }
+ },
+ {
+  "id": "Q2148124#1",
+  "species": "Klipka žebrovaná",
+  "latin": "Chaetodon austriacus",
+  "text": "Žije pouze v Rudém moři, na korálových útesech.",
+  "quote": "Jejím domovem je pouze Rudé moře, kde žije na korálových útesech.",
+  "claimed_false_for": {
+   "Q1043491": "Pyskoun žlutolící (Choerodon anchorago)",
+   "Q1136303": "Živorodka zlatá (Poecilia gillii)",
+   "Q1140081": "Úhoř japonský (Anguilla japonica)",
+   "Q1440363": "Mlokovka mlokovitá (Lepidogalaxias salamandroides)",
+   "Q2157453": "Kranas americký (Seriola lalandi)",
+   "Q2170401": "Plata Couchova (Xiphophorus couchianus)",
+   "Q5240255": "Hladinovka čtyřoká (Anableps anableps)",
+   "Q575704": "Kranas Dumerilův (Seriola dumerili)",
+   "Q752178": "Blatňák tmavý (Umbra krameri)",
+   "Q81964": "Hřebeník velký (Ophiodon elongatus)",
+   "Q852229": "Keříčkovec žabí (Clarias batrachus)"
+  }
+ },
+ {
+  "id": "Q2156896#0",
+  "species": "Hadař příčnopruhý",
+  "latin": "Myrichthys colubrinus",
+  "text": "Dorůstá do délky kolem 88 až 97 cm.",
+  "quote": "Dorůstají délky kolem 88–97 cm.",
+  "claimed_false_for": {
+   "Q1021931": "Chňapálek zlatohřbetý (Caesio xanthonota)",
+   "Q2330446": "Odranec pravý (السمكة الصخرية المرجانية)",
+   "Q77062": "Vřeténka mandarín (Synchiropus splendidus)"
+  }
+ },
+ {
+  "id": "Q2156896#1",
+  "species": "Hadař příčnopruhý",
+  "latin": "Myrichthys colubrinus",
+  "text": "Dospělí žijí v písečných mělčinách a podmořské vegetaci.",
+  "quote": "Dospělí jedinci žijí obvykle v písečných mělčinách a podmořské vegetaci.",
+  "claimed_false_for": {
+   "Q1460026": "Binga tygří (Hydrocynus goliath)",
+   "Q192285": "Měsíčník svítivý (Mola mola)",
+   "Q269781": "Tuňák žlutoploutvý (Thunnus albacares)",
+   "Q469754": "Okoun žlutý (Perca flavescens)",
+   "Q728584": "Baramundi malajský (Scleropages formosus)"
+  }
+ },
+ {
+  "id": "Q2157453#4",
+  "species": "Kranas americký",
+  "latin": "Seriola lalandi",
+  "text": "Žere hlavně jiné ryby, například sledi nebo makrely.",
+  "quote": "Kranas americký žere hlavně jiné druhy ryb, jako jsou sledi nebo makrely",
+  "claimed_false_for": {
+   "Q1771943": "Gurama velká (Osphronemus goramy)",
+   "Q177832": "Živorodka ostrotlamá (Poecilia sphenops)",
+   "Q1930449": "Gambusie Holbrookova (Gambusia holbrooki)",
+   "Q24049404": "Čichavec pyskatý (Trichogaster labiosa)",
+   "Q258797": "Tlamovec černoploutvý (Labidochromis caeruleus)",
+   "Q5746147": "Rypoun zobanitý (Campylomormyrus rhynchophorus)"
+  }
+ },
+ {
+  "id": "Q2157453#5",
+  "species": "Kranas americký",
+  "latin": "Seriola lalandi",
+  "text": "Žralok bílý a lachtan kalifornský patří mezi jeho přirozené nepřátele.",
+  "quote": "Mezi přirozené nepřátele patří například žralok bílý (Carcharodon carcharias) či lachtan kalifornský (Zalophus californianus)",
+  "claimed_false_for": {
+   "Q145409": "Arapaima velká (Arapaima gigas)",
+   "Q1771943": "Gurama velká (Osphronemus goramy)",
+   "Q177832": "Živorodka ostrotlamá (Poecilia sphenops)",
+   "Q1930449": "Gambusie Holbrookova (Gambusia holbrooki)",
+   "Q24049404": "Čichavec pyskatý (Trichogaster labiosa)",
+   "Q258797": "Tlamovec černoploutvý (Labidochromis caeruleus)",
+   "Q512042": "Bahník západoafrický (Protopterus annectens)",
+   "Q5432290": "Nožovec velký (Chitala chitala)",
+   "Q5746147": "Rypoun zobanitý (Campylomormyrus rhynchophorus)"
+  }
+ },
+ {
+  "id": "Q2162265#0",
+  "species": "Útesník stejnobarvý",
+  "latin": "Abudefduf concolor",
+  "text": "Tento druh je všežravý.",
+  "quote": "Jsou všežraví.",
+  "claimed_false_for": {
+   "Q2692345": "Chňapal americký (Lutjanus analis)",
+   "Q491934": "Kaproun obecný (Amia calva)"
+  }
+ },
+ {
+  "id": "Q2162265#1",
+  "species": "Útesník stejnobarvý",
+  "latin": "Abudefduf concolor",
+  "text": "Samec se stará o vejce.",
+  "quote": "o přisedlá vejce se stará samec",
+  "claimed_false_for": {
+   "Q212552": "Úhořovec mořský (Conger conger)",
+   "Q21325605": "Mbuna černosiná (Pseudotropheus cyaneorhabdos)",
+   "Q2165517": "Klipka čtyřoká (Chaetodon capistratus)",
+   "Q465261": "Chanos stříbřitý (Chanos chanos)",
+   "Q794342": "Tlamovec Fryerův (Sciaenochromis fryeri)",
+   "Q855167": "Tetra měděná (Hasemania nana)"
+  }
+ },
+ {
+  "id": "Q2164550#0",
+  "species": "Chňapálek rudomořský",
+  "latin": "Caesio suevica",
+  "text": "Živí se zooplanktonem.",
+  "quote": "Živí se zooplanktonem",
+  "claimed_false_for": {
+   "Q128785": "Bodlok běloprsý (Acanthurus leucosternon)",
+   "Q1920243": "Kanic itajara (Epinephelus itajara)",
+   "Q5432290": "Nožovec velký (Chitala chitala)"
+  }
+ },
+ {
+  "id": "Q2164550#1",
+  "species": "Chňapálek rudomořský",
+  "latin": "Caesio suevica",
+  "text": "Obývá hlavně korálové útesy.",
+  "quote": "obývá pobřežní oblasti, převážně korálové útesy",
+  "claimed_false_for": {
+   "Q192285": "Měsíčník svítivý (Mola mola)",
+   "Q203572": "Koljuška tříostná (Gasterosteus aculeatus)",
+   "Q2170401": "Plata Couchova (Xiphophorus couchianus)",
+   "Q3753597": "Mečovka tmavá (Xiphophorus nigrensis)",
+   "Q74411": "Lates stříbřitý (Lates calcarifer)",
+   "Q748495": "Vranka pruhoploutvá (Cottus poecilopus)",
+   "Q842647": "Mořčák pruhovaný (Morone saxatilis)",
+   "Q882185": "Ostnáč jednovousý (Monocirrhus polyacanthus)"
+  }
+ },
+ {
+  "id": "Q2165517#0",
+  "species": "Klipka čtyřoká",
+  "latin": "Chaetodon capistratus",
+  "text": "Většinu potravy tvoří drobní bezobratlí.",
+  "quote": "většinu jejich potravy tvoří drobní bezobratlí živočichové",
+  "claimed_false_for": {
+   "Q2157453": "Kranas americký (Seriola lalandi)",
+   "Q575704": "Kranas Dumerilův (Seriola dumerili)"
+  }
+ },
+ {
+  "id": "Q2165517#1",
+  "species": "Klipka čtyřoká",
+  "latin": "Chaetodon capistratus",
+  "text": "Vytváří páry na celý život.",
+  "quote": "vytváří páry na celý život",
+  "claimed_false_for": {}
+ }
+]

@@ -1,0 +1,120 @@
+[
+ {
+  "id": "Q1342327#0",
+  "species": "Rez travní",
+  "latin": "Puccinia graminis",
+  "text": "Parazituje na obilí a na dřišťálu.",
+  "quote": "které parazituje na obilí a na dřišťálu",
+  "claimed_false_for": {
+   "Q1430040": "Sněť kukuřičná (Ustilago maydis)",
+   "Q1439264": "Rez slézová (Puccinia malvacearum)",
+   "Q1602264": "Rez vrbková (Pucciniastrum epilobii)",
+   "Q449430": "Rez hrušňová (Gymnosporangium sabinae)"
+  }
+ },
+ {
+  "id": "Q1439264#0",
+  "species": "Rez slézová",
+  "latin": "Puccinia malvacearum",
+  "text": "Tvoří hnědé plodnice na spodní straně listů.",
+  "quote": "Hnědé rzivé plodnice bývají na spodní straně listů.",
+  "claimed_false_for": {
+   "Q1430040": "Sněť kukuřičná (Ustilago maydis)"
+  }
+ },
+ {
+  "id": "Q1439264#2",
+  "species": "Rez slézová",
+  "latin": "Puccinia malvacearum",
+  "text": "Napadá proskurník topolovku.",
+  "quote": "který napadá proskurník topolovku (Althaea rosea)",
+  "claimed_false_for": {
+   "Q1342327": "Rez travní (Puccinia graminis)",
+   "Q1430040": "Sněť kukuřičná (Ustilago maydis)",
+   "Q1602264": "Rez vrbková (Pucciniastrum epilobii)",
+   "Q449430": "Rez hrušňová (Gymnosporangium sabinae)"
+  }
+ },
+ {
+  "id": "Q2301438#1",
+  "species": "Rez vejmutovková",
+  "latin": "Cronartium ribicola",
+  "text": "Žije na dvou různých rostlinách, na borovici a na rybízu.",
+  "quote": "je dvoubytná rez, napadající pětijehličné druhy borovic a hostující na druzích rodu Ribes, nejčastěji na černém rybízu",
+  "claimed_false_for": {
+   "Q1342327": "Rez travní (Puccinia graminis)",
+   "Q1430040": "Sněť kukuřičná (Ustilago maydis)",
+   "Q1439264": "Rez slézová (Puccinia malvacearum)",
+   "Q1602264": "Rez vrbková (Pucciniastrum epilobii)",
+   "Q449430": "Rez hrušňová (Gymnosporangium sabinae)"
+  }
+ },
+ {
+  "id": "Q2301438#2",
+  "species": "Rez vejmutovková",
+  "latin": "Cronartium ribicola",
+  "text": "Spory přenáší vítr na listy rybízu.",
+  "quote": "Aecidiospory vítr přenáší během května na listy rybízu.",
+  "claimed_false_for": {
+   "Q1342327": "Rez travní (Puccinia graminis)",
+   "Q1430040": "Sněť kukuřičná (Ustilago maydis)",
+   "Q1439264": "Rez slézová (Puccinia malvacearum)",
+   "Q1602264": "Rez vrbková (Pucciniastrum epilobii)",
+   "Q449430": "Rez hrušňová (Gymnosporangium sabinae)"
+  }
+ },
+ {
+  "id": "Q2301438#3",
+  "species": "Rez vejmutovková",
+  "latin": "Cronartium ribicola",
+  "text": "Tvoří na větvích borovic nápadná oteklá místa.",
+  "quote": "Na větvích a kmenech se do roka tvoří nápadné zduřeniny.",
+  "claimed_false_for": {
+   "Q1342327": "Rez travní (Puccinia graminis)",
+   "Q1430040": "Sněť kukuřičná (Ustilago maydis)",
+   "Q1439264": "Rez slézová (Puccinia malvacearum)",
+   "Q1602264": "Rez vrbková (Pucciniastrum epilobii)",
+   "Q449430": "Rez hrušňová (Gymnosporangium sabinae)"
+  }
+ },
+ {
+  "id": "Q449430#2",
+  "species": "Rez hrušňová",
+  "latin": "Gymnosporangium sabinae",
+  "text": "Vytváří na jaře na jalovcích oranžovožluté rosolovité výrůstky.",
+  "quote": "Na jaře, v dubnu až květnu vyrůstají na borce větví jalovců zprvu rosolovité oranžovožluté útvary",
+  "claimed_false_for": {
+   "Q1342327": "Rez travní (Puccinia graminis)",
+   "Q1430040": "Sněť kukuřičná (Ustilago maydis)",
+   "Q1439264": "Rez slézová (Puccinia malvacearum)",
+   "Q1602264": "Rez vrbková (Pucciniastrum epilobii)",
+   "Q2301438": "Rez vejmutovková (Cronartium ribicola)"
+  }
+ },
+ {
+  "id": "Q449430#5",
+  "species": "Rez hrušňová",
+  "latin": "Gymnosporangium sabinae",
+  "text": "Přezimuje na jalovcích.",
+  "quote": "Houba přezimuje v podhoubí na jalovcích.",
+  "claimed_false_for": {
+   "Q1342327": "Rez travní (Puccinia graminis)",
+   "Q1430040": "Sněť kukuřičná (Ustilago maydis)",
+   "Q1439264": "Rez slézová (Puccinia malvacearum)",
+   "Q1602264": "Rez vrbková (Pucciniastrum epilobii)"
+  }
+ },
+ {
+  "id": "Q449430#6",
+  "species": "Rez hrušňová",
+  "latin": "Gymnosporangium sabinae",
+  "text": "Tvoří na větvičkách jalovců zduřeniny.",
+  "quote": "Na jalovcích se tvoří zduřeniny až znetvořeniny větviček",
+  "claimed_false_for": {
+   "Q1342327": "Rez travní (Puccinia graminis)",
+   "Q1430040": "Sněť kukuřičná (Ustilago maydis)",
+   "Q1439264": "Rez slézová (Puccinia malvacearum)",
+   "Q1602264": "Rez vrbková (Pucciniastrum epilobii)"
+  }
+ }
+]

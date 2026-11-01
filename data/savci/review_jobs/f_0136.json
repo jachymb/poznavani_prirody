@@ -1,0 +1,596 @@
+[
+ {
+  "id": "Q20085878#1",
+  "species": "Luskoun velký",
+  "latin": "Smutsia gigantea",
+  "text": "Při nebezpečí se stočí kolem mláděte a zabalí ho na břiše.",
+  "quote": "Pokud je mládě ohrožené, dokáže se stočit kolem něj a zabalí ho na břiše.",
+  "claimed_false_for": {
+   "Q1042139": "Pásovec štětinatý (Chaetophractus villosus)",
+   "Q1764906": "Pásovec krátkouchý (Cabassous chacoensis)",
+   "Q203033": "Mravenečník velký (Myrmecophaga tridactyla)",
+   "Q244043": "Mravenečník dvouprstý (Cyclopes didactylus)",
+   "Q649549": "Pásovec devítipásý (Dasypus novemcinctus)",
+   "Q752691": "Lenochod dvouprstý (Choloepus didactylus)",
+   "Q902876": "Pásovec šestipásý (Euphractus sexcinctus)",
+   "Q968416": "Pláštník velký (Calyptophractus retusus)"
+  }
+ },
+ {
+  "id": "Q201808#1",
+  "species": "Plejtvák malý",
+  "latin": "Balaenoptera acutorostrata",
+  "text": "Žije hlavně v mírných až chladných vodách.",
+  "quote": "Je velmi rozšířen, nejvíce však ve vodách mírných až chladných.",
+  "claimed_false_for": {
+   "Q844420": "Dikobraz jihoafrický (Hystrix africaeaustralis)"
+  }
+ },
+ {
+  "id": "Q203897#4",
+  "species": "Plískavice šedá",
+  "latin": "Grampus griseus",
+  "text": "Jizvy může někdy způsobit žraloček brazilský.",
+  "quote": "Někdy může být na vině i žraloček brazilský.",
+  "claimed_false_for": {
+   "Q273580": "Antilopa čtyřrohá (Tetracerus quadricornis)"
+  }
+ },
+ {
+  "id": "Q206273#5",
+  "species": "Kalimiko",
+  "latin": "Callimico goeldii",
+  "text": "Tvoří společné skupiny s tamaríny.",
+  "quote": "vytvářejí mezidruhové asociace s jinými drápkatými opicemi, zejména s tamaríny",
+  "claimed_false_for": {
+   "Q738925": "Makak ásámský (Macaca assamensis)"
+  }
+ },
+ {
+  "id": "Q207744#0",
+  "species": "Kulohlavec černý",
+  "latin": "Globicephala melas",
+  "text": "Tvoří početné skupiny až o stovkách jedinců.",
+  "quote": "Sdružují se v početných skupinách až o stovkách jedinců.",
+  "claimed_false_for": {
+   "Q844420": "Dikobraz jihoafrický (Hystrix africaeaustralis)"
+  }
+ },
+ {
+  "id": "Q209132#0",
+  "species": "Klokan pralesní",
+  "latin": "Dendrolagus bennettianus",
+  "text": "Žije jen na velmi malém území v Austrálii.",
+  "quote": "se vyskytuje pouze na velmi malém území Austrálie",
+  "claimed_false_for": {
+   "Q183489": "Klokan Doriův (Dendrolagus dorianus)",
+   "Q209139": "Klokan medvědí (Dendrolagus ursinus)",
+   "Q209581": "Klokan Goodfellowův (Dendrolagus goodfellowi)",
+   "Q270098": "Klokan obrovský (Macropus giganteus)",
+   "Q735179": "Klokan bažinný (Wallabia bicolor)"
+  }
+ },
+ {
+  "id": "Q209132#2",
+  "species": "Klokan pralesní",
+  "latin": "Dendrolagus bennettianus",
+  "text": "Živí se hlavně listy stromů.",
+  "quote": "Živí se převážně listy",
+  "claimed_false_for": {
+   "Q209117": "Klokan Rothschildův (Petrogale rothschildi)",
+   "Q270098": "Klokan obrovský (Macropus giganteus)",
+   "Q275608": "Klokánek krysí (Potorous tridactylus)",
+   "Q639089": "Klokan pruhovaný (Lagorchestes conspicillatus)"
+  }
+ },
+ {
+  "id": "Q209134#0",
+  "species": "Kuskus pozemní",
+  "latin": "Phalanger gymnotis",
+  "text": "Ocas mu pomáhá snadno přecházet ze stromu na strom.",
+  "quote": "umožňuje snadný přesun ze stromu na strom pro potravu.",
+  "claimed_false_for": {
+   "Q109262310": "Klokan vraný (Osphranter bernardus)"
+  }
+ },
+ {
+  "id": "Q209134#1",
+  "species": "Kuskus pozemní",
+  "latin": "Phalanger gymnotis",
+  "text": "Žije jen na Nové Guinei a na Aruských ostrovech.",
+  "quote": "je endemitem Nové Guiney a Aruských ostrovů.",
+  "claimed_false_for": {
+   "Q109262310": "Klokan vraný (Osphranter bernardus)",
+   "Q209132": "Klokan pralesní (Dendrolagus bennettianus)"
+  }
+ },
+ {
+  "id": "Q209139#0",
+  "species": "Klokan medvědí",
+  "latin": "Dendrolagus ursinus",
+  "text": "Tento druh je aktivní po setmění.",
+  "quote": "Aktivní je po setmění a živí se listím a plody",
+  "claimed_false_for": {
+   "Q1251864": "Svišť tarbagan (Marmota sibirica)",
+   "Q193683": "Velryba černá (Eubalaena glacialis)"
+  }
+ },
+ {
+  "id": "Q209139#1",
+  "species": "Klokan medvědí",
+  "latin": "Dendrolagus ursinus",
+  "text": "Žije jen v tropických horských lesích.",
+  "quote": "Přežívá pouze v tropických horských lesích",
+  "claimed_false_for": {
+   "Q109262310": "Klokan vraný (Osphranter bernardus)",
+   "Q109262313": "Klokan hbitý (Notamacropus agilis)",
+   "Q116250826": "Klokan antilopí (Osphranter antilopinus)",
+   "Q1251864": "Svišť tarbagan (Marmota sibirica)",
+   "Q1764140": "Vakoplch drobný (Cercartetus nanus)",
+   "Q193683": "Velryba černá (Eubalaena glacialis)",
+   "Q209117": "Klokan Rothschildův (Petrogale rothschildi)",
+   "Q209291": "Klokan rudoboký (Thylogale billardierii)",
+   "Q209594": "Klokan znamenaný (Thylogale stigmatica)",
+   "Q210070": "Klokánek králíkovitý (Bettongia penicillata)",
+   "Q270098": "Klokan obrovský (Macropus giganteus)",
+   "Q275608": "Klokánek krysí (Potorous tridactylus)",
+   "Q639089": "Klokan pruhovaný (Lagorchestes conspicillatus)",
+   "Q668004": "Vakovec létavý (Petauroides volans)",
+   "Q726151": "Klokan quokka (Setonix brachyurus)",
+   "Q735179": "Klokan bažinný (Wallabia bicolor)"
+  }
+ },
+ {
+  "id": "Q209548#0",
+  "species": "Kuskus skvrnitý",
+  "latin": "Spilocuscus maculatus",
+  "text": "Živí se plody, listím i ptačími vejci.",
+  "quote": "Živí se v převážné míře plody, listím, s oblibou požírá i ptačí vejce a mláďata",
+  "claimed_false_for": {
+   "Q109262310": "Klokan vraný (Osphranter bernardus)",
+   "Q209132": "Klokan pralesní (Dendrolagus bennettianus)"
+  }
+ },
+ {
+  "id": "Q209620#0",
+  "species": "Klokan žlutoskvrnný",
+  "latin": "Dorcopsis luctuosa",
+  "text": "Žije na jihu a jihovýchodě ostrova Nová Guinea.",
+  "quote": "žije na jižní a jihovýchodní části ostrova Nová Guinea",
+  "claimed_false_for": {
+   "Q109262310": "Klokan vraný (Osphranter bernardus)",
+   "Q116250826": "Klokan antilopí (Osphranter antilopinus)",
+   "Q1251864": "Svišť tarbagan (Marmota sibirica)",
+   "Q1764140": "Vakoplch drobný (Cercartetus nanus)",
+   "Q193683": "Velryba černá (Eubalaena glacialis)",
+   "Q209117": "Klokan Rothschildův (Petrogale rothschildi)",
+   "Q209291": "Klokan rudoboký (Thylogale billardierii)",
+   "Q210070": "Klokánek králíkovitý (Bettongia penicillata)",
+   "Q270098": "Klokan obrovský (Macropus giganteus)",
+   "Q639089": "Klokan pruhovaný (Lagorchestes conspicillatus)",
+   "Q668004": "Vakovec létavý (Petauroides volans)",
+   "Q726151": "Klokan quokka (Setonix brachyurus)",
+   "Q735179": "Klokan bažinný (Wallabia bicolor)"
+  }
+ },
+ {
+  "id": "Q209620#1",
+  "species": "Klokan žlutoskvrnný",
+  "latin": "Dorcopsis luctuosa",
+  "text": "Samice obvykle vrhne jen jedno mládě.",
+  "quote": "Samice vrhá většinou jen jedno mládě.",
+  "claimed_false_for": {
+   "Q1251864": "Svišť tarbagan (Marmota sibirica)",
+   "Q1764140": "Vakoplch drobný (Cercartetus nanus)"
+  }
+ },
+ {
+  "id": "Q209660#0",
+  "species": "Klokan nenápadný",
+  "latin": "Petrogale mareeba",
+  "text": "Žije ve skalnatých oblastech západně od Cairns.",
+  "quote": "Klokan nenápadný se vyskytuje ve skalnatých oblastech západně od Cairns.",
+  "claimed_false_for": {
+   "Q109262310": "Klokan vraný (Osphranter bernardus)"
+  }
+ },
+ {
+  "id": "Q210165#0",
+  "species": "Possum Herbertův",
+  "latin": "Pseudochirulus herbertensis",
+  "text": "Je nočním zvířetem.",
+  "quote": "Je nočním zvířetem",
+  "claimed_false_for": {
+   "Q1251864": "Svišť tarbagan (Marmota sibirica)",
+   "Q193683": "Velryba černá (Eubalaena glacialis)",
+   "Q242419": "Mravencojed žíhaný (Myrmecobius fasciatus)"
+  }
+ },
+ {
+  "id": "Q210165#1",
+  "species": "Possum Herbertův",
+  "latin": "Pseudochirulus herbertensis",
+  "text": "Rodí většinou dvě mláďata.",
+  "quote": "Rodí většinou dvě mláďata",
+  "claimed_false_for": {
+   "Q109262313": "Klokan hbitý (Notamacropus agilis)",
+   "Q1134186": "Vombat severní (Lasiorhinus krefftii)",
+   "Q116250826": "Klokan antilopí (Osphranter antilopinus)",
+   "Q1251864": "Svišť tarbagan (Marmota sibirica)",
+   "Q193683": "Velryba černá (Eubalaena glacialis)",
+   "Q209117": "Klokan Rothschildův (Petrogale rothschildi)",
+   "Q210070": "Klokánek králíkovitý (Bettongia penicillata)",
+   "Q475449": "Vombat chluponosý (Lasiorhinus latifrons)",
+   "Q726151": "Klokan quokka (Setonix brachyurus)",
+   "Q732477": "Kusu liščí (Trichosurus vulpecula)",
+   "Q735179": "Klokan bažinný (Wallabia bicolor)"
+  }
+ },
+ {
+  "id": "Q2112320#0",
+  "species": "Los americký",
+  "latin": "Alces americanus",
+  "text": "Váží 200 až 825 kg, podle poddruhu.",
+  "quote": "Váha se pohybuje od 200 do 825 kg, záleží na poddruhu.",
+  "claimed_false_for": {
+   "Q122069": "Srnec obecný (Capreolus capreolus)",
+   "Q1414665": "Oviječ tmavý (Paradoxurus jerdoni)",
+   "Q1619009": "Serau himálajský (Capricornis thar)",
+   "Q168327": "Kozorožec horský (Capra ibex)",
+   "Q187943": "Vidloroh americký (Antilocapra americana)",
+   "Q213889": "Siamang (Symphalangus syndactylus)",
+   "Q24263188": "Tahr arabský (Arabitragus jayakari)",
+   "Q273565": "Voduška červená (Kobus leche)",
+   "Q275615": "Oribi (Ourebia ourebi)",
+   "Q300946": "Plískavice plochočelá (Lagenorhynchus obliquidens)",
+   "Q372169": "Jelínek vepří (Axis porcinus)",
+   "Q576112": "Ovce aljašská (Ovis dalli)",
+   "Q623389": "Skálolez skákavý (Oreotragus oreotragus)",
+   "Q623439": "Hirola (Beatragus hunteri)",
+   "Q646488": "Jelen lyrorohý (Rucervus eldii)",
+   "Q754947": "Kozorožec sibiřský (Capra sibirica)",
+   "Q756073": "Pekari bělobradý (Tayassu pecari)",
+   "Q756196": "Antilopa černouchá (Raphicerus melanotis)",
+   "Q927065": "Pudu jižní (Pudu puda)",
+   "Q938385": "Kančil jávský (Tragulus javanicus)"
+  }
+ },
+ {
+  "id": "Q2112320#1",
+  "species": "Los americký",
+  "latin": "Alces americanus",
+  "text": "Mláďata jsou na matkách závislá do 10 až 11 měsíců.",
+  "quote": "Mladí losi jsou na svých matkách závislí asi do 10 až 11 měsíců",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q214287#0",
+  "species": "Čepcol hřebenatý",
+  "latin": "Cystophora cristata",
+  "text": "Loví hlavně hlubinné ryby, korýše a krakatice.",
+  "quote": "kde loví hlavně hlubinné druhy ryb, korýšů a krakatic",
+  "claimed_false_for": {
+   "Q1422952": "Plch japonský (Glirulus japonicus)",
+   "Q185295": "Hyenka hřivnatá (Proteles cristata)",
+   "Q213047": "Kočka horská (Leopardus jacobita)",
+   "Q40994": "Mrož lední (Odobenus rosmarus)",
+   "Q626027": "Tuleň krabožravý (Lobodon carcinophaga)",
+   "Q646488": "Jelen lyrorohý (Rucervus eldii)",
+   "Q695199": "Tuleň havajský (Monachus schauinslandi)",
+   "Q775170": "Aguti zlatý (Dasyprocta leporina)",
+   "Q819985": "Lumík norský (Lemmus lemmus)"
+  }
+ },
+ {
+  "id": "Q214287#1",
+  "species": "Čepcol hřebenatý",
+  "latin": "Cystophora cristata",
+  "text": "Dožívá se až 35 let.",
+  "quote": "Čepcol se dožívá až 35 let.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q214287#2",
+  "species": "Čepcol hřebenatý",
+  "latin": "Cystophora cristata",
+  "text": "Tráví pod vodou kolem 90 % času na moři.",
+  "quote": "Při pobytu na moři tráví pod vodou kolem 90 % času.",
+  "claimed_false_for": {
+   "Q1422952": "Plch japonský (Glirulus japonicus)",
+   "Q185295": "Hyenka hřivnatá (Proteles cristata)",
+   "Q213047": "Kočka horská (Leopardus jacobita)",
+   "Q646488": "Jelen lyrorohý (Rucervus eldii)",
+   "Q775170": "Aguti zlatý (Dasyprocta leporina)",
+   "Q819985": "Lumík norský (Lemmus lemmus)"
+  }
+ },
+ {
+  "id": "Q214287#3",
+  "species": "Čepcol hřebenatý",
+  "latin": "Cystophora cristata",
+  "text": "Umí plavat hned po narození.",
+  "quote": "bezprostředně po vrhu již dokáží plavat",
+  "claimed_false_for": {
+   "Q1422952": "Plch japonský (Glirulus japonicus)",
+   "Q185295": "Hyenka hřivnatá (Proteles cristata)",
+   "Q213047": "Kočka horská (Leopardus jacobita)",
+   "Q626023": "Rypouš severní (Mirounga angustirostris)",
+   "Q646488": "Jelen lyrorohý (Rucervus eldii)",
+   "Q775170": "Aguti zlatý (Dasyprocta leporina)",
+   "Q7966": "Lachtan medvědí (Callorhinus ursinus)",
+   "Q819985": "Lumík norský (Lemmus lemmus)"
+  }
+ },
+ {
+  "id": "Q214287#4",
+  "species": "Čepcol hřebenatý",
+  "latin": "Cystophora cristata",
+  "text": "Kojí mláďata jen čtyři dny, nejkratší kojení mezi savci.",
+  "quote": "4 dny je vůbec nejkratší doba laktace mezi všemi savci.",
+  "claimed_false_for": {
+   "Q1422952": "Plch japonský (Glirulus japonicus)",
+   "Q149405": "Tuleň vousatý (Erignathus barbatus)",
+   "Q185295": "Hyenka hřivnatá (Proteles cristata)",
+   "Q208549": "Tuleň středomořský (Monachus monachus)",
+   "Q213047": "Kočka horská (Leopardus jacobita)",
+   "Q26913": "Tuleň obecný (Phoca vitulina)",
+   "Q333649": "Lachtan hřivnatý (Otaria flavescens)",
+   "Q379732": "Lachtan kalifornský (Zalophus californianus)",
+   "Q40994": "Mrož lední (Odobenus rosmarus)",
+   "Q432513": "Lachtan novozélandský (Phocarctos hookeri)",
+   "Q494968": "Tuleň pacifický (Phoca largha)",
+   "Q571449": "Lachtan antarktický (Arctocephalus gazella)",
+   "Q600654": "Tuleň karibský (Monachus tropicalis)",
+   "Q626023": "Rypouš severní (Mirounga angustirostris)",
+   "Q626027": "Tuleň krabožravý (Lobodon carcinophaga)",
+   "Q646488": "Jelen lyrorohý (Rucervus eldii)",
+   "Q695199": "Tuleň havajský (Monachus schauinslandi)",
+   "Q754895": "Tuleň pruhovaný (Histriophoca fasciata)",
+   "Q775170": "Aguti zlatý (Dasyprocta leporina)",
+   "Q7966": "Lachtan medvědí (Callorhinus ursinus)",
+   "Q819985": "Lumík norský (Lemmus lemmus)",
+   "Q832379": "Lachtan Forsterův (Arctocephalus forsteri)",
+   "Q837610": "Tuleň Rossův (Ommatophoca rossii)"
+  }
+ },
+ {
+  "id": "Q214287#5",
+  "species": "Čepcol hřebenatý",
+  "latin": "Cystophora cristata",
+  "text": "Má přirozené predátory, například medvěda ledního a kosatku.",
+  "quote": "K přirozeným predátorům patří medvěd lední, kosatka dravá a žralok malohlavý.",
+  "claimed_false_for": {
+   "Q333649": "Lachtan hřivnatý (Otaria flavescens)",
+   "Q600654": "Tuleň karibský (Monachus tropicalis)",
+   "Q626023": "Rypouš severní (Mirounga angustirostris)",
+   "Q626027": "Tuleň krabožravý (Lobodon carcinophaga)",
+   "Q695199": "Tuleň havajský (Monachus schauinslandi)",
+   "Q7966": "Lachtan medvědí (Callorhinus ursinus)",
+   "Q832379": "Lachtan Forsterův (Arctocephalus forsteri)",
+   "Q837610": "Tuleň Rossův (Ommatophoca rossii)"
+  }
+ },
+ {
+  "id": "Q215332#0",
+  "species": "Delfín pruhovaný",
+  "latin": "Stenella coeruleoalba",
+  "text": "Loví ryby, kalmáry a korýše ve skupinách.",
+  "quote": "Potravu – ryby, kalmáry a korýše – loví ve skupinách.",
+  "claimed_false_for": {
+   "Q844420": "Dikobraz jihoafrický (Hystrix africaeaustralis)"
+  }
+ },
+ {
+  "id": "Q215907#1",
+  "species": "Netopýr černý",
+  "latin": "Barbastella barbastellus",
+  "text": "Loví převážně v lesích.",
+  "quote": "Loví převážně v lesích, ale také se často objevují u lidských obydlí a zalétávají i do bytů.",
+  "claimed_false_for": {
+   "Q737766": "Netopýr pobřežní (Myotis dasycneme)"
+  }
+ },
+ {
+  "id": "Q22113538#3",
+  "species": "Nártoun západosundský",
+  "latin": "Cephalopachus bancanus",
+  "text": "Loví i menší obratlovce, například některé netopýry a ptáky.",
+  "quote": "menšími obratlovci, jako jsou některé druhy netopýrů, ptáků",
+  "claimed_false_for": {
+   "Q109262310": "Klokan vraný (Osphranter bernardus)"
+  }
+ },
+ {
+  "id": "Q24263188#0",
+  "species": "Tahr arabský",
+  "latin": "Arabitragus jayakari",
+  "text": "Žije na strmých skalnatých svazích pohoří Hajar.",
+  "quote": "Tahr arabský se vyskytuje na strmých skalnatých svazích pohoří Hajar v sultanátu Omán a Spojených arabských emirátech.",
+  "claimed_false_for": {
+   "Q122069": "Srnec obecný (Capreolus capreolus)",
+   "Q1414665": "Oviječ tmavý (Paradoxurus jerdoni)",
+   "Q160042": "Buvol africký (Syncerus caffer)",
+   "Q1619009": "Serau himálajský (Capricornis thar)",
+   "Q168327": "Kozorožec horský (Capra ibex)",
+   "Q183035": "Banteng (Bos javanicus)",
+   "Q187943": "Vidloroh americký (Antilocapra americana)",
+   "Q213889": "Siamang (Symphalangus syndactylus)",
+   "Q273565": "Voduška červená (Kobus leche)",
+   "Q275615": "Oribi (Ourebia ourebi)",
+   "Q300946": "Plískavice plochočelá (Lagenorhynchus obliquidens)",
+   "Q372169": "Jelínek vepří (Axis porcinus)",
+   "Q576112": "Ovce aljašská (Ovis dalli)",
+   "Q623389": "Skálolez skákavý (Oreotragus oreotragus)",
+   "Q623439": "Hirola (Beatragus hunteri)",
+   "Q646488": "Jelen lyrorohý (Rucervus eldii)",
+   "Q754947": "Kozorožec sibiřský (Capra sibirica)",
+   "Q756073": "Pekari bělobradý (Tayassu pecari)",
+   "Q756196": "Antilopa černouchá (Raphicerus melanotis)",
+   "Q927065": "Pudu jižní (Pudu puda)",
+   "Q938385": "Kančil jávský (Tragulus javanicus)"
+  }
+ },
+ {
+  "id": "Q24263188#1",
+  "species": "Tahr arabský",
+  "latin": "Arabitragus jayakari",
+  "text": "Žije sám nebo jen v malých skupinkách.",
+  "quote": "žije osaměle nebo jen v malých skupinkách",
+  "claimed_false_for": {
+   "Q160042": "Buvol africký (Syncerus caffer)",
+   "Q273565": "Voduška červená (Kobus leche)",
+   "Q300946": "Plískavice plochočelá (Lagenorhynchus obliquidens)",
+   "Q756073": "Pekari bělobradý (Tayassu pecari)"
+  }
+ },
+ {
+  "id": "Q24263188#2",
+  "species": "Tahr arabský",
+  "latin": "Arabitragus jayakari",
+  "text": "Potřebuje v létě pít každé dva nebo tři dny.",
+  "quote": "v létě potřebují pít každé dva nebo tři dny",
+  "claimed_false_for": {
+   "Q300946": "Plískavice plochočelá (Lagenorhynchus obliquidens)"
+  }
+ },
+ {
+  "id": "Q24263188#3",
+  "species": "Tahr arabský",
+  "latin": "Arabitragus jayakari",
+  "text": "Má pružná kopyta, která drží na hladkých skalách.",
+  "quote": "Kopyta tahrů jsou pružná, elastická jádra, která jim umožňují udržet se na hladkých skalách",
+  "claimed_false_for": {
+   "Q1414665": "Oviječ tmavý (Paradoxurus jerdoni)",
+   "Q213889": "Siamang (Symphalangus syndactylus)",
+   "Q300946": "Plískavice plochočelá (Lagenorhynchus obliquidens)"
+  }
+ },
+ {
+  "id": "Q244121#0",
+  "species": "Lenochod trpasličí",
+  "latin": "Bradypus pygmaeus",
+  "text": "Žije jen na malém ostrově u pobřeží Panamy.",
+  "quote": "Žije výhradně ve Střední Americe na malém ostrově Escudo de Veraguas, který se nachází u severovýchodního pobřeží Panamy.",
+  "claimed_false_for": {
+   "Q1042139": "Pásovec štětinatý (Chaetophractus villosus)",
+   "Q1052814": "Lenochod krátkokrký (Choloepus hoffmanni)",
+   "Q142715": "Lenochod tříprstý (Bradypus tridactylus)",
+   "Q148752": "Lenochod hnědokrký (Bradypus variegatus)",
+   "Q1764906": "Pásovec krátkouchý (Cabassous chacoensis)",
+   "Q1767476": "Pásovec jižní (Dasypus hybridus)",
+   "Q203033": "Mravenečník velký (Myrmecophaga tridactyla)",
+   "Q244043": "Mravenečník dvouprstý (Cyclopes didactylus)",
+   "Q267514": "Mravenečník čtyřprstý (Tamandua tetradactyla)",
+   "Q269728": "Luskoun ostrovní (Manis javanica)",
+   "Q275608": "Klokánek krysí (Potorous tridactylus)",
+   "Q28173098": "Luskoun dlouhoocasý (Phataginus tetradactyla)",
+   "Q608656": "Voduška abok (Kobus megaceros)",
+   "Q622878": "Tamarau (Bubalus mindorensis)",
+   "Q649549": "Pásovec devítipásý (Dasypus novemcinctus)",
+   "Q75070": "Pásovec kulovitý (Tolypeutes matacus)",
+   "Q752467": "Luskoun tlustoocasý (Manis crassicaudata)",
+   "Q752691": "Lenochod dvouprstý (Choloepus didactylus)",
+   "Q839675": "Mravenečník mexický (Tamandua mexicana)",
+   "Q902876": "Pásovec šestipásý (Euphractus sexcinctus)",
+   "Q968416": "Pláštník velký (Calyptophractus retusus)"
+  }
+ },
+ {
+  "id": "Q244121#1",
+  "species": "Lenochod trpasličí",
+  "latin": "Bradypus pygmaeus",
+  "text": "Dorůstá do délky 48 až 53 centimetrů.",
+  "quote": "Tento ochlupený savec bývá dlouhý 480 až 530 mm a vážívá od 2,5 do 3,5 kg.",
+  "claimed_false_for": {
+   "Q203033": "Mravenečník velký (Myrmecophaga tridactyla)",
+   "Q608656": "Voduška abok (Kobus megaceros)",
+   "Q622878": "Tamarau (Bubalus mindorensis)",
+   "Q752691": "Lenochod dvouprstý (Choloepus didactylus)"
+  }
+ },
+ {
+  "id": "Q244121#2",
+  "species": "Lenochod trpasličí",
+  "latin": "Bradypus pygmaeus",
+  "text": "Živí se hlavně listy, květy a plody stromů.",
+  "quote": "Jsou býložravci a živí se téměř výhradně listy, květy i plody stromů",
+  "claimed_false_for": {
+   "Q1764906": "Pásovec krátkouchý (Cabassous chacoensis)",
+   "Q1767476": "Pásovec jižní (Dasypus hybridus)",
+   "Q203033": "Mravenečník velký (Myrmecophaga tridactyla)",
+   "Q244043": "Mravenečník dvouprstý (Cyclopes didactylus)",
+   "Q267514": "Mravenečník čtyřprstý (Tamandua tetradactyla)",
+   "Q269728": "Luskoun ostrovní (Manis javanica)",
+   "Q275608": "Klokánek krysí (Potorous tridactylus)",
+   "Q28173098": "Luskoun dlouhoocasý (Phataginus tetradactyla)",
+   "Q649549": "Pásovec devítipásý (Dasypus novemcinctus)",
+   "Q75070": "Pásovec kulovitý (Tolypeutes matacus)",
+   "Q752467": "Luskoun tlustoocasý (Manis crassicaudata)",
+   "Q839675": "Mravenečník mexický (Tamandua mexicana)",
+   "Q968416": "Pláštník velký (Calyptophractus retusus)"
+  }
+ },
+ {
+  "id": "Q244121#3",
+  "species": "Lenochod trpasličí",
+  "latin": "Bradypus pygmaeus",
+  "text": "Tráví čas visením na stromech hřbetem dolů.",
+  "quote": "Svůj čas tráví na stromech zavěšeni za silné, ohnuté drápy visíce hřbetem dolů.",
+  "claimed_false_for": {
+   "Q1042139": "Pásovec štětinatý (Chaetophractus villosus)",
+   "Q1764906": "Pásovec krátkouchý (Cabassous chacoensis)",
+   "Q1767476": "Pásovec jižní (Dasypus hybridus)",
+   "Q203033": "Mravenečník velký (Myrmecophaga tridactyla)",
+   "Q275608": "Klokánek krysí (Potorous tridactylus)",
+   "Q608656": "Voduška abok (Kobus megaceros)",
+   "Q622878": "Tamarau (Bubalus mindorensis)",
+   "Q649549": "Pásovec devítipásý (Dasypus novemcinctus)",
+   "Q75070": "Pásovec kulovitý (Tolypeutes matacus)",
+   "Q752467": "Luskoun tlustoocasý (Manis crassicaudata)",
+   "Q902876": "Pásovec šestipásý (Euphractus sexcinctus)",
+   "Q968416": "Pláštník velký (Calyptophractus retusus)"
+  }
+ },
+ {
+  "id": "Q244410#8",
+  "species": "Velryba jižní",
+  "latin": "Eubalaena australis",
+  "text": "Živí se zooplanktonem.",
+  "quote": "Tam dochází k poměrně intenzivnímu krmení zooplanktonem.",
+  "claimed_false_for": {
+   "Q273580": "Antilopa čtyřrohá (Tetracerus quadricornis)"
+  }
+ },
+ {
+  "id": "Q25851#5",
+  "species": "Králík divoký",
+  "latin": "Oryctolagus cuniculus",
+  "text": "Počty tohoto druhu snížila infekční nemoc myxomatóza.",
+  "quote": "zredukovala infekční myxomatóza.",
+  "claimed_false_for": {
+   "Q209132": "Klokan pralesní (Dendrolagus bennettianus)"
+  }
+ },
+ {
+  "id": "Q27016#1",
+  "species": "Hryzec vodní",
+  "latin": "Arvicola amphibius",
+  "text": "Osmdesát procent potravy tvoří zelené části rostlin.",
+  "quote": "Zelené části nejrůznějších pobřežních rostlin tvoří osmdesát procent jeho potravy",
+  "claimed_false_for": {
+   "Q80763": "Pískomil křečkovitý (Pachyuromys duprasi)"
+  }
+ },
+ {
+  "id": "Q27016#2",
+  "species": "Hryzec vodní",
+  "latin": "Arvicola amphibius",
+  "text": "Mezi nepřátele patří sovy a hlavně norci.",
+  "quote": "Mezi jeho nepřátele patří různé sovy a především norci.",
+  "claimed_false_for": {
+   "Q272293": "Čiru (Pantholops hodgsonii)",
+   "Q543424": "Orangutan sumaterský (Pongo abelii)",
+   "Q713841": "Makak formoský (Macaca cyclopis)"
+  }
+ }
+]

@@ -1,0 +1,203 @@
+[
+ {
+  "id": "Q107592#1",
+  "species": "Přeslička rolní",
+  "latin": "Equisetum arvense",
+  "text": "Na jaře má nezelený výhonek se špičkou plnou výtrusů.",
+  "quote": "Na jaře vyrůstá fertilní (plodná) lodyha s výtrusnicovým klasem, která je nezelená",
+  "claimed_false_for": {
+   "Q1345500": "Papratka samičí (Athyrium filix-femina)",
+   "Q21122": "Přeslička bahenní (Equisetum palustre)",
+   "Q213548": "Hasivka orličí (Pteridium aquilinum)",
+   "Q4678994": "Netík Venušin vlas (Adiantum capillus-veneris)",
+   "Q743883": "Osladič obecný (Polypodium vulgare)",
+   "Q902211": "Sleziník červený (Asplenium trichomanes)"
+  }
+ },
+ {
+  "id": "Q107592#3",
+  "species": "Přeslička rolní",
+  "latin": "Equisetum arvense",
+  "text": "Dorůstá nejčastěji do výšky 10 až 70 centimetrů.",
+  "quote": "vytrvalá výtrusná bylina vysoká nejčastěji 10–70 cm",
+  "claimed_false_for": {
+   "Q213548": "Hasivka orličí (Pteridium aquilinum)"
+  }
+ },
+ {
+  "id": "Q1130272#0",
+  "species": "Jelení jazyk celolistý",
+  "latin": "Asplenium scolopendrium",
+  "text": "Listy bývají dlouhé 15 až 60 centimetrů.",
+  "quote": "Dosahují délky 15–60 cm, šířka listů je až 8 cm.",
+  "claimed_false_for": {
+   "Q213548": "Hasivka orličí (Pteridium aquilinum)"
+  }
+ },
+ {
+  "id": "Q1130272#1",
+  "species": "Jelení jazyk celolistý",
+  "latin": "Asplenium scolopendrium",
+  "text": "V Česku roste jen vzácně, pouze na Moravě.",
+  "quote": "V České republice pouze vzácně na území Moravy – oblast Moravského krasu a moravských Karpat.",
+  "claimed_false_for": {
+   "Q107592": "Přeslička rolní (Equisetum arvense)",
+   "Q1345500": "Papratka samičí (Athyrium filix-femina)",
+   "Q322994": "Kapraď samec (Dryopteris filix-mas)",
+   "Q743883": "Osladič obecný (Polypodium vulgare)",
+   "Q902211": "Sleziník červený (Asplenium trichomanes)"
+  }
+ },
+ {
+  "id": "Q1130386#0",
+  "species": "Pérovník pštrosí",
+  "latin": "Matteuccia struthiopteris",
+  "text": "Má dva druhy listů, které se liší tvarem i barvou.",
+  "quote": "Plodné listy vyrůstají později a jsou zcela odlišné tvarem i barvou.",
+  "claimed_false_for": {
+   "Q1345500": "Papratka samičí (Athyrium filix-femina)",
+   "Q213548": "Hasivka orličí (Pteridium aquilinum)",
+   "Q322994": "Kapraď samec (Dryopteris filix-mas)",
+   "Q4678994": "Netík Venušin vlas (Adiantum capillus-veneris)",
+   "Q902211": "Sleziník červený (Asplenium trichomanes)"
+  }
+ },
+ {
+  "id": "Q1130386#1",
+  "species": "Pérovník pštrosí",
+  "latin": "Matteuccia struthiopteris",
+  "text": "Tento druh se rychle rozrůstá pod zemí pomocí dlouhých výběžků.",
+  "quote": "postranními dlouhými podzemními výběžky, kterými se rostlina ve vhodných podmínkách rychle rozrůstá",
+  "claimed_false_for": {
+   "Q1130272": "Jelení jazyk celolistý (Asplenium scolopendrium)",
+   "Q1345500": "Papratka samičí (Athyrium filix-femina)",
+   "Q322994": "Kapraď samec (Dryopteris filix-mas)",
+   "Q902211": "Sleziník červený (Asplenium trichomanes)"
+  }
+ },
+ {
+  "id": "Q1345500#0",
+  "species": "Papratka samičí",
+  "latin": "Athyrium filix-femina",
+  "text": "Patří mezi nejhojnější lesní kapradiny.",
+  "quote": "Patří mezi nejhojnější lesní kapradiny",
+  "claimed_false_for": {
+   "Q1130272": "Jelení jazyk celolistý (Asplenium scolopendrium)",
+   "Q4678994": "Netík Venušin vlas (Adiantum capillus-veneris)",
+   "Q847497": "Hadilka obecná (Ophioglossum vulgatum)"
+  }
+ },
+ {
+  "id": "Q1345500#1",
+  "species": "Papratka samičí",
+  "latin": "Athyrium filix-femina",
+  "text": "Má listy dlouhé 30 až 100 cm.",
+  "quote": "30 až 100 cm dlouhé, světle zelené, dvakrát, někdy i třikrát zpeřené listy",
+  "claimed_false_for": {
+   "Q847497": "Hadilka obecná (Ophioglossum vulgatum)"
+  }
+ },
+ {
+  "id": "Q21122#0",
+  "species": "Přeslička bahenní",
+  "latin": "Equisetum palustre",
+  "text": "Dorůstá obvykle do výšky 10 až 50 centimetrů.",
+  "quote": "vysoká nejčastěji 10–50 cm",
+  "claimed_false_for": {
+   "Q213548": "Hasivka orličí (Pteridium aquilinum)"
+  }
+ },
+ {
+  "id": "Q21122#1",
+  "species": "Přeslička bahenní",
+  "latin": "Equisetum palustre",
+  "text": "Roste hlavně na vlhkých loukách.",
+  "quote": "Roste nejčastěji na vlhkých loukách",
+  "claimed_false_for": {
+   "Q4678994": "Netík Venušin vlas (Adiantum capillus-veneris)",
+   "Q743883": "Osladič obecný (Polypodium vulgare)",
+   "Q902211": "Sleziník červený (Asplenium trichomanes)"
+  }
+ },
+ {
+  "id": "Q213548#0",
+  "species": "Hasivka orličí",
+  "latin": "Pteridium aquilinum",
+  "text": "Dorůstá až do výšky dvou a půl metru.",
+  "quote": "může dosáhnout výšky až 2 a půl metru",
+  "claimed_false_for": {
+   "Q107592": "Přeslička rolní (Equisetum arvense)",
+   "Q1130272": "Jelení jazyk celolistý (Asplenium scolopendrium)",
+   "Q1345500": "Papratka samičí (Athyrium filix-femina)",
+   "Q21122": "Přeslička bahenní (Equisetum palustre)",
+   "Q4678994": "Netík Venušin vlas (Adiantum capillus-veneris)",
+   "Q743883": "Osladič obecný (Polypodium vulgare)",
+   "Q847497": "Hadilka obecná (Ophioglossum vulgatum)",
+   "Q902211": "Sleziník červený (Asplenium trichomanes)"
+  }
+ },
+ {
+  "id": "Q213548#3",
+  "species": "Hasivka orličí",
+  "latin": "Pteridium aquilinum",
+  "text": "Nejraději roste na půdě bez vápence.",
+  "quote": "Preferuje nevápenité půdy.",
+  "claimed_false_for": {
+   "Q1130272": "Jelení jazyk celolistý (Asplenium scolopendrium)",
+   "Q4678994": "Netík Venušin vlas (Adiantum capillus-veneris)"
+  }
+ },
+ {
+  "id": "Q322994#0",
+  "species": "Kapraď samec",
+  "latin": "Dryopteris filix-mas",
+  "text": "Mladé listy jsou stočené do spirály.",
+  "quote": "Listy jsou v mládí svinuty do spirály a tvoří tzv. „biskupské berly“",
+  "claimed_false_for": {
+   "Q107592": "Přeslička rolní (Equisetum arvense)",
+   "Q21122": "Přeslička bahenní (Equisetum palustre)",
+   "Q847497": "Hadilka obecná (Ophioglossum vulgatum)"
+  }
+ },
+ {
+  "id": "Q743883#0",
+  "species": "Osladič obecný",
+  "latin": "Polypodium vulgare",
+  "text": "Listy zůstávají přes zimu a nové rostou v květnu a červnu.",
+  "quote": "Vytrvávají přes zimu a nové raší v květnu a červnu.",
+  "claimed_false_for": {
+   "Q107592": "Přeslička rolní (Equisetum arvense)",
+   "Q1130386": "Pérovník pštrosí (Matteuccia struthiopteris)",
+   "Q1345500": "Papratka samičí (Athyrium filix-femina)",
+   "Q21122": "Přeslička bahenní (Equisetum palustre)",
+   "Q322994": "Kapraď samec (Dryopteris filix-mas)",
+   "Q847497": "Hadilka obecná (Ophioglossum vulgatum)",
+   "Q936546": "Přeslička největší (Equisetum telmateia)"
+  }
+ },
+ {
+  "id": "Q847497#1",
+  "species": "Hadilka obecná",
+  "latin": "Ophioglossum vulgatum",
+  "text": "Roste ve světlých lesích, na vlhkých loukách a pastvinách.",
+  "quote": "Výskyt ve světlých lesích, na vlhkých až mokrých loukách a pastvinách, výjimečně v rákosinách.",
+  "claimed_false_for": {
+   "Q1130272": "Jelení jazyk celolistý (Asplenium scolopendrium)",
+   "Q902211": "Sleziník červený (Asplenium trichomanes)"
+  }
+ },
+ {
+  "id": "Q936546#1",
+  "species": "Přeslička největší",
+  "latin": "Equisetum telmateia",
+  "text": "Na jaře vytváří stonek s klasem na vrcholu.",
+  "quote": "Na jaře vyrůstá fertilní lodyha s vrcholovým výtrusnicovým klasem.",
+  "claimed_false_for": {
+   "Q1345500": "Papratka samičí (Athyrium filix-femina)",
+   "Q213548": "Hasivka orličí (Pteridium aquilinum)",
+   "Q4678994": "Netík Venušin vlas (Adiantum capillus-veneris)",
+   "Q743883": "Osladič obecný (Polypodium vulgare)",
+   "Q902211": "Sleziník červený (Asplenium trichomanes)"
+  }
+ }
+]

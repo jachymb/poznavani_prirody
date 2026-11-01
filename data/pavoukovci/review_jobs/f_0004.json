@@ -1,0 +1,520 @@
+[
+ {
+  "id": "Q1058411#0",
+  "species": "Třesavka sekáčovitá",
+  "latin": "Pholcus opilionoides",
+  "text": "Většinu jídelníčku tvoří dvoukřídlý hmyz, například komáři.",
+  "quote": "Její jídelníček se skládá převážně z dvoukřídlého hmyzu, např. komárů.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1058411#1",
+  "species": "Třesavka sekáčovitá",
+  "latin": "Pholcus opilionoides",
+  "text": "Rychlým kmitáním těla zastrašuje nepřítele.",
+  "quote": "když jsou vyrušeny, zastrašují nepřítele rychlým kmitáním těla",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1058545#2",
+  "species": "Skálovka mravencožravá",
+  "latin": "Callilepis nocturna",
+  "text": "Dopoledne pobíhá kolem mravenišť a hledá mravence.",
+  "quote": "pobíhá v okolí mravenišť především v dopoledních hodinách",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1058545#3",
+  "species": "Skálovka mravencožravá",
+  "latin": "Callilepis nocturna",
+  "text": "Při nošení kořisti ji někdy napadnou jiní mravenci.",
+  "quote": "Během toho bývá mnohdy napadena jinými mravenci",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1058974#0",
+  "species": "Skákavka stužkovitá",
+  "latin": "Phlegra fasciata",
+  "text": "Loví hmyz na zemi a na nízké vegetaci.",
+  "quote": "Jde o aktivní lovce, kteří především za slunného počasí pátrají po hmyzu na zemi a nízké vegetaci.",
+  "claimed_false_for": {
+   "Q1422368": "Klíšťák holubí (Argas reflexus)"
+  }
+ },
+ {
+  "id": "Q1058974#1",
+  "species": "Skákavka stužkovitá",
+  "latin": "Phlegra fasciata",
+  "text": "Klade vajíčka do bílých kokonů a pečuje o ně.",
+  "quote": "Vajíčka samice kladou do bílých vakovitých kokonů, o něž pečují.",
+  "claimed_false_for": {
+   "Q1142349": "Veleštír císařský (Pandinus imperator)",
+   "Q2946227": "Štír zlatý (Centruroides exilicauda)"
+  }
+ },
+ {
+  "id": "Q1059015#0",
+  "species": "Skákavka mechová",
+  "latin": "Neon reticulatus",
+  "text": "Samice dorůstají délky asi 2 až 3,2 milimetrů.",
+  "quote": "Samice dorůstají délky asi 2–3,2 mm",
+  "claimed_false_for": {
+   "Q113297": "Snovačka jedovatá (Latrodectus mactans)",
+   "Q1133152": "Ostrorep americký (Limulus polyphemus)",
+   "Q119195": "Vodouch stříbřitý (Argyroneta aquatica)",
+   "Q120024": "Štír německý (Euscorpius germanus)",
+   "Q1313031": "Slíďák dřevomilný (Acantholycosa lignaria)",
+   "Q1317090": "Slíďák tarentský (Lycosa tarantula)",
+   "Q1335549": "Sviluška chmelová (Tetranychus urticae)",
+   "Q2690983": "Pokoutník štíhlý (Allagelena gracilens)",
+   "Q300963": "Sklípkan Smithův (Brachypelma smithi)",
+   "Q311833": "Snovačka domácí (Steatoda grossa)",
+   "Q337509": "Křižák obecný (Araneus diadematus)",
+   "Q403009": "Maloočka smaragdová (Micrommata virescens)"
+  }
+ },
+ {
+  "id": "Q1059015#1",
+  "species": "Skákavka mechová",
+  "latin": "Neon reticulatus",
+  "text": "Žije i na vlhkých loukách a rašeliništích.",
+  "quote": "Častý také na otevřených vlhkých stanovištích, na rašeliništích a na vlhkých loukách.",
+  "claimed_false_for": {
+   "Q1133152": "Ostrorep americký (Limulus polyphemus)",
+   "Q300963": "Sklípkan Smithův (Brachypelma smithi)",
+   "Q311833": "Snovačka domácí (Steatoda grossa)"
+  }
+ },
+ {
+  "id": "Q1071758#0",
+  "species": "Pokoutník tmavý",
+  "latin": "Eratigena atrica",
+  "text": "Často se stává kořistí jiných pavoučích druhů.",
+  "quote": "se často stává kořistí jiných, na pohled menších pavoučích druhů",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1071758#1",
+  "species": "Pokoutník tmavý",
+  "latin": "Eratigena atrica",
+  "text": "Je aktivní hlavně v noci.",
+  "quote": "Je aktivní hlavně v noci",
+  "claimed_false_for": {
+   "Q134973": "Běžník květomilný (Thomisus onustus)",
+   "Q1705147": "Slíďák lužní (Pardosa prativaga)"
+  }
+ },
+ {
+  "id": "Q113297#8",
+  "species": "Snovačka jedovatá",
+  "latin": "Latrodectus mactans",
+  "text": "Chytá do sítě nejčastěji létavý hmyz, například mouchy a mšice.",
+  "quote": "do které chytá nejčastěji létavý hmyz; mouchy, mšice, kobylky, sarančata, můry, motýly nebo vosy",
+  "claimed_false_for": {
+   "Q1070431": "Skákavka velká (Marpissa muscosa)",
+   "Q1150747": "Šestiočka velká (Dysdera crocata)",
+   "Q1319714": "Štír Martensův (Mesobuthus martensii)",
+   "Q1422368": "Klíšťák holubí (Argas reflexus)",
+   "Q3141183": "Štír hotentotský (Hottentotta hottentotta)"
+  }
+ },
+ {
+  "id": "Q113297#9",
+  "species": "Snovačka jedovatá",
+  "latin": "Latrodectus mactans",
+  "text": "Loví i mnohonožky, stonožky a štíry.",
+  "quote": "Loví však i pozemní živočichy, jako např. mnohonožky, stonožky, štíry",
+  "claimed_false_for": {
+   "Q1500718": "Čelistnatka rákosní (Tetragnatha extensa)",
+   "Q1759736": "Křižák lesklý (Singa nitidula)",
+   "Q597490": "Křižák luční (Mangora acalypha)"
+  }
+ },
+ {
+  "id": "Q113297#10",
+  "species": "Snovačka jedovatá",
+  "latin": "Latrodectus mactans",
+  "text": "Bahenní vosy loví tento druh v Severní Americe.",
+  "quote": "V Severní Americe ji loví například bahenní vosa Chalybion californicum",
+  "claimed_false_for": {
+   "Q3023817": "Štír bahijský (Tityus bahiensis)",
+   "Q3024982": "Štír kýlnatý (Euscorpius tergestinus)",
+   "Q3130188": "Štír hnědožlutý (Hemiscorpius lepturus)",
+   "Q55586198": "Koutník Hahnův (Hexophthalma hahni)"
+  }
+ },
+ {
+  "id": "Q1137615#5",
+  "species": "Pokoutník domácí",
+  "latin": "Tegenaria domestica",
+  "text": "Živí se stejnonožci.",
+  "quote": "Živí se hmyzem (hlavně mouchami) nebo stejnonožci",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1142349#0",
+  "species": "Veleštír císařský",
+  "latin": "Pandinus imperator",
+  "text": "Největší exemplář měřil 230 mm.",
+  "quote": "Největší exemplář tohoto druhu měřil 230 mm.",
+  "claimed_false_for": {
+   "Q1302233": "Snovačka půdní (Steatoda triangulosa)",
+   "Q134973": "Běžník květomilný (Thomisus onustus)",
+   "Q139105": "Sklípkan kadeřavý (Brachypelma albopilosum)",
+   "Q1566546": "Štír arizonský (Hadrurus arizonensis)",
+   "Q1609572": "Meta podzimní (Metellina segmentata)",
+   "Q1946372": "Štír kubánský (Centruroides gracilis)",
+   "Q2713062": "Štír olivový (Uroplectes olivaceus)",
+   "Q2946227": "Štír zlatý (Centruroides exilicauda)",
+   "Q3019500": "Štír jedovatý (Tityus stigmurus)",
+   "Q3229236": "Štír jordánský (Leiurus jordanensis)"
+  }
+ },
+ {
+  "id": "Q1142349#1",
+  "species": "Veleštír císařský",
+  "latin": "Pandinus imperator",
+  "text": "V nebezpečí se brání klepety.",
+  "quote": "V nebezpečí se brání klepety a může bolestivě štípnout.",
+  "claimed_false_for": {
+   "Q1302233": "Snovačka půdní (Steatoda triangulosa)",
+   "Q134973": "Běžník květomilný (Thomisus onustus)",
+   "Q139105": "Sklípkan kadeřavý (Brachypelma albopilosum)",
+   "Q1609572": "Meta podzimní (Metellina segmentata)"
+  }
+ },
+ {
+  "id": "Q1150738#0",
+  "species": "Segestra podkorní",
+  "latin": "Segestria senoculata",
+  "text": "Buduje pavučinové rourky, ve kterých číhá na kořist.",
+  "quote": "Na těchto místech buduje pavučinové rourky, ve kterých číhá na svou oběť.",
+  "claimed_false_for": {
+   "Q1133152": "Ostrorep americký (Limulus polyphemus)",
+   "Q119195": "Vodouch stříbřitý (Argyroneta aquatica)",
+   "Q1313031": "Slíďák dřevomilný (Acantholycosa lignaria)",
+   "Q1335549": "Sviluška chmelová (Tetranychus urticae)",
+   "Q337509": "Křižák obecný (Araneus diadematus)",
+   "Q403009": "Maloočka smaragdová (Micrommata virescens)"
+  }
+ },
+ {
+  "id": "Q1150738#1",
+  "species": "Segestra podkorní",
+  "latin": "Segestria senoculata",
+  "text": "Signální vlákna u vchodu prozradí, že se blíží kořist.",
+  "quote": "Ústí „nory“ je opatřeno signálními vlákny a pokud kolem otvoru proběhne potenciální kořist",
+  "claimed_false_for": {
+   "Q1142349": "Veleštír císařský (Pandinus imperator)",
+   "Q140698": "Slíďák hajní (Pardosa lugubris)",
+   "Q1498643": "Křižák velký (Araneus angulatus)",
+   "Q2090659": "Lovčík mokřadní (Dolomedes plantarius)",
+   "Q2946227": "Štír zlatý (Centruroides exilicauda)",
+   "Q40230": "Skákavka znamenaná (Aelurillus v-insignitus)"
+  }
+ },
+ {
+  "id": "Q1150747#2",
+  "species": "Šestiočka velká",
+  "latin": "Dysdera crocata",
+  "text": "Loví stínky.",
+  "quote": "specializovaný predátor stínek",
+  "claimed_false_for": {
+   "Q134973": "Běžník květomilný (Thomisus onustus)",
+   "Q1545036": "Křižák zelený (Araniella cucurbitina)",
+   "Q1953235": "Křižák rudohnědý (Larinioides ixobolus)"
+  }
+ },
+ {
+  "id": "Q1150747#3",
+  "species": "Šestiočka velká",
+  "latin": "Dysdera crocata",
+  "text": "Loví i rybenky, mnohonožky, brouky a drobné pavouky.",
+  "quote": "Kromě stínek však dokáže ulovit i jiné bezobratlé, například rybenky, mnohonožky, brouky či drobné pavouky.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q116263151#0",
+  "species": "Nephila komaci",
+  "latin": "Trichonephila komaci",
+  "text": "Dokáže utkat spirálovité kruhové sítě o průměru až 100 cm.",
+  "quote": "Tento druh dokáže utkat spirálovité kruhové sítě o průměru až 100 cm",
+  "claimed_false_for": {
+   "Q116263616": "Skákavka pospolná (Attulus floricola)",
+   "Q1308106": "Skákavka pavoukožravá (Portia fimbriata)",
+   "Q139105": "Sklípkan kadeřavý (Brachypelma albopilosum)",
+   "Q1759736": "Křižák lesklý (Singa nitidula)",
+   "Q310038": "Pokoutník ocasatý (Textrix denticulata)",
+   "Q597490": "Křižák luční (Mangora acalypha)",
+   "Q847066": "Lovčík vodní (Dolomedes fimbriatus)"
+  }
+ },
+ {
+  "id": "Q116263151#1",
+  "species": "Nephila komaci",
+  "latin": "Trichonephila komaci",
+  "text": "Samice dorůstá velikosti 12 cm.",
+  "quote": "jeho samice dorůstá velikosti 12 cm",
+  "claimed_false_for": {
+   "Q116263616": "Skákavka pospolná (Attulus floricola)",
+   "Q1308106": "Skákavka pavoukožravá (Portia fimbriata)",
+   "Q1315295": "Pokoutník nálevkovitý (Agelena labyrinthica)",
+   "Q1470676": "Meta temnostní (Meta menardi)",
+   "Q1500718": "Čelistnatka rákosní (Tetragnatha extensa)",
+   "Q1759736": "Křižák lesklý (Singa nitidula)",
+   "Q310038": "Pokoutník ocasatý (Textrix denticulata)",
+   "Q597490": "Křižák luční (Mangora acalypha)"
+  }
+ },
+ {
+  "id": "Q119195#1",
+  "species": "Vodouch stříbřitý",
+  "latin": "Argyroneta aquatica",
+  "text": "Samečci tohoto druhu jsou větší než samičky.",
+  "quote": "Jde o jednoho z mála druhů pavouků, jejichž samečci (10–15 mm) jsou větší než samičky (8–9 mm).",
+  "claimed_false_for": {
+   "Q1070431": "Skákavka velká (Marpissa muscosa)",
+   "Q1150747": "Šestiočka velká (Dysdera crocata)",
+   "Q1319714": "Štír Martensův (Mesobuthus martensii)",
+   "Q146884": "Křižák obloukový (Macracantha arcuata)",
+   "Q16753940": "Punčoškář lesní (Inermocoelotes inermis)",
+   "Q2128637": "Cedivka domovní (Amaurobius ferox)",
+   "Q2519430": "Stepník černonohý (Eresus sandaliatus)",
+   "Q788787": "Segestra skalní (Segestria bavarica)"
+  }
+ },
+ {
+  "id": "Q120024#0",
+  "species": "Štír německý",
+  "latin": "Euscorpius germanus",
+  "text": "Dorůstá jen do 1,5 cm.",
+  "quote": "Dorůstá pouze 1,5 cm.",
+  "claimed_false_for": {
+   "Q1142349": "Veleštír císařský (Pandinus imperator)",
+   "Q1402833": "Štír středomořský (Buthus occitanus)",
+   "Q3023817": "Štír bahijský (Tityus bahiensis)",
+   "Q3060962": "Štír baleárský (Euscorpius balearicus)",
+   "Q311825": "Štír žlutoocasý (Euscorpius flavicaudis)",
+   "Q3134808": "Veleštír Cimrmanův (Heterometrus cimrmani)",
+   "Q430796": "Štír karpatský (Euscorpius carpathicus)"
+  }
+ },
+ {
+  "id": "Q120024#1",
+  "species": "Štír německý",
+  "latin": "Euscorpius germanus",
+  "text": "Zimuje i při teplotách až -30 °C.",
+  "quote": "běžně zimuje v teplotách až -30 °C",
+  "claimed_false_for": {
+   "Q139105": "Sklípkan kadeřavý (Brachypelma albopilosum)",
+   "Q1946372": "Štír kubánský (Centruroides gracilis)",
+   "Q2713062": "Štír olivový (Uroplectes olivaceus)",
+   "Q3019500": "Štír jedovatý (Tityus stigmurus)",
+   "Q3125583": "Štír ojedinělý (Hadogenes paucidens)",
+   "Q3141183": "Štír hotentotský (Hottentotta hottentotta)"
+  }
+ },
+ {
+  "id": "Q12644374#0",
+  "species": "Kleštík Jakobsonův",
+  "latin": "Varroa jacobsoni",
+  "text": "Parazituje na včelách.",
+  "quote": "je parazitický roztoč včely východní",
+  "claimed_false_for": {
+   "Q116263638": "Skákavka okenní (Attulus pubescens)",
+   "Q1318127": "Třesavka kosmopolitní (Crossopriza lyoni)",
+   "Q1368028": "Snovačka pokoutní (Steatoda bipunctata)",
+   "Q1624740": "Křižák podkorní (Nuctenea umbratica)",
+   "Q169513": "Skákavka pruhovaná (Salticus scenicus)",
+   "Q1758094": "Slíďák drápkatý (Trochosa ruricola)",
+   "Q21059": "Sekáč rohatý (Phalangium opilio)",
+   "Q21175": "Klíště obecné (Ixodes ricinus)",
+   "Q430796": "Štír karpatský (Euscorpius carpathicus)",
+   "Q692729": "Sklípkánek pontický (Atypus muralis)",
+   "Q742349": "Běžník kopretinový (Misumena vatia)",
+   "Q773744": "Štír nejjedovatější (Leiurus quinquestriatus)"
+  }
+ },
+ {
+  "id": "Q12644374#1",
+  "species": "Kleštík Jakobsonův",
+  "latin": "Varroa jacobsoni",
+  "text": "Žije jen na východních druzích včel.",
+  "quote": "Svým životem je zcela vázán na orientální druhy včel.",
+  "claimed_false_for": {
+   "Q116263638": "Skákavka okenní (Attulus pubescens)",
+   "Q1318127": "Třesavka kosmopolitní (Crossopriza lyoni)",
+   "Q1368028": "Snovačka pokoutní (Steatoda bipunctata)",
+   "Q1624740": "Křižák podkorní (Nuctenea umbratica)",
+   "Q169513": "Skákavka pruhovaná (Salticus scenicus)",
+   "Q1758094": "Slíďák drápkatý (Trochosa ruricola)",
+   "Q21059": "Sekáč rohatý (Phalangium opilio)",
+   "Q21175": "Klíště obecné (Ixodes ricinus)",
+   "Q430796": "Štír karpatský (Euscorpius carpathicus)",
+   "Q692729": "Sklípkánek pontický (Atypus muralis)",
+   "Q742349": "Běžník kopretinový (Misumena vatia)",
+   "Q773744": "Štír nejjedovatější (Leiurus quinquestriatus)"
+  }
+ },
+ {
+  "id": "Q1272501#2",
+  "species": "Čmelík kuří",
+  "latin": "Dermanyssus gallinae",
+  "text": "Tento druh se živí krví drůbeže.",
+  "quote": "Čmelík je významným krevsajícím ektoparazitem drůbeže.",
+  "claimed_false_for": {
+   "Q116263638": "Skákavka okenní (Attulus pubescens)",
+   "Q1318127": "Třesavka kosmopolitní (Crossopriza lyoni)",
+   "Q1368028": "Snovačka pokoutní (Steatoda bipunctata)",
+   "Q1624740": "Křižák podkorní (Nuctenea umbratica)",
+   "Q169513": "Skákavka pruhovaná (Salticus scenicus)",
+   "Q1758094": "Slíďák drápkatý (Trochosa ruricola)",
+   "Q21059": "Sekáč rohatý (Phalangium opilio)",
+   "Q430796": "Štír karpatský (Euscorpius carpathicus)",
+   "Q692729": "Sklípkánek pontický (Atypus muralis)",
+   "Q742349": "Běžník kopretinový (Misumena vatia)",
+   "Q773744": "Štír nejjedovatější (Leiurus quinquestriatus)"
+  }
+ },
+ {
+  "id": "Q1272501#3",
+  "species": "Čmelík kuří",
+  "latin": "Dermanyssus gallinae",
+  "text": "Příležitostně napadá psy, kočky a koně.",
+  "quote": "Příležitostně napadá také psy, kočky, koně, lidi a jiné hostitele",
+  "claimed_false_for": {
+   "Q116263638": "Skákavka okenní (Attulus pubescens)",
+   "Q1318127": "Třesavka kosmopolitní (Crossopriza lyoni)",
+   "Q1368028": "Snovačka pokoutní (Steatoda bipunctata)",
+   "Q1624740": "Křižák podkorní (Nuctenea umbratica)",
+   "Q169513": "Skákavka pruhovaná (Salticus scenicus)",
+   "Q1758094": "Slíďák drápkatý (Trochosa ruricola)",
+   "Q21059": "Sekáč rohatý (Phalangium opilio)",
+   "Q430796": "Štír karpatský (Euscorpius carpathicus)",
+   "Q692729": "Sklípkánek pontický (Atypus muralis)",
+   "Q742349": "Běžník kopretinový (Misumena vatia)",
+   "Q773744": "Štír nejjedovatější (Leiurus quinquestriatus)"
+  }
+ },
+ {
+  "id": "Q1301286#0",
+  "species": "Křižák skvostný",
+  "latin": "Aculepeira ceropegia",
+  "text": "Přes den se zdržuje na okraji sítě pod stříškou, která ho chrání před deštěm.",
+  "quote": "Přes den se často zdržuje na okraji sítě pod vytvořenou stříškou z vláken pavučiny, která ho chrání před deštěm a sluncem.",
+  "claimed_false_for": {
+   "Q1071758": "Pokoutník tmavý (Eratigena atrica)",
+   "Q116263616": "Skákavka pospolná (Attulus floricola)",
+   "Q1308106": "Skákavka pavoukožravá (Portia fimbriata)",
+   "Q1315295": "Pokoutník nálevkovitý (Agelena labyrinthica)",
+   "Q139105": "Sklípkan kadeřavý (Brachypelma albopilosum)",
+   "Q310038": "Pokoutník ocasatý (Textrix denticulata)",
+   "Q847066": "Lovčík vodní (Dolomedes fimbriatus)"
+  }
+ },
+ {
+  "id": "Q1301286#1",
+  "species": "Křižák skvostný",
+  "latin": "Aculepeira ceropegia",
+  "text": "Mláďata se líhnou na podzim.",
+  "quote": "Mláďata se líhnou na podzim.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1302233#2",
+  "species": "Snovačka půdní",
+  "latin": "Steatoda triangulosa",
+  "text": "Loví hlavně lezoucí členovce.",
+  "quote": "Snovačka se soustředí především na lov lezoucích členovců",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1302233#3",
+  "species": "Snovačka půdní",
+  "latin": "Steatoda triangulosa",
+  "text": "Loví i jiné druhy pavouků.",
+  "quote": "Je schopen zabít i nebezpečnou kořist, včetně jiných druhů pavouků.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1302233#4",
+  "species": "Snovačka půdní",
+  "latin": "Steatoda triangulosa",
+  "text": "Má tendenci vytlačovat jiné druhy pavouků.",
+  "quote": "v synantropním prostředí má tendenci vytlačit jiné druhy pavouků",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1302257#2",
+  "species": "Křižák vířivý",
+  "latin": "Cyclosa conica",
+  "text": "Možná zmate dravce, kteří napadnou pavučinu místo něj.",
+  "quote": "je možné, že slouží i ke zmatení dravců, kteří mylně zaútočí na stabilimentum",
+  "claimed_false_for": {
+   "Q1142349": "Veleštír císařský (Pandinus imperator)",
+   "Q140698": "Slíďák hajní (Pardosa lugubris)",
+   "Q2090659": "Lovčík mokřadní (Dolomedes plantarius)",
+   "Q2946227": "Štír zlatý (Centruroides exilicauda)",
+   "Q305130": "Slíďák tatarský (Lycosa singoriensis)",
+   "Q40230": "Skákavka znamenaná (Aelurillus v-insignitus)"
+  }
+ },
+ {
+  "id": "Q1308106#4",
+  "species": "Skákavka pavoukožravá",
+  "latin": "Portia fimbriata",
+  "text": "Tento druh je kořistí mravenců, ptáků, žab a kudlanek.",
+  "quote": "Skákavka pavoukožravá se stává kořistí mravenců, ptáků, žab a kudlanek.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1308106#6",
+  "species": "Skákavka pavoukožravá",
+  "latin": "Portia fimbriata",
+  "text": "Bere kořist chycenou v sítích jiných pavouků.",
+  "quote": "Kromě toho, že útočí na síťové pavouky, jim rovněž ze sítí berou, resp. vysávají lapenou kořist.",
+  "claimed_false_for": {
+   "Q3023817": "Štír bahijský (Tityus bahiensis)",
+   "Q3024982": "Štír kýlnatý (Euscorpius tergestinus)",
+   "Q3130188": "Štír hnědožlutý (Hemiscorpius lepturus)",
+   "Q55586198": "Koutník Hahnův (Hexophthalma hahni)"
+  }
+ },
+ {
+  "id": "Q1310642#2",
+  "species": "Šplhalka keřová",
+  "latin": "Anyphaena accentuata",
+  "text": "Loví především menší okřídlený hmyz.",
+  "quote": "loví (především menší okřídlený hmyz)",
+  "claimed_false_for": {
+   "Q1133152": "Ostrorep americký (Limulus polyphemus)",
+   "Q1335549": "Sviluška chmelová (Tetranychus urticae)"
+  }
+ },
+ {
+  "id": "Q1313031#0",
+  "species": "Slíďák dřevomilný",
+  "latin": "Acantholycosa lignaria",
+  "text": "Nepřede pavučiny, loví na zemi drobný hmyz a členovce.",
+  "quote": "Tento druh nepřede pavučiny, ale loví na zemi různý drobný hmyz a členovce.",
+  "claimed_false_for": {
+   "Q1422368": "Klíšťák holubí (Argas reflexus)",
+   "Q146884": "Křižák obloukový (Macracantha arcuata)",
+   "Q16753940": "Punčoškář lesní (Inermocoelotes inermis)",
+   "Q2128637": "Cedivka domovní (Amaurobius ferox)",
+   "Q2519430": "Stepník černonohý (Eresus sandaliatus)",
+   "Q788787": "Segestra skalní (Segestria bavarica)"
+  }
+ },
+ {
+  "id": "Q1313031#1",
+  "species": "Slíďák dřevomilný",
+  "latin": "Acantholycosa lignaria",
+  "text": "Při vyrušení zalézá do štěrbin ve dřevě a pod kůru.",
+  "quote": "Při vyrušení zalézá do štěrbin ve",
+  "claimed_false_for": {
+   "Q116263151": "Nephila komaci (Trichonephila komaci)",
+   "Q1624306": "Křižák načervenalý (Araneus alsine)"
+  }
+ }
+]

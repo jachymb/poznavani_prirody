@@ -1,0 +1,67 @@
+[
+ {
+  "id": "Q1192350#0",
+  "species": "Nezmar hnědý",
+  "latin": "Hydra oligactis",
+  "text": "Živí se planktonem a potravu omračuje žahavými buňkami.",
+  "quote": "Živí se planktonem, svoji potravu omráčí žahavými buňkami na svých ramenech.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1192350#1",
+  "species": "Nezmar hnědý",
+  "latin": "Hydra oligactis",
+  "text": "Během roku se rozmnožuje pučením, na podzim i pohlavně.",
+  "quote": "Během roku se rozmnožuje pučením a na podzim pohlavně.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q384085#0",
+  "species": "Sasanka velkolepá",
+  "latin": "Heteractis magnifica",
+  "text": "Živí se bezobratlými i drobnými obratlovci včetně ryb a korýšů.",
+  "quote": "Živí se bezobratlými i drobnými obratlovci včetně ryb a korýšů.",
+  "claimed_false_for": {
+   "Q2470250": "Kořenoústka plicnatá (Rhizostoma pulmo)",
+   "Q531601": "Korál červený (Corallium rubrum)"
+  }
+ },
+ {
+  "id": "Q384085#1",
+  "species": "Sasanka velkolepá",
+  "latin": "Heteractis magnifica",
+  "text": "Dorůstá až do průměru jednoho metru.",
+  "quote": "dorůstá až průměru jeden metr.",
+  "claimed_false_for": {
+   "Q1192350": "Nezmar hnědý (Hydra oligactis)",
+   "Q1888438": "Medúzka sladkovodní (Craspedacusta sowerbyi)",
+   "Q531601": "Korál červený (Corallium rubrum)",
+   "Q580826": "Sasanka koňská (Actinia equina)",
+   "Q935234": "Sasanka karafiátová (Metridium senile)"
+  }
+ },
+ {
+  "id": "Q531601#0",
+  "species": "Korál červený",
+  "latin": "Corallium rubrum",
+  "text": "Žije v hloubkách od 10 do 300 metrů pod hladinou.",
+  "quote": "žijí v hloubkách od 10 do 300 m pod hladinou",
+  "claimed_false_for": {
+   "Q1192350": "Nezmar hnědý (Hydra oligactis)",
+   "Q1888438": "Medúzka sladkovodní (Craspedacusta sowerbyi)"
+  }
+ },
+ {
+  "id": "Q531601#1",
+  "species": "Korál červený",
+  "latin": "Corallium rubrum",
+  "text": "Žije v koloniích na kamenitém mořském dnu.",
+  "quote": "žijí přisedle v koloniích na kamenitém mořském dnu",
+  "claimed_false_for": {
+   "Q1192350": "Nezmar hnědý (Hydra oligactis)",
+   "Q1888438": "Medúzka sladkovodní (Craspedacusta sowerbyi)",
+   "Q2470250": "Kořenoústka plicnatá (Rhizostoma pulmo)",
+   "Q522939": "Talířovka obrovská (Cyanea capillata)"
+  }
+ }
+]

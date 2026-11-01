@@ -1,0 +1,32 @@
+{"drop_facts": [
+{"id": "Q170713#0", "why": "sporná délka života: 15-25 let jako běžná hodnota je nadsazená, vynechává 'nejčastěji'"},
+{"id": "Q170713#7", "why": "neověřitelný a sporný údaj o rychlosti ze zpochybnitelné pasáže článku"},
+{"id": "Q17134#0", "why": "nejasný podmět, bez článku krkolomné (z čích čelistí)"},
+{"id": "Q1749645#3", "why": "'mohou se dožít' změněno na 'dožívá se'; horní mez, údaje hlavně ze zajetí"},
+{"id": "Q1805816#0", "why": "údaj platí jen pro samice, samci dorůstají do 35 cm"},
+{"id": "Q1814747#0", "why": "sporný údaj: maximum 2 m, jiné zdroje uvádějí větší délku"},
+{"id": "Q1829303#1", "why": "měkkýši nepřímo prozrazují název želva šnekožravá; navíc nejisté 'zřejmě'"},
+{"id": "Q1829303#3", "why": "posun významu: citace mluví o délce krunýře, ne o délce zvířete; krkolomné"},
+{"id": "Q183062#0", "why": "krkolomné 'až na 2 až 3 metry'"},
+{"id": "Q183062#1", "why": "vynechává 'průměrně'; průměrná délka života v přírodě je nepodložená a sporná"},
+{"id": "Q183660#3", "why": "přidává 'hlavně', citace říká jen 'loví v noci'"},
+{"id": "Q187036#1", "why": "'v bahně' nepřímo prozrazuje název želva bahenní"}
+],
+"drop_pairs": [
+{"id": "Q170713#3", "species": "Q2321476"},
+{"id": "Q170713#6", "species": "Q1345661"},
+{"id": "Q17134#1", "species": "Q2716241"},
+{"id": "Q1749645#2", "species": "Q148595"},
+{"id": "Q1749645#4", "species": "Q192095"},
+{"id": "Q1749645#4", "species": "Q301089"},
+{"id": "Q1814747#1", "species": "Q572677"},
+{"id": "Q1829303#0", "species": "Q193327"},
+{"id": "Q1829303#0", "species": "Q194422"},
+{"id": "Q183660#0", "species": "Q135677"},
+{"id": "Q183660#0", "species": "Q730112"},
+{"id": "Q183660#0", "species": "Q904780"},
+{"id": "Q18599624#1", "species": "Q2339200"},
+{"id": "Q18599624#1", "species": "Q873915"},
+{"id": "Q18599624#2", "species": "Q2822603"},
+{"id": "Q186275#0", "species": "Q301016"}
+]}

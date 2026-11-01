@@ -1,0 +1,36 @@
+{
+ "drop_facts": [
+  {"id": "Q1133845#1", "why": "sporné: velká tlama slouží hlavně k soubojům o teritorium, spojení s lovem je neověřené"},
+  {"id": "Q1148148#1", "why": "falešně přesný a sporný údaj (průměr závisí na populaci), bez jasného podmětu"},
+  {"id": "Q128785#2", "why": "sporné: bodlok se tře volně ve vodě, tvrzení, že k rozmnožování potřebuje korály a úkryty, je neověřené"},
+  {"id": "Q132895#1", "why": "sporné: potravu tvoří drobní bezobratlí, malé ryby nejsou ověřenou složkou potravy"},
+  {"id": "Q1519624#1", "why": "krkolomné (spokojený s vodou), vynechává kontext akvarijní nádrže"},
+  {"id": "Q182894#0", "why": "posun významu: vynechává, že jde hlavně o ryby, a ptáky uvádí jako běžnou potravu místo výjimky"},
+  {"id": "Q198568#0", "why": "odporuje biologii: ostrucha je rybou volné vody u hladiny; navíc vynechává slovo obvykle"},
+  {"id": "Q223289#0", "why": "sporné: i velcí dospělci mívají zřetelné pruhy, úplné vymizení je neověřené"},
+  {"id": "Q223289#1", "why": "posun významu: vynechává slovo může, vyznívá jako minimální věk všech jedinců"}
+ ],
+ "drop_pairs": [
+  {"id": "Q1133845#0", "species": "Q652129"},
+  {"id": "Q132895#0", "species": "Q203572"},
+  {"id": "Q143503#0", "species": "Q1402074"},
+  {"id": "Q14443#1", "species": "Q475211"},
+  {"id": "Q1519624#0", "species": "Q549"},
+  {"id": "Q1519624#0", "species": "Q908440"},
+  {"id": "Q1577680#0", "species": "Q1130760"},
+  {"id": "Q1577680#0", "species": "Q392294"},
+  {"id": "Q1577680#0", "species": "Q852229"},
+  {"id": "Q183407#0", "species": "Q76098"},
+  {"id": "Q183407#1", "species": "Q2330446"},
+  {"id": "Q183407#1", "species": "Q502228"},
+  {"id": "Q188387#1", "species": "Q723904"},
+  {"id": "Q188387#1", "species": "Q923248"},
+  {"id": "Q1892630#0", "species": "Q2542507"},
+  {"id": "Q198568#1", "species": "Q76098"},
+  {"id": "Q2033056#1", "species": "Q2330446"},
+  {"id": "Q223289#2", "species": "Q2157453"},
+  {"id": "Q223289#2", "species": "Q2530772"},
+  {"id": "Q223289#2", "species": "Q575704"},
+  {"id": "Q223289#2", "species": "Q833940"}
+ ]
+}

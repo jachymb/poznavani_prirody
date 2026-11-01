@@ -1,0 +1,499 @@
+[
+ {
+  "id": "Q10758828#4",
+  "species": "Urzon kanadský",
+  "latin": "Erethizon dorsatum",
+  "text": "Na jaře jí výhonky, pupeny a květy.",
+  "quote": "Na jaře se tito živočichové živí výhonky, pupeny a květy",
+  "claimed_false_for": {
+   "Q308770": "Rypoš obří (Fukomys mechowii)"
+  }
+ },
+ {
+  "id": "Q10758828#5",
+  "species": "Urzon kanadský",
+  "latin": "Erethizon dorsatum",
+  "text": "Bývá kořistí rysa červeného, rosomáka a kuny rybářské.",
+  "quote": "Přesto ho některá zvířata loví: rys červený, rosomák a kuna rybářská",
+  "claimed_false_for": {
+   "Q110727": "Laoš (Laonastes aenigmamus)",
+   "Q1162447": "Viskača (Lagostomus maximus)",
+   "Q131538": "Kapybara (Hydrochoerus hydrochaeris)",
+   "Q1767321": "Dikobraz filipínský (Hystrix pumila)",
+   "Q195350": "Mara slaništní (Dolichotis salinicola)",
+   "Q262307": "Dikobraz obecný (Hystrix cristata)",
+   "Q281008": "Osmák degu (Octodon degus)",
+   "Q308770": "Rypoš obří (Fukomys mechowii)",
+   "Q679706": "Morče divoké (Cavia aperea)",
+   "Q741524": "Dikobraz srstnatonosý (Hystrix indica)"
+  }
+ },
+ {
+  "id": "Q1077117#2",
+  "species": "Kočkodan Hamlynův",
+  "latin": "Cercopithecus hamlyni",
+  "text": "Má lícní vaky, do kterých si ukládá potravu.",
+  "quote": "Tento druh má lícní vaky, ve kterých shromažďuje potravu při pastvě.",
+  "claimed_false_for": {
+   "Q101500289": "Hulman rudolící (Semnopithecus vetulus)",
+   "Q103928246": "Hulman nilgirský (Semnopithecus johnii)",
+   "Q1345391": "Hulman ebenový (Presbytis thomasi)",
+   "Q756080": "Langur čínský (Rhinopithecus roxellana)",
+   "Q949200": "Gueréza běloramenná (Colobus polykomos)"
+  }
+ },
+ {
+  "id": "Q1077117#3",
+  "species": "Kočkodan Hamlynův",
+  "latin": "Cercopithecus hamlyni",
+  "text": "Má bílý proužek na obličeji a vypadá trochu jako sova.",
+  "quote": "Přes obličej od čela po horní pysk se táhne charakteristický bílý proužek, který dává kočkodanu Hamlynovu jakési soví vzezření.",
+  "claimed_false_for": {
+   "Q103928246": "Hulman nilgirský (Semnopithecus johnii)",
+   "Q506518": "Makak lví (Macaca silenus)",
+   "Q520949": "Makak kápový (Macaca radiata)"
+  }
+ },
+ {
+  "id": "Q109262312#0",
+  "species": "Klokan Parryův",
+  "latin": "Notamacropus parryi",
+  "text": "Tento druh je denní živočich.",
+  "quote": "je klokan Parryův denní živočich",
+  "claimed_false_for": {
+   "Q109262318": "Klokan dama (Notamacropus eugenii)",
+   "Q109262322": "Klokan parma (Notamacropus parma)",
+   "Q209291": "Klokan rudoboký (Thylogale billardierii)",
+   "Q226933": "Klokan kosmatý (Lagorchestes hirsutus)",
+   "Q533063": "Klokan uzdičkový (Onychogalea fraenata)"
+  }
+ },
+ {
+  "id": "Q109262322#0",
+  "species": "Klokan parma",
+  "latin": "Notamacropus parma",
+  "text": "Tento druh je aktivní hlavně v noci.",
+  "quote": "Jsou aktivní převážně v noci.",
+  "claimed_false_for": {
+   "Q109262312": "Klokan Parryův (Notamacropus parryi)"
+  }
+ },
+ {
+  "id": "Q109262322#1",
+  "species": "Klokan parma",
+  "latin": "Notamacropus parma",
+  "text": "Váží 3,2 až 6 kilogramů.",
+  "quote": "Jeho hmotnost je 3,2 až 6 kg",
+  "claimed_false_for": {
+   "Q116250826": "Klokan antilopí (Osphranter antilopinus)",
+   "Q209174": "Klokan Matschieův (Dendrolagus matschiei)",
+   "Q270098": "Klokan obrovský (Macropus giganteus)",
+   "Q735179": "Klokan bažinný (Wallabia bicolor)"
+  }
+ },
+ {
+  "id": "Q109262322#2",
+  "species": "Klokan parma",
+  "latin": "Notamacropus parma",
+  "text": "Mládě bývá ve vaku asi sedm měsíců.",
+  "quote": "Ve vaku většinou mládě stráví sedm měsíců.",
+  "claimed_false_for": {
+   "Q533063": "Klokan uzdičkový (Onychogalea fraenata)"
+  }
+ },
+ {
+  "id": "Q109262323#3",
+  "species": "Klokan rudokrký",
+  "latin": "Notamacropus rufogriseus",
+  "text": "Dožívá se 12 až 15 let.",
+  "quote": "Dožívá se 12 až 15 let.",
+  "claimed_false_for": {
+   "Q210070": "Klokánek králíkovitý (Bettongia penicillata)"
+  }
+ },
+ {
+  "id": "Q1093802#0",
+  "species": "Psoun Merriamův",
+  "latin": "Cynomys mexicanus",
+  "text": "Tento druh je aktivní přes den.",
+  "quote": "Jedná se o denního hrabavého hlodavce",
+  "claimed_false_for": {
+   "Q243339": "Poletuška slovanská (Pteromys volans)",
+   "Q304884": "Tarbíkomyš Merriamova (Dipodomys merriami)"
+  }
+ },
+ {
+  "id": "Q110727#0",
+  "species": "Laoš",
+  "latin": "Laonastes aenigmamus",
+  "text": "Tento druh je aktivní hlavně v noci.",
+  "quote": "hlavní aktivitu vykazuje v noci",
+  "claimed_false_for": {
+   "Q281008": "Osmák degu (Octodon degus)"
+  }
+ },
+ {
+  "id": "Q110727#1",
+  "species": "Laoš",
+  "latin": "Laonastes aenigmamus",
+  "text": "Po vápencových skalách se pohybuje díky mozolům na nohou.",
+  "quote": "Nášlapné mozoly na nohou mu umožňují pohyb po vápencových skalách",
+  "claimed_false_for": {
+   "Q1162447": "Viskača (Lagostomus maximus)",
+   "Q131538": "Kapybara (Hydrochoerus hydrochaeris)",
+   "Q195350": "Mara slaništní (Dolichotis salinicola)",
+   "Q276290": "Rypoš lysý (Heterocephalus glaber)",
+   "Q643741": "Aguti Azarův (Dasyprocta azarae)",
+   "Q775170": "Aguti zlatý (Dasyprocta leporina)",
+   "Q79803": "Morče domácí (Cavia porcellus)"
+  }
+ },
+ {
+  "id": "Q110727#2",
+  "species": "Laoš",
+  "latin": "Laonastes aenigmamus",
+  "text": "Dosahuje délky těla 21 až 28 centimetrů.",
+  "quote": "Dosahují délky těla 21–28 cm",
+  "claimed_false_for": {
+   "Q1162447": "Viskača (Lagostomus maximus)",
+   "Q131538": "Kapybara (Hydrochoerus hydrochaeris)",
+   "Q195350": "Mara slaništní (Dolichotis salinicola)",
+   "Q276290": "Rypoš lysý (Heterocephalus glaber)",
+   "Q284417": "Pakarana (Dinomys branickii)",
+   "Q643741": "Aguti Azarův (Dasyprocta azarae)",
+   "Q775170": "Aguti zlatý (Dasyprocta leporina)"
+  }
+ },
+ {
+  "id": "Q111446938#0",
+  "species": "Outloň malý",
+  "latin": "Xanthonycticebus pygmaeus",
+  "text": "Živí se hmyzem, ovocem a rostlinnými výměšky.",
+  "quote": "živícího se hmyzem, rostlinnými exsudáty a ovocem",
+  "claimed_false_for": {
+   "Q1184997": "Sifaka Deckenův (Propithecus deckenii)",
+   "Q22113538": "Nártoun západosundský (Cephalopachus bancanus)",
+   "Q307262": "Avahi vlnatý (Avahi laniger)",
+   "Q536862": "Nártoun filipínský (Carlito syrichta)",
+   "Q575671": "Lemur rákosový (Hapalemur alaotrensis)",
+   "Q763853": "Sifaka bílý (Propithecus candidus)"
+  }
+ },
+ {
+  "id": "Q111446938#1",
+  "species": "Outloň malý",
+  "latin": "Xanthonycticebus pygmaeus",
+  "text": "Tento druh je aktivní v noci.",
+  "quote": "Jedná se o nočního tvora",
+  "claimed_false_for": {
+   "Q203868": "Indri (Indri indri)",
+   "Q516703": "Vari červený (Varecia rubra)",
+   "Q913789": "Sifaka malý (Propithecus verreauxi)"
+  }
+ },
+ {
+  "id": "Q111846#0",
+  "species": "Pásovec třípásý",
+  "latin": "Tolypeutes tricinctus",
+  "text": "Jí hlavně mravence a termity.",
+  "quote": "Živí se jako myrmekofág, čili požírá hlavně mravence a termity.",
+  "claimed_false_for": {
+   "Q142715": "Lenochod tříprstý (Bradypus tridactylus)",
+   "Q148752": "Lenochod hnědokrký (Bradypus variegatus)"
+  }
+ },
+ {
+  "id": "Q111846#1",
+  "species": "Pásovec třípásý",
+  "latin": "Tolypeutes tricinctus",
+  "text": "Tento druh se při nebezpečí stočí do klubíčka.",
+  "quote": "reaguje na hrozící nebezpečí stočením těla do klubíčka spíše než zahrabáním",
+  "claimed_false_for": {
+   "Q142715": "Lenochod tříprstý (Bradypus tridactylus)",
+   "Q148752": "Lenochod hnědokrký (Bradypus variegatus)",
+   "Q203033": "Mravenečník velký (Myrmecophaga tridactyla)",
+   "Q755719": "Pásovec velký (Priodontes maximus)",
+   "Q968416": "Pláštník velký (Calyptophractus retusus)"
+  }
+ },
+ {
+  "id": "Q1130566#2",
+  "species": "Bércoun africký",
+  "latin": "Macroscelides proboscideus",
+  "text": "Při ohrožení běží do úkrytu rychlostí až 20 km/h.",
+  "quote": "jsou-li ohroženi, běhají po cestách rychlostí až 20 km/h do nejbližšího úkrytu",
+  "claimed_false_for": {
+   "Q129544": "Dugong indický (Dugong dugon)",
+   "Q40261": "Kapustňák širokonosý (Trichechus manatus)"
+  }
+ },
+ {
+  "id": "Q1130566#3",
+  "species": "Bércoun africký",
+  "latin": "Macroscelides proboscideus",
+  "text": "Mláďata běhají už pár hodin po narození.",
+  "quote": "která běhají už pár hodin po narození",
+  "claimed_false_for": {
+   "Q852769": "Bodlín bezocasý (Tenrec ecaudatus)"
+  }
+ },
+ {
+  "id": "Q1130566#4",
+  "species": "Bércoun africký",
+  "latin": "Macroscelides proboscideus",
+  "text": "Jí kořínky, mladé výhonky a bobule.",
+  "quote": "nepohrdnou také kořínky, mladými rostlinnými výhonky nebo bobulemi",
+  "claimed_false_for": {
+   "Q129544": "Dugong indický (Dugong dugon)",
+   "Q387297": "Kapustňák senegalský (Trichechus senegalensis)",
+   "Q40261": "Kapustňák širokonosý (Trichechus manatus)"
+  }
+ },
+ {
+  "id": "Q1130566#5",
+  "species": "Bércoun africký",
+  "latin": "Macroscelides proboscideus",
+  "text": "Tento druh se schovává v opuštěných norách surikat nebo pískomilů.",
+  "quote": "Jako skrýše před predátory využívají opuštěné nory surikat, pískomilů nebo jiných hlodavců",
+  "claimed_false_for": {
+   "Q129544": "Dugong indický (Dugong dugon)",
+   "Q133006": "Slon indický (Elephas maximus)",
+   "Q323847": "Daman skalní (Procavia capensis)",
+   "Q36557": "Slon africký (Loxodonta africana)",
+   "Q387297": "Kapustňák senegalský (Trichechus senegalensis)",
+   "Q742828": "Daman pralesní (Dendrohyrax dorsalis)"
+  }
+ },
+ {
+  "id": "Q1136256#1",
+  "species": "Buvolec Lichtensteinův",
+  "latin": "Alcelaphus lichtensteinii",
+  "text": "Dává přednost buši před otevřenou savanou.",
+  "quote": "dává přednost buši před otevřenou savanou",
+  "claimed_false_for": {
+   "Q275615": "Oribi (Ourebia ourebi)"
+  }
+ },
+ {
+  "id": "Q1140251#4",
+  "species": "Chvostan černý",
+  "latin": "Chiropotes satanas",
+  "text": "Jí také pavouky a hmyz.",
+  "quote": "Chvostani černí mimoto konzumují také členovce, jako jsou pavouci a hmyz.",
+  "claimed_false_for": {
+   "Q583362": "Vřešťan rezavý (Alouatta seniculus)"
+  }
+ },
+ {
+  "id": "Q1140418#0",
+  "species": "Chápan pavoučí",
+  "latin": "Brachyteles arachnoides",
+  "text": "Živí se jen rostlinnou potravou, například plody.",
+  "quote": "Tato opice se živí pouze rostlinnou potravou, například plody.",
+  "claimed_false_for": {
+   "Q1151198": "Tamarín běloruký (Saguinus leucopus)",
+   "Q18324712": "Malpa hnědá (Sapajus apella)",
+   "Q208486": "Lvíček zlatý (Leontopithecus rosalia)",
+   "Q307153": "Mirikina obecná (Aotus trivirgatus)",
+   "Q476930": "Kotul veverovitý (Saimiri sciureus)",
+   "Q559289": "Chápan severní (Brachyteles hypoxanthus)",
+   "Q592510": "Tamarín bělovousý (Saguinus mystax)",
+   "Q775569": "Tamarín žlutoruký (Saguinus midas)",
+   "Q832345": "Chvostan bělolící (Pithecia pithecia)",
+   "Q838947": "Kosman bělovousý (Callithrix jacchus)"
+  }
+ },
+ {
+  "id": "Q1142656#0",
+  "species": "Vakomyš vlnatá",
+  "latin": "Antechinomys laniger",
+  "text": "Sbírá larvy hmyzu a bezobratlé.",
+  "quote": "sbírá larvy hmyzu a bezobratlé",
+  "claimed_false_for": {
+   "Q242419": "Mravencojed žíhaný (Myrmecobius fasciatus)"
+  }
+ },
+ {
+  "id": "Q1142656#1",
+  "species": "Vakomyš vlnatá",
+  "latin": "Antechinomys laniger",
+  "text": "Tento druh je aktivní v noci.",
+  "quote": "je nočním zvířetem",
+  "claimed_false_for": {
+   "Q242419": "Mravencojed žíhaný (Myrmecobius fasciatus)"
+  }
+ },
+ {
+  "id": "Q1143192#2",
+  "species": "Komba jižní",
+  "latin": "Galago moholi",
+  "text": "Tento druh je aktivní v noci.",
+  "quote": "Je aktivní v noci",
+  "claimed_false_for": {
+   "Q203868": "Indri (Indri indri)",
+   "Q516703": "Vari červený (Varecia rubra)",
+   "Q913789": "Sifaka malý (Propithecus verreauxi)"
+  }
+ },
+ {
+  "id": "Q1143192#3",
+  "species": "Komba jižní",
+  "latin": "Galago moholi",
+  "text": "Rodí obvykle dvě mláďata najednou.",
+  "quote": "narodí jedno až (častěji) dvě mláďata",
+  "claimed_false_for": {
+   "Q203868": "Indri (Indri indri)",
+   "Q536862": "Nártoun filipínský (Carlito syrichta)",
+   "Q747610": "Poto velký (Perodicticus potto)",
+   "Q763853": "Sifaka bílý (Propithecus candidus)",
+   "Q775192": "Lemur zlatý (Hapalemur aureus)"
+  }
+ },
+ {
+  "id": "Q1143192#6",
+  "species": "Komba jižní",
+  "latin": "Galago moholi",
+  "text": "Loví třeba kobylky, termity, motýly a brouky.",
+  "quote": "Komba jižní loví například kobylky, termity, motýly či brouky",
+  "claimed_false_for": {
+   "Q233936": "Lemur severní (Lepilemur septentrionalis)",
+   "Q307262": "Avahi vlnatý (Avahi laniger)",
+   "Q516703": "Vari červený (Varecia rubra)"
+  }
+ },
+ {
+  "id": "Q1151198#3",
+  "species": "Tamarín běloruký",
+  "latin": "Saguinus leucopus",
+  "text": "Žije v rodinných skupinách, které mají průměrně pět členů.",
+  "quote": "Žijí v rodinných skupinách tvořených průměrně 5 a nejvíce 15 členy",
+  "claimed_false_for": {
+   "Q1030670": "Chvostan bělonosý (Chiropotes albinasus)",
+   "Q1140251": "Chvostan černý (Chiropotes satanas)"
+  }
+ },
+ {
+  "id": "Q1151198#4",
+  "species": "Tamarín běloruký",
+  "latin": "Saguinus leucopus",
+  "text": "Loví i obojživelníky, ještěrky, pavouky, měkkýše a hmyz.",
+  "quote": "Aktivně loví i živočišnou kořist (obojživelníky, ještěrky, pavouky, měkkýše, hmyz).",
+  "claimed_false_for": {
+   "Q1140418": "Chápan pavoučí (Brachyteles arachnoides)"
+  }
+ },
+ {
+  "id": "Q1162447#0",
+  "species": "Viskača",
+  "latin": "Lagostomus maximus",
+  "text": "Žije v podzemních koloniích, které mají okolo třiceti jedinců.",
+  "quote": "Vytváří rozsáhlé podzemní kolonie nazvané viscacheras, v nichž žije okolo třiceti jedinců",
+  "claimed_false_for": {
+   "Q110727": "Laoš (Laonastes aenigmamus)",
+   "Q131538": "Kapybara (Hydrochoerus hydrochaeris)",
+   "Q643741": "Aguti Azarův (Dasyprocta azarae)",
+   "Q79803": "Morče domácí (Cavia porcellus)"
+  }
+ },
+ {
+  "id": "Q1162447#2",
+  "species": "Viskača",
+  "latin": "Lagostomus maximus",
+  "text": "Nevyužívané nory tohoto druhu obývá i sýček králičí.",
+  "quote": "Nevyužívané nory obývají i jiné živočichové, např. sýček králičí.",
+  "claimed_false_for": {
+   "Q110727": "Laoš (Laonastes aenigmamus)",
+   "Q1767321": "Dikobraz filipínský (Hystrix pumila)",
+   "Q262307": "Dikobraz obecný (Hystrix cristata)",
+   "Q308770": "Rypoš obří (Fukomys mechowii)",
+   "Q741524": "Dikobraz srstnatonosý (Hystrix indica)",
+   "Q838740": "Krysa skalní (Petromus typicus)"
+  }
+ },
+ {
+  "id": "Q1162447#3",
+  "species": "Viskača",
+  "latin": "Lagostomus maximus",
+  "text": "Mezi predátory tohoto druhu patří puma americká, kočka slaništní a maikong.",
+  "quote": "jako je puma americká, kočka slaništní nebo maikong",
+  "claimed_false_for": {
+   "Q110727": "Laoš (Laonastes aenigmamus)",
+   "Q276290": "Rypoš lysý (Heterocephalus glaber)"
+  }
+ },
+ {
+  "id": "Q116251176#2",
+  "species": "Klokan horský",
+  "latin": "Osphranter robustus",
+  "text": "Mládě žije ve vaku asi 8 měsíců.",
+  "quote": "mládě žije ve vaku kolem 240–260 dní",
+  "claimed_false_for": {
+   "Q726151": "Klokan quokka (Setonix brachyurus)"
+  }
+ },
+ {
+  "id": "Q1184997#0",
+  "species": "Sifaka Deckenův",
+  "latin": "Propithecus deckenii",
+  "text": "Je aktivní na začátku a na konci dne.",
+  "quote": "Sifaka Deckenův je aktivní na začátku a konci dne.",
+  "claimed_false_for": {
+   "Q1196226": "Komba Garnettova (Otolemur garnettii)",
+   "Q205837": "Maki tlustoocasý (Cheirogaleus medius)",
+   "Q614947": "Lori štíhlý (Loris tardigradus)",
+   "Q688601": "Outloň váhavý (Nycticebus coucang)",
+   "Q747610": "Poto velký (Perodicticus potto)"
+  }
+ },
+ {
+  "id": "Q1193851#3",
+  "species": "Hulman kaštanový",
+  "latin": "Presbytis rubicunda",
+  "text": "Žije v tlupách, obvykle po 2 až 12 zvířatech.",
+  "quote": "Tlupy typicky zahrnují 2 až 12 zvířat",
+  "claimed_false_for": {
+   "Q1194880": "Kočkodan mona (Cercopithecus mona)",
+   "Q636075": "Kočkodan Rolowayův (Cercopithecus roloway)",
+   "Q751636": "Pavián babuin (Papio cynocephalus)"
+  }
+ },
+ {
+  "id": "Q1194880#0",
+  "species": "Kočkodan mona",
+  "latin": "Cercopithecus mona",
+  "text": "Živí se převážně ovocem.",
+  "quote": "Živí se převážně ovocem",
+  "claimed_false_for": {
+   "Q205700": "Hulman chocholatý (Trachypithecus pileatus)",
+   "Q838944": "Langur duk (Pygathrix nemaeus)",
+   "Q913807": "Gueréza zanzibarská (Piliocolobus kirkii)"
+  }
+ },
+ {
+  "id": "Q1196226#0",
+  "species": "Komba Garnettova",
+  "latin": "Otolemur garnettii",
+  "text": "Tento druh je aktivní v noci.",
+  "quote": "Aktivní je v noci a živí se ovocem a hmyzem.",
+  "claimed_false_for": {
+   "Q1184997": "Sifaka Deckenův (Propithecus deckenii)",
+   "Q763853": "Sifaka bílý (Propithecus candidus)",
+   "Q998074": "Lemur vari (Varecia variegata)"
+  }
+ },
+ {
+  "id": "Q1196226#1",
+  "species": "Komba Garnettova",
+  "latin": "Otolemur garnettii",
+  "text": "Váží od 500 g do 1 kg.",
+  "quote": "Hmotnost se pohybuje od 500 g do 1 kg.",
+  "claimed_false_for": {
+   "Q1184997": "Sifaka Deckenův (Propithecus deckenii)",
+   "Q205837": "Maki tlustoocasý (Cheirogaleus medius)",
+   "Q55332": "Lemur tmavý (Eulemur macaco)",
+   "Q677608": "Sifaka velký (Propithecus diadema)",
+   "Q913789": "Sifaka malý (Propithecus verreauxi)",
+   "Q998074": "Lemur vari (Varecia variegata)"
+  }
+ }
+]

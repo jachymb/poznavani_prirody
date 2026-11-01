@@ -1,0 +1,291 @@
+{
+ "facts": [
+  {
+   "id": "Q204322#1",
+   "species": "Kočka šedá",
+   "text": "Loví hlavně za soumraku a za svítání.",
+   "quote": "V přírodě loví hlavně během soumraku a svítání."
+  },
+  {
+   "id": "Q213141#2",
+   "species": "Binturong",
+   "text": "Tento druh jí hlavně ovoce, nejčastěji fíky.",
+   "quote": "Binturong je převážně plodožravý (nejčastěji jí fíky)"
+  },
+  {
+   "id": "Q182304#5",
+   "species": "Jaguarundi",
+   "text": "Loví i králíky, pásovce a vačice.",
+   "quote": "v menší míře i králíci, pásovci, vačice"
+  },
+  {
+   "id": "Q36135#2",
+   "species": "Levhart obláčkový",
+   "text": "Žije v tropických lesích jižní a východní Asie.",
+   "quote": "Levhart obláčkový se vyskytuje v jižní, jihovýchodní a východní Asii, kde obývá především různé typy tropických lesů."
+  },
+  {
+   "id": "Q188657#0",
+   "species": "Hyena žíhaná",
+   "text": "Loví hmyz a menší obratlovce, včetně želv a dikobrazů.",
+   "quote": "Loví hmyz a menší obratlovce, včetně suchozemských želv a dikobrazů."
+  },
+  {
+   "id": "Q188657#1",
+   "species": "Hyena žíhaná",
+   "text": "Tento druh je aktivní hlavně v noci.",
+   "quote": "má výrazně noční aktivitu."
+  },
+  {
+   "id": "Q35255#0",
+   "species": "Puma americká",
+   "text": "Živí se hlavně kopytníky, například jeleny.",
+   "quote": "Živí se především kopytníky, zvláště různými druhy jelenovitých nebo velbloudovitých."
+  },
+  {
+   "id": "Q131907#3",
+   "species": "Rys červený",
+   "text": "Na jaře se rodí většinou 2 až 4 mláďata.",
+   "quote": "Mláďata (většinou 2-4) se rodí na jaře po asi dvouměsíční březosti."
+  },
+  {
+   "id": "Q757265#0",
+   "species": "Cibetka asijská",
+   "text": "Tento druh je aktivní téměř jen v noci.",
+   "quote": "Cibetka asijská je aktivní takřka výhradně v noci."
+  },
+  {
+   "id": "Q204814#0",
+   "species": "Kočka černonohá",
+   "text": "Tento druh je aktivní v noci nebo za soumraku.",
+   "quote": "Kočky černonohé mají striktně noční, případně soumračnou aktivitu."
+  },
+  {
+   "id": "Q210314#4",
+   "species": "Kočka pampová",
+   "text": "Tento druh v Patagonii vybírá hnízda tučňáků.",
+   "quote": "V Patagonii vybírají hnízda tučňákům"
+  },
+  {
+   "id": "Q938494#1",
+   "species": "Promyka krabová",
+   "text": "Váží 1,1 až 2,5 kilogramu.",
+   "quote": "Hmotnost se pohybuje v rozmezí 1100 až 2500 g."
+  },
+  {
+   "id": "Q140#9",
+   "species": "Lev",
+   "text": "Tento druh brání ulovenou kořist před hyenami.",
+   "quote": "Smečka také pomáhá při ubránění již ulovené kořisti před ostatními predátory, například hyenami"
+  },
+  {
+   "id": "Q23907#5",
+   "species": "Gepard štíhlý",
+   "text": "Koťata mají na hřbetě světlou hřívu, kterou později ztratí.",
+   "quote": "Na hřbetě mají světlou hřívu, kterou během dospívání ztrácí."
+  },
+  {
+   "id": "Q734351#1",
+   "species": "Cibetka malá",
+   "text": "Dožívá se osmi až devíti let.",
+   "quote": "Cibetky malé se dožívají osmi až devíti let."
+  },
+  {
+   "id": "Q757265#3",
+   "species": "Cibetka asijská",
+   "text": "Na ocase má pět nebo šest černých pruhů.",
+   "quote": "ocas zdobí pět nebo šest černých pruhů."
+  },
+  {
+   "id": "Q525088#0",
+   "species": "Fanaloka",
+   "text": "Jí malé obratlovce, hmyz a vodní živočichy.",
+   "quote": "Na jeho jídelníčku najdeme malé obratlovce, hmyz, vodní živočichy a vejce ukradená z ptačích hnízd."
+  },
+  {
+   "id": "Q35694#9",
+   "species": "Jaguár americký",
+   "text": "Jí i ptáky, ryby, lenochody a opice.",
+   "quote": "ptáky (Aves), ryby (Actinopterygii), lenochody (Folivora), opice (Simiiformes)"
+  },
+  {
+   "id": "Q175329#3",
+   "species": "Kočka pouštní",
+   "text": "Slyší kořist i pod pískem a vyhrabe ji.",
+   "quote": "Dokáže slyšet svou kořist pod vrstvou písku, následně ji vyhrabe."
+  },
+  {
+   "id": "Q34706#5",
+   "species": "Levhart skvrnitý",
+   "text": "Tento druh ukrývá kořist na stromech před jinými šelmami.",
+   "quote": "kam si vynáší kořist a ukrývá si ji zde před dalšími predátory"
+  }
+ ],
+ "candidates": {
+  "Q274177": {
+   "name": "Kočka plochočelá",
+   "latin": "Prionailurus planiceps",
+   "family": "kočkovití",
+   "lead": "Kočka plochočelá (Prionailurus planiceps) je málo známá a vzácná malá kočkovitá šelma, žijící na ostrovech Borneo, Sumatra a na Malajském poloostrově.\n\n\n== Popis ==\nHmotnost: 1,5–3 kg\nDélka těla: 41–61 cm\nDélka ocasu: 15–20 cm\nVýška: 33–50 cm\nKočka plochočelá je velká asi jako domácí kočka, ale výrazně se od ní odlišuje tělesnými proporcemi. Má širokou hlavu s poněkud plochým čelem, což jí dalo jméno. Uši jsou malé a nízko nasazené, podobně jako u manula, oči naopak velmi velké a hlavu opticky j",
+   "facts": [
+    "Jí hlavně ryby a žáby.",
+    "Má mezi prsty plovací blánu.",
+    "Žije u vody, například v bažinách nebo u řek.",
+    "Váží jen 1,5 až 3 kilogramy.",
+    "Na plantážích olejové palmy loví hlodavce.",
+    "Jí také korýše.",
+    "Vyhrabává sladké brambory."
+   ]
+  },
+  "Q30197": {
+   "name": "Irbis",
+   "latin": "Panthera uncia",
+   "family": "kočkovití",
+   "lead": "Irbis (Panthera uncia, dříve také Uncia uncia), též irbis horský či levhart sněžný je kočkovitá šelma z podčeledi velkých koček obývající horské masivy Střední Asie.\nIrbis vzhledem připomíná levharta, je o něco menší, ale robustnější. Délka těla je 103–130 cm, délka ocasu 90–105 cm. Výška v plecích dosahuje kolem 60 cm, váha 22–55 kg (samci jsou o něco mohutnější než samice). Srst je měkká, hustá (kolem 4000 chlupů na cm²) a obzvláště v zimě velmi dlouhá (na břiše až 120 mm). Na základním světlé",
+   "facts": [
+    "Jeho světlá srst mu pomáhá splynout se skalami a sněhem.",
+    "Loví hlavně horské kopytníky, tedy kozy a ovce.",
+    "Žije většinou ve výškách 1500 až 4000 metrů.",
+    "Dospělý samec váží až 55 kilogramů.",
+    "Tento druh je aktivní hlavně za soumraku a za úsvitu.",
+    "V přírodě nemá žádné nepřátele kromě člověka.",
+    "Ve volné přírodě se dožívá až 13 let.",
+    "Mláďata se rodí slepá a bezmocná.",
+    "Loví také svišťe a zajíce.",
+    "Jí také trávu a větvičky.",
+    "Může dhoulům ukrást úlovek, třeba zabitou kozu."
+   ]
+  },
+  "Q204322": {
+   "name": "Kočka šedá",
+   "latin": "Felis bieti",
+   "family": "kočkovití",
+   "lead": "Kočka šedá (Felis bieti) obývá horské oblasti severovýchodní části Tibetské náhorní plošiny, v nadmořských výškách 2500–5000 m. Jedná se o jeden z nejméně známých druhů kočkovitých šelem.\n\n\n== Vzhled ==\nHmotnost: 6 až 9 kg\nDélka: 68–84 cm + 29–36 cm délka ocasu\nJsou to zavalité kočky, podstatně větší než běžná kočka domácí. V zimě mají žlutošedou srst, v létě jsou tmavohnědé. Srst je dlouhá, hustá a má silnou podsadu. Uším vyrůstají na černých koncích štětinky. Na hřbetě a končetinách mají tmavš",
+   "facts": [
+    "Jí hlavně hraboše a pišťuchy.",
+    "Loví hlavně za soumraku a za svítání.",
+    "Loví i ptáky, například bažanty."
+   ]
+  },
+  "Q513081": {
+   "name": "Nandinie",
+   "latin": "Nandinia binotata",
+   "family": "Nandiniidae",
+   "lead": "Nandinie znamenaná (Nandinia binotata) je malá šelma žijící v lesích subsaharské Afriky.\nTělo měří 37 až 63 cm, ocas je 34 až 76 cm dlouhý. Hmotnost se pohybuje od 1,2 do 3 kg. Srst má šedohnědou nebo rezavohnědou barvu, spodní část těla je světlejší. Boky a hřbet pokrývají tmavě hnědé skvrny. Na břiše a mezi prsty má pachové žlázy. Je to samotářské zvíře s noční aktivitou. Velkou část života tráví na stromech, po nichž se pohybuje extrémně mrštně. Živí se především ovocem (80 %\npotravy), doplňo",
+   "facts": [
+    "Živí se především ovocem.",
+    "Tento druh tráví velkou část života na stromech."
+   ]
+  },
+  "Q188657": {
+   "name": "Hyena žíhaná",
+   "latin": "Hyaena hyaena",
+   "family": "hyenovití",
+   "lead": "Hyena žíhaná (Hyaena hyaena) je jediným druhem hyeny, která se vyskytuje i mimo území Afriky, v Asii. Obývá rozsáhlé území stepí a polopouští od Senegalu po Indii a od Tanzanie až po Turkmenistán. Preferuje otevřenou krajinu stepí a savan, lesnatým územím a pouštím se vyhýbá.\n\n\n== Popis ==\nHyena žíhaná je štíhlé, vysokonohé zvíře, připomínající postavou psa. Dorůstá délky asi 110 cm a dalších 20 cm připadá na huňatý ocas. Váží pouze 40–45 kg, díky vztyčitelné hřívě na šíji a krku ale vypadá mohu",
+   "facts": [
+    "Loví hmyz a menší obratlovce, včetně želv a dikobrazů.",
+    "Tento druh je aktivní hlavně v noci.",
+    "Dožívá se až 20 let.",
+    "Mláďata se rodí slepá.",
+    "Dojídá zbytky po lvech, gepardech a vlcích.",
+    "Oblíbenou potravou jsou plody hlošiny úzkolisté."
+   ]
+  },
+  "Q210314": {
+   "name": "Kočka pampová",
+   "latin": "Leopardus colocola",
+   "family": "kočkovití",
+   "lead": "Kočka pampová (Leopardus colocolo) je jihoamerická divoká malá kočkovitá šelma. Ve své domovině je nazývána gato pajero.\n\n\n== Klasifikace ==\nV minulosti se kočka pampová řadila do rodu Felis, jako Felis colocolo. V roce 1993 vyčlenil Wozencraft kočku pampovou společně s kočkou slaništní a tmavou do samostatného rodu Oncifelis, aby tak zdůraznil jejich blízkou příbuznost. Tuto klasifikaci ale v roce 1994 zpochybnila García-Perea, která kočku pampovou zařadila do samostatného rodu Lynchailurus a n",
+   "facts": [
+    "Tento druh je pravděpodobně aktivní hlavně v noci.",
+    "Loví hlavně malé savce, například morčata, a ptáky.",
+    "Tento druh měří 51 až 76 centimetrů bez ocasu.",
+    "V jednom vrhu má jen jedno nebo dvě mláďata.",
+    "Tento druh v Patagonii vybírá hnízda tučňáků."
+   ]
+  },
+  "Q175329": {
+   "name": "Kočka pouštní",
+   "latin": "Felis margarita",
+   "family": "kočkovití",
+   "lead": "Kočka pouštní nebo také kočka písečná (Felis margarita) je jedna z nejmenších divokých kočkovitých šelem, obývá pouštní oblasti severní Afriky a Blízkého východu.\n\n\n== Vzhled ==\nHmotnost: 1,4–3,4 kg\nDélka: 39–57 cm + 23–31 cm ocas\nVýška: 24–30 cm\nKočka pouštní se od kočky domácí kromě velikosti odlišuje nápadně širokou hlavou a velkými ušními boltci. Má kulaté tělo a krátké končetiny. Srst je měkká, hustá, jednotvárně pískově nebo šedě zbarvená. Na končetinách a ocasu může být naznačené mourován",
+   "facts": [
+    "Tento druh má velké uši a širokou hlavu.",
+    "Tento druh je aktivní v noci.",
+    "V zajetí se dožívá až 13 let.",
+    "Slyší kořist i pod pískem a vyhrabe ji.",
+    "Loví pískomily, hmyz, ještěrky a ptáky.",
+    "Dokáže ulovit i jedovaté hady.",
+    "Loví ho šakali, draví ptáci, sovy a jedovatí hadi."
+   ]
+  },
+  "Q34706": {
+   "name": "Levhart skvrnitý",
+   "latin": "Panthera pardus",
+   "family": "kočkovití",
+   "lead": "Levhart skvrnitý (Panthera pardus) či pouze levhart, někdy také nazývaný leopard, panter, panther nebo pardál, je velká kočkovitá šelma. Druh vědecky popsal Carl Linné ve svém díle Systema naturae v roce 1758. Levharti se vyvinuli pravděpodobně v Africe asi před 3–4 miliony let, odkud se rozšířili do Asie a Evropy.\nLevhart je statná kočkovitá šelma s velkou hlavou, středně dlouhými končetinami a dlouhým ocasem. Velmi se podobá jaguárovi, který je však robustnější, má relativně kratší ocas a větš",
+   "facts": [
+    "Tento druh má u každého jedince jinou kresbu srsti, jako otisk prstu.",
+    "Loví hlavně antilopy, gazely, divoké ovce a kozy.",
+    "Tento druh žije v Africe a v Asii v mnoha typech prostředí.",
+    "Tento druh většinu dne odpočívá na stromech nebo skalách.",
+    "Soupeří se lvy a hyenami.",
+    "Tento druh ukrývá kořist na stromech před jinými šelmami.",
+    "Tento druh pije zhruba jednou za tři dny.",
+    "Tento druh běží krátce rychlostí kolem 60 km/h.",
+    "Tento druh v nouzi jí i hmyz, ryby a obojživelníky.",
+    "Klíšťata a blechy na něm parazitují.",
+    "Paviáni jsou jeho nepřátelé."
+   ]
+  },
+  "Q613760": {
+   "name": "Promyka mungo",
+   "latin": "Herpestes edwardsii",
+   "family": "promykovití",
+   "lead": "Promyka mungo či promyka indická (Herpestes edwardsii) je promykovitá šelma vyskytující se na jihu Asie. Je známá tím, že loví i velké a prudce jedovaté hady. Indové ji proto s oblibou dávají svým dětem a nechávají ji přespávat v dětských pokojích – nejen jako domácího mazlíčka, ale též jako ochranu před hady. V některých zemích, kam byla zavlečena člověkem, je vedena jako nebezpečný invazní druh.\nRudyard Kipling ji zvěčnil ve svých Knihách džunglí, kde vystupuje sameček tohoto druhu, Riki-Tiki-",
+   "facts": [
+    "Loví i velké a prudce jedovaté hady.",
+    "V některých zemích je nebezpečným invazním druhem."
+   ]
+  },
+  "Q309274": {
+   "name": "Kočka cejlonská",
+   "latin": "Prionailurus rubiginosus",
+   "family": "kočkovití",
+   "lead": "Kočka cejlonská (Prionailurus rubiginosus) je spolu s africkou kočkou černonohou nejmenší kočkovitá šelma. Žije v Indii, Nepálu a na Srí Lance. Obývá především různé typy lesů, křovinaté savany a další přírodní stanoviště, nicméně dokáže přežít i v zemědělské krajině a v opuštěných lidských obydlích. O chování ve volné přírodě chybí dostatek informací. Jde nejspíše o nočního tvora, jehož hlavní\npotravou jsou hlodavci a ptáci. Mezinárodní svaz ochrany přírody vede tento druh jako téměř ohrožený.\n",
+   "facts": [
+    "Tento druh má na temeni hlavy čtyři tmavé pruhy.",
+    "Živí se hlavně hlodavci a ptáky.",
+    "Tento druh je spíše noční a žije sám.",
+    "V zajetí se dožívá 12 až 18 let.",
+    "Živí se i hmyzem, ještěrkami a žábami.",
+    "Tento druh nejspíše napadá drůbež, když má příležitost."
+   ]
+  },
+  "Q734351": {
+   "name": "Cibetka malá",
+   "latin": "Viverricula indica",
+   "family": "cibetkovití",
+   "lead": "Cibetka malá (Viverricula indica) je cibetka přirozeně se vyskytující v jižní a jihovýchodní Asii. Na Červeném seznamu IUCN patří mezi málo dotčené taxony, díky svému rozsáhlému rozšíření, množství obývaných habitatů a zdravé populaci obývající i zemědělskou krajinu v mnoha zemích.\n\n\n== Popis ==\nCibetka malá má hrubší srst hnědavě šedé až plavohnědé barvy obvykle s několika podélnými černými nebo hnědými pruhy na zádech a podélnými řadami skvrn po stranách. Obvykle jde o čtyři až pět řad skvrn n",
+   "facts": [
+    "Tento druh je aktivní hlavně v noci.",
+    "Dožívá se osmi až devíti let.",
+    "Živí se hlodavci, ptáky a plazy.",
+    "Jí také ovoce a kořínky."
+   ]
+  },
+  "Q80191": {
+   "name": "Kočka mramorovaná",
+   "latin": "Pardofelis marmorata",
+   "family": "kočkovití",
+   "lead": "Kočka mramorovaná (Pardofelis marmorata) je málo známý druh kočkovitých šelem žijící v jižní a jihovýchodní Asii. Velkou část života tráví na stromech, kde loví ptáky, veverky, žáby a jiné malé živočichy. Dosahuje jen o málo větší velikosti než kočka domácí. Podle norem IUCN je vedená jako téměř ohrožená.\n\n\n== Synonyma ==\nFelis marmorata\n\n\n== Vzhled ==\n\nDélka těla: 45–62 cm\nDélka ocasu: 35–55 cm\nHmotnost: 2–5 kg\nKočka mramorovaná se podobá malému levhartu obláčkovému. Základní barva je žlutohněd",
+   "facts": [
+    "Tráví velkou část života na stromech.",
+    "Tento druh je podle odhadů aktivní hlavně v noci.",
+    "Rodí obvykle dvě mláďata.",
+    "Má na uchu bílou skvrnu, která slouží ke komunikaci.",
+    "Tento druh loví veverky, ptáky, ještěrky a žáby."
+   ]
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{"results": [
+{"id":"Q318090#8","false_for":[],"bad":false,"why":""},
+{"id":"Q188212#1","false_for":["Q80378","Q185260"],"bad":false,"why":""},
+{"id":"Q190469#0","false_for":["Q80378","Q185260"],"bad":false,"why":""},
+{"id":"Q618595#0","false_for":["Q318090","Q129026","Q190469","Q192158","Q26337","Q726384","Q188212","Q185260","Q80378","Q370444"],"bad":false,"why":""},
+{"id":"Q80378#2","false_for":[],"bad":false,"why":""},
+{"id":"Q129026#8","false_for":["Q80378","Q185260"],"bad":false,"why":""},
+{"id":"Q318090#1","false_for":["Q370444"],"bad":false,"why":""},
+{"id":"Q80378#3","false_for":["Q129026","Q192158","Q318090","Q26337","Q190469","Q188212","Q618595","Q185260","Q169468"],"bad":false,"why":""},
+{"id":"Q318090#0","false_for":["Q190469","Q726384","Q169468","Q129026"],"bad":false,"why":""},
+{"id":"Q726384#1","false_for":["Q188212","Q80378","Q26337"],"bad":false,"why":""},
+{"id":"Q190469#1","false_for":["Q192158","Q26337","Q80378","Q185260","Q370444","Q618595","Q318090","Q129026"],"bad":false,"why":""},
+{"id":"Q318090#6","false_for":["Q80378","Q185260"],"bad":false,"why":""},
+{"id":"Q190469#3","false_for":[],"bad":true,"why":"vágní, bez kontextu a pro děti nevhodně pochmurné; nic rozlišujícího"},
+{"id":"Q370444#5","false_for":["Q80378","Q185260"],"bad":false,"why":""},
+{"id":"Q192158#6","false_for":["Q80378","Q185260","Q169468"],"bad":false,"why":""},
+{"id":"Q26337#6","false_for":[],"bad":false,"why":""},
+{"id":"Q129026#6","false_for":["Q726384","Q169468","Q192158","Q26337","Q190469","Q318090","Q188212","Q80378"],"bad":false,"why":""},
+{"id":"Q726384#0","false_for":[],"bad":false,"why":""},
+{"id":"Q192158#7","false_for":[],"bad":false,"why":""},
+{"id":"Q188212#5","false_for":["Q129026","Q80378","Q370444","Q26337","Q726384"],"bad":false,"why":""}
+]}

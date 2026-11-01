@@ -1,0 +1,495 @@
+[
+ {
+  "id": "Q28017708#0",
+  "species": "Skokan hrotnatý",
+  "latin": "Cornufer guentheri",
+  "text": "Tento druh loví v noci a číhá na kořist.",
+  "quote": "Jde o nočního predátora, který loví ze zálohy",
+  "claimed_false_for": {
+   "Q2276155": "Mantela zelená (Mantella viridis)",
+   "Q775326": "Mantela zlatá (Mantella aurantiaca)",
+   "Q963997": "Pralesnička strašná (Phyllobates terribilis)"
+  }
+ },
+ {
+  "id": "Q28017708#1",
+  "species": "Skokan hrotnatý",
+  "latin": "Cornufer guentheri",
+  "text": "Tento druh klade 8 až 22 vajíček na vlhké místo.",
+  "quote": "Snůška činí 8 až 22 vajíček, samice ji ukládá na vlhké místo.",
+  "claimed_false_for": {
+   "Q146375": "Ropucha obecná (Bufo bufo)",
+   "Q44324": "Skokan ostronosý (Rana arvalis)"
+  }
+ },
+ {
+  "id": "Q28027978#0",
+  "species": "Drsnokožka stříkaná",
+  "latin": "Theloderma pictum",
+  "text": "Tento druh je aktivní v noci, přes den se schovává.",
+  "quote": "Den tráví skrytá v listoví stromů, aktivní je pouze v noci.",
+  "claimed_false_for": {
+   "Q138853": "Pralesnička ohnivá (Oophaga histrionica)",
+   "Q1519617": "Pralesnička pruhovaná (Phyllobates vittatus)"
+  }
+ },
+ {
+  "id": "Q28027978#1",
+  "species": "Drsnokožka stříkaná",
+  "latin": "Theloderma pictum",
+  "text": "Loví drobné suchozemské živočichy bez páteře.",
+  "quote": "drobnými, suchozemskými, bezobratlými živočichy",
+  "claimed_false_for": {
+   "Q1628083": "Vodnice posvátná (Telmatobius culeus)",
+   "Q654718": "Drápatka vodní (Xenopus laevis)"
+  }
+ },
+ {
+  "id": "Q28027978#2",
+  "species": "Drsnokožka stříkaná",
+  "latin": "Theloderma pictum",
+  "text": "Tento druh klade vajíčka do pěnového hnízda v dutině stromu.",
+  "quote": "Oplodněná vajíčka vloží do pěnového hnízda, které přilepí na stěnu dutiny naplněné vodou",
+  "claimed_false_for": {
+   "Q1499291": "Ropušenka drobná (Brachycephalus ephippium)",
+   "Q1519617": "Pralesnička pruhovaná (Phyllobates vittatus)",
+   "Q1549384": "Pamlok sibiřský (Salamandrella keyserlingii)",
+   "Q1628083": "Vodnice posvátná (Telmatobius culeus)",
+   "Q2247380": "Hvízdalka bolivijská (Leptodactylus bolivianus)",
+   "Q2274157": "Leiopelma Archeyova (Leiopelma archeyi)",
+   "Q2274193": "Mantela hnědočerná (Mantella betsileo)",
+   "Q2691035": "Vakorosnička rohatá (Gastrotheca cornuta)",
+   "Q586567": "Nosatka Darwinova (Rhinoderma darwinii)",
+   "Q654718": "Drápatka vodní (Xenopus laevis)",
+   "Q775326": "Mantela zlatá (Mantella aurantiaca)",
+   "Q996518": "Ocasatka americká (Ascaphus truei)"
+  }
+ },
+ {
+  "id": "Q28027978#3",
+  "species": "Drsnokožka stříkaná",
+  "latin": "Theloderma pictum",
+  "text": "Žije hlavně ve starých, původních lesích.",
+  "quote": "Obývá hlavně staré, původní lesy",
+  "claimed_false_for": {
+   "Q1882659": "Rákosnička páskovaná (Hyperolius argus)",
+   "Q372267": "Kuňka obecná (Bombina bombina)"
+  }
+ },
+ {
+  "id": "Q28031739#0",
+  "species": "Ropucha jihoasijská",
+  "latin": "Duttaphrynus melanostictus",
+  "text": "Tento druh je aktivní hlavně v noci.",
+  "quote": "je suchozemská, převážně noční žába",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q28031739#2",
+  "species": "Ropucha jihoasijská",
+  "latin": "Duttaphrynus melanostictus",
+  "text": "Tento druh vyprodukuje až 40 000 vajíček.",
+  "quote": "Jedná samice jich vyprodukuje až 40 000.",
+  "claimed_false_for": {
+   "Q2142057": "Rosnička zelená (Hyla arborea)",
+   "Q2274157": "Leiopelma Archeyova (Leiopelma archeyi)",
+   "Q2274204": "Japonečka Bürgerova (Buergeria buergeri)",
+   "Q2571127": "Otylka krátkohlavá (Breviceps adspersus)",
+   "Q28027978": "Drsnokožka stříkaná (Theloderma pictum)",
+   "Q28056419": "Malgaška velká (Cophyla grandis)",
+   "Q545917": "Skokan štíhlý (Rana dalmatina)",
+   "Q996518": "Ocasatka americká (Ascaphus truei)"
+  }
+ },
+ {
+  "id": "Q28031739#3",
+  "species": "Ropucha jihoasijská",
+  "latin": "Duttaphrynus melanostictus",
+  "text": "Tento druh má na těle žlázy s jedovatými látkami.",
+  "quote": "po celém těle roztroušené žlázy vylučující toxické látky",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q28056419#1",
+  "species": "Malgaška velká",
+  "latin": "Cophyla grandis",
+  "text": "Samec hlídá pulce, dokud se nepromění.",
+  "quote": "Pulci se vyvíjí ve vodě v dutině střeženi samcem, dokud neprojdou proměnou",
+  "claimed_false_for": {
+   "Q1061702": "Kuňka východní (Bombina orientalis)",
+   "Q1472041": "Rosnice běloretá (Litoria infrafrenata)",
+   "Q2275335": "Skokan krabožravý (Fejervarya cancrivora)",
+   "Q2698012": "Mločík kalifornský (Batrachoseps attenuatus)",
+   "Q28004559": "Ropucha portorická (Peltophryne lemur)",
+   "Q28017708": "Skokan hrotnatý (Cornufer guentheri)",
+   "Q28031739": "Ropucha jihoasijská (Duttaphrynus melanostictus)",
+   "Q733704": "Rosnička japonská (Hyla japonica)",
+   "Q943919": "Mantela černožlutá (Mantella cowanii)"
+  }
+ },
+ {
+  "id": "Q282715#0",
+  "species": "Čolek horský",
+  "latin": "Ichthyosaura alpestris",
+  "text": "Tento druh je v noci aktivní a loví drobný hmyz, pavouky a žížaly.",
+  "quote": "V noci se vydávají na lov – potravu tvoří drobný lezoucí hmyz, larvy hmyzu, pavouci, stínky, svinky, žížaly a plži.",
+  "claimed_false_for": {
+   "Q319393": "Skokan skřehotavý (Pelophylax ridibundus)"
+  }
+ },
+ {
+  "id": "Q3018592#0",
+  "species": "Drápatečka Beottgerova",
+  "latin": "Hymenochirus boettgeri",
+  "text": "Dožívá se až 18 let.",
+  "quote": "Tato drápatečka se dožívá až 18 let.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q3018592#1",
+  "species": "Drápatečka Beottgerova",
+  "latin": "Hymenochirus boettgeri",
+  "text": "Tento druh vidí jen na vzdálenost několika centimetrů.",
+  "quote": "Drápatečka Beottgerova nemá příliš dobrý zrak, vidí na vzdálenost několika centimetrů.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q31694#1",
+  "species": "Skokan zelený",
+  "latin": "Pelophylax esculentus",
+  "text": "Dokáže skočit až metr daleko.",
+  "quote": "Za určitých podmínek dokáže skočit až metr daleko",
+  "claimed_false_for": {
+   "Q1499291": "Ropušenka drobná (Brachycephalus ephippium)",
+   "Q1519617": "Pralesnička pruhovaná (Phyllobates vittatus)",
+   "Q1549384": "Pamlok sibiřský (Salamandrella keyserlingii)",
+   "Q2274193": "Mantela hnědočerná (Mantella betsileo)",
+   "Q775326": "Mantela zlatá (Mantella aurantiaca)"
+  }
+ },
+ {
+  "id": "Q31694#2",
+  "species": "Skokan zelený",
+  "latin": "Pelophylax esculentus",
+  "text": "Snáší průměrně 2000 vajíček v podobě chuchvalce.",
+  "quote": "Samice snáší průměrně 2000 vajíček v podobě chuchvalce",
+  "claimed_false_for": {
+   "Q1033375": "Leiopelma Hamiltonova (Leiopelma hamiltoni)",
+   "Q1540596": "Taricha zrnitá (Taricha granulosa)",
+   "Q1552306": "Čolek zelenavý (Notophthalmus viridescens)",
+   "Q2274204": "Japonečka Bürgerova (Buergeria buergeri)",
+   "Q24796785": "Rosněnka průsvitná (Espadarana prosoblepon)",
+   "Q372267": "Kuňka obecná (Bombina bombina)",
+   "Q615690": "Pralesnička harlekýn (Dendrobates leucomelas)"
+  }
+ },
+ {
+  "id": "Q319393#0",
+  "species": "Skokan skřehotavý",
+  "latin": "Pelophylax ridibundus",
+  "text": "Tento druh je aktivní ve dne.",
+  "quote": "Skokan skřehotavý je aktivní ve dne.",
+  "claimed_false_for": {
+   "Q28004559": "Ropucha portorická (Peltophryne lemur)",
+   "Q28017708": "Skokan hrotnatý (Cornufer guentheri)",
+   "Q28031739": "Ropucha jihoasijská (Duttaphrynus melanostictus)",
+   "Q61523": "Ropuška baleárská (Alytes muletensis)"
+  }
+ },
+ {
+  "id": "Q319393#1",
+  "species": "Skokan skřehotavý",
+  "latin": "Pelophylax ridibundus",
+  "text": "Dožívá se ve volné přírodě průměrně 5 až 10 let.",
+  "quote": "ve volné přírodě se průměrně dožívají 5–10 let",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q320632#1",
+  "species": "Ropucha zlatá",
+  "latin": "Incilius periglenes",
+  "text": "Tento druh kladl vajíčka do malých vodních nádrží.",
+  "quote": "Byl závislý na srážkách, protože vajíčka kladl do malých vodních nádrží.",
+  "claimed_false_for": {
+   "Q1499291": "Ropušenka drobná (Brachycephalus ephippium)",
+   "Q2274157": "Leiopelma Archeyova (Leiopelma archeyi)",
+   "Q2691035": "Vakorosnička rohatá (Gastrotheca cornuta)",
+   "Q586567": "Nosatka Darwinova (Rhinoderma darwinii)",
+   "Q775326": "Mantela zlatá (Mantella aurantiaca)"
+  }
+ },
+ {
+  "id": "Q321087#0",
+  "species": "Ropucha obrovská",
+  "latin": "Rhinella marina",
+  "text": "Dorůstá obvykle do 10 až 20 centimetrů.",
+  "quote": "Dospělé žáby mají velikost obvykle 10 až 20 cm",
+  "claimed_false_for": {
+   "Q1499291": "Ropušenka drobná (Brachycephalus ephippium)",
+   "Q1640189": "Rosnička bělopruhá (Hyla cinerea)",
+   "Q2274193": "Mantela hnědočerná (Mantella betsileo)",
+   "Q2277171": "Létavka obecná (Polypedates leucomystax)",
+   "Q586567": "Nosatka Darwinova (Rhinoderma darwinii)",
+   "Q606431": "Kuňka žlutobřichá (Bombina variegata)",
+   "Q811597": "Ropucha stromová (Pedostibes hosii)"
+  }
+ },
+ {
+  "id": "Q321087#1",
+  "species": "Ropucha obrovská",
+  "latin": "Rhinella marina",
+  "text": "Dožívá se v přírodě zhruba 10 až 15 let.",
+  "quote": "Délka života se v přírodě odhaduje na 10 až 15 let",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q321087#2",
+  "species": "Ropucha obrovská",
+  "latin": "Rhinella marina",
+  "text": "Jí nejen živou kořist, ale i mrtvou.",
+  "quote": "Požírá totiž nejenom živou kořist, ale i mrtvou",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q321087#3",
+  "species": "Ropucha obrovská",
+  "latin": "Rhinella marina",
+  "text": "Tento druh je aktivní hlavně v noci.",
+  "quote": "Jsou aktivní hlavně v noci a pohybují se i velice daleko od vody.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q321087#4",
+  "species": "Ropucha obrovská",
+  "latin": "Rhinella marina",
+  "text": "Při ohrožení vylučuje mléčně bílou tekutinu, která je jedovatá.",
+  "quote": "V ohrožení žáby vylučují z těchto žláz mléčně bílou tekutinu. Tato tekutina obsahuje bufotoxiny, které jsou toxické pro mnoho zvířat i pro člověka.",
+  "claimed_false_for": {
+   "Q2244015": "Afroskokan terčobřichý (Phrynobatrachus cricogaster)",
+   "Q3018592": "Drápatečka Beottgerova (Hymenochirus boettgeri)",
+   "Q44324": "Skokan ostronosý (Rana arvalis)"
+  }
+ },
+ {
+  "id": "Q321087#5",
+  "species": "Ropucha obrovská",
+  "latin": "Rhinella marina",
+  "text": "Původně žije ve Střední a Jižní Americe.",
+  "quote": "s domovinou ve Střední a Jižní Americe",
+  "claimed_false_for": {
+   "Q135660": "Mantela širokoprstá (Mantella laevigata)",
+   "Q2237380": "Ansonie dlouhoprstá (Ansonia longidigita)",
+   "Q2275335": "Skokan krabožravý (Fejervarya cancrivora)",
+   "Q2698100": "Pouchalka Eiffingerova (Kurixalus eiffingeri)",
+   "Q2702010": "Skokan Blythův (Limnonectes blythii)",
+   "Q338596": "Rosnička italská (Hyla intermedia)",
+   "Q654682": "Rosnice siná (Ranoidea caerulea)",
+   "Q729865": "Parosnička vločkovaná (Chaperina fusca)"
+  }
+ },
+ {
+  "id": "Q337616#0",
+  "species": "Listovnice červenooká",
+  "latin": "Agalychnis callidryas",
+  "text": "Tento druh je aktivní hlavně v noci.",
+  "quote": "Aktivní je především v noci",
+  "claimed_false_for": {
+   "Q138853": "Pralesnička ohnivá (Oophaga histrionica)",
+   "Q1478869": "Pralesnička barvířská (Dendrobates tinctorius)",
+   "Q2277148": "Mantela modronohá (Mantella expectata)",
+   "Q540587": "Atelopus plamínkový (Atelopus ignescens)"
+  }
+ },
+ {
+  "id": "Q337616#1",
+  "species": "Listovnice červenooká",
+  "latin": "Agalychnis callidryas",
+  "text": "Tento druh umí měnit barvu podle nálady a místa.",
+  "quote": "své zbarvení měnit dle nálady a umístění",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q338596#0",
+  "species": "Rosnička italská",
+  "latin": "Hyla intermedia",
+  "text": "Dorůstá do délky 4 až 5 centimetrů.",
+  "quote": "Dorůstá délky 4 až 5 centimetrů",
+  "claimed_false_for": {
+   "Q1190376": "Čolek luristánský (Neurergus kaiseri)",
+   "Q146375": "Ropucha obecná (Bufo bufo)",
+   "Q44324": "Skokan ostronosý (Rana arvalis)"
+  }
+ },
+ {
+  "id": "Q338596#1",
+  "species": "Rosnička italská",
+  "latin": "Hyla intermedia",
+  "text": "Umí šplhat po keřích a stromech.",
+  "quote": "je schopná šplhat po keřích a stromech",
+  "claimed_false_for": {
+   "Q1258234": "Úhořík tříprstý (Amphiuma tridactylum)",
+   "Q138526": "Čolek hranatý (Lissotriton helveticus)",
+   "Q31694": "Skokan zelený (Pelophylax esculentus)",
+   "Q606431": "Kuňka žlutobřichá (Bombina variegata)"
+  }
+ },
+ {
+  "id": "Q372267#0",
+  "species": "Kuňka obecná",
+  "latin": "Bombina bombina",
+  "text": "Tento druh dorůstá do délky 4,5 až 5 cm.",
+  "quote": "Dorůstá délky 4,5–5 cm.",
+  "claimed_false_for": {
+   "Q1540596": "Taricha zrnitá (Taricha granulosa)",
+   "Q1759940": "Ropucha Blombergova (Rhaebo blombergi)",
+   "Q226081": "Parosnička rajská (Dyscophus antongilii)",
+   "Q27465": "Skokan hnědý (Rana temporaria)",
+   "Q672277": "Rosnička včelí (Trachycephalus resinifictrix)",
+   "Q954868": "Rohatka ozdobná (Ceratophrys ornata)"
+  }
+ },
+ {
+  "id": "Q372267#1",
+  "species": "Kuňka obecná",
+  "latin": "Bombina bombina",
+  "text": "Tento druh má tmavé břicho s oranžovými skvrnami.",
+  "quote": "Břicho je tmavé – černé až šedočerné – s typickým oranžovým, oranžovočerveným až oranžovožlutým skvrněním.",
+  "claimed_false_for": {
+   "Q1759940": "Ropucha Blombergova (Rhaebo blombergi)",
+   "Q2246059": "Rákosnička mramorovaná (Hyperolius marmoratus)",
+   "Q24796785": "Rosněnka průsvitná (Espadarana prosoblepon)",
+   "Q27465": "Skokan hnědý (Rana temporaria)",
+   "Q28017708": "Skokan hrotnatý (Cornufer guentheri)",
+   "Q672277": "Rosnička včelí (Trachycephalus resinifictrix)",
+   "Q954868": "Rohatka ozdobná (Ceratophrys ornata)"
+  }
+ },
+ {
+  "id": "Q372267#3",
+  "species": "Kuňka obecná",
+  "latin": "Bombina bombina",
+  "text": "Při ohrožení se prohne do misky a vystaví predátorovi dlaně.",
+  "quote": "celá se miskovitě prohne a dlaně zadních i předních končetin výhružně vystaví proti predátorovi",
+  "claimed_false_for": {
+   "Q1472041": "Rosnice běloretá (Litoria infrafrenata)",
+   "Q2275335": "Skokan krabožravý (Fejervarya cancrivora)",
+   "Q28004559": "Ropucha portorická (Peltophryne lemur)",
+   "Q28031739": "Ropucha jihoasijská (Duttaphrynus melanostictus)",
+   "Q387319": "Hrabatka drsná (Pyxicephalus adspersus)",
+   "Q733704": "Rosnička japonská (Hyla japonica)",
+   "Q943919": "Mantela černožlutá (Mantella cowanii)"
+  }
+ },
+ {
+  "id": "Q372267#4",
+  "species": "Kuňka obecná",
+  "latin": "Bombina bombina",
+  "text": "Tento druh je pohlavně dospělý ve třetím roce života.",
+  "quote": "Ve třetím roce života jsou kuňky obecné pohlavně dospělé.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q387319#0",
+  "species": "Hrabatka drsná",
+  "latin": "Pyxicephalus adspersus",
+  "text": "Může se dožít až 30 let.",
+  "quote": "se může dožívat věku 30 let",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q387319#1",
+  "species": "Hrabatka drsná",
+  "latin": "Pyxicephalus adspersus",
+  "text": "Tento druh se při suchu zahrabe do hluboké nory.",
+  "quote": "Začnou-li mořady vysychat, vyhrabe si hlubokou noru",
+  "claimed_false_for": {
+   "Q1628083": "Vodnice posvátná (Telmatobius culeus)",
+   "Q996518": "Ocasatka americká (Ascaphus truei)"
+  }
+ },
+ {
+  "id": "Q387319#2",
+  "species": "Hrabatka drsná",
+  "latin": "Pyxicephalus adspersus",
+  "text": "Samec se stará o pulce a chrání je před nebezpečím.",
+  "quote": "Stará se, aby pulci měli dostatek potravy a byli v bezpečí",
+  "claimed_false_for": {
+   "Q138539": "Čolek velký (Triturus cristatus)",
+   "Q26395": "Mlok skvrnitý (Salamandra salamandra)",
+   "Q28004559": "Ropucha portorická (Peltophryne lemur)",
+   "Q319393": "Skokan skřehotavý (Pelophylax ridibundus)",
+   "Q321087": "Ropucha obrovská (Rhinella marina)",
+   "Q616507": "Blatnice skvrnitá (Pelobates fuscus)"
+  }
+ },
+ {
+  "id": "Q387319#3",
+  "species": "Hrabatka drsná",
+  "latin": "Pyxicephalus adspersus",
+  "text": "Samice naklade 2000 až 4000 vajíček do kaluží.",
+  "quote": "naklade samice do kaluží v mokřadu 2000 až 4000 vajíček",
+  "claimed_false_for": {
+   "Q1499291": "Ropušenka drobná (Brachycephalus ephippium)",
+   "Q1549384": "Pamlok sibiřský (Salamandrella keyserlingii)",
+   "Q1628083": "Vodnice posvátná (Telmatobius culeus)",
+   "Q220414": "Pipa americká (Pipa pipa)",
+   "Q2274193": "Mantela hnědočerná (Mantella betsileo)",
+   "Q2277171": "Létavka obecná (Polypedates leucomystax)",
+   "Q586567": "Nosatka Darwinova (Rhinoderma darwinii)",
+   "Q604445": "Žábronoš skvrnitý (Necturus maculosus)",
+   "Q606431": "Kuňka žlutobřichá (Bombina variegata)",
+   "Q660346": "Čolek dravý (Triturus carnifex)"
+  }
+ },
+ {
+  "id": "Q44324#0",
+  "species": "Skokan ostronosý",
+  "latin": "Rana arvalis",
+  "text": "Dožívá se 8 až 12 let.",
+  "quote": "Délka jejich života se pohybuje v rozmezí 8 a 12 let.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q44324#1",
+  "species": "Skokan ostronosý",
+  "latin": "Rana arvalis",
+  "text": "V době rozmnožování se samečci zbarví do modra.",
+  "quote": "Sameček se v době rozmnožování zabarví po celém těle do modra.",
+  "claimed_false_for": {
+   "Q159404": "Skokan volský (Rana catesbeiana)",
+   "Q2276155": "Mantela zelená (Mantella viridis)",
+   "Q2698012": "Mločík kalifornský (Batrachoseps attenuatus)",
+   "Q2700590": "Létavka červenohřbetá (Boophis rappiodes)",
+   "Q28031739": "Ropucha jihoasijská (Duttaphrynus melanostictus)",
+   "Q677689": "Cecílie horská (Boulengerula taitana)",
+   "Q775326": "Mantela zlatá (Mantella aurantiaca)",
+   "Q963997": "Pralesnička strašná (Phyllobates terribilis)"
+  }
+ },
+ {
+  "id": "Q44324#3",
+  "species": "Skokan ostronosý",
+  "latin": "Rana arvalis",
+  "text": "Rozmnožuje se v mělkých vodních nádržích, hlubokých do 70 cm.",
+  "quote": "Rozmnožuje se v menších mělkých vodních nádržích s hloubkou nepřesahující 70 cm",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q540587#0",
+  "species": "Atelopus plamínkový",
+  "latin": "Atelopus ignescens",
+  "text": "Tento druh má oranžovočervenou spodní stranu těla.",
+  "quote": "Břišní strana je oranžovočervená",
+  "claimed_false_for": {
+   "Q1472041": "Rosnice běloretá (Litoria infrafrenata)",
+   "Q2275335": "Skokan krabožravý (Fejervarya cancrivora)",
+   "Q2698012": "Mločík kalifornský (Batrachoseps attenuatus)",
+   "Q28004559": "Ropucha portorická (Peltophryne lemur)",
+   "Q28017708": "Skokan hrotnatý (Cornufer guentheri)",
+   "Q28031739": "Ropucha jihoasijská (Duttaphrynus melanostictus)",
+   "Q387319": "Hrabatka drsná (Pyxicephalus adspersus)",
+   "Q61523": "Ropuška baleárská (Alytes muletensis)",
+   "Q733704": "Rosnička japonská (Hyla japonica)"
+  }
+ }
+]

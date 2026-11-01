@@ -1,0 +1,31 @@
+{"drop_facts": [
+{"id": "Q28027978#2", "why": "sporné: rod Nyctixalus podle odborných zdrojů neklade do pěnového hnízda, ale vajíčka lepí na stěnu dutiny"},
+{"id": "Q28031739#2", "why": "vynechává 'jedna samice'; 'tento druh vyprodukuje 40 000 vajíček' nedává smysl"},
+{"id": "Q3018592#1", "why": "přidává 'jen'; údaj o dohledu je neověřený"},
+{"id": "Q31694#1", "why": "vynechává podmínku 'za určitých podmínek'; 'skočit' napovídá název skokan"},
+{"id": "Q31694#2", "why": "vypouští podmět samice; 'Snáší' je bez podmětu nejasné, může znamenat i 'toleruje'"},
+{"id": "Q319393#1", "why": "průměr 5 až 10 let ve volné přírodě je nepravděpodobný, jde spíš o horní hodnoty"},
+{"id": "Q321087#1", "why": "sporný odhad, zní jako typická délka života, většina jedinců v přírodě žije kratší dobu"},
+{"id": "Q337616#1", "why": "změna barvy 'podle nálady' není ověřená biologie"},
+{"id": "Q372267#4", "why": "krkolomné: druh není pohlavně dospělý; pro desetileté dítě nevhodně formulované"},
+{"id": "Q387319#0", "why": "přidává 'až' a mění údaj na horní mez; v zajetí jsou známé i vyšší věky"},
+{"id": "Q387319#1", "why": "'zahrabe' nepřímo prozrazuje název hrabatka"},
+{"id": "Q44324#0", "why": "8 až 12 let je spíš horní mez než typická délka života, údaj je sporný"},
+{"id": "Q44324#3", "why": "přesný limit 70 cm je sporný, druh se rozmnožuje i na mělčinách hlubších vod"},
+{"id": "Q540587#0", "why": "oranžovočervená barva nepřímo napovídá název plamínkový"}
+], "drop_pairs": [
+{"id": "Q28027978#1", "species": "Q654718"},
+{"id": "Q282715#0", "species": "Q319393"},
+{"id": "Q319393#0", "species": "Q28031739"},
+{"id": "Q319393#0", "species": "Q61523"},
+{"id": "Q321087#0", "species": "Q811597"},
+{"id": "Q321087#4", "species": "Q2244015"},
+{"id": "Q321087#4", "species": "Q3018592"},
+{"id": "Q321087#4", "species": "Q44324"},
+{"id": "Q338596#0", "species": "Q44324"},
+{"id": "Q338596#1", "species": "Q138526"},
+{"id": "Q338596#1", "species": "Q31694"},
+{"id": "Q372267#1", "species": "Q1759940"},
+{"id": "Q372267#1", "species": "Q27465"},
+{"id": "Q372267#1", "species": "Q28017708"}
+]}

@@ -1,0 +1,135 @@
+[
+ {
+  "id": "Q14856149#0",
+  "species": "Larvěnka obrovská",
+  "latin": "Tetrodontophora bielanensis",
+  "text": "Tento druh měří 6 až 9 milimetrů.",
+  "quote": "Délka těla je 6–9 mm.",
+  "claimed_false_for": {
+   "Q2567701": "Sumka trubičkovitá (Ciona intestinalis)",
+   "Q3624860": "Sumka obecná (Ascidia mentula)",
+   "Q4921692": "Salpa řetězová (Thetys vagina)"
+  }
+ },
+ {
+  "id": "Q14856149#1",
+  "species": "Larvěnka obrovská",
+  "latin": "Tetrodontophora bielanensis",
+  "text": "Tento druh má modrošedé až tmavě modré tělo.",
+  "quote": "Tělo je šedomodře až tmavě modře zbarvené.",
+  "claimed_false_for": {
+   "Q2567701": "Sumka trubičkovitá (Ciona intestinalis)",
+   "Q4921692": "Salpa řetězová (Thetys vagina)"
+  }
+ },
+ {
+  "id": "Q14856149#2",
+  "species": "Larvěnka obrovská",
+  "latin": "Tetrodontophora bielanensis",
+  "text": "Tento druh se živí rozloženými rostlinami, listím a dřevem.",
+  "quote": "se živí detritem, především silně rozloženými částmi rostlin, zbytky listů a dřeva",
+  "claimed_false_for": {
+   "Q2567701": "Sumka trubičkovitá (Ciona intestinalis)",
+   "Q3624860": "Sumka obecná (Ascidia mentula)",
+   "Q4921692": "Salpa řetězová (Thetys vagina)",
+   "Q837241": "Zřasenka středomořská (Botryllus schlosseri)"
+  }
+ },
+ {
+  "id": "Q14856149#3",
+  "species": "Larvěnka obrovská",
+  "latin": "Tetrodontophora bielanensis",
+  "text": "Tento druh žije tři roky.",
+  "quote": "Životní cyklus je tříletý.",
+  "claimed_false_for": {
+   "Q2567701": "Sumka trubičkovitá (Ciona intestinalis)",
+   "Q4921692": "Salpa řetězová (Thetys vagina)"
+  }
+ },
+ {
+  "id": "Q2567701#0",
+  "species": "Sumka trubičkovitá",
+  "latin": "Ciona intestinalis",
+  "text": "Tento druh měří na délku asi 15 centimetrů.",
+  "quote": "Její vakovité tělo měří na délku asi 15 cm",
+  "claimed_false_for": {
+   "Q14856149": "Larvěnka obrovská (Tetrodontophora bielanensis)"
+  }
+ },
+ {
+  "id": "Q2567701#1",
+  "species": "Sumka trubičkovitá",
+  "latin": "Ciona intestinalis",
+  "text": "Tento druh se dožívá až šesti měsíců, v zajetí i rok a půl.",
+  "quote": "Délka dožití činí až 6 měsíců, v zajetí i rok a půl.",
+  "claimed_false_for": {
+   "Q14856149": "Larvěnka obrovská (Tetrodontophora bielanensis)"
+  }
+ },
+ {
+  "id": "Q3624860#0",
+  "species": "Sumka obecná",
+  "latin": "Ascidia mentula",
+  "text": "Tento druh se přichycuje k podkladu z levého boku.",
+  "quote": "K substrátu se atypicky přichycují z levého boku",
+  "claimed_false_for": {
+   "Q14856149": "Larvěnka obrovská (Tetrodontophora bielanensis)",
+   "Q4921692": "Salpa řetězová (Thetys vagina)"
+  }
+ },
+ {
+  "id": "Q3624860#1",
+  "species": "Sumka obecná",
+  "latin": "Ascidia mentula",
+  "text": "Tento druh dosahuje velikosti 5 až 18 cm.",
+  "quote": "podlouhlé tělo dosahuje velikosti 5 až 18 cm",
+  "claimed_false_for": {
+   "Q14856149": "Larvěnka obrovská (Tetrodontophora bielanensis)"
+  }
+ },
+ {
+  "id": "Q4921692#0",
+  "species": "Salpa řetězová",
+  "latin": "Thetys vagina",
+  "text": "Živí se tím, že filtruje vodu.",
+  "quote": "je filtrátor obývající tropické a mírné vody",
+  "claimed_false_for": {
+   "Q14856149": "Larvěnka obrovská (Tetrodontophora bielanensis)"
+  }
+ },
+ {
+  "id": "Q4921692#1",
+  "species": "Salpa řetězová",
+  "latin": "Thetys vagina",
+  "text": "Tento druh dosahuje velikosti až 33 cm.",
+  "quote": "dosahuje velikosti až 33 cm",
+  "claimed_false_for": {
+   "Q14856149": "Larvěnka obrovská (Tetrodontophora bielanensis)",
+   "Q2567701": "Sumka trubičkovitá (Ciona intestinalis)",
+   "Q3624860": "Sumka obecná (Ascidia mentula)",
+   "Q837241": "Zřasenka středomořská (Botryllus schlosseri)"
+  }
+ },
+ {
+  "id": "Q837241#0",
+  "species": "Zřasenka středomořská",
+  "latin": "Botryllus schlosseri",
+  "text": "Tento druh se živí filtrováním vody.",
+  "quote": "Jde o filtrátora, jenž tvoří povlaky na skalnatých dnech",
+  "claimed_false_for": {
+   "Q14856149": "Larvěnka obrovská (Tetrodontophora bielanensis)"
+  }
+ },
+ {
+  "id": "Q837241#1",
+  "species": "Zřasenka středomořská",
+  "latin": "Botryllus schlosseri",
+  "text": "Tento druh tvoří kolonie o průměru asi 10 cm.",
+  "quote": "na průměr měří asi 10 cm",
+  "claimed_false_for": {
+   "Q14856149": "Larvěnka obrovská (Tetrodontophora bielanensis)",
+   "Q2567701": "Sumka trubičkovitá (Ciona intestinalis)",
+   "Q3624860": "Sumka obecná (Ascidia mentula)"
+  }
+ }
+]

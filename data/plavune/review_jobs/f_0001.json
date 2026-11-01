@@ -1,0 +1,189 @@
+[
+ {
+  "id": "Q1138172#0",
+  "species": "Plavuň pučivá",
+  "latin": "Lycopodium annotinum",
+  "text": "Roste hlavně v jehličnatých lesích.",
+  "quote": "roste v jehličnatých, vzácněji v listnatých horských a podhorských lesích s kyselým podkladem",
+  "claimed_false_for": {
+   "Q1192790": "Šídlatka jezerní (Isoëtes lacustris)",
+   "Q2529160": "Šídlatka ostnovýtrusá (Isoëtes echinospora)",
+   "Q7447419": "Vraneček Kraussův (Selaginella kraussiana)"
+  }
+ },
+ {
+  "id": "Q1138172#1",
+  "species": "Plavuň pučivá",
+  "latin": "Lycopodium annotinum",
+  "text": "Výtrusy dozrávají od července do září.",
+  "quote": "výtrusy dozrávají od července do září",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1142154#2",
+  "species": "Vranec jedlový",
+  "latin": "Huperzia selago",
+  "text": "Potřebuje houbu, aby jeho prokel mohl růst.",
+  "quote": "pokračuje v růstu jen tehdy, pronikne-li do jeho pletiva mycelium určitého druhu houby",
+  "claimed_false_for": {
+   "Q1192790": "Šídlatka jezerní (Isoëtes lacustris)",
+   "Q1245997": "Vraneček brvitý (Selaginella selaginoides)",
+   "Q1665550": "Vraneček švýcarský (Selaginella helvetica)",
+   "Q2529160": "Šídlatka ostnovýtrusá (Isoëtes echinospora)",
+   "Q7447419": "Vraneček Kraussův (Selaginella kraussiana)"
+  }
+ },
+ {
+  "id": "Q1192790#0",
+  "species": "Šídlatka jezerní",
+  "latin": "Isoëtes lacustris",
+  "text": "Dvakrát ročně raší nové listy, na jaře a na podzim.",
+  "quote": "na ní dvakrát ročně raší nové listy, na jaře a na podzim",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1192790#1",
+  "species": "Šídlatka jezerní",
+  "latin": "Isoëtes lacustris",
+  "text": "Je citlivá na čistotu vody.",
+  "quote": "Je citlivá na čistotu vody.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1245997#0",
+  "species": "Vraneček brvitý",
+  "latin": "Selaginella selaginoides",
+  "text": "Lodyhy jsou vysoké asi 5 centimetrů.",
+  "quote": "které jsou cca 5 cm vysoké",
+  "claimed_false_for": {
+   "Q245842": "Plavuník cypřiškovitý (Diphasiastrum tristachyum)",
+   "Q9372555": "Plavuník Isslerův (Diphasiastrum issleri)"
+  }
+ },
+ {
+  "id": "Q1245997#1",
+  "species": "Vraneček brvitý",
+  "latin": "Selaginella selaginoides",
+  "text": "Nejčastěji roste v podhorských a horských oblastech.",
+  "quote": "Vyskytuje se na vlhkých místech (skály, pastviny) s neutrální až alkalickou půdou, nejčastěji v podhorských a horských oblastech.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1665550#0",
+  "species": "Vraneček švýcarský",
+  "latin": "Selaginella helvetica",
+  "text": "V chladném období listy často zčervenají.",
+  "quote": "v chladném ročním období nabývají často až karmínově červené barvy",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1665550#1",
+  "species": "Vraneček švýcarský",
+  "latin": "Selaginella helvetica",
+  "text": "Roste hlavně na skalách a zídkách.",
+  "quote": "Roste především na skalách, na zídkách, vzácněji v kamenných sutích.",
+  "claimed_false_for": {
+   "Q1138172": "Plavuň pučivá (Lycopodium annotinum)",
+   "Q1192790": "Šídlatka jezerní (Isoëtes lacustris)",
+   "Q2529160": "Šídlatka ostnovýtrusá (Isoëtes echinospora)",
+   "Q466426": "Plavuň vidlačka (Lycopodium clavatum)"
+  }
+ },
+ {
+  "id": "Q245842#2",
+  "species": "Plavuník cypřiškovitý",
+  "latin": "Diphasiastrum tristachyum",
+  "text": "Má podzemní nezelenou část, která často žije v symbióze s houbami.",
+  "quote": "Jde o podzemní nezelený útvar často symbioticky žijící s houbami.",
+  "claimed_false_for": {
+   "Q1192790": "Šídlatka jezerní (Isoëtes lacustris)",
+   "Q1245997": "Vraneček brvitý (Selaginella selaginoides)",
+   "Q1665550": "Vraneček švýcarský (Selaginella helvetica)",
+   "Q2529160": "Šídlatka ostnovýtrusá (Isoëtes echinospora)",
+   "Q7447419": "Vraneček Kraussův (Selaginella kraussiana)"
+  }
+ },
+ {
+  "id": "Q2529160#0",
+  "species": "Šídlatka ostnovýtrusá",
+  "latin": "Isoëtes echinospora",
+  "text": "Rostliny se nacházejí v hloubce 0,5–1 m a bývají viditelné z břehu.",
+  "quote": "Rostliny se nacházejí v hloubce 0,5–1 m a bývají viditelné z břehu.",
+  "claimed_false_for": {
+   "Q1138172": "Plavuň pučivá (Lycopodium annotinum)",
+   "Q1142154": "Vranec jedlový (Huperzia selago)",
+   "Q12045561": "Plavuník Ollgaardův (Diphasiastrum oellgaardii)",
+   "Q1245997": "Vraneček brvitý (Selaginella selaginoides)",
+   "Q1665550": "Vraneček švýcarský (Selaginella helvetica)",
+   "Q245842": "Plavuník cypřiškovitý (Diphasiastrum tristachyum)",
+   "Q2715589": "Plavuník alpínský (Diphasiastrum alpinum)",
+   "Q466426": "Plavuň vidlačka (Lycopodium clavatum)",
+   "Q7447419": "Vraneček Kraussův (Selaginella kraussiana)",
+   "Q787930": "Plavuník zploštělý (Diphasiastrum complanatum)",
+   "Q9372555": "Plavuník Isslerův (Diphasiastrum issleri)",
+   "Q9372557": "Plavuník Zeillerův (Diphasiastrum zeilleri)"
+  }
+ },
+ {
+  "id": "Q2529160#1",
+  "species": "Šídlatka ostnovýtrusá",
+  "latin": "Isoëtes echinospora",
+  "text": "Vyskytuje se v severní a střední Evropě i v Severní Americe.",
+  "quote": "Vyskytuje se v severní a střední Evropě, ale i v Severní Americe.",
+  "claimed_false_for": {
+   "Q7447419": "Vraneček Kraussův (Selaginella kraussiana)"
+  }
+ },
+ {
+  "id": "Q787930#0",
+  "species": "Plavuník zploštělý",
+  "latin": "Diphasiastrum complanatum",
+  "text": "Roste většinou na kyselých půdách.",
+  "quote": "Roste většinou na kyselých půdách",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q787930#1",
+  "species": "Plavuník zploštělý",
+  "latin": "Diphasiastrum complanatum",
+  "text": "Pod zemí je dlouhý oddenek, který může být přes metr dlouhý.",
+  "quote": "Podzemní část rostliny tvoří dlouhý nezelený oddenek, který může dorůstat i více než jednoho metru.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q9372555#0",
+  "species": "Plavuník Isslerův",
+  "latin": "Diphasiastrum issleri",
+  "text": "Prospívá hlavně v horských oblastech.",
+  "quote": "Tomuto druhu prospívají převážně místa v horských oblastech.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q9372555#1",
+  "species": "Plavuník Isslerův",
+  "latin": "Diphasiastrum issleri",
+  "text": "Výtrusy dozrávají od srpna do září.",
+  "quote": "Výtrusy dozrávají v období od srpna do září.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q9372557#0",
+  "species": "Plavuník Zeillerův",
+  "latin": "Diphasiastrum zeilleri",
+  "text": "Tento druh se vyskytuje ve světlých borových lesích a na pastvinách.",
+  "quote": "Tento druh se vyskytuje ve světlých borových lesích a pastvinách na kyselém substrátu.",
+  "claimed_false_for": {
+   "Q1192790": "Šídlatka jezerní (Isoëtes lacustris)",
+   "Q2529160": "Šídlatka ostnovýtrusá (Isoëtes echinospora)",
+   "Q7447419": "Vraneček Kraussův (Selaginella kraussiana)"
+  }
+ },
+ {
+  "id": "Q9372557#1",
+  "species": "Plavuník Zeillerův",
+  "latin": "Diphasiastrum zeilleri",
+  "text": "Patří mezi silně ohrožené druhy.",
+  "quote": "Patří mezi silně ohrožené druhy.",
+  "claimed_false_for": {}
+ }
+]

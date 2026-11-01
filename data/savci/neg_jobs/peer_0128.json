@@ -1,0 +1,278 @@
+{
+ "facts": [
+  {
+   "id": "Q27497311#0",
+   "species": "Žirafa síťovaná",
+   "text": "Živí se listy akácií a mimóz.",
+   "quote": "Živí se listy akácií a mimóz, větvičkami, plody a trávou."
+  },
+  {
+   "id": "Q756208#0",
+   "species": "Chocholatka schovávaná",
+   "text": "Jen samci mají růžky, které dorůstají až 11 cm.",
+   "quote": "Samci mají na rozdíl od samic růžky dorůstající až 11 cm."
+  },
+  {
+   "id": "Q695736#0",
+   "species": "Antilopa Derbyho",
+   "text": "Měří v kohoutku, tedy u ramen, 150 až 175 cm a váží až 1080 kg.",
+   "quote": "dosahuje 150 až 175 cm výšky v kohoutku a hmotnosti 300 až 1080 kg"
+  },
+  {
+   "id": "Q755007#2",
+   "species": "Bahnivec jižní",
+   "text": "Živí se hlavně trávou a výhonky.",
+   "quote": "potravou, kterou tvoří především tráva a výhonky"
+  },
+  {
+   "id": "Q338831#0",
+   "species": "Jelenec ušatý",
+   "text": "V zimě okousává větvičky jehličnatých stromů.",
+   "quote": "v zimě okousává větvičky jehličnatých stromů"
+  },
+  {
+   "id": "Q695736#2",
+   "species": "Antilopa Derbyho",
+   "text": "Živí se hlavně listy, větvičkami a výhonky.",
+   "quote": "Živí se převážně listy, větvičkami a různými výhonky"
+  },
+  {
+   "id": "Q15083#1",
+   "species": "Žirafa severní",
+   "text": "Tento druh rodí mláďata vestoje.",
+   "quote": "žirafa rodí vestoje"
+  },
+  {
+   "id": "Q193469#0",
+   "species": "Takin",
+   "text": "V minulosti tento druh obýval rozsáhlé oblasti Číny, Bhútánu, Ásámu a severní Barmy.",
+   "quote": "Takini obývali v minulosti rozsáhlé oblasti Číny, Bhútánu, Ásámu a severní Barmy."
+  },
+  {
+   "id": "Q541610#5",
+   "species": "Antilopa Sharpeova",
+   "text": "Živí se trávou, čerstvými větvičkami a ovocem.",
+   "quote": "okusují čerstvé větvičky, žerou ovoce"
+  },
+  {
+   "id": "Q42710#2",
+   "species": "Buvol domácí",
+   "text": "Tento druh váží 400 až 900 kilogramů.",
+   "quote": "dosahující hmotnosti 400–900 kg"
+  },
+  {
+   "id": "Q131340#4",
+   "species": "Kamzík horský",
+   "text": "Vlk, rys a orel skalní ohrožují jeho mláďata.",
+   "quote": "ohrožena jsou především mláďata, která se musí mít na pozoru před vlkem obecným, rysem ostrovidem nebo orlem skalním"
+  },
+  {
+   "id": "Q139487#5",
+   "species": "Kudu velký",
+   "text": "Gepardi loví převážně slabší samice a mláďata tohoto druhu.",
+   "quote": "loví převážně slabší samice a mláďata"
+  },
+  {
+   "id": "Q754947#3",
+   "species": "Kozorožec sibiřský",
+   "text": "Samice rodí obvykle jedno mládě vážící okolo 3 kg.",
+   "quote": "Samice většinou rodí jedno mládě vážící okolo 3 kg."
+  },
+  {
+   "id": "Q938385#1",
+   "species": "Kančil jávský",
+   "text": "Živí se rostlinami, například listy, ovocem a pupeny.",
+   "quote": "Kančil jávský se živí rostlinnou potravou, například listy, ovocem nebo pupeny"
+  },
+  {
+   "id": "Q646488#3",
+   "species": "Jelen lyrorohý",
+   "text": "V přírodě se dožívá průměrně deseti let.",
+   "quote": "V přírodě žijí průměrně 10 let."
+  },
+  {
+   "id": "Q663412#1",
+   "species": "Sambar ostrovní",
+   "text": "Tento druh se živí trávou, listím a spadlým ovocem.",
+   "quote": "Sambarové se živí trávou a listím nebo spadlým ovocem"
+  },
+  {
+   "id": "Q465019#4",
+   "species": "Nahur modrý",
+   "text": "V mnoha oblastech je nejoblíbenější kořistí irbisa.",
+   "quote": "V mnoha regionech je nahur nejoblíbenější kořistí irbisa."
+  },
+  {
+   "id": "Q622880#5",
+   "species": "Buvolec stepní",
+   "text": "Tento druh občas loví lvi, hyeny a psi hyenovití.",
+   "quote": "Příležitostně ho loví lvi, hyeny a psi hyenovití"
+  },
+  {
+   "id": "Q190508#1",
+   "species": "Kabar pižmový",
+   "text": "Skáče daleko, protože má přední nohy kratší než zadní.",
+   "quote": "přední nohy má zřetelně kratší než zadní. Proto výborně a daleko skáče."
+  },
+  {
+   "id": "Q237267#1",
+   "species": "Voduška kob",
+   "text": "Tento druh je aktivní ve dne a v horkých dnech se schovává ve stínu.",
+   "quote": "Až s výjimkou horkých dnů, kdy se skrývá ve stínu stromů, je aktivní ve dne."
+  }
+ ],
+ "candidates": {
+  "Q465019": {
+   "name": "Nahur modrý",
+   "latin": "Pseudois nayaur",
+   "family": "turovití",
+   "lead": "Nahur modrý (Pseudois nayaur) je druh divoké kozy, vyskytující se v horách Střední Asie. I když bývá lidově nazýván modrá ovce (blue sheep, Blauschaf, голубой баран), nejde o ovci (rod Ovis). Stejně jako nahur Schaeferův (Pseudois schaeferi) má systematicky blíže ke kozám než k ovcím.\n\n\n== Lidová jména ==\nV horých centrální Asie je nahur znám pod řadou lokálních jmen, z nichž některá se vžila a jsou užívána i ve světových jazycích.\n\nbhútánsky (dzongkha): gnao\nhindsky: bharal, bharar\nladhacky: sn",
+   "facts": [
+    "Žije ve vysokých horách a na náhorních plošinách v Asii.",
+    "Živí se trávou, lišejníky, bylinami a mechem.",
+    "Samice žijí se mláďaty ve stádech o 5 až 18 zvířatech.",
+    "Žije v přírodě průměrně 12 až 15 let.",
+    "V mnoha oblastech je nejoblíbenější kořistí irbisa."
+   ]
+  },
+  "Q190516": {
+   "name": "Jelen sika",
+   "latin": "Cervus nippon",
+   "family": "jelenovití",
+   "lead": "Jelen sika, někdy jen sika (Cervus nippon) je savec z řádu sudokopytníků, čeledě jelenovitých, který byl na přelomu 19. a 20. století uměle vysazen i v Čechách. Pochází z dálného východu asijského kontinentu z Mandžuska, Japonska, Thajska, Vietnamu, Koreje a z východního Ruska. V Evropě je považován za invazní druh.\n\n\n== Poddruhy ==\nZoologové rozlišují celkem 14 různých poddruhů. Mezi nejznámější poddruhy patří:\n\nJelen sika japonský (Cervus nippon nippon)\nJelen sika Dybowského (Cervus nippon dyb",
+   "facts": [
+    "V Evropě je tento druh považován za invazní, tedy nepůvodní.",
+    "Živí se hlavně trávou, bylinami a v zimě výhonky stromů a keřů.",
+    "V červnu se rodí obvykle jen jedno mládě.",
+    "Dožívá se až 18 let.",
+    "Okusuje mladé výhonky a sazenice jehličnanů.",
+    "V zimě okusuje borůvky a vřes."
+   ]
+  },
+  "Q239032": {
+   "name": "Nyala nížinná",
+   "latin": "Tragelaphus angasii",
+   "family": "turovití",
+   "lead": "Nyala nížinná, známá též pod názvem nyala jižní (Tragelaphus angasii) je jihoafrický druh antilopy preferující husté křoviny poblíž vody.\nVědecké jméno získala po anglickém umělci a zoologovi Georgovi French Angasovi (1882–1886). Její nejbližší příbuznou je dnes velice vzácná nyala horská (Tragelaphus buxtoni), obývající střední Etiopii. Počet jedinců se odhaduje na 32 000.\n\n\n== Popis ==\n\nVýška v kohoutku je u samců průměrně 110 cm, u samic kolem 90 cm. Délka těla se pohybuje mezi 1,4–1,6 m a hm",
+   "facts": [
+    "Tento druh v období dešťů vyhledává čerstvou trávu, listy a ovoce.",
+    "Tento druh v horkých dnech odpočívá ve stínu stromů.",
+    "Jí zelené rostliny, které ze stromů shazují paviáni.",
+    "Při poplachu utíkají s ním impaly a paviáni.",
+    "Predátory tohoto druhu jsou levhart a pes hyenovitý."
+   ]
+  },
+  "Q187943": {
+   "name": "Vidloroh americký",
+   "latin": "Antilocapra americana",
+   "family": "vidlorohovití",
+   "lead": "Vidloroh americký (Antilocapra americana) Je to jediný zástupce čeledi vidlorohovitých. Je jedním z nejrychlejších savců planety. Jsou známy čtyři poddruhy: vidloroh americký (Antilocapra americana americana), vidloroh arizonský (Antilocapra americana mexicana), vidloroh kalifornský (Antilocapra americana peninsularis) a vidloroh sonorský (Antilocapra americana sonoriensis).\n\n\n== Pojmenování vidloroha v indiánských jazycích ==\nSeveroameričtí indiáni vidloroha často lovili pro maso, a především p",
+   "facts": [
+    "Dokáže udržet rychlost přes 50 km/h i na mnoho kilometrů.",
+    "Samce poznáš podle černého čenichu a delších rohů.",
+    "Jí trávu a větve keřů.",
+    "Mláďata se většinou rodí jako dvojčata.",
+    "Při nedostatku potravy jí i kaktusy."
+   ]
+  },
+  "Q160042": {
+   "name": "Buvol africký",
+   "latin": "Syncerus caffer",
+   "family": "turovití",
+   "lead": "Buvol africký (Syncerus caffer), nepřesně[zdroj?] označovaný také jako buvol kaferský, je mohutný býložravec z afrických savan. Jeho domovinou jsou rozsáhlé oblasti na jih od Sahary.\n\n\n== Popis ==\n\nStavbou těla je podobný domácímu skotu. Má poměrně nízké končetiny, velmi mohutný trup a dlouhý ocas, ukončený střapcem chlupů. Obě pohlaví mají zahnuté rohy, které se na čele stýkají.\nRozlišujeme tři poddruhy: větší, savanovou formu, buvola kaferského (S. caffer caffer), menšího pralesního buvola, S.",
+   "facts": [
+    "Tento druh se dožívá až 30 let.",
+    "Tento druh dokáže běžet rychlostí až 55 km/h.",
+    "Tento druh se pase v noci a přes den odpočívá ve stínu.",
+    "Tento druh má jako dospělý jen jednoho přirozeného nepřítele, lva.",
+    "Hyeny a krokodýli někdy loví jeho telata.",
+    "Vlasovec žijící v jeho podkoží nebo oku způsobuje nemoc, kterou přenášejí muchničky."
+   ]
+  },
+  "Q839513": {
+   "name": "Urial",
+   "latin": "Ovis vignei",
+   "family": "turovití",
+   "lead": "Urial neboli ovce kruhorohá (Ovis orientalis vignei) je druh divoké ovce žijící ve velehorách střední Asie. Dosahuje výšky v kohoutku až 90 cm a váhy okolo 50 kg. Samci mají tmavou hřívu a impozantní rohy, dosahující až metrové délky. Urialové se živí převážně trávou, jejich hlavním predátorem je levhart perský. Počet urialů rapidně klesá v důsledku mizení původních biotopů a také kvůli lovu,\nkterý je vzhledem k neklidné politické situaci v oblasti obtížné regulovat. V České republice chová tent",
+   "facts": [
+    "Tento druh se živí převážně trávou.",
+    "Hlavním predátorem tohoto druhu je levhart perský."
+   ]
+  },
+  "Q387240": {
+   "name": "Gazela dorkas",
+   "latin": "Gazella dorcas",
+   "family": "turovití",
+   "lead": "Gazela dorkas (Gazella dorcas) je malá, poměrně běžná gazela. Žije především v Severní Africe a místy i na Blízkém východě (Izrael, Jordánsko).\n\n\n== Popis ==\nV kohoutku měří 55–65 cm, délka těla je 90–110 cm a hmotnost dosahuje 15–23 kg. Rohy měří 15 až 25 cm u samic a 25 až 38 cm u samců, přičemž rohy samců jsou výrazně tlustší, zahnutější a s výraznějšími prstenci. Zbarvení je béžové či načervenalé na bocích a horní polovině těla, břicho bývá světlé.\n\n\n== Ekologie a chování ==\nUmí přežít v suc",
+   "facts": [
+    "Tento druh dokáže žít bez vody a tekutiny získává z rostlin.",
+    "Dosahuje rychlosti až 80 km/h.",
+    "Živí se listy akácií a různých křovin.",
+    "Stává se kořistí šakalů, vlků, hyen, gepardů, levhartů i lvů.",
+    "Může se stát i kořistí krajt a orlů."
+   ]
+  },
+  "Q695736": {
+   "name": "Antilopa Derbyho",
+   "latin": "Taurotragus derbianus",
+   "family": "turovití",
+   "lead": "Antilopa Derbyho (Taurotragus derbianus či antilopa středoafrická nebo antilopa obrovská) je největší ze všech antilop, která obývá otevřené savany s hustým porostem. Můžeme ji zpozorovat převážně ve Středoafrické republice, Súdánu, Kamerunu a v Senegalu. Rozeznáváme u ní dva poddruhy: kriticky ohrožený T. d. derbianus, obývající senegalský Národní park Niokolo-Koba, a málo dotčený T. d. gigas,\nobývající střední Afriku. Populace se odhaduje na 15 000–20 000 kusů.\nZápadní poddruh antilopy Derbyho",
+   "facts": [
+    "Měří v kohoutku, tedy u ramen, 150 až 175 cm a váží až 1080 kg.",
+    "Má deset až sedmnáct bílých svislých pruhů na srsti.",
+    "Živí se hlavně listy, větvičkami a výhonky.",
+    "Žijí převážně ve skupinách zhruba po dvaceti zvířatech."
+   ]
+  },
+  "Q131340": {
+   "name": "Kamzík horský",
+   "latin": "Rupicapra rupicapra",
+   "family": "turovití",
+   "lead": "Kamzík horský (Rupicapra rupicapra) je druh divoké horské kozy z čeledi turovití. Do světa se rozšířil z Alp.\n\n\n== Popis ==\nKamzík horský je elegantně stavěná koza. Výška v kohoutku činí 70–90 cm; délka těla 90–140 cm; ocas měří 3–8 cm. Hmotnost je 10–60 kg. Samec roste do větších rozměrů než samice.\nKamzík má dlouhé a masivní končetiny se specifickými chodidly, jež jsou nezbytné k pohybu v příkrém terénu. Nohy mají pevné a silné svaly i klouby a chodidla dlouhé, vpředu pohyblivé paznehty pokryt",
+   "facts": [
+    "Tento druh má na hlavě nápadnou kresbu s běložlutými pruhy.",
+    "Tento druh dokáže běžet rychlostí až 50 km/h i po nerovném terénu.",
+    "V létě se živí hlavně divokou trávou.",
+    "Tento druh se může dožít 14 až 25 let.",
+    "Vlk, rys a orel skalní ohrožují jeho mláďata.",
+    "Tento druh v zimě jí větvičky listnatých stromů, například jeřábů a olší.",
+    "Tento druh dává přednost alpskému jetelu."
+   ]
+  },
+  "Q159857": {
+   "name": "Daněk evropský",
+   "latin": "Dama dama",
+   "family": "daněk",
+   "lead": "Daněk evropský nebo také skvrnitý (Dama dama L., 1758) je druh z čeledi jelenovití (Cervidae) s lopatovitými parohy, svým zbarvením se podobá jelenu sikovi. Samice se nazývá daněla.\n\n\n== Popis ==\n\nKohoutková výška u samců se pohybuje mezi 85 až 110 cm, u samic 75 až 90 cm. Bez kelky (ocasu) dosahují délky 130 až 175 cm (samice 115 až 140 cm), ocas pak měří 18 – 27 cm. Hmotnost samců je 40 až 95 kg, samic 25 až 50 kg. Letní červenohnědé zbarvení je bíle skvrnité. Skvrny jsou v podélných řadách. B",
+   "facts": [
+    "Kojí své mládě čtyři měsíce.",
+    "Živí se převážně bylinami a trávou.",
+    "Když se lekne, mává ocasem a ukazuje jeho bílou spodní část.",
+    "Tento druh obývá listnaté a smíšené lesy.",
+    "Na podzim sbírá kaštany, žaludy a jiné plody.",
+    "Když může, navštěvuje pole a spásá obilniny a pohanku.",
+    "Podle staré představy daňci zabíjejí hady."
+   ]
+  },
+  "Q728643": {
+   "name": "Jelen bělohubý",
+   "latin": "Cervus albirostris",
+   "family": "jelenovití",
+   "lead": "Jelen bělohubý (Cervus albirostris) patří mezi velice vzácná zvířata, v Evropě jej chová méně než 10 zoologických zahrad. Domovem jelena bělohubého jsou horské louky a horské lesní oblasti asijských vysokých pohoří. Jelen bělohubý je monotypickou linií fylogeneticky rovnocennou linii zahrnující siku (se všemi poddruhy) a jelena wapiti (také se všemi poddruhy); oddělení od obou skupin nastalo\nzhruba před 2,5 miliony lety.\nSamice je březí 270 dní a rodí 1, zřídka 2 mláďata. Hmotnost dospělého jedi",
+   "facts": [
+    "Živí se trávou a bylinami.",
+    "Dožívá se průměrně 16 až 18 let."
+   ]
+  },
+  "Q645732": {
+   "name": "Sambar skvrnitý",
+   "latin": "Rusa alfredi",
+   "family": "jelenovití",
+   "lead": "Sambar skvrnitý (Rusa alfredi) je malý ohrožený jelen vyskytující se endemitně na Filipínách. V angličtině bývá nazýván též Prince Alfred's deer (jelen prince Alfreda).\n\n\n== Popis ==\nJedná se o malého sudokopytníka. Dospělci mají 70 až 80 cm v kohoutku, hmotnost dosahuje 36 až 59 kg. Tmavě hnědý hřbet a boky mu po celý život pokrývají světlé skvrny, díky čemuž je snadno rozpoznatelný od dalších dvou druhů Filipínských jelenů, axise kalamianského a sambara luzonského. Hlava a krk jsou světlejší n",
+   "facts": [
+    "Tento druh spásá šťavnatou vegetaci na místech po požáru.",
+    "Jedno až dvě mláďata se rodí obvykle v květnu a červnu."
+   ]
+  }
+ }
+}

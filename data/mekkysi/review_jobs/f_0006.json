@@ -1,0 +1,334 @@
+[
+ {
+  "id": "Q114893#0",
+  "species": "Páskovka hajní",
+  "latin": "Cepaea nemoralis",
+  "text": "Živí se hlavně rozkládajícími se a stárnoucími rostlinami.",
+  "quote": "Živí se především rozkládajícími se a stárnoucími rostlinami.",
+  "claimed_false_for": {
+   "Q131757": "Glaukus atlantský (Glaucus atlanticus)",
+   "Q651361": "Chobotnice pobřežní (Octopus vulgaris)",
+   "Q751784": "Zéva obrovská (Tridacna gigas)",
+   "Q756724": "Sépie obecná (Sepia officinalis)",
+   "Q912404": "Chobotnice velká (Enteroctopus dofleini)"
+  }
+ },
+ {
+  "id": "Q114893#1",
+  "species": "Páskovka hajní",
+  "latin": "Cepaea nemoralis",
+  "text": "Ulita je vysoká asi 18 mm.",
+  "quote": "Výška ulity je přibližně 18 mm, délka kolem 23 mm.",
+  "claimed_false_for": {
+   "Q131757": "Glaukus atlantský (Glaucus atlanticus)",
+   "Q21113": "Plzák černý (Arion ater)",
+   "Q245314": "Hlemýžď zahradní (Helix pomatia)",
+   "Q651361": "Chobotnice pobřežní (Octopus vulgaris)",
+   "Q751784": "Zéva obrovská (Tridacna gigas)",
+   "Q756724": "Sépie obecná (Sepia officinalis)",
+   "Q932364": "Plzák španělský (Arion vulgaris)"
+  }
+ },
+ {
+  "id": "Q131757#1",
+  "species": "Glaukus atlantský",
+  "latin": "Glaucus atlanticus",
+  "text": "Tento druh je jedovatý.",
+  "quote": "Glaukus je tvor jedovatý",
+  "claimed_false_for": {
+   "Q114893": "Páskovka hajní (Cepaea nemoralis)",
+   "Q21113": "Plzák černý (Arion ater)",
+   "Q22019793": "Hlemýžď kropenatý (Cornu aspersum)",
+   "Q245314": "Hlemýžď zahradní (Helix pomatia)",
+   "Q26908": "Oblovka žravá (Achatina fulica)",
+   "Q427854": "Páskovka keřová (Cepaea hortensis)",
+   "Q751784": "Zéva obrovská (Tridacna gigas)",
+   "Q932364": "Plzák španělský (Arion vulgaris)"
+  }
+ },
+ {
+  "id": "Q21113#0",
+  "species": "Plzák černý",
+  "latin": "Arion ater",
+  "text": "Dorůstá do délky 10 až 13 centimetrů.",
+  "quote": "Dospělý jedinec dosahuje 10 až 13 cm.",
+  "claimed_false_for": {
+   "Q114893": "Páskovka hajní (Cepaea nemoralis)",
+   "Q131757": "Glaukus atlantský (Glaucus atlanticus)",
+   "Q22019793": "Hlemýžď kropenatý (Cornu aspersum)",
+   "Q245314": "Hlemýžď zahradní (Helix pomatia)",
+   "Q427854": "Páskovka keřová (Cepaea hortensis)",
+   "Q751784": "Zéva obrovská (Tridacna gigas)"
+  }
+ },
+ {
+  "id": "Q21113#1",
+  "species": "Plzák černý",
+  "latin": "Arion ater",
+  "text": "Tento druh je aktivní hlavně v noci.",
+  "quote": "Aktivním se plzák stává hlavně v noci, kdy se vydává za potravou.",
+  "claimed_false_for": {
+   "Q751784": "Zéva obrovská (Tridacna gigas)"
+  }
+ },
+ {
+  "id": "Q21113#2",
+  "species": "Plzák černý",
+  "latin": "Arion ater",
+  "text": "Tento druh se živí převážně tlejícími zbytky rostlin a živočichů.",
+  "quote": "Plzáci se živí převážně tlejícími zbytky rostlin a živočichů.",
+  "claimed_false_for": {
+   "Q131757": "Glaukus atlantský (Glaucus atlanticus)",
+   "Q651361": "Chobotnice pobřežní (Octopus vulgaris)",
+   "Q751784": "Zéva obrovská (Tridacna gigas)",
+   "Q756724": "Sépie obecná (Sepia officinalis)"
+  }
+ },
+ {
+  "id": "Q21113#3",
+  "species": "Plzák černý",
+  "latin": "Arion ater",
+  "text": "Had se může vydat po jeho stříbřité slizové stopě.",
+  "quote": "Stříbřitá slizovitá stopa se mu ale může stát osudnou, pokud se po ní vydá had.",
+  "claimed_false_for": {
+   "Q131757": "Glaukus atlantský (Glaucus atlanticus)",
+   "Q651361": "Chobotnice pobřežní (Octopus vulgaris)",
+   "Q751784": "Zéva obrovská (Tridacna gigas)",
+   "Q756724": "Sépie obecná (Sepia officinalis)",
+   "Q912404": "Chobotnice velká (Enteroctopus dofleini)"
+  }
+ },
+ {
+  "id": "Q22019793#0",
+  "species": "Hlemýžď kropenatý",
+  "latin": "Cornu aspersum",
+  "text": "Tento druh je aktivní hlavně v noci.",
+  "quote": "Hlemýžď kropenatý je aktivní především v noci, se dvěma vrcholy aktivity, tj. 2 a 6 hodin po západu slunce.",
+  "claimed_false_for": {
+   "Q751784": "Zéva obrovská (Tridacna gigas)"
+  }
+ },
+ {
+  "id": "Q22019793#1",
+  "species": "Hlemýžď kropenatý",
+  "latin": "Cornu aspersum",
+  "text": "Má pevnou tenkou ulitu z vápna.",
+  "quote": "Dospělý jedinec má pevnou tenkou ulitu z uhličitanu vápenatého.",
+  "claimed_false_for": {
+   "Q131757": "Glaukus atlantský (Glaucus atlanticus)",
+   "Q21113": "Plzák černý (Arion ater)",
+   "Q651361": "Chobotnice pobřežní (Octopus vulgaris)",
+   "Q751784": "Zéva obrovská (Tridacna gigas)",
+   "Q756724": "Sépie obecná (Sepia officinalis)",
+   "Q932364": "Plzák španělský (Arion vulgaris)"
+  }
+ },
+ {
+  "id": "Q22019793#2",
+  "species": "Hlemýžď kropenatý",
+  "latin": "Cornu aspersum",
+  "text": "Jedna snůška má 80 až 140 vajíček.",
+  "quote": "Dva týdny po spáření klade snůšku obsahující 80–140 vajíček.",
+  "claimed_false_for": {
+   "Q651361": "Chobotnice pobřežní (Octopus vulgaris)",
+   "Q751784": "Zéva obrovská (Tridacna gigas)",
+   "Q912404": "Chobotnice velká (Enteroctopus dofleini)"
+  }
+ },
+ {
+  "id": "Q22019793#4",
+  "species": "Hlemýžď kropenatý",
+  "latin": "Cornu aspersum",
+  "text": "Žere například kopřivy, břečťan a různé trávy.",
+  "quote": "Ve svém původním prostředí požírá z volně rostoucích rostlin např. kopřivu dvoudomou (Urtica dioica), břečťan popínavý (Hedera helix) nebo různé druhy trav.",
+  "claimed_false_for": {
+   "Q131757": "Glaukus atlantský (Glaucus atlanticus)",
+   "Q651361": "Chobotnice pobřežní (Octopus vulgaris)",
+   "Q751784": "Zéva obrovská (Tridacna gigas)",
+   "Q756724": "Sépie obecná (Sepia officinalis)"
+  }
+ },
+ {
+  "id": "Q22019793#5",
+  "species": "Hlemýžď kropenatý",
+  "latin": "Cornu aspersum",
+  "text": "Na zimu se schovává do štěrbin nebo se zahrabává do země.",
+  "quote": "Před zimou si vyhledává úkryt v chráněných místech (škvíry, trhliny a pukliny ve zdech atd.) nebo se zahrabe pod povrch půdy",
+  "claimed_false_for": {
+   "Q131757": "Glaukus atlantský (Glaucus atlanticus)",
+   "Q651361": "Chobotnice pobřežní (Octopus vulgaris)",
+   "Q751784": "Zéva obrovská (Tridacna gigas)",
+   "Q756724": "Sépie obecná (Sepia officinalis)",
+   "Q912404": "Chobotnice velká (Enteroctopus dofleini)"
+  }
+ },
+ {
+  "id": "Q22019793#6",
+  "species": "Hlemýžď kropenatý",
+  "latin": "Cornu aspersum",
+  "text": "V nepůvodních oblastech žere zeleninu, obilí, citrusy a révu vinnou.",
+  "quote": "V nepůvodních oblastech výskytu se živí kromě volně rostoucích rostlin řadou plodin (zelenina, obilniny, citrusy, réva vinná ad.)",
+  "claimed_false_for": {
+   "Q131757": "Glaukus atlantský (Glaucus atlanticus)",
+   "Q651361": "Chobotnice pobřežní (Octopus vulgaris)",
+   "Q751784": "Zéva obrovská (Tridacna gigas)",
+   "Q756724": "Sépie obecná (Sepia officinalis)",
+   "Q912404": "Chobotnice velká (Enteroctopus dofleini)"
+  }
+ },
+ {
+  "id": "Q245314#0",
+  "species": "Hlemýžď zahradní",
+  "latin": "Helix pomatia",
+  "text": "V přírodě se dožívá asi šesti let.",
+  "quote": "V přírodě se dožívá přibližně šesti let",
+  "claimed_false_for": {
+   "Q131757": "Glaukus atlantský (Glaucus atlanticus)",
+   "Q651361": "Chobotnice pobřežní (Octopus vulgaris)",
+   "Q751784": "Zéva obrovská (Tridacna gigas)",
+   "Q756724": "Sépie obecná (Sepia officinalis)",
+   "Q932364": "Plzák španělský (Arion vulgaris)"
+  }
+ },
+ {
+  "id": "Q26908#3",
+  "species": "Oblovka žravá",
+  "latin": "Achatina fulica",
+  "text": "Má ve středu ulity bílý nebo modrobílý sloupek.",
+  "quote": "Důležitým identifikačním znakem tohoto druhu je bílý nebo modrobílý střední sloupek ulity (kolumela).",
+  "claimed_false_for": {
+   "Q131757": "Glaukus atlantský (Glaucus atlanticus)",
+   "Q651361": "Chobotnice pobřežní (Octopus vulgaris)",
+   "Q751784": "Zéva obrovská (Tridacna gigas)"
+  }
+ },
+ {
+  "id": "Q651361#1",
+  "species": "Chobotnice pobřežní",
+  "latin": "Octopus vulgaris",
+  "text": "Dokáže měnit barvu a splynout s okolím.",
+  "quote": "Je schopna měnit barvu tak, aby splynula s okolím.",
+  "claimed_false_for": {
+   "Q114893": "Páskovka hajní (Cepaea nemoralis)",
+   "Q131757": "Glaukus atlantský (Glaucus atlanticus)",
+   "Q21113": "Plzák černý (Arion ater)",
+   "Q22019793": "Hlemýžď kropenatý (Cornu aspersum)",
+   "Q245314": "Hlemýžď zahradní (Helix pomatia)",
+   "Q26908": "Oblovka žravá (Achatina fulica)",
+   "Q427854": "Páskovka keřová (Cepaea hortensis)",
+   "Q751784": "Zéva obrovská (Tridacna gigas)",
+   "Q932364": "Plzák španělský (Arion vulgaris)"
+  }
+ },
+ {
+  "id": "Q751784#1",
+  "species": "Zéva obrovská",
+  "latin": "Tridacna gigas",
+  "text": "Žije na korálových útesech v teplých mělkých vodách.",
+  "quote": "korálové útesy teplých mělkých vod Indického a Tichého oceánu",
+  "claimed_false_for": {
+   "Q114893": "Páskovka hajní (Cepaea nemoralis)",
+   "Q131757": "Glaukus atlantský (Glaucus atlanticus)",
+   "Q21113": "Plzák černý (Arion ater)",
+   "Q22019793": "Hlemýžď kropenatý (Cornu aspersum)",
+   "Q245314": "Hlemýžď zahradní (Helix pomatia)",
+   "Q26908": "Oblovka žravá (Achatina fulica)",
+   "Q427854": "Páskovka keřová (Cepaea hortensis)"
+  }
+ },
+ {
+  "id": "Q756724#0",
+  "species": "Sépie obecná",
+  "latin": "Sepia officinalis",
+  "text": "Dokáže rychle měnit barvu podle okolí.",
+  "quote": "sépie dokáže rychle změnit jeho barvu v závislosti na",
+  "claimed_false_for": {
+   "Q114893": "Páskovka hajní (Cepaea nemoralis)",
+   "Q131757": "Glaukus atlantský (Glaucus atlanticus)",
+   "Q427854": "Páskovka keřová (Cepaea hortensis)",
+   "Q751784": "Zéva obrovská (Tridacna gigas)"
+  }
+ },
+ {
+  "id": "Q756724#1",
+  "species": "Sépie obecná",
+  "latin": "Sepia officinalis",
+  "text": "Přes den se zahrabává do písku na dně.",
+  "quote": "tráví den zahrabaná v písku na dně",
+  "claimed_false_for": {
+   "Q131757": "Glaukus atlantský (Glaucus atlanticus)",
+   "Q751784": "Zéva obrovská (Tridacna gigas)"
+  }
+ },
+ {
+  "id": "Q912404#4",
+  "species": "Chobotnice velká",
+  "latin": "Enteroctopus dofleini",
+  "text": "Samice čistí vajíčka od parazitů.",
+  "quote": "čistí je chapadly od parazitů",
+  "claimed_false_for": {
+   "Q114893": "Páskovka hajní (Cepaea nemoralis)",
+   "Q131757": "Glaukus atlantský (Glaucus atlanticus)",
+   "Q21113": "Plzák černý (Arion ater)",
+   "Q22019793": "Hlemýžď kropenatý (Cornu aspersum)",
+   "Q245314": "Hlemýžď zahradní (Helix pomatia)",
+   "Q26908": "Oblovka žravá (Achatina fulica)",
+   "Q427854": "Páskovka keřová (Cepaea hortensis)",
+   "Q751784": "Zéva obrovská (Tridacna gigas)",
+   "Q932364": "Plzák španělský (Arion vulgaris)"
+  }
+ },
+ {
+  "id": "Q932364#2",
+  "species": "Plzák španělský",
+  "latin": "Arion vulgaris",
+  "text": "Tento druh se dokáže vtěsnat do úzkých štěrbin a přežít sucho.",
+  "quote": "je schopen vměstnat se do neuvěřitelně úzkých štěrbin a přečkat sucho ve dne",
+  "claimed_false_for": {
+   "Q26908": "Oblovka žravá (Achatina fulica)",
+   "Q751784": "Zéva obrovská (Tridacna gigas)"
+  }
+ },
+ {
+  "id": "Q932364#3",
+  "species": "Plzák španělský",
+  "latin": "Arion vulgaris",
+  "text": "Tento druh se v České republice poprvé objevil v roce 1991.",
+  "quote": "V České republice se plzák španělský poprvé objevil v roce 1991",
+  "claimed_false_for": {
+   "Q114893": "Páskovka hajní (Cepaea nemoralis)",
+   "Q131757": "Glaukus atlantský (Glaucus atlanticus)",
+   "Q21113": "Plzák černý (Arion ater)",
+   "Q245314": "Hlemýžď zahradní (Helix pomatia)",
+   "Q427854": "Páskovka keřová (Cepaea hortensis)",
+   "Q651361": "Chobotnice pobřežní (Octopus vulgaris)",
+   "Q751784": "Zéva obrovská (Tridacna gigas)"
+  }
+ },
+ {
+  "id": "Q932364#4",
+  "species": "Plzák španělský",
+  "latin": "Arion vulgaris",
+  "text": "Žere pěstované rostliny, například salát, zelí a řepku.",
+  "quote": "zejména salát, zelí, řepku atd.",
+  "claimed_false_for": {
+   "Q131757": "Glaukus atlantský (Glaucus atlanticus)",
+   "Q651361": "Chobotnice pobřežní (Octopus vulgaris)",
+   "Q751784": "Zéva obrovská (Tridacna gigas)",
+   "Q756724": "Sépie obecná (Sepia officinalis)"
+  }
+ },
+ {
+  "id": "Q932364#5",
+  "species": "Plzák španělský",
+  "latin": "Arion vulgaris",
+  "text": "Počet tohoto druhu mohou omezovat slepýši a ropuchy.",
+  "quote": "Z plazů je to především slepýš křehký, z žab ropucha obecná",
+  "claimed_false_for": {
+   "Q131757": "Glaukus atlantský (Glaucus atlanticus)",
+   "Q651361": "Chobotnice pobřežní (Octopus vulgaris)",
+   "Q751784": "Zéva obrovská (Tridacna gigas)",
+   "Q756724": "Sépie obecná (Sepia officinalis)"
+  }
+ }
+]

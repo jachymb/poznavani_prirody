@@ -1,0 +1,597 @@
+[
+ {
+  "id": "Q161115#0",
+  "species": "Agáve obecná",
+  "latin": "Agave americana",
+  "text": "Obvykle žije 10 až 30 let.",
+  "quote": "Agáve typicky žije 10 až 30 let.",
+  "claimed_false_for": {
+   "Q158634": "Oves hluchý (Avena fatua)"
+  }
+ },
+ {
+  "id": "Q161115#1",
+  "species": "Agáve obecná",
+  "latin": "Agave americana",
+  "text": "Po vykvetení odumírá, ale ze základu růžice vyrůstají nové výhonky.",
+  "quote": "Rostlina umírá po vykvetení, ale produkuje výhonky nebo odnože ze základové růžice, které pokračují v růstu.",
+  "claimed_false_for": {
+   "Q156969": "Areka obecná (Areca catechu)",
+   "Q25292": "Datlovník pravý (Phoenix dactylifera)",
+   "Q28367": "Chřest lékařský (Asparagus officinalis)",
+   "Q33466": "Kardamovník obecný (Elettaria cardamomum)",
+   "Q500857": "Lontar vějířovitý (Borassus flabellifer)"
+  }
+ },
+ {
+  "id": "Q161211#0",
+  "species": "Bér italský",
+  "latin": "Setaria italica",
+  "text": "Může dorůst do výšky 70 až 220 centimetrů.",
+  "quote": "Může dorůstat výšky 70–220 cm.",
+  "claimed_false_for": {
+   "Q1391422": "Šáchor hlíznatý (Cyperus rotundus)",
+   "Q152553": "Ocún jesenní (Colchicum autumnale)"
+  }
+ },
+ {
+  "id": "Q161735#0",
+  "species": "Srha laločnatá",
+  "latin": "Dactylis glomerata",
+  "text": "Stéblo dorůstá až do výšky 150 cm.",
+  "quote": "Stéblo dorůstá až do výšky 150 cm.",
+  "claimed_false_for": {
+   "Q109995": "Sněženka podsněžník (Galanthus nivalis)",
+   "Q208705": "Troskut prstnatý (Cynodon dactylon)"
+  }
+ },
+ {
+  "id": "Q161735#1",
+  "species": "Srha laločnatá",
+  "latin": "Dactylis glomerata",
+  "text": "Kvete v květnu až červenci.",
+  "quote": "Kvete v květnu až červenci.",
+  "claimed_false_for": {
+   "Q109995": "Sněženka podsněžník (Galanthus nivalis)",
+   "Q152553": "Ocún jesenní (Colchicum autumnale)"
+  }
+ },
+ {
+  "id": "Q193498#2",
+  "species": "Cibule šalotka",
+  "latin": "Allium ascalonicum",
+  "text": "Z jarní výsadby dozrává za 80 až 130 dní.",
+  "quote": "Šalotka z jarní výsadby dozrává do konzumní zralosti za 80 – 130 dní, podle klimatických podmínek.",
+  "claimed_false_for": {
+   "Q101711": "Konvalinka vonná (Convallaria majalis)",
+   "Q15041677": "Šafrán setý (Crocus sativus)",
+   "Q156363": "Lilie zlatohlavá (Lilium martagon)",
+   "Q158808": "Šáchor papírodárný (Cyperus papyrus)",
+   "Q161115": "Agáve obecná (Agave americana)",
+   "Q21173": "Kosatec žlutý (Iris pseudacorus)",
+   "Q276262": "Pýr plazivý (Elymus repens)",
+   "Q378568": "Vetiverie ovsuchovitá (Chrysopogon zizanioides)",
+   "Q693409": "Imperata válcovitá (Imperata cylindrica)"
+  }
+ },
+ {
+  "id": "Q208705#0",
+  "species": "Troskut prstnatý",
+  "latin": "Cynodon dactylon",
+  "text": "Stébla jsou vysoká 10 až 50 centimetrů.",
+  "quote": "Mívá stébla 10 až 50 cm vysoká",
+  "claimed_false_for": {
+   "Q158808": "Šáchor papírodárný (Cyperus papyrus)",
+   "Q332062": "Čirok dvoubarevný (Sorghum bicolor)",
+   "Q378568": "Vetiverie ovsuchovitá (Chrysopogon zizanioides)",
+   "Q693409": "Imperata válcovitá (Imperata cylindrica)"
+  }
+ },
+ {
+  "id": "Q208705#1",
+  "species": "Troskut prstnatý",
+  "latin": "Cynodon dactylon",
+  "text": "Rozrůstá se plazivými výběžky dlouhými až jeden metr.",
+  "quote": "má však četné plazivé, rychle přirůstající výběžky dlouhé do 1 m",
+  "claimed_false_for": {
+   "Q109995": "Sněženka podsněžník (Galanthus nivalis)",
+   "Q11577": "Ječmen setý (Hordeum vulgare)",
+   "Q12104": "Oves setý (Avena sativa)",
+   "Q13187": "Kokosovník ořechoplodý (Cocos nucifera)",
+   "Q152553": "Ocún jesenní (Colchicum autumnale)",
+   "Q156363": "Lilie zlatohlavá (Lilium martagon)",
+   "Q156969": "Areka obecná (Areca catechu)"
+  }
+ },
+ {
+  "id": "Q208705#3",
+  "species": "Troskut prstnatý",
+  "latin": "Cynodon dactylon",
+  "text": "Květy opyluje vítr.",
+  "quote": "Zelenkavé květy s redukovanými květními obaly jsou opylovány pylem neseným větrem",
+  "claimed_false_for": {
+   "Q109995": "Sněženka podsněžník (Galanthus nivalis)",
+   "Q156363": "Lilie zlatohlavá (Lilium martagon)",
+   "Q51148": "Pažitka pobřežní (Allium schoenoprasum)"
+  }
+ },
+ {
+  "id": "Q208705#5",
+  "species": "Troskut prstnatý",
+  "latin": "Cynodon dactylon",
+  "text": "V mnoha oblastech slouží jako trávník.",
+  "quote": "V mnoha oblastech slouží jako trávník, který neusychá ani v sušším období",
+  "claimed_false_for": {
+   "Q101711": "Konvalinka vonná (Convallaria majalis)",
+   "Q130882": "Česnek medvědí (Allium ursinum)",
+   "Q15041677": "Šafrán setý (Crocus sativus)",
+   "Q156363": "Lilie zlatohlavá (Lilium martagon)",
+   "Q158808": "Šáchor papírodárný (Cyperus papyrus)",
+   "Q161115": "Agáve obecná (Agave americana)",
+   "Q21173": "Kosatec žlutý (Iris pseudacorus)"
+  }
+ },
+ {
+  "id": "Q21173#0",
+  "species": "Kosatec žlutý",
+  "latin": "Iris pseudacorus",
+  "text": "Kvete od května do června.",
+  "quote": "Kvete v květnu až červnu.",
+  "claimed_false_for": {
+   "Q152553": "Ocún jesenní (Colchicum autumnale)"
+  }
+ },
+ {
+  "id": "Q23400#0",
+  "species": "Česnek kuchyňský",
+  "latin": "Allium sativum",
+  "text": "Má šest zelenavě bílých až růžových okvětních lístků.",
+  "quote": "okvětních lístků zelenavě bílé až růžové barvy",
+  "claimed_false_for": {
+   "Q11577": "Ječmen setý (Hordeum vulgare)",
+   "Q12104": "Oves setý (Avena sativa)",
+   "Q161114": "Trsť rákosovitá (Arundo donax)",
+   "Q227997": "Kolokázie jedlá (Colocasia esculenta)",
+   "Q276262": "Pýr plazivý (Elymus repens)",
+   "Q3391243": "Cukrová třtina (Saccharum officinarum)"
+  }
+ },
+ {
+  "id": "Q23400#1",
+  "species": "Česnek kuchyňský",
+  "latin": "Allium sativum",
+  "text": "Má ploché listy, asi 2,5 centimetru široké.",
+  "quote": "široce čárkovité (cca 2,5 cm široké)",
+  "claimed_false_for": {
+   "Q158634": "Oves hluchý (Avena fatua)",
+   "Q158808": "Šáchor papírodárný (Cyperus papyrus)",
+   "Q276262": "Pýr plazivý (Elymus repens)",
+   "Q378568": "Vetiverie ovsuchovitá (Chrysopogon zizanioides)"
+  }
+ },
+ {
+  "id": "Q23400#3",
+  "species": "Česnek kuchyňský",
+  "latin": "Allium sativum",
+  "text": "Na květenství rostou drobné cibulky, které slouží k rozmnožování.",
+  "quote": "pacibulky, které slouží k vegetativnímu rozmnožování",
+  "claimed_false_for": {
+   "Q11575": "Kukuřice setá (Zea mays)",
+   "Q13187": "Kokosovník ořechoplodý (Cocos nucifera)",
+   "Q1391422": "Šáchor hlíznatý (Cyperus rotundus)",
+   "Q1493": "Ananasovník chocholatý (Ananas comosus)",
+   "Q158008": "Puškvorec obecný (Acorus calamus)",
+   "Q161098": "Pšenice setá (Triticum aestivum)",
+   "Q165196": "Proso seté (Panicum miliaceum)",
+   "Q165403": "Palma olejná (Elaeis guineensis)",
+   "Q33943": "Euterpe brazilská (Euterpe oleracea)",
+   "Q42562": "Kurkuma (Curcuma longa)"
+  }
+ },
+ {
+  "id": "Q23400#4",
+  "species": "Česnek kuchyňský",
+  "latin": "Allium sativum",
+  "text": "Dává včelám nektar i pyl.",
+  "quote": "je výborná nektarodárná i pylodárná rostlina",
+  "claimed_false_for": {
+   "Q11577": "Ječmen setý (Hordeum vulgare)",
+   "Q12104": "Oves setý (Avena sativa)",
+   "Q161114": "Trsť rákosovitá (Arundo donax)",
+   "Q276262": "Pýr plazivý (Elymus repens)",
+   "Q3391243": "Cukrová třtina (Saccharum officinarum)"
+  }
+ },
+ {
+  "id": "Q23400#5",
+  "species": "Česnek kuchyňský",
+  "latin": "Allium sativum",
+  "text": "Pochází patrně ze střední Asie.",
+  "quote": "patrně pochází ze střední Asie",
+  "claimed_false_for": {
+   "Q101711": "Konvalinka vonná (Convallaria majalis)",
+   "Q130882": "Česnek medvědí (Allium ursinum)",
+   "Q156363": "Lilie zlatohlavá (Lilium martagon)",
+   "Q158808": "Šáchor papírodárný (Cyperus papyrus)",
+   "Q161115": "Agáve obecná (Agave americana)",
+   "Q21173": "Kosatec žlutý (Iris pseudacorus)",
+   "Q378568": "Vetiverie ovsuchovitá (Chrysopogon zizanioides)",
+   "Q693409": "Imperata válcovitá (Imperata cylindrica)"
+  }
+ },
+ {
+  "id": "Q23485#0",
+  "species": "Cibule kuchyňská",
+  "latin": "Allium cepa",
+  "text": "Květy mají šest bílých až narůžovělých lístků.",
+  "quote": "Okvětí se skládá ze 6 okvětních lístků bílé až narůžovělé barvy, se středním zeleným pruhem.",
+  "claimed_false_for": {
+   "Q11577": "Ječmen setý (Hordeum vulgare)",
+   "Q12104": "Oves setý (Avena sativa)",
+   "Q161114": "Trsť rákosovitá (Arundo donax)",
+   "Q227997": "Kolokázie jedlá (Colocasia esculenta)",
+   "Q276262": "Pýr plazivý (Elymus repens)",
+   "Q3391243": "Cukrová třtina (Saccharum officinarum)"
+  }
+ },
+ {
+  "id": "Q25292#0",
+  "species": "Datlovník pravý",
+  "latin": "Phoenix dactylifera",
+  "text": "Plody jsou tmavě hnědé a oválné, dlouhé 3 až 7 centimetrů.",
+  "quote": "Datle jsou tmavě hnědé oválné plody (peckovice), 3 až 7 cm dlouhé a 2 až 3 cm široké.",
+  "claimed_false_for": {
+   "Q101711": "Konvalinka vonná (Convallaria majalis)",
+   "Q130882": "Česnek medvědí (Allium ursinum)",
+   "Q15041677": "Šafrán setý (Crocus sativus)",
+   "Q158634": "Oves hluchý (Avena fatua)",
+   "Q158808": "Šáchor papírodárný (Cyperus papyrus)",
+   "Q276262": "Pýr plazivý (Elymus repens)",
+   "Q332062": "Čirok dvoubarevný (Sorghum bicolor)",
+   "Q378568": "Vetiverie ovsuchovitá (Chrysopogon zizanioides)",
+   "Q693409": "Imperata válcovitá (Imperata cylindrica)"
+  }
+ },
+ {
+  "id": "Q25292#1",
+  "species": "Datlovník pravý",
+  "latin": "Phoenix dactylifera",
+  "text": "Dorůstá do výšky 15 až 25 metrů.",
+  "quote": "dorůstající výšky 15–25 metrů",
+  "claimed_false_for": {
+   "Q109995": "Sněženka podsněžník (Galanthus nivalis)",
+   "Q11577": "Ječmen setý (Hordeum vulgare)",
+   "Q12104": "Oves setý (Avena sativa)",
+   "Q152553": "Ocún jesenní (Colchicum autumnale)",
+   "Q156363": "Lilie zlatohlavá (Lilium martagon)",
+   "Q161114": "Trsť rákosovitá (Arundo donax)",
+   "Q227997": "Kolokázie jedlá (Colocasia esculenta)",
+   "Q276262": "Pýr plazivý (Elymus repens)",
+   "Q3391243": "Cukrová třtina (Saccharum officinarum)",
+   "Q51148": "Pažitka pobřežní (Allium schoenoprasum)"
+  }
+ },
+ {
+  "id": "Q276262#0",
+  "species": "Pýr plazivý",
+  "latin": "Elymus repens",
+  "text": "Kvete od června do srpna.",
+  "quote": "Květenství pýru plazivého rozkvétají v červnu až srpnu.",
+  "claimed_false_for": {
+   "Q152553": "Ocún jesenní (Colchicum autumnale)"
+  }
+ },
+ {
+  "id": "Q276262#1",
+  "species": "Pýr plazivý",
+  "latin": "Elymus repens",
+  "text": "Tento druh se rozmnožuje semeny i dlouhými podzemními oddenky.",
+  "quote": "Rostlina se rozmnožuje semeny nebo dlouhými pevnými plazivými podzemními oddenky.",
+  "claimed_false_for": {
+   "Q12099": "Žito seté (Secale cereale)",
+   "Q156969": "Areka obecná (Areca catechu)",
+   "Q161211": "Bér italský (Setaria italica)",
+   "Q500857": "Lontar vějířovitý (Borassus flabellifer)"
+  }
+ },
+ {
+  "id": "Q27657#1",
+  "species": "Datlovník kanárský",
+  "latin": "Phoenix canariensis",
+  "text": "Kvete od března do června.",
+  "quote": "Od března do června.",
+  "claimed_false_for": {
+   "Q152553": "Ocún jesenní (Colchicum autumnale)"
+  }
+ },
+ {
+  "id": "Q28367#0",
+  "species": "Chřest lékařský",
+  "latin": "Asparagus officinalis",
+  "text": "Dorůstá do výšky asi 40 až 150 centimetrů.",
+  "quote": "asi 40 až 150 cm vysokou, bylinu s krátkým dřevnatým oddenkem.",
+  "claimed_false_for": {
+   "Q13187": "Kokosovník ořechoplodý (Cocos nucifera)",
+   "Q165403": "Palma olejná (Elaeis guineensis)",
+   "Q3391243": "Cukrová třtina (Saccharum officinarum)",
+   "Q33943": "Euterpe brazilská (Euterpe oleracea)"
+  }
+ },
+ {
+  "id": "Q28367#2",
+  "species": "Chřest lékařský",
+  "latin": "Asparagus officinalis",
+  "text": "Má červené bobule o průměru asi 6 až 8 milimetrů.",
+  "quote": "červená bobule, asi 6–8 mm v průměru.",
+  "claimed_false_for": {
+   "Q11575": "Kukuřice setá (Zea mays)",
+   "Q147520": "Orobinec širokolistý (Typha latifolia)",
+   "Q1493": "Ananasovník chocholatý (Ananas comosus)",
+   "Q15041677": "Šafrán setý (Crocus sativus)",
+   "Q156124": "Střevíčník pantoflíček (Cypripedium calceolus)",
+   "Q165196": "Proso seté (Panicum miliaceum)",
+   "Q23400": "Česnek kuchyňský (Allium sativum)",
+   "Q23485": "Cibule kuchyňská (Allium cepa)",
+   "Q25292": "Datlovník pravý (Phoenix dactylifera)",
+   "Q33466": "Kardamovník obecný (Elettaria cardamomum)",
+   "Q42729158": "Tuberóza hlíznatá (Agave amica)",
+   "Q80079": "Aloe pravá (Aloe vera)"
+  }
+ },
+ {
+  "id": "Q28557#0",
+  "species": "Rákos obecný",
+  "latin": "Phragmites australis",
+  "text": "Dorůstá do výšky 1 až 4 metrů, někdy až 6 metrů.",
+  "quote": "dorůstající 1–4 m (ale někdy až 6 m)",
+  "claimed_false_for": {
+   "Q12099": "Žito seté (Secale cereale)",
+   "Q12104": "Oves setý (Avena sativa)",
+   "Q1391422": "Šáchor hlíznatý (Cyperus rotundus)",
+   "Q152553": "Ocún jesenní (Colchicum autumnale)",
+   "Q158634": "Oves hluchý (Avena fatua)",
+   "Q161211": "Bér italský (Setaria italica)",
+   "Q161735": "Srha laločnatá (Dactylis glomerata)",
+   "Q33913": "Voňatka citronová (Cymbopogon citratus)",
+   "Q42562": "Kurkuma (Curcuma longa)",
+   "Q618324": "Semolina (Triticum durum)"
+  }
+ },
+ {
+  "id": "Q33466#0",
+  "species": "Kardamovník obecný",
+  "latin": "Elettaria cardamomum",
+  "text": "Vyrůstá z podzemního stonku a dorůstá do výšky 2 až 4 metrů.",
+  "quote": "Bylina vyrůstající z mohutného oddenku dorůstá výšky 2–4 m",
+  "claimed_false_for": {
+   "Q109995": "Sněženka podsněžník (Galanthus nivalis)",
+   "Q11577": "Ječmen setý (Hordeum vulgare)",
+   "Q156124": "Střevíčník pantoflíček (Cypripedium calceolus)",
+   "Q208705": "Troskut prstnatý (Cynodon dactylon)",
+   "Q23485": "Cibule kuchyňská (Allium cepa)",
+   "Q33913": "Voňatka citronová (Cymbopogon citratus)",
+   "Q42729158": "Tuberóza hlíznatá (Agave amica)",
+   "Q51148": "Pažitka pobřežní (Allium schoenoprasum)",
+   "Q80079": "Aloe pravá (Aloe vera)"
+  }
+ },
+ {
+  "id": "Q33466#2",
+  "species": "Kardamovník obecný",
+  "latin": "Elettaria cardamomum",
+  "text": "Rozmnožuje se hlavně dělením podzemních stonků.",
+  "quote": "Rozmnožuje se však zejména dělením oddenků.",
+  "claimed_false_for": {
+   "Q11577": "Ječmen setý (Hordeum vulgare)",
+   "Q27657": "Datlovník kanárský (Phoenix canariensis)",
+   "Q618324": "Semolina (Triticum durum)"
+  }
+ },
+ {
+  "id": "Q3391243#0",
+  "species": "Cukrová třtina",
+  "latin": "Saccharum officinarum",
+  "text": "Dorůstá až do výšky šesti metrů.",
+  "quote": "mohou být až 6 m vysoká",
+  "claimed_false_for": {
+   "Q12099": "Žito seté (Secale cereale)",
+   "Q12104": "Oves setý (Avena sativa)",
+   "Q1391422": "Šáchor hlíznatý (Cyperus rotundus)",
+   "Q152553": "Ocún jesenní (Colchicum autumnale)",
+   "Q158634": "Oves hluchý (Avena fatua)",
+   "Q161211": "Bér italský (Setaria italica)",
+   "Q161735": "Srha laločnatá (Dactylis glomerata)",
+   "Q33913": "Voňatka citronová (Cymbopogon citratus)",
+   "Q42562": "Kurkuma (Curcuma longa)",
+   "Q618324": "Semolina (Triticum durum)"
+  }
+ },
+ {
+  "id": "Q33913#0",
+  "species": "Voňatka citronová",
+  "latin": "Cymbopogon citratus",
+  "text": "Dorůstá do výšky až 150 cm.",
+  "quote": "které dorůstají do výšky až 150 cm",
+  "claimed_false_for": {
+   "Q109995": "Sněženka podsněžník (Galanthus nivalis)",
+   "Q161114": "Trsť rákosovitá (Arundo donax)",
+   "Q208705": "Troskut prstnatý (Cynodon dactylon)",
+   "Q27657": "Datlovník kanárský (Phoenix canariensis)"
+  }
+ },
+ {
+  "id": "Q33943#0",
+  "species": "Euterpe brazilská",
+  "latin": "Euterpe oleracea",
+  "text": "Kvete a plodí celý rok.",
+  "quote": "Druh kvete a plodí v průběhu celého roku.",
+  "claimed_false_for": {
+   "Q101711": "Konvalinka vonná (Convallaria majalis)",
+   "Q130882": "Česnek medvědí (Allium ursinum)",
+   "Q15041677": "Šafrán setý (Crocus sativus)",
+   "Q156363": "Lilie zlatohlavá (Lilium martagon)",
+   "Q158634": "Oves hluchý (Avena fatua)",
+   "Q21173": "Kosatec žlutý (Iris pseudacorus)",
+   "Q276262": "Pýr plazivý (Elymus repens)"
+  }
+ },
+ {
+  "id": "Q33943#1",
+  "species": "Euterpe brazilská",
+  "latin": "Euterpe oleracea",
+  "text": "Dorůstá až do výšky 20 metrů.",
+  "quote": "dorůstající výšky 3 až 20 metrů",
+  "claimed_false_for": {
+   "Q12099": "Žito seté (Secale cereale)",
+   "Q12104": "Oves setý (Avena sativa)",
+   "Q1391422": "Šáchor hlíznatý (Cyperus rotundus)",
+   "Q152553": "Ocún jesenní (Colchicum autumnale)",
+   "Q158634": "Oves hluchý (Avena fatua)",
+   "Q161211": "Bér italský (Setaria italica)",
+   "Q161735": "Srha laločnatá (Dactylis glomerata)",
+   "Q33913": "Voňatka citronová (Cymbopogon citratus)",
+   "Q42562": "Kurkuma (Curcuma longa)",
+   "Q618324": "Semolina (Triticum durum)"
+  }
+ },
+ {
+  "id": "Q33943#3",
+  "species": "Euterpe brazilská",
+  "latin": "Euterpe oleracea",
+  "text": "Má kulaté, purpurově černé plody.",
+  "quote": "Plody jsou kulovité, purpurově černé, asi 1 až 1,5 cm dlouhé",
+  "claimed_false_for": {
+   "Q109995": "Sněženka podsněžník (Galanthus nivalis)",
+   "Q11577": "Ječmen setý (Hordeum vulgare)",
+   "Q27657": "Datlovník kanárský (Phoenix canariensis)",
+   "Q618324": "Semolina (Triticum durum)",
+   "Q80079": "Aloe pravá (Aloe vera)"
+  }
+ },
+ {
+  "id": "Q378568#0",
+  "species": "Vetiverie ovsuchovitá",
+  "latin": "Chrysopogon zizanioides",
+  "text": "Má fialové květenství dlouhé asi 20 až 30 cm.",
+  "quote": "Latovité květenství je fialově zbarvené, podlouhlé, asi 20 až 30 cm dlouhé",
+  "claimed_false_for": {
+   "Q101711": "Konvalinka vonná (Convallaria majalis)",
+   "Q130882": "Česnek medvědí (Allium ursinum)",
+   "Q15041677": "Šafrán setý (Crocus sativus)",
+   "Q156363": "Lilie zlatohlavá (Lilium martagon)",
+   "Q158808": "Šáchor papírodárný (Cyperus papyrus)",
+   "Q161115": "Agáve obecná (Agave americana)",
+   "Q21173": "Kosatec žlutý (Iris pseudacorus)",
+   "Q276262": "Pýr plazivý (Elymus repens)",
+   "Q693409": "Imperata válcovitá (Imperata cylindrica)"
+  }
+ },
+ {
+  "id": "Q378568#2",
+  "species": "Vetiverie ovsuchovitá",
+  "latin": "Chrysopogon zizanioides",
+  "text": "Z kořenů se získává vonný olej, který se používá v parfémech.",
+  "quote": "Vetiverie je známa především jako zdroj esenciálního oleje, známého jako vetiver a destilovaného z kořenů této trávy. Olej je jednou ze složek mnoha parfémů, včetně známého Chanel No. 5.",
+  "claimed_false_for": {
+   "Q109995": "Sněženka podsněžník (Galanthus nivalis)",
+   "Q11577": "Ječmen setý (Hordeum vulgare)",
+   "Q156124": "Střevíčník pantoflíček (Cypripedium calceolus)",
+   "Q208705": "Troskut prstnatý (Cynodon dactylon)",
+   "Q23485": "Cibule kuchyňská (Allium cepa)",
+   "Q27657": "Datlovník kanárský (Phoenix canariensis)",
+   "Q51148": "Pažitka pobřežní (Allium schoenoprasum)",
+   "Q618324": "Semolina (Triticum durum)"
+  }
+ },
+ {
+  "id": "Q42729158#1",
+  "species": "Tuberóza hlíznatá",
+  "latin": "Agave amica",
+  "text": "Květy mají velmi silnou, omamnou vůni.",
+  "quote": "Květy mají specifickou, intenzivní až omamnou vůni.",
+  "claimed_false_for": {
+   "Q11575": "Kukuřice setá (Zea mays)",
+   "Q161098": "Pšenice setá (Triticum aestivum)",
+   "Q165196": "Proso seté (Panicum miliaceum)"
+  }
+ },
+ {
+  "id": "Q42729158#2",
+  "species": "Tuberóza hlíznatá",
+  "latin": "Agave amica",
+  "text": "Z květů se vyrábí vonný olej do parfémů.",
+  "quote": "Z květů se k získává silice pro výrobu různých voňavek, tzv. tuberózového parfému.",
+  "claimed_false_for": {
+   "Q12099": "Žito seté (Secale cereale)",
+   "Q147520": "Orobinec širokolistý (Typha latifolia)",
+   "Q156969": "Areka obecná (Areca catechu)",
+   "Q161211": "Bér italský (Setaria italica)",
+   "Q161735": "Srha laločnatá (Dactylis glomerata)",
+   "Q28557": "Rákos obecný (Phragmites australis)",
+   "Q500857": "Lontar vějířovitý (Borassus flabellifer)"
+  }
+ },
+ {
+  "id": "Q500857#0",
+  "species": "Lontar vějířovitý",
+  "latin": "Borassus flabellifer",
+  "text": "Dorůstá výšky 30, někdy i 35 metrů.",
+  "quote": "Lontar je středně silná palma dorůstající výšky 30, někdy i 35 metrů.",
+  "claimed_false_for": {
+   "Q12099": "Žito seté (Secale cereale)",
+   "Q147520": "Orobinec širokolistý (Typha latifolia)",
+   "Q161211": "Bér italský (Setaria italica)",
+   "Q161735": "Srha laločnatá (Dactylis glomerata)",
+   "Q193498": "Cibule šalotka (Allium ascalonicum)",
+   "Q23400": "Česnek kuchyňský (Allium sativum)",
+   "Q28367": "Chřest lékařský (Asparagus officinalis)",
+   "Q28557": "Rákos obecný (Phragmites australis)",
+   "Q33466": "Kardamovník obecný (Elettaria cardamomum)"
+  }
+ },
+ {
+  "id": "Q500857#1",
+  "species": "Lontar vějířovitý",
+  "latin": "Borassus flabellifer",
+  "text": "Pochází z Indie, Malajsie a Indonésie.",
+  "quote": "pocházející z Indie, Malajsie a Indonésie",
+  "claimed_false_for": {
+   "Q12099": "Žito seté (Secale cereale)",
+   "Q147520": "Orobinec širokolistý (Typha latifolia)",
+   "Q161735": "Srha laločnatá (Dactylis glomerata)",
+   "Q23400": "Česnek kuchyňský (Allium sativum)",
+   "Q28367": "Chřest lékařský (Asparagus officinalis)",
+   "Q28557": "Rákos obecný (Phragmites australis)"
+  }
+ },
+ {
+  "id": "Q500857#2",
+  "species": "Lontar vějířovitý",
+  "latin": "Borassus flabellifer",
+  "text": "Má listy dlouhé 1,5 až 3 metry.",
+  "quote": "Listy jsou zpeřené, dlouhé 1,5 až 3 metry.",
+  "claimed_false_for": {
+   "Q11575": "Kukuřice setá (Zea mays)",
+   "Q1391422": "Šáchor hlíznatý (Cyperus rotundus)",
+   "Q1493": "Ananasovník chocholatý (Ananas comosus)",
+   "Q161098": "Pšenice setá (Triticum aestivum)",
+   "Q165196": "Proso seté (Panicum miliaceum)"
+  }
+ },
+ {
+  "id": "Q51148#2",
+  "species": "Pažitka pobřežní",
+  "latin": "Allium schoenoprasum",
+  "text": "Má šest okvětních lístků, nejčastěji fialových.",
+  "quote": "Okvětí se skládá ze 6 okvětních lístků bledě nachové až fialové, vzácně bílé barvy.",
+  "claimed_false_for": {
+   "Q109995": "Sněženka podsněžník (Galanthus nivalis)",
+   "Q11577": "Ječmen setý (Hordeum vulgare)",
+   "Q12104": "Oves setý (Avena sativa)",
+   "Q161114": "Trsť rákosovitá (Arundo donax)",
+   "Q227997": "Kolokázie jedlá (Colocasia esculenta)",
+   "Q276262": "Pýr plazivý (Elymus repens)",
+   "Q3391243": "Cukrová třtina (Saccharum officinarum)"
+  }
+ }
+]

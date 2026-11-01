@@ -1,0 +1,529 @@
+[
+ {
+  "id": "Q1996342#1",
+  "species": "Krátkokrčka novoguinejská",
+  "latin": "Elseya novaeguineae",
+  "text": "Krunýř dorůstá až do 30 centimetrů.",
+  "quote": "Krunýř dorůstá velikosti až 30 centimetrů",
+  "claimed_false_for": {
+   "Q1551982": "Bičovka stromová (Ahaetulla prasina)",
+   "Q183660": "Slepýš křehký (Anguis fragilis)",
+   "Q262416": "Kožnatka ganžská (Nilssonia gangetica)",
+   "Q2656629": "Šípovec nosatý (Rhamphiophis oxyrhynchus)",
+   "Q301089": "Kareta menší (Lepidochelys kempii)",
+   "Q457742": "Karetka novoguinejská (Carettochelys insculpta)"
+  }
+ },
+ {
+  "id": "Q20014035#4",
+  "species": "Želva sloní",
+  "latin": "Chelonoidis niger",
+  "text": "Potkani a kočky ohrožují mladé jedince.",
+  "quote": "introdukovanými zvířaty, například potkany, kočkami",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q20014035#5",
+  "species": "Želva sloní",
+  "latin": "Chelonoidis niger",
+  "text": "Kozy a dobytek soupeří s nimi o potravu.",
+  "quote": "potravní konkurencí v podobě koz a dobytka",
+  "claimed_false_for": {
+   "Q109232825": "Chřestýšovec bornejský (Craspedocephalus borneensis)",
+   "Q167358": "Chameleon Petterův (Furcifer petteri)",
+   "Q2700337": "Bazilišek dlouhonohý (Laemanctus longipes)",
+   "Q918123": "Zmije levantská (Macrovipera lebetina)"
+  }
+ },
+ {
+  "id": "Q203538#4",
+  "species": "Kareta pravá",
+  "latin": "Eretmochelys imbricata",
+  "text": "Tento druh se nejčastěji živí vodními houbami.",
+  "quote": "složku její potravy nejčastěji tvoří vodní houby",
+  "claimed_false_for": {
+   "Q1475501": "Felsuma madagaskarská (Phelsuma madagascariensis)",
+   "Q186615": "Ještěrka zední (Podarcis muralis)",
+   "Q301044": "Dlouhohlávka mexická (Dermatemys mawii)"
+  }
+ },
+ {
+  "id": "Q203538#5",
+  "species": "Kareta pravá",
+  "latin": "Eretmochelys imbricata",
+  "text": "Jí také medúzy a žebernatky.",
+  "quote": "Jejich potravou se však stávají i jiní bezobratlí, především pak žebernatky a medúzy",
+  "claimed_false_for": {
+   "Q504549": "Želva žlutohnědá (Testudo graeca)",
+   "Q596348": "Želva korunková (Hardella thurjii)",
+   "Q72105": "Želva Muhlenbergova (Glyptemys muhlenbergii)",
+   "Q905234": "Křovinář ostnitý (Bothriechis schlegelii)"
+  }
+ },
+ {
+  "id": "Q203538#6",
+  "species": "Kareta pravá",
+  "latin": "Eretmochelys imbricata",
+  "text": "Bahňáci a racci loví mláďata, která se do rána nedostanou do moře.",
+  "quote": "do úsvitu se stávají kořistí dravců (hlavně bahňáků a racků)",
+  "claimed_false_for": {
+   "Q262555": "Želva zelenavá (Testudo hermanni)",
+   "Q277794": "Želva uhlířská (Chelonoidis carbonaria)",
+   "Q301687": "Želva jünnanská (Cuora yunnanensis)",
+   "Q727433": "Křovinář žlutoskvrnný (Bothriechis aurifer)",
+   "Q846001": "Želva podlouhlá (Indotestudo elongata)",
+   "Q914338": "Želva myší (Gopherus polyphemus)",
+   "Q914356": "Želva Agassizova (Gopherus agassizii)"
+  }
+ },
+ {
+  "id": "Q204061#4",
+  "species": "Ještěrka živorodá",
+  "latin": "Zootoca vivipara",
+  "text": "Jí především drobné bezobratlé, zvláště hmyz a členovce.",
+  "quote": "Její potravou se stávají především drobní bezobratlí živočichové, zvláště pak hmyz nebo členovci.",
+  "claimed_false_for": {
+   "Q2122008": "Musurana černá (Clelia clelia)",
+   "Q2321476": "Taipan velký (Oxyuranus scutellatus)"
+  }
+ },
+ {
+  "id": "Q204061#5",
+  "species": "Ještěrka živorodá",
+  "latin": "Zootoca vivipara",
+  "text": "Tento druh je potravou hadů a větších dravých ptáků.",
+  "quote": "Sama se pak stává potravou hadů nebo větších dravých ptáků.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q207058#0",
+  "species": "Korovec jedovatý",
+  "latin": "Heloderma suspectum",
+  "text": "Ptačí a ještěří vejce tvoří mnohdy většinu jeho potravy.",
+  "quote": "Velmi rád pojídá ptačí a ještěří vejce, které mnohdy tvoří většinu jeho potravy.",
+  "claimed_false_for": {
+   "Q192056": "Zmije obecná (Vipera berus)",
+   "Q371183": "Zmije gabunská (Bitis gabonica)",
+   "Q577013": "Chřestýšovec Waglerův (Tropidolaemus wagleri)",
+   "Q645356": "Želva vroubená (Testudo marginata)",
+   "Q74232": "Leguán madagaskarský (Oplurus cuvieri)"
+  }
+ },
+ {
+  "id": "Q207058#1",
+  "species": "Korovec jedovatý",
+  "latin": "Heloderma suspectum",
+  "text": "Kojoti a dravé ptáci ho mohou ulovit.",
+  "quote": "Sám se může stát kořistí kojotů nebo dravých ptáků.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q207347#4",
+  "species": "Anakonda velká",
+  "latin": "Eunectes murinus",
+  "text": "Dokáže ulovit až sedmdesátikilové prase.",
+  "quote": "Anakondy jsou schopny ulovit až sedmdesátikilové prase.",
+  "claimed_false_for": {
+   "Q1074139": "Želva Spenglerova (Geoemyda spengleri)",
+   "Q1358649": "Bojga stromová (Boiga dendrophila)",
+   "Q1399246": "Zmijovec fea (Azemiops feae)",
+   "Q1768570": "Chameleon Labordův (Furcifer labordi)",
+   "Q1814747": "Krajta vodní (Liasis mackloti)",
+   "Q204061": "Ještěrka živorodá (Zootoca vivipara)",
+   "Q2341131": "Agama stepní (Trapelus sanguinolentus)",
+   "Q2382318": "Bungar duhový (Bungarus flaviceps)",
+   "Q426062": "Užovka zelená (Opheodrys aestivus)",
+   "Q577924": "Chameleon obecný (Chamaeleo chamaeleon)",
+   "Q646391": "Chřestýš skalní (Crotalus lepidus)",
+   "Q756805": "Varan bengálský (Varanus bengalensis)"
+  }
+ },
+ {
+  "id": "Q207347#5",
+  "species": "Anakonda velká",
+  "latin": "Eunectes murinus",
+  "text": "Loví i kapybary a jiné savce.",
+  "quote": "ale i ptáky, kapybary a jiné savce.",
+  "claimed_false_for": {
+   "Q1371648": "Chřestýšek malý (Sistrurus catenatus)",
+   "Q256860": "Gekončík noční (Eublepharis macularius)",
+   "Q302215": "Krokodýlovec čínský (Shinisaurus crocodilurus)",
+   "Q680417": "Gekon skvrnitý (Homopholis fasciata)",
+   "Q739178": "Veleještěrka modroskvrnná (Gallotia galloti)",
+   "Q750237": "Užovka podplamatá (Natrix tessellata)",
+   "Q843236": "Ještěrka perlová (Timon lepidus)",
+   "Q904780": "Varanovec bornejský (Lanthanotus borneensis)",
+   "Q968709": "Krajta skvrnitá (Antaresia childreni)"
+  }
+ },
+ {
+  "id": "Q2078114#0",
+  "species": "Kožnatka světlooká",
+  "latin": "Dogania subplana",
+  "text": "Živí se plži a jinými měkkýši.",
+  "quote": "Živí se plži a jinými měkkýši",
+  "claimed_false_for": {
+   "Q120043": "Kožatka velká (Dermochelys coriacea)",
+   "Q504549": "Želva žlutohnědá (Testudo graeca)",
+   "Q596348": "Želva korunková (Hardella thurjii)",
+   "Q905234": "Křovinář ostnitý (Bothriechis schlegelii)"
+  }
+ },
+ {
+  "id": "Q2078114#1",
+  "species": "Kožnatka světlooká",
+  "latin": "Dogania subplana",
+  "text": "Krunýř může být dlouhý až 35 centimetrů.",
+  "quote": "Délka karapaxu může činit až 35 centimetrů.",
+  "claimed_false_for": {
+   "Q1551982": "Bičovka stromová (Ahaetulla prasina)",
+   "Q183660": "Slepýš křehký (Anguis fragilis)",
+   "Q262416": "Kožnatka ganžská (Nilssonia gangetica)",
+   "Q2656629": "Šípovec nosatý (Rhamphiophis oxyrhynchus)",
+   "Q301089": "Kareta menší (Lepidochelys kempii)",
+   "Q457742": "Karetka novoguinejská (Carettochelys insculpta)"
+  }
+ },
+ {
+  "id": "Q207836#5",
+  "species": "Krokodýl americký",
+  "latin": "Crocodylus acutus",
+  "text": "Jeho mláďata se živí různými malými vodními živočichy.",
+  "quote": "Mláďata se živí podobně jako u ostatních krokodýlů různými malými vodními bezobratlými",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q207836#6",
+  "species": "Krokodýl americký",
+  "latin": "Crocodylus acutus",
+  "text": "Jeho mláďata loví ptáci, divoké kočky a velké ryby.",
+  "quote": "které představují ptáci, divoké kočky a dokonce i velké druhy ryb",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q208648#4",
+  "species": "Užovka hladká",
+  "latin": "Coronella austriaca",
+  "text": "Výjimečně loví žáby a jí ptačí vejce.",
+  "quote": "Výjimečně uchvátí žáby a pozře i vejce ptáků",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q208648#6",
+  "species": "Užovka hladká",
+  "latin": "Coronella austriaca",
+  "text": "Dravci, krkavcovití ptáci, bažanti, kunovité šelmy a lišky ho loví.",
+  "quote": "dominují ptáci (dravci, krkavcovití, bažanti) a draví savci (kunovité šelmy, lišky)",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q2087254#1",
+  "species": "Gekončík africký",
+  "latin": "Hemitheconyx caudicinctus",
+  "text": "Tlustý ocas odvádí pozornost predátorů od hlavy.",
+  "quote": "odvést pozornost predátorů od zranitelné hlavy",
+  "claimed_false_for": {
+   "Q378682": "Želva trojkýlná (Melanochelys tricarinata)"
+  }
+ },
+ {
+  "id": "Q208796#1",
+  "species": "Leguán mořský",
+  "latin": "Amblyrhynchus cristatus",
+  "text": "Mláďata se ukrývají v rozsedlinách před racky.",
+  "quote": "ukrývají se v rozsedlinách kvůli rackům a jiným",
+  "claimed_false_for": {
+   "Q1498639": "Zmije pouštní (Bitis caudalis)",
+   "Q1855136": "Šupinonožka nosatá (Delma nasuta)",
+   "Q1926875": "Ještěrka turecká (Anatololacerta oertzeni)",
+   "Q281531": "Hroznýšovec duhový (Epicrates cenchria)",
+   "Q3005252": "Gekončík východoafrický (Holodactylus africanus)",
+   "Q301314": "Želva půvabná (Trachemys callirostris)",
+   "Q3016677": "Slepan růžový (Myriopholis macrorhyncha)",
+   "Q307047": "Ještěrka zelená (Lacerta viridis)",
+   "Q646412": "Chameleon křovinný (Bradypodion thamnobates)",
+   "Q747093": "Korálovka pruhovaná (Lampropeltis getula)",
+   "Q792301": "Agama australská (Pogona vitticeps)",
+   "Q929607": "Hadiočko úhledné (Ophisops elegans)"
+  }
+ },
+ {
+  "id": "Q2102764#4",
+  "species": "Šnekožrout indonéský",
+  "latin": "Aplopeltura boa",
+  "text": "Jí hlavně plže.",
+  "quote": "Jeho potravu tvoří převážně plži",
+  "claimed_false_for": {
+   "Q1040357": "Varan plodožravý (Varanus olivaceus)",
+   "Q1883136": "Hroznýš psohlavý (Sanzinia madagascariensis)",
+   "Q2338867": "Ptyas velkooký (Ptyas mucosa)",
+   "Q2339200": "Bradavičník malý (Acrochordus granulatus)",
+   "Q2699581": "Ploskolebec amurský (Gloydius saxatilis)",
+   "Q306908": "Pakobra východní (Pseudonaja textilis)",
+   "Q47945": "Užovka ostronosá (Gonyosoma oxycephalum)",
+   "Q741280": "Mamba zelená (Dendroaspis viridis)",
+   "Q764797": "Krajta písmenková (Python sebae)",
+   "Q833104": "Ještěrka travní (Podarcis tauricus)",
+   "Q854499": "Užovka pardálí (Elaphe quatuorlineata)",
+   "Q955444": "Užovka amurská (Elaphe schrenckii)"
+  }
+ },
+ {
+  "id": "Q2104559#0",
+  "species": "Želva sluníčková",
+  "latin": "Psammobates tentorius",
+  "text": "Má tmavě hnědý až černý krunýř.",
+  "quote": "Má tmavě hnědý až černý krunýř.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q2104559#1",
+  "species": "Želva sluníčková",
+  "latin": "Psammobates tentorius",
+  "text": "Samci jsou menší než samice.",
+  "quote": "Samci jsou menší než samice.",
+  "claimed_false_for": {
+   "Q457872": "Kajmanka supí (Macrochelys temminckii)"
+  }
+ },
+ {
+  "id": "Q2104559#2",
+  "species": "Želva sluníčková",
+  "latin": "Psammobates tentorius",
+  "text": "Žije v Jihoafrické republice a Namibii.",
+  "quote": "Vyskytuje se v Jihoafrické republice a Namibii.",
+  "claimed_false_for": {
+   "Q1345661": "Želva Hamiltonova (Geoclemys hamiltonii)",
+   "Q1814747": "Krajta vodní (Liasis mackloti)",
+   "Q1829303": "Želva šnekožravá (Malayemys subtrijuga)",
+   "Q1926277": "Ploskolebec dvoupruhý (Agkistrodon bilineatus)",
+   "Q301044": "Dlouhohlávka mexická (Dermatemys mawii)",
+   "Q301314": "Želva půvabná (Trachemys callirostris)",
+   "Q302215": "Krokodýlovec čínský (Shinisaurus crocodilurus)",
+   "Q378682": "Želva trojkýlná (Melanochelys tricarinata)",
+   "Q457872": "Kajmanka supí (Macrochelys temminckii)",
+   "Q569170": "Želva diamantová (Malaclemys terrapin)"
+  }
+ },
+ {
+  "id": "Q2104559#3",
+  "species": "Želva sluníčková",
+  "latin": "Psammobates tentorius",
+  "text": "Podle Červeného seznamu IUCN je tento druh téměř ohrožený.",
+  "quote": "Dle Červeného seznamu IUCN jde o téměř ohrožený taxon.",
+  "claimed_false_for": {
+   "Q120043": "Kožatka velká (Dermochelys coriacea)",
+   "Q72105": "Želva Muhlenbergova (Glyptemys muhlenbergii)",
+   "Q754976": "Želva brazilská (Trachemys adiutrix)",
+   "Q905234": "Křovinář ostnitý (Bothriechis schlegelii)"
+  }
+ },
+ {
+  "id": "Q2108570#0",
+  "species": "Želva smuteční",
+  "latin": "Rhinoclemmys funerea",
+  "text": "Vyskytuje se ve Střední Americe, od Hondurasu k Panamě.",
+  "quote": "Želva se vyskytuje v Střední Americe, v oblasti od Hondurasu k Panamě.",
+  "claimed_false_for": {
+   "Q2708950": "Vousivka žábohlavá (Mesoclemmys raniceps)",
+   "Q301714": "Želva coloradská (Graptemys versa)",
+   "Q504549": "Želva žlutohnědá (Testudo graeca)",
+   "Q569170": "Želva diamantová (Malaclemys terrapin)",
+   "Q596348": "Želva korunková (Hardella thurjii)",
+   "Q72105": "Želva Muhlenbergova (Glyptemys muhlenbergii)",
+   "Q754028": "Kožnatka čínská (Pelodiscus sinensis)",
+   "Q754976": "Želva brazilská (Trachemys adiutrix)",
+   "Q913795": "Pelomedúza africká (Pelomedusa subrufa)"
+  }
+ },
+ {
+  "id": "Q2122008#4",
+  "species": "Musurana černá",
+  "latin": "Clelia clelia",
+  "text": "Odolává jedu chřestýšů a křovinářů.",
+  "quote": "je značně odolná proti jedu chřestýšů a křovinářů",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q215376#4",
+  "species": "Leguán zelený",
+  "latin": "Iguana iguana",
+  "text": "Velké kočkovité šelmy, krokodýli, hroznýši, opice a dravé ptáci ohrožují dospělé jedince.",
+  "quote": "Kromě velkých kočkovitých šelem, krokodýlů, hroznýšů, opic a dravých ptáků nemá dospělý jedinec leguána zeleného žádné přirozené nepřátele.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q215376#5",
+  "species": "Leguán zelený",
+  "latin": "Iguana iguana",
+  "text": "Mladí jedinci pojídají hmyz nebo pavouky.",
+  "quote": "bylo u mladých jedinců (do věku dvou až tří let) zjištěno, že pojídají taktéž hmyz nebo pavouky",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q215388#2",
+  "species": "Hroznýš královský",
+  "latin": "Boa constrictor",
+  "text": "Mladí hadi začínají lovit malé myši.",
+  "quote": "začínají lovit malé myši",
+  "claimed_false_for": {
+   "Q1235711": "Gekon panenský (Lepidodactylus lugubris)",
+   "Q203538": "Kareta pravá (Eretmochelys imbricata)",
+   "Q2335470": "Vejcožrout africký (Dasypeltis scabra)",
+   "Q2712717": "Brokesie malá (Brookesia peyrierasi)"
+  }
+ },
+ {
+  "id": "Q216136#5",
+  "species": "Krajta mřížkovaná",
+  "latin": "Malayopython reticulatus",
+  "text": "Poblíž lidských domů loví slepice a selata.",
+  "quote": "poblíž lidských obydlí si nezřídka upytlačí slepici či menší selátko",
+  "claimed_false_for": {
+   "Q1641708": "Agamka sinajská (Pseudotrapelus sinaitus)",
+   "Q1887786": "Bradavičník arafurský (Acrochordus arafurae)",
+   "Q302823": "Hroznýšek červený (Charina bottae)",
+   "Q331213": "Gekon obrovský (Gekko gecko)",
+   "Q570290": "Želva Berlandierova (Gopherus berlandieri)",
+   "Q591562": "Klapavka floridská (Kinosternon baurii)",
+   "Q69528": "Šnekojed kýlnatý (Pareas carinatus)",
+   "Q918120": "Hroznýšek turecký (Eryx jaculus)"
+  }
+ },
+ {
+  "id": "Q2161770#1",
+  "species": "Želva pentličková",
+  "latin": "Cyclemys pulchristriata",
+  "text": "Klade obvykle 5 vajec.",
+  "quote": "Klade obvykle 5 vajec, jež se vylíhnou do 2 měsíců.",
+  "claimed_false_for": {
+   "Q1063950": "Emydura říční (Emydura macquarii)",
+   "Q2270551": "Krátkokrčka bělohrdlá (Elseya albagula)",
+   "Q2456162": "Agamka písečná (Phrynocephalus mystaceus)",
+   "Q48186": "Kobra královská (Ophiophagus hannah)",
+   "Q642538": "Želvička proměnlivá (Homopus areolatus)",
+   "Q781954": "Tilikva australská (Tiliqua scincoides)"
+  }
+ },
+ {
+  "id": "Q2187394#0",
+  "species": "Zmije nosorohá",
+  "latin": "Bitis nasicornis",
+  "text": "Živí se savci, velkými žábami a rybami.",
+  "quote": "živí se savci, velkými žábami a rybami.",
+  "claimed_false_for": {
+   "Q2849791": "Slepýš východní (Anguis colchica)",
+   "Q5078449": "Paještěrka písečná (Eremias grammica)",
+   "Q591268": "Scink šalomounský (Corucia zebrata)",
+   "Q645356": "Želva vroubená (Testudo marginata)",
+   "Q74232": "Leguán madagaskarský (Oplurus cuvieri)"
+  }
+ },
+ {
+  "id": "Q2187394#1",
+  "species": "Zmije nosorohá",
+  "latin": "Bitis nasicornis",
+  "text": "Samice rodí živá mláďata.",
+  "quote": "Samice rodí živá mláďata",
+  "claimed_false_for": {
+   "Q1749645": "Kobra černá (Naja melanoleuca)",
+   "Q1971127": "Vousivka ploskohlavá (Platemys platycephala)",
+   "Q2700890": "Gekon létavý (Ptychozoon kuhli)",
+   "Q62654": "Lykodon obecný (Lycodon capucinus)",
+   "Q655616": "Varan skvrnitý (Varanus salvator)",
+   "Q849025": "Užovka levhartí (Zamenis situla)",
+   "Q978690": "Leguán fidžijský (Brachylophus fasciatus)"
+  }
+ },
+ {
+  "id": "Q221080#2",
+  "species": "Dlouhokrčka australská",
+  "latin": "Chelodina longicollis",
+  "text": "Jí hmyz, červy, pulce, žáby, malé rybky, korýše a měkkýše.",
+  "quote": "V jejím jídelníčku lze nalézt hmyz, červy, pulce, žáby, malé rybky, korýše a měkkýše",
+  "claimed_false_for": {
+   "Q262555": "Želva zelenavá (Testudo hermanni)",
+   "Q914356": "Želva Agassizova (Gopherus agassizii)"
+  }
+ },
+ {
+  "id": "Q221080#3",
+  "species": "Dlouhokrčka australská",
+  "latin": "Chelodina longicollis",
+  "text": "Nepřátelé tohoto druhu jsou lišky, myši bobří, varani, krkavci, orli a psi dingo.",
+  "quote": "Mezi její přirozené nepřátele patří lišky, myši bobří, varani, krkavci australští, orli bělobřiší, a psi dingo",
+  "claimed_false_for": {
+   "Q1044378": "Želva karolínská (Terrapene carolina)",
+   "Q109232825": "Chřestýšovec bornejský (Craspedocephalus borneensis)",
+   "Q167358": "Chameleon Petterův (Furcifer petteri)",
+   "Q1989799": "Kožnatka eufratská (Rafetus euphraticus)",
+   "Q262146": "Želva síťovaná (Deirochelys reticularia)",
+   "Q2700337": "Bazilišek dlouhonohý (Laemanctus longipes)",
+   "Q3007906": "Kožnatka amurská (Pelodiscus maackii)",
+   "Q591562": "Klapavka floridská (Kinosternon baurii)",
+   "Q72105": "Želva Muhlenbergova (Glyptemys muhlenbergii)",
+   "Q745210": "Želva třípásá (Cuora trifasciata)",
+   "Q913795": "Pelomedúza africká (Pelomedusa subrufa)",
+   "Q918123": "Zmije levantská (Macrovipera lebetina)"
+  }
+ },
+ {
+  "id": "Q222287#0",
+  "species": "Chřestýš západní",
+  "latin": "Crotalus atrox",
+  "text": "Jeho jed rozkládá krevní buňky.",
+  "quote": "Jed chřestýše západního je hemotoxický, takže způsobuje rozklad krevních buněk.",
+  "claimed_false_for": {
+   "Q1124688": "Želva čínská (Mauremys sinensis)",
+   "Q1266050": "Pelusie tmavá (Pelusios subniger)",
+   "Q167358": "Chameleon Petterův (Furcifer petteri)",
+   "Q2532001": "Želva ostnitá (Heosemys spinosa)",
+   "Q2592204": "Batagur tuntong (Batagur affinis)",
+   "Q586433": "Leguán chocholatý (Brachylophus vitiensis)"
+  }
+ },
+ {
+  "id": "Q222287#1",
+  "species": "Chřestýš západní",
+  "latin": "Crotalus atrox",
+  "text": "Tento druh se nejčastěji živí menšími savci, včetně hlodavců.",
+  "quote": "Nejčastěji se živí menšími savci, včetně hlodavců, a také některými ptáky.",
+  "claimed_false_for": {
+   "Q18867": "Želva pralesní (Chelonoidis denticulatus)",
+   "Q2161770": "Želva pentličková (Cyclemys pulchristriata)",
+   "Q27885022": "Želva obrovská (Aldabrachelys gigantea)",
+   "Q599571": "Chameleon přilbový (Chamaeleo hoehnelii)",
+   "Q732959": "Brokesie listová (Rhampholeon spectrum)",
+   "Q778713": "Stonožkomilka pestrá (Aparallactus lunulatus)",
+   "Q882602": "Varan modrý (Varanus macraei)"
+  }
+ },
+ {
+  "id": "Q225094#0",
+  "species": "Leguán kubánský",
+  "latin": "Cyclura nubila",
+  "text": "Kromě rostlin loví i hmyz, korýše a měkkýše.",
+  "quote": "Živí se výhonky, plody rostlin, loví i hmyz, korýše, měkkýše nebo ptačí mláďata.",
+  "claimed_false_for": {
+   "Q186275": "Krajta ametystová (Morelia amethistina)",
+   "Q2707975": "Bojga psí (Boiga cynodon)",
+   "Q3007063": "Hatérie novozélandská (Sphenodon punctatus)",
+   "Q387752": "Zmije menší (Vipera ursinii)",
+   "Q810157": "Chřestýš mexický (Crotalus basiliscus)",
+   "Q844254": "Štíhlovka žlutozelená (Hierophis viridiflavus)",
+   "Q900781": "Bojga hnědá (Boiga irregularis)"
+  }
+ },
+ {
+  "id": "Q225094#1",
+  "species": "Leguán kubánský",
+  "latin": "Cyclura nubila",
+  "text": "Nejčastěji se zdržuje na skalách a kamenitých svazích.",
+  "quote": "Zdržuje se především na skalách porostlých křovisky a kamenitých svazích",
+  "claimed_false_for": {
+   "Q1681355": "Mamba Jamesonova (Dendroaspis jamesoni)",
+   "Q305934": "Trnokrčka chacoská (Acanthochelys pallidipectoris)",
+   "Q619964": "Bičovka zelená (Oxybelis fulgidus)"
+  }
+ }
+]

@@ -1,0 +1,32 @@
+{"drop_facts": [
+  {"id": "Q251370#x5", "why": "posouvá význam (nulu určuje n-heptan obecně, z pryskyřice byl jen historicky) a pro dítě nesrozumitelné"},
+  {"id": "Q378592#1", "why": "gramaticky chybné „Dozrává semena“"},
+  {"id": "Q460531#x1", "why": "chybí vazba na druh, citace údaj 1230 let neobsahuje, rekord je sporný a zastaralý"},
+  {"id": "Q623489#x5", "why": "maximální věk podán jako typická délka života, slabý zdroj"},
+  {"id": "Q936498#4", "why": "pravděpodobně chybný překlad elk jako los, krkolomná formulace"}
+],
+"drop_pairs": [
+  {"id": "Q251370#x3", "species": "Q1283223"},
+  {"id": "Q251370#x3", "species": "Q147417"},
+  {"id": "Q251370#x3", "species": "Q157697"},
+  {"id": "Q251370#x3", "species": "Q2347049"},
+  {"id": "Q2703233#x3", "species": "Q1044186"},
+  {"id": "Q2703233#x3", "species": "Q1399164"},
+  {"id": "Q3308389#1", "species": "Q378592"},
+  {"id": "Q3505749#4", "species": "Q2065540"},
+  {"id": "Q3505749#4", "species": "Q754765"},
+  {"id": "Q3505749#4", "species": "Q756334"},
+  {"id": "Q378592#0", "species": "Q748888"},
+  {"id": "Q460531#x4", "species": "Q1044186"},
+  {"id": "Q460531#x4", "species": "Q137071"},
+  {"id": "Q460531#x4", "species": "Q1640268"},
+  {"id": "Q460531#x4", "species": "Q3505749"},
+  {"id": "Q623489#x0", "species": "Q716580"},
+  {"id": "Q623489#x3", "species": "Q1283223"},
+  {"id": "Q623489#x3", "species": "Q147417"},
+  {"id": "Q6313668#x0", "species": "Q147426"},
+  {"id": "Q6313668#x0", "species": "Q161360"},
+  {"id": "Q6313668#x0", "species": "Q1744650"},
+  {"id": "Q6313668#x0", "species": "Q1249109"},
+  {"id": "Q944853#x1", "species": "Q145939"}
+]}

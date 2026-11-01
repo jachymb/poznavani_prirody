@@ -1,0 +1,590 @@
+[
+ {
+  "id": "Q2536380#1",
+  "species": "Chobotnice sydneyská",
+  "latin": "Octopus tetricus",
+  "text": "Dospělí mají ramena dlouhá až 2 metry.",
+  "quote": "Dospělci chobotnice sydneyské mají ramena dlouhá až 2 metry.",
+  "claimed_false_for": {
+   "Q151201": "Zej karibský (Aplysia dactylomela)",
+   "Q2214027": "Donka dalmatská (Bolma rugosa)",
+   "Q3164532": "Praménka rakouská (Bythinella austriaca)",
+   "Q756724": "Sépie obecná (Sepia officinalis)",
+   "Q867200": "Chroustnatka středomořská (Chiton olivaceus)",
+   "Q945738": "Plamatka lesní (Arianta arbustorum)"
+  }
+ },
+ {
+  "id": "Q2664666#0",
+  "species": "Zavinutec tygrovaný",
+  "latin": "Cypraea tigris",
+  "text": "Živí se zbytky živočichů.",
+  "quote": "živí se živočišnými zbytky",
+  "claimed_false_for": {
+   "Q22019793": "Hlemýžď kropenatý (Cornu aspersum)",
+   "Q2214027": "Donka dalmatská (Bolma rugosa)"
+  }
+ },
+ {
+  "id": "Q2664666#1",
+  "species": "Zavinutec tygrovaný",
+  "latin": "Cypraea tigris",
+  "text": "Čistí si ulitu pohyblivým pláštěm.",
+  "quote": "kterou si čistí pohyblivým pláštěm",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q3164532#0",
+  "species": "Praménka rakouská",
+  "latin": "Bythinella austriaca",
+  "text": "Živí se převážně řasami.",
+  "quote": "Živí se převážně řasami.",
+  "claimed_false_for": {
+   "Q131757": "Glaukus atlantský (Glaucus atlanticus)",
+   "Q1850495": "Chobotnice skvrnitá (Hapalochlaena maculosa)",
+   "Q22019793": "Hlemýžď kropenatý (Cornu aspersum)",
+   "Q26908": "Oblovka žravá (Achatina fulica)",
+   "Q892046": "Slimák popelavý (Limax cinereoniger)"
+  }
+ },
+ {
+  "id": "Q3164532#1",
+  "species": "Praménka rakouská",
+  "latin": "Bythinella austriaca",
+  "text": "Žije v čistých chladných pramenitých vodách.",
+  "quote": "Žije v čistých chladných pramenitých vodách, zejména v krasových oblastech.",
+  "claimed_false_for": {
+   "Q131757": "Glaukus atlantský (Glaucus atlanticus)",
+   "Q1850495": "Chobotnice skvrnitá (Hapalochlaena maculosa)",
+   "Q22019793": "Hlemýžď kropenatý (Cornu aspersum)",
+   "Q2214027": "Donka dalmatská (Bolma rugosa)",
+   "Q26908": "Oblovka žravá (Achatina fulica)",
+   "Q820786": "Perlotvorka mořská (Pinctada margaritifera)",
+   "Q892046": "Slimák popelavý (Limax cinereoniger)"
+  }
+ },
+ {
+  "id": "Q3201040#0",
+  "species": "Sítovka lesklá",
+  "latin": "Aegopinella nitidula",
+  "text": "Žije na velmi vlhkých stanovištích v nivách řek a v lužních lesích.",
+  "quote": "žije na velmi vlhkých stanovištích v nivách řek a v lužních lesích",
+  "claimed_false_for": {
+   "Q1698916": "Zej kalifornský (Aplysia californica)",
+   "Q1940276": "Dunovka proměnlivá (Theba pisana)",
+   "Q26908": "Oblovka žravá (Achatina fulica)",
+   "Q428534": "Oblovka obrovská (Achatina achatina)",
+   "Q772012": "Perlorodka říční (Margaritifera margaritifera)",
+   "Q912404": "Chobotnice velká (Enteroctopus dofleini)"
+  }
+ },
+ {
+  "id": "Q3201040#1",
+  "species": "Sítovka lesklá",
+  "latin": "Aegopinella nitidula",
+  "text": "Ulita dorůstá do šířky 11 mm.",
+  "quote": "Ulita dorůstá výšky 5,3 a šířky 11 mm",
+  "claimed_false_for": {
+   "Q1758969": "Bahenka pruhovaná (Viviparus viviparus)",
+   "Q22019793": "Hlemýžď kropenatý (Cornu aspersum)",
+   "Q26908": "Oblovka žravá (Achatina fulica)",
+   "Q428534": "Oblovka obrovská (Achatina achatina)",
+   "Q772012": "Perlorodka říční (Margaritifera margaritifera)",
+   "Q912404": "Chobotnice velká (Enteroctopus dofleini)",
+   "Q945738": "Plamatka lesní (Arianta arbustorum)"
+  }
+ },
+ {
+  "id": "Q3819564#4",
+  "species": "Sepiola tichomořská",
+  "latin": "Rossia pacifica",
+  "text": "Loví také malé kraby, menší ryby a jiné hlavonožce.",
+  "quote": "malí krabi, dále menší ryby a v neposlední řadě i ostatní hlavonožci",
+  "claimed_false_for": {
+   "Q174549": "Slimák žlutý (Malacolimax tenellus)",
+   "Q21113": "Plzák černý (Arion ater)",
+   "Q22019793": "Hlemýžď kropenatý (Cornu aspersum)",
+   "Q245314": "Hlemýžď zahradní (Helix pomatia)",
+   "Q3201040": "Sítovka lesklá (Aegopinella nitidula)",
+   "Q427854": "Páskovka keřová (Cepaea hortensis)",
+   "Q428534": "Oblovka obrovská (Achatina achatina)",
+   "Q773951": "Modranka karpatská (Bielzia coerulans)",
+   "Q777865": "Škeble rybničná (Anodonta cygnea)",
+   "Q81851905": "Hlemýžď pruhovaný (Helix thessalica)",
+   "Q854808": "Slimák největší (Limax maximus)"
+  }
+ },
+ {
+  "id": "Q385029#0",
+  "species": "Skalnice kýlnatá",
+  "latin": "Helicigona lapicida",
+  "text": "Žije na skalách, například na zříceninách hradů.",
+  "quote": "Žije na skalách, například na zříceninách hradů.",
+  "claimed_false_for": {
+   "Q1698916": "Zej kalifornský (Aplysia californica)",
+   "Q1758969": "Bahenka pruhovaná (Viviparus viviparus)",
+   "Q26908": "Oblovka žravá (Achatina fulica)",
+   "Q428534": "Oblovka obrovská (Achatina achatina)",
+   "Q772012": "Perlorodka říční (Margaritifera margaritifera)",
+   "Q912404": "Chobotnice velká (Enteroctopus dofleini)"
+  }
+ },
+ {
+  "id": "Q385029#1",
+  "species": "Skalnice kýlnatá",
+  "latin": "Helicigona lapicida",
+  "text": "Má na ulitě výrazný kýl.",
+  "quote": "Ulita má po svém obvodu výrazný kýl.",
+  "claimed_false_for": {
+   "Q1698916": "Zej kalifornský (Aplysia californica)",
+   "Q1758969": "Bahenka pruhovaná (Viviparus viviparus)",
+   "Q1940276": "Dunovka proměnlivá (Theba pisana)",
+   "Q22019793": "Hlemýžď kropenatý (Cornu aspersum)",
+   "Q26908": "Oblovka žravá (Achatina fulica)",
+   "Q428534": "Oblovka obrovská (Achatina achatina)",
+   "Q772012": "Perlorodka říční (Margaritifera margaritifera)",
+   "Q908799": "Keřovka plavá (Fruticicola fruticum)",
+   "Q910785": "Jantarka úhledná (Oxyloma elegans)",
+   "Q912404": "Chobotnice velká (Enteroctopus dofleini)"
+  }
+ },
+ {
+  "id": "Q427854#0",
+  "species": "Páskovka keřová",
+  "latin": "Cepaea hortensis",
+  "text": "Na severu Čech se ochotně kříží s jiným druhem plže.",
+  "quote": "Na severu Čech obývá často společné niky s páskovkou hajní, s kterou se ochotně kříží.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q427854#1",
+  "species": "Páskovka keřová",
+  "latin": "Cepaea hortensis",
+  "text": "Žije většinou v křovinách a vlhčích lesích.",
+  "quote": "Vyskytuje se většinou v křovinách, vlhčích listnatých či smíšených lesích",
+  "claimed_false_for": {
+   "Q689003": "Člunice jezerní (Acroloxus lacustris)",
+   "Q777865": "Škeble rybničná (Anodonta cygnea)",
+   "Q820786": "Perlotvorka mořská (Pinctada margaritifera)"
+  }
+ },
+ {
+  "id": "Q428534#0",
+  "species": "Oblovka obrovská",
+  "latin": "Achatina achatina",
+  "text": "Živí se hlavně rostlinami, třeba salátem a okurkou.",
+  "quote": "se živí hlavně rostlinnou složkou, tj. např. salátem, okurkou",
+  "claimed_false_for": {
+   "Q689003": "Člunice jezerní (Acroloxus lacustris)",
+   "Q777865": "Škeble rybničná (Anodonta cygnea)",
+   "Q820786": "Perlotvorka mořská (Pinctada margaritifera)"
+  }
+ },
+ {
+  "id": "Q428534#1",
+  "species": "Oblovka obrovská",
+  "latin": "Achatina achatina",
+  "text": "Původně žije v tropických deštných lesích střední Afriky.",
+  "quote": "Její původní domovinou jsou tropické deštné lesy střední Afriky.",
+  "claimed_false_for": {
+   "Q1500654": "Jantarka obecná (Succinea putris)",
+   "Q174549": "Slimák žlutý (Malacolimax tenellus)",
+   "Q2153396": "Plzák lesní (Arion rufus)",
+   "Q3201040": "Sítovka lesklá (Aegopinella nitidula)",
+   "Q385029": "Skalnice kýlnatá (Helicigona lapicida)",
+   "Q689003": "Člunice jezerní (Acroloxus lacustris)",
+   "Q777865": "Škeble rybničná (Anodonta cygnea)",
+   "Q820786": "Perlotvorka mořská (Pinctada margaritifera)",
+   "Q892046": "Slimák popelavý (Limax cinereoniger)",
+   "Q898580": "Papáskovka žíhaná (Caucasotachea vindobonensis)",
+   "Q932364": "Plzák španělský (Arion vulgaris)"
+  }
+ },
+ {
+  "id": "Q598612#0",
+  "species": "Okružák ploský",
+  "latin": "Planorbarius corneus",
+  "text": "Živí se řasami.",
+  "quote": "Živí se řasami.",
+  "claimed_false_for": {
+   "Q1780734": "Homolice mapová (Conus geographus)",
+   "Q1850495": "Chobotnice skvrnitá (Hapalochlaena maculosa)",
+   "Q2303393": "Datlovka vrtavá (Lithophaga lithophaga)",
+   "Q2509902": "Vampýrovka hlubinná (Vampyroteuthis infernalis)",
+   "Q772012": "Perlorodka říční (Margaritifera margaritifera)",
+   "Q940450": "Loděnka kaledonská (Nautilus macromphalus)"
+  }
+ },
+ {
+  "id": "Q598612#1",
+  "species": "Okružák ploský",
+  "latin": "Planorbarius corneus",
+  "text": "Může být mezihostitelem parazitárních onemocnění.",
+  "quote": "Může být taky mezihostitelem řady parazitárních onemocnění.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q651361#0",
+  "species": "Chobotnice pobřežní",
+  "latin": "Octopus vulgaris",
+  "text": "Preferuje kraby, raky a mlže.",
+  "quote": "Preferuje kraby, raky a mlže, i když sežere téměř vše, co uloví.",
+  "claimed_false_for": {
+   "Q151201": "Zej karibský (Aplysia dactylomela)",
+   "Q2214027": "Donka dalmatská (Bolma rugosa)",
+   "Q3164532": "Praménka rakouská (Bythinella austriaca)",
+   "Q867200": "Chroustnatka středomořská (Chiton olivaceus)",
+   "Q945738": "Plamatka lesní (Arianta arbustorum)"
+  }
+ },
+ {
+  "id": "Q651361#1",
+  "species": "Chobotnice pobřežní",
+  "latin": "Octopus vulgaris",
+  "text": "Dokáže měnit barvu, aby splynula s okolím.",
+  "quote": "Je schopna měnit barvu tak, aby splynula s okolím.",
+  "claimed_false_for": {
+   "Q3164532": "Praménka rakouská (Bythinella austriaca)",
+   "Q867200": "Chroustnatka středomořská (Chiton olivaceus)",
+   "Q945738": "Plamatka lesní (Arianta arbustorum)"
+  }
+ },
+ {
+  "id": "Q689003#2",
+  "species": "Člunice jezerní",
+  "latin": "Acroloxus lacustris",
+  "text": "Přichycuje se na vodních rostlinách.",
+  "quote": "Žije přichycena na makrofytech, živí se periphytonem.",
+  "claimed_false_for": {
+   "Q1780734": "Homolice mapová (Conus geographus)",
+   "Q1850495": "Chobotnice skvrnitá (Hapalochlaena maculosa)",
+   "Q21113": "Plzák černý (Arion ater)",
+   "Q2153396": "Plzák lesní (Arion rufus)",
+   "Q2303393": "Datlovka vrtavá (Lithophaga lithophaga)",
+   "Q2509902": "Vampýrovka hlubinná (Vampyroteuthis infernalis)",
+   "Q2664666": "Zavinutec tygrovaný (Cypraea tigris)",
+   "Q772012": "Perlorodka říční (Margaritifera margaritifera)",
+   "Q908799": "Keřovka plavá (Fruticicola fruticum)",
+   "Q940450": "Loděnka kaledonská (Nautilus macromphalus)"
+  }
+ },
+ {
+  "id": "Q689003#3",
+  "species": "Člunice jezerní",
+  "latin": "Acroloxus lacustris",
+  "text": "Živí se hnijícími částmi vodních rostlin.",
+  "quote": "Živí se periphytonem přichyceným na kamenech a hnijícími částmi makrofyt.",
+  "claimed_false_for": {
+   "Q1780734": "Homolice mapová (Conus geographus)",
+   "Q1850495": "Chobotnice skvrnitá (Hapalochlaena maculosa)",
+   "Q2303393": "Datlovka vrtavá (Lithophaga lithophaga)",
+   "Q2509902": "Vampýrovka hlubinná (Vampyroteuthis infernalis)",
+   "Q772012": "Perlorodka říční (Margaritifera margaritifera)",
+   "Q940450": "Loděnka kaledonská (Nautilus macromphalus)"
+  }
+ },
+ {
+  "id": "Q689003#4",
+  "species": "Člunice jezerní",
+  "latin": "Acroloxus lacustris",
+  "text": "Přichycuje se i na ulitách větších plžů.",
+  "quote": "případně i na ulitách větších druhů plžů",
+  "claimed_false_for": {
+   "Q1780734": "Homolice mapová (Conus geographus)",
+   "Q1850495": "Chobotnice skvrnitá (Hapalochlaena maculosa)",
+   "Q21113": "Plzák černý (Arion ater)",
+   "Q2153396": "Plzák lesní (Arion rufus)",
+   "Q2303393": "Datlovka vrtavá (Lithophaga lithophaga)",
+   "Q2509902": "Vampýrovka hlubinná (Vampyroteuthis infernalis)",
+   "Q2664666": "Zavinutec tygrovaný (Cypraea tigris)",
+   "Q772012": "Perlorodka říční (Margaritifera margaritifera)",
+   "Q908799": "Keřovka plavá (Fruticicola fruticum)",
+   "Q940450": "Loděnka kaledonská (Nautilus macromphalus)"
+  }
+ },
+ {
+  "id": "Q7187379#0",
+  "species": "Monodonta spirálovitá",
+  "latin": "Phorcus turbinatus",
+  "text": "Živí se mořskými řasami, které seškrabává ze skal.",
+  "quote": "Monodonta spirálovitá se živí mořskými řasami, které pomocí raduly seškrabává z povrchu skal.",
+  "claimed_false_for": {
+   "Q1500654": "Jantarka obecná (Succinea putris)",
+   "Q1632342": "Sépie vějířovitá (Sepia apama)",
+   "Q1780734": "Homolice mapová (Conus geographus)",
+   "Q3201040": "Sítovka lesklá (Aegopinella nitidula)",
+   "Q427854": "Páskovka keřová (Cepaea hortensis)",
+   "Q872853": "Loděnka hlubinná (Nautilus pompilius)",
+   "Q898580": "Papáskovka žíhaná (Caucasotachea vindobonensis)",
+   "Q932364": "Plzák španělský (Arion vulgaris)",
+   "Q945738": "Plamatka lesní (Arianta arbustorum)"
+  }
+ },
+ {
+  "id": "Q7187379#1",
+  "species": "Monodonta spirálovitá",
+  "latin": "Phorcus turbinatus",
+  "text": "Při odlivu přežije i mimo vodu, protože ulitu zavírá víčkem.",
+  "quote": "Díky rohovitému víčku, kterým uzavírá otvor ve své ulitě (tzv. operkulum), může přežít i mimo vodu, během odlivu.",
+  "claimed_false_for": {
+   "Q1632342": "Sépie vějířovitá (Sepia apama)",
+   "Q872853": "Loděnka hlubinná (Nautilus pompilius)"
+  }
+ },
+ {
+  "id": "Q751784#0",
+  "species": "Zéva obrovská",
+  "latin": "Tridacna gigas",
+  "text": "Živí se řasami, fytoplanktonem a zooplanktonem.",
+  "quote": "Živí se řasami, fytoplanktonem a zooplanktonem.",
+  "claimed_false_for": {
+   "Q1548480": "Sudanka sirná (Tonna galea)",
+   "Q1632342": "Sépie vějířovitá (Sepia apama)",
+   "Q2120872": "Chobotnice pruhovaná (Hapalochlaena fasciata)",
+   "Q651361": "Chobotnice pobřežní (Octopus vulgaris)",
+   "Q756724": "Sépie obecná (Sepia officinalis)",
+   "Q912404": "Chobotnice velká (Enteroctopus dofleini)",
+   "Q984118": "Sklovatka rudá (Daudebardia rufa)"
+  }
+ },
+ {
+  "id": "Q751784#1",
+  "species": "Zéva obrovská",
+  "latin": "Tridacna gigas",
+  "text": "Žije na korálových útesech teplých mělkých vod.",
+  "quote": "korálové útesy teplých mělkých vod Indického a Tichého oceánu",
+  "claimed_false_for": {
+   "Q1500654": "Jantarka obecná (Succinea putris)",
+   "Q1758969": "Bahenka pruhovaná (Viviparus viviparus)",
+   "Q3164532": "Praménka rakouská (Bythinella austriaca)",
+   "Q428534": "Oblovka obrovská (Achatina achatina)",
+   "Q912404": "Chobotnice velká (Enteroctopus dofleini)",
+   "Q932364": "Plzák španělský (Arion vulgaris)",
+   "Q984118": "Sklovatka rudá (Daudebardia rufa)"
+  }
+ },
+ {
+  "id": "Q756724#2",
+  "species": "Sépie obecná",
+  "latin": "Sepia officinalis",
+  "text": "Tento druh se obvykle živí menšími rybami nebo mlži.",
+  "quote": "obvykle se živí menšími rybami nebo mlži",
+  "claimed_false_for": {
+   "Q114893": "Páskovka hajní (Cepaea nemoralis)",
+   "Q164336": "Zej obrovský (Aplysia depilans)",
+   "Q1694040": "Levatka ostrá (Physella acuta)",
+   "Q1698916": "Zej kalifornský (Aplysia californica)",
+   "Q1844769": "Písečník novozélandský (Potamopyrgus antipodarum)",
+   "Q2214027": "Donka dalmatská (Bolma rugosa)",
+   "Q854808": "Slimák největší (Limax maximus)"
+  }
+ },
+ {
+  "id": "Q772012#0",
+  "species": "Perlorodka říční",
+  "latin": "Margaritifera margaritifera",
+  "text": "Obývá chladné potoky s nízkým obsahem živin.",
+  "quote": "obývá chladné potoky s nízkým obsahem živin",
+  "claimed_false_for": {
+   "Q114893": "Páskovka hajní (Cepaea nemoralis)",
+   "Q1548480": "Sudanka sirná (Tonna galea)",
+   "Q1940276": "Dunovka proměnlivá (Theba pisana)",
+   "Q2303393": "Datlovka vrtavá (Lithophaga lithophaga)",
+   "Q26908": "Oblovka žravá (Achatina fulica)",
+   "Q3819564": "Sepiola tichomořská (Rossia pacifica)",
+   "Q7187379": "Monodonta spirálovitá (Phorcus turbinatus)",
+   "Q811137": "Vrkoč bažinný (Vertigo moulinsiana)",
+   "Q872853": "Loděnka hlubinná (Nautilus pompilius)"
+  }
+ },
+ {
+  "id": "Q772012#1",
+  "species": "Perlorodka říční",
+  "latin": "Margaritifera margaritifera",
+  "text": "Živí se filtrací drobných organických částic.",
+  "quote": "Živí se filtrací drobných organických částic",
+  "claimed_false_for": {
+   "Q114893": "Páskovka hajní (Cepaea nemoralis)",
+   "Q1548480": "Sudanka sirná (Tonna galea)",
+   "Q1940276": "Dunovka proměnlivá (Theba pisana)",
+   "Q26908": "Oblovka žravá (Achatina fulica)",
+   "Q3819564": "Sepiola tichomořská (Rossia pacifica)",
+   "Q598612": "Okružák ploský (Planorbarius corneus)",
+   "Q7187379": "Monodonta spirálovitá (Phorcus turbinatus)",
+   "Q811137": "Vrkoč bažinný (Vertigo moulinsiana)",
+   "Q872853": "Loděnka hlubinná (Nautilus pompilius)",
+   "Q911251": "Plovatka bahenní (Lymnaea stagnalis)"
+  }
+ },
+ {
+  "id": "Q772012#2",
+  "species": "Perlorodka říční",
+  "latin": "Margaritifera margaritifera",
+  "text": "Larvy žijí 1–2 měsíce jako paraziti na žábrách a kůži ryb, zejména pstruhů.",
+  "quote": "žijí 1–2 měsíce paraziticky na žábrách a kůži ryb, zejména pstruhů",
+  "claimed_false_for": {
+   "Q114893": "Páskovka hajní (Cepaea nemoralis)",
+   "Q1548480": "Sudanka sirná (Tonna galea)",
+   "Q1844769": "Písečník novozélandský (Potamopyrgus antipodarum)",
+   "Q1940276": "Dunovka proměnlivá (Theba pisana)",
+   "Q2303393": "Datlovka vrtavá (Lithophaga lithophaga)",
+   "Q26908": "Oblovka žravá (Achatina fulica)",
+   "Q3819564": "Sepiola tichomořská (Rossia pacifica)",
+   "Q598612": "Okružák ploský (Planorbarius corneus)",
+   "Q7187379": "Monodonta spirálovitá (Phorcus turbinatus)",
+   "Q811137": "Vrkoč bažinný (Vertigo moulinsiana)",
+   "Q872853": "Loděnka hlubinná (Nautilus pompilius)",
+   "Q911251": "Plovatka bahenní (Lymnaea stagnalis)"
+  }
+ },
+ {
+  "id": "Q772012#3",
+  "species": "Perlorodka říční",
+  "latin": "Margaritifera margaritifera",
+  "text": "Dožívá se až 150 let.",
+  "quote": "mohou se dožít až 150 let",
+  "claimed_false_for": {
+   "Q114893": "Páskovka hajní (Cepaea nemoralis)",
+   "Q1548480": "Sudanka sirná (Tonna galea)",
+   "Q1844769": "Písečník novozélandský (Potamopyrgus antipodarum)",
+   "Q1940276": "Dunovka proměnlivá (Theba pisana)",
+   "Q2303393": "Datlovka vrtavá (Lithophaga lithophaga)",
+   "Q26908": "Oblovka žravá (Achatina fulica)",
+   "Q3819564": "Sepiola tichomořská (Rossia pacifica)",
+   "Q598612": "Okružák ploský (Planorbarius corneus)",
+   "Q7187379": "Monodonta spirálovitá (Phorcus turbinatus)",
+   "Q811137": "Vrkoč bažinný (Vertigo moulinsiana)",
+   "Q872853": "Loděnka hlubinná (Nautilus pompilius)",
+   "Q911251": "Plovatka bahenní (Lymnaea stagnalis)"
+  }
+ },
+ {
+  "id": "Q773951#2",
+  "species": "Modranka karpatská",
+  "latin": "Bielzia coerulans",
+  "text": "Tento druh se živí rostlinnými zbytky, houbami, lišejníky a jahodami.",
+  "quote": "Její potravou jsou rostlinné zbytky, houby, lišejníky a jahody.",
+  "claimed_false_for": {
+   "Q689003": "Člunice jezerní (Acroloxus lacustris)",
+   "Q777865": "Škeble rybničná (Anodonta cygnea)",
+   "Q820786": "Perlotvorka mořská (Pinctada margaritifera)"
+  }
+ },
+ {
+  "id": "Q777865#0",
+  "species": "Škeble rybničná",
+  "latin": "Anodonta cygnea",
+  "text": "Získává potravu filtrováním vody.",
+  "quote": "Potravu získává filtrováním vody.",
+  "claimed_false_for": {
+   "Q114893": "Páskovka hajní (Cepaea nemoralis)",
+   "Q1548480": "Sudanka sirná (Tonna galea)",
+   "Q1940276": "Dunovka proměnlivá (Theba pisana)",
+   "Q26908": "Oblovka žravá (Achatina fulica)",
+   "Q3819564": "Sepiola tichomořská (Rossia pacifica)",
+   "Q7187379": "Monodonta spirálovitá (Phorcus turbinatus)",
+   "Q811137": "Vrkoč bažinný (Vertigo moulinsiana)",
+   "Q872853": "Loděnka hlubinná (Nautilus pompilius)"
+  }
+ },
+ {
+  "id": "Q777865#1",
+  "species": "Škeble rybničná",
+  "latin": "Anodonta cygnea",
+  "text": "Larvy určitou dobu cizopasí na kůži nebo žábrách ryb.",
+  "quote": "Určitou dobu cizopasí na kůži nebo žábrách ryb.",
+  "claimed_false_for": {
+   "Q114893": "Páskovka hajní (Cepaea nemoralis)",
+   "Q1548480": "Sudanka sirná (Tonna galea)",
+   "Q1844769": "Písečník novozélandský (Potamopyrgus antipodarum)",
+   "Q1940276": "Dunovka proměnlivá (Theba pisana)",
+   "Q2303393": "Datlovka vrtavá (Lithophaga lithophaga)",
+   "Q26908": "Oblovka žravá (Achatina fulica)",
+   "Q3819564": "Sepiola tichomořská (Rossia pacifica)",
+   "Q598612": "Okružák ploský (Planorbarius corneus)",
+   "Q7187379": "Monodonta spirálovitá (Phorcus turbinatus)",
+   "Q811137": "Vrkoč bažinný (Vertigo moulinsiana)",
+   "Q872853": "Loděnka hlubinná (Nautilus pompilius)",
+   "Q911251": "Plovatka bahenní (Lymnaea stagnalis)"
+  }
+ },
+ {
+  "id": "Q811137#0",
+  "species": "Vrkoč bažinný",
+  "latin": "Vertigo moulinsiana",
+  "text": "Tento druh je velký asi 2 mm.",
+  "quote": "velký asi 2 mm",
+  "claimed_false_for": {
+   "Q1698916": "Zej kalifornský (Aplysia californica)",
+   "Q1758969": "Bahenka pruhovaná (Viviparus viviparus)",
+   "Q1940276": "Dunovka proměnlivá (Theba pisana)",
+   "Q22019793": "Hlemýžď kropenatý (Cornu aspersum)",
+   "Q26908": "Oblovka žravá (Achatina fulica)",
+   "Q428534": "Oblovka obrovská (Achatina achatina)",
+   "Q772012": "Perlorodka říční (Margaritifera margaritifera)",
+   "Q773951": "Modranka karpatská (Bielzia coerulans)",
+   "Q908799": "Keřovka plavá (Fruticicola fruticum)",
+   "Q910785": "Jantarka úhledná (Oxyloma elegans)",
+   "Q912404": "Chobotnice velká (Enteroctopus dofleini)",
+   "Q945738": "Plamatka lesní (Arianta arbustorum)"
+  }
+ },
+ {
+  "id": "Q811137#1",
+  "species": "Vrkoč bažinný",
+  "latin": "Vertigo moulinsiana",
+  "text": "Z české krajiny postupně téměř vymizel.",
+  "quote": "Dříve běžný druh postupně z české krajiny téměř vymizel.",
+  "claimed_false_for": {
+   "Q1500654": "Jantarka obecná (Succinea putris)",
+   "Q689003": "Člunice jezerní (Acroloxus lacustris)",
+   "Q932364": "Plzák španělský (Arion vulgaris)"
+  }
+ },
+ {
+  "id": "Q820786#0",
+  "species": "Perlotvorka mořská",
+  "latin": "Pinctada margaritifera",
+  "text": "Samice produkují miliony vajíček.",
+  "quote": "Samice produkují miliony vajíček",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q820786#1",
+  "species": "Perlotvorka mořská",
+  "latin": "Pinctada margaritifera",
+  "text": "Začíná život jako samec.",
+  "quote": "Perlotvorka začíná život jako samec",
+  "claimed_false_for": {
+   "Q2536380": "Chobotnice sydneyská (Octopus tetricus)",
+   "Q651361": "Chobotnice pobřežní (Octopus vulgaris)"
+  }
+ },
+ {
+  "id": "Q835427#0",
+  "species": "Bahnivka rmutná",
+  "latin": "Bithynia tentaculata",
+  "text": "Tento druh je častým mezihostitelem larválních stádií motolic.",
+  "quote": "Jedná se o častého mezihostitele larválních stádií motolic.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q835427#1",
+  "species": "Bahnivka rmutná",
+  "latin": "Bithynia tentaculata",
+  "text": "V jedné snůšce může být přes 300 vajíček.",
+  "quote": "V jedné snůšce jich může být i přes 300.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q854808#0",
+  "species": "Slimák největší",
+  "latin": "Limax maximus",
+  "text": "Požírá menší plže, třeba plzáka španělského.",
+  "quote": "Zemědělství naopak prospívá tím, že příležitostně požírá menší druhy plžů, jako je například velmi škodlivý plzák španělský.",
+  "claimed_false_for": {
+   "Q1758969": "Bahenka pruhovaná (Viviparus viviparus)",
+   "Q772012": "Perlorodka říční (Margaritifera margaritifera)"
+  }
+ }
+]

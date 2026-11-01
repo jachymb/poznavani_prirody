@@ -1,0 +1,622 @@
+[
+ {
+  "id": "Q123141#0",
+  "species": "Karas zlatý",
+  "latin": "Carassius auratus",
+  "text": "Pochází z východní Asie.",
+  "quote": "je ryba původem z východní Asie.",
+  "claimed_false_for": {
+   "Q145409": "Arapaima velká (Arapaima gigas)",
+   "Q165278": "Štika obecná (Esox lucius)",
+   "Q187981": "Ježdík obecný (Gymnocephalus cernua)",
+   "Q188387": "Sardel obecná (Engraulis encrasicolus)",
+   "Q188879": "Losos obecný (Salmo salar)",
+   "Q200473": "Ouklej obecná (Alburnus alburnus)",
+   "Q237619": "Hrouzek obecný (Gobio gobio)",
+   "Q27098": "Platýs velký (Pleuronectes platessa)",
+   "Q2857311": "Pstruh obecný (Salmo trutta)"
+  }
+ },
+ {
+  "id": "Q123141#1",
+  "species": "Karas zlatý",
+  "latin": "Carassius auratus",
+  "text": "Nemá vousky kolem tlamy.",
+  "quote": "a nemá vousky kolem tlamy.",
+  "claimed_false_for": {
+   "Q76280": "Lín obecný (Tinca tinca)"
+  }
+ },
+ {
+  "id": "Q123141#4",
+  "species": "Karas zlatý",
+  "latin": "Carassius auratus",
+  "text": "Při správné péči se dožívá více než 10 let.",
+  "quote": "Při správné péči se mohou dožít více než 10 let",
+  "claimed_false_for": {
+   "Q200473": "Ouklej obecná (Alburnus alburnus)"
+  }
+ },
+ {
+  "id": "Q123141#8",
+  "species": "Karas zlatý",
+  "latin": "Carassius auratus",
+  "text": "Jelec jesen může požírat jikry tohoto druhu.",
+  "quote": "Jelec jesen může navíc požírat jikry zlatých rybek",
+  "claimed_false_for": {
+   "Q14443": "Zlak nachový (Coryphaena hippurus)",
+   "Q145409": "Arapaima velká (Arapaima gigas)",
+   "Q201235": "Paúhoř elektrický (Electrophorus electricus)",
+   "Q205015": "Ďas mořský (Lophius piscatorius)",
+   "Q7045": "Pilobřich ostnitý (Zeus faber)"
+  }
+ },
+ {
+  "id": "Q123141#10",
+  "species": "Karas zlatý",
+  "latin": "Carassius auratus",
+  "text": "Vejce se lepí na husté vodní rostliny.",
+  "quote": "Jejich vejce jsou lepkavá a přilnou k vodní vegetaci, obvykle k hustým rostlinám",
+  "claimed_false_for": {
+   "Q192285": "Měsíčník svítivý (Mola mola)",
+   "Q205015": "Ďas mořský (Lophius piscatorius)",
+   "Q211316": "Jeseter malý (Acipenser ruthenus)",
+   "Q217129": "Mořčák evropský (Dicentrarchus labrax)",
+   "Q269781": "Tuňák žlutoploutvý (Thunnus albacares)"
+  }
+ },
+ {
+  "id": "Q14443#0",
+  "species": "Zlak nachový",
+  "latin": "Coryphaena hippurus",
+  "text": "Často loví létající ryby.",
+  "quote": "jejich častou kořistí jsou letounovití",
+  "claimed_false_for": {
+   "Q159323": "Sumec velký (Silurus glanis)",
+   "Q166812": "Okoun říční (Perca fluviatilis)",
+   "Q182976": "Plotice obecná (Rutilus rutilus)",
+   "Q187986": "Pstruh duhový (Oncorhynchus mykiss)",
+   "Q200594": "Perlín ostrobřichý (Scardinius erythrophthalmus)",
+   "Q203572": "Koljuška tříostná (Gasterosteus aculeatus)",
+   "Q214278": "Střevle potoční (Phoxinus phoxinus)",
+   "Q26821893": "Jelec tloušť (Squalius cephalus)",
+   "Q76098": "Amur bílý (Ctenopharyngodon idella)"
+  }
+ },
+ {
+  "id": "Q14443#1",
+  "species": "Zlak nachový",
+  "latin": "Coryphaena hippurus",
+  "text": "Tento druh se často zdržuje v porostech mořských řas.",
+  "quote": "často se zdržují v porostech mořských řas Sargassum",
+  "claimed_false_for": {
+   "Q123141": "Karas zlatý (Carassius auratus)",
+   "Q201235": "Paúhoř elektrický (Electrophorus electricus)",
+   "Q211316": "Jeseter malý (Acipenser ruthenus)",
+   "Q549": "Bojovnice pestrá (Betta splendens)",
+   "Q76280": "Lín obecný (Tinca tinca)",
+   "Q81110": "Kapr obecný (Cyprinus carpio)"
+  }
+ },
+ {
+  "id": "Q145409#0",
+  "species": "Arapaima velká",
+  "latin": "Arapaima gigas",
+  "text": "Dorůstá délky až přes 3 metry a hmotnosti 200 kg.",
+  "quote": "Dorůstá délky až přes 3 metry a hmotnosti 200 kg.",
+  "claimed_false_for": {
+   "Q166812": "Okoun říční (Perca fluviatilis)",
+   "Q182976": "Plotice obecná (Rutilus rutilus)",
+   "Q187986": "Pstruh duhový (Oncorhynchus mykiss)",
+   "Q200594": "Perlín ostrobřichý (Scardinius erythrophthalmus)",
+   "Q203572": "Koljuška tříostná (Gasterosteus aculeatus)",
+   "Q214278": "Střevle potoční (Phoxinus phoxinus)",
+   "Q234014": "Cípal hlavatý (Mugil cephalus)",
+   "Q26387": "Úhoř říční (Anguilla anguilla)",
+   "Q26821893": "Jelec tloušť (Squalius cephalus)",
+   "Q643373": "Jehlice rohozobá (Belone belone)",
+   "Q76098": "Amur bílý (Ctenopharyngodon idella)"
+  }
+ },
+ {
+  "id": "Q145409#1",
+  "species": "Arapaima velká",
+  "latin": "Arapaima gigas",
+  "text": "Dýchá vzdušný kyslík a musí se vynořovat k hladině.",
+  "quote": "Arapaima je ryba, která je závislá na vzdušném kyslíku, který doplňkově dýchá, a proto se musí vynořovat u hladiny.",
+  "claimed_false_for": {
+   "Q14443": "Zlak nachový (Coryphaena hippurus)",
+   "Q165278": "Štika obecná (Esox lucius)",
+   "Q182976": "Plotice obecná (Rutilus rutilus)",
+   "Q188879": "Losos obecný (Salmo salar)",
+   "Q200473": "Ouklej obecná (Alburnus alburnus)",
+   "Q205015": "Ďas mořský (Lophius piscatorius)",
+   "Q214278": "Střevle potoční (Phoxinus phoxinus)",
+   "Q234014": "Cípal hlavatý (Mugil cephalus)",
+   "Q7045": "Pilobřich ostnitý (Zeus faber)",
+   "Q81110": "Kapr obecný (Cyprinus carpio)"
+  }
+ },
+ {
+  "id": "Q145409#2",
+  "species": "Arapaima velká",
+  "latin": "Arapaima gigas",
+  "text": "Tento druh se živí rybami, ptáky a dalšími živočichy.",
+  "quote": "Jedná se o predátora, který se živí rybami, ale také ptáky a dalšími živočichy, které nejraději loví u hladiny.",
+  "claimed_false_for": {
+   "Q182976": "Plotice obecná (Rutilus rutilus)",
+   "Q200594": "Perlín ostrobřichý (Scardinius erythrophthalmus)",
+   "Q203572": "Koljuška tříostná (Gasterosteus aculeatus)",
+   "Q214278": "Střevle potoční (Phoxinus phoxinus)",
+   "Q76098": "Amur bílý (Ctenopharyngodon idella)"
+  }
+ },
+ {
+  "id": "Q159323#0",
+  "species": "Sumec velký",
+  "latin": "Silurus glanis",
+  "text": "Tento druh je převážně noční dravec.",
+  "quote": "Je to převážně noční dravec.",
+  "claimed_false_for": {
+   "Q123141": "Karas zlatý (Carassius auratus)",
+   "Q192285": "Měsíčník svítivý (Mola mola)",
+   "Q76280": "Lín obecný (Tinca tinca)",
+   "Q81110": "Kapr obecný (Cyprinus carpio)"
+  }
+ },
+ {
+  "id": "Q159323#2",
+  "species": "Sumec velký",
+  "latin": "Silurus glanis",
+  "text": "Při délce 2,2 metru může vážit přes 65 kg.",
+  "quote": "Při délce 2,2 m mohou vážit přes 65 kg.",
+  "claimed_false_for": {
+   "Q166812": "Okoun říční (Perca fluviatilis)",
+   "Q182976": "Plotice obecná (Rutilus rutilus)",
+   "Q187986": "Pstruh duhový (Oncorhynchus mykiss)",
+   "Q200594": "Perlín ostrobřichý (Scardinius erythrophthalmus)",
+   "Q214278": "Střevle potoční (Phoxinus phoxinus)",
+   "Q234014": "Cípal hlavatý (Mugil cephalus)",
+   "Q26387": "Úhoř říční (Anguilla anguilla)",
+   "Q26821893": "Jelec tloušť (Squalius cephalus)",
+   "Q643373": "Jehlice rohozobá (Belone belone)",
+   "Q76098": "Amur bílý (Ctenopharyngodon idella)"
+  }
+ },
+ {
+  "id": "Q159323#5",
+  "species": "Sumec velký",
+  "latin": "Silurus glanis",
+  "text": "Loví i ryby, měkkýše, korýše a drobné vodní ptáky.",
+  "quote": "Dospělý jedinec chytá červy, obojživelníky, plazy, měkkýše, korýše, ryby, vodní savce a dokonce i drobné vodní ptáky",
+  "claimed_false_for": {
+   "Q188387": "Sardel obecná (Engraulis encrasicolus)",
+   "Q465261": "Chanos stříbřitý (Chanos chanos)"
+  }
+ },
+ {
+  "id": "Q159323#7",
+  "species": "Sumec velký",
+  "latin": "Silurus glanis",
+  "text": "V řece Tarn tento druh vyskakuje z vody a chytá holuby na zemi.",
+  "quote": "vyskakují z vody, aby se živili holuby na zemi",
+  "claimed_false_for": {
+   "Q166812": "Okoun říční (Perca fluviatilis)",
+   "Q182976": "Plotice obecná (Rutilus rutilus)",
+   "Q187986": "Pstruh duhový (Oncorhynchus mykiss)",
+   "Q200594": "Perlín ostrobřichý (Scardinius erythrophthalmus)",
+   "Q203572": "Koljuška tříostná (Gasterosteus aculeatus)",
+   "Q214278": "Střevle potoční (Phoxinus phoxinus)",
+   "Q234014": "Cípal hlavatý (Mugil cephalus)",
+   "Q26387": "Úhoř říční (Anguilla anguilla)",
+   "Q26821893": "Jelec tloušť (Squalius cephalus)",
+   "Q643373": "Jehlice rohozobá (Belone belone)",
+   "Q76098": "Amur bílý (Ctenopharyngodon idella)"
+  }
+ },
+ {
+  "id": "Q159323#8",
+  "species": "Sumec velký",
+  "latin": "Silurus glanis",
+  "text": "Na Pyrenejském poloostrově ohrožuje místní jelce, parmy a ostroretky.",
+  "quote": "Přítomnost sumce postihuje celou škálu endemických druhů jelců, parem a ostroretek",
+  "claimed_false_for": {
+   "Q14443": "Zlak nachový (Coryphaena hippurus)",
+   "Q145409": "Arapaima velká (Arapaima gigas)",
+   "Q188387": "Sardel obecná (Engraulis encrasicolus)",
+   "Q237619": "Hrouzek obecný (Gobio gobio)",
+   "Q27098": "Platýs velký (Pleuronectes platessa)",
+   "Q465261": "Chanos stříbřitý (Chanos chanos)"
+  }
+ },
+ {
+  "id": "Q165278#2",
+  "species": "Štika obecná",
+  "latin": "Esox lucius",
+  "text": "Hledá kořist hlavně zrakem, a proto je aktivní přes den.",
+  "quote": "Štika obecná detekuje kořist především zrakem, proto je aktivní během dne",
+  "claimed_false_for": {
+   "Q201235": "Paúhoř elektrický (Electrophorus electricus)",
+   "Q76280": "Lín obecný (Tinca tinca)"
+  }
+ },
+ {
+  "id": "Q165278#4",
+  "species": "Štika obecná",
+  "latin": "Esox lucius",
+  "text": "Živí se zejména rybami, například okouny.",
+  "quote": "její potravou jsou zejména ryby odpovídající velikosti, např. okoun, ježdík, hrouzek, oukleje, plotice, proudník",
+  "claimed_false_for": {
+   "Q200594": "Perlín ostrobřichý (Scardinius erythrophthalmus)",
+   "Q76098": "Amur bílý (Ctenopharyngodon idella)",
+   "Q76280": "Lín obecný (Tinca tinca)"
+  }
+ },
+ {
+  "id": "Q166812#2",
+  "species": "Okoun říční",
+  "latin": "Perca fluviatilis",
+  "text": "Živí se hlavně bezobratlými a malými rybkami.",
+  "quote": "Jeho hlavní složkou potravy jsou zejména bezobratlí a rybí potěr.",
+  "claimed_false_for": {
+   "Q200594": "Perlín ostrobřichý (Scardinius erythrophthalmus)",
+   "Q76098": "Amur bílý (Ctenopharyngodon idella)"
+  }
+ },
+ {
+  "id": "Q166812#4",
+  "species": "Okoun říční",
+  "latin": "Perca fluviatilis",
+  "text": "Loví menší nebo nemocné ryby.",
+  "quote": "napadá menší, či nemocné ryby",
+  "claimed_false_for": {
+   "Q188387": "Sardel obecná (Engraulis encrasicolus)",
+   "Q200473": "Ouklej obecná (Alburnus alburnus)",
+   "Q237619": "Hrouzek obecný (Gobio gobio)",
+   "Q465261": "Chanos stříbřitý (Chanos chanos)"
+  }
+ },
+ {
+  "id": "Q178202#0",
+  "species": "Živorodka duhová",
+  "latin": "Poecilia reticulata",
+  "text": "Samice měří kolem 6 cm, samec 3–4 cm.",
+  "quote": "samice měří kolem 6 cm, samec měří 3–4 cm",
+  "claimed_false_for": {
+   "Q123141": "Karas zlatý (Carassius auratus)",
+   "Q192285": "Měsíčník svítivý (Mola mola)",
+   "Q201235": "Paúhoř elektrický (Electrophorus electricus)",
+   "Q205015": "Ďas mořský (Lophius piscatorius)",
+   "Q211316": "Jeseter malý (Acipenser ruthenus)",
+   "Q217129": "Mořčák evropský (Dicentrarchus labrax)",
+   "Q217329": "Pakambala velká (Scophthalmus maximus)",
+   "Q269781": "Tuňák žlutoploutvý (Thunnus albacares)",
+   "Q7045": "Pilobřich ostnitý (Zeus faber)",
+   "Q76280": "Lín obecný (Tinca tinca)",
+   "Q81110": "Kapr obecný (Cyprinus carpio)"
+  }
+ },
+ {
+  "id": "Q178202#1",
+  "species": "Živorodka duhová",
+  "latin": "Poecilia reticulata",
+  "text": "Požírá larvy některých komárů, kteří přenášejí malárii.",
+  "quote": "požírá larvy komára rodu Anopheles, přenášejícího malárii",
+  "claimed_false_for": {
+   "Q14443": "Zlak nachový (Coryphaena hippurus)",
+   "Q145409": "Arapaima velká (Arapaima gigas)",
+   "Q165278": "Štika obecná (Esox lucius)",
+   "Q188387": "Sardel obecná (Engraulis encrasicolus)",
+   "Q188879": "Losos obecný (Salmo salar)",
+   "Q27098": "Platýs velký (Pleuronectes platessa)",
+   "Q465261": "Chanos stříbřitý (Chanos chanos)"
+  }
+ },
+ {
+  "id": "Q182976#1",
+  "species": "Plotice obecná",
+  "latin": "Rutilus rutilus",
+  "text": "Tento druh se kříží s cejnem velkým a perlínem ostrobřichým.",
+  "quote": "zejména kříženci s cejnem velkým a perlínem ostrobřichým jsou častí",
+  "claimed_false_for": {
+   "Q178202": "Živorodka duhová (Poecilia reticulata)",
+   "Q187986": "Pstruh duhový (Oncorhynchus mykiss)",
+   "Q192285": "Měsíčník svítivý (Mola mola)",
+   "Q217329": "Pakambala velká (Scophthalmus maximus)",
+   "Q269781": "Tuňák žlutoploutvý (Thunnus albacares)",
+   "Q27098": "Platýs velký (Pleuronectes platessa)",
+   "Q549": "Bojovnice pestrá (Betta splendens)"
+  }
+ },
+ {
+  "id": "Q187986#0",
+  "species": "Pstruh duhový",
+  "latin": "Oncorhynchus mykiss",
+  "text": "V dospělosti měří 20 až 90 centimetrů.",
+  "quote": "Délka v dospělosti činí 20–90 cm",
+  "claimed_false_for": {
+   "Q178202": "Živorodka duhová (Poecilia reticulata)",
+   "Q192285": "Měsíčník svítivý (Mola mola)",
+   "Q269781": "Tuňák žlutoploutvý (Thunnus albacares)",
+   "Q549": "Bojovnice pestrá (Betta splendens)"
+  }
+ },
+ {
+  "id": "Q187986#1",
+  "species": "Pstruh duhový",
+  "latin": "Oncorhynchus mykiss",
+  "text": "Pochází ze Severní Ameriky.",
+  "quote": "pocházející ze Severní Ameriky",
+  "claimed_false_for": {
+   "Q159323": "Sumec velký (Silurus glanis)",
+   "Q166812": "Okoun říční (Perca fluviatilis)",
+   "Q182976": "Plotice obecná (Rutilus rutilus)",
+   "Q200594": "Perlín ostrobřichý (Scardinius erythrophthalmus)",
+   "Q214278": "Střevle potoční (Phoxinus phoxinus)",
+   "Q26387": "Úhoř říční (Anguilla anguilla)",
+   "Q26821893": "Jelec tloušť (Squalius cephalus)",
+   "Q643373": "Jehlice rohozobá (Belone belone)",
+   "Q76098": "Amur bílý (Ctenopharyngodon idella)"
+  }
+ },
+ {
+  "id": "Q188387#0",
+  "species": "Sardel obecná",
+  "latin": "Engraulis encrasicolus",
+  "text": "Hlavní potravou jsou planktonoví korýši.",
+  "quote": "Hlavní potravou těchto ryb jsou planktonoví korýši.",
+  "claimed_false_for": {
+   "Q14443": "Zlak nachový (Coryphaena hippurus)",
+   "Q145409": "Arapaima velká (Arapaima gigas)",
+   "Q165278": "Štika obecná (Esox lucius)",
+   "Q201235": "Paúhoř elektrický (Electrophorus electricus)",
+   "Q205015": "Ďas mořský (Lophius piscatorius)"
+  }
+ },
+ {
+  "id": "Q188387#1",
+  "species": "Sardel obecná",
+  "latin": "Engraulis encrasicolus",
+  "text": "Žije v Atlantiku, ve Středozemním a v Černém moři.",
+  "quote": "je mořská rybka z čeledi sardelovitých žijící v Atlantiku, Středozemním a Černém moři.",
+  "claimed_false_for": {
+   "Q145409": "Arapaima velká (Arapaima gigas)",
+   "Q178202": "Živorodka duhová (Poecilia reticulata)",
+   "Q187981": "Ježdík obecný (Gymnocephalus cernua)",
+   "Q200473": "Ouklej obecná (Alburnus alburnus)",
+   "Q237619": "Hrouzek obecný (Gobio gobio)",
+   "Q465261": "Chanos stříbřitý (Chanos chanos)"
+  }
+ },
+ {
+  "id": "Q188879#2",
+  "species": "Losos obecný",
+  "latin": "Salmo salar",
+  "text": "Dospělé ryby se vracejí do řeky, ve které se narodily.",
+  "quote": "Dospělí lososi se vždy vracejí do řeky, ve které se narodili.",
+  "claimed_false_for": {
+   "Q123141": "Karas zlatý (Carassius auratus)",
+   "Q192285": "Měsíčník svítivý (Mola mola)",
+   "Q205015": "Ďas mořský (Lophius piscatorius)",
+   "Q217329": "Pakambala velká (Scophthalmus maximus)",
+   "Q269781": "Tuňák žlutoploutvý (Thunnus albacares)",
+   "Q549": "Bojovnice pestrá (Betta splendens)",
+   "Q7045": "Pilobřich ostnitý (Zeus faber)",
+   "Q76280": "Lín obecný (Tinca tinca)",
+   "Q81110": "Kapr obecný (Cyprinus carpio)"
+  }
+ },
+ {
+  "id": "Q188879#4",
+  "species": "Losos obecný",
+  "latin": "Salmo salar",
+  "text": "Umí vyskočit tak vysoko, že se dostane i přes vodopád.",
+  "quote": "Lososi jsou známí tím, že jsou schopni vyskočit do značné výšky a tím se dostat přes překážku (např. vodopád).",
+  "claimed_false_for": {
+   "Q14443": "Zlak nachový (Coryphaena hippurus)",
+   "Q145409": "Arapaima velká (Arapaima gigas)",
+   "Q178202": "Živorodka duhová (Poecilia reticulata)",
+   "Q188387": "Sardel obecná (Engraulis encrasicolus)",
+   "Q27098": "Platýs velký (Pleuronectes platessa)",
+   "Q465261": "Chanos stříbřitý (Chanos chanos)"
+  }
+ },
+ {
+  "id": "Q188879#5",
+  "species": "Losos obecný",
+  "latin": "Salmo salar",
+  "text": "Ve sladké vodě se živí larvami hmyzu, korýši a malými rybkami.",
+  "quote": "je dravec, který se živí ve sladké vodě larvami hmyzu, korýši a drobnými rybkami.",
+  "claimed_false_for": {
+   "Q643373": "Jehlice rohozobá (Belone belone)",
+   "Q76098": "Amur bílý (Ctenopharyngodon idella)"
+  }
+ },
+ {
+  "id": "Q188879#6",
+  "species": "Losos obecný",
+  "latin": "Salmo salar",
+  "text": "Mladí jedinci se živí larvami jepic, pošvatek, chrostíků a muchniček.",
+  "quote": "Čerstvě narozený plůdek se živí larvami jepic, pošvatek, chrostíků či muchniček.",
+  "claimed_false_for": {
+   "Q14443": "Zlak nachový (Coryphaena hippurus)",
+   "Q188387": "Sardel obecná (Engraulis encrasicolus)",
+   "Q27098": "Platýs velký (Pleuronectes platessa)",
+   "Q465261": "Chanos stříbřitý (Chanos chanos)"
+  }
+ },
+ {
+  "id": "Q192285#0",
+  "species": "Měsíčník svítivý",
+  "latin": "Mola mola",
+  "text": "Největší jedinci mohou vážit přes 2 tuny.",
+  "quote": "Nejmohutnější jedinci mohou vážit přes 2 tuny a přesahovat délku 3 m.",
+  "claimed_false_for": {
+   "Q159323": "Sumec velký (Silurus glanis)",
+   "Q166812": "Okoun říční (Perca fluviatilis)",
+   "Q188387": "Sardel obecná (Engraulis encrasicolus)",
+   "Q203572": "Koljuška tříostná (Gasterosteus aculeatus)",
+   "Q211316": "Jeseter malý (Acipenser ruthenus)",
+   "Q217129": "Mořčák evropský (Dicentrarchus labrax)",
+   "Q237619": "Hrouzek obecný (Gobio gobio)",
+   "Q26387": "Úhoř říční (Anguilla anguilla)",
+   "Q26821893": "Jelec tloušť (Squalius cephalus)",
+   "Q2857311": "Pstruh obecný (Salmo trutta)",
+   "Q465261": "Chanos stříbřitý (Chanos chanos)",
+   "Q643373": "Jehlice rohozobá (Belone belone)"
+  }
+ },
+ {
+  "id": "Q192285#1",
+  "species": "Měsíčník svítivý",
+  "latin": "Mola mola",
+  "text": "Nemá ocasní ploutev, místo ní má zvláštní lem.",
+  "quote": "Ocasní násadec a ocasní ploutev úplně chybí a jsou nahrazeny tzv. pseudoocasem neboli ocasním lemem",
+  "claimed_false_for": {
+   "Q123141": "Karas zlatý (Carassius auratus)",
+   "Q178202": "Živorodka duhová (Poecilia reticulata)",
+   "Q187981": "Ježdík obecný (Gymnocephalus cernua)",
+   "Q187986": "Pstruh duhový (Oncorhynchus mykiss)",
+   "Q200594": "Perlín ostrobřichý (Scardinius erythrophthalmus)",
+   "Q217329": "Pakambala velká (Scophthalmus maximus)",
+   "Q269781": "Tuňák žlutoploutvý (Thunnus albacares)",
+   "Q27098": "Platýs velký (Pleuronectes platessa)",
+   "Q549": "Bojovnice pestrá (Betta splendens)",
+   "Q76098": "Amur bílý (Ctenopharyngodon idella)",
+   "Q76280": "Lín obecný (Tinca tinca)"
+  }
+ },
+ {
+  "id": "Q200473#0",
+  "species": "Ouklej obecná",
+  "latin": "Alburnus alburnus",
+  "text": "Živí se planktonem, hmyzem a bezobratlými z hladiny.",
+  "quote": "živí se planktonem, plovoucím hmyzem nebo bezobratlými padajícími na vodní hladinu",
+  "claimed_false_for": {
+   "Q217329": "Pakambala velká (Scophthalmus maximus)",
+   "Q269781": "Tuňák žlutoploutvý (Thunnus albacares)",
+   "Q27098": "Platýs velký (Pleuronectes platessa)",
+   "Q76098": "Amur bílý (Ctenopharyngodon idella)"
+  }
+ },
+ {
+  "id": "Q200473#3",
+  "species": "Ouklej obecná",
+  "latin": "Alburnus alburnus",
+  "text": "Dožívá se maximálně 8 let.",
+  "quote": "Dožívá se maximálně 8 let.",
+  "claimed_false_for": {
+   "Q205015": "Ďas mořský (Lophius piscatorius)",
+   "Q211316": "Jeseter malý (Acipenser ruthenus)",
+   "Q217129": "Mořčák evropský (Dicentrarchus labrax)",
+   "Q76280": "Lín obecný (Tinca tinca)",
+   "Q81110": "Kapr obecný (Cyprinus carpio)"
+  }
+ },
+ {
+  "id": "Q200594#3",
+  "species": "Perlín ostrobřichý",
+  "latin": "Scardinius erythrophthalmus",
+  "text": "Žije zejména v zarostlých stojatých vodách.",
+  "quote": "Perlín se vyskytuje zejména v zarostlých stojatých vodách.",
+  "claimed_false_for": {
+   "Q188387": "Sardel obecná (Engraulis encrasicolus)",
+   "Q211316": "Jeseter malý (Acipenser ruthenus)",
+   "Q217129": "Mořčák evropský (Dicentrarchus labrax)",
+   "Q237619": "Hrouzek obecný (Gobio gobio)",
+   "Q643373": "Jehlice rohozobá (Belone belone)"
+  }
+ },
+ {
+  "id": "Q201235#0",
+  "species": "Paúhoř elektrický",
+  "latin": "Electrophorus electricus",
+  "text": "Dorůstá až 2,5 metru a váží až 20 kilogramů.",
+  "quote": "Dosahuje velikosti až 2,5 m a hmotnosti až 20 kg.",
+  "claimed_false_for": {
+   "Q14443": "Zlak nachový (Coryphaena hippurus)",
+   "Q145409": "Arapaima velká (Arapaima gigas)",
+   "Q165278": "Štika obecná (Esox lucius)",
+   "Q178202": "Živorodka duhová (Poecilia reticulata)",
+   "Q187981": "Ježdík obecný (Gymnocephalus cernua)",
+   "Q188387": "Sardel obecná (Engraulis encrasicolus)",
+   "Q188879": "Losos obecný (Salmo salar)",
+   "Q200473": "Ouklej obecná (Alburnus alburnus)",
+   "Q237619": "Hrouzek obecný (Gobio gobio)",
+   "Q27098": "Platýs velký (Pleuronectes platessa)",
+   "Q2857311": "Pstruh obecný (Salmo trutta)",
+   "Q465261": "Chanos stříbřitý (Chanos chanos)"
+  }
+ },
+ {
+  "id": "Q201235#3",
+  "species": "Paúhoř elektrický",
+  "latin": "Electrophorus electricus",
+  "text": "Až 80 % potřebného kyslíku získává nádechem nad hladinou.",
+  "quote": "Až 80 % potřebného kyslíku získává v době vynoření a nádechu",
+  "claimed_false_for": {
+   "Q14443": "Zlak nachový (Coryphaena hippurus)",
+   "Q165278": "Štika obecná (Esox lucius)",
+   "Q178202": "Živorodka duhová (Poecilia reticulata)",
+   "Q187981": "Ježdík obecný (Gymnocephalus cernua)",
+   "Q188387": "Sardel obecná (Engraulis encrasicolus)",
+   "Q188879": "Losos obecný (Salmo salar)",
+   "Q200473": "Ouklej obecná (Alburnus alburnus)",
+   "Q237619": "Hrouzek obecný (Gobio gobio)",
+   "Q27098": "Platýs velký (Pleuronectes platessa)",
+   "Q2857311": "Pstruh obecný (Salmo trutta)",
+   "Q465261": "Chanos stříbřitý (Chanos chanos)"
+  }
+ },
+ {
+  "id": "Q203572#0",
+  "species": "Koljuška tříostná",
+  "latin": "Gasterosteus aculeatus",
+  "text": "Místo šupin má podél boků kostěné štítky.",
+  "quote": "Tělo je štíhlé, protáhlé, z boků zploštělé a bez šupin, místo nich je opatřeno kostěnými štítky v řadě podél postranní čáry.",
+  "claimed_false_for": {
+   "Q14443": "Zlak nachový (Coryphaena hippurus)",
+   "Q145409": "Arapaima velká (Arapaima gigas)",
+   "Q165278": "Štika obecná (Esox lucius)",
+   "Q178202": "Živorodka duhová (Poecilia reticulata)",
+   "Q187981": "Ježdík obecný (Gymnocephalus cernua)",
+   "Q188387": "Sardel obecná (Engraulis encrasicolus)",
+   "Q188879": "Losos obecný (Salmo salar)",
+   "Q200473": "Ouklej obecná (Alburnus alburnus)",
+   "Q237619": "Hrouzek obecný (Gobio gobio)",
+   "Q27098": "Platýs velký (Pleuronectes platessa)",
+   "Q2857311": "Pstruh obecný (Salmo trutta)",
+   "Q465261": "Chanos stříbřitý (Chanos chanos)"
+  }
+ },
+ {
+  "id": "Q203572#4",
+  "species": "Koljuška tříostná",
+  "latin": "Gasterosteus aculeatus",
+  "text": "Tento druh se živí i vlastním potěrem.",
+  "quote": "Koljuška se živí výhradně dravě. Požírá larvy hmyzu, červy, korýše a dokonce se živí i svým potěrem.",
+  "claimed_false_for": {
+   "Q76098": "Amur bílý (Ctenopharyngodon idella)"
+  }
+ },
+ {
+  "id": "Q205015#0",
+  "species": "Ďas mořský",
+  "latin": "Lophius piscatorius",
+  "text": "Žije v hloubkách od 20 do 1000 metrů.",
+  "quote": "Najdeme ho v hloubkách od 20 do 1000 metrů.",
+  "claimed_false_for": {
+   "Q159323": "Sumec velký (Silurus glanis)",
+   "Q166812": "Okoun říční (Perca fluviatilis)",
+   "Q182976": "Plotice obecná (Rutilus rutilus)",
+   "Q187986": "Pstruh duhový (Oncorhynchus mykiss)",
+   "Q200594": "Perlín ostrobřichý (Scardinius erythrophthalmus)",
+   "Q203572": "Koljuška tříostná (Gasterosteus aculeatus)",
+   "Q214278": "Střevle potoční (Phoxinus phoxinus)",
+   "Q234014": "Cípal hlavatý (Mugil cephalus)",
+   "Q26821893": "Jelec tloušť (Squalius cephalus)",
+   "Q643373": "Jehlice rohozobá (Belone belone)",
+   "Q76098": "Amur bílý (Ctenopharyngodon idella)"
+  }
+ }
+]

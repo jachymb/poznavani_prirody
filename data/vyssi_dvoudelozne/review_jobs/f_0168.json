@@ -1,0 +1,377 @@
+[
+ {
+  "id": "Q31931#7",
+  "species": "Hřebíčkovec jambos",
+  "latin": "Syzygium jambos",
+  "text": "Rez často napadá plodící stromy.",
+  "quote": "Často jsou plodící stromy decimovány rzi Puccinia psidii.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q319390#4",
+  "species": "Ibišek súdánský",
+  "latin": "Hibiscus sabdariffa",
+  "text": "Drůbež a dobytek se živí jeho semeny.",
+  "quote": "slouží jako krmivo pro drůbež a dobytek",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q3205931#0",
+  "species": "Pryskyřník měkkoostenný",
+  "latin": "Ranunculus muricatus",
+  "text": "Kvete od dubna do června.",
+  "quote": "Kvete v dubnu až v červnu.",
+  "claimed_false_for": {
+   "Q159823": "Krtičník křídlatý (Scrophularia umbrosa)",
+   "Q28922301": "Křídlatka sachalinská (Reynoutria sachalinensis)"
+  }
+ },
+ {
+  "id": "Q3205931#1",
+  "species": "Pryskyřník měkkoostenný",
+  "latin": "Ranunculus muricatus",
+  "text": "Dorůstá nejčastěji do výšky 5 až 50 cm.",
+  "quote": "dorůstající nejčastěji výšky 5–50 cm",
+  "claimed_false_for": {
+   "Q104212": "Chmel otáčivý (Humulus lupulus)",
+   "Q11819794": "Samorostlík evropský (Actaea europaea)",
+   "Q161823": "Lončatník guyanský (Couroupita guianensis)",
+   "Q163981": "Lípa americká (Tilia americana)"
+  }
+ },
+ {
+  "id": "Q3205971#2",
+  "species": "Večernička africká",
+  "latin": "Malcolmia africana",
+  "text": "Hmyz opyluje jeho květy.",
+  "quote": "opylovány jsou hmyzem",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q3239567#0",
+  "species": "Kořenokvětka vyšší",
+  "latin": "Aspidistra elatior",
+  "text": "Dobře snáší nedostatek světla a výkyvy teploty.",
+  "quote": "Dobře snáší nedostatek světla, výkyvy teploty i nepravidelnou zálivku",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q3239567#1",
+  "species": "Kořenokvětka vyšší",
+  "latin": "Aspidistra elatior",
+  "text": "Dorůstá výšky okolo 60 cm.",
+  "quote": "Dorůstá výšky okolo 60 cm",
+  "claimed_false_for": {
+   "Q157952": "Dračinec dračí (Dracaena draco)",
+   "Q158563": "Dřišťál obecný (Berberis vulgaris)"
+  }
+ },
+ {
+  "id": "Q3281704#0",
+  "species": "Plamének východní",
+  "latin": "Clematis orientalis",
+  "text": "Kvete od června do srpna.",
+  "quote": "Kvete v červnu až v srpnu.",
+  "claimed_false_for": {
+   "Q149597": "Hlaváček amurský (Adonis amurensis)",
+   "Q161050": "Jaterník podléška (Hepatica nobilis)",
+   "Q9333950": "Koniklec slovenský (Pulsatilla slavica)"
+  }
+ },
+ {
+  "id": "Q3281704#1",
+  "species": "Plamének východní",
+  "latin": "Clematis orientalis",
+  "text": "Přirozeně roste v Asii, od Číny až po jihozápadní Asii.",
+  "quote": "je přirozeně rozšířen v Asii od Číny, přes střední Asii po jihozápadní Asii",
+  "claimed_false_for": {
+   "Q1074622": "Dymnivka plná (Corydalis solida)",
+   "Q164158": "Muchovník olšolistý (Amelanchier alnifolia)",
+   "Q683404": "Pleskanka mexická (Argemone mexicana)"
+  }
+ },
+ {
+  "id": "Q3299334#1",
+  "species": "Máčka obrovská",
+  "latin": "Eryngium giganteum",
+  "text": "Dorůstá téměř do výšky 1 metru.",
+  "quote": "Dorůstá výšky téměř 1 m.",
+  "claimed_false_for": {
+   "Q1405595": "Hvězdnatec zubatý (Hacquetia epipactis)",
+   "Q157552": "Prvosenka jarní (Primula veris)",
+   "Q2600107": "Bolševník Sosnowského (Heracleum sosnowskyi)",
+   "Q3493070": "Arálie královská (Aralia rex)",
+   "Q41505": "Lokvát japonský (Eriobotrya japonica)"
+  }
+ },
+ {
+  "id": "Q33115#4",
+  "species": "Prustka obecná",
+  "latin": "Hippuris vulgaris",
+  "text": "Vodní ptáci se živí jeho semeny a mladými listy.",
+  "quote": "svými semeny i mladými listy potravu pro vodní ptactvo",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q33115#6",
+  "species": "Prustka obecná",
+  "latin": "Hippuris vulgaris",
+  "text": "Semena se nalepí na nohy a peří vodních ptáků.",
+  "quote": "nalepí na nohy či peří vodních ptáků",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q332469#6",
+  "species": "Libora měnivá",
+  "latin": "Lantana camara",
+  "text": "Jiná zvířata tento druh nejedí kvůli jedovatosti.",
+  "quote": "Dalšími zvířaty však není konzumována kvůli toxicitě",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q332469#7",
+  "species": "Libora měnivá",
+  "latin": "Lantana camara",
+  "text": "Brzdí klíčení a růst kořenů rostlin kolem sebe.",
+  "quote": "vylučuje alelopatické chemikálie, které omezují růst okolních rostlin inhibicí klíčení a prodlužování kořenů",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q332469#8",
+  "species": "Libora měnivá",
+  "latin": "Lantana camara",
+  "text": "Vytlačuje ostatní původní druhy.",
+  "quote": "vytlačuje ostatní původní druhy a snižuje biodiverzitu",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q3331473#4",
+  "species": "Křehkýš vodní",
+  "latin": "Myosoton aquaticum",
+  "text": "Králíci, prasata a kachny rádi žerou jeho rostliny.",
+  "quote": "rostliny mj. rádi požírají králíci, prasata i kachny",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q3331473#5",
+  "species": "Křehkýš vodní",
+  "latin": "Myosoton aquaticum",
+  "text": "Drobní ptáci si pochutnávají na jeho semenech.",
+  "quote": "semena jsou pochoutkou pro drobné ptáky",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q3337300#5",
+  "species": "Samoduť latnatá",
+  "latin": "Symplocos paniculata",
+  "text": "Jeho semena roznášejí ptáci.",
+  "quote": "rozptylovaných ptáky.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q333877#4",
+  "species": "Ořechovec pekanový",
+  "latin": "Carya illinoinensis",
+  "text": "Semena uvnitř skořápek požírají brouci nosatci a housenky obaleče.",
+  "quote": "Semeno uvnitř skořápky požírají brouk z rodu nosatců Curculio caryae a housenky obaleče",
+  "claimed_false_for": {
+   "Q1196169": "Olše japonská (Alnus japonica)",
+   "Q156870": "Zeměžluč okolíkatá (Centaurium erythraea)",
+   "Q227763": "Bříza tuhá (Betula lenta)",
+   "Q3232597": "Kýlatka čtyřlistá (Polycarpon tetraphyllum)"
+  }
+ },
+ {
+  "id": "Q333877#5",
+  "species": "Ořechovec pekanový",
+  "latin": "Carya illinoinensis",
+  "text": "Jelenec běloocasý spásá semenáče a nižší větve.",
+  "quote": "semenáče stromu a nižší větve dospělých stromů spásá jelenec běloocasý",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q333877#6",
+  "species": "Ořechovec pekanový",
+  "latin": "Carya illinoinensis",
+  "text": "Semena roznášejí voda a zvířata.",
+  "quote": "Po požáru dochází k regeneraci populace prostřednictvím semen, šířených vodou a zvířaty",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q3348720#4",
+  "species": "Ochna Thomasova",
+  "latin": "Ochna thomasiana",
+  "text": "Opylují jeho květy ptáci, motýli a jiný hmyz.",
+  "quote": "Květy bývají opylovány ptáky, motýly a jiným hmyzem.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q3355098#4",
+  "species": "Pomerančovník čínský",
+  "latin": "Citrus ×sinensis",
+  "text": "Termity mohou napadnout jeho dřevo.",
+  "quote": "náchylné k napadení termity",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q3376352#4",
+  "species": "Devětsil Kablíkové",
+  "latin": "Petasites kablikianus",
+  "text": "Parazituje na něm záraza, která mu odčerpává živiny.",
+  "quote": "je napadán parazitickou rostlinou zárazou devětsilovou (Orobanche flava), která odčerpáváním živin zpomaluje jeho růst",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q3384#0",
+  "species": "Brukev řepák",
+  "latin": "Brassica rapa",
+  "text": "Motýli se živí jeho květy a zároveň ho opylují.",
+  "quote": "Květy brukve řepáku se živí mnoho motýlů, kteří tuto rostlinu zároveň opylují.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q3384#1",
+  "species": "Brukev řepák",
+  "latin": "Brassica rapa",
+  "text": "Tento druh je nenáročný a pěstuje se i v chladnějších oblastech.",
+  "quote": "Brukev řepák je nenáročná a pěstuje se i v chladnějších oblastech.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q3410988#4",
+  "species": "Puršovka trojzubá",
+  "latin": "Purshia tridentata",
+  "text": "Žije v symbióze s houbami, které mu dodávají vodu a vápník.",
+  "quote": "houba dodává rostlině látky získané z půdy (voda, vápník)",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q3410988#5",
+  "species": "Puršovka trojzubá",
+  "latin": "Purshia tridentata",
+  "text": "Tento druh je v zimě pastvou pro jeleny, kozy a ovce.",
+  "quote": "Slouží však v zimě, při vysoké vrstvě sněhu, jako náhradní pastva pro jeleny, kozy, ovce",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q3410988#6",
+  "species": "Puršovka trojzubá",
+  "latin": "Purshia tridentata",
+  "text": "Poskytuje úkryt drobným savcům a místo k hnízdění ptákům.",
+  "quote": "Samotné keře skýtají úkryt drobným savcům a místa k zahnízdění ptákům.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q341578#4",
+  "species": "Tořice rolní",
+  "latin": "Torilis arvensis",
+  "text": "Zvířata roznášejí jeho semena, která se jim přichytí do srsti.",
+  "quote": "přichycují se přitom do srsti zvířat která je rozšiřují",
+  "claimed_false_for": {
+   "Q159652": "Zimolez vonný (Lonicera fragrantissima)",
+   "Q93235": "Brusnice brusinka (Vaccinium vitis-idaea)",
+   "Q9325795": "Růže oválnolistá (Rosa elliptica)"
+  }
+ },
+ {
+  "id": "Q341582#0",
+  "species": "Chruplavník rolní",
+  "latin": "Polycnemum arvense",
+  "text": "Kvete od června do září.",
+  "quote": "Rostlina kvete od června do září",
+  "claimed_false_for": {
+   "Q10890841": "Hadí mord maloúborný (Scorzonera parviflora)",
+   "Q122778": "Hvozdík sivý (Dianthus gratianopolitanus)"
+  }
+ },
+ {
+  "id": "Q341582#1",
+  "species": "Chruplavník rolní",
+  "latin": "Polycnemum arvense",
+  "text": "Květy se opylují samy.",
+  "quote": "květy se opylují autogamně",
+  "claimed_false_for": {
+   "Q132734": "Pohanka obecná (Fagopyrum esculentum)",
+   "Q29951": "Šťovík menší (Rumex acetosella)"
+  }
+ },
+ {
+  "id": "Q341582#2",
+  "species": "Chruplavník rolní",
+  "latin": "Polycnemum arvense",
+  "text": "Zdatná rostlina vyprodukuje víc než tisíc plodů.",
+  "quote": "Zdatná rostlina jich vyprodukuje víc než tisíc",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q341600#6",
+  "species": "Pcháč rolní",
+  "latin": "Cirsium arvense",
+  "text": "Ptáci, kteří jedí jeho semena, roznášejí je dál.",
+  "quote": "semena roznášejí též ptáci živící se jimi",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q341600#7",
+  "species": "Pcháč rolní",
+  "latin": "Cirsium arvense",
+  "text": "Mravenci odnášejí jeho semena do mravenišť.",
+  "quote": "mravenci zanášející je pro obsah tuku a bílkovin do mravenišť",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q341600#8",
+  "species": "Pcháč rolní",
+  "latin": "Cirsium arvense",
+  "text": "Semena prošlá zažívacím traktem dobytka zůstávají klíčivá.",
+  "quote": "Semena prošlá zažívacím traktem dobytka také neztrácejí klíčivost.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q341668#4",
+  "species": "Kamejka rolní",
+  "latin": "Buglossoides arvensis",
+  "text": "Mravenci mohou jeho semena odnášet do okolí.",
+  "quote": "nebo je mohou do okolí odnášet mravenci",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q34169#4",
+  "species": "Pižmovka mošusová",
+  "latin": "Adoxa moschatellina",
+  "text": "Mravenci a hlemýždi roznášejí jeho semena.",
+  "quote": "méně častěji semeny, která roznášejí mravenci a hlemýždi",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q3467740#0",
+  "species": "Oměj moldavský",
+  "latin": "Aconitum moldavicum",
+  "text": "Kvete v červenci až v srpnu.",
+  "quote": "Kvete v červenci až v srpnu.",
+  "claimed_false_for": {
+   "Q147648": "Hlaváček jarní (Adonis vernalis)",
+   "Q149951": "Mák polní (Papaver argemone)",
+   "Q157557": "Orsej jarní (Ficaria verna)"
+  }
+ },
+ {
+  "id": "Q3467740#1",
+  "species": "Oměj moldavský",
+  "latin": "Aconitum moldavicum",
+  "text": "Roste jen v Karpatech.",
+  "quote": "Jedná se o endemit Karpat.",
+  "claimed_false_for": {
+   "Q1074622": "Dymnivka plná (Corydalis solida)",
+   "Q146110": "Topol osika (Populus tremula)",
+   "Q148926": "Hlaváček letní (Adonis aestivalis)",
+   "Q15367015": "Rohohlavec srpovitý (Ceratocephala falcata)",
+   "Q157791": "Rozrazil dlouholistý (Veronica longifolia)",
+   "Q161171": "Srdcovka nádherná (Lamprocapnos spectabilis)",
+   "Q164158": "Muchovník olšolistý (Amelanchier alnifolia)",
+   "Q3239567": "Kořenokvětka vyšší (Aspidistra elatior)",
+   "Q683404": "Pleskanka mexická (Argemone mexicana)",
+   "Q927257": "Oměj jedhoj (Aconitum anthora)"
+  }
+ }
+]

@@ -1,0 +1,645 @@
+[
+ {
+  "id": "Q11047363#0",
+  "species": "Černorosol uťatý",
+  "latin": "Exidia truncata",
+  "text": "Roste na odumřelých kmenech a větvích listnatých stromů.",
+  "quote": "na odumřelých kmenech a větvích listnatých stromů, zejména dubu, lísky nebo lípy",
+  "claimed_false_for": {
+   "Q1276522": "Holubinka zlatá (Russula aurea)",
+   "Q1281074": "Muchomůrka vejčitá (Amanita ovoidea)",
+   "Q131227": "Muchomůrka červená (Amanita muscaria)",
+   "Q1328979": "Kozák bílý (Leccinum holopus)",
+   "Q1897213": "Šťavnatka vonná (Hygrophorus agathosmus)",
+   "Q2305485": "Holubinka Quéletova (Russula queletii)",
+   "Q3501513": "Závojenka jarní (Entoloma vernum)",
+   "Q731944": "Čirůvka májovka (Calocybe gambosa)",
+   "Q913459": "Muchomůrka pošvatá (Amanita vaginata)",
+   "Q922092": "Muchomůrka Vittadiniho (Amanita vittadinii)"
+  }
+ },
+ {
+  "id": "Q11047363#1",
+  "species": "Černorosol uťatý",
+  "latin": "Exidia truncata",
+  "text": "Plodnice mohou růst v početných skupinách.",
+  "quote": "Mohou růst v početných skupinách",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1165686#1",
+  "species": "Trsnatec lupenitý",
+  "latin": "Grifola frondosa",
+  "text": "Plodnice může vážit i několik desítek kilogramů.",
+  "quote": "váhy i několika desítek kilogramů",
+  "claimed_false_for": {
+   "Q188749": "Liška obecná (Cantharellus cibarius)",
+   "Q220662": "Muchomůrka císařka (Amanita caesarea)",
+   "Q248829": "Čepičatka jehličnanová (Galerina marginata)",
+   "Q29362": "Čirůvka fialová (Lepista nuda)",
+   "Q321342": "Ucho Jidášovo (Auricularia auricula-judae)",
+   "Q48188": "Hadovka smrdutá (Phallus impudicus)",
+   "Q677341": "Holubinka nazelenalá (Russula virescens)",
+   "Q690801": "Pečárka ovčí (Agaricus arvensis)",
+   "Q728673": "Hnojník inkoustový (Coprinopsis atramentaria)",
+   "Q731944": "Čirůvka májovka (Calocybe gambosa)"
+  }
+ },
+ {
+  "id": "Q131227#2",
+  "species": "Muchomůrka červená",
+  "latin": "Amanita muscaria",
+  "text": "Tento druh je jedovatý.",
+  "quote": "je jedovatá houba z čeledi muchomůrkovitých",
+  "claimed_false_for": {
+   "Q188749": "Liška obecná (Cantharellus cibarius)",
+   "Q220662": "Muchomůrka císařka (Amanita caesarea)",
+   "Q321342": "Ucho Jidášovo (Auricularia auricula-judae)",
+   "Q677341": "Holubinka nazelenalá (Russula virescens)",
+   "Q690801": "Pečárka ovčí (Agaricus arvensis)",
+   "Q731944": "Čirůvka májovka (Calocybe gambosa)"
+  }
+ },
+ {
+  "id": "Q131227#3",
+  "species": "Muchomůrka červená",
+  "latin": "Amanita muscaria",
+  "text": "Obsahuje muscimol, který způsobuje poruchy vědomí a vyvolává halucinace.",
+  "quote": "obsahuje muscimol, který způsobuje poruchy vědomí a vyvolává halucinace",
+  "claimed_false_for": {
+   "Q186451": "Hlíva ústřičná (Pleurotus ostreatus)",
+   "Q275125": "Hnojník obecný (Coprinus comatus)",
+   "Q372893": "Penízovka sametonohá (Flammulina velutipes)",
+   "Q472817": "Muchomůrka jízlivá (Amanita virosa)",
+   "Q518069": "Čechratka podvinutá (Paxillus involutus)",
+   "Q579190": "Mřížovka červená (Clathrus ruber)",
+   "Q62138": "Ryzec pravý (Lactarius deliciosus)",
+   "Q628977": "Kozák březový (Leccinum scabrum)",
+   "Q631566": "Pstřeň dubový (Fistulina hepatica)",
+   "Q757127": "Hřib bronzový (Boletus aereus)"
+  }
+ },
+ {
+  "id": "Q13684#0",
+  "species": "Lišák zprohýbaný",
+  "latin": "Hydnum repandum",
+  "text": "Má pod kloboukem husté ostny dlouhé asi půl centimetru.",
+  "quote": "Na spodní straně klobouku se nachází hymenofor tvořený nápadnými, hustými, asi 0,5 centimetru dlouhými ostny.",
+  "claimed_false_for": {
+   "Q243381": "Bedla vysoká (Macrolepiota procera)",
+   "Q29362": "Čirůvka fialová (Lepista nuda)",
+   "Q321342": "Ucho Jidášovo (Auricularia auricula-judae)",
+   "Q472817": "Muchomůrka jízlivá (Amanita virosa)",
+   "Q503359": "Lysohlávka kopinatá (Psilocybe semilanceata)",
+   "Q545130": "Pýchavka obecná (Lycoperdon perlatum)",
+   "Q579190": "Mřížovka červená (Clathrus ruber)",
+   "Q623485": "Muchomůrka růžovka (Amanita rubescens)",
+   "Q731944": "Čirůvka májovka (Calocybe gambosa)"
+  }
+ },
+ {
+  "id": "Q186451#0",
+  "species": "Hlíva ústřičná",
+  "latin": "Pleurotus ostreatus",
+  "text": "Roste na živých i odumřelých kmenech listnatých stromů.",
+  "quote": "na živých nebo odumřelých kmenech listnatých stromů",
+  "claimed_false_for": {
+   "Q13684": "Lišák zprohýbaný (Hydnum repandum)",
+   "Q243381": "Bedla vysoká (Macrolepiota procera)",
+   "Q29362": "Čirůvka fialová (Lepista nuda)",
+   "Q503359": "Lysohlávka kopinatá (Psilocybe semilanceata)",
+   "Q545130": "Pýchavka obecná (Lycoperdon perlatum)",
+   "Q579190": "Mřížovka červená (Clathrus ruber)",
+   "Q623485": "Muchomůrka růžovka (Amanita rubescens)",
+   "Q731944": "Čirůvka májovka (Calocybe gambosa)",
+   "Q865540": "Ryzec kravský (Lactarius torminosus)"
+  }
+ },
+ {
+  "id": "Q188643#1",
+  "species": "Muchomůrka zelená",
+  "latin": "Amanita phalloides",
+  "text": "Vyrůstá z tenkého obalu zvaného vajíčko.",
+  "quote": "Vyrůstá z tzv. vajíčka",
+  "claimed_false_for": {
+   "Q1165686": "Trsnatec lupenitý (Grifola frondosa)",
+   "Q1956937": "Rezavec šikmý (Inonotus obliquus)",
+   "Q229814": "Troudnatec kopytovitý (Fomes fomentarius)",
+   "Q234529": "Pečárka polní (Agaricus campestris)",
+   "Q26203731": "Hřib satan (Rubroboletus satanas)",
+   "Q271098": "Lesklokorka lesklá (Ganoderma lucidum)",
+   "Q473745": "Václavka obecná (Armillaria mellea)",
+   "Q614625": "Holubinka vrhavka (Russula emetica)",
+   "Q752497": "Hřib hnědý (Imleria badia)",
+   "Q816730": "Klouzek obecný (Suillus luteus)"
+  }
+ },
+ {
+  "id": "Q188643#3",
+  "species": "Muchomůrka zelená",
+  "latin": "Amanita phalloides",
+  "text": "Roste u dubů, ale také u habrů a buků.",
+  "quote": "Doprovází především duby, ale také habry a buky.",
+  "claimed_false_for": {
+   "Q234529": "Pečárka polní (Agaricus campestris)",
+   "Q628977": "Kozák březový (Leccinum scabrum)",
+   "Q816730": "Klouzek obecný (Suillus luteus)",
+   "Q865540": "Ryzec kravský (Lactarius torminosus)"
+  }
+ },
+ {
+  "id": "Q188643#6",
+  "species": "Muchomůrka zelená",
+  "latin": "Amanita phalloides",
+  "text": "Tento druh je prudce jedovatý.",
+  "quote": "Je nejen prudce jedovatá",
+  "claimed_false_for": {
+   "Q13684": "Lišák zprohýbaný (Hydnum repandum)",
+   "Q243381": "Bedla vysoká (Macrolepiota procera)",
+   "Q29362": "Čirůvka fialová (Lepista nuda)",
+   "Q321342": "Ucho Jidášovo (Auricularia auricula-judae)",
+   "Q545130": "Pýchavka obecná (Lycoperdon perlatum)",
+   "Q731944": "Čirůvka májovka (Calocybe gambosa)",
+   "Q772098": "Sírovec žlutooranžový (Laetiporus sulphureus)"
+  }
+ },
+ {
+  "id": "Q188749#0",
+  "species": "Liška obecná",
+  "latin": "Cantharellus cibarius",
+  "text": "Má žluté až oranžové plodnice.",
+  "quote": "Plodnice mají žlutou až oranžovou barvu.",
+  "claimed_false_for": {
+   "Q186451": "Hlíva ústřičná (Pleurotus ostreatus)",
+   "Q19740": "Hřib smrkový (Boletus edulis)",
+   "Q275125": "Hnojník obecný (Coprinus comatus)",
+   "Q472817": "Muchomůrka jízlivá (Amanita virosa)",
+   "Q518069": "Čechratka podvinutá (Paxillus involutus)",
+   "Q628977": "Kozák březový (Leccinum scabrum)",
+   "Q631566": "Pstřeň dubový (Fistulina hepatica)",
+   "Q757127": "Hřib bronzový (Boletus aereus)"
+  }
+ },
+ {
+  "id": "Q188749#3",
+  "species": "Liška obecná",
+  "latin": "Cantharellus cibarius",
+  "text": "Žije spolu s kořeny stromů, hlavně smrků a borovic.",
+  "quote": "Žije v ektomykorhize s většinou stromů, zejména pak se smrky a borovicemi.",
+  "claimed_false_for": {
+   "Q243381": "Bedla vysoká (Macrolepiota procera)",
+   "Q29362": "Čirůvka fialová (Lepista nuda)",
+   "Q321342": "Ucho Jidášovo (Auricularia auricula-judae)",
+   "Q503359": "Lysohlávka kopinatá (Psilocybe semilanceata)",
+   "Q545130": "Pýchavka obecná (Lycoperdon perlatum)",
+   "Q579190": "Mřížovka červená (Clathrus ruber)",
+   "Q731944": "Čirůvka májovka (Calocybe gambosa)"
+  }
+ },
+ {
+  "id": "Q1956937#0",
+  "species": "Rezavec šikmý",
+  "latin": "Inonotus obliquus",
+  "text": "Běžně roste na břízách a dalších listnatých stromech.",
+  "quote": "Běžně roste na břízách a dalších listnatých stromech.",
+  "claimed_false_for": {
+   "Q13684": "Lišák zprohýbaný (Hydnum repandum)",
+   "Q243381": "Bedla vysoká (Macrolepiota procera)",
+   "Q29362": "Čirůvka fialová (Lepista nuda)",
+   "Q472817": "Muchomůrka jízlivá (Amanita virosa)",
+   "Q503359": "Lysohlávka kopinatá (Psilocybe semilanceata)",
+   "Q545130": "Pýchavka obecná (Lycoperdon perlatum)",
+   "Q623485": "Muchomůrka růžovka (Amanita rubescens)",
+   "Q731944": "Čirůvka májovka (Calocybe gambosa)"
+  }
+ },
+ {
+  "id": "Q19740#1",
+  "species": "Hřib smrkový",
+  "latin": "Boletus edulis",
+  "text": "Stopku pokrývá bílá síťka.",
+  "quote": "Povrch kryje bílá síťka.",
+  "claimed_false_for": {
+   "Q13684": "Lišák zprohýbaný (Hydnum repandum)",
+   "Q29362": "Čirůvka fialová (Lepista nuda)",
+   "Q321342": "Ucho Jidášovo (Auricularia auricula-judae)",
+   "Q472817": "Muchomůrka jízlivá (Amanita virosa)",
+   "Q503359": "Lysohlávka kopinatá (Psilocybe semilanceata)",
+   "Q545130": "Pýchavka obecná (Lycoperdon perlatum)",
+   "Q579190": "Mřížovka červená (Clathrus ruber)",
+   "Q623485": "Muchomůrka růžovka (Amanita rubescens)",
+   "Q731944": "Čirůvka májovka (Calocybe gambosa)",
+   "Q772098": "Sírovec žlutooranžový (Laetiporus sulphureus)",
+   "Q865540": "Ryzec kravský (Lactarius torminosus)"
+  }
+ },
+ {
+  "id": "Q220662#2",
+  "species": "Muchomůrka císařka",
+  "latin": "Amanita caesarea",
+  "text": "Lupeny pod kloboukem jsou zářivě žluté.",
+  "quote": "Lupeny jsou zářivě (zlatově) žluté",
+  "claimed_false_for": {
+   "Q222449": "Pýchavka obrovská (Calvatia gigantea)",
+   "Q248829": "Čepičatka jehličnanová (Galerina marginata)",
+   "Q29362": "Čirůvka fialová (Lepista nuda)",
+   "Q321342": "Ucho Jidášovo (Auricularia auricula-judae)",
+   "Q48188": "Hadovka smrdutá (Phallus impudicus)",
+   "Q677341": "Holubinka nazelenalá (Russula virescens)",
+   "Q690801": "Pečárka ovčí (Agaricus arvensis)",
+   "Q728673": "Hnojník inkoustový (Coprinopsis atramentaria)",
+   "Q731944": "Čirůvka májovka (Calocybe gambosa)",
+   "Q753833": "Outkovka pestrá (Trametes versicolor)"
+  }
+ },
+ {
+  "id": "Q222449#1",
+  "species": "Pýchavka obrovská",
+  "latin": "Calvatia gigantea",
+  "text": "V době zralosti výtrusů praská ve velkých plátech.",
+  "quote": "V době zralosti výtrusů praská ve velkých plátech a odlupuje se.",
+  "claimed_false_for": {
+   "Q131227": "Muchomůrka červená (Amanita muscaria)",
+   "Q186451": "Hlíva ústřičná (Pleurotus ostreatus)",
+   "Q19740": "Hřib smrkový (Boletus edulis)",
+   "Q372893": "Penízovka sametonohá (Flammulina velutipes)",
+   "Q472817": "Muchomůrka jízlivá (Amanita virosa)",
+   "Q518069": "Čechratka podvinutá (Paxillus involutus)",
+   "Q62138": "Ryzec pravý (Lactarius deliciosus)",
+   "Q628977": "Kozák březový (Leccinum scabrum)",
+   "Q631566": "Pstřeň dubový (Fistulina hepatica)",
+   "Q757127": "Hřib bronzový (Boletus aereus)"
+  }
+ },
+ {
+  "id": "Q229814#0",
+  "species": "Troudnatec kopytovitý",
+  "latin": "Fomes fomentarius",
+  "text": "Běžně dorůstá do šířky až 30 cm.",
+  "quote": "Běžně dosahuje až 10–30 cm šířky a 7–15 cm výšky.",
+  "claimed_false_for": {
+   "Q188749": "Liška obecná (Cantharellus cibarius)",
+   "Q248829": "Čepičatka jehličnanová (Galerina marginata)",
+   "Q321342": "Ucho Jidášovo (Auricularia auricula-judae)",
+   "Q677341": "Holubinka nazelenalá (Russula virescens)",
+   "Q728673": "Hnojník inkoustový (Coprinopsis atramentaria)",
+   "Q731944": "Čirůvka májovka (Calocybe gambosa)",
+   "Q753833": "Outkovka pestrá (Trametes versicolor)"
+  }
+ },
+ {
+  "id": "Q229814#1",
+  "species": "Troudnatec kopytovitý",
+  "latin": "Fomes fomentarius",
+  "text": "Roste nejvíc od začátku léta do podzimu.",
+  "quote": "Nejsilnější období růstu je mezi začátkem léta a podzimem.",
+  "claimed_false_for": {
+   "Q372893": "Penízovka sametonohá (Flammulina velutipes)"
+  }
+ },
+ {
+  "id": "Q229814#2",
+  "species": "Troudnatec kopytovitý",
+  "latin": "Fomes fomentarius",
+  "text": "Roste na živých stromech i na pařezech.",
+  "quote": "Škodí na živých dřevinách, ale roste i na jejich odumřelých částech včetně pařezů.",
+  "claimed_false_for": {
+   "Q188749": "Liška obecná (Cantharellus cibarius)",
+   "Q220662": "Muchomůrka císařka (Amanita caesarea)",
+   "Q222449": "Pýchavka obrovská (Calvatia gigantea)",
+   "Q29362": "Čirůvka fialová (Lepista nuda)",
+   "Q677341": "Holubinka nazelenalá (Russula virescens)",
+   "Q690801": "Pečárka ovčí (Agaricus arvensis)",
+   "Q731944": "Čirůvka májovka (Calocybe gambosa)"
+  }
+ },
+ {
+  "id": "Q229814#5",
+  "species": "Troudnatec kopytovitý",
+  "latin": "Fomes fomentarius",
+  "text": "Roste na kmenech stromů, například bříz, topolů nebo dubů.",
+  "quote": "Roste však i v nížině, a to např. na břízách, topolech, javorech, dubech, lípách, ořešáku vlašském a habru.",
+  "claimed_false_for": {
+   "Q188749": "Liška obecná (Cantharellus cibarius)",
+   "Q220662": "Muchomůrka císařka (Amanita caesarea)",
+   "Q222449": "Pýchavka obrovská (Calvatia gigantea)",
+   "Q29362": "Čirůvka fialová (Lepista nuda)",
+   "Q677341": "Holubinka nazelenalá (Russula virescens)",
+   "Q690801": "Pečárka ovčí (Agaricus arvensis)",
+   "Q731944": "Čirůvka májovka (Calocybe gambosa)"
+  }
+ },
+ {
+  "id": "Q234529#2",
+  "species": "Pečárka polní",
+  "latin": "Agaricus campestris",
+  "text": "Lupeny jsou nejdřív narůžovělé a později tmavnou.",
+  "quote": "Lupeny jsou z počátku narůžovělé, postupně se stářím mění barvu do masové červené, koncem života pak do tmavo- až černohněda.",
+  "claimed_false_for": {
+   "Q220662": "Muchomůrka císařka (Amanita caesarea)",
+   "Q222449": "Pýchavka obrovská (Calvatia gigantea)",
+   "Q321342": "Ucho Jidášovo (Auricularia auricula-judae)",
+   "Q48188": "Hadovka smrdutá (Phallus impudicus)",
+   "Q677341": "Holubinka nazelenalá (Russula virescens)",
+   "Q731944": "Čirůvka májovka (Calocybe gambosa)",
+   "Q753833": "Outkovka pestrá (Trametes versicolor)"
+  }
+ },
+ {
+  "id": "Q234529#3",
+  "species": "Pečárka polní",
+  "latin": "Agaricus campestris",
+  "text": "Prstenec snadno odpadá.",
+  "quote": "v podobě pomačkaného prstence bílé či jemně nažloutlé barvy, který snadno odpadá",
+  "claimed_false_for": {
+   "Q186451": "Hlíva ústřičná (Pleurotus ostreatus)",
+   "Q19740": "Hřib smrkový (Boletus edulis)",
+   "Q372893": "Penízovka sametonohá (Flammulina velutipes)",
+   "Q518069": "Čechratka podvinutá (Paxillus involutus)",
+   "Q579190": "Mřížovka červená (Clathrus ruber)",
+   "Q62138": "Ryzec pravý (Lactarius deliciosus)",
+   "Q628977": "Kozák březový (Leccinum scabrum)",
+   "Q631566": "Pstřeň dubový (Fistulina hepatica)",
+   "Q757127": "Hřib bronzový (Boletus aereus)"
+  }
+ },
+ {
+  "id": "Q243381#0",
+  "species": "Bedla vysoká",
+  "latin": "Macrolepiota procera",
+  "text": "Roste hojně v lesích, převážně na prosvětlených okrajích a mýtinách.",
+  "quote": "roste hojně v listnatých i jehličnatých lesích, převážně na prosvětlených okrajích a mýtinách",
+  "claimed_false_for": {
+   "Q234529": "Pečárka polní (Agaricus campestris)"
+  }
+ },
+ {
+  "id": "Q243381#1",
+  "species": "Bedla vysoká",
+  "latin": "Macrolepiota procera",
+  "text": "Klobouk dosahuje průměru 10 až 40 centimetrů.",
+  "quote": "Klobouk má v průměru 10–40 cm",
+  "claimed_false_for": {
+   "Q372893": "Penízovka sametonohá (Flammulina velutipes)"
+  }
+ },
+ {
+  "id": "Q248829#1",
+  "species": "Čepičatka jehličnanová",
+  "latin": "Galerina marginata",
+  "text": "Tento druh je smrtelně jedovatý.",
+  "quote": "je smrtelně jedovatá dřevokazná houba",
+  "claimed_false_for": {
+   "Q188749": "Liška obecná (Cantharellus cibarius)",
+   "Q222449": "Pýchavka obrovská (Calvatia gigantea)",
+   "Q29362": "Čirůvka fialová (Lepista nuda)",
+   "Q321342": "Ucho Jidášovo (Auricularia auricula-judae)",
+   "Q48188": "Hadovka smrdutá (Phallus impudicus)",
+   "Q677341": "Holubinka nazelenalá (Russula virescens)",
+   "Q690801": "Pečárka ovčí (Agaricus arvensis)",
+   "Q728673": "Hnojník inkoustový (Coprinopsis atramentaria)",
+   "Q731944": "Čirůvka májovka (Calocybe gambosa)",
+   "Q753833": "Outkovka pestrá (Trametes versicolor)"
+  }
+ },
+ {
+  "id": "Q2567074#0",
+  "species": "Bedla odřená",
+  "latin": "Macrolepiota excoriata",
+  "text": "Tento druh se dá najít od srpna do října.",
+  "quote": "Bedlu odřenou můžeme nalézt od srpna do října.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q2567074#1",
+  "species": "Bedla odřená",
+  "latin": "Macrolepiota excoriata",
+  "text": "Má klobouk velký 5 až 12 cm.",
+  "quote": "Klobouk (houby) je světle hnědý, vypouklý, velký 5 – 12 cm.",
+  "claimed_false_for": {
+   "Q1757951": "Květnatec Archerův (Clathrus archeri)",
+   "Q3915674": "Bedla polonahá (Cystolepiota seminuda)"
+  }
+ },
+ {
+  "id": "Q26203731#6",
+  "species": "Hřib satan",
+  "latin": "Rubroboletus satanas",
+  "text": "Roste hlavně pod duby, méně často pod bukem, lípou nebo břízou.",
+  "quote": "Roste především pod duby, méně často pod jinými listnáči. Jmenovat lze například buk, lípu nebo břízu.",
+  "claimed_false_for": {
+   "Q243381": "Bedla vysoká (Macrolepiota procera)",
+   "Q29362": "Čirůvka fialová (Lepista nuda)",
+   "Q503359": "Lysohlávka kopinatá (Psilocybe semilanceata)",
+   "Q545130": "Pýchavka obecná (Lycoperdon perlatum)",
+   "Q731944": "Čirůvka májovka (Calocybe gambosa)"
+  }
+ },
+ {
+  "id": "Q271098#0",
+  "species": "Lesklokorka lesklá",
+  "latin": "Ganoderma lucidum",
+  "text": "Roste na pařezech a kmenech listnatých stromů od května do října.",
+  "quote": "vyrůstá na kmenech nebo pařezech listnatých dřevin v květnu až říjnu.",
+  "claimed_false_for": {
+   "Q13684": "Lišák zprohýbaný (Hydnum repandum)",
+   "Q243381": "Bedla vysoká (Macrolepiota procera)",
+   "Q29362": "Čirůvka fialová (Lepista nuda)",
+   "Q472817": "Muchomůrka jízlivá (Amanita virosa)",
+   "Q503359": "Lysohlávka kopinatá (Psilocybe semilanceata)",
+   "Q545130": "Pýchavka obecná (Lycoperdon perlatum)",
+   "Q623485": "Muchomůrka růžovka (Amanita rubescens)",
+   "Q731944": "Čirůvka májovka (Calocybe gambosa)",
+   "Q865540": "Ryzec kravský (Lactarius torminosus)"
+  }
+ },
+ {
+  "id": "Q271098#2",
+  "species": "Lesklokorka lesklá",
+  "latin": "Ganoderma lucidum",
+  "text": "Může napadnout kořeny stromu a vyrůstat z jeho kmene.",
+  "quote": "Houba může infikovat i kořen dřeviny a plodnice pak vyrůstají z báze kmene hostitele.",
+  "claimed_false_for": {
+   "Q13684": "Lišák zprohýbaný (Hydnum repandum)",
+   "Q243381": "Bedla vysoká (Macrolepiota procera)",
+   "Q29362": "Čirůvka fialová (Lepista nuda)",
+   "Q472817": "Muchomůrka jízlivá (Amanita virosa)",
+   "Q503359": "Lysohlávka kopinatá (Psilocybe semilanceata)",
+   "Q545130": "Pýchavka obecná (Lycoperdon perlatum)",
+   "Q623485": "Muchomůrka růžovka (Amanita rubescens)",
+   "Q731944": "Čirůvka májovka (Calocybe gambosa)"
+  }
+ },
+ {
+  "id": "Q271098#3",
+  "species": "Lesklokorka lesklá",
+  "latin": "Ganoderma lucidum",
+  "text": "Mění barvu ze žlutavé na hnědou až purpurově černou.",
+  "quote": "Zbarvení má v mládí špinavě žlutavé, později červenohnědé, kaštanově hnědé až purpurově černé.",
+  "claimed_false_for": {
+   "Q275125": "Hnojník obecný (Coprinus comatus)",
+   "Q472817": "Muchomůrka jízlivá (Amanita virosa)"
+  }
+ },
+ {
+  "id": "Q275125#1",
+  "species": "Hnojník obecný",
+  "latin": "Coprinus comatus",
+  "text": "Stárnoucí klobouk zdola zčerná a rozplyne se.",
+  "quote": "Stárnutím plodnice začíná klobouk odspodu černat a roztékat se.",
+  "claimed_false_for": {
+   "Q1165686": "Trsnatec lupenitý (Grifola frondosa)",
+   "Q188643": "Muchomůrka zelená (Amanita phalloides)",
+   "Q1956937": "Rezavec šikmý (Inonotus obliquus)",
+   "Q229814": "Troudnatec kopytovitý (Fomes fomentarius)",
+   "Q234529": "Pečárka polní (Agaricus campestris)",
+   "Q26203731": "Hřib satan (Rubroboletus satanas)",
+   "Q271098": "Lesklokorka lesklá (Ganoderma lucidum)",
+   "Q45547": "Muchomůrka tygrovaná (Amanita pantherina)",
+   "Q473745": "Václavka obecná (Armillaria mellea)",
+   "Q614625": "Holubinka vrhavka (Russula emetica)",
+   "Q752497": "Hřib hnědý (Imleria badia)",
+   "Q816730": "Klouzek obecný (Suillus luteus)"
+  }
+ },
+ {
+  "id": "Q321342#0",
+  "species": "Ucho Jidášovo",
+  "latin": "Auricularia auricula-judae",
+  "text": "Roste na živých i odumřelých větvích bezu černého.",
+  "quote": "Vyskytuje se převážně na živých i odumřelých větvích bezu černého",
+  "claimed_false_for": {
+   "Q13684": "Lišák zprohýbaný (Hydnum repandum)",
+   "Q243381": "Bedla vysoká (Macrolepiota procera)",
+   "Q29362": "Čirůvka fialová (Lepista nuda)",
+   "Q472817": "Muchomůrka jízlivá (Amanita virosa)",
+   "Q503359": "Lysohlávka kopinatá (Psilocybe semilanceata)",
+   "Q545130": "Pýchavka obecná (Lycoperdon perlatum)",
+   "Q579190": "Mřížovka červená (Clathrus ruber)",
+   "Q623485": "Muchomůrka růžovka (Amanita rubescens)",
+   "Q731944": "Čirůvka májovka (Calocybe gambosa)",
+   "Q865540": "Ryzec kravský (Lactarius torminosus)"
+  }
+ },
+ {
+  "id": "Q372893#0",
+  "species": "Penízovka sametonohá",
+  "latin": "Flammulina velutipes",
+  "text": "Roste na kmenech tlejících i živých listnatých stromů.",
+  "quote": "Roste zpravidla v trsech na kmenech tlejících (někdy i živých) listnatých stromů.",
+  "claimed_false_for": {
+   "Q19740": "Hřib smrkový (Boletus edulis)",
+   "Q275125": "Hnojník obecný (Coprinus comatus)",
+   "Q472817": "Muchomůrka jízlivá (Amanita virosa)",
+   "Q518069": "Čechratka podvinutá (Paxillus involutus)",
+   "Q579190": "Mřížovka červená (Clathrus ruber)",
+   "Q62138": "Ryzec pravý (Lactarius deliciosus)",
+   "Q628977": "Kozák březový (Leccinum scabrum)",
+   "Q757127": "Hřib bronzový (Boletus aereus)"
+  }
+ },
+ {
+  "id": "Q45547#0",
+  "species": "Muchomůrka tygrovaná",
+  "latin": "Amanita pantherina",
+  "text": "Má klobouk pokrytý bílými bradavkami.",
+  "quote": "pokrytý bílými bradavkami",
+  "claimed_false_for": {
+   "Q186451": "Hlíva ústřičná (Pleurotus ostreatus)",
+   "Q19740": "Hřib smrkový (Boletus edulis)",
+   "Q275125": "Hnojník obecný (Coprinus comatus)",
+   "Q372893": "Penízovka sametonohá (Flammulina velutipes)",
+   "Q472817": "Muchomůrka jízlivá (Amanita virosa)",
+   "Q518069": "Čechratka podvinutá (Paxillus involutus)",
+   "Q579190": "Mřížovka červená (Clathrus ruber)",
+   "Q62138": "Ryzec pravý (Lactarius deliciosus)",
+   "Q628977": "Kozák březový (Leccinum scabrum)",
+   "Q631566": "Pstřeň dubový (Fistulina hepatica)",
+   "Q757127": "Hřib bronzový (Boletus aereus)"
+  }
+ },
+ {
+  "id": "Q45547#1",
+  "species": "Muchomůrka tygrovaná",
+  "latin": "Amanita pantherina",
+  "text": "Tento druh je jedovatý a způsobuje halucinace.",
+  "quote": "je jedovatá a halucinogenní houba",
+  "claimed_false_for": {
+   "Q220662": "Muchomůrka císařka (Amanita caesarea)",
+   "Q222449": "Pýchavka obrovská (Calvatia gigantea)",
+   "Q248829": "Čepičatka jehličnanová (Galerina marginata)",
+   "Q321342": "Ucho Jidášovo (Auricularia auricula-judae)",
+   "Q48188": "Hadovka smrdutá (Phallus impudicus)",
+   "Q677341": "Holubinka nazelenalá (Russula virescens)",
+   "Q690801": "Pečárka ovčí (Agaricus arvensis)",
+   "Q731944": "Čirůvka májovka (Calocybe gambosa)",
+   "Q753833": "Outkovka pestrá (Trametes versicolor)"
+  }
+ },
+ {
+  "id": "Q472817#0",
+  "species": "Muchomůrka jízlivá",
+  "latin": "Amanita virosa",
+  "text": "Tento druh je smrtelně jedovatý.",
+  "quote": "je smrtelně jedovatá houba",
+  "claimed_false_for": {
+   "Q188749": "Liška obecná (Cantharellus cibarius)",
+   "Q222449": "Pýchavka obrovská (Calvatia gigantea)",
+   "Q29362": "Čirůvka fialová (Lepista nuda)",
+   "Q321342": "Ucho Jidášovo (Auricularia auricula-judae)",
+   "Q48188": "Hadovka smrdutá (Phallus impudicus)",
+   "Q677341": "Holubinka nazelenalá (Russula virescens)",
+   "Q690801": "Pečárka ovčí (Agaricus arvensis)",
+   "Q728673": "Hnojník inkoustový (Coprinopsis atramentaria)",
+   "Q731944": "Čirůvka májovka (Calocybe gambosa)",
+   "Q753833": "Outkovka pestrá (Trametes versicolor)"
+  }
+ },
+ {
+  "id": "Q472817#2",
+  "species": "Muchomůrka jízlivá",
+  "latin": "Amanita virosa",
+  "text": "Má na spodku třeně velkou kulatou hlízu.",
+  "quote": "ukončený mohutnou měkkou kulovitou hlízou",
+  "claimed_false_for": {
+   "Q1165686": "Trsnatec lupenitý (Grifola frondosa)",
+   "Q1956937": "Rezavec šikmý (Inonotus obliquus)",
+   "Q229814": "Troudnatec kopytovitý (Fomes fomentarius)",
+   "Q271098": "Lesklokorka lesklá (Ganoderma lucidum)",
+   "Q473745": "Václavka obecná (Armillaria mellea)",
+   "Q614625": "Holubinka vrhavka (Russula emetica)",
+   "Q752497": "Hřib hnědý (Imleria badia)",
+   "Q816730": "Klouzek obecný (Suillus luteus)"
+  }
+ },
+ {
+  "id": "Q473745#0",
+  "species": "Václavka obecná",
+  "latin": "Armillaria mellea",
+  "text": "Napadá i zdravé stromy a může v lese způsobit velké škody.",
+  "quote": "Jedná se o parazitickou houbu, která napadá i zdravé kmeny stromů, čímž může v lese způsobit velké škody.",
+  "claimed_false_for": {
+   "Q131227": "Muchomůrka červená (Amanita muscaria)",
+   "Q19740": "Hřib smrkový (Boletus edulis)",
+   "Q275125": "Hnojník obecný (Coprinus comatus)",
+   "Q472817": "Muchomůrka jízlivá (Amanita virosa)",
+   "Q518069": "Čechratka podvinutá (Paxillus involutus)",
+   "Q579190": "Mřížovka červená (Clathrus ruber)",
+   "Q62138": "Ryzec pravý (Lactarius deliciosus)",
+   "Q628977": "Kozák březový (Leccinum scabrum)",
+   "Q757127": "Hřib bronzový (Boletus aereus)"
+  }
+ },
+ {
+  "id": "Q473745#1",
+  "species": "Václavka obecná",
+  "latin": "Armillaria mellea",
+  "text": "Tento druh je za syrova mírně jedovatý.",
+  "quote": "Za syrova je mírně jedovatá",
+  "claimed_false_for": {
+   "Q188643": "Muchomůrka zelená (Amanita phalloides)",
+   "Q26203731": "Hřib satan (Rubroboletus satanas)",
+   "Q45547": "Muchomůrka tygrovaná (Amanita pantherina)"
+  }
+ }
+]

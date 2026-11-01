@@ -1,0 +1,33 @@
+{
+ "drop_facts": [
+  {"id": "Q263978#1", "why": "sporné: jediná přesná výška sítě nelze zobecnit, kruhová síť křižáka není hustá"},
+  {"id": "Q2688862#0", "why": "množné číslo bez jasného podmětu"},
+  {"id": "Q2688862#1", "why": "Jižní Amerika nepřímo prozrazuje název palovčík brazilský"},
+  {"id": "Q27501554#1", "why": "odporuje biologii: dospělí samci pokoutníků síť opouštějí a hledají samice"},
+  {"id": "Q27501571#1", "why": "stromy nepřímo prozrazují název pokoutník lesní"},
+  {"id": "Q288140#4", "why": "krkolomné a dvojznačné „se jako první živí“"},
+  {"id": "Q288140#5", "why": "neúplná věta: není řečeno, koho zbarvení chrání"},
+  {"id": "Q3019500#0", "why": "zmínka o účinném jedu nepřímo prozrazuje název štír jedovatý"},
+  {"id": "Q3023817#0", "why": "sporný a nepravděpodobně krátký údaj o délce života"},
+  {"id": "Q3023817#1", "why": "sporné: počet mláďat je pro rod Tityus nepravděpodobně vysoký"},
+  {"id": "Q3023827#0", "why": "velká délka nepřímo prozrazuje název štír nejdelší"},
+  {"id": "Q3024686#1", "why": "bez podmětu a souvislosti, nedává smysl bez článku"},
+  {"id": "Q310954#1", "why": "gramaticky chybná vazba „obývá … a pod kameny“"}
+ ],
+ "drop_pairs": [
+  {"id": "Q27501554#0", "species": "Q1308106"},
+  {"id": "Q27502185#0", "species": "Q1137615"},
+  {"id": "Q27502185#0", "species": "Q1142349"},
+  {"id": "Q27502185#0", "species": "Q2090659"},
+  {"id": "Q27502185#0", "species": "Q388278"},
+  {"id": "Q27502185#1", "species": "Q137895"},
+  {"id": "Q2946227#0", "species": "Q3023827"},
+  {"id": "Q2946227#1", "species": "Q3134808"},
+  {"id": "Q3019500#1", "species": "Q116263151"},
+  {"id": "Q3019500#1", "species": "Q136953"},
+  {"id": "Q3023827#1", "species": "Q3023817"},
+  {"id": "Q3060962#1", "species": "Q116263151"},
+  {"id": "Q3060962#1", "species": "Q1319714"},
+  {"id": "Q310954#0", "species": "Q139105"}
+ ]
+}

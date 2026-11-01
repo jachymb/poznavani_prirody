@@ -1,0 +1,67 @@
+[
+ {
+  "id": "Q936546#1",
+  "species": "Přeslička největší",
+  "latin": "Equisetum telmateia",
+  "text": "Tento druh na jaře vytváří stonek s klasem na vrcholu.",
+  "quote": "Na jaře vyrůstá fertilní lodyha s vrcholovým výtrusnicovým klasem.",
+  "claimed_false_for": {
+   "Q1130272": "Jelení jazyk celolistý (Asplenium scolopendrium)",
+   "Q1684201": "Hnědovka křídlatá (Microsorum pteropus)",
+   "Q2705087": "Azola americká (Azolla filiculoides)",
+   "Q3023471": "Blánatec kentský (Hymenophyllum tunbrigense)",
+   "Q322994": "Kapraď samec (Dryopteris filix-mas)",
+   "Q635586": "Nepukalka vzplývající (Salvinia natans)",
+   "Q905897": "Kapraď rozložená (Dryopteris dilatata)",
+   "Q958103": "Kapradiník bažinný (Thelypteris palustris)",
+   "Q998341": "Bukovinec osladičovitý (Phegopteris connectilis)"
+  }
+ },
+ {
+  "id": "Q937406#0",
+  "species": "Kapraď podobná",
+  "latin": "Dryopteris expansa",
+  "text": "Často roste na padlých kmenech a pařezech.",
+  "quote": "Často roste na kmenech padlých stromů a pařezů.",
+  "claimed_false_for": {
+   "Q1130272": "Jelení jazyk celolistý (Asplenium scolopendrium)",
+   "Q1332525": "Marsilka čtyřlistá (Marsilea quadrifolia)",
+   "Q1355107": "Přeslička lesní (Equisetum sylvaticum)",
+   "Q2247460": "Vratička heřmánkolistá (Botrychium matricariifolium)",
+   "Q635586": "Nepukalka vzplývající (Salvinia natans)",
+   "Q936546": "Přeslička největší (Equisetum telmateia)"
+  }
+ },
+ {
+  "id": "Q937406#1",
+  "species": "Kapraď podobná",
+  "latin": "Dryopteris expansa",
+  "text": "Tento druh má listy většinou 15 až 50 cm dlouhé.",
+  "quote": "Listy zpravidla nepřezimující 15 cm až 50 cm.",
+  "claimed_false_for": {
+   "Q1197925": "Prutovka nahá (Psilotum nudum)",
+   "Q635586": "Nepukalka vzplývající (Salvinia natans)"
+  }
+ },
+ {
+  "id": "Q958103#0",
+  "species": "Kapradiník bažinný",
+  "latin": "Thelypteris palustris",
+  "text": "Listy dorůstají 20 až 100 centimetrů.",
+  "quote": "které dorůstají 20-100 cm",
+  "claimed_false_for": {
+   "Q635586": "Nepukalka vzplývající (Salvinia natans)"
+  }
+ },
+ {
+  "id": "Q998341#1",
+  "species": "Bukovinec osladičovitý",
+  "latin": "Phegopteris connectilis",
+  "text": "Tento druh má listy dlouhé 10 až 50 cm.",
+  "quote": "do délky 10-50 cm",
+  "claimed_false_for": {
+   "Q1197925": "Prutovka nahá (Psilotum nudum)",
+   "Q635586": "Nepukalka vzplývající (Salvinia natans)"
+  }
+ }
+]

@@ -1,0 +1,541 @@
+[
+ {
+  "id": "Q516662#0",
+  "species": "Zoboun americký",
+  "latin": "Rynchops niger",
+  "text": "Loví obvykle ve velkých hejnech.",
+  "quote": "Potravu loví obvykle ve velkých hejnech",
+  "claimed_false_for": {
+   "Q25317": "Sova pálená (Tyto alba)",
+   "Q26114": "Sluka lesní (Scolopax rusticola)"
+  }
+ },
+ {
+  "id": "Q516662#1",
+  "species": "Zoboun americký",
+  "latin": "Rynchops niger",
+  "text": "Chytá malé ryby a korýše.",
+  "quote": "Do té následně chytá malé ryby a korýše.",
+  "claimed_false_for": {
+   "Q1267247": "Hoko žlutozobý (Crax fasciolata)",
+   "Q25317": "Sova pálená (Tyto alba)",
+   "Q26114": "Sluka lesní (Scolopax rusticola)"
+  }
+ },
+ {
+  "id": "Q517676#2",
+  "species": "Ostnák lotosový",
+  "latin": "Irediparra gallinacea",
+  "text": "Tento druh se převážně živí vodními rostlinami a vodním hmyzem.",
+  "quote": "Živí se převážně vodními rostlinami včetně semen a vodním hmyzem",
+  "claimed_false_for": {
+   "Q1242812": "Kulík dvoupruhý (Charadrius bicinctus)",
+   "Q27074928": "Strakapoud americký (Leuconotopicus villosus)",
+   "Q283458": "Břehouš aljašský (Limosa haemastica)",
+   "Q519583": "Racek Audouinův (Ichthyaetus audouinii)",
+   "Q794546": "Mravenčík bělovousý (Biatas nigropectus)",
+   "Q904932": "Momot černolící (Momotus momota)"
+  }
+ },
+ {
+  "id": "Q517676#3",
+  "species": "Ostnák lotosový",
+  "latin": "Irediparra gallinacea",
+  "text": "Ptáčata se mohou před predátory schovat pod list vodní rostliny.",
+  "quote": "Ptáčata se mohou schovat před predátory potopením pod list vodní rostliny",
+  "claimed_false_for": {
+   "Q597684": "Brhlík americký (Sitta canadensis)",
+   "Q731910": "Rybařík velký (Megaceryle maxima)",
+   "Q80736": "Tricha orlí (Psittrichas fulgidus)"
+  }
+ },
+ {
+  "id": "Q519583#0",
+  "species": "Racek Audouinův",
+  "latin": "Ichthyaetus audouinii",
+  "text": "Největší kolonie je v deltě řeky Ebro.",
+  "quote": "s největší kolonii v deltě řeky Ebro",
+  "claimed_false_for": {
+   "Q1210224": "Papežík americký (Spiza americana)",
+   "Q2336176": "Nody malý (Gygis microrhyncha)",
+   "Q28000": "Vodouš žlutonohý (Tringa flavipes)",
+   "Q31998": "Ledňáček posvátný (Todiramphus sanctus)",
+   "Q509423": "Rybák jižní (Sterna vittata)",
+   "Q845621": "Kulík šedý (Pluvianellus socialis)",
+   "Q845969": "Jespák dlouhoprstý (Calidris subminuta)",
+   "Q934557": "Bekasina horská (Gallinago solitaria)",
+   "Q974671": "Ústřičník proměnlivý (Haematopus unicolor)"
+  }
+ },
+ {
+  "id": "Q519583#1",
+  "species": "Racek Audouinův",
+  "latin": "Ichthyaetus audouinii",
+  "text": "Zobák je červený s černou páskou na špičce.",
+  "quote": "má však červený zobák s černou páskou na špičce a světlou špičkou",
+  "claimed_false_for": {
+   "Q1265260": "Rybák arabský (Sternula saundersi)",
+   "Q18876": "Jespák velký (Calidris tenuirostris)",
+   "Q26629": "Racek mořský (Larus marinus)",
+   "Q27074788": "Kolibřík Calliopin (Selasphorus calliope)",
+   "Q28423": "Rybák královský (Thalasseus maximus)",
+   "Q571268": "Chaluha antarktická (Stercorarius maccormicki)",
+   "Q579621": "Ostnák trnitý (Jacana spinosa)",
+   "Q62566317": "Sýček lesní (Athene blewitti)",
+   "Q665606": "Dropík australský (Pedionomus torquatus)",
+   "Q788649": "Jespák dlouhokřídlý (Calidris bairdii)",
+   "Q827245": "Keptuška běloocasá (Vanellus leucurus)"
+  }
+ },
+ {
+  "id": "Q520983#2",
+  "species": "Tirika tovi",
+  "latin": "Brotogeris jugularis",
+  "text": "Tento druh se ve volné přírodě živí nektarem, květy, semeny a ovocem.",
+  "quote": "Ve volné přírodě se tirikové tovi živí nektarem, květy, semeny a ovocem",
+  "claimed_false_for": {
+   "Q1262312": "Potu bělokřídlý (Nyctibius leucopterus)",
+   "Q191386": "Kavče žlutozobé (Pyrrhocorax graculus)",
+   "Q904167": "Potápka šedohlavá (Poliocephalus poliocephalus)"
+  }
+ },
+ {
+  "id": "Q523212#2",
+  "species": "Kukačka šupinková",
+  "latin": "Dasylophus cumingi",
+  "text": "Jí i menší plazy.",
+  "quote": "Nepohrdne ani menšími druhy plazů.",
+  "claimed_false_for": {
+   "Q183396": "Snovač kaferský (Euplectes orix)",
+   "Q203628": "Tučňák nejmenší (Eudyptula minor)",
+   "Q930457": "Lelek americký (Phalaenoptilus nuttallii)"
+  }
+ },
+ {
+  "id": "Q524740#4",
+  "species": "Buřňák černobílý",
+  "latin": "Daption capense",
+  "text": "Tento druh se živí korýši, rybami a chobotnicemi.",
+  "quote": "Jídelníček buřňáků černobílých je tvořen z 80% korýši, rybami a chobotnicemi.",
+  "claimed_false_for": {
+   "Q1190027": "Mesit Benschův (Monias benschi)",
+   "Q665363": "Kukačka chocholatá (Clamator glandarius)",
+   "Q908959": "Zoborožec malabarský (Anthracoceros coronatus)"
+  }
+ },
+ {
+  "id": "Q525717#4",
+  "species": "Nody obecný",
+  "latin": "Anous stolidus",
+  "text": "Jí také hlavonožce, měkkýše nebo medúzy.",
+  "quote": "sezobne i hlavonožce, měkkýše nebo medúzy",
+  "claimed_false_for": {
+   "Q18836": "Perepel malý (Turnix sylvaticus)",
+   "Q597684": "Brhlík americký (Sitta canadensis)",
+   "Q80736": "Tricha orlí (Psittrichas fulgidus)"
+  }
+ },
+ {
+  "id": "Q525717#5",
+  "species": "Nody obecný",
+  "latin": "Anous stolidus",
+  "text": "Hnízdí často ve společenství s rybáky černohřbetými.",
+  "quote": "Hnízdí v koloniích, často ve společenství rybáků černohřbetých",
+  "claimed_false_for": {
+   "Q18876": "Jespák velký (Calidris tenuirostris)",
+   "Q27074788": "Kolibřík Calliopin (Selasphorus calliope)",
+   "Q571268": "Chaluha antarktická (Stercorarius maccormicki)",
+   "Q579621": "Ostnák trnitý (Jacana spinosa)",
+   "Q62566317": "Sýček lesní (Athene blewitti)",
+   "Q665606": "Dropík australský (Pedionomus torquatus)",
+   "Q788649": "Jespák dlouhokřídlý (Calidris bairdii)",
+   "Q827245": "Keptuška běloocasá (Vanellus leucurus)"
+  }
+ },
+ {
+  "id": "Q525717#6",
+  "species": "Nody obecný",
+  "latin": "Anous stolidus",
+  "text": "Invazivní krysy ohrožují tento druh na ostrovech Dry Tortugas a Ascension.",
+  "quote": "Na ostrovech Dry Tortugas a Ascension je druh ohrožen invazivní krysou obecnou.",
+  "claimed_false_for": {
+   "Q1070293": "Motýlek rudouchý (Uraeginthus bengalus)",
+   "Q1260013": "Rybák jihoamerický (Sterna hirundinacea)",
+   "Q26198": "Vrána černá (Corvus corone)",
+   "Q28514": "Rybák říční (Sterna aurantia)",
+   "Q595162": "Bekasina sibiřská (Gallinago stenura)",
+   "Q790664": "Papoušek hnědohlavý (Poicephalus cryptoxanthus)",
+   "Q839535": "Kukačka černobílá (Clamator jacobinus)",
+   "Q886789": "Racek magellanský (Leucophaeus scoresbii)"
+  }
+ },
+ {
+  "id": "Q525818#1",
+  "species": "Strnadec zimní",
+  "latin": "Junco hyemalis",
+  "text": "V létě se vyskytuje i hluboko v subarktické oblasti.",
+  "quote": "během léta se vyskytuje i hluboko v subarktické oblasti",
+  "claimed_false_for": {
+   "Q1466229": "Klubák žlutozobý (Buphagus africanus)",
+   "Q166442": "Buřňák sněžní (Pagodroma nivea)",
+   "Q276087": "Buřňák Parkinsonův (Procellaria parkinsoni)",
+   "Q490393": "Skalňák andský (Rupicola peruvianus)",
+   "Q534594": "Pita thajská (Hydrornis gurneyi)",
+   "Q652466": "Skalňák oranžový (Rupicola rupicola)",
+   "Q752539": "Sedmihlásek švitořivý (Hippolais polyglotta)"
+  }
+ },
+ {
+  "id": "Q527830#4",
+  "species": "Pelikán africký",
+  "latin": "Pelecanus rufescens",
+  "text": "Loví rybí potěr i dospělé ryby.",
+  "quote": "Jejich kořisti bývá rybí potěr i dospělé ryby",
+  "claimed_false_for": {
+   "Q1110879": "Kukačka rudochocholatá (Dasylophus superciliosus)",
+   "Q500278": "Rýžovník šedý (Padda oryzivora)",
+   "Q827866": "Rosela pestrá (Platycercus eximius)"
+  }
+ },
+ {
+  "id": "Q527830#5",
+  "species": "Pelikán africký",
+  "latin": "Pelecanus rufescens",
+  "text": "Žerou obojživelníky a v suchu i kobylky a větší hmyz.",
+  "quote": "obojživelníky, v dobách sucha i kobylky a jiný větší hmyz",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q527830#6",
+  "species": "Pelikán africký",
+  "latin": "Pelecanus rufescens",
+  "text": "Krokodýl nilský je pro něj hlavní nebezpečí.",
+  "quote": "představuje hlavně krokodýl nilský",
+  "claimed_false_for": {
+   "Q208714": "Pelikán hnědý (Pelecanus occidentalis)",
+   "Q26470": "Alkoun malý (Alle alle)",
+   "Q267735": "Vrána americká (Corvus brachyrhynchos)",
+   "Q392236": "Volavka bělolící (Egretta novaehollandiae)",
+   "Q467996": "Ibis rudý (Eudocimus ruber)",
+   "Q609129": "Zoborožec ostrovní (Rhyticeros narcondami)",
+   "Q743017": "Bukač severoamerický (Botaurus lentiginosus)"
+  }
+ },
+ {
+  "id": "Q528117#2",
+  "species": "Faeton žlutozobý",
+  "latin": "Phaethon lepturus",
+  "text": "Občas sezobne i hlavonožce nebo korýše.",
+  "quote": "Občas sezobne i hlavonožce nebo korýše.",
+  "claimed_false_for": {
+   "Q306919": "Sova zlatočerná (Tyto longimembris)",
+   "Q49560532": "Timálie celebeská (Pellorneum celebense)",
+   "Q590704": "Medosavka ozdobná (Grantiella picta)",
+   "Q592956": "Vousák tukaní (Semnornis ramphastinus)",
+   "Q642235": "Pávík černobílý (Rhipidura leucophrys)",
+   "Q670926": "Trupiál ekvádorský (Icterus graceannae)",
+   "Q749577": "Rajka volavá (Paradisaea raggiana)",
+   "Q899380": "Puštík brazilský (Strix hylophila)"
+  }
+ },
+ {
+  "id": "Q528117#3",
+  "species": "Faeton žlutozobý",
+  "latin": "Phaethon lepturus",
+  "text": "Loví i létající ryby při jejich výskocích nad hladinou.",
+  "quote": "Letounovité může ulovit i při jejich výskocích nad hladinou.",
+  "claimed_false_for": {
+   "Q1050033": "Ťuhýk východoafrický (Lanius dorsalis)",
+   "Q242851": "Pižmovka velká (Cairina moschata)",
+   "Q306919": "Sova zlatočerná (Tyto longimembris)",
+   "Q49560532": "Timálie celebeská (Pellorneum celebense)",
+   "Q590704": "Medosavka ozdobná (Grantiella picta)",
+   "Q592956": "Vousák tukaní (Semnornis ramphastinus)",
+   "Q642235": "Pávík černobílý (Rhipidura leucophrys)",
+   "Q670926": "Trupiál ekvádorský (Icterus graceannae)",
+   "Q749577": "Rajka volavá (Paradisaea raggiana)",
+   "Q899380": "Puštík brazilský (Strix hylophila)",
+   "Q953976": "Potápka nejmenší (Tachybaptus dominicus)"
+  }
+ },
+ {
+  "id": "Q528117#4",
+  "species": "Faeton žlutozobý",
+  "latin": "Phaethon lepturus",
+  "text": "Invazivní živočichové ho loví, a proto jeho populace ubývá.",
+  "quote": "populace je na ústupu vlivem predace invazivních živočichů",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q528256#4",
+  "species": "Lori modroprsý",
+  "latin": "Eos histrio",
+  "text": "Živí se také hmyzem a ovocem.",
+  "quote": "Sekundárně i hmyzem a ovocem",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q528764#0",
+  "species": "Racek atlantický",
+  "latin": "Leucophaeus atricilla",
+  "text": "Zimuje od jihu Spojených států po Jižní Ameriku.",
+  "quote": "zimuje od jihu Spojených států po Jižní Ameriku severně od rovníku",
+  "claimed_false_for": {
+   "Q1273690": "Slukovec asijský (Limnodromus semipalmatus)",
+   "Q1591254": "Lejsek bleděmodrý (Eumyias thalassinus)",
+   "Q184518": "Strakapoud malý (Dryobates minor)",
+   "Q256011": "Kulík rezavotemenný (Anarhynchus ruficapillus)",
+   "Q26147": "Tenkozobec opačný (Recurvirostra avosetta)",
+   "Q28103": "Vodouš tmavý (Tringa erythropus)"
+  }
+ },
+ {
+  "id": "Q528764#1",
+  "species": "Racek atlantický",
+  "latin": "Leucophaeus atricilla",
+  "text": "Mladí ptáci jsou tmavě šedohnědí se světlým břichem.",
+  "quote": "Mladí ptáci jsou celkově tmavě zbarvení (šedohnědí) s nápadně světlým břichem",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q529857#2",
+  "species": "Husička krátkoocasá",
+  "latin": "Thalassornis leuconotus",
+  "text": "Živí se semeny a listy vodních rostlin, například leknínů.",
+  "quote": "Živí se semeny a listy vodních rostlin jako jsou právě lekníny.",
+  "claimed_false_for": {
+   "Q1272798": "Mesit běloprsý (Mesitornis variegatus)",
+   "Q200646": "Morčák malý (Mergellus albellus)",
+   "Q686600": "Faeton červenozobý (Phaethon aethereus)",
+   "Q927358": "Kivi okaritský (Apteryx rowi)",
+   "Q940808": "Čačalaka rudořitá (Ortalis ruficauda)"
+  }
+ },
+ {
+  "id": "Q529857#3",
+  "species": "Husička krátkoocasá",
+  "latin": "Thalassornis leuconotus",
+  "text": "Káčata s oblibou jedí larvy pakomárů.",
+  "quote": "Káčata s oblibou pojídají larvy pakomárů (Chironomus sp.).",
+  "claimed_false_for": {
+   "Q28482": "Rybák černohřbetý (Onychoprion fuscatus)",
+   "Q790622": "Sparák šedý (Corythaixoides concolor)",
+   "Q847182": "Turako velký (Corythaeola cristata)"
+  }
+ },
+ {
+  "id": "Q531612#4",
+  "species": "Sokolík zakrslý",
+  "latin": "Microhierax fringillarius",
+  "text": "Většinou hnízdí v dutinách po vousácích nebo datlech.",
+  "quote": "Většinou zahnízdí ve stromové dutině po vousácích nebo datlech",
+  "claimed_false_for": {
+   "Q177688": "Raroh lovecký (Falco rusticolus)",
+   "Q212243": "Ostříž jižní (Falco eleonorae)",
+   "Q213785": "Gvačaro jeskynní (Steatornis caripensis)",
+   "Q382321": "Kachnovec vlnkovaný (Stictonetta naevosa)",
+   "Q756643": "Ostříž novozélandský (Falco novaeseelandiae)",
+   "Q838959": "Tučňák chocholatý (Eudyptes sclateri)"
+  }
+ },
+ {
+  "id": "Q531612#6",
+  "species": "Sokolík zakrslý",
+  "latin": "Microhierax fringillarius",
+  "text": "Loví občas malé ptáky, netopýry nebo ještěrky.",
+  "quote": "občasně sežere i malé ptáky, netopýry nebo ještěrky",
+  "claimed_false_for": {
+   "Q27074833": "Vousák velký (Psilopogon virens)",
+   "Q31617": "Slučice pestrá (Rostratula benghalensis)",
+   "Q921348": "Hrdlička chechtavá (Streptopelia roseogrisea)"
+  }
+ },
+ {
+  "id": "Q534594#2",
+  "species": "Pita thajská",
+  "latin": "Hydrornis gurneyi",
+  "text": "Živí se především žížalami.",
+  "quote": "Potravou těchto ptáků jsou především žížaly",
+  "claimed_false_for": {
+   "Q1045174": "Tetřívek sibiřský (Falcipennis falcipennis)",
+   "Q1318437": "Vrabec moabský (Passer moabiticus)",
+   "Q26657": "Králíček obecný (Regulus regulus)",
+   "Q27050": "Berneška tmavá (Branta bernicla)",
+   "Q806262": "Amadina páskovaná (Amadina fasciata)",
+   "Q906894": "Kolibřík vlaštovčí (Eupetomena macroura)",
+   "Q997708": "Trupiál žlutooký (Icterus icterus)"
+  }
+ },
+ {
+  "id": "Q534594#4",
+  "species": "Pita thajská",
+  "latin": "Hydrornis gurneyi",
+  "text": "Zřídka loví i drobné obratlovce, například žáby.",
+  "quote": "zřídka uloví i drobné druhy obratlovců, jako jsou žáby",
+  "claimed_false_for": {
+   "Q1080335": "Kolibřík fialovohlavý (Klais guimeti)",
+   "Q117253733": "Kolibřík duhový (Chrysuronia versicolor)",
+   "Q184825": "Drozd cvrčala (Turdus iliacus)",
+   "Q188446": "Pěnice černohlavá (Sylvia atricapilla)",
+   "Q26135": "Brkoslav severní (Bombycilla garrulus)",
+   "Q490393": "Skalňák andský (Rupicola peruvianus)",
+   "Q596518": "Zelenáček žlutoprsý (Vireo flavifrons)",
+   "Q852731": "Hrnčiřík prostý (Furnarius rufus)"
+  }
+ },
+ {
+  "id": "Q53731#4",
+  "species": "Rosela Pennantova",
+  "latin": "Platycercus elegans",
+  "text": "Jí larvy, termity, brouky, stonožky a můry.",
+  "quote": "Jsou, známe tím, že pojídají larvy, termity, brouky, stonožky i můry.",
+  "claimed_false_for": {
+   "Q2088805": "Albatros campbellský (Thalassarche impavida)"
+  }
+ },
+ {
+  "id": "Q53731#5",
+  "species": "Rosela Pennantova",
+  "latin": "Platycercus elegans",
+  "text": "Plody stromů a keřů jí, ale semena stromů nešíří dobře.",
+  "quote": "Ačkoliv mají v oblibě plody stromů či keřů, nejsou dobří v šíření jejich semen.",
+  "claimed_false_for": {
+   "Q18840": "Vodouš šedý (Tringa nebularia)",
+   "Q2088805": "Albatros campbellský (Thalassarche impavida)",
+   "Q29865": "Hohol severní (Bucephala clangula)",
+   "Q912863": "Rorýs ostnitý (Chaetura pelagica)"
+  }
+ },
+ {
+  "id": "Q53745#2",
+  "species": "Harpyje pralesní",
+  "latin": "Harpia harpyja",
+  "text": "Loví opice, hady, lenochody a jiné ptáky.",
+  "quote": "Loví vřešťany, chvostany, malpy i jiné opice, hady, lenochody, aguti, mravenečníky, vačice, papoušky i jiné ptáky.",
+  "claimed_false_for": {
+   "Q1272649": "Kukačka africká (Cuculus gularis)",
+   "Q1275471": "Káně havajská (Buteo solitarius)",
+   "Q168976": "Orel královský (Aquila heliaca)",
+   "Q248086": "Sup indický (Gyps indicus)",
+   "Q25385": "Káně lesní (Buteo buteo)",
+   "Q276185": "Buřňák obrovský (Macronectes giganteus)",
+   "Q2854549": "Bažant Edwardsův (Lophura edwardsi)",
+   "Q457471": "Káně rudoocasá (Buteo jamaicensis)",
+   "Q605350": "Luňákovec černý (Aviceda leuphotes)",
+   "Q724987": "Papoušek mniší (Myiopsitta monachus)",
+   "Q80362": "Luňák hnědý (Milvus migrans)"
+  }
+ },
+ {
+  "id": "Q53745#3",
+  "species": "Harpyje pralesní",
+  "latin": "Harpia harpyja",
+  "text": "Loví také aguti, mravenečníky a vačice.",
+  "quote": "Loví vřešťany, chvostany, malpy i jiné opice, hady, lenochody, aguti, mravenečníky, vačice, papoušky i jiné ptáky.",
+  "claimed_false_for": {
+   "Q1094743": "Majna žlutohlavá (Ampeliceps coronatus)",
+   "Q137474876": "Jestřáb lesní (Astur gentilis)",
+   "Q170466": "Včelojed lesní (Pernis apivorus)",
+   "Q237670": "Chřástal nejmenší (Zapornia pusilla)",
+   "Q244197": "Kivi Owenův (Apteryx owenii)",
+   "Q26574": "Moták lužní (Circus pygargus)",
+   "Q271462": "Orel páskovaný (Haliaeetus leucoryphus)",
+   "Q281874": "Sup africký (Gyps africanus)",
+   "Q33504": "Sup mrchožravý (Neophron percnopterus)",
+   "Q568863": "Drozd aztécký (Ridgwayia pinicola)",
+   "Q628068": "Sup holohlavý (Sarcogyps calvus)",
+   "Q715710": "Krahujec šikra (Accipiter badius)"
+  }
+ },
+ {
+  "id": "Q537634#2",
+  "species": "Kukačka dvoubarvá",
+  "latin": "Centropus nigrorufus",
+  "text": "Loví také obojživelníky nebo plazy.",
+  "quote": "S oblibou sezobne i menší obratlovce jako jsou obojživelníci nebo plazi",
+  "claimed_false_for": {
+   "Q183396": "Snovač kaferský (Euplectes orix)",
+   "Q203628": "Tučňák nejmenší (Eudyptula minor)",
+   "Q930457": "Lelek americký (Phalaenoptilus nuttallii)"
+  }
+ },
+ {
+  "id": "Q537634#3",
+  "species": "Kukačka dvoubarvá",
+  "latin": "Centropus nigrorufus",
+  "text": "Může se živit zrny mladé rýže.",
+  "quote": "krmit na zrnech mladé rýže",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q538383#2",
+  "species": "Květozob vlaštovčí",
+  "latin": "Dicaeum hirundinaceum",
+  "text": "Oblíbenou potravou jsou bobule šedého jmelí.",
+  "quote": "Obvykle jsou jejich oblíbenou potravou bobule ze stromu Amyema quandang",
+  "claimed_false_for": {
+   "Q1379530": "Střízlík bažinný (Cistothorus palustris)",
+   "Q165974": "Raroh velký (Falco cherrug)",
+   "Q206654": "Tučňák žlutooký (Megadyptes antipodes)"
+  }
+ },
+ {
+  "id": "Q538383#3",
+  "species": "Květozob vlaštovčí",
+  "latin": "Dicaeum hirundinaceum",
+  "text": "Výjimečně se živí pavouky a drobným hmyzem.",
+  "quote": "Výjimečně se živí i nektarem z rostlin, pylem, pavouky nebo drobným hmyzem",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q541440#0",
+  "species": "Lejskovec nádherný",
+  "latin": "Terpsiphone viridis",
+  "text": "Často loví kořist za letu.",
+  "quote": "Je hmyzožravý, svou kořist přitom často loví za letu.",
+  "claimed_false_for": {
+   "Q586075": "Vousák senegalský (Lybius dubius)",
+   "Q647461": "Kachnice kaštanová (Oxyura jamaicensis)",
+   "Q766306": "Kraska červenozobá (Urocissa erythroryncha)",
+   "Q907903": "Krkavec bělokrký (Corvus albicollis)"
+  }
+ },
+ {
+  "id": "Q541440#1",
+  "species": "Lejskovec nádherný",
+  "latin": "Terpsiphone viridis",
+  "text": "Klade 2 až 3 vejce.",
+  "quote": "do kterého klade 2 – 3 vejce.",
+  "claimed_false_for": {
+   "Q430863": "Ťuhýk americký (Lanius ludovicianus)",
+   "Q524740": "Buřňák černobílý (Daption capense)",
+   "Q574447": "Sýkora laponská (Poecile cinctus)",
+   "Q578174": "Datel červenohlavý (Melanerpes erythrocephalus)",
+   "Q720497": "Budníček severní (Phylloscopus borealis)",
+   "Q747686": "Bělořit plavý (Oenanthe isabellina)"
+  }
+ },
+ {
+  "id": "Q543345#4",
+  "species": "Tetřívek douglaskový",
+  "latin": "Dendragapus obscurus",
+  "text": "Na jaře a v létě jí semínka, ovoce a hmyz.",
+  "quote": "Tetřívci se na jaře a v létě živí semínky, ovocem a hmyzem",
+  "claimed_false_for": {
+   "Q1263556": "Kalous americký (Asio stygius)"
+  }
+ },
+ {
+  "id": "Q543345#5",
+  "species": "Tetřívek douglaskový",
+  "latin": "Dendragapus obscurus",
+  "text": "Na zimu jí šišky a jehličí.",
+  "quote": "V zimních měsících se krmí převážně šiškami a jehličím",
+  "claimed_false_for": {
+   "Q1089138": "Rorýs zavalitý (Cypseloides senex)",
+   "Q25432": "Bažant obecný (Phasianus colchicus)",
+   "Q31769": "Rorýs východní (Hirundapus caudacutus)",
+   "Q490327": "Husice andská (Chloephaga melanoptera)"
+  }
+ }
+]

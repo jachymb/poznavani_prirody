@@ -1,0 +1,192 @@
+{
+ "facts": [
+  {
+   "id": "Q10713598#1",
+   "species": "Tužnatka slizká",
+   "text": "Roste na hnijícím dřevě.",
+   "quote": "Roste na podzim v horských lesích, například na hnijícím dřevě."
+  },
+  {
+   "id": "Q2475470#0",
+   "species": "Lišák ryšavý",
+   "text": "Roste od července do listopadu.",
+   "quote": "Roste od července do listopadu."
+  },
+  {
+   "id": "Q138027#0",
+   "species": "Kuřátečko hřebenité",
+   "text": "Tento druh ze stromů preferuje buky a smrky.",
+   "quote": "ze stromů preferuje buky a smrky"
+  },
+  {
+   "id": "Q138027#1",
+   "species": "Kuřátečko hřebenité",
+   "text": "Parazitická houba červovka kyjanková ji někdy částečně zbarví do černa.",
+   "quote": "To způsobuje jiná, parazitická houba červovka kyjanková"
+  },
+  {
+   "id": "Q596896#2",
+   "species": "Liška Friesova",
+   "text": "Žije v symbióze s buky, případně i s jinými listnatými stromy.",
+   "quote": "S buky, popřípadě i jinými listnatými stromy vstupuje do mykorrhizy."
+  },
+  {
+   "id": "Q12236668#4",
+   "species": "Liška šedá",
+   "text": "Tento druh vytváří mykorrhizu s listnáči, například s buky.",
+   "quote": "pod buky i jinými listnáči, s nimiž vytváří mykorrhizu"
+  },
+  {
+   "id": "Q857903#1",
+   "species": "Stroček trubkovitý",
+   "text": "Roste na vlhkých místech, většinou v kruzích či pruzích.",
+   "quote": "Stroček roste na vlhkých místech, většinou v kruzích či pruzích."
+  },
+  {
+   "id": "Q857903#0",
+   "species": "Stroček trubkovitý",
+   "text": "Roste od srpna do listopadu, především pod buky.",
+   "quote": "Vyskytuje se od srpna do listopadu v lesích všeho druhu, především pod buky."
+  },
+  {
+   "id": "Q10713598#0",
+   "species": "Tužnatka slizká",
+   "text": "Žije ve spolupráci s jednobuněčnými řasami.",
+   "quote": "vstupuje do symbiotického svazku s jednobuněčnými řasami"
+  },
+  {
+   "id": "Q2475470#1",
+   "species": "Lišák ryšavý",
+   "text": "Najdeme ji v jehličnatých i listnatých lesích.",
+   "quote": "Narazíme na ni v jehličnatých i listnatých (často bukových) lesích"
+  }
+ ],
+ "candidates": {
+  "Q13684": {
+   "name": "Lišák zprohýbaný",
+   "latin": "Hydnum repandum",
+   "family": "lišákovité",
+   "lead": "Lišák zprohýbaný (Hydnum repandum), někdy též lošák zprohýbaný, je jedlá houba z čeledi lišákovité, která může na první pohled připomínat lišku obecnou. Jeho hymenofor na spodní straně klobouku je tvořen nápadnými tenkými ostny.\n\n\n== Popis ==\nPlodnice je 5–12 cm vysoká, rozdělená na klobouk a třeň. Plodnice se často vyskytují ve shlucích, běžně bývá vícero plodnic srostlých klobouky.\n\n\n=== Klobouk ===\nKlobouk bývá 3–15 centimetrů široký, nepravidelně okrouhlý, oválný či jiného nepravidelného tva",
+   "facts": [
+    "Tento druh má pod kloboukem husté ostny dlouhé asi půl centimetru.",
+    "Roste ve větším množství, někdy v pásech nebo kruzích."
+   ]
+  },
+  "Q371126": {
+   "name": "Liška nálevkovitá",
+   "latin": "Craterellus tubaeformis",
+   "family": "lišákovité",
+   "lead": "Liška nálevkovitá či rourkovitá (Craterellus tubaeformis (Fr.) Quél. 1888) je jedlá stopkovýtrusná houba z čeledi liškovitých (Cantharellaceae).\n\n\n== Popis ==\n\n\n=== Makroskopický ===\n\nPlodnice je tenkomasá, vysoká asi 3–10 cm, rozdělená na klobouk a třeň\nKlobouk je zhruba okrouhlého tvaru; v průměru je široký 1–6 cm. Okraje klobouku jsou v mládí podvinuté, později většinou dolů ohrnuté, často poněkud zprohýbané. Směrem do středu se klobouk výrazně nálevkovitě prohlubuje, přičemž tato úzká prohlu",
+   "facts": [
+    "Tento druh roste hlavně na podzim, často v trsech a velkých skupinách.",
+    "Tento druh má uprostřed klobouku hlubokou prohlubeň, jako trychtýř."
+   ]
+  },
+  "Q107866831": {
+   "name": "Stroček kadeřavý",
+   "latin": "Pseudocraterellus undulatus",
+   "family": "liškovité",
+   "lead": "Stroček kadeřavý (Pseudocraterellus undulatus (Pers.) Rauschert 1987), někdy též liška kadeřavá, je jedlá stopkovýtrusná houba z čeledi liškovitých.\n\n\n== Popis ==\n\n\n=== Makroskopický ===\n\nPlodnice má trychtýřovitý tvar, nahoře je ploše rozevřená; celá je tenkomasá a dutá. Vysoká bývá asi 2–8 cm. Plodnice se obvykle vyskytují ve skupinách a trsech, někdy více plodnic srůstá dohromady, nebo se plodnice ve třeni větví na více trychtýřovitých částí.\nV horní části je plodnice rozšířena v kloboukovito",
+   "facts": [
+    "Okraje klobouku bývají silně zkadeřené a zprohýbané.",
+    "Žije ve spolupráci s kořeny stromů, třeba dubů a buků."
+   ]
+  },
+  "Q188749": {
+   "name": "Liška obecná",
+   "latin": "Cantharellus cibarius",
+   "family": "lišákovité",
+   "lead": "Liška obecná (Cantharellus cibarius) je známá jedlá houba z čeledi liškovitých. Její žluté plodnice jsou kulinářsky ceněné.\n\n\n== Název ==\nČeský název vychází z podobnosti mezi barvou plodnic a liščí srsti. Na Moravě a na Českomoravské vrchovině se tyto houby označují jako kuřátka, ve Slezsku kurky a na Slovensku jako kuriatka. Mezi její další lidové názvy patří kořátka, kuřičky či kurčata.\n\n\n== Popis ==\n\n\n=== Makroskopický popis ===\nPlodnice mají žlutou až oranžovou barvu. Jsou gymnokarpní – jej",
+   "facts": [
+    "Tento druh má žluté až oranžové plodnice.",
+    "Tento druh má klobouk široký 2 až 7 centimetrů.",
+    "Tento druh roste od června do října, nejvíc v srpnu a září.",
+    "Tento druh žije spolu s kořeny stromů, hlavně smrků a borovic.",
+    "Obsahuje látky, které hubí hmyz."
+   ]
+  },
+  "Q67016592": {
+   "name": "Lošák hořký",
+   "latin": "Hydnellum scabrosum",
+   "family": "bělozubovité",
+   "lead": "Lošák hořký (Sarcodon scabrosus) je nejedlá stopkovýtrusá houba z čeledi bělozubovitých.\n\n\n== Popis ==\nKlobouk je 5–10 cm široký, barvy kaštanově hnědé, v mladí s fialově měděným odstínem. Zpočátku je hladký, později se vytvářejí drobné šupiny, klobouk je nepravidelně zprohýbaný, nízce okrouhlý, pevně masitý. Ostny jsou husté, dlouhé, hnědošedé barvy a na špičkách až bělavého odstínu. Ostny jsou sbíhavé na třeň.\nTřeň je nejdříve šedorůžový, či bělošedý a později hnědý až šedozelený. Třeň je krát",
+   "facts": [
+    "Roste na podzim pod buky, duby a borovicemi.",
+    "Tento druh je nejedlý."
+   ]
+  },
+  "Q728673": {
+   "name": "Hnojník inkoustový",
+   "latin": "Coprinopsis atramentaria",
+   "family": "křehutkovité",
+   "lead": "Hnojník inkoustový (Coprinopsis atramentaria) je stopkovýtrusá houba z čeledi křehutkovité (Psathyrellaceae).\n\n\n== Popis ==\nKlobouk je v mládí vejčitě uzavřený, 3–7 cm vysoký, později zvoncovitý nebo kuželovitý a 4–10 cm široký. Po délce je rýhovaný a na okraji nerovnoměrně zprohýbaný. Původní popelavě šedé až šedohnědé zbarvení se s postupným dozráváním výtrusů mění v černavé, od okraje do středu klobouku. U zralých plodnic probíhá autolýza. Povrch klobouku pokrývají v mládí jemné, hnědavé šupi",
+   "facts": [
+    "Tento druh vyroste velmi rychle a do druhého dne zmizí.",
+    "Tento druh má lupeny, které ve zralosti zčernají a rozplynou se.",
+    "Tento druh roste od jara do podzimu hlavně na polích a v zahradách.",
+    "Tento druh má bílý třeň 7 až 18 cm dlouhý.",
+    "Obsahuje látku koprin, která s alkoholem způsobuje otravu."
+   ]
+  },
+  "Q774576": {
+   "name": "Lesklokorka ploská",
+   "latin": "Ganoderma applanatum",
+   "family": "leskokorkovité",
+   "lead": "Lesklokorka ploská (Ganoderma applanatum) je houba z řádu chorošotvaré (Polyporales), čeledě lesklokorkovité (Ganodermataceae). Organismus je fytopatogenní parazit a saprofytický druh. Plodnice je nejedlá, vyrůstá na kmenech nebo pařezech listnatých dřevin a vzácněji jehličnanů celoročně.\n\n\n== EPPO kód ==\nGANOAP\n\n\n== Synonyma patogena ==\n\n\n=== Vědecké názvy ===\nPodle EPPO je pro patogena s označením lesklokorka ploská Ganoderma applanatum používáno více rozdílných názvů, například Elfvingia mega",
+   "facts": [
+    "Snižuje pevnost dřeva stromů.",
+    "Roste na kmenech a pařezech listnatých stromů."
+   ]
+  },
+  "Q633746": {
+   "name": "Kuřátka přímá",
+   "latin": "Ramaria stricta",
+   "family": "stročkovcovité",
+   "lead": "Kuřátka přímá (Ramaria stricta) jsou nejedlá houba z čeledi stročkovcovitých (Gomphaceae) rostoucí hojně ve skupinách především v listnatých lesích na tlejícím dřevě, zejména buku.\n\n\n== Popis ==\nKeříčkovité plodnice dorůstají do výšky 6 – 12 centimetrů. Na šířku mívají až 9 centimetrů. Charakteristický je keříčkovitý vzhled se žlutavými až vínově hnědými vzpřímenými větvičkami. Všechny části houby se při manipulaci otlačí a zbarvují se až do hnědočervena.\nVýtrusný prach je nažloutlý. Výtrusy 7-1",
+   "facts": [
+    "Roste ve skupinách na tlejícím dřevě v listnatých lesích.",
+    "Tento druh je nejedlý pro nepříjemný zápach a hořkou chuť."
+   ]
+  },
+  "Q46810615": {
+   "name": "Límcovka polokulovitá",
+   "latin": "Protostropharia semiglobata",
+   "family": "límcovkovité",
+   "lead": "Límcovka polokulovitá (Stropharia semiglobata) je druh houby z čeledi límcovkovité (Strophariaceae).\n\n\n== Znaky ==\nKlobouk dorůstá 1–5 cm v průměru. Během vývoje přechází z oblého na polokulovitý. Pokožka je slizká, lesklá, šedožlutá až žlutavá, někdy i nazelenalá.\nLupeny jsou široké, na klobouku řídce uspořádané, u třeně přirostlé. Barvu mají šedoolivovou až černohnědou. Výtrusný prach je fialovohnědý.\nTřeň je bleděžlutý, lepkavý, válcovitý, 2–12 cm vysoký, 0,2–0,7 cm široký. Na sobě má blanitý",
+   "facts": [
+    "Roste na trusu jelenů, koní a krav.",
+    "Objevuje se od května do listopadu."
+   ]
+  },
+  "Q3270155": {
+   "name": "Voskovka krvavá",
+   "latin": "Hygrocybe miniata",
+   "family": "šťavnatkovité",
+   "lead": "Voskovka krvavá (Hygrocybe miniata) je druh houby z čeledi šťavnatkovité (Hygrophoraceae).\n\n\n== Znaky ==\nKlobouk v průměru dorůstá 0,5–5,5 cm, tvarově během vývoje přechází postupně z polokulovitého na plošně rozprostřený, přičemž se střed stává vmáčklým. Okraj je u mladých exemplářů podvinutý. Pokožka je suchá, jemně šupinkatá, za vlhka slizká, má výrazně červenou až červenooranžovou, na okraji žlutou barvu.\nLupeny jsou bleděžluté až okrově žluté, u třeně úzce připojené, na klobouku řídce uspoř",
+   "facts": [
+    "Roste od srpna do listopadu.",
+    "Roste na rašeliništích, v olšinách a na vřesovištích."
+   ]
+  },
+  "Q1261868": {
+   "name": "Hlíva plicní",
+   "latin": "Pleurotus pulmonarius",
+   "family": "hlívovité",
+   "lead": "Hlíva plicní (Pleurotus pulmonarius (Fr.) Quél.) je jedlá dřevokazná houba z čeledi hlívovitých.\n\n\n== Popis ==\nKlobouk je slonovinově nebo špinavě bělavý až světle žlutohnědý, 5–12 cm široký . Je velmi podobná hlívě ústřičné, která je však šedomodré barvy a roste na podobných stromech avšak od října do prosince.\n\n\n== Výskyt ==\nRoste od května do listopadu, na živých nebo odumřelých kmenech listnatých stromů, nejčastěji na bucích a na lípách.\n\n\n== Použití v kuchyni ==\nHlíva plicní je jedlá houba ",
+   "facts": [
+    "Roste na kmenech listnatých stromů, nejčastěji buků a lip.",
+    "Roste od května do listopadu."
+   ]
+  },
+  "Q10592647": {
+   "name": "Voskovka vroubkovaná",
+   "latin": "Hygrocybe coccineocrenata",
+   "family": "šťavnatkovité",
+   "lead": "Voskovka vroubkovaná (Hygrocybe coccineocrenata) je vzácný druh houby z čeledi šťavnatkovité (Hygrophoraceae). V Červeném seznamu hub České republiky je druh uveden jako ohrožený.\n\n\n== Znaky ==\nKlobouk dorůstá 0,6–3 cm v průměru, v mládí klenutý, vývojem se postupně zplošťuje, přičemž se formuje vmáčklý střed. Suchá pokožka má červenou až červenooranžovou barvu, je posetá drobnými, červenými šupinkami. Okraje jsou hrubě vroubkované.\nTlusté, bílé nebo bleděžluté lupeny jsou na klobouku řídce uspo",
+   "facts": [
+    "Roste na silně podmáčených stanovištích, třeba na rašeliništích.",
+    "Roste od května do října."
+   ]
+  }
+ }
+}

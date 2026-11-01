@@ -1,0 +1,457 @@
+[
+ {
+  "id": "Q1016320#4",
+  "species": "Mauricie převislá",
+  "latin": "Mauritia flexuosa",
+  "text": "Ptáci, savci i ryby, kteří jedí jeho plody, roznášejí semena.",
+  "quote": "po okolích roznášejí plody konzumující ptáci, savci i ryby",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q10641333#0",
+  "species": "Česnek převislý",
+  "latin": "Allium cernuum",
+  "text": "Kvete v červnu a červenci.",
+  "quote": "Kvete v průběhu června a července.",
+  "claimed_false_for": {
+   "Q158944": "Ladoňka sibiřská (Scilla siberica)"
+  }
+ },
+ {
+  "id": "Q10641333#1",
+  "species": "Česnek převislý",
+  "latin": "Allium cernuum",
+  "text": "Roste hojně v Severní Americe.",
+  "quote": "Je v přírodě hojně rozšířený v Severní Americe",
+  "claimed_false_for": {
+   "Q158829": "Kruštík drobnolistý (Epipactis microphylla)",
+   "Q160354": "Rdestice hustolistá (Groenlandia densa)",
+   "Q175719": "Liliochvostec mohutný (Eremurus robustus)",
+   "Q33194": "Kruštík tmavočervený (Epipactis atrorubens)",
+   "Q4268503": "Česnek karatavský (Allium karataviense)",
+   "Q854799": "Prstnatec pleťový (Dactylorhiza incarnata)"
+  }
+ },
+ {
+  "id": "Q1073621#0",
+  "species": "Ozdobnice čínská",
+  "latin": "Miscanthus sinensis",
+  "text": "Kvete v červenci až srpnu.",
+  "quote": "Kvete v červenci až srpnu.",
+  "claimed_false_for": {
+   "Q1195489": "Skunkovka páchnoucí (Symplocarpus foetidus)",
+   "Q159017": "Ostřice bledavá (Carex pallescens)",
+   "Q159103": "Ostřice dvoudomá (Carex dioica)",
+   "Q162300": "Kosatec nízký (Iris pumila)"
+  }
+ },
+ {
+  "id": "Q1073621#1",
+  "species": "Ozdobnice čínská",
+  "latin": "Miscanthus sinensis",
+  "text": "Dorůstá do výšky 0,8 až 2 metrů.",
+  "quote": "Bylina, trvalka rostoucí do výšky 0,8–2 m (vzácně 4 m).",
+  "claimed_false_for": {
+   "Q15238126": "Skrytěnka bodlinatá (Crypsis aculeata)",
+   "Q157929": "Ostřice jarní (Carex caryophyllea)",
+   "Q160038": "Ostřice tlapkatá (Carex pediformis)"
+  }
+ },
+ {
+  "id": "Q10967219#0",
+  "species": "Snědek Kochův",
+  "latin": "Ornithogalum kochii",
+  "text": "Roste na sušších loukách a ve světlejších lesích.",
+  "quote": "Najdeme ho na sušších loukách a ve světlejších lesích, hlavně v doubravách a akátinách.",
+  "claimed_false_for": {
+   "Q158868": "Řečanka přímořská (Najas marina)"
+  }
+ },
+ {
+  "id": "Q10967219#1",
+  "species": "Snědek Kochův",
+  "latin": "Ornithogalum kochii",
+  "text": "Kvete nejčastěji v květnu.",
+  "quote": "Kvete nejčastěji v květnu.",
+  "claimed_false_for": {
+   "Q1424440": "Denivka plavá (Hemerocallis fulva)",
+   "Q159996": "Kruštík růžkatý (Epipactis muelleri)",
+   "Q165077": "Šafrán jarní (Crocus vernus)",
+   "Q47055": "Toříček jednohlízný (Herminium monorchis)"
+  }
+ },
+ {
+  "id": "Q109995#6",
+  "species": "Sněženka podsněžník",
+  "latin": "Galanthus nivalis",
+  "text": "Včely medonosné sbírají jeho nektar a pyl, když se na chvíli oteplí.",
+  "quote": "sbírají včely medonosné uvnitř sněženkových květů nektar a pyl",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q112520#0",
+  "species": "Anubis zakrslý",
+  "latin": "Anubias barteri",
+  "text": "Původem je ze západní Afriky.",
+  "quote": "Původem je ze západní Afriky",
+  "claimed_false_for": {
+   "Q157571": "Lipnice roční (Poa annua)",
+   "Q159358": "Ostřice stinná (Carex umbrosa)",
+   "Q164844": "Kosatec měňavý (Iris versicolor)",
+   "Q165013": "Ostřice plstnatá (Carex tomentosa)"
+  }
+ },
+ {
+  "id": "Q112520#1",
+  "species": "Anubis zakrslý",
+  "latin": "Anubias barteri",
+  "text": "Roste relativně pomalu.",
+  "quote": "Roste relativně pomalu",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1148930#0",
+  "species": "Kalužnice indická",
+  "latin": "Eleusine indica",
+  "text": "Kvete od června do září.",
+  "quote": "kvete od června do září",
+  "claimed_false_for": {
+   "Q2074966": "Ostřice Micheliova (Carex michelii)"
+  }
+ },
+ {
+  "id": "Q1148930#1",
+  "species": "Kalužnice indická",
+  "latin": "Eleusine indica",
+  "text": "V Etiopii se z ní získává vlákno.",
+  "quote": "V Etiopii je využívána k získávání vlákna",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q11575#8",
+  "species": "Kukuřice setá",
+  "latin": "Zea mays",
+  "text": "Houba sněť parazituje na klasech tohoto druhu.",
+  "quote": "která na kukuřičných klasech parazituje",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q11577#0",
+  "species": "Ječmen setý",
+  "latin": "Hordeum vulgare",
+  "text": "Květenstvím je klas.",
+  "quote": "Květenstvím je klas, plodem obilka.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q11577#1",
+  "species": "Ječmen setý",
+  "latin": "Hordeum vulgare",
+  "text": "Plodem je obilka.",
+  "quote": "Květenstvím je klas, plodem obilka.",
+  "claimed_false_for": {
+   "Q1518732": "Ostřice černoklasá (Carex melanostachya)",
+   "Q15313014": "Drakontyum obří (Dracontium gigas)",
+   "Q157924": "Ostřice zobánkatá (Carex rostrata)",
+   "Q158312": "Ostřice srstnatá (Carex hirta)",
+   "Q158901": "Ostřice tmavá (Carex atrata)",
+   "Q159706": "Ostřice skalní (Carex rupestris)",
+   "Q5920308": "Kosatec bezlistý (Iris aphylla)",
+   "Q654001": "Babelka řezanovitá (Pistia stratiotes)"
+  }
+ },
+ {
+  "id": "Q1160185#0",
+  "species": "Pěchava vápnomilná",
+  "latin": "Sesleria caerulea",
+  "text": "Kvete brzy z jara, od března do května.",
+  "quote": "Kvete brzy z jara, od března do května.",
+  "claimed_false_for": {
+   "Q15238126": "Skrytěnka bodlinatá (Crypsis aculeata)",
+   "Q7578777": "Šedovous sibiřský (Spodiopogon sibiricus)"
+  }
+ },
+ {
+  "id": "Q1160185#1",
+  "species": "Pěchava vápnomilná",
+  "latin": "Sesleria caerulea",
+  "text": "Roste na suchých stráních a skalách, hlavně na vápenci.",
+  "quote": "Roste na suchých stráních, skalách, ve světlých borech, především na vápenci",
+  "claimed_false_for": {
+   "Q157924": "Ostřice zobánkatá (Carex rostrata)",
+   "Q165439": "Orobinec sítinovitý (Typha laxmannii)",
+   "Q654001": "Babelka řezanovitá (Pistia stratiotes)"
+  }
+ },
+ {
+  "id": "Q1194599#0",
+  "species": "Juka vláknitá",
+  "latin": "Yucca filamentosa",
+  "text": "Pochází z jihovýchodu USA.",
+  "quote": "Původní výskyt druhu je znám z jihovýchodu USA.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1194599#1",
+  "species": "Juka vláknitá",
+  "latin": "Yucca filamentosa",
+  "text": "Tento druh se u nás pěstuje jako okrasná rostlina.",
+  "quote": "V České republice je juka vláknitá pěstována jako okrasná rostlina.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1195489#5",
+  "species": "Skunkovka páchnoucí",
+  "latin": "Symplocarpus foetidus",
+  "text": "Opylují ho různé druhy hmyzu, například brouci a mouchy.",
+  "quote": "Opylovači jsou různé druhy hmyzu z řádů dvoukřídlí, brouci, blanokřídlí i polokřídlí.",
+  "claimed_false_for": {
+   "Q15295761": "Rdest Wrightův (Potamogeton wrightii)",
+   "Q158842": "Bařička bahenní (Triglochin palustris)",
+   "Q159146": "Sveřep jalový (Bromus sterilis)",
+   "Q208705": "Troskut prstnatý (Cynodon dactylon)",
+   "Q370566": "Rdest vzplývavý (Potamogeton natans)"
+  }
+ },
+ {
+  "id": "Q1195489#6",
+  "species": "Skunkovka páchnoucí",
+  "latin": "Symplocarpus foetidus",
+  "text": "Nejpravděpodobněji ho opylují mouchy bzučivky rudohlavé.",
+  "quote": "Za nejpravděpodobnější opylovače jsou považované mouchy druhu bzučivka rudohlavá",
+  "claimed_false_for": {
+   "Q15295761": "Rdest Wrightův (Potamogeton wrightii)",
+   "Q158842": "Bařička bahenní (Triglochin palustris)",
+   "Q159146": "Sveřep jalový (Bromus sterilis)",
+   "Q208705": "Troskut prstnatý (Cynodon dactylon)",
+   "Q370566": "Rdest vzplývavý (Potamogeton natans)"
+  }
+ },
+ {
+  "id": "Q1195489#7",
+  "species": "Skunkovka páchnoucí",
+  "latin": "Symplocarpus foetidus",
+  "text": "Pach odpuzuje býložravce.",
+  "quote": "tento zápach naopak slouží k odpuzení býložravců",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q120042#0",
+  "species": "Křivatec žlutý",
+  "latin": "Gagea lutea",
+  "text": "Mravenci se živí masíčky na semenech a pomáhají šířit semena.",
+  "quote": "semena mají vyvinuty masité přívěsky, tzv. masíčka, jimiž se živí mravenci a přispívají tak k rozšiřování druhu",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q120042#1",
+  "species": "Křivatec žlutý",
+  "latin": "Gagea lutea",
+  "text": "Kvete v březnu a dubnu.",
+  "quote": "Kvete v březnu a dubnu.",
+  "claimed_false_for": {
+   "Q152553": "Ocún jesenní (Colchicum autumnale)",
+   "Q156363": "Lilie zlatohlavá (Lilium martagon)",
+   "Q159405": "Ostřice řídkoklasá (Carex remota)",
+   "Q159815": "Ovsík vyvýšený (Arrhenatherum elatius)",
+   "Q163050": "Tulipán planý (Tulipa sylvestris)",
+   "Q163766": "Lilie cibulkonosná (Lilium bulbiferum)"
+  }
+ },
+ {
+  "id": "Q13100366#0",
+  "species": "Vstaváček alpínský",
+  "latin": "Chamorchis alpina",
+  "text": "Roste jen v evropských horách v alpinském stupni.",
+  "quote": "Roste pouze v evropských horách v alpinském stupni.",
+  "claimed_false_for": {
+   "Q109995": "Sněženka podsněžník (Galanthus nivalis)",
+   "Q1253057": "Mečík střechovitý (Gladiolus imbricatus)",
+   "Q1426766": "Ječmenice písečná (Leymus arenarius)",
+   "Q15504195": "Ladoňka zářící (Scilla luciliae)",
+   "Q158190": "Ostřice obecná (Carex nigra)",
+   "Q159119": "Bledule letní (Leucojum aestivum)",
+   "Q159203": "Mnohokvět hroznatý (Kniphofia uvaria)",
+   "Q159953": "Paličkovec šedavý (Corynephorus canescens)",
+   "Q266732": "Vstavač řídkokvětý (Anacamptis laxiflora)",
+   "Q2993897": "Denivka žlutá (Hemerocallis lilioasphodelus)",
+   "Q673348": "Ravenala madagaskarská (Ravenala madagascariensis)",
+   "Q7224923": "Vanilovník plocholistý (Vanilla planifolia)"
+  }
+ },
+ {
+  "id": "Q1314837#4",
+  "species": "Prstnatec bezový",
+  "latin": "Dactylorhiza sambucina",
+  "text": "Potřebuje po vyklíčení podporu mykorhizních hub.",
+  "quote": "vytvoření semenáče podporu symbiotické mykorhizní houby",
+  "claimed_false_for": {
+   "Q158918": "Mařice pilovitá (Cladium mariscus)",
+   "Q161107": "Česnek planý (Allium oleraceum)",
+   "Q161158": "Modřenec širolistý (Muscari botryoides)",
+   "Q161879": "Zblochan vodní (Glyceria maxima)",
+   "Q51148": "Pažitka pobřežní (Allium schoenoprasum)"
+  }
+ },
+ {
+  "id": "Q1314837#5",
+  "species": "Prstnatec bezový",
+  "latin": "Dactylorhiza sambucina",
+  "text": "Hnojení jeho stanovišť narušuje jeho soužití s mykorhizními houbami.",
+  "quote": "narušuje symbiotický vztah s mykorhizními houbami",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q132970#0",
+  "species": "Banánovník zašpičatělý",
+  "latin": "Musa acuminata",
+  "text": "Každý plod obsahuje 15 až 62 semen.",
+  "quote": "Každý plod obsahuje 15–62 semen",
+  "claimed_false_for": {
+   "Q1443970": "Ostřice pevná (Carex firma)",
+   "Q154500": "Závitka mnohokořenná (Spirodela polyrhiza)",
+   "Q157574": "Ostřice písečná (Carex arenaria)",
+   "Q159163": "Kamyšník přímořský (Bolboschoenus maritimus)",
+   "Q2938380": "Ostřice Buchananova (Carex buchananii)",
+   "Q3206251": "Rdest trávolistý (Potamogeton gramineus)"
+  }
+ },
+ {
+  "id": "Q132970#1",
+  "species": "Banánovník zašpičatělý",
+  "latin": "Musa acuminata",
+  "text": "Daří se mu ve vlhkém tropickém klimatu.",
+  "quote": "kde se jí daří ve vlhkém tropickém klimatu",
+  "claimed_false_for": {
+   "Q1443970": "Ostřice pevná (Carex firma)",
+   "Q157574": "Ostřice písečná (Carex arenaria)"
+  }
+ },
+ {
+  "id": "Q133818#0",
+  "species": "Větrobýl jedenapůlstopý",
+  "latin": "Angraecum sesquipedale",
+  "text": "Ostruha květu je dlouhá 27 až 43 cm.",
+  "quote": "Bílý, ostře kořenitě vonící květ má 27–43 cm (zhruba jeden a půl stopy, odtud název) dlouhou ostruhu, na jejímž dně je umístěn nektar.",
+  "claimed_false_for": {
+   "Q1129703": "Rákosovka (Hakonechloa macra)",
+   "Q15041677": "Šafrán setý (Crocus sativus)",
+   "Q15502195": "Bradáček srdčitý (Neottia cordata)",
+   "Q157427": "Okrotice dlouholistá (Cephalanthera longifolia)",
+   "Q157430": "Kokořík vonný (Polygonatum odoratum)",
+   "Q159221": "Agáve sisalová (Agave sisalana)",
+   "Q159234": "Česnek hranatý (Allium angulosum)",
+   "Q159662": "Česnek tuhý (Allium strictum)",
+   "Q159722": "Metlice trsnatá (Deschampsia cespitosa)",
+   "Q159784": "Šášina rezavá (Schoenus ferrugineus)",
+   "Q839611": "Puškinie ladoňkovitá (Puschkinia scilloides)"
+  }
+ },
+ {
+  "id": "Q133818#1",
+  "species": "Větrobýl jedenapůlstopý",
+  "latin": "Angraecum sesquipedale",
+  "text": "Opyluje ho lišaj s dlouhým sosákem.",
+  "quote": "Xanthopan se sosákem dlouhým jako běžné školní pravítko.",
+  "claimed_false_for": {
+   "Q1129703": "Rákosovka (Hakonechloa macra)",
+   "Q159722": "Metlice trsnatá (Deschampsia cespitosa)",
+   "Q159784": "Šášina rezavá (Schoenus ferrugineus)"
+  }
+ },
+ {
+  "id": "Q134926#0",
+  "species": "Puja Raimondova",
+  "latin": "Puya raimondii",
+  "text": "Jeden cyklus rozmnožování trvá přibližně 80 let.",
+  "quote": "Jeden reprodukční cyklus trvá přibližně 80 let.",
+  "claimed_false_for": {
+   "Q579146": "Milička menší (Eragrostis minor)"
+  }
+ },
+ {
+  "id": "Q134926#1",
+  "species": "Puja Raimondova",
+  "latin": "Puya raimondii",
+  "text": "Za 3 měsíce může jedna rostlina vytvořit 8 000 až 20 000 květů.",
+  "quote": "Jedna rostlina může produkovat mezi 8 000 a 20 000 květy v období 3 měsíců.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1378081#0",
+  "species": "Juka krátkolistá",
+  "latin": "Yucca brevifolia",
+  "text": "Roste téměř jen v Mohavské poušti v USA.",
+  "quote": "Vyskytuje se téměř výlučně v Mohavské poušti v USA.",
+  "claimed_false_for": {
+   "Q109995": "Sněženka podsněžník (Galanthus nivalis)",
+   "Q1253057": "Mečík střechovitý (Gladiolus imbricatus)",
+   "Q1426766": "Ječmenice písečná (Leymus arenarius)",
+   "Q15504195": "Ladoňka zářící (Scilla luciliae)",
+   "Q158190": "Ostřice obecná (Carex nigra)",
+   "Q159119": "Bledule letní (Leucojum aestivum)",
+   "Q159203": "Mnohokvět hroznatý (Kniphofia uvaria)",
+   "Q159953": "Paličkovec šedavý (Corynephorus canescens)",
+   "Q266732": "Vstavač řídkokvětý (Anacamptis laxiflora)",
+   "Q2993897": "Denivka žlutá (Hemerocallis lilioasphodelus)",
+   "Q673348": "Ravenala madagaskarská (Ravenala madagascariensis)",
+   "Q7224923": "Vanilovník plocholistý (Vanilla planifolia)"
+  }
+ },
+ {
+  "id": "Q1378081#1",
+  "species": "Juka krátkolistá",
+  "latin": "Yucca brevifolia",
+  "text": "Dožívá se stáří až stovky let.",
+  "quote": "dožívá se stáří až stovky let",
+  "claimed_false_for": {
+   "Q2086586": "Chrastice kanárská (Phalaris canariensis)",
+   "Q3338330": "Bahenka šášinovitá (Crypsis schoenoides)"
+  }
+ },
+ {
+  "id": "Q1391422#0",
+  "species": "Šáchor hlíznatý",
+  "latin": "Cyperus rotundus",
+  "text": "Pochází z Afriky, jižní Evropy, střední Evropy a jižní Asie.",
+  "quote": "původem z Afriky, jižní Evropy, střední Evropy a jižní Asie",
+  "claimed_false_for": {
+   "Q163559": "Dosna indická (Canna indica)"
+  }
+ },
+ {
+  "id": "Q1399928#0",
+  "species": "Česnek ozdobný",
+  "latin": "Allium cristophii",
+  "text": "Kvete od května do července.",
+  "quote": "Kvete v květnu až červenci.",
+  "claimed_false_for": {
+   "Q15041677": "Šafrán setý (Crocus sativus)",
+   "Q839611": "Puškinie ladoňkovitá (Puschkinia scilloides)"
+  }
+ },
+ {
+  "id": "Q1399928#1",
+  "species": "Česnek ozdobný",
+  "latin": "Allium cristophii",
+  "text": "Používá se k sušení a aranžování.",
+  "quote": "Používá se k sušení a aranžování",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q140088#2",
+  "species": "Acoelorrhaphe wrightii",
+  "latin": "Acoelorraphe wrightii",
+  "text": "Včely pravděpodobně opylují jeho květy.",
+  "quote": "Květy jsou pravděpodobně opylovány zejména včelami.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1424440#0",
+  "species": "Denivka plavá",
+  "latin": "Hemerocallis fulva",
+  "text": "Květy se objevují v červnu až srpnu.",
+  "quote": "Květy se objevují v červnu až srpnu, jsou oboupohlavné.",
+  "claimed_false_for": {}
+ }
+]

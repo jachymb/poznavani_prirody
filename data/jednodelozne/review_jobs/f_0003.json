@@ -1,0 +1,522 @@
+[
+ {
+  "id": "Q1470418#1",
+  "species": "Žabníček vzplývavý",
+  "latin": "Luronium natans",
+  "text": "Roste v mělkých tůních a na březích stojatých vod.",
+  "quote": "Roste v mělkých tůních, často občas vysychajících a na březích stojatých vod.",
+  "claimed_false_for": {
+   "Q157862": "Bařička přímořská (Triglochin maritima)",
+   "Q158126": "Okrotice bílá (Cephalanthera damasonium)",
+   "Q159279": "Běloprstka bělavá (Pseudorchis albida)",
+   "Q159667": "Ostřice chlupatá (Carex pilosa)",
+   "Q161077": "Monstera skvostná (Monstera deliciosa)"
+  }
+ },
+ {
+  "id": "Q147520#0",
+  "species": "Orobinec širokolistý",
+  "latin": "Typha latifolia",
+  "text": "Tento druh má klas, který připomíná doutník.",
+  "quote": "Plodenství připomíná doutník, podle kterého nesou lidový název.",
+  "claimed_false_for": {
+   "Q147783": "Lipnice luční (Poa pratensis)",
+   "Q154500": "Závitka mnohokořenná (Spirodela polyrhiza)",
+   "Q159146": "Sveřep jalový (Bromus sterilis)",
+   "Q161311": "Sveřep vzpřímený (Bromus erectus)",
+   "Q163351": "Rdestík hřebenitý (Potamogeton pectinatus)",
+   "Q3338330": "Bahenka šášinovitá (Crypsis schoenoides)",
+   "Q370566": "Rdest vzplývavý (Potamogeton natans)"
+  }
+ },
+ {
+  "id": "Q147783#0",
+  "species": "Lipnice luční",
+  "latin": "Poa pratensis",
+  "text": "Tento druh patří mezi jen tři vyšší rostliny nalezené v Antarktidě.",
+  "quote": "jedna z jediných tří cévnatých rostlin (tj. vyšší rostliny vyjma mechorostů) nalezených v Antarktidě",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q148734#0",
+  "species": "Zevar vzpřímený",
+  "latin": "Sparganium erectum",
+  "text": "Kvete v kulatých hlávkách.",
+  "quote": "Květy jsou ve složených květenstvích, hustých kulovitých hlávkách",
+  "claimed_false_for": {
+   "Q1195489": "Skunkovka páchnoucí (Symplocarpus foetidus)",
+   "Q12099": "Žito seté (Secale cereale)",
+   "Q145686": "Kosatec sibiřský (Iris sibirica)",
+   "Q3847968": "Vousatka prstnatá (Bothriochloa ischaemum)"
+  }
+ },
+ {
+  "id": "Q148734#1",
+  "species": "Zevar vzpřímený",
+  "latin": "Sparganium erectum",
+  "text": "Pyl z květů roznáší vítr.",
+  "quote": "Pyl se šíří pomocí větru.",
+  "claimed_false_for": {
+   "Q159444": "Křivatec nejmenší (Gagea minima)"
+  }
+ },
+ {
+  "id": "Q148904#0",
+  "species": "Strelície královská",
+  "latin": "Strelitzia reginae",
+  "text": "Pochází z Jihoafrické republiky.",
+  "quote": "pochází z Jihoafrické republiky, kde v přírodě roste ve východních provinciích Východní Kapsko a KwaZulu-Natal.",
+  "claimed_false_for": {
+   "Q1021163": "Bilbergie nicí (Billbergia nutans)",
+   "Q12043120": "Ostřice zčernalá (Carex aterrima)",
+   "Q157346": "Psárka luční (Alopecurus pratensis)",
+   "Q159734": "Ostřice bažinná (Carex limosa)",
+   "Q161107": "Česnek planý (Allium oleraceum)",
+   "Q161879": "Zblochan vodní (Glyceria maxima)",
+   "Q2086586": "Chrastice kanárská (Phalaris canariensis)",
+   "Q2303755": "Snědek pyrenejský (Ornithogalum pyrenaicum)",
+   "Q27983": "Narcis bílý (Narcissus poeticus)",
+   "Q311524": "Tilandsie provazovkovitá (Tillandsia usneoides)",
+   "Q500857": "Lontar vějířovitý (Borassus flabellifer)",
+   "Q8043098": "Žlutokap jižní (Xanthorrhoea australis)"
+  }
+ },
+ {
+  "id": "Q148904#1",
+  "species": "Strelície královská",
+  "latin": "Strelitzia reginae",
+  "text": "Tento druh vytváří hodně nektaru, který láká včely a ptáky.",
+  "quote": "Květy produkují velké množství nektaru, za kterým přilétají hlavně včely nebo ptáci",
+  "claimed_false_for": {
+   "Q12043120": "Ostřice zčernalá (Carex aterrima)",
+   "Q157346": "Psárka luční (Alopecurus pratensis)",
+   "Q159734": "Ostřice bažinná (Carex limosa)",
+   "Q161879": "Zblochan vodní (Glyceria maxima)",
+   "Q2086586": "Chrastice kanárská (Phalaris canariensis)"
+  }
+ },
+ {
+  "id": "Q148904#2",
+  "species": "Strelície královská",
+  "latin": "Strelitzia reginae",
+  "text": "Mladé rostliny kvetou poprvé až za tři až pět let.",
+  "quote": "prvně kvetou za tři až pět let",
+  "claimed_false_for": {
+   "Q2086586": "Chrastice kanárská (Phalaris canariensis)",
+   "Q311524": "Tilandsie provazovkovitá (Tillandsia usneoides)"
+  }
+ },
+ {
+  "id": "Q148904#3",
+  "species": "Strelície královská",
+  "latin": "Strelitzia reginae",
+  "text": "Dorůstá až do výšky dvou metrů.",
+  "quote": "Je to jednoděložná, vytrvalá, trsnatá, stálezelená bylina vysoká až 200 cm.",
+  "claimed_false_for": {
+   "Q500857": "Lontar vějířovitý (Borassus flabellifer)"
+  }
+ },
+ {
+  "id": "Q149094#0",
+  "species": "Řemenatka červená",
+  "latin": "Clivia miniata",
+  "text": "Pochází ze suchých skalnatých míst v Jižní Africe.",
+  "quote": "Rostlina pochází ze suchých skalnatých oblastí v provinciích Východní Kapsko, Gauteng a KwaZulu-Natal v Jihoafrické republice",
+  "claimed_false_for": {
+   "Q1190377": "Angínovník čínský (Iris domestica)",
+   "Q15502195": "Bradáček srdčitý (Neottia cordata)",
+   "Q157430": "Kokořík vonný (Polygonatum odoratum)",
+   "Q157890": "Smrkovník plazivý (Goodyera repens)",
+   "Q157893": "Hlízovec Loeselův (Liparis loeselii)",
+   "Q159278": "Česnek kýlnatý (Allium carinatum)",
+   "Q159299": "Kokořík mnohokvětý (Polygonatum multiflorum)",
+   "Q159886": "Okřehek nejmenší (Lemna minuta)",
+   "Q161123": "Ostřice horská (Carex montana)",
+   "Q161565": "Šípatka střelolistá (Sagittaria sagittifolia)",
+   "Q827098": "Slzovka obecná (Coix lacryma-jobi)",
+   "Q926089": "Česnek šerý (Allium senescens)"
+  }
+ },
+ {
+  "id": "Q149094#2",
+  "species": "Řemenatka červená",
+  "latin": "Clivia miniata",
+  "text": "Tento druh vytváří květní stvol vysoký až 60 centimetrů.",
+  "quote": "Z úžlabí listu vyrůstá až 60 cm vysoký, dužnatý stvol",
+  "claimed_false_for": {
+   "Q12032661": "Ladoňka karpatská (Scilla kladnii)",
+   "Q158831": "Ostřice chudokvětá (Carex pauciflora)",
+   "Q17235117": "Kosatec písečný (Iris arenaria)"
+  }
+ },
+ {
+  "id": "Q149094#3",
+  "species": "Řemenatka červená",
+  "latin": "Clivia miniata",
+  "text": "Vydrží růst a kvést i 50 let za dobrých podmínek.",
+  "quote": "za příhodných podmínek vydrží růst a spolehlivě kvést i 50 let",
+  "claimed_false_for": {
+   "Q23485": "Cibule kuchyňská (Allium cepa)"
+  }
+ },
+ {
+  "id": "Q1493#0",
+  "species": "Ananasovník chocholatý",
+  "latin": "Ananas comosus",
+  "text": "Dorůstá do výšky 60 až 120 centimetrů.",
+  "quote": "Ananasovník dorůstá výšky 60–120 cm a šířky kolem 50–100 cm.",
+  "claimed_false_for": {
+   "Q1025273": "Ostřice černohnědá (Carex atrofusca)",
+   "Q1443970": "Ostřice pevná (Carex firma)",
+   "Q159640": "Zevar nejmenší (Sparganium natans)",
+   "Q159991": "Bika klasnatá (Luzula spicata)",
+   "Q17507117": "Zlatochvost zlatý (Lamarckia aurea)",
+   "Q654001": "Babelka řezanovitá (Pistia stratiotes)"
+  }
+ },
+ {
+  "id": "Q1493#3",
+  "species": "Ananasovník chocholatý",
+  "latin": "Ananas comosus",
+  "text": "Pěstuje se i jako pokojová rostlina.",
+  "quote": "Okrasné kultivary se pěstují ve sklenících a v místnostech na celém světě.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1493#4",
+  "species": "Ananasovník chocholatý",
+  "latin": "Ananas comosus",
+  "text": "Má rád světlo, ale přímé slunce mu škodí.",
+  "quote": "Je to světlomilná rostlina, dobře se jí daří jak na prosluněném místě, tak i v polostínu, nesnáší však přímý úpal.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1493#5",
+  "species": "Ananasovník chocholatý",
+  "latin": "Ananas comosus",
+  "text": "Pochází z tropické Ameriky.",
+  "quote": "Je pouze jisté, že pochází z neotropů, tedy z tropické Ameriky.",
+  "claimed_false_for": {
+   "Q1466032": "Ostřice převislá (Carex pendula)",
+   "Q148734": "Zevar vzpřímený (Sparganium erectum)",
+   "Q150095": "Orobinec nejmenší (Typha minima)",
+   "Q158828": "Ostřice měkkoostenná (Carex muricata)",
+   "Q159027": "Třtina šedavá (Calamagrostis canescens)",
+   "Q159028": "Skřípina lesní (Scirpus sylvaticus)",
+   "Q159103": "Ostřice dvoudomá (Carex dioica)",
+   "Q159894": "Ostřice drobná (Carex supina)",
+   "Q159962": "Smělek štíhlý (Koeleria macrantha)",
+   "Q161304": "Bahnička jednoplevá (Eleocharis uniglumis)",
+   "Q162399": "Bezkolenec rákosovitý (Molinia arundinacea)"
+  }
+ },
+ {
+  "id": "Q150095#0",
+  "species": "Orobinec nejmenší",
+  "latin": "Typha minima",
+  "text": "Tento druh šíří plody větrem; chlupy jim pomáhají létat.",
+  "quote": "Plody se šíří pomocí větru, létací aparát jsou chlupy okvětí.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q150095#1",
+  "species": "Orobinec nejmenší",
+  "latin": "Typha minima",
+  "text": "Tento druh má velmi úzké listy, široké jen 1 až 3 milimetry.",
+  "quote": "jsou velmi úzké, jen asi 1–3 mm široké",
+  "claimed_false_for": {
+   "Q159100": "Drobnička bezkořenná (Wolffia arrhiza)"
+  }
+ },
+ {
+  "id": "Q15041677#0",
+  "species": "Šafrán setý",
+  "latin": "Crocus sativus",
+  "text": "Tento druh kvete na podzim fialovým květem.",
+  "quote": "Na podzim kvete fialovým květem",
+  "claimed_false_for": {
+   "Q157430": "Kokořík vonný (Polygonatum odoratum)",
+   "Q157893": "Hlízovec Loeselův (Liparis loeselii)",
+   "Q159299": "Kokořík mnohokvětý (Polygonatum multiflorum)",
+   "Q159886": "Okřehek nejmenší (Lemna minuta)",
+   "Q161123": "Ostřice horská (Carex montana)",
+   "Q161565": "Šípatka střelolistá (Sagittaria sagittifolia)"
+  }
+ },
+ {
+  "id": "Q15041677#1",
+  "species": "Šafrán setý",
+  "latin": "Crocus sativus",
+  "text": "Tento druh má v každém květu tři dlouhé, purpurově hnědé nitky.",
+  "quote": "v každém květu jsou tři nitkovité, 2–3 cm dlouhé a purpurově hnědé čnělky",
+  "claimed_false_for": {
+   "Q12032661": "Ladoňka karpatská (Scilla kladnii)",
+   "Q163062": "Modřenec hroznatý (Muscari neglectum)",
+   "Q2303755": "Snědek pyrenejský (Ornithogalum pyrenaicum)",
+   "Q27983": "Narcis bílý (Narcissus poeticus)"
+  }
+ },
+ {
+  "id": "Q15075480#0",
+  "species": "Tulipán banátský",
+  "latin": "Tulipa hungarica",
+  "text": "Tento druh má květy, které vypadají jako šesticípá hvězda.",
+  "quote": "vyvolávají dojem šesticípé hvězdy",
+  "claimed_false_for": {
+   "Q157346": "Psárka luční (Alopecurus pratensis)",
+   "Q157765": "Ostřice měchýřkatá (Carex vesicaria)",
+   "Q157772": "Bezkolenec modrý (Molinia caerulea)",
+   "Q158312": "Ostřice srstnatá (Carex hirta)",
+   "Q160723": "Třtina chloupkatá (Calamagrostis villosa)",
+   "Q1778484": "Ostřice pozdní (Carex viridula)"
+  }
+ },
+ {
+  "id": "Q15075480#1",
+  "species": "Tulipán banátský",
+  "latin": "Tulipa hungarica",
+  "text": "Kvete většinou v dubnu, několik týdnů.",
+  "quote": "Většinou v dubnu vykvete po dobu několika týdnů",
+  "claimed_false_for": {
+   "Q1369364": "Třtina rákosovitá (Calamagrostis arundinacea)",
+   "Q152553": "Ocún jesenní (Colchicum autumnale)",
+   "Q156363": "Lilie zlatohlavá (Lilium martagon)",
+   "Q161114": "Trsť rákosovitá (Arundo donax)"
+  }
+ },
+ {
+  "id": "Q1518732#0",
+  "species": "Ostřice černoklasá",
+  "latin": "Carex melanostachya",
+  "text": "Kvete nejčastěji v květnu až v červnu.",
+  "quote": "V ČR kvete nejčastěji v květnu až v červnu.",
+  "claimed_false_for": {
+   "Q161354": "Bér sivý (Setaria pumila)",
+   "Q3338330": "Bahenka šášinovitá (Crypsis schoenoides)"
+  }
+ },
+ {
+  "id": "Q1518732#1",
+  "species": "Ostřice černoklasá",
+  "latin": "Carex melanostachya",
+  "text": "Dosahuje výšky většinou 20 až 60 centimetrů.",
+  "quote": "Jedná se o rostlinu dosahující výšky nejčastěji 20–60, vzácně až 100 cm.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q15238126#0",
+  "species": "Skrytěnka bodlinatá",
+  "latin": "Crypsis aculeata",
+  "text": "Dorůstá jen do výšky pěti až deseti centimetrů.",
+  "quote": "Jednoletá trsnatá tráva vysoká 5 až 10 cm.",
+  "claimed_false_for": {
+   "Q1493": "Ananasovník chocholatý (Ananas comosus)",
+   "Q15476974": "Pětiprstka hustokvětá (Gymnadenia densiflora)",
+   "Q157419": "Chrastice rákosovitá (Phalaris arundinacea)",
+   "Q157885": "Kostřava ovčí (Festuca ovina)",
+   "Q158312": "Ostřice srstnatá (Carex hirta)",
+   "Q161797": "Suchopýr pochvatý (Eriophorum vaginatum)",
+   "Q2074966": "Ostřice Micheliova (Carex michelii)",
+   "Q33913": "Voňatka citronová (Cymbopogon citratus)",
+   "Q637526": "Prstnatec Fuchsův (Dactylorhiza fuchsii)",
+   "Q854799": "Prstnatec pleťový (Dactylorhiza incarnata)"
+  }
+ },
+ {
+  "id": "Q15238126#1",
+  "species": "Skrytěnka bodlinatá",
+  "latin": "Crypsis aculeata",
+  "text": "Kvete od konce července do září.",
+  "quote": "Kvete od konce července do září.",
+  "claimed_false_for": {
+   "Q157895": "Ostřice ostrá (Carex acutiformis)",
+   "Q158026": "Ostřice plstnatoplodá (Carex lasiocarpa)",
+   "Q158109": "Psárka polní (Alopecurus myosuroides)",
+   "Q159608": "Ostřice Davallova (Carex davalliana)"
+  }
+ },
+ {
+  "id": "Q15238126#2",
+  "species": "Skrytěnka bodlinatá",
+  "latin": "Crypsis aculeata",
+  "text": "Tento druh roste tam, kde sůl zničí většinu jiných rostlin.",
+  "quote": "proto volí k růstu místa, kde množství soli likviduje většinu ostatních rostlin.",
+  "claimed_false_for": {
+   "Q159953": "Paličkovec šedavý (Corynephorus canescens)",
+   "Q161800": "Sveřep stoklasa (Bromus secalinus)",
+   "Q163411": "Křivatec český (Gagea bohemica)",
+   "Q163559": "Dosna indická (Canna indica)",
+   "Q500857": "Lontar vějířovitý (Borassus flabellifer)"
+  }
+ },
+ {
+  "id": "Q15238126#3",
+  "species": "Skrytěnka bodlinatá",
+  "latin": "Crypsis aculeata",
+  "text": "Listy končí tuhým, bodavým hrotem.",
+  "quote": "jsou ukončené tuhým bodavým hrotem.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q152553#0",
+  "species": "Ocún jesenní",
+  "latin": "Colchicum autumnale",
+  "text": "Kvete od srpna do listopadu.",
+  "quote": "Kvete od srpna do listopadu",
+  "claimed_false_for": {
+   "Q157346": "Psárka luční (Alopecurus pratensis)",
+   "Q157765": "Ostřice měchýřkatá (Carex vesicaria)",
+   "Q158312": "Ostřice srstnatá (Carex hirta)",
+   "Q159143": "Sítina klubkatá (Juncus conglomeratus)",
+   "Q159285": "Kandík psí zub (Erythronium dens-canis)",
+   "Q163766": "Lilie cibulkonosná (Lilium bulbiferum)",
+   "Q1778484": "Ostřice pozdní (Carex viridula)"
+  }
+ },
+ {
+  "id": "Q152553#1",
+  "species": "Ocún jesenní",
+  "latin": "Colchicum autumnale",
+  "text": "Tento druh obsahuje více než dvacet různých jedovatých látek.",
+  "quote": "Jde o prudce jedovatou rostlinu obsahující více než 20 alkaloidů",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q152553#2",
+  "species": "Ocún jesenní",
+  "latin": "Colchicum autumnale",
+  "text": "Tento druh má mezi evropskými rostlinami nejdelší květ.",
+  "quote": "což z květu ocúnu činí nejdelší květ mezi evropskými druhy vůbec",
+  "claimed_false_for": {
+   "Q157346": "Psárka luční (Alopecurus pratensis)",
+   "Q157765": "Ostřice měchýřkatá (Carex vesicaria)",
+   "Q157772": "Bezkolenec modrý (Molinia caerulea)",
+   "Q157863": "Rdest kadeřavý (Potamogeton crispus)",
+   "Q158312": "Ostřice srstnatá (Carex hirta)",
+   "Q159053": "Zevar úzkolistý (Sparganium angustifolium)",
+   "Q159143": "Sítina klubkatá (Juncus conglomeratus)",
+   "Q159285": "Kandík psí zub (Erythronium dens-canis)",
+   "Q160723": "Třtina chloupkatá (Calamagrostis villosa)",
+   "Q163766": "Lilie cibulkonosná (Lilium bulbiferum)",
+   "Q1778484": "Ostřice pozdní (Carex viridula)"
+  }
+ },
+ {
+  "id": "Q15312475#0",
+  "species": "Kulkas zamiolistý",
+  "latin": "Zamioculcas zamiifolia",
+  "text": "Tento druh přirozeně roste ve východní Africe.",
+  "quote": "Druh se přirozeně vyskytuje ve východní Africe",
+  "claimed_false_for": {
+   "Q119135": "Vraní oko čtyřlisté (Paris quadrifolia)",
+   "Q161476": "Tořič pavoukonosný (Ophrys sphegodes)",
+   "Q163539": "Hnědenec zvrhlý (Limodorum abortivum)",
+   "Q3339674": "Žabníkovka žlutá (Limnocharis flava)",
+   "Q544137": "Posidonie mořská (Posidonia oceanica)",
+   "Q763872": "Kuňucha (Ambrosina bassii)"
+  }
+ },
+ {
+  "id": "Q15312475#1",
+  "species": "Kulkas zamiolistý",
+  "latin": "Zamioculcas zamiifolia",
+  "text": "Tento druh má tlusté, kožovité lístky.",
+  "quote": "Jednotlivé lístky jsou podlouhle eliptické, tlustě kožovité",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q15312475#2",
+  "species": "Kulkas zamiolistý",
+  "latin": "Zamioculcas zamiifolia",
+  "text": "Tento druh v období sucha shazuje lístky.",
+  "quote": "v suchém období prodělává dormantní fázi, při níž lístky opadají",
+  "claimed_false_for": {
+   "Q157863": "Rdest kadeřavý (Potamogeton crispus)",
+   "Q158887": "Vodní mor americký (Elodea nuttallii)",
+   "Q159100": "Drobnička bezkořenná (Wolffia arrhiza)",
+   "Q160354": "Rdestice hustolistá (Groenlandia densa)"
+  }
+ },
+ {
+  "id": "Q15312475#3",
+  "species": "Kulkas zamiolistý",
+  "latin": "Zamioculcas zamiifolia",
+  "text": "Tento druh se často pěstuje jako pokojová rostlina.",
+  "quote": "Kulkas je poměrně často pěstován jako zajímavě vyhlížející pokojová rostlina",
+  "claimed_false_for": {
+   "Q158994": "Rosička krvavá (Digitaria sanguinalis)",
+   "Q159413": "Bika ladní (Luzula campestris)",
+   "Q159487": "Rdest dlouholistý (Potamogeton praelongus)"
+  }
+ },
+ {
+  "id": "Q15324975#0",
+  "species": "Kostus africký",
+  "latin": "Costus afer",
+  "text": "Tento druh miluje vlhko.",
+  "quote": "Je to vlhkomilná rostlina rostoucí obvykle na mokrých lesních okrajích",
+  "claimed_false_for": {
+   "Q161107": "Česnek planý (Allium oleraceum)",
+   "Q8043098": "Žlutokap jižní (Xanthorrhoea australis)"
+  }
+ },
+ {
+  "id": "Q15324975#1",
+  "species": "Kostus africký",
+  "latin": "Costus afer",
+  "text": "Stonek dorůstá do výšky 1 až 3 metry.",
+  "quote": "Vzpřímená rostlina s nevětvenou lodyhou vysokou 1 až 3 m",
+  "claimed_false_for": {
+   "Q1021163": "Bilbergie nicí (Billbergia nutans)",
+   "Q12043120": "Ostřice zčernalá (Carex aterrima)",
+   "Q159734": "Ostřice bažinná (Carex limosa)",
+   "Q161107": "Česnek planý (Allium oleraceum)",
+   "Q2303755": "Snědek pyrenejský (Ornithogalum pyrenaicum)",
+   "Q27983": "Narcis bílý (Narcissus poeticus)",
+   "Q500857": "Lontar vějířovitý (Borassus flabellifer)"
+  }
+ },
+ {
+  "id": "Q15324975#2",
+  "species": "Kostus africký",
+  "latin": "Costus afer",
+  "text": "Tento druh láká hmyz, který přilétá pro nektar.",
+  "quote": "Květy jsou opylovány hmyzem přilétajícím pro nektar.",
+  "claimed_false_for": {
+   "Q12043120": "Ostřice zčernalá (Carex aterrima)",
+   "Q157346": "Psárka luční (Alopecurus pratensis)",
+   "Q159734": "Ostřice bažinná (Carex limosa)",
+   "Q161879": "Zblochan vodní (Glyceria maxima)",
+   "Q2086586": "Chrastice kanárská (Phalaris canariensis)"
+  }
+ },
+ {
+  "id": "Q15324975#3",
+  "species": "Kostus africký",
+  "latin": "Costus afer",
+  "text": "Mravenci odnášejí semena do mravenišť jako potravu.",
+  "quote": "Semena jsou roznášena mravenci, kteří je odnášejí jako potravu do mravenišť.",
+  "claimed_false_for": {
+   "Q311524": "Tilandsie provazovkovitá (Tillandsia usneoides)",
+   "Q500857": "Lontar vějířovitý (Borassus flabellifer)"
+  }
+ },
+ {
+  "id": "Q154500#0",
+  "species": "Závitka mnohokořenná",
+  "latin": "Spirodela polyrhiza",
+  "text": "Tento druh většinou nekvete a tvoří velké kolonie.",
+  "quote": "rostliny vytvářejí rozsáhlé kolonie, ale kvetou jen výjimečně",
+  "claimed_false_for": {
+   "Q1233923": "Árón východní (Arum cylindraceum)",
+   "Q156984": "Blatnice bahenní (Scheuchzeria palustris)",
+   "Q157542": "Vemeníček zelený (Dactylorhiza viridis)",
+   "Q157863": "Rdest kadeřavý (Potamogeton crispus)",
+   "Q157971": "Korálice trojklaná (Corallorhiza trifida)",
+   "Q160354": "Rdestice hustolistá (Groenlandia densa)",
+   "Q161077": "Monstera skvostná (Monstera deliciosa)",
+   "Q1746442": "Toulitka Scherzerova (Anthurium scherzerianum)",
+   "Q2993897": "Denivka žlutá (Hemerocallis lilioasphodelus)"
+  }
+ }
+]

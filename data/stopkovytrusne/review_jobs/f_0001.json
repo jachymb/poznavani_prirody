@@ -1,0 +1,485 @@
+[
+ {
+  "id": "Q1183020#0",
+  "species": "Helmovka slizká",
+  "latin": "Mycena epipterygia",
+  "text": "Tento druh má žlutý třeň, který časem bledne.",
+  "quote": "třeň je výrazně žlutý, stárnutím postupně bledne.",
+  "claimed_false_for": {
+   "Q1281074": "Muchomůrka vejčitá (Amanita ovoidea)",
+   "Q1356296": "Ohňovec obecný (Phellinus igniarius)",
+   "Q1757951": "Květnatec Archerův (Clathrus archeri)",
+   "Q2714680": "Šťavnatka holubinková (Hygrophorus russula)",
+   "Q472817": "Muchomůrka jízlivá (Amanita virosa)",
+   "Q48188": "Hadovka smrdutá (Phallus impudicus)",
+   "Q5861745": "Helmovka louhová (Mycena stipata)",
+   "Q84335147": "Voskovka panenská (Cuphophyllus virgineus)",
+   "Q882592": "Lysohlávka modrající (Psilocybe cyanescens)",
+   "Q913459": "Muchomůrka pošvatá (Amanita vaginata)"
+  }
+ },
+ {
+  "id": "Q12021263#0",
+  "species": "Hřib skvrnitý",
+  "latin": "Hemileccinum depilatum",
+  "text": "Klobouk dosahuje 4 až 10 centimetrů.",
+  "quote": "Klobouk dosahuje 40–100 (150) milimetrů",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q12021263#1",
+  "species": "Hřib skvrnitý",
+  "latin": "Hemileccinum depilatum",
+  "text": "Tento druh má silnou chemickou vůni, hlavně ve spodní části třeně.",
+  "quote": "Vůně plodnic je chemická, připomíná jodoform případně karbol (fenol), především ve spodní části třeně.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q12021263#2",
+  "species": "Hřib skvrnitý",
+  "latin": "Hemileccinum depilatum",
+  "text": "Plodnice rostou od července do září.",
+  "quote": "fruktifikuje od července do září",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q12021263#3",
+  "species": "Hřib skvrnitý",
+  "latin": "Hemileccinum depilatum",
+  "text": "Žije spolu s kořeny habrů, lip a lísek.",
+  "quote": "Tvoří mykorhizu s habry, lipami a lískami.",
+  "claimed_false_for": {
+   "Q10682293": "Hřib dřevožijný (Buchwaldoboletus lignicola)",
+   "Q610344": "Křemenáč borový (Leccinum vulpinum)",
+   "Q901445": "Závojenka plavozelenavá (Entoloma incanum)",
+   "Q97013114": "Hřib Moserův (Rubroboletus rubrosanguineus)"
+  }
+ },
+ {
+  "id": "Q1210127#0",
+  "species": "Pestřec obecný",
+  "latin": "Scleroderma citrinum",
+  "text": "Roste zhruba od července do října.",
+  "quote": "Pestřec obecný roste zhruba od července do října v písčitých a nevápenatých půdách.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q12236668#0",
+  "species": "Liška šedá",
+  "latin": "Cantharellus cinereus",
+  "text": "Plodnice je vysoká tři až deset centimetrů.",
+  "quote": "Plodnice je vysoká asi 3–10 cm",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q12236668#1",
+  "species": "Liška šedá",
+  "latin": "Cantharellus cinereus",
+  "text": "Pod kloboukem jsou žilnaté záhyby, které sbíhají na třeň.",
+  "quote": "výtrusné rouško, tvořený poměrně řídkými, mírně větvenými žilnatými lištami, které sbíhají hluboko na třeň.",
+  "claimed_false_for": {
+   "Q10508003": "Černolupen krvavý (Melanophyllum haematospermum)",
+   "Q1356296": "Ohňovec obecný (Phellinus igniarius)",
+   "Q1473080": "Čirůvka mýdlová (Tricholoma saponaceum)",
+   "Q1500783": "Helmovka ředkvičková (Mycena pura)",
+   "Q1759472": "Holubinka Romellova (Russula romellii)",
+   "Q1978889": "Holubinka jitřenková (Russula aurora)",
+   "Q36992": "Kotrč kadeřavý (Sparassis crispa)"
+  }
+ },
+ {
+  "id": "Q12236668#2",
+  "species": "Liška šedá",
+  "latin": "Cantharellus cinereus",
+  "text": "Tento druh roste pod listnatými stromy, například pod buky.",
+  "quote": "pod buky i jinými listnáči",
+  "claimed_false_for": {
+   "Q36992": "Kotrč kadeřavý (Sparassis crispa)"
+  }
+ },
+ {
+  "id": "Q12236668#3",
+  "species": "Liška šedá",
+  "latin": "Cantharellus cinereus",
+  "text": "Tento druh obvykle roste ve skupinách nebo v trsech.",
+  "quote": "Obyčejně vyrůstají ve skupinách či bohatých trsech.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1265951#0",
+  "species": "Holubinka tmavopurpurová",
+  "latin": "Russula fuscorubroides",
+  "text": "Po dešti je klobouk lesklý a lepkavý.",
+  "quote": "po dešti lesklá a lepkavá",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1265951#1",
+  "species": "Holubinka tmavopurpurová",
+  "latin": "Russula fuscorubroides",
+  "text": "Tento druh nejraději roste u borovic a smrků.",
+  "quote": "ze stromů preferuje borovice a smrky",
+  "claimed_false_for": {
+   "Q12236668": "Liška šedá (Cantharellus cinereus)",
+   "Q557377": "Pevník chlupatý (Stereum hirsutum)",
+   "Q583388": "Čirůvka sírožlutá (Tricholoma sulphureum)"
+  }
+ },
+ {
+  "id": "Q1281074#0",
+  "species": "Muchomůrka vejčitá",
+  "latin": "Amanita ovoidea",
+  "text": "Tento druh dorůstá do šířky 10 až 20 centimetrů.",
+  "quote": "Klobouk dosahuje 100 – 200 (300) milimetrů",
+  "claimed_false_for": {
+   "Q1367003": "Pavučinec plyšový (Cortinarius orellanus)",
+   "Q1477279": "Lysohlávka mexická (Psilocybe mexicana)",
+   "Q1516668": "Holubinka křehká (Russula fragilis)",
+   "Q188749": "Liška obecná (Cantharellus cibarius)",
+   "Q300967": "Bedla vlnatá (Lepiota clypeolaria)",
+   "Q732640": "Opeňka měnlivá (Kuehneromyces mutabilis)"
+  }
+ },
+ {
+  "id": "Q1281074#1",
+  "species": "Muchomůrka vejčitá",
+  "latin": "Amanita ovoidea",
+  "text": "Tento druh v dospělosti páchne jako ryby nebo mořské řasy.",
+  "quote": "v dospělosti má nepříjemný pach připomínající rybinu nebo mořské řasy",
+  "claimed_false_for": {
+   "Q188749": "Liška obecná (Cantharellus cibarius)",
+   "Q1928462": "Čirůvka tygrovaná (Tricholoma pardinum)",
+   "Q954191": "Anýzovník vonný (Gloeophyllum odoratum)"
+  }
+ },
+ {
+  "id": "Q1281074#2",
+  "species": "Muchomůrka vejčitá",
+  "latin": "Amanita ovoidea",
+  "text": "Tento druh roste pod duby a borovicemi a spolupracuje s nimi.",
+  "quote": "Žije jako mykorhizní symbiont listnatých stromů – dubů a borovic.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1281074#3",
+  "species": "Muchomůrka vejčitá",
+  "latin": "Amanita ovoidea",
+  "text": "Tento druh roste od července do září.",
+  "quote": "Fruktifikuje od července do září.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1311019#0",
+  "species": "Pevník krvavějící",
+  "latin": "Stereum sanguinolentum",
+  "text": "Tvoří tenké krusty na povrchu dřeva.",
+  "quote": "Tvoří tenké kožovité krusty povrchu dřeva.",
+  "claimed_false_for": {
+   "Q1265951": "Holubinka tmavopurpurová (Russula fuscorubroides)",
+   "Q1569411": "Holubinka habrová (Russula carpini)",
+   "Q1978889": "Holubinka jitřenková (Russula aurora)",
+   "Q20721683": "Hřib moravský (Aureoboletus moravicus)",
+   "Q26203758": "Hřib růžovník (Butyriboletus fuscoroseus)",
+   "Q302097": "Holubinka révová (Russula xerampelina)",
+   "Q378947": "Kyj Herkulův (Clavariadelphus pistillaris)",
+   "Q639524": "Holubinka černající (Russula nigricans)",
+   "Q64785775": "Hřib medotrpký (Caloboletus radicans)",
+   "Q80699": "Holubinka rudonohá (Russula rhodopus)",
+   "Q81182623": "Ježatec různozubý (Hericium cirrhatum)",
+   "Q843177": "Holubinka bílá (Russula delica)"
+  }
+ },
+ {
+  "id": "Q1311019#1",
+  "species": "Pevník krvavějící",
+  "latin": "Stereum sanguinolentum",
+  "text": "Roní při poranění červenou tekutinu.",
+  "quote": "Čerstvé plodnice roní při poranění tekutinu červené barvy.",
+  "claimed_false_for": {
+   "Q1043730": "Hlívovník olivový (Omphalotus olearius)",
+   "Q1165733": "Ryzec indigový (Lactarius indigo)",
+   "Q1586855": "Holubinka měnlivá (Russula risigallina)",
+   "Q23637": "Ryzec šeredný (Lactarius turpis)",
+   "Q2640544": "Lžičkovec šiškový (Auriscalpium vulgare)",
+   "Q331465": "Krásnoporka mlynářka (Albatrellus ovinus)",
+   "Q355571": "Kozák šedozelený (Leccinum variicolor)",
+   "Q596896": "Liška Friesova (Cantharellus friesii)",
+   "Q901119": "Holubinka celokrajná (Russula integra)",
+   "Q954191": "Anýzovník vonný (Gloeophyllum odoratum)"
+  }
+ },
+ {
+  "id": "Q1311019#2",
+  "species": "Pevník krvavějící",
+  "latin": "Stereum sanguinolentum",
+  "text": "Nejvíce nových plodnic roste na jaře a na podzim.",
+  "quote": "Nejvíce nových plodnic vyrůstá na jaře a na podzim.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1311019#3",
+  "species": "Pevník krvavějící",
+  "latin": "Stereum sanguinolentum",
+  "text": "Rozkládá hlavně mrtvé dřevo, třeba padlé kmeny.",
+  "quote": "Rozkládá především odumřelou dřevní hmotu, například padlé kmeny.",
+  "claimed_false_for": {
+   "Q12236668": "Liška šedá (Cantharellus cinereus)",
+   "Q1323740": "Holubinka trávozelená (Russula aeruginea)",
+   "Q1547946": "Holubinka akvamarínová (Russula chloroides)",
+   "Q262105": "Lošák jelení (Sarcodon imbricatus)",
+   "Q531903": "Holubinka sličná (Russula rosea)",
+   "Q583388": "Čirůvka sírožlutá (Tricholoma sulphureum)",
+   "Q80699": "Holubinka rudonohá (Russula rhodopus)",
+   "Q843177": "Holubinka bílá (Russula delica)",
+   "Q999441": "Holubinka hořká (Russula caerulea)"
+  }
+ },
+ {
+  "id": "Q131227#0",
+  "species": "Muchomůrka červená",
+  "latin": "Amanita muscaria",
+  "text": "Tento druh má klobouk 8 až 20 centimetrů v průměru.",
+  "quote": "Klobouk může mít průměr 8–20 cm.",
+  "claimed_false_for": {
+   "Q1477279": "Lysohlávka mexická (Psilocybe mexicana)"
+  }
+ },
+ {
+  "id": "Q131227#1",
+  "species": "Muchomůrka červená",
+  "latin": "Amanita muscaria",
+  "text": "Tento druh patří mezi nejznámější jedovaté houby.",
+  "quote": "Patří k nejznámějším jedovatým houbám",
+  "claimed_false_for": {
+   "Q2714680": "Šťavnatka holubinková (Hygrophorus russula)",
+   "Q48188": "Hadovka smrdutá (Phallus impudicus)",
+   "Q84335147": "Voskovka panenská (Cuphophyllus virgineus)"
+  }
+ },
+ {
+  "id": "Q1323740#0",
+  "species": "Holubinka trávozelená",
+  "latin": "Russula aeruginea",
+  "text": "Roste od června do října, nejčastěji pod břízami.",
+  "quote": "roste od června do října v listnatých i jehličnatých lesích, nejčastěji pod břízami",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1323740#1",
+  "species": "Holubinka trávozelená",
+  "latin": "Russula aeruginea",
+  "text": "Tento druh má klobouk zelený jako tráva.",
+  "quote": "Pokožka olivově nebo trávově zelená",
+  "claimed_false_for": {
+   "Q1265951": "Holubinka tmavopurpurová (Russula fuscorubroides)",
+   "Q1586855": "Holubinka měnlivá (Russula risigallina)",
+   "Q26203718": "Hřib kovář (Neoboletus luridiformis)",
+   "Q29784429": "Hřib kříšť (Caloboletus calopus)",
+   "Q430845": "Ryzec dubový (Lactarius quietus)",
+   "Q639524": "Holubinka černající (Russula nigricans)"
+  }
+ },
+ {
+  "id": "Q1323787#0",
+  "species": "Hřib plavý",
+  "latin": "Hemileccinum impolitum",
+  "text": "Klobouk bývá široký 6 až 13 centimetrů.",
+  "quote": "Klobouk dosahuje 60–130 (170) milimetrů",
+  "claimed_false_for": {
+   "Q1029124": "Pařezník obecný (Panellus stipticus)"
+  }
+ },
+ {
+  "id": "Q1323787#1",
+  "species": "Hřib plavý",
+  "latin": "Hemileccinum impolitum",
+  "text": "Žije ve spolupráci s kořeny dubů.",
+  "quote": "Typickým mykorhizním symbiontem je dub",
+  "claimed_false_for": {
+   "Q12021263": "Hřib skvrnitý (Hemileccinum depilatum)",
+   "Q1495949": "Kržatka otrubičnatá (Tubaria furfuracea)",
+   "Q226967": "Rezavec štětinatý (Inonotus hispidus)",
+   "Q631566": "Pstřeň dubový (Fistulina hepatica)",
+   "Q816730": "Klouzek obecný (Suillus luteus)"
+  }
+ },
+ {
+  "id": "Q1323787#2",
+  "species": "Hřib plavý",
+  "latin": "Hemileccinum impolitum",
+  "text": "Tento druh se objevuje od konce května do konce září.",
+  "quote": "Fruktifikuje od konce května do konce září.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1323791#0",
+  "species": "Hřib horský",
+  "latin": "Butyriboletus subappendiculatus",
+  "text": "Tento druh má klobouk 6 až 12 centimetrů.",
+  "quote": "Klobouk dosahuje 60 – 120 milimetrů",
+  "claimed_false_for": {
+   "Q1495949": "Kržatka otrubičnatá (Tubaria furfuracea)"
+  }
+ },
+ {
+  "id": "Q1323791#1",
+  "species": "Hřib horský",
+  "latin": "Butyriboletus subappendiculatus",
+  "text": "Tento druh po rozkrojení asi za hodinu zrůžoví dole na stopce.",
+  "quote": "Zhruba hodinu po rozkrojení se dužina v dolní polovině třeně barví dorůžova",
+  "claimed_false_for": {
+   "Q10511337": "Hřib pružný (Aureoboletus gentilis)",
+   "Q1165913": "Hřibník kaštanový (Gyroporus castaneus)",
+   "Q29362": "Čirůvka fialová (Lepista nuda)",
+   "Q76922": "Šťavnatka tečkovaná (Hygrophorus pustulatus)",
+   "Q783554": "Slizečka porcelánová (Oudemansiella mucida)",
+   "Q980655": "Hvězdák vlhkoměrný (Astraeus hygrometricus)"
+  }
+ },
+ {
+  "id": "Q1323791#2",
+  "species": "Hřib horský",
+  "latin": "Butyriboletus subappendiculatus",
+  "text": "Tento druh roste v lesích pod smrky.",
+  "quote": "Roste v jehličnatých (méně často smíšených) lesích pod smrky, případně pod jedlemi.",
+  "claimed_false_for": {
+   "Q2501490": "Hřib uťatovýtrusý (Xerocomellus porosporus)",
+   "Q26203731": "Hřib satan (Rubroboletus satanas)",
+   "Q610344": "Křemenáč borový (Leccinum vulpinum)",
+   "Q752494": "Hřib koloděj (Suillellus luridus)",
+   "Q901445": "Závojenka plavozelenavá (Entoloma incanum)"
+  }
+ },
+ {
+  "id": "Q1323791#3",
+  "species": "Hřib horský",
+  "latin": "Butyriboletus subappendiculatus",
+  "text": "Tento druh je ohrožený, je zapsaný v Červeném seznamu hub.",
+  "quote": "jde o ohrožený druh (EN) vedený v Červeném seznamu hub České republiky",
+  "claimed_false_for": {
+   "Q1495949": "Kržatka otrubičnatá (Tubaria furfuracea)",
+   "Q226967": "Rezavec štětinatý (Inonotus hispidus)",
+   "Q752497": "Hřib hnědý (Imleria badia)",
+   "Q816730": "Klouzek obecný (Suillus luteus)"
+  }
+ },
+ {
+  "id": "Q1347128#0",
+  "species": "Klouzek strakoš",
+  "latin": "Suillus variegatus",
+  "text": "Roste od července do listopadu.",
+  "quote": "Roste od července až do listopadu, v písčitých borech, zejména v mladším porostu.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1347128#1",
+  "species": "Klouzek strakoš",
+  "latin": "Suillus variegatus",
+  "text": "Dává přednost borovici lesní a kyselejší půdě.",
+  "quote": "Upřednostňuje borovici lesní, kyselejší půdu a vlhká až podmáčená místa.",
+  "claimed_false_for": {
+   "Q1323791": "Hřib horský (Butyriboletus subappendiculatus)",
+   "Q1624061": "Hřib dutonohý (Suillus cavipes)",
+   "Q41713384": "Hřib vonný (Lanmaoa fragrans)",
+   "Q81797377": "Hřib Dupainův (Rubroboletus dupainii)"
+  }
+ },
+ {
+  "id": "Q1356296#0",
+  "species": "Ohňovec obecný",
+  "latin": "Phellinus igniarius",
+  "text": "Způsobuje hnilobu dřeva živých stromů.",
+  "quote": "Způsobuje intenzivní hnilobu dřeva živých stromů.",
+  "claimed_false_for": {
+   "Q10508003": "Černolupen krvavý (Melanophyllum haematospermum)",
+   "Q1477279": "Lysohlávka mexická (Psilocybe mexicana)",
+   "Q1568901": "Kuřátka květáková (Ramaria botrytis)",
+   "Q2255842": "Voskovka stálá (Hygrocybe acutoconica)",
+   "Q29362": "Čirůvka fialová (Lepista nuda)",
+   "Q509308": "Čirůvka větší (Tricholoma matsutake)",
+   "Q545130": "Pýchavka obecná (Lycoperdon perlatum)",
+   "Q76922": "Šťavnatka tečkovaná (Hygrophorus pustulatus)"
+  }
+ },
+ {
+  "id": "Q1356296#1",
+  "species": "Ohňovec obecný",
+  "latin": "Phellinus igniarius",
+  "text": "Tento druh má staré plodnice s povrchem rozpraskaným do políček.",
+  "quote": "staré plodnice mají políčkovitě rozpraskaný povrch",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1367003#0",
+  "species": "Pavučinec plyšový",
+  "latin": "Cortinarius orellanus",
+  "text": "Tento druh je smrtelně jedovatý.",
+  "quote": "je smrtelně jedovatá houba",
+  "claimed_false_for": {
+   "Q13684": "Lišák zprohýbaný (Hydnum repandum)",
+   "Q1495949": "Kržatka otrubičnatá (Tubaria furfuracea)",
+   "Q186451": "Hlíva ústřičná (Pleurotus ostreatus)",
+   "Q234529": "Pečárka polní (Agaricus campestris)",
+   "Q302097": "Holubinka révová (Russula xerampelina)"
+  }
+ },
+ {
+  "id": "Q1367003#1",
+  "species": "Pavučinec plyšový",
+  "latin": "Cortinarius orellanus",
+  "text": "Tento druh roste od července do října.",
+  "quote": "od července do října",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1367003#2",
+  "species": "Pavučinec plyšový",
+  "latin": "Cortinarius orellanus",
+  "text": "Tento druh roste hlavně pod duby, buky a habry.",
+  "quote": "zejména pod duby, buky a habry",
+  "claimed_false_for": {
+   "Q1347128": "Klouzek strakoš (Suillus variegatus)",
+   "Q1548745": "Šťavnatka hnědobílá (Hygrophorus latitabundus)",
+   "Q2255842": "Voskovka stálá (Hygrocybe acutoconica)",
+   "Q261047": "Čirůvka havelka (Tricholoma portentosum)",
+   "Q498221": "Ryzec smrkový (Lactarius deterrimus)",
+   "Q752492": "Špička obecná (Marasmius oreades)"
+  }
+ },
+ {
+  "id": "Q1367003#3",
+  "species": "Pavučinec plyšový",
+  "latin": "Cortinarius orellanus",
+  "text": "Tento druh má sametově plstnatý klobouk.",
+  "quote": "je sametově plstnatý nebo šupinkatý",
+  "claimed_false_for": {
+   "Q1548745": "Šťavnatka hnědobílá (Hygrophorus latitabundus)",
+   "Q220662": "Muchomůrka císařka (Amanita caesarea)",
+   "Q2255842": "Voskovka stálá (Hygrocybe acutoconica)",
+   "Q261047": "Čirůvka havelka (Tricholoma portentosum)",
+   "Q498221": "Ryzec smrkový (Lactarius deterrimus)",
+   "Q752492": "Špička obecná (Marasmius oreades)"
+  }
+ },
+ {
+  "id": "Q13684#0",
+  "species": "Lišák zprohýbaný",
+  "latin": "Hydnum repandum",
+  "text": "Tento druh má pod kloboukem husté ostny dlouhé asi půl centimetru.",
+  "quote": "Na spodní straně klobouku se nachází hymenofor tvořený nápadnými, hustými, asi 0,5 centimetru dlouhými ostny.",
+  "claimed_false_for": {
+   "Q10508003": "Černolupen krvavý (Melanophyllum haematospermum)",
+   "Q1356296": "Ohňovec obecný (Phellinus igniarius)",
+   "Q1473080": "Čirůvka mýdlová (Tricholoma saponaceum)",
+   "Q1500783": "Helmovka ředkvičková (Mycena pura)",
+   "Q1759472": "Holubinka Romellova (Russula romellii)",
+   "Q1978889": "Holubinka jitřenková (Russula aurora)",
+   "Q2120850": "Síťkovec načervenalý (Daedaleopsis confragosa)",
+   "Q36992": "Kotrč kadeřavý (Sparassis crispa)",
+   "Q54356860": "Strmělka kyjonohá (Ampulloclitocybe clavipes)",
+   "Q772098": "Sírovec žlutooranžový (Laetiporus sulphureus)",
+   "Q783554": "Slizečka porcelánová (Oudemansiella mucida)",
+   "Q913466": "Strmělka anýzka (Clitocybe odora)"
+  }
+ }
+]

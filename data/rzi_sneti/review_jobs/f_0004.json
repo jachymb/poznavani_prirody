@@ -1,0 +1,85 @@
+[
+ {
+  "id": "Q1430040#x0",
+  "species": "Sněť kukuřičná",
+  "latin": "Ustilago maydis",
+  "text": "Napadá všechny nadzemní části kukuřice a tvoří na nich nádory.",
+  "quote": "the fungus forms galls on all above-ground parts of corn species such as maize and teosinte",
+  "claimed_false_for": {
+   "Q1342327": "Rez travní (Puccinia graminis)",
+   "Q1439264": "Rez slézová (Puccinia malvacearum)",
+   "Q1602264": "Rez vrbková (Pucciniastrum epilobii)",
+   "Q2301438": "Rez vejmutovková (Cronartium ribicola)",
+   "Q449430": "Rez hrušňová (Gymnosporangium sabinae)"
+  }
+ },
+ {
+  "id": "Q1430040#x3",
+  "species": "Sněť kukuřičná",
+  "latin": "Ustilago maydis",
+  "text": "Spóry roznáší déšť a vítr.",
+  "quote": "Mature tumors release spores that are dispersed by rain and wind.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1430040#x4",
+  "species": "Sněť kukuřičná",
+  "latin": "Ustilago maydis",
+  "text": "Přezimuje ve formě spór v půdě.",
+  "quote": "corn smut can also overwinter in the soil",
+  "claimed_false_for": {
+   "Q2301438": "Rez vejmutovková (Cronartium ribicola)",
+   "Q449430": "Rez hrušňová (Gymnosporangium sabinae)"
+  }
+ },
+ {
+  "id": "Q1430040#x5",
+  "species": "Sněť kukuřičná",
+  "latin": "Ustilago maydis",
+  "text": "V laboratoři se na jednoduché živné půdě chová jako pekařské kvasinky.",
+  "quote": "When grown in the lab on very simple media, M. maydis behaves like baker's yeast",
+  "claimed_false_for": {
+   "Q1342327": "Rez travní (Puccinia graminis)",
+   "Q1439264": "Rez slézová (Puccinia malvacearum)",
+   "Q1602264": "Rez vrbková (Pucciniastrum epilobii)",
+   "Q2301438": "Rez vejmutovková (Cronartium ribicola)",
+   "Q449430": "Rez hrušňová (Gymnosporangium sabinae)"
+  }
+ },
+ {
+  "id": "Q1602264#x0",
+  "species": "Rez vrbková",
+  "latin": "Pucciniastrum epilobii",
+  "text": "Střídá dva hostitele, jedle a vrbovky.",
+  "quote": "in der haploiden Phase auf verschiedenen Tannen lebt. In der dikaryoten Phase lebt er auf Weidenröschen",
+  "claimed_false_for": {
+   "Q1342327": "Rez travní (Puccinia graminis)",
+   "Q1430040": "Sněť kukuřičná (Ustilago maydis)",
+   "Q1439264": "Rez slézová (Puccinia malvacearum)",
+   "Q2301438": "Rez vejmutovková (Cronartium ribicola)",
+   "Q449430": "Rez hrušňová (Gymnosporangium sabinae)"
+  }
+ },
+ {
+  "id": "Q1602264#x1",
+  "species": "Rez vrbková",
+  "latin": "Pucciniastrum epilobii",
+  "text": "Napadá také pěstované fuchsie.",
+  "quote": "aber auch auf Fuchsienkulturen",
+  "claimed_false_for": {
+   "Q1342327": "Rez travní (Puccinia graminis)",
+   "Q1430040": "Sněť kukuřičná (Ustilago maydis)",
+   "Q1439264": "Rez slézová (Puccinia malvacearum)",
+   "Q2301438": "Rez vejmutovková (Cronartium ribicola)",
+   "Q449430": "Rez hrušňová (Gymnosporangium sabinae)"
+  }
+ },
+ {
+  "id": "Q1602264#x3",
+  "species": "Rez vrbková",
+  "latin": "Pucciniastrum epilobii",
+  "text": "Vyskytuje se v Evropě, Severní Americe, Číně, Austrálii i na Novém Zélandu.",
+  "quote": "So ist er außer in Europa auch in Nordamerika, Guatemala, Ecuador, China, Australien und Neuseeland bekannt.",
+  "claimed_false_for": {}
+ }
+]

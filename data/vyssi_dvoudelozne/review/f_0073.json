@@ -1,0 +1,43 @@
+{
+ "drop_facts": [
+  {"id": "Q164158#2", "why": "vynechává 'ojediněle' a omezení na ČR; bez článku nedává smysl (parky a zahrady)"},
+  {"id": "Q164223#1", "why": "krkolomné 'Tento druh má semena, která...'"},
+  {"id": "Q164223#2", "why": "odporuje biologii: pryšec skočcový je typicky dvouletý; navíc přidané 'jen'"},
+  {"id": "Q164232#2", "why": "chybný rod 'ji' u devaterníku, nejasný podmět; 'protože' přidává příčinnou souvislost"},
+  {"id": "Q164270#2", "why": "krkolomný a dvojznačný slovosled (mravenci jako podmět nebo 7. pád)"},
+  {"id": "Q164288#3", "why": "sporné: česnekový zápach je doložen u příbuzných druhů penízku, u tohoto nejistý"},
+  {"id": "Q164323#0", "why": "sporné: weigelie kvete hlavně v květnu a červnu, duben až srpen je přehnaný rozsah"}
+ ],
+ "drop_pairs": [
+  {"id": "Q164151#1", "species": "Q22699"},
+  {"id": "Q164174#0", "species": "Q1017264"},
+  {"id": "Q164174#0", "species": "Q159897"},
+  {"id": "Q164174#1", "species": "Q159179"},
+  {"id": "Q164174#1", "species": "Q3938471"},
+  {"id": "Q164174#1", "species": "Q478530"},
+  {"id": "Q164223#3", "species": "Q161888"},
+  {"id": "Q164229#0", "species": "Q158303"},
+  {"id": "Q164229#1", "species": "Q147192"},
+  {"id": "Q164229#1", "species": "Q147834"},
+  {"id": "Q164229#1", "species": "Q158040"},
+  {"id": "Q164229#1", "species": "Q163383"},
+  {"id": "Q164232#0", "species": "Q187941"},
+  {"id": "Q164232#0", "species": "Q522881"},
+  {"id": "Q164232#3", "species": "Q187941"},
+  {"id": "Q164232#3", "species": "Q42385"},
+  {"id": "Q164232#3", "species": "Q522881"},
+  {"id": "Q164246#0", "species": "Q158303"},
+  {"id": "Q164248#1", "species": "Q161382"},
+  {"id": "Q164248#1", "species": "Q2716902"},
+  {"id": "Q164248#1", "species": "Q470006"},
+  {"id": "Q164261#1", "species": "Q1074622"},
+  {"id": "Q164261#1", "species": "Q158303"},
+  {"id": "Q164270#0", "species": "Q156907"},
+  {"id": "Q164270#0", "species": "Q158112"},
+  {"id": "Q164270#0", "species": "Q159652"},
+  {"id": "Q164270#0", "species": "Q17743711"},
+  {"id": "Q164270#0", "species": "Q306399"},
+  {"id": "Q164270#0", "species": "Q782073"},
+  {"id": "Q164323#1", "species": "Q163681"}
+ ]
+}

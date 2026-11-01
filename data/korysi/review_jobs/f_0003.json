@@ -1,0 +1,128 @@
+[
+ {
+  "id": "Q136116#0",
+  "species": "Rak Gouldův",
+  "latin": "Astacopsis gouldi",
+  "text": "Živí se rostlinami i živočichy.",
+  "quote": "v jeho potravě se vyskytuje rostlinná i živočišná složka",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q136116#1",
+  "species": "Rak Gouldův",
+  "latin": "Astacopsis gouldi",
+  "text": "Dorůstá až 80 cm délky těla.",
+  "quote": "Dorůstá až 80 cm délky těla",
+  "claimed_false_for": {
+   "Q134974": "Světélkovec atlantský (Meganyctiphanes norvegica)",
+   "Q1472053": "Žábronožka sněžní (Eubranchipus grubii)",
+   "Q1519675": "Rak mexický (Cambarellus patzcuarensis)",
+   "Q210959": "Rak říční (Astacus astacus)",
+   "Q21171": "Stínka obecná (Porcellio scaber)",
+   "Q287523": "Rak kamenáč (Austropotamobius torrentium)",
+   "Q571290": "Rak bahenní (Astacus leptodactylus)",
+   "Q61642001": "Rak mramorovaný (Procambarus virginalis)"
+  }
+ },
+ {
+  "id": "Q1472053#0",
+  "species": "Žábronožka sněžní",
+  "latin": "Eubranchipus grubii",
+  "text": "Živí se mikroplanktonem.",
+  "quote": "který se živí mikroplanktonem",
+  "claimed_false_for": {
+   "Q1573371": "Stínka zední (Oniscus asellus)",
+   "Q206070": "Krab palmový (Birgus latro)",
+   "Q210959": "Rak říční (Astacus astacus)",
+   "Q21171": "Stínka obecná (Porcellio scaber)",
+   "Q27690": "Humr evropský (Homarus gammarus)",
+   "Q693000": "Rak signální (Pacifastacus leniusculus)",
+   "Q720580": "Krab měnlivý (Pachygrapsus marmoratus)"
+  }
+ },
+ {
+  "id": "Q1472053#1",
+  "species": "Žábronožka sněžní",
+  "latin": "Eubranchipus grubii",
+  "text": "Dožívá se jen 2 až 3 týdny.",
+  "quote": "Dožívá se jen 2 až 3 týdny.",
+  "claimed_false_for": {
+   "Q1135229": "Žábronožka solná (Artemia salina)",
+   "Q1573371": "Stínka zední (Oniscus asellus)",
+   "Q206070": "Krab palmový (Birgus latro)",
+   "Q210959": "Rak říční (Astacus astacus)",
+   "Q21171": "Stínka obecná (Porcellio scaber)",
+   "Q27690": "Humr evropský (Homarus gammarus)",
+   "Q571443": "Krunýřovka krillová (Euphausia superba)",
+   "Q693000": "Rak signální (Pacifastacus leniusculus)",
+   "Q720580": "Krab měnlivý (Pachygrapsus marmoratus)"
+  }
+ },
+ {
+  "id": "Q21171#0",
+  "species": "Stínka obecná",
+  "latin": "Porcellio scaber",
+  "text": "Živí se tlejícími rostlinami.",
+  "quote": "Mezi její potravu patří tlející rostliny.",
+  "claimed_false_for": {
+   "Q43735": "Strašek paví (Odontodactylus scyllarus)",
+   "Q585024": "Kreveta baltická (Palaemon adspersus)"
+  }
+ },
+ {
+  "id": "Q21171#1",
+  "species": "Stínka obecná",
+  "latin": "Porcellio scaber",
+  "text": "Bývá kořistí pavouků.",
+  "quote": "Často bývá kořistí pavouků z rodu šestiočka",
+  "claimed_false_for": {
+   "Q43735": "Strašek paví (Odontodactylus scyllarus)",
+   "Q585024": "Kreveta baltická (Palaemon adspersus)"
+  }
+ },
+ {
+  "id": "Q3643627#0",
+  "species": "Žábronožka letní",
+  "latin": "Branchipus schaefferi",
+  "text": "Dorůstá velikosti až 2,5 cm.",
+  "quote": "Dorůstají velikosti až 2,5 cm.",
+  "claimed_false_for": {
+   "Q135052": "Listonoh americký (Triops longicaudatus)",
+   "Q206070": "Krab palmový (Birgus latro)",
+   "Q210959": "Rak říční (Astacus astacus)",
+   "Q27690": "Humr evropský (Homarus gammarus)",
+   "Q571443": "Krunýřovka krillová (Euphausia superba)",
+   "Q693000": "Rak signální (Pacifastacus leniusculus)",
+   "Q720580": "Krab měnlivý (Pachygrapsus marmoratus)"
+  }
+ },
+ {
+  "id": "Q571443#0",
+  "species": "Krunýřovka krillová",
+  "latin": "Euphausia superba",
+  "text": "Živí se droboučkým fytoplanktonem.",
+  "quote": "Živí se droboučkým fytoplanktonem",
+  "claimed_false_for": {
+   "Q136116": "Rak Gouldův (Astacopsis gouldi)",
+   "Q206070": "Krab palmový (Birgus latro)",
+   "Q2798958": "Stínka drobná (Lepidoniscus minutus)",
+   "Q720597": "Krab bradavčitý (Eriphia verrucosa)"
+  }
+ },
+ {
+  "id": "Q585024#0",
+  "species": "Kreveta baltická",
+  "latin": "Palaemon adspersus",
+  "text": "Tento druh se živí hlavně řasami a drobnými korýši.",
+  "quote": "Živí se především řasami a drobnými korýšky.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q585024#1",
+  "species": "Kreveta baltická",
+  "latin": "Palaemon adspersus",
+  "text": "Klade vajíčka v létě.",
+  "quote": "Vajíčka klade v létě.",
+  "claimed_false_for": {}
+ }
+]

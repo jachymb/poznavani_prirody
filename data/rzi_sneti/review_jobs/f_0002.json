@@ -1,0 +1,35 @@
+[
+ {
+  "id": "Q1430040#0",
+  "species": "Sněť kukuřičná",
+  "latin": "Ustilago maydis",
+  "text": "Tento druh se objevuje až v letních měsících.",
+  "quote": "Spory klíčí při vyšších teplotách, proto se vyskytuje sněť na hostiteli až v letních měsících.",
+  "claimed_false_for": {
+   "Q2301438": "Rez vejmutovková (Cronartium ribicola)",
+   "Q449430": "Rez hrušňová (Gymnosporangium sabinae)"
+  }
+ },
+ {
+  "id": "Q1430040#1",
+  "species": "Sněť kukuřičná",
+  "latin": "Ustilago maydis",
+  "text": "Tvoří hálky, které mohou dorůst až do velikosti dětské hlavy.",
+  "quote": "šedivé hálky, později velké nádory dorůstající až velikosti dětské hlavy na nadzemních orgánech",
+  "claimed_false_for": {
+   "Q1342327": "Rez travní (Puccinia graminis)",
+   "Q1439264": "Rez slézová (Puccinia malvacearum)",
+   "Q1602264": "Rez vrbková (Pucciniastrum epilobii)",
+   "Q2301438": "Rez vejmutovková (Cronartium ribicola)",
+   "Q449430": "Rez hrušňová (Gymnosporangium sabinae)"
+  }
+ },
+ {
+  "id": "Q1430040#2",
+  "species": "Sněť kukuřičná",
+  "latin": "Ustilago maydis",
+  "text": "Má hnědočerné spory, které hálkám dodávají spálený vzhled.",
+  "quote": "Hnědočerné spory dodávají hálkám spálený vzhled.",
+  "claimed_false_for": {}
+ }
+]

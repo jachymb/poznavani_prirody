@@ -1,0 +1,517 @@
+[
+ {
+  "id": "Q1156618#0",
+  "species": "Rourkatec obecný",
+  "latin": "Syntrichia ruralis",
+  "text": "Za sucha se jeho lístky zkroutí, někdy i do spirály.",
+  "quote": "za sucha jsou zkroucené, někdy i spirálovitě",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1156618#1",
+  "species": "Rourkatec obecný",
+  "latin": "Syntrichia ruralis",
+  "text": "Používá se v akvaristice, tedy u akvárií.",
+  "quote": "Rourkatec se využívá v akvaristice",
+  "claimed_false_for": {
+   "Q1432956": "Měřík čeřitý (Plagiomnium undulatum)",
+   "Q1460161": "Lazovec čistý (Pseudoscleropodium purum)",
+   "Q149101": "Rokytník skvělý (Hylocomium splendens)",
+   "Q1731367": "Čtyřzoubek průzračný (Tetraphis pellucida)",
+   "Q1752834": "Rohozub nachový (Ceratodon purpureus)",
+   "Q1763341": "Bažinník kostrbatý (Paludella squarrosa)",
+   "Q178025": "Ploník obecný (Polytrichum commune)",
+   "Q179213": "Dřípovičník zpeřený (Schistostega pennata)",
+   "Q1937687": "Prutník stříbřitý (Bryum argenteum)",
+   "Q442127": "Měřík trsnatý (Mnium hornum)",
+   "Q796552": "Plazivec obecný (Isothecium alopecuroides)"
+  }
+ },
+ {
+  "id": "Q11875652#0",
+  "species": "Štírovec dutolistý",
+  "latin": "Scorpidium scorpioides",
+  "text": "Tento druh často roste ponořený v malých tůňkách a příkopech.",
+  "quote": "často roste ponořen v malých bazéncích, tůňkách a příkopech či při březích jezer",
+  "claimed_false_for": {
+   "Q1156618": "Rourkatec obecný (Syntrichia ruralis)",
+   "Q1500863": "Bělomech sivý (Leucobryum glaucum)",
+   "Q1731367": "Čtyřzoubek průzračný (Tetraphis pellucida)",
+   "Q1752834": "Rohozub nachový (Ceratodon purpureus)",
+   "Q178025": "Ploník obecný (Polytrichum commune)",
+   "Q1937687": "Prutník stříbřitý (Bryum argenteum)",
+   "Q292408": "Štěrbovka skalní (Andreaea rupestris)",
+   "Q442127": "Měřík trsnatý (Mnium hornum)"
+  }
+ },
+ {
+  "id": "Q11875652#1",
+  "species": "Štírovec dutolistý",
+  "latin": "Scorpidium scorpioides",
+  "text": "Tento druh má lodyžky dlouhé 10 až 25 centimetrů.",
+  "quote": "Lodyžky 10 – 25 cm dlouhé",
+  "claimed_false_for": {
+   "Q1156618": "Rourkatec obecný (Syntrichia ruralis)",
+   "Q1731367": "Čtyřzoubek průzračný (Tetraphis pellucida)",
+   "Q1752834": "Rohozub nachový (Ceratodon purpureus)",
+   "Q182303": "Křivonožka vehnutá (Campylopus introflexus)",
+   "Q1937687": "Prutník stříbřitý (Bryum argenteum)",
+   "Q292408": "Štěrbovka skalní (Andreaea rupestris)",
+   "Q442127": "Měřík trsnatý (Mnium hornum)"
+  }
+ },
+ {
+  "id": "Q1432956#0",
+  "species": "Měřík čeřitý",
+  "latin": "Plagiomnium undulatum",
+  "text": "Tento druh roste hlavně na stinných a vlhkých místech.",
+  "quote": "Měřík čeřitý se nachází především na zastíněných vlhkých místech.",
+  "claimed_false_for": {
+   "Q1156618": "Rourkatec obecný (Syntrichia ruralis)",
+   "Q1752834": "Rohozub nachový (Ceratodon purpureus)"
+  }
+ },
+ {
+  "id": "Q1432956#1",
+  "species": "Měřík čeřitý",
+  "latin": "Plagiomnium undulatum",
+  "text": "Tento druh má za vlhka vlnkaté listy, za sucha svraskalé.",
+  "quote": "Za vlhka jsou listy především příčně vlnkaté a odstálé, za sucha svraskalé a kadeřavé.",
+  "claimed_false_for": {
+   "Q11875652": "Štírovec dutolistý (Scorpidium scorpioides)",
+   "Q149101": "Rokytník skvělý (Hylocomium splendens)",
+   "Q1646440": "Travník Schreberův (Pleurozium schreberi)",
+   "Q179213": "Dřípovičník zpeřený (Schistostega pennata)",
+   "Q310560": "Rašeliník třásnitý (Sphagnum fimbriatum)",
+   "Q385125": "Pramenička obecná (Fontinalis antipyretica)"
+  }
+ },
+ {
+  "id": "Q149101#0",
+  "species": "Rokytník skvělý",
+  "latin": "Hylocomium splendens",
+  "text": "Tento druh často roste v jehličnatých lesích.",
+  "quote": "se řadí k nejběžnějším druhům mechů v jehličnatých porostech, kde často doprovází smrk",
+  "claimed_false_for": {
+   "Q1156618": "Rourkatec obecný (Syntrichia ruralis)",
+   "Q1937687": "Prutník stříbřitý (Bryum argenteum)",
+   "Q292408": "Štěrbovka skalní (Andreaea rupestris)",
+   "Q992846": "Porostnice mnohotvárná (Marchantia polymorpha)"
+  }
+ },
+ {
+  "id": "Q149101#1",
+  "species": "Rokytník skvělý",
+  "latin": "Hylocomium splendens",
+  "text": "Tento druh má stonky dlouhé 10 až 15 centimetrů.",
+  "quote": "Jednotlivé lodyžky (kauloidy) bývají dlouhé 10–15 cm",
+  "claimed_false_for": {
+   "Q1156618": "Rourkatec obecný (Syntrichia ruralis)",
+   "Q1731367": "Čtyřzoubek průzračný (Tetraphis pellucida)",
+   "Q1752834": "Rohozub nachový (Ceratodon purpureus)",
+   "Q182303": "Křivonožka vehnutá (Campylopus introflexus)",
+   "Q1937687": "Prutník stříbřitý (Bryum argenteum)",
+   "Q292408": "Štěrbovka skalní (Andreaea rupestris)",
+   "Q442127": "Měřík trsnatý (Mnium hornum)"
+  }
+ },
+ {
+  "id": "Q1500863#0",
+  "species": "Bělomech sivý",
+  "latin": "Leucobryum glaucum",
+  "text": "Tvoří zelené polštáře, které dorostou až půl metru v průměru.",
+  "quote": "Vypouklé, světle zelené polštáře dorůstající průměru až 0,5 m",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1500863#1",
+  "species": "Bělomech sivý",
+  "latin": "Leucobryum glaucum",
+  "text": "Roste v polostinných a stinných místech od nížin až do hor.",
+  "quote": "Vyhledává polostinná a stinná místa od nížin až do hor.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1646440#0",
+  "species": "Travník Schreberův",
+  "latin": "Pleurozium schreberi",
+  "text": "Tento druh je snadno poznat podle červenohnědé lodyžky.",
+  "quote": "Tento druh je velmi dobře rozpoznatelný v terénu díky své červenohnědé lodyžce.",
+  "claimed_false_for": {
+   "Q1500863": "Bělomech sivý (Leucobryum glaucum)",
+   "Q867250": "Rašeliník kostrbatý (Sphagnum squarrosum)",
+   "Q992846": "Porostnice mnohotvárná (Marchantia polymorpha)"
+  }
+ },
+ {
+  "id": "Q1646440#1",
+  "species": "Travník Schreberův",
+  "latin": "Pleurozium schreberi",
+  "text": "Typicky roste na kyselém podkladu jehličnatých lesů.",
+  "quote": "Je charakteristický pro kyselé substráty jehličnatých lesů.",
+  "claimed_false_for": {
+   "Q1156618": "Rourkatec obecný (Syntrichia ruralis)",
+   "Q1937687": "Prutník stříbřitý (Bryum argenteum)",
+   "Q992846": "Porostnice mnohotvárná (Marchantia polymorpha)"
+  }
+ },
+ {
+  "id": "Q1731367#0",
+  "species": "Čtyřzoubek průzračný",
+  "latin": "Tetraphis pellucida",
+  "text": "Na konci tobolky jsou čtyři malé zuby.",
+  "quote": "Její obústí vytváří čtyři trojboce jehlancovité zuby",
+  "claimed_false_for": {
+   "Q1156618": "Rourkatec obecný (Syntrichia ruralis)",
+   "Q11875652": "Štírovec dutolistý (Scorpidium scorpioides)",
+   "Q1460161": "Lazovec čistý (Pseudoscleropodium purum)",
+   "Q149101": "Rokytník skvělý (Hylocomium splendens)",
+   "Q1752834": "Rohozub nachový (Ceratodon purpureus)",
+   "Q1763341": "Bažinník kostrbatý (Paludella squarrosa)",
+   "Q1777800": "Zpeřenka tamaryšková (Thuidium tamariscinum)",
+   "Q182303": "Křivonožka vehnutá (Campylopus introflexus)",
+   "Q385125": "Pramenička obecná (Fontinalis antipyretica)",
+   "Q796552": "Plazivec obecný (Isothecium alopecuroides)"
+  }
+ },
+ {
+  "id": "Q1731367#1",
+  "species": "Čtyřzoubek průzračný",
+  "latin": "Tetraphis pellucida",
+  "text": "Dešťové kapky pomáhají rozšiřovat jeho drobná tělíska.",
+  "quote": "Rozšiřují se po dopadu dešťových kapek",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1752834#0",
+  "species": "Rohozub nachový",
+  "latin": "Ceratodon purpureus",
+  "text": "Tento druh dorůstá do výšky nejvýš tří centimetrů.",
+  "quote": "Lodyžka je vzpřímená, dlouhá až 3 cm.",
+  "claimed_false_for": {
+   "Q11875652": "Štírovec dutolistý (Scorpidium scorpioides)",
+   "Q1432956": "Měřík čeřitý (Plagiomnium undulatum)",
+   "Q1460161": "Lazovec čistý (Pseudoscleropodium purum)",
+   "Q1646440": "Travník Schreberův (Pleurozium schreberi)",
+   "Q178025": "Ploník obecný (Polytrichum commune)",
+   "Q310560": "Rašeliník třásnitý (Sphagnum fimbriatum)",
+   "Q867250": "Rašeliník kostrbatý (Sphagnum squarrosum)"
+  }
+ },
+ {
+  "id": "Q1752834#1",
+  "species": "Rohozub nachový",
+  "latin": "Ceratodon purpureus",
+  "text": "Na jaře tento druh změní zelenou barvu na červenou.",
+  "quote": "Začátkem jara dosáhne maximální výšky a barva se změní ze zelené na červenou.",
+  "claimed_false_for": {
+   "Q1432956": "Měřík čeřitý (Plagiomnium undulatum)",
+   "Q1460161": "Lazovec čistý (Pseudoscleropodium purum)",
+   "Q1731367": "Čtyřzoubek průzračný (Tetraphis pellucida)",
+   "Q178025": "Ploník obecný (Polytrichum commune)"
+  }
+ },
+ {
+  "id": "Q1763341#1",
+  "species": "Bažinník kostrbatý",
+  "latin": "Paludella squarrosa",
+  "text": "V Česku je známo jen 18 míst, kde tento druh roste.",
+  "quote": "v ČR je známo pouze 18 lokalit tohoto druhu",
+  "claimed_false_for": {
+   "Q149101": "Rokytník skvělý (Hylocomium splendens)",
+   "Q1500863": "Bělomech sivý (Leucobryum glaucum)",
+   "Q1646440": "Travník Schreberův (Pleurozium schreberi)",
+   "Q1777800": "Zpeřenka tamaryšková (Thuidium tamariscinum)",
+   "Q182303": "Křivonožka vehnutá (Campylopus introflexus)",
+   "Q1937687": "Prutník stříbřitý (Bryum argenteum)",
+   "Q310560": "Rašeliník třásnitý (Sphagnum fimbriatum)",
+   "Q442127": "Měřík trsnatý (Mnium hornum)",
+   "Q796552": "Plazivec obecný (Isothecium alopecuroides)",
+   "Q867250": "Rašeliník kostrbatý (Sphagnum squarrosum)",
+   "Q992846": "Porostnice mnohotvárná (Marchantia polymorpha)"
+  }
+ },
+ {
+  "id": "Q1777800#0",
+  "species": "Zpeřenka tamaryšková",
+  "latin": "Thuidium tamariscinum",
+  "text": "Tento druh tvoří vodorovná patra dlouhá až 7 cm.",
+  "quote": "Tvoří až 7 cm dlouhá, horizontální patra, která jsou pro tuto rostlinu typická.",
+  "claimed_false_for": {
+   "Q1156618": "Rourkatec obecný (Syntrichia ruralis)",
+   "Q1500863": "Bělomech sivý (Leucobryum glaucum)",
+   "Q1731367": "Čtyřzoubek průzračný (Tetraphis pellucida)",
+   "Q1752834": "Rohozub nachový (Ceratodon purpureus)",
+   "Q178025": "Ploník obecný (Polytrichum commune)",
+   "Q182303": "Křivonožka vehnutá (Campylopus introflexus)",
+   "Q1937687": "Prutník stříbřitý (Bryum argenteum)",
+   "Q292408": "Štěrbovka skalní (Andreaea rupestris)",
+   "Q310560": "Rašeliník třásnitý (Sphagnum fimbriatum)",
+   "Q442127": "Měřík trsnatý (Mnium hornum)",
+   "Q867250": "Rašeliník kostrbatý (Sphagnum squarrosum)",
+   "Q992846": "Porostnice mnohotvárná (Marchantia polymorpha)"
+  }
+ },
+ {
+  "id": "Q1777800#1",
+  "species": "Zpeřenka tamaryšková",
+  "latin": "Thuidium tamariscinum",
+  "text": "Roste ve stínu, protože nesnese dlouhé přímé slunce.",
+  "quote": "Roste ve stinných porostech, jelikož se jedná o druh, který nesnese delší přímé osvětlení na stanovišti.",
+  "claimed_false_for": {
+   "Q1156618": "Rourkatec obecný (Syntrichia ruralis)",
+   "Q1752834": "Rohozub nachový (Ceratodon purpureus)",
+   "Q182303": "Křivonožka vehnutá (Campylopus introflexus)",
+   "Q1937687": "Prutník stříbřitý (Bryum argenteum)",
+   "Q292408": "Štěrbovka skalní (Andreaea rupestris)"
+  }
+ },
+ {
+  "id": "Q178025#0",
+  "species": "Ploník obecný",
+  "latin": "Polytrichum commune",
+  "text": "Dorůstá do výšky 20 až 40 cm, v dobrých podmínkách i 50 cm.",
+  "quote": "jsou vysoké 20 až 40 cm, v dobrých podmínkách až 50 cm",
+  "claimed_false_for": {
+   "Q1731367": "Čtyřzoubek průzračný (Tetraphis pellucida)",
+   "Q1752834": "Rohozub nachový (Ceratodon purpureus)",
+   "Q182303": "Křivonožka vehnutá (Campylopus introflexus)",
+   "Q1937687": "Prutník stříbřitý (Bryum argenteum)",
+   "Q292408": "Štěrbovka skalní (Andreaea rupestris)",
+   "Q442127": "Měřík trsnatý (Mnium hornum)",
+   "Q796552": "Plazivec obecný (Isothecium alopecuroides)",
+   "Q992846": "Porostnice mnohotvárná (Marchantia polymorpha)"
+  }
+ },
+ {
+  "id": "Q178025#1",
+  "species": "Ploník obecný",
+  "latin": "Polytrichum commune",
+  "text": "Tento druh má červenavé stopky, které nesou tobolky.",
+  "quote": "Štět vybíhající z lodyžky má ploník obecný načervenalý",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q178025#2",
+  "species": "Ploník obecný",
+  "latin": "Polytrichum commune",
+  "text": "Tobolky tohoto druhu jsou ostře hranaté, mají čtyři až šest hran.",
+  "quote": "dokonale vyvinutá do ostře hranatého tvaru (čtyřhranná až šestihranná)",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q178025#3",
+  "species": "Ploník obecný",
+  "latin": "Polytrichum commune",
+  "text": "Tento druh roste na kyselé půdě ve vlhkých lesích a na rašeliništích.",
+  "quote": "vázán na kyselé půdy vlhkých lesů a rašelinišť",
+  "claimed_false_for": {
+   "Q1937687": "Prutník stříbřitý (Bryum argenteum)",
+   "Q385125": "Pramenička obecná (Fontinalis antipyretica)"
+  }
+ },
+ {
+  "id": "Q179213#0",
+  "species": "Dřípovičník zpeřený",
+  "latin": "Schistostega pennata",
+  "text": "Tento druh svítí ve tmě smaragdově zelenou září.",
+  "quote": "typickým, smaragdově zeleným světélkováním ve tmě",
+  "claimed_false_for": {
+   "Q1156618": "Rourkatec obecný (Syntrichia ruralis)",
+   "Q11875652": "Štírovec dutolistý (Scorpidium scorpioides)",
+   "Q1432956": "Měřík čeřitý (Plagiomnium undulatum)",
+   "Q1460161": "Lazovec čistý (Pseudoscleropodium purum)",
+   "Q1646440": "Travník Schreberův (Pleurozium schreberi)",
+   "Q1731367": "Čtyřzoubek průzračný (Tetraphis pellucida)",
+   "Q1763341": "Bažinník kostrbatý (Paludella squarrosa)",
+   "Q178025": "Ploník obecný (Polytrichum commune)",
+   "Q292408": "Štěrbovka skalní (Andreaea rupestris)",
+   "Q310560": "Rašeliník třásnitý (Sphagnum fimbriatum)",
+   "Q867250": "Rašeliník kostrbatý (Sphagnum squarrosum)",
+   "Q992846": "Porostnice mnohotvárná (Marchantia polymorpha)"
+  }
+ },
+ {
+  "id": "Q179213#1",
+  "species": "Dřípovičník zpeřený",
+  "latin": "Schistostega pennata",
+  "text": "Tento druh šíří výtrusy, které se přilepí na srst zvířat.",
+  "quote": "Spory kulovité, svou lepkavostí uzpůsobeny k šíření přichycením na srst zvířat",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q182303#0",
+  "species": "Křivonožka vehnutá",
+  "latin": "Campylopus introflexus",
+  "text": "Většinou se množí tím, že mu odpadávají lístky.",
+  "quote": "většina rozmnožování se odehrává vegetativně pomocí opadavých lístků",
+  "claimed_false_for": {
+   "Q178025": "Ploník obecný (Polytrichum commune)"
+  }
+ },
+ {
+  "id": "Q182303#1",
+  "species": "Křivonožka vehnutá",
+  "latin": "Campylopus introflexus",
+  "text": "Preferuje kyselé půdy, často roste na holé rašelině.",
+  "quote": "preferuje kyselejší substráty, často roste na holé rašelině",
+  "claimed_false_for": {
+   "Q1156618": "Rourkatec obecný (Syntrichia ruralis)",
+   "Q11875652": "Štírovec dutolistý (Scorpidium scorpioides)"
+  }
+ },
+ {
+  "id": "Q1937687#1",
+  "species": "Prutník stříbřitý",
+  "latin": "Bryum argenteum",
+  "text": "Roste na střechách, na zdech a mezi dlažbou.",
+  "quote": "spáry mezi dlažbou, střechy a zdi",
+  "claimed_false_for": {
+   "Q11875652": "Štírovec dutolistý (Scorpidium scorpioides)",
+   "Q1460161": "Lazovec čistý (Pseudoscleropodium purum)",
+   "Q149101": "Rokytník skvělý (Hylocomium splendens)",
+   "Q1646440": "Travník Schreberův (Pleurozium schreberi)",
+   "Q1777800": "Zpeřenka tamaryšková (Thuidium tamariscinum)",
+   "Q178025": "Ploník obecný (Polytrichum commune)",
+   "Q179213": "Dřípovičník zpeřený (Schistostega pennata)",
+   "Q310560": "Rašeliník třásnitý (Sphagnum fimbriatum)",
+   "Q385125": "Pramenička obecná (Fontinalis antipyretica)"
+  }
+ },
+ {
+  "id": "Q292408#0",
+  "species": "Štěrbovka skalní",
+  "latin": "Andreaea rupestris",
+  "text": "Měří jen 0,5 až 3 centimetry.",
+  "quote": "Jednotlivé rostlinky jsou 0,5–3 cm vysoké",
+  "claimed_false_for": {
+   "Q11875652": "Štírovec dutolistý (Scorpidium scorpioides)",
+   "Q1432956": "Měřík čeřitý (Plagiomnium undulatum)",
+   "Q178025": "Ploník obecný (Polytrichum commune)",
+   "Q385125": "Pramenička obecná (Fontinalis antipyretica)",
+   "Q867250": "Rašeliník kostrbatý (Sphagnum squarrosum)"
+  }
+ },
+ {
+  "id": "Q310560#1",
+  "species": "Rašeliník třásnitý",
+  "latin": "Sphagnum fimbriatum",
+  "text": "Roste hlavně v jehličnatých lesích u potůčků.",
+  "quote": "převážně v jehličnatých lesích kolem potůčků nebo na prameništích",
+  "claimed_false_for": {
+   "Q1156618": "Rourkatec obecný (Syntrichia ruralis)",
+   "Q11875652": "Štírovec dutolistý (Scorpidium scorpioides)",
+   "Q1937687": "Prutník stříbřitý (Bryum argenteum)"
+  }
+ },
+ {
+  "id": "Q385125#0",
+  "species": "Pramenička obecná",
+  "latin": "Fontinalis antipyretica",
+  "text": "Tento druh tvoří trsy, které běžně dosahují délky větší než 15 centimetrů.",
+  "quote": "Tento druh mechu tvoří nápadné trsy, které běžně dosahují délky větší než 15 centimetrů.",
+  "claimed_false_for": {
+   "Q1156618": "Rourkatec obecný (Syntrichia ruralis)",
+   "Q1731367": "Čtyřzoubek průzračný (Tetraphis pellucida)",
+   "Q1752834": "Rohozub nachový (Ceratodon purpureus)",
+   "Q182303": "Křivonožka vehnutá (Campylopus introflexus)",
+   "Q1937687": "Prutník stříbřitý (Bryum argenteum)",
+   "Q292408": "Štěrbovka skalní (Andreaea rupestris)",
+   "Q442127": "Měřík trsnatý (Mnium hornum)"
+  }
+ },
+ {
+  "id": "Q442127#0",
+  "species": "Měřík trsnatý",
+  "latin": "Mnium hornum",
+  "text": "Za sucha se lístky zkroutí, za vlhka se rozestoupí.",
+  "quote": "Za sucha jsou lístky pokroucené, za vlhka odstálé.",
+  "claimed_false_for": {
+   "Q11875652": "Štírovec dutolistý (Scorpidium scorpioides)",
+   "Q179213": "Dřípovičník zpeřený (Schistostega pennata)",
+   "Q310560": "Rašeliník třásnitý (Sphagnum fimbriatum)",
+   "Q385125": "Pramenička obecná (Fontinalis antipyretica)"
+  }
+ },
+ {
+  "id": "Q442127#1",
+  "species": "Měřík trsnatý",
+  "latin": "Mnium hornum",
+  "text": "Nerostě na podkladu s vápnem.",
+  "quote": "vyhýbá se vápenitému podkladu",
+  "claimed_false_for": {
+   "Q1156618": "Rourkatec obecný (Syntrichia ruralis)",
+   "Q11875652": "Štírovec dutolistý (Scorpidium scorpioides)"
+  }
+ },
+ {
+  "id": "Q796552#1",
+  "species": "Plazivec obecný",
+  "latin": "Isothecium alopecuroides",
+  "text": "Roste velmi hojně v listnatých lesích v Česku.",
+  "quote": "velmi hojně v listnatých, zejména podhorských a horských lesích",
+  "claimed_false_for": {
+   "Q1937687": "Prutník stříbřitý (Bryum argenteum)",
+   "Q292408": "Štěrbovka skalní (Andreaea rupestris)"
+  }
+ },
+ {
+  "id": "Q867250#0",
+  "species": "Rašeliník kostrbatý",
+  "latin": "Sphagnum squarrosum",
+  "text": "Tento druh má na větvičkách nápadně odstávající lístky.",
+  "quote": "Větevní lístky jsou na bázi široké, náhle v širokou uťatou špičku zúžené a nápadně od větvičky",
+  "claimed_false_for": {
+   "Q1646440": "Travník Schreberův (Pleurozium schreberi)"
+  }
+ },
+ {
+  "id": "Q867250#1",
+  "species": "Rašeliník kostrbatý",
+  "latin": "Sphagnum squarrosum",
+  "text": "Roste hlavně na vlhké lesní půdě, v bažinách a na mokřadech.",
+  "quote": "na vlhkých lesních půdách, bažinách a mokřadech",
+  "claimed_false_for": {
+   "Q1156618": "Rourkatec obecný (Syntrichia ruralis)",
+   "Q1937687": "Prutník stříbřitý (Bryum argenteum)"
+  }
+ },
+ {
+  "id": "Q992846#0",
+  "species": "Porostnice mnohotvárná",
+  "latin": "Marchantia polymorpha",
+  "text": "Tento druh patří mezi nejrozšířenější játrovky v mírném pásu.",
+  "quote": "patří mezi nejrozšířenější játrovky v mírném podnebném pásu",
+  "claimed_false_for": {
+   "Q1432956": "Měřík čeřitý (Plagiomnium undulatum)",
+   "Q1460161": "Lazovec čistý (Pseudoscleropodium purum)",
+   "Q149101": "Rokytník skvělý (Hylocomium splendens)",
+   "Q1646440": "Travník Schreberův (Pleurozium schreberi)",
+   "Q1752834": "Rohozub nachový (Ceratodon purpureus)",
+   "Q1763341": "Bažinník kostrbatý (Paludella squarrosa)",
+   "Q1777800": "Zpeřenka tamaryšková (Thuidium tamariscinum)",
+   "Q179213": "Dřípovičník zpeřený (Schistostega pennata)",
+   "Q292408": "Štěrbovka skalní (Andreaea rupestris)",
+   "Q310560": "Rašeliník třásnitý (Sphagnum fimbriatum)",
+   "Q385125": "Pramenička obecná (Fontinalis antipyretica)",
+   "Q442127": "Měřík trsnatý (Mnium hornum)"
+  }
+ },
+ {
+  "id": "Q992846#1",
+  "species": "Porostnice mnohotvárná",
+  "latin": "Marchantia polymorpha",
+  "text": "Tento druh se množí i malými kulatými tělísky, která vznikají v pohárcích.",
+  "quote": "V pohárcích se tvoří kulovitá tělíska",
+  "claimed_false_for": {
+   "Q1432956": "Měřík čeřitý (Plagiomnium undulatum)",
+   "Q149101": "Rokytník skvělý (Hylocomium splendens)",
+   "Q1646440": "Travník Schreberův (Pleurozium schreberi)",
+   "Q1777800": "Zpeřenka tamaryšková (Thuidium tamariscinum)",
+   "Q292408": "Štěrbovka skalní (Andreaea rupestris)",
+   "Q310560": "Rašeliník třásnitý (Sphagnum fimbriatum)",
+   "Q385125": "Pramenička obecná (Fontinalis antipyretica)",
+   "Q442127": "Měřík trsnatý (Mnium hornum)"
+  }
+ }
+]

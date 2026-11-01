@@ -1,0 +1,133 @@
+[
+ {
+  "id": "Q140350#0",
+  "species": "Drabík stromkovitý",
+  "latin": "Climacium dendroides",
+  "text": "Dorůstá do výšky až 10 cm.",
+  "quote": "dorůstá do výšky až 10 cm",
+  "claimed_false_for": {
+   "Q149101": "Rokytník skvělý (Hylocomium splendens)",
+   "Q1646440": "Travník Schreberův (Pleurozium schreberi)",
+   "Q178025": "Ploník obecný (Polytrichum commune)"
+  }
+ },
+ {
+  "id": "Q140350#1",
+  "species": "Drabík stromkovitý",
+  "latin": "Climacium dendroides",
+  "text": "Roste na vlhkých loukách, v mokřadech i u potoků.",
+  "quote": "na vlhkých loukách, v mokřadech či močálech, podél potoků",
+  "claimed_false_for": {
+   "Q1500863": "Bělomech sivý (Leucobryum glaucum)"
+  }
+ },
+ {
+  "id": "Q148994#0",
+  "species": "Ploník chluponosný",
+  "latin": "Polytrichum piliferum",
+  "text": "Dosahuje výšky 3 až 5 centimetrů.",
+  "quote": "dosahující výšky 3–5 cm",
+  "claimed_false_for": {
+   "Q149101": "Rokytník skvělý (Hylocomium splendens)",
+   "Q1646440": "Travník Schreberův (Pleurozium schreberi)",
+   "Q179213": "Dřípovičník zpeřený (Schistostega pennata)"
+  }
+ },
+ {
+  "id": "Q1500863#0",
+  "species": "Bělomech sivý",
+  "latin": "Leucobryum glaucum",
+  "text": "Tvoří zelené polštáře o průměru až půl metru.",
+  "quote": "Vypouklé, světle zelené polštáře dorůstající průměru až 0,5 m",
+  "claimed_false_for": {
+   "Q179213": "Dřípovičník zpeřený (Schistostega pennata)",
+   "Q1937687": "Prutník stříbřitý (Bryum argenteum)"
+  }
+ },
+ {
+  "id": "Q1646440#0",
+  "species": "Travník Schreberův",
+  "latin": "Pleurozium schreberi",
+  "text": "Tento druh je snadno poznat podle červenohnědé lodyžky.",
+  "quote": "Tento druh je velmi dobře rozpoznatelný v terénu díky své červenohnědé lodyžce.",
+  "claimed_false_for": {
+   "Q179213": "Dřípovičník zpeřený (Schistostega pennata)"
+  }
+ },
+ {
+  "id": "Q178025#2",
+  "species": "Ploník obecný",
+  "latin": "Polytrichum commune",
+  "text": "Tobolky jsou ostře hranaté, mají čtyři až šest hran.",
+  "quote": "dokonale vyvinutá do ostře hranatého tvaru (čtyřhranná až šestihranná)",
+  "claimed_false_for": {
+   "Q149101": "Rokytník skvělý (Hylocomium splendens)",
+   "Q1646440": "Travník Schreberův (Pleurozium schreberi)",
+   "Q1937687": "Prutník stříbřitý (Bryum argenteum)",
+   "Q245867": "Rokyt cypřišovitý (Hypnum cupressiforme)",
+   "Q992846": "Porostnice mnohotvárná (Marchantia polymorpha)"
+  }
+ },
+ {
+  "id": "Q179213#1",
+  "species": "Dřípovičník zpeřený",
+  "latin": "Schistostega pennata",
+  "text": "Výtrusy se šíří tak, že se přilepí na srst zvířat.",
+  "quote": "Spory kulovité, svou lepkavostí uzpůsobeny k šíření přichycením na srst zvířat",
+  "claimed_false_for": {
+   "Q149101": "Rokytník skvělý (Hylocomium splendens)",
+   "Q1646440": "Travník Schreberův (Pleurozium schreberi)",
+   "Q178025": "Ploník obecný (Polytrichum commune)",
+   "Q1937687": "Prutník stříbřitý (Bryum argenteum)",
+   "Q245867": "Rokyt cypřišovitý (Hypnum cupressiforme)"
+  }
+ },
+ {
+  "id": "Q182303#1",
+  "species": "Křivonožka vehnutá",
+  "latin": "Campylopus introflexus",
+  "text": "Preferuje kyselé půdy a často roste na holé rašelině.",
+  "quote": "preferuje kyselejší substráty, často roste na holé rašelině",
+  "claimed_false_for": {
+   "Q1937687": "Prutník stříbřitý (Bryum argenteum)"
+  }
+ },
+ {
+  "id": "Q1937687#1",
+  "species": "Prutník stříbřitý",
+  "latin": "Bryum argenteum",
+  "text": "Roste na střechách, na zdech a mezi dlažbou.",
+  "quote": "spáry mezi dlažbou, střechy a zdi",
+  "claimed_false_for": {
+   "Q140350": "Drabík stromkovitý (Climacium dendroides)"
+  }
+ },
+ {
+  "id": "Q992846#0",
+  "species": "Porostnice mnohotvárná",
+  "latin": "Marchantia polymorpha",
+  "text": "Patří mezi nejrozšířenější játrovky v mírném pásu.",
+  "quote": "patří mezi nejrozšířenější játrovky v mírném podnebném pásu",
+  "claimed_false_for": {
+   "Q140350": "Drabík stromkovitý (Climacium dendroides)",
+   "Q148994": "Ploník chluponosný (Polytrichum piliferum)",
+   "Q1500863": "Bělomech sivý (Leucobryum glaucum)",
+   "Q178025": "Ploník obecný (Polytrichum commune)",
+   "Q182303": "Křivonožka vehnutá (Campylopus introflexus)",
+   "Q1937687": "Prutník stříbřitý (Bryum argenteum)",
+   "Q245867": "Rokyt cypřišovitý (Hypnum cupressiforme)"
+  }
+ },
+ {
+  "id": "Q992846#1",
+  "species": "Porostnice mnohotvárná",
+  "latin": "Marchantia polymorpha",
+  "text": "Tento druh se množí i malými kulatými tělísky, která vznikají v pohárcích.",
+  "quote": "V pohárcích se tvoří kulovitá tělíska",
+  "claimed_false_for": {
+   "Q148994": "Ploník chluponosný (Polytrichum piliferum)",
+   "Q178025": "Ploník obecný (Polytrichum commune)",
+   "Q245867": "Rokyt cypřišovitý (Hypnum cupressiforme)"
+  }
+ }
+]

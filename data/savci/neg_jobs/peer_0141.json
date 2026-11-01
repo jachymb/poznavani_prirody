@@ -1,0 +1,276 @@
+{
+ "facts": [
+  {
+   "id": "Q1355755#0",
+   "species": "Zajíc tolaj",
+   "text": "Tento druh je aktivní hlavně za soumraku a v noci.",
+   "quote": "Je aktivní zejména za soumraku a v noci"
+  },
+  {
+   "id": "Q25851#2",
+   "species": "Králík divoký",
+   "text": "Samice rodí třikrát až pětkrát ročně.",
+   "quote": "Samice rodí třikrát až pětkrát ročně"
+  },
+  {
+   "id": "Q300964#2",
+   "species": "Králík říční",
+   "text": "Tento druh ohrožují divocí psi a kočky.",
+   "quote": "ohrožování divokými psy a kočkami"
+  },
+  {
+   "id": "Q25851#3",
+   "species": "Králík divoký",
+   "text": "Mláďata se rodí holá a slepá, oči se jim otevřou až po deseti dnech.",
+   "quote": "Mláďata se rodí holá a slepá (nidikolní typ), oči se jim otevřou až 10 dní po narození."
+  },
+  {
+   "id": "Q1355755#1",
+   "species": "Zajíc tolaj",
+   "text": "Tento druh rodí najednou dvě až šest mláďat.",
+   "quote": "samice rodí vrh o dvou až šesti mláďatech"
+  },
+  {
+   "id": "Q640645#7",
+   "species": "Zajíc tmavoocasý",
+   "text": "Je kořistí káně královské.",
+   "quote": "Mezi káňata, která loví zajíce tmavoocasého, patří káně královská"
+  },
+  {
+   "id": "Q25851#1",
+   "species": "Králík divoký",
+   "text": "Tento druh žije ve skupinách zvaných kolonie.",
+   "quote": "Žijí v koloniích tvořených jednotlivými rodinami."
+  },
+  {
+   "id": "Q26838#0",
+   "species": "Zajíc polní",
+   "text": "Obvykle běhá rychlostí 40 km/h, v nebezpečí až 74 km/h.",
+   "quote": "běhá běžně 40 km/h a v nebezpečí až 74 km/h"
+  },
+  {
+   "id": "Q81063#1",
+   "species": "Zajíc měnivý",
+   "text": "Dokáže běžet rychlostí až 45 km/h.",
+   "quote": "dokáže vyvinout rychlost až 45 km/h"
+  },
+  {
+   "id": "Q687102#6",
+   "species": "Králík japonský",
+   "text": "Jí kůru stonků a větviček keřů.",
+   "quote": "se rovněž živí kůrami stonků a větviček křovitých rostlin"
+  },
+  {
+   "id": "Q81063#3",
+   "species": "Zajíc měnivý",
+   "text": "Tento druh v zimě okusuje kůru stromů.",
+   "quote": "v zimě okusuje kůru stromů"
+  },
+  {
+   "id": "Q231625#1",
+   "species": "Zajíc polární",
+   "text": "V zimě srst zbělá a ve sněhu slouží jako maskování.",
+   "quote": "jeho srst zbělá, aby zajíci poskytla maskování ve sněhu"
+  },
+  {
+   "id": "Q687102#1",
+   "species": "Králík japonský",
+   "text": "Tento druh je aktivní v noci.",
+   "quote": "je noční živočich"
+  },
+  {
+   "id": "Q26838#4",
+   "species": "Zajíc polní",
+   "text": "Jí hlavně byliny, v zimě okusuje i větve.",
+   "quote": "přes léto požírá zejména různé byliny, zbytky plodin po sklizni, přes zimu okusuje i větve"
+  },
+  {
+   "id": "Q608572#0",
+   "species": "Králík pouštní",
+   "text": "Živí se rostlinami, větvičkami a kůrou.",
+   "quote": "Živí se rostlinami, větvičkami a kůrou."
+  },
+  {
+   "id": "Q301068#1",
+   "species": "Králík štětinatý",
+   "text": "Samci váží 1 810 až 2 610 gramů.",
+   "quote": "Samci dosahují hmotnosti 1 810 až 2 610 g"
+  },
+  {
+   "id": "Q640645#4",
+   "species": "Zajíc tmavoocasý",
+   "text": "V zimě se nestěhuje a celý rok zůstává na stejném území.",
+   "quote": "V zimě zajíc tmavoocasý nemigruje ani nehibernuje a celoročně využívá stejné teritorium"
+  },
+  {
+   "id": "Q687102#3",
+   "species": "Králík japonský",
+   "text": "Váží průměrně 2,5 až 2,8 kilogramu.",
+   "quote": "Průměrná hmotnost je 2,5–2,8 kg."
+  },
+  {
+   "id": "Q687102#5",
+   "species": "Králík japonský",
+   "text": "Divoké kočky loví tento druh.",
+   "quote": "divokou kočku, jak nese mrtvolu králíka"
+  },
+  {
+   "id": "Q26838#8",
+   "species": "Zajíc polní",
+   "text": "Jí i zbytky plodin po sklizni.",
+   "quote": "zbytky plodin po sklizni"
+  }
+ ],
+ "candidates": {
+  "Q25851": {
+   "name": "Králík divoký",
+   "latin": "Oryctolagus cuniculus",
+   "family": "zajícovití",
+   "lead": "Králík divoký, též králík evropský (Oryctolagus cuniculus) je původně jihoevropský druh králíka, který žije od středověku též na území Česka. Patří mezi lovnou zvěř. Jeho domestikací vznikl králík domácí. Je to jediný zástupce rodu Oryctolagus.\n\n\n== Evoluční vývoj ==\nKrálík se objevuje ve fosilním záznamu poprvé v sedimentech starých několik milionů let, jeho evoluční původ v rámci kladu Lagomorpha však sahá až do období eocénu (starších třetihor, resp. paleogénu, asi před 53 až 48 miliony let).",
+   "facts": [
+    "V létě se živí hlavně trávou a zelenými částmi rostlin.",
+    "Tento druh žije ve skupinách zvaných kolonie.",
+    "Samice rodí třikrát až pětkrát ročně.",
+    "Mláďata se rodí holá a slepá, oči se jim otevřou až po deseti dnech.",
+    "Tento druh v zimě loupe kůru stromů a keřů.",
+    "Počty tohoto druhu snížila infekční nemoc myxomatóza."
+   ]
+  },
+  "Q668030": {
+   "name": "Králík lávový",
+   "latin": "Romerolagus diazi",
+   "family": "zajícovití",
+   "lead": "Králík lávový (Romerolagus diazi), také známý jako Romerův, v domovině nazývaný teporingo nebo zacatochin je nejvzácnější a nejohroženější druh králíka na světě. Je endemitem mexického pohoří Chichinautzin. Ve volné přírodě žije odhadem méně než 7000 jedinců (2020).\n\n\n== Popis ==\nJe druhým nejmenším králíkem ne světě (nejmenší je králík západoamerický). Měří 23,4 až 32,1 cm. Samci váží průměrně 417 gramů, samice bývají o něco větší, dosahují hmotnosti až 536 gramů. Malé zaoblené uši má výrazně k",
+   "facts": [
+    "Měří jen 23 až 32 centimetrů.",
+    "Žije jen v jednom pohoří jižně od Mexico City.",
+    "Jí hlavně rostliny z vysoké trávy.",
+    "Tento druh je nejaktivnější brzy ráno a večer.",
+    "Loví ho nejčastěji lasice, rys, kojot a káně.",
+    "Hostí parazity, například škrkavky, klíšťata a blechy.",
+    "Jí mátu, pcháče a kontryhel."
+   ]
+  },
+  "Q748185": {
+   "name": "Zajíc africký",
+   "latin": "Lepus capensis",
+   "family": "zajícovití",
+   "lead": "Zajíc africký (Lepus capensis) je druh zajíce žijící v Africe, v západních částech Asie a některých ostrovech Středomoří. Jeho domovinou jsou polopouště, křovinatá krajina, stepi, suché savany a horské oblasti tropů a subtropů. Má šedohnědou až pískovou barvu srsti a okolo očí světlý prstenec. Samice bývá větší než samec. Živí se různými částmi rostlin, především travními porosty. Uplatňuje i,\npodobně jako jiní zajíci a králíci, koprofágii, neboť konzumuje vlastní trus. Samice po 42 dnech březos",
+   "facts": [
+    "Živí se různými částmi rostlin, především travními porosty.",
+    "Mezi přirozené nepřátele patří gepard, karakal, šakal, levhart nebo vlk."
+   ]
+  },
+  "Q1355755": {
+   "name": "Zajíc tolaj",
+   "latin": "Lepus tolai",
+   "family": "zajícovití",
+   "lead": "Zajíc tolaj (Lepus tolai) je druh zajícovce původem ze Střední Asie, Mongolska a severní a střední Číny. Obývá polopouště, stepi, skalnaté biotopy a lesní louky. Jde o relativně hojný druh, a to i v oblastech narušovaných lidskou činností. Je aktivní zejména za soumraku a v noci, občas i během dne.\nHistoricky byl pokládán za totožný druh jako zajíc africký (Lepus capensis).\n\n\n== Popis ==\nZajíc tolaj měří bez ocasu 400 až 590 mm, délka ocasu činí 72 až 110 mm. Zbarvení vykazuje napříč celým areál",
+   "facts": [
+    "Tento druh je aktivní hlavně za soumraku a v noci.",
+    "Tento druh rodí najednou dvě až šest mláďat.",
+    "Živí se trávou, bylinami a kořínky."
+   ]
+  },
+  "Q244194": {
+   "name": "Králík západoamerický",
+   "latin": "Sylvilagus idahoensis",
+   "family": "zajícovití",
+   "lead": "Králík západoamerický (Brachylagus idahoensis) se vyskytuje v oblasti Velké pánve na severozápadě USA, malá izolovaná populace žije také v povodí řeky Columbia. Je to vůbec nejmenší druh králíka, měří 22 až 28 cm a váží 350 až 450 gramů, proto se mu v angličtině říká Pygmy rabbit.\nKrálík západoamerický si vyhrabává složitý systém nor. Aktivní je převážně při východu a západu slunce. Jeho hlavní potravou je pelyněk Artemisia tridentata. Pohlavní dospělosti dosahuje v jednom roce, samice vrhne až ",
+   "facts": [
+    "Stává se kořistí lasice dlouhoocasé a kojota prérijního.",
+    "Hlavní potravou tohoto druhu je pelyněk."
+   ]
+  },
+  "Q534801": {
+   "name": "Pišťucha ladacká",
+   "latin": "Ochotona ladacensis",
+   "family": "pišťuchovití",
+   "lead": "Pišťucha ladacká (Ochotona ladacensis) je druh býložravého savce z čeledi pišťuchovití. I když patří mezi zajícovce, vzhledově se podobá spíše morčeti.\n\n\n== Popis ==\nDélka dospělého jedince činí 18 až 23 cm, lebka je silně klenutá. Srst pišťuchy ladacké má světle hnědou nebo šedou barvu, se žlutavými či bělavými spodními partiemi. Vnější oblast uší má barvu v odstínech rezavě hnědé.\n\n\n== Taxonomie ==\nPišťucha ladacká byla původně považována za populaci pišťuchy černolící (Ochotona curzoniae), a ",
+   "facts": [
+    "Tento druh se v zimě pravděpodobně živí kořeny rostlin.",
+    "Tento druh má přirozeného predátora, manula."
+   ]
+  },
+  "Q469908": {
+   "name": "Pišťucha pika",
+   "latin": "Ochotona princeps",
+   "family": "pišťuchovití",
+   "lead": "Pišťucha pika (Ochotona princeps) je malý zajícovec spadající do čeledi pišťuchovitých. Vzhledem se nijak zvlášť od ostatních zástupců své čeledi neliší, avšak disponuje značně hřejivou srstí adaptovanou pro život v horských podmínkách. Je známá díky svému podzimnímu rituálu, při kterém sbírá a před vstupem do své nory suší nadzemní části travin a bylin, které budou v zimním období sloužit jako\npotrava v případě, že krajinu zasype sněhová pokrývka. Jedinci tráví mnoho hodin překusováním stonků, ",
+   "facts": [
+    "Na podzim sbírá a suší trávu na zimní zásoby.",
+    "Své území má na ploše asi 600 metrů čtverečních."
+   ]
+  },
+  "Q1366839": {
+   "name": "Pišťucha černolící",
+   "latin": "Ochotona curzoniae",
+   "family": "pišťuchovití",
+   "lead": "Pišťucha černolící (Ochotona curzoniae) je savec z čeledi pišťuchovití.\n\n\n== Popis ==\nVáží 0,1 až 0,2 kg a měří 12 až 25 cm. Pohlavně dospívá v osmi měsících. Samice je březí 21 až 24 dní. Samice v létě rodí každé tři týdny. Má 1 až 8 mláďat, obvykle 6, odstavena jsou ve 21 dnech. Dožívá se až 2,5 roku. Živí se trávou, bylinami, květy a semeny v zimě senem. Dělá si zásoby na drsnou zimu. Vyskytuje se ve velkých nadmořských výškách, obývá stepi a louky na Tibetské náhorní plošině.",
+   "facts": [
+    "Živí se trávou, bylinami, květy a semeny, v zimě senem.",
+    "Na drsnou zimu si dělá zásoby."
+   ]
+  },
+  "Q640645": {
+   "name": "Zajíc tmavoocasý",
+   "latin": "Lepus californicus",
+   "family": "zajícovití",
+   "lead": "Zajíc tmavoocasý (Lepus californicus), známý také jako zajíc černouchý nebo zajíc kalifornský, je druh zajíce běžný v západních Spojených státech a Mexiku, kde se vyskytuje v nadmořských výškách až do 3 000 m. Měří okolo 50 až 60 cm a váží 1,3 až 3,1 kg a je jedním z největších severoamerických zajíců. Zajíci tmavoocasí obývají křovinaté a travnaté oblasti. Jejich rozmnožování závisí na lokalitě;\nobvykle vrcholí na jaře, ale v teplém podnebí může probíhat po celý rok. Mláďata se rodí plně osrstě",
+   "facts": [
+    "Na podzim a v zimě jí hlavně keře.",
+    "Mláďata se rodí s otevřenýma očima a plně osrstěná.",
+    "Měří asi 50 až 60 centimetrů.",
+    "Tento druh žije na západě USA a v Mexiku.",
+    "V zimě se nestěhuje a celý rok zůstává na stejném území.",
+    "Tento druh je kořistí mnoha dravců a šelem.",
+    "Živí se keři, malými stromy, trávami a bylinami.",
+    "Je kořistí káně královské.",
+    "Na tomto druhu žijí blechy, klíšťata, vši a roztoči."
+   ]
+  },
+  "Q300964": {
+   "name": "Králík říční",
+   "latin": "Bunolagus monticularis",
+   "family": "zajícovití",
+   "lead": "Králík říční (Bunolagus monticularis) je jediný druh rodu Bunolagus, jeden z nejvíce ohrožených savců na světě. Je endemitem Jižní Afriky, vyskytuje se výhradně v křovinaté pobřežní vegetaci okolo sezónních vodních toků v polopouštních ekoregionech střední a jižní Karoo na jihu Jihoafrické republiky.\n\n\n== Popis ==\nJe středně velký, na délku měří 34 až 47 cm a váží od 1,5 do 1,8 kg, samice bývá větší a těžší. Hlavními poznávacími znaky jsou černé proužky od kraje úst přes tvář k uším a bílé okrou",
+   "facts": [
+    "Jí trávu, květiny, listy a kůru keřů podle ročního období.",
+    "Přes den se ukrývá v noře před dravci.",
+    "Tento druh ohrožují divocí psi a kočky.",
+    "Bakterie v jeho střevech vyrábějí vitamín B."
+   ]
+  },
+  "Q26838": {
+   "name": "Zajíc polní",
+   "latin": "Lepus europaeus",
+   "family": "zajícovití",
+   "lead": "Zajíc polní (Lepus europaeus) je hojný druh zajíce žijící na velkém území Evropy a západní Asie. Jeho přirozeným biotopem jsou otevřené krajiny, především pole, louky, okraje lesů aj., kde je díky svému hnědému zbarvení velmi dobře zamaskován.\nZajíc polní je druh, který se pravděpodobně vyvinul v průběhu spodního až středního pleistocénu (řádově před stovkami tisíciletí), kdy se oddělil od svých nejbližších vývojových příbuzných.\n\n\n== Stavba těla ==\nZajíc polní dorůstá délky 50–70 cm a dosahuje ",
+   "facts": [
+    "Obvykle běhá rychlostí 40 km/h, v nebezpečí až 74 km/h.",
+    "Skáče přes metr do výšky a až šest metrů daleko.",
+    "Lépe vidí za soumraku než za plného světla.",
+    "Když stojí vzpřímeně na zadních nohou, vidí téměř do všech stran.",
+    "Jí hlavně byliny, v zimě okusuje i větve.",
+    "Tento druh se může dožít až 12 let.",
+    "Mezi predátory patří jestřábi, orli, výři, lišky a vlci.",
+    "Rádi okusují hlavně listnaté dřeviny.",
+    "Jí i zbytky plodin po sklizni."
+   ]
+  },
+  "Q687102": {
+   "name": "Králík japonský",
+   "latin": "Pentalagus furnessi",
+   "family": "zajícovití",
+   "lead": "Králík japonský (Pentalagus furnessi, japonsky アマミノクロウサギ 奄美野黒兔, doslovně „černý divoký amamský králík“), také známý jako králík amamský, amaninský či stromový, je tmavosrstý králík, který se vyskytuje pouze na Amami Óšima a Tokunošima, dvou malých ostrovech mezi jižním Kjúšú a Okinawou v prefektuře Kagošima v Japonsku. Králík amamský je nazýván živoucí fosílií, protože obýval asijskou pevninu, na\nkteré vyhynul a zachoval se pouze na těchto dvou ostrovech, kde v současnosti žije.\n\n\n== Biologie ==",
+   "facts": [
+    "Jí více než 29 druhů rostlin, například výhonky a žaludy.",
+    "Tento druh je aktivní v noci.",
+    "Váží průměrně 2,5 až 2,8 kilogramu.",
+    "Matka chrání jeho mláďata před jedovatými hady.",
+    "Divoké kočky loví tento druh.",
+    "Jí kůru stonků a větviček keřů."
+   ]
+  }
+ }
+}

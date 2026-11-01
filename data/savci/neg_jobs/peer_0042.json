@@ -1,0 +1,285 @@
+{
+ "facts": [
+  {
+   "id": "Q735210#4",
+   "species": "Kulohlavec Sieboldův",
+   "text": "Žije ve stádech o 15 až 50 zvířatech.",
+   "quote": "žije v menších stádech o přibližně 15 až 50 jedincích různého pohlaví a věku"
+  },
+  {
+   "id": "Q244410#8",
+   "species": "Velryba jižní",
+   "text": "Živí se zooplanktonem.",
+   "quote": "Tam dochází k poměrně intenzivnímu krmení zooplanktonem."
+  },
+  {
+   "id": "Q81214#6",
+   "species": "Vorvaň obrovský",
+   "text": "Loví i některé žraloky, například žraloky malohlavé.",
+   "quote": "Zabíjejí i některé druhy žraloků, například žraloky malohlavé."
+  },
+  {
+   "id": "Q2649322#2",
+   "species": "Delfín guayanský",
+   "text": "Dožívá se odhadem 30 až 35 let.",
+   "quote": "Odhadovaná délka dožití je 30–35 let."
+  },
+  {
+   "id": "Q935680#1",
+   "species": "Delfín brazilský",
+   "text": "Živí se hlavně menšími rybami.",
+   "quote": "Živí se hlavně menšími rybami"
+  },
+  {
+   "id": "Q132905#2",
+   "species": "Keporkak",
+   "text": "Loví tak, že kolem ryb vytvoří síť z bublin.",
+   "quote": "Vytvoří síť z bublin okolo hejna ryb, které pak naberou svými ohromnými tlamami."
+  },
+  {
+   "id": "Q636590#2",
+   "species": "Vorvaňovec tropický",
+   "text": "Pravidelně se potápí do hloubky kolem 1000 metrů.",
+   "quote": "Pravidelně se potápí do hloubek okolo 1000 metrů"
+  },
+  {
+   "id": "Q300949#0",
+   "species": "Vorvaňovec anarnak",
+   "text": "Loví hlavně hlavonožce, například krakatice.",
+   "quote": "Hlavní potravou anarnaka jsou hlavonožci, především krakatice rodu Gonatus."
+  },
+  {
+   "id": "Q2649322#1",
+   "species": "Delfín guayanský",
+   "text": "Nejraději jí malé rybky dlouhé 3 až 16 centimetrů.",
+   "quote": "rybky o délkách 3–16 cm"
+  },
+  {
+   "id": "Q623173#0",
+   "species": "Vorvaňovec zobatý",
+   "text": "Tento druh se potápí nejhlouběji ze všech savců, až do hloubky 2992 metrů.",
+   "quote": "Drží rekord v hloubce i délce ponoru mezi všemi savci, a to s ověřenou hodnotou 2992 metrů"
+  },
+  {
+   "id": "Q42196#2",
+   "species": "Plejtvák obrovský",
+   "text": "Váží zhruba 72 až 135 tun.",
+   "quote": "Dospělí plejtváci váží kolem 72−135 tun"
+  },
+  {
+   "id": "Q208132#4",
+   "species": "Kosatka černá",
+   "text": "Loví koryfény, plachetníky a tuňáky.",
+   "quote": "Z ryb se specializuje na koryfény velké neboli mahi-mahi"
+  },
+  {
+   "id": "Q26843#0",
+   "species": "Kosatka dravá",
+   "text": "Má černý hřbet, bílou hruď a bílou skvrnu nad očima.",
+   "quote": "Bílou skvrnou mají nad očima."
+  },
+  {
+   "id": "Q300961#4",
+   "species": "Plískavice novozélandská",
+   "text": "Kosatky a velcí žraloci tento druh pravděpodobně loví.",
+   "quote": "K predátorům plískavic patří patrně kosatky a velké druhy žraloků"
+  },
+  {
+   "id": "Q838812#0",
+   "species": "Delfín drsnozubý",
+   "text": "Má dlouhý zobák, ze stran mírně zploštělý.",
+   "quote": "který je ze stran nevýrazně zploštělý"
+  },
+  {
+   "id": "Q764242#1",
+   "species": "Delfín pobřežní",
+   "text": "Žije v tropických mořích a místy i v mírném pásu.",
+   "quote": "Místy jeho rozšíření zasahuje až do mírného pásu."
+  },
+  {
+   "id": "Q179020#3",
+   "species": "Plejtvák myšok",
+   "text": "Krátce dokáže plavat rychlostí kolem 37 km/h.",
+   "quote": "krátkodobě umí vyvinout i rychlost kolem 37 km/h"
+  },
+  {
+   "id": "Q27027#5",
+   "species": "Sviňucha obecná",
+   "text": "Dožívá se 8 až 10 let.",
+   "quote": "Dožívá se 8–10 let."
+  },
+  {
+   "id": "Q301048#1",
+   "species": "Plískavice kapská",
+   "text": "Umí vyskočit až 2 metry do vzduchu.",
+   "quote": "Může vyskočit až 2 m do vzduchu a při dopadu břichem o vodní hladinu vydává hlasitá plesknutí."
+  },
+  {
+   "id": "Q132905#1",
+   "species": "Keporkak",
+   "text": "Živí se hlavně krilem a malými rybkami.",
+   "quote": "Krmí se hlavně krilem a malými rybkami pohybujícími se v obřích hejnech."
+  }
+ ],
+ "candidates": {
+  "Q215332": {
+   "name": "Delfín pruhovaný",
+   "latin": "Stenella coeruleoalba",
+   "family": "delfínovití",
+   "lead": "Delfín pruhovaný (Stenella coeruleoalba) je hojně rozšířený druh delfína dosahující délky až 2,5 m a hmotnosti okolo 100 kg. Delfín pruhovaný je zatím hojně rozšířený a vyhynutí mu bezprostředně nehrozí.\n\n\n== Synonyma ==\nDelphinus coeruleo-albus\nStenella asthenops\nStenella euphrosyne\nStenella styx\n\n\n== Popis ==\nNa hřbetě je modrošedý, na břiše bílý.Po stranách se táhne černý pruh, který se před očima rozvětvuje směrem k břišní ploutvi. Zobák má plochý a krátký.\n\n\n== Areál rozšíření ==\nKolem Sev.",
+   "facts": [
+    "Loví ryby, kalmáry a korýše ve skupinách.",
+    "Často se sdružuje do stád po stovkách kusů."
+   ]
+  },
+  "Q300946": {
+   "name": "Plískavice plochočelá",
+   "latin": "Lagenorhynchus obliquidens",
+   "family": "delfínovití",
+   "lead": "Plískavice plochočelá (Lagenorhynchus obliquidens) je druh menšího kytovce z čeledi delfínovití, který se vyskytuje v chladných až vlažných vodách severního Pacifiku.\n\n\n== Systematika ==\nDruhové jméno obliquidens pochází z latinského obliquus („šikmý“) a dens („zub“), čili doslova „šikmé zuby“. To odkazuje k zubům plískavice plochočelé, které jsou mírně zešikmené. K dalším českým názvům druhu patří delfín krátkohubý.\n\n\n== Areál rozšíření a početnost ==\n\nVyskytuje se ve vodách mírného pásu severn",
+   "facts": [
+    "Tento druh má černobílé tělo.",
+    "Živí se hlavně hejnovými rybami.",
+    "Často žije ve skupinách po desítkách i stovkách zvířat.",
+    "Tento druh má mezi přirozenými nepřáteli kosatku dravou.",
+    "Jako doplněk jí také hlavonožce a krevety.",
+    "Kosatky tento druh někdy pronásledují na mělčinu u pobřeží.",
+    "Při shánění potravy se stýká s keporkami a lachtany kalifornskými."
+   ]
+  },
+  "Q755733": {
+   "name": "Plískavice chilská",
+   "latin": "Cephalorhynchus eutropia",
+   "family": "delfínovití",
+   "lead": "Plískavice chilská (Cephalorhynchus eutropia) je druh menšího kytovce z čeledi delfínovití, jeden ze čtyř druhů rodu Cephalorhynchus. Vyskytuje se pouze v mělkých pobřežních vodách podél jižních břehů Chile.\n\n\n== Systematika ==\nDruhové jméno eutropia pochází z řeckých slov eu („dobře“ nebo „pravda“) a tropido („kýl“), což odkazuje k tvaru hlavy plískavice, která je silně kýlovitá.\n\n\n== Popis ==\n\nJedná se o poměrně malou plískavici dosahující váhy kolem 60–70 kg a velikosti těla 1,5–1,7 m. Novoro",
+   "facts": [
+    "Žije většinou v malých skupinách po 2 až 15 zvířatech.",
+    "Živí se rybkami z mělčin.",
+    "Na břiše má výrazný bílý pruh.",
+    "Jí také hlavonožce a korýše."
+   ]
+  },
+  "Q244410": {
+   "name": "Velryba jižní",
+   "latin": "Eubalaena australis",
+   "family": "velrybovití",
+   "lead": "Velryba jižní (Eubalaena australis) je robustní kytovec z čeledi velrybovití, který se vyskytuje v jižních částech oceánů jižní polokoule. Jedná se o migrační druh – letní měsíce většinou tráví sběrem potravy v jižních částech svého areálu u hranic s Jižním oceánem, na zimu se stahuje do severnějších, o něco teplejších oblastí, jako jsou okolí západní Austrálie, novozélandských subantarktických\nostrovů, břehů Jižní Ameriky (hlavně Argentina, Chile, Brazílie) a vody kolem jižní Afriky (hlavně Jih",
+   "facts": [
+    "Tento druh může žít nejméně 70 let.",
+    "Tento druh plave s otevřenou tlamou a sbírá drobné živočichy z vody.",
+    "Tento druh má mláďata, která v prvních týdnech přibírají až 100 kg denně.",
+    "Vědci poznají jednotlivá zvířata podle světlých skvrn na těle.",
+    "Tento druh má hlavního nepřítele: kosatky dravé.",
+    "Vydechuje vodu do výšky až 6 metrů.",
+    "Potápí se až do 200 metrů hluboko.",
+    "Tento druh měří obvykle 11 až 18 metrů.",
+    "Živí se zooplanktonem.",
+    "Kosatky dravé loví především mláďata tohoto druhu.",
+    "Na hlavě žijí drobní různonožci, malí živočichové."
+   ]
+  },
+  "Q918331": {
+   "name": "Delfínec velrybovitý",
+   "latin": "Lissodelphis borealis",
+   "family": "delfínovití",
+   "lead": "Delfínec velrybovitý (Lissodelphis borealis) je druh menšího delfínovitého kytovce, který představuje jednoho ze dvou zástupců rodu Lissodelphis. Vyskytuje se v chladných až teplých vodách Tichého oceánu.\n\n\n== Systematika ==\nDruh popsal v roce 1849 americký přírodovědec Titian Peale jako Delphinapterus borealis . Druh byl později přeřazen do rodu Lissodelphis. Název rodu pochází z řeckého lissos, čili „hladký“, což odkazuje k absenci hřbetní ploutve či kýlu, a delphis, neboli „delfín“. Druhové j",
+   "facts": [
+    "Nemá hřbetní ploutev.",
+    "Živí se hlavně rybami, menší část jídelníčku tvoří hlavonožci.",
+    "Dokáže plavat rychlostí až 40 km/h.",
+    "Žije ve velkých stádech, často po 100 až 200 zvířatech.",
+    "Patrně ho loví kosatky dravé a velcí žraloci."
+   ]
+  },
+  "Q193683": {
+   "name": "Velryba černá",
+   "latin": "Eubalaena glacialis",
+   "family": "velrybovití",
+   "lead": "Velryba černá (Eubalaena glacialis) je kytovec dorůstající délky okolo 14,5 metrů, z čehož hlava zabírá 1/4–1/3, stejně tak rozpětí ocasní ploutve dosahuje asi 1/3 délky těla. Pohlavní dimorfismus není tolik výrazný jako u jiných kytovců, přesto je samice trochu větší. Váží okolo 40 tun. Má proti jiným kytovcům dlouhé a široké hrudní ploutve, zatímco hřbetní ploutev vůbec nemá. Jsou pro ní typičtí\nparazitičtí korýši, kteří žijí na výstupcích hlavy. Živí se planktonem a krilem. Mezinárodním svaze",
+   "facts": [
+    "Dorůstá do délky okolo 14,5 metru.",
+    "Živí se planktonem a krilem.",
+    "Žije jen asi 200 až 250 jedinců."
+   ]
+  },
+  "Q26843": {
+   "name": "Kosatka dravá",
+   "latin": "Orcinus orca",
+   "family": "delfínovití",
+   "lead": "Kosatka dravá (Orcinus orca), známá také jako kosatka pravá či kosatka velká, je největším zástupcem čeledi delfínovití. Je všestranným predátorem stojícím na vrcholu mořského potravního řetězce. Požírá ryby, želvy, ptáky, ploutvonožce, žraloky a také jiné kytovce. Kosatka dravá je pravděpodobně souborem více než deseti samostatných kryptických druhů označovaných v současné době jako ekotypy.\nVe světových jazycích občas používaný název „velryba zabiják“ odráží její pověst velkolepého a obávaného",
+   "facts": [
+    "Má černý hřbet, bílou hruď a bílou skvrnu nad očima.",
+    "Loví ryby, ptáky, žraloky i jiné velryby.",
+    "Samci měří obvykle 6 až 8 metrů.",
+    "Mláďata se rodí těžká asi 200 kg.",
+    "Mláďata potřebují péči dva roky.",
+    "Dorozumívá se cvakáním a hvízdáním.",
+    "Nemá přirozené nepřátele, je na vrcholu potravního řetězce.",
+    "Plave rychlostí až 55 km/h.",
+    "Některé skupiny se přednostně živí lososy.",
+    "Některé skupiny loví tuleně a lachtany.",
+    "V Patagonii loví mláďata lachtanů a rypoušů."
+   ]
+  },
+  "Q185097": {
+   "name": "Plejtvák sejval",
+   "latin": "Balaenoptera borealis",
+   "family": "plejtvákovití",
+   "lead": "Plejtvák sejval (Balaenoptera borealis) je kytovec z podřádu kosticovci. Je to třetí největší druh plejtváka, po plejtváku obrovském a plejtváku myšoku. Maximální hmotnost činí zhruba 40 tun a délka 19,5 metru.\n\n\n== Název ==\nNázev „sejval“ pochází z norského slova \"seihval\" (hval je velryba, sei je treska) podle tresky, která se u norského pobřeží vyskytuje ve stejnou roční dobu jako sejval.[zdroj?]\n\n\n== Popis ==\nPlejtvák sejval dorůstá až 20 metrů délky a 40 tun hmotnosti. Tělo je poměrně zaval",
+   "facts": [
+    "Denně spotřebuje v průměru 900 kilogramů potravy.",
+    "Na krátké vzdálenosti dokáže plavat rychlostí až 50 kilometrů za hodinu."
+   ]
+  },
+  "Q724349": {
+   "name": "Elektra tmavá",
+   "latin": "Peponocephala electra",
+   "family": "delfínovití",
+   "lead": "Elektra tmavá (Peponocephala electra Gray, 1846) je kytovec z čeledi delfínovitých dosahující hmotnosti 100–200 kg.\n\n\n== Popis ==\nJedná se o kytovce s vyklenutou a tupě zakončenou hlavou. Doba březosti činí 12 měsíců. Horní čelist nepatrně přesahuje čelist dolní. Zuby jsou na horní čelisti ve 21–25 párech, na čelisti dolní ve 14–24. Elektry obývají volné moře. Živí se rybami, hlavonožci a měkkýši. Elektry mají rády společnost, a proto se spojují do stád. Stáda čítají od 15 až do 500 kusů. Občas ",
+   "facts": [
+    "Živí se rybami, hlavonožci a měkkýši.",
+    "Tento druh tvoří stáda o 15 až 500 kusech."
+   ]
+  },
+  "Q649513": {
+   "name": "Delfín dlouholebý",
+   "latin": "Stenella longirostris",
+   "family": "delfínovití",
+   "lead": "Delfín dlouholebý (Stenella longirostris) patří k nejobratnějším kytovcům a je proslulý svými akrobatickými kousky ve vzduchu. Má štíhlý dlouhý zobák a nápadně vysokou hřbetní ploutev trojúhelníkového tvaru. Existují čtyři poddruhy delfína dlouholebého, lišících se hlavně tvarem těla, velikostí a zbarvením. Dospělý jedinec váží 45–75 kg a dorůstá délky 1,3–2 m. Zbarvení těla je černé nebo tmavě\nšedé, spodní část těla je světlá nebo i bílá, okraje očí a pysků jsou černé.\n\n\n== Chování ==\n\nŽije v h",
+   "facts": [
+    "Skáče z vody až tři metry vysoko.",
+    "Živí se malými rybami a hlavonožci.",
+    "Jeden poddruh se na útesech živí rybami a bezobratlými."
+   ]
+  },
+  "Q216435": {
+   "name": "Plískavice běloboká",
+   "latin": "Lagenorhynchus acutus",
+   "family": "delfínovití",
+   "lead": "Plískavice běloboká (Lagenorhynchus acutus) je druh menšího kytovce z čeledi delfínovití, který se vyskytuje v severní vodách Atlantiku. Typickým znakem druhu je bílé břicho a světlý pruh na boku táhnoucí se od hřbetní ploutve k počátku ocasu.\n\n\n== Systematika ==\n\nKe straším českým názvům patří delfín běloboký. Vědecké jméno druhu zní Lagenorhynchus acutus, kdy Lagenorhynchus pochází z řeckého lagenos („láhev“) a rhynchos („zobák“) a rodové acutus znamená v latině „špičatý“ nebo „ostrý“.\n\n\n== Po",
+   "facts": [
+    "Živí se hlavně hejnovými rybami.",
+    "Vyskakují často nad vodu a pleskají ocasem.",
+    "Tento druh má mláďata dlouhá 120 cm.",
+    "Žije ve skupinách, někdy i o několika stovkách zvířat.",
+    "Hlavonožci a krevety doplňují jeho potravu.",
+    "Při krmení často plave za plejtváky.",
+    "Občas mohou tvořit stáda s kulohlavci."
+   ]
+  },
+  "Q301018": {
+   "name": "Plískavice pestrá",
+   "latin": "Lagenorhynchus cruciger",
+   "family": "delfínovití",
+   "lead": "Plískavice pestrá (Lagenorhynchus cruciger) je druh delfína, který se vyskytuje ve studených vodách antarktické a subantarktické oblasti.\n\n\n== Systematika ==\nLatinské druhové jméno cruciger je založeno na slovech crux („kříž“) a gero („nesu“), v doslovném překladu tedy „nositel kříže“. Jméno odkazuje ke zvláštnímu barevnému vzoru na těle plískavice. Druh má značně komplikovanou taxonomickou historii, kterou shrnul Goodall at al. (1997).\n\n\n== Popis ==\n\nPlískavice pestrá má podsadité tělo s vysoko",
+   "facts": [
+    "Tento druh má černé tělo se dvěma bílými pruhy na každé straně.",
+    "Živí se rybami, korýši a hlavonožci.",
+    "Surfují rádi ve vlnách za velkými loděmi.",
+    "Při plavání dosahuje rychlosti až 22 km/h.",
+    "K predátorům patří pravděpodobně kosatky a tuleni leopardí.",
+    "Tento druh se často vyskytuje poblíž plejtváků myšoků."
+   ]
+  }
+ }
+}

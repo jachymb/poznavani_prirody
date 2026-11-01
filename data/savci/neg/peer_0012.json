@@ -1,0 +1,22 @@
+{"results": [
+{"id": "Q547663#3", "false_for": [], "bad": false, "why": ""},
+{"id": "Q591450#6", "false_for": [], "bad": false, "why": ""},
+{"id": "Q935284#1", "false_for": [], "bad": false, "why": ""},
+{"id": "Q754036#1", "false_for": ["Q774635", "Q935284"], "bad": false, "why": ""},
+{"id": "Q903548#1", "false_for": ["Q547663"], "bad": false, "why": ""},
+{"id": "Q1062541#1", "false_for": ["Q774635", "Q935284"], "bad": false, "why": ""},
+{"id": "Q626921#0", "false_for": ["Q774635", "Q935284"], "bad": false, "why": ""},
+{"id": "Q1353759#0", "false_for": [], "bad": false, "why": ""},
+{"id": "Q378959#0", "false_for": ["Q836725", "Q1459", "Q754041", "Q626921", "Q6145", "Q257774"], "bad": false, "why": ""},
+{"id": "Q935284#0", "false_for": ["Q836725", "Q1459", "Q754041", "Q626921", "Q6145", "Q257774"], "bad": false, "why": ""},
+{"id": "Q754041#3", "false_for": [], "bad": false, "why": ""},
+{"id": "Q626921#4", "false_for": [], "bad": false, "why": ""},
+{"id": "Q754041#2", "false_for": [], "bad": false, "why": ""},
+{"id": "Q626921#1", "false_for": [], "bad": false, "why": ""},
+{"id": "Q774635#2", "false_for": ["Q836725", "Q613721", "Q547663", "Q1459", "Q754041", "Q1353759", "Q626921", "Q6145", "Q591450", "Q257774"], "bad": false, "why": ""},
+{"id": "Q581661#3", "false_for": ["Q547663"], "bad": false, "why": ""},
+{"id": "Q547663#0", "false_for": ["Q836725", "Q935284", "Q613721", "Q774635", "Q1459", "Q754041", "Q1353759", "Q626921", "Q6145", "Q591450", "Q257774"], "bad": false, "why": ""},
+{"id": "Q1416175#1", "false_for": [], "bad": false, "why": ""},
+{"id": "Q6145#6", "false_for": [], "bad": true, "why": "nejasný slovosled, dítě nepozná, kdo koho loví"},
+{"id": "Q591450#0", "false_for": ["Q1459", "Q6145"], "bad": false, "why": ""}
+]}

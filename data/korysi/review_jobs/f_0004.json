@@ -1,0 +1,171 @@
+[
+ {
+  "id": "Q1133124#1",
+  "species": "Rak červený",
+  "latin": "Procambarus clarkii",
+  "text": "Pohlavní dospělosti dosahuje už v prvním roce života.",
+  "quote": "pohlavní dospělosti dosahuje již v prvním roce života.",
+  "claimed_false_for": {
+   "Q206070": "Krab palmový (Birgus latro)",
+   "Q273655": "Velekrab japonský (Macrocheira kaempferi)",
+   "Q37668": "Humr americký (Homarus americanus)"
+  }
+ },
+ {
+  "id": "Q1135229#1",
+  "species": "Žábronožka solná",
+  "latin": "Artemia salina",
+  "text": "Žije ve slaných jezerech.",
+  "quote": "Žije ve slaných jezerech.",
+  "claimed_false_for": {
+   "Q1133124": "Rak červený (Procambarus clarkii)",
+   "Q1300629": "Svinka obecná (Armadillidium vulgare)",
+   "Q206070": "Krab palmový (Birgus latro)",
+   "Q273655": "Velekrab japonský (Macrocheira kaempferi)",
+   "Q27690": "Humr evropský (Homarus gammarus)",
+   "Q37668": "Humr americký (Homarus americanus)",
+   "Q43735": "Strašek paví (Odontodactylus scyllarus)",
+   "Q571443": "Krunýřovka krillová (Euphausia superba)",
+   "Q693000": "Rak signální (Pacifastacus leniusculus)",
+   "Q823941": "Krab říční (Eriocheir sinensis)"
+  }
+ },
+ {
+  "id": "Q206070#0",
+  "species": "Krab palmový",
+  "latin": "Birgus latro",
+  "text": "Dokáže ulovit i menší obratlovce.",
+  "quote": "dokáže ulovit i menší obratlovce.",
+  "claimed_false_for": {
+   "Q1300629": "Svinka obecná (Armadillidium vulgare)",
+   "Q571443": "Krunýřovka krillová (Euphausia superba)"
+  }
+ },
+ {
+  "id": "Q206070#1",
+  "species": "Krab palmový",
+  "latin": "Birgus latro",
+  "text": "Dožívá se až šedesáti let.",
+  "quote": "Dožívá se až šedesáti let.",
+  "claimed_false_for": {
+   "Q1300629": "Svinka obecná (Armadillidium vulgare)",
+   "Q210959": "Rak říční (Astacus astacus)",
+   "Q571443": "Krunýřovka krillová (Euphausia superba)",
+   "Q693000": "Rak signální (Pacifastacus leniusculus)"
+  }
+ },
+ {
+  "id": "Q210959#1",
+  "species": "Rak říční",
+  "latin": "Astacus astacus",
+  "text": "Výskyt tohoto druhu ukazuje na čistou vodu.",
+  "quote": "Žije v tekoucí vodě, je velmi citlivý na její znečištění a je proto bioindikátorem čistoty vodních toků.",
+  "claimed_false_for": {
+   "Q1133124": "Rak červený (Procambarus clarkii)",
+   "Q693000": "Rak signální (Pacifastacus leniusculus)",
+   "Q823941": "Krab říční (Eriocheir sinensis)"
+  }
+ },
+ {
+  "id": "Q273655#0",
+  "species": "Velekrab japonský",
+  "latin": "Macrocheira kaempferi",
+  "text": "Živí se rostlinami i živočichy, převážně měkkýši.",
+  "quote": "Velekrab je všežravec, živí se jak rostlinami, tak živočichy, převážně měkkýši.",
+  "claimed_false_for": {
+   "Q1300629": "Svinka obecná (Armadillidium vulgare)",
+   "Q571443": "Krunýřovka krillová (Euphausia superba)"
+  }
+ },
+ {
+  "id": "Q27690#0",
+  "species": "Humr evropský",
+  "latin": "Homarus gammarus",
+  "text": "Dokáže klepety otevírat lastury mlžů, kterými se živí.",
+  "quote": "Dovede s nimi otevírat lastury mlžů, kterými se živí.",
+  "claimed_false_for": {
+   "Q1300629": "Svinka obecná (Armadillidium vulgare)",
+   "Q571443": "Krunýřovka krillová (Euphausia superba)"
+  }
+ },
+ {
+  "id": "Q37668#0",
+  "species": "Humr americký",
+  "latin": "Homarus americanus",
+  "text": "Může vážit přes 20 kilogramů.",
+  "quote": "hmotnost přes 20 kg",
+  "claimed_false_for": {
+   "Q1133124": "Rak červený (Procambarus clarkii)",
+   "Q1135229": "Žábronožka solná (Artemia salina)",
+   "Q1300629": "Svinka obecná (Armadillidium vulgare)",
+   "Q206070": "Krab palmový (Birgus latro)",
+   "Q210959": "Rak říční (Astacus astacus)",
+   "Q27690": "Humr evropský (Homarus gammarus)",
+   "Q571443": "Krunýřovka krillová (Euphausia superba)",
+   "Q693000": "Rak signální (Pacifastacus leniusculus)",
+   "Q823941": "Krab říční (Eriocheir sinensis)"
+  }
+ },
+ {
+  "id": "Q37668#1",
+  "species": "Humr americký",
+  "latin": "Homarus americanus",
+  "text": "Má velké klepeto, kterým drtí kořist.",
+  "quote": "Větší z nich má drtící funkci",
+  "claimed_false_for": {
+   "Q1135229": "Žábronožka solná (Artemia salina)",
+   "Q1300629": "Svinka obecná (Armadillidium vulgare)",
+   "Q571443": "Krunýřovka krillová (Euphausia superba)"
+  }
+ },
+ {
+  "id": "Q37668#4",
+  "species": "Humr americký",
+  "latin": "Homarus americanus",
+  "text": "Žije v chladných, mělkých vodách, kde je mnoho skal.",
+  "quote": "v chladných, mělkých vodách, kde je mnoho skal",
+  "claimed_false_for": {
+   "Q1133124": "Rak červený (Procambarus clarkii)",
+   "Q1135229": "Žábronožka solná (Artemia salina)",
+   "Q1300629": "Svinka obecná (Armadillidium vulgare)",
+   "Q206070": "Krab palmový (Birgus latro)",
+   "Q210959": "Rak říční (Astacus astacus)",
+   "Q693000": "Rak signální (Pacifastacus leniusculus)",
+   "Q823941": "Krab říční (Eriocheir sinensis)"
+  }
+ },
+ {
+  "id": "Q37668#6",
+  "species": "Humr americký",
+  "latin": "Homarus americanus",
+  "text": "Může jíst také kraby, žahavce a malé ryby.",
+  "quote": "včetně jiných korýšů (jako jsou krabi (Brachyura)), hadic (Ophiuroidea), žahavců (Cnidaria) a malých ryb (Pisces)",
+  "claimed_false_for": {
+   "Q1300629": "Svinka obecná (Armadillidium vulgare)",
+   "Q571443": "Krunýřovka krillová (Euphausia superba)"
+  }
+ },
+ {
+  "id": "Q43735#2",
+  "species": "Strašek paví",
+  "latin": "Odontodactylus scyllarus",
+  "text": "Loví malé rybičky a jiné korýše.",
+  "quote": "požírá malé rybičky a ostatní korýše",
+  "claimed_false_for": {
+   "Q1135229": "Žábronožka solná (Artemia salina)",
+   "Q571443": "Krunýřovka krillová (Euphausia superba)"
+  }
+ },
+ {
+  "id": "Q571443#0",
+  "species": "Krunýřovka krillová",
+  "latin": "Euphausia superba",
+  "text": "Živí se droboučkým fytoplanktonem.",
+  "quote": "Živí se droboučkým fytoplanktonem",
+  "claimed_false_for": {
+   "Q27690": "Humr evropský (Homarus gammarus)",
+   "Q37668": "Humr americký (Homarus americanus)",
+   "Q43735": "Strašek paví (Odontodactylus scyllarus)"
+  }
+ }
+]

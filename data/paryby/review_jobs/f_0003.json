@@ -1,0 +1,453 @@
+[
+ {
+  "id": "Q1126782#4",
+  "species": "Žralok bělocípý",
+  "latin": "Carcharhinus albimarginatus",
+  "text": "Tento druh se živí kostnatými rybami, například okouny, makrelami nebo tuňáky.",
+  "quote": "Strava žraloka bělocípého je složena převážně z kostnatých ryb jako jsou mořský okoun, makrela, tuňák",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1160972#2",
+  "species": "Chiméra podivná",
+  "latin": "Chimaera monstrosa",
+  "text": "Živí se bezobratlými živočichy žijícími na mořském dně.",
+  "quote": "Živí se bezobratlými živočichy žijícími na mořském dně.",
+  "claimed_false_for": {
+   "Q318090": "Žralok dlouhoploutvý (Carcharhinus longimanus)",
+   "Q321976": "Manta obrovská (Mobula birostris)"
+  }
+ },
+ {
+  "id": "Q125236#0",
+  "species": "Žralok černocípý",
+  "latin": "Carcharhinus limbatus",
+  "text": "Vyskakuje nad hladinu, když útočí na hejna malých ryb.",
+  "quote": "při útoku na hejna malých ryb vyskakuje nad hladinu",
+  "claimed_false_for": {
+   "Q1160972": "Chiméra podivná (Chimaera monstrosa)",
+   "Q169468": "Žralok zebrovitý (Stegostoma fasciatum)",
+   "Q194312": "Žralok límcový (Chlamydoselachus anguineus)",
+   "Q28133219": "Trnucha říční (Himantura polylepis)",
+   "Q312293": "Žralok šedý (Hexanchus griseus)",
+   "Q338891": "Kladivoun tiburo (Sphyrna tiburo)",
+   "Q586594": "Trnucha obecná (Dasyatis pastinaca)",
+   "Q84822": "Máčka skvrnitá (Scyliorhinus canicula)",
+   "Q934615": "Různozubec sanfranciský (Heterodontus francisci)"
+  }
+ },
+ {
+  "id": "Q125236#1",
+  "species": "Žralok černocípý",
+  "latin": "Carcharhinus limbatus",
+  "text": "Samice rodí 1 až 10 mláďat každý druhý rok.",
+  "quote": "samice rodí 1 až 10 mláďat každý druhý rok",
+  "claimed_false_for": {
+   "Q1160972": "Chiméra podivná (Chimaera monstrosa)",
+   "Q169468": "Žralok zebrovitý (Stegostoma fasciatum)",
+   "Q312293": "Žralok šedý (Hexanchus griseus)",
+   "Q84822": "Máčka skvrnitá (Scyliorhinus canicula)",
+   "Q934615": "Různozubec sanfranciský (Heterodontus francisci)"
+  }
+ },
+ {
+  "id": "Q1262285#0",
+  "species": "Chiméra běloskvrnná",
+  "latin": "Hydrolagus colliei",
+  "text": "Žije ve vodách až do hloubky 913 metrů.",
+  "quote": "Obývá vody od pobřežní čáry až po hloubku 913 metrů",
+  "claimed_false_for": {
+   "Q169468": "Žralok zebrovitý (Stegostoma fasciatum)",
+   "Q190469": "Žralok bělavý (Carcharhinus leucas)",
+   "Q311651": "Piloun mnohozubý (Pristis pectinata)",
+   "Q586594": "Trnucha obecná (Dasyatis pastinaca)",
+   "Q592165": "Žralok Perezův (Carcharhinus perezi)",
+   "Q695344": "Žralok lagunový (Triaenodon obesus)",
+   "Q726384": "Žralok černoploutvý (Carcharhinus melanopterus)",
+   "Q756859": "Žralok vouskatý (Ginglymostoma cirratum)"
+  }
+ },
+ {
+  "id": "Q1262285#1",
+  "species": "Chiméra běloskvrnná",
+  "latin": "Hydrolagus colliei",
+  "text": "Dorůstá až do 97 centimetrů.",
+  "quote": "Chiméra běloskvrnná dorůstá velikosti až 97 cm",
+  "claimed_false_for": {
+   "Q169468": "Žralok zebrovitý (Stegostoma fasciatum)",
+   "Q188212": "Žralok tygří (Galeocerdo cuvier)",
+   "Q190469": "Žralok bělavý (Carcharhinus leucas)",
+   "Q194312": "Žralok límcový (Chlamydoselachus anguineus)",
+   "Q311651": "Piloun mnohozubý (Pristis pectinata)",
+   "Q318090": "Žralok dlouhoploutvý (Carcharhinus longimanus)",
+   "Q321976": "Manta obrovská (Mobula birostris)",
+   "Q586594": "Trnucha obecná (Dasyatis pastinaca)",
+   "Q592165": "Žralok Perezův (Carcharhinus perezi)",
+   "Q695344": "Žralok lagunový (Triaenodon obesus)",
+   "Q726384": "Žralok černoploutvý (Carcharhinus melanopterus)",
+   "Q756859": "Žralok vouskatý (Ginglymostoma cirratum)"
+  }
+ },
+ {
+  "id": "Q129026#8",
+  "species": "Žralok bílý",
+  "latin": "Carcharodon carcharias",
+  "text": "Mrtvoly velryb jsou důležitou částí jeho jídelníčku.",
+  "quote": "Mrtvoly velryb představují důležitou součást jídelníčku bílých žraloků",
+  "claimed_false_for": {
+   "Q185260": "Žralok veliký (Cetorhinus maximus)",
+   "Q469958": "Trnucha americká (Dasyatis americana)",
+   "Q726384": "Žralok černoploutvý (Carcharhinus melanopterus)",
+   "Q756964": "Trnucha atlantská (Dasyatis sabina)",
+   "Q80378": "Žralok obrovský (Rhincodon typus)",
+   "Q912073": "Parejnok elektrický (Torpedo marmorata)",
+   "Q926676": "Siba deskozubá (Myliobatis aquila)"
+  }
+ },
+ {
+  "id": "Q188212#6",
+  "species": "Žralok tygří",
+  "latin": "Galeocerdo cuvier",
+  "text": "Štítovci žijí na tomto druhu a využívají ho jako ochranu a dopravu.",
+  "quote": "Sám žralok je hostitelem štítovců, kteří ho využívají jako ochranu, dopravní prostředek a zdroj potravy",
+  "claimed_false_for": {
+   "Q1160972": "Chiméra podivná (Chimaera monstrosa)",
+   "Q28133219": "Trnucha říční (Himantura polylepis)"
+  }
+ },
+ {
+  "id": "Q188212#7",
+  "species": "Žralok tygří",
+  "latin": "Galeocerdo cuvier",
+  "text": "Napadá i velryby, například keporkaky a plejtváky obrovské.",
+  "quote": "Kromě menších kytovců napadá i velryby, například keporkaky či plejtváky obrovské.",
+  "claimed_false_for": {
+   "Q194312": "Žralok límcový (Chlamydoselachus anguineus)",
+   "Q29150": "Polorejnok kalifornský (Squatina californica)"
+  }
+ },
+ {
+  "id": "Q190469#3",
+  "species": "Žralok bělavý",
+  "latin": "Carcharhinus leucas",
+  "text": "Jí i mrtvá zvířata.",
+  "quote": "Nepohrdne ani mrtvolou.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q192158#6",
+  "species": "Žralok mako",
+  "latin": "Isurus oxyrinchus",
+  "text": "Mečouni jsou často jeho potravou.",
+  "quote": "Ti jsou totiž často jejich zdrojem potravy",
+  "claimed_false_for": {
+   "Q185260": "Žralok veliký (Cetorhinus maximus)",
+   "Q469958": "Trnucha americká (Dasyatis americana)",
+   "Q756964": "Trnucha atlantská (Dasyatis sabina)",
+   "Q80378": "Žralok obrovský (Rhincodon typus)",
+   "Q926676": "Siba deskozubá (Myliobatis aquila)"
+  }
+ },
+ {
+  "id": "Q192158#7",
+  "species": "Žralok mako",
+  "latin": "Isurus oxyrinchus",
+  "text": "Mečoun může tento druh vážně zranit nebo zabít.",
+  "quote": "i mečoun může vážně zranit a zabít žraloka mako",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q194312#0",
+  "species": "Žralok límcový",
+  "latin": "Chlamydoselachus anguineus",
+  "text": "Živí se měkkými živočichy, například krakaticemi nebo rybami.",
+  "quote": "Živí se měkkými živočichy, například krakaticemi nebo rybami.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q194312#1",
+  "species": "Žralok límcový",
+  "latin": "Chlamydoselachus anguineus",
+  "text": "Dosahuje délky 2 metrů.",
+  "quote": "Dosahuje délky 2 metrů.",
+  "claimed_false_for": {
+   "Q1262285": "Chiméra běloskvrnná (Hydrolagus colliei)",
+   "Q964954": "Trnucha modroskvrnná (Taeniura lymma)"
+  }
+ },
+ {
+  "id": "Q206495#1",
+  "species": "Žralok citronový",
+  "latin": "Negaprion brevirostris",
+  "text": "Samice rodí 4 až 17 mláďat každý druhý rok.",
+  "quote": "Samice rodí 4 až 17 mláďat každý druhý rok v teplých a mělkých lagunách.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q252029#0",
+  "species": "Žralok hedvábný",
+  "latin": "Carcharhinus falciformis",
+  "text": "Loví především různé ryby, zvláště tuňáky, makrely a sardinky.",
+  "quote": "loví především různé ryby, zvláště tuňáky, makrely a sardinky",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q252029#1",
+  "species": "Žralok hedvábný",
+  "latin": "Carcharhinus falciformis",
+  "text": "Kromě ryb loví i hlavonožce a korýše.",
+  "quote": "Potravu doplňuje o hlavonožce a korýše.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q26337#6",
+  "species": "Žralok modrý",
+  "latin": "Prionace glauca",
+  "text": "Při putování ho často doprovází lodivod mořský.",
+  "quote": "při svých putováních je často doprovázen lodivodem mořským",
+  "claimed_false_for": {
+   "Q1160972": "Chiméra podivná (Chimaera monstrosa)",
+   "Q169468": "Žralok zebrovitý (Stegostoma fasciatum)",
+   "Q28133219": "Trnucha říční (Himantura polylepis)",
+   "Q586594": "Trnucha obecná (Dasyatis pastinaca)",
+   "Q84822": "Máčka skvrnitá (Scyliorhinus canicula)",
+   "Q934615": "Různozubec sanfranciský (Heterodontus francisci)"
+  }
+ },
+ {
+  "id": "Q28133219#4",
+  "species": "Trnucha říční",
+  "latin": "Himantura polylepis",
+  "text": "Loví malé ryby a bezobratlé.",
+  "quote": "loví zde malé ryby a bezobratlé",
+  "claimed_false_for": {
+   "Q185260": "Žralok veliký (Cetorhinus maximus)"
+  }
+ },
+ {
+  "id": "Q28133219#5",
+  "species": "Trnucha říční",
+  "latin": "Himantura polylepis",
+  "text": "Tento druh se živí menšími rybami a korýši.",
+  "quote": "Jejich strava se skládá převážně z menších ryb a bezobratlých, především korýšů.",
+  "claimed_false_for": {
+   "Q185260": "Žralok veliký (Cetorhinus maximus)"
+  }
+ },
+ {
+  "id": "Q29121#4",
+  "species": "Žralok slepooký",
+  "latin": "Brachaelurus waddi",
+  "text": "Loví kraby, krevety, hlavonožce a sasanky.",
+  "quote": "aby lovil malé bezobratlé (včetně krabů, krevet, hlavonožců a sasanek) a kostnaté ryby",
+  "claimed_false_for": {
+   "Q129026": "Žralok bílý (Carcharodon carcharias)"
+  }
+ },
+ {
+  "id": "Q29121#5",
+  "species": "Žralok slepooký",
+  "latin": "Brachaelurus waddi",
+  "text": "Na tomto druhu parazituje tasemnice.",
+  "quote": "Známým parazitem tohoto žraloka je nepopsaný druh tasemnice rodu Carpobothrium.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q29150#2",
+  "species": "Polorejnok kalifornský",
+  "latin": "Squatina californica",
+  "text": "Živí se rybami, korýši a měkkýši.",
+  "quote": "Polorejnok kalifornský se živí rybami, korýši a měkkýši.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q29150#3",
+  "species": "Polorejnok kalifornský",
+  "latin": "Squatina californica",
+  "text": "Může se stát kořistí větších žraloků, například žraloka bílého.",
+  "quote": "Sám je potenciální kořistí pro větší žraloky, např. žraloka bílého.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q29243#0",
+  "species": "Žralůček okatý",
+  "latin": "Hemiscyllium ocellatum",
+  "text": "Tento druh se živí hlavně bezobratlými živočichy, kraby, garnáty a červy.",
+  "quote": "Žralůčci okatí se živí především bezobratlé živočichy, kraby, garnáty, červy a ryby, které se vyskytují v štěrbinách mezi balvany.",
+  "claimed_false_for": {
+   "Q129026": "Žralok bílý (Carcharodon carcharias)",
+   "Q252029": "Žralok hedvábný (Carcharhinus falciformis)"
+  }
+ },
+ {
+  "id": "Q29243#1",
+  "species": "Žralůček okatý",
+  "latin": "Hemiscyllium ocellatum",
+  "text": "Odpočívá přes den v úkrytech a v noci je aktivní.",
+  "quote": "Obvykle přes den odpočívají v úkrytech a dutinách bez jakéhokoliv pohybu a přes noc je aktivní.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q311651#4",
+  "species": "Piloun mnohozubý",
+  "latin": "Pristis pectinata",
+  "text": "Ochromuje malé ryby úderem rostra.",
+  "quote": "Malé ryby se snaží ochromit úderem rostra v jejich blízkosti",
+  "claimed_false_for": {
+   "Q125236": "Žralok černocípý (Carcharhinus limbatus)",
+   "Q185260": "Žralok veliký (Cetorhinus maximus)",
+   "Q194312": "Žralok límcový (Chlamydoselachus anguineus)",
+   "Q29121": "Žralok slepooký (Brachaelurus waddi)",
+   "Q29243": "Žralůček okatý (Hemiscyllium ocellatum)",
+   "Q312293": "Žralok šedý (Hexanchus griseus)",
+   "Q31788": "Wobegong queenslandský (Orectolobus ornatus)",
+   "Q318090": "Žralok dlouhoploutvý (Carcharhinus longimanus)",
+   "Q321976": "Manta obrovská (Mobula birostris)",
+   "Q377591": "Žralok širokonosý (Notorynchus cepedianus)",
+   "Q586594": "Trnucha obecná (Dasyatis pastinaca)",
+   "Q964954": "Trnucha modroskvrnná (Taeniura lymma)"
+  }
+ },
+ {
+  "id": "Q311651#5",
+  "species": "Piloun mnohozubý",
+  "latin": "Pristis pectinata",
+  "text": "Tento druh se v akváriích zdá být agresivní vůči žralokům.",
+  "quote": "Z pozorování v akváriích se zdá, že je piloun agresivní vůči žralokům",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q312293#0",
+  "species": "Žralok šedý",
+  "latin": "Hexanchus griseus",
+  "text": "Živí se rejnoky, olihněmi, rybami i tuleni.",
+  "quote": "Živí se rejnoky, olihněmi, rybami a dokonce i tuleni.",
+  "claimed_false_for": {
+   "Q321976": "Manta obrovská (Mobula birostris)",
+   "Q80378": "Žralok obrovský (Rhincodon typus)"
+  }
+ },
+ {
+  "id": "Q312293#1",
+  "species": "Žralok šedý",
+  "latin": "Hexanchus griseus",
+  "text": "Ve dne se drží u dna, v noci vyplouvá na lov.",
+  "quote": "Ve dne se drží u dna a odolává velkému tlaku, v noci však vyplouvá na lov do 200 m.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q31788#0",
+  "species": "Wobegong queenslandský",
+  "latin": "Orectolobus ornatus",
+  "text": "Loví hlavonožce, krevety a menší ryby.",
+  "quote": "číhá žralok na hlavonožce, krevety a menší ryby",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q31788#1",
+  "species": "Wobegong queenslandský",
+  "latin": "Orectolobus ornatus",
+  "text": "Bývá dlouhý okolo 2 až 2,5 m.",
+  "quote": "je dlouhý okolo 2 až 2,5 m",
+  "claimed_false_for": {
+   "Q1160972": "Chiméra podivná (Chimaera monstrosa)",
+   "Q1262285": "Chiméra běloskvrnná (Hydrolagus colliei)",
+   "Q129026": "Žralok bílý (Carcharodon carcharias)",
+   "Q188212": "Žralok tygří (Galeocerdo cuvier)",
+   "Q338891": "Kladivoun tiburo (Sphyrna tiburo)",
+   "Q686123": "Světloun australský (Oxynotus bruniensis)",
+   "Q84822": "Máčka skvrnitá (Scyliorhinus canicula)",
+   "Q934615": "Různozubec sanfranciský (Heterodontus francisci)"
+  }
+ },
+ {
+  "id": "Q318090#6",
+  "species": "Žralok dlouhoploutvý",
+  "latin": "Carcharhinus longimanus",
+  "text": "Tento druh se živí hlavně hlavonožci a kostnatými rybami.",
+  "quote": "Hlavní potravou žraloka dlouhoploutvého jsou pelagické druhy hlavonožců a kostnaté ryby",
+  "claimed_false_for": {
+   "Q1160972": "Chiméra podivná (Chimaera monstrosa)",
+   "Q28133219": "Trnucha říční (Himantura polylepis)"
+  }
+ },
+ {
+  "id": "Q318090#7",
+  "species": "Žralok dlouhoploutvý",
+  "latin": "Carcharhinus longimanus",
+  "text": "Loví hlavně plachetníky, marlíny, tuňáky a makrely.",
+  "quote": "Z kostnatých ryb jsou jeho potravou hlavně plachetníci, marlíni, tuňáci, makrely",
+  "claimed_false_for": {
+   "Q1160972": "Chiméra podivná (Chimaera monstrosa)",
+   "Q169468": "Žralok zebrovitý (Stegostoma fasciatum)",
+   "Q28133219": "Trnucha říční (Himantura polylepis)",
+   "Q338891": "Kladivoun tiburo (Sphyrna tiburo)",
+   "Q586594": "Trnucha obecná (Dasyatis pastinaca)",
+   "Q84822": "Máčka skvrnitá (Scyliorhinus canicula)",
+   "Q934615": "Různozubec sanfranciský (Heterodontus francisci)"
+  }
+ },
+ {
+  "id": "Q318090#8",
+  "species": "Žralok dlouhoploutvý",
+  "latin": "Carcharhinus longimanus",
+  "text": "Mohou ho doprovázet lodivodi mořští a koryfény velké.",
+  "quote": "Mohou jej doprovázet lodivod mořský, koryféna velká",
+  "claimed_false_for": {
+   "Q1160972": "Chiméra podivná (Chimaera monstrosa)",
+   "Q28133219": "Trnucha říční (Himantura polylepis)",
+   "Q84822": "Máčka skvrnitá (Scyliorhinus canicula)",
+   "Q934615": "Různozubec sanfranciský (Heterodontus francisci)"
+  }
+ },
+ {
+  "id": "Q321976#6",
+  "species": "Manta obrovská",
+  "latin": "Mobula birostris",
+  "text": "Některé ryby vplouvají do tlamy tohoto druhu a čistí ji.",
+  "quote": "vplují do tlamy manty a začnou očišťovat filtrační mechanismus",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q321976#7",
+  "species": "Manta obrovská",
+  "latin": "Mobula birostris",
+  "text": "Velcí žraloci a občas kosatky ho napadají.",
+  "quote": "napadána dalšími mořskými živočichy vyjma velkých žraloků a v ojedinělých případech kosatkou dravou",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q321976#8",
+  "species": "Manta obrovská",
+  "latin": "Mobula birostris",
+  "text": "Tento druh se živí i larvami ryb.",
+  "quote": "Manty se živí volně unášeným planktonem či larvami ryb",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q338891#2",
+  "species": "Kladivoun tiburo",
+  "latin": "Sphyrna tiburo",
+  "text": "Jí hlavně korýše, menší ryby a hlavonožce.",
+  "quote": "kterou tvoří především korýši, dále také menší druhy ryb a hlavonožců",
+  "claimed_false_for": {
+   "Q129026": "Žralok bílý (Carcharodon carcharias)",
+   "Q192158": "Žralok mako (Isurus oxyrinchus)",
+   "Q318090": "Žralok dlouhoploutvý (Carcharhinus longimanus)",
+   "Q377591": "Žralok širokonosý (Notorynchus cepedianus)"
+  }
+ },
+ {
+  "id": "Q370444#4",
+  "species": "Žralok malohlavý",
+  "latin": "Somniosus microcephalus",
+  "text": "Někdy napadá tuleně spící ve vodě.",
+  "quote": "Někdy napadá i ve vodě spící ploutvonožce, především tuleně.",
+  "claimed_false_for": {
+   "Q29121": "Žralok slepooký (Brachaelurus waddi)",
+   "Q469958": "Trnucha americká (Dasyatis americana)",
+   "Q756964": "Trnucha atlantská (Dasyatis sabina)",
+   "Q80378": "Žralok obrovský (Rhincodon typus)"
+  }
+ }
+]

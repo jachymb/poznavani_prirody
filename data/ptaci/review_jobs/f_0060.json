@@ -1,0 +1,558 @@
+[
+ {
+  "id": "Q642235#3",
+  "species": "Pávík černobílý",
+  "latin": "Rhipidura leucophrys",
+  "text": "Brání své území i před mnohem většími ptáky.",
+  "quote": "Tito ptáci jsou velmi teritoriální a nebojácně si střeží své území i před mnohem většími druhy",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q644100#0",
+  "species": "Medosavka červenohlavá",
+  "latin": "Myzomela erythrocephala",
+  "text": "Tento druh má samce s červenou hlavou, samičky jsou hnědé nebo šedé.",
+  "quote": "samci mají červenou hlavu, která druhu dala české označení, zatímco samičky jsou převážně hnědé až šedé",
+  "claimed_false_for": {
+   "Q1034960": "Skorec asijský (Cinclus pallasii)",
+   "Q25740": "Střízlík obecný (Troglodytes troglodytes)",
+   "Q26248": "Tangara škrabošková (Ramphocelus nigrogularis)",
+   "Q26620": "Rehek zahradní (Phoenicurus phoenicurus)",
+   "Q26956": "Linduška luční (Anthus pratensis)",
+   "Q27074824": "Zoborožec přílbový (Rhyticeros cassidix)",
+   "Q383182": "Stepokur písečný (Pterocles orientalis)",
+   "Q501063": "Bulbul červenouchý (Pycnonotus jocosus)",
+   "Q528117": "Faeton žlutozobý (Phaethon lepturus)",
+   "Q550316": "Šatovník ostrovní (Melamprosops phaeosoma)",
+   "Q583220": "Astrild vlnkovaný (Estrilda astrild)",
+   "Q593759": "Rorýs hnědohrdlý (Streptoprocne rutila)"
+  }
+ },
+ {
+  "id": "Q644100#1",
+  "species": "Medosavka červenohlavá",
+  "latin": "Myzomela erythrocephala",
+  "text": "Tento druh vybírá dlouhým zobákem nektar z květů.",
+  "quote": "Pomocí dlouhého zakřiveného zobáku z květů vybírají nektar",
+  "claimed_false_for": {
+   "Q1085327": "Dvojzoborožec hnědavý (Buceros hydrocorax)",
+   "Q191386": "Kavče žlutozobé (Pyrrhocorax graculus)",
+   "Q25909": "Břehule říční (Riparia riparia)",
+   "Q27075785": "Zvonek zelený (Chloris chloris)",
+   "Q27226": "Linduška úhorní (Anthus campestris)",
+   "Q28484": "Čimango žlutavý (Milvago chimachima)",
+   "Q527830": "Pelikán africký (Pelecanus rufescens)",
+   "Q766306": "Kraska červenozobá (Urocissa erythroryncha)",
+   "Q961152": "Brhlík čínský (Sitta villosa)",
+   "Q994413": "Stříbrozobka zpěvná (Euodice cantans)"
+  }
+ },
+ {
+  "id": "Q644100#2",
+  "species": "Medosavka červenohlavá",
+  "latin": "Myzomela erythrocephala",
+  "text": "Tento druh měří asi 12 centimetrů na délku.",
+  "quote": "Jejich tělo měří na délku okolo 12 cm",
+  "claimed_false_for": {
+   "Q104867606": "Pěnice vlašská (Curruca nisoria)",
+   "Q207246": "Tučňák magellanský (Spheniscus magellanicus)",
+   "Q25399": "Konipas bílý (Motacilla alba)",
+   "Q25469": "Špaček obecný (Sturnus vulgaris)",
+   "Q736052": "Rybařík pruhoprsý (Megaceryle alcyon)",
+   "Q757271": "Kachna proužkovaná (Anas superciliosa)",
+   "Q795512": "Vrána jednobarvá (Corvus unicolor)"
+  }
+ },
+ {
+  "id": "Q644100#3",
+  "species": "Medosavka červenohlavá",
+  "latin": "Myzomela erythrocephala",
+  "text": "Tento druh snáší bílá vejce s malými červenými skvrnami.",
+  "quote": "samice do něj naklade čistě bílá, matná a oválná vejce s malými červenými skvrnami.",
+  "claimed_false_for": {
+   "Q1061873": "Zoborožec luzonský (Penelopides manillae)",
+   "Q1261199": "Buřňák Huttonův (Puffinus huttoni)",
+   "Q25612": "Labuť zpěvná (Cygnus cygnus)",
+   "Q755653": "Husa císařská (Anser canagicus)"
+  }
+ },
+ {
+  "id": "Q644135#0",
+  "species": "Kakadu inka",
+  "latin": "Cacatua leadbeateri",
+  "text": "Má chocholku ze 16 dlouhých, tenkých per.",
+  "quote": "Nápadná chocholka se skládá z 16 dlouhých, tenkých, dopředu natočených per",
+  "claimed_false_for": {
+   "Q1066559": "Kakariki norfolcký (Cyanoramphus cookii)",
+   "Q114477": "Papoušek královský (Alisterus scapularis)",
+   "Q1165844": "Amazoňan císařský (Amazona imperialis)",
+   "Q117258834": "Modroušek rudoocasý (Glaucestrilda caerulescens)",
+   "Q1266573": "Kakariki novokaledonský (Cyanoramphus saisseti)",
+   "Q206654": "Tučňák žlutooký (Megadyptes antipodes)",
+   "Q213021": "Tučňák oslí (Pygoscelis papua)",
+   "Q520983": "Tirika tovi (Brotogeris jugularis)",
+   "Q579718": "Potápka americká (Podilymbus podiceps)",
+   "Q740580": "Aratinga tmavohlavý (Aratinga weddellii)",
+   "Q852709": "Ara malý (Ara severus)"
+  }
+ },
+ {
+  "id": "Q644135#1",
+  "species": "Kakadu inka",
+  "latin": "Cacatua leadbeateri",
+  "text": "Hnízdí v dutinách stromů, často vysoko nad zemí.",
+  "quote": "K zahnízdění dochází v přirozených dutinách stromů",
+  "claimed_false_for": {
+   "Q209419": "Husa krátkozobá (Anser brachyrhynchus)",
+   "Q557745": "Iranie bělohrdlá (Irania gutturalis)",
+   "Q847168": "Pěnkava kanárská (Fringilla teydea)",
+   "Q930457": "Lelek americký (Phalaenoptilus nuttallii)"
+  }
+ },
+ {
+  "id": "Q644135#2",
+  "species": "Kakadu inka",
+  "latin": "Cacatua leadbeateri",
+  "text": "Jí semena, ovoce, ořechy a kořínky.",
+  "quote": "kde sezobává semena, ovoce, ořechy a kořínky",
+  "claimed_false_for": {
+   "Q110257504": "Pěnice pokřovní (Curruca curruca)",
+   "Q306919": "Sova zlatočerná (Tyto longimembris)",
+   "Q953976": "Potápka nejmenší (Tachybaptus dominicus)"
+  }
+ },
+ {
+  "id": "Q644135#3",
+  "species": "Kakadu inka",
+  "latin": "Cacatua leadbeateri",
+  "text": "V sušších krajích kočuje a nemá stálé místo.",
+  "quote": "v sušších oblastech žije nomádně",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q645755#1",
+  "species": "Luňák brahmínský",
+  "latin": "Haliastur indus",
+  "text": "Loví korýše, obojživelníky a malé plazy.",
+  "quote": "Lovenou kořistí se stávají především různí menší živočichové, jako korýši, obojživelníci a malí plazi",
+  "claimed_false_for": {
+   "Q1259717": "Hoko Salvinův (Mitu salvini)",
+   "Q18845": "Kukačka obecná (Cuculus canorus)",
+   "Q26106": "Koroptev polní (Perdix perdix)",
+   "Q281874": "Sup africký (Gyps africanus)",
+   "Q372906": "Kakadu žlutolící (Cacatua sulphurea)"
+  }
+ },
+ {
+  "id": "Q645755#2",
+  "species": "Luňák brahmínský",
+  "latin": "Haliastur indus",
+  "text": "Tento druh často chytá kořist za letu a hned ji sní.",
+  "quote": "Kořist často polapí v letu a ve vzduchu ji i sežerou.",
+  "claimed_false_for": {
+   "Q126167": "Orlosup bradatý (Gypaetus barbatus)",
+   "Q26603": "Labuť malá (Cygnus columbianus)",
+   "Q327118": "Sup bengálský (Gyps bengalensis)"
+  }
+ },
+ {
+  "id": "Q645755#3",
+  "species": "Luňák brahmínský",
+  "latin": "Haliastur indus",
+  "text": "Tento druh měří 43 až 51 cm.",
+  "quote": "Luňák brahmínský dosahuje celkové velikosti 43–51 cm.",
+  "claimed_false_for": {
+   "Q135589": "Pokřovník alpínský (Xenicus gilviventris)",
+   "Q168976": "Orel královský (Aquila heliaca)",
+   "Q281874": "Sup africký (Gyps africanus)",
+   "Q511566": "Buřňák středomořský (Puffinus yelkouan)",
+   "Q53745": "Harpyje pralesní (Harpia harpyja)",
+   "Q55111925": "Sup krahujový (Gyps rueppelli)",
+   "Q752465": "Orel klínoocasý (Aquila audax)",
+   "Q795511": "Zoborožík přílbový (Philemon buceroides)"
+  }
+ },
+ {
+  "id": "Q646096#0",
+  "species": "Polák tmavý",
+  "latin": "Aythya novaeseelandiae",
+  "text": "Tento druh měří jen 40 centimetrů.",
+  "quote": "Kachna měří pouze 40 centimetrů",
+  "claimed_false_for": {
+   "Q1193501": "Zoborožec běloocasý (Anthracoceros marchei)",
+   "Q191125": "Husa indická (Anser indicus)"
+  }
+ },
+ {
+  "id": "Q646096#1",
+  "species": "Polák tmavý",
+  "latin": "Aythya novaeseelandiae",
+  "text": "Žije jen na Novém Zélandu.",
+  "quote": "Kachna se endemitně vyskytuje pouze na Novém Zélandu.",
+  "claimed_false_for": {
+   "Q177688": "Raroh lovecký (Falco rusticolus)",
+   "Q189609": "Morčák prostřední (Mergus serrator)",
+   "Q212937": "Husovec strakatý (Anseranas semipalmata)",
+   "Q25332": "Orlovec říční (Pandion haliaetus)",
+   "Q26742": "Polák velký (Aythya ferina)",
+   "Q28000": "Vodouš žlutonohý (Tringa flavipes)",
+   "Q28106966": "Kopřivka obecná (Mareca strepera)",
+   "Q331179": "Kačka strakatá (Histrionicus histrionicus)",
+   "Q757271": "Kachna proužkovaná (Anas superciliosa)",
+   "Q788512": "Lelkoun soví (Podargus strigoides)",
+   "Q923950": "Husice rudohlavá (Chloephaga rubidiceps)"
+  }
+ },
+ {
+  "id": "Q646096#3",
+  "species": "Polák tmavý",
+  "latin": "Aythya novaeseelandiae",
+  "text": "Potápí se většinou do hloubky asi dvou až tří metrů.",
+  "quote": "Většinou se potápí kolem 2–3 m",
+  "claimed_false_for": {
+   "Q1193501": "Zoborožec běloocasý (Anthracoceros marchei)",
+   "Q182761": "Jeřábek lesní (Tetrastes bonasia)",
+   "Q19055": "Bělokur běloocasý (Lagopus leucura)",
+   "Q191125": "Husa indická (Anser indicus)",
+   "Q27050": "Berneška tmavá (Branta bernicla)"
+  }
+ },
+ {
+  "id": "Q646096#4",
+  "species": "Polák tmavý",
+  "latin": "Aythya novaeseelandiae",
+  "text": "Umí se potápět pro potravu už jeden až dva dny po vylíhnutí.",
+  "quote": "Pro potravu se potápí i mláďata, která se dokáží ponořit až do hloubky 1 m již po 1–2 dnech od vylíhnutí.",
+  "claimed_false_for": {
+   "Q19622524": "Zoborožec světlehlavý (Rhabdotorrhinus leucocephalus)",
+   "Q226043": "Zoborožec štítnatý (Rhinoplax vigil)",
+   "Q924326": "Zoborožec rudokrký (Aceros nipalensis)",
+   "Q930457": "Lelek americký (Phalaenoptilus nuttallii)"
+  }
+ },
+ {
+  "id": "Q646096#5",
+  "species": "Polák tmavý",
+  "latin": "Aythya novaeseelandiae",
+  "text": "Často se přibližuje k lidem na lodích.",
+  "quote": "Často se přibližují takřka na dotek k lidem na lodích",
+  "claimed_false_for": {
+   "Q19622524": "Zoborožec světlehlavý (Rhabdotorrhinus leucocephalus)",
+   "Q226043": "Zoborožec štítnatý (Rhinoplax vigil)",
+   "Q924326": "Zoborožec rudokrký (Aceros nipalensis)",
+   "Q930457": "Lelek americký (Phalaenoptilus nuttallii)"
+  }
+ },
+ {
+  "id": "Q646366#0",
+  "species": "Pokřovník zelený",
+  "latin": "Acanthisitta chloris",
+  "text": "Tento druh váží jen 6 až 7 gramů.",
+  "quote": "Samice váží 7 g, samec 6 g.",
+  "claimed_false_for": {
+   "Q1077059": "Sylfa vlajková (Ocreatus underwoodii)",
+   "Q184825": "Drozd cvrčala (Turdus iliacus)",
+   "Q193593": "Šoupálek dlouhoprstý (Certhia familiaris)",
+   "Q2464919": "Albatros Sanfordův (Diomedea sanfordi)",
+   "Q26349": "Drozd zpěvný (Turdus philomelos)",
+   "Q27674": "Sedmihlásek hajní (Hippolais icterina)",
+   "Q313394": "Kruhoočko australopacifické (Zosterops lateralis)",
+   "Q908959": "Zoborožec malabarský (Anthracoceros coronatus)"
+  }
+ },
+ {
+  "id": "Q646366#1",
+  "species": "Pokřovník zelený",
+  "latin": "Acanthisitta chloris",
+  "text": "Tento druh se živí hlavně drobnými živočichy, například hmyzem a pavouky.",
+  "quote": "Živí se téměř výhradně bezobratlými živočichy jako jsou noční motýli, stonožky, mouchy",
+  "claimed_false_for": {
+   "Q1302526": "Amadina rudouchá (Stagonopleura oculata)",
+   "Q19058": "Jeřábek kanadský (Bonasa umbellus)",
+   "Q192524": "Kanár divoký (Serinus canaria)"
+  }
+ },
+ {
+  "id": "Q646366#2",
+  "species": "Pokřovník zelený",
+  "latin": "Acanthisitta chloris",
+  "text": "Tento druh v klidu vydrží sotva dvě vteřiny.",
+  "quote": "zůstává v klidové poloze sotva 2 vteřiny",
+  "claimed_false_for": {
+   "Q144218": "Labuť koskoroba (Coscoroba coscoroba)",
+   "Q241349": "Morčák chocholatý (Lophodytes cucullatus)"
+  }
+ },
+ {
+  "id": "Q646366#3",
+  "species": "Pokřovník zelený",
+  "latin": "Acanthisitta chloris",
+  "text": "Tento druh umí za chladu částečně zpomalit své životní funkce.",
+  "quote": "Pokud je vystaven nízkým teplotám, jako jeden z mála pěvců se uchyluje k částečnému útlumu životních funkcí.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q646366#4",
+  "species": "Pokřovník zelený",
+  "latin": "Acanthisitta chloris",
+  "text": "Mláďata se líhnou zhruba po třech týdnech.",
+  "quote": "Mláďata se líhnou po 19–20 dnech.",
+  "claimed_false_for": {
+   "Q25234": "Kos černý (Turdus merula)",
+   "Q25882": "Husa velká (Anser anser)"
+  }
+ },
+ {
+  "id": "Q646366#5",
+  "species": "Pokřovník zelený",
+  "latin": "Acanthisitta chloris",
+  "text": "Hlavní hrozbou jsou zavlečení lovci, hlavně hranostaj.",
+  "quote": "Hlavní hrozbou pro pokřovníka jsou introdukovaní predátoři (především hranostaji)",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q647138#0",
+  "species": "Zoborožec rýhozobý",
+  "latin": "Penelopides panini",
+  "text": "Žije jen na Filipínách.",
+  "quote": "se vyskytuje pouze na Filipínách",
+  "claimed_false_for": {
+   "Q18850": "Pisík obecný (Actitis hypoleucos)",
+   "Q226043": "Zoborožec štítnatý (Rhinoplax vigil)",
+   "Q246763": "Zoborožec sumbský (Rhyticeros everetti)",
+   "Q25247": "Dudek chocholatý (Upupa epops)",
+   "Q53731": "Rosela Pennantova (Platycercus elegans)",
+   "Q594607": "Kukačka kokil (Phaenicophaeus tristis)",
+   "Q901228": "Tabon holubí (Leipoa ocellata)",
+   "Q908959": "Zoborožec malabarský (Anthracoceros coronatus)",
+   "Q924282": "Zoborožec malajský (Anthracoceros malayanus)",
+   "Q933174": "Zoborožec šedolící (Bycanistes brevis)"
+  }
+ },
+ {
+  "id": "Q647138#1",
+  "species": "Zoborožec rýhozobý",
+  "latin": "Penelopides panini",
+  "text": "Dosahuje délky až 45 centimetrů.",
+  "quote": "Dosahuje délky až 45 cm",
+  "claimed_false_for": {
+   "Q1193501": "Zoborožec běloocasý (Anthracoceros marchei)",
+   "Q31829": "Zoborožec střapatý (Rhyticeros undulatus)",
+   "Q501733": "Orel bojovný (Polemaetus bellicosus)",
+   "Q509463": "Zoborožec chocholatý (Anorrhinus galeritus)"
+  }
+ },
+ {
+  "id": "Q648490#1",
+  "species": "Orel madagaskarský",
+  "latin": "Haliaeetus vociferoides",
+  "text": "Tento druh se živí hlavně rybami.",
+  "quote": "Hlavní složkou stravy jsou mořské i sladkovodní ryby.",
+  "claimed_false_for": {
+   "Q1193728": "Zoborožec guinejský (Rhyticeros plicatus)",
+   "Q234722": "Orel jestřábí (Aquila fasciata)",
+   "Q25385": "Káně lesní (Buteo buteo)",
+   "Q27075027": "Papoušek žlutoramenný (Psephotellus chrysopterygius)",
+   "Q33504": "Sup mrchožravý (Neophron percnopterus)",
+   "Q55111925": "Sup krahujový (Gyps rueppelli)",
+   "Q640999": "Zoborožec bělolící (Anthracoceros albirostris)",
+   "Q742698": "Káně Harrisova (Parabuteo unicinctus)",
+   "Q838162": "Sup královský (Torgos tracheliotos)",
+   "Q923950": "Husice rudohlavá (Chloephaga rubidiceps)"
+  }
+ },
+ {
+  "id": "Q648490#2",
+  "species": "Orel madagaskarský",
+  "latin": "Haliaeetus vociferoides",
+  "text": "Tento druh staví hnízda vysoko na silných stromech.",
+  "quote": "Hnízdo si staví mezi silnými větvemi v koruně vysokého stromu",
+  "claimed_false_for": {
+   "Q117253054": "Tetřívek kanadský (Canachites canadensis)",
+   "Q244197": "Kivi Owenův (Apteryx owenii)",
+   "Q55111699": "Zebřička pestrá (Taeniopygia castanotis)",
+   "Q605827": "Moták tichomořský (Circus approximans)"
+  }
+ },
+ {
+  "id": "Q648490#3",
+  "species": "Orel madagaskarský",
+  "latin": "Haliaeetus vociferoides",
+  "text": "Rozpětí křídel je okolo dvou metrů.",
+  "quote": "rozpětí křídel okolo 2 m",
+  "claimed_false_for": {
+   "Q1270808": "Ledňáček šedohlavý (Halcyon leucocephala)",
+   "Q274179": "Husice nilská (Alopochen aegyptiaca)",
+   "Q378533": "Polák dlouhozobý (Aythya valisineria)",
+   "Q387221": "Orel savanový (Aquila spilogaster)",
+   "Q605350": "Luňákovec černý (Aviceda leuphotes)",
+   "Q952376": "Kolibřík červenozobý (Trochilus polytmus)"
+  }
+ },
+ {
+  "id": "Q652151#0",
+  "species": "Kladivouš africký",
+  "latin": "Scopus umbretta",
+  "text": "Tento druh snese tři až šest vajec.",
+  "quote": "Samice klade v intervalu jeden až tři dny 3–6 křídově bílých vajec",
+  "claimed_false_for": {
+   "Q27075754": "Šatovník šarlatový (Drepanis coccinea)",
+   "Q839854": "Terej Abbottův (Papasula abbotti)"
+  }
+ },
+ {
+  "id": "Q652151#1",
+  "species": "Kladivouš africký",
+  "latin": "Scopus umbretta",
+  "text": "Tento druh staví největší zastřešené hnízdo na světě.",
+  "quote": "Je největším zastřešeným ptačím hnízdem světa",
+  "claimed_false_for": {
+   "Q166171": "Žluna zelená (Picus viridis)",
+   "Q184751": "Pelikán kadeřavý (Pelecanus crispus)",
+   "Q204111": "Bukáček skořicový (Ixobrychus cinnamomeus)",
+   "Q245414": "Ibis skalní (Geronticus eremita)",
+   "Q251842": "Perlička kropenatá (Numida meleagris)",
+   "Q26597": "Hoholka lední (Clangula hyemalis)",
+   "Q27075754": "Šatovník šarlatový (Drepanis coccinea)",
+   "Q373114": "Ibis černohlavý (Threskiornis melanocephalus)",
+   "Q389664": "Kolpík růžový (Platalea ajaja)",
+   "Q493173": "Ibis čínský (Nipponia nippon)",
+   "Q498183": "Volavka nádherná (Ardeola speciosa)",
+   "Q839854": "Terej Abbottův (Papasula abbotti)"
+  }
+ },
+ {
+  "id": "Q652151#2",
+  "species": "Kladivouš africký",
+  "latin": "Scopus umbretta",
+  "text": "Tento druh rád loví žáby a jejich pulce.",
+  "quote": "V jižní a východní Africe dávají ptáci přednost žábám drápatkám (rod Xenopus) a jejich pulcům",
+  "claimed_false_for": {
+   "Q1094743": "Majna žlutohlavá (Ampeliceps coronatus)",
+   "Q1424769": "Střízlík černohlavý (Donacobius atricapilla)",
+   "Q320193": "Terej žlutonohý (Sula leucogaster)",
+   "Q375790": "Kasuár přílbový (Casuarius casuarius)",
+   "Q457267": "Terej modronohý (Sula nebouxii)",
+   "Q845457": "Brkoslavec palmový (Dulus dominicus)"
+  }
+ },
+ {
+  "id": "Q652151#3",
+  "species": "Kladivouš africký",
+  "latin": "Scopus umbretta",
+  "text": "Tento druh hledá potravu i na hřbetu hrocha.",
+  "quote": "Kladivouše lze vidět, jak pátrá po potravě ze hřbetu hrocha.",
+  "claimed_false_for": {
+   "Q199427": "Pelikán bílý (Pelecanus onocrotalus)",
+   "Q244350": "Zrzohlávka rudozobá (Netta rufina)",
+   "Q271462": "Orel páskovaný (Haliaeetus leucoryphus)",
+   "Q527830": "Pelikán africký (Pelecanus rufescens)",
+   "Q790616": "Ťuhýk hnědý (Lanius cristatus)",
+   "Q835926": "Papoušek senegalský (Poicephalus senegalus)"
+  }
+ },
+ {
+  "id": "Q652151#4",
+  "species": "Kladivouš africký",
+  "latin": "Scopus umbretta",
+  "text": "Tento druh sedí na vejcích 28 až 32 dní.",
+  "quote": "Inkubace je 28–32 dní",
+  "claimed_false_for": {
+   "Q126216": "Kvakoš noční (Nycticorax nycticorax)",
+   "Q131709": "Volavka stříbřitá (Egretta garzetta)",
+   "Q204111": "Bukáček skořicový (Ixobrychus cinnamomeus)",
+   "Q271462": "Orel páskovaný (Haliaeetus leucoryphus)",
+   "Q790616": "Ťuhýk hnědý (Lanius cristatus)"
+  }
+ },
+ {
+  "id": "Q652151#5",
+  "species": "Kladivouš africký",
+  "latin": "Scopus umbretta",
+  "text": "Tento druh je aktivní hlavně po východu a před západem slunce.",
+  "quote": "je aktivní především po východu slunce a před západem slunce",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q652466#0",
+  "species": "Skalňák oranžový",
+  "latin": "Rupicola rupicola",
+  "text": "Tento druh má na hlavě chocholku ve tvaru půlměsíce.",
+  "quote": "výrazným hřebínkem ve tvaru půlměsíce",
+  "claimed_false_for": {
+   "Q1262671": "Buřňák Audubonův (Puffinus lherminieri)",
+   "Q1586112": "Špaček holohlavý (Sarcops calvus)",
+   "Q202478": "Pěnice slavíková (Sylvia borin)",
+   "Q26209": "Strakapoud velký (Dendrocopos major)",
+   "Q2630992": "Tangara stříbrohrdlá (Tangara icterocephala)",
+   "Q27075303": "Čagra černokorunkatý (Tchagra senegalus)",
+   "Q430863": "Ťuhýk americký (Lanius ludovicianus)",
+   "Q754043": "Vlhovec červenokřídlý (Agelaius phoeniceus)",
+   "Q781865": "Pita azurovoprsá (Pitta steerii)",
+   "Q931191": "Lejsčík ohnivý (Petroica phoenicea)",
+   "Q933667": "Skorec rezavohrdlý (Cinclus schulzii)"
+  }
+ },
+ {
+  "id": "Q652466#1",
+  "species": "Skalňák oranžový",
+  "latin": "Rupicola rupicola",
+  "text": "Tento druh se živí hlavně ovocem.",
+  "quote": "Živí se především ovocem",
+  "claimed_false_for": {
+   "Q1262078": "Rorýs srpokřídlý (Chaetura vauxi)",
+   "Q26209": "Strakapoud velký (Dendrocopos major)",
+   "Q26552": "Křivka obecná (Loxia curvirostra)",
+   "Q27075875": "Čížek ohnivý (Spinus cucullatus)",
+   "Q27239": "Budníček větší (Phylloscopus trochilus)",
+   "Q747817": "Racek růžový (Rhodostethia rosea)",
+   "Q931191": "Lejsčík ohnivý (Petroica phoenicea)"
+  }
+ },
+ {
+  "id": "Q652466#2",
+  "species": "Skalňák oranžový",
+  "latin": "Rupicola rupicola",
+  "text": "Tento druh si staví hnízdo na skalách, ne na stromech.",
+  "quote": "skalňáci si nedělají hnízda v korunách stromů, ale na útesech a skalách",
+  "claimed_false_for": {
+   "Q1083101": "Květomil černohlavý (Chlorophanes spiza)",
+   "Q1085327": "Dvojzoborožec hnědavý (Buceros hydrocorax)",
+   "Q27075785": "Zvonek zelený (Chloris chloris)",
+   "Q28484": "Čimango žlutavý (Milvago chimachima)",
+   "Q766306": "Kraska červenozobá (Urocissa erythroryncha)",
+   "Q939459": "Medosavka hvízdavá (Notiomystis cincta)",
+   "Q961152": "Brhlík čínský (Sitta villosa)",
+   "Q994413": "Stříbrozobka zpěvná (Euodice cantans)"
+  }
+ },
+ {
+  "id": "Q652466#3",
+  "species": "Skalňák oranžový",
+  "latin": "Rupicola rupicola",
+  "text": "Samci dospějí zhruba ve třech letech.",
+  "quote": "Zcela dospělí se samečci stanou asi ve třech letech",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q654901#0",
+  "species": "Kachna filipínská",
+  "latin": "Anas luzonica",
+  "text": "Tento druh je nejaktivnější brzy ráno a pozdě odpoledne.",
+  "quote": "Nejaktivnější je brzy ráno a v pozdním odpoledni.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q654901#1",
+  "species": "Kachna filipínská",
+  "latin": "Anas luzonica",
+  "text": "Živí se rostlinami, semeny, měkkýši, rybami, žábami i hmyzem.",
+  "quote": "Živí se výhonky rostlin, semeny, měkkýši, korýši,rybami, žábami a hmyzem",
+  "claimed_false_for": {
+   "Q25402": "Labuť velká (Cygnus olor)",
+   "Q257006": "Husa kuří (Cereopsis novaehollandiae)",
+   "Q26452": "Husa polní (Anser fabalis)",
+   "Q930457": "Lelek americký (Phalaenoptilus nuttallii)"
+  }
+ }
+]

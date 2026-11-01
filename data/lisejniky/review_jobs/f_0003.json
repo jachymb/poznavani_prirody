@@ -1,0 +1,74 @@
+[
+ {
+  "id": "Q199127#1",
+  "species": "Terčovník pohledný",
+  "latin": "Xanthoria elegans",
+  "text": "Vyskytuje se na pobřežních skalách a minerálně bohatých horninách.",
+  "quote": "Vyskytuje se na pobřežních skalách a jiných minerálně bohatých horninách.",
+  "claimed_false_for": {
+   "Q113273": "Dutohlávka červcová (Cladonia coccifera)",
+   "Q881824": "Terčovka bublinatá (Hypogymnia physodes)",
+   "Q904074": "Větvičník slívový (Evernia prunastri)"
+  }
+ },
+ {
+  "id": "Q3374554#0",
+  "species": "Hávnatka psí",
+  "latin": "Peltigera canina",
+  "text": "Dává přednost vlhkým a méně úživným půdám, často roste spolu s mechy.",
+  "quote": "Upřednostňuje spíše vlhké a méně úživné půdy, často spolu s mechy.",
+  "claimed_false_for": {
+   "Q1365267": "Mapovník zeměpisný (Rhizocarpon geographicum)",
+   "Q182281": "Pukléřka sosnová (Vulpicida pinastri)",
+   "Q199127": "Terčovník pohledný (Xanthoria elegans)",
+   "Q881824": "Terčovka bublinatá (Hypogymnia physodes)",
+   "Q904074": "Větvičník slívový (Evernia prunastri)"
+  }
+ },
+ {
+  "id": "Q475341#0",
+  "species": "Terčovník zední",
+  "latin": "Xanthoria parietina",
+  "text": "Roste na větvích stromů i na kamenech.",
+  "quote": "Roste jak epifyticky (na větvích stromů), talk epiliticky (na kamenech).",
+  "claimed_false_for": {
+   "Q113273": "Dutohlávka červcová (Cladonia coccifera)"
+  }
+ },
+ {
+  "id": "Q475341#1",
+  "species": "Terčovník zední",
+  "latin": "Xanthoria parietina",
+  "text": "Žlutou barvu mu dává látka, která chrání před slunečním zářením.",
+  "quote": "Žlutá barva je daná sekundárním metabolitem parietinem, který stélku chrání před nepříznivým vlivem slunečního záření.",
+  "claimed_false_for": {
+   "Q113273": "Dutohlávka červcová (Cladonia coccifera)",
+   "Q2974933": "Dutohlávka kuželovitá (Cladonia coniocraea)"
+  }
+ },
+ {
+  "id": "Q881824#0",
+  "species": "Terčovka bublinatá",
+  "latin": "Hypogymnia physodes",
+  "text": "Roste na kyselé borce stromů.",
+  "quote": "V oblibě má zejména kyselou borku dřevin",
+  "claimed_false_for": {
+   "Q113273": "Dutohlávka červcová (Cladonia coccifera)",
+   "Q2079766": "Dutohlávka horská (Cladonia stellaris)",
+   "Q248744": "Dutohlávka sobí (Cladonia rangiferina)"
+  }
+ },
+ {
+  "id": "Q904074#0",
+  "species": "Větvičník slívový",
+  "latin": "Evernia prunastri",
+  "text": "Horní strana je zelenošedá, spodní bělavá.",
+  "quote": "Vrchní část stélky má barvu zelenošedou, spodní je bělavá.",
+  "claimed_false_for": {
+   "Q182281": "Pukléřka sosnová (Vulpicida pinastri)",
+   "Q3374554": "Hávnatka psí (Peltigera canina)",
+   "Q582664": "Pukléřka islandská (Cetraria islandica)",
+   "Q881824": "Terčovka bublinatá (Hypogymnia physodes)"
+  }
+ }
+]

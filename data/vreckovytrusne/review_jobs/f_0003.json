@@ -1,0 +1,299 @@
+[
+ {
+  "id": "Q2459556#3",
+  "species": "Ohnivec zimní",
+  "latin": "Microstoma protractum",
+  "text": "Roste nejčastěji pod jasany a osikami.",
+  "quote": "nejčastěji pod jasany a osikami",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q2866408#0",
+  "species": "Čihovitka masová",
+  "latin": "Ascocoryne sarcoides",
+  "text": "Tato houba kazí dřevo.",
+  "quote": "dřevokazná houba",
+  "claimed_false_for": {
+   "Q1367539": "Ouško kornoutovité (Otidea onotica)",
+   "Q1463716": "Kačenka česká (Verpa bohemica)",
+   "Q1516648": "Chřapáč kadeřavý (Helvella crispa)",
+   "Q1552015": "Pazoubek zelený (Microglossum viride)",
+   "Q1552223": "Patyčka rosolovitá (Leotia lubrica)",
+   "Q1791117": "Masečník kulovitý (Sarcosoma globosum)",
+   "Q2627281": "Ucháč obrovský (Gyromitra gigas)",
+   "Q4803939": "Hovník obnažený (Ascobolus denudatus)"
+  }
+ },
+ {
+  "id": "Q3495445#0",
+  "species": "Ucháč čepcovitý",
+  "latin": "Gyromitra infula",
+  "text": "Roste na tlejících kořenech, kmenech nebo pařezech.",
+  "quote": "na dřevních zbytcích, často i v půdě ponořených, případně na tlejících kořenech, kmenech nebo pařezech",
+  "claimed_false_for": {
+   "Q1129282": "Smrž obecný (Morchella esculenta)",
+   "Q627991": "Smrž vysoký (Morchella elata)"
+  }
+ },
+ {
+  "id": "Q3495445#1",
+  "species": "Ucháč čepcovitý",
+  "latin": "Gyromitra infula",
+  "text": "Za syrova může být jedovatý.",
+  "quote": "a být proto za syrova jedovatý",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q3913812#0",
+  "species": "Ouško zaječí",
+  "latin": "Otidea leporina",
+  "text": "Ze stromů preferuje smrky.",
+  "quote": "ze stromů preferuje smrky",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q3913812#1",
+  "species": "Ouško zaječí",
+  "latin": "Otidea leporina",
+  "text": "Roste od července do listopadu.",
+  "quote": "Doba růstu je od července do listopadu.",
+  "claimed_false_for": {
+   "Q107643736": "Ucháč svazčitý (Discina fastigiata)",
+   "Q1129282": "Smrž obecný (Morchella esculenta)",
+   "Q1553596": "Terčovnice síťnatá (Disciotis venosa)",
+   "Q2519734": "Ohnivec rakouský (Sarcoscypha austriaca)",
+   "Q3388167": "Kališník obecný (Helvella acetabulum)",
+   "Q627991": "Smrž vysoký (Morchella elata)"
+  }
+ },
+ {
+  "id": "Q4803939#1",
+  "species": "Hovník obnažený",
+  "latin": "Ascobolus denudatus",
+  "text": "Tvoří drobné žluté terče.",
+  "quote": "Houbu tvoří drobné žluté terče do velikosti 1 mm v průměru.",
+  "claimed_false_for": {
+   "Q107643736": "Ucháč svazčitý (Discina fastigiata)",
+   "Q1129282": "Smrž obecný (Morchella esculenta)",
+   "Q1462244": "Chřapáč jamkatý (Helvella lacunosa)",
+   "Q1553596": "Terčovnice síťnatá (Disciotis venosa)",
+   "Q217227": "Paličkovice nachová (Claviceps purpurea)",
+   "Q2305506": "Kořenitka nadmutá (Rhizina undulata)",
+   "Q2519734": "Ohnivec rakouský (Sarcoscypha austriaca)",
+   "Q3388167": "Kališník obecný (Helvella acetabulum)",
+   "Q627991": "Smrž vysoký (Morchella elata)",
+   "Q898044": "Dřevomor kořenový (Kretzschmaria deusta)"
+  }
+ },
+ {
+  "id": "Q529191#0",
+  "species": "Hlízenka sasanková",
+  "latin": "Dumontinia tuberosa",
+  "text": "Parazituje na sasance hajní.",
+  "quote": "parazitující na rostlině sasance hajní",
+  "claimed_false_for": {
+   "Q1367539": "Ouško kornoutovité (Otidea onotica)",
+   "Q1463716": "Kačenka česká (Verpa bohemica)",
+   "Q1516648": "Chřapáč kadeřavý (Helvella crispa)",
+   "Q1552015": "Pazoubek zelený (Microglossum viride)",
+   "Q1552223": "Patyčka rosolovitá (Leotia lubrica)",
+   "Q1773888": "Zelenitka měděnková (Chlorociboria aeruginascens)",
+   "Q1791117": "Masečník kulovitý (Sarcosoma globosum)",
+   "Q205117": "Nektriové usychání větví (Nectria cinnabarina)",
+   "Q206711": "Rosolozub huspenitý (Pseudohydnum gelatinosum)",
+   "Q2459556": "Ohnivec zimní (Microstoma protractum)",
+   "Q2627281": "Ucháč obrovský (Gyromitra gigas)",
+   "Q4803939": "Hovník obnažený (Ascobolus denudatus)"
+  }
+ },
+ {
+  "id": "Q529191#1",
+  "species": "Hlízenka sasanková",
+  "latin": "Dumontinia tuberosa",
+  "text": "Roste na jaře, od března do května.",
+  "quote": "roste na jaře, od března do května",
+  "claimed_false_for": {
+   "Q1516648": "Chřapáč kadeřavý (Helvella crispa)",
+   "Q1552015": "Pazoubek zelený (Microglossum viride)",
+   "Q1552223": "Patyčka rosolovitá (Leotia lubrica)",
+   "Q206711": "Rosolozub huspenitý (Pseudohydnum gelatinosum)"
+  }
+ },
+ {
+  "id": "Q605828#0",
+  "species": "Mozkovka rosolovitá",
+  "latin": "Ascotremella faginea",
+  "text": "Roste na dřevě listnatých stromů.",
+  "quote": "Roste na dřevě listnatých stromů.",
+  "claimed_false_for": {
+   "Q1367539": "Ouško kornoutovité (Otidea onotica)",
+   "Q1463716": "Kačenka česká (Verpa bohemica)",
+   "Q1516648": "Chřapáč kadeřavý (Helvella crispa)",
+   "Q1552015": "Pazoubek zelený (Microglossum viride)",
+   "Q1552223": "Patyčka rosolovitá (Leotia lubrica)",
+   "Q1791117": "Masečník kulovitý (Sarcosoma globosum)",
+   "Q2627281": "Ucháč obrovský (Gyromitra gigas)",
+   "Q4803939": "Hovník obnažený (Ascobolus denudatus)"
+  }
+ },
+ {
+  "id": "Q605828#1",
+  "species": "Mozkovka rosolovitá",
+  "latin": "Ascotremella faginea",
+  "text": "Tento druh je vzácný a chráněný zákonem.",
+  "quote": "Mozkovka se vyskytuje velice vzácně a je chráněna zákonem.",
+  "claimed_false_for": {
+   "Q1516648": "Chřapáč kadeřavý (Helvella crispa)",
+   "Q1552223": "Patyčka rosolovitá (Leotia lubrica)",
+   "Q205117": "Nektriové usychání větví (Nectria cinnabarina)",
+   "Q206711": "Rosolozub huspenitý (Pseudohydnum gelatinosum)"
+  }
+ },
+ {
+  "id": "Q722657#0",
+  "species": "Terčenka popelavá",
+  "latin": "Mollisia cinerea",
+  "text": "Roste od dubna do října na tlejícím dřevu listnatých stromů.",
+  "quote": "Roste v dubnu až říjnu na tlejícím dřevu listnatých stromů.",
+  "claimed_false_for": {
+   "Q1367539": "Ouško kornoutovité (Otidea onotica)",
+   "Q1463716": "Kačenka česká (Verpa bohemica)",
+   "Q1516648": "Chřapáč kadeřavý (Helvella crispa)",
+   "Q1552015": "Pazoubek zelený (Microglossum viride)",
+   "Q1552223": "Patyčka rosolovitá (Leotia lubrica)",
+   "Q1791117": "Masečník kulovitý (Sarcosoma globosum)",
+   "Q2627281": "Ucháč obrovský (Gyromitra gigas)",
+   "Q4803939": "Hovník obnažený (Ascobolus denudatus)"
+  }
+ },
+ {
+  "id": "Q898044#4",
+  "species": "Dřevomor kořenový",
+  "latin": "Kretzschmaria deusta",
+  "text": "Nejčastěji napadá lípy, buky, javory a duby.",
+  "quote": "Nejčastěji napadá dřevo lip, buků, javorů a dubů.",
+  "claimed_false_for": {
+   "Q1129282": "Smrž obecný (Morchella esculenta)",
+   "Q1367539": "Ouško kornoutovité (Otidea onotica)",
+   "Q1462244": "Chřapáč jamkatý (Helvella lacunosa)",
+   "Q163458": "Svraštělka javorová (Rhytisma acerinum)",
+   "Q1791117": "Masečník kulovitý (Sarcosoma globosum)",
+   "Q2305506": "Kořenitka nadmutá (Rhizina undulata)",
+   "Q627991": "Smrž vysoký (Morchella elata)"
+  }
+ },
+ {
+  "id": "Q898044#5",
+  "species": "Dřevomor kořenový",
+  "latin": "Kretzschmaria deusta",
+  "text": "Žije ve dřevě živých stromů.",
+  "quote": "Houba žije ve dřevě živých stromů",
+  "claimed_false_for": {
+   "Q10519246": "Ohnivec černý (Plectania melastoma)",
+   "Q1129282": "Smrž obecný (Morchella esculenta)",
+   "Q1367539": "Ouško kornoutovité (Otidea onotica)",
+   "Q1462244": "Chřapáč jamkatý (Helvella lacunosa)",
+   "Q163458": "Svraštělka javorová (Rhytisma acerinum)",
+   "Q1738729": "Urnička pohárová (Urnula craterium)",
+   "Q1791117": "Masečník kulovitý (Sarcosoma globosum)",
+   "Q206711": "Rosolozub huspenitý (Pseudohydnum gelatinosum)",
+   "Q2305506": "Kořenitka nadmutá (Rhizina undulata)",
+   "Q2866408": "Čihovitka masová (Ascocoryne sarcoides)",
+   "Q627991": "Smrž vysoký (Morchella elata)"
+  }
+ },
+ {
+  "id": "Q898044#6",
+  "species": "Dřevomor kořenový",
+  "latin": "Kretzschmaria deusta",
+  "text": "Může způsobit nebo urychlit zánik stromu.",
+  "quote": "rozkladem opěrného systému stromu může zapříčinit či urychlit jeho zánik",
+  "claimed_false_for": {
+   "Q1129282": "Smrž obecný (Morchella esculenta)",
+   "Q1367539": "Ouško kornoutovité (Otidea onotica)",
+   "Q1462244": "Chřapáč jamkatý (Helvella lacunosa)",
+   "Q163458": "Svraštělka javorová (Rhytisma acerinum)",
+   "Q1791117": "Masečník kulovitý (Sarcosoma globosum)",
+   "Q206711": "Rosolozub huspenitý (Pseudohydnum gelatinosum)",
+   "Q627991": "Smrž vysoký (Morchella elata)"
+  }
+ },
+ {
+  "id": "Q900804#0",
+  "species": "Ucháč obecný",
+  "latin": "Gyromitra esculenta",
+  "text": "Roste nejčastěji pod borovicemi v jehličnatých lesích.",
+  "quote": "můžeme nejčastěji nalézt v jehličnatých lesích, především pod borovicemi",
+  "claimed_false_for": {
+   "Q10438421": "Míhavka vodní (Vibrissea truncorum)",
+   "Q1738729": "Urnička pohárová (Urnula craterium)",
+   "Q241408": "Dřevnatka kyjovitá (Xylaria polymorpha)",
+   "Q4803939": "Hovník obnažený (Ascobolus denudatus)",
+   "Q9384107": "Jehnědka olšová (Ciboria caucus)"
+  }
+ },
+ {
+  "id": "Q900804#1",
+  "species": "Ucháč obecný",
+  "latin": "Gyromitra esculenta",
+  "text": "Roste od března do května.",
+  "quote": "v období března až května",
+  "claimed_false_for": {
+   "Q3913812": "Ouško zaječí (Otidea leporina)"
+  }
+ },
+ {
+  "id": "Q900804#2",
+  "species": "Ucháč obecný",
+  "latin": "Gyromitra esculenta",
+  "text": "Klobouk dosahuje šířky až 10 centimetrů.",
+  "quote": "dosahuje šířky až 10 centimetrů",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q900804#3",
+  "species": "Ucháč obecný",
+  "latin": "Gyromitra esculenta",
+  "text": "Jed působí hlavně na trávicí ústrojí a játra.",
+  "quote": "Jed působí především na trávicí ústrojí a játra",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q937345#0",
+  "species": "Ohnivec šarlatový",
+  "latin": "Sarcoscypha coccinea",
+  "text": "Roste na mrtvém dřevě listnatých stromů.",
+  "quote": "Roste vzácně v předjaří a začátkem jara na mrtvém dřevě listnatých stromů",
+  "claimed_false_for": {
+   "Q107643736": "Ucháč svazčitý (Discina fastigiata)",
+   "Q1129282": "Smrž obecný (Morchella esculenta)",
+   "Q1553596": "Terčovnice síťnatá (Disciotis venosa)",
+   "Q2305506": "Kořenitka nadmutá (Rhizina undulata)",
+   "Q3388167": "Kališník obecný (Helvella acetabulum)",
+   "Q627991": "Smrž vysoký (Morchella elata)"
+  }
+ },
+ {
+  "id": "Q937345#1",
+  "species": "Ohnivec šarlatový",
+  "latin": "Sarcoscypha coccinea",
+  "text": "Plodničky jsou 2 až 5 cm široké.",
+  "quote": "Plodničky jsou 2 až 5 cm široké",
+  "claimed_false_for": {
+   "Q1553596": "Terčovnice síťnatá (Disciotis venosa)"
+  }
+ },
+ {
+  "id": "Q9384107#1",
+  "species": "Jehnědka olšová",
+  "latin": "Ciboria caucus",
+  "text": "Plodnice se objevují od února do května.",
+  "quote": "Plodnice se objevují od února do května",
+  "claimed_false_for": {
+   "Q1516648": "Chřapáč kadeřavý (Helvella crispa)",
+   "Q1552015": "Pazoubek zelený (Microglossum viride)",
+   "Q1552223": "Patyčka rosolovitá (Leotia lubrica)",
+   "Q206711": "Rosolozub huspenitý (Pseudohydnum gelatinosum)"
+  }
+ }
+]

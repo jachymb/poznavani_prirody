@@ -1,0 +1,114 @@
+[
+ {
+  "id": "Q10672222#0",
+  "species": "Podrepka vodní",
+  "latin": "Sminthurides aquaticus",
+  "text": "Tento druh se živí listy okřehku menšího.",
+  "quote": "Druh se živí listy okřehku menšího.",
+  "claimed_false_for": {
+   "Q14856149": "Larvěnka obrovská (Tetrodontophora bielanensis)"
+  }
+ },
+ {
+  "id": "Q10672222#1",
+  "species": "Podrepka vodní",
+  "latin": "Sminthurides aquaticus",
+  "text": "Samice klade vajíčka na okřehek.",
+  "quote": "Samice klade vajíčka na okřehek.",
+  "claimed_false_for": {
+   "Q14856149": "Larvěnka obrovská (Tetrodontophora bielanensis)"
+  }
+ },
+ {
+  "id": "Q14856149#0",
+  "species": "Larvěnka obrovská",
+  "latin": "Tetrodontophora bielanensis",
+  "text": "Měří 6 až 9 milimetrů.",
+  "quote": "Délka těla je 6–9 mm.",
+  "claimed_false_for": {
+   "Q10672222": "Podrepka vodní (Sminthurides aquaticus)",
+   "Q1534556": "Sumka zlatoústá (Polycarpa aurata)",
+   "Q545813": "Mákovka vodní (Podura aquatica)",
+   "Q837241": "Zřasenka středomořská (Botryllus schlosseri)"
+  }
+ },
+ {
+  "id": "Q2567701#0",
+  "species": "Sumka trubičkovitá",
+  "latin": "Ciona intestinalis",
+  "text": "Měří na délku asi 15 centimetrů.",
+  "quote": "Její vakovité tělo měří na délku asi 15 cm",
+  "claimed_false_for": {
+   "Q10672222": "Podrepka vodní (Sminthurides aquaticus)",
+   "Q545813": "Mákovka vodní (Podura aquatica)"
+  }
+ },
+ {
+  "id": "Q3624860#0",
+  "species": "Sumka obecná",
+  "latin": "Ascidia mentula",
+  "text": "Tento druh se přichycuje k podkladu levým bokem.",
+  "quote": "K substrátu se atypicky přichycují z levého boku",
+  "claimed_false_for": {
+   "Q10672222": "Podrepka vodní (Sminthurides aquaticus)",
+   "Q545813": "Mákovka vodní (Podura aquatica)"
+  }
+ },
+ {
+  "id": "Q3624860#1",
+  "species": "Sumka obecná",
+  "latin": "Ascidia mentula",
+  "text": "Dosahuje velikosti 5 až 18 cm.",
+  "quote": "podlouhlé tělo dosahuje velikosti 5 až 18 cm",
+  "claimed_false_for": {
+   "Q10672222": "Podrepka vodní (Sminthurides aquaticus)",
+   "Q545813": "Mákovka vodní (Podura aquatica)"
+  }
+ },
+ {
+  "id": "Q4921692#1",
+  "species": "Salpa řetězová",
+  "latin": "Thetys vagina",
+  "text": "Dosahuje velikosti až 33 cm.",
+  "quote": "dosahuje velikosti až 33 cm",
+  "claimed_false_for": {
+   "Q10672222": "Podrepka vodní (Sminthurides aquaticus)",
+   "Q1534556": "Sumka zlatoústá (Polycarpa aurata)",
+   "Q545813": "Mákovka vodní (Podura aquatica)"
+  }
+ },
+ {
+  "id": "Q545813#0",
+  "species": "Mákovka vodní",
+  "latin": "Podura aquatica",
+  "text": "Tento druh se živí bakteriemi, řasami a pylovými zrny plovoucími na hladině.",
+  "quote": "Potrava druhu se skládá z bakterií, řas a pylových zrn plovoucích na hladině.",
+  "claimed_false_for": {
+   "Q10672222": "Podrepka vodní (Sminthurides aquaticus)",
+   "Q14856149": "Larvěnka obrovská (Tetrodontophora bielanensis)"
+  }
+ },
+ {
+  "id": "Q837241#0",
+  "species": "Zřasenka středomořská",
+  "latin": "Botryllus schlosseri",
+  "text": "Tento druh se živí filtrováním vody.",
+  "quote": "Jde o filtrátora, jenž tvoří povlaky na skalnatých dnech",
+  "claimed_false_for": {
+   "Q10672222": "Podrepka vodní (Sminthurides aquaticus)",
+   "Q545813": "Mákovka vodní (Podura aquatica)"
+  }
+ },
+ {
+  "id": "Q837241#1",
+  "species": "Zřasenka středomořská",
+  "latin": "Botryllus schlosseri",
+  "text": "Tvoří kolonie o průměru asi 10 cm.",
+  "quote": "na průměr měří asi 10 cm",
+  "claimed_false_for": {
+   "Q10672222": "Podrepka vodní (Sminthurides aquaticus)",
+   "Q1534556": "Sumka zlatoústá (Polycarpa aurata)",
+   "Q545813": "Mákovka vodní (Podura aquatica)"
+  }
+ }
+]

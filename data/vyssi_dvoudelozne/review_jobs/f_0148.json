@@ -1,0 +1,429 @@
+[
+ {
+  "id": "Q1587861#1",
+  "species": "Smil italský",
+  "latin": "Helichrysum italicum",
+  "text": "Žluté květy si zachovávají barvu i po utržení.",
+  "quote": "Žluté květy si zachovávají barvu i po utržení a využívají se tak do aranžmá ze sušených květin.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q158832#2",
+  "species": "Ožanka čpavá",
+  "latin": "Teucrium scordium",
+  "text": "Hmyz hledající nektar se o jeho tyčinky otírá.",
+  "quote": "se o ně nektar hledající hmyz musí otřít",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q158855#2",
+  "species": "Hvozdík svazčitý",
+  "latin": "Dianthus armeria",
+  "text": "Býložravci tento druh nespásají.",
+  "quote": "není býložravci spásána",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q158858#5",
+  "species": "Lobelka modrá",
+  "latin": "Lobelia erinus",
+  "text": "Pokud ji býložravci sežerou hodně, mohou se otrávit.",
+  "quote": "Při spasení většího množství bylin mohou tyto uškodit býložravcům",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q158900#0",
+  "species": "Mochna jahodovitá",
+  "latin": "Potentilla sterilis",
+  "text": "Kvete v dubnu a květnu.",
+  "quote": "Duben až květen.",
+  "claimed_false_for": {
+   "Q155909": "Kopřiva dvoudomá (Urtica dioica)",
+   "Q1592259": "Skalník vrbolistý (Cotoneaster salicifolius)",
+   "Q159482": "Trličník brvitý (Gentianopsis ciliata)",
+   "Q159897": "Růže polní (Rosa agrestis)",
+   "Q162834": "Šťovík klubkatý (Rumex conglomeratus)",
+   "Q792835": "Benedikt lékařský (Centaurea benedicta)"
+  }
+ },
+ {
+  "id": "Q158900#1",
+  "species": "Mochna jahodovitá",
+  "latin": "Potentilla sterilis",
+  "text": "Roste v zeminách chudých na živiny.",
+  "quote": "Roste v zeminách chudých na živiny.",
+  "claimed_false_for": {
+   "Q157878": "Měrnice černá (Ballota nigra)",
+   "Q64061702": "Mochna husí (Argentina anserina)"
+  }
+ },
+ {
+  "id": "Q158929#0",
+  "species": "Růže sivá",
+  "latin": "Rosa glauca",
+  "text": "Roste v jižní Evropě, na Balkáně i v horách až do 2200 metrů nad mořem.",
+  "quote": "Vyskytuje v jižní Evropě, na Balkáně i v některých oblastech střední Evropy, a to v horách až do výše 2200 m n. m.",
+  "claimed_false_for": {
+   "Q1333877": "Pabuk Alessandrův (Nothofagus alessandrii)",
+   "Q1743596": "Jabloň drobnoplodá (Malus baccata)",
+   "Q1759912": "Kopřiva morušolistá (Urtica morifolia)",
+   "Q3008882": "Tavolníkovec velkokvětý (Sorbaria grandiflora)",
+   "Q3106488": "Růže nutkanská (Rosa nutkana)",
+   "Q392023": "Ostružiník voskovaný (Rubus cockburnianus)",
+   "Q5448566": "Tužebník červený (Filipendula rubra)"
+  }
+ },
+ {
+  "id": "Q158929#1",
+  "species": "Růže sivá",
+  "latin": "Rosa glauca",
+  "text": "Tento druh se pěstuje v zahradách a parcích.",
+  "quote": "Od konce devatenáctého století bývá pěstována v zahradách a parcích",
+  "claimed_false_for": {
+   "Q160288": "Hořeček žlutavý (Gentianella lutescens)"
+  }
+ },
+ {
+  "id": "Q158930#2",
+  "species": "Skalník celokrajný",
+  "latin": "Cotoneaster integerrimus",
+  "text": "Hmyz opyluje jeho květy.",
+  "quote": "Květy jsou opylovány hmyzem",
+  "claimed_false_for": {
+   "Q147492": "Jilm vaz (Ulmus laevis)",
+   "Q1529852": "Břestovec hladký (Celtis laevigata)"
+  }
+ },
+ {
+  "id": "Q158933#6",
+  "species": "Černýš rolní",
+  "latin": "Melampyrum arvense",
+  "text": "Snižuje výnos obilí, když hojně roste na poli.",
+  "quote": "Pokud bylo pole silně zapleveleno černýšem rolním, mělo vždy nižší výnosy obilovin",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q158939#2",
+  "species": "Zimozelen okoličnatý",
+  "latin": "Chimaphila umbellata",
+  "text": "Drobná semena roznáší vítr.",
+  "quote": "Drobná semena z nich vypadávají postranními skulinami, roznášeny jsou větrem",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q158941#3",
+  "species": "Jetel zlatý",
+  "latin": "Trifolium aureum",
+  "text": "Žije v symbióze s bakteriemi, které mu zajišťují dusík.",
+  "quote": "Dusík si zajišťuje symbiózou s bakteriemi",
+  "claimed_false_for": {
+   "Q1019275": "Koprník štětinolistý (Meum athamanticum)",
+   "Q159368": "Rohatec růžkatý (Glaucium corniculatum)",
+   "Q161653": "Černýš luční (Melampyrum pratense)",
+   "Q2601238": "Ořechovec vejčitý (Carya ovata)"
+  }
+ },
+ {
+  "id": "Q158942#5",
+  "species": "Svazenka vratičolistá",
+  "latin": "Phacelia tanacetifolia",
+  "text": "Včely se živí jeho květy.",
+  "quote": "posloužit i jako potrava včelám",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q158943#0",
+  "species": "Rozchodník suchomilný",
+  "latin": "Sedum rupestre",
+  "text": "Tento druh je jedovatý.",
+  "quote": "vytrvalá jedovatá bylina",
+  "claimed_false_for": {
+   "Q146066": "Růže šípková (Rosa canina)"
+  }
+ },
+ {
+  "id": "Q158943#1",
+  "species": "Rozchodník suchomilný",
+  "latin": "Sedum rupestre",
+  "text": "Kvete v červnu až srpnu.",
+  "quote": "Kvete v červnu až srpnu.",
+  "claimed_false_for": {
+   "Q10912510": "Dvoukvětec zmarlikolistý (Disanthus cercidifolius)",
+   "Q1537045": "Darmera štítnatá (Darmera peltata)",
+   "Q159699": "Mokrýš střídavolistý (Chrysosplenium alternifolium)",
+   "Q4425210": "Meruzalka jezerní (Ribes lacustre)",
+   "Q913129": "Vilín virginský (Hamamelis virginiana)"
+  }
+ },
+ {
+  "id": "Q158946#4",
+  "species": "Smolnička obecná",
+  "latin": "Viscaria vulgaris",
+  "text": "Opyluje ho létající hmyz.",
+  "quote": "opylovány jsou létajícím hmyzem",
+  "claimed_false_for": {
+   "Q139925": "Merlík čilský (Chenopodium quinoa)",
+   "Q17271940": "Merlík mnohosemenný (Lipandra polysperma)"
+  }
+ },
+ {
+  "id": "Q158946#5",
+  "species": "Smolnička obecná",
+  "latin": "Viscaria vulgaris",
+  "text": "Slimáci a mšice mohou ho poškozovat.",
+  "quote": "Může být poškozována slimáky a mšicemi",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q158946#6",
+  "species": "Smolnička obecná",
+  "latin": "Viscaria vulgaris",
+  "text": "Květy přitahují motýly.",
+  "quote": "Květiny jsou během květu atraktivní pro motýly",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q158949#0",
+  "species": "Zvonek vousatý",
+  "latin": "Campanula barbata",
+  "text": "Kvete v červenci a srpnu.",
+  "quote": "Kvete v červenci a srpnu.",
+  "claimed_false_for": {
+   "Q5228460": "Kamzičník kavkazský (Doronicum orientale)"
+  }
+ },
+ {
+  "id": "Q158949#1",
+  "species": "Zvonek vousatý",
+  "latin": "Campanula barbata",
+  "text": "Roste v Česku jen v Hrubém Jeseníku a na Králickém Sněžníku.",
+  "quote": "V České republice roste pouze v Hrubém Jeseníku a na Králickém Sněžníku.",
+  "claimed_false_for": {
+   "Q1431280": "Bodlák nicí (Carduus nutans)",
+   "Q2669718": "Bělolist rolní (Filago arvensis)",
+   "Q526630": "Zvonek širokolistý (Campanula latifolia)"
+  }
+ },
+ {
+  "id": "Q158953#0",
+  "species": "Tavolníkovec jeřábolistý",
+  "latin": "Sorbaria sorbifolia",
+  "text": "Nepříjemně páchne.",
+  "quote": "je nepříjemně páchnoucí rostlina",
+  "claimed_false_for": {
+   "Q157401": "Zákula japonská (Kerria japonica)",
+   "Q1894641": "Astřička novoanglická (Symphyotrichum novae-angliae)",
+   "Q5413585": "Brusnice borůvka (Vaccinium myrtillus)"
+  }
+ },
+ {
+  "id": "Q158953#1",
+  "species": "Tavolníkovec jeřábolistý",
+  "latin": "Sorbaria sorbifolia",
+  "text": "Dožívá se asi 30 let.",
+  "quote": "dožívá se cca 30 let",
+  "claimed_false_for": {
+   "Q161511": "Hloh jednosemenný (Crataegus monogyna)",
+   "Q163799": "Krvavec menší (Sanguisorba minor)",
+   "Q1737093": "Zelkova habrolistá (Zelkova carpinifolia)",
+   "Q659846": "Pcháč bahenní (Cirsium palustre)",
+   "Q81671": "Juvie ztepilá (Bertholletia excelsa)"
+  }
+ },
+ {
+  "id": "Q158954#0",
+  "species": "Kozlíček polní",
+  "latin": "Valerianella locusta",
+  "text": "Klíčí na podzim a přezimuje v listové růžici.",
+  "quote": "klíčí již na podzim a přezimuje v listové růžici",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q158954#1",
+  "species": "Kozlíček polní",
+  "latin": "Valerianella locusta",
+  "text": "Pochází z oblasti kolem Středozemního moře.",
+  "quote": "Pochází z oblasti kolem Středozemního moře",
+  "claimed_false_for": {
+   "Q15396099": "Kozlík celolistý (Valeriana simplicifolia)",
+   "Q180606": "Kalina vrásčitolistá (Viburnum rhytidophyllum)",
+   "Q252391": "Leycesterie krásná (Leycesteria formosa)",
+   "Q3492271": "Kalina Sieboldova (Viburnum sieboldii)",
+   "Q4115036": "Kalina zubatá (Viburnum dentatum)"
+  }
+ },
+ {
+  "id": "Q158984#0",
+  "species": "Hvozdík zahradní",
+  "latin": "Dianthus caryophyllus",
+  "text": "Dosahuje výšky 30–80 centimetrů.",
+  "quote": "30–80 centimetrů",
+  "claimed_false_for": {
+   "Q159655": "Skalník Dammerův (Cotoneaster dammeri)",
+   "Q17251716": "Kuřička krkonošská (Minuartia corcontica)",
+   "Q523874": "Akrokarpus jasanolistý (Acrocarpus fraxinifolius)",
+   "Q937450": "Písečnice douškolistá (Arenaria serpyllifolia)"
+  }
+ },
+ {
+  "id": "Q158984#1",
+  "species": "Hvozdík zahradní",
+  "latin": "Dianthus caryophyllus",
+  "text": "Má výraznou vůni připomínající hřebíček.",
+  "quote": "výraznou vůní připomínající hřebíček",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q158987#4",
+  "species": "Střemcha pozdní",
+  "latin": "Prunus serotina",
+  "text": "Jeho plody jedí ptáci, hlodavci, lišky i medvědi.",
+  "quote": "Plody požírají ptáci, hlodavci, lišky i medvědi",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q158987#5",
+  "species": "Střemcha pozdní",
+  "latin": "Prunus serotina",
+  "text": "Zvířata, která plody sežerou, šíří jeho semena v trusu.",
+  "quote": "nestrávená semena šíří v trusu",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q158987#6",
+  "species": "Střemcha pozdní",
+  "latin": "Prunus serotina",
+  "text": "Roste nejčastěji v lesích s duby a borovicemi.",
+  "quote": "nejčastěji ve společenstvech s duby a borovicemi",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q158992#0",
+  "species": "Klokoč zpeřený",
+  "latin": "Staphylea pinnata",
+  "text": "Květy často navštěvují včely.",
+  "quote": "dosti hojně navštěvované včelami",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q158992#1",
+  "species": "Klokoč zpeřený",
+  "latin": "Staphylea pinnata",
+  "text": "Dorůstá výšky 3 až 5 metrů.",
+  "quote": "dorůstá výšky 3 až 5 m",
+  "claimed_false_for": {
+   "Q134283": "Dobromysl obecná (Origanum vulgare)",
+   "Q146684": "Jahodník obecný (Fragaria vesca)",
+   "Q158221": "Řeřišnice nedůtklivá (Cardamine impatiens)",
+   "Q164017": "Kakost měkký (Geranium molle)",
+   "Q23425": "Okurka setá (Cucumis sativus)",
+   "Q3504701": "Slézovec durynský (Lavatera thuringiaca)",
+   "Q3714335": "Kamzičník Columnův (Doronicum columnae)",
+   "Q4280447": "Truskavec obecný (Polygonum arenastrum)"
+  }
+ },
+ {
+  "id": "Q159008#5",
+  "species": "Hluchavka objímavá",
+  "latin": "Lamium amplexicaule",
+  "text": "Domácí býložravci rádi spásají jeho mladé rostliny.",
+  "quote": "mladé rostliny rádi spásají mnozí domácí býložravci",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q159015#0",
+  "species": "Pryskyřník omějolistý",
+  "latin": "Ranunculus aconitifolius",
+  "text": "Kvete bílými květy.",
+  "quote": "kvetou bílými květy",
+  "claimed_false_for": {
+   "Q147192": "Blatouch bahenní (Caltha palustris)",
+   "Q149749": "Orlíček černofialový (Aquilegia atrata)",
+   "Q158332": "Šťavel evropský (Oxalis stricta)",
+   "Q161045": "Sasanka pryskyřníkovitá (Anemone ranunculoides)"
+  }
+ },
+ {
+  "id": "Q159015#1",
+  "species": "Pryskyřník omějolistý",
+  "latin": "Ranunculus aconitifolius",
+  "text": "V Česku roste jen na Šumavě a v Novohradských horách.",
+  "quote": "V ČR pouze na Šumavě a v Novohradských horách.",
+  "claimed_false_for": {
+   "Q148929": "Orlíček obecný (Aquilegia vulgaris)",
+   "Q157618": "Zemědým lékařský (Fumaria officinalis)",
+   "Q159727": "Lakušník niťolistý (Ranunculus trichophyllus)",
+   "Q163322": "Úpor peprný (Elatine hydropiper)",
+   "Q163609": "Řeřišnice hořká (Cardamine amara)",
+   "Q341582": "Chruplavník rolní (Polycnemum arvense)"
+  }
+ },
+ {
+  "id": "Q159076#4",
+  "species": "Rdesno blešník",
+  "latin": "Persicaria lapathifolia",
+  "text": "Květy opyluje převážně hmyz.",
+  "quote": "Květy jsou opylovány převážně hmyzem",
+  "claimed_false_for": {
+   "Q29951": "Šťovík menší (Rumex acetosella)"
+  }
+ },
+ {
+  "id": "Q159076#5",
+  "species": "Rdesno blešník",
+  "latin": "Persicaria lapathifolia",
+  "text": "Semena se šíří i v hnoji z chlévů.",
+  "quote": "rozšiřují se na nová místa také v chlévském hnoji",
+  "claimed_false_for": {
+   "Q150952": "Rebutia brunescens (Rebutia brunnescens)",
+   "Q15304191": "Rožec kuřičkolistý (Cerastium alsinifolium)",
+   "Q1813339": "Jírovec lysý (Aesculus glabra)",
+   "Q275573": "Saguaro (Carnegiea gigantea)"
+  }
+ },
+ {
+  "id": "Q159083#4",
+  "species": "Mordovka větevnatá",
+  "latin": "Orobanche ramosa",
+  "text": "Parazituje hlavně na některých druzích hluchavky.",
+  "quote": "Parazituje hlavně na některých druzích hluchavky",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q159083#5",
+  "species": "Mordovka větevnatá",
+  "latin": "Orobanche ramosa",
+  "text": "Parazituje i na řepce, konopí, rajčeti a bramborách.",
+  "quote": "na pěstovaných plodinách: brukev řepka, konopí seté, rajče jedlé, lilek brambor",
+  "claimed_false_for": {
+   "Q136648": "Paznehtník měkký (Acanthus mollis)",
+   "Q158996": "Hvězdoš jarní (Callitriche palustris)",
+   "Q159131": "Šalvěj etiopská (Salvia aethiopis)",
+   "Q159492": "Mochna zlatá (Potentilla aurea)",
+   "Q159826": "Řepovník svraskalý (Rapistrum rugosum)",
+   "Q161080": "Šalvěj zářivá (Salvia splendens)",
+   "Q163952": "Klinopád obecný (Clinopodium vulgare)",
+   "Q1721165": "Šanta lesostepní (Nepeta nuda)",
+   "Q259318": "Drmek obecný (Vitex agnus-castus)",
+   "Q26297": "Šťovík kyselý (Rumex acetosa)",
+   "Q26726": "Konopí seté (Cannabis sativa)",
+   "Q5470682": "Zlatice prostřední (Forsythia ×intermedia)"
+  }
+ },
+ {
+  "id": "Q159089#2",
+  "species": "Slaměnka listenatá",
+  "latin": "Helichrysum bracteatum",
+  "text": "Hmyz opyluje jeho květy.",
+  "quote": "Květy jsou opylovány hmyzem.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q159091#0",
+  "species": "Kontryhel měkký",
+  "latin": "Alchemilla mollis",
+  "text": "Listy na okraji vylučují přebytečnou vodu.",
+  "quote": "Listy jsou typické schopností gutace – vylučuje přebytečnou vodu pletiv na okraji čepele listu.",
+  "claimed_false_for": {}
+ }
+]

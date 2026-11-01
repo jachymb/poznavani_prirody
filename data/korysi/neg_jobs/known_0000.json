@@ -1,0 +1,244 @@
+{
+ "facts": [
+  {
+   "id": "Q1135229#0",
+   "species": "Žábronožka solná",
+   "text": "Živí se zelenými řasami.",
+   "quote": "Požírá zelené řasy."
+  },
+  {
+   "id": "Q206070#1",
+   "species": "Krab palmový",
+   "text": "Dožívá se až šedesáti let.",
+   "quote": "Dožívá se až šedesáti let."
+  },
+  {
+   "id": "Q37668#4",
+   "species": "Humr americký",
+   "text": "Žije v chladných, mělkých vodách, kde je mnoho skal.",
+   "quote": "v chladných, mělkých vodách, kde je mnoho skal"
+  },
+  {
+   "id": "Q37668#7",
+   "species": "Humr americký",
+   "text": "Tento druh se živí i mrtvými živočichy a řasami.",
+   "quote": "Živí se také mrtvými živočichy, řasami a vochou (Zostera)."
+  },
+  {
+   "id": "Q206070#0",
+   "species": "Krab palmový",
+   "text": "Dokáže ulovit i menší obratlovce.",
+   "quote": "dokáže ulovit i menší obratlovce."
+  },
+  {
+   "id": "Q37668#2",
+   "species": "Humr americký",
+   "text": "Tento druh cítí pachy pomocí chloupků na tykadlech.",
+   "quote": "Tyto chloupky jsou pokryty několika nervovými buňkami, které dokáží detekovat pachy."
+  },
+  {
+   "id": "Q1133124#0",
+   "species": "Rak červený",
+   "text": "Živí se drobnými bezobratlými.",
+   "quote": "Ohrožují tak místní populaci drobných bezobratlých, kterými se živí."
+  },
+  {
+   "id": "Q37668#1",
+   "species": "Humr americký",
+   "text": "Tento druh má velké klepeto, kterým drtí kořist.",
+   "quote": "Větší z nich má drtící funkci"
+  },
+  {
+   "id": "Q1135229#1",
+   "species": "Žábronožka solná",
+   "text": "Žije ve slaných jezerech.",
+   "quote": "Žije ve slaných jezerech."
+  },
+  {
+   "id": "Q1133124#1",
+   "species": "Rak červený",
+   "text": "Pohlavní dospělosti dosahuje už v prvním roce života.",
+   "quote": "pohlavní dospělosti dosahuje již v prvním roce života."
+  },
+  {
+   "id": "Q37668#6",
+   "species": "Humr americký",
+   "text": "Tento druh může jíst také kraby, žahavce a malé ryby.",
+   "quote": "včetně jiných korýšů (jako jsou krabi (Brachyura)), hadic (Ophiuroidea), žahavců (Cnidaria) a malých ryb (Pisces)"
+  },
+  {
+   "id": "Q210959#1",
+   "species": "Rak říční",
+   "text": "Výskyt tohoto druhu ukazuje na čistou vodu.",
+   "quote": "Žije v tekoucí vodě, je velmi citlivý na její znečištění a je proto bioindikátorem čistoty vodních toků."
+  },
+  {
+   "id": "Q273655#0",
+   "species": "Velekrab japonský",
+   "text": "Živí se rostlinami i živočichy, převážně měkkýši.",
+   "quote": "Velekrab je všežravec, živí se jak rostlinami, tak živočichy, převážně měkkýši."
+  },
+  {
+   "id": "Q27690#1",
+   "species": "Humr evropský",
+   "text": "Za potravou se vydává v noci.",
+   "quote": "Za potravou se vydává v noci."
+  },
+  {
+   "id": "Q37668#0",
+   "species": "Humr americký",
+   "text": "Tento druh může vážit přes 20 kilogramů.",
+   "quote": "hmotnost přes 20 kg"
+  },
+  {
+   "id": "Q27690#0",
+   "species": "Humr evropský",
+   "text": "Dokáže klepety otevírat lastury mlžů, kterými se živí.",
+   "quote": "Dovede s nimi otevírat lastury mlžů, kterými se živí."
+  },
+  {
+   "id": "Q43735#2",
+   "species": "Strašek paví",
+   "text": "Loví malé rybičky a jiné korýše.",
+   "quote": "požírá malé rybičky a ostatní korýše"
+  },
+  {
+   "id": "Q571443#0",
+   "species": "Krunýřovka krillová",
+   "text": "Živí se droboučkým fytoplanktonem.",
+   "quote": "Živí se droboučkým fytoplanktonem"
+  }
+ ],
+ "candidates": {
+  "Q210959": {
+   "name": "Rak říční",
+   "latin": "Astacus astacus",
+   "family": "rakovití",
+   "lead": "Rak říční (Astacus astacus, také Astacus fluviatilis, Potamobius astacus) je sladkovodní korýš z řádu desetinožců, jeden ze dvou původních druhů raků v Česku. Dorůstá délky až 25 cm. Žije v tekoucí vodě, je velmi citlivý na její znečištění a je proto bioindikátorem čistoty vodních toků. Dožívá se 15 až 20 let.\n\n\n== Anatomie ==\n\n\n=== Vnější stavba ===\nTělo raka se skládá ze srostlé hlavohrudi a článkovaného zadečku, který je zakončen ocasní ploutvičkou. Na hlavohrudi se nachází ústní otvor, smysl",
+   "facts": [
+    "Dorůstá až 25 cm na délku.",
+    "Výskyt tohoto druhu ukazuje na čistou vodu.",
+    "Loví ho také norek americký nebo ondatra."
+   ]
+  },
+  "Q43735": {
+   "name": "Strašek paví",
+   "latin": "Odontodactylus scyllarus",
+   "family": "straškovití",
+   "lead": "Strašek paví (Odontodactylus scyllarus (Linnaeus, 1758)) je velký korýš z čeledi straškovitých obývající oblast Tichého a Indického oceánu od ostrova Guam až po východní pobřeží Afriky, kde vyhledává písčité či bahnité dno. Často je chován v akváriích.\n\n\n== Popis ==\nJedná se o denního i nočního dravce dorůstajícího 3–18 cm, který požírá malé rybičky a ostatní korýše.\nVyskytuje se v hloubce 3–40 m, nejčastěji ale obývá oblasti o hloubce 10–30 m. Jeho tělo má tvar obráceného písmene U a má většino",
+   "facts": [
+    "Vidí více barev než člověk.",
+    "Je aktivní ve dne i v noci.",
+    "Loví malé rybičky a jiné korýše.",
+    "Pozře většinu ryb ve svém okolí."
+   ]
+  },
+  "Q571443": {
+   "name": "Krunýřovka krillová",
+   "latin": "Euphausia superba",
+   "family": "Euphausiidae",
+   "lead": "Krunýřovka krillová (Euphausia superba Dana, 1852) je korýš z řádu krunýřovek.\n\n\n== Popis ==\nKrunýřovka krillová je drobný korýš žijící ve velkých hejnech, přičemž v jednom krychlovém metru žije 10 000 až 30 000 jedinců. Živí se droboučkým fytoplanktonem. Dorůstá velikosti až 6 cm, dosahuje hmotnosti 2 gramů a dožívá se 6 let. Vyskytuje se v chladných vodách Jižního oceánu.\n\n\n== Význam ==\nJe nejvýznamnější složkou antarktického krilu, jenž představuje zdroj potravy pro různé vodní obratlovce a b",
+   "facts": [
+    "Živí se droboučkým fytoplanktonem.",
+    "Tento druh je zdrojem potravy pro různé vodní obratlovce a bezobratlé."
+   ]
+  },
+  "Q693000": {
+   "name": "Rak signální",
+   "latin": "Pacifastacus leniusculus",
+   "family": "rakovití",
+   "lead": "Rak signální (Pacifastacus leniusculus) je původem severoamerický (ze států Kalifornie a Nevada) invazní druh raka. Do Evropy byl zavlečen v 60. letech 20. století, na území Česka se dostal v 80. letech 20. století. V Česku žije především na jihu a jihovýchodě.\n\n\n== Popis ==\nRak signální obvykle dorůstá délky 6–9 cm, ačkoli jsou zaznamenány i velikosti 16–18 cm. Od původních druhů raků je rozpoznatelný tím, že jako jediný má na klepetech v místě spojení pohyblivé a nepohyblivé části výraznou svě",
+   "facts": [
+    "Přirozenými predátory jsou některé ryby, ptáci a šelmy.",
+    "Přenáší račí mor, ale je vůči němu imunní."
+   ]
+  },
+  "Q1133124": {
+   "name": "Rak červený",
+   "latin": "Procambarus clarkii",
+   "family": "Cambaridae",
+   "lead": "Rak červený (Procambarus clarkii) je druh sladkovodních raků. Jeho původní areál se nalézá v severním Mexiku a na jihu a jihovýchodě Spojených států, ale byl introdukován i do dalších oblastí (v Severní Americe i na jiných kontinentech), kde je často invazivním škůdcem. Stejně jako další invazní druh, rak signální, je přenašečem račího moru. Od roku 2016 je na Seznamu invazních nepůvodních druhů s\nvýznamným dopadem na Evropskou unii.\nK roku 2026 se vyskytoval v asi 20 evropských zemích. Je považ",
+   "facts": [
+    "Živí se drobnými bezobratlými.",
+    "Pohlavní dospělosti dosahuje už v prvním roce života."
+   ]
+  },
+  "Q27690": {
+   "name": "Humr evropský",
+   "latin": "Homarus gammarus",
+   "family": "humrovití",
+   "lead": "Humr evropský je mořský korýš, který dorůstá délky desítek centimetrů. Nehledě na velikost upoutá pozornost obrovitými klepety. Dovede s nimi otevírat lastury mlžů, kterými se živí.\nPatří mezi desetinožce. Je to největší zástupce recentních raků. Dosahuje délky až 60 cm, váhy několika kilogramů a stáří až 30 let. Má velmi silný krunýř a silná, nestejně velká klepeta. Loví tak, že chodí pomalu po mořském dně a do klepet sbírá potravu. Menším, štíhlejším klepetem uchopí kořist (měkkýše a ostnokožc",
+   "facts": [
+    "Dokáže klepety otevírat lastury mlžů, kterými se živí.",
+    "Za potravou se vydává v noci."
+   ]
+  },
+  "Q37668": {
+   "name": "Humr americký",
+   "latin": "Homarus americanus",
+   "family": "humrovití",
+   "lead": "Humr americký (Homarus americanus) je druh korýše z čeledi humrovití (Nephropidae), který se vyskytuje při východním pobřeží Severní Ameriky, zejména od Labradoru po New Jersey. Délka těla může dosahovat až 64 cm a hmotnost přes 20 kg, což z něj činí nejtěžšího korýše na světě, ale také nejtěžšího ze všech žijících druhů členovců. Jeho nejbližším příbuzným je humr evropský (Homarus gammarus),\nkterého lze rozlišit podle zbarvení a absence ostnů na spodní straně rostra. Američtí humři jsou obvykle",
+   "facts": [
+    "Tento druh může vážit přes 20 kilogramů.",
+    "Tento druh má velké klepeto, kterým drtí kořist.",
+    "Tento druh cítí pachy pomocí chloupků na tykadlech.",
+    "Tento druh jí hlavně slávky, škeble a mořské šneky.",
+    "Žije v chladných, mělkých vodách, kde je mnoho skal.",
+    "Odhadem přežije z tisíce larev jen jedna.",
+    "Tento druh může jíst také kraby, žahavce a malé ryby.",
+    "Tento druh se živí i mrtvými živočichy a řasami.",
+    "Bakterie způsobuje u tohoto druhu nemoc zvanou červenoosací choroba."
+   ]
+  },
+  "Q273655": {
+   "name": "Velekrab japonský",
+   "latin": "Macrocheira kaempferi",
+   "family": "Q138030228",
+   "lead": "Velekrab japonský (Macrocheira kaempferi podle Engelberta Kämpfera) je největší žijící členovec. Je to mořský tvor, který původně žil v okolí Japonska. Předpokládá se, že se může dožít více než 100 let.\nVelekrab japonský žije v Tichém oceánu v okolí Japonských ostrovů obvykle v hloubce od 50 do 300 metrů. Byl však nalezen i 600 metrů pod hladinou. Rád využívá přirozené úkryty jako průduchy, průrvy a díry ve skalách na mořském dně.\n\n\n== Popis ==\nVelekrab má kulaté tělo a dlouhé nohy, může připomí",
+   "facts": [
+    "Živí se rostlinami i živočichy, převážně měkkýši.",
+    "Samice nosí vajíčka na zádech, dokud se nevylíhnou."
+   ]
+  },
+  "Q1135229": {
+   "name": "Žábronožka solná",
+   "latin": "Artemia salina",
+   "family": "žábronožkovití",
+   "lead": "Žábronožka solná (Artemia salina (Linnaeus, 1758)) je druh drobných slanovodních korýšů z čeledi žábronožkovitých.\n\n\n== Popis ==\nŽábronožka solná má podlouhlé tělo bez skořápky. Dospělci mají tři stopkaté složené oči a jedenáct párů lupenitých nožek, dorůstají délky až 15 mm. Distální článek druhého páru tykadel samců je zploštělý a lopatkovitě rozšířený, při páření se jím samec přidržuje samice.\n\n\n== Výskyt ==\nŽábronožka solná je slanovodní organismus. Žije ve slaných jezerech. Je přizpůsobena ",
+   "facts": [
+    "Živí se zelenými řasami.",
+    "Žije ve slaných jezerech."
+   ]
+  },
+  "Q823941": {
+   "name": "Krab říční",
+   "latin": "Eriocheir sinensis",
+   "family": "Varunidae",
+   "lead": "Krab říční (Eriocheir sinensis) čili krab čínský, dříve krab vlnoklepetý (podle plsťovitého pokryvu jeho klepet), je krab z čeledi Varunidae, který pochází z východní Asie. Jako jeden z nejvíce invazních druhů na světě se rozšířil i do Evropy a Severní Ameriky.\n\n\n== Životní cyklus ==\nPro tohoto kraba je typická katadromní migrace. Krab říční se rozmnožuje v moři v brakické vodě nedaleko ústí řeky. Prochází několika larválními stadii (prezoea, zoea, megalopa). Ve věku dvou let se mladí krabi vydá",
+   "facts": [
+    "Tento druh se rozmnožuje v moři, nedaleko ústí řeky.",
+    "Mladí jedinci se po dvou letech vydávají proti proudu řeky."
+   ]
+  },
+  "Q1300629": {
+   "name": "Svinka obecná",
+   "latin": "Armadillidium vulgare",
+   "family": "svinkovití",
+   "lead": "Svinka obecná (Armadillidium vulgare) je suchozemský korýš z kmene členovců. Patří do rodu svinka z řádu stejnonožců.\nVyskytuje se hlavně v Evropě. Jedná se o nejvíce prozkoumaný suchozemský druh řádu stejnonožci.\n\n\n== Popis ==\nMůže dosahovat délky až 18 mm, běžně dorůstá 12–17 mm, při ohrožení se umí svinout do kuličky (volvace), což jí dává název svinka. Často bývá zaměňována se svinulí vroubenou či zástupci rodu stínka.\n\n\n== Výskyt ==\nPochází z Evropy a zde je také nejhojnější, zejména v obla",
+   "facts": [
+    "Živí se rozkládající rostlinnou hmotou, lišejníky a řasami.",
+    "Často ji loví pavouci, například šestiočky."
+   ]
+  },
+  "Q206070": {
+   "name": "Krab palmový",
+   "latin": "Birgus latro",
+   "family": "Coenobitidae",
+   "lead": "Krab palmový (Birgus latro) je největší suchozemský krab a korýš vůbec. Patří do řádu desetinohých korýšů (Decapoda) a infrařádu Anomura mezi tzv. kraby poustevníčky. Je jediným zástupcem rodu Birgus.\nObývá ostrovy v jihovýchodní Asii. Běžně dorůstá 40 cm, nohy mají rozpětí až jeden metr. Samci bývají větší než samice. Dospělí jedinci váží až 4,1 kg. Tyto hodnoty se blíží limitním hodnotám pro suchozemské členovce.\nZadeček (abdomen) chrání krab palmový ulitou plžů pouze v juvenilním období vývoj",
+   "facts": [
+    "Dokáže ulovit i menší obratlovce.",
+    "Dožívá se až šedesáti let."
+   ]
+  }
+ }
+}

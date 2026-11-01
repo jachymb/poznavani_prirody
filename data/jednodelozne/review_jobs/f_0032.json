@@ -1,0 +1,474 @@
+[
+ {
+  "id": "Q290967#5",
+  "species": "Jubea chilská",
+  "latin": "Jubaea chilensis",
+  "text": "Dobytek a koně jedí jeho opadané plody.",
+  "quote": "Hodně opadaných plodů zkonzumuje pasoucí se dobytek a koně",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q290967#6",
+  "species": "Jubea chilská",
+  "latin": "Jubaea chilensis",
+  "text": "Drobní hlodavci jedí jeho opadané plody.",
+  "quote": "menší část drobní hlodavci, například místní osmák degu",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q2919086#2",
+  "species": "Ixiolirion tatarské",
+  "latin": "Ixiolirion tataricum",
+  "text": "Opyluje ho hmyz.",
+  "quote": "Po opylení hmyzem vzniká plod",
+  "claimed_false_for": {
+   "Q1426766": "Ječmenice písečná (Leymus arenarius)",
+   "Q158190": "Ostřice obecná (Carex nigra)",
+   "Q159953": "Paličkovec šedavý (Corynephorus canescens)"
+  }
+ },
+ {
+  "id": "Q2938380#0",
+  "species": "Ostřice Buchananova",
+  "latin": "Carex buchananii",
+  "text": "Roste většinou na okrajích potoků a řek.",
+  "quote": "Roste většinou na okrajích potoků a řek.",
+  "claimed_false_for": {
+   "Q12104": "Oves setý (Avena sativa)",
+   "Q159706": "Ostřice skalní (Carex rupestris)",
+   "Q165196": "Proso seté (Panicum miliaceum)",
+   "Q5920308": "Kosatec bezlistý (Iris aphylla)"
+  }
+ },
+ {
+  "id": "Q2938380#1",
+  "species": "Ostřice Buchananova",
+  "latin": "Carex buchananii",
+  "text": "Kvete od června do srpna.",
+  "quote": "Období květu je od června do srpna.",
+  "claimed_false_for": {
+   "Q157929": "Ostřice jarní (Carex caryophyllea)",
+   "Q160038": "Ostřice tlapkatá (Carex pediformis)",
+   "Q806126": "Ostřice Buekova (Carex buekii)"
+  }
+ },
+ {
+  "id": "Q296242#0",
+  "species": "Česnek azurový",
+  "latin": "Allium caeruleum",
+  "text": "Kvete od května do července.",
+  "quote": "Kvete v průběhu května až července.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q296242#1",
+  "species": "Česnek azurový",
+  "latin": "Allium caeruleum",
+  "text": "Roste na suchých stepích a pláních.",
+  "quote": "kde v přírodě roste na suchých stepích a pláních",
+  "claimed_false_for": {
+   "Q159287": "Vstavač bahenní (Anacamptis palustris)"
+  }
+ },
+ {
+  "id": "Q30968#0",
+  "species": "Árón italský",
+  "latin": "Arum italicum",
+  "text": "Kvete na jaře bílými květy.",
+  "quote": "Kvete na jaře bílými květy",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q30968#1",
+  "species": "Árón italský",
+  "latin": "Arum italicum",
+  "text": "Celá rostlina je jedovatá.",
+  "quote": "Celá rostlina je jedovatá.",
+  "claimed_false_for": {
+   "Q157571": "Lipnice roční (Poa annua)",
+   "Q159358": "Ostřice stinná (Carex umbrosa)",
+   "Q165013": "Ostřice plstnatá (Carex tomentosa)"
+  }
+ },
+ {
+  "id": "Q311065#0",
+  "species": "Agáve modrá",
+  "latin": "Agave tequilana",
+  "text": "Opylují ho netopýři a kolibříci.",
+  "quote": "opylované netopýry a kolibříky",
+  "claimed_false_for": {
+   "Q158109": "Psárka polní (Alopecurus myosuroides)",
+   "Q158868": "Řečanka přímořská (Najas marina)",
+   "Q161013": "Zblochanec oddálený (Puccinellia distans)",
+   "Q2425310": "Šáchor dlouhý (Cyperus longus)"
+  }
+ },
+ {
+  "id": "Q311065#1",
+  "species": "Agáve modrá",
+  "latin": "Agave tequilana",
+  "text": "Listová růžice dorůstá až do výšky 2 metrů.",
+  "quote": "Listová růžice tuhých, dužnatých, ostnitých listů dorůstá výšky až 2 metry",
+  "claimed_false_for": {
+   "Q161158": "Modřenec širolistý (Muscari botryoides)",
+   "Q1974931": "Tořič modropyský (Ophrys speculum)"
+  }
+ },
+ {
+  "id": "Q311524#4",
+  "species": "Tilandsie provazovkovitá",
+  "latin": "Tillandsia usneoides",
+  "text": "Někteří drobní ptáci si v hustých porostech tohoto druhu staví hnízda.",
+  "quote": "Hustých porostů využívají někteří drobní ptáci pro stavbu hnízd",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q311524#5",
+  "species": "Tilandsie provazovkovitá",
+  "latin": "Tillandsia usneoides",
+  "text": "Ještěrky a žáby žijí v hustých porostech tohoto druhu.",
+  "quote": "žijí v nich ještěrky, žáby i jeden specifický druh pavouka",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q311524#6",
+  "species": "Tilandsie provazovkovitá",
+  "latin": "Tillandsia usneoides",
+  "text": "Vůně květů tohoto druhu láká opylující hmyz.",
+  "quote": "jejich vůně láká opylující hmyz",
+  "claimed_false_for": {
+   "Q15238126": "Skrytěnka bodlinatá (Crypsis aculeata)",
+   "Q157929": "Ostřice jarní (Carex caryophyllea)",
+   "Q158894": "Lipnice hajní (Poa nemoralis)",
+   "Q159021": "Ostřice nedošáchor (Carex pseudocyperus)",
+   "Q159055": "Ostřice klasnatá (Carex spicata)",
+   "Q160038": "Ostřice tlapkatá (Carex pediformis)",
+   "Q470109": "Kortaderie dvoudomá (Cortaderia selloana)",
+   "Q7578777": "Šedovous sibiřský (Spodiopogon sibiricus)",
+   "Q806126": "Ostřice Buekova (Carex buekii)"
+  }
+ },
+ {
+  "id": "Q312231#0",
+  "species": "Žabník trávolistý",
+  "latin": "Alisma gramineum",
+  "text": "Kvete pod vodou i nad vodou.",
+  "quote": "Může vykvétat pod vodou i nad vodou.",
+  "claimed_false_for": {
+   "Q156984": "Blatnice bahenní (Scheuchzeria palustris)",
+   "Q157571": "Lipnice roční (Poa annua)",
+   "Q159358": "Ostřice stinná (Carex umbrosa)",
+   "Q164844": "Kosatec měňavý (Iris versicolor)",
+   "Q165013": "Ostřice plstnatá (Carex tomentosa)"
+  }
+ },
+ {
+  "id": "Q312231#1",
+  "species": "Žabník trávolistý",
+  "latin": "Alisma gramineum",
+  "text": "Dorůstá do výšky 10 až 50 centimetrů.",
+  "quote": "dorůstá výšky cca 10–50 cm",
+  "claimed_false_for": {
+   "Q15295761": "Rdest Wrightův (Potamogeton wrightii)",
+   "Q370566": "Rdest vzplývavý (Potamogeton natans)"
+  }
+ },
+ {
+  "id": "Q3174654#0",
+  "species": "Rdest rdesnolistý",
+  "latin": "Potamogeton polygonifolius",
+  "text": "Roste v potocích a rašelinných tůňkách.",
+  "quote": "Jejím stanovičštěm jsou potoky a rašelinné tůňky.",
+  "claimed_false_for": {
+   "Q15312475": "Kulkas zamiolistý (Zamioculcas zamiifolia)",
+   "Q156124": "Střevíčník pantoflíček (Cypripedium calceolus)",
+   "Q159146": "Sveřep jalový (Bromus sterilis)",
+   "Q2037558": "Česnek růžový (Allium roseum)",
+   "Q208705": "Troskut prstnatý (Cynodon dactylon)",
+   "Q30968": "Árón italský (Arum italicum)",
+   "Q836366": "Árón plamatý (Arum maculatum)"
+  }
+ },
+ {
+  "id": "Q3174654#1",
+  "species": "Rdest rdesnolistý",
+  "latin": "Potamogeton polygonifolius",
+  "text": "Tento druh je v Česku kriticky ohrožený.",
+  "quote": "Jedná se o kriticky ohroženou rostlinu flóry ČR (kategorie C1).",
+  "claimed_false_for": {
+   "Q159146": "Sveřep jalový (Bromus sterilis)",
+   "Q370566": "Rdest vzplývavý (Potamogeton natans)",
+   "Q836366": "Árón plamatý (Arum maculatum)"
+  }
+ },
+ {
+  "id": "Q319791#0",
+  "species": "Acidantera dvoubarvá",
+  "latin": "Gladiolus murielae",
+  "text": "Kvete od srpna do října.",
+  "quote": "Kvete od srpna do října",
+  "claimed_false_for": {
+   "Q158944": "Ladoňka sibiřská (Scilla siberica)",
+   "Q159026": "Ostřice dvouřadá (Carex disticha)",
+   "Q33194": "Kruštík tmavočervený (Epipactis atrorubens)",
+   "Q854799": "Prstnatec pleťový (Dactylorhiza incarnata)"
+  }
+ },
+ {
+  "id": "Q319791#1",
+  "species": "Acidantera dvoubarvá",
+  "latin": "Gladiolus murielae",
+  "text": "Dorůstá do výšky 80 až 100 cm.",
+  "quote": "Rostlina je vysoká 80 až 100 cm",
+  "claimed_false_for": {
+   "Q130882": "Česnek medvědí (Allium ursinum)",
+   "Q157433": "Vemeník dvoulistý (Platanthera bifolia)",
+   "Q159278": "Česnek kýlnatý (Allium carinatum)",
+   "Q161310": "Suchopýrek trsnatý (Trichophorum cespitosum)",
+   "Q161412": "Kosatec trávovitý (Iris graminea)",
+   "Q367295": "Jazýček jadranský (Himantoglossum adriaticum)",
+   "Q828375": "Tořič Bertoloniho (Ophrys bertolonii)"
+  }
+ },
+ {
+  "id": "Q33194#0",
+  "species": "Kruštík tmavočervený",
+  "latin": "Epipactis atrorubens",
+  "text": "Kvete v květnu a červnu.",
+  "quote": "Kruštík tmavočervený kvete během května a června.",
+  "claimed_false_for": {
+   "Q158918": "Mařice pilovitá (Cladium mariscus)",
+   "Q161879": "Zblochan vodní (Glyceria maxima)"
+  }
+ },
+ {
+  "id": "Q33194#1",
+  "species": "Kruštík tmavočervený",
+  "latin": "Epipactis atrorubens",
+  "text": "Vyžaduje vápnité půdy.",
+  "quote": "Vyžaduje vápnité půdy.",
+  "claimed_false_for": {
+   "Q161310": "Suchopýrek trsnatý (Trichophorum cespitosum)"
+  }
+ },
+ {
+  "id": "Q332062#1",
+  "species": "Čirok dvoubarevný",
+  "latin": "Sorghum bicolor",
+  "text": "Jedna jeho odrůda se pěstuje pro košťata a kartáče.",
+  "quote": "se pěstuje zejména pro pevné laty, ze kterých se vyrábějí košťata a kartáče",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q3339674#5",
+  "species": "Žabníkovka žlutá",
+  "latin": "Limnocharis flava",
+  "text": "Vodní ptáci šíří jeho semena na nohou.",
+  "quote": "vodních ptáků, obdobně jako přilepená blátem na obuvi lidí",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q3339674#6",
+  "species": "Žabníkovka žlutá",
+  "latin": "Limnocharis flava",
+  "text": "Prasata dostávají jeho rostliny jako krmivo.",
+  "quote": "jsou používány jako krmivo pro prasata",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q3502763#0",
+  "species": "Česnek vysokohorský",
+  "latin": "Allium oreophilum",
+  "text": "Pochází z asijských velehor, od Kavkazu po severozápadní Čínu.",
+  "quote": "Druh má svojí domovinu asijských velehorách, od Kavkazu, přes hory střední Asie po severozápadní Čínu, Sin-ťiang.",
+  "claimed_false_for": {
+   "Q162137": "Aloe stromovitá (Aloe arborescens)",
+   "Q367295": "Jazýček jadranský (Himantoglossum adriaticum)",
+   "Q607380": "Lenovník novozélandský (Phormium tenax)",
+   "Q828375": "Tořič Bertoloniho (Ophrys bertolonii)"
+  }
+ },
+ {
+  "id": "Q3502763#1",
+  "species": "Česnek vysokohorský",
+  "latin": "Allium oreophilum",
+  "text": "Tento druh se často pěstuje jako skalnička.",
+  "quote": "Je často pěstován jako skalnička.",
+  "claimed_false_for": {
+   "Q159026": "Ostřice dvouřadá (Carex disticha)",
+   "Q160354": "Rdestice hustolistá (Groenlandia densa)",
+   "Q175719": "Liliochvostec mohutný (Eremurus robustus)",
+   "Q332062": "Čirok dvoubarevný (Sorghum bicolor)"
+  }
+ },
+ {
+  "id": "Q3511532#0",
+  "species": "Šafrán bělokvětý",
+  "latin": "Crocus albiflorus",
+  "text": "Dorůstá do výšky asi 15 cm.",
+  "quote": "Rostlina dosahuje výšky asi 15 cm.",
+  "claimed_false_for": {
+   "Q1124906": "Snědek hřebenitý (Ornithogalum boucheanum)",
+   "Q1194889": "Aloe kapská (Aloe ferox)",
+   "Q12027920": "Kamyšník polní (Bolboschoenus planiculmis)",
+   "Q1378081": "Juka krátkolistá (Yucca brevifolia)",
+   "Q149721": "Česnek žlutý (Allium flavum)",
+   "Q157426": "Kruštík širolistý pravý (Epipactis helleborine)",
+   "Q158160": "Ostřice Buxbaumova (Carex buxbaumii)",
+   "Q158168": "Ostřice lesní (Carex sylvatica)",
+   "Q33913": "Voňatka citronová (Cymbopogon citratus)"
+  }
+ },
+ {
+  "id": "Q3511532#1",
+  "species": "Šafrán bělokvětý",
+  "latin": "Crocus albiflorus",
+  "text": "Na lokalitách roste ve velkých skupinách.",
+  "quote": "Na lokalitách se tento druh vyskytuje ve velkých skupinách.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q3735732#0",
+  "species": "Česnek stopečkatý",
+  "latin": "Allium stipitatum",
+  "text": "Cibule je pod zemí, je kulovitá a žlutá.",
+  "quote": "podzemní cibulí, která je kulovitá žlutá s opadavými šupinami, asi 3–6 cm v průměru",
+  "claimed_false_for": {
+   "Q149721": "Česnek žlutý (Allium flavum)"
+  }
+ },
+ {
+  "id": "Q3735732#1",
+  "species": "Česnek stopečkatý",
+  "latin": "Allium stipitatum",
+  "text": "Pochází ze střední Asie, z Pákistánu a Afghánistánu.",
+  "quote": "Druh má svoji domovinu ve střední Asii, v Pákistánu a Afghánistánu.",
+  "claimed_false_for": {
+   "Q157890": "Smrkovník plazivý (Goodyera repens)",
+   "Q158829": "Kruštík drobnolistý (Epipactis microphylla)",
+   "Q158944": "Ladoňka sibiřská (Scilla siberica)",
+   "Q159026": "Ostřice dvouřadá (Carex disticha)",
+   "Q160354": "Rdestice hustolistá (Groenlandia densa)",
+   "Q161230": "Česnek viničný (Allium vineale)",
+   "Q33194": "Kruštík tmavočervený (Epipactis atrorubens)",
+   "Q854799": "Prstnatec pleťový (Dactylorhiza incarnata)"
+  }
+ },
+ {
+  "id": "Q378568#5",
+  "species": "Vetiverie ovsuchovitá",
+  "latin": "Chrysopogon zizanioides",
+  "text": "Slouží hospodářským zvířatům jako krmivo.",
+  "quote": "V některých oblastech je využívána i jako krmivo pro hospodářská zvířata.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q416369#0",
+  "species": "Rotan rákosový",
+  "latin": "Calamus rotang",
+  "text": "Má šlahouny dlouhé přes 200 metrů.",
+  "quote": "šlahouny dosahují délky až přes dvě stě metrů",
+  "claimed_false_for": {
+   "Q1016320": "Mauricie převislá (Mauritia flexuosa)",
+   "Q140088": "Acoelorrhaphe wrightii (Acoelorraphe wrightii)",
+   "Q146572": "Orobinec úzkolistý (Typha angustifolia)",
+   "Q158389": "Washingtonie vláknitá (Washingtonia filifera)",
+   "Q159640": "Zevar nejmenší (Sparganium natans)",
+   "Q161125": "Ostřice pobřežní (Carex riparia)",
+   "Q161747": "Žumara nízká (Chamaerops humilis)",
+   "Q2717614": "Dračinka křovitá (Cordyline fruticosa)",
+   "Q500857": "Lontar vějířovitý (Borassus flabellifer)",
+   "Q790172": "Moukeň ztepilá (Bactris gasipaes)",
+   "Q840615": "Salaka jedlá (Salacca zalacca)",
+   "Q856001": "Palma stínidlová (Corypha umbraculifera)"
+  }
+ },
+ {
+  "id": "Q416369#1",
+  "species": "Rotan rákosový",
+  "latin": "Calamus rotang",
+  "text": "Z tohoto dřeva se pletou koše nebo nábytek.",
+  "quote": "se z něj pletou koše nebo nábytek",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q41794154#1",
+  "species": "Cibule prorůstavá",
+  "latin": "Allium ×proliferum",
+  "text": "Vzniká křížením dvou jiných druhů.",
+  "quote": "Jedná se o křížence mezi cibulí zimní (Allium fistulosum) a cibulí kuchyňskou (Allium cepa).",
+  "claimed_false_for": {
+   "Q101711": "Konvalinka vonná (Convallaria majalis)",
+   "Q1314837": "Prstnatec bezový (Dactylorhiza sambucina)",
+   "Q157428": "Hyacint východní (Hyacinthus orientalis)",
+   "Q157441": "Hlístník hnízdák (Neottia nidus-avis)",
+   "Q157542": "Vemeníček zelený (Dactylorhiza viridis)",
+   "Q157971": "Korálice trojklaná (Corallorhiza trifida)",
+   "Q158109": "Psárka polní (Alopecurus myosuroides)",
+   "Q158868": "Řečanka přímořská (Najas marina)",
+   "Q161013": "Zblochanec oddálený (Puccinellia distans)",
+   "Q17235117": "Kosatec písečný (Iris arenaria)",
+   "Q2425310": "Šáchor dlouhý (Cyperus longus)",
+   "Q2602766": "Česnek zlatožlutý (Allium moly)"
+  }
+ },
+ {
+  "id": "Q42562#0",
+  "species": "Kurkuma",
+  "latin": "Curcuma longa",
+  "text": "Plody jsou tobolky, které se ve zralosti samy rozevírají.",
+  "quote": "Plodem jsou mnohosemenné tobolky, které se ve zralosti samy rozevírají.",
+  "claimed_false_for": {
+   "Q1233923": "Árón východní (Arum cylindraceum)",
+   "Q1443970": "Ostřice pevná (Carex firma)",
+   "Q157574": "Ostřice písečná (Carex arenaria)",
+   "Q159163": "Kamyšník přímořský (Bolboschoenus maritimus)",
+   "Q3206251": "Rdest trávolistý (Potamogeton gramineus)"
+  }
+ },
+ {
+  "id": "Q42562#1",
+  "species": "Kurkuma",
+  "latin": "Curcuma longa",
+  "text": "Stonek bývá vysoký až 1,5 metru.",
+  "quote": "až 1,5 m vysoký stonek",
+  "claimed_false_for": {
+   "Q1443970": "Ostřice pevná (Carex firma)",
+   "Q154500": "Závitka mnohokořenná (Spirodela polyrhiza)",
+   "Q157574": "Ostřice písečná (Carex arenaria)"
+  }
+ },
+ {
+  "id": "Q4268503#0",
+  "species": "Česnek karatavský",
+  "latin": "Allium karataviense",
+  "text": "Pochází ze střední Asie.",
+  "quote": "Druh má svoji domovinu ve střední Asii.",
+  "claimed_false_for": {
+   "Q1194889": "Aloe kapská (Aloe ferox)",
+   "Q1378081": "Juka krátkolistá (Yucca brevifolia)",
+   "Q157435": "Vstavač mužský (Orchis mascula)",
+   "Q164542": "Mečík bahenní (Gladiolus palustris)",
+   "Q33913": "Voňatka citronová (Cymbopogon citratus)"
+  }
+ },
+ {
+  "id": "Q4268503#1",
+  "species": "Česnek karatavský",
+  "latin": "Allium karataviense",
+  "text": "Často se pěstuje jako skalnička.",
+  "quote": "Je často pěstován jako skalnička.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q4268540#0",
+  "species": "Česnek latnatý",
+  "latin": "Allium paniculatum",
+  "text": "Dorůstá do výšky 25 až 70 cm.",
+  "quote": "Jedná se o vytrvalou cca 25–70 cm vysokou rostlinu.",
+  "claimed_false_for": {
+   "Q1545525": "Tulipán Greigův (Tulipa greigii)",
+   "Q161115": "Agáve obecná (Agave americana)"
+  }
+ }
+]

@@ -1,0 +1,360 @@
+[
+ {
+  "id": "Q144477#0",
+  "species": "Mikrocykas krásný",
+  "latin": "Microcycas calocoma",
+  "text": "Tento druh dorůstá do 10 metrů výšky.",
+  "quote": "Strom dorůstá do 10 metrů výšky",
+  "claimed_false_for": {
+   "Q156926": "Welwitschie podivná (Welwitschia mirabilis)",
+   "Q162784": "Chvojník dvouklasý (Ephedra distachya)"
+  }
+ },
+ {
+  "id": "Q144477#1",
+  "species": "Mikrocykas krásný",
+  "latin": "Microcycas calocoma",
+  "text": "Tento druh je v přírodě opylován jen jedním druhem brouka.",
+  "quote": "Opylení je v přírodě vázáno na specifický druh brouků",
+  "claimed_false_for": {
+   "Q156926": "Welwitschie podivná (Welwitschia mirabilis)",
+   "Q162784": "Chvojník dvouklasý (Ephedra distachya)",
+   "Q43284": "Jinan dvoulaločný (Ginkgo biloba)"
+  }
+ },
+ {
+  "id": "Q144477#3",
+  "species": "Mikrocykas krásný",
+  "latin": "Microcycas calocoma",
+  "text": "Tento druh je na Kubě ceněn jako ozdobná rostlina.",
+  "quote": "Mikrocykas je na Kubě ceněn jako ozdobná rostlina",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q149321#0",
+  "species": "Píchoš Altensteinův",
+  "latin": "Encephalartos altensteinii",
+  "text": "Dorůstá až do výšky pěti metrů.",
+  "quote": "Jedná se o středně velký cykas, který dorůstá výšky až 5 m s průměrem kmene do 35 cm.",
+  "claimed_false_for": {
+   "Q43284": "Jinan dvoulaločný (Ginkgo biloba)",
+   "Q72368": "Liánovec jedlý (Gnetum gnemon)"
+  }
+ },
+ {
+  "id": "Q149321#1",
+  "species": "Píchoš Altensteinův",
+  "latin": "Encephalartos altensteinii",
+  "text": "Tento druh má pichlavé listy, které mohou být dlouhé až dva metry.",
+  "quote": "Pichlavé listy mohou být až 1,5 – 2 metry dlouhé a až 35 cm široké.",
+  "claimed_false_for": {
+   "Q162784": "Chvojník dvouklasý (Ephedra distachya)",
+   "Q43284": "Jinan dvoulaločný (Ginkgo biloba)",
+   "Q72368": "Liánovec jedlý (Gnetum gnemon)"
+  }
+ },
+ {
+  "id": "Q149321#2",
+  "species": "Píchoš Altensteinův",
+  "latin": "Encephalartos altensteinii",
+  "text": "Tento druh roste přirozeně jen v jedné jihoafrické provincii.",
+  "quote": "Druh je endemický v provincii Východní Kapsko, kde roste v přímořských oblastech",
+  "claimed_false_for": {
+   "Q156926": "Welwitschie podivná (Welwitschia mirabilis)",
+   "Q162784": "Chvojník dvouklasý (Ephedra distachya)",
+   "Q43284": "Jinan dvoulaločný (Ginkgo biloba)",
+   "Q72368": "Liánovec jedlý (Gnetum gnemon)"
+  }
+ },
+ {
+  "id": "Q149321#3",
+  "species": "Píchoš Altensteinův",
+  "latin": "Encephalartos altensteinii",
+  "text": "Tento druh se dožívá stovek let.",
+  "quote": "Stovky let staré stromy tohoto cykasu lze najít v belgické Národní botanické",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q150991#0",
+  "species": "Stangerie plstnatá",
+  "latin": "Stangeria eriopus",
+  "text": "Vlasy na řapíku dávají tomuto druhu jméno.",
+  "quote": "Řapík je 10-80cm dlouhý, u kmene široký a pokrytý vlasy, které této rostlině daly jméno.",
+  "claimed_false_for": {
+   "Q156926": "Welwitschie podivná (Welwitschia mirabilis)",
+   "Q162784": "Chvojník dvouklasý (Ephedra distachya)",
+   "Q43284": "Jinan dvoulaločný (Ginkgo biloba)",
+   "Q72368": "Liánovec jedlý (Gnetum gnemon)"
+  }
+ },
+ {
+  "id": "Q150991#1",
+  "species": "Stangerie plstnatá",
+  "latin": "Stangeria eriopus",
+  "text": "Tento druh dospívá v 5 až 7 letech.",
+  "quote": "Stangerie plstnatá dospívá v 5-7 letech",
+  "claimed_false_for": {
+   "Q156926": "Welwitschie podivná (Welwitschia mirabilis)",
+   "Q43284": "Jinan dvoulaločný (Ginkgo biloba)"
+  }
+ },
+ {
+  "id": "Q156926#1",
+  "species": "Welwitschie podivná",
+  "latin": "Welwitschia mirabilis",
+  "text": "Tento druh má jen dva listy, které stále dorůstají.",
+  "quote": "se dvěma stále dorůstajícími listy",
+  "claimed_false_for": {
+   "Q144477": "Mikrocykas krásný (Microcycas calocoma)",
+   "Q149321": "Píchoš Altensteinův (Encephalartos altensteinii)",
+   "Q150991": "Stangerie plstnatá (Stangeria eriopus)",
+   "Q161198": "Cykas indický (Cycas circinalis)",
+   "Q161517": "Cykas japonský (Cycas revoluta)",
+   "Q162784": "Chvojník dvouklasý (Ephedra distachya)",
+   "Q43284": "Jinan dvoulaločný (Ginkgo biloba)",
+   "Q72368": "Liánovec jedlý (Gnetum gnemon)",
+   "Q924592": "Zamie otrubnatá (Zamia furfuracea)"
+  }
+ },
+ {
+  "id": "Q156926#2",
+  "species": "Welwitschie podivná",
+  "latin": "Welwitschia mirabilis",
+  "text": "Tento druh roste jen na pobřeží Namibie a Angoly.",
+  "quote": "Je to endemit Namibské pouště na západním Atlantickém pobřeží Namibie a Angoly v jižní Africe.",
+  "claimed_false_for": {
+   "Q144477": "Mikrocykas krásný (Microcycas calocoma)",
+   "Q149321": "Píchoš Altensteinův (Encephalartos altensteinii)",
+   "Q150991": "Stangerie plstnatá (Stangeria eriopus)",
+   "Q161198": "Cykas indický (Cycas circinalis)",
+   "Q161517": "Cykas japonský (Cycas revoluta)",
+   "Q162784": "Chvojník dvouklasý (Ephedra distachya)",
+   "Q43284": "Jinan dvoulaločný (Ginkgo biloba)",
+   "Q72368": "Liánovec jedlý (Gnetum gnemon)",
+   "Q924592": "Zamie otrubnatá (Zamia furfuracea)"
+  }
+ },
+ {
+  "id": "Q156926#3",
+  "species": "Welwitschie podivná",
+  "latin": "Welwitschia mirabilis",
+  "text": "Tento druh získává část vody z mlhy svými listy.",
+  "quote": "Část potřebné vody získávají rostliny svými listy z pravidelných mlh",
+  "claimed_false_for": {
+   "Q144477": "Mikrocykas krásný (Microcycas calocoma)",
+   "Q149321": "Píchoš Altensteinův (Encephalartos altensteinii)",
+   "Q161198": "Cykas indický (Cycas circinalis)",
+   "Q161517": "Cykas japonský (Cycas revoluta)",
+   "Q43284": "Jinan dvoulaločný (Ginkgo biloba)",
+   "Q72368": "Liánovec jedlý (Gnetum gnemon)",
+   "Q924592": "Zamie otrubnatá (Zamia furfuracea)"
+  }
+ },
+ {
+  "id": "Q156926#4",
+  "species": "Welwitschie podivná",
+  "latin": "Welwitschia mirabilis",
+  "text": "Opylovači tohoto druhu jsou hlavně ploštice, vosy a brouci.",
+  "quote": "převážně ploštice (Probergrothius (= Odontopus) sexpunctalis) z čeledi ruměnicovitých a různé vosy, brouci, mouchy i motýli",
+  "claimed_false_for": {
+   "Q43284": "Jinan dvoulaločný (Ginkgo biloba)"
+  }
+ },
+ {
+  "id": "Q156926#5",
+  "species": "Welwitschie podivná",
+  "latin": "Welwitschia mirabilis",
+  "text": "Tento druh šíří semena větrem, mají blanitá křídla.",
+  "quote": "křídly, dosahující velikosti 35 × 25 mm, jsou roznášena větrem.",
+  "claimed_false_for": {
+   "Q144477": "Mikrocykas krásný (Microcycas calocoma)",
+   "Q149321": "Píchoš Altensteinův (Encephalartos altensteinii)",
+   "Q150991": "Stangerie plstnatá (Stangeria eriopus)",
+   "Q161198": "Cykas indický (Cycas circinalis)",
+   "Q161517": "Cykas japonský (Cycas revoluta)",
+   "Q43284": "Jinan dvoulaločný (Ginkgo biloba)",
+   "Q72368": "Liánovec jedlý (Gnetum gnemon)",
+   "Q924592": "Zamie otrubnatá (Zamia furfuracea)"
+  }
+ },
+ {
+  "id": "Q161198#1",
+  "species": "Cykas indický",
+  "latin": "Cycas circinalis",
+  "text": "Nejstarší exemplář v Česku je asi 200 let starý.",
+  "quote": "Nejstarším, největším a nejdražším cykasem v ČR je přibližně 200 let starý",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q161517#0",
+  "species": "Cykas japonský",
+  "latin": "Cycas revoluta",
+  "text": "Dožívá se v zahradách odhadem přes 1100 let.",
+  "quote": "Délka života starých cykasů v japonských zahradách se odhaduje na více než 1100 let.",
+  "claimed_false_for": {
+   "Q162784": "Chvojník dvouklasý (Ephedra distachya)",
+   "Q72368": "Liánovec jedlý (Gnetum gnemon)"
+  }
+ },
+ {
+  "id": "Q161517#1",
+  "species": "Cykas japonský",
+  "latin": "Cycas revoluta",
+  "text": "Tento druh vypadá stejně u samce i u samice.",
+  "quote": "Rozeznat od sebe samce a samici cykasu bez šišek není možné, rostliny se vzhledově neliší.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q161517#3",
+  "species": "Cykas japonský",
+  "latin": "Cycas revoluta",
+  "text": "Roste na slunných svazích s vápencem pod zemí.",
+  "quote": "Cykas japonský roste na svazích s vápencovým podkladem, plně vystaven slunci.",
+  "claimed_false_for": {
+   "Q162784": "Chvojník dvouklasý (Ephedra distachya)",
+   "Q72368": "Liánovec jedlý (Gnetum gnemon)"
+  }
+ },
+ {
+  "id": "Q162784#0",
+  "species": "Chvojník dvouklasý",
+  "latin": "Ephedra distachya",
+  "text": "Tento druh zůstává zelený celý rok.",
+  "quote": "je stálezelená nahosemenná rostlina",
+  "claimed_false_for": {
+   "Q43284": "Jinan dvoulaločný (Ginkgo biloba)"
+  }
+ },
+ {
+  "id": "Q162784#1",
+  "species": "Chvojník dvouklasý",
+  "latin": "Ephedra distachya",
+  "text": "Plody jsou červené a dozrávají na podzim.",
+  "quote": "Nepravé bobulovité plody jsou červené, mají v dužnatém obalu jedno semeno a jsou shloučené do šišticovitého plodenství, dozrávají na podzim.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q43284#0",
+  "species": "Jinan dvoulaločný",
+  "latin": "Ginkgo biloba",
+  "text": "Tento druh se dožívá velmi vysokého věku, až několika tisíc let.",
+  "quote": "Je to dlouhověký strom, nejstarší doložený jinan je starý okolo 4700 let",
+  "claimed_false_for": {
+   "Q150991": "Stangerie plstnatá (Stangeria eriopus)",
+   "Q162784": "Chvojník dvouklasý (Ephedra distachya)",
+   "Q72368": "Liánovec jedlý (Gnetum gnemon)",
+   "Q924592": "Zamie otrubnatá (Zamia furfuracea)"
+  }
+ },
+ {
+  "id": "Q43284#1",
+  "species": "Jinan dvoulaločný",
+  "latin": "Ginkgo biloba",
+  "text": "Tento druh má listy s dvěma laloky a žilkami jako vějíř.",
+  "quote": "Listová čepel je plochá, klínovitá, rozdělená zářezem na dva laloky, s vějířovitou žilnatinou",
+  "claimed_false_for": {
+   "Q144477": "Mikrocykas krásný (Microcycas calocoma)",
+   "Q149321": "Píchoš Altensteinův (Encephalartos altensteinii)",
+   "Q150991": "Stangerie plstnatá (Stangeria eriopus)",
+   "Q156926": "Welwitschie podivná (Welwitschia mirabilis)",
+   "Q161198": "Cykas indický (Cycas circinalis)",
+   "Q161517": "Cykas japonský (Cycas revoluta)",
+   "Q162784": "Chvojník dvouklasý (Ephedra distachya)",
+   "Q72368": "Liánovec jedlý (Gnetum gnemon)",
+   "Q924592": "Zamie otrubnatá (Zamia furfuracea)"
+  }
+ },
+ {
+  "id": "Q43284#2",
+  "species": "Jinan dvoulaločný",
+  "latin": "Ginkgo biloba",
+  "text": "Tento druh má zvlášť samčí a zvlášť samičí stromy.",
+  "quote": "Jinan je dvoudomý, to znamená, že jeden strom má samčí rozmnožovací orgány a některý druhý zase samičí",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q43284#4",
+  "species": "Jinan dvoulaločný",
+  "latin": "Ginkgo biloba",
+  "text": "Tento druh roste pomalu, asi 30 cm za rok.",
+  "quote": "Roste poměrně pomalu, asi 30 cm za rok",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q72368#0",
+  "species": "Liánovec jedlý",
+  "latin": "Gnetum gnemon",
+  "text": "Roste nejlépe v teplém klimatu, kde hodně prší.",
+  "quote": "Roste nejlépe v tropickém klimatu s dostatkem srážek",
+  "claimed_false_for": {
+   "Q156926": "Welwitschie podivná (Welwitschia mirabilis)",
+   "Q162784": "Chvojník dvouklasý (Ephedra distachya)"
+  }
+ },
+ {
+  "id": "Q72368#1",
+  "species": "Liánovec jedlý",
+  "latin": "Gnetum gnemon",
+  "text": "Dožívá se 100 i více let.",
+  "quote": "Životnost stromů je 100 i více let.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q72368#2",
+  "species": "Liánovec jedlý",
+  "latin": "Gnetum gnemon",
+  "text": "Žije ve spolupráci s houbou, která mu dodává fosfor.",
+  "quote": "Žije ve vzájemné symbióze s houbou (Scleroderma sinnamariense), která rostlině poskytuje fosfor a další stopové prvky.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q72368#3",
+  "species": "Liánovec jedlý",
+  "latin": "Gnetum gnemon",
+  "text": "Většina jedinců je buď samčí, nebo samičí.",
+  "quote": "Jsou to ve většině dvoudomé stromy nebo keře, jeden je samčí a druhý samičí",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q924592#0",
+  "species": "Zamie otrubnatá",
+  "latin": "Zamia furfuracea",
+  "text": "Tento druh obvykle dorůstá do výšky kolem 1,3 metru.",
+  "quote": "Rostlina včetně listů obvykle dorůstá výšky kolem 1,3 m a šířky kolem 2 m.",
+  "claimed_false_for": {
+   "Q43284": "Jinan dvoulaločný (Ginkgo biloba)",
+   "Q72368": "Liánovec jedlý (Gnetum gnemon)"
+  }
+ },
+ {
+  "id": "Q924592#1",
+  "species": "Zamie otrubnatá",
+  "latin": "Zamia furfuracea",
+  "text": "Tento druh má podlouhlá a jasně červená semena.",
+  "quote": "Semena jsou podlouhlá, jasně červená.",
+  "claimed_false_for": {
+   "Q43284": "Jinan dvoulaločný (Ginkgo biloba)"
+  }
+ },
+ {
+  "id": "Q924592#2",
+  "species": "Zamie otrubnatá",
+  "latin": "Zamia furfuracea",
+  "text": "Opyluje ho mexický brouk, který patří mezi nosatce.",
+  "quote": "Opylení zajišťuje mexický nosatcovitý brouk",
+  "claimed_false_for": {
+   "Q156926": "Welwitschie podivná (Welwitschia mirabilis)",
+   "Q162784": "Chvojník dvouklasý (Ephedra distachya)",
+   "Q43284": "Jinan dvoulaločný (Ginkgo biloba)",
+   "Q72368": "Liánovec jedlý (Gnetum gnemon)"
+  }
+ },
+ {
+  "id": "Q924592#3",
+  "species": "Zamie otrubnatá",
+  "latin": "Zamia furfuracea",
+  "text": "Mladé rostliny rostou velmi pomalu, později rychleji.",
+  "quote": "Zamlada roste velmi pomalu, ale růst se zrychluje po dosažení zralosti kmene.",
+  "claimed_false_for": {}
+ }
+]

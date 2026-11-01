@@ -1,0 +1,31 @@
+{"drop_facts": [
+{"id": "Q577924#3", "why": "vynechává podmínku: platí jen pro oázy severní Afriky, druh žije v mnoha jiných biotopech"},
+{"id": "Q586433#1", "why": "přidává slovo „hlavně“, které citace nemá"},
+{"id": "Q591268#0", "why": "sporný údaj: v zajetí se druh dožívá výrazně déle než 15 let"},
+{"id": "Q591493#0", "why": "sporné: studie uvádějí i hlodavce, netopýry a u mláďat ještěrky; citace je z chovatelského kontextu"},
+{"id": "Q596348#0", "why": "sporná horní mez: novější zdroje uvádějí u samic i přes 55 cm (kolem 60 cm)"},
+{"id": "Q599571#2", "why": "sporná horní mez 4000 m: odborné zdroje uvádějí výskyt zhruba do 3000 m"},
+{"id": "Q612564#0", "why": "„uletět“ prozrazuje název dráček létavý a navíc jde o klouzavý let, ne o létání"},
+{"id": "Q612564#2", "why": "zastaralé a zavádějící: druh se uvádí i z dalších oblastí jihovýchodní Asie"},
+{"id": "Q620592#1", "why": "neměřitelné „elegantních“ a „svine“ posouvá význam citace „poskládáno přes větev“"},
+{"id": "Q622805#1", "why": "nepodložená délka života na svobodě, doložené údaje jsou hlavně ze zajetí"},
+{"id": "Q646124#3", "why": "sporný a nepravděpodobně vysoký počet mláďat u tak malého hada"}
+], "drop_pairs": [
+{"id": "Q586433#0", "species": "Q215388"},
+{"id": "Q586433#0", "species": "Q2442553"},
+{"id": "Q586433#0", "species": "Q280780"},
+{"id": "Q591268#1", "species": "Q1954364"},
+{"id": "Q591268#1", "species": "Q732959"},
+{"id": "Q591268#1", "species": "Q586433"},
+{"id": "Q591268#4", "species": "Q41669"},
+{"id": "Q599571#1", "species": "Q2926152"},
+{"id": "Q599571#3", "species": "Q135677"},
+{"id": "Q599571#3", "species": "Q2447262"},
+{"id": "Q599571#3", "species": "Q41165"},
+{"id": "Q599571#3", "species": "Q904780"},
+{"id": "Q622805#0", "species": "Q730112"},
+{"id": "Q631782#1", "species": "Q170713"},
+{"id": "Q642538#1", "species": "Q272582"},
+{"id": "Q642538#1", "species": "Q504839"},
+{"id": "Q646124#0", "species": "Q256860"}
+]}

@@ -1,0 +1,76 @@
+[
+ {
+  "id": "Q11308062#0",
+  "species": "Šurpek úhledný",
+  "latin": "Orthotrichum speciosum",
+  "text": "Při suchu se jeho listy přitisknou ke stonku.",
+  "quote": "Za vlhka stojí vzpřímeně až mírně zpětně zahnutě, za sucha listy přiléhají k lodyžce.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q11308062#1",
+  "species": "Šurpek úhledný",
+  "latin": "Orthotrichum speciosum",
+  "text": "Roste hlavně na stromech, často na listnatých.",
+  "quote": "Druh roste převážně epifyticky na stromech v otevřené krajině i v lesích, zejména na listnatých dřevinách, vzácně na smrku.",
+  "claimed_false_for": {
+   "Q11879787": "Štěrbovka sněžná (Andreaea nivalis)",
+   "Q1572669": "Srpnatka fermežová (Hamatocaulis vernicosus)",
+   "Q1752834": "Rohozub nachový (Ceratodon purpureus)",
+   "Q292385": "Rašeliník Warnstorfův (Sphagnum warnstorfii)",
+   "Q325331": "Děrkavka poduškovitá (Grimmia pulvinata)",
+   "Q867250": "Rašeliník kostrbatý (Sphagnum squarrosum)"
+  }
+ },
+ {
+  "id": "Q1572669#0",
+  "species": "Srpnatka fermežová",
+  "latin": "Hamatocaulis vernicosus",
+  "text": "Roste na trvale mokrých místech.",
+  "quote": "Druh roste v trvale zamokřených otevřených místech",
+  "claimed_false_for": {
+   "Q137867": "Kostrbatec tříkoutý (Rhytidiadelphus triquetrus)",
+   "Q1404902": "Baňatka obecná (Brachythecium rutabulum)",
+   "Q149101": "Rokytník skvělý (Hylocomium splendens)",
+   "Q149109": "Kostrbatec zelený (Rhytidiadelphus squarrosus)",
+   "Q1646440": "Travník Schreberův (Pleurozium schreberi)",
+   "Q179213": "Dřípovičník zpeřený (Schistostega pennata)",
+   "Q245867": "Rokyt cypřišovitý (Hypnum cupressiforme)"
+  }
+ },
+ {
+  "id": "Q1572669#1",
+  "species": "Srpnatka fermežová",
+  "latin": "Hamatocaulis vernicosus",
+  "text": "Nemá kořenová vlákna, kterými by se držel v zemi.",
+  "quote": "Zajímavostí je, že nemá rhizoidy, kterými by byl ukotven k zemi.",
+  "claimed_false_for": {
+   "Q137867": "Kostrbatec tříkoutý (Rhytidiadelphus triquetrus)",
+   "Q1404902": "Baňatka obecná (Brachythecium rutabulum)",
+   "Q149109": "Kostrbatec zelený (Rhytidiadelphus squarrosus)",
+   "Q1646440": "Travník Schreberův (Pleurozium schreberi)",
+   "Q178025": "Ploník obecný (Polytrichum commune)",
+   "Q179213": "Dřípovičník zpeřený (Schistostega pennata)",
+   "Q245867": "Rokyt cypřišovitý (Hypnum cupressiforme)"
+  }
+ },
+ {
+  "id": "Q1572669#2",
+  "species": "Srpnatka fermežová",
+  "latin": "Hamatocaulis vernicosus",
+  "text": "Odlomená větvička může vyrůst v novou rostlinu.",
+  "quote": "Pokud se odlomí boční větvička a dopadne do vhodného místa, je schopna pokračovat v růstu jako samostatná rostlinka.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1572669#3",
+  "species": "Srpnatka fermežová",
+  "latin": "Hamatocaulis vernicosus",
+  "text": "Stonky bývají dlouhé 8 až 20 centimetrů.",
+  "quote": "Lodyžky vystoupavé až vzpřímené, 8–20 (– 30) cm dlouhé",
+  "claimed_false_for": {
+   "Q1404902": "Baňatka obecná (Brachythecium rutabulum)",
+   "Q179213": "Dřípovičník zpeřený (Schistostega pennata)"
+  }
+ }
+]

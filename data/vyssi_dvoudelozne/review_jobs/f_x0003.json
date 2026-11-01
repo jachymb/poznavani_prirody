@@ -1,0 +1,502 @@
+[
+ {
+  "id": "Q160459#5",
+  "species": "Pryšec tuhý",
+  "latin": "Euphorbia stricta",
+  "text": "Obsahuje toxické látky v semenech.",
+  "quote": "obsahují toxické kyanogenní sloučeniny",
+  "claimed_false_for": {
+   "Q157154": "Jitrocel větší (Plantago major)",
+   "Q164738": "Kakost lesklý (Geranium lucidum)",
+   "Q1758702": "Čistec hlíznatý (Stachys affinis)",
+   "Q2166505": "Podranka dlouhoplodá (Podranea ricasoliana)"
+  }
+ },
+ {
+  "id": "Q161045#2",
+  "species": "Sasanka pryskyřníkovitá",
+  "latin": "Anemone ranunculoides",
+  "text": "Tento druh je jedovatý.",
+  "quote": "Čerstvě utržená rostlina je jedovatá.",
+  "claimed_false_for": {
+   "Q153343": "Sléz přehlížený (Malva neglecta)",
+   "Q157518": "Vrba křehká (Salix fragilis)"
+  }
+ },
+ {
+  "id": "Q161050#4",
+  "species": "Jaterník podléška",
+  "latin": "Hepatica nobilis",
+  "text": "Tento druh je jen velmi slabě jedovatý.",
+  "quote": "Jaterník podléška je jen velmi slabě jedovatý",
+  "claimed_false_for": {
+   "Q164439": "Ostrožka zahradní (Consolida ajacis)",
+   "Q683404": "Pleskanka mexická (Argemone mexicana)",
+   "Q948690": "Plchoplod otevřený (Calotropis procera)"
+  }
+ },
+ {
+  "id": "Q161056#4",
+  "species": "Sasanka hajní",
+  "latin": "Anemone nemorosa",
+  "text": "Tento druh je jedovatý.",
+  "quote": "Čerstvě utržená rostlina je jedovatá.",
+  "claimed_false_for": {
+   "Q108684": "Violka vonná (Viola odorata)",
+   "Q1275024": "Zlatice převislá (Forsythia suspensa)",
+   "Q164780": "Rozrazil ožankovitý (Veronica teucrium)",
+   "Q18042564": "Pitulník horský (Galeobdolon montanum)",
+   "Q18201508": "Amherstie sličná (Amherstia nobilis)",
+   "Q30056": "Mrkev obecná (Daucus carota)"
+  }
+ },
+ {
+  "id": "Q161056#5",
+  "species": "Sasanka hajní",
+  "latin": "Anemone nemorosa",
+  "text": "Obsahuje jedovatou látku protoanemonin.",
+  "quote": "Hlavní jedovatou složkou je protoanemonin",
+  "claimed_false_for": {
+   "Q108684": "Violka vonná (Viola odorata)",
+   "Q1275024": "Zlatice převislá (Forsythia suspensa)",
+   "Q164780": "Rozrazil ožankovitý (Veronica teucrium)",
+   "Q18042564": "Pitulník horský (Galeobdolon montanum)",
+   "Q18201508": "Amherstie sličná (Amherstia nobilis)",
+   "Q30056": "Mrkev obecná (Daucus carota)"
+  }
+ },
+ {
+  "id": "Q161058#4",
+  "species": "Blín černý",
+  "latin": "Hyoscyamus niger",
+  "text": "V minulosti vyvolával vize.",
+  "quote": "vize vyvolané různou přípravou blínu",
+  "claimed_false_for": {
+   "Q1431626": "Lakušník okrouhlý (Ranunculus circinatus)",
+   "Q14756456": "Zvonek moravský (Campanula moravica)",
+   "Q159652": "Zimolez vonný (Lonicera fragrantissima)",
+   "Q159924": "Zdravínek jarní (Odontites vernus)",
+   "Q160072": "Violka vyvýšená (Viola elatior)",
+   "Q163578": "Vrba bylinná (Salix herbacea)",
+   "Q164942": "Dřípatka horská (Soldanella montana)",
+   "Q385259": "Hadí mord španělský (Scorzonera hispanica)"
+  }
+ },
+ {
+  "id": "Q161058#5",
+  "species": "Blín černý",
+  "latin": "Hyoscyamus niger",
+  "text": "Obsahuje jedovaté látky ve všech částech rostliny.",
+  "quote": "Všechny části rostliny obsahují jedovaté alkaloidy a glykosidy.",
+  "claimed_false_for": {
+   "Q1560642": "Dvouzubec černoplodý (Bidens frondosa)",
+   "Q157513": "Kyprej vrbice (Lythrum salicaria)",
+   "Q158590": "Vrba košíkářská (Salix viminalis)",
+   "Q159499": "Růže měkká (Rosa villosa)",
+   "Q159711": "Rozrazil drchničkovitý (Veronica anagallis-aquatica)",
+   "Q161924": "Máta dlouholistá (Mentha longifolia)",
+   "Q162728": "Javor tatarský (Acer tataricum)"
+  }
+ },
+ {
+  "id": "Q161139#4",
+  "species": "Šanta kočičí",
+  "latin": "Nepeta cataria",
+  "text": "Obsahuje halucinogenní látky, ale jen v malém množství.",
+  "quote": "Jelikož obsahuje halucinogenní látky (byť v malé míře)",
+  "claimed_false_for": {
+   "Q1560642": "Dvouzubec černoplodý (Bidens frondosa)",
+   "Q157513": "Kyprej vrbice (Lythrum salicaria)",
+   "Q158590": "Vrba košíkářská (Salix viminalis)",
+   "Q159499": "Růže měkká (Rosa villosa)",
+   "Q159711": "Rozrazil drchničkovitý (Veronica anagallis-aquatica)",
+   "Q161924": "Máta dlouholistá (Mentha longifolia)",
+   "Q162728": "Javor tatarský (Acer tataricum)"
+  }
+ },
+ {
+  "id": "Q161171#4",
+  "species": "Srdcovka nádherná",
+  "latin": "Lamprocapnos spectabilis",
+  "text": "Obsahuje v listech a lodyhách jedovaté alkaloidy.",
+  "quote": "Lodyhy i listy obsahují toxické izochinolinové alkaloidy protopin a sanguinarin",
+  "claimed_false_for": {
+   "Q153343": "Sléz přehlížený (Malva neglecta)",
+   "Q157518": "Vrba křehká (Salix fragilis)"
+  }
+ },
+ {
+  "id": "Q161171#5",
+  "species": "Srdcovka nádherná",
+  "latin": "Lamprocapnos spectabilis",
+  "text": "Po požití způsobuje lehkou otravu, nevolnost a zvracení.",
+  "quote": "Po požití způsobují lehkou otravu projevující se nevolností a zvracením.",
+  "claimed_false_for": {
+   "Q14756456": "Zvonek moravský (Campanula moravica)",
+   "Q160072": "Violka vyvýšená (Viola elatior)",
+   "Q385259": "Hadí mord španělský (Scorzonera hispanica)"
+  }
+ },
+ {
+  "id": "Q161235#2",
+  "species": "Polej obecná",
+  "latin": "Mentha pulegium",
+  "text": "Tento druh je vysoce jedovatý.",
+  "quote": "I když je polej vysoce jedovatá",
+  "claimed_false_for": {
+   "Q15602001": "Pcháč žlutoostenný (Cirsium brachycephalum)",
+   "Q159079": "Všivec bahenní (Pedicularis palustris)",
+   "Q161369": "Jetel prostřední (Trifolium medium)",
+   "Q17732128": "Lagotka uralská (Lagotis uralensis)"
+  }
+ },
+ {
+  "id": "Q161338#4",
+  "species": "Pryšec srpovitý",
+  "latin": "Euphorbia falcata",
+  "text": "Obsahuje toxické látky, které mohou poškodit sliznici.",
+  "quote": "bylina obsahuje pro lidi toxické látky, diterpeny a triterpeny, jež mohou poškodit sliznici",
+  "claimed_false_for": {
+   "Q1152721": "Krásnoplodka japonská (Callicarpa japonica)",
+   "Q147843": "Vrbina obecná (Lysimachia vulgaris)",
+   "Q21110": "Máčka přímořská (Eryngium maritimum)",
+   "Q5527672": "Sněžníček chloupkatý (Gaultheria hispidula)"
+  }
+ },
+ {
+  "id": "Q161364#6",
+  "species": "Javor červený",
+  "latin": "Acer rubrum",
+  "text": "Tento druh je jedovatý pro koně, když jsou jeho listy zvadlé.",
+  "quote": "Listy červeného javoru, když jsou zvadlé nebo suché, jsou toxické pro koně.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q161372#4",
+  "species": "Lupina bílá",
+  "latin": "Lupinus albus",
+  "text": "Obsahuje v semenech látky, které mohou poškodit nervy.",
+  "quote": "Neupravená semena lupiny obsahují neurotoxické aminokyseliny",
+  "claimed_false_for": {
+   "Q15602001": "Pcháč žlutoostenný (Cirsium brachycephalum)",
+   "Q159079": "Všivec bahenní (Pedicularis palustris)",
+   "Q161369": "Jetel prostřední (Trifolium medium)",
+   "Q17732128": "Lagotka uralská (Lagotis uralensis)"
+  }
+ },
+ {
+  "id": "Q161379#4",
+  "species": "Brslen evropský",
+  "latin": "Euonymus europaeus",
+  "text": "Tento druh je smrtelně jedovatý.",
+  "quote": "Je to rostlina smrtelně jedovatá.",
+  "claimed_false_for": {
+   "Q1334892": "Kdoulovec čínský (Pseudocydonia sinensis)",
+   "Q159400": "Rozrazil trojklaný (Veronica triphyllos)",
+   "Q29488": "Zmarlika Jidášova (Cercis siliquastrum)"
+  }
+ },
+ {
+  "id": "Q161379#5",
+  "species": "Brslen evropský",
+  "latin": "Euonymus europaeus",
+  "text": "Obsahuje jedovatý glykosid, který je v kůře, plodech a větvích.",
+  "quote": "Obsahuje jedovatý glykosid evonymin, který je obsažen především v kůře, plodech a větvích.",
+  "claimed_false_for": {
+   "Q14756456": "Zvonek moravský (Campanula moravica)",
+   "Q160072": "Violka vyvýšená (Viola elatior)",
+   "Q385259": "Hadí mord španělský (Scorzonera hispanica)"
+  }
+ },
+ {
+  "id": "Q161406#4",
+  "species": "Ruj vlasatá",
+  "latin": "Cotinus coggygria",
+  "text": "Tento druh je jedovatý.",
+  "quote": "Ruj vlasatá je jedovatá a citlivým jedincům může způsobit podráždění pokožky",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q161418#4",
+  "species": "Lýkovec vavřínový",
+  "latin": "Daphne laureola",
+  "text": "Tento druh je jedovatý pro lidi a některá zvířata.",
+  "quote": "je pro lidi a některá zvířata jedovatý",
+  "claimed_false_for": {
+   "Q1537333": "Astřička novobelgická (Symphyotrichum novi-belgii)",
+   "Q159643": "Křez zední (Diplotaxis muralis)",
+   "Q161413": "Prvosenka nejmenší (Primula minima)",
+   "Q162905": "Vítod obecný (Polygala vulgaris)",
+   "Q2003088": "Topol úzkolistý (Populus angustifolia)",
+   "Q572652": "Aldrovandka měchýřkatá (Aldrovanda vesiculosa)",
+   "Q803769": "Šišák bajkalský (Scutellaria baicalensis)"
+  }
+ },
+ {
+  "id": "Q161556#4",
+  "species": "Dymnivka dutá",
+  "latin": "Corydalis cava",
+  "text": "Obsahuje látky, které působí na nervovou soustavu.",
+  "quote": "Působí na ústřední nervovou soustavu",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q161556#5",
+  "species": "Dymnivka dutá",
+  "latin": "Corydalis cava",
+  "text": "Tento druh je jedovatý, zejména jeho hlíza.",
+  "quote": "Celá rostlina, zejména hlíza, je jedovatá",
+  "claimed_false_for": {
+   "Q156918": "Vrba bílá (Salix alba)",
+   "Q571422": "Pabuk jižní (Nothofagus antarctica)"
+  }
+ },
+ {
+  "id": "Q161636#4",
+  "species": "Upolín evropský",
+  "latin": "Trollius europaeus",
+  "text": "Tento druh je jedovatý pro většinu savců.",
+  "quote": "Rostlina je pro většinu savců jedovatá",
+  "claimed_false_for": {
+   "Q14756456": "Zvonek moravský (Campanula moravica)",
+   "Q160072": "Violka vyvýšená (Viola elatior)",
+   "Q385259": "Hadí mord španělský (Scorzonera hispanica)"
+  }
+ },
+ {
+  "id": "Q161777#4",
+  "species": "Barvínek menší",
+  "latin": "Vinca minor",
+  "text": "Tento druh je pro lidi lehce jedovatý.",
+  "quote": "Vzhledem k obsaženým látkám je rostlina považována pro lidi za lehce toxickou",
+  "claimed_false_for": {
+   "Q14756456": "Zvonek moravský (Campanula moravica)",
+   "Q160072": "Violka vyvýšená (Viola elatior)",
+   "Q385259": "Hadí mord španělský (Scorzonera hispanica)"
+  }
+ },
+ {
+  "id": "Q161780#2",
+  "species": "Mochyně židovská",
+  "latin": "Alkekengi officinarum",
+  "text": "Obsahuje solanin, jehož nezralé plody mohou dětem způsobit průjem.",
+  "quote": "Nezralé plody obsahují dostatečné množství solaninu, aby vyvolaly gastroenteritidy a průjem u dětí.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q161780#3",
+  "species": "Mochyně židovská",
+  "latin": "Alkekengi officinarum",
+  "text": "Má jedovaté části, protože obsahuje solanin.",
+  "quote": "Zbytek rostliny je pro vysoký obsah solaninu jedovatý.",
+  "claimed_false_for": {
+   "Q157154": "Jitrocel větší (Plantago major)",
+   "Q164738": "Kakost lesklý (Geranium lucidum)",
+   "Q1758702": "Čistec hlíznatý (Stachys affinis)",
+   "Q2166505": "Podranka dlouhoplodá (Podranea ricasoliana)"
+  }
+ },
+ {
+  "id": "Q161794#4",
+  "species": "Hlodáš evropský",
+  "latin": "Ulex europaeus",
+  "text": "Má jedovatá semena, která obsahují jed cytisin.",
+  "quote": "Semena obsahují jedovatý alkaloid cytisin",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q161867#4",
+  "species": "Penízek rolní",
+  "latin": "Thlaspi arvense",
+  "text": "Tento druh je pro savce jedovatý.",
+  "quote": "Uváděn jako toxický pro savce.",
+  "claimed_false_for": {
+   "Q15602001": "Pcháč žlutoostenný (Cirsium brachycephalum)",
+   "Q159079": "Všivec bahenní (Pedicularis palustris)",
+   "Q17732128": "Lagotka uralská (Lagotis uralensis)"
+  }
+ },
+ {
+  "id": "Q162093#4",
+  "species": "Hrachor setý",
+  "latin": "Lathyrus sativus",
+  "text": "Obsahuje neurotoxickou látku ODAP, která při velkém množství poškozuje mozek.",
+  "quote": "Nemoc je způsobena tzv. lathyrogeny, neurotoxickými nebílkovinnými aminokyselinami (ODAP) přítomnými v semenech všech hrachorů.",
+  "claimed_false_for": {
+   "Q1334892": "Kdoulovec čínský (Pseudocydonia sinensis)",
+   "Q159400": "Rozrazil trojklaný (Veronica triphyllos)",
+   "Q29488": "Zmarlika Jidášova (Cercis siliquastrum)"
+  }
+ },
+ {
+  "id": "Q162171#2",
+  "species": "Zederach hladký",
+  "latin": "Melia azedarach",
+  "text": "Obsahuje v listech neurotoxiny, které jsou jedovaté.",
+  "quote": "Jeho listy obsahují neurotoxiny",
+  "claimed_false_for": {
+   "Q1445326": "Franklinie americká (Franklinia alatamaha)",
+   "Q1475887": "Pomněnkovec velkolistý (Brunnera macrophylla)",
+   "Q161382": "Lípa stříbrná (Tilia tomentosa)",
+   "Q4112855": "Dub černý (Quercus nigra)"
+  }
+ },
+ {
+  "id": "Q162171#3",
+  "species": "Zederach hladký",
+  "latin": "Melia azedarach",
+  "text": "Má plody, které jsou pro člověka jedovaté.",
+  "quote": "Vlastní plody jsou pro lidi toxické",
+  "claimed_false_for": {
+   "Q1560642": "Dvouzubec černoplodý (Bidens frondosa)",
+   "Q157513": "Kyprej vrbice (Lythrum salicaria)",
+   "Q158590": "Vrba košíkářská (Salix viminalis)",
+   "Q159499": "Růže měkká (Rosa villosa)",
+   "Q159711": "Rozrazil drchničkovitý (Veronica anagallis-aquatica)",
+   "Q161924": "Máta dlouholistá (Mentha longifolia)",
+   "Q162728": "Javor tatarský (Acer tataricum)"
+  }
+ },
+ {
+  "id": "Q162544#2",
+  "species": "Popenec obecný",
+  "latin": "Glechoma hederacea",
+  "text": "Obsahuje glechomin, který může být pro koně jedovatý.",
+  "quote": "Hořčině glechomin se připisují toxické účinky na koně, proto se rostlina někdy označuje jako jedovatá.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q162760#4",
+  "species": "Zimolez obecný",
+  "latin": "Lonicera xylosteum",
+  "text": "Má bobule, které jsou při požití mírně jedovaté.",
+  "quote": "jeho bobule jsou při požití mírně jedovaté",
+  "claimed_false_for": {
+   "Q132145": "Kolopejka vděčná (Kalanchoe blossfeldiana)",
+   "Q14756456": "Zvonek moravský (Campanula moravica)",
+   "Q149471": "Topol balzámový (Populus balsamifera)",
+   "Q1529892": "Jestřábník hladký (Hieracium laevigatum)",
+   "Q157563": "Pryskyřník prudký (Ranunculus acris)",
+   "Q157722": "Hadinec obecný (Echium vulgare)",
+   "Q158132": "Bažanka vytrvalá (Mercurialis perennis)",
+   "Q159437": "Kokrhel luštinec (Rhinanthus alectorolophus)",
+   "Q1737093": "Zelkova habrolistá (Zelkova carpinifolia)",
+   "Q2001703": "Hura chřestivá (Hura crepitans)",
+   "Q635916": "Hvězdnička slanistá (Tripolium pannonicum)",
+   "Q6585129": "Zlateň věncová (Glebionis coronaria)"
+  }
+ },
+ {
+  "id": "Q162777#4",
+  "species": "Kručinka barvířská",
+  "latin": "Genista tinctoria",
+  "text": "Obsahuje škodlivé látky, které jsou nebezpečné hlavně pro ovce a krávy.",
+  "quote": "škodlivých chinolizidinových alkaloidů, mezi které patří hlavně cytisin",
+  "claimed_false_for": {
+   "Q156918": "Vrba bílá (Salix alba)",
+   "Q571422": "Pabuk jižní (Nothofagus antarctica)"
+  }
+ },
+ {
+  "id": "Q162815#4",
+  "species": "Ostrožka stračka",
+  "latin": "Consolida regalis",
+  "text": "Obsahuje jedovaté alkaloidy.",
+  "quote": "Rostlina obsahuje jedovaté alkaloidy.",
+  "claimed_false_for": {
+   "Q1031875": "Růže Woodsova (Rosa woodsii)",
+   "Q1333239": "Violka psí (Viola canina)",
+   "Q159874": "Konopice pýřitá (Galeopsis pubescens)",
+   "Q164326": "Hlaváč žlutavý (Scabiosa ochroleuca)",
+   "Q1753184": "Rožec klubkatý (Cerastium glomeratum)"
+  }
+ },
+ {
+  "id": "Q162829#4",
+  "species": "Střemcha virginská",
+  "latin": "Prunus virginiana",
+  "text": "Tento druh je pro člověka jedovatý.",
+  "quote": "Rostlina je pro člověka toxická, obsahuje v listech, kůře i semenech glykosidy amygdalin a prunasin a v listech dále kyselinu kyanovodíkovou.",
+  "claimed_false_for": {
+   "Q108684": "Violka vonná (Viola odorata)",
+   "Q1275024": "Zlatice převislá (Forsythia suspensa)",
+   "Q164780": "Rozrazil ožankovitý (Veronica teucrium)",
+   "Q18042564": "Pitulník horský (Galeobdolon montanum)",
+   "Q18201508": "Amherstie sličná (Amherstia nobilis)",
+   "Q30056": "Mrkev obecná (Daucus carota)"
+  }
+ },
+ {
+  "id": "Q162914#4",
+  "species": "Hrachor hlíznatý",
+  "latin": "Lathyrus tuberosus",
+  "text": "Má jedovatá semena, která mohou způsobit otravu.",
+  "quote": "semena jsou jedovatá a způsobují při dlouhodobém krmení otravy",
+  "claimed_false_for": {
+   "Q14756456": "Zvonek moravský (Campanula moravica)",
+   "Q149471": "Topol balzámový (Populus balsamifera)",
+   "Q1529892": "Jestřábník hladký (Hieracium laevigatum)",
+   "Q1737093": "Zelkova habrolistá (Zelkova carpinifolia)",
+   "Q635916": "Hvězdnička slanistá (Tripolium pannonicum)",
+   "Q6585129": "Zlateň věncová (Glebionis coronaria)"
+  }
+ },
+ {
+  "id": "Q163133#4",
+  "species": "Vrabečnice roční",
+  "latin": "Thymelaea passerina",
+  "text": "Má jedovatá semena.",
+  "quote": "svými jedovatými semeny obsahující mj. deriváty terpenoidů",
+  "claimed_false_for": {
+   "Q14756456": "Zvonek moravský (Campanula moravica)",
+   "Q160072": "Violka vyvýšená (Viola elatior)",
+   "Q385259": "Hadí mord španělský (Scorzonera hispanica)"
+  }
+ },
+ {
+  "id": "Q163348#4",
+  "species": "Brslen bradavičnatý",
+  "latin": "Euonymus verrucosus",
+  "text": "Tento druh je téměř celý jedovatý, hlavně kůra, kořeny a plody.",
+  "quote": "Tato rostlina je téměř celá jedovatá, hlavně kůra větví, kořeny i nechutné plody",
+  "claimed_false_for": {
+   "Q1031875": "Růže Woodsova (Rosa woodsii)",
+   "Q1333239": "Violka psí (Viola canina)",
+   "Q164326": "Hlaváč žlutavý (Scabiosa ochroleuca)",
+   "Q1753184": "Rožec klubkatý (Cerastium glomeratum)"
+  }
+ },
+ {
+  "id": "Q163927#4",
+  "species": "Divizna velkokvětá",
+  "latin": "Verbascum densiflorum",
+  "text": "Má jedovatá semena.",
+  "quote": "Jedovatá semena divizny se dříve používala k omamování ryb.",
+  "claimed_false_for": {
+   "Q15602001": "Pcháč žlutoostenný (Cirsium brachycephalum)",
+   "Q159079": "Všivec bahenní (Pedicularis palustris)",
+   "Q161369": "Jetel prostřední (Trifolium medium)",
+   "Q17732128": "Lagotka uralská (Lagotis uralensis)"
+  }
+ },
+ {
+  "id": "Q163944#4",
+  "species": "Hrachor vonný",
+  "latin": "Lathyrus odoratus",
+  "text": "Semena tohoto druhu jsou jedovatá, pokud se dlouho konzumují.",
+  "quote": "Semena hrachoru vonného jsou při déletrvající konzumaci toxická",
+  "claimed_false_for": {
+   "Q1334892": "Kdoulovec čínský (Pseudocydonia sinensis)",
+   "Q159400": "Rozrazil trojklaný (Veronica triphyllos)",
+   "Q29488": "Zmarlika Jidášova (Cercis siliquastrum)"
+  }
+ },
+ {
+  "id": "Q163949#2",
+  "species": "Bažanka roční",
+  "latin": "Mercurialis annua",
+  "text": "Tento druh je jedovatý.",
+  "quote": "Je jedovatá a není vhodná jako píce",
+  "claimed_false_for": {}
+ }
+]

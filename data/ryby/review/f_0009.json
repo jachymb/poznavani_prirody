@@ -1,0 +1,31 @@
+{
+ "drop_facts": [
+  {"id": "Q798246#3", "why": "sporné: udávaná plodnost mihule potoční je řádově stovky až nejvýš kolem dvou tisíc jiker; navíc platí pro samici"},
+  {"id": "Q806299#0", "why": "neověřené, ojedinělé tvrzení z článku bez zdroje"},
+  {"id": "Q81110#2", "why": "sporný rekord: u kapra a koi jsou doložené i vyšší věky"},
+  {"id": "Q81110#5", "why": "platí pro samici a zaměňuje horní mez velkých samic za typickou hodnotu"},
+  {"id": "Q824672#2", "why": "zavádějící: perutýn je dravec, „nikoho nenapadá“ neplatí; citace je useknutá"},
+  {"id": "Q826713#0", "why": "přehnané: slunečnice nežije po celé Evropě, na severu téměř chybí"},
+  {"id": "Q827441#1", "why": "sporné: délka je kolem 15 cm, přes 20 cm dosahuje leda výška s ploutvemi; „velikost“ je nejasná"},
+  {"id": "Q841996#1", "why": "krkolomné „Tento druh má samce s…“, chybí, oproti čemu je tělo protáhlejší"},
+  {"id": "Q842956#1", "why": "vynechává podmínku: výsledek jedné studie z Egejského moře, větší ryby se živily hlavně rybami"},
+  {"id": "Q844602#3", "why": "mražená potrava platí jen v akváriu, podmínka je vynechána"},
+  {"id": "Q855167#0", "why": "sporné: akvarijní prameny uvádějí i delší dožití, kolem 5 let"},
+  {"id": "Q855167#2", "why": "krkolomné „Tento druh má mláďata, která…“ a bez článku nejasné, od čeho se 24 hodin počítá"}
+ ],
+ "drop_pairs": [
+  {"id": "Q806299#1", "species": "Q525111"},
+  {"id": "Q806299#3", "species": "Q1136303"},
+  {"id": "Q806299#3", "species": "Q177832"},
+  {"id": "Q806299#3", "species": "Q2564511"},
+  {"id": "Q824672#3", "species": "Q81110"},
+  {"id": "Q824672#4", "species": "Q2564511"},
+  {"id": "Q838199#0", "species": "Q311170"},
+  {"id": "Q838199#0", "species": "Q900344"},
+  {"id": "Q838199#2", "species": "Q311170"},
+  {"id": "Q838199#2", "species": "Q312296"},
+  {"id": "Q838199#2", "species": "Q1638555"},
+  {"id": "Q842956#0", "species": "Q311673"},
+  {"id": "Q855167#3", "species": "Q2306485"}
+ ]
+}

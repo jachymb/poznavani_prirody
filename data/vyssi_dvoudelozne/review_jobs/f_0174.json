@@ -1,0 +1,426 @@
+[
+ {
+  "id": "Q5753000#4",
+  "species": "Chlupáček trsnatý",
+  "latin": "Hieracium caespitosum",
+  "text": "Opylují ho obvykle včely a čmeláci.",
+  "quote": "Nažky se vytvoří po opylení hmyzem, obvykle včelami a čmeláky",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q5753000#6",
+  "species": "Chlupáček trsnatý",
+  "latin": "Hieracium caespitosum",
+  "text": "V nových oblastech vytěsňuje původní rostliny.",
+  "quote": "vytěsňuje původní rostliny",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q580360#5",
+  "species": "Vochlice hřebenitá",
+  "latin": "Scandix pecten-veneris",
+  "text": "Záraza parazituje na tomto druhu.",
+  "quote": "Na vochlici hřebenité parazituje záraza Orobanche pubescens.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q58393#4",
+  "species": "Dodonka žláznatá",
+  "latin": "Dodonaea viscosa",
+  "text": "Včely přilétají na jeho samčí květy pro pyl.",
+  "quote": "na samčí květy však přilétají včely pro pyl",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q58393#5",
+  "species": "Dodonka žláznatá",
+  "latin": "Dodonaea viscosa",
+  "text": "Domácí zvířata a velbloudi v suchu jedí jeho listy.",
+  "quote": "listy a mladé větvičky využívané jako nouzové krmivo pro domácími zvířaty a velbloudy",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q5861930#0",
+  "species": "Bělolist žlutavý",
+  "latin": "Filago lutescens",
+  "text": "Kvete od června do srpna.",
+  "quote": "Kvete od června do srpna, někdy až do září nebo listopadu.",
+  "claimed_false_for": {
+   "Q157763": "Meruňka japonská (Prunus mume)"
+  }
+ },
+ {
+  "id": "Q5861930#1",
+  "species": "Bělolist žlutavý",
+  "latin": "Filago lutescens",
+  "text": "Dobře se daří na písčitých půdách a na suchých skalnatých stráních.",
+  "quote": "Bělolistu žlutavému se dobře daří na písčitých půdách, na suchých skalnatých stráních",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q5963510#2",
+  "species": "Šalvěj lyrovitá",
+  "latin": "Salvia lyrata",
+  "text": "Přitahuje kolibříky, kterým dává nektar.",
+  "quote": "kolibříky, kterým poskytují zdroj nektaru.",
+  "claimed_false_for": {
+   "Q158996": "Hvězdoš jarní (Callitriche palustris)",
+   "Q159492": "Mochna zlatá (Potentilla aurea)",
+   "Q159826": "Řepovník svraskalý (Rapistrum rugosum)",
+   "Q163952": "Klinopád obecný (Clinopodium vulgare)",
+   "Q1721165": "Šanta lesostepní (Nepeta nuda)",
+   "Q26297": "Šťovík kyselý (Rumex acetosa)",
+   "Q26726": "Konopí seté (Cannabis sativa)"
+  }
+ },
+ {
+  "id": "Q599435#0",
+  "species": "Zlatobýl obecný",
+  "latin": "Solidago virgaurea",
+  "text": "Dorůstá někdy až do výšky 1 metru.",
+  "quote": "někdy až 1 m vysoká",
+  "claimed_false_for": {
+   "Q16983174": "Chlupáček myší ouško (Hieracium lactucella)"
+  }
+ },
+ {
+  "id": "Q599435#1",
+  "species": "Zlatobýl obecný",
+  "latin": "Solidago virgaurea",
+  "text": "Kvete od července do října.",
+  "quote": "V období července, srpna, září a října kvete 8-12 žlutých květů.",
+  "claimed_false_for": {
+   "Q1275024": "Zlatice převislá (Forsythia suspensa)"
+  }
+ },
+ {
+  "id": "Q600793#4",
+  "species": "Naditec jehnědokvětý",
+  "latin": "Prosopis juliflora",
+  "text": "Žije v symbióze s bakteriemi v kořenech.",
+  "quote": "Dokáže si za pomoci symbiotických kořenových bakterií získávat vzdušný dusík",
+  "claimed_false_for": {
+   "Q1019275": "Koprník štětinolistý (Meum athamanticum)",
+   "Q159368": "Rohatec růžkatý (Glaucium corniculatum)",
+   "Q161653": "Černýš luční (Melampyrum pratense)",
+   "Q2601238": "Ořechovec vejčitý (Carya ovata)"
+  }
+ },
+ {
+  "id": "Q600793#5",
+  "species": "Naditec jehnědokvětý",
+  "latin": "Prosopis juliflora",
+  "text": "Zvířata a ptáci šíří jeho semena ve svém trusu.",
+  "quote": "Semena jsou také hojně rozšiřována v trusu zvířat nebo ptáků",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q600793#6",
+  "species": "Naditec jehnědokvětý",
+  "latin": "Prosopis juliflora",
+  "text": "Zrnokazní brouci vyžírají jeho dozrávající semena.",
+  "quote": "kteří vyžírají jeho dozrávající semena",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q6077871#0",
+  "species": "Jitrocel alpínský",
+  "latin": "Plantago alpina",
+  "text": "Roste v nadmořské výšce 1350 až 2800 metrů.",
+  "quote": "v nadmořské výšce 1350-2800 m",
+  "claimed_false_for": {
+   "Q158130": "Stolístek klasnatý (Myriophyllum spicatum)",
+   "Q159581": "Čistec roční (Stachys annua)",
+   "Q160346": "Jablečník cizí (Marrubium peregrinum)",
+   "Q21126": "Jitrocel přímořský (Plantago maritima)",
+   "Q4135152": "Plotovník Davidův (Hemiptelea davidii)"
+  }
+ },
+ {
+  "id": "Q6077871#1",
+  "species": "Jitrocel alpínský",
+  "latin": "Plantago alpina",
+  "text": "V Česku roste jen v Krkonoších, kam byl úmyslně vysazen.",
+  "quote": "V Česku se vyskytuje pouze sekundárně v Krkonoších, kam byl úmyslně vysazen.",
+  "claimed_false_for": {
+   "Q157384": "Bublinatka obecná (Utricularia vulgaris)",
+   "Q157540": "Vrba popelavá (Salix cinerea)",
+   "Q157619": "Hluchavka nachová (Lamium purpureum)",
+   "Q162811": "Čistec rolní (Stachys arvensis)",
+   "Q164288": "Penízek prorostlý (Thlaspi perfoliatum)",
+   "Q18042564": "Pitulník horský (Galeobdolon montanum)"
+  }
+ },
+ {
+  "id": "Q6090472#4",
+  "species": "Kvajáva brazilská",
+  "latin": "Psidium guineense",
+  "text": "Přes den ho opyluje hmyz.",
+  "quote": "a přes den také hmyzem",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q6090472#5",
+  "species": "Kvajáva brazilská",
+  "latin": "Psidium guineense",
+  "text": "Semena roznášejí ptáci, netopýři, opice, kopytníci i drobní savci.",
+  "quote": "která po okolí roznášejí ptáci, netopýři, opice, kopytníci i drobní savci",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q609627#2",
+  "species": "Zlatobýl obrovský",
+  "latin": "Solidago gigantea",
+  "text": "Květy opyluje létající hmyz.",
+  "quote": "Květy jsou opylovány létajícím hmyzem.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q609718#0",
+  "species": "Rosnatka anglická",
+  "latin": "Drosera anglica",
+  "text": "Tento druh je drobná masožravá rostlina.",
+  "quote": "je drobná masožravá rostlina",
+  "claimed_false_for": {
+   "Q1130368": "Bazela bílá (Basella alba)",
+   "Q1159849": "Hvozdík Lumnitzerův (Dianthus lumnitzeri)",
+   "Q1335122": "Řebříček bertrám (Achillea ptarmica)",
+   "Q157643": "Šťovík kadeřavý (Rumex crispus)",
+   "Q159104": "Divizna brunátná (Verbascum phoeniceum)",
+   "Q160113": "Rdesno peprník (Persicaria hydropiper)",
+   "Q162390": "Zimolez lesklý (Lonicera nitida)",
+   "Q20757547": "Chlupáček oranžový (Pilosella aurantiaca)",
+   "Q615022": "Merlík trpasličí (Dysphania pumilio)",
+   "Q7535": "Reveň kadeřavá (Rheum rhabarbarum)",
+   "Q81464": "Špenát setý (Spinacia oleracea)"
+  }
+ },
+ {
+  "id": "Q609718#1",
+  "species": "Rosnatka anglická",
+  "latin": "Drosera anglica",
+  "text": "Kvete od června do srpna.",
+  "quote": "Kvete od června do srpna.",
+  "claimed_false_for": {
+   "Q1551608": "Měkýn latnatý (Andrographis paniculata)"
+  }
+ },
+ {
+  "id": "Q611970#4",
+  "species": "Bělostník vlnatý",
+  "latin": "Krascheninnikovia lanata",
+  "text": "Jedí ho divocí býložravci a domácí zvířata.",
+  "quote": "je významným krmivem pro volně žijící býložravce i domácí hospodářská zvířata",
+  "claimed_false_for": {
+   "Q165166": "Lýkovec jedovatý (Daphne mezereum)"
+  }
+ },
+ {
+  "id": "Q611970#5",
+  "species": "Bělostník vlnatý",
+  "latin": "Krascheninnikovia lanata",
+  "text": "Mladé rostliny většinou přežijí první rok jen v blízkosti jiných rostlin, které je stíní.",
+  "quote": "Semenáče většinou přežijí první rok svého života pouze v blízkosti nějaké vegetace, která jejím mělkým kořínkům poskytuje alespoň částečný stín",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q614880#4",
+  "species": "Pěťour srstnatý",
+  "latin": "Galinsoga quadriradiata",
+  "text": "Užitková zvířata ho mohou jíst jako šťavnatou píci.",
+  "quote": "může sloužit jako vydatná šťavnatá píce pro užitková",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q614880#5",
+  "species": "Pěťour srstnatý",
+  "latin": "Galinsoga quadriradiata",
+  "text": "Tento druh je hostitelem některých virů důležitých pro zemědělství.",
+  "quote": "Je hostitelem některých zemědělsky významných virů.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q617621#0",
+  "species": "Jetel úzkolistý",
+  "latin": "Trifolium angustifolium",
+  "text": "Kvete od května do srpna.",
+  "quote": "Kvete od května do srpna.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q617621#1",
+  "species": "Jetel úzkolistý",
+  "latin": "Trifolium angustifolium",
+  "text": "Vyskytuje se na loukách, pastvinách a na okrajích polích.",
+  "quote": "Vyskytuje se na loukách, pastvinách a na okrajích polích.",
+  "claimed_false_for": {
+   "Q159743": "Plavín štítnatý (Nymphoides peltata)"
+  }
+ },
+ {
+  "id": "Q620234#4",
+  "species": "Lněnka bezlistenná",
+  "latin": "Thesium ebracteatum",
+  "text": "Opyluje ho převážně létající hmyz.",
+  "quote": "jsou opylovány převážně létajícím hmyzem",
+  "claimed_false_for": {
+   "Q121749": "Lapina jasanolistá (Pterocarya fraxinifolia)"
+  }
+ },
+ {
+  "id": "Q620234#5",
+  "species": "Lněnka bezlistenná",
+  "latin": "Thesium ebracteatum",
+  "text": "Vyroste jen spolu s jinou rostlinou.",
+  "quote": "Může vyrůst jen v symbióze s jinou, autotrofní rostlinou",
+  "claimed_false_for": {
+   "Q111185": "Ločidlo čertovo lejno (Ferula assa-foetida)",
+   "Q121749": "Lapina jasanolistá (Pterocarya fraxinifolia)",
+   "Q14807863": "Drmek čínský (Vitex negundo)",
+   "Q157276": "Bez červený (Sambucus racemosa)",
+   "Q158226": "Tařice skalní (Aurinia saxatilis)",
+   "Q162760": "Zimolez obecný (Lonicera xylosteum)",
+   "Q164208": "Pryšec mnohobarvý (Euphorbia epithymoides)"
+  }
+ },
+ {
+  "id": "Q622525#0",
+  "species": "Tomatillo",
+  "latin": "Physalis philadelphica",
+  "text": "Plod má v průměru okolo 5 cm.",
+  "quote": "Má v průměru okolo 5 cm",
+  "claimed_false_for": {
+   "Q158563": "Dřišťál obecný (Berberis vulgaris)",
+   "Q683282": "Lilek sodomský (Solanum linnaeanum)"
+  }
+ },
+ {
+  "id": "Q622525#1",
+  "species": "Tomatillo",
+  "latin": "Physalis philadelphica",
+  "text": "Rostlina pochází ze střední Ameriky.",
+  "quote": "Rostlina pochází ze střední Ameriky",
+  "claimed_false_for": {
+   "Q132973": "Láčkovka rádža (Nepenthes rajah)",
+   "Q133560": "Dračinec rumělkový (Dracaena cinnabari)",
+   "Q1534538": "Hvězdnice zlatovlásek (Galatella linosyris)",
+   "Q160095": "Divizna malokvětá (Verbascum thapsus)",
+   "Q160185": "Růže rolní (Rosa arvensis)",
+   "Q161058": "Blín černý (Hyoscyamus niger)",
+   "Q161780": "Mochyně židovská (Alkekengi officinarum)",
+   "Q196332": "Kustovnice cizí (Lycium barbarum)"
+  }
+ },
+ {
+  "id": "Q624368#4",
+  "species": "Chrpa latnatá",
+  "latin": "Centaurea stoebe",
+  "text": "Zvířata mohou roznášet jeho semena v srsti.",
+  "quote": "mohou se šířit i v srsti živočichů",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q627352#0",
+  "species": "Chrpa černající",
+  "latin": "Centaurea nigrescens",
+  "text": "Kvete od července do září.",
+  "quote": "Kvete od července do září.",
+  "claimed_false_for": {
+   "Q122342": "Pryšec sladký (Euphorbia dulcis)",
+   "Q5190122": "Chrpinka obecná (Crupina vulgaris)"
+  }
+ },
+ {
+  "id": "Q630288#7",
+  "species": "Ořešák popelavý",
+  "latin": "Juglans cinerea",
+  "text": "Houbu, která ničí tento strom, šíří vodní ptáci nebo hmyz.",
+  "quote": "rozšiřovanou vodním ptactvem nebo hmyzem",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q630904#4",
+  "species": "Štěničník paprskující",
+  "latin": "Bifora radians",
+  "text": "Nejčastěji roste jako plevel v obilninách.",
+  "quote": "nejčastěji jako plevel v obilninách",
+  "claimed_false_for": {
+   "Q1405595": "Hvězdnatec zubatý (Hacquetia epipactis)",
+   "Q157552": "Prvosenka jarní (Primula veris)",
+   "Q3493070": "Arálie královská (Aralia rex)",
+   "Q41505": "Lokvát japonský (Eriobotrya japonica)"
+  }
+ },
+ {
+  "id": "Q630904#6",
+  "species": "Štěničník paprskující",
+  "latin": "Bifora radians",
+  "text": "Semena tohoto druhu se sklízejí spolu s obilím.",
+  "quote": "zbylá část je sklizená s obilím",
+  "claimed_false_for": {
+   "Q150055": "Brambořík perský (Cyclamen persicum)",
+   "Q158198": "Pupečník obecný (Hydrocotyle vulgaris)",
+   "Q311847": "Prorostlík nejtenčí (Bupleurum tenuissimum)",
+   "Q3595658": "Vachellia leucophloea (Acacia leucophloea)"
+  }
+ },
+ {
+  "id": "Q632559#0",
+  "species": "Kajan indický",
+  "latin": "Cajanus cajan",
+  "text": "Pěstuje se v tropech a subtropech po celém světě.",
+  "quote": "Pěstuje se v tropických a subtropických oblastech po celém světě",
+  "claimed_false_for": {
+   "Q528886": "Vítod větší (Polygala major)",
+   "Q731326": "Lněnka alpská (Thesium alpinum)"
+  }
+ },
+ {
+  "id": "Q632559#1",
+  "species": "Kajan indický",
+  "latin": "Cajanus cajan",
+  "text": "Dorůstá do výšky 1,5 až 4 metrů.",
+  "quote": "Je vysoká 1,5–4 metry.",
+  "claimed_false_for": {
+   "Q148532": "Citlivka stydlivá (Mimosa pudica)",
+   "Q157417": "Trnovník akát (Robinia pseudoacacia)",
+   "Q157698": "Hulevník lékařský (Sisymbrium officinale)",
+   "Q158457": "Štírovník tenkolistý (Lotus tenuis)",
+   "Q158941": "Jetel zlatý (Trifolium aureum)",
+   "Q853554": "Pelyněk pontický (Artemisia pontica)"
+  }
+ },
+ {
+  "id": "Q634727#0",
+  "species": "Pryskyřník platanolistý",
+  "latin": "Ranunculus platanifolius",
+  "text": "Preferuje vlhké suťové lesy a břehy horských toků.",
+  "quote": "Preferuje vlhké suťové lesy a břehy horských toků.",
+  "claimed_false_for": {
+   "Q160386": "Chruplavník větší (Polycnemum majus)"
+  }
+ },
+ {
+  "id": "Q634727#1",
+  "species": "Pryskyřník platanolistý",
+  "latin": "Ranunculus platanifolius",
+  "text": "Květy jsou bílé nebo lehce narůžovělé.",
+  "quote": "Květy jsou bílé nebo lehce narůžovělé.",
+  "claimed_false_for": {
+   "Q147159": "Vikev ptačí (Vicia cracca)",
+   "Q160428": "Pryskyřník zvrhlý (Ranunculus hybridus)",
+   "Q164248": "Pryskyřník kosmatý (Ranunculus lanuginosus)",
+   "Q3281704": "Plamének východní (Clematis orientalis)",
+   "Q4093614": "Oměj zahradní (Aconitum × cammarum)",
+   "Q854941": "Kyčelnice devítilistá (Cardamine enneaphyllos)"
+  }
+ },
+ {
+  "id": "Q634975#5",
+  "species": "Růže svraskalá",
+  "latin": "Rosa rugosa",
+  "text": "Tažní ptáci, například drozdi, roznášejí jeho semena.",
+  "quote": "Na větší vzdálenosti se šíří semeny rozsévanými tažnými ptáky, např. brkoslavy, čížky nebo drozdy",
+  "claimed_false_for": {}
+ }
+]

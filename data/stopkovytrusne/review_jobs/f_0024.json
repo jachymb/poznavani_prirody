@@ -1,0 +1,469 @@
+[
+ {
+  "id": "Q10432400#0",
+  "species": "Hřib měďový",
+  "latin": "Imperator luteocupreus",
+  "text": "Po poškození tento druh zmodrá.",
+  "quote": "Poškozením modrají.",
+  "claimed_false_for": {
+   "Q129556": "Slizák skvrnitý (Gomphidius maculatus)",
+   "Q188643": "Muchomůrka zelená (Amanita phalloides)",
+   "Q1928462": "Čirůvka tygrovaná (Tricholoma pardinum)",
+   "Q816730": "Klouzek obecný (Suillus luteus)"
+  }
+ },
+ {
+  "id": "Q10432400#1",
+  "species": "Hřib měďový",
+  "latin": "Imperator luteocupreus",
+  "text": "Tento druh je vzácný, proto je třeba chránit jeho místa.",
+  "quote": "Hřib měďový je vzácný druh, jehož lokality zasluhují nejvyšší možnou ochranu.",
+  "claimed_false_for": {
+   "Q1165762": "Klouzek kravský (Suillus bovinus)",
+   "Q188643": "Muchomůrka zelená (Amanita phalloides)",
+   "Q816730": "Klouzek obecný (Suillus luteus)"
+  }
+ },
+ {
+  "id": "Q10432413#0",
+  "species": "Hřib mokřadní",
+  "latin": "Xerocomellus ripariellus",
+  "text": "Roste na vlhkých místech u potůčků a v mokřinách.",
+  "quote": "Roste na vlhkých stanovištích s kyselým podložím, v blízkosti potůčků, mokřin nebo terénních prohlubní",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q10432413#1",
+  "species": "Hřib mokřadní",
+  "latin": "Xerocomellus ripariellus",
+  "text": "Klobouk bývá cihlově až purpurově červený.",
+  "quote": "Zbarvený je cihlově, krvavě a purpurově červeně, někdy vybledá.",
+  "claimed_false_for": {
+   "Q1165762": "Klouzek kravský (Suillus bovinus)",
+   "Q1187583": "Hřib nachovýtrusý (Porphyrellus porphyrosporus)",
+   "Q1624061": "Hřib dutonohý (Suillus cavipes)",
+   "Q18345364": "Lysohlávka lesní (Psilocybe medullosa)",
+   "Q188643": "Muchomůrka zelená (Amanita phalloides)",
+   "Q1928462": "Čirůvka tygrovaná (Tricholoma pardinum)",
+   "Q26203735": "Hřib přívěskatý (Butyriboletus appendiculatus)",
+   "Q752494": "Hřib koloděj (Suillellus luridus)",
+   "Q757127": "Hřib bronzový (Boletus aereus)",
+   "Q816730": "Klouzek obecný (Suillus luteus)"
+  }
+ },
+ {
+  "id": "Q10432413#2",
+  "species": "Hřib mokřadní",
+  "latin": "Xerocomellus ripariellus",
+  "text": "Po rozříznutí dužnina viditelně zmodrá.",
+  "quote": "Na řezu viditelně modrá.",
+  "claimed_false_for": {
+   "Q1027046": "Ohňovec ovocný (Phellinus pomaceus)",
+   "Q10671554": "Voskovka kluzkonohá (Hygrocybe glutinipes)",
+   "Q1931554": "Slizák růžový (Gomphidius roseus)",
+   "Q19740": "Hřib smrkový (Boletus edulis)",
+   "Q2523582": "Klouzek douglaskový (Suillus lakei)",
+   "Q4329061": "Křemenáč dubový (Leccinum aurantiacum)",
+   "Q5232097": "Helmovka skvrnitá (Mycena maculata)"
+  }
+ },
+ {
+  "id": "Q10432413#3",
+  "species": "Hřib mokřadní",
+  "latin": "Xerocomellus ripariellus",
+  "text": "Klobouk dosahuje velikosti 3 až 6,5 centimetru.",
+  "quote": "Klobouk dosahuje 30 – 65 milimetrů",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q111697#0",
+  "species": "Slizák švýcarský",
+  "latin": "Chroogomphus helveticus",
+  "text": "Nejraději roste u smrků.",
+  "quote": "ze stromů preferuje zejména smrky",
+  "claimed_false_for": {
+   "Q108319858": "Hřib broskvový (Rheubarbariboletus persicolor)"
+  }
+ },
+ {
+  "id": "Q12951499#0",
+  "species": "Síťkovec trojbarvý",
+  "latin": "Daedaleopsis tricolor",
+  "text": "Tento druh se živí rozkladem mrtvého dřeva.",
+  "quote": "Organismus se živí rozkladem mrtvé dřevní hmoty",
+  "claimed_false_for": {
+   "Q10511337": "Hřib pružný (Aureoboletus gentilis)"
+  }
+ },
+ {
+  "id": "Q12951499#1",
+  "species": "Síťkovec trojbarvý",
+  "latin": "Daedaleopsis tricolor",
+  "text": "Má plodnice velké 3 až 15 cm.",
+  "quote": "Plodnice jsou jednoleté, kloboukaté, 3–15 cm velké.",
+  "claimed_false_for": {
+   "Q1314944": "Verpáník lékařský (Laricifomes officinalis)"
+  }
+ },
+ {
+  "id": "Q129556#0",
+  "species": "Slizák skvrnitý",
+  "latin": "Gomphidius maculatus",
+  "text": "Roste výhradně pod modříny.",
+  "quote": "výhradně pod modříny",
+  "claimed_false_for": {
+   "Q108319858": "Hřib broskvový (Rheubarbariboletus persicolor)"
+  }
+ },
+ {
+  "id": "Q1315936#1",
+  "species": "Měcháč písečný",
+  "latin": "Pisolithus arhizus",
+  "text": "Při dozrávání se shora rozpadá na hnědý prach.",
+  "quote": "dozráváním se odshora rozpadá v hnědý výtrusný prach",
+  "claimed_false_for": {
+   "Q108319858": "Hřib broskvový (Rheubarbariboletus persicolor)"
+  }
+ },
+ {
+  "id": "Q1323749#0",
+  "species": "Muchomůrka šedivka",
+  "latin": "Amanita spissa",
+  "text": "Vůní připomíná syrové brambory.",
+  "quote": "má vůni podobnou pachu syrových brambor.",
+  "claimed_false_for": {
+   "Q1757505": "Helmovka narůžovělá (Mycena rosea)"
+  }
+ },
+ {
+  "id": "Q1323749#1",
+  "species": "Muchomůrka šedivka",
+  "latin": "Amanita spissa",
+  "text": "Roste hojně od července do listopadu.",
+  "quote": "Roste velmi hojně v červenci až listopadu",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1349044#0",
+  "species": "Pečárka zápašná",
+  "latin": "Agaricus xanthodermus",
+  "text": "Jed v plodnici zůstane i po zahřátí.",
+  "quote": "Plodnice obsahuje termostabilní toxiny ve všech stadiích vývoje.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1349044#1",
+  "species": "Pečárka zápašná",
+  "latin": "Agaricus xanthodermus",
+  "text": "Po poranění rychle zežloutne.",
+  "quote": "Po poranění rychle žloutne.",
+  "claimed_false_for": {
+   "Q1445543": "Muchomůrka šiškovitá (Amanita strobiliformis)",
+   "Q1757505": "Helmovka narůžovělá (Mycena rosea)",
+   "Q36992": "Kotrč kadeřavý (Sparassis crispa)",
+   "Q45547": "Muchomůrka tygrovaná (Amanita pantherina)",
+   "Q498221": "Ryzec smrkový (Lactarius deterrimus)",
+   "Q7289072": "Kuřinec lilákový (Ramariopsis pulchella)",
+   "Q732640": "Opeňka měnlivá (Kuehneromyces mutabilis)"
+  }
+ },
+ {
+  "id": "Q13548139#0",
+  "species": "Hřib malinový",
+  "latin": "Chalciporus amarellus",
+  "text": "Má klobouk 10 až 22 milimetrů.",
+  "quote": "Klobouk dosahuje 10 – 22 milimetrů",
+  "claimed_false_for": {
+   "Q19740": "Hřib smrkový (Boletus edulis)",
+   "Q2523582": "Klouzek douglaskový (Suillus lakei)",
+   "Q4329061": "Křemenáč dubový (Leccinum aurantiacum)",
+   "Q628977": "Kozák březový (Leccinum scabrum)",
+   "Q96637355": "Hřib královský (Butyriboletus regius)"
+  }
+ },
+ {
+  "id": "Q13578485#0",
+  "species": "Hřib Markův",
+  "latin": "Xerocomellus marekii",
+  "text": "Tento druh je vzácný.",
+  "quote": "se předpokládá, že je vzácný",
+  "claimed_false_for": {
+   "Q1165762": "Klouzek kravský (Suillus bovinus)",
+   "Q188643": "Muchomůrka zelená (Amanita phalloides)",
+   "Q816730": "Klouzek obecný (Suillus luteus)"
+  }
+ },
+ {
+  "id": "Q13578485#1",
+  "species": "Hřib Markův",
+  "latin": "Xerocomellus marekii",
+  "text": "Roste pod duby.",
+  "quote": "Roste pod duby",
+  "claimed_false_for": {
+   "Q1931554": "Slizák růžový (Gomphidius roseus)",
+   "Q2523582": "Klouzek douglaskový (Suillus lakei)",
+   "Q3501463": "Křemenáč smrkový (Leccinum piceinum)",
+   "Q628977": "Kozák březový (Leccinum scabrum)"
+  }
+ },
+ {
+  "id": "Q13578485#2",
+  "species": "Hřib Markův",
+  "latin": "Xerocomellus marekii",
+  "text": "Plodnice se objevují od července do září.",
+  "quote": "fruktifikuje od července do září",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q13578485#3",
+  "species": "Hřib Markův",
+  "latin": "Xerocomellus marekii",
+  "text": "Klobouk je široký 25 až 65 milimetrů.",
+  "quote": "Klobouk dosahuje 25 – 65 milimetrů",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1361089#0",
+  "species": "Holubinka sluneční",
+  "latin": "Russula solaris",
+  "text": "Roste vzácně v listnatých nebo smíšených lesích.",
+  "quote": "Roste vzácně v listnatých nebo smíšených lesích.",
+  "claimed_false_for": {
+   "Q28492278": "Lakovka ametystová (Laccaria amethystina)",
+   "Q618295": "Holubinka jahodová (Russula paludosa)"
+  }
+ },
+ {
+  "id": "Q1361089#1",
+  "species": "Holubinka sluneční",
+  "latin": "Russula solaris",
+  "text": "Tento druh je nejedlý.",
+  "quote": "Nejedlá houba",
+  "claimed_false_for": {
+   "Q28492278": "Lakovka ametystová (Laccaria amethystina)",
+   "Q618295": "Holubinka jahodová (Russula paludosa)",
+   "Q851539": "Holubinka mandlová (Russula vesca)"
+  }
+ },
+ {
+  "id": "Q17153031#0",
+  "species": "Hřib šedorůžový",
+  "latin": "Butyriboletus roseogriseus",
+  "text": "Má klobouk široký 7 až 12 centimetrů.",
+  "quote": "Klobouk 70–120 (155) milimetrů široký",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q17153031#1",
+  "species": "Hřib šedorůžový",
+  "latin": "Butyriboletus roseogriseus",
+  "text": "Po poškození zmodrá.",
+  "quote": "Povrch po poškození modrá.",
+  "claimed_false_for": {
+   "Q129556": "Slizák skvrnitý (Gomphidius maculatus)",
+   "Q188643": "Muchomůrka zelená (Amanita phalloides)",
+   "Q1928462": "Čirůvka tygrovaná (Tricholoma pardinum)",
+   "Q816730": "Klouzek obecný (Suillus luteus)"
+  }
+ },
+ {
+  "id": "Q17153031#2",
+  "species": "Hřib šedorůžový",
+  "latin": "Butyriboletus roseogriseus",
+  "text": "Roste od července do října, nejvíce v srpnu.",
+  "quote": "Plodnice se objevují jednotlivě nebo v malých skupinkách od července do října, nejvíce v srpnu.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q17153031#3",
+  "species": "Hřib šedorůžový",
+  "latin": "Butyriboletus roseogriseus",
+  "text": "Pravděpodobně žije spolu s jedlemi.",
+  "quote": "Vzácný druh mykorhizně vázaný pravděpodobně na jedle.",
+  "claimed_false_for": {
+   "Q1165762": "Klouzek kravský (Suillus bovinus)",
+   "Q129556": "Slizák skvrnitý (Gomphidius maculatus)",
+   "Q1624061": "Hřib dutonohý (Suillus cavipes)",
+   "Q18345364": "Lysohlávka lesní (Psilocybe medullosa)",
+   "Q816730": "Klouzek obecný (Suillus luteus)"
+  }
+ },
+ {
+  "id": "Q20721676#0",
+  "species": "Hřib vlčí",
+  "latin": "Rubroboletus lupinus",
+  "text": "Tento druh je jedovatý.",
+  "quote": "vzácná jedovatá houba",
+  "claimed_false_for": {
+   "Q19740": "Hřib smrkový (Boletus edulis)",
+   "Q249595": "Lupenopórka červenožlutá (Phylloporus pelletieri)",
+   "Q3501463": "Křemenáč smrkový (Leccinum piceinum)",
+   "Q4329061": "Křemenáč dubový (Leccinum aurantiacum)",
+   "Q628977": "Kozák březový (Leccinum scabrum)",
+   "Q96637355": "Hřib královský (Butyriboletus regius)",
+   "Q96776506": "Hřib žlutý (Sutorius junquilleus)"
+  }
+ },
+ {
+  "id": "Q20721676#1",
+  "species": "Hřib vlčí",
+  "latin": "Rubroboletus lupinus",
+  "text": "Tento druh se po poškození zbarví modře.",
+  "quote": "Při poškození se barví modře",
+  "claimed_false_for": {
+   "Q1027046": "Ohňovec ovocný (Phellinus pomaceus)",
+   "Q10671554": "Voskovka kluzkonohá (Hygrocybe glutinipes)",
+   "Q1931554": "Slizák růžový (Gomphidius roseus)",
+   "Q19740": "Hřib smrkový (Boletus edulis)",
+   "Q2523582": "Klouzek douglaskový (Suillus lakei)",
+   "Q4329061": "Křemenáč dubový (Leccinum aurantiacum)",
+   "Q5232097": "Helmovka skvrnitá (Mycena maculata)"
+  }
+ },
+ {
+  "id": "Q20721676#2",
+  "species": "Hřib vlčí",
+  "latin": "Rubroboletus lupinus",
+  "text": "Žije ve spolupráci s duby a kaštanovníky.",
+  "quote": "tvoří mykorhizu s duby",
+  "claimed_false_for": {
+   "Q1165762": "Klouzek kravský (Suillus bovinus)",
+   "Q1187583": "Hřib nachovýtrusý (Porphyrellus porphyrosporus)",
+   "Q129556": "Slizák skvrnitý (Gomphidius maculatus)",
+   "Q1624061": "Hřib dutonohý (Suillus cavipes)",
+   "Q18345364": "Lysohlávka lesní (Psilocybe medullosa)",
+   "Q816730": "Klouzek obecný (Suillus luteus)"
+  }
+ },
+ {
+  "id": "Q20721676#3",
+  "species": "Hřib vlčí",
+  "latin": "Rubroboletus lupinus",
+  "text": "Má klobouk obvykle 6 až 15 centimetrů široký.",
+  "quote": "Klobouk 60 – 150 (180) milimetrů široký",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q320999#0",
+  "species": "Houževnatec jedlý",
+  "latin": "Lentinula edodes",
+  "text": "Roste po skupinách na shnijících kmenech listnatých stromů.",
+  "quote": "roste po skupinách na rozkládajících se kmenech listnatých stromů",
+  "claimed_false_for": {
+   "Q1323787": "Hřib plavý (Hemileccinum impolitum)",
+   "Q1445543": "Muchomůrka šiškovitá (Amanita strobiliformis)",
+   "Q1757505": "Helmovka narůžovělá (Mycena rosea)",
+   "Q1879286": "Šťavnatka modřínová (Hygrophorus lucorum)",
+   "Q206449": "Holubinka jízlivá (Russula sardonia)",
+   "Q36992": "Kotrč kadeřavý (Sparassis crispa)",
+   "Q3915457": "Slizobedla lesklá (Limacella illinita)",
+   "Q45547": "Muchomůrka tygrovaná (Amanita pantherina)",
+   "Q498221": "Ryzec smrkový (Lactarius deterrimus)",
+   "Q7289072": "Kuřinec lilákový (Ramariopsis pulchella)"
+  }
+ },
+ {
+  "id": "Q320999#1",
+  "species": "Houževnatec jedlý",
+  "latin": "Lentinula edodes",
+  "text": "Dorůstá do průměru 5 až 15 centimetrů.",
+  "quote": "Dorůstá do průměru 5–15 cm.",
+  "claimed_false_for": {
+   "Q1757505": "Helmovka narůžovělá (Mycena rosea)",
+   "Q3066470": "Helmovka medonohá (Mycena renati)",
+   "Q7289072": "Kuřinec lilákový (Ramariopsis pulchella)"
+  }
+ },
+ {
+  "id": "Q352153#0",
+  "species": "Holubinka kolčaví",
+  "latin": "Russula mustelina",
+  "text": "Roste hlavně v jehličnatých lesích.",
+  "quote": "Roste převážně v jehličnatých lesích",
+  "claimed_false_for": {
+   "Q1318085": "Korálovec bukový (Hericium coralloides)",
+   "Q1421173": "Ryzec ohrnutý (Lactarius resimus)",
+   "Q1569411": "Holubinka habrová (Russula carpini)",
+   "Q81182623": "Ježatec různozubý (Hericium cirrhatum)"
+  }
+ },
+ {
+  "id": "Q352153#1",
+  "species": "Holubinka kolčaví",
+  "latin": "Russula mustelina",
+  "text": "Roste od července do září.",
+  "quote": "V období od července do září.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q3570555#0",
+  "species": "Hřib hnědofialový",
+  "latin": "Xanthoconium separans",
+  "text": "Tento druh je vázaný na buky, duby a kaštanovník setý.",
+  "quote": "Je vázaný na buky, duby a kaštanovník setý.",
+  "claimed_false_for": {
+   "Q1931554": "Slizák růžový (Gomphidius roseus)",
+   "Q2523582": "Klouzek douglaskový (Suillus lakei)",
+   "Q3501463": "Křemenáč smrkový (Leccinum piceinum)",
+   "Q628977": "Kozák březový (Leccinum scabrum)"
+  }
+ },
+ {
+  "id": "Q3570555#1",
+  "species": "Hřib hnědofialový",
+  "latin": "Xanthoconium separans",
+  "text": "Tento druh je velmi vzácný a roste v listnatých a smíšených lesích.",
+  "quote": "Velmi vzácný, roste jednotlivě nebo v malých skupinách v listnatých a smíšených lesích.",
+  "claimed_false_for": {
+   "Q1165762": "Klouzek kravský (Suillus bovinus)",
+   "Q188643": "Muchomůrka zelená (Amanita phalloides)",
+   "Q816730": "Klouzek obecný (Suillus luteus)"
+  }
+ },
+ {
+  "id": "Q596333#0",
+  "species": "Holubinka dívčí",
+  "latin": "Russula puellaris",
+  "text": "Roste od června do října.",
+  "quote": "roste od června do října v jehličnatých i listnatých lesích",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q596333#1",
+  "species": "Holubinka dívčí",
+  "latin": "Russula puellaris",
+  "text": "V dospělosti silně žloutne, což je neobvyklé.",
+  "quote": "v dospělosti silně žloutnou, což je jev u holubinek poměrně výjimečný",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q628977#1",
+  "species": "Kozák březový",
+  "latin": "Leccinum scabrum",
+  "text": "Bělavý třeň má černé šupinky.",
+  "quote": "barvy bělavé a posetý černými šupinkami",
+  "claimed_false_for": {
+   "Q108319858": "Hřib broskvový (Rheubarbariboletus persicolor)"
+  }
+ },
+ {
+  "id": "Q690450#0",
+  "species": "Lysohlávka kubánská",
+  "latin": "Psilocybe cubensis",
+  "text": "Tento druh se po poranění rychle zbarví do modra.",
+  "quote": "Dužina je bělavá, avšak při poranění rychle zbarví do modra.",
+  "claimed_false_for": {
+   "Q1445543": "Muchomůrka šiškovitá (Amanita strobiliformis)",
+   "Q1757505": "Helmovka narůžovělá (Mycena rosea)",
+   "Q1879286": "Šťavnatka modřínová (Hygrophorus lucorum)",
+   "Q206449": "Holubinka jízlivá (Russula sardonia)",
+   "Q3066470": "Helmovka medonohá (Mycena renati)",
+   "Q36992": "Kotrč kadeřavý (Sparassis crispa)",
+   "Q3915457": "Slizobedla lesklá (Limacella illinita)",
+   "Q45547": "Muchomůrka tygrovaná (Amanita pantherina)",
+   "Q498221": "Ryzec smrkový (Lactarius deterrimus)",
+   "Q7289072": "Kuřinec lilákový (Ramariopsis pulchella)",
+   "Q732640": "Opeňka měnlivá (Kuehneromyces mutabilis)"
+  }
+ }
+]

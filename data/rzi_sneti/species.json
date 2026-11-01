@@ -1,0 +1,648 @@
+{
+ "Q1430040": {
+  "name": "Sněť kukuřičná",
+  "title": "Sněť kukuřičná",
+  "latin": "Ustilago maydis",
+  "family": "Ustilaginaceae",
+  "order": "prašné sněti",
+  "photos": [
+   {
+    "file": "Huitlacoche.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Huitlacoche.jpg?utm_source=cs.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "page": "https://commons.wikimedia.org/wiki/File:Huitlacoche.jpg",
+    "author": "stu_spivack",
+    "license": "CC BY-SA 2.0",
+    "desc": "Smut on a corn cob."
+   },
+   {
+    "file": "2011-08-27 Ustilago maydis (DC.) Corda 183839 mod.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/2011-08-27_Ustilago_maydis_%28DC.%29_Corda_183839_mod.jpg/500px-2011-08-27_Ustilago_maydis_%28DC.%29_Corda_183839_mod.jpg?utm_source=cs.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:2011-08-27_Ustilago_maydis_(DC.)_Corda_183839_mod.jpg",
+    "author": "This image was created by user Alan Rockefeller (Alan Rockefeller) at Mushroom O",
+    "license": "CC BY-SA 3.0",
+    "desc": "Ustilago maydis (DC.) Corda"
+   },
+   {
+    "file": "Builenbrand cyclus (Ustilago maydis life cycle).jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Builenbrand_cyclus_%28Ustilago_maydis_life_cycle%29.jpg/500px-Builenbrand_cyclus_%28Ustilago_maydis_life_cycle%29.jpg?utm_source=cs.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Builenbrand_cyclus_(Ustilago_maydis_life_cycle).jpg",
+    "author": "Kai Hirdes",
+    "license": "CC BY-SA 3.0",
+    "desc": "the w:en:maize disease w:en:corn smut . Picture taken on a maize field in Germany"
+   },
+   {
+    "file": "Huitlacoche, quintoniles, huauhzontles, flor de calabaza et al., Santa Maria la Ribera Market.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Huitlacoche%2C_quintoniles%2C_huauhzontles%2C_flor_de_calabaza_et_al.%2C_Santa_Maria_la_Ribera_Market.jpg/500px-Huitlacoche%2C_quintoniles%2C_huauhzontles%2C_flor_de_calabaza_et_al.%2C_Santa_Maria_la_Ribera_Market.jpg?utm_source=cs.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Huitlacoche,_quintoniles,_huauhzontles,_flor_de_calabaza_et_al.,_Santa_Maria_la_Ribera_Market.jpg",
+    "author": "Louise Ranck",
+    "license": "CC BY-SA 3.0",
+    "desc": "Huitlacoche, quintoniles, huauhzontles, flor de calabaza et al. from the Santa Maria la Ribera market, Mexico City"
+   },
+   {
+    "file": "2011-08-27 Ustilago maydis (DC.) Corda 183839.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/2011-08-27_Ustilago_maydis_%28DC.%29_Corda_183839.jpg/500px-2011-08-27_Ustilago_maydis_%28DC.%29_Corda_183839.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:2011-08-27_Ustilago_maydis_(DC.)_Corda_183839.jpg",
+    "author": "This image was created by user Alan Rockefeller (Alan Rockefeller) at Mushroom O",
+    "license": "CC BY-SA 3.0",
+    "desc": "Ustilago maydis (DC.) Corda"
+   },
+   {
+    "file": "20220709 Mycosarcoma maydis.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/20220709_Mycosarcoma_maydis.jpg/500px-20220709_Mycosarcoma_maydis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:20220709_Mycosarcoma_maydis.jpg",
+    "author": "Flocci Nivis",
+    "license": "CC BY 4.0",
+    "desc": "Maisbeulenbrand ( Mycosarcoma maydis ) gefunden bei einem Feld in Garching bei München."
+   },
+   {
+    "file": "Agriculture Research Service (ARS) (8424941180).jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Agriculture_Research_Service_%28ARS%29_%288424941180%29.jpg/500px-Agriculture_Research_Service_%28ARS%29_%288424941180%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Agriculture_Research_Service_(ARS)_(8424941180).jpg",
+    "author": "USDAgov",
+    "license": "Public domain",
+    "desc": "A corn earworm feeds on a corn cob infected with corn smut (blue kernels) on July 6, 2010. U.S. Department of Agriculture (USDA) Agriculture Research Service (ARS) researchers are investigating the pr"
+   },
+   {
+    "file": "Corn cob infected with Ustilago maydis.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Corn_cob_infected_with_Ustilago_maydis.jpg/500px-Corn_cob_infected_with_Ustilago_maydis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Corn_cob_infected_with_Ustilago_maydis.jpg",
+    "author": "Nolanna",
+    "license": "CC BY-SA 4.0",
+    "desc": "Photo of a corn cob infected with the plant pathogen Ustilago maydis."
+   },
+   {
+    "file": "Corn smut - Ustilago maydis (43972901855).jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Corn_smut_-_Ustilago_maydis_%2843972901855%29.jpg/500px-Corn_smut_-_Ustilago_maydis_%2843972901855%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Corn_smut_-_Ustilago_maydis_(43972901855).jpg",
+    "author": "Björn S...",
+    "license": "CC BY-SA 2.0",
+    "desc": "Corn smut - Ustilago maydis"
+   },
+   {
+    "file": "Ustilago maydis at 'Tasty Sweet' teleutospores (2).jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Ustilago_maydis_at_%27Tasty_Sweet%27_teleutospores_%282%29.jpg/500px-Ustilago_maydis_at_%27Tasty_Sweet%27_teleutospores_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Ustilago_maydis_at_%27Tasty_Sweet%27_teleutospores_(2).jpg",
+    "author": "Rasbak",
+    "license": "CC BY-SA 3.0",
+    "desc": "Teleutospores of Corn smut (Ustilago maydis), on a 'Tasty Sweet'maize plant.(400x)"
+   },
+   {
+    "file": "Ustilago maydis at 'Tasty Sweet' teleutospores (3).jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Ustilago_maydis_at_%27Tasty_Sweet%27_teleutospores_%283%29.jpg/500px-Ustilago_maydis_at_%27Tasty_Sweet%27_teleutospores_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Ustilago_maydis_at_%27Tasty_Sweet%27_teleutospores_(3).jpg",
+    "author": "Rasbak",
+    "license": "CC BY-SA 3.0",
+    "desc": "Teleutospores of Corn smut (Ustilago maydis), on a 'Tasty Sweet'maize plant. (400x)"
+   },
+   {
+    "file": "Mais Beulenbrand-JS.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Mais_Beulenbrand-JS.jpg/500px-Mais_Beulenbrand-JS.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Mais_Beulenbrand-JS.jpg",
+    "author": "Schlaghecken Josef",
+    "license": "CC BY-SA 4.0",
+    "desc": "Ustilago maydis has infested the corn cob of the plant."
+   },
+   {
+    "file": "Corn smut - Ustilago maydis (44884864861).jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Corn_smut_-_Ustilago_maydis_%2844884864861%29.jpg/500px-Corn_smut_-_Ustilago_maydis_%2844884864861%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Corn_smut_-_Ustilago_maydis_(44884864861).jpg",
+    "author": "Björn S...",
+    "license": "CC BY-SA 2.0",
+    "desc": "Corn smut - Ustilago maydis"
+   },
+   {
+    "file": "Ustilago maydis 4.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Ustilago_maydis_4.jpg/500px-Ustilago_maydis_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Ustilago_maydis_4.jpg",
+    "author": "Jose Angel Urquia Goitia",
+    "license": "CC BY-SA 4.0",
+    "desc": "Ustilago maydis 4"
+   },
+   {
+    "file": "Maisi-lendnõgi.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Maisi-lendn%C3%B5gi.jpg/500px-Maisi-lendn%C3%B5gi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Maisi-lendn%C3%B5gi.jpg",
+    "author": "Svencapoeira",
+    "license": "CC BY-SA 4.0",
+    "desc": "Maisi-lendnõgi. Kasvukoht: Väike-Rakke, ? maakond"
+   },
+   {
+    "file": "Ustilago maydis 5.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Ustilago_maydis_5.jpg/500px-Ustilago_maydis_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Ustilago_maydis_5.jpg",
+    "author": "Jose Angel Urquia Goitia",
+    "license": "CC BY-SA 4.0",
+    "desc": "Ustilago maydis 5"
+   }
+  ]
+ },
+ "Q1439264": {
+  "name": "Rez slézová",
+  "title": "Rez slézová",
+  "latin": "Puccinia malvacearum",
+  "family": "Pucciniaceae",
+  "order": "rzi",
+  "photos": [
+   {
+    "file": "2008-05-14 Puccinia malvacearum 60215.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/2008-05-14_Puccinia_malvacearum_60215.jpg/500px-2008-05-14_Puccinia_malvacearum_60215.jpg?utm_source=cs.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:2008-05-14_Puccinia_malvacearum_60215.jpg",
+    "author": "This image was created by user Gerhard Koller (Gerhard) at Mushroom Observer , a",
+    "license": "CC BY-SA 3.0",
+    "desc": "For more information about this, see the observation page at Mushroom Observer."
+   },
+   {
+    "file": "2012-11-30 Puccinia malvacearum (Bertero ex Montagne 1852) 287942.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/2012-11-30_Puccinia_malvacearum_%28Bertero_ex_Montagne_1852%29_287942.jpg/500px-2012-11-30_Puccinia_malvacearum_%28Bertero_ex_Montagne_1852%29_287942.jpg?utm_source=cs.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:2012-11-30_Puccinia_malvacearum_(Bertero_ex_Montagne_1852)_287942.jpg",
+    "author": "This image was created by user BretP at Mushroom Observer , a source for mycolog",
+    "license": "CC BY-SA 3.0",
+    "desc": "Puccinia malvacearum (Bertero ex Montagne 1852)"
+   },
+   {
+    "file": "2013 04 26 10309u.JPG",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/2013_04_26_10309u.JPG/500px-2013_04_26_10309u.JPG?utm_source=cs.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:2013_04_26_10309u.JPG",
+    "author": "I.Sáček, senior",
+    "license": "CC0",
+    "desc": "Rez slézová Puccinia malvacearum je houba, jednobytná rez. Brno Řečkovice, proskurník topolovka ( Althaea rosea )"
+   },
+   {
+    "file": "2013 04 26 10315u.JPG",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/2013_04_26_10315u.JPG/500px-2013_04_26_10315u.JPG?utm_source=cs.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:2013_04_26_10315u.JPG",
+    "author": "I.Sáček, senior",
+    "license": "CC0",
+    "desc": "Rez slézová Puccinia malvacearum je houba, jednobytná rez. Brno Řečkovice, proskurník topolovka ( Althaea rosea )"
+   },
+   {
+    "file": "Hollyhock Rust (Puccinia malvacearum) on Mallow (Malva sp.) - London, England 2023-10-30.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Hollyhock_Rust_%28Puccinia_malvacearum%29_on_Mallow_%28Malva_sp.%29_-_London%2C_England_2023-10-30.jpg/500px-Hollyhock_Rust_%28Puccinia_malvacearum%29_on_Mallow_%28Malva_sp.%29_-_London%2C_England_2023-10-30.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Hollyhock_Rust_(Puccinia_malvacearum)_on_Mallow_(Malva_sp.)_-_London,_England_2023-10-30.jpg",
+    "author": "Ryan Hodnett",
+    "license": "CC BY-SA 4.0",
+    "desc": "Hollyhock Rust ( Puccinia malvacearum ) on Mallow ( Malva sp.) at Walthamstow Wetlands in London, England."
+   },
+   {
+    "file": "Journal of the Royal Horticultural Society of London (1873) (14577476458).jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Journal_of_the_Royal_Horticultural_Society_of_London_%281873%29_%2814577476458%29.jpg/500px-Journal_of_the_Royal_Horticultural_Society_of_London_%281873%29_%2814577476458%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Journal_of_the_Royal_Horticultural_Society_of_London_(1873)_(14577476458).jpg",
+    "author": "Royal Horticultural Society (Great Britain); Royal Horticultural Society (Great ",
+    "license": "No restrictions",
+    "desc": "Identifier : journalofroyalho4187roya ( find matches ) Title : Journal of the Royal Horticultural Society of London Year : 1866 ( 1860s ) Authors : Royal Horticultural Society (Great Britain) Royal Ho"
+   }
+  ]
+ },
+ "Q1602264": {
+  "name": "Rez vrbková",
+  "title": "Rez vrbková",
+  "latin": "Pucciniastrum epilobii",
+  "family": "Pucciniastraceae",
+  "order": "rzi",
+  "photos": [
+   {
+    "file": "2012-09-22 Pucciniastrum epilobii 264614.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/2012-09-22_Pucciniastrum_epilobii_264614.jpg/500px-2012-09-22_Pucciniastrum_epilobii_264614.jpg?utm_source=cs.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:2012-09-22_Pucciniastrum_epilobii_264614.jpg",
+    "author": "This image was created by user Daniel B. Wheeler (Tuberale) at Mushroom Observer",
+    "license": "CC BY-SA 3.0",
+    "desc": "Pucciniastrum epilobii"
+   },
+   {
+    "file": "Gruga-0011.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Gruga-0011.jpg/500px-Gruga-0011.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Gruga-0011.jpg",
+    "author": "Björn Sothmann",
+    "license": "CC BY-SA 4.0",
+    "desc": "Pucciniastrum epilobii on Epilobium sp."
+   },
+   {
+    "file": "Gruga-0012.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Gruga-0012.jpg/500px-Gruga-0012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Gruga-0012.jpg",
+    "author": "Björn Sothmann",
+    "license": "CC BY-SA 4.0",
+    "desc": "Pucciniastrum epilobii on Epilobium sp."
+   },
+   {
+    "file": "Gruga-0013.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Gruga-0013.jpg/500px-Gruga-0013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Gruga-0013.jpg",
+    "author": "Björn Sothmann",
+    "license": "CC BY-SA 4.0",
+    "desc": "Pucciniastrum epilobii on Epilobium sp."
+   },
+   {
+    "file": "Gruga-0014.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Gruga-0014.jpg/500px-Gruga-0014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Gruga-0014.jpg",
+    "author": "Björn Sothmann",
+    "license": "CC BY-SA 4.0",
+    "desc": "Pucciniastrum epilobii on Epilobium sp."
+   },
+   {
+    "file": "Pucciniastrum epilobii - Fireweed - Epilobium angustifolium (45330623411).jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Pucciniastrum_epilobii_-_Fireweed_-_Epilobium_angustifolium_%2845330623411%29.jpg/500px-Pucciniastrum_epilobii_-_Fireweed_-_Epilobium_angustifolium_%2845330623411%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Pucciniastrum_epilobii_-_Fireweed_-_Epilobium_angustifolium_(45330623411).jpg",
+    "author": "Björn S...",
+    "license": "CC BY-SA 2.0",
+    "desc": "Pucciniastrum epilobii - Fireweed - Epilobium angustifolium"
+   },
+   {
+    "file": "Pucciniastrum epilobii (42).jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Pucciniastrum_epilobii_%2842%29.jpg/500px-Pucciniastrum_epilobii_%2842%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Pucciniastrum_epilobii_(42).jpg",
+    "author": "Petr Kapitola, Central Institute for Supervising and Testing in Agriculture, Bug",
+    "license": "CC BY 3.0 us",
+    "desc": "Pucciniastrum epilobii on Abies alba"
+   },
+   {
+    "file": "Landschaftspark-0005.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Landschaftspark-0005.jpg/500px-Landschaftspark-0005.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Landschaftspark-0005.jpg",
+    "author": "Björn Sothmann",
+    "license": "CC BY-SA 4.0",
+    "desc": "Pucciniastrum epilobii on Epilobium sp."
+   },
+   {
+    "file": "Pucciniastrum epilobii - Fireweed - Epilobium angustifolium (44407231785).jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Pucciniastrum_epilobii_-_Fireweed_-_Epilobium_angustifolium_%2844407231785%29.jpg/500px-Pucciniastrum_epilobii_-_Fireweed_-_Epilobium_angustifolium_%2844407231785%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Pucciniastrum_epilobii_-_Fireweed_-_Epilobium_angustifolium_(44407231785).jpg",
+    "author": "Björn S...",
+    "license": "CC BY-SA 2.0",
+    "desc": "Pucciniastrum epilobii - Fireweed - Epilobium angustifolium"
+   },
+   {
+    "file": "Pucciniastrum epilobii (36).jpeg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Pucciniastrum_epilobii_%2836%29.jpeg/500px-Pucciniastrum_epilobii_%2836%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Pucciniastrum_epilobii_(36).jpeg",
+    "author": "bjoerns",
+    "license": "CC BY-SA 4.0",
+    "desc": "Pucciniastrum epilobii ex Epilobium angustifolium"
+   },
+   {
+    "file": "Pucciniastrum epilobii (37).jpeg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Pucciniastrum_epilobii_%2837%29.jpeg/500px-Pucciniastrum_epilobii_%2837%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Pucciniastrum_epilobii_(37).jpeg",
+    "author": "bjoerns",
+    "license": "CC BY-SA 4.0",
+    "desc": "Pucciniastrum epilobii ex Epilobium angustifolium"
+   },
+   {
+    "file": "Pucciniastrum epilobii (31).jpeg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Pucciniastrum_epilobii_%2831%29.jpeg/500px-Pucciniastrum_epilobii_%2831%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Pucciniastrum_epilobii_(31).jpeg",
+    "author": "bjoerns",
+    "license": "CC BY-SA 4.0",
+    "desc": "Pucciniastrum epilobii ex Fuchsia cult"
+   },
+   {
+    "file": "Pucciniastrum epilobii - Fireweed - Epilobium angustifolium (45333611891).jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Pucciniastrum_epilobii_-_Fireweed_-_Epilobium_angustifolium_%2845333611891%29.jpg/500px-Pucciniastrum_epilobii_-_Fireweed_-_Epilobium_angustifolium_%2845333611891%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Pucciniastrum_epilobii_-_Fireweed_-_Epilobium_angustifolium_(45333611891).jpg",
+    "author": "Björn S...",
+    "license": "CC BY-SA 2.0",
+    "desc": "Pucciniastrum epilobii - Fireweed - Epilobium angustifolium"
+   }
+  ]
+ },
+ "Q2301438": {
+  "name": "Rez vejmutovková",
+  "title": "Rez vejmutovková",
+  "latin": "Cronartium ribicola",
+  "family": "Cronartiaceae",
+  "order": "rzi",
+  "photos": [
+   {
+    "file": "Cronartium ribicola1.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Cronartium_ribicola1.jpg/500px-Cronartium_ribicola1.jpg?utm_source=cs.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Cronartium_ribicola1.jpg",
+    "author": "",
+    "license": "Public domain",
+    "desc": "Cronartium ribicola on Pinus monticola , USDA Forest Service, Dorena Genetic Resource Center, USA"
+   },
+   {
+    "file": "Cronartium ribicola2.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Cronartium_ribicola2.jpg/500px-Cronartium_ribicola2.jpg?utm_source=cs.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Cronartium_ribicola2.jpg",
+    "author": "",
+    "license": "Public domain",
+    "desc": ""
+   },
+   {
+    "file": "Cronartium ribicola bialowieza 4 beentree.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Cronartium_ribicola_bialowieza_4_beentree.jpg/500px-Cronartium_ribicola_bialowieza_4_beentree.jpg?utm_source=cs.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Cronartium_ribicola_bialowieza_4_beentree.jpg",
+    "author": "",
+    "license": "CC BY-SA 3.0",
+    "desc": ""
+   },
+   {
+    "file": "Cronartium ribicola Ribes telia (05).jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Cronartium_ribicola_Ribes_telia_%2805%29.jpg/500px-Cronartium_ribicola_Ribes_telia_%2805%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Cronartium_ribicola_Ribes_telia_(05).jpg",
+    "author": "USDA Forest Service - Ogden , USDA Forest Service, Bugwood.org",
+    "license": "CC BY 3.0 us",
+    "desc": "Cronartium_ribicola at Ribes : teliospores germinating to form basidiospores"
+   },
+   {
+    "file": "Annual report of the State Entomologist of Minnesota to the Governor for the year .. (1916) (18746865993).jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Annual_report_of_the_State_Entomologist_of_Minnesota_to_the_Governor_for_the_year_.._%281916%29_%2818746865993%29.jpg/500px-Annual_report_of_the_State_Entomologist_of_Minnesota_to_the_Governor_for_the_year_.._%281916%29_%2818746865993%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Annual_report_of_the_State_Entomologist_of_Minnesota_to_the_Governor_for_the_year_.._(1916)_(18746865993).jpg",
+    "author": "Internet Archive Book Images",
+    "license": "No restrictions",
+    "desc": "Title : Annual report of the State Entomologist of Minnesota to the Governor for the year .. Identifier : annualreportofst161916minn Year : 1903 ( 1900s ) Authors : Minnesota. State Entomologist ; Uni"
+   },
+   {
+    "file": "Cronartium ribicola bialowieza 5 beentree.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Cronartium_ribicola_bialowieza_5_beentree.jpg/500px-Cronartium_ribicola_bialowieza_5_beentree.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Cronartium_ribicola_bialowieza_5_beentree.jpg",
+    "author": "",
+    "license": "CC BY-SA 3.0",
+    "desc": ""
+   },
+   {
+    "file": "1945. Worker from Scales Blister Rust Control Camp digging out Ribes plant. Plumas National Forest, California. (33558383585).jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/1945._Worker_from_Scales_Blister_Rust_Control_Camp_digging_out_Ribes_plant._Plumas_National_Forest%2C_California._%2833558383585%29.jpg/500px-1945._Worker_from_Scales_Blister_Rust_Control_Camp_digging_out_Ribes_plant._Plumas_National_Forest%2C_California._%2833558383585%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:1945._Worker_from_Scales_Blister_Rust_Control_Camp_digging_out_Ribes_plant._Plumas_National_Forest,_California._(33558383585).jpg",
+    "author": "R6, State & Private Forestry, Forest Health Protection",
+    "license": "Public domain",
+    "desc": "Worker from Scales Blister Rust Control Camp digging out Ribes plant. King's Meadow. Plumas National Forest, California. Photo by: Robert Overstree Date: August 24, 1945 Credit: National Archives and "
+   },
+   {
+    "file": "Annual report of the State Entomologist of Minnesota to the Governor for the year .. (1916) (18746877343).jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Annual_report_of_the_State_Entomologist_of_Minnesota_to_the_Governor_for_the_year_.._%281916%29_%2818746877343%29.jpg/500px-Annual_report_of_the_State_Entomologist_of_Minnesota_to_the_Governor_for_the_year_.._%281916%29_%2818746877343%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Annual_report_of_the_State_Entomologist_of_Minnesota_to_the_Governor_for_the_year_.._(1916)_(18746877343).jpg",
+    "author": "Internet Archive Book Images",
+    "license": "No restrictions",
+    "desc": "Title : Annual report of the State Entomologist of Minnesota to the Governor for the year .. Identifier : annualreportofst161916minn Year : 1903 ( 1900s ) Authors : Minnesota. State Entomologist ; Uni"
+   },
+   {
+    "file": "Cronartium ribicola bialowieza 6 beentree.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Cronartium_ribicola_bialowieza_6_beentree.jpg/500px-Cronartium_ribicola_bialowieza_6_beentree.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Cronartium_ribicola_bialowieza_6_beentree.jpg",
+    "author": "",
+    "license": "CC BY-SA 3.0",
+    "desc": ""
+   }
+  ]
+ },
+ "Q449430": {
+  "name": "Rez hrušňová",
+  "title": "Rez hrušňová",
+  "latin": "Gymnosporangium sabinae",
+  "family": "Gymnosporangiaceae",
+  "order": "rzi",
+  "photos": [
+   {
+    "file": "Pear juniper rust 01.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Pear_juniper_rust_01.jpg/500px-Pear_juniper_rust_01.jpg?utm_source=cs.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Pear_juniper_rust_01.jpg",
+    "author": "Rilegator",
+    "license": "CC BY-SA 3.0",
+    "desc": "Pear juniper rust. Gymnosporangium sabinae"
+   },
+   {
+    "file": "Gymnosporangium sabinae fg04.JPG",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Gymnosporangium_sabinae_fg04.JPG/500px-Gymnosporangium_sabinae_fg04.JPG?utm_source=cs.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Gymnosporangium_sabinae_fg04.JPG",
+    "author": "Fritz Geller-Grimm",
+    "license": "CC BY-SA 2.5",
+    "desc": "Gymnosporangium sabinae , Birnengitterrost, Frankfurt am Main, Nied, Deutschland, Germany"
+   },
+   {
+    "file": "Birnengitterrost Baum.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Birnengitterrost_Baum.jpg/500px-Birnengitterrost_Baum.jpg?utm_source=cs.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Birnengitterrost_Baum.jpg",
+    "author": "Jan Homann",
+    "license": "Public domain",
+    "desc": "Birnengitterrost ( Gymnosporangium sabinae )"
+   },
+   {
+    "file": "Enebærrust.JPG",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Eneb%C3%A6rrust.JPG/500px-Eneb%C3%A6rrust.JPG?utm_source=cs.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Eneb%C3%A6rrust.JPG",
+    "author": "Original uploader was Sten Porse at da.wikipedia",
+    "license": "CC BY-SA 3.0",
+    "desc": "Hawthorn-Juniper rust as it looks on Juniperus communis"
+   },
+   {
+    "file": "Gymnosporangium clavariiforme 01.JPG",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Gymnosporangium_clavariiforme_01.JPG/500px-Gymnosporangium_clavariiforme_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Gymnosporangium_clavariiforme_01.JPG",
+    "author": "AfroBrazilian",
+    "license": "CC BY-SA 3.0",
+    "desc": "Gymnosporangium clavariiforme. Found in Bērzi village near Bauska city, Latvia"
+   },
+   {
+    "file": "Gymnosporangium sabinae (52581977552).jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Gymnosporangium_sabinae_%2852581977552%29.jpg/500px-Gymnosporangium_sabinae_%2852581977552%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Gymnosporangium_sabinae_(52581977552).jpg",
+    "author": "Gilles San Martin from Namur, Belgium",
+    "license": "CC BY-SA 2.0",
+    "desc": "Handheld, in camera focus stack of 15 images On a leaf of Pyrus spinosa"
+   },
+   {
+    "file": "Gymnosporangium sabinae (Pucciniaceae) - (aecium), Elst (Gld), the Netherlands - 2.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Gymnosporangium_sabinae_%28Pucciniaceae%29_-_%28aecium%29%2C_Elst_%28Gld%29%2C_the_Netherlands_-_2.jpg/500px-Gymnosporangium_sabinae_%28Pucciniaceae%29_-_%28aecium%29%2C_Elst_%28Gld%29%2C_the_Netherlands_-_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Gymnosporangium_sabinae_(Pucciniaceae)_-_(aecium),_Elst_(Gld),_the_Netherlands_-_2.jpg",
+    "author": "This image is created by user B. Schoenmakers at Waarneming.nl , a source of nat",
+    "license": "CC BY 3.0",
+    "desc": "Gymnosporangium sabinae ( Pucciniaceae ) - (aecium), Elst (Gld) - De Park, the Netherlands"
+   },
+   {
+    "file": "Gymnosporangium sabinae (Pucciniaceae) - (aecium), Elst (Gld), the Netherlands - 3.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Gymnosporangium_sabinae_%28Pucciniaceae%29_-_%28aecium%29%2C_Elst_%28Gld%29%2C_the_Netherlands_-_3.jpg/500px-Gymnosporangium_sabinae_%28Pucciniaceae%29_-_%28aecium%29%2C_Elst_%28Gld%29%2C_the_Netherlands_-_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Gymnosporangium_sabinae_(Pucciniaceae)_-_(aecium),_Elst_(Gld),_the_Netherlands_-_3.jpg",
+    "author": "This image is created by user B. Schoenmakers at Waarneming.nl , a source of nat",
+    "license": "CC BY 3.0",
+    "desc": "Gymnosporangium sabinae ( Pucciniaceae ) - (aecium), Elst (Gld) - De Park, the Netherlands"
+   },
+   {
+    "file": "Spores of the parasitic fungus Gymnosporangium sabinae under microscope.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Spores_of_the_parasitic_fungus_Gymnosporangium_sabinae_under_microscope.jpg/500px-Spores_of_the_parasitic_fungus_Gymnosporangium_sabinae_under_microscope.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Spores_of_the_parasitic_fungus_Gymnosporangium_sabinae_under_microscope.jpg",
+    "author": "Lejla Krasniqi",
+    "license": "CC BY-SA 4.0",
+    "desc": "Spores of Gymnosporangium sabinae. Spores of the parasitic rust fungus Gymnosporangium sabinae, the causal agent of pear rust, collected from infected leaves of common pear (Pyrus communis). Observed "
+   },
+   {
+    "file": "Gymnosporangium sabinae 115779715.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Gymnosporangium_sabinae_115779715.jpg/500px-Gymnosporangium_sabinae_115779715.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Gymnosporangium_sabinae_115779715.jpg",
+    "author": "bjoerns",
+    "license": "CC BY-SA 4.0",
+    "desc": "Pear Rust ( Gymnosporangium sabinae )"
+   },
+   {
+    "file": "Pear Rust - Gymnosporangium sabinae on Pyrus cf. pyraster (45563316412).jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Pear_Rust_-_Gymnosporangium_sabinae_on_Pyrus_cf._pyraster_%2845563316412%29.jpg/500px-Pear_Rust_-_Gymnosporangium_sabinae_on_Pyrus_cf._pyraster_%2845563316412%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Pear_Rust_-_Gymnosporangium_sabinae_on_Pyrus_cf._pyraster_(45563316412).jpg",
+    "author": "Björn S...",
+    "license": "CC BY-SA 2.0",
+    "desc": "Pear Rust - Gymnosporangium sabinae on Pyrus cf. pyraster"
+   },
+   {
+    "file": "Pear Rust - Gymnosporangium sabinae on Pyrus cf. pyraster (45613898301).jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Pear_Rust_-_Gymnosporangium_sabinae_on_Pyrus_cf._pyraster_%2845613898301%29.jpg/500px-Pear_Rust_-_Gymnosporangium_sabinae_on_Pyrus_cf._pyraster_%2845613898301%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Pear_Rust_-_Gymnosporangium_sabinae_on_Pyrus_cf._pyraster_(45613898301).jpg",
+    "author": "Björn S...",
+    "license": "CC BY-SA 2.0",
+    "desc": "Pear Rust - Gymnosporangium sabinae on Pyrus cf. pyraster"
+   },
+   {
+    "file": "Pear Rust - Gymnosporangium sabinae on Pyrus cf. pyraster (45531468311).jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Pear_Rust_-_Gymnosporangium_sabinae_on_Pyrus_cf._pyraster_%2845531468311%29.jpg/500px-Pear_Rust_-_Gymnosporangium_sabinae_on_Pyrus_cf._pyraster_%2845531468311%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Pear_Rust_-_Gymnosporangium_sabinae_on_Pyrus_cf._pyraster_(45531468311).jpg",
+    "author": "Björn S...",
+    "license": "CC BY-SA 2.0",
+    "desc": "Pear Rust - Gymnosporangium sabinae on Pyrus cf. pyraster"
+   },
+   {
+    "file": "Gymnosporangium sabinae 102150958.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Gymnosporangium_sabinae_102150958.jpg/500px-Gymnosporangium_sabinae_102150958.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Gymnosporangium_sabinae_102150958.jpg",
+    "author": "bjoerns",
+    "license": "CC BY-SA 4.0",
+    "desc": "Pear Rust ( Gymnosporangium sabinae )"
+   },
+   {
+    "file": "Gymnosporangium sabinae (Pucciniaceae) - (aecium), Elst (Gld), the Netherlands.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Gymnosporangium_sabinae_%28Pucciniaceae%29_-_%28aecium%29%2C_Elst_%28Gld%29%2C_the_Netherlands.jpg/500px-Gymnosporangium_sabinae_%28Pucciniaceae%29_-_%28aecium%29%2C_Elst_%28Gld%29%2C_the_Netherlands.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Gymnosporangium_sabinae_(Pucciniaceae)_-_(aecium),_Elst_(Gld),_the_Netherlands.jpg",
+    "author": "This image is created by user B. Schoenmakers at Waarneming.nl , a source of nat",
+    "license": "CC BY 3.0",
+    "desc": "Gymnosporangium sabinae ( Pucciniaceae ) - (aecium), Elst (Gld) - De Park, the Netherlands"
+   },
+   {
+    "file": "Gymnosporangium sabinae 98589551.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Gymnosporangium_sabinae_98589551.jpg/500px-Gymnosporangium_sabinae_98589551.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Gymnosporangium_sabinae_98589551.jpg",
+    "author": "Никита Герасин",
+    "license": "CC BY 4.0",
+    "desc": "Pear Rust ( Gymnosporangium sabinae )"
+   }
+  ]
+ },
+ "Q1342327": {
+  "name": "Rez travní",
+  "title": "Rez travní",
+  "latin": "Puccinia graminis",
+  "family": "Pucciniaceae",
+  "order": "rzi",
+  "photos": [
+   {
+    "file": "Stem rust close up.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Stem_rust_close_up.jpg/500px-Stem_rust_close_up.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Stem_rust_close_up.jpg",
+    "author": "",
+    "license": "Public domain",
+    "desc": ""
+   },
+   {
+    "file": "Avena strigosa primary leaf inoculated with oat stem rust.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Avena_strigosa_primary_leaf_inoculated_with_oat_stem_rust.jpg/500px-Avena_strigosa_primary_leaf_inoculated_with_oat_stem_rust.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Avena_strigosa_primary_leaf_inoculated_with_oat_stem_rust.jpg",
+    "author": "Gordon, T.C., Jin, Y., Tinker, N.A. et al.",
+    "license": "CC BY 4.0",
+    "desc": "Avena strigosa primary leaf infection type (IT) phenotypes inoculated with oat stem rust ( Puccinia graminis f. sp. avenae ) race KBD."
+   },
+   {
+    "file": "IMAG7799.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/IMAG7799.jpg/500px-IMAG7799.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:IMAG7799.jpg",
+    "author": "Brauna55",
+    "license": "CC BY-SA 4.0",
+    "desc": "Stiebru (svītru) rūsa Puccinia graminis"
+   },
+   {
+    "file": "K6rrerooste estonia.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/K6rrerooste_estonia.jpg/500px-K6rrerooste_estonia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:K6rrerooste_estonia.jpg",
+    "author": "Tauno Erik",
+    "license": "CC BY-SA 3.0",
+    "desc": "Kõrrerooste?, Põlvamaa"
+   },
+   {
+    "file": "Puccinia graminis 106743991.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Puccinia_graminis_106743991.jpg/500px-Puccinia_graminis_106743991.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Puccinia_graminis_106743991.jpg",
+    "author": "bjoerns",
+    "license": "CC BY-SA 4.0",
+    "desc": "cereal rusts ( Puccinia graminis )"
+   },
+   {
+    "file": "Working Group on the study of stem rust in Western Siberia.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Working_Group_on_the_study_of_stem_rust_in_Western_Siberia.jpg/500px-Working_Group_on_the_study_of_stem_rust_in_Western_Siberia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Working_Group_on_the_study_of_stem_rust_in_Western_Siberia.jpg",
+    "author": "Kelbin Vasiliy",
+    "license": "CC BY 4.0",
+    "desc": "Molecular phytopathologists before working with stem rust pathogen"
+   },
+   {
+    "file": "Puccinia graminis 106744072.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Puccinia_graminis_106744072.jpg/500px-Puccinia_graminis_106744072.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Puccinia_graminis_106744072.jpg",
+    "author": "bjoerns",
+    "license": "CC BY-SA 4.0",
+    "desc": "cereal rusts ( Puccinia graminis )"
+   },
+   {
+    "file": "Stem Rust - Puccinia graminis on Tall Fescue - Festuca arundinacea (45505394132).jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Stem_Rust_-_Puccinia_graminis_on_Tall_Fescue_-_Festuca_arundinacea_%2845505394132%29.jpg/500px-Stem_Rust_-_Puccinia_graminis_on_Tall_Fescue_-_Festuca_arundinacea_%2845505394132%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Stem_Rust_-_Puccinia_graminis_on_Tall_Fescue_-_Festuca_arundinacea_(45505394132).jpg",
+    "author": "Björn S...",
+    "license": "CC BY-SA 2.0",
+    "desc": "Stem Rust - Puccinia graminis on Tall Fescue - Festuca arundinacea"
+   },
+   {
+    "file": "The rusts of Australia, their structure, nature, and classification (1906) (14587445679).jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/The_rusts_of_Australia%2C_their_structure%2C_nature%2C_and_classification_%281906%29_%2814587445679%29.jpg/500px-The_rusts_of_Australia%2C_their_structure%2C_nature%2C_and_classification_%281906%29_%2814587445679%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:The_rusts_of_Australia,_their_structure,_nature,_and_classification_(1906)_(14587445679).jpg",
+    "author": "McAlpine, Daniel, 1848-1932",
+    "license": "No restrictions",
+    "desc": "Identifier : rustsofaustralia00mcal ( find matches ) Title : The rusts of Australia, their structure, nature, and classification Year : 1906 ( 1900s ) Authors : McAlpine, Daniel, 1848-1932 Subjects : "
+   },
+   {
+    "file": "Puccinia graminis 149593576.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Puccinia_graminis_149593576.jpg/500px-Puccinia_graminis_149593576.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Puccinia_graminis_149593576.jpg",
+    "author": "bjoerns",
+    "license": "CC BY-SA 4.0",
+    "desc": "cereal rusts ( Puccinia graminis )"
+   },
+   {
+    "file": "Stem Rust - Puccinia graminis on Tall Fescue - Festuca arundinacea (31683061678).jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Stem_Rust_-_Puccinia_graminis_on_Tall_Fescue_-_Festuca_arundinacea_%2831683061678%29.jpg/500px-Stem_Rust_-_Puccinia_graminis_on_Tall_Fescue_-_Festuca_arundinacea_%2831683061678%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Stem_Rust_-_Puccinia_graminis_on_Tall_Fescue_-_Festuca_arundinacea_(31683061678).jpg",
+    "author": "Björn S...",
+    "license": "CC BY-SA 2.0",
+    "desc": "Stem Rust - Puccinia graminis on Tall Fescue - Festuca arundinacea"
+   },
+   {
+    "file": "Puccinia graminis 106744000.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Puccinia_graminis_106744000.jpg/500px-Puccinia_graminis_106744000.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Puccinia_graminis_106744000.jpg",
+    "author": "bjoerns",
+    "license": "CC BY-SA 4.0",
+    "desc": "cereal rusts ( Puccinia graminis )"
+   },
+   {
+    "file": "Stem Rust - Puccinia graminis on Tall Fescue - Festuca arundinacea (44641398465).jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Stem_Rust_-_Puccinia_graminis_on_Tall_Fescue_-_Festuca_arundinacea_%2844641398465%29.jpg/500px-Stem_Rust_-_Puccinia_graminis_on_Tall_Fescue_-_Festuca_arundinacea_%2844641398465%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Stem_Rust_-_Puccinia_graminis_on_Tall_Fescue_-_Festuca_arundinacea_(44641398465).jpg",
+    "author": "Björn S...",
+    "license": "CC BY-SA 2.0",
+    "desc": "Stem Rust - Puccinia graminis on Tall Fescue - Festuca arundinacea"
+   },
+   {
+    "file": "Puccinia graminis 106744025.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Puccinia_graminis_106744025.jpg/500px-Puccinia_graminis_106744025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Puccinia_graminis_106744025.jpg",
+    "author": "bjoerns",
+    "license": "CC BY-SA 4.0",
+    "desc": "cereal rusts ( Puccinia graminis )"
+   }
+  ]
+ }
+}

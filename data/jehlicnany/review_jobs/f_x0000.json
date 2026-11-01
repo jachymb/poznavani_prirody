@@ -1,0 +1,82 @@
+[
+ {
+  "id": "Q1144815#4",
+  "species": "Tis japonský",
+  "latin": "Taxus cuspidata",
+  "text": "Tento druh je prudce jedovatý.",
+  "quote": "Celá rostlina s výjimkou míšku je prudce jedovatá",
+  "claimed_false_for": {
+   "Q146021": "Borovice rumelská (Pinus peuce)",
+   "Q149548": "Borovice zobanitá (Pinus uncinata)",
+   "Q150129": "Sekvoje vždyzelená (Sequoia sempervirens)",
+   "Q3285379": "Borovice Gerardova (Pinus gerardiana)",
+   "Q3308389": "Borovice Nelsonova (Pinus nelsonii)"
+  }
+ },
+ {
+  "id": "Q147468#4",
+  "species": "Zerav západní",
+  "latin": "Thuja occidentalis",
+  "text": "Tento druh je jedovatý, všechny jeho části jsou jedovaté.",
+  "quote": "Všechny části rostliny jsou jedovaté.",
+  "claimed_false_for": {
+   "Q146021": "Borovice rumelská (Pinus peuce)",
+   "Q149548": "Borovice zobanitá (Pinus uncinata)",
+   "Q150129": "Sekvoje vždyzelená (Sequoia sempervirens)",
+   "Q3285379": "Borovice Gerardova (Pinus gerardiana)",
+   "Q3308389": "Borovice Nelsonova (Pinus nelsonii)"
+  }
+ },
+ {
+  "id": "Q147468#5",
+  "species": "Zerav západní",
+  "latin": "Thuja occidentalis",
+  "text": "Obsahuje silný jed, který dráždí kůži.",
+  "quote": "Jed thujon dráždí pokožku",
+  "claimed_false_for": {
+   "Q146021": "Borovice rumelská (Pinus peuce)",
+   "Q149548": "Borovice zobanitá (Pinus uncinata)",
+   "Q150129": "Sekvoje vždyzelená (Sequoia sempervirens)",
+   "Q3285379": "Borovice Gerardova (Pinus gerardiana)",
+   "Q3308389": "Borovice Nelsonova (Pinus nelsonii)"
+  }
+ },
+ {
+  "id": "Q179729#8",
+  "species": "Tis červený",
+  "latin": "Taxus baccata",
+  "text": "Tento druh je prudce jedovatý.",
+  "quote": "je celá rostlina prudce jedovatá",
+  "claimed_false_for": {
+   "Q146021": "Borovice rumelská (Pinus peuce)",
+   "Q149548": "Borovice zobanitá (Pinus uncinata)",
+   "Q150129": "Sekvoje vždyzelená (Sequoia sempervirens)",
+   "Q3285379": "Borovice Gerardova (Pinus gerardiana)",
+   "Q3308389": "Borovice Nelsonova (Pinus nelsonii)"
+  }
+ },
+ {
+  "id": "Q26325#6",
+  "species": "Jalovec obecný",
+  "latin": "Juniperus communis",
+  "text": "Tento druh je mírně jedovatý.",
+  "quote": "Bývá uváděn jako mírně jedovatý, žádné vážnější otravy však nejsou známy.",
+  "claimed_false_for": {
+   "Q150129": "Sekvoje vždyzelená (Sequoia sempervirens)",
+   "Q3285379": "Borovice Gerardova (Pinus gerardiana)",
+   "Q3308389": "Borovice Nelsonova (Pinus nelsonii)"
+  }
+ },
+ {
+  "id": "Q665625#4",
+  "species": "Hlavotis čínský",
+  "latin": "Cephalotaxus sinensis",
+  "text": "Má jedovatá semena.",
+  "quote": "Jeho zralé plody obsahují jedovatá semena",
+  "claimed_false_for": {
+   "Q150129": "Sekvoje vždyzelená (Sequoia sempervirens)",
+   "Q3285379": "Borovice Gerardova (Pinus gerardiana)",
+   "Q3308389": "Borovice Nelsonova (Pinus nelsonii)"
+  }
+ }
+]

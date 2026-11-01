@@ -1,0 +1,469 @@
+[
+ {
+  "id": "Q1130118#1",
+  "species": "Očnatec obecný",
+  "latin": "Sarpa salpa",
+  "text": "Žije ve Středozemním moři a v Biskajském zálivu.",
+  "quote": "žijící ve Středozemním moři a Biskajském zálivu",
+  "claimed_false_for": {
+   "Q1402074": "Hořavka hořká (Rhodeus amarus)"
+  }
+ },
+ {
+  "id": "Q1133845#0",
+  "species": "Slizounek Blanchardův",
+  "latin": "Neoclinus blanchardi",
+  "text": "Dorůstá do délky 30 centimetrů.",
+  "quote": "Dorůstá do délky 30 centimetrů.",
+  "claimed_false_for": {
+   "Q1162971": "Plata skvrnitá (Xiphophorus maculatus)",
+   "Q1340577": "Živorodka Wingeova (Poecilia wingei)",
+   "Q1729321": "Tetra skvělá (Hemigrammus pulcher)",
+   "Q1760196": "Pestřenec očkatý (Lamprologus ocellatus)",
+   "Q2701687": "Útesník bengálský (Abudefduf bengalensis)",
+   "Q522309": "Útesník Lorenzův (Abudefduf lorenzi)",
+   "Q652129": "Perutýn paprsčitý (Pterois radiata)"
+  }
+ },
+ {
+  "id": "Q1133845#1",
+  "species": "Slizounek Blanchardův",
+  "latin": "Neoclinus blanchardi",
+  "text": "Při lovu roztahuje čelist do velké šířky.",
+  "quote": "Při lovu dokáže roztáhnout čelist do velké šířky",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1148148#0",
+  "species": "Slunečnice velkoploutvá",
+  "latin": "Lepomis macrochirus",
+  "text": "Upřednostňuje klidné a zarostlé toky.",
+  "quote": "Upřednostňuje klidné a zarostlé toky.",
+  "claimed_false_for": {
+   "Q1661584": "Perutýn žoldnéř (Pterois miles)",
+   "Q21325605": "Mbuna černosiná (Pseudotropheus cyaneorhabdos)",
+   "Q81964": "Hřebeník velký (Ophiodon elongatus)",
+   "Q962972": "Útesník šestipruhý (Abudefduf sexfasciatus)"
+  }
+ },
+ {
+  "id": "Q1148148#1",
+  "species": "Slunečnice velkoploutvá",
+  "latin": "Lepomis macrochirus",
+  "text": "Průměrná hmotnost je 113 g.",
+  "quote": "Průměrná hmotnost ryby je 113 g",
+  "claimed_false_for": {
+   "Q145409": "Arapaima velká (Arapaima gigas)",
+   "Q21325605": "Mbuna černosiná (Pseudotropheus cyaneorhabdos)",
+   "Q214278": "Střevle potoční (Phoxinus phoxinus)",
+   "Q81964": "Hřebeník velký (Ophiodon elongatus)",
+   "Q965336": "Pancéřníček Sterbův (Corydoras sterbai)"
+  }
+ },
+ {
+  "id": "Q128785#2",
+  "species": "Bodlok běloprsý",
+  "latin": "Acanthurus leucosternon",
+  "text": "K rozmnožování potřebuje dostatek korálů a úkrytů.",
+  "quote": "Podmínkou pro ně je čistá voda a dostatek korálů a úkrytů.",
+  "claimed_false_for": {
+   "Q3753171": "Novoheterandrie sličná (Neoheterandria elegans)"
+  }
+ },
+ {
+  "id": "Q132895#0",
+  "species": "Vřeténka pestrá",
+  "latin": "Callionymus lyra",
+  "text": "Tento druh se zahrabává do písku nebo bahna na dně.",
+  "quote": "kde se zahrabává do měkkého písčitého, či bahnitého dna",
+  "claimed_false_for": {
+   "Q1920243": "Kanic itajara (Epinephelus itajara)",
+   "Q203572": "Koljuška tříostná (Gasterosteus aculeatus)",
+   "Q2164550": "Chňapálek rudomořský (Caesio suevica)",
+   "Q260106": "Motýlkovec africký (Pantodon buchholzi)",
+   "Q882185": "Ostnáč jednovousý (Monocirrhus polyacanthus)"
+  }
+ },
+ {
+  "id": "Q132895#1",
+  "species": "Vřeténka pestrá",
+  "latin": "Callionymus lyra",
+  "text": "Živí se malými rybkami, červy a drobnými korýši.",
+  "quote": "Jedná se o malé rybky, červy či drobné korýše.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q143503#0",
+  "species": "Zubatec obecný",
+  "latin": "Dentex dentex",
+  "text": "Živí se hlavonožci, korýši a menšími rybami.",
+  "quote": "Ryba je dravá, živí se hlavonožci, korýši a menšími rybami.",
+  "claimed_false_for": {
+   "Q1402074": "Hořavka hořká (Rhodeus amarus)"
+  }
+ },
+ {
+  "id": "Q143503#1",
+  "species": "Zubatec obecný",
+  "latin": "Dentex dentex",
+  "text": "Může dosáhnout délky jednoho metru.",
+  "quote": "Může dosáhnout délky jednoho metru a váhy 16 kg.",
+  "claimed_false_for": {
+   "Q1402074": "Hořavka hořká (Rhodeus amarus)"
+  }
+ },
+ {
+  "id": "Q14443#0",
+  "species": "Zlak nachový",
+  "latin": "Coryphaena hippurus",
+  "text": "Často loví létající ryby.",
+  "quote": "jejich častou kořistí jsou letounovití",
+  "claimed_false_for": {
+   "Q2067460": "Panchax prstencový (Epiplatys annulatus)",
+   "Q3757835": "Limie modrá (Limia tridens)",
+   "Q475211": "Losos keta (Oncorhynchus keta)",
+   "Q855808": "Hořavka duhová (Rhodeus sericeus)"
+  }
+ },
+ {
+  "id": "Q14443#1",
+  "species": "Zlak nachový",
+  "latin": "Coryphaena hippurus",
+  "text": "Tento druh se často zdržuje v porostech mořských řas.",
+  "quote": "často se zdržují v porostech mořských řas Sargassum",
+  "claimed_false_for": {
+   "Q2067460": "Panchax prstencový (Epiplatys annulatus)",
+   "Q3757835": "Limie modrá (Limia tridens)",
+   "Q475211": "Losos keta (Oncorhynchus keta)",
+   "Q855808": "Hořavka duhová (Rhodeus sericeus)"
+  }
+ },
+ {
+  "id": "Q1513246#1",
+  "species": "Veleparma thajská",
+  "latin": "Catlocarpio siamensis",
+  "text": "Dožívá se až třiceti let.",
+  "quote": "Ryba se může dožít až třiceti let.",
+  "claimed_false_for": {
+   "Q3753171": "Novoheterandrie sličná (Neoheterandria elegans)"
+  }
+ },
+ {
+  "id": "Q1519624#0",
+  "species": "Čichavec pruhovaný",
+  "latin": "Trichogaster fasciata",
+  "text": "Pochází ze sladkých vod Indie, Bangladéše a Myanmaru.",
+  "quote": "Pochází ze sladkých vod Indie, Bangladéše a Myanmaru.",
+  "claimed_false_for": {
+   "Q14505073": "Čichavec perleťový (Trichopodus leerii)",
+   "Q1536867": "Čichavec tmavohnědý (Sphaerichthys osphromenoides)",
+   "Q30066": "Hranáč šedý (Cyclopterus lumpus)",
+   "Q304256": "Rájovec dlouhoploutvý (Macropodus opercularis)",
+   "Q3235871": "Rájovec cejlonský (Belontia signata)",
+   "Q491934": "Kaproun obecný (Amia calva)",
+   "Q549": "Bojovnice pestrá (Betta splendens)",
+   "Q908440": "Gara rudohnědá (Garra rufa)"
+  }
+ },
+ {
+  "id": "Q1519624#1",
+  "species": "Čichavec pruhovaný",
+  "latin": "Trichogaster fasciata",
+  "text": "Tento druh je spokojený s vodou o teplotě 22-28 °C.",
+  "quote": "je spokojený v mělké a dobře zarostlé (ale s místem pro plavání) nádrži s vodou o teplotě 22-28 °C",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1577680#0",
+  "species": "Anténovec vláknovitý",
+  "latin": "Brachyplatystoma filamentosum",
+  "text": "Tento druh se živí rybami, které žijí u dna.",
+  "quote": "Piraiba se zcela živí rybami, které žijí u dna.",
+  "claimed_false_for": {
+   "Q1130760": "Jehla mořská (Syngnathus typhle)",
+   "Q1409451": "Hlaváčovec pastelový (Nemateleotris magnifica)",
+   "Q2394320": "Limie strakatá (Limia vittata)",
+   "Q3761965": "Pancéřníček napský (Corydoras napoensis)",
+   "Q387817": "Pancéřníček panda (Corydoras panda)",
+   "Q392294": "Sumec sklovitý (Kryptopterus bicirrhis)",
+   "Q739380": "Pangas velký (Pangasianodon gigas)",
+   "Q852229": "Keříčkovec žabí (Clarias batrachus)"
+  }
+ },
+ {
+  "id": "Q1577680#1",
+  "species": "Anténovec vláknovitý",
+  "latin": "Brachyplatystoma filamentosum",
+  "text": "Tento druh se při lovu řídí dlouhými vousy.",
+  "quote": "Při lovu se řídí svými dlouhými vousy.",
+  "claimed_false_for": {
+   "Q1130760": "Jehla mořská (Syngnathus typhle)",
+   "Q1409451": "Hlaváčovec pastelový (Nemateleotris magnifica)",
+   "Q1410142": "Bahník americký (Lepidosiren paradoxa)",
+   "Q2394320": "Limie strakatá (Limia vittata)"
+  }
+ },
+ {
+  "id": "Q182894#0",
+  "species": "Bolen dravý",
+  "latin": "Aspius aspius",
+  "text": "V dospělosti se živí rybami, obojživelníky i ptáky.",
+  "quote": "V dospělosti jeho potravu tvoří ryby (především oukleje), obojživelníci a dokonce i ptáci a drobní savci.",
+  "claimed_false_for": {
+   "Q1402074": "Hořavka hořká (Rhodeus amarus)"
+  }
+ },
+ {
+  "id": "Q183407#0",
+  "species": "Cejnek malý",
+  "latin": "Blicca bjoerkna",
+  "text": "Živí se bezobratlými a zooplanktonem, méně často rostlinami.",
+  "quote": "bezobratlými a zooplanktonem, méně často rostlinami.",
+  "claimed_false_for": {
+   "Q76098": "Amur bílý (Ctenopharyngodon idella)"
+  }
+ },
+ {
+  "id": "Q183407#1",
+  "species": "Cejnek malý",
+  "latin": "Blicca bjoerkna",
+  "text": "Tento druh je aktivní ve dne a žije v hejnech.",
+  "quote": "Aktivní je ve dne a žije v hejnech",
+  "claimed_false_for": {
+   "Q2330446": "Odranec pravý (السمكة الصخرية المرجانية)",
+   "Q502228": "Mřenka mramorovaná (Barbatula barbatula)"
+  }
+ },
+ {
+  "id": "Q187986#0",
+  "species": "Pstruh duhový",
+  "latin": "Oncorhynchus mykiss",
+  "text": "Dorůstá do délky 20 až 90 centimetrů.",
+  "quote": "Délka v dospělosti činí 20–90 cm",
+  "claimed_false_for": {
+   "Q1711785": "Pancéřníček Juliův (Corydoras julii)",
+   "Q28599938": "Razbora Espeho (Trigonostigma espei)"
+  }
+ },
+ {
+  "id": "Q187986#1",
+  "species": "Pstruh duhový",
+  "latin": "Oncorhynchus mykiss",
+  "text": "Pochází ze Severní Ameriky.",
+  "quote": "pocházející ze Severní Ameriky",
+  "claimed_false_for": {
+   "Q1711785": "Pancéřníček Juliův (Corydoras julii)",
+   "Q22231158": "Pstruh mramorovaný (Salmo marmoratus)",
+   "Q2857311": "Pstruh obecný (Salmo trutta)",
+   "Q28599938": "Razbora Espeho (Trigonostigma espei)",
+   "Q376480": "Jeseter jadranský (Acipenser naccarii)",
+   "Q76280": "Lín obecný (Tinca tinca)"
+  }
+ },
+ {
+  "id": "Q188387#0",
+  "species": "Sardel obecná",
+  "latin": "Engraulis encrasicolus",
+  "text": "Hlavní potravou jsou planktonoví korýši.",
+  "quote": "Hlavní potravou těchto ryb jsou planktonoví korýši.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q188387#1",
+  "species": "Sardel obecná",
+  "latin": "Engraulis encrasicolus",
+  "text": "Žije v Atlantiku, Středozemním a Černém moři.",
+  "quote": "je mořská rybka z čeledi sardelovitých žijící v Atlantiku, Středozemním a Černém moři.",
+  "claimed_false_for": {
+   "Q1505634": "Tetra červenoploutvá (Aphyocharax anisitsi)",
+   "Q614800": "Úhoř novozélandský (Anguilla dieffenbachii)",
+   "Q628790": "Hadohlavec červený (Channa micropeltes)",
+   "Q723904": "Gambusie komáří (Gambusia affinis)",
+   "Q77062": "Vřeténka mandarín (Synchiropus splendidus)",
+   "Q833957": "Sumeček americký (Ameiurus nebulosus)",
+   "Q839683": "Pestřenec červený (Pelvicachromis pulcher)",
+   "Q923248": "Živorodka velkoploutvá (Poecilia velifera)"
+  }
+ },
+ {
+  "id": "Q1892630#0",
+  "species": "Žaboškleb červenooký",
+  "latin": "Chaunax stigmaeus",
+  "text": "Žije v hloubce 90 až 730 metrů.",
+  "quote": "Žije v hloubce 90–730 metrů",
+  "claimed_false_for": {
+   "Q2148124": "Klipka žebrovaná (Chaetodon austriacus)",
+   "Q2542507": "Chňapal žlutoploutvý (Lutjanus apodus)",
+   "Q2688707": "Klipka rudoskvrnná (Chaetodon paucifasciatus)",
+   "Q2728272": "Ostrozubka desetiskvrnná (Cnesterodon decemmaculatus)",
+   "Q3769057": "Bodlok oranžovoocasý (Acanthurus auranticavus)",
+   "Q581310": "Plotička albánská (Pachychilon pictum)"
+  }
+ },
+ {
+  "id": "Q1892630#1",
+  "species": "Žaboškleb červenooký",
+  "latin": "Chaunax stigmaeus",
+  "text": "Žije hlavně v mrtvých korálech.",
+  "quote": "především v mrtvých korálech turbinatky větvené",
+  "claimed_false_for": {
+   "Q1755989": "Ďas americký (Lophius americanus)",
+   "Q2469966": "Kanic žíhaný (Centropristis striata)",
+   "Q581310": "Plotička albánská (Pachychilon pictum)",
+   "Q694527": "Plachetník širokoploutvý (Istiophorus platypterus)"
+  }
+ },
+ {
+  "id": "Q1955023#0",
+  "species": "Pražman rifový",
+  "latin": "Calamus nodosus",
+  "text": "Dožívá se až 17 let.",
+  "quote": "Nejvyšší zdokumentovány věk dožití je 17 let.",
+  "claimed_false_for": {
+   "Q1402074": "Hořavka hořká (Rhodeus amarus)"
+  }
+ },
+ {
+  "id": "Q1955023#1",
+  "species": "Pražman rifový",
+  "latin": "Calamus nodosus",
+  "text": "Žije ve vodách západního Atlantiku.",
+  "quote": "Byla nalezena ve vodách západního Atlantiku: od Severní Karolíny po jižní Floridu, Mexický záliv.",
+  "claimed_false_for": {
+   "Q1402074": "Hořavka hořká (Rhodeus amarus)"
+  }
+ },
+ {
+  "id": "Q1963645#0",
+  "species": "Bodlok bahamský",
+  "latin": "Acanthurus bariene",
+  "text": "Mláďata obývají měkké korály.",
+  "quote": "Mláďata obývají měkké korály v hloubce 0,2–3 m.",
+  "claimed_false_for": {
+   "Q3753171": "Novoheterandrie sličná (Neoheterandria elegans)"
+  }
+ },
+ {
+  "id": "Q1963645#1",
+  "species": "Bodlok bahamský",
+  "latin": "Acanthurus bariene",
+  "text": "Dosahuje délky až 50 cm.",
+  "quote": "Dosahuje délky max. 50 cm.",
+  "claimed_false_for": {
+   "Q3753171": "Novoheterandrie sličná (Neoheterandria elegans)"
+  }
+ },
+ {
+  "id": "Q198568#0",
+  "species": "Ostrucha křivočará",
+  "latin": "Pelecus cultratus",
+  "text": "Během dne se zdržuje u dna.",
+  "quote": "Během dne přebývá obvykle u dna a k hladině vyplouvá až po setmění.",
+  "claimed_false_for": {
+   "Q169444": "Dánio pruhované (Danio rerio)"
+  }
+ },
+ {
+  "id": "Q198568#1",
+  "species": "Ostrucha křivočará",
+  "latin": "Pelecus cultratus",
+  "text": "Velkou část jídla tvoří vodní korýši a hmyz.",
+  "quote": "Značnou část potravy tvoří vodní bezobratlí, tedy různí korýši a hmyz",
+  "claimed_false_for": {
+   "Q76098": "Amur bílý (Ctenopharyngodon idella)"
+  }
+ },
+ {
+  "id": "Q2033056#0",
+  "species": "Plotice Meidingerova",
+  "latin": "Rutilus meidingeri",
+  "text": "Živí se rostlinami, bezobratlými a malými rybami.",
+  "quote": "Živí se rostlinami, bezobratlými a malými rybami.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q2033056#1",
+  "species": "Plotice Meidingerova",
+  "latin": "Rutilus meidingeri",
+  "text": "Dorůstá až 70 cm.",
+  "quote": "Dorůstá až 70 cm",
+  "claimed_false_for": {
+   "Q1126155": "Klaun očkatý (Amphiprion ocellaris)",
+   "Q169444": "Dánio pruhované (Danio rerio)",
+   "Q1963645": "Bodlok bahamský (Acanthurus bariene)",
+   "Q2330446": "Odranec pravý (السمكة الصخرية المرجانية)",
+   "Q265783": "Saramugo španělský (Anaecypris hispanica)",
+   "Q502228": "Mřenka mramorovaná (Barbatula barbatula)",
+   "Q685364": "Dánio perlové (Danio margaritatus)",
+   "Q697487": "Piskoř dálnovýchodní (Misgurnus anguillicaudatus)",
+   "Q924585": "Dánio duhové (Danio albolineatus)"
+  }
+ },
+ {
+  "id": "Q205015#0",
+  "species": "Ďas mořský",
+  "latin": "Lophius piscatorius",
+  "text": "Žije v hloubkách od 20 do 1000 metrů.",
+  "quote": "Najdeme ho v hloubkách od 20 do 1000 metrů.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q205015#1",
+  "species": "Ďas mořský",
+  "latin": "Lophius piscatorius",
+  "text": "Má nízké a široké tělo, které splyne s okolím.",
+  "quote": "Tělo je relativně nízké a široké, což umožňuje lépe splynout s okolním prostředím.",
+  "claimed_false_for": {
+   "Q2148124": "Klipka žebrovaná (Chaetodon austriacus)",
+   "Q2469966": "Kanic žíhaný (Centropristis striata)",
+   "Q2542507": "Chňapal žlutoploutvý (Lutjanus apodus)",
+   "Q2688707": "Klipka rudoskvrnná (Chaetodon paucifasciatus)",
+   "Q2728272": "Ostrozubka desetiskvrnná (Cnesterodon decemmaculatus)",
+   "Q3769057": "Bodlok oranžovoocasý (Acanthurus auranticavus)",
+   "Q581310": "Plotička albánská (Pachychilon pictum)",
+   "Q694527": "Plachetník širokoploutvý (Istiophorus platypterus)"
+  }
+ },
+ {
+  "id": "Q2067460#1",
+  "species": "Panchax prstencový",
+  "latin": "Epiplatys annulatus",
+  "text": "Původně pochází ze západní Afriky.",
+  "quote": "Původně pochází ze západní Afriky, z povodí řeky Moa v Sierra Leone.",
+  "claimed_false_for": {
+   "Q964662": "Říčanka jednoskvrnná (Phalloceros caudimaculatus)"
+  }
+ },
+ {
+  "id": "Q223289#0",
+  "species": "Lodivod mořský",
+  "latin": "Naucrates ductor",
+  "text": "Pruhy na těle s věkem blednou a nakonec mizí.",
+  "quote": "Tyto pruhy s věkem blednou",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q223289#1",
+  "species": "Lodivod mořský",
+  "latin": "Naucrates ductor",
+  "text": "Dožívá se nejméně 4 let, pravděpodobně i déle.",
+  "quote": "může se dožít nejméně 4 let, velmi pravděpodobně více",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q223289#2",
+  "species": "Lodivod mořský",
+  "latin": "Naucrates ductor",
+  "text": "Dorůstá až do délky 70 cm.",
+  "quote": "maximálně dorůstá k 70 cm",
+  "claimed_false_for": {
+   "Q2067460": "Panchax prstencový (Epiplatys annulatus)",
+   "Q2157453": "Kranas americký (Seriola lalandi)",
+   "Q2530772": "Jehlice obecná (Ablennes hians)",
+   "Q3757835": "Limie modrá (Limia tridens)",
+   "Q575704": "Kranas Dumerilův (Seriola dumerili)",
+   "Q833940": "Kranasovec štíhlý (Rachycentron canadum)",
+   "Q855808": "Hořavka duhová (Rhodeus sericeus)"
+  }
+ }
+]

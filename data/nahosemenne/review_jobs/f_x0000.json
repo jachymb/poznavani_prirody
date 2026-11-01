@@ -1,0 +1,38 @@
+[
+ {
+  "id": "Q161517#4",
+  "species": "Cykas japonský",
+  "latin": "Cycas revoluta",
+  "text": "Má jedovaté části.",
+  "quote": "Části cykasů jsou ovšem jedovaté",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q162784#2",
+  "species": "Chvojník dvouklasý",
+  "latin": "Ephedra distachya",
+  "text": "Obsahuje efedrin, látku, která organismus povzbuzuje.",
+  "quote": "z nichž nejdůležitější je efedrin",
+  "claimed_false_for": {
+   "Q144477": "Mikrocykas krásný (Microcycas calocoma)",
+   "Q149321": "Píchoš Altensteinův (Encephalartos altensteinii)",
+   "Q161198": "Cykas indický (Cycas circinalis)"
+  }
+ },
+ {
+  "id": "Q43284#6",
+  "species": "Jinan dvoulaločný",
+  "latin": "Ginkgo biloba",
+  "text": "Má v semenech toxické látky, které mohou způsobit otravu.",
+  "quote": "Toxické sloučeniny nejsou však při úpravě rozkládány teplem a při požití většího množství slané pochoutky nebo dlouhodobém užívání, způsobují otravy, především u dětí.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q924592#4",
+  "species": "Zamie otrubnatá",
+  "latin": "Zamia furfuracea",
+  "text": "Tento druh je jedovatý, otrava může poškodit ledviny a játra.",
+  "quote": "Jako všechny cykasy a řada dalších pokojových rostlin je i Zamia furfuracea jedovatá.",
+  "claimed_false_for": {}
+ }
+]

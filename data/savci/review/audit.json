@@ -1,0 +1,259 @@
+{
+ "drop_facts": [
+  {
+   "id": "Q571449#2",
+   "why": "contradicts biology (article error copied)"
+  },
+  {
+   "id": "Q142715#1",
+   "why": "contradicts biology (article repeats old claim)"
+  },
+  {
+   "id": "Q55332#3",
+   "why": "contradicts biology (article error copied)"
+  },
+  {
+   "id": "Q844420#1",
+   "why": "distorts source"
+  },
+  {
+   "id": "Q254630#3",
+   "why": "distorts source"
+  },
+  {
+   "id": "Q125808810#1",
+   "why": "biology disputed"
+  },
+  {
+   "id": "Q307157#1",
+   "why": "misleading, upper range given as typical"
+  },
+  {
+   "id": "Q184224#5",
+   "why": "vague, unverifiable superlative"
+  },
+  {
+   "id": "Q575671#1",
+   "why": "gives away species name"
+  },
+  {
+   "id": "Q751763#1",
+   "why": "gives away species name"
+  },
+  {
+   "id": "Q260587#3",
+   "why": "awkward Czech, imprecise"
+  },
+  {
+   "id": "Q221434#3",
+   "why": "awkward Czech"
+  },
+  {
+   "id": "Q183339#2",
+   "why": "awkward Czech"
+  },
+  {
+   "id": "Q300946#3",
+   "why": "awkward Czech"
+  },
+  {
+   "id": "Q674003#1",
+   "why": "subjectless plural, shifted meaning"
+  },
+  {
+   "id": "Q81564#1",
+   "why": "subjectless plural"
+  },
+  {
+   "id": "Q30197#3",
+   "why": "distorts source"
+  },
+  {
+   "id": "Q820184#0",
+   "why": "weak source, questionable biology, awkward Czech"
+  },
+  {
+   "id": "Q998141#0",
+   "why": "questionable biology, source inconsistent"
+  },
+  {
+   "id": "Q208486#0",
+   "why": "misleading emphasis"
+  },
+  {
+   "id": "Q159426#6",
+   "why": "overgeneralisation"
+  },
+  {
+   "id": "Q109262318#0",
+   "why": "unsourced in article"
+  },
+  {
+   "id": "Q221434#2",
+   "why": "questionable figure"
+  },
+  {
+   "id": "Q271705#2",
+   "why": "terminology, narrowed context lost"
+  },
+  {
+   "id": "Q546456#5",
+   "why": "awkward Czech, dated figure"
+  },
+  {
+   "id": "Q494968#3",
+   "why": "word choice"
+  },
+  {
+   "id": "Q30847#5",
+   "why": "pronoun without antecedent"
+  },
+  {
+   "id": "Q752467#2",
+   "why": "contradicts biology; narrows the source"
+  },
+  {
+   "id": "Q36341#7",
+   "why": "missing subject; misleading without context"
+  },
+  {
+   "id": "Q271705#0",
+   "why": "distorts the source"
+  },
+  {
+   "id": "Q149405#0",
+   "why": "misleading oversimplification"
+  },
+  {
+   "id": "Q1251864#0",
+   "why": "drops a condition"
+  },
+  {
+   "id": "Q28157482#3",
+   "why": "source figure is uncertain"
+  },
+  {
+   "id": "Q998769#5",
+   "why": "ungrammatical Czech"
+  },
+  {
+   "id": "Q273565#3",
+   "why": "wrong term in Czech"
+  },
+  {
+   "id": "Q1070063#0",
+   "why": "awkward Czech"
+  }
+ ],
+ "drop_pairs": [
+  {
+   "id": "Q170311#1",
+   "species": "Q244174"
+  },
+  {
+   "id": "Q223960#2",
+   "species": "Q140"
+  },
+  {
+   "id": "Q300961#3",
+   "species": "Q529738"
+  },
+  {
+   "id": "Q26582#2",
+   "species": "Q35255"
+  },
+  {
+   "id": "Q735179#1",
+   "species": "Q209510"
+  },
+  {
+   "id": "Q36135#0",
+   "species": "Q331850"
+  },
+  {
+   "id": "Q1017417#1",
+   "species": "Q264793"
+  },
+  {
+   "id": "Q556305#0",
+   "species": "Q209516"
+  }
+ ],
+ "reject_photos": [
+  {
+   "species_id": "Q852793",
+   "i": 0,
+   "why": "museum specimen"
+  },
+  {
+   "species_id": "Q844420",
+   "i": 0,
+   "why": "poor quality, identity cannot be judged"
+  },
+  {
+   "species_id": "Q281008",
+   "i": 1,
+   "why": "identity cannot be judged"
+  },
+  {
+   "species_id": "Q273580",
+   "i": 1,
+   "why": "identity hard to judge, vandalised description"
+  },
+  {
+   "species_id": "Q209167",
+   "i": 1,
+   "why": "identity uncertain"
+  },
+  {
+   "species_id": "Q190516",
+   "i": 3,
+   "why": "visible label"
+  },
+  {
+   "species_id": "Q972907",
+   "i": 0,
+   "why": "different species"
+  },
+  {
+   "species_id": "Q688601",
+   "i": 0,
+   "why": "identity uncertain"
+  },
+  {
+   "species_id": "Q209627",
+   "i": 1,
+   "why": "possible blood or injury"
+  },
+  {
+   "species_id": "Q216871",
+   "i": 1,
+   "why": "possible injury"
+  },
+  {
+   "species_id": "Q1097901",
+   "i": 0,
+   "why": "animal hard to read"
+  },
+  {
+   "species_id": "Q723413",
+   "i": 2,
+   "why": "identity-unjudgeable"
+  },
+  {
+   "species_id": "Q109262310",
+   "i": 0,
+   "why": "identity-unjudgeable"
+  },
+  {
+   "species_id": "Q716628",
+   "i": 0,
+   "why": "animal-hard-to-see"
+  },
+  {
+   "species_id": "Q1767476",
+   "i": 3,
+   "why": "identity-unjudgeable"
+  }
+ ]
+}

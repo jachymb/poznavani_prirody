@@ -1,0 +1,568 @@
+[
+ {
+  "id": "Q2716647#1",
+  "species": "Želva palawanská",
+  "latin": "Siebenrockiella leytensis",
+  "text": "Tento druh je aktivní brzy ráno a pozdě večer.",
+  "quote": "Jsou aktivní brzy ráno a pozdě večer.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q272402#0",
+  "species": "Krokodýl filipínský",
+  "latin": "Crocodylus mindorensis",
+  "text": "Tento druh se živí hlavně živočichy bez páteře.",
+  "quote": "Živí se hlavně bezobratlými, občas i malými obratlovci.",
+  "claimed_false_for": {
+   "Q1366532": "Chřestýš rohatý (Crotalus cerastes)",
+   "Q17134": "Gaviál indický (Gavialis gangeticus)",
+   "Q2625714": "Tereka velká (Podocnemis expansa)",
+   "Q317386": "Matamata třásnitá (Chelus fimbriatus)",
+   "Q790878": "Zmije písečná (Cerastes vipera)",
+   "Q918120": "Hroznýšek turecký (Eryx jaculus)"
+  }
+ },
+ {
+  "id": "Q272582#0",
+  "species": "Kajman brýlový",
+  "latin": "Caiman crocodilus",
+  "text": "Tento druh zvládá i slanou vodu.",
+  "quote": "je schopen tolerovat i slanou vodu",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q272582#1",
+  "species": "Kajman brýlový",
+  "latin": "Caiman crocodilus",
+  "text": "Největší jedinci dorůstají až do 3 metrů.",
+  "quote": "maximálně pak až do 3 m",
+  "claimed_false_for": {
+   "Q1106956": "Chameleon trpasličí (Bradypodion pumilum)",
+   "Q207347": "Anakonda velká (Eunectes murinus)",
+   "Q473521": "Kajman klínohlavý (Paleosuchus trigonatus)",
+   "Q504483": "Kajman černý (Melanosuchus niger)",
+   "Q620592": "Psohlavec zelený (Corallus caninus)",
+   "Q631782": "Chřestýš zamlklý (Crotalus catalinensis)",
+   "Q646412": "Chameleon křovinný (Bradypodion thamnobates)"
+  }
+ },
+ {
+  "id": "Q277794#0",
+  "species": "Želva uhlířská",
+  "latin": "Chelonoidis carbonaria",
+  "text": "Tento druh má černý krunýř se žlutými skvrnami.",
+  "quote": "Má černý karapax se žlutými, naoranžovělými nebo načervenalými skvrnami na každém štítku",
+  "claimed_false_for": {
+   "Q1965745": "Želva zubatá (Cyclemys dentata)",
+   "Q254042": "Trnorep egyptský (Uromastyx aegyptia)",
+   "Q272582": "Kajman brýlový (Caiman crocodilus)",
+   "Q387752": "Zmije menší (Vipera ursinii)",
+   "Q504839": "Krokodýl novoguinejský (Crocodylus novaeguineae)",
+   "Q745210": "Želva třípásá (Cuora trifasciata)"
+  }
+ },
+ {
+  "id": "Q277794#1",
+  "species": "Želva uhlířská",
+  "latin": "Chelonoidis carbonaria",
+  "text": "Tento druh žije ve vlhkých savanách Jižní Ameriky.",
+  "quote": "obývající vlhké savany Jižní Ameriky",
+  "claimed_false_for": {
+   "Q1345661": "Želva Hamiltonova (Geoclemys hamiltonii)",
+   "Q2600292": "Želva čtyřoká (Sacalia quadriocellata)",
+   "Q301089": "Kareta menší (Lepidochelys kempii)",
+   "Q457872": "Kajmanka supí (Macrochelys temminckii)",
+   "Q458153": "Želva amboinská (Cuora amboinensis)",
+   "Q572447": "Zmije skvrnitá (Vipera aspis)",
+   "Q745210": "Želva třípásá (Cuora trifasciata)",
+   "Q838578": "Chameleon pardálí (Furcifer pardalis)"
+  }
+ },
+ {
+  "id": "Q277794#2",
+  "species": "Želva uhlířská",
+  "latin": "Chelonoidis carbonaria",
+  "text": "Dospělí jedinci se živí hlavně trávou, plody a listy.",
+  "quote": "Dospělí jedinci jsou z většiny býložraví, živí se trávou a různými plody a listy",
+  "claimed_false_for": {
+   "Q1106916": "Chameleon nádherný (Bradypodion damaranum)",
+   "Q1749645": "Kobra černá (Naja melanoleuca)",
+   "Q203538": "Kareta pravá (Eretmochelys imbricata)",
+   "Q244349": "Krokodýl čelnatý (Osteolaemus tetraspis)",
+   "Q2454169": "Kajmanka středoamerická (Chelydra rossignonii)",
+   "Q304547": "Dlouhokrčka McCordova (Chelodina mccordi)",
+   "Q754028": "Kožnatka čínská (Pelodiscus sinensis)",
+   "Q849394": "Krajta zelená (Morelia viridis)"
+  }
+ },
+ {
+  "id": "Q277794#3",
+  "species": "Želva uhlířská",
+  "latin": "Chelonoidis carbonaria",
+  "text": "V zimě nespí dlouhý zimní spánek, jen je méně aktivní.",
+  "quote": "V zimním období nehibernuje, jen snižuje aktivitu.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q280780#0",
+  "species": "Leguán bledý",
+  "latin": "Conolophus pallidus",
+  "text": "Žije jen na jednom malém ostrově v Galapágách.",
+  "quote": "Vyskytuje se pouze na ostrově Santa Fe (též známý jako Barrington) v Galapážském souostroví.",
+  "claimed_false_for": {
+   "Q148595": "Ještěrka obecná (Lacerta agilis)",
+   "Q1814747": "Krajta vodní (Liasis mackloti)",
+   "Q187036": "Želva bahenní (Emys orbicularitosa)",
+   "Q2376451": "Želva pavoukovitá (Pyxis arachnoides)",
+   "Q245183": "Krajta tygrovitá (Python molurus)",
+   "Q2454169": "Kajmanka středoamerická (Chelydra rossignonii)",
+   "Q307047": "Ještěrka zelená (Lacerta viridis)",
+   "Q310557": "Chameleon Elliotův (Trioceros ellioti)",
+   "Q41489": "Lepoještěr pestrý (Calotes versicolor)",
+   "Q564443": "Želva annamská (Mauremys annamensis)",
+   "Q646124": "Křovinář růžkatý (Bothrops ammodytoides)",
+   "Q843236": "Ještěrka perlová (Timon lepidus)"
+  }
+ },
+ {
+  "id": "Q280780#1",
+  "species": "Leguán bledý",
+  "latin": "Conolophus pallidus",
+  "text": "Tento druh jako dospělý jí hlavně kaktusy, i s trny.",
+  "quote": "v dospělosti je tento leguán přísný býložravec, živící se různým ovocem a převážně kaktusy, které polyká i s trny.",
+  "claimed_false_for": {
+   "Q135677": "Varan stepní (Varanus exanthematicus)",
+   "Q2447262": "Kobra siamská (Naja siamensis)",
+   "Q253890": "Hroznýšek pestrý (Eryx colubrinus)",
+   "Q41165": "Kobra monoklová (Naja kaouthia)",
+   "Q457872": "Kajmanka supí (Macrochelys temminckii)",
+   "Q464424": "Krajta královská (Python regius)",
+   "Q542274": "Krajta angolská (Python anchietae)",
+   "Q790878": "Zmije písečná (Cerastes vipera)",
+   "Q904780": "Varanovec bornejský (Lanthanotus borneensis)"
+  }
+ },
+ {
+  "id": "Q2822603#0",
+  "species": "Trnoještěr kozí",
+  "latin": "Acanthosaura capra",
+  "text": "Dorůstá až 30 cm, z toho 17 cm tvoří ocas.",
+  "quote": "dorůstajícího délky až 30 cm, z čehož 17 cm tvoří ocas",
+  "claimed_false_for": {
+   "Q719785": "Chameleon dvoupruhý (Trioceros bitaeniatus)"
+  }
+ },
+ {
+  "id": "Q2822603#1",
+  "species": "Trnoještěr kozí",
+  "latin": "Acanthosaura capra",
+  "text": "Tento druh je aktivní ve dne.",
+  "quote": "Je aktivní ve dne",
+  "claimed_false_for": {
+   "Q2454169": "Kajmanka středoamerická (Chelydra rossignonii)",
+   "Q564443": "Želva annamská (Mauremys annamensis)"
+  }
+ },
+ {
+  "id": "Q289435#0",
+  "species": "Kajmanka dravá",
+  "latin": "Chelydra serpentina",
+  "text": "Tento druh tráví většinu času pod vodou.",
+  "quote": "Kajmanky dravé tráví většinu času pod vodou.",
+  "claimed_false_for": {
+   "Q1040357": "Varan plodožravý (Varanus olivaceus)",
+   "Q277794": "Želva uhlířská (Chelonoidis carbonaria)",
+   "Q619964": "Bičovka zelená (Oxybelis fulgidus)",
+   "Q754747": "Užovka červená (Pantherophis guttatus)",
+   "Q846461": "Želva hvězdnatá (Geochelone elegans)",
+   "Q998324": "Užovka černá (Pantherophis obsoletus)"
+  }
+ },
+ {
+  "id": "Q289435#1",
+  "species": "Kajmanka dravá",
+  "latin": "Chelydra serpentina",
+  "text": "Tento druh loví ryby, žáby, mloky a vodní hady.",
+  "quote": "Loví ryby, žáby, mloky, vodní hady",
+  "claimed_false_for": {
+   "Q838578": "Chameleon pardálí (Furcifer pardalis)"
+  }
+ },
+ {
+  "id": "Q2910062#0",
+  "species": "Bungar modravý",
+  "latin": "Bungarus caeruleus",
+  "text": "Tento druh má na těle asi čtyřicet tenkých bílých proužků.",
+  "quote": "s asi 40 tenkými bílými příčnými proužky",
+  "claimed_false_for": {
+   "Q1498639": "Zmije pouštní (Bitis caudalis)",
+   "Q1501285": "Křovinář žararaka (Bothrops jararaca)",
+   "Q2122008": "Musurana černá (Clelia clelia)",
+   "Q215388": "Hroznýš královský (Boa constrictor)",
+   "Q2926152": "Brokesie Thielova (Brookesia thieli)",
+   "Q301089": "Kareta menší (Lepidochelys kempii)",
+   "Q457872": "Kajmanka supí (Macrochelys temminckii)",
+   "Q754182": "Želva stepní (Testudo horsfieldii)",
+   "Q845189": "Želva tečkovaná (Clemmys guttata)",
+   "Q882602": "Varan modrý (Varanus macraei)"
+  }
+ },
+ {
+  "id": "Q2910062#1",
+  "species": "Bungar modravý",
+  "latin": "Bungarus caeruleus",
+  "text": "Dorůstá průměrně do délky asi jednoho metru.",
+  "quote": "Dorůstá průměrně délky okolo 1 metru.",
+  "claimed_false_for": {
+   "Q1454860": "Smrtonoš zmijí (Acanthophis antarcticus)",
+   "Q262555": "Želva zelenavá (Testudo hermanni)",
+   "Q2926152": "Brokesie Thielova (Brookesia thieli)",
+   "Q599571": "Chameleon přilbový (Chamaeleo hoehnelii)"
+  }
+ },
+ {
+  "id": "Q2910062#2",
+  "species": "Bungar modravý",
+  "latin": "Bungarus caeruleus",
+  "text": "Tento druh je velmi aktivní hlavně v noci.",
+  "quote": "V noci jsou naopak velmi aktivní",
+  "claimed_false_for": {
+   "Q1324701": "Šírohlavec ještěrčí (Malpolon monspessulanus)",
+   "Q204061": "Ještěrka živorodá (Zootoca vivipara)",
+   "Q655616": "Varan skvrnitý (Varanus salvator)",
+   "Q719785": "Chameleon dvoupruhý (Trioceros bitaeniatus)",
+   "Q907252": "Leguán nosorohý (Cyclura cornuta)"
+  }
+ },
+ {
+  "id": "Q2910062#3",
+  "species": "Bungar modravý",
+  "latin": "Bungarus caeruleus",
+  "text": "Tento druh loví hlavně jiné hady.",
+  "quote": "Hlavní kořistí pro bungary modravé jsou jiní hadi.",
+  "claimed_false_for": {
+   "Q135677": "Varan stepní (Varanus exanthematicus)",
+   "Q2532001": "Želva ostnitá (Heosemys spinosa)",
+   "Q253890": "Hroznýšek pestrý (Eryx colubrinus)",
+   "Q457872": "Kajmanka supí (Macrochelys temminckii)",
+   "Q464424": "Krajta královská (Python regius)",
+   "Q542274": "Krajta angolská (Python anchietae)",
+   "Q730112": "Leguán modravý (Cyclura lewisi)",
+   "Q790878": "Zmije písečná (Cerastes vipera)",
+   "Q845189": "Želva tečkovaná (Clemmys guttata)",
+   "Q904780": "Varanovec bornejský (Lanthanotus borneensis)"
+  }
+ },
+ {
+  "id": "Q2926152#0",
+  "species": "Brokesie Thielova",
+  "latin": "Brookesia thieli",
+  "text": "Vypadá jako suchý list, tvarem i barvou.",
+  "quote": "Tvarem i barvou připomíná suchý list.",
+  "claimed_false_for": {
+   "Q1498639": "Zmije pouštní (Bitis caudalis)",
+   "Q169936": "Kobra obojková (Hemachatus haemachatus)",
+   "Q2179263": "Želva černavá (Heosemys grandis)",
+   "Q221080": "Dlouhokrčka australská (Chelodina longicollis)",
+   "Q244377": "Kobra egyptská (Naja haje)",
+   "Q245183": "Krajta tygrovitá (Python molurus)",
+   "Q253890": "Hroznýšek pestrý (Eryx colubrinus)",
+   "Q72934": "Taipan menší (Oxyuranus microlepidotus)",
+   "Q764797": "Krajta písmenková (Python sebae)",
+   "Q790586": "Anolis šedý (Anolis sagrei)",
+   "Q792301": "Agama australská (Pogona vitticeps)",
+   "Q900848": "Křovinář sametový (Bothrops atrox)"
+  }
+ },
+ {
+  "id": "Q2926152#1",
+  "species": "Brokesie Thielova",
+  "latin": "Brookesia thieli",
+  "text": "V noci šplhá na keře a stromy.",
+  "quote": "V noci vystupuje na keře a stromy až do výšky 1–3 m nad zemí.",
+  "claimed_false_for": {
+   "Q2592204": "Batagur tuntong (Batagur affinis)",
+   "Q2716647": "Želva palawanská (Siebenrockiella leytensis)"
+  }
+ },
+ {
+  "id": "Q3007063#0",
+  "species": "Hatérie novozélandská",
+  "latin": "Sphenodon punctatus",
+  "text": "Tento druh má na temeni hlavy třetí oko.",
+  "quote": "Hatérie má celkem tři oči, dvě na obvyklém místě a jedno, parietální, na temeni hlavy.",
+  "claimed_false_for": {
+   "Q192095": "Kareta obecná (Caretta caretta)",
+   "Q199203": "Želva ozdobná (Chrysemys picta)",
+   "Q2697746": "Užovka tenkoocasá (Orthriophis taeniurus)",
+   "Q2703580": "Kobra jávská (Naja sputatrix)",
+   "Q304941": "Krajta hnědohlavá (Aspidites ramsayi)",
+   "Q306908": "Pakobra východní (Pseudonaja textilis)",
+   "Q542274": "Krajta angolská (Python anchietae)",
+   "Q849394": "Krajta zelená (Morelia viridis)",
+   "Q955444": "Užovka amurská (Elaphe schrenckii)"
+  }
+ },
+ {
+  "id": "Q3007063#1",
+  "species": "Hatérie novozélandská",
+  "latin": "Sphenodon punctatus",
+  "text": "Může se dožít více než sta let.",
+  "quote": "nejstaršímu známému jedinci tohoto druhu bylo v roce 2009 111 let",
+  "claimed_false_for": {
+   "Q199203": "Želva ozdobná (Chrysemys picta)",
+   "Q2697746": "Užovka tenkoocasá (Orthriophis taeniurus)",
+   "Q2703580": "Kobra jávská (Naja sputatrix)",
+   "Q304941": "Krajta hnědohlavá (Aspidites ramsayi)",
+   "Q306908": "Pakobra východní (Pseudonaja textilis)",
+   "Q310557": "Chameleon Elliotův (Trioceros ellioti)",
+   "Q542274": "Krajta angolská (Python anchietae)",
+   "Q849394": "Krajta zelená (Morelia viridis)",
+   "Q882602": "Varan modrý (Varanus macraei)",
+   "Q955444": "Užovka amurská (Elaphe schrenckii)",
+   "Q959172": "Dracena guyanská (Dracaena guianensis)"
+  }
+ },
+ {
+  "id": "Q301016#1",
+  "species": "Želva ostruhatá",
+  "latin": "Centrochelys sulcata",
+  "text": "Tento druh má u ocasu dva až tři výrazné výrůstky.",
+  "quote": "dvou až tří výrazných výrustků vedle ocasu",
+  "claimed_false_for": {
+   "Q619964": "Bičovka zelená (Oxybelis fulgidus)",
+   "Q754747": "Užovka červená (Pantherophis guttatus)",
+   "Q998324": "Užovka černá (Pantherophis obsoletus)"
+  }
+ },
+ {
+  "id": "Q301016#2",
+  "species": "Želva ostruhatá",
+  "latin": "Centrochelys sulcata",
+  "text": "Tento druh se v horku schovává v podzemních úkrytech, kde přečkává nejteplejší část dne.",
+  "quote": "kde následně přečkává nejteplejší část dne",
+  "claimed_false_for": {
+   "Q1938852": "Brokesie růžkatá (Brookesia superciliaris)",
+   "Q2625714": "Tereka velká (Podocnemis expansa)",
+   "Q2716594": "Orlície bornejská (Orlitia borneensis)",
+   "Q495153": "Želva Reevesova (Mauremys reevesii)",
+   "Q862042": "Tereka madagaskarská (Erymnochelys madagascariensis)"
+  }
+ },
+ {
+  "id": "Q301016#3",
+  "species": "Želva ostruhatá",
+  "latin": "Centrochelys sulcata",
+  "text": "Tento druh jí hlavně trávu a jiné rostliny.",
+  "quote": "Její potrava sestává především z různých druhů trav a dalších rostlin",
+  "claimed_false_for": {
+   "Q619964": "Bičovka zelená (Oxybelis fulgidus)",
+   "Q754747": "Užovka červená (Pantherophis guttatus)",
+   "Q998324": "Užovka černá (Pantherophis obsoletus)"
+  }
+ },
+ {
+  "id": "Q301062#0",
+  "species": "Leguán galapážský",
+  "latin": "Conolophus subcristatus",
+  "text": "Dorůstá na délku přes jeden metr.",
+  "quote": "který roste do délky více než jednoho metru",
+  "claimed_false_for": {
+   "Q192056": "Zmije obecná (Vipera berus)",
+   "Q208648": "Užovka hladká (Coronella austriaca)",
+   "Q281679": "Chameleon třípruhý (Furcifer campani)",
+   "Q302215": "Krokodýlovec čínský (Shinisaurus crocodilurus)"
+  }
+ },
+ {
+  "id": "Q301062#1",
+  "species": "Leguán galapážský",
+  "latin": "Conolophus subcristatus",
+  "text": "Jí kaktusy, až z 80 procent své potravy.",
+  "quote": "Živí se až z 80 % kaktusy.",
+  "claimed_false_for": {
+   "Q1132759": "Leguán černý (Ctenosaura similis)",
+   "Q1366532": "Chřestýš rohatý (Crotalus cerastes)",
+   "Q1391250": "Chameleon štíhlý (Chamaeleo gracilis)",
+   "Q1394001": "Pagekon řasnatý ()",
+   "Q18599624": "Chameleon třírohý (Trioceros jacksonii)",
+   "Q2532001": "Želva ostnitá (Heosemys spinosa)",
+   "Q277794": "Želva uhlířská (Chelonoidis carbonaria)",
+   "Q2822603": "Trnoještěr kozí (Acanthosaura capra)",
+   "Q48186": "Kobra královská (Ophiophagus hannah)",
+   "Q810705": "Batagur bengálský (Batagur baska)",
+   "Q918123": "Zmije levantská (Macrovipera lebetina)"
+  }
+ },
+ {
+  "id": "Q301062#2",
+  "species": "Leguán galapážský",
+  "latin": "Conolophus subcristatus",
+  "text": "Nechává si od ptáků čistit břicho od klíšťat.",
+  "quote": "nechává si jimi odstranit klíšťata a jiné parazity z břicha.",
+  "claimed_false_for": {
+   "Q317386": "Matamata třásnitá (Chelus fimbriatus)"
+  }
+ },
+ {
+  "id": "Q301062#3",
+  "species": "Leguán galapážský",
+  "latin": "Conolophus subcristatus",
+  "text": "Pokládá až 25 vajec do vyhrabané nory.",
+  "quote": "Do vyhrabané nory, asi 50 cm hluboké, pokládá až 25 vajec.",
+  "claimed_false_for": {
+   "Q1498639": "Zmije pouštní (Bitis caudalis)",
+   "Q169936": "Kobra obojková (Hemachatus haemachatus)",
+   "Q253890": "Hroznýšek pestrý (Eryx colubrinus)",
+   "Q900848": "Křovinář sametový (Bothrops atrox)"
+  }
+ },
+ {
+  "id": "Q301089#0",
+  "species": "Kareta menší",
+  "latin": "Lepidochelys kempii",
+  "text": "Tento druh je nejmenší ze všech mořských želv.",
+  "quote": "Délka krunýře dosahuje pouhých 60–70 cm, což z karety činí vůbec nejmenšího zástupce mořských želv.",
+  "claimed_false_for": {
+   "Q203538": "Kareta pravá (Eretmochelys imbricata)"
+  }
+ },
+ {
+  "id": "Q301089#1",
+  "species": "Kareta menší",
+  "latin": "Lepidochelys kempii",
+  "text": "Tento druh váží zhruba 34 až 45 kilogramů.",
+  "quote": "Váha dospělce se pohybuje kolem 34–45 kg.",
+  "claimed_false_for": {
+   "Q2022984": "Brokesie nejmenší (Brookesia minima)",
+   "Q262146": "Želva síťovaná (Deirochelys reticularia)",
+   "Q301016": "Želva ostruhatá (Centrochelys sulcata)",
+   "Q304547": "Dlouhokrčka McCordova (Chelodina mccordi)",
+   "Q754182": "Želva stepní (Testudo horsfieldii)"
+  }
+ },
+ {
+  "id": "Q301089#2",
+  "species": "Kareta menší",
+  "latin": "Lepidochelys kempii",
+  "text": "Živí se hlavně kraby, jí ale i měkkýše a ryby.",
+  "quote": "Živí se hlavně kraby, avšak mohou spořádat různé typy měkkýšů, korýšů, ryb",
+  "claimed_false_for": {
+   "Q1106916": "Chameleon nádherný (Bradypodion damaranum)",
+   "Q203538": "Kareta pravá (Eretmochelys imbricata)",
+   "Q846461": "Želva hvězdnatá (Geochelone elegans)",
+   "Q849394": "Krajta zelená (Morelia viridis)"
+  }
+ },
+ {
+  "id": "Q301089#3",
+  "species": "Kareta menší",
+  "latin": "Lepidochelys kempii",
+  "text": "Mláďata se vylíhnou zhruba po 45 až 55 dnech.",
+  "quote": "Po 45–55 dnech inkubace se vyklubou mláďata",
+  "claimed_false_for": {
+   "Q387752": "Zmije menší (Vipera ursinii)"
+  }
+ },
+ {
+  "id": "Q301089#4",
+  "species": "Kareta menší",
+  "latin": "Lepidochelys kempii",
+  "text": "Tento druh má pohlaví mláďat určené teplotou hnízda.",
+  "quote": "Teplota v hnízdišti někdy v polovině třetího vývojového stádia vajec určí pohlaví mláděte.",
+  "claimed_false_for": {
+   "Q1040357": "Varan plodožravý (Varanus olivaceus)",
+   "Q619964": "Bičovka zelená (Oxybelis fulgidus)",
+   "Q754747": "Užovka červená (Pantherophis guttatus)",
+   "Q998324": "Užovka černá (Pantherophis obsoletus)"
+  }
+ },
+ {
+  "id": "Q301089#5",
+  "species": "Kareta menší",
+  "latin": "Lepidochelys kempii",
+  "text": "Tento druh žije samotářsky, jen jednou za rok se sejde.",
+  "quote": "Karety žijí samotářsky, avšak každý rok se dospělci sejdou u svého natálního hnízdiště",
+  "claimed_false_for": {
+   "Q20014035": "Želva sloní (Chelonoidis niger)"
+  }
+ },
+ {
+  "id": "Q301089#6",
+  "species": "Kareta menší",
+  "latin": "Lepidochelys kempii",
+  "text": "Tento druh klade v jedné snůšce kolem 110 vajec.",
+  "quote": "Každá snůška obsahuje kolem 110 vajec",
+  "claimed_false_for": {
+   "Q2022984": "Brokesie nejmenší (Brookesia minima)",
+   "Q2592204": "Batagur tuntong (Batagur affinis)",
+   "Q262555": "Želva zelenavá (Testudo hermanni)",
+   "Q301016": "Želva ostruhatá (Centrochelys sulcata)",
+   "Q304547": "Dlouhokrčka McCordova (Chelodina mccordi)",
+   "Q754182": "Želva stepní (Testudo horsfieldii)",
+   "Q914338": "Želva myší (Gopherus polyphemus)",
+   "Q932293": "Varan obrovský (Varanus giganteus)"
+  }
+ },
+ {
+  "id": "Q301089#7",
+  "species": "Kareta menší",
+  "latin": "Lepidochelys kempii",
+  "text": "Dožívá se zhruba 30 let.",
+  "quote": "Dožívají se kolem 30 let",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q301692#0",
+  "species": "Vejcožrout indický",
+  "latin": "Elachistodon westermanni",
+  "text": "Živí se jen ptačími vejci.",
+  "quote": "Stravu tohoto hada tvoří výhradně neoplodněná ptačí vejce",
+  "claimed_false_for": {
+   "Q1130416": "Kobra kapská (Naja nivea)",
+   "Q1132759": "Leguán černý (Ctenosaura similis)",
+   "Q1371648": "Chřestýšek malý (Sistrurus catenatus)",
+   "Q1391250": "Chameleon štíhlý (Chamaeleo gracilis)",
+   "Q186275": "Krajta ametystová (Morelia amethistina)",
+   "Q192056": "Zmije obecná (Vipera berus)",
+   "Q1954364": "Brokesie trnitá (Brookesia stumpffi)",
+   "Q2339200": "Bradavičník malý (Acrochordus granulatus)",
+   "Q586433": "Leguán chocholatý (Brachylophus vitiensis)",
+   "Q670143": "Křovinář ostrovní (Bothrops insularis)",
+   "Q732959": "Brokesie listová (Rhampholeon spectrum)",
+   "Q873915": "Ploskorep fantastický (Uroplatus phantasticus)"
+  }
+ },
+ {
+  "id": "Q301692#1",
+  "species": "Vejcožrout indický",
+  "latin": "Elachistodon westermanni",
+  "text": "Dorůstá až do délky 78 cm.",
+  "quote": "Dospělí jedinci mohou dorůstat do celkové délky až 78 cm",
+  "claimed_false_for": {
+   "Q1040357": "Varan plodožravý (Varanus olivaceus)",
+   "Q170713": "Užovka obojková (Natrix natrix)",
+   "Q301062": "Leguán galapážský (Conolophus subcristatus)",
+   "Q383702": "Vlnožil užovkový (Laticauda colubrina)",
+   "Q849025": "Užovka levhartí (Zamenis situla)",
+   "Q900781": "Bojga hnědá (Boiga irregularis)"
+  }
+ },
+ {
+  "id": "Q302215#0",
+  "species": "Krokodýlovec čínský",
+  "latin": "Shinisaurus crocodilurus",
+  "text": "Tento druh má na hřbetě kostnaté destičky, které nekryjí břicho.",
+  "quote": "má na svrchní straně těla kostnaté destičky osteodermy, které však nekryjí břicho",
+  "claimed_false_for": {
+   "Q1681355": "Mamba Jamesonova (Dendroaspis jamesoni)",
+   "Q1768570": "Chameleon Labordův (Furcifer labordi)",
+   "Q18599624": "Chameleon třírohý (Trioceros jacksonii)",
+   "Q2382318": "Bungar duhový (Bungarus flaviceps)",
+   "Q2705144": "Brokesie ankarafantsická (Brookesia decaryi)",
+   "Q281679": "Chameleon třípruhý (Furcifer campani)",
+   "Q911786": "Užovka proužkovaná (Thamnophis sirtalis)",
+   "Q918123": "Zmije levantská (Macrovipera lebetina)"
+  }
+ }
+]

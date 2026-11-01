@@ -1,0 +1,568 @@
+[
+ {
+  "id": "Q184004#1",
+  "species": "Pižmoň severní",
+  "latin": "Ovibos moschatus",
+  "text": "Při nebezpečí se stádo seskupí do kruhu.",
+  "quote": "Při objevení nepřítele se vylekaná zvířata rychle sbíhají do kompaktního kruhovitého tvaru.",
+  "claimed_false_for": {
+   "Q125808810": "Chocholatka páskovaná (Cephalophula zebra)",
+   "Q168327": "Kozorožec horský (Capra ibex)",
+   "Q183255": "Prase savanové (Phacochoerus africanus)",
+   "Q193683": "Velryba černá (Eubalaena glacialis)",
+   "Q208132": "Kosatka černá (Pseudorca crassidens)",
+   "Q210314": "Kočka pampová (Leopardus colocola)",
+   "Q300946": "Plískavice plochočelá (Lagenorhynchus obliquidens)",
+   "Q36341": "Medvěd hnědý (Ursus arctos)",
+   "Q571449": "Lachtan antarktický (Arctocephalus gazella)",
+   "Q646488": "Jelen lyrorohý (Rucervus eldii)",
+   "Q747238": "Skunk jižní (Conepatus humboldtii)"
+  }
+ },
+ {
+  "id": "Q184004#2",
+  "species": "Pižmoň severní",
+  "latin": "Ovibos moschatus",
+  "text": "Tento druh v zimě hledá potravu na svazích, které vítr ofoukal.",
+  "quote": "V krutých mrazech polární noci vyhledávají pižmoni vichřicemi vyfoukané svahy kopců",
+  "claimed_false_for": {
+   "Q132576": "Impala (Aepyceros melampus)",
+   "Q132905": "Keporkak (Megaptera novaeangliae)",
+   "Q179154": "Plejtvákovec šedý (Eschrichtius robustus)",
+   "Q232054": "Axis indický (Axis axis)",
+   "Q237267": "Voduška kob (Kobus kob)",
+   "Q273580": "Antilopa čtyřrohá (Tetracerus quadricornis)",
+   "Q301048": "Plískavice kapská (Cephalorhynchus heavisidii)",
+   "Q431981": "Lachtan ušatý (Eumetopias jubatus)",
+   "Q774635": "Tana horská (Tupaia montana)",
+   "Q938385": "Kančil jávský (Tragulus javanicus)",
+   "Q998769": "Lachtan mořský (Zalophus wollebaeki)"
+  }
+ },
+ {
+  "id": "Q184004#3",
+  "species": "Pižmoň severní",
+  "latin": "Ovibos moschatus",
+  "text": "Dožívá se až 35 let.",
+  "quote": "Pižmoni severní se mohou dožít až 35 let.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q184224#0",
+  "species": "Potkan",
+  "latin": "Rattus norvegicus",
+  "text": "Denně sní jídlo v množství asi desetiny své váhy.",
+  "quote": "Denně zkonzumuje potravu v množství asi desetiny své tělesné hmotnosti.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q184224#1",
+  "species": "Potkan",
+  "latin": "Rattus norvegicus",
+  "text": "Tento druh je nejaktivnější v noci, hlavně po setmění.",
+  "quote": "Potkani jsou čilí hlavně v noci, nejvíce po setmění a před rozedněním.",
+  "claimed_false_for": {
+   "Q468500": "Veverka popelavá (Sciurus carolinensis)",
+   "Q775569": "Tamarín žlutoruký (Saguinus midas)",
+   "Q854681": "Sysel perličkový (Spermophilus suslicus)"
+  }
+ },
+ {
+  "id": "Q184224#2",
+  "species": "Potkan",
+  "latin": "Rattus norvegicus",
+  "text": "Tento druh zadrží dech pod vodou až na tři minuty.",
+  "quote": "Potkan je schopen zadržet dech pod vodou až na tři minuty.",
+  "claimed_false_for": {
+   "Q27370": "Tuleň kuželozubý (Halichoerus grypus)"
+  }
+ },
+ {
+  "id": "Q184224#3",
+  "species": "Potkan",
+  "latin": "Rattus norvegicus",
+  "text": "Tento druh se v přírodě dožívá dvou let.",
+  "quote": "Potkan se v přírodě dožívá dvou let, v zajetí třech až šesti let.",
+  "claimed_false_for": {
+   "Q132905": "Keporkak (Megaptera novaeangliae)",
+   "Q504501": "Jelenec bahenní (Blastocerus dichotomus)",
+   "Q56120524": "Titi Orbignův (Plecturocebus donacophilus)",
+   "Q575671": "Lemur rákosový (Hapalemur alaotrensis)"
+  }
+ },
+ {
+  "id": "Q184224#4",
+  "species": "Potkan",
+  "latin": "Rattus norvegicus",
+  "text": "Tento druh má přirozené nepřátele: kuny, tchoře a výra velkého.",
+  "quote": "Přirozenými nepřáteli potkanů jsou lasicovité šelmy (tchoř, hranostaj, kuny) a výr velký.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q184224#5",
+  "species": "Potkan",
+  "latin": "Rattus norvegicus",
+  "text": "Patří mezi nejchytřejší hlodavce v přírodě.",
+  "quote": "Potkan patří mezi jedny z nejinteligentnějších hlodavců v přírodě.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q184389#0",
+  "species": "Pes hřivnatý",
+  "latin": "Chrysocyon brachyurus",
+  "text": "Loví menší savce, zvláště zajíce.",
+  "quote": "Loví menší a střední savce jako jsou hlodavci (zvláště zajíci)",
+  "claimed_false_for": {
+   "Q186663": "Tuleň leopardí (Hydrurga leptonyx)",
+   "Q214633": "Křečík džungarský (Phodopus sungorus)",
+   "Q819469": "Vakoplch trpasličí (Burramys parvus)",
+   "Q95036": "Nosorožec dvourohý (Diceros bicornis)"
+  }
+ },
+ {
+  "id": "Q184389#1",
+  "species": "Pes hřivnatý",
+  "latin": "Chrysocyon brachyurus",
+  "text": "Dožívá se asi 16 let.",
+  "quote": "Dožívají se asi 16 let.",
+  "claimed_false_for": {
+   "Q966901": "Tangalunga (Viverra tangalunga)"
+  }
+ },
+ {
+  "id": "Q18498#0",
+  "species": "Vlk obecný",
+  "latin": "Canis lupus",
+  "text": "Tento druh jí hlavně kopytníky, tedy zvířata s kopyty.",
+  "quote": "jejich potravu tvoří především volně žijící kopytníci",
+  "claimed_false_for": {
+   "Q109262323": "Klokan rudokrký (Notamacropus rufogriseus)",
+   "Q213141": "Binturong (Arctictis binturong)",
+   "Q247774": "Hyrare (Eira barbara)",
+   "Q25345": "Lasice hranostaj (Mustela erminea)",
+   "Q283403": "Netopýr brvitý (Myotis emarginatus)",
+   "Q837610": "Tuleň Rossův (Ommatophoca rossii)",
+   "Q838740": "Krysa skalní (Petromus typicus)",
+   "Q844643": "Lachtan jižní (Arctocephalus tropicalis)",
+   "Q855597": "Promyka bažinná (Atilax paludinosus)"
+  }
+ },
+ {
+  "id": "Q18498#2",
+  "species": "Vlk obecný",
+  "latin": "Canis lupus",
+  "text": "Tento druh obvykle žije v rodinné skupině zvané smečka.",
+  "quote": "Vlci obvykle žijí v rodinných smečkách",
+  "claimed_false_for": {
+   "Q14334": "Rosomák sibiřský (Gulo gulo)",
+   "Q190516": "Jelen sika (Cervus nippon)",
+   "Q215343": "Rypouš sloní (Mirounga leonina)",
+   "Q283426": "Grizon velký (Galictis vittata)",
+   "Q43230": "Ženetka skvrnitá (Genetta tigrina)",
+   "Q432513": "Lachtan novozélandský (Phocarctos hookeri)",
+   "Q744382": "Jezevec bělohrdlý (Arctonyx collaris)",
+   "Q832379": "Lachtan Forsterův (Arctocephalus forsteri)"
+  }
+ },
+ {
+  "id": "Q18498#3",
+  "species": "Vlk obecný",
+  "latin": "Canis lupus",
+  "text": "Tento druh měří i s hlavou až 170 centimetrů.",
+  "quote": "Dospělí vlci měří na délku hlavy a těla 100 až 170 cm",
+  "claimed_false_for": {
+   "Q1042139": "Pásovec štětinatý (Chaetophractus villosus)",
+   "Q1764906": "Pásovec krátkouchý (Cabassous chacoensis)",
+   "Q183330": "Fosa (Cryptoprocta ferox)",
+   "Q213047": "Kočka horská (Leopardus jacobita)",
+   "Q26423": "Sobol asijský (Martes zibellina)",
+   "Q26838": "Zajíc polní (Lepus europaeus)",
+   "Q728454": "Jezevec čínský (Meles leucurus)",
+   "Q935284": "Tana malá (Tupaia minor)"
+  }
+ },
+ {
+  "id": "Q18498#4",
+  "species": "Vlk obecný",
+  "latin": "Canis lupus",
+  "text": "Tento druh se v přírodě dožívá asi pěti až osmi let.",
+  "quote": "v průměru asi pěti až osmi let",
+  "claimed_false_for": {
+   "Q186663": "Tuleň leopardí (Hydrurga leptonyx)",
+   "Q20744349": "Vlk africký (Canis anthus)",
+   "Q214633": "Křečík džungarský (Phodopus sungorus)",
+   "Q220248": "Charza žlutohrdlá (Martes flavigula)",
+   "Q26283": "Ondatra pižmová (Ondatra zibethicus)",
+   "Q33261": "Ocelot velký (Leopardus pardalis)",
+   "Q35694": "Jaguár americký (Panthera onca)",
+   "Q95036": "Nosorožec dvourohý (Diceros bicornis)"
+  }
+ },
+ {
+  "id": "Q18498#5",
+  "species": "Vlk obecný",
+  "latin": "Canis lupus",
+  "text": "Tento druh dokáže krátce sprintovat rychlostí až 64 km/h.",
+  "quote": "na krátké vzdálenosti dokáží sprintovat rychlostí 56 až 64 km/h",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q18498#6",
+  "species": "Vlk obecný",
+  "latin": "Canis lupus",
+  "text": "Tento druh pozná pach kořisti až 2,5 kilometru daleko.",
+  "quote": "až na vzdálenost přibližně 2,5 km",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q18498#7",
+  "species": "Vlk obecný",
+  "latin": "Canis lupus",
+  "text": "Tento druh rodí mláďata, která váží jen 300 až 500 gramů.",
+  "quote": "při váze 300–500 g",
+  "claimed_false_for": {
+   "Q207043": "Přímorožec jihoafrický (Oryx gazella)",
+   "Q276290": "Rypoš lysý (Heterocephalus glaber)",
+   "Q300994": "Plískavice tmavá (Lagenorhynchus obscurus)",
+   "Q322145": "Sobol americký (Martes americana)",
+   "Q626023": "Rypouš severní (Mirounga angustirostris)",
+   "Q626027": "Tuleň krabožravý (Lobodon carcinophaga)",
+   "Q732127": "Tchoř stepní (Mustela eversmanii)"
+  }
+ },
+ {
+  "id": "Q185385#0",
+  "species": "Lemur kata",
+  "latin": "Lemur catta",
+  "text": "Tento druh má dlouhý pruhovaný ocas, který mu pomáhá při skocích.",
+  "quote": "dlouhý pruhovaný ocas, který pomáhá udržovat rovnováhu při skocích",
+  "claimed_false_for": {
+   "Q25311": "Lasice kolčava (Mustela nivalis)",
+   "Q260587": "Prase filipínské (Sus philippensis)",
+   "Q280590": "Makak chocholatý (Macaca nigra)",
+   "Q301053": "Gibon kápový (Hylobates pileatus)",
+   "Q307157": "Gorila východní (Gorilla beringei)",
+   "Q790684": "Makak tonkeánský (Macaca tonkeana)",
+   "Q845938": "Gibon Müllerův (Hylobates muelleri)",
+   "Q998141": "Gibon bělolící (Nomascus leucogenys)"
+  }
+ },
+ {
+  "id": "Q185385#1",
+  "species": "Lemur kata",
+  "latin": "Lemur catta",
+  "text": "Živí se hlavně plody a listy stromu zvaného kily.",
+  "quote": "plody a listy tamarindu indického, známého jako kily",
+  "claimed_false_for": {
+   "Q125375867": "Chocholatka zanzibarská (Leucocephalophus adersi)",
+   "Q18324712": "Malpa hnědá (Sapajus apella)",
+   "Q194516": "Kunovec tečkovaný (Dasyurus viverrinus)",
+   "Q19537": "Šimpanz bonobo (Pan paniscus)",
+   "Q254630": "Kynkažu (Potos flavus)",
+   "Q425601": "Hulman jávský (Trachypithecus auratus)",
+   "Q536862": "Nártoun filipínský (Carlito syrichta)",
+   "Q663728": "Gibon stříbrný (Hylobates moloch)",
+   "Q743563": "Mangusta trpasličí (Helogale parvula)",
+   "Q913807": "Gueréza zanzibarská (Piliocolobus kirkii)"
+  }
+ },
+ {
+  "id": "Q185385#2",
+  "species": "Lemur kata",
+  "latin": "Lemur catta",
+  "text": "Tento druh žije jen na ostrově Madagaskar.",
+  "quote": "endemitem ostrova Madagaskar",
+  "claimed_false_for": {
+   "Q187024": "Korsak (Vulpes corsac)",
+   "Q194080": "Dželada (Theropithecus gelada)",
+   "Q208486": "Lvíček zlatý (Leontopithecus rosalia)",
+   "Q213889": "Siamang (Symphalangus syndactylus)",
+   "Q25851": "Králík divoký (Oryctolagus cuniculus)",
+   "Q28157482": "Hyena čabraková (Parahyaena brunnea)",
+   "Q425601": "Hulman jávský (Trachypithecus auratus)",
+   "Q494436": "Goral tmavý (Naemorhedus goral)",
+   "Q663728": "Gibon stříbrný (Hylobates moloch)",
+   "Q724362": "Kočkodan Dianin (Cercopithecus diana)",
+   "Q77332": "Komba ušatá (Galago senegalensis)",
+   "Q849419": "Vřešťan mono (Alouatta pigra)"
+  }
+ },
+ {
+  "id": "Q185385#3",
+  "species": "Lemur kata",
+  "latin": "Lemur catta",
+  "text": "Žije ve skupinkách, obvykle po 6 až 25 zvířatech.",
+  "quote": "od 6 do 25 zvířat",
+  "claimed_false_for": {
+   "Q166794": "Manul (Otocolobus manul)",
+   "Q22113538": "Nártoun západosundský (Cephalopachus bancanus)",
+   "Q8332": "Liška obecná (Vulpes vulpes)",
+   "Q876491": "Maki trpasličí (Microcebus murinus)"
+  }
+ },
+ {
+  "id": "Q186267#0",
+  "species": "Argali altajský",
+  "latin": "Ovis ammon",
+  "text": "Samci mají zakroucené rohy dlouhé až 190 centimetrů.",
+  "quote": "Samci mají velké, zakroucené rohy, které dosahují celkové délky až 190 cm",
+  "claimed_false_for": {
+   "Q128098": "Šakal obecný (Canis aureus)",
+   "Q187927": "Koza šrouborohá (Capra falconeri)",
+   "Q193400": "Bongo lesní (Tragelaphus eurycerus)",
+   "Q260587": "Prase filipínské (Sus philippensis)",
+   "Q285884": "Svišť horský (Marmota marmota)",
+   "Q368033": "Antilopa trávní (Raphicerus campestris)",
+   "Q430489": "Štětkoun šedý (Potamochoerus larvatus)",
+   "Q626921": "Bělozubka bělobřichá (Crocidura leucodon)",
+   "Q723123": "Netopýr řasnatý (Myotis nattereri)",
+   "Q728636": "Tahr himálajský (Hemitragus jemlahicus)",
+   "Q755733": "Plískavice chilská (Cephalorhynchus eutropia)"
+  }
+ },
+ {
+  "id": "Q186267#1",
+  "species": "Argali altajský",
+  "latin": "Ovis ammon",
+  "text": "Žijí ve stádech, která mívají přes sto zvířat.",
+  "quote": "Žijí v jednopohlavných stádech, která obvykle čítají přes 100 jedinců.",
+  "claimed_false_for": {
+   "Q129727": "Rys iberský (Lynx pardinus)",
+   "Q131564": "Fenek (Vulpes zerda)",
+   "Q239032": "Nyala nížinná (Tragelaphus angasii)",
+   "Q547663": "Krtek hvězdonosý (Condylura cristata)",
+   "Q752467": "Luskoun tlustoocasý (Manis crassicaudata)"
+  }
+ },
+ {
+  "id": "Q186663#0",
+  "species": "Tuleň leopardí",
+  "latin": "Hydrurga leptonyx",
+  "text": "Tento druh má tmavý hřbet a stříbrné břicho.",
+  "quote": "seshora tmavě šedé až namodralé, dole stříbrné",
+  "claimed_false_for": {
+   "Q173128": "Medojed kapský (Mellivora capensis)",
+   "Q187024": "Korsak (Vulpes corsac)",
+   "Q188957": "Vlček etiopský (Canis simensis)",
+   "Q208140": "Osel africký (Equus africanus)",
+   "Q257432": "Pes šedý (Lycalopex vetulus)",
+   "Q302166": "Slepuška krtčí (Ellobius talpinus)",
+   "Q43230": "Ženetka skvrnitá (Genetta tigrina)",
+   "Q43576": "Kočka divoká (Felis silvestris)",
+   "Q754041": "Štětinatec haitský (Solenodon paradoxus)",
+   "Q757289": "Veverka berberská (Atlantoxerus getulus)"
+  }
+ },
+ {
+  "id": "Q186663#1",
+  "species": "Tuleň leopardí",
+  "latin": "Hydrurga leptonyx",
+  "text": "Tento druh žije v mořích kolem Antarktidy.",
+  "quote": "Tento dravý tuleň se vyskytuje v mořích kolem Antarktidy",
+  "claimed_false_for": {
+   "Q1070063": "Ježek amurský (Erinaceus amurensis)",
+   "Q1130566": "Bércoun africký (Macroscelides proboscideus)",
+   "Q131564": "Fenek (Vulpes zerda)",
+   "Q131907": "Rys červený (Lynx rufus)",
+   "Q1764011": "Rejsek krátkouchý (Cryptotis parva)",
+   "Q18498": "Vlk obecný (Canis lupus)",
+   "Q26582": "Tchoř tmavý (Mustela putorius)",
+   "Q283426": "Grizon velký (Galictis vittata)",
+   "Q466597": "Lachtan jihoafrický (Arctocephalus pusillus)",
+   "Q581661": "Tana obecná (Tupaia glis)",
+   "Q602823": "Charza jižní (Martes gwatkinsii)",
+   "Q80191": "Kočka mramorovaná (Pardofelis marmorata)"
+  }
+ },
+ {
+  "id": "Q186663#2",
+  "species": "Tuleň leopardí",
+  "latin": "Hydrurga leptonyx",
+  "text": "Tento druh žije většinou samotářsky.",
+  "quote": "Tuleni leopardí žijí převážně samotářsky.",
+  "claimed_false_for": {
+   "Q134015": "Surikata (Suricata suricatta)",
+   "Q174199": "Delfín skákavý (Tursiops truncatus)"
+  }
+ },
+ {
+  "id": "Q186663#3",
+  "species": "Tuleň leopardí",
+  "latin": "Hydrurga leptonyx",
+  "text": "Tento druh loví hlavně tučňáky.",
+  "quote": "Tuleň leopardí loví velké živočichy (hlavně tučňáky a jiné ploutvonožce)",
+  "claimed_false_for": {
+   "Q116251176": "Klokan horský (Osphranter robustus)",
+   "Q122783": "Medvěd baribal (Ursus americanus)",
+   "Q128098": "Šakal obecný (Canis aureus)",
+   "Q184004": "Pižmoň severní (Ovibos moschatus)",
+   "Q26913": "Tuleň obecný (Phoca vitulina)",
+   "Q29995": "Vydra říční (Lutra lutra)",
+   "Q313166": "Tuleň Weddellův (Leptonychotes weddellii)",
+   "Q431981": "Lachtan ušatý (Eumetopias jubatus)",
+   "Q728454": "Jezevec čínský (Meles leucurus)",
+   "Q751636": "Pavián babuin (Papio cynocephalus)",
+   "Q754992": "Nosál bělohubý (Nasua narica)",
+   "Q972907": "Outloň jávský (Nycticebus javanicus)"
+  }
+ },
+ {
+  "id": "Q186663#4",
+  "species": "Tuleň leopardí",
+  "latin": "Hydrurga leptonyx",
+  "text": "Tento druh má jediného přirozeného predátora, kosatku dravou.",
+  "quote": "jeho jediným přirozeným predátorem je kosatka dravá",
+  "claimed_false_for": {
+   "Q194198": "Vakomyš dlouhoocasá (Planigale ingrami)",
+   "Q195350": "Mara slaništní (Dolichotis salinicola)",
+   "Q209497": "Klokan žlutonohý (Petrogale xanthopus)",
+   "Q308780": "Veverka holouchá (Exilisciurus exilis)",
+   "Q36341": "Medvěd hnědý (Ursus arctos)",
+   "Q41960": "Panda červená (Ailurus fulgens)",
+   "Q42699": "Serval (Leptailurus serval)",
+   "Q70529": "Tchořík skvrnitý (Vormela peregusna)"
+  }
+ },
+ {
+  "id": "Q186778#0",
+  "species": "Ksukol ocasatý",
+  "latin": "Daubentonia madagascariensis",
+  "text": "Dožívá se přibližně 26 let.",
+  "quote": "Dožívá se přibližně 26 let.",
+  "claimed_false_for": {
+   "Q257470": "Kočkodan obecný (Chlorocebus aethiops)",
+   "Q674003": "Jelenec pampový (Ozotoceros bezoarticus)"
+  }
+ },
+ {
+  "id": "Q186778#1",
+  "species": "Ksukol ocasatý",
+  "latin": "Daubentonia madagascariensis",
+  "text": "Stráví 80% noci hledáním potravy.",
+  "quote": "Stráví 80% noci hledáním potravy.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q186778#2",
+  "species": "Ksukol ocasatý",
+  "latin": "Daubentonia madagascariensis",
+  "text": "Živí se larvami hmyzu, nektarem, sladkými plody a ptačími vejci.",
+  "quote": "Živí se larvami hmyzu, nektarem, sladkými plody a ptačími vejci.",
+  "claimed_false_for": {
+   "Q234597": "Sitatunga (Tragelaphus spekii)",
+   "Q245305": "Zebra stepní (Equus quagga)"
+  }
+ },
+ {
+  "id": "Q186778#3",
+  "species": "Ksukol ocasatý",
+  "latin": "Daubentonia madagascariensis",
+  "text": "Poklepává prsty na kůru stromů jako datel.",
+  "quote": "Poklepává prsty na kůru stromů jako datel",
+  "claimed_false_for": {
+   "Q132576": "Impala (Aepyceros melampus)",
+   "Q1350660": "Titi světlý (Callicebus barbarabrownae)",
+   "Q1365754": "Mangabej kouřový (Cercocebus atys)",
+   "Q139487": "Kudu velký (Tragelaphus strepsiceros)",
+   "Q280590": "Makak chocholatý (Macaca nigra)",
+   "Q42627": "Kočka bengálská (Prionailurus bengalensis)",
+   "Q751636": "Pavián babuin (Papio cynocephalus)",
+   "Q832379": "Lachtan Forsterův (Arctocephalus forsteri)",
+   "Q849419": "Vřešťan mono (Alouatta pigra)",
+   "Q913762": "Makak tmavý (Macaca maura)"
+  }
+ },
+ {
+  "id": "Q187024#1",
+  "species": "Korsak",
+  "latin": "Vulpes corsac",
+  "text": "Žije ve skupinkách, které sdílejí jeden úkryt.",
+  "quote": "sdružuje se do skupinek, rodinných kolonií, žijících v jednom úkrytu",
+  "claimed_false_for": {
+   "Q25311": "Lasice kolčava (Mustela nivalis)",
+   "Q33602": "Panda velká (Ailuropoda melanoleuca)",
+   "Q43375": "Rys ostrovid (Lynx lynx)",
+   "Q906945": "Mangusta abuvudan (Ichneumia albicauda)"
+  }
+ },
+ {
+  "id": "Q18764#0",
+  "species": "Oviječ skvrnitý",
+  "latin": "Paradoxurus hermaphroditus",
+  "text": "Tento druh je aktivní hlavně v noci a za soumraku.",
+  "quote": "aktivitu má především soumračnou a noční",
+  "claimed_false_for": {
+   "Q23121": "Mangusta žíhaná (Mungos mungo)",
+   "Q602823": "Charza jižní (Martes gwatkinsii)",
+   "Q677608": "Sifaka velký (Propithecus diadema)"
+  }
+ },
+ {
+  "id": "Q18764#1",
+  "species": "Oviječ skvrnitý",
+  "latin": "Paradoxurus hermaphroditus",
+  "text": "Nejraději jí ovoce a květní nektar.",
+  "quote": "ve stravě preferuje ovoce a květní nektar",
+  "claimed_false_for": {
+   "Q174296": "Gaur (Bos gaurus)",
+   "Q192233": "Kočka Temminckova (Pardofelis temminckii)",
+   "Q27179": "Norek americký (Neogale vison)",
+   "Q275163": "Levhart Diardův (Neofelis diardi)",
+   "Q34706": "Levhart skvrnitý (Panthera pardus)",
+   "Q644224": "Vydra pobřežní (Lontra felina)",
+   "Q82738": "Liška polární (Vulpes lagopus)"
+  }
+ },
+ {
+  "id": "Q18764#2",
+  "species": "Oviječ skvrnitý",
+  "latin": "Paradoxurus hermaphroditus",
+  "text": "Samice rodí 2 až 5 mláďat.",
+  "quote": "Samice následně rodí 2 až 5 mláďat.",
+  "claimed_false_for": {
+   "Q192029": "Kahau nosatý (Nasalis larvatus)",
+   "Q301286": "Listonos bílý (Ectophylla alba)",
+   "Q313166": "Tuleň Weddellův (Leptonychotes weddellii)"
+  }
+ },
+ {
+  "id": "Q18764#3",
+  "species": "Oviječ skvrnitý",
+  "latin": "Paradoxurus hermaphroditus",
+  "text": "Dožívá se 15 až 25 let.",
+  "quote": "Dožívají se 15 až 25 let.",
+  "claimed_false_for": {
+   "Q1130566": "Bércoun africký (Macroscelides proboscideus)",
+   "Q1764011": "Rejsek krátkouchý (Cryptotis parva)"
+  }
+ },
+ {
+  "id": "Q187704#0",
+  "species": "Nutrie říční",
+  "latin": "Myocastor coypus",
+  "text": "Živí se kořeny a bylinami.",
+  "quote": "Nutrie se živí kořeny a bylinami",
+  "claimed_false_for": {
+   "Q541053": "Mampalon (Cynogale bennettii)"
+  }
+ },
+ {
+  "id": "Q187704#1",
+  "species": "Nutrie říční",
+  "latin": "Myocastor coypus",
+  "text": "Tento druh pochází z Jižní Ameriky.",
+  "quote": "o přirozený výskyt se však jedná pouze v Jižní Americe",
+  "claimed_false_for": {
+   "Q125863341": "Veverka kapská (Geosciurus inauris)",
+   "Q147128": "Plch velký (Glis glis)",
+   "Q186942": "Daman stepní (Heterohyrax brucei)",
+   "Q192029": "Kahau nosatý (Nasalis larvatus)",
+   "Q210872": "Delfínovec ganžský (Platanista gangetica)",
+   "Q212185": "Myšice křovinná (Apodemus sylvaticus)",
+   "Q247142": "Psoun prériový (Cynomys ludovicianus)",
+   "Q304884": "Tarbíkomyš Merriamova (Dipodomys merriami)",
+   "Q503813": "Bobruška (Aplodontia rufa)",
+   "Q917916": "Ratufa uzdičková (Ratufa bicolor)"
+  }
+ }
+]
