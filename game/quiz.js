@@ -39,6 +39,14 @@
     return [...wordsA].filter((w) => wordsB.has(w)).length / shorter >= 0.6;
   }
 
+  // Zmiňuje věta daný druh? Česky se názvy skloňují, proto stačí začátek rodového jména (kosatka, kosatky, kosatkou).
+  // Omylem vyřazená možnost nevadí, věta o kosatce nabídnutá u kosatky by ale otázku prozradila.
+  function mentions(text, species) {
+    const genus = species.name.split(" ")[0].toLowerCase();
+    const stem = genus.slice(0, genus.length >= 6 ? -2 : genus.length >= 4 ? -1 : undefined);
+    return text.toLowerCase().split(/[^\p{L}]+/u).some((w) => w.startsWith(stem) && w.length <= stem.length + 4);
+  }
+
   // Člověk je vzácný vtípek: smí být jen hledaným druhem, ne špatnou odpovědí u opic a lidoopů.
   const notEgg = (s) => !s.egg;
 
@@ -93,7 +101,7 @@
     if (!target.facts.length) return null;
     const correct = pickFact(target.facts);
     const wrong = shuffle(classmates.flatMap((s) =>
-      s === target ? [] : s.facts.filter((f) => f.not.includes(target.id) && f.text !== correct.text)));
+      s === target ? [] : s.facts.filter((f) => f.not.includes(target.id) && f.text !== correct.text && !mentions(f.text, target))));
     const order = (f) => (f.cat === correct.cat ? 0 : 1) + (isDull(f) ? 2 : 0);
     const distractors = [];
     for (const f of wrong.sort((a, b) => order(a) - order(b))) {
@@ -122,7 +130,7 @@
     const byId = new Map(classmates.map((s) => [s.id, s]));
     const others = [];
     const names = new Set([target.name]);
-    for (const s of shuffle(fact.not.map((id) => byId.get(id)).filter((s) => s && notEgg(s)))) {
+    for (const s of shuffle(fact.not.map((id) => byId.get(id)).filter((s) => s && notEgg(s) && !mentions(fact.text, s)))) {
       if (others.length < 3 && !names.has(s.name)) {
         names.add(s.name);
         others.push(s);
@@ -190,5 +198,5 @@
     return { ...c, species: [...new Set([...known, ...c.species.filter((s) => s.egg)])] };
   });
 
-  window.Quiz = { makeQuestion, isCorrect, inContinents, popularOnly, tooSimilar, isDull, MAKERS };
+  window.Quiz = { makeQuestion, isCorrect, inContinents, popularOnly, tooSimilar, isDull, mentions, MAKERS };
 })();

@@ -65,6 +65,13 @@ assert(window.Quiz.isDull({ text: "Kvete od června do srpna." }) && !window.Qui
   }
 }
 assert(classes.find((c) => c.slug === "ryby").species.some((s) => s.name === "Treska obecná"), "treska patří mezi ryby");
+{
+  const orca = { name: "Kosatka dravá" };
+  assert(window.Quiz.mentions("Mezi hlavní nepřátele patří kosatka dravá a medvěd lední.", orca));
+  assert(window.Quiz.mentions("Loví ho kosatky.", orca) && window.Quiz.mentions("Bývá kořistí kosatek.", orca));
+  assert(!window.Quiz.mentions("Bývá kořistí levhartů.", { name: "Lev pustinný" }), "levhart není lev");
+  assert(!window.Quiz.mentions("Žije v Evropě.", orca));
+}
 for (const cls of classes) {
   assert(cls.species.every((s) => s.latin), "každý druh má latinský název");
   assert(cls.species.every((s) => s.continents.length), "každý druh má kontinent");
@@ -108,11 +115,17 @@ for (const cls of classes) {
       for (const facts of owners) {
         assert(facts.some((f) => f.not.includes(q.target.id)), "špatná věta pro cílový druh jistě neplatí");
       }
+      for (const o of q.options) {
+        if (!o.species) assert(!window.Quiz.mentions(o.text, q.target), `špatná věta zmiňuje hledaný druh ${q.target.name}: ${o.text}`);
+      }
     }
     if (q.type === "findSpecies") {
       const fact = q.target.facts.find((f) => f.text === q.statement);
       for (const o of q.options) {
-        if (o.species !== q.target) assert(fact.not.includes(o.species.id), "tvrzení pro špatný druh jistě neplatí");
+        if (o.species !== q.target) {
+          assert(fact.not.includes(o.species.id), "tvrzení pro špatný druh jistě neplatí");
+          assert(!window.Quiz.mentions(q.statement, o.species), `tvrzení zmiňuje nabízený druh ${o.species.name}: ${q.statement}`);
+        }
         assert(byId.has(o.species.id));
       }
     }
