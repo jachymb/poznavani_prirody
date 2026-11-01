@@ -30,7 +30,7 @@ Každá skupina druhů v `CLASSES` v `pipeline.py` prochází těmito kroky:
 
 1. **Stažení:** `python pipeline.py fetch <skupina>` stáhne z Wikidat a české Wikipedie druhy s článkem a jejich fotky do `data/<skupina>/`. Přidává jen nové druhy a přerušené stahování naváže. Nastav `WIKIMEDIA_CONTACT` na svůj kontakt, Wikimedia pak povoluje 200 požadavků za minutu místo 10.
 2. **Fakta a fotky:** subagent z článku vybere tvrzení s doslovnou citací a posoudí fotky. O použitelnosti rozhoduje on, ne šablona Pahýl: článek vyřadí, jen když neobsahuje žádnou informaci vhodnou pro otázku.
-3. **Další fotky:** `python pipeline.py photos <skupina>` najde druhům s méně než dvěma schválenými fotkami další na Wikimedia Commons a subagent je posoudí stejně přísně.
+3. **Další fotky:** `python pipeline.py photos <skupina>` najde druhům s méně než dvěma schválenými fotkami další na Wikimedia Commons a subagent je posoudí stejně přísně. `fill` doplní každému druhu kandidáty až do deseti schválených fotek. Všechny kontroly fotek berou jen snímky, které aspoň na první pohled vypadají jako z volné přírody: zvíře ve výběhu, za pletivem nebo v ruce a rostlina v květináči neprojdou.
 4. **Negativní tvrzení:** subagent určí, pro které druhy tvrzení s jistotou neplatí. Z toho vznikají špatné odpovědi.
 5. **Přísná kontrola:** silnější model znovu projde tvrzení, negativní úsudky a fotky.
 6. **Kontinenty:** subagent přiřadí druhům kontinenty výskytu.

@@ -9,7 +9,7 @@ Kroky jedné třídy: fakta a fotky -> další fotky -> negativní tvrzení -> p
 Každý krok zpracuje jen to, co ještě neprošlo, hotové výsledky zůstávají.
 Novou třídu přidáš jedním řádkem do CLASSES.
 """
-import contextlib, functools, html, http.client, json, os, random, re, sys, textwrap, time, urllib.error, urllib.parse, urllib.request
+import contextlib, functools, html, http.client, json, math, os, random, re, sys, textwrap, time, urllib.error, urllib.parse, urllib.request
 from collections import Counter, defaultdict
 from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
@@ -72,8 +72,6 @@ GAME_GROUPS = {
     "pavoukovci": ("Q1358", "Pavoukovci", "zivocichove"),
     "mekkysi": ("Q4867740 Q25368 Q128257 Q188906", "Měkkýši", "zivocichove"),
     "korysi": ("Q182978 Q188360 Q150628 Q22986461", "Korýši", "zivocichove"),
-    "zahavci": ("Q181989 Q272388 Q132674 Q132680 Q273179 Q16006458", "Žahavci", "zivocichove"),
-    "ostnokozci": ("Q25349 Q83483 Q127470 Q248530", "Ostnokožci", "zivocichove"),
     "krouzkovci": ("Q18952 Q193006 Q839350", "Kroužkovci", "zivocichove"),
     "plostenci": ("Q159715 Q207547", "Ploštěnci", "zivocichove"),
     # před jehličnany: Wikidata řadí liánovce a chvojníky i pod širší taxon Coniferae
@@ -154,12 +152,14 @@ EASTER_EGG = {
 MAX_PHOTOS = 4
 MIN_COMMONS_WIDTH = 800  # další fotky z Commons mají být kvalitní
 WANTED_PHOTOS = 2  # s menším počtem schválených fotek se hledají další
+GAME_PHOTOS = 10  # nejvýš tolik schválených fotek jednoho druhu, doplňuje se do něj z Commons
 CATEGORIES = {"vzhled", "potrava", "výskyt", "chování", "mláďata", "čísla", "vztahy", "růst", "využití", "jedovatost", "účinky"}
 CONTINENTS = ("EU", "AS", "AF", "NA", "SA", "AN", "OC")
 MIN_CLASS_SPECIES = 4  # méně druhů nestačí na otázku se čtyřmi možnostmi
 BAD_FILE = re.compile(
     r"map|range|distribution|areal|rozsir|rozšíř|status|logo|icon|skull|lebk|skelet|skeleton|dead|killed|mrtv"
-    r"|troph|stamp|známk|footprint|scat|illustration|drawing|painting|kresb|engraving|lithograph|fossil|herbar|herbář",
+    r"|troph|stamp|známk|footprint|scat|illustration|drawing|painting|kresb|engraving|lithograph|fossil|herbar|herbář"
+    r"|\bplate\b|fmib|taxiderm|museum|denticule",
     re.I,
 )
 # dítě nesmí ze hry odnést, že něco může jíst nebo se tím léčit
@@ -297,9 +297,11 @@ def photo_candidates(sp, article_images):
 
 def commons_candidates(category, known=(), limit=MAX_PHOTOS):
     """Fotky z kategorie druhu na Wikimedia Commons, které ještě nemá."""
-    members = wiki(host="commons.wikimedia.org", action="query", list="categorymembers", cmtitle=f"Category:{category}", cmtype="file", cmlimit=100)["categorymembers"]
+    members = wiki(host="commons.wikimedia.org", action="query", list="categorymembers", cmtitle=f"Category:{category}", cmtype="file", cmlimit=200)["categorymembers"]
     known = {f.replace(" ", "_") for f in known}
     files = [m["title"].removeprefix("File:") for m in members]
+    # Commons řadí podle abecedy, začátek abecedy často zaplní kresby a muzejní exponáty. Pevné semínko: výběr je opakovatelný.
+    random.Random(category).shuffle(files)
     return image_records(good_files([f for f in files if f.replace(" ", "_") not in known]), limit, MIN_COMMONS_WIDTH)
 
 
@@ -409,13 +411,34 @@ def save_species(species_file, species):
     os.replace(temporary, species_file)
 
 
-def more_photos(slug, batch=25):
+def retry_photos(slug):
+    """Druhům bez jediné schválené fotky hledá ještě jednou: první hledání bralo jen začátek abecedy. Každý druh jen jednou."""
+    more_photos(slug, retry=True)
+
+
+def fill_photos(slug):
+    """Doplní každému druhu kandidáty z Commons až do GAME_PHOTOS schválených fotek. Každý druh jen jednou."""
+    more_photos(slug, fill=True)
+
+
+def more_photos(slug, batch=25, retry=False, fill=False):
     """Druhům s málo schválenými fotkami přidá kandidáty z Commons a úlohy pro jejich posouzení. Každý druh jen jednou."""
     base, species_file, _, thumbs, *_ = paths(slug)
     (base / "photo_jobs").mkdir(exist_ok=True)
     (base / "more_photos").mkdir(exist_ok=True)
     species, facts, _ = load_facts(slug)
-    targets = [s for s, v in facts.items() if len(v["photos"]) < WANTED_PHOTOS and not (base / "photo_jobs" / f"{s}.json").exists()]
+    name = (lambda s: f"{s}_fill") if fill else (lambda s: s)
+    job_of = lambda s: base / "photo_jobs" / f"{name(s)}.json"
+    if fill:
+        # počítá se se schválením po přísné kontrole, ta je v built.json
+        built = base / "built.json"
+        approved = {s["id"]: len(s["photos"]) for s in json.loads(built.read_text("utf-8"))["species"]} if built.exists() else {}
+        wanted = {s: GAME_PHOTOS - approved.get(s, 0) for s in facts}
+        targets = [s for s, n in wanted.items() if n > 0 and not job_of(s).exists()]
+    elif retry:
+        targets = [s for s, v in facts.items() if not v["photos"] and not (job_of(s).exists() and read_json(job_of(s)).get("retry"))]
+    else:
+        targets = [s for s, v in facts.items() if len(v["photos"]) < WANTED_PHOTOS and not job_of(s).exists()]
     print(f"{slug}: hledám další fotky pro {len(targets)} druhů", flush=True)
     categories = {r["s"]["value"].rsplit("/", 1)[1]: r["cat"]["value"] for r in sparql_by_species(
         targets, lambda values: f"SELECT ?s ?cat WHERE {{ VALUES ?s {{ {values} }} ?s wdt:P373 ?cat }}")}
@@ -423,7 +446,8 @@ def more_photos(slug, batch=25):
     def search(sid):
         sp = species[sid]
         known = [p["file"] for p in sp["photos"]]
-        return download_photos(thumbs, sid, commons_candidates(categories.get(sid) or sp["latin"], known), len(known))
+        limit = wanted[sid] if fill else MAX_PHOTOS * 2 if retry else MAX_PHOTOS
+        return download_photos(thumbs, sid, commons_candidates(categories.get(sid) or sp["latin"], known, limit), len(known))
 
     found = 0
     with ThreadPoolExecutor(3) as pool:
@@ -435,11 +459,14 @@ def more_photos(slug, batch=25):
             save_species(species_file, species)
             for sid, photos in zip(chunk, results):
                 start = len(species[sid]["photos"]) - len(photos)
-                job = {"species": species[sid]["name"], "latin": species[sid]["latin"], "photos": [
+                job = {"species": species[sid]["name"], "latin": species[sid]["latin"], "retry": retry, "photos": [
                     {"i": start + n, "file": p["file"], "desc": p["desc"], "image": f"data/{slug}/thumbs/{sid}_{start + n}.jpg"} for n, p in enumerate(photos)]}
-                (base / "photo_jobs" / f"{sid}.json").write_text(json.dumps(job, ensure_ascii=False, indent=1), encoding="utf-8")
+                job_of(sid).write_text(json.dumps(job, ensure_ascii=False, indent=1), encoding="utf-8")
+                result = base / "more_photos" / f"{name(sid)}.json"
+                if retry:  # nový pokus nahrazuje výsledek toho předchozího, nic schváleného v něm nebylo
+                    result.unlink(missing_ok=True)
                 if not photos:
-                    (base / "more_photos" / f"{sid}.json").write_text('{"photos": []}', encoding="utf-8")
+                    result.write_text('{"photos": []}', encoding="utf-8")
                 found += len(photos)
             print(f"  {i + len(chunk)}/{len(targets)}, nalezeno {found} fotek", flush=True)
 
@@ -498,9 +525,10 @@ def class_batch(slug, limit):
         build(slug)
         if slug == "savci":
             sync_peer_negatives(slug)
-            found = batch("negatives")
-            if found:
-                return found
+        sync_known_negatives(slug)
+        found = batch("negatives")
+        if found:
+            return found
         sync_review(slug)
     found = batch("review")
     if found:
@@ -609,9 +637,10 @@ def load_facts(slug):
                 else:
                     facts.append({"id": fact_id, "text": text, "quote": f["quote"], "category": f["category"]})
             judged = list(raw["photos"])
-            extra = base / "more_photos" / f"{sid}.json"
-            if extra.exists():
-                judged += read_json(extra)["photos"]
+            # první hledání ukládá {sid}.json, další kola {sid}_<kolo>.json
+            for extra in [base / "more_photos" / f"{sid}.json", *(base / "more_photos").glob(f"{sid}_*.json")]:
+                if extra.exists():
+                    judged += read_json(extra)["photos"]
             photos = sorted({p["i"] for p in judged if p["ok"] and 0 <= p["i"] < len(sp["photos"])})
         except (json.JSONDecodeError, KeyError, TypeError) as e:
             dropped[f"neplatný soubor ({type(e).__name__})"] += 1
@@ -678,18 +707,30 @@ def sync_negatives(slug, batch=20, candidates=12):
     print(f"Nových úloh negativního kroku: {n - first}")
 
 
-def sync_peer_negatives(slug, batch=20, candidates=12):
-    """Tvrzení ze hry posoudí ještě vůči druhům z užší skupiny, ať má hra špatné odpovědi z podobných zvířat."""
-    base, _, articles, _, _, jobs_dir, _ = paths(slug)
-    species, facts, _ = load_facts(slug)
-    built = json.loads((base / "built.json").read_text("utf-8"))["species"]
-    covered = {f["id"] for job in jobs_dir.glob("peer_*.json") for f in read_json(job)["facts"]}
-    rng = random.Random(slug)
+def sync_peer_negatives(slug):
+    """Tvrzení savců posoudí ještě vůči druhům z užší skupiny, ať má hra špatné odpovědi z podobných zvířat."""
+    built = json.loads((paths(slug)[0] / "built.json").read_text("utf-8"))["species"]
     members = defaultdict(list)
     for s in built:
         members[peer_group(s)].append(s)
+    extra_negatives(slug, "peer_", members)
+
+
+def sync_known_negatives(slug, share=0.1, minimum=12):
+    """Tvrzení známých druhů posoudí vůči jiným známým druhům. Jen ti se objevují jako možnosti na nejnižší úrovni."""
+    built = json.loads((paths(slug)[0] / "built.json").read_text("utf-8"))["species"]
+    limit = max(minimum, math.ceil(len(built) * share))
+    extra_negatives(slug, "known_", {"známé": sorted(built, key=lambda s: -s["pop"])[:limit]})
+
+
+def extra_negatives(slug, prefix, members, batch=20, candidates=12):
+    """Úlohy, které posoudí tvrzení ze hry vůči druhům ze stejné skupiny. Každé tvrzení jen jednou."""
+    base, _, articles, _, _, jobs_dir, _ = paths(slug)
+    species, facts, _ = load_facts(slug)
+    covered = {f["id"] for job in jobs_dir.glob(f"{prefix}*.json") for f in read_json(job)["facts"]}
+    rng = random.Random(slug)
     used = Counter()
-    n = next_job_number(jobs_dir, "peer_")
+    n = next_job_number(jobs_dir, prefix)
     first = n
     for group in sorted(members):
         ids = [s["id"] for s in members[group]]
@@ -701,9 +742,22 @@ def sync_peer_negatives(slug, batch=20, candidates=12):
             rng.shuffle(pool)
             cand = sorted(pool, key=lambda s: used[s])[:candidates]  # vlastní druh tvrzení vyloučí build
             used.update(cand)
-            write_neg_job(jobs_dir / f"peer_{n:04}.json", chunks[i:i + batch], cand, species, facts, articles)
+            write_neg_job(jobs_dir / f"{prefix}{n:04}.json", chunks[i:i + batch], cand, species, facts, articles)
             n += 1
-    print(f"Nových úloh užší skupiny: {n - first}")
+    print(f"{slug}: nových úloh {prefix}: {n - first}")
+
+
+def sync_wild_review(slug, batch=40):
+    """Jednorázově projde fotky schválené dřív, než kontroly vyřazovaly zvířata ze zajetí. Nové fotky to kontrolují rovnou."""
+    base = paths(slug)[0]
+    jobs_dir = base / "review_jobs"
+    done = {(item["species_id"], item["i"]) for job in jobs_dir.glob("w_*.json") for item in read_json(job)}
+    items = [{"species_id": s["id"], "i": p["i"], "species": s["name"], "latin": s["latin"], "image": f"data/{slug}/thumbs/{s['id']}_{p['i']}.jpg"}
+             for s in json.loads((base / "built.json").read_text("utf-8"))["species"] for p in s["photos"] if (s["id"], p["i"]) not in done]
+    start = next_job_number(jobs_dir, "w_")
+    for n in range(0, len(items), batch):
+        (jobs_dir / f"w_{start + n // batch:04}.json").write_text(json.dumps(items[n:n + batch], ensure_ascii=False, indent=1), encoding="utf-8")
+    print(f"{slug}: fotek ke kontrole prostředí {len(items)}")
 
 
 def sync_review(slug, fact_batch=40, photo_batch=30):
@@ -792,7 +846,7 @@ def build(slug):
     for file in sorted(neg_dir.glob("*.json")):
         for r in read_json(file)["results"]:
             false_for[r["id"]] |= set(r.get("false_for", []))
-            if r.get("bad") and not file.stem.startswith("peer_"):  # kvalitu tvrzení už posoudil první průchod
+            if r.get("bad") and not file.stem.startswith(("peer_", "known_")):  # kvalitu tvrzení už posoudil první průchod
                 bad[r["id"]] = r.get("why", "")
     unreviewed = [f["id"] for v in facts.values() if v["photos"] for f in v["facts"] if f["id"] not in false_for]
     print("Zahozeno krokem 1:", dict(dropped), "\nZahozeno kontrolou v kroku 2:", len(bad), "\nBez kontroly (zahozeno):", len(unreviewed))
@@ -835,7 +889,9 @@ def build(slug):
             if f["id"] not in bad:
                 texts.setdefault(plain_text(f["text"]), f)
         kept = [{"id": f["id"], "text": text, "cat": f["category"], "not": sorted((false_for[f["id"]] & alive) - {sid}), "reviewed": f["id"] in reviewed} for text, f in texts.items()]
-        photos = [{**{k: sp["photos"][i][k] for k in ("url", "page", "author", "license")}, "reviewed": (sid, i) in reviewed} for i in v["photos"]]
+        # sledovací parametry v adrese fotky jen zvětšují data.js
+        photos = [{**{k: sp["photos"][i][k] for k in ("page", "author", "license")}, "url": sp["photos"][i]["url"].split("?")[0], "i": i,
+                   "reviewed": (sid, i) in reviewed} for i in v["photos"]][:GAME_PHOTOS]
         out.append({"id": sid, "name": sp["name"], "latin": sp["latin"], "family": sp["family"], "order": sp["order"],
                     "wiki": "https://cs.wikipedia.org/wiki/" + urllib.parse.quote(sp["title"].replace(" ", "_")),
                     "photos": photos, "facts": kept, "continents": where.get(sid, []), "pop": known.get(sid, 0)})
@@ -891,7 +947,7 @@ def write_game_data():
             continue
         for s in json.loads(file.read_text("utf-8"))["species"]:
             s["facts"] = [f for f in s["facts"] if f.pop("reviewed", False)]
-            s["photos"] = [p for p in s["photos"] if p.pop("reviewed", False)]
+            s["photos"] = [{k: v for k, v in p.items() if k not in ("reviewed", "i")} for p in s["photos"] if p.get("reviewed")]
             if s["continents"] and s["photos"]:
                 s["latin"] = s["latin"] or LATIN_NAMES.get(s["id"], "")
                 own = set(roots.get(s["id"], []))
@@ -913,4 +969,4 @@ def write_game_data():
 
 if __name__ == "__main__":
     sys.stdout.reconfigure(encoding="utf-8")
-    {"fetch": fetch, "photos": more_photos, "next": next_batch, "todo": todo, "build": build, "popularity": popularity}[sys.argv[1]](sys.argv[2])
+    {"fetch": fetch, "photos": more_photos, "retry": retry_photos, "fill": fill_photos, "wild": sync_wild_review, "next": next_batch, "todo": todo, "build": build, "popularity": popularity}[sys.argv[1]](sys.argv[2])
