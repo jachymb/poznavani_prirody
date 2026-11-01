@@ -187,9 +187,9 @@
           for (let tries = 0; tries < TARGET_TRIES; tries++) {
             // Známější druhy (článek ve více jazycích) se losují častěji. Dělení odmocninou z velikosti třídy
             // brání velkým třídám vytlačit malé; 1/ln n má téměř nulový účinek, plná rovnost by malé třídy pořád opakovala.
-            const [target, classmates, wide] = pickWeighted(pool, ([s, mates]) => (1 + (s.pop || 0)) / Math.sqrt(mates.length));
-            // Špatná věta nikde neukazuje druh, od kterého pochází, proto smí být i o méně známém druhu ze stejné třídy.
-            const q = make(target, (make === factQuestion ? wide : classmates).filter(scopeOf(target, step, level)), level);
+            const [target, , classmates] = pickWeighted(pool, ([s, known]) => (1 + (s.pop || 0)) / Math.sqrt(known.length));
+            // Úroveň zužuje jen hledané druhy. Špatné odpovědi jsou z celé třídy, vybrané podle stejných pravidel příbuznosti.
+            const q = make(target, classmates.filter(scopeOf(target, step, level)), level);
             if (!q) continue;
             const other = target.facts.filter((f) => f !== q.shownFact);
             q.target = target;
@@ -211,7 +211,8 @@
     species: c.species.filter((s) => s.continents.some((code) => selected.has(code))),
   }));
 
-  // Nejznámější druhy každé třídy podle úrovně (a vzácný vtípek, ten má vlastní nízkou váhu).
+  // Hledané druhy podle úrovně: nejznámější z každé třídy (a vzácný vtípek, ten má vlastní nízkou váhu). Celá třída zůstává
+  // ve „wide“ pro špatné odpovědi.
   const atLevel = (classes, level) => classes.map((c) => {
     const pool = LEVEL_POOLS[level];
     if (!pool) return c;

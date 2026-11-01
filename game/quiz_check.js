@@ -22,10 +22,13 @@ assert(window.Quiz.isDull({ text: "Kvete od června do srpna." }) && !window.Qui
   assert(beginner[0].species.every((s) => advancedIds.has(s.id)), "začátečníkovy druhy zná i pokročilý");
   for (const [level, picked] of [["beginner", beginner], ["advanced", advanced]]) {
     const pool = new Set(picked[0].species.map((s) => s.id));
+    let unknownWrong = 0;
     for (let i = 0; i < 1000; i++) {
       const q = window.Quiz.makeQuestion(picked, { level });
-      assert(pool.has(q.target.id) && q.options.every((o) => !o.species || pool.has(o.species.id)), `${level} vidí jen známější druhy`);
+      assert(pool.has(q.target.id), `${level} hledá jen známější druhy`);
+      unknownWrong += q.options.filter((o) => o.species && o.species !== q.target && !pool.has(o.species.id)).length;
     }
+    assert(unknownWrong > 100, `${level}: špatné odpovědi jsou i z méně známých druhů (${unknownWrong})`);
   }
   const onlyOne = new Set([beginner[0].species[0].id]);
   for (let i = 0; i < 200; i++) {
