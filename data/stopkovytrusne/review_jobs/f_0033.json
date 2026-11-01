@@ -1,0 +1,538 @@
+[
+ {
+  "id": "Q498221#x3",
+  "species": "Ryzec smrkový",
+  "latin": "Lactarius deterrimus",
+  "text": "Plodnice slouží za potravu larvám několika druhů hmyzu.",
+  "quote": "The fruit bodies are used as source of food for the larvae of several insect species.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q498221#x4",
+  "species": "Ryzec smrkový",
+  "latin": "Lactarius deterrimus",
+  "text": "Napadá ho parazitická houba, která plodnice znetvoří.",
+  "quote": "infested by the parasitic sac fungus Hypomyces lateritius",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q498221#x5",
+  "species": "Ryzec smrkový",
+  "latin": "Lactarius deterrimus",
+  "text": "Plodnice roste od konce června do listopadu, nejčastěji od srpna do října.",
+  "quote": "The fruit bodies appear from late June to November, but usually from August to October",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q503359#2",
+  "species": "Lysohlávka kopinatá",
+  "latin": "Psilocybe semilanceata",
+  "text": "Živí se odumřelými kořeny trávy.",
+  "quote": "živí se odumřelými kořeny trávy",
+  "claimed_false_for": {
+   "Q105154367": "Plstnatec tlustoostný (Irpiciporus pachyodon)",
+   "Q11047363": "Černorosol uťatý (Exidia truncata)",
+   "Q1301490": "Síťkovec dubový (Daedalea quercina)",
+   "Q1314913": "Hnědák Schweinitzův (Phaeolus schweinitzii)",
+   "Q1473292": "Rosolovec červený (Tremiscus helvelloides)",
+   "Q1928270": "Troudnatec pásovaný (Fomitopsis pinicola)",
+   "Q3915786": "Smolokorka buková (Ischnoderma resinosum)",
+   "Q548690": "Outkovka vonná (Trametes suaveolens)",
+   "Q675252": "Choroš oříš (Polyporus umbellatus)",
+   "Q774576": "Lesklokorka ploská (Ganoderma applanatum)",
+   "Q96636858": "Choroš smolonohý (Picipes badius)",
+   "Q96934111": "Choroš šupinatý (Cerioporus squamosus)"
+  }
+ },
+ {
+  "id": "Q503359#4",
+  "species": "Lysohlávka kopinatá",
+  "latin": "Psilocybe semilanceata",
+  "text": "Klobouk za vlhka tmavne a při vysychání bledne.",
+  "quote": "Zbarvení je hygrofánní (tj. za vlhka tmavnoucí a při vysychání blednoucí)",
+  "claimed_false_for": {
+   "Q10403027": "Pečárka Bohusova (Agaricus bohusii)",
+   "Q10659976": "Kuřinec šafránový (Ramariopsis crocea)",
+   "Q220662": "Muchomůrka císařka (Amanita caesarea)",
+   "Q222449": "Pýchavka obrovská (Calvatia gigantea)",
+   "Q545130": "Pýchavka obecná (Lycoperdon perlatum)",
+   "Q579190": "Mřížovka červená (Clathrus ruber)",
+   "Q690801": "Pečárka ovčí (Agaricus arvensis)",
+   "Q752494": "Hřib koloděj (Suillellus luridus)",
+   "Q922092": "Muchomůrka Vittadiniho (Amanita vittadinii)"
+  }
+ },
+ {
+  "id": "Q533017#x0",
+  "species": "Křemenáč březový",
+  "latin": "Leccinum versipelle",
+  "text": "Roste pod břízami a žije s nimi v symbióze.",
+  "quote": "with ectomycorrhizal association with Betula in forests and heathland",
+  "claimed_false_for": {
+   "Q1624061": "Hřib dutonohý (Suillus cavipes)",
+   "Q205568": "Klouzek limbový (Suillus plorans)",
+   "Q3787843": "Šťavnatka buková (Hygrophorus penarius)",
+   "Q473745": "Václavka obecná (Armillaria mellea)",
+   "Q757127": "Hřib bronzový (Boletus aereus)"
+  }
+ },
+ {
+  "id": "Q533017#x1",
+  "species": "Křemenáč březový",
+  "latin": "Leccinum versipelle",
+  "text": "Po tepelné úpravě zčerná.",
+  "quote": "turns black when cooked",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q533017#x2",
+  "species": "Křemenáč březový",
+  "latin": "Leccinum versipelle",
+  "text": "Je mírně jedovatý, způsobuje nevolnost a zvracení.",
+  "quote": "It is mildly toxic (causing nausea and vomiting) unless given proper heat treatment",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q533017#x3",
+  "species": "Křemenáč březový",
+  "latin": "Leccinum versipelle",
+  "text": "Klobouk dorůstá do průměru až 15 centimetrů.",
+  "quote": "grows up to 15 centimetres (6 in) in diameter",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q5351663#x0",
+  "species": "Kořenovec načervenalý",
+  "latin": "Rhizopogon roseolus",
+  "text": "Žije v symbióze s kořeny borovic.",
+  "quote": "The fungus lives by forming ectomycorrhizae with pine trees.",
+  "claimed_false_for": {
+   "Q10432400": "Hřib měďový (Imperator luteocupreus)",
+   "Q1624061": "Hřib dutonohý (Suillus cavipes)",
+   "Q3787843": "Šťavnatka buková (Hygrophorus penarius)",
+   "Q473745": "Václavka obecná (Armillaria mellea)",
+   "Q757127": "Hřib bronzový (Boletus aereus)"
+  }
+ },
+ {
+  "id": "Q5351663#x1",
+  "species": "Kořenovec načervenalý",
+  "latin": "Rhizopogon roseolus",
+  "text": "Často se objevuje na silně narušených místech, kam se usazují pionýrské rostliny.",
+  "quote": "often appears when the typical pioneer plants settle in areas that have been",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q5351663#x2",
+  "species": "Kořenovec načervenalý",
+  "latin": "Rhizopogon roseolus",
+  "text": "Spory se šíří dešťovou vodou, hmyzem a dalšími živočichy.",
+  "quote": "the spores are dispersed not only by rainwater washing away the matured and viscous fruiting body fragments but also by insects and other animals",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q5351663#x3",
+  "species": "Kořenovec načervenalý",
+  "latin": "Rhizopogon roseolus",
+  "text": "V Evropě roste pod borovicí černou na vápnité půdě od srpna do listopadu.",
+  "quote": "In Europe it grows under Pinus nigra on calcareous soil, and it forms fruiting bodies from August to November.",
+  "claimed_false_for": {
+   "Q105154367": "Plstnatec tlustoostný (Irpiciporus pachyodon)",
+   "Q11047363": "Černorosol uťatý (Exidia truncata)",
+   "Q1301490": "Síťkovec dubový (Daedalea quercina)",
+   "Q186451": "Hlíva ústřičná (Pleurotus ostreatus)",
+   "Q3915786": "Smolokorka buková (Ischnoderma resinosum)",
+   "Q5232097": "Helmovka skvrnitá (Mycena maculata)",
+   "Q690450": "Lysohlávka kubánská (Psilocybe cubensis)",
+   "Q752507": "Třepenitka svazčitá (Hypholoma fasciculare)",
+   "Q774576": "Lesklokorka ploská (Ganoderma applanatum)",
+   "Q96636858": "Choroš smolonohý (Picipes badius)",
+   "Q96934111": "Choroš šupinatý (Cerioporus squamosus)"
+  }
+ },
+ {
+  "id": "Q54371403#0",
+  "species": "Hřib meruňkový",
+  "latin": "Rheubarbariboletus armeniacus",
+  "text": "Klobouk má průměr 35 až 60 milimetrů.",
+  "quote": "Klobouk o průměru 35 – 60 (80) milimetrů",
+  "claimed_false_for": {
+   "Q1580472": "Dřevomorka domácí (Serpula lacrymans)",
+   "Q2484512": "Hvězdovka brvitá (Geastrum fimbriatum)"
+  }
+ },
+ {
+  "id": "Q56328319#0",
+  "species": "Voskovka nafialovělá",
+  "latin": "Cuphophyllus lacmus",
+  "text": "Roste celý podzim na nehnojených loukách a pastvinách.",
+  "quote": "Celý podzim roste tato šťavnatka na nehnojených travnatých plochách (louky, pastviny…).",
+  "claimed_false_for": {
+   "Q1094895": "Penízovka smrková (Strobilurus esculentus)",
+   "Q1467364": "Helmovka tuhonohá (Mycena galericulata)",
+   "Q2580187": "Hlívovec ostnovýtrusý (Rhodotus palmatus)",
+   "Q2670211": "Helmovka jehličková (Mycena acicula)",
+   "Q3915837": "Helmovka zoubkatá (Mycena pelianthina)",
+   "Q42052": "Penízovka vřetenonohá (Gymnopus fusipes)",
+   "Q917989": "Václavka smrková (Armillaria ostoyae)",
+   "Q933206": "Hnojník třpytivý (Coprinellus micaceus)"
+  }
+ },
+ {
+  "id": "Q571885#0",
+  "species": "Muchomůrka jarní",
+  "latin": "Amanita verna",
+  "text": "Tento druh je smrtelně jedovatý.",
+  "quote": "smrtelně jedovatá houba",
+  "claimed_false_for": {
+   "Q674065": "Hřib peprný (Chalciporus piperatus)",
+   "Q761680": "Hřib příživný (Pseudoboletus parasiticus)",
+   "Q818958": "Hřib sametový (Xerocomellus pruinatus)",
+   "Q937968": "Kozák habrový (Leccinellum griseum)"
+  }
+ },
+ {
+  "id": "Q571885#1",
+  "species": "Muchomůrka jarní",
+  "latin": "Amanita verna",
+  "text": "Tento druh je u nás dnes znám jen z jednoho místa na jižní Moravě.",
+  "quote": "V České republice je v současnosti znám výskyt pouze v rámci jediné lokality na jižní Moravě",
+  "claimed_false_for": {
+   "Q1816880": "Plesňák zemní (Thelephora terrestris)",
+   "Q633746": "Kuřátka přímá (Ramaria stricta)"
+  }
+ },
+ {
+  "id": "Q5861745#x0",
+  "species": "Helmovka louhová",
+  "latin": "Mycena stipata",
+  "text": "Roste na dřevě jehličnanů.",
+  "quote": "Über zwei auf Koniferenholz wachsende, nitrös riechende Helmlingsarten",
+  "claimed_false_for": {
+   "Q10659976": "Kuřinec šafránový (Ramariopsis crocea)",
+   "Q167887": "Pavučinec fialový (Cortinarius violaceus)",
+   "Q1749162": "Šťavnatka hajní (Hygrophorus nemoreus)",
+   "Q2700696": "Lysohlávka česká (Psilocybe bohemica)",
+   "Q583388": "Čirůvka sírožlutá (Tricholoma sulphureum)",
+   "Q690801": "Pečárka ovčí (Agaricus arvensis)",
+   "Q901445": "Závojenka plavozelenavá (Entoloma incanum)"
+  }
+ },
+ {
+  "id": "Q594027#x0",
+  "species": "Čirůvka žíhaná",
+  "latin": "Tricholoma virgatum",
+  "text": "Žije v symbióze s kořeny stromů a tvoří mykorhizu.",
+  "quote": "fiind un simbiont micoriza, formând prin urmare micorize pe rădăcinile arborilor",
+  "claimed_false_for": {
+   "Q10475330": "Helmovka dvojvonná (Mycena diosma)",
+   "Q10713329": "Špička močálová (Marasmius limosus)",
+   "Q1574926": "Šupinovka kostrbatá (Pholiota squarrosa)",
+   "Q1654979": "Kukmák bělovlnný (Volvariella bombycina)",
+   "Q26678484": "Kukmák okázalý (Volvopluteus gloiocephalus)",
+   "Q2700696": "Lysohlávka česká (Psilocybe bohemica)",
+   "Q690801": "Pečárka ovčí (Agaricus arvensis)",
+   "Q820657": "Hlíva dubová (Pleurotus dryinus)",
+   "Q882592": "Lysohlávka modrající (Psilocybe cyanescens)",
+   "Q901445": "Závojenka plavozelenavá (Entoloma incanum)",
+   "Q954191": "Anýzovník vonný (Gloeophyllum odoratum)",
+   "Q977364": "Šafránka červenožlutá (Tricholomopsis rutilans)"
+  }
+ },
+ {
+  "id": "Q594027#x1",
+  "species": "Čirůvka žíhaná",
+  "latin": "Tricholoma virgatum",
+  "text": "Roste na kyselé půdě, nejraději v jehličnatých lesích pod smrky.",
+  "quote": "pe sol acru, în păduri de conifere preferat sub molizi",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q594027#x2",
+  "species": "Čirůvka žíhaná",
+  "latin": "Tricholoma virgatum",
+  "text": "Plodnice se objevují od srpna do října.",
+  "quote": "din (iulie) august până în octombrie (noiembrie)",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q594027#x3",
+  "species": "Čirůvka žíhaná",
+  "latin": "Tricholoma virgatum",
+  "text": "Tento druh je jedovatý a způsobuje nevolnost, zvracení a potíže se zažíváním.",
+  "quote": "Este otrăvitoare, conține alcaloizi indolici care sunt responsabili, în cazul ingerării buretelui, pentru greață, vomit, precum deranjări gastro-intestinale severe.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q5954059#0",
+  "species": "Lošákovec rezavý",
+  "latin": "Hydnellum ferrugineum",
+  "text": "Pod kloboukem jsou bílé až načervenalé ostny dlouhé až 6 milimetrů.",
+  "quote": "Výtrusné rouško tvoří bílé až načervenalé vertikální ostny s délkou až 6 milimetrů.",
+  "claimed_false_for": {
+   "Q1257786": "Kuřátka sličná (Ramaria formosa)",
+   "Q1816880": "Plesňák zemní (Thelephora terrestris)",
+   "Q2978650": "Kyj jazýčkovitý (Clavariadelphus ligula)",
+   "Q633746": "Kuřátka přímá (Ramaria stricta)"
+  }
+ },
+ {
+  "id": "Q5954059#3",
+  "species": "Lošákovec rezavý",
+  "latin": "Hydnellum ferrugineum",
+  "text": "Klobouk měří v průměru 3 až 10 centimetrů.",
+  "quote": "měří v průměru 3 až 10 centimetrů",
+  "claimed_false_for": {
+   "Q1257786": "Kuřátka sličná (Ramaria formosa)",
+   "Q2978650": "Kyj jazýčkovitý (Clavariadelphus ligula)",
+   "Q633746": "Kuřátka přímá (Ramaria stricta)"
+  }
+ },
+ {
+  "id": "Q596896#2",
+  "species": "Liška Friesova",
+  "latin": "Cantharellus friesii",
+  "text": "Žije v symbióze s buky, případně i s jinými listnatými stromy.",
+  "quote": "S buky, popřípadě i jinými listnatými stromy vstupuje do mykorrhizy.",
+  "claimed_false_for": {
+   "Q10713598": "Tužnatka slizká (Multiclavula mucida)",
+   "Q3395772": "Rezavec dubový (Inonotus dryadeus)",
+   "Q3817466": "Strmělka vonná (Clitocybe fragrans)",
+   "Q761680": "Hřib příživný (Pseudoboletus parasiticus)",
+   "Q901047": "Koniofora sklepní (Coniophora puteana)"
+  }
+ },
+ {
+  "id": "Q614730#x1",
+  "species": "Šiškovec černý",
+  "latin": "Strobilomyces strobilaceus",
+  "text": "Dužnina je zpočátku bílá, na vzduchu růžoví a pak zčerná.",
+  "quote": "The flesh is thick and initially white, but stains pink; the stains will turn blackish.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q614730#x2",
+  "species": "Šiškovec černý",
+  "latin": "Strobilomyces strobilaceus",
+  "text": "Byl vyobrazen na švýcarské poštovní známce z roku 2014.",
+  "quote": "the postal administration of Switzerland issued a 50-centime definitive postage stamp depicting the species.",
+  "claimed_false_for": {
+   "Q10432400": "Hřib měďový (Imperator luteocupreus)",
+   "Q10432413": "Hřib mokřadní (Xerocomellus ripariellus)",
+   "Q10511337": "Hřib pružný (Aureoboletus gentilis)",
+   "Q1210127": "Pestřec obecný (Scleroderma citrinum)",
+   "Q1462231": "Hřib siný (Gyroporus cyanescens)",
+   "Q1624061": "Hřib dutonohý (Suillus cavipes)",
+   "Q205568": "Klouzek limbový (Suillus plorans)",
+   "Q20721683": "Hřib moravský (Aureoboletus moravicus)",
+   "Q3787843": "Šťavnatka buková (Hygrophorus penarius)",
+   "Q473745": "Václavka obecná (Armillaria mellea)",
+   "Q757127": "Hřib bronzový (Boletus aereus)",
+   "Q96776506": "Hřib žlutý (Sutorius junquilleus)"
+  }
+ },
+ {
+  "id": "Q62138#x0",
+  "species": "Ryzec pravý",
+  "latin": "Lactarius deliciosus",
+  "text": "Žije v symbióze s borovicemi.",
+  "quote": "along with pine trees, with which the fungus is symbiotic",
+  "claimed_false_for": {
+   "Q1165686": "Trsnatec lupenitý (Grifola frondosa)",
+   "Q1532607": "Holubinka žlutá (Russula lutea)",
+   "Q1759472": "Holubinka Romellova (Russula romellii)",
+   "Q186451": "Hlíva ústřičná (Pleurotus ostreatus)",
+   "Q222449": "Pýchavka obrovská (Calvatia gigantea)",
+   "Q248829": "Čepičatka jehličnanová (Galerina marginata)",
+   "Q320999": "Houževnatec jedlý (Lentinula edodes)",
+   "Q631566": "Pstřeň dubový (Fistulina hepatica)",
+   "Q757127": "Hřib bronzový (Boletus aereus)",
+   "Q865540": "Ryzec kravský (Lactarius torminosus)"
+  }
+ },
+ {
+  "id": "Q62138#x1",
+  "species": "Ryzec pravý",
+  "latin": "Lactarius deliciosus",
+  "text": "Vylučuje oranžovočervené mléko, které nemění barvu.",
+  "quote": "it exudes an orange-red latex that does not change color",
+  "claimed_false_for": {
+   "Q10510074": "Černolupen zelený (Melanophyllum eyrei)",
+   "Q1165686": "Trsnatec lupenitý (Grifola frondosa)",
+   "Q131227": "Muchomůrka červená (Amanita muscaria)",
+   "Q1323749": "Muchomůrka šedivka (Amanita spissa)",
+   "Q1364735": "Šťavnatka pomrazka (Hygrophorus hypothejus)",
+   "Q1462183": "Holubinka chromová (Russula claroflava)",
+   "Q1552361": "Límcovka měděnková (Stropharia aeruginosa)",
+   "Q17392953": "Holubinka vrbová (Russula saliceticola)",
+   "Q186451": "Hlíva ústřičná (Pleurotus ostreatus)",
+   "Q2028199": "Holubinka odbarvená (Russula decolorans)",
+   "Q2044567": "Bedla dívčí (Leucoagaricus nympharum)",
+   "Q206438": "Holubinka hlínožlutá (Russula ochroleuca)",
+   "Q206449": "Holubinka jízlivá (Russula sardonia)",
+   "Q220662": "Muchomůrka císařka (Amanita caesarea)",
+   "Q222449": "Pýchavka obrovská (Calvatia gigantea)",
+   "Q227690": "Pečárka dvouvýtrusá (Agaricus bisporus)",
+   "Q23034863": "Závojenka lesklá (Entocybe nitida)",
+   "Q248829": "Čepičatka jehličnanová (Galerina marginata)",
+   "Q259135": "Muchomůrka porfyrová (Amanita porphyria)",
+   "Q2640668": "Bedla kaštanová (Lepiota castanea)",
+   "Q301792": "Muchomůrka ryšavá (Amanita fulva)",
+   "Q320999": "Houževnatec jedlý (Lentinula edodes)",
+   "Q331465": "Krásnoporka mlynářka (Albatrellus ovinus)",
+   "Q3511522": "Bedla černošupinatá (Lepiota felina)",
+   "Q3511527": "Bedlovnice zlatá (Phaeolepiota aurea)",
+   "Q45547": "Muchomůrka tygrovaná (Amanita pantherina)",
+   "Q518069": "Čechratka podvinutá (Paxillus involutus)",
+   "Q596333": "Holubinka dívčí (Russula puellaris)",
+   "Q614625": "Holubinka vrhavka (Russula emetica)",
+   "Q631566": "Pstřeň dubový (Fistulina hepatica)",
+   "Q757127": "Hřib bronzový (Boletus aereus)",
+   "Q782414": "Hvězdovka červenavá (Geastrum rufescens)",
+   "Q790626": "Slizák mazlavý (Gomphidius glutinosus)",
+   "Q865540": "Ryzec kravský (Lactarius torminosus)",
+   "Q922887": "Bedla ostrošupinná (Echinoderma asperum)",
+   "Q999441": "Holubinka hořká (Russula caerulea)"
+  }
+ },
+ {
+  "id": "Q62138#x2",
+  "species": "Ryzec pravý",
+  "latin": "Lactarius deliciosus",
+  "text": "Dužnina a lupeny se při dotyku zbarvují sytě zeleně.",
+  "quote": "The flesh and gills stain a deep green color when handled.",
+  "claimed_false_for": {
+   "Q1165686": "Trsnatec lupenitý (Grifola frondosa)",
+   "Q131227": "Muchomůrka červená (Amanita muscaria)",
+   "Q1364735": "Šťavnatka pomrazka (Hygrophorus hypothejus)",
+   "Q1462183": "Holubinka chromová (Russula claroflava)",
+   "Q17392953": "Holubinka vrbová (Russula saliceticola)",
+   "Q186451": "Hlíva ústřičná (Pleurotus ostreatus)",
+   "Q2028199": "Holubinka odbarvená (Russula decolorans)",
+   "Q206438": "Holubinka hlínožlutá (Russula ochroleuca)",
+   "Q206449": "Holubinka jízlivá (Russula sardonia)",
+   "Q220662": "Muchomůrka císařka (Amanita caesarea)",
+   "Q222449": "Pýchavka obrovská (Calvatia gigantea)",
+   "Q248829": "Čepičatka jehličnanová (Galerina marginata)",
+   "Q320999": "Houževnatec jedlý (Lentinula edodes)",
+   "Q331465": "Krásnoporka mlynářka (Albatrellus ovinus)",
+   "Q45547": "Muchomůrka tygrovaná (Amanita pantherina)",
+   "Q518069": "Čechratka podvinutá (Paxillus involutus)",
+   "Q596333": "Holubinka dívčí (Russula puellaris)",
+   "Q614625": "Holubinka vrhavka (Russula emetica)",
+   "Q631566": "Pstřeň dubový (Fistulina hepatica)",
+   "Q757127": "Hřib bronzový (Boletus aereus)",
+   "Q782414": "Hvězdovka červenavá (Geastrum rufescens)",
+   "Q790626": "Slizák mazlavý (Gomphidius glutinosus)",
+   "Q865540": "Ryzec kravský (Lactarius torminosus)",
+   "Q999441": "Holubinka hořká (Russula caerulea)"
+  }
+ },
+ {
+  "id": "Q62138#x3",
+  "species": "Ryzec pravý",
+  "latin": "Lactarius deliciosus",
+  "text": "Dokáže v sobě hromadit radioaktivní cesium 137.",
+  "quote": "l'espèce a la capacité de concentrer le césium 137",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q62138#x5",
+  "species": "Ryzec pravý",
+  "latin": "Lactarius deliciosus",
+  "text": "Tento druh byl zavlečen do Chile, Austrálie a na Nový Zéland.",
+  "quote": "It has been reportedly introduced to Chile, Australia and New Zealand",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q639524#x0",
+  "species": "Holubinka černající",
+  "latin": "Russula nigricans",
+  "text": "Dužnina se po rozříznutí nejdřív zbarví do červena a potom do černa.",
+  "quote": "Das meist mild schmeckende Fleisch rötet zuerst beim Anschneiden und schwärzt dann.",
+  "claimed_false_for": {
+   "Q1364735": "Šťavnatka pomrazka (Hygrophorus hypothejus)",
+   "Q331465": "Krásnoporka mlynářka (Albatrellus ovinus)",
+   "Q596333": "Holubinka dívčí (Russula puellaris)",
+   "Q790626": "Slizák mazlavý (Gomphidius glutinosus)"
+  }
+ },
+ {
+  "id": "Q639524#x1",
+  "species": "Holubinka černající",
+  "latin": "Russula nigricans",
+  "text": "Žije v symbióze s mnoha stromy, například se smrky, jedlemi, břízami, buky a duby.",
+  "quote": "So kommen Fichten, Tannen, Birken, Buchen, Hainbuchen und Eichen als Wirt in Frage.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q639524#x2",
+  "species": "Holubinka černající",
+  "latin": "Russula nigricans",
+  "text": "Parazitují na něm malé bílé houby, které osidlují jeho staré plodnice.",
+  "quote": "nicht selten kleine Kolonien von weißen, parasitischen Pilzen",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q639524#x3",
+  "species": "Holubinka černající",
+  "latin": "Russula nigricans",
+  "text": "Plodnice jsou tak pevné, že téměř nehnijí, ale vysychají a pomalu se rozpadají.",
+  "quote": "Seine festen Fruchtkörper sind so stabil, dass sie kaum verfaulen, sondern eher vertrocknen und langsam zerfallen.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q67086840#1",
+  "species": "Korálovec jedlový",
+  "latin": "Hericium flagellum",
+  "text": "Plodnice dorůstají v průměru až 40 cm.",
+  "quote": "dorůstají v průměru až 40 cm",
+  "claimed_false_for": {
+   "Q1276522": "Holubinka zlatá (Russula aurea)",
+   "Q1361089": "Holubinka sluneční (Russula solaris)",
+   "Q1415480": "Holubinka bukovka (Russula heterophylla)"
+  }
+ },
+ {
+  "id": "Q675252#2",
+  "species": "Choroš oříš",
+  "latin": "Polyporus umbellatus",
+  "text": "Získává živiny z rozkládajícího se dřeva listnatých stromů.",
+  "quote": "z jejichž rozkládajícího se dřeva získává živiny",
+  "claimed_false_for": {
+   "Q10684413": "Lošáček černý (Phellodon niger)",
+   "Q17153031": "Hřib šedorůžový (Butyriboletus roseogriseus)",
+   "Q25379773": "Čirůvka dvoubarvá (Lepista personata)",
+   "Q2909343": "Hřib citronový (Boletus clavipes)"
+  }
+ },
+ {
+  "id": "Q675252#3",
+  "species": "Choroš oříš",
+  "latin": "Polyporus umbellatus",
+  "text": "Plodnice dorůstají 10 až 50 cm.",
+  "quote": "dorůstají až 100–500 milimetrů",
+  "claimed_false_for": {
+   "Q1094895": "Penízovka smrková (Strobilurus esculentus)",
+   "Q1467364": "Helmovka tuhonohá (Mycena galericulata)",
+   "Q2670211": "Helmovka jehličková (Mycena acicula)",
+   "Q3490762": "Čirůvka masová (Calocybe carnea)",
+   "Q3915837": "Helmovka zoubkatá (Mycena pelianthina)"
+  }
+ },
+ {
+  "id": "Q679030#0",
+  "species": "Bedla Konradova",
+  "latin": "Macrolepiota konradii",
+  "text": "Roste v létě a na podzim na loukách a pastvinách.",
+  "quote": "Roste v létě a na podzim na loukách a pastvinách",
+  "claimed_false_for": {
+   "Q105154367": "Plstnatec tlustoostný (Irpiciporus pachyodon)",
+   "Q11047363": "Černorosol uťatý (Exidia truncata)",
+   "Q1301490": "Síťkovec dubový (Daedalea quercina)",
+   "Q1928270": "Troudnatec pásovaný (Fomitopsis pinicola)",
+   "Q774576": "Lesklokorka ploská (Ganoderma applanatum)",
+   "Q96934111": "Choroš šupinatý (Cerioporus squamosus)"
+  }
+ }
+]

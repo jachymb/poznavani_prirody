@@ -1,0 +1,167 @@
+{
+ "facts": [
+  {
+   "id": "Q2212339#x1",
+   "species": "Placouš výstřední",
+   "text": "Živí se larvami korýšů, veslonožci, rozsivkami a planktonem.",
+   "quote": "feeds on crustacean larvae, small copepods, diatoms, plankton, and detritus"
+  },
+  {
+   "id": "Q882716#x0",
+   "species": "Hvězdice modrá",
+   "text": "Živí se řasami, detritem a organickými zbytky.",
+   "quote": "à base d'algues filamenteuses, de détritus, et de débris organiques"
+  },
+  {
+   "id": "Q2212339#x2",
+   "species": "Placouš výstřední",
+   "text": "Loví ho hvězdice, platýs, krabi a racci.",
+   "quote": "Predators include the seastar Pisaster brevispinus and the starry flounder Platichthys stellatus as well as crabs and sea gulls."
+  },
+  {
+   "id": "Q2212339#x0",
+   "species": "Placouš výstřední",
+   "text": "Dožívá se až 13 let.",
+   "quote": "They may live up to 13 years"
+  },
+  {
+   "id": "Q2212339#x3",
+   "species": "Placouš výstřední",
+   "text": "Mláďata polykají těžká zrnka písku, aby je neodnesl proud.",
+   "quote": "juveniles swallow heavy sand grains to"
+  },
+  {
+   "id": "Q882716#x2",
+   "species": "Hvězdice modrá",
+   "text": "Požírají ho například čtverzubci, mořské sasanky a krevety.",
+   "quote": "Various pufferfishes, Charonia species (triton shells), harlequin shrimp, and even some sea anemones have been observed to eat whole or parts of the sea stars."
+  },
+  {
+   "id": "Q882716#x3",
+   "species": "Hvězdice modrá",
+   "text": "Někdy s ním v symbióze žijí malé krevety.",
+   "quote": "Certains petits animaux comme la crevette nettoyeuse Periclimenes soror vivent parfois en symbiose avec cette étoile."
+  },
+  {
+   "id": "Q882716#x1",
+   "species": "Hvězdice modrá",
+   "text": "Dokáže znovu dorůst celé tělo z jediného ramene.",
+   "quote": "à partir d'un seul bras, l'étoile peut se régénérer complètement"
+  }
+ ],
+ "candidates": {
+  "Q664443": {
+   "name": "Ježovka jedlá",
+   "latin": "Echinus esculentus",
+   "family": "Echinidae",
+   "lead": "Ježovka jedlá (Echinus esculentus) je druh mořské ježovky z rodu Echinus.\n\n\n== Popis ==\nMůže být zbarvena červeně, žlutě a vzácně i zeleně nebo fialově. Dosahuje velikosti 16 cm.\nŽije v evropských mořích v hloubce do 1200 metrů. Stává se častou potravou některých mořských ryb a vyrábí se z ní jeden druh suši.",
+   "facts": [
+    "Dosahuje velikosti 16 cm.",
+    "Tento druh je častou potravou některých mořských ryb."
+   ]
+  },
+  "Q1130991": {
+   "name": "Ježovka obecná",
+   "latin": "Sphaerechinus granularis",
+   "family": "Toxopneustidae",
+   "lead": "Ježovka obecná, též ježovka fialová, je hojná ježovka žijící ve východní části Atlantského oceánu od kanálu La Manche na severu po Kapverdy na jihu, obývá také Středozemní moře. Má pravidelné, spíš kratší ostny a dorůstá velikosti až 15 cm.\nJežovka obecná má velkou, kulovitou, nahoře poněkud zploštělou schránku a silné, tupé a nepříliš dlouhé ostny stejné délky. Schránka je tmavě fialová, ostny mohou být též fialové, fialové s bílými konci nebo úplně bílé. Ústní otvor má dole (na sploštělé stran",
+   "facts": [
+    "Živí se řasami rostoucími na povrchu kamenů.",
+    "Často se maskuje kusem řasy nebo schránkami měkkýšů."
+   ]
+  },
+  "Q882716": {
+   "name": "Hvězdice modrá",
+   "latin": "Linckia laevigata",
+   "family": "Ophidiasteridae",
+   "lead": "Hvězdice modrá (Linckia laevigata) je pěticípá hvězdice sytě modrého zabarvení, která se vyskytuje v tropických vodách na korálových útesech indo-pacifické oblasti.\n\n\n== Popis ==\nHvězdice má 5 trubicovitých ramen se zaoblenými konci. Zbarvení těla je nejčastěji světle nebo tmavě modré, vzácněji může nabývat i jiných barev. Podie jsou žluté. Velikost těla dosahuje kolem 30–40 cm.\n\n\n== Výskyt ==\nHvězdice modrá se běžně vyskytuje na dně tropických moří na korálových útesech v západních částech indo",
+   "facts": [
+    "Tento druh dosahuje velikosti kolem 30 až 40 cm.",
+    "Tento druh hostí malého mlže, který se živí jeho tekutinou.",
+    "Živí se převážně mršinami, které najde na dně moře.",
+    "Jí také řasy a mikroby.",
+    "Živí se řasami, detritem a organickými zbytky.",
+    "Dokáže znovu dorůst celé tělo z jediného ramene.",
+    "Požírají ho například čtverzubci, mořské sasanky a krevety.",
+    "Někdy s ním v symbióze žijí malé krevety."
+   ]
+  },
+  "Q2212339": {
+   "name": "Placouš výstřední",
+   "latin": "Dendraster excentricus",
+   "family": "Dendrasteridae",
+   "lead": "Placouš výstřední (Dendraster excentricus) je druh mořské ježovky. Vyskytuje se u pacifického pobřeží Severní Ameriky od Aljašky po Kalifornský poloostrov. Obývá dno písčitých mělčin do hloubky devadesáti metrů. Na příhodných lokalitách je placouš výstřední hojným druhem, např. v zálivu Puget Sound bylo nalezeno na čtverečním yardu až 625 jedinců.\nPro diskovitý tvar těla připomínající minci získal anglické označení sand dollar (písečný dolar). Schránka je tvořena uhličitanem vápenatým, má výšku ",
+   "facts": [
+    "Hlavními predátory jsou platýs hvězdnatý, krabi a hvězdice.",
+    "Potravu tvoří hlavně klanonožci a larvy korýšů.",
+    "Dožívá se až 13 let.",
+    "Živí se larvami korýšů, veslonožci, rozsivkami a planktonem.",
+    "Loví ho hvězdice, platýs, krabi a racci.",
+    "Mláďata polykají těžká zrnka písku, aby je neodnesl proud."
+   ]
+  },
+  "Q26634": {
+   "name": "Hvězdice trnová koruna",
+   "latin": "Acanthaster planci",
+   "family": "Acanthasteridae",
+   "lead": "Hvězdice trnová koruna (Acanthaster planci, synonymum trnová koruna nebo hvězdice trnitá) je velká dravá mořská hvězdice. Žije v teplejších mořích prakticky po celém světě. Je velkým nebezpečím pro korálové útesy.\nTrnová koruna je po hvězdici Pycnopodia helianthoides druhou největší hvězdicí na světě – v rozpětí dosahuje 25–30 cm. Obvykle má 14–18 ramen.\n\n\n== Potrava ==\nKromě občasného ulovení drobných rybek se živí prakticky jen korály. Hvězdice do jejich schránek vypustí své trávicí enzymy. Tí",
+   "facts": [
+    "Živí se prakticky jen korály.",
+    "Tento druh má jen málo přirozených nepřátel."
+   ]
+  },
+  "Q822952": {
+   "name": "Hvězdice síťovaná",
+   "latin": "Oreaster reticulatus",
+   "family": "Oreasteridae",
+   "lead": "Běžně známá jako západoindická mořská hvězda. Hvězdice síťovaná je druhem mořského bezobratlovce z čeledi Oreasteridae. Nejčastěji se nachází v mělké vodě v západním Atlantiku a v Karibském moři.\n\n\n== Popis ==\nJe největší mořskou hvězdou nalezenou v jejím rozmezí, dorůstá někdy až 50 centimetrů. Obvykle má pět tlustých širokých paží, které vyčnívají ze širokého polstrovaného disku, ale někteří jedinci jich mohou mít i čtyři, šest nebo sedm. Její horní plocha je tvrdá a je pokryta tupými hřbety. ",
+   "facts": [
+    "Dorůstá až 50 centimetrů.",
+    "Tento druh se živí řasami, houbami a malými živočichy na dně.",
+    "Mladí jedinci žijí v mořských travách.",
+    "Larvy se obvykle usazují mezi mořskými řasami."
+   ]
+  },
+  "Q2993412": {
+   "name": "Hvězdice Linckova",
+   "latin": "Protoreaster lincki",
+   "family": "Oreasteridae",
+   "lead": "Hvězdice Linckova (Protoreaster linckii) žije v indopacifické oblasti.\n\n\n== Popis ==\nHvězdice Linckova má tělo zpevněné vápenitou kostrou ukrytou pod pokožkou. Pokud se její rameno odlomí, opět doroste. Schopnost regenerace je taková, že ze dvou oddělených částí jedné hvězdice dorostou dva noví jedinci. Zčásti je to umožněno i tím, že nemá centralizovanou nervovou soustavu, ale takzvaný difuzní typ rozptýlených nervových buněk. Ramena hvězdice jsou krátká a trojúhelníkovitá a\nzbarvení bělavé, šp",
+   "facts": [
+    "Živí se mlži, jejichž lastury otvírá pomocí ramen.",
+    "Když se rameno odlomí, opět doroste."
+   ]
+  },
+  "Q21120": {
+   "name": "Hvězdice růžová",
+   "latin": "Asterias rubens",
+   "family": "Asteriidae",
+   "lead": "Hvězdice růžová (Asterias rubens) je ostnokožec z třídy hvězdice (Asteriidae).\n\n\n== Popis a rozšíření ==\nTato hvězdice je velká 12–40 cm a patří k nemnoha ostnokožcům, kteří snášejí nízký obsah soli v Baltském moři. Mimo toto moře se vyskytuje na východním pobřeží Atlantského oceánu. Žije na mělčinách i v hloubkách do 400 m. V hlubší vodě dorůstá hvězdice růžová podstatně větších rozměrů než na mělčině.\n\n\n== Potrava ==\nJe dravá, živí se především mlži a menšími ostnokožci, dokonce i ježovkami. R",
+   "facts": [
+    "Živí se hlavně mlži a menšími ostnokožci.",
+    "Rameny obemkne lasturu mlže a zvolna se ji snaží otevřít."
+   ]
+  },
+  "Q139182": {
+   "name": "Houba komínová",
+   "latin": "Aplysina aerophoba",
+   "family": "Aplysinidae",
+   "lead": "Houba komínová (Aplysina aerophoba) je mořská houba žijící ve Středozemním moři a při pobřeží Afriky od Kapverd po Kanárské ostrovy a západní část Guinejského zálivu.\n\n\n== Popis ==\nVytváří širokou bázi, ze které vyrůstají nepravidelné komínovité výběžky s plochým vrcholem, na kterém ústí osculum. Výběžky jsou 3–4 cm vysoké a mají 1–2,5 cm v průměru. Na omak je houba slizká, gumové konzistence. Celý živočich je jasně žlutý.\nHouba komínová má leukonový typ těla, zpevněný sponginovou síťovitou kost",
+   "facts": [
+    "Tento druh je potravou mořského plže.",
+    "Žije v mělkých, osluněných vodách do 20 m hloubky."
+   ]
+  },
+  "Q1140786": {
+   "name": "Hvězdice amurská",
+   "latin": "Asterias amurensis",
+   "family": "Asteriidae",
+   "lead": "Hvězdice amurská (Asterias amurensis) je ostnokožec – hvězdice, zařazený do řádu Forcipulatida, čeledi Asteriidae a rodu Asterias. Popis druhu učinil dánský přírodovědec Christian Frederik Lütken v roce 1871.\n\n\n== Výskyt a invazní potenciál ==\nHvězdice dává přednost pobřežním vodám. Původní areál výskytu hvězdice amurské zahrnoval pobřeží Japonska, Ruska, severní Číny a Korejského poloostrova, avšak došlo k zavlečení na nová území. Areál výskytu se tak rozšířil kupříkladu na pobřeží Evropy, Alja",
+   "facts": [
+    "Tento druh dorůstá až do půl metru.",
+    "Tento druh patří mezi 100 nejhorších invazních druhů světa.",
+    "Tento druh jí rybí vajíčka a měkkýše."
+   ]
+  }
+ }
+}

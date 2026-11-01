@@ -1,0 +1,509 @@
+[
+ {
+  "id": "Q690801#x0",
+  "species": "Pečárka ovčí",
+  "latin": "Agaricus arvensis",
+  "text": "Často roste poblíž stájí, na loukách a na trávnících.",
+  "quote": "Frequently found near stables, as well as in meadows and lawns",
+  "claimed_false_for": {
+   "Q111697": "Slizák švýcarský (Chroogomphus helveticus)",
+   "Q138027": "Kuřátečko hřebenité (Clavulina coralloides)",
+   "Q188643": "Muchomůrka zelená (Amanita phalloides)",
+   "Q1963756": "Ďubkatec pohárkovitý (Coltricia perennis)",
+   "Q26203731": "Hřib satan (Rubroboletus satanas)",
+   "Q271098": "Lesklokorka lesklá (Ganoderma lucidum)",
+   "Q3395772": "Rezavec dubový (Inonotus dryadeus)",
+   "Q372893": "Penízovka sametonohá (Flammulina velutipes)",
+   "Q3817466": "Strmělka vonná (Clitocybe fragrans)",
+   "Q472817": "Muchomůrka jízlivá (Amanita virosa)",
+   "Q623485": "Muchomůrka růžovka (Amanita rubescens)",
+   "Q628977": "Kozák březový (Leccinum scabrum)",
+   "Q674065": "Hřib peprný (Chalciporus piperatus)",
+   "Q761680": "Hřib příživný (Pseudoboletus parasiticus)",
+   "Q818958": "Hřib sametový (Xerocomellus pruinatus)",
+   "Q937968": "Kozák habrový (Leccinellum griseum)"
+  }
+ },
+ {
+  "id": "Q690801#x1",
+  "species": "Pečárka ovčí",
+  "latin": "Agaricus arvensis",
+  "text": "Často roste mezi kopřivami, které také mají rády půdu bohatou na živiny.",
+  "quote": "The mushroom is often found growing with nettles (a plant that also likes nutrient-rich soil).",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q690801#x2",
+  "species": "Pečárka ovčí",
+  "latin": "Agaricus arvensis",
+  "text": "Voní po mandlích nebo marcipánu kvůli látce benzaldehydu.",
+  "quote": "Its odor is similar to that of almond extract or marzipan, due to the presence of benzaldehyde.",
+  "claimed_false_for": {
+   "Q131227": "Muchomůrka červená (Amanita muscaria)",
+   "Q28492278": "Lakovka ametystová (Laccaria amethystina)",
+   "Q320999": "Houževnatec jedlý (Lentinula edodes)",
+   "Q42184": "Špička cibulová (Mycetinis alliaceus)",
+   "Q45547": "Muchomůrka tygrovaná (Amanita pantherina)",
+   "Q631566": "Pstřeň dubový (Fistulina hepatica)",
+   "Q757127": "Hřib bronzový (Boletus aereus)"
+  }
+ },
+ {
+  "id": "Q690801#x3",
+  "species": "Pečárka ovčí",
+  "latin": "Agaricus arvensis",
+  "text": "Může vytvářet čarodějné kruhy.",
+  "quote": "it may form fairy rings",
+  "claimed_false_for": {
+   "Q271098": "Lesklokorka lesklá (Ganoderma lucidum)",
+   "Q372893": "Penízovka sametonohá (Flammulina velutipes)"
+  }
+ },
+ {
+  "id": "Q690801#x4",
+  "species": "Pečárka ovčí",
+  "latin": "Agaricus arvensis",
+  "text": "Při pohmoždění žloutne.",
+  "quote": "It tends to stain yellow on bruising.",
+  "claimed_false_for": {
+   "Q26203731": "Hřib satan (Rubroboletus satanas)",
+   "Q623485": "Muchomůrka růžovka (Amanita rubescens)"
+  }
+ },
+ {
+  "id": "Q690801#x5",
+  "species": "Pečárka ovčí",
+  "latin": "Agaricus arvensis",
+  "text": "Klobouk měří na šířku 7 až 20 centimetrů.",
+  "quote": "The cap is 7–20 cm (3–8 in) across",
+  "claimed_false_for": {
+   "Q10510074": "Černolupen zelený (Melanophyllum eyrei)",
+   "Q23034863": "Závojenka lesklá (Entocybe nitida)",
+   "Q2640668": "Bedla kaštanová (Lepiota castanea)",
+   "Q42184": "Špička cibulová (Mycetinis alliaceus)",
+   "Q76922": "Šťavnatka tečkovaná (Hygrophorus pustulatus)"
+  }
+ },
+ {
+  "id": "Q732640#6",
+  "species": "Opeňka měnlivá",
+  "latin": "Kuehneromyces mutabilis",
+  "text": "Klobouk je za vlhka skořicově hnědý, za sucha světlejší, okrový až medově žlutý.",
+  "quote": "za vlhka vodnatě skořicově hnědý nebo žlutohnědý, za sucha světlejší, okrový nebo medově žlutý",
+  "claimed_false_for": {
+   "Q10403027": "Pečárka Bohusova (Agaricus bohusii)",
+   "Q10659976": "Kuřinec šafránový (Ramariopsis crocea)",
+   "Q752494": "Hřib koloděj (Suillellus luridus)",
+   "Q922092": "Muchomůrka Vittadiniho (Amanita vittadinii)"
+  }
+ },
+ {
+  "id": "Q736892#x0",
+  "species": "Outkovka chlupatá",
+  "latin": "Trametes hirsuta",
+  "text": "Roste na odumřelém dřevě listnatých stromů, hlavně buku.",
+  "quote": "It is found on dead wood of deciduous trees, especially beechwood.",
+  "claimed_false_for": {
+   "Q10674380": "Kotrč Němcův (Sparassis nemecii)",
+   "Q1314913": "Hnědák Schweinitzův (Phaeolus schweinitzii)",
+   "Q1314944": "Verpáník lékařský (Laricifomes officinalis)",
+   "Q13684": "Lišák zprohýbaný (Hydnum repandum)",
+   "Q2567074": "Bedla odřená (Macrolepiota excoriata)",
+   "Q833108": "Klouzek sličný (Suillus grevillei)"
+  }
+ },
+ {
+  "id": "Q736892#x2",
+  "species": "Outkovka chlupatá",
+  "latin": "Trametes hirsuta",
+  "text": "Rozkládá dřevo a způsobuje bílou hnilobu.",
+  "quote": "descompune lemnul pe cioate, trunchiuri căzute, aflate în putrefacție și lemn stivuit, producând putregaiul alb",
+  "claimed_false_for": {
+   "Q129556": "Slizák skvrnitý (Gomphidius maculatus)",
+   "Q1811602": "Holubinka lepkavá (Russula viscida)",
+   "Q96894257": "Březovník obecný (Fomitopsis betulina)"
+  }
+ },
+ {
+  "id": "Q736892#x3",
+  "species": "Outkovka chlupatá",
+  "latin": "Trametes hirsuta",
+  "text": "Povrch někdy zezelená, protože ho porůstají řasy.",
+  "quote": "Uneori, suprafață are un aspect verzui din cauza năpădirii prin alge.",
+  "claimed_false_for": {
+   "Q10674380": "Kotrč Němcův (Sparassis nemecii)",
+   "Q13684": "Lišák zprohýbaný (Hydnum repandum)",
+   "Q2567074": "Bedla odřená (Macrolepiota excoriata)",
+   "Q5168907": "Hnojník domácí (Coprinellus domesticus)",
+   "Q833108": "Klouzek sličný (Suillus grevillei)"
+  }
+ },
+ {
+  "id": "Q752492#x0",
+  "species": "Špička obecná",
+  "latin": "Marasmius oreades",
+  "text": "Podhoubí na okraji kruhu podporuje růst trávy, vyschlé podhoubí uvnitř kruhu ji brzdí.",
+  "quote": "The living mycelium at the edge of the ring stimulates grass growth, making it greener, while the dried-out mycelium inside the ring inhibits growth.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q752492#x1",
+  "species": "Špička obecná",
+  "latin": "Marasmius oreades",
+  "text": "Po úplném vyschnutí znovu ožije, když se dostane do vody.",
+  "quote": "the trehalose is digested as the cells completely revive",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q752492#x2",
+  "species": "Špička obecná",
+  "latin": "Marasmius oreades",
+  "text": "Roste v létě a na podzim, v teplých oblastech po celý rok.",
+  "quote": "in the summer and autumn (May–November in the UK), or year-round in warmer climates",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q752492#x3",
+  "species": "Špička obecná",
+  "latin": "Marasmius oreades",
+  "text": "Barva klobouku se při vysychání výrazně mění.",
+  "quote": "it usually changes color markedly as it dries out",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q753833#3",
+  "species": "Outkovka pestrá",
+  "latin": "Trametes versicolor",
+  "text": "Rozkládá dřevo a způsobuje jeho bílou hnilobu.",
+  "quote": "Způsobuje bílou hnilobu dřeva.",
+  "claimed_false_for": {
+   "Q10684413": "Lošáček černý (Phellodon niger)",
+   "Q17153031": "Hřib šedorůžový (Butyriboletus roseogriseus)",
+   "Q25379773": "Čirůvka dvoubarvá (Lepista personata)",
+   "Q2909343": "Hřib citronový (Boletus clavipes)"
+  }
+ },
+ {
+  "id": "Q761680#x0",
+  "species": "Hřib příživný",
+  "latin": "Pseudoboletus parasiticus",
+  "text": "Roste na plodnicích pestřece obecného.",
+  "quote": "It can be found growing on Scleroderma citrinum earthballs",
+  "claimed_false_for": {
+   "Q10432400": "Hřib měďový (Imperator luteocupreus)",
+   "Q10432413": "Hřib mokřadní (Xerocomellus ripariellus)",
+   "Q10511337": "Hřib pružný (Aureoboletus gentilis)",
+   "Q1210127": "Pestřec obecný (Scleroderma citrinum)",
+   "Q1462231": "Hřib siný (Gyroporus cyanescens)",
+   "Q1624061": "Hřib dutonohý (Suillus cavipes)",
+   "Q205568": "Klouzek limbový (Suillus plorans)",
+   "Q20721683": "Hřib moravský (Aureoboletus moravicus)",
+   "Q3787843": "Šťavnatka buková (Hygrophorus penarius)",
+   "Q473745": "Václavka obecná (Armillaria mellea)",
+   "Q757127": "Hřib bronzový (Boletus aereus)",
+   "Q96776506": "Hřib žlutý (Sutorius junquilleus)"
+  }
+ },
+ {
+  "id": "Q761680#x1",
+  "species": "Hřib příživný",
+  "latin": "Pseudoboletus parasiticus",
+  "text": "Nezabíjí svého hostitele, ale zpožďuje mu dozrávání spor.",
+  "quote": "Il ne tue pas son hôte mais retarde la maturation des spores.",
+  "claimed_false_for": {
+   "Q10684413": "Lošáček černý (Phellodon niger)",
+   "Q1165762": "Klouzek kravský (Suillus bovinus)",
+   "Q11775217": "Hřib Engelův (Hortiboletus engelii)",
+   "Q1323791": "Hřib horský (Butyriboletus subappendiculatus)",
+   "Q1654979": "Kukmák bělovlnný (Volvariella bombycina)",
+   "Q17153031": "Hřib šedorůžový (Butyriboletus roseogriseus)",
+   "Q18627459": "Hřib políčkatý (Xerocomellus cisalpinus)",
+   "Q186451": "Hlíva ústřičná (Pleurotus ostreatus)",
+   "Q25379773": "Čirůvka dvoubarvá (Lepista personata)",
+   "Q2909343": "Hřib citronový (Boletus clavipes)",
+   "Q5232097": "Helmovka skvrnitá (Mycena maculata)",
+   "Q633503": "Hřib žlučník (Tylopilus felleus)",
+   "Q690450": "Lysohlávka kubánská (Psilocybe cubensis)",
+   "Q752497": "Hřib hnědý (Imleria badia)",
+   "Q752507": "Třepenitka svazčitá (Hypholoma fasciculare)",
+   "Q97013114": "Hřib Moserův (Rubroboletus rubrosanguineus)"
+  }
+ },
+ {
+  "id": "Q761680#x2",
+  "species": "Hřib příživný",
+  "latin": "Pseudoboletus parasiticus",
+  "text": "Vyrůstá ze spodní části svého hostitele a roste spolu s ním.",
+  "quote": "il se développe à partir de la base du scléroderme, au niveau des cordons mycéliens et l'accompagne dans sa croissance",
+  "claimed_false_for": {
+   "Q10432400": "Hřib měďový (Imperator luteocupreus)",
+   "Q10432413": "Hřib mokřadní (Xerocomellus ripariellus)",
+   "Q10511337": "Hřib pružný (Aureoboletus gentilis)",
+   "Q1210127": "Pestřec obecný (Scleroderma citrinum)",
+   "Q1462231": "Hřib siný (Gyroporus cyanescens)",
+   "Q1624061": "Hřib dutonohý (Suillus cavipes)",
+   "Q205568": "Klouzek limbový (Suillus plorans)",
+   "Q20721683": "Hřib moravský (Aureoboletus moravicus)",
+   "Q3787843": "Šťavnatka buková (Hygrophorus penarius)",
+   "Q473745": "Václavka obecná (Armillaria mellea)",
+   "Q757127": "Hřib bronzový (Boletus aereus)",
+   "Q96776506": "Hřib žlutý (Sutorius junquilleus)"
+  }
+ },
+ {
+  "id": "Q761680#x3",
+  "species": "Hřib příživný",
+  "latin": "Pseudoboletus parasiticus",
+  "text": "Kolem jednoho hostitele může růst až deset plodnic najednou.",
+  "quote": "Solitaire ou en groupes pouvant atteindre la dizaine d'individus autour de la même",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q76922#0",
+  "species": "Šťavnatka tečkovaná",
+  "latin": "Hygrophorus pustulatus",
+  "text": "Roste ve skupinách pod smrky.",
+  "quote": "Roste většinou ve skupinách v jehličnatých lesích pod smrky",
+  "claimed_false_for": {
+   "Q1257786": "Kuřátka sličná (Ramaria formosa)",
+   "Q1654979": "Kukmák bělovlnný (Volvariella bombycina)",
+   "Q633746": "Kuřátka přímá (Ramaria stricta)"
+  }
+ },
+ {
+  "id": "Q779716#1",
+  "species": "Hnojník strakatý",
+  "latin": "Coprinopsis picacea",
+  "text": "Nejraději roste u buků.",
+  "quote": "Od června do října roste roztroušeně v listnatých lesích na vápnitých podkladech, ze stromů preferuje buky.",
+  "claimed_false_for": {
+   "Q10713598": "Tužnatka slizká (Multiclavula mucida)",
+   "Q111697": "Slizák švýcarský (Chroogomphus helveticus)",
+   "Q1315936": "Měcháč písečný (Pisolithus arhizus)",
+   "Q3817466": "Strmělka vonná (Clitocybe fragrans)",
+   "Q761680": "Hřib příživný (Pseudoboletus parasiticus)",
+   "Q901047": "Koniofora sklepní (Coniophora puteana)"
+  }
+ },
+ {
+  "id": "Q790626#1",
+  "species": "Slizák mazlavý",
+  "latin": "Gomphidius glutinosus",
+  "text": "Roste v jehličnatých a smíšených lesích.",
+  "quote": "roste od srpna do listopadu v jehličnatých a smíšených lesích.",
+  "claimed_false_for": {
+   "Q227690": "Pečárka dvouvýtrusá (Agaricus bisporus)"
+  }
+ },
+ {
+  "id": "Q794194#5",
+  "species": "Lysohlávka aztécká",
+  "latin": "Psilocybe aztecorum",
+  "text": "Klobouk mění barvu s vlhkostí: za vlhka je hnědý, vysycháním bledne do mléčně bílé.",
+  "quote": "ve vlhkém prostředí je lesklý a hnědý či žlutohnědý, vysycháním bledne do mléčně bílé",
+  "claimed_false_for": {
+   "Q10403027": "Pečárka Bohusova (Agaricus bohusii)",
+   "Q10659976": "Kuřinec šafránový (Ramariopsis crocea)",
+   "Q752494": "Hřib koloděj (Suillellus luridus)",
+   "Q922092": "Muchomůrka Vittadiniho (Amanita vittadinii)"
+  }
+ },
+ {
+  "id": "Q81167044#3",
+  "species": "Hřib rubínový",
+  "latin": "Chalciporus rubinus",
+  "text": "Rourky pod kloboukem jsou nejdřív růžové, později červené.",
+  "quote": "Rourky v mládí růžové (u kraje klobouku bílý lem), později rubínově červené",
+  "claimed_false_for": {
+   "Q10510074": "Černolupen zelený (Melanophyllum eyrei)",
+   "Q1323749": "Muchomůrka šedivka (Amanita spissa)",
+   "Q1552361": "Límcovka měděnková (Stropharia aeruginosa)",
+   "Q2044567": "Bedla dívčí (Leucoagaricus nympharum)",
+   "Q227690": "Pečárka dvouvýtrusá (Agaricus bisporus)",
+   "Q23034863": "Závojenka lesklá (Entocybe nitida)",
+   "Q259135": "Muchomůrka porfyrová (Amanita porphyria)",
+   "Q2640668": "Bedla kaštanová (Lepiota castanea)",
+   "Q301792": "Muchomůrka ryšavá (Amanita fulva)",
+   "Q3511522": "Bedla černošupinatá (Lepiota felina)",
+   "Q3511527": "Bedlovnice zlatá (Phaeolepiota aurea)",
+   "Q922887": "Bedla ostrošupinná (Echinoderma asperum)"
+  }
+ },
+ {
+  "id": "Q816730#1",
+  "species": "Klouzek obecný",
+  "latin": "Suillus luteus",
+  "text": "Prstenec na třeni bývá černohnědý s fialovým nádechem.",
+  "quote": "Barva prstenu bývá černohnědá s fialovým nádechem.",
+  "claimed_false_for": {
+   "Q12955841": "Hřib osmahlý (Xerocomus ferrugineus)",
+   "Q13416103": "Hřib nádherný (Boletus spretus)",
+   "Q13548139": "Hřib malinový (Chalciporus amarellus)",
+   "Q1580472": "Dřevomorka domácí (Serpula lacrymans)",
+   "Q2484512": "Hvězdovka brvitá (Geastrum fimbriatum)",
+   "Q580098": "Holubinka březová (Russula betularum)",
+   "Q670090": "Holubinka ruměná (Russula pseudointegra)",
+   "Q80590": "Holubinka lesklá (Russula nitida)",
+   "Q851539": "Holubinka mandlová (Russula vesca)",
+   "Q854895": "Holubinka smrdutá (Russula foetens)",
+   "Q886424": "Holubinka krvavá (Russula sanguinaria)",
+   "Q901119": "Holubinka celokrajná (Russula integra)"
+  }
+ },
+ {
+  "id": "Q833108#1",
+  "species": "Klouzek sličný",
+  "latin": "Suillus grevillei",
+  "text": "Klobouk je za vlhka pokrytý slizem, za sucha lesklý.",
+  "quote": "Pokožka klobouku je za vlhka pokryta silnou vrstvou průhledného",
+  "claimed_false_for": {
+   "Q13578485": "Hřib Markův (Xerocomellus marekii)",
+   "Q17153031": "Hřib šedorůžový (Butyriboletus roseogriseus)",
+   "Q20721676": "Hřib vlčí (Rubroboletus lupinus)",
+   "Q2501490": "Hřib uťatovýtrusý (Xerocomellus porosporus)",
+   "Q254161": "Hřib žlutomasý (Xerocomellus chrysenteron)",
+   "Q26203718": "Hřib kovář (Neoboletus luridiformis)",
+   "Q26203737": "Hřib Quéletův (Suillellus queletii)",
+   "Q2909343": "Hřib citronový (Boletus clavipes)",
+   "Q29784429": "Hřib kříšť (Caloboletus calopus)",
+   "Q3570555": "Hřib hnědofialový (Xanthoconium separans)",
+   "Q614730": "Šiškovec černý (Strobilomyces strobilaceus)",
+   "Q633503": "Hřib žlučník (Tylopilus felleus)"
+  }
+ },
+ {
+  "id": "Q856834#x0",
+  "species": "Mechovka obecná",
+  "latin": "Clitopilus prunulus",
+  "text": "Voní moučně, trochu jako okurka.",
+  "quote": "The mushroom has a mealy odor, somewhat like cucumber.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q856834#x1",
+  "species": "Mechovka obecná",
+  "latin": "Clitopilus prunulus",
+  "text": "Obsahuje těkavou látku, kvůli které nechutná slimákům na severozápadě USA.",
+  "quote": "making it unpalatable to the coastal Pacific Northwest banana slug",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q856834#x2",
+  "species": "Mechovka obecná",
+  "latin": "Clitopilus prunulus",
+  "text": "Tvoří mykorhizu na kořenech stromů.",
+  "quote": "formează micorize pe rădăcinile arborilor",
+  "claimed_false_for": {
+   "Q10432825": "Bondarcevka horská (Bondarzewia mesenterica)",
+   "Q10508003": "Černolupen krvavý (Melanophyllum haematospermum)",
+   "Q1356296": "Ohňovec obecný (Phellinus igniarius)",
+   "Q3915674": "Bedla polonahá (Cystolepiota seminuda)",
+   "Q783554": "Slizečka porcelánová (Oudemansiella mucida)"
+  }
+ },
+ {
+  "id": "Q856834#x3",
+  "species": "Mechovka obecná",
+  "latin": "Clitopilus prunulus",
+  "text": "Roste od července do listopadu, od nížin po hory.",
+  "quote": "Buretele se dezvoltă din (iunie) iulie până în noiembrie, de la câmpie la munte.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q857903#x0",
+  "species": "Stroček trubkovitý",
+  "latin": "Craterellus cornucopioides",
+  "text": "Splývá s listím na lesní půdě, protože je načernalý.",
+  "quote": "Because the mushroom tends to be blackish, it easily blends in with leaf litter on the forest floor.",
+  "claimed_false_for": {
+   "Q1265541": "Lištička pomerančová (Hygrophoropsis aurantiaca)",
+   "Q1361089": "Holubinka sluneční (Russula solaris)",
+   "Q188749": "Liška obecná (Cantharellus cibarius)",
+   "Q2475470": "Lišák ryšavý (Hydnum rufescens)",
+   "Q596896": "Liška Friesova (Cantharellus friesii)"
+  }
+ },
+ {
+  "id": "Q857903#x1",
+  "species": "Stroček trubkovitý",
+  "latin": "Craterellus cornucopioides",
+  "text": "Roste hlavně pod buky, duby a jinými listnatými stromy.",
+  "quote": "It mainly grows under beech, oak or other broad-leaved trees",
+  "claimed_false_for": {
+   "Q10713598": "Tužnatka slizká (Multiclavula mucida)"
+  }
+ },
+ {
+  "id": "Q857903#x3",
+  "species": "Stroček trubkovitý",
+  "latin": "Craterellus cornucopioides",
+  "text": "V Austrálii roste v roklích deštných pralesů.",
+  "quote": "In Australia, they grow in rainforest gullies",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q857903#x4",
+  "species": "Stroček trubkovitý",
+  "latin": "Craterellus cornucopioides",
+  "text": "Plodnice dorůstají obvykle výšky asi 10 centimetrů.",
+  "quote": "They grow up to about 10 cm (4 in) in height",
+  "claimed_false_for": {
+   "Q10713598": "Tužnatka slizká (Multiclavula mucida)"
+  }
+ },
+ {
+  "id": "Q857903#x5",
+  "species": "Stroček trubkovitý",
+  "latin": "Craterellus cornucopioides",
+  "text": "V Evropě je obecně běžný, ale v Nizozemsku je vzácný.",
+  "quote": "In Europe it is generally common, but seems to be rare in some countries such as the Netherlands.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q865540#x0",
+  "species": "Ryzec kravský",
+  "latin": "Lactarius torminosus",
+  "text": "Žije v symbióze s různými stromy, nejčastěji s břízami.",
+  "quote": "A mycorrhizal species, it associates with various trees, most commonly birch.",
+  "claimed_false_for": {
+   "Q234529": "Pečárka polní (Agaricus campestris)",
+   "Q243381": "Bedla vysoká (Macrolepiota procera)",
+   "Q271098": "Lesklokorka lesklá (Ganoderma lucidum)",
+   "Q275125": "Hnojník obecný (Coprinus comatus)",
+   "Q29362": "Čirůvka fialová (Lepista nuda)",
+   "Q372893": "Penízovka sametonohá (Flammulina velutipes)"
+  }
+ },
+ {
+  "id": "Q865540#x1",
+  "species": "Ryzec kravský",
+  "latin": "Lactarius torminosus",
+  "text": "Je součástí potravy veverek.",
+  "quote": "They are a component of the diet of the red squirrel",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q865540#x2",
+  "species": "Ryzec kravský",
+  "latin": "Lactarius torminosus",
+  "text": "Slouží jako místo rozmnožování některých much, které se živí houbami.",
+  "quote": "serve as breeding sites for some fungus-feeding flies",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q865540#x3",
+  "species": "Ryzec kravský",
+  "latin": "Lactarius torminosus",
+  "text": "Může na něm parazitovat plíseň, která deformuje jeho lupeny.",
+  "quote": "mushrooms may be parasitized by the mold Hypomyces lithuanicus",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q865540#x4",
+  "species": "Ryzec kravský",
+  "latin": "Lactarius torminosus",
+  "text": "Vyvolává po snědení za syrova nevolnost, zvracení a silný průjem.",
+  "quote": "Symptoms that are typically experienced after consuming raw mushrooms include nausea, vomiting, and severe diarrhea",
+  "claimed_false_for": {}
+ }
+]
