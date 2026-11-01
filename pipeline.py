@@ -194,9 +194,9 @@ def get(url, raw=False, attempts=6):
             time.sleep(5 * 2**attempt)
 
 
-def wiki(host="cs.wikipedia.org", **params):
+def wiki(host="cs.wikipedia.org", attempts=6, **params):
     params.update(format="json", formatversion=2)
-    return get(f"https://{host}/w/api.php?" + urllib.parse.urlencode(params))["query"]
+    return get(f"https://{host}/w/api.php?" + urllib.parse.urlencode(params), attempts=attempts)["query"]
 
 
 def sparql(query, attempts=6):
@@ -474,13 +474,15 @@ def missing(slug, stage):
     base, species_file, *_ = paths(slug)
     if stage == "facts":
         return [s for s in json.loads(species_file.read_text("utf-8")) if not has_valid_output(base / "facts" / f"{s}.json")]
+    if stage == "foreign":
+        return [f.stem for f in sorted((base / "foreign").glob("*.txt")) if not has_valid_output(base / "foreign_facts" / f"{f.stem}.json")]
     jobs, results = {"photos": ("photo_jobs", "more_photos"), "negatives": ("neg_jobs", "neg"), "review": ("review_jobs", "review"),
                      "continents": ("continent_jobs", "continents"), "language": ("language_jobs", "language")}[stage]
     return [j.stem for j in sorted((base / jobs).glob("*.json")) if not has_valid_output(base / results / j.name)]
 
 
 def todo(slug):
-    for stage in ("facts", "photos", "negatives", "review", "continents", "language"):
+    for stage in ("facts", "photos", "foreign", "negatives", "review", "continents", "language"):
         print(f"{stage}:", json.dumps(missing(slug, stage)))
 
 
@@ -497,7 +499,8 @@ def out_of_date(slug):
     built = base / "built.json"
     if not built.exists():
         return True
-    newest = max((f.stat().st_mtime for sub in ("facts", "more_photos", "neg", "review", "continents", "language") for f in (base / sub).glob("*.json")), default=0)
+    newest = max((f.stat().st_mtime for sub in ("facts", "more_photos", "foreign_facts", "neg", "review", "continents", "language")
+                  for f in (base / sub).glob("*.json")), default=0)
     return newest > built.stat().st_mtime
 
 
@@ -510,7 +513,7 @@ def class_batch(slug, limit):
         return {"stage": stage, "slug": slug, "kingdom": kingdom, "ids": ids[:limit]} if ids else None
 
     stale = out_of_date(slug)
-    found = batch("facts") or batch("photos")
+    found = batch("facts") or batch("photos") or batch("foreign")
     if found:
         return found
     if stale:
@@ -524,6 +527,7 @@ def class_batch(slug, limit):
         if slug == "savci":
             sync_peer_negatives(slug)
         sync_known_negatives(slug)
+        sync_needy_negatives(slug)
         found = batch("negatives")
         if found:
             return found
@@ -596,8 +600,17 @@ def text_problem(text, sp):
             else "")
 
 
+def restored_photos(base):
+    """Fotky, které opakovaná kontrola (úlohy h_) vrátila: dřív je zamítlo jen lidské prostředí kolem volně žijícího zvířete."""
+    return {(d["species_id"], d["i"]) for file in sorted((base / "review").glob("h_*.json")) for d in read_json(file).get("restore_photos", [])}
+
+
+def article_body(file):
+    return norm(file.read_text("utf-8").split("\n---\n", 1)[1])
+
+
 def load_facts(slug):
-    """Načte výstupy kroku 1; tvrzení bez doslovné opory v článku nebo prozrazující název zahodí."""
+    """Načte výstupy kroku 1 a tvrzení z cizojazyčných článků; tvrzení bez doslovné opory ve zdroji nebo prozrazující název zahodí."""
     base, species_file, articles, _, facts_dir, *_ = paths(slug)
     species = json.loads(species_file.read_text("utf-8"))
     out, dropped = {}, Counter()
@@ -606,6 +619,31 @@ def load_facts(slug):
         result = read_json(file)
         fixes.update((d["id"], d["text"]) for d in result.get("fixes", []))
         duplicates.update(d["id"] for d in result.get("drop", []))
+    restored = defaultdict(set)
+    for sid, i in restored_photos(base):
+        restored[sid].add(i)
+
+    def accept(raw_facts, sid, sp, source, mark=""):
+        """Tvrzení s doslovnou oporou ve zdroji. Id tvrzení z cizojazyčných článků mají za # písmeno x."""
+        kept = []
+        for i, f in enumerate(raw_facts):
+            fact_id = f"{sid}#{mark}{i}"
+            if fact_id in duplicates:
+                dropped["stejný význam jako jiné tvrzení"] += 1
+                continue
+            # jazyková oprava projde stejnými pravidly jako původní věta, jinak zůstává původní
+            text = fixes[fact_id] if fact_id in fixes and not text_problem(fixes[fact_id], sp) else f["text"]
+            reason = (
+                "citace není v článku" if len(norm(f["quote"])) < 10 or norm(f["quote"]) not in source
+                else text_problem(text, sp)
+                or ("špatná kategorie" if f["category"] not in CATEGORIES else "")
+            )
+            if reason:
+                dropped[reason] += 1
+            else:
+                kept.append({"id": fact_id, "text": text, "quote": f["quote"], "category": f["category"]})
+        return kept
+
     for sid, sp in species.items():
         file = facts_dir / f"{sid}.json"
         if not file.exists():
@@ -613,33 +651,21 @@ def load_facts(slug):
             continue
         try:
             raw = read_json(file)
-            if raw.get("usable") is False:
-                dropped["článek bez použitelných informací"] += 1
-                continue
-            article = norm((articles / f"{sid}.txt").read_text("utf-8").split("\n---\n", 1)[1])
             facts = []
-            for i, f in enumerate(raw["facts"]):
-                fact_id = f"{sid}#{i}"
-                if fact_id in duplicates:
-                    dropped["stejný význam jako jiné tvrzení"] += 1
-                    continue
-                # jazyková oprava projde stejnými pravidly jako původní věta, jinak zůstává původní
-                text = fixes[fact_id] if fact_id in fixes and not text_problem(fixes[fact_id], sp) else f["text"]
-                reason = (
-                    "citace není v článku" if len(norm(f["quote"])) < 10 or norm(f["quote"]) not in article
-                    else text_problem(text, sp)
-                    or ("špatná kategorie" if f["category"] not in CATEGORIES else "")
-                )
-                if reason:
-                    dropped[reason] += 1
-                else:
-                    facts.append({"id": fact_id, "text": text, "quote": f["quote"], "category": f["category"]})
+            if raw.get("usable") is False:  # fotky platí dál, tvrzení můžou přijít z jiných jazyků
+                dropped["článek bez použitelných informací"] += 1
+            else:
+                facts = accept(raw["facts"], sid, sp, article_body(articles / f"{sid}.txt"))
+            foreign = base / "foreign_facts" / f"{sid}.json"
+            if foreign.exists() and (raw_foreign := read_json(foreign)).get("usable") is not False:
+                facts += accept(raw_foreign["facts"], sid, sp, article_body(base / "foreign" / f"{sid}.txt"), "x")
             judged = list(raw["photos"])
             # první hledání ukládá {sid}.json, další kola {sid}_<kolo>.json
             for extra in [base / "more_photos" / f"{sid}.json", *(base / "more_photos").glob(f"{sid}_*.json")]:
                 if extra.exists():
                     judged += read_json(extra)["photos"]
-            photos = sorted({p["i"] for p in judged if p["ok"] and 0 <= p["i"] < len(sp["photos"])})
+            photos = sorted({p["i"] for p in judged if p["ok"]} | restored[sid])
+            photos = [i for i in photos if 0 <= i < len(sp["photos"])]
         except (json.JSONDecodeError, KeyError, TypeError) as e:
             dropped[f"neplatný soubor ({type(e).__name__})"] += 1
             print("  neplatný výstup:", file.name, e)
@@ -758,6 +784,162 @@ def sync_wild_review(slug, batch=40):
     print(f"{slug}: fotek ke kontrole prostředí {len(items)}")
 
 
+# Důvody zamítnutí, které mluví jen o lidském prostředí, a ty, které ukazují na zajetí (ty zůstávají zamítnuté).
+HUMAN_PLACE = re.compile(r"nábyt|židl|opěrad|budov|zeď|zdi\b|zídk|stěn|okn|parapet|příbor|lžič|stůl|stole|dveř|plot|zábradl|lavič|střech|"
+                         r"dlažb|beton|asfalt|chodník|silnic|měst|zahrad|umělé pozadí|umělý povrch|lidsk|místnost|interiér|domě|stavb", re.I)
+CAPTIVITY = re.compile(r"zoo|klec|ohrad|akvári|terári|zajet|chovn|chovan|výběh|pletiv|mříž|preparát|muze|studi|bílém pozadí|"
+                       r"ruce|ruka|ruku|dlan|prst|držen|obojek|vodítk|krmen|misk", re.I)
+
+
+def sync_human_review(slug, batch=30):
+    """Jednorázově znovu posoudí fotky živočichů zamítnuté jen kvůli lidskému prostředí (zeď, okno, nábytek, město).
+    Pravidlo o zajetí bylo příliš přísné: volně žijící vosa na židli v zajetí není."""
+    if CLASSES[slug][2] != "zivocichove":
+        return
+    base, species_file, _, _, facts_dir, _, _ = paths(slug)
+    species = json.loads(species_file.read_text("utf-8"))
+    jobs_dir = base / "review_jobs"
+    done = {(item["species_id"], item["i"]) for job in jobs_dir.glob("h_*.json") for item in read_json(job)}
+    rejected = {}
+
+    def note(sid, i, why):
+        why = why or ""
+        if sid in species and 0 <= i < len(species[sid]["photos"]) and (sid, i) not in done and HUMAN_PLACE.search(why) and not CAPTIVITY.search(why):
+            rejected.setdefault((sid, i), why)
+
+    for file in sorted(facts_dir.glob("*.json")):
+        for p in read_json(file).get("photos", []):
+            if not p.get("ok"):
+                note(file.stem, p["i"], p.get("why"))
+    for file in sorted((base / "more_photos").glob("*.json")):
+        for p in read_json(file).get("photos", []):
+            if not p.get("ok"):
+                note(file.stem.split("_")[0], p["i"], p.get("why"))
+    for file in sorted((base / "review").glob("*.json")):
+        for d in read_json(file).get("reject_photos", []):
+            note(d["species_id"], d["i"], d.get("why"))
+    items = [{"species_id": sid, "i": i, "species": species[sid]["name"], "latin": species[sid]["latin"], "file": species[sid]["photos"][i]["file"],
+              "desc": species[sid]["photos"][i]["desc"], "image": f"data/{slug}/thumbs/{sid}_{i}.jpg", "rejected": why}
+             for (sid, i), why in sorted(rejected.items()) if (base / "thumbs" / f"{sid}_{i}.jpg").exists()]
+    start = next_job_number(jobs_dir, "h_")
+    for n in range(0, len(items), batch):
+        (jobs_dir / f"h_{start + n // batch:04}.json").write_text(json.dumps(items[n:n + batch], ensure_ascii=False, indent=1), encoding="utf-8")
+    print(f"{slug}: fotek k opětovnému posouzení prostředí {len(items)}")
+
+
+def sync_needy_negatives(slug, batch=20, candidates=12, minimum=3, rounds=2):
+    """Druhy s méně než třemi nepravdivými tvrzeními posoudí vůči dalším tvrzením ze třídy. Každý druh nejvýš ve dvou kolech."""
+    base, _, articles, _, _, jobs_dir, _ = paths(slug)
+    built = json.loads((base / "built.json").read_text("utf-8"))["species"]
+    false_count = Counter(q for s in built for f in s["facts"] for q in f["not"])
+    seen = Counter(c for job in jobs_dir.glob("need_*.json") for c in read_json(job)["candidates"])
+    needy = sorted((s for s in built if false_count[s["id"]] < minimum and seen[s["id"]] < rounds), key=lambda s: (s["order"] or "", s["family"] or ""))
+    if not needy:
+        return
+    species, facts, _ = load_facts(slug)
+    by_id = {f["id"]: f for v in facts.values() for f in v["facts"]}
+    in_game = [f["id"] for s in built for f in s["facts"] if f["id"] in by_id]
+    by_order = defaultdict(list)
+    for s in built:
+        by_order[s["order"]] += [f["id"] for f in s["facts"] if f["id"] in by_id]
+    rng = random.Random(f"{slug}{sum(seen.values())}")
+    n = next_job_number(jobs_dir, "need_")
+    first = n
+    for i in range(0, len(needy), candidates):
+        group = needy[i:i + candidates]
+        owners = {s["id"] for s in group}
+        # polovina tvrzení od příbuzných z řádů těchto druhů, zbytek z celé třídy
+        near = [f for o in {s["order"] for s in group} for f in by_order[o] if f.split("#")[0] not in owners]
+        far = [f for f in in_game if f.split("#")[0] not in owners]
+        chunk = rng.sample(near, min(len(near), batch // 2))
+        chunk += rng.sample([f for f in far if f not in chunk], min(len(far), batch - len(chunk)))
+        if chunk:
+            write_neg_job(jobs_dir / f"need_{n:04}.json", [by_id[f] for f in chunk], [s["id"] for s in group], species, facts, articles)
+            n += 1
+    print(f"{slug}: druhů s málo nepravdivými tvrzeními {len(needy)}, nových úloh need_: {n - first}")
+
+
+BOT_WIKIS = {"ceb", "war", "arz", "azb", "nan", "simple"}  # strojově založené pahýly nebo zjednodušená angličtina
+NOT_WIKIPEDIA = {"commons", "species", "meta", "wikidata", "mediawiki", "sources", "outreach", "incubator"}
+FOREIGN_END = re.compile(r"^==\s*(References|Notes|See also|External links|Further reading|Sources|Bibliography|Einzelnachweise|Literatur|Weblinks|"
+                         r"Références|Notes et références|Liens externes|Voir aussi|Bibliographie|Referencias|Enlaces externos|Véase también|Referências|"
+                         r"Ligações externas|Примечания|Литература|Ссылки|Przypisy|Bibliografia|Linki zewnętrzne|Note|Collegamenti esterni|"
+                         r"Referenties|Externe links|脚注|参考文献|外部リンク|関連項目|参考资料|外部链接)\s*==\s*$", re.M)
+MAX_FOREIGN_TEXT = 15000
+
+
+def foreign_text(lang, title):
+    try:
+        page = wiki(f"{lang}.wikipedia.org", attempts=2, action="query", prop="extracts", titles=title, explaintext=1, exlimit=1)["pages"][0]
+    except (urllib.error.HTTPError, KeyError, *NETWORK_ERRORS):
+        return ""
+    return FOREIGN_END.split(page.get("extract", ""))[0].strip()[:MAX_FOREIGN_TEXT]
+
+
+def fetch_foreign(slug):
+    """Druhům bez jediného tvrzení ve hře stáhne anglický článek a nejdelší článek v dalším jazyce (bývá tam, kde je druh doma)."""
+    base = paths(slug)[0]
+    build(slug)  # aktuální počty tvrzení, včetně druhů s nepoužitelným českým článkem
+    (base / "foreign").mkdir(exist_ok=True)
+    (base / "foreign_facts").mkdir(exist_ok=True)
+    tried_file = base / "foreign" / "_tried.json"
+    tried = set(json.loads(tried_file.read_text("utf-8"))) if tried_file.exists() else set()
+    built = json.loads((base / "built.json").read_text("utf-8"))["species"]
+    targets = {s["id"]: s for s in built if not s["facts"] and s["id"] not in tried}
+    print(f"{slug}: druhů bez tvrzení {len(targets)}", flush=True)
+    links = {}
+    ids = sorted(targets)
+    for i in range(0, len(ids), 50):
+        entities = get("https://www.wikidata.org/w/api.php?" + urllib.parse.urlencode(
+            {"action": "wbgetentities", "ids": "|".join(ids[i:i + 50]), "props": "sitelinks", "format": "json"}))["entities"]
+        for sid, e in entities.items():
+            links[sid] = {k[:-4].replace("_", "-"): v["title"] for k, v in e.get("sitelinks", {}).items()
+                          if k.endswith("wiki") and k != "cswiki" and k[:-4] not in BOT_WIKIS | NOT_WIKIPEDIA}
+    by_lang = defaultdict(list)
+    for sid, langs in links.items():
+        for lang, title in langs.items():
+            by_lang[lang].append(title)
+
+    def lengths(lang):
+        titles, out = by_lang[lang], {}
+        for i in range(0, len(titles), 50):
+            try:
+                out.update((p["title"], p.get("length", 0)) for p in wiki(f"{lang}.wikipedia.org", attempts=2, action="query", prop="info",
+                                                                           titles="|".join(titles[i:i + 50])).get("pages", []))
+            except (urllib.error.HTTPError, KeyError, *NETWORK_ERRORS):
+                pass
+        return lang, out
+
+    with ThreadPoolExecutor(3) as pool:
+        size = {(lang, title): n for lang, found in pool.map(lengths, sorted(by_lang)) for title, n in found.items()}
+
+    def sources(sid):
+        langs = links.get(sid, {})
+        others = sorted((size.get((l, t), 0), l) for l, t in langs.items() if l != "en")
+        picked = (["en"] if "en" in langs else []) + ([others[-1][1]] if others and others[-1][0] > 2000 else [])
+        return sid, [(l, langs[l], foreign_text(l, langs[l])) for l in picked]
+
+    written = 0
+    with ThreadPoolExecutor(3) as pool:
+        for n, (sid, found) in enumerate(pool.map(sources, ids)):
+            tried.add(sid)
+            found = [(l, t, text) for l, t, text in found if len(text) >= 200]
+            total = sum(len(text) for *_, text in found)
+            if total >= 300:
+                s = targets[sid]
+                target = 2 if total < 3000 else 4 if total < 10000 else 6
+                head = f"NÁZEV: {s['name']}\nLATINSKY: {s['latin']}\nPOČET TVRZENÍ: {target}\n---\n"
+                body = "\n\n".join(f"=== ZDROJ: https://{l}.wikipedia.org/wiki/{urllib.parse.quote(t.replace(' ', '_'))} ===\n"
+                                   + "\n".join(textwrap.fill(line, 400) for line in text.splitlines()) for l, t, text in found)
+                (base / "foreign" / f"{sid}.txt").write_text(head + body, encoding="utf-8")
+                written += 1
+            if n % 25 == 0:
+                tried_file.write_text(json.dumps(sorted(tried)), encoding="utf-8")
+                print(f"  {n}/{len(ids)}, článků {written}", flush=True)
+    tried_file.write_text(json.dumps(sorted(tried)), encoding="utf-8")
+    print(f"{slug}: cizojazyčné články pro {written} z {len(ids)} druhů", flush=True)
+
+
 def sync_review(slug, fact_batch=40, photo_batch=30):
     """Úlohy přísné kontroly pro tvrzení a fotky z built.json, které jí ještě neprošly."""
     base = paths(slug)[0]
@@ -844,12 +1026,13 @@ def build(slug):
     for file in sorted(neg_dir.glob("*.json")):
         for r in read_json(file)["results"]:
             false_for[r["id"]] |= set(r.get("false_for", []))
-            if r.get("bad") and not file.stem.startswith(("peer_", "known_")):  # kvalitu tvrzení už posoudil první průchod
+            if r.get("bad") and not file.stem.startswith(("peer_", "known_", "need_")):  # kvalitu tvrzení už posoudil první průchod
                 bad[r["id"]] = r.get("why", "")
     unreviewed = [f["id"] for v in facts.values() if v["photos"] for f in v["facts"] if f["id"] not in false_for]
     print("Zahozeno krokem 1:", dict(dropped), "\nZahozeno kontrolou v kroku 2:", len(bad), "\nBez kontroly (zahozeno):", len(unreviewed))
     bad.update(dict.fromkeys(unreviewed, "bez kontroly"))
     pairs = photos = 0
+    restored = restored_photos(base)
     for file in sorted((base / "review").glob("*.json")):
         r = read_json(file)
         bad.update((d["id"], d.get("why", "")) for d in r.get("drop_facts", []))
@@ -857,7 +1040,7 @@ def build(slug):
             false_for[d["id"]].discard(d["species"])
             pairs += 1
         for d in r.get("reject_photos", []):
-            if d["i"] in facts.get(d["species_id"], {}).get("photos", []):
+            if (d["species_id"], d["i"]) not in restored and d["i"] in facts.get(d["species_id"], {}).get("photos", []):
                 facts[d["species_id"]]["photos"].remove(d["i"])
                 photos += 1
     print(f"Druhá kontrola: tvrzení celkem vyřazeno {len(bad)}, odebráno negativních párů {pairs}, fotek {photos}")
@@ -970,4 +1153,5 @@ def write_game_data():
 
 if __name__ == "__main__":
     sys.stdout.reconfigure(encoding="utf-8")
-    {"fetch": fetch, "photos": more_photos, "retry": retry_photos, "fill": fill_photos, "wild": sync_wild_review, "next": next_batch, "todo": todo, "build": build, "popularity": popularity}[sys.argv[1]](sys.argv[2])
+    {"fetch": fetch, "photos": more_photos, "retry": retry_photos, "fill": fill_photos, "wild": sync_wild_review, "human": sync_human_review,
+     "foreign": fetch_foreign, "next": next_batch, "todo": todo, "build": build, "popularity": popularity}[sys.argv[1]](sys.argv[2])

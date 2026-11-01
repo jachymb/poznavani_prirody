@@ -121,6 +121,7 @@
   }
   const link = (s, text = s.name) => el("a", { href: `#${s.cls.slug}/${s.id}` }, text);
   const badge = (text, kind = "") => el("span", { class: `badge ${kind}` }, text);
+  const foreign = (f) => f.id.includes("#x"); // tvrzení z anglické nebo jiné cizojazyčné Wikipedie
 
   function highlight(text) {
     const q = norm(state.query.trim());
@@ -235,6 +236,7 @@
           el("td", { class: "id" }, f.id),
           el("td", { class: "cat" }, f.cat),
           el("td", { class: "text" }, ...highlight(f.text), el("br"),
+            foreign(f) ? badge("z cizojazyčné Wikipedie") : null,
             isDull(f) ? badge("nudné, nižší váha") : null,
             f.not.length >= 3 ? badge("i v „Pro který druh to platí?“", "on") : null),
           el("td", {}, f.not.length ? el("details", {}, el("summary", {}, `${f.not.length} druhů`),
@@ -250,7 +252,7 @@
           return el("tr", { class: `false${skip.length ? " skipped" : ""}`, title: f.id },
             el("td", { class: "cat" }, f.cat),
             el("td", { class: "text" }, ...highlight(f.text), skip.length ? [el("br"), skip.map((r) => badge(`hra vyřadí: ${r}`, "off"))] : null,
-              isDull(f) ? [el("br"), badge("nudné")] : null),
+              isDull(f) || foreign(f) ? el("br") : null, foreign(f) ? badge("z cizojazyčné Wikipedie") : null, isDull(f) ? badge("nudné") : null),
             el("td", {}, link(owner), el("br"), el("span", { class: "latin" }, owner.latin)),
             el("td", { class: "rel" }, ["stejná čeleď", "stejný řád", "jiný řád"][distance(owner)]));
         }))) : el("p", { class: "empty" }, "Žádná."),
