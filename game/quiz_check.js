@@ -13,19 +13,42 @@ assert(!window.Quiz.tooSimilar("Žije v Evropě.", "Loví hlavně zajíce."));
 assert(window.Quiz.isDull({ text: "Kvete od června do srpna." }) && !window.Quiz.isDull({ text: "Roste pod duby." }));
 {
   const big = classes.reduce((a, c) => (c.species.length > a.species.length ? c : a));
-  const beginner = window.Quiz.popularOnly([big]);
-  const pool = new Set(beginner[0].species.map((s) => s.id));
-  assert(pool.size < big.species.length, "začátečník má užší výběr");
-  for (let i = 0; i < 2000; i++) {
-    const q = window.Quiz.makeQuestion(beginner, { easy: true });
-    assert(pool.has(q.target.id) && q.options.every((o) => !o.species || pool.has(o.species.id)), "začátečník vidí jen známější druhy");
+  const beginner = window.Quiz.atLevel([big], "beginner");
+  const advanced = window.Quiz.atLevel([big], "advanced");
+  assert.strictEqual(window.Quiz.atLevel([big], "expert")[0].species.length, big.species.length, "znalec má všechny druhy");
+  const advancedIds = new Set(advanced[0].species.map((s) => s.id));
+  assert(advancedIds.size < big.species.length, "pokročilý má užší výběr");
+  assert(beginner[0].species.length < advancedIds.size, "začátečník má nejužší výběr");
+  assert(beginner[0].species.every((s) => advancedIds.has(s.id)), "začátečníkovy druhy zná i pokročilý");
+  for (const [level, picked] of [["beginner", beginner], ["advanced", advanced]]) {
+    const pool = new Set(picked[0].species.map((s) => s.id));
+    for (let i = 0; i < 1000; i++) {
+      const q = window.Quiz.makeQuestion(picked, { level });
+      assert(pool.has(q.target.id) && q.options.every((o) => !o.species || pool.has(o.species.id)), `${level} vidí jen známější druhy`);
+    }
   }
   const onlyOne = new Set([beginner[0].species[0].id]);
   for (let i = 0; i < 200; i++) {
-    const q = window.Quiz.makeQuestion(beginner, { only: onlyOne });
-    assert(q.target.id === [...onlyOne][0], "opakování chyb vybírá jen zadaný druh");
-    const t = window.Quiz.makeQuestion(beginner, { textOnly: true });
-    assert(t.type === "findFact" || t.type === "findSpecies", "bez fotek jsou jen textové otázky");
+    assert(window.Quiz.makeQuestion(beginner, { only: onlyOne, level: "beginner" }).target.id === [...onlyOne][0], "opakování chyb vybírá jen zadaný druh");
+  }
+  // Začátečník dostává vzdálenější špatné odpovědi než pokročilý a ten vzdálenější než znalec.
+  const sameOrder = (level, picked) => {
+    let same = 0, all = 0;
+    for (let i = 0; i < 3000; i++) {
+      const q = window.Quiz.makeQuestion(picked, { level });
+      if (q.type !== "findPhoto" && q.type !== "findName") continue;
+      for (const o of q.options) {
+        if (o.species !== q.target) {
+          all++;
+          if (o.species.order === q.target.order) same++;
+        }
+      }
+    }
+    return same / all;
+  };
+  assert(sameOrder("beginner", beginner) < 0.2 && sameOrder("advanced", advanced) > 0.5, "začátečník se porovnává s jinými řády");
+  for (const c of classes) {
+    assert(window.Quiz.makeQuestion(window.Quiz.atLevel([c], "beginner"), { level: "beginner" }), `${c.slug} jde hrát na začátečníka`);
   }
 }
 {
@@ -33,10 +56,10 @@ assert(window.Quiz.isDull({ text: "Kvete od června do srpna." }) && !window.Qui
   assert(mammals, "člověk je ve hře");
   const human = mammals.species.find((s) => s.egg);
   assert.strictEqual(human.pop, 0, "váha člověka je 1");
-  for (const beginner of [[mammals], window.Quiz.popularOnly([mammals])]) {
+  for (const [level, beginner] of [["expert", [mammals]], ["advanced", window.Quiz.atLevel([mammals], "advanced")]]) {
     const types = new Set();
     for (let i = 0; i < 400; i++) {
-      const q = window.Quiz.makeQuestion(beginner, { only: new Set([human.id]), easy: beginner[0] !== mammals });
+      const q = window.Quiz.makeQuestion(beginner, { only: new Set([human.id]), level });
       types.add(q.type);
       assert.strictEqual(q.target, human);
       if (q.type === "findFact") {

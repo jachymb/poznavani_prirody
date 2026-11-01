@@ -159,9 +159,8 @@
   const scrollBehavior = () => (window.matchMedia("(prefers-reduced-motion: reduce)").matches ? "auto" : "smooth");
   const MAX_PHOTO_FAILURES = 3;
   let game = null;
-  let level = "beginner";
-  let textOnly = false;
-  const questionOptions = () => ({ easy: level === "beginner", textOnly });
+  let level = "advanced";
+  const HARDER = { beginner: "advanced", advanced: "expert" };
 
   function el(tag, props = {}, ...children) {
     const node = document.createElement(tag);
@@ -177,12 +176,12 @@
   function classesOf(kingdom) {
     const all = (window.GAME_DATA || []).filter((c) => c.kingdom === kingdom);
     const here = window.Quiz.inContinents(all, selected);
-    return (level === "beginner" ? window.Quiz.popularOnly(here) : here).filter((c) => c.species.length);
+    return window.Quiz.atLevel(here, level).filter((c) => c.species.length);
   }
 
   function kingdomButton(k) {
     const classes = classesOf(k.id);
-    const playable = window.Quiz.makeQuestion(classes, questionOptions());
+    const playable = window.Quiz.makeQuestion(classes, { level });
     const count = classes.reduce((sum, c) => sum + c.species.length, 0);
     const hasData = (window.GAME_DATA || []).some((c) => c.kingdom === k.id);
     const names = `${classes.length} ${classes.length === 1 ? "skupina" : classes.length < 5 ? "skupiny" : "skupin"}`;
@@ -195,7 +194,7 @@
   // Kvíz jen z jedné třídy. Nabízí se jen třídy, které při současném výběru jdou hrát.
   function classChoices() {
     const sections = KINGDOMS.map((k) => {
-      const playable = classesOf(k.id).filter((c) => window.Quiz.makeQuestion([c], questionOptions()));
+      const playable = classesOf(k.id).filter((c) => window.Quiz.makeQuestion([c], { level }));
       const buttons = playable.sort((a, b) => b.species.length - a.species.length).map((c) =>
         el("button", { class: "group", onclick: () => startGame(k, { classSlug: c.slug }) }, groupIcon(c.slug), c.name, " ", el("small", {}, String(c.species.length))));
       return buttons.length ? el("section", {}, el("h3", {}, `${k.icon} ${k.label}`), el("div", { class: "groups" }, ...buttons)) : null;
@@ -260,11 +259,9 @@
     return el("fieldset", { class: "options" },
       el("legend", {}, "Úroveň obtížnosti"),
       el("div", { class: "chips" },
-        levelChoice("beginner", "Začátečník", "známější a odlišnější druhy"),
-        levelChoice("expert", "Znalec", "všechny druhy a blízcí příbuzní"),
-        el("label", { class: "chip level" },
-          el("input", { type: "checkbox", checked: textOnly, onchange: (e) => { textOnly = e.target.checked; onChange(); } }),
-          el("span", {}, el("b", {}, "Bez fotek"), el("small", {}, "jen otázky s textem")))));
+        levelChoice("beginner", "Začátečník", "nejznámější a hodně odlišné druhy"),
+        levelChoice("advanced", "Pokročilý", "známější a odlišnější druhy"),
+        levelChoice("expert", "Znalec", "všechny druhy a blízcí příbuzní")));
   }
 
   function showHome() {
@@ -321,7 +318,7 @@
   const speciesName = (s) => [s.name, " ", el("i", { class: "latin", lang: "la" }, s.latin)];
   const photoEl = (photo, alt, cls, onerror) => el("img", { src: photo.url, alt, className: cls || "", onerror });
 
-  // Otázka s nenačtenou fotkou nejde poctivě hrát: vylosuje se jiná, opakovaně nabídneme hru bez fotek.
+  // Otázka s nenačtenou fotkou nejde poctivě hrát: vylosuje se jiná, opakovaně nabídneme nový pokus.
   function photoFailed(q) {
     if (game?.current !== q || q.done) return;
     q.done = true;
@@ -332,9 +329,8 @@
     const retry = el("button", { class: "primary", onclick: nextQuestion }, "Zkusit znovu");
     app.replaceChildren(bar(), el("section", { class: "question" },
       el("h1", {}, "Fotky se nepodařilo načíst"),
-      el("p", {}, "Zkontroluj připojení k internetu, nebo pokračuj jen s textovými otázkami."),
+      el("p", {}, "Zkontroluj připojení k internetu a zkus to znovu."),
       retry,
-      el("button", { class: "secondary", onclick: () => { textOnly = true; nextQuestion(); } }, "Hrát bez fotek"),
     ));
     retry.focus({ preventScroll: true });
     announce("Fotky se nepodařilo načíst.");
@@ -342,7 +338,7 @@
 
   function nextQuestion() {
     if (game.asked >= game.total) return showResult();
-    const q = window.Quiz.makeQuestion(game.classes, { skip: game.seen, only: game.only, ...questionOptions() });
+    const q = window.Quiz.makeQuestion(game.classes, { skip: game.seen, only: game.only, level });
     if (!q) return showResult();
     game.current = q;
     game.seen.add(q.target.id);
@@ -353,23 +349,23 @@
       const onclick = () => answer(q, option, answers, card);
       const button = q.type === "findPhoto"
         ? el("button", { class: "answer tile", onclick }, photoEl(option.photo, `Fotka ${i + 1}`, "", failed))
-        : q.type === "findSpecies" && !textOnly
+        : q.type === "findSpecies"
           ? el("button", { class: "answer tile", onclick }, photoEl(option.photo, "", "", failed), el("span", {}, ...speciesName(option.species)))
-          : q.type === "findName" || q.type === "findSpecies"
+          : q.type === "findName"
             ? el("button", { class: "answer", onclick }, ...speciesName(option.species))
             : el("button", { class: "answer", onclick }, option.text);
       button.option = option;
       return button;
     });
-    const wrap = q.type === "findPhoto" || (q.type === "findSpecies" && !textOnly) ? "grid"
-      : q.type === "findName" || q.type === "findSpecies" ? "answers names" : "answers";
+    const wrap = q.type === "findPhoto" || q.type === "findSpecies" ? "grid"
+      : q.type === "findName" ? "answers names" : "answers";
     const prompt = el("div", { class: "prompt", tabIndex: -1 }, q.prompt);
     const card = el("section", { class: "question" },
       el("h1", { class: "sr-only" }, `Otázka ${game.asked} z ${game.total}`),
       prompt,
       q.highlight ? el("h2", {}, ...speciesName(q.target)) : null,
       q.statement ? el("div", { class: "statement" }, q.statement) : null,
-      q.photo && !textOnly ? photoEl(q.photo, "Fotka hledaného druhu", "single", failed) : null,
+      q.photo ? photoEl(q.photo, "Fotka hledaného druhu", "single", failed) : null,
       el("div", { class: wrap }, ...answers),
     );
     app.replaceChildren(bar(), card, game.kingdom.note ? el("p", { class: "note" }, game.kingdom.note) : "");
@@ -402,7 +398,7 @@
       }
       if (q.type === "findPhoto") button.append(el("span", {}, ...speciesName(option.species)));
     }
-    const shown = textOnly ? [] : q.photo ? [q.photo] : q.options.map((o) => o.photo).filter(Boolean);
+    const shown = q.photo ? [q.photo] : q.options.map((o) => o.photo).filter(Boolean);
     const fact = q.bonusFact;
     const lastOne = game.asked >= game.total;
     const lives = CONTINENTS.filter((c) => q.target.continents.includes(c.code)).map((c) => c.name).join(", ");
@@ -428,7 +424,7 @@
 
   function roundSummary() {
     return el("ul", { class: "summary" }, ...game.history.map(({ species, right }) => el("li", { class: right ? "good" : "bad" },
-      textOnly ? null : el("img", { src: species.photos[0].url, alt: "", onerror: (e) => e.target.remove() }),
+      el("img", { src: species.photos[0].url, alt: "", onerror: (e) => e.target.remove() }),
       el("span", { class: "who" },
         el("a", { href: species.wiki, target: "_blank", rel: "noopener" }, species.name),
         el("i", { class: "latin", lang: "la" }, species.latin)),
@@ -453,9 +449,9 @@
       el("p", { class: "lead" }, words[stars]),
       first,
       missed.size ? el("button", { class: "secondary", onclick: () => startGame(kingdom, { classSlug }) }, "Hrát znovu") : null,
-      level === "beginner" ? el("button", {
+      HARDER[level] ? el("button", {
         class: missed.size ? "secondary" : "primary",
-        onclick: () => { level = "expert"; startGame(kingdom, { classSlug }); },
+        onclick: () => { level = HARDER[level]; startGame(kingdom, { classSlug }); },
       }, "Hrát znovu s vyšší obtížností") : null,
       el("button", { class: missed.size ? "secondary" : "primary", onclick: showHome }, "Zpět na výběr"),
       el("h2", {}, "Druhy z tohoto kola"),

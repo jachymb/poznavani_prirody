@@ -4,9 +4,9 @@ Přírodovědný kvíz pro děti od 10 let. Učí poznávat živočichy, rostlin
 
 ## Hraní
 
-Otevři `game/index.html` v prohlížeči, server není potřeba. Fotky se načítají z Wikimedia Commons, takže je potřeba internet. Bez něj lze hrát v režimu Bez fotek.
+Otevři `game/index.html` v prohlížeči, server není potřeba. Fotky se načítají z Wikimedia Commons, takže je potřeba internet.
 
-- **Výběr:** říše, kontinenty na mapě a obtížnost. Začátečník dostává známější a odlišnější druhy, Znalec všechny druhy a jejich blízké příbuzné.
+- **Výběr:** říše, kontinenty na mapě a obtížnost. Začátečník dostává nejznámější druhy a špatné odpovědi z jiných řádů, Pokročilý (výchozí) známější a odlišnější druhy, Znalec všechny druhy a jejich blízké příbuzné.
 - **Otázky:** najít druh na fotkách, určit druh na fotce, vybrat větu, která pro druh platí, a vybrat druh, pro který věta platí.
 - **Po odpovědi:** vyhodnocení, zajímavost, kontinenty výskytu, odkaz na Wikipedii a autor fotky.
 - **Na konci kola:** přehled druhů a možnost zopakovat si chyby.

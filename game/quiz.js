@@ -1,7 +1,7 @@
 // Losování otázek z databáze (game/data.js). Bez závislosti na stránce, aby šlo ověřit přes quiz_check.js.
 (function () {
-  const BEGINNER_SHARE = 0.25;
-  const BEGINNER_MIN = 12;
+  // Jaký díl nejznámějších druhů každé třídy se hraje a kolik druhů nejméně. Znalec hraje se všemi.
+  const LEVEL_POOLS = { beginner: { share: 0.05, min: 8 }, advanced: { share: 0.25, min: 12 } };
   // Tvrzení jen o období kvetení, růstu nebo o velikosti: pravdivá, ale špatně se pamatují a dítě je může jen hádat.
   const DULL = /^(tento druh )?((kvete|roste|vyrůstá|se objevuje|objevuje se|plodnice rost[eo]u?)\b.* (ledn|lede|únor|březn|břez|dubn|dube|květn|květe|červn|červe|srpn|srpe|září|říjn|říje|listop|prosin|jaře|létě|podzim)|(dorůstá|dosahuje|měří|má klobouk|klobouk měří|může dorůst)\b)/i;
   const DULL_WEIGHT = 0.15;
@@ -49,14 +49,16 @@
 
   // Jak daleko je druh od hledaného: čeleď, řád, zbytek třídy.
   const distance = (target, s) => (target.family && s.family === target.family ? 0 : target.order && s.order === target.order ? 1 : 2);
+  // Pořadí, v jakém se špatné odpovědi berou: obvykle od nejbližších, začátečník od nejvzdálenějších.
+  const closeness = (target, s, level) => (level === "beginner" ? 2 - distance(target, s) : distance(target, s));
   // „K hejnům jiných hus“: věta sama říká, že je o někom jiném, než je hledaný druh.
   const OTHER_SPECIES = /(?<!\p{L})jin(ý|á|é|í|ých|ým|ými|ou|ého|ému)(?!\p{L})/iu;
 
   // Člověk je vzácný vtípek: smí být jen hledaným druhem, ne špatnou odpovědí u opic a lidoopů.
   const notEgg = (s) => !s.egg;
 
-  // Znalec: nejbližší příbuzní (čeleď, řád, třída). Začátečník: stejný řád, ale jiná čeleď, druhy se liší víc.
-  function relatives(target, classmates, count, easy) {
+  // Znalec: nejbližší příbuzní (čeleď, řád, třída). Pokročilý: stejný řád, ale jiná čeleď. Začátečník: jiný řád, druhy se liší nejvíc.
+  function relatives(target, classmates, count, level) {
     const out = [];
     const names = new Set([target.name]);
     const add = (group) => {
@@ -70,17 +72,19 @@
     const inFamily = (s) => target.family && s.family === target.family;
     const inOrder = (s) => target.order && s.order === target.order;
     const others = classmates.filter(notEgg);
-    const groups = easy
-      ? [others.filter((s) => inOrder(s) && !inFamily(s)), others.filter((s) => !inFamily(s)), others]
-      : [others.filter(inFamily), others.filter(inOrder), others];
-    groups.forEach(add);
+    const groups = {
+      beginner: [others.filter((s) => !inOrder(s)), others.filter((s) => !inFamily(s)), others],
+      advanced: [others.filter((s) => inOrder(s) && !inFamily(s)), others.filter((s) => !inFamily(s)), others],
+      expert: [others.filter(inFamily), others.filter(inOrder), others],
+    };
+    groups[level].forEach(add);
     return out.length === count ? out : null;
   }
 
   const withPhoto = (s) => ({ species: s, photo: pick(s.photos) });
 
-  function photoQuestion(target, classmates, easy) {
-    const others = relatives(target, classmates, 3, easy);
+  function photoQuestion(target, classmates, level) {
+    const others = relatives(target, classmates, 3, level);
     if (!others) return null;
     return {
       type: "findPhoto",
@@ -90,8 +94,8 @@
     };
   }
 
-  function nameQuestion(target, classmates, easy) {
-    const others = relatives(target, classmates, 3, easy);
+  function nameQuestion(target, classmates, level) {
+    const others = relatives(target, classmates, 3, level);
     if (!others) return null;
     return {
       type: "findName",
@@ -102,15 +106,15 @@
   }
 
   // Správné tvrzení + tři tvrzení o jiných druzích, o kterých víme, že pro cílový druh neplatí.
-  function factQuestion(target, classmates) {
+  function factQuestion(target, classmates, level) {
     if (!target.facts.length) return null;
     const correct = pickFact(target.facts);
     const wrong = shuffle(classmates.flatMap((s) =>
       s === target ? [] : s.facts
         .filter((f) => f.not.includes(target.id) && f.text !== correct.text && !mentions(f.text, target) && !OTHER_SPECIES.test(f.text))
         .map((f) => [f, s])));
-    // Věta o příbuzném se nedá vyloučit jen podle toho, že mluví o úplně jiném zvířeti nebo rostlině.
-    const order = ([f, s]) => distance(target, s) * 10 + (f.cat === correct.cat ? 0 : 1) + (isDull(f) ? 2 : 0);
+    // Věta o příbuzném se nedá vyloučit jen podle toho, že mluví o úplně jiném zvířeti nebo rostlině. Začátečníkovi to naopak pomůže.
+    const order = ([f, s]) => closeness(target, s, level) * 10 + (f.cat === correct.cat ? 0 : 1) + (isDull(f) ? 2 : 0);
     const distractors = [];
     for (const [f] of wrong.sort((a, b) => order(a) - order(b))) {
       if (distractors.length === 3) break;
@@ -131,7 +135,7 @@
   }
 
   // Tvrzení a čtyři druhy, z nichž pro tři je jisté, že pro ně neplatí.
-  function speciesQuestion(target, classmates) {
+  function speciesQuestion(target, classmates, level) {
     const facts = target.facts.filter((f) => f.not.length >= 3);
     if (!facts.length) return null;
     const fact = pickFact(facts);
@@ -139,7 +143,7 @@
     const others = [];
     const names = new Set([target.name]);
     const candidates = shuffle(fact.not.map((id) => byId.get(id)).filter((s) => s && notEgg(s) && !mentions(fact.text, s)));
-    for (const s of candidates.sort((a, b) => distance(target, a) - distance(target, b))) {
+    for (const s of candidates.sort((a, b) => closeness(target, a, level) - closeness(target, b, level))) {
       if (others.length < 3 && !names.has(s.name)) {
         names.add(s.name);
         others.push(s);
@@ -156,12 +160,10 @@
   }
 
   const MAKERS = [photoQuestion, nameQuestion, factQuestion, speciesQuestion];
-  const TEXT_MAKERS = [factQuestion, speciesQuestion];
 
   // classes: třídy jedné říše. skip: id druhů, které už v kole byly. only: jen tyto cílové druhy (opakování chyb).
-  // easy: začátečnická volba možností. textOnly: jen otázky, které jdou hrát bez fotek.
-  function makeQuestion(classes, { skip = new Set(), only = null, easy = false, textOnly = false } = {}) {
-    const makers = textOnly ? TEXT_MAKERS : MAKERS;
+  // level: beginner, advanced nebo expert určuje, z jak blízkých druhů jsou špatné odpovědi.
+  function makeQuestion(classes, { skip = new Set(), only = null, level = "expert" } = {}) {
     const all = classes.flatMap((c) => c.species.map((s) => [s, c.species]))
       .filter(([s]) => !only || only.has(s.id));
     const fresh = all.filter(([s]) => !skip.has(s.id));
@@ -172,13 +174,15 @@
         // brání velkým třídám vytlačit malé; 1/ln n má téměř nulový účinek, plná rovnost by malé třídy pořád opakovala.
         const [target, classmates] = pickWeighted(pool, ([s, mates]) => (1 + (s.pop || 0)) / Math.sqrt(mates.length));
         // Druh s užší skupinou (savci) zkusí všechny typy otázek nejdřív v ní, pak v řádu a až nakonec v celé třídě.
+        // Začátečník užší skupinu přeskočí, ale kočka vedle delfína by byla moc snadná i pro něj: začíná v řádu.
+        const scopes = [(s) => s.order === target.order, () => true];
+        if (level !== "beginner") scopes.unshift((s) => s.peers === target.peers);
         const attempts = target.peers
-          ? [(s) => s.peers === target.peers, (s) => s.order === target.order, () => true].flatMap((inScope) =>
-            shuffle(makers).map((make) => [make, classmates.filter(inScope)]))
-          : [[pick(makers), classmates]];
+          ? scopes.flatMap((inScope) => shuffle(MAKERS).map((make) => [make, classmates.filter(inScope)]))
+          : [[pick(MAKERS), classmates]];
         let q = null;
         for (const [make, scope] of attempts) {
-          q = make(target, scope, easy);
+          q = make(target, scope, level);
           if (q) break;
         }
         if (!q) continue;
@@ -200,12 +204,14 @@
     species: c.species.filter((s) => s.continents.some((code) => selected.has(code))),
   }));
 
-  // Pro začátečníka nejznámější čtvrtina každé třídy (a vzácný vtípek, ten má vlastní nízkou váhu).
-  const popularOnly = (classes) => classes.map((c) => {
-    const limit = Math.max(BEGINNER_MIN, Math.ceil(c.species.length * BEGINNER_SHARE));
+  // Nejznámější druhy každé třídy podle úrovně (a vzácný vtípek, ten má vlastní nízkou váhu).
+  const atLevel = (classes, level) => classes.map((c) => {
+    const pool = LEVEL_POOLS[level];
+    if (!pool) return c;
+    const limit = Math.max(pool.min, Math.ceil(c.species.length * pool.share));
     const known = [...c.species].sort((a, b) => (b.pop || 0) - (a.pop || 0)).slice(0, limit);
     return { ...c, species: [...new Set([...known, ...c.species.filter((s) => s.egg)])] };
   });
 
-  window.Quiz = { makeQuestion, isCorrect, inContinents, popularOnly, tooSimilar, isDull, mentions, OTHER_SPECIES, MAKERS };
+  window.Quiz = { makeQuestion, isCorrect, inContinents, atLevel, tooSimilar, isDull, mentions, OTHER_SPECIES, MAKERS };
 })();
