@@ -19,7 +19,7 @@ Celá hra v jednom souboru, který jde poslat dál, je `dist/poznavani_prirody.h
 |---|---|
 | `game/index.html` | rozhraní hry |
 | `game/quiz.js` | losování otázek |
-| `game/data.js` | vygenerovaná databáze druhů |
+| `game/data.js` | vygenerovaná databáze druhů, odsazená pro ruční čtení (při kompilaci se odsazení odstraní); ruční úpravy přepíše další běh `pipeline.py`, trvalé opravy patří do `manual.json` v `data/` |
 | `game/map.js` | zjednodušená mapa kontinentů |
 | `game/quiz_check.js` | test losování nad skutečnou databází |
 | `pipeline.py` | příprava dat, jen standardní knihovna Pythonu |
@@ -46,7 +46,7 @@ Savci navíc procházejí negativním krokem vůči podobným druhům z užší 
 
 Každý krok zpracuje jen to, co ještě neprošlo. `python pipeline.py next <počet>` vypíše další dávku úloh a řeší přechody mezi kroky. Když už není co dělat, složí `game/data.js`. `python pipeline.py todo <skupina>` ukáže, co ve skupině chybí.
 
-Kroky 2 až 7 kromě hledání fotek provádějí subagenti Claude Code přes lokální workflow, které není součástí repozitáře. Stejně tak v něm nejsou stažená data z adresáře `data/`, takže samotný `pipeline.py` databázi znovu nevytvoří.
+Kroky 2 až 7 kromě hledání fotek provádějí subagenti Claude Code přes workflow `.claude/workflows/poznavani-prirody.js` (argumenty jsou výstup `pipeline.py next`). Mezivýsledky všech kroků jsou v `data/`. Chybí jen náhledy fotek pro kontrolu subagenty (`data/*/thumbs/`, 6,5 GB), které se do GitHubu nevejdou; adresy originálů jsou v `species.json`.
 
 ## Zásady obsahu
 

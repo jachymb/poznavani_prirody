@@ -1149,7 +1149,8 @@ def write_game_data():
         for s in group["species"]:
             s["emoji"] = species_emoji(group["slug"], s)
     classes = [g for g in [*groups.values(), *others.values()] if len(g["species"]) >= MIN_CLASS_SPECIES]
-    (ROOT / "game" / "data.js").write_text("window.GAME_DATA = " + json.dumps(classes, ensure_ascii=False) + ";\n", encoding="utf-8")
+    # odsazené kvůli ručnímu čtení a čitelným rozdílům v gitu, build.js odsazení při kompilaci odstraní
+    (ROOT / "game" / "data.js").write_text("window.GAME_DATA = " + json.dumps(classes, ensure_ascii=False, indent=2) + ";\n", encoding="utf-8")
 
 
 if __name__ == "__main__":

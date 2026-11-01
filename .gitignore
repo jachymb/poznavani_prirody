@@ -1,5 +1,11 @@
-data/
+# Náhledy fotek pro kontrolu subagenty: 6,5 GB, nevejdou se do GitHubu. Adresy originálů jsou v species.json.
+data/*/thumbs/
+# rozpracované soubory pipeline
+*.tmp
+*.partial.json
 poznavani_prirody.md
-.claude/
+# z .claude/ patří do gitu jen workflow, místní nastavení ne
+.claude/*
+!.claude/workflows/
 __pycache__/
 node_modules/
