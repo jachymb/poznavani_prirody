@@ -1,0 +1,4 @@
+#!/bin/sh
+# Před každým commitem složí hru do dist/poznavani_prirody.html a přidá ji do commitu.
+# Zapnutí v novém klonu: npm install && git config core.hooksPath .githooks
+node build.js && git add dist/poznavani_prirody.html

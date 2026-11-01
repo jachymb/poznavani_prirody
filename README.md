@@ -6,6 +6,8 @@ Přírodovědný kvíz pro děti od 10 let. Učí poznávat živočichy, rostlin
 
 Otevři `game/index.html` v prohlížeči, server není potřeba. Fotky se načítají z Wikimedia Commons, takže je potřeba internet.
 
+Celá hra v jednom souboru, který jde poslat dál, je `dist/poznavani_prirody.html`. Skládá ho `node build.js` (skripty a data vloží do stránky a zhustí přes esbuild) a pre-commit hook ho před každým commitem přestaví a přidá. V novém klonu je jednou potřeba `npm install && git config core.hooksPath .githooks`.
+
 - **Výběr:** říše, kontinenty na mapě a obtížnost. Začátečník dostává nejznámější druhy a špatné odpovědi z jiných řádů, Pokročilý (výchozí) známější a odlišnější druhy, Znalec všechny druhy a jejich blízké příbuzné.
 - **Otázky:** najít druh na fotkách, určit druh na fotce, vybrat větu, která pro druh platí, a vybrat druh, pro který věta platí.
 - **Po odpovědi:** vyhodnocení, zajímavost, kontinenty výskytu, odkaz na Wikipedii a autor fotky.
@@ -21,6 +23,8 @@ Otevři `game/index.html` v prohlížeči, server není potřeba. Fotky se nač�
 | `game/map.js` | zjednodušená mapa kontinentů |
 | `game/quiz_check.js` | test losování nad skutečnou databází |
 | `pipeline.py` | příprava dat, jen standardní knihovna Pythonu |
+| `species_emoji.py` | emoji druhu pro oslavu správné odpovědi (podle rodu, čeledi, řádu) |
+| `build.js`, `.githooks/pre-commit` | složení hry do `dist/poznavani_prirody.html` |
 
 Test: `node game/quiz_check.js`
 
