@@ -112,10 +112,10 @@
     88% { opacity: 1; }
     100% { transform: translate(var(--sway), 120vh) rotate(var(--spin)); opacity: 0; }
   }
-  .stars.perfect span { display: inline-block; animation: hop .7s ease-out var(--delay) 3 both; }
+  .stars.perfect span { display: inline-block; animation: hop .8s ease-out var(--delay) 5 both; }
   @keyframes hop {
     0%, 100% { transform: translateY(0) scale(1); }
-    40% { transform: translateY(-16px) scale(1.25); }
+    40% { transform: translateY(-22px) scale(1.4); }
   }
   /* Malá oslava správné odpovědi: z vybrané odpovědi vyletí 🎉, ⭐ a emoji druhu. */
   .burst { position: fixed; inset: 0; overflow: hidden; pointer-events: none; z-index: 10; }
@@ -484,11 +484,6 @@
       el("span", { class: "mark", ariaLabel: right ? "správně" : "špatně" }, right ? "✅" : "❌"))));
   }
 
-  const CELEBRATION = {
-    zivocichove: ["🦋", "🐞", "🐝", "🐦", "🌿", "⭐"],
-    rostliny: ["🌸", "🌻", "🌷", "🍃", "🌿", "⭐"],
-    houby: ["🍄", "🍄‍🟫", "🍂", "🍃", "🌿", "⭐"],
-  };
   const random = (from, to) => from + Math.random() * (to - from);
   const piece = (text, vars) => {
     const span = el("span", {}, text);
@@ -509,15 +504,16 @@
     setTimeout(() => overlay.remove(), 3000);
   }
 
-  function celebration(kingdomId) {
+  // Snáší se emoji všech druhů z kola, dokola, aby jich bylo dost; mezi nimi 🎉 a ⭐.
+  function celebration(emojis) {
+    const icons = [...new Set(emojis), "🎉", "⭐"];
     // Na telefonu by jich stejný počet zakryl text.
-    const pieces = Array.from({ length: Math.min(40, Math.round(window.innerWidth / 30)) }, () => piece(
-      CELEBRATION[kingdomId][Math.floor(Math.random() * 6)], {
-        "--x": `${random(0, 96)}%`, "--size": `${random(22, 42)}px`, "--time": `${random(3.5, 6)}s`,
-        "--delay": `${random(0, 2.5)}s`, "--sway": `${random(-60, 60)}px`, "--spin": `${random(-280, 280)}deg`,
-      }));
+    const pieces = Array.from({ length: Math.min(70, Math.round(window.innerWidth / 18)) }, (_, i) => piece(icons[i % icons.length], {
+      "--x": `${random(0, 94)}%`, "--size": `${random(30, 60)}px`, "--time": `${random(5, 8)}s`,
+      "--delay": `${random(0, 5)}s`, "--sway": `${random(-90, 90)}px`, "--spin": `${random(-360, 360)}deg`,
+    }));
     const overlay = el("div", { class: "celebration", ariaHidden: "true" }, ...pieces);
-    setTimeout(() => overlay.remove(), 9000);
+    setTimeout(() => overlay.remove(), 14000);
     return overlay;
   }
 
@@ -536,7 +532,7 @@
       ? el("button", { class: "primary", onclick: () => startGame(kingdom, { only: missed, classSlug }) }, `Zopakovat chyby (${missed.size})`)
       : el("button", { class: "primary", onclick: () => startGame(kingdom, { classSlug }) }, "Hrát znovu");
     app.replaceChildren(el("section", { class: "result" },
-      perfect ? celebration(kingdom.id) : null,
+      perfect ? celebration(game.history.map((h) => h.species.emoji)) : null,
       perfect
         ? el("div", { class: "stars perfect" }, ...[0, 0.15, 0.3].map((delay) => {
           const star = el("span", {}, "⭐");
