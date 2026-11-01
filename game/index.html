@@ -98,7 +98,6 @@
   .result .stars { font-size: 52px; line-height: 1.2; }
   .result .big { font-size: 42px; font-weight: 700; color: var(--brand); margin: 6px 0; }
   .result h2 { margin: 26px 0 10px; font-size: 22px; }
-  .result button.link { background: none; border: 0; margin-top: 12px; min-height: 44px; color: var(--soft); font-weight: 700; text-decoration: underline; }
   .summary { list-style: none; margin: 0; padding: 0; display: grid; gap: 8px; text-align: left; }
   .summary li { display: flex; align-items: center; gap: 12px; min-height: 64px; padding: 6px 12px 6px 6px; background: var(--card); border-left: 6px solid var(--good); border-radius: 12px; }
   .summary li.bad { border-left-color: var(--bad); background: var(--bad-bg); }
@@ -456,9 +455,9 @@
       el("p", { class: "lead" }, words[stars]),
       first,
       missed.size ? el("button", { class: "secondary", onclick: () => startGame(kingdom, { classSlug }) }, "Hrát znovu") : null,
+      el("button", { class: missed.size ? "secondary" : "primary", onclick: showHome }, "Zpět na výběr"),
       el("h2", {}, "Druhy z tohoto kola"),
       roundSummary(),
-      el("button", { class: "link", onclick: showHome }, "Zpět na výběr"),
     ));
     first.focus({ preventScroll: true });
     window.scrollTo(0, 0);

@@ -743,14 +743,19 @@ def build(slug):
             where[sid] = [c for c in CONTINENTS if c in codes]
     out = []
     known = json.loads((base / "sitelinks.json").read_text("utf-8")) if (base / "sitelinks.json").exists() else {}
+    # co ještě neprošlo přísnou kontrolou, je v built.json kvůli jejím úlohám, ale do hry nesmí
+    reviewed = set()
+    for job in (base / "review_jobs").glob("*.json"):
+        if (base / "review" / job.name).exists():
+            reviewed |= {item.get("id") or (item["species_id"], item["i"]) for item in read_json(job)}
     for sid in sorted(alive):
         sp, v = species[sid], facts[sid]
         texts = {}  # stejná věta může u druhu vzniknout dvakrát, stačí jednou
         for f in v["facts"]:
             if f["id"] not in bad:
                 texts.setdefault(plain_text(f["text"]), f)
-        kept = [{"id": f["id"], "text": text, "cat": f["category"], "not": sorted((false_for[f["id"]] & alive) - {sid})} for text, f in texts.items()]
-        photos = [{k: sp["photos"][i][k] for k in ("url", "page", "author", "license")} for i in v["photos"]]
+        kept = [{"id": f["id"], "text": text, "cat": f["category"], "not": sorted((false_for[f["id"]] & alive) - {sid}), "reviewed": f["id"] in reviewed} for text, f in texts.items()]
+        photos = [{**{k: sp["photos"][i][k] for k in ("url", "page", "author", "license")}, "reviewed": (sid, i) in reviewed} for i in v["photos"]]
         out.append({"id": sid, "name": sp["name"], "latin": sp["latin"], "family": sp["family"], "order": sp["order"],
                     "wiki": "https://cs.wikipedia.org/wiki/" + urllib.parse.quote(sp["title"].replace(" ", "_")),
                     "photos": photos, "facts": kept, "continents": where.get(sid, []), "pop": known.get(sid, 0)})
@@ -805,7 +810,9 @@ def write_game_data():
         if not file.exists():
             continue
         for s in json.loads(file.read_text("utf-8"))["species"]:
-            if s["continents"]:
+            s["facts"] = [f for f in s["facts"] if f.pop("reviewed", False)]
+            s["photos"] = [p for p in s["photos"] if p.pop("reviewed", False)]
+            if s["continents"] and s["photos"]:
                 own = set(roots.get(s["id"], []))
                 group = next((g for key, g in groups.items() if own & set(GAME_GROUPS[key][0].split())), others[kingdom])
                 group["species"].append(s)
