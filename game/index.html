@@ -259,9 +259,9 @@
     return el("fieldset", { class: "options" },
       el("legend", {}, "Úroveň obtížnosti"),
       el("div", { class: "chips" },
-        levelChoice("beginner", "Začátečník", "nejznámější a hodně odlišné druhy"),
-        levelChoice("advanced", "Pokročilý", "známější a odlišnější druhy"),
-        levelChoice("expert", "Znalec", "všechny druhy a blízcí příbuzní")));
+        levelChoice("beginner", "Začátečník", "jen nejznámější druhy, možnosti se hodně liší"),
+        levelChoice("advanced", "Pokročilý", "známé druhy, možnosti z příbuzných skupin"),
+        levelChoice("expert", "Znalec", "všechny druhy, možnosti z blízkých příbuzných")));
   }
 
   function showHome() {
