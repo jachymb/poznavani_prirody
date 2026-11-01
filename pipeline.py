@@ -14,6 +14,8 @@ from collections import Counter, defaultdict
 from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 
+from species_emoji import species_emoji
+
 ROOT = Path(__file__).parent
 ROOTS_FILE = ROOT / "data" / "species_roots.json"
 # Wikimedia dává bez kontaktu 10 požadavků za minutu, s kontaktem 200: nastav WIKIMEDIA_CONTACT
@@ -959,6 +961,9 @@ def write_game_data():
         s["peers"] = peer_group(s)
     if groups[EASTER_EGG["class"]]["species"]:
         add_easter_egg(groups[EASTER_EGG["class"]]["species"])
+    for group in [*groups.values(), *others.values()]:
+        for s in group["species"]:
+            s["emoji"] = species_emoji(group["slug"], s)
     classes = [g for g in [*groups.values(), *others.values()] if len(g["species"]) >= MIN_CLASS_SPECIES]
     (ROOT / "game" / "data.js").write_text("window.GAME_DATA = " + json.dumps(classes, ensure_ascii=False) + ";\n", encoding="utf-8")
 

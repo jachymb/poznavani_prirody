@@ -91,6 +91,11 @@ assert(classes.find((c) => c.slug === "ryby").species.some((s) => s.name === "Tr
 for (const [slug, name] of [["jednodelozne", "Kukuřice setá"], ["jednodelozne", "Kokosovník ořechoplodý"], ["dvoudelozne", "Rajče jedlé"], ["dvoudelozne", "Leknín bílý"]]) {
   assert(classes.find((c) => c.slug === slug).species.some((s) => s.name === name), `${name} patří do ${slug}`);
 }
+const emojiOf = (name) => classes.flatMap((c) => c.species).find((s) => s.name === name)?.emoji;
+assert(classes.every((c) => c.species.every((s) => s.emoji)), "každý druh má emoji pro oslavu");
+for (const [name, emoji] of [["Lev", "🦁"], ["Liška obecná", "🦊"], ["Kosatka dravá", "🫍"], ["Jabloň domácí", "🍎"], ["Muchomůrka zelená", "🍄"]]) {
+  assert.strictEqual(emojiOf(name), emoji, `${name} má emoji ${emoji}`);
+}
 for (const kingdom of ["zivocichove", "rostliny", "houby"]) {
   for (const level of ["beginner", "advanced", "expert"]) {
     const here = window.Quiz.atLevel(classes.filter((c) => c.kingdom === kingdom), level);

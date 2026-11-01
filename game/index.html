@@ -117,8 +117,19 @@
     0%, 100% { transform: translateY(0) scale(1); }
     40% { transform: translateY(-16px) scale(1.25); }
   }
+  /* Malá oslava správné odpovědi: z vybrané odpovědi vyletí 🎉, ⭐ a emoji druhu. */
+  .burst { position: fixed; inset: 0; overflow: hidden; pointer-events: none; z-index: 10; }
+  .burst span {
+    position: absolute; left: var(--x); top: var(--y); font-size: var(--size); opacity: 0;
+    animation: burst 1.1s ease-out var(--delay) forwards;
+  }
+  @keyframes burst {
+    0% { transform: translate(-50%, -50%) scale(.4); opacity: 0; }
+    20%, 70% { opacity: 1; }
+    100% { transform: translate(calc(-50% + var(--dx)), calc(-50% + var(--dy))) scale(1.3); opacity: 0; }
+  }
   @media (prefers-reduced-motion: reduce) {
-    .celebration { display: none; }
+    .celebration, .burst { display: none; }
     .stars.perfect span { animation: none; }
   }
   .summary { list-style: none; margin: 0; padding: 0; display: grid; gap: 8px; text-align: left; }
@@ -428,6 +439,7 @@
     game.photoFailures = 0;
     const right = window.Quiz.isCorrect(q, chosen);
     if (right) game.score++;
+    if (right) burst(answers.find((b) => b.option === chosen), q.target.emoji);
     game.history.push({ species: q.target, right });
     for (const button of answers) {
       const { option } = button;
@@ -478,18 +490,32 @@
     houby: ["🍄", "🍄‍🟫", "🍂", "🍃", "🌿", "⭐"],
   };
   const random = (from, to) => from + Math.random() * (to - from);
+  const piece = (text, vars) => {
+    const span = el("span", {}, text);
+    for (const [name, value] of Object.entries(vars)) span.style.setProperty(name, value);
+    return span;
+  };
+
+  function burst(button, emoji = "⭐") {
+    const { left, top, width, height } = button.getBoundingClientRect();
+    const at = { "--x": `${left + width / 2}px`, "--y": `${top + height / 2}px` };
+    const around = ["🎉", "⭐", emoji, "🎉", "⭐", emoji].map((icon, i) => {
+      const angle = (i / 6) * 2 * Math.PI + random(-0.3, 0.3), reach = random(60, 100);
+      return piece(icon, { ...at, "--size": "28px", "--dx": `${Math.cos(angle) * reach}px`, "--dy": `${Math.sin(angle) * reach}px`, "--delay": `${random(0, 0.15)}s` });
+    });
+    const overlay = el("div", { class: "burst", ariaHidden: "true" },
+      piece(emoji, { ...at, "--size": "46px", "--dx": "0px", "--dy": "-36px", "--delay": "0s" }), ...around);
+    document.body.append(overlay);
+    setTimeout(() => overlay.remove(), 1600);
+  }
 
   function celebration(kingdomId) {
     // Na telefonu by jich stejný počet zakryl text.
-    const pieces = Array.from({ length: Math.min(40, Math.round(window.innerWidth / 30)) }, () => {
-      const piece = el("span", {}, CELEBRATION[kingdomId][Math.floor(Math.random() * 6)]);
-      const style = {
+    const pieces = Array.from({ length: Math.min(40, Math.round(window.innerWidth / 30)) }, () => piece(
+      CELEBRATION[kingdomId][Math.floor(Math.random() * 6)], {
         "--x": `${random(0, 96)}%`, "--size": `${random(22, 42)}px`, "--time": `${random(3.5, 6)}s`,
         "--delay": `${random(0, 2.5)}s`, "--sway": `${random(-60, 60)}px`, "--spin": `${random(-280, 280)}deg`,
-      };
-      for (const [name, value] of Object.entries(style)) piece.style.setProperty(name, value);
-      return piece;
-    });
+      }));
     const overlay = el("div", { class: "celebration", ariaHidden: "true" }, ...pieces);
     setTimeout(() => overlay.remove(), 9000);
     return overlay;
