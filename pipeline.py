@@ -90,6 +90,34 @@ GAME_GROUPS = {
     "vreckovytrusne": ("Q843232 Q133607 Q133551 Q132180 Q132159 Q133144 Q5066753 Q10504037 Q133571", "Vřeckovýtrusé houby", "houby"),
 }
 OTHER_GROUPS = {"zivocichove": ("ostatni_zivocichove", "Ostatní živočichové"), "rostliny": ("ostatni_rostliny", "Ostatní rostliny"), "houby": ("ostatni_houby", "Ostatní houby")}
+# Savci jsou tak různorodí, že špatná odpověď z celé třídy (delfín u kočky) nic neprověří, proto se porovnávají v užší skupině.
+# Klíče jsou české názvy čeledí, nebo řádů, pokud se řád nedělí. Co tu není, tvoří skupinu podle svého řádu.
+MAMMAL_PEERS = {
+    "kytovci": ("narvalovití", "plejtvákovití", "delfínovití", "velrybovití", "Eschrichtiidae", "Iniovití", "delfínovcovití", "sviňuchovití", "vorvaňovcovití", "vorvaňovití"),
+    "přežvýkavci": ("turovití", "jelenovití", "daněk", "žirafovití", "vidlorohovití", "Kabar", "kančilovití"),
+    "kočkotvaré šelmy": ("kočkovití", "hyenovití", "promykovití", "cibetkovití", "madagaskarské šelmy", "Nandiniidae", "Prionodontidae"),
+    "psotvaré šelmy": ("psovití", "medvědovití", "lasicovití", "skunkovití", "medvídkovití", "Pandy malé"),
+    "ploutvonožci": ("tuleňovití", "lachtanovití", "mrožovití"),
+    "lidoopi": ("hominidé", "gibonovití"),
+    "opice Starého světa": ("kočkodanovití",),
+    "opice Nového světa": ("chvostanovití", "chápanovití", "kosmanovití", "malpovití", "ksukolovití", "Aotidae"),
+    "poloopice": ("outloňovití", "kombovití", "lemurovití denní", "indriovití", "makiovití", "nártounovití", "Lepilemuridae"),
+    "myšovci": ("myšovití", "křečkovití", "křečkovití afričtí", "tarbíkovití", "Sminthidae", "Bobruškovití"),
+    "veverkovci a bobři": ("veverkovití", "plchovití", "bobrovití", "pytloušovití"),
+    "dikobrazovci": ("činčilovití", "morčatovití", "dikobrazovití", "korovití", "rypošovití", "osmákovití", "pakaranovití", "Agutiovití", "skalní krysy", "urzonovití", "Diatomyidae"),
+    "klokani": ("klokanovití", "klokánkovití"),
+    "ostatní vačnatci a ptakořitní": ("dvojitozubci", "vačice", "kunovci", "bandikuti", "Paucituberculata", "ptakořitní"),
+    "afrotérie": ("chobotnatci", "sirény", "damani", "hrabáči", "afrosoricidi", "bércouni"),
+    "chudozubí a luskouni": ("pásovci", "Pilosa", "luskouni"),
+    "hmyzožravci a tany": ("Eulipotyphla", "Erinaceomorpha", "hmyzožravci", "tany", "letuchy"),
+}
+PEER_OF = {label: group for group, labels in MAMMAL_PEERS.items() for label in labels}
+
+
+def peer_group(sp):
+    return PEER_OF.get(sp["family"]) or PEER_OF.get(sp["order"]) or sp["order"]
+
+
 EXCLUDE = ("Homo ",)  # rod člověk: fotky lidí do hádání druhů nepatří; výjimkou je ruční EASTER_EGG
 # Vzácný vtípek: člověk jako jeden ze savců, s tvrzeními, která by platila i pro jiná zvířata.
 # Váha losování je 1 (pop 0). "not": savci, pro které tvrzení jistě neplatí.
@@ -465,6 +493,11 @@ def class_batch(slug, limit):
     if stale:
         popularity(slug)
         build(slug)
+        if slug == "savci":
+            sync_peer_negatives(slug)
+            found = batch("negatives")
+            if found:
+                return found
         sync_review(slug)
     found = batch("review")
     if found:
@@ -594,6 +627,17 @@ def jobs_in(jobs_dir):
     return [read_json(j) for j in sorted(jobs_dir.glob("*.json"))]
 
 
+def write_neg_job(file, chunk, cand, species, facts, articles):
+    profiles = {}
+    for s in cand:
+        lead = (articles / f"{s}.txt").read_text("utf-8").split("\n---\n", 1)[1][:500]
+        profiles[s] = {"name": species[s]["name"], "latin": species[s]["latin"], "family": species[s]["family"], "lead": lead,
+                       "facts": [f["text"] for f in facts[s]["facts"]]}
+    job = {"facts": [{"id": f["id"], "species": species[f["id"].split("#")[0]]["name"], "text": f["text"], "quote": f["quote"]} for f in chunk],
+           "candidates": profiles}
+    file.write_text(json.dumps(job, ensure_ascii=False, indent=1), encoding="utf-8")
+
+
 def sync_negatives(slug, batch=20, candidates=12):
     """Úlohy pro tvrzení, která negativním krokem ještě neprošla."""
     base, _, articles, _, _, jobs_dir, _ = paths(slug)
@@ -626,16 +670,37 @@ def sync_negatives(slug, batch=20, candidates=12):
             cand = pick(members, candidates * 2 // 3, owners)
             cand += pick(list(usable), candidates - len(cand), owners | set(cand))
             used.update(cand)
-            profiles = {}
-            for s in cand:
-                lead = (articles / f"{s}.txt").read_text("utf-8").split("\n---\n", 1)[1][:500]
-                profiles[s] = {"name": species[s]["name"], "latin": species[s]["latin"], "family": species[s]["family"], "lead": lead,
-                               "facts": [f["text"] for f in usable[s]["facts"]]}
-            job = {"facts": [{"id": f["id"], "species": species[f["id"].split("#")[0]]["name"], "text": f["text"], "quote": f["quote"]} for f in chunk],
-                   "candidates": profiles}
-            (jobs_dir / f"{n:04}.json").write_text(json.dumps(job, ensure_ascii=False, indent=1), encoding="utf-8")
+            write_neg_job(jobs_dir / f"{n:04}.json", chunk, cand, species, usable, articles)
             n += 1
     print(f"Nových úloh negativního kroku: {n - first}")
+
+
+def sync_peer_negatives(slug, batch=20, candidates=12):
+    """Tvrzení ze hry posoudí ještě vůči druhům z užší skupiny, ať má hra špatné odpovědi z podobných zvířat."""
+    base, _, articles, _, _, jobs_dir, _ = paths(slug)
+    species, facts, _ = load_facts(slug)
+    built = json.loads((base / "built.json").read_text("utf-8"))["species"]
+    covered = {f["id"] for job in jobs_dir.glob("peer_*.json") for f in read_json(job)["facts"]}
+    rng = random.Random(slug)
+    members = defaultdict(list)
+    for s in built:
+        members[peer_group(s)].append(s)
+    used = Counter()
+    n = next_job_number(jobs_dir, "peer_")
+    first = n
+    for group in sorted(members):
+        ids = [s["id"] for s in members[group]]
+        kept = {f["id"] for s in members[group] for f in s["facts"]} - covered
+        chunks = [f for sid in ids for f in facts[sid]["facts"] if f["id"] in kept]
+        rng.shuffle(chunks)
+        for i in range(0, len(chunks), batch):
+            pool = ids[:]
+            rng.shuffle(pool)
+            cand = sorted(pool, key=lambda s: used[s])[:candidates]  # vlastní druh tvrzení vyloučí build
+            used.update(cand)
+            write_neg_job(jobs_dir / f"peer_{n:04}.json", chunks[i:i + batch], cand, species, facts, articles)
+            n += 1
+    print(f"Nových úloh užší skupiny: {n - first}")
 
 
 def sync_review(slug, fact_batch=40, photo_batch=30):
@@ -649,12 +714,16 @@ def sync_review(slug, fact_batch=40, photo_batch=30):
     done = [item for job in jobs_in(jobs_dir) for item in job]
     done_facts = {item["id"] for item in done if "id" in item}
     done_photos = {(item["species_id"], item["i"]) for item in done if "species_id" in item}
+    done_pairs = {(item["id"], q) for item in done if "id" in item for q in item["claimed_false_for"]}
     quotes = {f["id"]: f["quote"] for v in facts.values() for f in v["facts"]}
-    fact_items = [
-        {"id": f["id"], "species": s["name"], "latin": s["latin"], "text": f["text"], "quote": quotes[f["id"]],
-         "claimed_false_for": {q: f"{built[q]['name']} ({built[q]['latin']})" for q in f["not"]}}
-        for s in built.values() for f in s["facts"] if f["id"] not in done_facts
-    ]
+    fact_items = []
+    for s in built.values():
+        for f in s["facts"]:
+            # zkontrolované tvrzení se vrací jen kvůli párům, které přibyly
+            pairs = [q for q in f["not"] if (f["id"], q) not in done_pairs]
+            if f["id"] not in done_facts or pairs:
+                fact_items.append({"id": f["id"], "species": s["name"], "latin": s["latin"], "text": f["text"], "quote": quotes[f["id"]],
+                                   "claimed_false_for": {q: f"{built[q]['name']} ({built[q]['latin']})" for q in pairs}})
     photo_items = [
         {"species_id": sid, "i": i, "species": built[sid]["name"], "latin": built[sid]["latin"], "file": species[sid]["photos"][i]["file"],
          "desc": species[sid]["photos"][i]["desc"], "image": f"data/{slug}/thumbs/{sid}_{i}.jpg"}
@@ -720,7 +789,7 @@ def build(slug):
     for file in sorted(neg_dir.glob("*.json")):
         for r in read_json(file)["results"]:
             false_for[r["id"]] |= set(r.get("false_for", []))
-            if r.get("bad"):
+            if r.get("bad") and not file.stem.startswith("peer_"):  # kvalitu tvrzení už posoudil první průchod
                 bad[r["id"]] = r.get("why", "")
     unreviewed = [f["id"] for v in facts.values() if v["photos"] for f in v["facts"] if f["id"] not in false_for]
     print("Zahozeno krokem 1:", dict(dropped), "\nZahozeno kontrolou v kroku 2:", len(bad), "\nBez kontroly (zahozeno):", len(unreviewed))
@@ -828,6 +897,8 @@ def write_game_data():
         if len(group["species"]) < MIN_CLASS_SPECIES:
             others[group["kingdom"]]["species"] += group["species"]
             group["species"] = []
+    for s in groups["savci"]["species"]:
+        s["peers"] = peer_group(s)
     if groups[EASTER_EGG["class"]]["species"]:
         add_easter_egg(groups[EASTER_EGG["class"]]["species"])
     classes = [g for g in [*groups.values(), *others.values()] if len(g["species"]) >= MIN_CLASS_SPECIES]

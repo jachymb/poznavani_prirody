@@ -154,7 +154,16 @@
         // Známější druhy (článek ve více jazycích) se losují častěji. Dělení odmocninou z velikosti třídy
         // brání velkým třídám vytlačit malé; 1/ln n má téměř nulový účinek, plná rovnost by malé třídy pořád opakovala.
         const [target, classmates] = pickWeighted(pool, ([s, mates]) => (1 + (s.pop || 0)) / Math.sqrt(mates.length));
-        const q = pick(makers)(target, classmates, easy);
+        // Druh s užší skupinou (savci) zkusí všechny typy otázek nejdřív v ní, pak v řádu a až nakonec v celé třídě.
+        const attempts = target.peers
+          ? [(s) => s.peers === target.peers, (s) => s.order === target.order, () => true].flatMap((inScope) =>
+            shuffle(makers).map((make) => [make, classmates.filter(inScope)]))
+          : [[pick(makers), classmates]];
+        let q = null;
+        for (const [make, scope] of attempts) {
+          q = make(target, scope, easy);
+          if (q) break;
+        }
         if (!q) continue;
         const other = target.facts.filter((f) => f !== q.shownFact);
         q.target = target;

@@ -56,6 +56,13 @@ assert(window.Quiz.isDull({ text: "Kvete od června do srpna." }) && !window.Qui
   assert.strictEqual(counts.distractor, 0, "člověk není špatná odpověď");
   assert(counts.human < 60, `člověk má být vzácný, vyšel ${counts.human}× z 60000`);
   console.log("člověk jako cíl:", counts.human, "z 60000 otázek o savcích");
+  const groupSize = (s) => mammals.species.filter((x) => x.peers === s.peers).length;
+  for (let i = 0; i < 5000; i++) {
+    const q = window.Quiz.makeQuestion([mammals]);
+    if (!q.target.peers || groupSize(q.target) < 4 || q.type === "findFact") continue;
+    if (q.type === "findSpecies") continue;
+    assert(q.options.every((o) => o.species.peers === q.target.peers), "fotky savců jsou z jeho užší skupiny");
+  }
 }
 for (const cls of classes) {
   assert(cls.species.every((s) => s.latin), "každý druh má latinský název");
