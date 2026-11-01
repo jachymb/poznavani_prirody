@@ -185,9 +185,8 @@
       for (const make of shuffle(MAKERS)) {
         for (let step = 0; step < SCOPE_STEPS; step++) {
           for (let tries = 0; tries < TARGET_TRIES; tries++) {
-            // Známější druhy (článek ve více jazycích) se losují častěji. Dělení odmocninou z velikosti třídy
-            // brání velkým třídám vytlačit malé; 1/ln n má téměř nulový účinek, plná rovnost by malé třídy pořád opakovala.
-            const [target, , classmates] = pickWeighted(pool, ([s, known]) => (1 + (s.pop || 0)) / Math.sqrt(known.length));
+            // Známost i velikost třídy tlumí odmocnina: nejznámější druhy se neopakují pořád a velké třídy nevytlačí malé.
+            const [target, , classmates] = pickWeighted(pool, ([s, known]) => Math.sqrt((1 + (s.pop || 0)) / known.length));
             // Úroveň zužuje jen hledané druhy. Špatné odpovědi jsou z celé třídy, vybrané podle stejných pravidel příbuznosti.
             const q = make(target, classmates.filter(scopeOf(target, step, level)), level);
             if (!q) continue;

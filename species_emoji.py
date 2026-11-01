@@ -135,7 +135,7 @@ RULES = {
         (order("štíři", "štírci"), "🦂"), (ANY, "🕷️"),
     ],
     "korysi": [
-        (name("Rak|Humr"), "🦞"), (name("Krab"), "🦀"), (name("Vilejš"), "🐚"), (order("stejnonožci"), "🪲"), (ANY, "🦐"),
+        (name("Rak|Humr"), "🦞"), (name("Krab"), "🦀"), (name("Vilejš|Coronula"), "🐚"), (order("stejnonožci"), "🪲"), (ANY, "🦐"),
     ],
     "nahosemenne": [
         (order("cykasotvaré"), "🌴"), (order("jinanotvaré"), "🌳"),

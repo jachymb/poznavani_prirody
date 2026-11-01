@@ -78,10 +78,12 @@
   .tile { position: relative; padding: 0; overflow: hidden; text-align: center; }
   .tile .mark { position: absolute; top: 6px; right: 6px; margin: 0; padding: 2px 5px; background: var(--card); border-radius: 10px; }
   .tile img { display: block; width: 100%; aspect-ratio: 4 / 3; object-fit: contain; background: #eef2e6; }
-  .tile span { display: block; padding: 8px; font-size: 16px; }
+  .tile span { display: block; padding: 8px; font-size: 16px; user-select: text; -webkit-user-select: text; cursor: text; }
+  .tile .latin { display: block; }
+  .result .settings { margin: -4px 0 18px; font-size: 15px; color: var(--soft); }
   .answer.good { border-color: var(--good); background: var(--good-bg); }
   .answer.bad { border-color: var(--bad); background: var(--bad-bg); }
-  .answer .mark { float: right; margin-left: 8px; }
+  .answer .mark { float: right; margin-left: 8px; user-select: none; -webkit-user-select: none; }
   .answer.dim { opacity: .75; }
 
   .feedback { margin-top: 14px; padding: 14px 16px; border-radius: 16px; }
@@ -213,6 +215,13 @@
   let game = null;
   let level = "advanced";
   const HARDER = { beginner: "advanced", advanced: "expert" };
+  const LEVELS = {
+    beginner: ["Začátečník", "jen nejznámější druhy, možnosti se hodně liší"],
+    advanced: ["Pokročilý", "známé druhy, možnosti z příbuzných skupin"],
+    expert: ["Znalec", "všechny druhy, možnosti z blízkých příbuzných"],
+  };
+  const continentNames = (codes) => (codes.length === CONTINENTS.length ? "celý svět"
+    : CONTINENTS.filter((c) => codes.includes(c.code)).map((c) => c.name).join(", "));
 
   function el(tag, props = {}, ...children) {
     const node = document.createElement(tag);
@@ -301,7 +310,7 @@
   }
 
   function gameOptions(onChange) {
-    const levelChoice = (value, label, hint) => el("label", { class: "chip level" },
+    const levelChoice = ([value, [label, hint]]) => el("label", { class: "chip level" },
       el("input", {
         type: "radio",
         name: "level",
@@ -311,10 +320,7 @@
       el("span", {}, el("b", {}, label), el("small", {}, hint)));
     return el("fieldset", { class: "options" },
       el("legend", {}, "Úroveň obtížnosti"),
-      el("div", { class: "chips" },
-        levelChoice("beginner", "Začátečník", "jen nejznámější druhy, možnosti se hodně liší"),
-        levelChoice("advanced", "Pokročilý", "známé druhy, možnosti z příbuzných skupin"),
-        levelChoice("expert", "Znalec", "všechny druhy, možnosti z blízkých příbuzných")));
+      el("div", { class: "chips" }, ...Object.entries(LEVELS).map(levelChoice)));
   }
 
   function showHome() {
@@ -345,6 +351,7 @@
       kingdom,
       classSlug,
       classes,
+      settings: `Obtížnost: ${LEVELS[level][0]} · Kontinenty: ${continentNames([...selected])}`,
       only,
       // malá třída nemá dost druhů na celé kolo, ať se v něm neopakují
       total: only ? only.size : Math.min(ROUND, available),
@@ -368,7 +375,8 @@
   }
 
   const announce = (text) => { document.getElementById("announce").textContent = text; };
-  const speciesName = (s) => [s.name, " ", el("i", { class: "latin", lang: "la" }, s.latin)];
+  // Druh bez českého jména má jako jméno latinský název, ten se nemá opakovat.
+  const speciesName = (s) => (s.name === s.latin ? [el("i", { lang: "la" }, s.latin)] : [s.name, " ", el("i", { class: "latin", lang: "la" }, s.latin)]);
   const photoEl = (photo, alt, cls, onerror) => el("img", { src: photo.url, alt, className: cls || "", onerror });
 
   // Otázka s nenačtenou fotkou nejde poctivě hrát: vylosuje se jiná, opakovaně nabídneme nový pokus.
@@ -434,8 +442,8 @@
   }
 
   function answer(q, chosen, answers, card) {
-    // Dvojklik na „Další otázka“ nesmí rovnou odpovědět na novou otázku.
-    if (performance.now() - q.shownAt < 400 || q.done) return;
+    // Dvojklik na „Další otázka“ nesmí rovnou odpovědět na novou otázku. Tažení myší, které označí jméno druhu, není odpověď.
+    if (performance.now() - q.shownAt < 400 || q.done || String(window.getSelection())) return;
     q.done = true;
     game.photoFailures = 0;
     const right = window.Quiz.isCorrect(q, chosen);
@@ -481,7 +489,7 @@
       el("img", { src: species.photos[0].url, alt: "", onerror: (e) => e.target.remove() }),
       el("span", { class: "who" },
         el("a", { href: species.wiki, target: "_blank", rel: "noopener" }, species.name),
-        el("i", { class: "latin", lang: "la" }, species.latin)),
+        species.name !== species.latin ? el("i", { class: "latin", lang: "la" }, species.latin) : null),
       el("span", { class: "mark", ariaLabel: right ? "správně" : "špatně" }, right ? "✅" : "❌"))));
   }
 
@@ -543,6 +551,7 @@
         : el("div", { class: "stars" }, "⭐".repeat(stars) || "🌱"),
       el("h1", { class: "big" }, scoreText),
       el("p", { class: "lead" }, perfect ? `Bez jediné chyby! ${words[stars]}` : words[stars]),
+      el("p", { class: "settings" }, game.settings),
       first,
       missed.size ? el("button", { class: "secondary", onclick: () => startGame(kingdom, { classSlug }) }, "Hrát znovu") : null,
       HARDER[level] ? el("button", {

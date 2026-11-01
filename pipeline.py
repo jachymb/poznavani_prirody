@@ -118,6 +118,8 @@ def peer_group(sp):
 
 
 EXCLUDE = ("Homo ",)  # rod člověk: fotky lidí do hádání druhů nepatří; výjimkou je ruční EASTER_EGG
+# Druhy bez ustáleného českého jména (článek nese latinský název), které chceme i tak; ve hře mají jen latinské jméno.
+LATIN_ONLY = {"Q4302742"}  # Coronula diadema
 # Vzácný vtípek: člověk jako jeden ze savců, s tvrzeními, která by platila i pro jiná zvířata.
 # Váha losování je 1 (pop 0). "not": savci, pro které tvrzení jistě neplatí.
 # "false_for_human": existující tvrzení o jiných savcích, která pro člověka jistě neplatí, slouží jako špatné odpovědi.
@@ -157,7 +159,7 @@ MIN_CLASS_SPECIES = 4  # méně druhů nestačí na otázku se čtyřmi možnost
 BAD_FILE = re.compile(
     r"map|range|distribution|areal|rozsir|rozšíř|status|logo|icon|skull|lebk|skelet|skeleton|dead|killed|mrtv"
     r"|troph|stamp|známk|footprint|scat|illustration|drawing|painting|kresb|engraving|lithograph|fossil|herbar|herbář"
-    r"|\bplate\b|fmib|taxiderm|museum|denticule",
+    r"|\bplate\b|fmib|taxiderm|museum|denticule|mnhn|naturalis|specimen|holotyp|syntyp|lectotyp|paratyp",
     re.I,
 )
 # dítě nesmí ze hry odnést, že něco může jíst nebo se tím léčit
@@ -377,7 +379,7 @@ def fetch(slug):
             others |= set(json.loads(paths(other)[1].read_text("utf-8")))
     existing = json.loads(species_file.read_text("utf-8")) if species_file.exists() else {}
     listed = list_species(CLASSES[slug][0].split(), others | set(existing))
-    found = {k: v for k, v in listed.items() if not v["latin"].startswith(EXCLUDE) and v["title"] != v["latin"]}
+    found = {k: v for k, v in listed.items() if not v["latin"].startswith(EXCLUDE) and (v["title"] != v["latin"] or k in LATIN_ONLY)}
     print(f"Nových druhů s článkem (s českým názvem): {len(found)}", flush=True)
     # průběžný stav, ať přerušené stahování naváže; species.json se změní až po dokončení.
     # Už stažené druhy zůstávají beze změny, schválení fotek jsou indexy do jejich seznamu.

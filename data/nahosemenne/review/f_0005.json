@@ -1,0 +1,15 @@
+{"drop_facts": [
+ {"id": "Q139196#x1", "why": "nepřesné: masitý je obal semen, ne šištice"},
+ {"id": "Q3512326#x0", "why": "nepřímo prozrazuje název (trpasličí); superlativ sporný, Zamia není cykas v užším smyslu"},
+ {"id": "Q3512326#x1", "why": "posun významu: jen některé jedince citace uvádí 25 cm, ne celý druh; navíc napovídá název"},
+ {"id": "Q745425#x1", "why": "sporné: B. serrulata roste hlavně ve sklerofylních eukalyptových lesích, ne v tropickém deštném pralese"}
+],
+"drop_pairs": [
+ {"id": "Q139196#x0", "species": "Q162784"},
+ {"id": "Q139196#x3", "species": "Q134518"},
+ {"id": "Q161198#x0", "species": "Q72368"},
+ {"id": "Q3512326#x3", "species": "Q1054770"},
+ {"id": "Q3512326#x3", "species": "Q7202502"},
+ {"id": "Q72368#x0", "species": "Q1147303"},
+ {"id": "Q72368#x0", "species": "Q161198"}
+]}

@@ -1,0 +1,314 @@
+[
+ {
+  "id": "Q1054770#1",
+  "species": "Cykas Beddomeův",
+  "latin": "Cycas beddomei",
+  "text": "Tento druh je zapsán na seznamu CITES I, který kontroluje obchod s ohroženými druhy.",
+  "quote": "Druh Cycas beddomei je jako jediná cykasovitá rostlina zapsán na hlavním seznamu CITES I, který kontroluje obchod s ohroženými druhy",
+  "claimed_false_for": {
+   "Q3512326": "Zamie trpasličí (Zamia pygmaea)",
+   "Q745425": "Bowenie pilovitá (Bowenia serrulata)"
+  }
+ },
+ {
+  "id": "Q1147303#0",
+  "species": "Cykas Rumpfův",
+  "latin": "Cycas rumphii",
+  "text": "Dorůstá až do výšky 10 metrů.",
+  "quote": "Jedná se o velký cykas dorůstající až 10 m výšky.",
+  "claimed_false_for": {
+   "Q3512326": "Zamie trpasličí (Zamia pygmaea)",
+   "Q745425": "Bowenie pilovitá (Bowenia serrulata)"
+  }
+ },
+ {
+  "id": "Q1302103#0",
+  "species": "Bowenie obdivuhodná",
+  "latin": "Bowenia spectabilis",
+  "text": "Roste v tropickém dešťovém pralese v Austrálii.",
+  "quote": "v horkém vlhku tropického dešťového pralesa na stinných svazích a poblíž řek v nížinách",
+  "claimed_false_for": {
+   "Q150964": "Píchoš Lehmannův (Encephalartos lehmannii)",
+   "Q3512326": "Zamie trpasličí (Zamia pygmaea)"
+  }
+ },
+ {
+  "id": "Q134518#1",
+  "species": "Dión jedlý",
+  "latin": "Dioon edule",
+  "text": "Pochází z Mexika.",
+  "quote": "Pochází z Mexika",
+  "claimed_false_for": {
+   "Q150964": "Píchoš Lehmannův (Encephalartos lehmannii)",
+   "Q3512326": "Zamie trpasličí (Zamia pygmaea)",
+   "Q745425": "Bowenie pilovitá (Bowenia serrulata)"
+  }
+ },
+ {
+  "id": "Q139196#x0",
+  "species": "Píchoš hrozný",
+  "latin": "Encephalartos horridus",
+  "text": "Opyluje ho hmyz.",
+  "quote": "more commonly reproduction requires insect pollination",
+  "claimed_false_for": {
+   "Q162784": "Chvojník dvouklasý (Ephedra distachya)",
+   "Q43284": "Jinan dvoulaločný (Ginkgo biloba)"
+  }
+ },
+ {
+  "id": "Q139196#x1",
+  "species": "Píchoš hrozný",
+  "latin": "Encephalartos horridus",
+  "text": "Semena šíří zvířata, která jedí jeho masité šištice.",
+  "quote": "seeds are spread by animals that eat the fleshy cones",
+  "claimed_false_for": {
+   "Q156926": "Welwitschie podivná (Welwitschia mirabilis)"
+  }
+ },
+ {
+  "id": "Q139196#x3",
+  "species": "Píchoš hrozný",
+  "latin": "Encephalartos horridus",
+  "text": "Většina jeho kmene roste pod zemí.",
+  "quote": "with the majority of the stem growing below ground",
+  "claimed_false_for": {
+   "Q1063758": "Cykas Thouarsův (Cycas thouarsii)",
+   "Q1147303": "Cykas Rumpfův (Cycas rumphii)",
+   "Q134518": "Dión jedlý (Dioon edule)",
+   "Q144477": "Mikrocykas krásný (Microcycas calocoma)",
+   "Q149321": "Píchoš Altensteinův (Encephalartos altensteinii)",
+   "Q161517": "Cykas japonský (Cycas revoluta)",
+   "Q1989057": "Píchoš Woodův (Encephalartos woodii)",
+   "Q43284": "Jinan dvoulaločný (Ginkgo biloba)",
+   "Q72368": "Liánovec jedlý (Gnetum gnemon)"
+  }
+ },
+ {
+  "id": "Q144477#0",
+  "species": "Mikrocykas krásný",
+  "latin": "Microcycas calocoma",
+  "text": "Dorůstá do 10 metrů výšky.",
+  "quote": "Strom dorůstá do 10 metrů výšky",
+  "claimed_false_for": {
+   "Q3512326": "Zamie trpasličí (Zamia pygmaea)",
+   "Q745425": "Bowenie pilovitá (Bowenia serrulata)"
+  }
+ },
+ {
+  "id": "Q161198#x0",
+  "species": "Cykas indický",
+  "latin": "Cycas circinalis",
+  "text": "Semena jsou jedovatá.",
+  "quote": "The seed is poisonous.",
+  "claimed_false_for": {
+   "Q72368": "Liánovec jedlý (Gnetum gnemon)"
+  }
+ },
+ {
+  "id": "Q161198#x1",
+  "species": "Cykas indický",
+  "latin": "Cycas circinalis",
+  "text": "Obsahuje glykosid, který je velmi jedovatý pro býložravce.",
+  "quote": "Les cycas produisent un glucoside très toxique pour les herbivores",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q161198#x3",
+  "species": "Cykas indický",
+  "latin": "Cycas circinalis",
+  "text": "Samčí šištice, která tvoří pyl, měří kolem 45 cm.",
+  "quote": "le cône produisant le pollen fait 45 cm de long pour 10 cm de diamètre",
+  "claimed_false_for": {
+   "Q156926": "Welwitschie podivná (Welwitschia mirabilis)",
+   "Q162784": "Chvojník dvouklasý (Ephedra distachya)",
+   "Q3512326": "Zamie trpasličí (Zamia pygmaea)",
+   "Q43284": "Jinan dvoulaločný (Ginkgo biloba)",
+   "Q72368": "Liánovec jedlý (Gnetum gnemon)",
+   "Q745425": "Bowenie pilovitá (Bowenia serrulata)",
+   "Q924592": "Zamie otrubnatá (Zamia furfuracea)"
+  }
+ },
+ {
+  "id": "Q1989057#1",
+  "species": "Píchoš Woodův",
+  "latin": "Encephalartos woodii",
+  "text": "Nemá semena, protože všechny rostliny tohoto druhu jsou samčí.",
+  "quote": "Ty jsou také pouze samčího pohlaví. Semena této rostliny tedy neexistují.",
+  "claimed_false_for": {
+   "Q150964": "Píchoš Lehmannův (Encephalartos lehmannii)",
+   "Q3512326": "Zamie trpasličí (Zamia pygmaea)",
+   "Q745425": "Bowenie pilovitá (Bowenia serrulata)"
+  }
+ },
+ {
+  "id": "Q3506489#0",
+  "species": "Zamie celolistá",
+  "latin": "Zamia integrifolia",
+  "text": "Tento druh je rozšířen v karibské oblasti a na jihu USA.",
+  "quote": "Je rozšířen v karibské oblasti a na jihu USA.",
+  "claimed_false_for": {
+   "Q150964": "Píchoš Lehmannův (Encephalartos lehmannii)",
+   "Q745425": "Bowenie pilovitá (Bowenia serrulata)"
+  }
+ },
+ {
+  "id": "Q3512326#x0",
+  "species": "Zamie trpasličí",
+  "latin": "Zamia pygmaea",
+  "text": "Je nejmenším žijícím cykasem.",
+  "quote": "It is the smallest living cycad.",
+  "claimed_false_for": {
+   "Q1054770": "Cykas Beddomeův (Cycas beddomei)",
+   "Q1063758": "Cykas Thouarsův (Cycas thouarsii)",
+   "Q134518": "Dión jedlý (Dioon edule)",
+   "Q144477": "Mikrocykas krásný (Microcycas calocoma)",
+   "Q161517": "Cykas japonský (Cycas revoluta)",
+   "Q162784": "Chvojník dvouklasý (Ephedra distachya)",
+   "Q7202502": "Cykas Wadeův (Cycas wadei)",
+   "Q72368": "Liánovec jedlý (Gnetum gnemon)"
+  }
+ },
+ {
+  "id": "Q3512326#x1",
+  "species": "Zamie trpasličí",
+  "latin": "Zamia pygmaea",
+  "text": "Vyrůstá jen do výšky asi 25 centimetrů.",
+  "quote": "some individuals have been found which have only grown to a height of 25 cm (10 in)",
+  "claimed_false_for": {
+   "Q1054770": "Cykas Beddomeův (Cycas beddomei)",
+   "Q1063758": "Cykas Thouarsův (Cycas thouarsii)",
+   "Q134518": "Dión jedlý (Dioon edule)",
+   "Q144477": "Mikrocykas krásný (Microcycas calocoma)",
+   "Q161517": "Cykas japonský (Cycas revoluta)",
+   "Q7202502": "Cykas Wadeův (Cycas wadei)",
+   "Q72368": "Liánovec jedlý (Gnetum gnemon)"
+  }
+ },
+ {
+  "id": "Q3512326#x2",
+  "species": "Zamie trpasličí",
+  "latin": "Zamia pygmaea",
+  "text": "Roste přirozeně jen na Kubě.",
+  "quote": "found only in Cuba",
+  "claimed_false_for": {
+   "Q1054770": "Cykas Beddomeův (Cycas beddomei)",
+   "Q1063758": "Cykas Thouarsův (Cycas thouarsii)",
+   "Q1302103": "Bowenie obdivuhodná (Bowenia spectabilis)",
+   "Q134518": "Dión jedlý (Dioon edule)",
+   "Q150991": "Stangerie plstnatá (Stangeria eriopus)",
+   "Q161517": "Cykas japonský (Cycas revoluta)",
+   "Q162784": "Chvojník dvouklasý (Ephedra distachya)",
+   "Q2252144": "Zamie drobná (Zamia pumila)",
+   "Q3506489": "Zamie celolistá (Zamia integrifolia)",
+   "Q7202502": "Cykas Wadeův (Cycas wadei)",
+   "Q72368": "Liánovec jedlý (Gnetum gnemon)"
+  }
+ },
+ {
+  "id": "Q3512326#x3",
+  "species": "Zamie trpasličí",
+  "latin": "Zamia pygmaea",
+  "text": "V přírodě má jen jeden až čtyři složené listy.",
+  "quote": "In its harsh native habitat the compound leaves are one to four in number",
+  "claimed_false_for": {
+   "Q1054770": "Cykas Beddomeův (Cycas beddomei)",
+   "Q1063758": "Cykas Thouarsův (Cycas thouarsii)",
+   "Q134518": "Dión jedlý (Dioon edule)",
+   "Q144477": "Mikrocykas krásný (Microcycas calocoma)",
+   "Q161517": "Cykas japonský (Cycas revoluta)",
+   "Q162784": "Chvojník dvouklasý (Ephedra distachya)",
+   "Q7202502": "Cykas Wadeův (Cycas wadei)",
+   "Q72368": "Liánovec jedlý (Gnetum gnemon)"
+  }
+ },
+ {
+  "id": "Q72368#x0",
+  "species": "Liánovec jedlý",
+  "latin": "Gnetum gnemon",
+  "text": "Dorůstá výšky 15 až 22 metrů.",
+  "quote": "growing to 15–22 metres tall",
+  "claimed_false_for": {
+   "Q1147303": "Cykas Rumpfův (Cycas rumphii)",
+   "Q134518": "Dión jedlý (Dioon edule)",
+   "Q139196": "Píchoš hrozný (Encephalartos horridus)",
+   "Q149321": "Píchoš Altensteinův (Encephalartos altensteinii)",
+   "Q150964": "Píchoš Lehmannův (Encephalartos lehmannii)",
+   "Q156926": "Welwitschie podivná (Welwitschia mirabilis)",
+   "Q161198": "Cykas indický (Cycas circinalis)",
+   "Q161517": "Cykas japonský (Cycas revoluta)",
+   "Q162784": "Chvojník dvouklasý (Ephedra distachya)",
+   "Q1989057": "Píchoš Woodův (Encephalartos woodii)",
+   "Q3512326": "Zamie trpasličí (Zamia pygmaea)",
+   "Q548260": "Píchoš Hildebrandtův (Encephalartos hildebrandtii)",
+   "Q745425": "Bowenie pilovitá (Bowenia serrulata)",
+   "Q845714": "Ceratozamie mexická (Ceratozamia mexicana)",
+   "Q924592": "Zamie otrubnatá (Zamia furfuracea)"
+  }
+ },
+ {
+  "id": "Q72368#x1",
+  "species": "Liánovec jedlý",
+  "latin": "Gnetum gnemon",
+  "text": "Samčí šištice vypadají jako květy a lidé je za ně často omylem považují.",
+  "quote": "Male strobili are small and arranged in long stalks which are often mistaken for flowers",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q72368#x2",
+  "species": "Liánovec jedlý",
+  "latin": "Gnetum gnemon",
+  "text": "Mladé listy jsou bronzové, později se zbarví do lesklé tmavozelené.",
+  "quote": "emerging bronze-coloured, maturing",
+  "claimed_false_for": {
+   "Q156926": "Welwitschie podivná (Welwitschia mirabilis)"
+  }
+ },
+ {
+  "id": "Q72368#x3",
+  "species": "Liánovec jedlý",
+  "latin": "Gnetum gnemon",
+  "text": "Zrající semena mění barvu ze žluté na oranžovou, fialovou nebo růžovou.",
+  "quote": "It changes colour from yellow to orange, purple or pink when ripe.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q745425#x0",
+  "species": "Bowenie pilovitá",
+  "latin": "Bowenia serrulata",
+  "text": "Opylují ho brouci.",
+  "quote": "Si riproduce per impollinazione entomofila ad opera di coleotteri del genere Miltotranes (Curculionidae).",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q745425#x1",
+  "species": "Bowenie pilovitá",
+  "latin": "Bowenia serrulata",
+  "text": "Roste v podrostu tropických deštných lesů.",
+  "quote": "cresce nel sottobosco delle foreste pluviali tropicali.",
+  "claimed_false_for": {
+   "Q134518": "Dión jedlý (Dioon edule)",
+   "Q161517": "Cykas japonský (Cycas revoluta)",
+   "Q162784": "Chvojník dvouklasý (Ephedra distachya)"
+  }
+ },
+ {
+  "id": "Q845714#x1",
+  "species": "Ceratozamie mexická",
+  "latin": "Ceratozamia mexicana",
+  "text": "Semena jsou vejčitá, asi 2 cm dlouhá a pokrytá bělavým obalem.",
+  "quote": "I semi, ovoidali, lunghi circa 2 cm, sono ricoperti da un tegumento biancastro",
+  "claimed_false_for": {
+   "Q162784": "Chvojník dvouklasý (Ephedra distachya)"
+  }
+ },
+ {
+  "id": "Q924592#0",
+  "species": "Zamie otrubnatá",
+  "latin": "Zamia furfuracea",
+  "text": "Obvykle dorůstá do výšky kolem 1,3 metru.",
+  "quote": "Rostlina včetně listů obvykle dorůstá výšky kolem 1,3 m a šířky kolem 2 m.",
+  "claimed_false_for": {
+   "Q3512326": "Zamie trpasličí (Zamia pygmaea)"
+  }
+ }
+]

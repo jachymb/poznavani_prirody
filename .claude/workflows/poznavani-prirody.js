@@ -29,7 +29,8 @@ const KIND = {
     good: 'skutečnou fotografii živé houby ve volné přírodě (plodnice, u lišejníků stélka), na které jdou znaky druhu dobře vidět',
     bad: 'houbu v košíku, na talíři, nakrájenou nebo uvařenou, sušený materiál, snímek z mikroskopu, kultury v misce',
     hard: 'houba skoro není vidět: je rozmazaná, malá, zakrytá, ve velmi nízkém rozlišení, nebo jsou znaky druhu nerozeznatelné',
-    categories: 'vzhled | výskyt | růst | vztahy | čísla | jedovatost (růst = kdy a jak plodnice roste; vztahy = soužití se stromy, parazitismus, rozklad dřeva; jedovatost = jen pokud to článek uvádí; čísla = měřitelný údaj)',
+    categories: 'vzhled | výskyt | růst | vztahy | čísla | jedovatost (růst = kdy a jak plodnice roste; vztahy = symbióza se stromy, parazitismus, rozklad dřeva; jedovatost = jen pokud to článek uvádí; čísla = měřitelný údaj)',
+    terms: 'Houby mají třeň, nikdy nepiš stonek (ten mají rostliny).',
     bland: 'žádné „Je to houba.“, „Roste v lese.“ ani „Má klobouk.“',
     captive: 'houba zjevně neroste volně: je v ruce, na stole, v košíku, v misce nebo v obchodě, je to pěstírna nebo substrát v nádobě',
   },
@@ -55,6 +56,8 @@ const FACT_RULES = (kingdom) => `Vyber z článku tolik zajímavých pravdivých
    Vybírej různá témata, ale přednostně vazby na jiné druhy, pokud je článek uvádí: čím se druh živí, kdo ho loví nebo koho loví, kdo ho opyluje nebo co opyluje, na čem parazituje, kdo parazituje na něm, s kým žije v symbióze. Uveď konkrétní druhy nebo skupiny („Housenky žijí na kopřivách.“, „Opylují ho čmeláci.“). Vzhledu dávej menší přednost, jde často uhádnout z fotky. Každé tvrzení musí splňovat:
    - Vychází výhradně z textu článku, nic si nedomýšlej.
    - Krátká jednoduchá věta do 15 slov (nejvýš 130 znaků) přirozenou češtinou, jak by ji napsala dobrá školní učebnice. Drž se slov článku a běžné školní pojmy (bezobratlí, potrava, kořist, býložravec, kopytník, mršina) nenahrazuj opisy. Vynech jen opravdu odborný výraz, kterému by desetileté dítě nerozumělo. Žádná latina.
+   - Nevynechávej údaj, na kterém tvrzení stojí: „K obraně používá žahavé chloupky.“, ne „Brání se tím, že z břicha vyčesává chloupky.“
+   - Základní ekologické pojmy (symbióza, parazit, predátor, opylovač) jsou v pořádku a jsou lepší než krkolomný opis: „Žije v symbióze se smrky.“, ne „Žije v soužití se smrky.“ ${KIND[kingdom].terms || ''}
    - Nesmí obsahovat název druhu, rodu ani čeledi ani odvozená slova. Musí dávat smysl samostatně, bez znalosti článku a bez slov jako „na rozdíl od příbuzných“.
    - Musí jít použít o jakémkoli druhu bez změny tvaru: začni slovesem v přítomném čase („Dožívá se až 15 let.“), přirozeným podmětem („Mláďata jsou téměř celá bílá.“, „Opylují ho čmeláci.“) nebo slovy „Tento druh“ („Tento druh je aktivní v noci.“). Ne „Tento druh má mláďata, která…“. Nepoužívej tvary závislé na rodu („je velká“, „lovil“).
    - Říká něco konkrétního, čím se druh liší od mnoha jiných: ${KIND[kingdom].bland}
@@ -186,7 +189,10 @@ Přečti ${root}/data/${slug}/language_jobs/${id}.json. Každá položka má "id
    - zbytečný opis běžného pojmu: „Asi 40 % jeho jídla tvoří živočichové bez páteře.“ -> „Asi 40 % jeho potravy tvoří bezobratlí.“; drž se slov ze zdroje, běžné školní pojmy (bezobratlí, potrava, kořist, býložravec, kopytník, mršina) neopisuj;
    - zbytečné vysvětlování: „Jí hlavně kopytníky, tedy zvířata s kopyty.“ -> „Jí hlavně kopytníky.“; vysvětlení ponech jen u slova, které by desetileté dítě opravdu neznalo (např. „Měří v kohoutku, tedy u ramen, 125 cm.“);
    - krkolomná stavba: „Tento druh má mláďata, která jsou téměř celá bílá.“ nebo „Má mláďata, která jsou bílá.“ -> „Mláďata jsou téměř celá bílá.“;
-   - chybná vazba nebo překlep: „Žije v klanech, které bývají od tří do 80 zvířat.“ -> „Žije v klanech po 3 až 80 zvířatech.“; „80%“ jako podstatné jméno -> „80 %“.
+   - chybná vazba nebo překlep: „Žije v klanech, které bývají od tří do 80 zvířat.“ -> „Žije v klanech po 3 až 80 zvířatech.“; „80%“ jako podstatné jméno -> „80 %“;
+   - krkolomný opis místo běžného pojmu: „Žije v soužití se smrky.“ -> „Žije v symbióze se smrky.“ (symbióza, parazit, predátor jsou v pořádku);
+   - vynechaný podstatný údaj, který je ve zdroji: „Brání se tím, že z břicha vyčesává chloupky.“ -> „K obraně používá žahavé chloupky.“;
+   - u hub „stonek“: houby mají třeň („Třeň je bílý.“).
    Pravidla pro novou větu: stejný význam, žádná nová informace mimo zdroj, nejvýš 130 znaků, žádná latina, žádný název druhu, rodu ani čeledi a odvozená slova. Nesmí záviset na rodu druhu („je velká“, „lovil“): použij sloveso v přítomném čase, přirozený podmět nebo „Tento druh“. Nesmí tvrdit, že je druh jedlý nebo léčí.
 2. Do "drop" dej věty, které u téhož druhu říkají totéž co jiná věta, a ponech tu lepší.
 

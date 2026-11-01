@@ -1,0 +1,17 @@
+{"drop_facts": [
+ {"id": "Q10567609#x1", "why": "sporné: druh běžně roste i na živinami obohacené (méně kyselé) kůře, je tolerantní; navíc 'vyhledává' posouvá 'prefers'"},
+ {"id": "Q182281#x2", "why": "výlučné tvrzení o rozšíření ('jen'), zdroj uvádí jen dosavadní nálezy, může být zastaralé"},
+ {"id": "Q2079766#x2", "why": "tvrdí, že se druh sbírá (vhodnost ke sběru); druh je navíc ohrožený"},
+ {"id": "Q582664#x3", "why": "sporný údaj převedený z palců ze starého zdroje, jiné zdroje uvádějí až 10–15 cm; nepřirozená přesnost"}
+],
+"drop_pairs": [
+ {"id": "Q10567609#x2", "species": "Q2079766"},
+ {"id": "Q10567609#x3", "species": "Q10646489"},
+ {"id": "Q10567609#x3", "species": "Q1365267"},
+ {"id": "Q10567609#x3", "species": "Q904074"},
+ {"id": "Q113273#x0", "species": "Q3374554"},
+ {"id": "Q113273#x2", "species": "Q10567609"},
+ {"id": "Q113273#x2", "species": "Q1811239"},
+ {"id": "Q182281#x0", "species": "Q113273"},
+ {"id": "Q582664#x0", "species": "Q1365267"}
+]}
