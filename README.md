@@ -36,6 +36,8 @@ Každá skupina druhů v `CLASSES` v `pipeline.py` prochází těmito kroky:
 6. **Kontinenty:** subagent přiřadí druhům kontinenty výskytu.
 7. **Jazyk:** redaktor opraví nepřirozené věty a vyřadí věty, které u druhu říkají totéž. Oprava musí projít stejnými pravidly jako původní věta.
 
+Savci navíc procházejí negativním krokem vůči podobným druhům z užší skupiny (`MAMMAL_PEERS` v `pipeline.py`), hra z nich bere špatné odpovědi. Ruční opravy jsou v `manual.json` v adresářích jednotlivých kroků v `data/`.
+
 Každý krok zpracuje jen to, co ještě neprošlo. `python pipeline.py next <počet>` vypíše další dávku úloh a řeší přechody mezi kroky. Když už není co dělat, složí `game/data.js`. `python pipeline.py todo <skupina>` ukáže, co ve skupině chybí.
 
 Kroky 2 až 7 kromě hledání fotek provádějí subagenti Claude Code přes lokální workflow, které není součástí repozitáře. Stejně tak v něm nejsou stažená data z adresáře `data/`, takže samotný `pipeline.py` databázi znovu nevytvoří.
