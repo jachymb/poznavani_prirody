@@ -98,6 +98,29 @@
   .result .stars { font-size: 52px; line-height: 1.2; }
   .result .big { font-size: 42px; font-weight: 700; color: var(--brand); margin: 6px 0; }
   .result h2 { margin: 26px 0 10px; font-size: 22px; }
+  /* Oslava bezchybného kola: příroda se snáší shora a hvězdičky poskočí. Na ovládání nemá vliv. */
+  .celebration { position: fixed; inset: 0; overflow: hidden; pointer-events: none; z-index: 10; }
+  .celebration span {
+    position: absolute; top: -12vh; left: var(--x); font-size: var(--size); opacity: 0;
+    animation: drift var(--time) ease-in var(--delay) forwards;
+  }
+  @keyframes drift {
+    0% { transform: translate(0, 0) rotate(0); opacity: 0; }
+    8% { opacity: 1; }
+    30% { transform: translate(var(--sway), 34vh) rotate(calc(var(--spin) * .3)); }
+    60% { transform: translate(calc(var(--sway) * -1), 72vh) rotate(calc(var(--spin) * .6)); }
+    88% { opacity: 1; }
+    100% { transform: translate(var(--sway), 120vh) rotate(var(--spin)); opacity: 0; }
+  }
+  .stars.perfect span { display: inline-block; animation: hop .7s ease-out var(--delay) 3 both; }
+  @keyframes hop {
+    0%, 100% { transform: translateY(0) scale(1); }
+    40% { transform: translateY(-16px) scale(1.25); }
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .celebration { display: none; }
+    .stars.perfect span { animation: none; }
+  }
   .summary { list-style: none; margin: 0; padding: 0; display: grid; gap: 8px; text-align: left; }
   .summary li { display: flex; align-items: center; gap: 12px; min-height: 64px; padding: 6px 12px 6px 6px; background: var(--card); border-left: 6px solid var(--good); border-radius: 12px; }
   .summary li.bad { border-left-color: var(--bad); background: var(--bad-bg); }
@@ -431,6 +454,28 @@
       el("span", { class: "mark", ariaLabel: right ? "správně" : "špatně" }, right ? "✅" : "❌"))));
   }
 
+  const CELEBRATION = {
+    zivocichove: ["🦋", "🐞", "🐝", "🐦", "🌿", "⭐"],
+    rostliny: ["🌸", "🌻", "🌷", "🍃", "🌿", "⭐"],
+    houby: ["🍄", "🍄‍🟫", "🍂", "🍃", "🌿", "⭐"],
+  };
+  const random = (from, to) => from + Math.random() * (to - from);
+
+  function celebration(kingdomId) {
+    const pieces = Array.from({ length: 40 }, () => {
+      const piece = el("span", {}, CELEBRATION[kingdomId][Math.floor(Math.random() * 6)]);
+      const style = {
+        "--x": `${random(0, 96)}%`, "--size": `${random(22, 42)}px`, "--time": `${random(3.5, 6)}s`,
+        "--delay": `${random(0, 2.5)}s`, "--sway": `${random(-60, 60)}px`, "--spin": `${random(-280, 280)}deg`,
+      };
+      for (const [name, value] of Object.entries(style)) piece.style.setProperty(name, value);
+      return piece;
+    });
+    const overlay = el("div", { class: "celebration", ariaHidden: "true" }, ...pieces);
+    setTimeout(() => overlay.remove(), 9000);
+    return overlay;
+  }
+
   function showResult() {
     const answered = game.history.length || 1;
     const share = game.score / answered;
@@ -439,14 +484,23 @@
     const { kingdom, classSlug } = game;
     const missed = new Set(game.history.filter((h) => !h.right).map((h) => h.species.id));
     const scoreText = `${game.score} z ${game.history.length}`;
-    announce(`Konec kola. ${scoreText}. ${words[stars]}`);
+    // Opakování chyb je jiná disciplína, oslavuje se jen celé kolo bez chyby.
+    const perfect = !game.only && !missed.size && game.history.length === game.total;
+    announce(`Konec kola. ${scoreText}. ${perfect ? "Bez jediné chyby! " : ""}${words[stars]}`);
     const first = missed.size
       ? el("button", { class: "primary", onclick: () => startGame(kingdom, { only: missed, classSlug }) }, `Zopakovat chyby (${missed.size})`)
       : el("button", { class: "primary", onclick: () => startGame(kingdom, { classSlug }) }, "Hrát znovu");
     app.replaceChildren(el("section", { class: "result" },
-      el("div", { class: "stars" }, "⭐".repeat(stars) || "🌱"),
+      perfect ? celebration(kingdom.id) : null,
+      perfect
+        ? el("div", { class: "stars perfect" }, ...[0, 0.15, 0.3].map((delay) => {
+          const star = el("span", {}, "⭐");
+          star.style.setProperty("--delay", `${delay}s`);
+          return star;
+        }))
+        : el("div", { class: "stars" }, "⭐".repeat(stars) || "🌱"),
       el("h1", { class: "big" }, scoreText),
-      el("p", { class: "lead" }, words[stars]),
+      el("p", { class: "lead" }, perfect ? `Bez jediné chyby! ${words[stars]}` : words[stars]),
       first,
       missed.size ? el("button", { class: "secondary", onclick: () => startGame(kingdom, { classSlug }) }, "Hrát znovu") : null,
       HARDER[level] ? el("button", {
