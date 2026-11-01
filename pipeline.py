@@ -79,9 +79,8 @@ GAME_GROUPS = {
     "vyssi_dvoudelozne": ("Q165468 Q1372246", "Vyšší dvouděložné", "rostliny"),
     "jednodelozne": ("Q78961 Q1147601 Q14847257", "Jednoděložné", "rostliny"),
     "nizsi_dvoudelozne": ("Q846071 Q27421 Q21788 Q689001 Q1307404 Q11818414 Q1045795 Q2716692 Q2946383", "Nižší dvouděložné", "rostliny"),
-    "kapradiny": ("Q373615 Q30085022 Q98970040", "Kapradiny", "rostliny"),
+    "kapradiny": ("Q373615 Q30085022 Q98970040 Q1149748 Q1096274", "Kapradiny a plavuně", "rostliny"),
     "mechorosty": ("Q831482 Q642852 Q1422487 Q147868 Q149843 Q14923875 Q12971805 Q12207651", "Mechorosty", "rostliny"),
-    "plavune": ("Q1149748 Q1096274", "Plavuně", "rostliny"),
     "stopkovytrusne": ("Q27720 Q132006 Q132763 Q136810", "Stopkovýtrusé houby", "houby"),
     "vreckovytrusne": ("Q843232 Q133607 Q133551 Q132180 Q132159 Q133144 Q5066753 Q10504037 Q133571", "Vřeckovýtrusé houby", "houby"),
 }
