@@ -88,6 +88,9 @@ assert(window.Quiz.isDull({ text: "Kvete od června do srpna." }) && !window.Qui
   }
 }
 assert(classes.find((c) => c.slug === "ryby").species.some((s) => s.name === "Treska obecná"), "treska patří mezi ryby");
+for (const [slug, name] of [["jednodelozne", "Kukuřice setá"], ["jednodelozne", "Kokosovník ořechoplodý"], ["dvoudelozne", "Rajče jedlé"], ["dvoudelozne", "Leknín bílý"]]) {
+  assert(classes.find((c) => c.slug === slug).species.some((s) => s.name === name), `${name} patří do ${slug}`);
+}
 for (const kingdom of ["zivocichove", "rostliny", "houby"]) {
   for (const level of ["beginner", "advanced", "expert"]) {
     const here = window.Quiz.atLevel(classes.filter((c) => c.kingdom === kingdom), level);

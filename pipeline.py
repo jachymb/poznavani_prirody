@@ -74,8 +74,9 @@ GAME_GROUPS = {
     "korysi": ("Q182978 Q188360 Q150628 Q22986461", "Korýši", "zivocichove"),
     "plostenci": ("Q159715 Q207547", "Ploštěnci", "zivocichove"),
     "nahosemenne": ("Q5605610 Q10788836 Q99057636 Q1011212 Q16113844 Q1329304 Q9849989 Q16050271", "Nahosemenné", "rostliny"),
-    "dvoudelozne": ("Q165468 Q1372246 Q846071 Q27421 Q21788 Q689001 Q1307404 Q11818414 Q1045795 Q2716692 Q2946383", "Dvouděložné", "rostliny"),
+    # jednoděložné před dvouděložnými: některé spadají na Wikidatech i pod kořeny nižších dvouděložných
     "jednodelozne": ("Q78961 Q1147601 Q14847257", "Jednoděložné", "rostliny"),
+    "dvoudelozne": ("Q165468 Q1372246 Q846071 Q27421 Q21788 Q689001 Q1307404 Q11818414 Q1045795 Q2716692 Q2946383", "Dvouděložné", "rostliny"),
     "vytrusne": ("Q373615 Q30085022 Q98970040 Q1149748 Q1096274 Q831482 Q642852 Q1422487 Q147868 Q149843 Q14923875 Q12971805 Q12207651",
                  "Výtrusné rostliny", "rostliny"),
     "stopkovytrusne": ("Q27720 Q132006 Q132763 Q136810", "Stopkovýtrusé houby", "houby"),
