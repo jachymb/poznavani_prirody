@@ -15,6 +15,7 @@ from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 
 ROOT = Path(__file__).parent
+ROOTS_FILE = ROOT / "data" / "species_roots.json"
 # Wikimedia dává bez kontaktu 10 požadavků za minutu, s kontaktem 200: nastav WIKIMEDIA_CONTACT
 UA = {"User-Agent": f"PoznavaniPrirody/0.1 (educational quiz; {os.environ.get('WIKIMEDIA_CONTACT', 'no contact')})"}
 # slug: (Wikidata QID třídy, případně víc QID oddělených mezerou, český název, říše)
@@ -40,7 +41,7 @@ CLASSES = {
     "ptaci": ("Q5113", "Ptáci", "zivocichove"),
     "plazi": ("Q10811", "Plazi", "zivocichove"),
     "obojzivelnici": ("Q10908", "Obojživelníci", "zivocichove"),
-    "ryby": ("Q343460 Q204861 Q22109932 Q21286786 Q857497 Q61881941 Q61881939 Q51290695 Q61881938 Q15100334 Q20722244 Q152", "Ryby a příbuzní strunatci", "zivocichove"),
+    "ryby": ("Q343460 Q204861 Q22109932 Q21286786 Q857497 Q61881941 Q61881939 Q51290695 Q61881938 Q15100334 Q20722244 Q152", "Ryby", "zivocichove"),
     "paryby": ("Q25371 Q149104", "Paryby", "zivocichove"),
     "pavoukovci": ("Q1358 Q19430", "Pavoukovci", "zivocichove"),
     "mekkysi": ("Q4867740 Q25368 Q128257 Q188906", "Měkkýši", "zivocichove"),
@@ -52,7 +53,43 @@ CLASSES = {
     "stonozkovci": ("Q167367 Q43447", "Stonožkovci a mnohonožky", "zivocichove"),
     "ostatni_bezobratli": ("Q190090 Q610887 Q209924 Q190701", "Další bezobratlí", "zivocichove"),
     "hmyz": ("Q1390", "Hmyz", "zivocichove"),
+    # Poslední: co nepatří výše. Slouží jen k uložení dat, skupiny ve hře určuje GAME_GROUPS.
+    "ostatni_zivocichove": ("Q729", "Ostatní živočichové", "zivocichove"),
+    "ostatni_rostliny": ("Q756", "Ostatní rostliny", "rostliny"),
+    "ostatni_houby": ("Q764", "Ostatní houby", "houby"),
 }
+# Skupiny ve hře: smí obsahovat jen druhy, které do taxonu opravdu patří, podle jejich stromu na Wikidatech.
+# Druh dostane první skupinu, pod kterou patří (ptáci jsou na Wikidatech i v plazech).
+# Co nikam nepatří nebo by zůstalo ve skupině s příliš málo druhy, jde do souhrnné skupiny OTHER_GROUPS.
+GAME_GROUPS = {
+    "savci": ("Q7377", "Savci", "zivocichove"),
+    "ptaci": ("Q5113", "Ptáci", "zivocichove"),
+    "plazi": ("Q10811", "Plazi", "zivocichove"),
+    "obojzivelnici": ("Q10908", "Obojživelníci", "zivocichove"),
+    "ryby": ("Q343460 Q204861 Q61881941 Q61881939 Q51290695 Q61881938", "Kostnaté ryby", "zivocichove"),
+    "paryby": ("Q25371 Q149104", "Paryby", "zivocichove"),
+    "hmyz": ("Q1390", "Hmyz", "zivocichove"),
+    "pavoukovci": ("Q1358", "Pavoukovci", "zivocichove"),
+    "mekkysi": ("Q4867740 Q25368 Q128257 Q188906", "Měkkýši", "zivocichove"),
+    "korysi": ("Q182978 Q188360 Q150628 Q22986461", "Korýši", "zivocichove"),
+    "stonozkovci": ("Q167367 Q43447", "Stonožkovci", "zivocichove"),
+    "zahavci": ("Q181989 Q272388 Q132674 Q132680 Q273179 Q16006458", "Žahavci", "zivocichove"),
+    "ostnokozci": ("Q25349 Q83483 Q127470 Q248530", "Ostnokožci", "zivocichove"),
+    "krouzkovci": ("Q18952 Q193006 Q839350", "Kroužkovci", "zivocichove"),
+    "plostenci": ("Q159715 Q207547", "Ploštěnci", "zivocichove"),
+    # před jehličnany: Wikidata řadí liánovce a chvojníky i pod širší taxon Coniferae
+    "dalsi_nahosemenne": ("Q5605610 Q10788836 Q99057636 Q1011212 Q16113844", "Další nahosemenné", "rostliny"),
+    "jehlicnany": ("Q1329304 Q9849989 Q16050271", "Jehličnany", "rostliny"),
+    "vyssi_dvoudelozne": ("Q165468 Q1372246", "Vyšší dvouděložné", "rostliny"),
+    "jednodelozne": ("Q78961 Q1147601 Q14847257", "Jednoděložné", "rostliny"),
+    "nizsi_dvoudelozne": ("Q846071 Q27421 Q21788 Q689001 Q1307404 Q11818414 Q1045795 Q2716692 Q2946383", "Nižší dvouděložné", "rostliny"),
+    "kapradiny": ("Q373615 Q30085022 Q98970040", "Kapradiny", "rostliny"),
+    "mechorosty": ("Q831482 Q642852 Q1422487 Q147868 Q149843 Q14923875 Q12971805 Q12207651", "Mechorosty", "rostliny"),
+    "plavune": ("Q1149748 Q1096274", "Plavuně", "rostliny"),
+    "stopkovytrusne": ("Q27720 Q132006 Q132763 Q136810", "Stopkovýtrusé houby", "houby"),
+    "vreckovytrusne": ("Q843232 Q133607 Q133551 Q132180 Q132159 Q133144 Q5066753 Q10504037 Q133571", "Vřeckovýtrusé houby", "houby"),
+}
+OTHER_GROUPS = {"zivocichove": ("ostatni_zivocichove", "Ostatní živočichové"), "rostliny": ("ostatni_rostliny", "Ostatní rostliny"), "houby": ("ostatni_houby", "Ostatní houby")}
 EXCLUDE = ("Homo ",)  # rod člověk: fotky lidí do hádání druhů nepatří; výjimkou je ruční EASTER_EGG
 # Vzácný vtípek: člověk jako jeden ze savců, s tvrzeními, která by platila i pro jiná zvířata.
 # Váha losování je 1 (pop 0). "not": savci, pro které tvrzení jistě neplatí.
@@ -89,9 +126,6 @@ WANTED_PHOTOS = 2  # s menším počtem schválených fotek se hledají další
 CATEGORIES = {"vzhled", "potrava", "výskyt", "chování", "mláďata", "čísla", "vztahy", "růst", "využití", "jedovatost", "účinky"}
 CONTINENTS = ("EU", "AS", "AF", "NA", "SA", "AN", "OC")
 MIN_CLASS_SPECIES = 4  # méně druhů nestačí na otázku se čtyřmi možnostmi
-# skupiny, kterým po kontrole zbylo příliš málo druhů, se ve hře připojí k širší skupině
-MERGE_INTO = {"lisejniky": "vreckovytrusne", "rasy": "mechorosty", "presliky": "kapradiny", "zahavci": "ostatni_bezobratli", "ostnokozci": "ostatni_bezobratli",
-              "krouzkovci": "ostatni_bezobratli", "stonozkovci": "ostatni_bezobratli", "plostenci": "ostatni_bezobratli"}
 BAD_FILE = re.compile(
     r"map|range|distribution|areal|rozsir|rozšíř|status|logo|icon|skull|lebk|skelet|skeleton|dead|killed|mrtv"
     r"|troph|stamp|známk|footprint|scat|illustration|drawing|painting|kresb|engraving|lithograph|fossil|herbar|herbář",
@@ -178,8 +212,8 @@ def paths(slug):
 
 def species_roots():
     """Ke každému druhu s českým článkem kořeny z CLASSES, pod které patří. Ukládá se, jeden průchod stačí pro všechny skupiny."""
-    file = ROOT / "data" / "species_roots.json"
-    all_roots = sorted({q for cfg in CLASSES.values() for q in cfg[0].split()})
+    file = ROOTS_FILE
+    all_roots = sorted({q for cfg in [*CLASSES.values(), *GAME_GROUPS.values()] for q in cfg[0].split()})
     state = json.loads(file.read_text("utf-8")) if file.exists() else {}
     if state.get("all_roots") != all_roots:
         state = {"all_roots": all_roots, "roots": {}, "checked": []}
@@ -714,18 +748,25 @@ def add_easter_egg(species):
 
 def write_game_data():
     """Do hry patří jen druhy s kontinenty, tedy po všech krocích, a třídy s dostatkem druhů."""
-    built = {}
-    for slug in CLASSES:
+    roots = json.loads(ROOTS_FILE.read_text("utf-8"))["roots"]
+    groups = {slug: {"slug": slug, "name": name, "kingdom": kingdom, "species": []} for slug, (_, name, kingdom) in GAME_GROUPS.items()}
+    others = {kingdom: {"slug": slug, "name": name, "kingdom": kingdom, "species": []} for kingdom, (slug, name) in OTHER_GROUPS.items()}
+    for slug, (_, _, kingdom) in CLASSES.items():
         file = paths(slug)[0] / "built.json"
-        if file.exists():
-            built[slug] = json.loads(file.read_text("utf-8"))
-            built[slug]["species"] = [s for s in built[slug]["species"] if s["continents"]]
-    for small, target in MERGE_INTO.items():
-        if small in built and target in built:
-            built[target]["species"] += built.pop(small)["species"]
-    if built.get(EASTER_EGG["class"], {}).get("species"):
-        add_easter_egg(built[EASTER_EGG["class"]]["species"])
-    classes = [data for data in built.values() if len(data["species"]) >= MIN_CLASS_SPECIES]
+        if not file.exists():
+            continue
+        for s in json.loads(file.read_text("utf-8"))["species"]:
+            if s["continents"]:
+                own = set(roots.get(s["id"], []))
+                group = next((g for key, g in groups.items() if own & set(GAME_GROUPS[key][0].split())), others[kingdom])
+                group["species"].append(s)
+    for group in groups.values():
+        if len(group["species"]) < MIN_CLASS_SPECIES:
+            others[group["kingdom"]]["species"] += group["species"]
+            group["species"] = []
+    if groups[EASTER_EGG["class"]]["species"]:
+        add_easter_egg(groups[EASTER_EGG["class"]]["species"])
+    classes = [g for g in [*groups.values(), *others.values()] if len(g["species"]) >= MIN_CLASS_SPECIES]
     (ROOT / "game" / "data.js").write_text("window.GAME_DATA = " + json.dumps(classes, ensure_ascii=False) + ";\n", encoding="utf-8")
 
 
