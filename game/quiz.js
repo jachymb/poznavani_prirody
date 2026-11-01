@@ -160,36 +160,43 @@
   }
 
   const MAKERS = [photoQuestion, nameQuestion, factQuestion, speciesQuestion];
+  const SCOPE_STEPS = 3;
+  const TARGET_TRIES = 100;
+
+  // S kým se druh porovnává. Savci (mají užší skupinu) nejdřív v ní, pak v řádu a až nakonec v celé třídě.
+  // Začátečník užší skupinu přeskočí, ale kočka vedle delfína by byla moc snadná i pro něj: začíná v řádu.
+  function scopeOf(target, step, level) {
+    if (!target.peers) return () => true;
+    const inPeers = (s) => s.peers === target.peers;
+    const inOrder = (s) => s.order === target.order;
+    const scopes = level === "beginner" ? [inOrder, () => true, () => true] : [inPeers, inOrder, () => true];
+    return scopes[step];
+  }
 
   // classes: třídy jedné říše. skip: id druhů, které už v kole byly. only: jen tyto cílové druhy (opakování chyb).
   // level: beginner, advanced nebo expert určuje, z jak blízkých druhů jsou špatné odpovědi.
   function makeQuestion(classes, { skip = new Set(), only = null, level = "expert" } = {}) {
-    const all = classes.flatMap((c) => c.species.map((s) => [s, c.species]))
+    const all = classes.flatMap((c) => c.species.map((s) => [s, c.species, c.wide || c.species]))
       .filter(([s]) => !only || only.has(s.id));
     const fresh = all.filter(([s]) => !skip.has(s.id));
     for (const pool of [fresh, all]) {
       if (!pool.length) continue;
-      for (let tries = 0; tries < 200; tries++) {
-        // Známější druhy (článek ve více jazycích) se losují častěji. Dělení odmocninou z velikosti třídy
-        // brání velkým třídám vytlačit malé; 1/ln n má téměř nulový účinek, plná rovnost by malé třídy pořád opakovala.
-        const [target, classmates] = pickWeighted(pool, ([s, mates]) => (1 + (s.pop || 0)) / Math.sqrt(mates.length));
-        // Druh s užší skupinou (savci) zkusí všechny typy otázek nejdřív v ní, pak v řádu a až nakonec v celé třídě.
-        // Začátečník užší skupinu přeskočí, ale kočka vedle delfína by byla moc snadná i pro něj: začíná v řádu.
-        const scopes = [(s) => s.order === target.order, () => true];
-        if (level !== "beginner") scopes.unshift((s) => s.peers === target.peers);
-        const attempts = target.peers
-          ? scopes.flatMap((inScope) => shuffle(MAKERS).map((make) => [make, classmates.filter(inScope)]))
-          : [[pick(MAKERS), classmates]];
-        let q = null;
-        for (const [make, scope] of attempts) {
-          q = make(target, scope, level);
-          if (q) break;
+      // Nejdřív typ otázky, každý se stejnou pravděpodobností. Další typ přijde na řadu, jen když ten vylosovaný nejde vytvořit.
+      for (const make of shuffle(MAKERS)) {
+        for (let step = 0; step < SCOPE_STEPS; step++) {
+          for (let tries = 0; tries < TARGET_TRIES; tries++) {
+            // Známější druhy (článek ve více jazycích) se losují častěji. Dělení odmocninou z velikosti třídy
+            // brání velkým třídám vytlačit malé; 1/ln n má téměř nulový účinek, plná rovnost by malé třídy pořád opakovala.
+            const [target, classmates, wide] = pickWeighted(pool, ([s, mates]) => (1 + (s.pop || 0)) / Math.sqrt(mates.length));
+            // Špatná věta nikde neukazuje druh, od kterého pochází, proto smí být i o méně známém druhu ze stejné třídy.
+            const q = make(target, (make === factQuestion ? wide : classmates).filter(scopeOf(target, step, level)), level);
+            if (!q) continue;
+            const other = target.facts.filter((f) => f !== q.shownFact);
+            q.target = target;
+            q.bonusFact = other.length ? pickFact(other).text : null;
+            return q;
+          }
         }
-        if (!q) continue;
-        const other = target.facts.filter((f) => f !== q.shownFact);
-        q.target = target;
-        q.bonusFact = other.length ? pickFact(other).text : null;
-        return q;
       }
     }
     return null;
@@ -210,7 +217,7 @@
     if (!pool) return c;
     const limit = Math.max(pool.min, Math.ceil(c.species.length * pool.share));
     const known = [...c.species].sort((a, b) => (b.pop || 0) - (a.pop || 0)).slice(0, limit);
-    return { ...c, species: [...new Set([...known, ...c.species.filter((s) => s.egg)])] };
+    return { ...c, wide: c.species, species: [...new Set([...known, ...c.species.filter((s) => s.egg)])] };
   });
 
   window.Quiz = { makeQuestion, isCorrect, inContinents, atLevel, tooSimilar, isDull, mentions, OTHER_SPECIES, MAKERS };

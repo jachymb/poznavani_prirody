@@ -88,6 +88,21 @@ assert(window.Quiz.isDull({ text: "Kvete od června do srpna." }) && !window.Qui
   }
 }
 assert(classes.find((c) => c.slug === "ryby").species.some((s) => s.name === "Treska obecná"), "treska patří mezi ryby");
+for (const kingdom of ["zivocichove", "rostliny", "houby"]) {
+  for (const level of ["beginner", "advanced", "expert"]) {
+    const here = window.Quiz.atLevel(classes.filter((c) => c.kingdom === kingdom), level);
+    const types = {};
+    const rounds = 4000;
+    for (let i = 0; i < rounds; i++) {
+      const { type } = window.Quiz.makeQuestion(here, { level });
+      types[type] = (types[type] || 0) + 1;
+    }
+    for (const type of ["findPhoto", "findName", "findFact", "findSpecies"]) {
+      const share = (types[type] || 0) / rounds;
+      assert(Math.abs(share - 0.25) < 0.03, `${kingdom}, ${level}: typ ${type} má podíl ${share}, má být čtvrtina`);
+    }
+  }
+}
 {
   const orca = { name: "Kosatka dravá" };
   assert(window.Quiz.mentions("Mezi hlavní nepřátele patří kosatka dravá a medvěd lední.", orca));
