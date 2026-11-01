@@ -34,10 +34,11 @@ Každá skupina druhů v `CLASSES` v `pipeline.py` prochází těmito kroky:
 4. **Negativní tvrzení:** subagent určí, pro které druhy tvrzení s jistotou neplatí. Z toho vznikají špatné odpovědi.
 5. **Přísná kontrola:** silnější model znovu projde tvrzení, negativní úsudky a fotky.
 6. **Kontinenty:** subagent přiřadí druhům kontinenty výskytu.
+7. **Jazyk:** redaktor opraví nepřirozené věty a vyřadí věty, které u druhu říkají totéž. Oprava musí projít stejnými pravidly jako původní věta.
 
 Každý krok zpracuje jen to, co ještě neprošlo. `python pipeline.py next <počet>` vypíše další dávku úloh a řeší přechody mezi kroky. Když už není co dělat, složí `game/data.js`. `python pipeline.py todo <skupina>` ukáže, co ve skupině chybí.
 
-Kroky 2 až 6 kromě hledání fotek provádějí subagenti Claude Code přes lokální workflow, které není součástí repozitáře. Stejně tak v něm nejsou stažená data z adresáře `data/`, takže samotný `pipeline.py` databázi znovu nevytvoří.
+Kroky 2 až 7 kromě hledání fotek provádějí subagenti Claude Code přes lokální workflow, které není součástí repozitáře. Stejně tak v něm nejsou stažená data z adresáře `data/`, takže samotný `pipeline.py` databázi znovu nevytvoří.
 
 ## Zásady obsahu
 

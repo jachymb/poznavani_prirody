@@ -110,14 +110,14 @@ EASTER_EGG = {
         ("Ochlazuje se pocením po celém těle.", "chování", ["Vlk obecný", "Liška obecná", "Prase divoké", "Slon africký"]),
     ],
     "false_for_human": [
-        ("Keporkak", "Má velmi dlouhé ploutve, až třetinu těla."),
-        ("Mýval severní", "Má výraznou černou masku na obličeji a pruhovaný ocas."),
-        ("Plejtvák obrovský", "Váží zhruba 72 až 135 tun."),
-        ("Pižmoň severní", "Rohy nosí samci i samice."),
-        ("Sob polární", "Má široké paznehty (kopyta), takže se neboří do sněhu."),
-        ("Mrož lední", "Kly mohou být dlouhé až jeden metr."),
-        ("Lemur kata", "Má dlouhý pruhovaný ocas, který mu pomáhá při skocích."),
-        ("Gepard štíhlý", "Má černé pruhy od očí k tlamě."),
+        ("Keporkak", "Q132905#0"),  # Má velmi dlouhé ploutve, až třetinu těla.
+        ("Mýval severní", "Q121439#0"),  # Má výraznou černou masku na obličeji a pruhovaný ocas.
+        ("Plejtvák obrovský", "Q42196#2"),  # Váží zhruba 72 až 135 tun.
+        ("Pižmoň severní", "Q184004#0"),  # Rohy nosí samci i samice.
+        ("Sob polární", "Q39624#3"),  # Má široké paznehty (kopyta), takže se neboří do sněhu.
+        ("Mrož lední", "Q40994#3"),  # Kly mohou být dlouhé až jeden metr.
+        ("Lemur kata", "Q185385#0"),  # Má dlouhý pruhovaný ocas, který mu pomáhá při skocích.
+        ("Gepard štíhlý", "Q23907#2"),  # Má černé pruhy od očí k tlamě.
     ],
 }
 MAX_PHOTOS = 4
@@ -337,7 +337,7 @@ def fetch(slug):
     base, species_file, articles, thumbs, *_ = paths(slug)
     articles.mkdir(parents=True, exist_ok=True)
     thumbs.mkdir(exist_ok=True)
-    for sub in ("facts", "more_photos", "photo_jobs", "neg", "neg_jobs", "review", "review_jobs", "continents", "continent_jobs"):
+    for sub in ("facts", "more_photos", "photo_jobs", "neg", "neg_jobs", "review", "review_jobs", "continents", "continent_jobs", "language", "language_jobs"):
         (base / sub).mkdir(exist_ok=True)
     # Wikidata někdy řadí druh do více tříd; zpracuje ho jen první
     others = set()
@@ -418,12 +418,13 @@ def missing(slug, stage):
     base, species_file, *_ = paths(slug)
     if stage == "facts":
         return [s for s in json.loads(species_file.read_text("utf-8")) if not has_valid_output(base / "facts" / f"{s}.json")]
-    jobs, results = {"photos": ("photo_jobs", "more_photos"), "negatives": ("neg_jobs", "neg"), "review": ("review_jobs", "review"), "continents": ("continent_jobs", "continents")}[stage]
+    jobs, results = {"photos": ("photo_jobs", "more_photos"), "negatives": ("neg_jobs", "neg"), "review": ("review_jobs", "review"),
+                     "continents": ("continent_jobs", "continents"), "language": ("language_jobs", "language")}[stage]
     return [j.stem for j in sorted((base / jobs).glob("*.json")) if not has_valid_output(base / results / j.name)]
 
 
 def todo(slug):
-    for stage in ("facts", "photos", "negatives", "review", "continents"):
+    for stage in ("facts", "photos", "negatives", "review", "continents", "language"):
         print(f"{stage}:", json.dumps(missing(slug, stage)))
 
 
@@ -441,7 +442,7 @@ def out_of_date(slug):
     built = base / "built.json"
     if not built.exists():
         return True
-    newest = max((f.stat().st_mtime for sub in ("facts", "more_photos", "neg", "review", "continents") for f in (base / sub).glob("*.json")), default=0)
+    newest = max((f.stat().st_mtime for sub in ("facts", "more_photos", "neg", "review", "continents", "language") for f in (base / sub).glob("*.json")), default=0)
     return newest > built.stat().st_mtime
 
 
@@ -473,6 +474,11 @@ def find_batch(limit):
         if stale:
             sync_continents(slug)
         found = batch("continents")
+        if found:
+            return found
+        if stale:
+            sync_language(slug)
+        found = batch("language")
         if found:
             return found
     write_game_data()
@@ -513,11 +519,23 @@ def leaks_name(text, sp):
         w.lower() in low for w in sp["latin"].split() if len(w) > 3)
 
 
+def text_problem(text, sp):
+    return ("prozrazuje název" if leaks_name(text, sp)
+            else "příliš dlouhé" if len(text) > 130
+            else "o jídle nebo léčbě" if UNSAFE.search(text)
+            else "")
+
+
 def load_facts(slug):
     """Načte výstupy kroku 1; tvrzení bez doslovné opory v článku nebo prozrazující název zahodí."""
     base, species_file, articles, _, facts_dir, *_ = paths(slug)
     species = json.loads(species_file.read_text("utf-8"))
     out, dropped = {}, Counter()
+    fixes, duplicates = {}, set()
+    for file in sorted((base / "language").glob("*.json")):
+        result = read_json(file)
+        fixes.update((d["id"], d["text"]) for d in result.get("fixes", []))
+        duplicates.update(d["id"] for d in result.get("drop", []))
     for sid, sp in species.items():
         file = facts_dir / f"{sid}.json"
         if not file.exists():
@@ -531,18 +549,21 @@ def load_facts(slug):
             article = norm((articles / f"{sid}.txt").read_text("utf-8").split("\n---\n", 1)[1])
             facts = []
             for i, f in enumerate(raw["facts"]):
+                fact_id = f"{sid}#{i}"
+                if fact_id in duplicates:
+                    dropped["stejný význam jako jiné tvrzení"] += 1
+                    continue
+                # jazyková oprava projde stejnými pravidly jako původní věta, jinak zůstává původní
+                text = fixes[fact_id] if fact_id in fixes and not text_problem(fixes[fact_id], sp) else f["text"]
                 reason = (
                     "citace není v článku" if len(norm(f["quote"])) < 10 or norm(f["quote"]) not in article
-                    else "prozrazuje název" if leaks_name(f["text"], sp)
-                    else "příliš dlouhé" if len(f["text"]) > 130
-                    else "špatná kategorie" if f["category"] not in CATEGORIES
-                    else "o jídle nebo léčbě" if UNSAFE.search(f["text"])
-                    else ""
+                    else text_problem(text, sp)
+                    or ("špatná kategorie" if f["category"] not in CATEGORIES else "")
                 )
                 if reason:
                     dropped[reason] += 1
                 else:
-                    facts.append({"id": f"{sid}#{i}", "text": f["text"], "quote": f["quote"], "category": f["category"]})
+                    facts.append({"id": fact_id, "text": text, "quote": f["quote"], "category": f["category"]})
             judged = list(raw["photos"])
             extra = base / "more_photos" / f"{sid}.json"
             if extra.exists():
@@ -658,6 +679,32 @@ def sync_continents(slug, batch=25):
     print(f"Kontinenty: {len(items)} nových druhů")
 
 
+def sync_language(slug, batch=40):
+    """Úlohy jazykové kontroly pro tvrzení z built.json, která jí ještě neprošla. Věty jednoho druhu drží u sebe."""
+    base, *_ = paths(slug)
+    (base / "language_jobs").mkdir(exist_ok=True)
+    (base / "language").mkdir(exist_ok=True)
+    done = {item["id"] for job in jobs_in(base / "language_jobs") for item in job}
+    _, facts, _ = load_facts(slug)
+    quotes = {f["id"]: f["quote"] for v in facts.values() for f in v["facts"]}
+    chunk, n, total = [], next_job_number(base / "language_jobs", "l_"), 0
+
+    def flush():
+        nonlocal chunk, n
+        if chunk:
+            (base / "language_jobs" / f"l_{n:04}.json").write_text(json.dumps(chunk, ensure_ascii=False, indent=1), encoding="utf-8")
+            chunk, n = [], n + 1
+
+    for s in json.loads((base / "built.json").read_text("utf-8"))["species"]:
+        items = [{"id": f["id"], "species": s["name"], "text": f["text"], "quote": quotes[f["id"]]} for f in s["facts"] if f["id"] not in done]
+        if len(chunk) + len(items) > batch:
+            flush()
+        chunk += items
+        total += len(items)
+    flush()
+    print(f"K jazykové kontrole: {total} tvrzení")
+
+
 def build(slug):
     base, _, _, _, _, _, neg_dir = paths(slug)
     species, facts, dropped = load_facts(slug)
@@ -741,8 +788,10 @@ def add_easter_egg(species):
     human = EASTER_EGG["species"]
     facts = [{"id": f"{human['id']}#{i}", "text": text, "cat": cat, "not": sorted(by_name[n]["id"] for n in others)}
              for i, (text, cat, others) in enumerate(EASTER_EGG["facts"])]
-    for name, text in EASTER_EGG["false_for_human"]:
-        next(f for f in by_name[name]["facts"] if f["text"] == text)["not"].append(human["id"])
+    for name, fact_id in EASTER_EGG["false_for_human"]:
+        for f in by_name[name]["facts"]:
+            if f["id"] == fact_id:  # test losování ohlídá, že jich zůstane dost
+                f["not"].append(human["id"])
     species.append({**human, "facts": facts})
 
 
