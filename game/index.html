@@ -198,7 +198,8 @@
   // Kvíz jen z jedné třídy. Nabízí se jen třídy, které při současném výběru jdou hrát.
   function classChoices() {
     const sections = KINGDOMS.map((k) => {
-      const buttons = classesOf(k.id).filter((c) => window.Quiz.makeQuestion([c], questionOptions())).map((c) =>
+      const playable = classesOf(k.id).filter((c) => window.Quiz.makeQuestion([c], questionOptions()));
+      const buttons = playable.sort((a, b) => b.species.length - a.species.length).map((c) =>
         el("button", { class: "group", onclick: () => startGame(k, { classSlug: c.slug }) }, groupIcon(c.slug), c.name, " ", el("small", {}, String(c.species.length))));
       return buttons.length ? el("section", {}, el("h3", {}, `${k.icon} ${k.label}`), el("div", { class: "groups" }, ...buttons)) : null;
     });

@@ -66,7 +66,7 @@ GAME_GROUPS = {
     "ptaci": ("Q5113", "Ptáci", "zivocichove"),
     "plazi": ("Q10811", "Plazi", "zivocichove"),
     "obojzivelnici": ("Q10908", "Obojživelníci", "zivocichove"),
-    "ryby": ("Q343460 Q204861 Q61881941 Q61881939 Q51290695 Q61881938", "Kostnaté ryby", "zivocichove"),
+    "ryby": ("Q343460 Q204861 Q61881941 Q61881939 Q51290695 Q61881938", "Ryby", "zivocichove"),
     "paryby": ("Q25371 Q149104", "Paryby", "zivocichove"),
     "hmyz": ("Q1390", "Hmyz", "zivocichove"),
     "pavoukovci": ("Q1358", "Pavoukovci", "zivocichove"),
