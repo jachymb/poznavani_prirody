@@ -1,0 +1,457 @@
+[
+ {
+  "id": "Q11308062#1",
+  "species": "Šurpek úhledný",
+  "latin": "Orthotrichum speciosum",
+  "text": "Roste hlavně na stromech, často na listnatých.",
+  "quote": "Druh roste převážně epifyticky na stromech v otevřené krajině i v lesích, zejména na listnatých dřevinách, vzácně na smrku.",
+  "claimed_false_for": {
+   "Q12039444": "Měřík trnitý (Mnium spinosum)",
+   "Q137867": "Kostrbatec tříkoutý (Rhytidiadelphus triquetrus)",
+   "Q1426971": "Bezvláska vlnkatá (Atrichum undulatum)",
+   "Q1460161": "Lazovec čistý (Pseudoscleropodium purum)",
+   "Q146224": "Měřík příbuzný (Plagiomnium affine)",
+   "Q149109": "Kostrbatec zelený (Rhytidiadelphus squarrosus)",
+   "Q3490169": "Hlevíček hladký (Phaeoceros laevis)",
+   "Q4354537": "Vlasolistec vlhkomilný (Tomentypnum nitens)"
+  }
+ },
+ {
+  "id": "Q12039444#0",
+  "species": "Měřík trnitý",
+  "latin": "Mnium spinosum",
+  "text": "Dorůstá 40 až 60 milimetrů.",
+  "quote": "Měřík trnitý dorůstá 40 až 60 mm.",
+  "claimed_false_for": {
+   "Q385125": "Pramenička obecná (Fontinalis antipyretica)"
+  }
+ },
+ {
+  "id": "Q137867#0",
+  "species": "Kostrbatec tříkoutý",
+  "latin": "Rhytidiadelphus triquetrus",
+  "text": "Dorůstá až 15 cm.",
+  "quote": "dorůstající až 15 cm",
+  "claimed_false_for": {
+   "Q385125": "Pramenička obecná (Fontinalis antipyretica)"
+  }
+ },
+ {
+  "id": "Q137867#1",
+  "species": "Kostrbatec tříkoutý",
+  "latin": "Rhytidiadelphus triquetrus",
+  "text": "Roste v lesích, na travnatých místech a na lukách, od nížin do hor.",
+  "quote": "Roste v lesích, na travnatých místech, na lukách, od nížin do hor.",
+  "claimed_false_for": {
+   "Q385125": "Pramenička obecná (Fontinalis antipyretica)"
+  }
+ },
+ {
+  "id": "Q1404902#0",
+  "species": "Baňatka obecná",
+  "latin": "Brachythecium rutabulum",
+  "text": "Roste na tlejícím dřevě, na skalách i na střechách domů.",
+  "quote": "Lze jej najít v lesích (např. na tlejícím dřevě, skalách, holé půdě), na loukách i střechách domů.",
+  "claimed_false_for": {
+   "Q385125": "Pramenička obecná (Fontinalis antipyretica)"
+  }
+ },
+ {
+  "id": "Q1460161#x0",
+  "species": "Lazovec čistý",
+  "latin": "Pseudoscleropodium purum",
+  "text": "Ukazuje na lesní půdy bohaté na dusík.",
+  "quote": "Es gilt als Zeigerart für stickstoffreiche Waldböden.",
+  "claimed_false_for": {
+   "Q11308062": "Šurpek úhledný (Orthotrichum speciosum)",
+   "Q148994": "Ploník chluponosný (Polytrichum piliferum)",
+   "Q292408": "Štěrbovka skalní (Andreaea rupestris)"
+  }
+ },
+ {
+  "id": "Q1460161#x1",
+  "species": "Lazovec čistý",
+  "latin": "Pseudoscleropodium purum",
+  "text": "Hromadí těžké kovy a dusík, proto se používá ke sledování dusíku v ovzduší.",
+  "quote": "Das Gemeine Grünstängelmoos ist in der Lage, Schwermetalle und Stickstoff zu akkumulieren.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q146224#x0",
+  "species": "Měřík příbuzný",
+  "latin": "Plagiomnium affine",
+  "text": "Roste na vlhkých, ale ne mokrých místech v lesích a na drnu.",
+  "quote": "growing in moist, but not wet, basic to slightly acidic micro-habitats in woodland and turf",
+  "claimed_false_for": {
+   "Q1572669": "Srpnatka fermežová (Hamatocaulis vernicosus)",
+   "Q1937687": "Prutník stříbřitý (Bryum argenteum)",
+   "Q385125": "Pramenička obecná (Fontinalis antipyretica)"
+  }
+ },
+ {
+  "id": "Q146224#x1",
+  "species": "Měřík příbuzný",
+  "latin": "Plagiomnium affine",
+  "text": "Vyskytuje se v původních severských lesích Severní Ameriky, Evropy a Asie.",
+  "quote": "found in old-growth boreal forests in North America, Europe and Asia",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q146224#x3",
+  "species": "Měřík příbuzný",
+  "latin": "Plagiomnium affine",
+  "text": "Buňky listů jsou uspořádány v šikmých řadách a vidět je lupou.",
+  "quote": "The leaf cells are arranged in diagonal rows and are easily discerned with a lens.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q149109#0",
+  "species": "Kostrbatec zelený",
+  "latin": "Rhytidiadelphus squarrosus",
+  "text": "Roste hojně v trávnících a na loukách.",
+  "quote": "Roste hojně v trávnících a na loukách.",
+  "claimed_false_for": {
+   "Q11308062": "Šurpek úhledný (Orthotrichum speciosum)",
+   "Q385125": "Pramenička obecná (Fontinalis antipyretica)"
+  }
+ },
+ {
+  "id": "Q149109#1",
+  "species": "Kostrbatec zelený",
+  "latin": "Rhytidiadelphus squarrosus",
+  "text": "Dorůstá délky až 15 cm.",
+  "quote": "dorůstající až 15 cm délky",
+  "claimed_false_for": {
+   "Q385125": "Pramenička obecná (Fontinalis antipyretica)"
+  }
+ },
+ {
+  "id": "Q150300#x0",
+  "species": "Klamonožka hlávkoplodá",
+  "latin": "Aulacomnium androgynum",
+  "text": "Rozmnožuje se nepohlavně pomocí shluku rozmnožovacích tělísek na konci dlouhé stopky.",
+  "quote": "exhibits a unique form of asexual reproduction where a cluster of haploid vegetative structures known as propagula is produced at the end of a long stalk",
+  "claimed_false_for": {
+   "Q1404902": "Baňatka obecná (Brachythecium rutabulum)",
+   "Q146224": "Měřík příbuzný (Plagiomnium affine)",
+   "Q1646440": "Travník Schreberův (Pleurozium schreberi)",
+   "Q245867": "Rokyt cypřišovitý (Hypnum cupressiforme)",
+   "Q292408": "Štěrbovka skalní (Andreaea rupestris)",
+   "Q301377": "Ploník ztenčený (Polytrichastrum formosum)"
+  }
+ },
+ {
+  "id": "Q150994#1",
+  "species": "Měřík tečkovaný",
+  "latin": "Rhizomnium punctatum",
+  "text": "Dorůstá až do výšky 6 cm.",
+  "quote": "dorůstá výšky až 6 cm",
+  "claimed_false_for": {
+   "Q385125": "Pramenička obecná (Fontinalis antipyretica)"
+  }
+ },
+ {
+  "id": "Q1572669#3",
+  "species": "Srpnatka fermežová",
+  "latin": "Hamatocaulis vernicosus",
+  "text": "Stonky bývají dlouhé 8 až 20 centimetrů.",
+  "quote": "Lodyžky vystoupavé až vzpřímené, 8–20 (– 30) cm dlouhé",
+  "claimed_false_for": {
+   "Q12039444": "Měřík trnitý (Mnium spinosum)",
+   "Q146224": "Měřík příbuzný (Plagiomnium affine)",
+   "Q150994": "Měřík tečkovaný (Rhizomnium punctatum)",
+   "Q2097953": "Kapraďovka podhořankovitá (Plagiochila porelloides)",
+   "Q3490169": "Hlevíček hladký (Phaeoceros laevis)"
+  }
+ },
+ {
+  "id": "Q1752834#x0",
+  "species": "Rohozub nachový",
+  "latin": "Ceratodon purpureus",
+  "text": "Oplození mechu pomáhají chvostoskoci, kteří vyhledávají samičí rostliny.",
+  "quote": "Springtails were found to choose female plants preferentially, and the study found that the springtails enhance moss fertilization.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1752834#x1",
+  "species": "Rohozub nachový",
+  "latin": "Ceratodon purpureus",
+  "text": "Spory zůstávají životaschopné i po 16 letech sušení.",
+  "quote": "have remained viable even after drying for 16 years.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1752834#x2",
+  "species": "Rohozub nachový",
+  "latin": "Ceratodon purpureus",
+  "text": "Snáší mnohem vyšší znečištění než jiné mechy.",
+  "quote": "Fire moss can tolerate much higher pollution levels than other mosses.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1752834#x3",
+  "species": "Rohozub nachový",
+  "latin": "Ceratodon purpureus",
+  "text": "Osidluje spáleniště a po silném požáru několik let převládá.",
+  "quote": "Fire moss is often the dominant vegetation for several years following  high-severity fire.",
+  "claimed_false_for": {
+   "Q11308062": "Šurpek úhledný (Orthotrichum speciosum)",
+   "Q149101": "Rokytník skvělý (Hylocomium splendens)",
+   "Q179213": "Dřípovičník zpeřený (Schistostega pennata)"
+  }
+ },
+ {
+  "id": "Q1763341#x0",
+  "species": "Bažinník kostrbatý",
+  "latin": "Paludella squarrosa",
+  "text": "Přežívá mezi rašeliníky díky blízkosti slabě železitého a kyselého pramene.",
+  "quote": "grazie alla vicinanza di una sorgente debolmente ferruginosa e discretamente acida",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1763341#x1",
+  "species": "Bažinník kostrbatý",
+  "latin": "Paludella squarrosa",
+  "text": "Některé malé zbytkové populace v Alpách zabírají jen 50 až 100 m².",
+  "quote": "coprono una superficie di appena 50–100 m2",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1777800#1",
+  "species": "Zpeřenka tamaryšková",
+  "latin": "Thuidium tamariscinum",
+  "text": "Roste ve stínu, protože nesnese delší přímé sluneční světlo.",
+  "quote": "Roste ve stinných porostech, jelikož se jedná o druh, který nesnese delší přímé osvětlení na stanovišti.",
+  "claimed_false_for": {
+   "Q3490169": "Hlevíček hladký (Phaeoceros laevis)"
+  }
+ },
+ {
+  "id": "Q178025#2",
+  "species": "Ploník obecný",
+  "latin": "Polytrichum commune",
+  "text": "Tobolky jsou ostře hranaté, mají čtyři až šest hran.",
+  "quote": "dokonale vyvinutá do ostře hranatého tvaru (čtyřhranná až šestihranná)",
+  "claimed_false_for": {
+   "Q137867": "Kostrbatec tříkoutý (Rhytidiadelphus triquetrus)",
+   "Q1404902": "Baňatka obecná (Brachythecium rutabulum)",
+   "Q1426971": "Bezvláska vlnkatá (Atrichum undulatum)",
+   "Q1460161": "Lazovec čistý (Pseudoscleropodium purum)",
+   "Q150994": "Měřík tečkovaný (Rhizomnium punctatum)",
+   "Q2097953": "Kapraďovka podhořankovitá (Plagiochila porelloides)",
+   "Q796552": "Plazivec obecný (Isothecium alopecuroides)"
+  }
+ },
+ {
+  "id": "Q179213#x0",
+  "species": "Dřípovičník zpeřený",
+  "latin": "Schistostega pennata",
+  "text": "Kulovité buňky fungují jako čočky a soustřeďují i velmi slabé světlo.",
+  "quote": "spherical cells in the protonema that act as lenses, collecting and concentrating even the faintest light",
+  "claimed_false_for": {
+   "Q11879787": "Štěrbovka sněžná (Andreaea nivalis)",
+   "Q137867": "Kostrbatec tříkoutý (Rhytidiadelphus triquetrus)",
+   "Q140350": "Drabík stromkovitý (Climacium dendroides)",
+   "Q1404902": "Baňatka obecná (Brachythecium rutabulum)",
+   "Q1426971": "Bezvláska vlnkatá (Atrichum undulatum)",
+   "Q1460161": "Lazovec čistý (Pseudoscleropodium purum)",
+   "Q148994": "Ploník chluponosný (Polytrichum piliferum)",
+   "Q149101": "Rokytník skvělý (Hylocomium splendens)",
+   "Q149109": "Kostrbatec zelený (Rhytidiadelphus squarrosus)",
+   "Q1500863": "Bělomech sivý (Leucobryum glaucum)",
+   "Q150300": "Klamonožka hlávkoplodá (Aulacomnium androgynum)",
+   "Q150994": "Měřík tečkovaný (Rhizomnium punctatum)",
+   "Q1646440": "Travník Schreberův (Pleurozium schreberi)",
+   "Q1752834": "Rohozub nachový (Ceratodon purpureus)",
+   "Q1763341": "Bažinník kostrbatý (Paludella squarrosa)",
+   "Q178025": "Ploník obecný (Polytrichum commune)",
+   "Q182303": "Křivonožka vehnutá (Campylopus introflexus)",
+   "Q1937687": "Prutník stříbřitý (Bryum argenteum)",
+   "Q2097953": "Kapraďovka podhořankovitá (Plagiochila porelloides)",
+   "Q245867": "Rokyt cypřišovitý (Hypnum cupressiforme)",
+   "Q301377": "Ploník ztenčený (Polytrichastrum formosum)",
+   "Q4354537": "Vlasolistec vlhkomilný (Tomentypnum nitens)",
+   "Q442127": "Měřík trsnatý (Mnium hornum)",
+   "Q5400250": "Dvouhrotec tuhý (Dicranum tauricum)",
+   "Q796552": "Plazivec obecný (Isothecium alopecuroides)",
+   "Q992846": "Porostnice mnohotvárná (Marchantia polymorpha)"
+  }
+ },
+ {
+  "id": "Q179213#x1",
+  "species": "Dřípovičník zpeřený",
+  "latin": "Schistostega pennata",
+  "text": "Ve tmavých místech září zelenozlatým leskem.",
+  "quote": "giving the moss a greenish-gold glow",
+  "claimed_false_for": {
+   "Q11879787": "Štěrbovka sněžná (Andreaea nivalis)",
+   "Q140350": "Drabík stromkovitý (Climacium dendroides)",
+   "Q148994": "Ploník chluponosný (Polytrichum piliferum)",
+   "Q149101": "Rokytník skvělý (Hylocomium splendens)",
+   "Q149109": "Kostrbatec zelený (Rhytidiadelphus squarrosus)",
+   "Q1500863": "Bělomech sivý (Leucobryum glaucum)",
+   "Q150300": "Klamonožka hlávkoplodá (Aulacomnium androgynum)",
+   "Q1646440": "Travník Schreberův (Pleurozium schreberi)",
+   "Q1752834": "Rohozub nachový (Ceratodon purpureus)",
+   "Q1763341": "Bažinník kostrbatý (Paludella squarrosa)",
+   "Q178025": "Ploník obecný (Polytrichum commune)",
+   "Q182303": "Křivonožka vehnutá (Campylopus introflexus)",
+   "Q1937687": "Prutník stříbřitý (Bryum argenteum)",
+   "Q245867": "Rokyt cypřišovitý (Hypnum cupressiforme)",
+   "Q301377": "Ploník ztenčený (Polytrichastrum formosum)",
+   "Q4354537": "Vlasolistec vlhkomilný (Tomentypnum nitens)",
+   "Q442127": "Měřík trsnatý (Mnium hornum)",
+   "Q5400250": "Dvouhrotec tuhý (Dicranum tauricum)",
+   "Q992846": "Porostnice mnohotvárná (Marchantia polymorpha)"
+  }
+ },
+ {
+  "id": "Q179213#x2",
+  "species": "Dřípovičník zpeřený",
+  "latin": "Schistostega pennata",
+  "text": "Roste i na stinných místech, kde jiné rostliny nepřežijí.",
+  "quote": "allows it to grow in shady places where other plants cannot survive",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1937687#1",
+  "species": "Prutník stříbřitý",
+  "latin": "Bryum argenteum",
+  "text": "Roste na střechách, na zdech a mezi dlažbou.",
+  "quote": "spáry mezi dlažbou, střechy a zdi",
+  "claimed_false_for": {
+   "Q150994": "Měřík tečkovaný (Rhizomnium punctatum)"
+  }
+ },
+ {
+  "id": "Q245867#1",
+  "species": "Rokyt cypřišovitý",
+  "latin": "Hypnum cupressiforme",
+  "text": "Nejčastěji roste v lesích na skalách, kamenech a pařezech.",
+  "quote": "Nejčastěji se vyskytuje v lesích, kde vegetuje na skalách, kamenech, pařezech a tlejícím dřevě.",
+  "claimed_false_for": {
+   "Q385125": "Pramenička obecná (Fontinalis antipyretica)"
+  }
+ },
+ {
+  "id": "Q292408#x1",
+  "species": "Štěrbovka skalní",
+  "latin": "Andreaea rupestris",
+  "text": "Tobolka se za sucha otevírá a za vlhka zase zavírá.",
+  "quote": "The sporangium is hygroscopic as it will dehisce in dry conditions to release spores from the gaps, and will close back up in moist conditions.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q292408#x2",
+  "species": "Štěrbovka skalní",
+  "latin": "Andreaea rupestris",
+  "text": "Tvoří husté polštářovité trsy vysoké 2 až 3 cm.",
+  "quote": "It grows in patches of dense, cushion-like tufts up to 2–3 cm high",
+  "claimed_false_for": {
+   "Q11879787": "Štěrbovka sněžná (Andreaea nivalis)",
+   "Q1426971": "Bezvláska vlnkatá (Atrichum undulatum)",
+   "Q1432956": "Měřík čeřitý (Plagiomnium undulatum)",
+   "Q1777800": "Zpeřenka tamaryšková (Thuidium tamariscinum)",
+   "Q179213": "Dřípovičník zpeřený (Schistostega pennata)",
+   "Q385125": "Pramenička obecná (Fontinalis antipyretica)",
+   "Q867250": "Rašeliník kostrbatý (Sphagnum squarrosum)"
+  }
+ },
+ {
+  "id": "Q292408#x3",
+  "species": "Štěrbovka skalní",
+  "latin": "Andreaea rupestris",
+  "text": "Roste i v Antarktidě.",
+  "quote": "Central America, New Zealand, Antarctica and more recently in 2018, Greece.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q325331#0",
+  "species": "Děrkavka poduškovitá",
+  "latin": "Grimmia pulvinata",
+  "text": "Často osidluje zdivo a beton.",
+  "quote": "velmi často však osidluje sekundární substráty antropogenního původu (zdivo, beton)",
+  "claimed_false_for": {
+   "Q137867": "Kostrbatec tříkoutý (Rhytidiadelphus triquetrus)"
+  }
+ },
+ {
+  "id": "Q385125#0",
+  "species": "Pramenička obecná",
+  "latin": "Fontinalis antipyretica",
+  "text": "Tvoří trsy, které běžně dosahují délky větší než 15 centimetrů.",
+  "quote": "Tento druh mechu tvoří nápadné trsy, které běžně dosahují délky větší než 15 centimetrů.",
+  "claimed_false_for": {
+   "Q12039444": "Měřík trnitý (Mnium spinosum)",
+   "Q1426971": "Bezvláska vlnkatá (Atrichum undulatum)",
+   "Q146224": "Měřík příbuzný (Plagiomnium affine)",
+   "Q150994": "Měřík tečkovaný (Rhizomnium punctatum)",
+   "Q2097953": "Kapraďovka podhořankovitá (Plagiochila porelloides)",
+   "Q3490169": "Hlevíček hladký (Phaeoceros laevis)"
+  }
+ },
+ {
+  "id": "Q442127#x0",
+  "species": "Měřík trsnatý",
+  "latin": "Mnium hornum",
+  "text": "Tento druh se běžně vyskytuje ve vlhkých lesích na kyselé půdě.",
+  "quote": "It is commonly found in damp woodland conditions, especially in acidic soil, such as oak-birch, beech and pine woodlands.",
+  "claimed_false_for": {
+   "Q1572669": "Srpnatka fermežová (Hamatocaulis vernicosus)",
+   "Q1937687": "Prutník stříbřitý (Bryum argenteum)",
+   "Q385125": "Pramenička obecná (Fontinalis antipyretica)"
+  }
+ },
+ {
+  "id": "Q442127#x1",
+  "species": "Měřík trsnatý",
+  "latin": "Mnium hornum",
+  "text": "Roste na zemi, kládách, skalách, patách stromů i podél potoků.",
+  "quote": "It is found on the ground, logs, rocks, tree bases and along streams.",
+  "claimed_false_for": {
+   "Q1572669": "Srpnatka fermežová (Hamatocaulis vernicosus)"
+  }
+ },
+ {
+  "id": "Q867250#x0",
+  "species": "Rašeliník kostrbatý",
+  "latin": "Sphagnum squarrosum",
+  "text": "Patří mezi první mechy, které osidlují vznikající mokřady.",
+  "quote": "the species is one of the first Sphagnum mosses to colonise developing wetlands",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q867250#x1",
+  "species": "Rašeliník kostrbatý",
+  "latin": "Sphagnum squarrosum",
+  "text": "Parazituje na něm houba, která napadá asi polovinu známých populací.",
+  "quote": "The species serves as the specific host for the fungal parasite Discinella schimperi, which infects about half of all documented populations.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q867250#x3",
+  "species": "Rašeliník kostrbatý",
+  "latin": "Sphagnum squarrosum",
+  "text": "Jedna tobolka obsahuje asi 243 000 spor.",
+  "quote": "With approximately 243,000 spores per capsule",
+  "claimed_false_for": {
+   "Q179213": "Dřípovičník zpeřený (Schistostega pennata)"
+  }
+ },
+ {
+  "id": "Q867250#x4",
+  "species": "Rašeliník kostrbatý",
+  "latin": "Sphagnum squarrosum",
+  "text": "Jeho spory založily nové porosty až 40 km od mateřských rostlin.",
+  "quote": "successfully establishing populations as far as 40 km (25 mi) from parent sources",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q867250#x5",
+  "species": "Rašeliník kostrbatý",
+  "latin": "Sphagnum squarrosum",
+  "text": "Roste v mokrých lesích, kde převládají vrby a břízy.",
+  "quote": "in wet woodlands dominated by Salix (willows) and Betula (birches)",
+  "claimed_false_for": {}
+ }
+]

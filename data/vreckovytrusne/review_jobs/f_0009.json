@@ -1,0 +1,60 @@
+[
+ {
+  "id": "Q205117#2",
+  "species": "Nektriové usychání větví",
+  "latin": "Nectria cinnabarina",
+  "text": "Žije na odumřelých částech rostlin.",
+  "quote": "obvykle žije jako saprofyt na odumřelých částech rostlin",
+  "claimed_false_for": {
+   "Q10635270": "Americké padlí angreštové (Podosphaera mors-uvae)"
+  }
+ },
+ {
+  "id": "Q206711#1",
+  "species": "Rosolozub huspenitý",
+  "latin": "Pseudohydnum gelatinosum",
+  "text": "Plodnice mívají průměr až 8 cm.",
+  "quote": "mívají průměr až 8 cm",
+  "claimed_false_for": {
+   "Q10635270": "Americké padlí angreštové (Podosphaera mors-uvae)",
+   "Q1135851": "Plíseň šedá (Botrytis cinerea)",
+   "Q619358": "Suchá skvrnitost listů peckovin (Stigmina carpophila)"
+  }
+ },
+ {
+  "id": "Q2118699#2",
+  "species": "Housenice červená",
+  "latin": "Cordyceps militaris",
+  "text": "Parazituje na kuklách motýlů.",
+  "quote": "parazituje na kuklách motýlů",
+  "claimed_false_for": {
+   "Q10635270": "Americké padlí angreštové (Podosphaera mors-uvae)",
+   "Q1135851": "Plíseň šedá (Botrytis cinerea)",
+   "Q1272474": "Dřevnatka parohatá (Xylaria hypoxylon)",
+   "Q619358": "Suchá skvrnitost listů peckovin (Stigmina carpophila)"
+  }
+ },
+ {
+  "id": "Q2519734#0",
+  "species": "Ohnivec rakouský",
+  "latin": "Sarcoscypha austriaca",
+  "text": "Roste na mrtvém dřevě listnatých stromů.",
+  "quote": "na mrtvém dřevě listnáčů",
+  "claimed_false_for": {
+   "Q10635270": "Americké padlí angreštové (Podosphaera mors-uvae)",
+   "Q619358": "Suchá skvrnitost listů peckovin (Stigmina carpophila)"
+  }
+ },
+ {
+  "id": "Q898044#2",
+  "species": "Dřevomor kořenový",
+  "latin": "Kretzschmaria deusta",
+  "text": "Rozkládá dřevo hlavně listnatých stromů.",
+  "quote": "která rozkládá dřevo především listnatých stromů",
+  "claimed_false_for": {
+   "Q10635270": "Americké padlí angreštové (Podosphaera mors-uvae)",
+   "Q1135851": "Plíseň šedá (Botrytis cinerea)",
+   "Q619358": "Suchá skvrnitost listů peckovin (Stigmina carpophila)"
+  }
+ }
+]

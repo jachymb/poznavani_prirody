@@ -1,0 +1,521 @@
+[
+ {
+  "id": "Q159737#x5",
+  "species": "Lupina mnoholistá",
+  "latin": "Lupinus polyphyllus",
+  "text": "Žije v průměru jen asi 3 roky.",
+  "quote": "żyjącą średnio 3 lata",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q159757#x0",
+  "species": "Svízel bahenní",
+  "latin": "Galium palustre",
+  "text": "Roste u bažin, na březích řek, v zamokřených lesích a na vlhkých loukách.",
+  "quote": "Встречается у болот, берегов рек, в заболоченных лесах, сырых лугах.",
+  "claimed_false_for": {
+   "Q132677": "Iboga (Tabernanthe iboga)",
+   "Q1674576": "Hořec chladnomilný (Gentiana frigida)",
+   "Q948690": "Plchoplod otevřený (Calotropis procera)"
+  }
+ },
+ {
+  "id": "Q159757#x1",
+  "species": "Svízel bahenní",
+  "latin": "Galium palustre",
+  "text": "Listy vyrůstají v přeslenech po čtyřech a mají drsný povrch s drobnými ostny.",
+  "quote": "Листья собраны в мутовки по 4, продолговатые, тонкие, с единственной жилкой. Поверхность шероховатая из-за направленных вниз шипиков.",
+  "claimed_false_for": {
+   "Q1130368": "Bazela bílá (Basella alba)",
+   "Q113252109": "Kravinec španělský (Gypsophila vaccaria)",
+   "Q132677": "Iboga (Tabernanthe iboga)",
+   "Q146136": "Krušina olšová (Frangula alnus)",
+   "Q1478038": "Melok hlíznatý (Ullucus tuberosus)",
+   "Q150591": "Silenka kapská (Silene undulata)",
+   "Q1556733": "Serisa smrdutá (Serissa japonica)",
+   "Q156841": "Mydlice lékařská (Saponaria officinalis)",
+   "Q156854": "Svízel syřišťový (Galium verum)",
+   "Q157452": "Ptačinec velkokvětý (Stellaria holostea)",
+   "Q159360": "Svízel nízký (Galium pumilum)",
+   "Q159596": "Mydlice bazalkovitá (Saponaria ocymoides)",
+   "Q159744": "Svízel povázka (Galium mollugo)",
+   "Q159756": "Hvozdík kropenatý (Dianthus deltoides)",
+   "Q161584": "Zimolez ovíjivý (Lonicera periclymenum)",
+   "Q164337": "Hvozdíček lomikamenovitý (Petrorhagia saxifraga)",
+   "Q1674576": "Hořec chladnomilný (Gentiana frigida)",
+   "Q47532": "Kávovník statný (Coffea canephora)",
+   "Q47718": "Kávovník liberijský (Coffea liberica)",
+   "Q4992358": "Hlavoš západní (Cephalanthus occidentalis)",
+   "Q736307": "Rosnolist lusitánský (Drosophyllum lusitanicum)",
+   "Q9325795": "Růže oválnolistá (Rosa elliptica)",
+   "Q948690": "Plchoplod otevřený (Calotropis procera)"
+  }
+ },
+ {
+  "id": "Q159767#3",
+  "species": "Vikev panonská",
+  "latin": "Vicia pannonica",
+  "text": "Má lusky dlouhé 25 až 30 milimetrů.",
+  "quote": "Plod je podlouhlý zploštělý neopadavý lusk velký 25 až 30 mm",
+  "claimed_false_for": {
+   "Q5380081": "Entada rheedii (Entada rheedei)",
+   "Q600793": "Naditec jehnědokvětý (Prosopis juliflora)"
+  }
+ },
+ {
+  "id": "Q159773#2",
+  "species": "Hrachor chlupatý",
+  "latin": "Lathyrus hirsutus",
+  "text": "Má lusky pokryté drsnými štětinkami.",
+  "quote": "které jsou celé drsně štětinaté",
+  "claimed_false_for": {
+   "Q157650": "Dřezovec trojtrnný (Gleditsia triacanthos)",
+   "Q158890": "Žanovec měchýřník (Colutea arborescens)"
+  }
+ },
+ {
+  "id": "Q159819#1",
+  "species": "Pupkovec pomněnkový",
+  "latin": "Omphalodes scorpioides",
+  "text": "Má drobné modré květy, asi 4 mm velké.",
+  "quote": "Kolovitá koruna je pravidelná, asi 4 mm velká a světle až tmavě modrá.",
+  "claimed_false_for": {
+   "Q162998": "Hadinec teidský (Echium wildpretii)",
+   "Q341668": "Kamejka rolní (Buglossoides arvensis)",
+   "Q515267": "Kamejka lékařská (Lithospermum officinale)"
+  }
+ },
+ {
+  "id": "Q159819#2",
+  "species": "Pupkovec pomněnkový",
+  "latin": "Omphalodes scorpioides",
+  "text": "Roste na vlhké půdě u vodních toků.",
+  "quote": "Vyskytuje se na vlhkých, lehčích i středně těžkých, silně humózních půdách v blízkosti vodních toků.",
+  "claimed_false_for": {
+   "Q1520598": "Ostrolist poléhavý (Asperugo procumbens)",
+   "Q157577": "Pilát lékařský (Anchusa officinalis)",
+   "Q158942": "Svazenka vratičolistá (Phacelia tanacetifolia)",
+   "Q162998": "Hadinec teidský (Echium wildpretii)",
+   "Q341668": "Kamejka rolní (Buglossoides arvensis)"
+  }
+ },
+ {
+  "id": "Q159826#0",
+  "species": "Řepovník svraskalý",
+  "latin": "Rapistrum rugosum",
+  "text": "Má světle žluté květy s tmavými žilkami.",
+  "quote": "jsou světle žluté s tmavým žilkováním a při sušení zbělají",
+  "claimed_false_for": {
+   "Q15545776": "Večernice lesní (Hesperis sylvestris)",
+   "Q1575025": "Iberka gibraltarská (Iberis gibraltarica)",
+   "Q158221": "Řeřišnice nedůtklivá (Cardamine impatiens)",
+   "Q159306": "Iberka vždyzelená (Iberis sempervirens)",
+   "Q163035": "Penízek modravý (Noccaea caerulescens)",
+   "Q163305": "Řeřišnice malokvětá (Cardamine parviflora)",
+   "Q163394": "Huseník ouškatý (Arabis auriculata)"
+  }
+ },
+ {
+  "id": "Q159874#0",
+  "species": "Konopice pýřitá",
+  "latin": "Galeopsis pubescens",
+  "text": "Kvete od července do října.",
+  "quote": "Je terofyt kvetoucí od července do října.",
+  "claimed_false_for": {
+   "Q887221": "Dřín květnatý (Cornus florida)"
+  }
+ },
+ {
+  "id": "Q159969#1",
+  "species": "Hořec Clusiův",
+  "latin": "Gentiana clusii",
+  "text": "Koruna je sytě modrá a má tvar zvonku.",
+  "quote": "sytě modré koruny ve tvaru zvonku",
+  "claimed_false_for": {
+   "Q160885": "Svízel moravský (Galium valdepilosum)"
+  }
+ },
+ {
+  "id": "Q160062#0",
+  "species": "Skalník černoplodý",
+  "latin": "Cotoneaster melanocarpus",
+  "text": "Kvete na jaře, v dubnu a květnu.",
+  "quote": "Kvete v dubnu a květnu",
+  "claimed_false_for": {
+   "Q3390128": "Oměj tuhý (Aconitum firmum)",
+   "Q3467740": "Oměj moldavský (Aconitum moldavicum)",
+   "Q4093614": "Oměj zahradní (Aconitum × cammarum)",
+   "Q4266316": "Plamének tangutský (Clematis tangutica)",
+   "Q682257": "Ploštičník hroznatý (Actaea racemosa)",
+   "Q909197": "Plamének palčivý (Clematis flammula)"
+  }
+ },
+ {
+  "id": "Q160062#1",
+  "species": "Skalník černoplodý",
+  "latin": "Cotoneaster melanocarpus",
+  "text": "Na podzim listy září oranžovou a červenou barvou.",
+  "quote": "S podzimem se barví do jasných odstínů oranžové a červené.",
+  "claimed_false_for": {
+   "Q161621": "Dryádka osmiplátečná (Dryas octopetala)"
+  }
+ },
+ {
+  "id": "Q160114#2",
+  "species": "Máta klasnatá",
+  "latin": "Mentha spicata",
+  "text": "Dorůstá do výšky 0,5 až 1,1 metru.",
+  "quote": "dorůstající do výše 0,5 až 1,1 m",
+  "claimed_false_for": {
+   "Q2094356": "Tařicovka přímořská (Lobularia maritima)"
+  }
+ },
+ {
+  "id": "Q160191#0",
+  "species": "Lžičník lékařský",
+  "latin": "Cochlearia officinalis",
+  "text": "Dorůstá do výšky 15 až 30 cm.",
+  "quote": "dorůstá v době dozrávání plodů do výše 15 až 30 cm",
+  "claimed_false_for": {
+   "Q1001011": "Dub sametový (Quercus velutina)",
+   "Q1082365": "Dub velkoplodý (Quercus macrocarpa)",
+   "Q1367359": "Dub mongolský (Quercus mongolica)",
+   "Q146149": "Buk lesní (Fagus sylvatica)",
+   "Q161415": "Dub pýřitý (Quercus pubescens)",
+   "Q2432250": "Dub portugalský (Quercus faginea)",
+   "Q3927688": "Dub žlutavý (Quercus dalechampii)",
+   "Q469555": "Dub bílý (Quercus alba)"
+  }
+ },
+ {
+  "id": "Q160239#1",
+  "species": "Lebeda lesklá",
+  "latin": "Atriplex sagittata",
+  "text": "Kvete hlavně od července do září.",
+  "quote": "Květy rozkvétají hlavně od července do září",
+  "claimed_false_for": {
+   "Q1084114": "Starček jarní (Senecio vernalis)"
+  }
+ },
+ {
+  "id": "Q160319#3",
+  "species": "Trýzel rozkladitý",
+  "latin": "Erysimum repandum",
+  "text": "Stonek měří až 40 centimetrů.",
+  "quote": "tuhou lodyhou až 40 cm vysokou",
+  "claimed_false_for": {
+   "Q1001011": "Dub sametový (Quercus velutina)",
+   "Q1082365": "Dub velkoplodý (Quercus macrocarpa)",
+   "Q1367359": "Dub mongolský (Quercus mongolica)",
+   "Q146149": "Buk lesní (Fagus sylvatica)",
+   "Q161415": "Dub pýřitý (Quercus pubescens)",
+   "Q2432250": "Dub portugalský (Quercus faginea)",
+   "Q3927688": "Dub žlutavý (Quercus dalechampii)",
+   "Q469555": "Dub bílý (Quercus alba)"
+  }
+ },
+ {
+  "id": "Q160377#0",
+  "species": "Trýzel škardolistý",
+  "latin": "Erysimum crepidifolium",
+  "text": "Dorůstá až do 60 cm.",
+  "quote": "dorůstající do 60 cm",
+  "claimed_false_for": {
+   "Q11797118": "Hladýš andělikový (Laserpitium archangelica)",
+   "Q2302697": "Vrba Matsudova (Salix matsudana)"
+  }
+ },
+ {
+  "id": "Q160388#0",
+  "species": "Penízek horský",
+  "latin": "Noccaea montana",
+  "text": "Má bílé květy.",
+  "quote": "vytrvalá, bíle kvetoucí rostlina",
+  "claimed_false_for": {
+   "Q165105": "Ředkevník potočnicolistý (Erucastrum nasturtiifolium)",
+   "Q177932": "Brukev řepka (Brassica napus)",
+   "Q2039368": "Večernice smutná (Hesperis tristis)",
+   "Q244583": "Kyčelnice cibulkonosná (Cardamine bulbifera)",
+   "Q2716037": "Degenie velebitská (Degenia velebitica)",
+   "Q27986": "Hořčice polní (Sinapis arvensis)",
+   "Q30063": "Fiala šedivá (Matthiola incana)",
+   "Q381942": "Brukev černá (Brassica nigra)"
+  }
+ },
+ {
+  "id": "Q160480#0",
+  "species": "Kozlíček zubatý",
+  "latin": "Valerianella dentata",
+  "text": "Má bledě modré květy, velké jen 1,5 mm.",
+  "quote": "bleděmodrá trubkovitá koruna bývá 1,5 mm velká",
+  "claimed_false_for": {
+   "Q1066116": "Dub srpovitý (Quercus falcata)",
+   "Q155814": "Pelyněk estragon (Artemisia dracunculus)",
+   "Q1569528": "Razilka smrdutá (Aposeris foetida)",
+   "Q163785": "Hořec bezlodyžný (Gentiana acaulis)",
+   "Q164323": "Weigelie růžová (Weigela florida)",
+   "Q164326": "Hlaváč žlutavý (Scabiosa ochroleuca)",
+   "Q3708857": "Dvojštítník břichatý (Dipelta yunnanensis)"
+  }
+ },
+ {
+  "id": "Q160480#1",
+  "species": "Kozlíček zubatý",
+  "latin": "Valerianella dentata",
+  "text": "Kvete od června do září.",
+  "quote": "kvetou od června do září.",
+  "claimed_false_for": {
+   "Q1066116": "Dub srpovitý (Quercus falcata)"
+  }
+ },
+ {
+  "id": "Q160480#x0",
+  "species": "Kozlíček zubatý",
+  "latin": "Valerianella dentata",
+  "text": "Roste jako plevel na polích.",
+  "quote": "Rośnie jako chwast w uprawach polowych.",
+  "claimed_false_for": {
+   "Q1066116": "Dub srpovitý (Quercus falcata)",
+   "Q1103807": "Zimolez kamčatský (Lonicera kamtschatica)",
+   "Q12027723": "Kalina Davidova (Viburnum davidii)",
+   "Q1321268": "Kalina modroplodá (Viburnum tinus)",
+   "Q163785": "Hořec bezlodyžný (Gentiana acaulis)",
+   "Q164323": "Weigelie růžová (Weigela florida)",
+   "Q180606": "Kalina vrásčitolistá (Viburnum rhytidophyllum)",
+   "Q3321544": "Kalina severoamerická (Viburnum lentago)",
+   "Q3708857": "Dvojštítník břichatý (Dipelta yunnanensis)"
+  }
+ },
+ {
+  "id": "Q160480#x1",
+  "species": "Kozlíček zubatý",
+  "latin": "Valerianella dentata",
+  "text": "Dorůstá výšky 15 až 50 centimetrů.",
+  "quote": "Roślina zielna osiągająca od 15 do 50 cm wysokości",
+  "claimed_false_for": {
+   "Q1066116": "Dub srpovitý (Quercus falcata)",
+   "Q1103807": "Zimolez kamčatský (Lonicera kamtschatica)",
+   "Q1321268": "Kalina modroplodá (Viburnum tinus)",
+   "Q155814": "Pelyněk estragon (Artemisia dracunculus)",
+   "Q164323": "Weigelie růžová (Weigela florida)",
+   "Q180606": "Kalina vrásčitolistá (Viburnum rhytidophyllum)",
+   "Q3321544": "Kalina severoamerická (Viburnum lentago)",
+   "Q3708857": "Dvojštítník břichatý (Dipelta yunnanensis)"
+  }
+ },
+ {
+  "id": "Q160480#x2",
+  "species": "Kozlíček zubatý",
+  "latin": "Valerianella dentata",
+  "text": "Kvete v červnu a červenci, někdy až do srpna.",
+  "quote": "kwitnąca w czerwcu i lipcu, czasem do sierpnia",
+  "claimed_false_for": {
+   "Q1066116": "Dub srpovitý (Quercus falcata)"
+  }
+ },
+ {
+  "id": "Q160480#x3",
+  "species": "Kozlíček zubatý",
+  "latin": "Valerianella dentata",
+  "text": "Žije jen jeden rok.",
+  "quote": "Roślina jednoroczna kwitnąca",
+  "claimed_false_for": {
+   "Q1066116": "Dub srpovitý (Quercus falcata)",
+   "Q1103807": "Zimolez kamčatský (Lonicera kamtschatica)",
+   "Q12027723": "Kalina Davidova (Viburnum davidii)",
+   "Q1321268": "Kalina modroplodá (Viburnum tinus)",
+   "Q155814": "Pelyněk estragon (Artemisia dracunculus)",
+   "Q1569528": "Razilka smrdutá (Aposeris foetida)",
+   "Q163785": "Hořec bezlodyžný (Gentiana acaulis)",
+   "Q164323": "Weigelie růžová (Weigela florida)",
+   "Q164326": "Hlaváč žlutavý (Scabiosa ochroleuca)",
+   "Q180606": "Kalina vrásčitolistá (Viburnum rhytidophyllum)",
+   "Q3321544": "Kalina severoamerická (Viburnum lentago)",
+   "Q3708857": "Dvojštítník břichatý (Dipelta yunnanensis)"
+  }
+ },
+ {
+  "id": "Q160885#3",
+  "species": "Svízel moravský",
+  "latin": "Galium valdepilosum",
+  "text": "Miluje slunce, sucho a teplo.",
+  "quote": "Světlomilný, suchomilný a teplomilný druh",
+  "claimed_false_for": {
+   "Q12209033": "Pryskyřník stranokvětý (Ranunculus lateriflorus)",
+   "Q1339284": "Pryskyřník lítý (Ranunculus sceleratus)"
+  }
+ },
+ {
+  "id": "Q1610350#0",
+  "species": "Mateřídouška ozdobná",
+  "latin": "Thymus pulcherrimus",
+  "text": "Kvete od června do září.",
+  "quote": "Kvete v závislosti na stanovišti od června do září.",
+  "claimed_false_for": {
+   "Q306399": "Šalvěj rakouská (Salvia austriaca)",
+   "Q90595797": "Šalvěj Yangova (Salvia yangii)"
+  }
+ },
+ {
+  "id": "Q1610350#3",
+  "species": "Mateřídouška ozdobná",
+  "latin": "Thymus pulcherrimus",
+  "text": "Kvetoucí větvičky dorůstají do výšky 5 až 10 cm.",
+  "quote": "dorůstají do výšky 5 až 10 cm",
+  "claimed_false_for": {
+   "Q1227336": "Dobromysl třemdavovitá (Origanum dictamnus)",
+   "Q159332": "Hortenzie řapíkatá (Hydrangea petiolaris)",
+   "Q164130": "Svída výběžkatá (Cornus sericea)",
+   "Q168335": "Dřín hlavatý (Cornus capitata)",
+   "Q17242685": "Pustoryl nevonný (Philadelphus inodorus)",
+   "Q2707318": "Alángium čínské (Alangium chinense)",
+   "Q5233052": "Pustoryl načervenalý (Philadelphus purpurascens)",
+   "Q639615": "Svída střídavolistá (Cornus alternifolia)",
+   "Q887221": "Dřín květnatý (Cornus florida)",
+   "Q926249": "Svída pochybná (Cornus controversa)"
+  }
+ },
+ {
+  "id": "Q161080#0",
+  "species": "Šalvěj zářivá",
+  "latin": "Salvia splendens",
+  "text": "Kvete od června do září.",
+  "quote": "začíná kvést zpravidla, v závislosti na stanovišti, od června a kvete do září",
+  "claimed_false_for": {
+   "Q306399": "Šalvěj rakouská (Salvia austriaca)",
+   "Q90595797": "Šalvěj Yangova (Salvia yangii)"
+  }
+ },
+ {
+  "id": "Q161080#1",
+  "species": "Šalvěj zářivá",
+  "latin": "Salvia splendens",
+  "text": "Pochází z jihovýchodní Brazílie.",
+  "quote": "je původním druhem v jihovýchodních oblastech Brazílie",
+  "claimed_false_for": {
+   "Q157914": "Náprstník žlutý (Digitalis lutea)",
+   "Q158167": "Rozrazil klasnatý (Veronica spicata)",
+   "Q159135": "Šeřík karpatský (Syringa josikaea)",
+   "Q159823": "Krtičník křídlatý (Scrophularia umbrosa)",
+   "Q161421": "Jasan zimnář (Fraxinus ornus)",
+   "Q2707970": "Komule střídavolistá (Buddleja alternifolia)",
+   "Q2776477": "Jasan úzkolistý syrský (Fraxinus syriaca)",
+   "Q518949": "Jasan úzkolistý (Fraxinus angustifolia)",
+   "Q6077871": "Jitrocel alpínský (Plantago alpina)",
+   "Q623461": "Jasmín nahokvětý (Jasminum nudiflorum)",
+   "Q789360": "Jitrocel blešníkový (Plantago afra)",
+   "Q941035": "Divizna ozdobná (Verbascum speciosum)"
+  }
+ },
+ {
+  "id": "Q161105#x0",
+  "species": "Platan východní",
+  "latin": "Platanus orientalis",
+  "text": "Dorůstá výšky 30 metrů i více.",
+  "quote": "It can grow to 30 m (98 ft) or more",
+  "claimed_false_for": {
+   "Q159823": "Krtičník křídlatý (Scrophularia umbrosa)",
+   "Q163831": "Katalpa trubačovitá (Catalpa bignonioides)",
+   "Q164270": "Zvěšinec zední (Cymbalaria muralis)",
+   "Q2712748": "Banksie dubová (Banksia robur)",
+   "Q271937": "Lofofora Williamsova (Lophophora williamsii)",
+   "Q2882800": "Banksie osténkatá (Banksia spinulosa)",
+   "Q468996": "Lotos žlutý (Nelumbo lutea)"
+  }
+ },
+ {
+  "id": "Q161105#x1",
+  "species": "Platan východní",
+  "latin": "Platanus orientalis",
+  "text": "Na podzim se tmavozelené listy mohou zbarvit do červena, jantarova a žluta.",
+  "quote": "in autumn, its deep green leaves may change to blood red, amber, and yellow",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q161105#x2",
+  "species": "Platan východní",
+  "latin": "Platanus orientalis",
+  "text": "Přirozeně roste u řek spolu s olšemi, vrbami a topoly.",
+  "quote": "The oriental plane is found naturally in riverine settings, together with such trees as alder, willow and poplar.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q161105#x3",
+  "species": "Platan východní",
+  "latin": "Platanus orientalis",
+  "text": "Dobře snáší sucho, jakmile se zakoření.",
+  "quote": "it is quite capable of survival and success in dry soils once it is established",
+  "claimed_false_for": {
+   "Q468996": "Lotos žlutý (Nelumbo lutea)"
+  }
+ },
+ {
+  "id": "Q161105#x4",
+  "species": "Platan východní",
+  "latin": "Platanus orientalis",
+  "text": "Dřevo se používá na nábytek do interiéru.",
+  "quote": "The timber, often called lacewood, is figured and valuable for indoor furniture.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q161105#x5",
+  "species": "Platan východní",
+  "latin": "Platanus orientalis",
+  "text": "Z větviček a kořenů se vyráběla barva na látky.",
+  "quote": "A fabric dye has been made from the twigs and roots.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q161126#2",
+  "species": "Kozinec cizrnovitý",
+  "latin": "Astragalus cicer",
+  "text": "Díky půdním bakteriím získává dusík ze vzduchu.",
+  "quote": "Dokáže v symbióze s půdními bakteriemi vázat vzdušný dusík",
+  "claimed_false_for": {
+   "Q1238990": "Zvonek sibiřský (Campanula sibirica)",
+   "Q1424919": "Trojkřídlec Wilfordův (Tripterygium wilfordii)",
+   "Q158949": "Zvonek vousatý (Campanula barbata)",
+   "Q159276": "Zvonek rozkladitý (Campanula patula)",
+   "Q1683306": "Zvonek alpský (Campanula alpina)",
+   "Q243945": "Zvonek maličký (Campanula cochleariifolia)",
+   "Q245982": "Pavinec horský (Jasione montana)",
+   "Q2706590": "Zvonek Poscharkův (Campanula poscharskyana)",
+   "Q526630": "Zvonek širokolistý (Campanula latifolia)",
+   "Q73475": "Zvonečník černý (Phyteuma nigrum)",
+   "Q805322": "Platykodon velkokvětý (Platycodon grandiflorus)",
+   "Q966569": "Locika dubová (Lactuca quercina)"
+  }
+ },
+ {
+  "id": "Q161160#x0",
+  "species": "Komonice lékařská",
+  "latin": "Melilotus officinalis",
+  "text": "Semena zůstávají schopná vyklíčit až 30 let.",
+  "quote": "Seeds can be viable for up to 30 years.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q161160#x1",
+  "species": "Komonice lékařská",
+  "latin": "Melilotus officinalis",
+  "text": "Semena požírají lovní ptáci, například tetřevi.",
+  "quote": "The seeds are eaten by game birds, including grouse.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q161160#x2",
+  "species": "Komonice lékařská",
+  "latin": "Melilotus officinalis",
+  "text": "Je důležitým zdrojem nektaru pro včely medonosné.",
+  "quote": "Sweet clover is a major source of nectar for domestic honey bees",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q161160#x3",
+  "species": "Komonice lékařská",
+  "latin": "Melilotus officinalis",
+  "text": "Když rostlina zplesnivěje, je pro dobytek jedovatá.",
+  "quote": "which is a powerful anticoagulant toxin, when the plant becomes moldy.",
+  "claimed_false_for": {}
+ }
+]

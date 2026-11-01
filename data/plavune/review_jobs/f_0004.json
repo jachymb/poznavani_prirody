@@ -1,0 +1,86 @@
+[
+ {
+  "id": "Q245842#x0",
+  "species": "Plavuník cypřiškovitý",
+  "latin": "Diphasiastrum tristachyum",
+  "text": "Podzemní stonek bývá zakopaný hluboko, 5 až 12 cm pod zemí.",
+  "quote": "creeping underground stems which are often deeply buried at 5–12 cm deep",
+  "claimed_false_for": {
+   "Q1142154": "Vranec jedlový (Huperzia selago)",
+   "Q1192790": "Šídlatka jezerní (Isoëtes lacustris)",
+   "Q1665550": "Vraneček švýcarský (Selaginella helvetica)",
+   "Q2529160": "Šídlatka ostnovýtrusá (Isoëtes echinospora)",
+   "Q7447419": "Vraneček Kraussův (Selaginella kraussiana)",
+   "Q899476": "Plavuňka zaplavovaná (Lycopodiella inundata)"
+  }
+ },
+ {
+  "id": "Q245842#x1",
+  "species": "Plavuník cypřiškovitý",
+  "latin": "Diphasiastrum tristachyum",
+  "text": "Dobře odolává požárům díky svému podzemnímu stonku.",
+  "quote": "incendies auxquels elle resiste bien par sa tige",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q245842#x2",
+  "species": "Plavuník cypřiškovitý",
+  "latin": "Diphasiastrum tristachyum",
+  "text": "Roste raději na suchých písčitých místech s chudou půdou.",
+  "quote": "Ground cedar prefers dry and sandy areas with poor soils",
+  "claimed_false_for": {
+   "Q1192790": "Šídlatka jezerní (Isoëtes lacustris)",
+   "Q2529160": "Šídlatka ostnovýtrusá (Isoëtes echinospora)",
+   "Q899476": "Plavuňka zaplavovaná (Lycopodiella inundata)"
+  }
+ },
+ {
+  "id": "Q245842#x3",
+  "species": "Plavuník cypřiškovitý",
+  "latin": "Diphasiastrum tristachyum",
+  "text": "Rostliny ve stínu mají rozvolněnější větvení než rostliny na ostrém slunci.",
+  "quote": "Plants growing in the shade are more diffusely branched than those which grow in bright sun",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q899476#x0",
+  "species": "Plavuňka zaplavovaná",
+  "latin": "Lycopodiella inundata",
+  "text": "Roste na mokřadech, například v rašeliništích a na vlhkých místech tundry.",
+  "quote": "It grows in wet habitat, such as bogs, ponds, moist spots on the tundra,",
+  "claimed_false_for": {
+   "Q1138172": "Plavuň pučivá (Lycopodium annotinum)",
+   "Q1665550": "Vraneček švýcarský (Selaginella helvetica)",
+   "Q245842": "Plavuník cypřiškovitý (Diphasiastrum tristachyum)",
+   "Q2715589": "Plavuník alpínský (Diphasiastrum alpinum)",
+   "Q9372557": "Plavuník Zeillerův (Diphasiastrum zeilleri)"
+  }
+ },
+ {
+  "id": "Q899476#x1",
+  "species": "Plavuňka zaplavovaná",
+  "latin": "Lycopodiella inundata",
+  "text": "Kořeny žijí v symbióze s houbou, obě strany z toho mají prospěch.",
+  "quote": "また根には Planticonsortium tenue（ケカビ亜門）のファインエンドファイト（MucFRE）が共生し、栄養的に相利共生の関係にある。",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q899476#x2",
+  "species": "Plavuňka zaplavovaná",
+  "latin": "Lycopodiella inundata",
+  "text": "Přezimují jen konce plazivých stonků, zbytek rostliny odumírá.",
+  "quote": "冬には匍匐茎の先端部のみが越冬し、残りの部分は枯れる。",
+  "claimed_false_for": {
+   "Q1138172": "Plavuň pučivá (Lycopodium annotinum)",
+   "Q1142154": "Vranec jedlový (Huperzia selago)",
+   "Q12045561": "Plavuník Ollgaardův (Diphasiastrum oellgaardii)",
+   "Q245842": "Plavuník cypřiškovitý (Diphasiastrum tristachyum)",
+   "Q2715589": "Plavuník alpínský (Diphasiastrum alpinum)",
+   "Q466426": "Plavuň vidlačka (Lycopodium clavatum)",
+   "Q7447419": "Vraneček Kraussův (Selaginella kraussiana)",
+   "Q787930": "Plavuník zploštělý (Diphasiastrum complanatum)",
+   "Q9372555": "Plavuník Isslerův (Diphasiastrum issleri)",
+   "Q9372557": "Plavuník Zeillerův (Diphasiastrum zeilleri)"
+  }
+ }
+]
