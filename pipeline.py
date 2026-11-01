@@ -89,6 +89,8 @@ GAME_GROUPS = {
     "stopkovytrusne": ("Q27720 Q132006 Q132763 Q136810", "Stopkovýtrusé houby", "houby"),
     "vreckovytrusne": ("Q843232 Q133607 Q133551 Q132180 Q132159 Q133144 Q5066753 Q10504037 Q133571", "Vřeckovýtrusé houby", "houby"),
 }
+# Latinský název, který se při stahování z Wikidat nepodařilo získat; podle české Wikipedie.
+LATIN_NAMES = {"Q1394001": "Correlophus ciliatus"}
 # Řády kostnatých ryb, které na Wikidatech nejsou napojené na kořeny skupiny Ryby (tresky, parmice).
 ORDERS_OF_FISH = {"hrdloploutví", "Mulliformes"}
 OTHER_GROUPS = {"zivocichove": ("ostatni_zivocichove", "Ostatní živočichové"), "rostliny": ("ostatni_rostliny", "Ostatní rostliny"), "houby": ("ostatni_houby", "Ostatní houby")}
@@ -892,6 +894,7 @@ def write_game_data():
             s["facts"] = [f for f in s["facts"] if f.pop("reviewed", False)]
             s["photos"] = [p for p in s["photos"] if p.pop("reviewed", False)]
             if s["continents"] and s["photos"]:
+                s["latin"] = s["latin"] or LATIN_NAMES.get(s["id"], "")
                 own = set(roots.get(s["id"], []))
                 group = next((g for key, g in groups.items() if own & set(GAME_GROUPS[key][0].split())), others[kingdom])
                 if s["order"] in ORDERS_OF_FISH:
