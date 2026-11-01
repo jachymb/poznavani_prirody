@@ -213,16 +213,17 @@
     svg.setAttribute("viewBox", `0 0 ${width} ${height}`);
     svg.setAttribute("aria-hidden", "true");
     svg.setAttribute("class", "world");
-    const boxes = new Map();
-    const refresh = (code) => {
-      svg.querySelector(`[data-code="${code}"]`).classList.toggle("off", !selected.has(code));
-      boxes.get(code).checked = selected.has(code);
+    const isWorld = () => selected.size === CONTINENTS.length;
+    const radios = new Map();
+    // Vybraný je celý svět, nebo právě jeden kontinent.
+    const choose = (code) => {
+      selected.clear();
+      for (const c of CONTINENTS) {
+        if (!code || c.code === code) selected.add(c.code);
+      }
+      for (const c of CONTINENTS) svg.querySelector(`[data-code="${c.code}"]`).classList.toggle("off", !selected.has(c.code));
+      for (const [key, radio] of radios) radio.checked = key === (code || "world");
       onChange();
-    };
-    const toggle = (code) => {
-      if (selected.has(code)) selected.delete(code);
-      else selected.add(code);
-      refresh(code);
     };
     for (const { code, name, color } of CONTINENTS) {
       const path = document.createElementNS("http://www.w3.org/2000/svg", "path");
@@ -233,19 +234,21 @@
       const title = document.createElementNS("http://www.w3.org/2000/svg", "title");
       title.textContent = name;
       path.append(title);
-      path.addEventListener("click", () => toggle(code));
+      // druhé kliknutí na vybraný kontinent vrací celý svět
+      path.addEventListener("click", () => choose(selected.size === 1 && selected.has(code) ? null : code));
       svg.append(path);
     }
-    const chips = CONTINENTS.map(({ code, name, color }) => {
-      const box = el("input", { type: "checkbox", checked: selected.has(code), onchange: () => toggle(code) });
-      box.style.accentColor = color;
-      boxes.set(code, box);
-      return el("label", { class: "chip" }, box, name);
-    });
+    const chip = (key, name, color) => {
+      const checked = key === "world" ? isWorld() : !isWorld() && selected.has(key);
+      const radio = el("input", { type: "radio", name: "continent", checked, onchange: () => choose(key === "world" ? null : key) });
+      if (color) radio.style.accentColor = color;
+      radios.set(key, radio);
+      return el("label", { class: "chip" }, radio, name);
+    };
     return el("fieldset", { class: "continents" },
-      el("legend", {}, "Kde mají druhy žít? Kliknutím kontinent vypneš nebo zapneš."),
+      el("legend", {}, "Kde mají druhy žít? Vyber kontinent na mapě, nebo celý svět."),
       svg,
-      el("div", { class: "chips" }, ...chips));
+      el("div", { class: "chips" }, chip("world", "🌍 Celý svět"), ...CONTINENTS.map((c) => chip(c.code, c.name, c.color))));
   }
 
   function gameOptions(onChange) {
