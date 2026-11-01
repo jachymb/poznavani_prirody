@@ -72,7 +72,6 @@ GAME_GROUPS = {
     "pavoukovci": ("Q1358", "Pavoukovci", "zivocichove"),
     "mekkysi": ("Q4867740 Q25368 Q128257 Q188906", "Měkkýši", "zivocichove"),
     "korysi": ("Q182978 Q188360 Q150628 Q22986461", "Korýši", "zivocichove"),
-    "krouzkovci": ("Q18952 Q193006 Q839350", "Kroužkovci", "zivocichove"),
     "plostenci": ("Q159715 Q207547", "Ploštěnci", "zivocichove"),
     # před jehličnany: Wikidata řadí liánovce a chvojníky i pod širší taxon Coniferae
     "dalsi_nahosemenne": ("Q5605610 Q10788836 Q99057636 Q1011212 Q16113844", "Další nahosemenné", "rostliny"),
