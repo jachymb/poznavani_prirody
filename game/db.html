@@ -1,0 +1,293 @@
+<!doctype html>
+<html lang="cs">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Databáze druhů</title>
+<!-- Ladicí prohlížeč game/data.js: ruční kontrola pravdivých a nepravdivých tvrzení. Do dist/ se neskládá. -->
+<style>
+  :root {
+    --bg: #f2f7e8; --card: #fff; --ink: #24351f; --soft: #5d6f55; --brand: #2f7d4f; --line: #d8e3cb;
+    --good: #1f8a4c; --good-bg: #dff5e4; --bad: #c2412d; --bad-bg: #fde6e0; --warn-bg: #fff1cc; --mark: #ffe58a;
+  }
+  * { box-sizing: border-box; }
+  html, body { height: 100%; }
+  body { margin: 0; display: flex; flex-direction: column; background: var(--bg); color: var(--ink); font: 15px/1.4 "Segoe UI", system-ui, sans-serif; }
+  a { color: #1c5a36; }
+  header { display: flex; flex-wrap: wrap; gap: 8px 14px; align-items: center; padding: 10px 16px; background: var(--brand); color: #fff; }
+  header h1 { margin: 0; font-size: 18px; }
+  header input[type="search"] { flex: 1 1 260px; min-width: 0; padding: 7px 10px; font: inherit; border: 0; border-radius: 8px; }
+  header label { white-space: nowrap; }
+  header select { font: inherit; padding: 5px; border-radius: 8px; border: 0; }
+  main { flex: 1; min-height: 0; display: grid; grid-template-columns: 200px 330px 1fr; }
+  nav, #list, #detail { overflow: auto; }
+  nav { padding: 12px; border-right: 1px solid var(--line); }
+  nav h2 { margin: 14px 0 4px; font-size: 13px; text-transform: uppercase; letter-spacing: .04em; color: var(--soft); }
+  nav a { display: flex; justify-content: space-between; gap: 8px; padding: 4px 8px; border-radius: 8px; text-decoration: none; color: inherit; }
+  nav a.active, #list a.active { background: var(--good-bg); font-weight: 600; }
+  nav .stats { font-size: 13px; color: var(--soft); }
+  #list { border-right: 1px solid var(--line); background: #fafcf6; }
+  #list .head { position: sticky; top: 0; padding: 8px 12px; background: #fafcf6; border-bottom: 1px solid var(--line); font-weight: 600; }
+  #list a { display: grid; grid-template-columns: 26px 1fr auto; gap: 2px 8px; align-items: center; padding: 6px 12px; text-decoration: none; color: inherit; border-bottom: 1px solid #eef3e6; }
+  #list a:hover { background: #f0f6e8; }
+  #list .emoji { grid-row: span 2; font-size: 20px; text-align: center; }
+  #list .latin, #list .counts { font-size: 12px; color: var(--soft); }
+  #list .counts { grid-row: span 2; text-align: right; white-space: nowrap; }
+  #detail { padding: 16px 22px 40px; }
+  #detail h2 { margin: 0 0 4px; font-size: 26px; }
+  #detail h3 { margin: 26px 0 8px; font-size: 18px; }
+  .pager { display: flex; gap: 8px; margin-bottom: 12px; }
+  .pager button { font: inherit; padding: 4px 10px; border: 1px solid var(--line); border-radius: 8px; background: var(--card); cursor: pointer; }
+  .pager button:disabled { opacity: .4; cursor: default; }
+  .latin { font-style: italic; font-weight: 400; }
+  dl.meta { display: grid; grid-template-columns: max-content 1fr; gap: 3px 14px; margin: 10px 0 0; }
+  dl.meta dt { color: var(--soft); }
+  dl.meta dd { margin: 0; }
+  .photos { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 10px; }
+  .photos figure { margin: 0; background: var(--card); border-radius: 10px; overflow: hidden; }
+  .photos img { display: block; width: 100%; height: 120px; object-fit: cover; background: #e4ecd9; }
+  .photos figcaption { padding: 4px 6px; font-size: 12px; color: var(--soft); overflow-wrap: anywhere; }
+  table { width: 100%; border-collapse: collapse; background: var(--card); border-radius: 10px; overflow: hidden; }
+  th, td { padding: 6px 8px; text-align: left; vertical-align: top; border-bottom: 1px solid #eef3e6; }
+  th { background: #f4f8ee; font-size: 13px; color: var(--soft); font-weight: 600; }
+  td.id, td.cat, td.rel { font-size: 12px; color: var(--soft); white-space: nowrap; }
+  tr.true td.text { border-left: 4px solid var(--good); }
+  tr.false td.text { border-left: 4px solid var(--bad); }
+  tr.skipped td { opacity: .55; }
+  .badge { display: inline-block; margin: 2px 4px 0 0; padding: 0 6px; font-size: 12px; border-radius: 6px; background: var(--warn-bg); white-space: nowrap; }
+  .badge.off { background: var(--bad-bg); }
+  .badge.on { background: var(--good-bg); }
+  details summary { cursor: pointer; color: var(--soft); white-space: nowrap; }
+  details ul { margin: 4px 0 0; padding-left: 18px; font-size: 13px; }
+  mark { background: var(--mark); }
+  .empty { color: var(--soft); padding: 12px; }
+  .note { color: var(--soft); font-size: 13px; margin: 0 0 8px; }
+  @media (max-width: 900px) {
+    main { display: block; overflow: auto; }
+    nav, #list { border: 0; border-bottom: 1px solid var(--line); max-height: 40vh; }
+    #detail { padding: 14px 16px 40px; }
+    th.rel, td.rel, th.id, td.id { display: none; }
+  }
+</style>
+</head>
+<body>
+<header>
+  <h1>Databáze druhů</h1>
+  <input type="search" id="query" placeholder="Hledat druh: jméno, latinsky, Q-id, čeleď, řád…  ( / )" aria-label="Hledat">
+  <label><input type="checkbox" id="inFacts"> hledat v tvrzeních</label>
+  <label>Řadit <select id="sort" aria-label="Řazení">
+    <option value="name">podle jména</option>
+    <option value="pop">podle známosti</option>
+    <option value="facts">nejméně tvrzení</option>
+    <option value="false">nejméně nepravdivých</option>
+  </select></label>
+</header>
+<main>
+  <nav id="nav"></nav>
+  <section id="list" aria-label="Druhy"></section>
+  <article id="detail"></article>
+</main>
+<script src="data.js"></script>
+<script src="quiz.js"></script>
+<script>
+  const KINGDOMS = { zivocichove: "Živočichové", rostliny: "Rostliny", houby: "Houby" };
+  const CONTINENTS = { EU: "Evropa", AS: "Asie", AF: "Afrika", NA: "Severní Amerika", SA: "Jižní Amerika", AN: "Antarktida a její ostrovy", OC: "Austrálie a Oceánie" };
+  const { isDull, mentions, OTHER_SPECIES } = window.Quiz;
+  const classes = window.GAME_DATA;
+  // Bez diakritiky a velkých písmen. Po znacích, aby pozice odpovídaly původnímu textu (kvůli zvýraznění).
+  const norm = (text) => [...text].map((ch) => ch.normalize("NFD").replace(/\p{M}/gu, "").toLowerCase()).join("");
+
+  const byId = new Map();
+  const falseFor = new Map(); // id druhu → věty jiných druhů, o kterých víme, že pro něj neplatí
+  for (const c of classes) for (const s of c.species) {
+    s.cls = c;
+    s.key = norm([s.name, s.latin, s.id, s.family, s.order, s.peers].filter(Boolean).join(" "));
+    byId.set(s.id, s);
+    falseFor.set(s.id, []);
+  }
+  for (const c of classes) for (const s of c.species) for (const f of s.facts) for (const id of f.not) falseFor.get(id)?.push({ fact: f, owner: s });
+  const everyone = [...byId.values()];
+
+  function el(tag, attrs = {}, ...children) {
+    const node = document.createElement(tag);
+    for (const [k, v] of Object.entries(attrs)) {
+      if (v == null || v === false) continue;
+      if (k.startsWith("on")) node.addEventListener(k.slice(2), v);
+      else if (k === "class") node.className = v;
+      else node.setAttribute(k, v === true ? "" : v);
+    }
+    node.append(...children.flat().filter((c) => c != null && c !== false));
+    return node;
+  }
+  const link = (s, text = s.name) => el("a", { href: `#${s.cls.slug}/${s.id}` }, text);
+  const badge = (text, kind = "") => el("span", { class: `badge ${kind}` }, text);
+
+  function highlight(text) {
+    const q = norm(state.query.trim());
+    const n = norm(text);
+    if (!q || n.length !== text.length) return [text];
+    const out = [];
+    let at = 0;
+    for (let i = n.indexOf(q); i >= 0; i = n.indexOf(q, i + q.length)) {
+      out.push(text.slice(at, i), el("mark", {}, text.slice(i, i + q.length)));
+      at = i + q.length;
+    }
+    out.push(text.slice(at));
+    return out;
+  }
+
+  const state = { slug: classes[0].slug, sid: null, query: "", inFacts: false, sort: "name" };
+  const $ = (id) => document.getElementById(id);
+
+  const SORTS = {
+    name: (a, b) => a.name.localeCompare(b.name, "cs"),
+    pop: (a, b) => (b.pop || 0) - (a.pop || 0),
+    facts: (a, b) => a.facts.length - b.facts.length,
+    false: (a, b) => falseFor.get(a.id).length - falseFor.get(b.id).length,
+  };
+  function currentList() {
+    const q = norm(state.query.trim());
+    const list = !q ? classes.find((c) => c.slug === state.slug).species
+      // Jen vlastní tvrzení: najde druh, od kterého věta pochází; u něj „Neplatí pro“ ukáže, kde je nepravdivá.
+      : state.inFacts ? everyone.filter((s) => s.facts.some((f) => norm(f.text).includes(q)))
+        : everyone.filter((s) => s.key.includes(q));
+    return [...list].sort((a, b) => SORTS[state.sort](a, b) || SORTS.name(a, b));
+  }
+
+  function renderNav() {
+    const facts = everyone.reduce((n, s) => n + s.facts.length, 0);
+    const pairs = everyone.reduce((n, s) => n + falseFor.get(s.id).length, 0);
+    const photos = everyone.reduce((n, s) => n + s.photos.length, 0);
+    $("nav").replaceChildren(
+      el("div", { class: "stats" }, `${everyone.length} druhů, ${facts} tvrzení, ${pairs} nepravdivých párů, ${photos} fotek`),
+      ...Object.entries(KINGDOMS).flatMap(([kingdom, label]) => [
+        el("h2", {}, label),
+        ...classes.filter((c) => c.kingdom === kingdom).map((c) => el("a", {
+          href: `#${c.slug}`, class: !state.query && c.slug === state.slug ? "active" : null,
+          onclick: () => { $("query").value = state.query = ""; },
+        }, el("span", {}, c.name), el("span", { class: "stats" }, String(c.species.length)))),
+      ]),
+    );
+  }
+
+  function renderList() {
+    const list = currentList();
+    const title = state.query ? `Hledání „${state.query}“${state.inFacts ? " v tvrzeních" : ""}: ${list.length}`
+      : `${classes.find((c) => c.slug === state.slug).name}: ${list.length} druhů`;
+    $("list").replaceChildren(el("div", { class: "head" }, title), ...(list.length ? list.map((s) => el("a", {
+      href: `#${s.cls.slug}/${s.id}`, class: s.id === state.sid ? "active" : null, "data-id": s.id,
+    },
+      el("span", { class: "emoji" }, s.emoji || ""),
+      el("span", {}, s.name),
+      el("span", { class: "counts", title: "pravdivá / nepravdivá tvrzení / fotky" }, `✔${s.facts.length} ✘${falseFor.get(s.id).length} 📷${s.photos.length}`),
+      el("span", { class: "latin" }, state.query ? `${s.latin} · ${s.cls.name}` : s.latin),
+    )) : [el("p", { class: "empty" }, "Nic nenalezeno.")]));
+    $("list").querySelector("a.active")?.scrollIntoView({ block: "nearest" });
+  }
+
+  function step(delta) {
+    const list = currentList();
+    const next = list[list.findIndex((s) => s.id === state.sid) + delta];
+    if (next) location.hash = `${next.cls.slug}/${next.id}`;
+  }
+
+  function renderDetail() {
+    const s = byId.get(state.sid);
+    if (!s) return $("detail").replaceChildren(el("p", { class: "empty" }, "Vyber druh ze seznamu. Šipky ↑ ↓ přecházejí mezi druhy, / skočí do hledání."));
+    const list = currentList();
+    const at = list.findIndex((x) => x.id === s.id);
+    const trueTexts = new Set(s.facts.map((f) => f.text));
+    const distance = (o) => (s.family && o.family === s.family ? 0 : s.order && o.order === s.order ? 1 : 2);
+    const wrong = [...falseFor.get(s.id)].sort((a, b) => distance(a.owner) - distance(b.owner) || a.fact.text.localeCompare(b.fact.text, "cs"));
+    // Které nepravdivé věty hra u tohoto druhu nepoužije (stejná pravidla jako factQuestion v quiz.js).
+    const skipReasons = (f) => [
+      mentions(f.text, s) && "zmiňuje tento druh",
+      OTHER_SPECIES.test(f.text) && "„jiný“ v textu",
+      trueTexts.has(f.text) && "stejné jako pravdivé",
+    ].filter(Boolean);
+
+    $("detail").replaceChildren(
+      el("div", { class: "pager" },
+        el("button", { onclick: () => step(-1), disabled: at <= 0 }, "↑ předchozí"),
+        el("button", { onclick: () => step(1), disabled: at < 0 || at >= list.length - 1 }, "další ↓"),
+        at >= 0 ? el("span", { class: "note" }, `${at + 1} z ${list.length}`) : null),
+      el("h2", {}, `${s.emoji || ""} ${s.name} `, el("span", { class: "latin", lang: "la" }, s.latin)),
+      el("dl", { class: "meta" },
+        el("dt", {}, "ID"), el("dd", {}, el("a", { href: `https://www.wikidata.org/wiki/${s.id}`, target: "_blank", rel: "noopener" }, s.id)),
+        el("dt", {}, "Wikipedie"), el("dd", {}, el("a", { href: s.wiki, target: "_blank", rel: "noopener" }, decodeURIComponent(s.wiki.split("/wiki/")[1] || s.wiki))),
+        el("dt", {}, "Zařazení"), el("dd", {}, [KINGDOMS[s.cls.kingdom], s.cls.name, s.order, s.family].filter(Boolean).join(" › ")),
+        s.peers ? [el("dt", {}, "Užší skupina"), el("dd", {}, s.peers)] : null,
+        el("dt", {}, "Kontinenty"), el("dd", {}, s.continents.map((c) => CONTINENTS[c] || c).join(", ") || "—"),
+        el("dt", {}, "Známost"), el("dd", {}, String(s.pop ?? "—")),
+        s.egg ? [el("dt", {}, "Vtípek"), el("dd", {}, "ano (jen jako hledaný druh)")] : null,
+      ),
+
+      el("h3", {}, `Fotky (${s.photos.length})`),
+      el("div", { class: "photos" }, s.photos.map((p, i) => el("figure", {},
+        el("a", { href: p.page, target: "_blank", rel: "noopener" },
+          el("img", { src: p.url, alt: "", loading: "lazy", onerror: (e) => e.target.replaceWith(el("div", { class: "empty" }, "nenačteno")) })),
+        el("figcaption", {}, `#${i + 1} ${p.author || "?"} · ${p.license || "?"}`)))),
+
+      el("h3", {}, `Pravdivá tvrzení (${s.facts.length})`),
+      s.facts.length ? el("table", {},
+        el("thead", {}, el("tr", {}, el("th", { class: "id" }, "ID"), el("th", {}, "Kategorie"), el("th", {}, "Tvrzení"), el("th", {}, "Neplatí pro"))),
+        el("tbody", {}, s.facts.map((f) => el("tr", { class: "true", id: f.id },
+          el("td", { class: "id" }, f.id),
+          el("td", { class: "cat" }, f.cat),
+          el("td", { class: "text" }, ...highlight(f.text), el("br"),
+            isDull(f) ? badge("nudné, nižší váha") : null,
+            f.not.length >= 3 ? badge("i v „Pro který druh to platí?“", "on") : null),
+          el("td", {}, f.not.length ? el("details", {}, el("summary", {}, `${f.not.length} druhů`),
+            el("ul", {}, f.not.map((id) => byId.get(id)).filter(Boolean).map((o) => el("li", {}, link(o), " ", el("span", { class: "latin" }, o.latin))))) : "—"),
+        )))) : el("p", { class: "empty" }, "Žádná."),
+
+      el("h3", {}, `Nepravdivá tvrzení (${wrong.length})`),
+      el("p", { class: "note" }, "Věty o jiných druzích, o kterých víme, že pro tento druh neplatí. Hra je nabízí jako špatné odpovědi, nejdřív od nejbližších příbuzných. Zašedlé hra u tohoto druhu nepoužije."),
+      wrong.length ? el("table", {},
+        el("thead", {}, el("tr", {}, el("th", {}, "Kategorie"), el("th", {}, "Tvrzení"), el("th", {}, "Pochází od"), el("th", { class: "rel" }, "Příbuznost"))),
+        el("tbody", {}, wrong.map(({ fact: f, owner }) => {
+          const skip = skipReasons(f);
+          return el("tr", { class: `false${skip.length ? " skipped" : ""}`, title: f.id },
+            el("td", { class: "cat" }, f.cat),
+            el("td", { class: "text" }, ...highlight(f.text), skip.length ? [el("br"), skip.map((r) => badge(`hra vyřadí: ${r}`, "off"))] : null,
+              isDull(f) ? [el("br"), badge("nudné")] : null),
+            el("td", {}, link(owner), el("br"), el("span", { class: "latin" }, owner.latin)),
+            el("td", { class: "rel" }, ["stejná čeleď", "stejný řád", "jiný řád"][distance(owner)]));
+        }))) : el("p", { class: "empty" }, "Žádná."),
+    );
+  }
+
+  function route() {
+    const [slug, sid] = decodeURIComponent(location.hash.slice(1)).split("/");
+    const species = byId.get(sid) || byId.get(slug);
+    if (species) {
+      state.sid = species.id;
+      if (!state.query) state.slug = species.cls.slug;
+    } else if (classes.some((c) => c.slug === slug)) {
+      state.slug = slug;
+      state.sid = null;
+    }
+    renderNav();
+    renderList();
+    renderDetail();
+    $("detail").scrollTop = 0;
+  }
+
+  let typing;
+  $("query").addEventListener("input", (e) => {
+    clearTimeout(typing);
+    typing = setTimeout(() => { state.query = e.target.value; renderNav(); renderList(); renderDetail(); }, 200);
+  });
+  $("inFacts").addEventListener("change", (e) => { state.inFacts = e.target.checked; renderList(); renderDetail(); });
+  $("sort").addEventListener("change", (e) => { state.sort = e.target.value; renderList(); renderDetail(); });
+  document.addEventListener("keydown", (e) => {
+    if (e.target.matches("input, select, textarea") || e.ctrlKey || e.metaKey || e.altKey) return;
+    if (e.key === "/") { e.preventDefault(); $("query").focus(); }
+    if (e.key === "ArrowDown") { e.preventDefault(); step(1); }
+    if (e.key === "ArrowUp") { e.preventDefault(); step(-1); }
+  });
+  window.addEventListener("hashchange", route);
+  route();
+</script>
+</body>
+</html>
