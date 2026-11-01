@@ -71,6 +71,10 @@ assert(classes.find((c) => c.slug === "ryby").species.some((s) => s.name === "Tr
   assert(window.Quiz.mentions("Loví ho kosatky.", orca) && window.Quiz.mentions("Bývá kořistí kosatek.", orca));
   assert(!window.Quiz.mentions("Bývá kořistí levhartů.", { name: "Lev pustinný" }), "levhart není lev");
   assert(!window.Quiz.mentions("Žije v Evropě.", orca));
+  for (const text of ["Přidává se k hejnům jiných hus.", "Jiný brouk ho loví.", "Na rozdíl od jiné včely hnízdí v zemi."]) {
+    assert(window.Quiz.OTHER_SPECIES.test(text), text);
+  }
+  assert(!window.Quiz.OTHER_SPECIES.test("Žije na jihu a v jinonicích."));
 }
 for (const cls of classes) {
   assert(cls.species.every((s) => s.latin), "každý druh má latinský název");
@@ -116,7 +120,10 @@ for (const cls of classes) {
         assert(facts.some((f) => f.not.includes(q.target.id)), "špatná věta pro cílový druh jistě neplatí");
       }
       for (const o of q.options) {
-        if (!o.species) assert(!window.Quiz.mentions(o.text, q.target), `špatná věta zmiňuje hledaný druh ${q.target.name}: ${o.text}`);
+        if (!o.species) {
+          assert(!window.Quiz.mentions(o.text, q.target), `špatná věta zmiňuje hledaný druh ${q.target.name}: ${o.text}`);
+          assert(!window.Quiz.OTHER_SPECIES.test(o.text), `špatná věta mluví o jiném druhu: ${o.text}`);
+        }
       }
     }
     if (q.type === "findSpecies") {

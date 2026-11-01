@@ -29,7 +29,7 @@
   const pickFact = (facts) => pickWeighted(facts, (f) => (isDull(f) ? DULL_WEIGHT : 1) * (TOPIC_WEIGHTS[f.cat] ?? 1));
 
   const wordsOf = (text) => new Set(text.toLowerCase().replace(/^tento druh /, "").replace(/[.,:;]/g, "")
-    .split(/\s+/).filter((w) => w.length > 2 && !/\d/.test(w)));
+    .split(/\s+/).filter((w) => w.length > 2 && !/\d/.test(w)).map((w) => w.slice(0, 5))); // začátek slova kvůli skloňování
   // „Dorůstá do výšky 20 až 90 cm“ a „20 až 100 cm“ nejsou pro dítě dvě různé možnosti.
   function tooSimilar(a, b) {
     const wordsA = wordsOf(a);
@@ -46,6 +46,11 @@
     const stem = genus.slice(0, genus.length >= 6 ? -2 : genus.length >= 4 ? -1 : undefined);
     return text.toLowerCase().split(/[^\p{L}]+/u).some((w) => w.startsWith(stem) && w.length <= stem.length + 4);
   }
+
+  // Jak daleko je druh od hledaného: čeleď, řád, zbytek třídy.
+  const distance = (target, s) => (target.family && s.family === target.family ? 0 : target.order && s.order === target.order ? 1 : 2);
+  // „K hejnům jiných hus“: věta sama říká, že je o někom jiném, než je hledaný druh.
+  const OTHER_SPECIES = /(?<!\p{L})jin(ý|á|é|í|ých|ým|ými|ou|ého|ému)(?!\p{L})/iu;
 
   // Člověk je vzácný vtípek: smí být jen hledaným druhem, ne špatnou odpovědí u opic a lidoopů.
   const notEgg = (s) => !s.egg;
@@ -101,10 +106,13 @@
     if (!target.facts.length) return null;
     const correct = pickFact(target.facts);
     const wrong = shuffle(classmates.flatMap((s) =>
-      s === target ? [] : s.facts.filter((f) => f.not.includes(target.id) && f.text !== correct.text && !mentions(f.text, target))));
-    const order = (f) => (f.cat === correct.cat ? 0 : 1) + (isDull(f) ? 2 : 0);
+      s === target ? [] : s.facts
+        .filter((f) => f.not.includes(target.id) && f.text !== correct.text && !mentions(f.text, target) && !OTHER_SPECIES.test(f.text))
+        .map((f) => [f, s])));
+    // Věta o příbuzném se nedá vyloučit jen podle toho, že mluví o úplně jiném zvířeti nebo rostlině.
+    const order = ([f, s]) => distance(target, s) * 10 + (f.cat === correct.cat ? 0 : 1) + (isDull(f) ? 2 : 0);
     const distractors = [];
-    for (const f of wrong.sort((a, b) => order(a) - order(b))) {
+    for (const [f] of wrong.sort((a, b) => order(a) - order(b))) {
       if (distractors.length === 3) break;
       if (![correct, ...distractors].some((d) => tooSimilar(d.text, f.text))) distractors.push(f);
     }
@@ -130,7 +138,8 @@
     const byId = new Map(classmates.map((s) => [s.id, s]));
     const others = [];
     const names = new Set([target.name]);
-    for (const s of shuffle(fact.not.map((id) => byId.get(id)).filter((s) => s && notEgg(s) && !mentions(fact.text, s)))) {
+    const candidates = shuffle(fact.not.map((id) => byId.get(id)).filter((s) => s && notEgg(s) && !mentions(fact.text, s)));
+    for (const s of candidates.sort((a, b) => distance(target, a) - distance(target, b))) {
       if (others.length < 3 && !names.has(s.name)) {
         names.add(s.name);
         others.push(s);
@@ -198,5 +207,5 @@
     return { ...c, species: [...new Set([...known, ...c.species.filter((s) => s.egg)])] };
   });
 
-  window.Quiz = { makeQuestion, isCorrect, inContinents, popularOnly, tooSimilar, isDull, mentions, MAKERS };
+  window.Quiz = { makeQuestion, isCorrect, inContinents, popularOnly, tooSimilar, isDull, mentions, OTHER_SPECIES, MAKERS };
 })();

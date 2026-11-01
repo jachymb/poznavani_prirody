@@ -72,7 +72,6 @@ GAME_GROUPS = {
     "pavoukovci": ("Q1358", "Pavoukovci", "zivocichove"),
     "mekkysi": ("Q4867740 Q25368 Q128257 Q188906", "Měkkýši", "zivocichove"),
     "korysi": ("Q182978 Q188360 Q150628 Q22986461", "Korýši", "zivocichove"),
-    "stonozkovci": ("Q167367 Q43447", "Stonožkovci", "zivocichove"),
     "zahavci": ("Q181989 Q272388 Q132674 Q132680 Q273179 Q16006458", "Žahavci", "zivocichove"),
     "ostnokozci": ("Q25349 Q83483 Q127470 Q248530", "Ostnokožci", "zivocichove"),
     "krouzkovci": ("Q18952 Q193006 Q839350", "Kroužkovci", "zivocichove"),
