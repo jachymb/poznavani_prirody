@@ -430,10 +430,9 @@ def todo(slug):
 
 def next_batch(limit):
     """Další úlohy pro workflow. Vedlejší výpisy jdou na stderr, poslední řádek stdout je JSON."""
-    limit = int(limit)
     with contextlib.redirect_stdout(sys.stderr):
-        batch = find_batch(limit)
-    print(json.dumps(batch))
+        result = find_batches(int(limit))
+    print(json.dumps(result, separators=(",", ":")))
 
 
 def out_of_date(slug):
@@ -446,43 +445,52 @@ def out_of_date(slug):
     return newest > built.stat().st_mtime
 
 
-def find_batch(limit):
-    for slug, (_, _, kingdom) in CLASSES.items():
-        if not paths(slug)[1].exists():
-            continue
+def class_batch(slug, limit):
+    """Úlohy nejbližšího nedokončeného kroku jedné skupiny, nebo None."""
+    kingdom = CLASSES[slug][2]
 
-        def batch(stage):
-            ids = missing(slug, stage)
-            return {"stage": stage, "slug": slug, "kingdom": kingdom, "ids": ids[:limit]} if ids else None
+    def batch(stage):
+        ids = missing(slug, stage)
+        return {"stage": stage, "slug": slug, "kingdom": kingdom, "ids": ids[:limit]} if ids else None
 
-        stale = out_of_date(slug)
-        found = batch("facts") or batch("photos")
-        if found:
-            return found
-        if stale:
-            sync_negatives(slug)
-        found = batch("negatives")
-        if found:
-            return found
-        if stale:
-            popularity(slug)
-            build(slug)
-            sync_review(slug)
-        found = batch("review")
-        if found:
-            return found
-        if stale:
-            sync_continents(slug)
-        found = batch("continents")
-        if found:
-            return found
-        if stale:
-            sync_language(slug)
-        found = batch("language")
-        if found:
-            return found
-    write_game_data()
-    return {"stage": "done"}
+    stale = out_of_date(slug)
+    found = batch("facts") or batch("photos")
+    if found:
+        return found
+    if stale:
+        sync_negatives(slug)
+    found = batch("negatives")
+    if found:
+        return found
+    if stale:
+        popularity(slug)
+        build(slug)
+        sync_review(slug)
+    found = batch("review")
+    if found:
+        return found
+    if stale:
+        sync_continents(slug)
+    found = batch("continents")
+    if found:
+        return found
+    if stale:
+        sync_language(slug)
+    return batch("language")
+
+
+def find_batches(limit):
+    """Úlohy všech skupin do celkového limitu agentů. Každá skupina přispěje svým nejbližším krokem."""
+    batches = []
+    for slug in CLASSES:
+        if limit > 0 and paths(slug)[1].exists():
+            found = class_batch(slug, limit)
+            if found:
+                batches.append(found)
+                limit -= len(found["ids"])
+    if not batches:
+        write_game_data()
+    return {"batches": batches}
 
 
 def read_json(path):
