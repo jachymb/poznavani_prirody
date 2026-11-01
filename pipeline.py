@@ -852,7 +852,8 @@ def sync_needy_negatives(slug, batch=20, candidates=12, minimum=3, rounds=2):
         near = [f for o in {s["order"] for s in group} for f in by_order[o] if f.split("#")[0] not in owners]
         far = [f for f in in_game if f.split("#")[0] not in owners]
         chunk = rng.sample(near, min(len(near), batch // 2))
-        chunk += rng.sample([f for f in far if f not in chunk], min(len(far), batch - len(chunk)))
+        rest = [f for f in far if f not in set(chunk)]
+        chunk += rng.sample(rest, min(len(rest), batch - len(chunk)))
         if chunk:
             write_neg_job(jobs_dir / f"need_{n:04}.json", [by_id[f] for f in chunk], [s["id"] for s in group], species, facts, articles)
             n += 1
