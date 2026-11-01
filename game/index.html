@@ -456,6 +456,10 @@
       el("p", { class: "lead" }, words[stars]),
       first,
       missed.size ? el("button", { class: "secondary", onclick: () => startGame(kingdom, { classSlug }) }, "Hrát znovu") : null,
+      level === "beginner" ? el("button", {
+        class: missed.size ? "secondary" : "primary",
+        onclick: () => { level = "expert"; startGame(kingdom, { classSlug }); },
+      }, "Hrát znovu s vyšší obtížností") : null,
       el("button", { class: missed.size ? "secondary" : "primary", onclick: showHome }, "Zpět na výběr"),
       el("h2", {}, "Druhy z tohoto kola"),
       roundSummary(),
