@@ -118,12 +118,16 @@ SUPERASTERIDS = {
 MODERN_ORDERS = {
     "Ebenales": "vřesovcotvaré", "Cardiopteridales": "cesmínotvaré", "Boraginales": "brutnákotvaré", "Vitales": "révotvaré",
     "Amaryllidales": "chřestotvaré", "Aspleniales": "osladičotvaré", "Parkeriales": "osladičotvaré", "Leucodontales": "rokytotvaré",
+    # synonyma a řády bez českého popisku (Qid) na Wikidatech; jeden řád pod dvěma jmény by měl ve hře dvojí váhu
+    "Urodela": "ocasatí", "Eulipotyphla": "hmyzožravci", "Erinaceomorpha": "hmyzožravci", "Jehly": "jehlotvární",
+    "Q15731102": "hrabaví", "Q30587689": "pavouci", "Q132678": "Venerida", "Q25385804": "Venerida", "Q1187122": "Littorinimorpha",
+    "Q980146": "Neogastropoda", "Q58192325": "Trochida", "Q838519": "Rhizostomeae",
 }
 FAMILY_ORDERS = {
     "stružkovcovité": "brutnákotvaré", "dileniovité": "dileniotvaré",
     # Wikidata u těchto čeledí řád neuvádí
     "plovatkovití": "Hygrophila", "okružákovití": "Hygrophila", "Acroloxidae": "Hygrophila", "Rhizocarpaceae": "Rhizocarpales",
-    "pijavkovití": "Arhynchobdellida",
+    "pijavkovití": "Arhynchobdellida", "Coronulidae": "Balanomorpha",
 }
 
 

@@ -1143,7 +1143,7 @@ window.GAME_DATA = [
         "name": "Bělozubka hnědá",
         "latin": "Suncus murinus",
         "family": "rejskovití",
-        "order": "Eulipotyphla",
+        "order": "hmyzožravci",
         "wiki": "https://cs.wikipedia.org/wiki/B%C4%9Blozubka_hn%C4%9Bd%C3%A1",
         "photos": [
           {
@@ -1351,7 +1351,7 @@ window.GAME_DATA = [
         "name": "Ježek amurský",
         "latin": "Erinaceus amurensis",
         "family": "ježkovití",
-        "order": "Erinaceomorpha",
+        "order": "hmyzožravci",
         "wiki": "https://cs.wikipedia.org/wiki/Je%C5%BEek_amursk%C3%BD",
         "photos": [
           {
@@ -8902,7 +8902,7 @@ window.GAME_DATA = [
         "name": "Krtek východoamerický",
         "latin": "Scalopus aquaticus",
         "family": "krtkovití",
-        "order": "Eulipotyphla",
+        "order": "hmyzožravci",
         "wiki": "https://cs.wikipedia.org/wiki/Krtek_v%C3%BDchodoamerick%C3%BD",
         "photos": [
           {
@@ -9982,7 +9982,7 @@ window.GAME_DATA = [
         "name": "Ježek jihoafrický",
         "latin": "Atelerix frontalis",
         "family": "ježkovití",
-        "order": "Erinaceomorpha",
+        "order": "hmyzožravci",
         "wiki": "https://cs.wikipedia.org/wiki/Je%C5%BEek_jihoafrick%C3%BD",
         "photos": [
           {
@@ -10692,7 +10692,7 @@ window.GAME_DATA = [
         "name": "Ježek ušatý",
         "latin": "Hemiechinus auritus",
         "family": "ježkovití",
-        "order": "Erinaceomorpha",
+        "order": "hmyzožravci",
         "wiki": "https://cs.wikipedia.org/wiki/Je%C5%BEek_u%C5%A1at%C3%BD",
         "photos": [
           {
@@ -10892,7 +10892,7 @@ window.GAME_DATA = [
         "name": "Krtek bělohlavý",
         "latin": "Parascalops breweri",
         "family": "krtkovití",
-        "order": "Eulipotyphla",
+        "order": "hmyzožravci",
         "wiki": "https://cs.wikipedia.org/wiki/Krtek_b%C4%9Blohlav%C3%BD",
         "photos": [
           {
@@ -14043,7 +14043,7 @@ window.GAME_DATA = [
         "name": "Ježek bělokrký",
         "latin": "Hemiechinus collaris",
         "family": "ježkovití",
-        "order": "Erinaceomorpha",
+        "order": "hmyzožravci",
         "wiki": "https://cs.wikipedia.org/wiki/Je%C5%BEek_b%C4%9Blokrk%C3%BD",
         "photos": [
           {
@@ -24290,7 +24290,7 @@ window.GAME_DATA = [
         "name": "Krtek obecný",
         "latin": "Talpa europaea",
         "family": "krtkovití",
-        "order": "Eulipotyphla",
+        "order": "hmyzožravci",
         "wiki": "https://cs.wikipedia.org/wiki/Krtek_obecn%C3%BD",
         "photos": [
           {
@@ -31488,7 +31488,7 @@ window.GAME_DATA = [
         "name": "Rejsek malý",
         "latin": "Sorex minutus",
         "family": "rejskovití",
-        "order": "Eulipotyphla",
+        "order": "hmyzožravci",
         "wiki": "https://cs.wikipedia.org/wiki/Rejsek_mal%C3%BD",
         "photos": [
           {
@@ -32959,7 +32959,7 @@ window.GAME_DATA = [
         "name": "Ježek pustinný",
         "latin": "Paraechinus aethiopicus",
         "family": "ježkovití",
-        "order": "Erinaceomorpha",
+        "order": "hmyzožravci",
         "wiki": "https://cs.wikipedia.org/wiki/Je%C5%BEek_pustinn%C3%BD",
         "photos": [
           {
@@ -45606,7 +45606,7 @@ window.GAME_DATA = [
         "name": "Bělozubka nejmenší",
         "latin": "Suncus etruscus",
         "family": "rejskovití",
-        "order": "Eulipotyphla",
+        "order": "hmyzožravci",
         "wiki": "https://cs.wikipedia.org/wiki/B%C4%9Blozubka_nejmen%C5%A1%C3%AD",
         "photos": [
           {
@@ -50603,7 +50603,7 @@ window.GAME_DATA = [
         "name": "Rejsec vodní",
         "latin": "Neomys fodiens",
         "family": "rejskovití",
-        "order": "Eulipotyphla",
+        "order": "hmyzožravci",
         "wiki": "https://cs.wikipedia.org/wiki/Rejsec_vodn%C3%AD",
         "photos": [
           {
@@ -54027,7 +54027,7 @@ window.GAME_DATA = [
         "name": "Krtek hvězdonosý",
         "latin": "Condylura cristata",
         "family": "krtkovití",
-        "order": "Eulipotyphla",
+        "order": "hmyzožravci",
         "wiki": "https://cs.wikipedia.org/wiki/Krtek_hv%C4%9Bzdonos%C3%BD",
         "photos": [
           {
@@ -56420,7 +56420,7 @@ window.GAME_DATA = [
         "name": "Rejsek obecný",
         "latin": "Sorex araneus",
         "family": "rejskovití",
-        "order": "Eulipotyphla",
+        "order": "hmyzožravci",
         "wiki": "https://cs.wikipedia.org/wiki/Rejsek_obecn%C3%BD",
         "photos": [
           {
@@ -57380,7 +57380,7 @@ window.GAME_DATA = [
         "name": "Rejsec černý",
         "latin": "Neomys anomalus",
         "family": "rejskovití",
-        "order": "Eulipotyphla",
+        "order": "hmyzožravci",
         "wiki": "https://cs.wikipedia.org/wiki/Rejsec_%C4%8Dern%C3%BD",
         "photos": [
           {
@@ -57593,7 +57593,7 @@ window.GAME_DATA = [
         "name": "Ježek západní",
         "latin": "Erinaceus europaeus",
         "family": "ježkovití",
-        "order": "Erinaceomorpha",
+        "order": "hmyzožravci",
         "wiki": "https://cs.wikipedia.org/wiki/Je%C5%BEek_z%C3%A1padn%C3%AD",
         "photos": [
           {
@@ -59133,7 +59133,7 @@ window.GAME_DATA = [
         "name": "Bělozubka bělobřichá",
         "latin": "Crocidura leucodon",
         "family": "rejskovití",
-        "order": "Eulipotyphla",
+        "order": "hmyzožravci",
         "wiki": "https://cs.wikipedia.org/wiki/B%C4%9Blozubka_b%C4%9Blob%C5%99ich%C3%A1",
         "photos": [
           {
@@ -67547,7 +67547,7 @@ window.GAME_DATA = [
         "name": "Vychuchol pyrenejský",
         "latin": "Galemys pyrenaicus",
         "family": "krtkovití",
-        "order": "Eulipotyphla",
+        "order": "hmyzožravci",
         "wiki": "https://cs.wikipedia.org/wiki/Vychuchol_pyrenejsk%C3%BD",
         "photos": [
           {
@@ -67585,7 +67585,7 @@ window.GAME_DATA = [
         "name": "Štětinatec haitský",
         "latin": "Solenodon paradoxus",
         "family": "štětinatcovití",
-        "order": "Eulipotyphla",
+        "order": "hmyzožravci",
         "wiki": "https://cs.wikipedia.org/wiki/%C5%A0t%C4%9Btinatec_haitsk%C3%BD",
         "photos": [
           {
@@ -67653,7 +67653,7 @@ window.GAME_DATA = [
         "name": "Srstín krysí",
         "latin": "Echinosorex gymnura",
         "family": "ježkovití",
-        "order": "Erinaceomorpha",
+        "order": "hmyzožravci",
         "wiki": "https://cs.wikipedia.org/wiki/Srst%C3%ADn_krys%C3%AD",
         "photos": [
           {
@@ -72624,7 +72624,7 @@ window.GAME_DATA = [
         "name": "Bělozubka šedá",
         "latin": "Crocidura suaveolens",
         "family": "rejskovití",
-        "order": "Eulipotyphla",
+        "order": "hmyzožravci",
         "wiki": "https://cs.wikipedia.org/wiki/B%C4%9Blozubka_%C5%A1ed%C3%A1",
         "photos": [
           {
@@ -73854,7 +73854,7 @@ window.GAME_DATA = [
         "name": "Ježek bělobřichý",
         "latin": "Atelerix albiventris",
         "family": "ježkovití",
-        "order": "Erinaceomorpha",
+        "order": "hmyzožravci",
         "wiki": "https://cs.wikipedia.org/wiki/Je%C5%BEek_b%C4%9Blob%C5%99ich%C3%BD",
         "photos": [
           {
@@ -95865,7 +95865,7 @@ window.GAME_DATA = [
         "name": "Tetřívek sazový",
         "latin": "Dendragapus fuliginosus",
         "family": "tetřevi",
-        "order": "Q15731102",
+        "order": "hrabaví",
         "wiki": "https://cs.wikipedia.org/wiki/Tet%C5%99%C3%ADvek_sazov%C3%BD",
         "photos": [
           {
@@ -110998,7 +110998,7 @@ window.GAME_DATA = [
         "name": "Jeřábek lesní",
         "latin": "Tetrastes bonasia",
         "family": "bažantovití",
-        "order": "Q15731102",
+        "order": "hrabaví",
         "wiki": "https://cs.wikipedia.org/wiki/Je%C5%99%C3%A1bek_lesn%C3%AD",
         "photos": [
           {
@@ -115962,7 +115962,7 @@ window.GAME_DATA = [
         "name": "Bělokur běloocasý",
         "latin": "Lagopus leucura",
         "family": "tetřevi",
-        "order": "Q15731102",
+        "order": "hrabaví",
         "wiki": "https://cs.wikipedia.org/wiki/B%C4%9Blokur_b%C4%9Bloocas%C3%BD",
         "photos": [
           {
@@ -116052,7 +116052,7 @@ window.GAME_DATA = [
         "name": "Jeřábek kanadský",
         "latin": "Bonasa umbellus",
         "family": "tetřevi",
-        "order": "Q15731102",
+        "order": "hrabaví",
         "wiki": "https://cs.wikipedia.org/wiki/Je%C5%99%C3%A1bek_kanadsk%C3%BD",
         "photos": [
           {
@@ -132753,7 +132753,7 @@ window.GAME_DATA = [
         "name": "Perlička kropenatá",
         "latin": "Numida meleagris",
         "family": "perličkovití",
-        "order": "Q15731102",
+        "order": "hrabaví",
         "wiki": "https://cs.wikipedia.org/wiki/Perli%C4%8Dka_kropenat%C3%A1",
         "photos": [
           {
@@ -258190,7 +258190,7 @@ window.GAME_DATA = [
         "name": "Čolek hranatý",
         "latin": "Lissotriton helveticus",
         "family": "mlokovití",
-        "order": "Urodela",
+        "order": "ocasatí",
         "wiki": "https://cs.wikipedia.org/wiki/%C4%8Colek_hranat%C3%BD",
         "photos": [
           {
@@ -258275,7 +258275,7 @@ window.GAME_DATA = [
         "name": "Čolek velký",
         "latin": "Triturus cristatus",
         "family": "mlokovití",
-        "order": "Urodela",
+        "order": "ocasatí",
         "wiki": "https://cs.wikipedia.org/wiki/%C4%8Colek_velk%C3%BD",
         "photos": [
           {
@@ -267873,7 +267873,7 @@ window.GAME_DATA = [
         "name": "Řasovník protáhlý",
         "latin": "Phyllopteryx taeniolatus",
         "family": "jehlovití",
-        "order": "Jehly",
+        "order": "jehlotvární",
         "wiki": "https://cs.wikipedia.org/wiki/%C5%98asovn%C3%ADk_prot%C3%A1hl%C3%BD",
         "photos": [
           {
@@ -268144,7 +268144,7 @@ window.GAME_DATA = [
         "name": "Jehla mořská",
         "latin": "Syngnathus typhle",
         "family": "jehlovití",
-        "order": "Jehly",
+        "order": "jehlotvární",
         "wiki": "https://cs.wikipedia.org/wiki/Jehla_mo%C5%99sk%C3%A1",
         "photos": [
           {
@@ -273155,7 +273155,7 @@ window.GAME_DATA = [
         "name": "Trubkotlamka skvrnitá",
         "latin": "Aulostomus maculatus",
         "family": "Aulostomus",
-        "order": "Jehly",
+        "order": "jehlotvární",
         "wiki": "https://cs.wikipedia.org/wiki/Trubkotlamka_skvrnit%C3%A1",
         "photos": [
           {
@@ -341768,7 +341768,7 @@ window.GAME_DATA = [
         "name": "Skálovka mravencožravá",
         "latin": "Callilepis nocturna",
         "family": "skálovkovití",
-        "order": "Q30587689",
+        "order": "pavouci",
         "wiki": "https://cs.wikipedia.org/wiki/Sk%C3%A1lovka_mravenco%C5%BErav%C3%A1",
         "photos": [
           {
@@ -345280,7 +345280,7 @@ window.GAME_DATA = [
         "name": "Slíďák mokřadní",
         "latin": "Pardosa amentata",
         "family": "slíďákovití",
-        "order": "Q30587689",
+        "order": "pavouci",
         "wiki": "https://cs.wikipedia.org/wiki/Sl%C3%AD%C4%8F%C3%A1k_mok%C5%99adn%C3%AD",
         "photos": [
           {
@@ -345558,7 +345558,7 @@ window.GAME_DATA = [
         "name": "Křižák keřový",
         "latin": "Larinioides patagiatus",
         "family": "křižákovití",
-        "order": "Q30587689",
+        "order": "pavouci",
         "wiki": "https://cs.wikipedia.org/wiki/K%C5%99i%C5%BE%C3%A1k_ke%C5%99ov%C3%BD",
         "photos": [
           {
@@ -349110,7 +349110,7 @@ window.GAME_DATA = [
         "name": "Zápřednice jedovatá",
         "latin": "Cheiracanthium punctorium",
         "family": "Zápřednicovití",
-        "order": "Q30587689",
+        "order": "pavouci",
         "wiki": "https://cs.wikipedia.org/wiki/Z%C3%A1p%C5%99ednice_jedovat%C3%A1",
         "photos": [
           {
@@ -349383,7 +349383,7 @@ window.GAME_DATA = [
         "name": "Sklípkan Klaasův",
         "latin": "Brachypelma klaasi",
         "family": "sklípkanovití",
-        "order": "Q30587689",
+        "order": "pavouci",
         "wiki": "https://cs.wikipedia.org/wiki/Skl%C3%ADpkan_Klaas%C5%AFv",
         "photos": [
           {
@@ -349549,7 +349549,7 @@ window.GAME_DATA = [
         "name": "Křižák luční",
         "latin": "Mangora acalypha",
         "family": "křižákovití",
-        "order": "Q30587689",
+        "order": "pavouci",
         "wiki": "https://cs.wikipedia.org/wiki/K%C5%99i%C5%BE%C3%A1k_lu%C4%8Dn%C3%AD",
         "photos": [
           {
@@ -349610,7 +349610,7 @@ window.GAME_DATA = [
         "name": "Sklípkan největší",
         "latin": "Theraphosa blondi",
         "family": "sklípkanovití",
-        "order": "Q30587689",
+        "order": "pavouci",
         "wiki": "https://cs.wikipedia.org/wiki/Skl%C3%ADpkan_nejv%C4%9Bt%C5%A1%C3%AD",
         "photos": [
           {
@@ -349827,7 +349827,7 @@ window.GAME_DATA = [
         "name": "Běžník kopretinový",
         "latin": "Misumena vatia",
         "family": "běžníkovití",
-        "order": "Q30587689",
+        "order": "pavouci",
         "wiki": "https://cs.wikipedia.org/wiki/B%C4%9B%C5%BEn%C3%ADk_kopretinov%C3%BD",
         "photos": [
           {
@@ -349905,7 +349905,7 @@ window.GAME_DATA = [
         "name": "Křižák mostní",
         "latin": "Larinioides sclopetarius",
         "family": "křižákovití",
-        "order": "Q30587689",
+        "order": "pavouci",
         "wiki": "https://cs.wikipedia.org/wiki/K%C5%99i%C5%BE%C3%A1k_mostn%C3%AD",
         "photos": [
           {
@@ -350114,7 +350114,7 @@ window.GAME_DATA = [
         "name": "Stepník rudý",
         "latin": "Eresus kollari",
         "family": "stepníkovití",
-        "order": "Q30587689",
+        "order": "pavouci",
         "wiki": "https://cs.wikipedia.org/wiki/Stepn%C3%ADk_rud%C3%BD",
         "photos": [
           {
@@ -350794,7 +350794,7 @@ window.GAME_DATA = [
         "name": "Rapana dravá",
         "latin": "Rapana venosa",
         "family": "Muricidae",
-        "order": "Q980146",
+        "order": "Neogastropoda",
         "wiki": "https://cs.wikipedia.org/wiki/Rapana_drav%C3%A1",
         "photos": [
           {
@@ -350838,14 +350838,14 @@ window.GAME_DATA = [
           "SA"
         ],
         "pop": 21,
-        "emoji": "🐚"
+        "emoji": "🐌"
       },
       {
         "id": "Q1404905",
         "name": "Zaděnka hladká",
         "latin": "Callista chione",
         "family": "Veneridae",
-        "order": "Q25385804",
+        "order": "Venerida",
         "wiki": "https://cs.wikipedia.org/wiki/Zad%C4%9Bnka_hladk%C3%A1",
         "photos": [
           {
@@ -350886,14 +350886,14 @@ window.GAME_DATA = [
           "AF"
         ],
         "pop": 17,
-        "emoji": "🐌"
+        "emoji": "🦪"
       },
       {
         "id": "Q1472765",
         "name": "Tritonka indická",
         "latin": "Charonia tritonis",
         "family": "Ranellidae",
-        "order": "Q1187122",
+        "order": "Littorinimorpha",
         "wiki": "https://cs.wikipedia.org/wiki/Tritonka_indick%C3%A1",
         "photos": [
           {
@@ -350944,7 +350944,7 @@ window.GAME_DATA = [
           "OC"
         ],
         "pop": 28,
-        "emoji": "🐚"
+        "emoji": "🐌"
       },
       {
         "id": "Q1500654",
@@ -351090,7 +351090,7 @@ window.GAME_DATA = [
         "name": "Homolice síťkovaná",
         "latin": "Conus textile",
         "family": "homolicovití",
-        "order": "Q980146",
+        "order": "Neogastropoda",
         "wiki": "https://cs.wikipedia.org/wiki/Homolice_s%C3%AD%C5%A5kovan%C3%A1",
         "photos": [
           {
@@ -351132,7 +351132,7 @@ window.GAME_DATA = [
           "OC"
         ],
         "pop": 20,
-        "emoji": "🐚"
+        "emoji": "🐌"
       },
       {
         "id": "Q151201",
@@ -351221,7 +351221,7 @@ window.GAME_DATA = [
         "name": "Sudanka sirná",
         "latin": "Tonna galea",
         "family": "Tonnidae",
-        "order": "Q1187122",
+        "order": "Littorinimorpha",
         "wiki": "https://cs.wikipedia.org/wiki/Sudanka_sirn%C3%A1",
         "photos": [
           {
@@ -351250,7 +351250,7 @@ window.GAME_DATA = [
           "OC"
         ],
         "pop": 21,
-        "emoji": "🐚"
+        "emoji": "🐌"
       },
       {
         "id": "Q1632342",
@@ -351818,7 +351818,7 @@ window.GAME_DATA = [
         "name": "Písečník novozélandský",
         "latin": "Potamopyrgus antipodarum",
         "family": "Hydrobiidae",
-        "order": "Q1187122",
+        "order": "Littorinimorpha",
         "wiki": "https://cs.wikipedia.org/wiki/P%C3%ADse%C4%8Dn%C3%ADk_novoz%C3%A9landsk%C3%BD",
         "photos": [
           {
@@ -351969,7 +351969,7 @@ window.GAME_DATA = [
         "name": "Šišan rudý",
         "latin": "Cypraecassis rufa",
         "family": "Cassidae",
-        "order": "Q1187122",
+        "order": "Littorinimorpha",
         "wiki": "https://cs.wikipedia.org/wiki/%C5%A0i%C5%A1an_rud%C3%BD",
         "photos": [
           {
@@ -352005,7 +352005,7 @@ window.GAME_DATA = [
           "OC"
         ],
         "pop": 12,
-        "emoji": "🐚"
+        "emoji": "🐌"
       },
       {
         "id": "Q1940276",
@@ -352439,7 +352439,7 @@ window.GAME_DATA = [
         "name": "Donka dalmatská",
         "latin": "Bolma rugosa",
         "family": "donkovití",
-        "order": "Q58192325",
+        "order": "Trochida",
         "wiki": "https://cs.wikipedia.org/wiki/Donka_dalmatsk%C3%A1",
         "photos": [
           {
@@ -352494,7 +352494,7 @@ window.GAME_DATA = [
           "AF"
         ],
         "pop": 12,
-        "emoji": "🐚"
+        "emoji": "🐌"
       },
       {
         "id": "Q245314",
@@ -352645,7 +352645,7 @@ window.GAME_DATA = [
         "name": "Zavinutec tygrovaný",
         "latin": "Cypraea tigris",
         "family": "Cypraeidae",
-        "order": "Q1187122",
+        "order": "Littorinimorpha",
         "wiki": "https://cs.wikipedia.org/wiki/Zavinutec_tygrovan%C3%BD",
         "photos": [
           {
@@ -352705,7 +352705,7 @@ window.GAME_DATA = [
           "OC"
         ],
         "pop": 18,
-        "emoji": "🐚"
+        "emoji": "🐌"
       },
       {
         "id": "Q26908",
@@ -352857,7 +352857,7 @@ window.GAME_DATA = [
         "name": "Praménka rakouská",
         "latin": "Bythinella austriaca",
         "family": "Hydrobiidae",
-        "order": "Q1187122",
+        "order": "Littorinimorpha",
         "wiki": "https://cs.wikipedia.org/wiki/Pram%C3%A9nka_rakousk%C3%A1",
         "photos": [
           {
@@ -352957,7 +352957,7 @@ window.GAME_DATA = [
         "name": "Venuška jedlá",
         "latin": "Venus verrucosa",
         "family": "Veneridae",
-        "order": "Q25385804",
+        "order": "Venerida",
         "wiki": "https://cs.wikipedia.org/wiki/Venu%C5%A1ka_jedl%C3%A1",
         "photos": [
           {
@@ -352988,7 +352988,7 @@ window.GAME_DATA = [
           "AF"
         ],
         "pop": 18,
-        "emoji": "🐌"
+        "emoji": "🦪"
       },
       {
         "id": "Q3819564",
@@ -353361,7 +353361,7 @@ window.GAME_DATA = [
         "name": "Křídlatec velký",
         "latin": "Lobatus gigas",
         "family": "Strombidae",
-        "order": "Q1187122",
+        "order": "Littorinimorpha",
         "wiki": "https://cs.wikipedia.org/wiki/K%C5%99%C3%ADdlatec_velk%C3%BD",
         "photos": [
           {
@@ -353400,14 +353400,14 @@ window.GAME_DATA = [
           "SA"
         ],
         "pop": 29,
-        "emoji": "🐚"
+        "emoji": "🐌"
       },
       {
         "id": "Q651332",
         "name": "Ostranka jaderská",
         "latin": "Bolinus brandaris",
         "family": "Muricidae",
-        "order": "Q980146",
+        "order": "Neogastropoda",
         "wiki": "https://cs.wikipedia.org/wiki/Ostranka_jadersk%C3%A1",
         "photos": [
           {
@@ -353482,7 +353482,7 @@ window.GAME_DATA = [
           "AF"
         ],
         "pop": 29,
-        "emoji": "🐚"
+        "emoji": "🐌"
       },
       {
         "id": "Q651361",
@@ -353628,7 +353628,7 @@ window.GAME_DATA = [
         "name": "Monodonta spirálovitá",
         "latin": "Phorcus turbinatus",
         "family": "kotoučovití",
-        "order": "Q58192325",
+        "order": "Trochida",
         "wiki": "https://cs.wikipedia.org/wiki/Monodonta_spir%C3%A1lovit%C3%A1",
         "photos": [
           {
@@ -353681,14 +353681,14 @@ window.GAME_DATA = [
           "AF"
         ],
         "pop": 11,
-        "emoji": "🐚"
+        "emoji": "🐌"
       },
       {
         "id": "Q728187",
         "name": "Korbikula asijská",
         "latin": "Corbicula fluminea",
         "family": "Corbiculidae",
-        "order": "Q132678",
+        "order": "Venerida",
         "wiki": "https://cs.wikipedia.org/wiki/Korbikula_asijsk%C3%A1",
         "photos": [
           {
@@ -356776,7 +356776,7 @@ window.GAME_DATA = [
         "name": "Coronula diadema",
         "latin": "Coronula diadema",
         "family": "Coronulidae",
-        "order": "",
+        "order": "Balanomorpha",
         "wiki": "https://cs.wikipedia.org/wiki/Coronula_diadema",
         "photos": [
           {
@@ -626139,7 +626139,7 @@ window.GAME_DATA = [
         "name": "Kořenoústka plicnatá",
         "latin": "Rhizostoma pulmo",
         "family": "Rhizostomatidae",
-        "order": "Q838519",
+        "order": "Rhizostomeae",
         "wiki": "https://cs.wikipedia.org/wiki/Ko%C5%99eno%C3%BAstka_plicnat%C3%A1",
         "photos": [
           {

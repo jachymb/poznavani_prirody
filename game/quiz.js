@@ -173,10 +173,21 @@
     return scopes[step];
   }
 
+  const group = (s) => s.clade || s.order;
+  // Odmocnina tlumí známost, velikost třídy (velké třídy nevytlačí malé) i velikost řádu ve třídě (žáby nevytlačí mloky).
+  function weights(species) {
+    const size = {};
+    for (const s of species) size[group(s)] = (size[group(s)] || 0) + 1;
+    const base = (s) => Math.sqrt((1 + (s.pop || 0)) / species.length);
+    const damped = (s) => (s.egg ? base(s) : base(s) / Math.sqrt(size[group(s)]));
+    const scale = species.reduce((n, s) => n + base(s), 0) / species.reduce((n, s) => n + damped(s), 0);
+    return new Map(species.map((s) => [s, s.egg ? base(s) : damped(s) * scale]));
+  }
+
   // classes: třídy jedné říše. skip: id druhů, které už v kole byly. only: jen tyto cílové druhy (opakování chyb).
   // level: beginner, advanced nebo expert určuje, z jak blízkých druhů jsou špatné odpovědi.
   function makeQuestion(classes, { skip = new Set(), only = null, level = "expert" } = {}) {
-    const all = classes.flatMap((c) => c.species.map((s) => [s, c.species, c.wide || c.species]))
+    const all = classes.flatMap((c) => { const w = weights(c.species); return c.species.map((s) => [s, w.get(s), c.wide || c.species]); })
       .filter(([s]) => !only || only.has(s.id));
     const fresh = all.filter(([s]) => !skip.has(s.id));
     for (const pool of [fresh, all]) {
@@ -185,8 +196,7 @@
       for (const make of shuffle(MAKERS)) {
         for (let step = 0; step < SCOPE_STEPS; step++) {
           for (let tries = 0; tries < TARGET_TRIES; tries++) {
-            // Známost i velikost třídy tlumí odmocnina: nejznámější druhy se neopakují pořád a velké třídy nevytlačí malé.
-            const [target, , classmates] = pickWeighted(pool, ([s, known]) => Math.sqrt((1 + (s.pop || 0)) / known.length));
+            const [target, , classmates] = pickWeighted(pool, ([, w]) => w);
             // Úroveň zužuje jen hledané druhy. Špatné odpovědi jsou z celé třídy, vybrané podle stejných pravidel příbuznosti.
             const q = make(target, classmates.filter(scopeOf(target, step, level)), level);
             if (!q) continue;
@@ -220,7 +230,6 @@
     const limit = Math.max(pool.min, Math.ceil(c.species.length * pool.share));
     const ranked = [...c.species].sort((a, b) => (b.pop || 0) - (a.pop || 0));
     const size = {}, taken = {}, perSpecies = (limit / ranked.length) * ORDER_QUOTA;
-    const group = (s) => s.clade || s.order;
     for (const s of ranked) size[group(s)] = (size[group(s)] || 0) + 1;
     const known = new Set(ranked.filter((s) => (taken[group(s)] = (taken[group(s)] || 0) + 1) <= Math.round(size[group(s)] * perSpecies)));
     for (const s of ranked) if (known.size < limit) known.add(s);
