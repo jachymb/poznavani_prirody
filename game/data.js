@@ -280144,7 +280144,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q491934#x3",
-            "text": "Samec hlídá jikry v hnízdě 8 až 10 dní, do vylíhnutí.",
+            "text": "Samec hlídá jikry v hnízdě 8 až 10 dní, dokud se mláďata nevylíhnou.",
             "cat": "mláďata",
             "not": [
               "Q1429252",
@@ -285904,7 +285904,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q923248#x3",
-            "text": "Při vyplašení uniká od hladiny do ponořeného úkrytu.",
+            "text": "Když se vyplaší, uniká od hladiny do úkrytu pod vodou.",
             "cat": "chování",
             "not": []
           },
@@ -287070,8 +287070,7 @@ window.GAME_DATA = [
             "cat": "mláďata",
             "not": [
               "Q5125285",
-              "Q842406",
-              "Q846231"
+              "Q842406"
             ]
           }
         ],
@@ -309395,7 +309394,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q175754#x2",
-            "text": "Přezimuje jako malé housenky v zámotcích z listů a hedvábného vlákna.",
+            "text": "Přezimuje jako malá housenka v zámotku z listů a hedvábného vlákna.",
             "cat": "chování",
             "not": []
           },
@@ -320385,7 +320384,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q285314#x5",
-            "text": "Přezimuje jako kukla v chladných oblastech.",
+            "text": "V chladných oblastech přezimuje jako kukla.",
             "cat": "chování",
             "not": []
           }
@@ -345809,7 +345808,22 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Ballus_chalybeius_28578602.jpg/500px-Ballus_chalybeius_28578602.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q1758710#x0",
+            "text": "Samice staví v létě na spodní straně listu plochý hedvábný úkryt.",
+            "cat": "chování",
+            "not": [
+              "Q1313031"
+            ]
+          },
+          {
+            "id": "Q1758710#x1",
+            "text": "Žije hlavně na okrajích listnatých lesů, na keřích a stromech, zvláště dubech.",
+            "cat": "výskyt",
+            "not": []
+          }
+        ],
         "continents": [
           "EU",
           "AS",
@@ -346368,7 +346382,18 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Larinioides_ixobolus_03.jpg/500px-Larinioides_ixobolus_03.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q1953235#x0",
+            "text": "Obývá budovy poblíž vody a mosty.",
+            "cat": "výskyt",
+            "not": [
+              "Q1310642",
+              "Q1425775",
+              "Q403009"
+            ]
+          }
+        ],
         "continents": [
           "EU",
           "AS"
@@ -350011,7 +350036,31 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Atypus_Muralis%2C_Geroldswil%2C_Z%C3%BCrich%2C_Switzerland_%28cropped%29.jpg/500px-Atypus_Muralis%2C_Geroldswil%2C_Z%C3%BCrich%2C_Switzerland_%28cropped%29.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q692729#x2",
+            "text": "Číhá na dně trubice a kořist pozná podle chvění hedvábné sítě.",
+            "cat": "potrava",
+            "not": [
+              "Q1310642",
+              "Q1313031",
+              "Q1425775",
+              "Q169513",
+              "Q403009",
+              "Q937723"
+            ]
+          },
+          {
+            "id": "Q692729#x3",
+            "text": "Žije na suchých trávnících s vápnitou půdou.",
+            "cat": "výskyt",
+            "not": [
+              "Q1624740",
+              "Q2197310",
+              "Q3184964"
+            ]
+          }
+        ],
         "continents": [
           "EU",
           "AS"
@@ -355819,7 +355868,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q1300629#x1",
-            "text": "Živí se hlavně rozkládajícím se rostlinným opadem.",
+            "text": "Živí se hlavně rostlinným opadem.",
             "cat": "potrava",
             "not": [
               "Q1366514",
@@ -355832,13 +355881,13 @@ window.GAME_DATA = [
           },
           {
             "id": "Q1300629#x2",
-            "text": "Loví ho pavouci, střevlíci, rejsci a ropuchy.",
+            "text": "Predátory tohoto druhu jsou pavouci, střevlíci, rejsci a ropuchy.",
             "cat": "vztahy",
             "not": []
           },
           {
             "id": "Q1300629#x4",
-            "text": "Parazitují na něm hlístice a dvoukřídlí.",
+            "text": "Na tomto druhu parazitují hlístice a dvoukřídlí.",
             "cat": "vztahy",
             "not": []
           }
@@ -355896,7 +355945,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q1317340#x0",
-            "text": "Živí se rostlinným materiálem a drobnými vodními bezobratlými, například perloočkami.",
+            "text": "Živí se rostlinami a drobnými vodními bezobratlými, například perloočkami.",
             "cat": "potrava",
             "not": []
           },
@@ -355908,7 +355957,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q1317340#x2",
-            "text": "Odolná vajíčka se vylíhla i po 28 letech sucha.",
+            "text": "Odolná vajíčka se mohou vylíhnout i po 28 letech sucha.",
             "cat": "čísla",
             "not": [
               "Q134974",
@@ -357130,7 +357179,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q4302742#0",
-            "text": "Žije přichycen na velkých kytovcích, nejčastěji na keporkacích.",
+            "text": "Přichycuje se k velkým kytovcům, nejčastěji ke keporkakům.",
             "cat": "vztahy",
             "not": [
               "Q107078367",
@@ -357759,7 +357808,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q752188#1",
-            "text": "Tento druh je noční a přes den se ukrývá.",
+            "text": "Tento druh je aktivní v noci a přes den se ukrývá.",
             "cat": "chování",
             "not": []
           }
@@ -375441,7 +375490,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q1281083#x3",
-            "text": "Výtažek z něj se v Indii používá do parfémů.",
+            "text": "V Indii se výtažek z této rostliny používá do parfémů.",
             "cat": "využití",
             "not": []
           }
@@ -388652,7 +388701,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q159487#x3",
-            "text": "Špatně snáší vodu přebohatou na živiny.",
+            "text": "Špatně snáší vodu s nadbytkem živin.",
             "cat": "výskyt",
             "not": [
               "Q154500"
@@ -389640,7 +389689,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q159760#x4",
-            "text": "Květní trubice měří na délku až 30 cm, ale na šířku jen 1 mm.",
+            "text": "Květní trubka je dlouhá až 30 cm, ale široká jen 1 mm.",
             "cat": "čísla",
             "not": [
               "Q10906279",
@@ -389657,7 +389706,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q159760#x5",
-            "text": "Přežívá zamrzlá v ledu a pod ledem dokonce pomalu roste.",
+            "text": "Přežívá zamrznutí v ledu a pod ledem dokonce pomalu roste.",
             "cat": "růst",
             "not": [
               "Q161809"
@@ -412355,8 +412404,7 @@ window.GAME_DATA = [
               "Q11258500",
               "Q1546744",
               "Q256971",
-              "Q743883",
-              "Q901435"
+              "Q743883"
             ]
           }
         ],
@@ -413431,6 +413479,7 @@ window.GAME_DATA = [
               "Q11879787",
               "Q12039444",
               "Q137867",
+              "Q140350",
               "Q1426971",
               "Q1432956",
               "Q1460161",
@@ -413438,6 +413487,7 @@ window.GAME_DATA = [
               "Q149109",
               "Q1572669",
               "Q1752834",
+              "Q1763341",
               "Q1777800",
               "Q178025",
               "Q292385",
@@ -413579,6 +413629,7 @@ window.GAME_DATA = [
             "text": "Dorůstá 40 až 60 milimetrů.",
             "cat": "čísla",
             "not": [
+              "Q178025",
               "Q1937687",
               "Q385125"
             ]
@@ -413590,6 +413641,7 @@ window.GAME_DATA = [
             "not": [
               "Q11308062",
               "Q1156618",
+              "Q11879787",
               "Q148994",
               "Q1937687",
               "Q325331"
@@ -414101,6 +414153,7 @@ window.GAME_DATA = [
             "cat": "výskyt",
             "not": [
               "Q1156618",
+              "Q11879787",
               "Q1937687",
               "Q292408"
             ]
@@ -414331,7 +414384,11 @@ window.GAME_DATA = [
             "cat": "čísla",
             "not": [
               "Q11308062",
+              "Q140350",
+              "Q1432956",
+              "Q149109",
               "Q150300",
+              "Q178025",
               "Q385125"
             ]
           }
@@ -414395,7 +414452,8 @@ window.GAME_DATA = [
               "Q150994",
               "Q179213",
               "Q2097953",
-              "Q3490169"
+              "Q3490169",
+              "Q442127"
             ]
           }
         ],
@@ -414883,14 +414941,20 @@ window.GAME_DATA = [
             "text": "Hojně roste po celém území České republiky.",
             "cat": "výskyt",
             "not": [
-              "Q11879787"
+              "Q11879787",
+              "Q1763341"
             ]
           },
           {
             "id": "Q2097953#1",
             "text": "Lodyžka dorůstá 2–5 cm.",
             "cat": "čísla",
-            "not": []
+            "not": [
+              "Q140350",
+              "Q149109",
+              "Q1646440",
+              "Q1777800"
+            ]
           }
         ],
         "continents": [
@@ -415487,7 +415551,9 @@ window.GAME_DATA = [
             "id": "Q867250#x5",
             "text": "Roste v mokrých lesích, kde převládají vrby a břízy.",
             "cat": "výskyt",
-            "not": []
+            "not": [
+              "Q11879787"
+            ]
           }
         ],
         "continents": [
@@ -415635,18 +415701,6 @@ window.GAME_DATA = [
           }
         ],
         "facts": [
-          {
-            "id": "Q1138172#0",
-            "text": "Roste hlavně v jehličnatých lesích.",
-            "cat": "výskyt",
-            "not": [
-              "Q1192790",
-              "Q1245997",
-              "Q1665550",
-              "Q2529160",
-              "Q899476"
-            ]
-          },
           {
             "id": "Q1138172#1",
             "text": "Výtrusy dozrávají od července do září.",
@@ -416449,8 +416503,6 @@ window.GAME_DATA = [
               "Q1138172",
               "Q1142154",
               "Q12045561",
-              "Q1245997",
-              "Q1665550",
               "Q245842",
               "Q2715589",
               "Q466426",
@@ -419418,7 +419470,37 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Grifola_frondosa_%286486237693%29.jpg/500px-Grifola_frondosa_%286486237693%29.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q1165686#x0",
+            "text": "Roste u paty stromů, zejména starých dubů a javorů.",
+            "cat": "vztahy",
+            "not": [
+              "Q503359"
+            ]
+          },
+          {
+            "id": "Q1165686#x1",
+            "text": "Často roste několik let po sobě na stejném místě.",
+            "cat": "růst",
+            "not": []
+          },
+          {
+            "id": "Q1165686#x3",
+            "text": "Způsobuje bílou hnilobu dřeva.",
+            "cat": "vztahy",
+            "not": [
+              "Q1314944",
+              "Q1434635",
+              "Q36992",
+              "Q3915457",
+              "Q430845",
+              "Q53743",
+              "Q631566",
+              "Q772098"
+            ]
+          }
+        ],
         "continents": [
           "EU",
           "AS",
@@ -424083,7 +424165,14 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Hygrophorus_chrysodon%2C_Tillamook.jpg/500px-Hygrophorus_chrysodon%2C_Tillamook.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q1536218#x2",
+            "text": "Roste v listnatých a smíšených lesích pod buky, vzácněji pod smrky.",
+            "cat": "výskyt",
+            "not": []
+          }
+        ],
         "continents": [
           "EU",
           "AS",
@@ -429095,7 +429184,14 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/2014-10-17_Leccinum_duriusculum_%28Schulzer_ex_Kalchbr.%29_Singer_514499.jpg/500px-2014-10-17_Leccinum_duriusculum_%28Schulzer_ex_Kalchbr.%29_Singer_514499.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q2360294#x2",
+            "text": "Plodnice rostou od června do října, někdy až do listopadu.",
+            "cat": "růst",
+            "not": []
+          }
+        ],
         "continents": [
           "EU"
         ],
@@ -432441,7 +432537,61 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Shiitake_mushroom.jpg/500px-Shiitake_mushroom.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q320999#x0",
+            "text": "Roste ve skupinách na odumírajícím dřevě listnatých stromů.",
+            "cat": "vztahy",
+            "not": [
+              "Q13684",
+              "Q1423834",
+              "Q1445543",
+              "Q1855552",
+              "Q1879286",
+              "Q188749",
+              "Q243381",
+              "Q503359",
+              "Q62138",
+              "Q757127",
+              "Q816730",
+              "Q865540",
+              "Q934772"
+            ]
+          },
+          {
+            "id": "Q320999#x3",
+            "text": "Na slunci se v plodnicích tvoří vitamin D2.",
+            "cat": "účinky",
+            "not": []
+          },
+          {
+            "id": "Q320999#x4",
+            "text": "Tvoří asi čtvrtinu celkové roční produkce pěstovaných hub na světě.",
+            "cat": "čísla",
+            "not": [
+              "Q13684",
+              "Q1445543",
+              "Q1552361",
+              "Q1855552",
+              "Q1879286",
+              "Q188749",
+              "Q229814",
+              "Q28492278",
+              "Q503359",
+              "Q62138",
+              "Q631566",
+              "Q633503",
+              "Q728673",
+              "Q757127",
+              "Q772098",
+              "Q794194",
+              "Q816730",
+              "Q865540",
+              "Q922887",
+              "Q934772"
+            ]
+          }
+        ],
         "continents": [
           "EU",
           "AS",
@@ -469632,7 +469782,23 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Betula_nana_upernavik_kujalleq_2007-07-25_2.jpg/500px-Betula_nana_upernavik_kujalleq_2007-07-25_2.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q157628#x1",
+            "text": "Mladé listy na ní brzy z jara spásají losi.",
+            "cat": "vztahy",
+            "not": []
+          },
+          {
+            "id": "Q157628#x3",
+            "text": "Pyl roznáší vítr.",
+            "cat": "růst",
+            "not": [
+              "Q1549425",
+              "Q19848986"
+            ]
+          }
+        ],
         "continents": [
           "EU",
           "AS",
@@ -472704,8 +472870,7 @@ window.GAME_DATA = [
             "not": [
               "Q460517",
               "Q63045",
-              "Q666160",
-              "Q958823"
+              "Q666160"
             ]
           }
         ],
@@ -484972,7 +485137,6 @@ window.GAME_DATA = [
             "text": "Kvete v dubnu a květnu.",
             "cat": "růst",
             "not": [
-              "Q1348662",
               "Q159842",
               "Q161110",
               "Q958823"
@@ -492584,18 +492748,6 @@ window.GAME_DATA = [
             "text": "Kvete od května do července.",
             "cat": "růst",
             "not": []
-          },
-          {
-            "id": "Q163763#1",
-            "text": "Roste planě na vlhkých polostinných místech.",
-            "cat": "výskyt",
-            "not": [
-              "Q158359",
-              "Q159842",
-              "Q160068",
-              "Q63045",
-              "Q90595797"
-            ]
           }
         ],
         "continents": [
@@ -503850,7 +504002,69 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Corymbia_citriodora_kz02.jpg/500px-Corymbia_citriodora_kz02.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q2549523#x0",
+            "text": "Dorůstá výšky 25 až 40 metrů.",
+            "cat": "čísla",
+            "not": [
+              "Q150952",
+              "Q1520028",
+              "Q158221",
+              "Q159094",
+              "Q159427",
+              "Q159669",
+              "Q160123",
+              "Q164151",
+              "Q164337",
+              "Q3206161",
+              "Q59420273"
+            ]
+          },
+          {
+            "id": "Q2549523#x1",
+            "text": "Kvete téměř po celý rok.",
+            "cat": "růst",
+            "not": [
+              "Q159094",
+              "Q159669",
+              "Q160123",
+              "Q164151",
+              "Q164337"
+            ]
+          },
+          {
+            "id": "Q2549523#x2",
+            "text": "Olej z listů se používá v repelentech proti komárům.",
+            "cat": "využití",
+            "not": []
+          },
+          {
+            "id": "Q2549523#x3",
+            "text": "Dřevo je velmi těžké, tvrdé a odolné proti houbám a termitům.",
+            "cat": "využití",
+            "not": [
+              "Q158221",
+              "Q159094",
+              "Q159427",
+              "Q159669",
+              "Q160123",
+              "Q164151",
+              "Q164337",
+              "Q3206161"
+            ]
+          },
+          {
+            "id": "Q2549523#x4",
+            "text": "Po pokácení nebo požáru znovu vyrůstá ze zásobního orgánu u paty kmene.",
+            "cat": "růst",
+            "not": [
+              "Q158221",
+              "Q160123",
+              "Q3206161"
+            ]
+          }
+        ],
         "continents": [
           "EU",
           "AS",
@@ -537196,19 +537410,6 @@ window.GAME_DATA = [
         ],
         "facts": [
           {
-            "id": "Q1420828#0",
-            "text": "Rostliny se rozrůstají v polštářovitý porost.",
-            "cat": "růst",
-            "not": [
-              "Q158642",
-              "Q161416",
-              "Q2007832",
-              "Q2991695",
-              "Q334697",
-              "Q728769"
-            ]
-          },
-          {
             "id": "Q1420828#1",
             "text": "Květy jsou drobné, asi 2 mm v průměru.",
             "cat": "čísla",
@@ -547536,8 +547737,7 @@ window.GAME_DATA = [
             "cat": "čísla",
             "not": [
               "Q11058458",
-              "Q156938",
-              "Q958823"
+              "Q156938"
             ]
           },
           {
@@ -551309,8 +551509,7 @@ window.GAME_DATA = [
             "cat": "čísla",
             "not": [
               "Q460517",
-              "Q63045",
-              "Q958823"
+              "Q63045"
             ]
           },
           {
@@ -590918,8 +591117,7 @@ window.GAME_DATA = [
               "Q257757",
               "Q3918504",
               "Q460517",
-              "Q63045",
-              "Q7218532"
+              "Q63045"
             ]
           },
           {
@@ -603187,8 +603385,7 @@ window.GAME_DATA = [
               "Q156538",
               "Q1569528",
               "Q460517",
-              "Q63045",
-              "Q958823"
+              "Q63045"
             ]
           },
           {
@@ -615988,8 +616185,6 @@ window.GAME_DATA = [
             "text": "Květy rozkvétají nad hladinou a opyluje je hmyz.",
             "cat": "růst",
             "not": [
-              "Q2007832",
-              "Q2991695",
               "Q920344"
             ]
           },
@@ -631809,7 +632004,79 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Campylobacter_fetus_01.jpg/500px-Campylobacter_fetus_01.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q131488#x0",
+            "text": "Způsobuje u lidí průjmové onemocnění.",
+            "cat": "vztahy",
+            "not": [
+              "Q1135851",
+              "Q1198419",
+              "Q180148",
+              "Q18645284",
+              "Q3103814",
+              "Q68528412"
+            ]
+          },
+          {
+            "id": "Q131488#x1",
+            "text": "Ve velkém množství se vyskytuje v syrovém drůbežím mase.",
+            "cat": "výskyt",
+            "not": [
+              "Q1135851",
+              "Q1198419",
+              "Q180148",
+              "Q18645284",
+              "Q3103814",
+              "Q68528412"
+            ]
+          },
+          {
+            "id": "Q131488#x2",
+            "text": "Některé druhy mohou způsobit potraty u skotu a ovcí.",
+            "cat": "vztahy",
+            "not": [
+              "Q1135851",
+              "Q1198419",
+              "Q180148",
+              "Q18645284",
+              "Q3103814",
+              "Q68528412"
+            ]
+          },
+          {
+            "id": "Q131488#x3",
+            "text": "Pohybuje se pomocí bičíků.",
+            "cat": "vzhled",
+            "not": [
+              "Q1135851"
+            ]
+          },
+          {
+            "id": "Q131488#x4",
+            "text": "Nejlépe roste při teplotě 37 až 42 °C.",
+            "cat": "čísla",
+            "not": [
+              "Q1135851",
+              "Q18645284",
+              "Q3103814"
+            ]
+          },
+          {
+            "id": "Q131488#x5",
+            "text": "Přirozenými predátory jsou bakteriofágy, viry napadající bakterie.",
+            "cat": "vztahy",
+            "not": [
+              "Q1135851",
+              "Q1198419",
+              "Q131003",
+              "Q180148",
+              "Q3103814",
+              "Q5201274",
+              "Q68528412"
+            ]
+          }
+        ],
         "continents": [
           "EU",
           "AS",
@@ -631837,7 +632104,65 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Corynebacterium_diphtheriae_Gram_stain.jpg/500px-Corynebacterium_diphtheriae_Gram_stain.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q131649#x0",
+            "text": "Způsobuje nemoc záškrt.",
+            "cat": "vztahy",
+            "not": [
+              "Q115528",
+              "Q130971",
+              "Q135175",
+              "Q135368",
+              "Q155891",
+              "Q1756496",
+              "Q311376",
+              "Q56290719",
+              "Q627992",
+              "Q81062864",
+              "Q91703"
+            ]
+          },
+          {
+            "id": "Q131649#x1",
+            "text": "Jedovatý toxin produkují jen kmeny nakažené virem zvaným bakteriofág.",
+            "cat": "jedovatost",
+            "not": [
+              "Q115528",
+              "Q130971",
+              "Q135175",
+              "Q135368",
+              "Q155891",
+              "Q1756496",
+              "Q311376",
+              "Q627992",
+              "Q81062864",
+              "Q91703"
+            ]
+          },
+          {
+            "id": "Q131649#x2",
+            "text": "Přenáší se z člověka na člověka kapénkami při kašlání nebo kýchání.",
+            "cat": "vztahy",
+            "not": [
+              "Q115528",
+              "Q135175",
+              "Q135368",
+              "Q1756496",
+              "Q311376",
+              "Q56290719",
+              "Q627992",
+              "Q81062864",
+              "Q91703"
+            ]
+          },
+          {
+            "id": "Q131649#x4",
+            "text": "Má tvar tyčinky a netvoří spory.",
+            "cat": "vzhled",
+            "not": []
+          }
+        ],
         "continents": [
           "EU",
           "AS",
@@ -632193,7 +632518,67 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Desulforudis_audaxviator.jpg/500px-Desulforudis_audaxviator.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q133548#x0",
+            "text": "Žije v podzemní vodě v hloubce 1,5 až 3 kilometry pod povrchem.",
+            "cat": "výskyt",
+            "not": [
+              "Q104443866",
+              "Q131129",
+              "Q134734",
+              "Q153875",
+              "Q156007",
+              "Q188121",
+              "Q25419",
+              "Q520210",
+              "Q5222586",
+              "Q62895951",
+              "Q63409998"
+            ]
+          },
+          {
+            "id": "Q133548#x1",
+            "text": "Získává energii z chemických látek vzniklých radioaktivním rozpadem minerálů v okolní hornině.",
+            "cat": "potrava",
+            "not": [
+              "Q104443866",
+              "Q131129",
+              "Q132014",
+              "Q134734",
+              "Q153875",
+              "Q156007",
+              "Q188121",
+              "Q25419",
+              "Q520210",
+              "Q5222586",
+              "Q62895951",
+              "Q63409998"
+            ]
+          },
+          {
+            "id": "Q133548#x2",
+            "text": "Nepotřebuje ke své existenci sluneční světlo.",
+            "cat": "potrava",
+            "not": [
+              "Q104443866"
+            ]
+          },
+          {
+            "id": "Q133548#x3",
+            "text": "Dokáže se pohybovat a plavat pomocí bičíku.",
+            "cat": "vzhled",
+            "not": [
+              "Q104443866",
+              "Q131129",
+              "Q132014",
+              "Q134734",
+              "Q153875",
+              "Q188121",
+              "Q5222586"
+            ]
+          }
+        ],
         "continents": [
           "AF"
         ],
@@ -632703,7 +633088,44 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Burkholderia_cepacia.jpg/500px-Burkholderia_cepacia.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q139227#x0",
+            "text": "Žije typicky v podzemní vodě a v půdě.",
+            "cat": "výskyt",
+            "not": [
+              "Q131065",
+              "Q137103",
+              "Q1950715",
+              "Q3018329"
+            ]
+          },
+          {
+            "id": "Q139227#x1",
+            "text": "Způsobuje hnilobu cibule.",
+            "cat": "vztahy",
+            "not": [
+              "Q131065",
+              "Q137103",
+              "Q19253007",
+              "Q1950715",
+              "Q3018329"
+            ]
+          },
+          {
+            "id": "Q139227#x2",
+            "text": "Způsobuje zápal plic u plazů.",
+            "cat": "vztahy",
+            "not": [
+              "Q131065",
+              "Q137103",
+              "Q19253007",
+              "Q1950715",
+              "Q3018329",
+              "Q311435"
+            ]
+          }
+        ],
         "continents": [
           "EU",
           "AS",
@@ -633103,7 +633525,42 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Spirogyra_sp.jpg/500px-Spirogyra_sp.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q148710#x0",
+            "text": "Žije ve sladké vodě, například v řekách a rybnících.",
+            "cat": "výskyt",
+            "not": [
+              "Q131649",
+              "Q134950",
+              "Q1950752",
+              "Q1950818"
+            ]
+          },
+          {
+            "id": "Q148710#x1",
+            "text": "Vyskytuje se na všech kontinentech včetně Antarktidy.",
+            "cat": "výskyt",
+            "not": [
+              "Q1950752",
+              "Q1950818"
+            ]
+          },
+          {
+            "id": "Q148710#x2",
+            "text": "Dorůstá délky několika centimetrů.",
+            "cat": "čísla",
+            "not": [
+              "Q131268",
+              "Q131649",
+              "Q140004",
+              "Q1950752",
+              "Q1950818",
+              "Q2697755",
+              "Q2706492"
+            ]
+          }
+        ],
         "continents": [
           "EU",
           "AS",
@@ -634116,7 +634573,50 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Prochlorococcus_marinus.jpg/500px-Prochlorococcus_marinus.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q18645284#x0",
+            "text": "Je nejmenším známým fotosyntetizujícím organismem, měří 0,5 až 0,7 mikrometru.",
+            "cat": "čísla",
+            "not": [
+              "Q12043723",
+              "Q132595",
+              "Q141236",
+              "Q3492461",
+              "Q3898962"
+            ]
+          },
+          {
+            "id": "Q18645284#x2",
+            "text": "Jeden mililitr povrchové mořské vody může obsahovat 100 000 buněk i více.",
+            "cat": "čísla",
+            "not": [
+              "Q12043723",
+              "Q131238",
+              "Q132595",
+              "Q139928",
+              "Q141236",
+              "Q3492461",
+              "Q3898962",
+              "Q6823576"
+            ]
+          },
+          {
+            "id": "Q18645284#x3",
+            "text": "Hojně se vyskytuje v prosvětlené vrstvě tropických oceánů.",
+            "cat": "výskyt",
+            "not": [
+              "Q12043723",
+              "Q131238",
+              "Q132595",
+              "Q139928",
+              "Q141236",
+              "Q3492461",
+              "Q3898962",
+              "Q6823576"
+            ]
+          }
+        ],
         "continents": [
           "EU",
           "AS",
@@ -634504,7 +635004,32 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Micrococcus_in_Gram_stain.jpg/500px-Micrococcus_in_Gram_stain.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q1954952#x1",
+            "text": "Na lidské kůži mění složky potu na látky s nepříjemným zápachem.",
+            "cat": "vztahy",
+            "not": [
+              "Q1190338",
+              "Q1500736",
+              "Q155630",
+              "Q2133435",
+              "Q3497618",
+              "Q430301"
+            ]
+          },
+          {
+            "id": "Q1954952#x5",
+            "text": "Dokáže využívat například herbicidy a ropu.",
+            "cat": "využití",
+            "not": [
+              "Q1114305",
+              "Q155630",
+              "Q221179",
+              "Q3497618"
+            ]
+          }
+        ],
         "continents": [
           "EU",
           "AS",
@@ -634838,7 +635363,28 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Propionibacterium_acnes.jpg/500px-Propionibacterium_acnes.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q2442109#x1",
+            "text": "Žije převážně hluboko ve vlasových váčcích a pórech kůže.",
+            "cat": "výskyt",
+            "not": [
+              "Q148710",
+              "Q150962",
+              "Q2658061",
+              "Q288725",
+              "Q309972",
+              "Q3614869",
+              "Q78611696"
+            ]
+          },
+          {
+            "id": "Q2442109#x2",
+            "text": "Na černém světle svítí oranžově.",
+            "cat": "vzhled",
+            "not": []
+          }
+        ],
         "continents": [
           "EU",
           "AS",
@@ -634979,7 +635525,32 @@ window.GAME_DATA = [
             "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Entamoeba_gingivalis.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q264363#x1",
+            "text": "Přenáší se přímo z člověka na člověka, například líbáním nebo sdílením příborů.",
+            "cat": "vztahy",
+            "not": [
+              "Q131273",
+              "Q132434",
+              "Q150954",
+              "Q2441328",
+              "Q386827"
+            ]
+          },
+          {
+            "id": "Q264363#x2",
+            "text": "Živí se jádry bílých krvinek, bakteriemi a krvinkami.",
+            "cat": "potrava",
+            "not": [
+              "Q132434",
+              "Q150954",
+              "Q2441328",
+              "Q386827",
+              "Q719725"
+            ]
+          }
+        ],
         "continents": [
           "EU",
           "AS",
@@ -635409,7 +635980,42 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Rhodococcus_species.jpg/500px-Rhodococcus_species.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q288311#x0",
+            "text": "Rozkládá škodlivé látky znečišťující prostředí, například toluen a naftalen.",
+            "cat": "využití",
+            "not": [
+              "Q115528",
+              "Q155891",
+              "Q1756496",
+              "Q311376",
+              "Q627992"
+            ]
+          },
+          {
+            "id": "Q288311#x4",
+            "text": "Žije v půdě, ve vodě i uvnitř buněk jiných organismů.",
+            "cat": "výskyt",
+            "not": []
+          },
+          {
+            "id": "Q288311#x5",
+            "text": "Podílí se na odsiřování fosilních paliv.",
+            "cat": "využití",
+            "not": [
+              "Q115528",
+              "Q130971",
+              "Q155891",
+              "Q1756496",
+              "Q311376",
+              "Q56290719",
+              "Q627992",
+              "Q81062864",
+              "Q91703"
+            ]
+          }
+        ],
         "continents": [
           "EU",
           "AS",
@@ -635926,7 +636532,22 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Gephyrocapsa_oceanica_color.jpg/500px-Gephyrocapsa_oceanica_color.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q3103814#x0",
+            "text": "Tvoří kulovitou schránku z mnoha vápencových destiček.",
+            "cat": "vzhled",
+            "not": [
+              "Q1141979",
+              "Q135175",
+              "Q142705",
+              "Q288311",
+              "Q31856",
+              "Q517258",
+              "Q5233857"
+            ]
+          }
+        ],
         "continents": [
           "EU",
           "AS",
@@ -636690,7 +637311,46 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Bdelloid.JPG/500px-Bdelloid.JPG"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q430301#x0",
+            "text": "Živí se bakteriemi, řasami a drobnými zbytky odumřelých organismů.",
+            "cat": "potrava",
+            "not": [
+              "Q116504956",
+              "Q12043982"
+            ]
+          },
+          {
+            "id": "Q430301#x4",
+            "text": "Tvoří 90 % všech vířníků nalezených v půdě.",
+            "cat": "výskyt",
+            "not": [
+              "Q107027",
+              "Q116504956",
+              "Q12043982",
+              "Q162678",
+              "Q190115",
+              "Q309465",
+              "Q310363",
+              "Q310443",
+              "Q5194",
+              "Q6646558"
+            ]
+          },
+          {
+            "id": "Q430301#x5",
+            "text": "Měří obvykle 150 až 700 mikrometrů.",
+            "cat": "čísla",
+            "not": [
+              "Q116504956",
+              "Q12043982",
+              "Q309465",
+              "Q310363",
+              "Q6646558"
+            ]
+          }
+        ],
         "continents": [
           "EU",
           "AS",
@@ -636961,7 +637621,44 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Kluyveromyces_marxianus_colonies.jpg/500px-Kluyveromyces_marxianus_colonies.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q5222586#x1",
+            "text": "Vyskytuje se v mléčných výrobcích a na listech sisalu.",
+            "cat": "výskyt",
+            "not": [
+              "Q1796255",
+              "Q1946250",
+              "Q220392",
+              "Q2666248",
+              "Q4978547"
+            ]
+          },
+          {
+            "id": "Q5222586#x2",
+            "text": "V průmyslu se používá k přeměně mléčného cukru na ethanol pro biopaliva.",
+            "cat": "využití",
+            "not": [
+              "Q1152218",
+              "Q1796255",
+              "Q1946250",
+              "Q220392",
+              "Q2666248",
+              "Q4978547"
+            ]
+          },
+          {
+            "id": "Q5222586#x3",
+            "text": "Dokáže přeměnit odpadní syrovátku na biomasu, například na krmivo pro zvířata.",
+            "cat": "využití",
+            "not": [
+              "Q1796255",
+              "Q1946250",
+              "Q220392",
+              "Q2666248"
+            ]
+          }
+        ],
         "continents": [
           "EU",
           "AS",
@@ -637780,7 +638477,73 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Caenorhabditis_elegans.jpg/500px-Caenorhabditis_elegans.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q91703#x1",
+            "text": "Živí se bakteriemi z rozkládající se organické hmoty.",
+            "cat": "potrava",
+            "not": [
+              "Q130971",
+              "Q131003",
+              "Q133548",
+              "Q135177",
+              "Q14565729",
+              "Q146310",
+              "Q153875",
+              "Q154625",
+              "Q188121",
+              "Q2442109",
+              "Q292015",
+              "Q3021915",
+              "Q309471",
+              "Q614156",
+              "Q719725"
+            ]
+          },
+          {
+            "id": "Q91703#x2",
+            "text": "Požírají ho dravé hlístice a některý všežravý hmyz.",
+            "cat": "vztahy",
+            "not": [
+              "Q146310",
+              "Q154625"
+            ]
+          },
+          {
+            "id": "Q91703#x3",
+            "text": "Odolné larvy jsou přenášeny některými mnohonožkami, hmyzem, korýši a plži.",
+            "cat": "vztahy",
+            "not": [
+              "Q107027",
+              "Q130971",
+              "Q131003",
+              "Q133548",
+              "Q134351",
+              "Q135177",
+              "Q14565729",
+              "Q146310",
+              "Q153875",
+              "Q154625",
+              "Q162678",
+              "Q188121",
+              "Q236001",
+              "Q2442109",
+              "Q25419",
+              "Q292015",
+              "Q3021915",
+              "Q309471",
+              "Q614156",
+              "Q719725",
+              "Q830142"
+            ]
+          },
+          {
+            "id": "Q91703#x5",
+            "text": "Dožívá se průměrně dvou až tří týdnů.",
+            "cat": "čísla",
+            "not": []
+          }
+        ],
         "continents": [
           "EU",
           "AS",
@@ -637891,7 +638654,44 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Spectrovenator_ragei_skeletal_reconstruction_by_Felipe_Elias.jpg/500px-Spectrovenator_ragei_skeletal_reconstruction_by_Felipe_Elias.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q100308560#x1",
+            "text": "Tento druh měřil na délku odhadem 1,4 až 2,2 metru.",
+            "cat": "čísla",
+            "not": [
+              "Q1067635",
+              "Q131166",
+              "Q132291",
+              "Q132927",
+              "Q133158"
+            ]
+          },
+          {
+            "id": "Q100308560#x2",
+            "text": "Jeho kostra ležela pod kostrou titanosaura.",
+            "cat": "výskyt",
+            "not": [
+              "Q1067635",
+              "Q124605213",
+              "Q131166",
+              "Q132291",
+              "Q132927",
+              "Q133152",
+              "Q133158",
+              "Q133349",
+              "Q2944495",
+              "Q634119",
+              "Q7254536"
+            ]
+          },
+          {
+            "id": "Q100308560#x4",
+            "text": "Jeho kostra se našla v sedimentech z okraje mělkého jezera.",
+            "cat": "výskyt",
+            "not": []
+          }
+        ],
         "continents": [
           "SA"
         ],
@@ -638108,7 +638908,48 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/%28MHNT%29_Hemicyon_stehlini_H%C3%BCrzeler%2C_1944_-_cr%C3%A2ne.jpg/500px-%28MHNT%29_Hemicyon_stehlini_H%C3%BCrzeler%2C_1944_-_cr%C3%A2ne.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q1035243#x0",
+            "text": "Tento druh žil v období miocénu.",
+            "cat": "výskyt",
+            "not": [
+              "Q135101",
+              "Q138066",
+              "Q188717",
+              "Q20640526",
+              "Q255441",
+              "Q2675629",
+              "Q3661310",
+              "Q496689",
+              "Q583627",
+              "Q840036"
+            ]
+          },
+          {
+            "id": "Q1035243#x1",
+            "text": "Tento druh chodil po prstech.",
+            "cat": "chování",
+            "not": []
+          },
+          {
+            "id": "Q1035243#x2",
+            "text": "Tento druh lovil tak, že pronásledoval kořist na otevřeném terénu.",
+            "cat": "potrava",
+            "not": [
+              "Q138066",
+              "Q2675629"
+            ]
+          },
+          {
+            "id": "Q1035243#x3",
+            "text": "Jeho fosílie se našly v Evropě, Asii a Severní Americe.",
+            "cat": "výskyt",
+            "not": [
+              "Q135101"
+            ]
+          }
+        ],
         "continents": [
           "EU",
           "AS",
@@ -638819,7 +639660,48 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Panphagia_fossil_DSC_6168.jpg/500px-Panphagia_fossil_DSC_6168.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q1076760#x0",
+            "text": "Tento druh žil před asi 231 miliony let.",
+            "cat": "výskyt",
+            "not": [
+              "Q1056138",
+              "Q115813367",
+              "Q131167",
+              "Q131202",
+              "Q131518",
+              "Q132665",
+              "Q133177",
+              "Q133203",
+              "Q14330",
+              "Q16773910",
+              "Q648806"
+            ]
+          },
+          {
+            "id": "Q1076760#x1",
+            "text": "Jeho fosílie se našly v severozápadní Argentině.",
+            "cat": "výskyt",
+            "not": [
+              "Q1064780",
+              "Q131680",
+              "Q131782",
+              "Q132500",
+              "Q132713",
+              "Q134648",
+              "Q239272",
+              "Q2585658",
+              "Q2713191"
+            ]
+          },
+          {
+            "id": "Q1076760#x3",
+            "text": "Zuby vzadu v čelisti jsou kratší než vpředu a mají tvar listu.",
+            "cat": "vzhled",
+            "not": []
+          }
+        ],
         "continents": [
           "SA"
         ],
@@ -639460,7 +640342,75 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Aphanapteryx_leguati.jpg/500px-Aphanapteryx_leguati.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q1128681#x0",
+            "text": "Tento druh se živil vejci suchozemských želv.",
+            "cat": "potrava",
+            "not": []
+          },
+          {
+            "id": "Q1128681#x1",
+            "text": "Tento druh byl přitahován červenými předměty.",
+            "cat": "chování",
+            "not": []
+          },
+          {
+            "id": "Q1128681#x2",
+            "text": "Tento druh měřil asi 35 cm.",
+            "cat": "čísla",
+            "not": [
+              "Q131163",
+              "Q131589",
+              "Q139169",
+              "Q2027034"
+            ]
+          },
+          {
+            "id": "Q1128681#x3",
+            "text": "Tento druh žil jen na ostrově Rodrigues.",
+            "cat": "výskyt",
+            "not": [
+              "Q1050513",
+              "Q131163",
+              "Q131589",
+              "Q139169",
+              "Q2027034",
+              "Q28114434",
+              "Q540547",
+              "Q641109",
+              "Q773484",
+              "Q958901"
+            ]
+          },
+          {
+            "id": "Q1128681#x4",
+            "text": "Tento druh vyhynul v polovině 18. století.",
+            "cat": "vymření",
+            "not": [
+              "Q1050513",
+              "Q131163",
+              "Q131589",
+              "Q139169",
+              "Q2027034",
+              "Q28114434",
+              "Q540547",
+              "Q773484"
+            ]
+          },
+          {
+            "id": "Q1128681#x5",
+            "text": "Jednou z hlavních příčin vyhynutí byly zavlečené kočky.",
+            "cat": "vymření",
+            "not": [
+              "Q131163",
+              "Q131589",
+              "Q139169",
+              "Q2027034",
+              "Q773484"
+            ]
+          }
+        ],
         "continents": [
           "AF"
         ],
@@ -639867,7 +640817,24 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Panthera_toscana.JPG/500px-Panthera_toscana.JPG"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q1164873#x1",
+            "text": "Tento druh byl pravděpodobně samotářský lovec.",
+            "cat": "chování",
+            "not": []
+          },
+          {
+            "id": "Q1164873#x4",
+            "text": "Tento druh vážil v průměru asi 130 až 140 kilogramů.",
+            "cat": "čísla",
+            "not": [
+              "Q2675629",
+              "Q3661310",
+              "Q583627"
+            ]
+          }
+        ],
         "continents": [
           "EU",
           "AS",
@@ -640383,7 +641350,29 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Oblitosaurus_bunnueli_en_Din%C3%B3polis.jpg/500px-Oblitosaurus_bunnueli_en_Din%C3%B3polis.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q120743561#x0",
+            "text": "Tento druh měřil podle odhadů 6 až 7 metrů.",
+            "cat": "čísla",
+            "not": [
+              "Q134203",
+              "Q134226",
+              "Q28610332"
+            ]
+          },
+          {
+            "id": "Q120743561#x2",
+            "text": "Jeho fosílie se našly ve Španělsku v souvrství z pozdní jury.",
+            "cat": "výskyt",
+            "not": [
+              "Q131256",
+              "Q134392",
+              "Q1705570",
+              "Q62029371"
+            ]
+          }
+        ],
         "continents": [
           "EU"
         ],
@@ -640489,7 +641478,55 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Reconstru%C3%A7%C3%A3o_anat%C3%B4mica_de_um_Perucetus.jpg/500px-Reconstru%C3%A7%C3%A3o_anat%C3%B4mica_de_um_Perucetus.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q121095909#x0",
+            "text": "Tento druh měl kosti tlustší a hustší než kterýkoli jiný známý kytovec.",
+            "cat": "vzhled",
+            "not": [
+              "Q125026545",
+              "Q131137",
+              "Q132405",
+              "Q134884",
+              "Q3621452"
+            ]
+          },
+          {
+            "id": "Q121095909#x3",
+            "text": "Odhady jeho délky se pohybují od 15 do 20 metrů.",
+            "cat": "čísla",
+            "not": [
+              "Q111731074",
+              "Q131070",
+              "Q134257",
+              "Q140183",
+              "Q18972",
+              "Q20717983",
+              "Q2288361",
+              "Q2483571",
+              "Q310503",
+              "Q830854"
+            ]
+          },
+          {
+            "id": "Q121095909#x4",
+            "text": "Tento druh byl největším kytovcem eocénu.",
+            "cat": "čísla",
+            "not": [
+              "Q111731074",
+              "Q131070",
+              "Q131759",
+              "Q134257",
+              "Q140183",
+              "Q18972",
+              "Q20717983",
+              "Q2288361",
+              "Q2483571",
+              "Q310503",
+              "Q830854"
+            ]
+          }
+        ],
         "continents": [
           "SA"
         ],
@@ -640743,7 +641780,50 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Peloroplites_price_1.jpg/500px-Peloroplites_price_1.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q1256132#x0",
+            "text": "Délka těla dosahovala asi 6 metrů.",
+            "cat": "čísla",
+            "not": [
+              "Q134226"
+            ]
+          },
+          {
+            "id": "Q1256132#x1",
+            "text": "Hmotnost se odhaduje na 2 tuny.",
+            "cat": "čísla",
+            "not": [
+              "Q107969684",
+              "Q133133",
+              "Q133183",
+              "Q134334",
+              "Q135102",
+              "Q14506",
+              "Q17414109"
+            ]
+          },
+          {
+            "id": "Q1256132#x3",
+            "text": "Tento druh patřil mezi býložravce, kteří se živili nízko při zemi.",
+            "cat": "potrava",
+            "not": [
+              "Q107969684"
+            ]
+          },
+          {
+            "id": "Q1256132#x4",
+            "text": "Jeho kosti se našly v lomu spolu s kostmi želvy a ptakoještěra.",
+            "cat": "vztahy",
+            "not": []
+          },
+          {
+            "id": "Q1256132#x5",
+            "text": "Tento druh měl zobák a v přední části horní čelisti neměl zuby.",
+            "cat": "vzhled",
+            "not": []
+          }
+        ],
         "continents": [
           "NA"
         ],
@@ -640883,7 +641963,48 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Aorun_skull.jpg/500px-Aorun_skull.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q12681153#x0",
+            "text": "Tento druh byl pravděpodobně predátorem malých ještěrů a savců.",
+            "cat": "potrava",
+            "not": [
+              "Q131241",
+              "Q131791",
+              "Q133675"
+            ]
+          },
+          {
+            "id": "Q12681153#x1",
+            "text": "Tento druh žil před asi 161,6 miliony let v pozdní juře.",
+            "cat": "výskyt",
+            "not": [
+              "Q131211",
+              "Q131331",
+              "Q131786",
+              "Q132602",
+              "Q133070",
+              "Q137252",
+              "Q18510922",
+              "Q20672342",
+              "Q22811125",
+              "Q754604"
+            ]
+          },
+          {
+            "id": "Q12681153#x2",
+            "text": "Jeho fosílie se našly v Číně, v oblasti Sin-ťiang.",
+            "cat": "výskyt",
+            "not": [
+              "Q131275",
+              "Q131398",
+              "Q133081",
+              "Q134771",
+              "Q1814708",
+              "Q751087"
+            ]
+          }
+        ],
         "continents": [
           "AS"
         ],
@@ -640906,7 +642027,40 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Machairodus_aphanistus_-_Cerro_de_los_Batallones_-_Museo_Arqueol%C3%B3gico_Regional_CAM.JPG/500px-Machairodus_aphanistus_-_Cerro_de_los_Batallones_-_Museo_Arqueol%C3%B3gico_Regional_CAM.JPG"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q1274400#x0",
+            "text": "Tento druh žil v Africe a Eurasii v období miocénu.",
+            "cat": "výskyt",
+            "not": [
+              "Q112245916",
+              "Q131076",
+              "Q131477",
+              "Q132569",
+              "Q14400",
+              "Q188717",
+              "Q205935",
+              "Q2076664",
+              "Q583627"
+            ]
+          },
+          {
+            "id": "Q1274400#x1",
+            "text": "Tento druh vážil zhruba 117 až 285 kilogramů.",
+            "cat": "čísla",
+            "not": [
+              "Q2675629",
+              "Q3661310",
+              "Q583627"
+            ]
+          },
+          {
+            "id": "Q1274400#x5",
+            "text": "Tento druh soupeřil o kořist s medvědy.",
+            "cat": "vztahy",
+            "not": []
+          }
+        ],
         "continents": [
           "EU",
           "AS",
@@ -641284,7 +642438,64 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Moschops_BW.jpg/500px-Moschops_BW.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q130737#x0",
+            "text": "Tento druh žil v období středního permu v dnešní Jižní Africe.",
+            "cat": "výskyt",
+            "not": [
+              "Q133137",
+              "Q1827222",
+              "Q3083026"
+            ]
+          },
+          {
+            "id": "Q130737#x1",
+            "text": "Tento druh se živil tvrdou rostlinnou potravou chudou na živiny.",
+            "cat": "potrava",
+            "not": [
+              "Q131155",
+              "Q131446",
+              "Q132937",
+              "Q1994612",
+              "Q383329"
+            ]
+          },
+          {
+            "id": "Q130737#x2",
+            "text": "Tento druh se podle vědců střetával s rivaly nárazy hlavou.",
+            "cat": "chování",
+            "not": [
+              "Q131780",
+              "Q133453",
+              "Q133837",
+              "Q18604594",
+              "Q2078996",
+              "Q2451710",
+              "Q570439",
+              "Q629204"
+            ]
+          },
+          {
+            "id": "Q130737#x5",
+            "text": "Tento druh patřil ke skupině, která vyhynula při hromadném vymírání ve středním permu.",
+            "cat": "vymření",
+            "not": [
+              "Q1031486",
+              "Q131634",
+              "Q131644",
+              "Q132558",
+              "Q134103",
+              "Q136860",
+              "Q137581",
+              "Q17363721",
+              "Q311281",
+              "Q64836111",
+              "Q7622223",
+              "Q91930067"
+            ]
+          }
+        ],
         "continents": [
           "AF"
         ],
@@ -641360,7 +642571,132 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Dimetrodon_skeleton.jpg/500px-Dimetrodon_skeleton.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q130869#x0",
+            "text": "Tento druh se živil rybami a čtyřnožci, včetně plazů a obojživelníků.",
+            "cat": "potrava",
+            "not": [
+              "Q131568",
+              "Q133203",
+              "Q14330",
+              "Q14397"
+            ]
+          },
+          {
+            "id": "Q130869#x1",
+            "text": "Tento druh žil v období permu.",
+            "cat": "výskyt",
+            "not": [
+              "Q123102",
+              "Q130988",
+              "Q131038",
+              "Q131056",
+              "Q131094",
+              "Q131275",
+              "Q131398",
+              "Q132647",
+              "Q133081",
+              "Q134771",
+              "Q14506",
+              "Q168903",
+              "Q1814708",
+              "Q18325158",
+              "Q2029022",
+              "Q245060",
+              "Q2576461",
+              "Q285008",
+              "Q287975",
+              "Q310535",
+              "Q751087"
+            ]
+          },
+          {
+            "id": "Q130869#x2",
+            "text": "Většina jeho fosílií se našla v jihozápadních Spojených státech.",
+            "cat": "výskyt",
+            "not": [
+              "Q131211",
+              "Q131331",
+              "Q131786",
+              "Q132602",
+              "Q133070",
+              "Q137252",
+              "Q15144358",
+              "Q18510922",
+              "Q188851",
+              "Q192272",
+              "Q205935",
+              "Q20672342",
+              "Q22811125",
+              "Q239272",
+              "Q310434",
+              "Q310517",
+              "Q40751",
+              "Q43502",
+              "Q629204",
+              "Q646994",
+              "Q754604"
+            ]
+          },
+          {
+            "id": "Q130869#x3",
+            "text": "Tento druh měl na hřbetě velkou plachtu z prodloužených výběžků obratlů.",
+            "cat": "vzhled",
+            "not": [
+              "Q123102",
+              "Q130988",
+              "Q131038",
+              "Q131056",
+              "Q131094",
+              "Q131155",
+              "Q131446",
+              "Q132647",
+              "Q132857",
+              "Q132937",
+              "Q133517",
+              "Q168903",
+              "Q1994612",
+              "Q245060",
+              "Q285008",
+              "Q287975",
+              "Q310535",
+              "Q383329",
+              "Q644544"
+            ]
+          },
+          {
+            "id": "Q130869#x5",
+            "text": "Tento druh vymřel zhruba 40 milionů let před objevením dinosaurů.",
+            "cat": "vymření",
+            "not": [
+              "Q1056138",
+              "Q115813367",
+              "Q131167",
+              "Q131202",
+              "Q131264",
+              "Q131481",
+              "Q131518",
+              "Q131678",
+              "Q131788",
+              "Q132665",
+              "Q133177",
+              "Q133203",
+              "Q14330",
+              "Q14388",
+              "Q16773910",
+              "Q2491",
+              "Q309466",
+              "Q310529",
+              "Q312131",
+              "Q3699044",
+              "Q496689",
+              "Q528572",
+              "Q648806",
+              "Q971275"
+            ]
+          }
+        ],
         "continents": [
           "EU",
           "NA"
@@ -641484,7 +642820,112 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Ceratosaurus_nasicornis_DB.jpg/500px-Ceratosaurus_nasicornis_DB.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q130902#x0",
+            "text": "Tento druh žil v období pozdní jury.",
+            "cat": "výskyt",
+            "not": [
+              "Q128233",
+              "Q12973051",
+              "Q130966",
+              "Q131046",
+              "Q131561",
+              "Q131565",
+              "Q131690",
+              "Q131695",
+              "Q14455",
+              "Q15632851",
+              "Q188949",
+              "Q1930333",
+              "Q203583",
+              "Q242358",
+              "Q25963034",
+              "Q271710",
+              "Q310520",
+              "Q312054",
+              "Q40752"
+            ]
+          },
+          {
+            "id": "Q130902#x1",
+            "text": "Jeho kosti se našly v Severní Americe a v Evropě.",
+            "cat": "výskyt",
+            "not": [
+              "Q1031486",
+              "Q131644",
+              "Q132558",
+              "Q134103",
+              "Q136860",
+              "Q17363721",
+              "Q310520",
+              "Q477223",
+              "Q64836111"
+            ]
+          },
+          {
+            "id": "Q130902#x2",
+            "text": "Jeho kořistí mohli být býložraví dinosauři.",
+            "cat": "potrava",
+            "not": [
+              "Q130980",
+              "Q131078",
+              "Q131583",
+              "Q133203",
+              "Q14326",
+              "Q14330",
+              "Q14384",
+              "Q16773910",
+              "Q1698713",
+              "Q310520",
+              "Q376401",
+              "Q477223",
+              "Q648806",
+              "Q76411"
+            ]
+          },
+          {
+            "id": "Q130902#x4",
+            "text": "Tento druh sdílel prostředí s dalšími velkými teropody, například s allosaurem.",
+            "cat": "vztahy",
+            "not": [
+              "Q131467",
+              "Q187484",
+              "Q192383",
+              "Q1959271",
+              "Q20675442",
+              "Q222191",
+              "Q309392",
+              "Q310387",
+              "Q310503",
+              "Q575699",
+              "Q857081"
+            ]
+          },
+          {
+            "id": "Q130902#x5",
+            "text": "Tento druh měřil asi šest metrů a vážil kolem šesti set kilogramů.",
+            "cat": "čísla",
+            "not": [
+              "Q130880",
+              "Q131021",
+              "Q131067",
+              "Q131446",
+              "Q132937",
+              "Q133517",
+              "Q14397",
+              "Q18510948",
+              "Q188717",
+              "Q189193",
+              "Q18972",
+              "Q1994612",
+              "Q37395",
+              "Q383329",
+              "Q40752",
+              "Q644544"
+            ]
+          }
+        ],
         "continents": [
           "EU",
           "AF",
@@ -641515,7 +642956,104 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Abelisaurus_skull.jpg/500px-Abelisaurus_skull.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q130921#x0",
+            "text": "Tento druh žil v období svrchní křídy v dnešní Jižní Americe.",
+            "cat": "výskyt",
+            "not": [
+              "Q100196",
+              "Q1064780",
+              "Q131046",
+              "Q131565",
+              "Q131680",
+              "Q131782",
+              "Q132713",
+              "Q188949",
+              "Q239272",
+              "Q2585658",
+              "Q2713191",
+              "Q271710",
+              "Q312054"
+            ]
+          },
+          {
+            "id": "Q130921#x1",
+            "text": "Tento druh je znám jen z jedné neúplné lebky.",
+            "cat": "výskyt",
+            "not": [
+              "Q131070",
+              "Q131155",
+              "Q131205",
+              "Q132414",
+              "Q132683",
+              "Q132857",
+              "Q133203",
+              "Q133517",
+              "Q134884",
+              "Q14400",
+              "Q14403",
+              "Q1821811",
+              "Q191339",
+              "Q1994612",
+              "Q310531",
+              "Q311212",
+              "Q383329",
+              "Q644544"
+            ]
+          },
+          {
+            "id": "Q130921#x2",
+            "text": "Tento druh byl podle domněnky vrcholovým predátorem svého prostředí.",
+            "cat": "potrava",
+            "not": [
+              "Q107685",
+              "Q130980",
+              "Q131078",
+              "Q131583",
+              "Q131648",
+              "Q14326",
+              "Q14330",
+              "Q14384",
+              "Q1698713",
+              "Q376401",
+              "Q46995838",
+              "Q57273328"
+            ]
+          },
+          {
+            "id": "Q130921#x4",
+            "text": "Tento druh měřil podle odhadu z roku 2016 asi 7,4 metru.",
+            "cat": "čísla",
+            "not": [
+              "Q132968",
+              "Q133453",
+              "Q133837",
+              "Q18604594",
+              "Q192383",
+              "Q2197682",
+              "Q222191",
+              "Q22927446",
+              "Q309390",
+              "Q309392",
+              "Q310503",
+              "Q570439",
+              "Q575699",
+              "Q629204"
+            ]
+          },
+          {
+            "id": "Q130921#x5",
+            "text": "Tento druh měl na lebce drsné hrany, které mohly nést hřeben z keratinu.",
+            "cat": "vzhled",
+            "not": [
+              "Q133203",
+              "Q134884",
+              "Q191339",
+              "Q311212"
+            ]
+          }
+        ],
         "continents": [
           "SA"
         ],
@@ -642067,7 +643605,84 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Mamench_DB.jpg/500px-Mamench_DB.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q131038#x1",
+            "text": "Jeho fosílie se našly v Číně, v kotlině Sichuan a v provincii Yunnan.",
+            "cat": "výskyt",
+            "not": [
+              "Q131241",
+              "Q131481",
+              "Q131791",
+              "Q133034",
+              "Q133675",
+              "Q139169",
+              "Q14388",
+              "Q18642358",
+              "Q20718358",
+              "Q309466",
+              "Q310529",
+              "Q3889333",
+              "Q496689",
+              "Q528572",
+              "Q56316452"
+            ]
+          },
+          {
+            "id": "Q131038#x2",
+            "text": "Většina druhů tohoto rodu měřila zhruba 15 až 26 metrů.",
+            "cat": "čísla",
+            "not": [
+              "Q130880",
+              "Q131021",
+              "Q131039",
+              "Q131067",
+              "Q131481",
+              "Q131568",
+              "Q134151",
+              "Q134308",
+              "Q134629",
+              "Q136254",
+              "Q18510948",
+              "Q188717",
+              "Q189193",
+              "Q18972",
+              "Q2417324",
+              "Q2556351",
+              "Q37395",
+              "Q40752",
+              "Q67103336",
+              "Q747009"
+            ]
+          },
+          {
+            "id": "Q131038#x3",
+            "text": "Jeho fosílie byly poprvé objeveny roku 1952 na staveništi silnice.",
+            "cat": "výskyt",
+            "not": [
+              "Q130921",
+              "Q131070",
+              "Q131205",
+              "Q131673",
+              "Q132414",
+              "Q132552",
+              "Q132683",
+              "Q132859",
+              "Q133203",
+              "Q134310",
+              "Q134884",
+              "Q135001",
+              "Q14400",
+              "Q14403",
+              "Q1705935",
+              "Q191339",
+              "Q284931",
+              "Q310531",
+              "Q311212",
+              "Q593763"
+            ]
+          }
+        ],
         "continents": [
           "AS"
         ],
@@ -642381,7 +643996,89 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Oviraptor_holotype.jpg/500px-Oviraptor_holotype.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q131070#x0",
+            "text": "Tento druh žil v Asii v období svrchní křídy.",
+            "cat": "výskyt",
+            "not": [
+              "Q131275",
+              "Q131398",
+              "Q131481",
+              "Q134771",
+              "Q14388",
+              "Q1814708",
+              "Q310529",
+              "Q496689",
+              "Q528572"
+            ]
+          },
+          {
+            "id": "Q131070#x1",
+            "text": "Jeho první fosílie se našly v Mongolsku.",
+            "cat": "výskyt",
+            "not": [
+              "Q130880",
+              "Q131021",
+              "Q131039",
+              "Q131067",
+              "Q131568",
+              "Q132822",
+              "Q133137",
+              "Q14397",
+              "Q1827222",
+              "Q18510948",
+              "Q188717",
+              "Q189193",
+              "Q18972",
+              "Q3083026",
+              "Q310529",
+              "Q37395",
+              "Q40752",
+              "Q899506"
+            ]
+          },
+          {
+            "id": "Q131070#x4",
+            "text": "Tento druh měřil 1,6 až 2 metry a vážil 33 až 40 kilogramů.",
+            "cat": "čísla",
+            "not": [
+              "Q100196",
+              "Q11514710",
+              "Q130902",
+              "Q130966",
+              "Q131046",
+              "Q131695",
+              "Q131780",
+              "Q133453",
+              "Q133837",
+              "Q14455",
+              "Q18604594",
+              "Q203583",
+              "Q2197682",
+              "Q2451710",
+              "Q271710",
+              "Q570439",
+              "Q629204"
+            ]
+          },
+          {
+            "id": "Q131070#x5",
+            "text": "V jeho fosilním těle se našly zbytky ještěrky.",
+            "cat": "potrava",
+            "not": [
+              "Q14491",
+              "Q187484",
+              "Q192383",
+              "Q222191",
+              "Q309390",
+              "Q310387",
+              "Q310503",
+              "Q40621",
+              "Q575699"
+            ]
+          }
+        ],
         "continents": [
           "AS"
         ],
@@ -642679,7 +644376,112 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Kostra_kentrosaura.jpg/500px-Kostra_kentrosaura.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q131094#x1",
+            "text": "Tento druh se bránil nejdelšími ostny na konci ocasu.",
+            "cat": "chování",
+            "not": [
+              "Q130980",
+              "Q131078",
+              "Q131583",
+              "Q131602",
+              "Q132820",
+              "Q133122",
+              "Q134104",
+              "Q14326",
+              "Q14384",
+              "Q14405",
+              "Q1655417",
+              "Q1698713",
+              "Q310520",
+              "Q376401",
+              "Q477223",
+              "Q555915",
+              "Q76411",
+              "Q862601"
+            ]
+          },
+          {
+            "id": "Q131094#x2",
+            "text": "Jeho fosílie se našly v Tanzanii.",
+            "cat": "výskyt",
+            "not": [
+              "Q1055883",
+              "Q107969684",
+              "Q120743561",
+              "Q131264",
+              "Q131481",
+              "Q131595",
+              "Q131678",
+              "Q133133",
+              "Q133183",
+              "Q13410268",
+              "Q134334",
+              "Q135102",
+              "Q14388",
+              "Q14506",
+              "Q17414109",
+              "Q2491",
+              "Q309466",
+              "Q3699044",
+              "Q496689",
+              "Q528572"
+            ]
+          },
+          {
+            "id": "Q131094#x3",
+            "text": "Tento druh žil ve stejné době jako obří býložraví sauropodi.",
+            "cat": "vztahy",
+            "not": [
+              "Q131481",
+              "Q131678",
+              "Q310529",
+              "Q3699044",
+              "Q496689",
+              "Q528572",
+              "Q971275"
+            ]
+          },
+          {
+            "id": "Q131094#x4",
+            "text": "Tento druh měřil jako dospělý asi 4 až 4,5 metru.",
+            "cat": "čísla",
+            "not": [
+              "Q120743561",
+              "Q130880",
+              "Q131021",
+              "Q133133",
+              "Q133183",
+              "Q134334",
+              "Q135102",
+              "Q14397",
+              "Q14506",
+              "Q17414109",
+              "Q18510948",
+              "Q188717",
+              "Q189193",
+              "Q18972",
+              "Q40752"
+            ]
+          },
+          {
+            "id": "Q131094#x5",
+            "text": "Tento druh vážil asi 700 až 1600 kilogramů.",
+            "cat": "čísla",
+            "not": [
+              "Q123102",
+              "Q130988",
+              "Q131038",
+              "Q132647",
+              "Q134226",
+              "Q14506",
+              "Q245060",
+              "Q285008",
+              "Q310535"
+            ]
+          }
+        ],
         "continents": [
           "AF"
         ],
@@ -642996,7 +644798,28 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Ouranosaurus.jpg/500px-Ouranosaurus.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q131124#x1",
+            "text": "Tento druh byl býložravec.",
+            "cat": "potrava",
+            "not": [
+              "Q132820"
+            ]
+          },
+          {
+            "id": "Q131124#x4",
+            "text": "Tento druh měřil 7 až 8,3 metru a vážil asi 2,2 tuny.",
+            "cat": "čísla",
+            "not": [
+              "Q131179",
+              "Q131399",
+              "Q132481",
+              "Q21494374",
+              "Q2701043"
+            ]
+          }
+        ],
         "continents": [
           "AF"
         ],
@@ -643572,7 +645395,29 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Thylacosmilus_3D_model.jpg/500px-Thylacosmilus_3D_model.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q131163#x2",
+            "text": "Jeho tesáky rostly po celý život.",
+            "cat": "vzhled",
+            "not": [
+              "Q132538",
+              "Q133364",
+              "Q1479569",
+              "Q2879606",
+              "Q29578825"
+            ]
+          },
+          {
+            "id": "Q131163#x4",
+            "text": "Tento druh měřil v kohoutku asi 60 cm.",
+            "cat": "čísla",
+            "not": [
+              "Q131142",
+              "Q29578825"
+            ]
+          }
+        ],
         "continents": [
           "SA"
         ],
@@ -643834,7 +645679,57 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Aucasaurus.jpg/500px-Aucasaurus.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q131185#x2",
+            "text": "Tento druh byl masožravý.",
+            "cat": "potrava",
+            "not": [
+              "Q14410",
+              "Q15972921",
+              "Q888114"
+            ]
+          },
+          {
+            "id": "Q131185#x3",
+            "text": "Tento druh měřil na délku 5,5 až 6,2 metru a vážil asi 700 kilogramů.",
+            "cat": "čísla",
+            "not": [
+              "Q1067635",
+              "Q124605213",
+              "Q132927",
+              "Q133158",
+              "Q133349",
+              "Q2944495",
+              "Q634119",
+              "Q7254536"
+            ]
+          },
+          {
+            "id": "Q131185#x4",
+            "text": "Tento druh měl extrémně zkrácené přední končetiny a téměř žádné prsty.",
+            "cat": "vzhled",
+            "not": [
+              "Q131634",
+              "Q134103",
+              "Q137581",
+              "Q17363721",
+              "Q311281"
+            ]
+          },
+          {
+            "id": "Q131185#x5",
+            "text": "Stavba ocasu naznačuje, že tento druh mohl rychle běhat.",
+            "cat": "chování",
+            "not": [
+              "Q14410",
+              "Q15972921",
+              "Q21266789",
+              "Q2696795",
+              "Q888114"
+            ]
+          }
+        ],
         "continents": [
           "SA"
         ],
@@ -644065,7 +645960,75 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/OphthalmosaurusIcenius-NaturalHistoryMuseum-August23-08.jpg/500px-OphthalmosaurusIcenius-NaturalHistoryMuseum-August23-08.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q131208#x0",
+            "text": "Jeho potravou byli mimo jiné amoniti a belemniti.",
+            "cat": "potrava",
+            "not": [
+              "Q131245",
+              "Q132567",
+              "Q134005",
+              "Q309466",
+              "Q612928",
+              "Q664458",
+              "Q749836",
+              "Q844773"
+            ]
+          },
+          {
+            "id": "Q131208#x2",
+            "text": "Tento druh dorůstal délky až 4 metry.",
+            "cat": "čísla",
+            "not": [
+              "Q131245",
+              "Q134005",
+              "Q309466",
+              "Q612928",
+              "Q664458",
+              "Q844773"
+            ]
+          },
+          {
+            "id": "Q131208#x3",
+            "text": "Tento druh se pravděpodobně dokázal potápět asi 20 minut.",
+            "cat": "chování",
+            "not": [
+              "Q131245",
+              "Q132567",
+              "Q134005",
+              "Q309466",
+              "Q612928",
+              "Q664458",
+              "Q749836",
+              "Q844773"
+            ]
+          },
+          {
+            "id": "Q131208#x4",
+            "text": "Jeho první fosílie se našly v Anglii.",
+            "cat": "výskyt",
+            "not": [
+              "Q104883923",
+              "Q132567",
+              "Q134005",
+              "Q309466",
+              "Q612928",
+              "Q664458",
+              "Q749836",
+              "Q844773"
+            ]
+          },
+          {
+            "id": "Q131208#x5",
+            "text": "Kostěný kruh v oku chránil oko před vysokým tlakem vody.",
+            "cat": "vzhled",
+            "not": [
+              "Q612928",
+              "Q749836"
+            ]
+          }
+        ],
         "continents": [
           "EU",
           "NA",
@@ -644890,7 +646853,26 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Kronosaurus_boyacensis_fossil.jpg/500px-Kronosaurus_boyacensis_fossil.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q131315#x0",
+            "text": "Tento druh žil v období rané křídy v dnešní Austrálii.",
+            "cat": "výskyt",
+            "not": [
+              "Q110983876",
+              "Q113549840",
+              "Q131153",
+              "Q133129",
+              "Q133538344",
+              "Q18585011",
+              "Q19887815",
+              "Q2462626",
+              "Q2712887",
+              "Q389864",
+              "Q3985451"
+            ]
+          }
+        ],
         "continents": [
           "SA",
           "OC"
@@ -644920,7 +646902,45 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Agilisaurus2.jpg/500px-Agilisaurus2.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q131319#x0",
+            "text": "Tento druh měl zuby ve tvaru listů, přizpůsobené rostlinné potravě.",
+            "cat": "vzhled",
+            "not": [
+              "Q131197"
+            ]
+          },
+          {
+            "id": "Q131319#x1",
+            "text": "Tento druh měl na koncích čelistí útvar podobný zobáku, který pomáhal ukusovat rostliny.",
+            "cat": "potrava",
+            "not": [
+              "Q131056"
+            ]
+          },
+          {
+            "id": "Q131319#x2",
+            "text": "Tento druh žil ve střední juře na území dnešní východní Asie.",
+            "cat": "výskyt",
+            "not": [
+              "Q133109",
+              "Q135092049",
+              "Q2457727",
+              "Q62029371"
+            ]
+          },
+          {
+            "id": "Q131319#x3",
+            "text": "Tento druh byl velmi rychlý dvounohý běžec a ocas používal k udržení rovnováhy.",
+            "cat": "chování",
+            "not": [
+              "Q28610332",
+              "Q326596",
+              "Q58179217"
+            ]
+          }
+        ],
         "continents": [
           "AS"
         ],
@@ -645037,7 +647057,57 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Ornithocheirus_BW.jpg/500px-Ornithocheirus_BW.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q131373#x0",
+            "text": "Jeho fosilie se našly hlavně v Anglii.",
+            "cat": "výskyt",
+            "not": [
+              "Q115197",
+              "Q131088",
+              "Q133035",
+              "Q134166",
+              "Q245060",
+              "Q2679173",
+              "Q2855046",
+              "Q7047527",
+              "Q7236963"
+            ]
+          },
+          {
+            "id": "Q131373#x1",
+            "text": "Tento druh žil v období rané křídy, asi před 110 miliony let.",
+            "cat": "výskyt",
+            "not": [
+              "Q131776",
+              "Q132958",
+              "Q133000",
+              "Q2888784"
+            ]
+          },
+          {
+            "id": "Q131373#x2",
+            "text": "Rozpětí jeho křídel se odhaduje na 5 metrů.",
+            "cat": "čísla",
+            "not": [
+              "Q131460",
+              "Q132577",
+              "Q242358"
+            ]
+          },
+          {
+            "id": "Q131373#x3",
+            "text": "Jeho hmotnost se odhaduje na 20 kilogramů.",
+            "cat": "čísla",
+            "not": [
+              "Q132958",
+              "Q133000",
+              "Q2888784",
+              "Q31650",
+              "Q600172"
+            ]
+          }
+        ],
         "continents": [
           "EU",
           "SA"
@@ -645777,7 +647847,89 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Toxodon_skull.jpg/500px-Toxodon_skull.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q131467#x0",
+            "text": "Tento druh žil v Jižní Americe od pliocénu do konce pozdního pleistocénu.",
+            "cat": "výskyt",
+            "not": [
+              "Q130869",
+              "Q132530",
+              "Q132891",
+              "Q133079",
+              "Q133111",
+              "Q133223",
+              "Q134736",
+              "Q1930345",
+              "Q20651326",
+              "Q569191"
+            ]
+          },
+          {
+            "id": "Q131467#x1",
+            "text": "Tento druh vyhynul asi před 12 000 lety.",
+            "cat": "vymření",
+            "not": [
+              "Q130869",
+              "Q132530",
+              "Q132891",
+              "Q133079",
+              "Q133111",
+              "Q133223",
+              "Q134736",
+              "Q1930345",
+              "Q20651326",
+              "Q569191"
+            ]
+          },
+          {
+            "id": "Q131467#x3",
+            "text": "Tento druh mohl být kořistí velké šavlozubé kočky.",
+            "cat": "vztahy",
+            "not": [
+              "Q130869",
+              "Q132530",
+              "Q132891",
+              "Q133079",
+              "Q133111",
+              "Q133223",
+              "Q134736",
+              "Q1930345",
+              "Q20651326",
+              "Q569191"
+            ]
+          },
+          {
+            "id": "Q131467#x4",
+            "text": "Jeho hmotnost se odhaduje na 1000 až 1200 kilogramů.",
+            "cat": "čísla",
+            "not": [
+              "Q130869",
+              "Q132530",
+              "Q132891",
+              "Q133079",
+              "Q133111",
+              "Q569191"
+            ]
+          },
+          {
+            "id": "Q131467#x5",
+            "text": "Jeho stoličky rostou celý život.",
+            "cat": "vzhled",
+            "not": [
+              "Q130869",
+              "Q132530",
+              "Q132891",
+              "Q133079",
+              "Q133111",
+              "Q133223",
+              "Q134736",
+              "Q1930345",
+              "Q20651326",
+              "Q569191"
+            ]
+          }
+        ],
         "continents": [
           "SA"
         ],
@@ -646130,7 +648282,75 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Megaraptor_namunhuaiquii.jpg/500px-Megaraptor_namunhuaiquii.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q131540#x1",
+            "text": "Jeho fosílie se našly v Patagonii v Argentině.",
+            "cat": "výskyt",
+            "not": [
+              "Q11514710",
+              "Q132968",
+              "Q133453",
+              "Q133837",
+              "Q18604594",
+              "Q2078996",
+              "Q2197682",
+              "Q22927446",
+              "Q570439",
+              "Q629204"
+            ]
+          },
+          {
+            "id": "Q131540#x2",
+            "text": "Tento druh měl na rukou velmi dlouhé a silně zakřivené drápy.",
+            "cat": "vzhled",
+            "not": [
+              "Q132602"
+            ]
+          },
+          {
+            "id": "Q131540#x3",
+            "text": "Dráp prvního prstu na ruce měřil asi 35 centimetrů.",
+            "cat": "čísla",
+            "not": [
+              "Q131673",
+              "Q132859",
+              "Q135001",
+              "Q150218",
+              "Q1705935",
+              "Q593763"
+            ]
+          },
+          {
+            "id": "Q131540#x4",
+            "text": "Tento druh mohl kořist chytat velkými drápy na rukou.",
+            "cat": "potrava",
+            "not": [
+              "Q131481",
+              "Q132547",
+              "Q134308",
+              "Q134629",
+              "Q139919",
+              "Q285364",
+              "Q67103336"
+            ]
+          },
+          {
+            "id": "Q131540#x5",
+            "text": "Tento druh měřil na délku asi 8 metrů a vážil kolem jedné tuny.",
+            "cat": "čísla",
+            "not": [
+              "Q1056138",
+              "Q115813367",
+              "Q131167",
+              "Q131518",
+              "Q131788",
+              "Q133177",
+              "Q14330",
+              "Q16773910"
+            ]
+          }
+        ],
         "continents": [
           "SA"
         ],
@@ -646448,7 +648668,42 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Pachyrhinosaurus_skull.jpg/500px-Pachyrhinosaurus_skull.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q131568#x0",
+            "text": "Tento druh byl býložravec se silnými zuby na řezání tuhých rostlin.",
+            "cat": "potrava",
+            "not": [
+              "Q100196",
+              "Q107969684",
+              "Q130902",
+              "Q130966",
+              "Q131565",
+              "Q242358",
+              "Q271710"
+            ]
+          },
+          {
+            "id": "Q131568#x4",
+            "text": "Tento druh sdílel prostředí s tyranosauridem, který byl pravděpodobně vrcholovým predátorem.",
+            "cat": "vztahy",
+            "not": [
+              "Q109887670",
+              "Q131481",
+              "Q131678",
+              "Q132966",
+              "Q134389",
+              "Q14388",
+              "Q1655417",
+              "Q310529",
+              "Q3699044",
+              "Q496689",
+              "Q528572",
+              "Q862601",
+              "Q971275"
+            ]
+          }
+        ],
         "continents": [
           "NA"
         ],
@@ -646524,7 +648779,60 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Aegyptosaurus_restoration.jpg/500px-Aegyptosaurus_restoration.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q131577#x0",
+            "text": "Tento druh žil v období svrchní křídy před asi 95 miliony let.",
+            "cat": "výskyt",
+            "not": [
+              "Q121095909",
+              "Q131213",
+              "Q132458",
+              "Q132727",
+              "Q21446516",
+              "Q5721716"
+            ]
+          },
+          {
+            "id": "Q131577#x1",
+            "text": "Jeho fosílie se našly v Egyptě, v Nigeru a na poušti Sahara.",
+            "cat": "výskyt",
+            "not": [
+              "Q131673",
+              "Q132552",
+              "Q132859",
+              "Q134310",
+              "Q134319",
+              "Q135001",
+              "Q150218",
+              "Q1705935",
+              "Q284931",
+              "Q593763"
+            ]
+          },
+          {
+            "id": "Q131577#x2",
+            "text": "Vědci odhadují jeho délku na 15 metrů a hmotnost na 7 tun.",
+            "cat": "čísla",
+            "not": [
+              "Q1316954",
+              "Q132521",
+              "Q138638",
+              "Q15245693",
+              "Q20670696",
+              "Q27075012",
+              "Q79018071"
+            ]
+          },
+          {
+            "id": "Q131577#x3",
+            "text": "Tento druh žil v mokřadu spolu s teropody, například se spinosaury.",
+            "cat": "vztahy",
+            "not": [
+              "Q20675442"
+            ]
+          }
+        ],
         "continents": [
           "AF"
         ],
@@ -646596,7 +648904,60 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/AlamosaurusDB.jpg/500px-AlamosaurusDB.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q131583#x0",
+            "text": "Tento druh žil na konci křídy na jihozápadě dnešní Severní Ameriky.",
+            "cat": "výskyt",
+            "not": [
+              "Q1067635",
+              "Q131166",
+              "Q131481",
+              "Q131678",
+              "Q132927",
+              "Q133152",
+              "Q133349",
+              "Q2944495",
+              "Q310529",
+              "Q3699044",
+              "Q528572",
+              "Q634119",
+              "Q7254536"
+            ]
+          },
+          {
+            "id": "Q131583#x3",
+            "text": "Podle fosilních stop chodil tento druh pomalu, asi 3 až 4 kilometry za hodinu.",
+            "cat": "chování",
+            "not": []
+          },
+          {
+            "id": "Q131583#x5",
+            "text": "Tento druh patřil k posledním žijícím neptačím dinosaurům.",
+            "cat": "vymření",
+            "not": [
+              "Q107685",
+              "Q130880",
+              "Q131021",
+              "Q131039",
+              "Q131235",
+              "Q131537",
+              "Q131648",
+              "Q136872",
+              "Q137294",
+              "Q14397",
+              "Q188717",
+              "Q189193",
+              "Q18972",
+              "Q37395",
+              "Q40752",
+              "Q46995838",
+              "Q4703562",
+              "Q57273328",
+              "Q761582"
+            ]
+          }
+        ],
         "continents": [
           "NA"
         ],
@@ -646955,7 +649316,63 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Paralititan_stromeri.jpg/500px-Paralititan_stromeri.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q131636#x0",
+            "text": "Tento druh žil v Egyptě v období svrchní křídy.",
+            "cat": "výskyt",
+            "not": [
+              "Q131241",
+              "Q131791",
+              "Q133034",
+              "Q139169",
+              "Q18642358",
+              "Q3889333"
+            ]
+          },
+          {
+            "id": "Q131636#x1",
+            "text": "Tento druh byl čtyřnohý býložravec s dlouhým krkem a malou hlavou.",
+            "cat": "vzhled",
+            "not": [
+              "Q124605213",
+              "Q131166",
+              "Q132927",
+              "Q7254536"
+            ]
+          },
+          {
+            "id": "Q131636#x2",
+            "text": "Tento druh je prvním dinosaurem, o kterém se prokázalo, že žil v mangrovech.",
+            "cat": "výskyt",
+            "not": []
+          },
+          {
+            "id": "Q131636#x4",
+            "text": "Jeho kostra se našla spolu se zubem velkého masožravého dinosaura.",
+            "cat": "vztahy",
+            "not": [
+              "Q21266789",
+              "Q2696795",
+              "Q309392"
+            ]
+          },
+          {
+            "id": "Q131636#x5",
+            "text": "Tento druh měl pažní kost dlouhou 1,69 metru.",
+            "cat": "čísla",
+            "not": [
+              "Q131673",
+              "Q132859",
+              "Q134319",
+              "Q135001",
+              "Q150218",
+              "Q1705935",
+              "Q284931",
+              "Q593763"
+            ]
+          }
+        ],
         "continents": [
           "AF"
         ],
@@ -647212,7 +649629,38 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Panoplosaurus.jpg/500px-Panoplosaurus.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q131652#x1",
+            "text": "Tento druh žil ve stejné době jako dravý gorgosaurus.",
+            "cat": "vztahy",
+            "not": [
+              "Q131197",
+              "Q133498",
+              "Q135922217",
+              "Q40621",
+              "Q516014",
+              "Q57745610"
+            ]
+          },
+          {
+            "id": "Q131652#x2",
+            "text": "Tento druh měřil asi 5 metrů a vážil asi 1600 kilogramů.",
+            "cat": "čísla",
+            "not": [
+              "Q109887670",
+              "Q132820",
+              "Q134104",
+              "Q862601"
+            ]
+          },
+          {
+            "id": "Q131652#x5",
+            "text": "Jeho dýchací cesty mohly ohřát vdechovaný vzduch asi o osmnáct stupňů.",
+            "cat": "chování",
+            "not": []
+          }
+        ],
         "continents": [
           "NA"
         ],
@@ -647844,7 +650292,67 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Concavenator_NT.jpg/500px-Concavenator_NT.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q131715#x1",
+            "text": "Jeho fosilie se našly ve Španělsku, v lokalitě Las Hoyas.",
+            "cat": "výskyt",
+            "not": [
+              "Q131481",
+              "Q132547",
+              "Q134308",
+              "Q134629",
+              "Q136254",
+              "Q139919",
+              "Q2417324",
+              "Q2556351",
+              "Q285364",
+              "Q67103336",
+              "Q747009"
+            ]
+          },
+          {
+            "id": "Q131715#x2",
+            "text": "Tento druh měřil na délku asi 5 až 6 metrů.",
+            "cat": "čísla",
+            "not": [
+              "Q130966",
+              "Q136506586",
+              "Q138106",
+              "Q205935",
+              "Q2456661",
+              "Q28031858",
+              "Q44884994"
+            ]
+          },
+          {
+            "id": "Q131715#x3",
+            "text": "Tento druh vážil asi 320 až 400 kilogramů.",
+            "cat": "čísla",
+            "not": [
+              "Q133453",
+              "Q133837",
+              "Q2078996",
+              "Q2197682",
+              "Q22927446",
+              "Q2451710",
+              "Q570439",
+              "Q629204"
+            ]
+          },
+          {
+            "id": "Q131715#x4",
+            "text": "Tento druh měl na hřbetě vysoký, úzký a špičatý hřeben.",
+            "cat": "vzhled",
+            "not": []
+          },
+          {
+            "id": "Q131715#x5",
+            "text": "Tento druh měl na spodní straně ocasu široké obdélníkové šupiny.",
+            "cat": "vzhled",
+            "not": []
+          }
+        ],
         "continents": [
           "EU"
         ],
@@ -648665,7 +651173,43 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Tanystropheus_BW.jpg/500px-Tanystropheus_BW.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q131782#x0",
+            "text": "Tento druh měl extrémně dlouhý krk, delší než trup a ocas dohromady.",
+            "cat": "vzhled",
+            "not": [
+              "Q1031486",
+              "Q131634",
+              "Q132558",
+              "Q134103",
+              "Q136860",
+              "Q137581",
+              "Q17363721",
+              "Q64836111",
+              "Q7622223"
+            ]
+          },
+          {
+            "id": "Q131782#x1",
+            "text": "Tento druh byl pravděpodobně dravec, který číhal na ryby.",
+            "cat": "potrava",
+            "not": [
+              "Q132552",
+              "Q134310",
+              "Q284931"
+            ]
+          },
+          {
+            "id": "Q131782#x5",
+            "text": "Tento druh měl v krku 13 obratlů, zpevněných dlouhými žebry.",
+            "cat": "čísla",
+            "not": [
+              "Q132927",
+              "Q133349"
+            ]
+          }
+        ],
         "continents": [
           "EU",
           "AS"
@@ -648984,7 +651528,23 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Incisivosaurus_skull_874.JPG/500px-Incisivosaurus_skull_874.JPG"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q131932#x2",
+            "text": "Opotřebení jeho zubů ukazuje na rostlinnou potravu.",
+            "cat": "potrava",
+            "not": [
+              "Q124605213",
+              "Q131166"
+            ]
+          },
+          {
+            "id": "Q131932#x5",
+            "text": "Tento druh měl velmi silný skus.",
+            "cat": "chování",
+            "not": []
+          }
+        ],
         "continents": [
           "AS"
         ],
@@ -649007,7 +651567,52 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Procoptodon_goliah.jpg/500px-Procoptodon_goliah.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q131971#x1",
+            "text": "Tento druh žil v Austrálii v období pleistocénu.",
+            "cat": "výskyt",
+            "not": [
+              "Q131085",
+              "Q134618",
+              "Q16934814",
+              "Q311712",
+              "Q391032"
+            ]
+          },
+          {
+            "id": "Q131971#x2",
+            "text": "Tento druh měl na každé noze jeden velký prst podobný koňskému kopytu.",
+            "cat": "vzhled",
+            "not": [
+              "Q131563",
+              "Q134618",
+              "Q16934814",
+              "Q685786"
+            ]
+          },
+          {
+            "id": "Q131971#x4",
+            "text": "Tento druh žil nejméně do doby před 45 000 lety.",
+            "cat": "vymření",
+            "not": [
+              "Q131085",
+              "Q134618",
+              "Q16934814",
+              "Q311712",
+              "Q391032"
+            ]
+          },
+          {
+            "id": "Q131971#x5",
+            "text": "Tento druh vážil až 240 kilogramů.",
+            "cat": "čísla",
+            "not": [
+              "Q131563",
+              "Q16934814"
+            ]
+          }
+        ],
         "continents": [
           "OC"
         ],
@@ -649073,7 +651678,50 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Saurornitholestes_langstoni_skull.jpg/500px-Saurornitholestes_langstoni_skull.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q132174#x2",
+            "text": "Tento druh měl zřejmě výborný čich.",
+            "cat": "chování",
+            "not": []
+          },
+          {
+            "id": "Q132174#x3",
+            "text": "Tento druh měřil asi 1,3 až 1,8 metru.",
+            "cat": "čísla",
+            "not": [
+              "Q128233",
+              "Q131561",
+              "Q15632851",
+              "Q25963034",
+              "Q40752",
+              "Q568269"
+            ]
+          },
+          {
+            "id": "Q132174#x4",
+            "text": "Tento druh měl na každé noze srpovitý dráp.",
+            "cat": "vzhled",
+            "not": [
+              "Q131331",
+              "Q131786",
+              "Q132602",
+              "Q20672342",
+              "Q22811125",
+              "Q754604"
+            ]
+          },
+          {
+            "id": "Q132174#x5",
+            "text": "Tento druh žil vedle hadrosaurů.",
+            "cat": "vztahy",
+            "not": [
+              "Q1031486",
+              "Q131644",
+              "Q311281"
+            ]
+          }
+        ],
         "continents": [
           "NA"
         ],
@@ -649255,7 +651903,31 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Limusaurus_inextricabilis.jpg/500px-Limusaurus_inextricabilis.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q132375#x1",
+            "text": "Tento druh se v dospělosti pravděpodobně stal býložravcem.",
+            "cat": "potrava",
+            "not": [
+              "Q131690",
+              "Q25963034",
+              "Q40752"
+            ]
+          },
+          {
+            "id": "Q132375#x3",
+            "text": "Tento druh měřil asi 1,7 metru a vážil asi 15 kilogramů.",
+            "cat": "čísla",
+            "not": [
+              "Q131241",
+              "Q133034",
+              "Q133675",
+              "Q139169",
+              "Q20718358",
+              "Q56316452"
+            ]
+          }
+        ],
         "continents": [
           "AS"
         ],
@@ -649278,7 +651950,42 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Pikaia_BW.jpg/500px-Pikaia_BW.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q132401#x1",
+            "text": "Jeho fosílie se našly v Britské Kolumbii v Kanadě.",
+            "cat": "výskyt",
+            "not": [
+              "Q102349764",
+              "Q14410",
+              "Q15972921",
+              "Q21266789",
+              "Q2696795",
+              "Q309392",
+              "Q888114"
+            ]
+          },
+          {
+            "id": "Q132401#x3",
+            "text": "Tento druh měl v těle v průměru asi 100 svalových segmentů.",
+            "cat": "čísla",
+            "not": []
+          },
+          {
+            "id": "Q132401#x5",
+            "text": "Tento druh měl měkké tělo bez pevné kostry.",
+            "cat": "vzhled",
+            "not": [
+              "Q102349764",
+              "Q131400",
+              "Q14410",
+              "Q15972921",
+              "Q2696795",
+              "Q309392",
+              "Q888114"
+            ]
+          }
+        ],
         "continents": [
           "NA"
         ],
@@ -649829,7 +652536,72 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Linheraptor.jpg/500px-Linheraptor.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q132521#x0",
+            "text": "Tento druh žil v období svrchní křídy.",
+            "cat": "výskyt",
+            "not": [
+              "Q131467",
+              "Q14947755",
+              "Q1959271",
+              "Q20675442",
+              "Q2629075"
+            ]
+          },
+          {
+            "id": "Q132521#x1",
+            "text": "Jeho kostra se našla ve Vnitřním Mongolsku v Číně.",
+            "cat": "výskyt",
+            "not": [
+              "Q131211",
+              "Q131331",
+              "Q131786",
+              "Q132602",
+              "Q133070",
+              "Q137252",
+              "Q15144358",
+              "Q18510922",
+              "Q20672342",
+              "Q22811125",
+              "Q754604"
+            ]
+          },
+          {
+            "id": "Q132521#x3",
+            "text": "Jeho hmotnost dosahuje až asi 25 kilogramů.",
+            "cat": "čísla",
+            "not": [
+              "Q131561",
+              "Q15632851",
+              "Q25963034",
+              "Q40752",
+              "Q568269"
+            ]
+          },
+          {
+            "id": "Q132521#x4",
+            "text": "Jeho kořistí mohli být malí rohatí dinosauři.",
+            "cat": "potrava",
+            "not": [
+              "Q131780",
+              "Q133453",
+              "Q133837",
+              "Q2451710",
+              "Q629204"
+            ]
+          },
+          {
+            "id": "Q132521#x5",
+            "text": "Velké drápy na prstech nohou mohly sloužit k lapání kořisti.",
+            "cat": "chování",
+            "not": [
+              "Q133203",
+              "Q14330",
+              "Q648806"
+            ]
+          }
+        ],
         "continents": [
           "AS"
         ],
@@ -650535,7 +653307,72 @@ window.GAME_DATA = [
             "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Tupuxuara_leonardii_white_background.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q132567#x0",
+            "text": "Tento druh žil před asi 112 miliony let, v období rané křídy.",
+            "cat": "výskyt",
+            "not": [
+              "Q115197",
+              "Q131088",
+              "Q133035",
+              "Q134166",
+              "Q245060",
+              "Q2679173",
+              "Q7236963"
+            ]
+          },
+          {
+            "id": "Q132567#x1",
+            "text": "Jeho fosílie se našly v Brazílii.",
+            "cat": "výskyt",
+            "not": [
+              "Q132577",
+              "Q135246",
+              "Q22110914",
+              "Q988297"
+            ]
+          },
+          {
+            "id": "Q132567#x2",
+            "text": "Tento druh měl zobák bez zubů.",
+            "cat": "vzhled",
+            "not": [
+              "Q131460",
+              "Q132577",
+              "Q135246",
+              "Q242358"
+            ]
+          },
+          {
+            "id": "Q132567#x3",
+            "text": "Tento druh měl na hlavě velký kostěný hřeben, výraznější u dospělých.",
+            "cat": "vzhled",
+            "not": [
+              "Q1098279",
+              "Q2888784"
+            ]
+          },
+          {
+            "id": "Q132567#x4",
+            "text": "Odhadované rozpětí křídel je 4,7 metru.",
+            "cat": "čísla",
+            "not": [
+              "Q132573",
+              "Q132958",
+              "Q133000",
+              "Q2888784",
+              "Q31650",
+              "Q600172"
+            ]
+          },
+          {
+            "id": "Q132567#x5",
+            "text": "Tento druh byl pravděpodobně suchozemský všežravec nebo masožravec.",
+            "cat": "potrava",
+            "not": []
+          }
+        ],
         "continents": [
           "NA",
           "SA"
@@ -650753,7 +653590,37 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Udanoceratops_BW.jpg/500px-Udanoceratops_BW.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q132581#x2",
+            "text": "Tento druh měřil asi 4 metry a vážil asi 700 kilogramů.",
+            "cat": "čísla",
+            "not": [
+              "Q134226",
+              "Q134637",
+              "Q1706548",
+              "Q968771"
+            ]
+          },
+          {
+            "id": "Q132581#x3",
+            "text": "Bezzubý zobák sloužil k uchopování a ukusování stonků nebo listů.",
+            "cat": "potrava",
+            "not": []
+          },
+          {
+            "id": "Q132581#x4",
+            "text": "Kost nad zobákem byla úplně hladká, bez rohů.",
+            "cat": "vzhled",
+            "not": []
+          },
+          {
+            "id": "Q132581#x5",
+            "text": "Spodní čelist byla hluboká a pevná, schopná mocného skusu.",
+            "cat": "vzhled",
+            "not": []
+          }
+        ],
         "continents": [
           "AS"
         ],
@@ -651000,7 +653867,46 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Gomphotherium_NT_small.jpg/500px-Gomphotherium_NT_small.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q132604#x0",
+            "text": "Tento druh měl čtyři kly, dva v horní a dva v dolní čelisti.",
+            "cat": "vzhled",
+            "not": [
+              "Q1698713",
+              "Q19555",
+              "Q3236057",
+              "Q3699044",
+              "Q376401",
+              "Q88262453"
+            ]
+          },
+          {
+            "id": "Q132604#x3",
+            "text": "Tento druh měl kly, které rostly celý život.",
+            "cat": "vzhled",
+            "not": [
+              "Q134159",
+              "Q2789205",
+              "Q727783"
+            ]
+          },
+          {
+            "id": "Q132604#x5",
+            "text": "Tento druh zmizel ze Severní Ameriky na začátku pliocénu, asi před 5 miliony let.",
+            "cat": "vymření",
+            "not": [
+              "Q131232",
+              "Q132789",
+              "Q1698713",
+              "Q19555",
+              "Q3236057",
+              "Q376401",
+              "Q739132",
+              "Q88262453"
+            ]
+          }
+        ],
         "continents": [
           "EU",
           "AS",
@@ -651258,7 +654164,106 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Rhamphorhynchus_longicaudus.jpg/500px-Rhamphorhynchus_longicaudus.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q132647#x0",
+            "text": "Tento druh se živil hlavně rybami.",
+            "cat": "potrava",
+            "not": [
+              "Q188851",
+              "Q192272",
+              "Q239272",
+              "Q242358",
+              "Q310434",
+              "Q310517",
+              "Q3222766",
+              "Q40751",
+              "Q43502",
+              "Q629204"
+            ]
+          },
+          {
+            "id": "Q132647#x2",
+            "text": "Tento druh měl dlouhý ocas zpevněný vazy.",
+            "cat": "vzhled",
+            "not": [
+              "Q1098279",
+              "Q132573",
+              "Q245060",
+              "Q287975",
+              "Q31650",
+              "Q600172"
+            ]
+          },
+          {
+            "id": "Q132647#x3",
+            "text": "Nejlépe zachovalé fosilie pocházejí z vápence u Solnhofenu v Bavorsku.",
+            "cat": "výskyt",
+            "not": [
+              "Q1098279",
+              "Q130869",
+              "Q131776",
+              "Q132573",
+              "Q132958",
+              "Q133000",
+              "Q188851",
+              "Q192272",
+              "Q205935",
+              "Q239272",
+              "Q2888784",
+              "Q310434",
+              "Q310517",
+              "Q31650",
+              "Q3222766",
+              "Q40751",
+              "Q43502",
+              "Q629204",
+              "Q646994"
+            ]
+          },
+          {
+            "id": "Q132647#x4",
+            "text": "Největší známý exemplář měl rozpětí křídel asi 1,8 metru.",
+            "cat": "čísla",
+            "not": [
+              "Q130880",
+              "Q131021",
+              "Q131039",
+              "Q131460",
+              "Q131568",
+              "Q132577",
+              "Q14397",
+              "Q18510948",
+              "Q188717",
+              "Q189193",
+              "Q18972",
+              "Q22110914",
+              "Q242358",
+              "Q37395",
+              "Q40752"
+            ]
+          },
+          {
+            "id": "Q132647#x5",
+            "text": "Mláďata mohla létat brzy po vylíhnutí.",
+            "cat": "chování",
+            "not": [
+              "Q131006",
+              "Q131460",
+              "Q14491",
+              "Q187484",
+              "Q192383",
+              "Q222191",
+              "Q242358",
+              "Q309390",
+              "Q309392",
+              "Q310387",
+              "Q310503",
+              "Q40621",
+              "Q857081"
+            ]
+          }
+        ],
         "continents": [
           "EU",
           "AF"
@@ -651890,7 +654895,54 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Mesosaurus_BW.jpg/500px-Mesosaurus_BW.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q132822#x1",
+            "text": "Tento druh žil v období permu před asi 275 miliony let.",
+            "cat": "výskyt",
+            "not": [
+              "Q12973051",
+              "Q131561",
+              "Q15632851",
+              "Q1930333",
+              "Q25963034",
+              "Q310520",
+              "Q40752",
+              "Q568269"
+            ]
+          },
+          {
+            "id": "Q132822#x2",
+            "text": "Jeho fosílie se našly v jižní Africe a ve východní Jižní Americe.",
+            "cat": "výskyt",
+            "not": [
+              "Q1056138",
+              "Q115813367",
+              "Q131167",
+              "Q131788",
+              "Q132665",
+              "Q133177",
+              "Q133203",
+              "Q14330",
+              "Q16773910"
+            ]
+          },
+          {
+            "id": "Q132822#x3",
+            "text": "Jeho fosílie sloužily Wegenerovi jako důkaz pohybu kontinentů.",
+            "cat": "vztahy",
+            "not": [
+              "Q12973051",
+              "Q131561",
+              "Q15632851",
+              "Q1930333",
+              "Q25963034",
+              "Q310520",
+              "Q40752",
+              "Q568269"
+            ]
+          }
+        ],
         "continents": [
           "AF",
           "SA"
@@ -652138,7 +655190,37 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Saltopus_NT_small.jpg/500px-Saltopus_NT_small.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q132859#x1",
+            "text": "Tento druh měl duté kosti jako ptáci.",
+            "cat": "vzhled",
+            "not": []
+          },
+          {
+            "id": "Q132859#x2",
+            "text": "Tento druh dosahoval velikosti domácí kočky.",
+            "cat": "čísla",
+            "not": [
+              "Q113754163",
+              "Q131102",
+              "Q131264",
+              "Q131467",
+              "Q131636",
+              "Q16777007",
+              "Q1959271"
+            ]
+          },
+          {
+            "id": "Q132859#x3",
+            "text": "Většinu délky těla tvořil ocas.",
+            "cat": "vzhled",
+            "not": [
+              "Q132602",
+              "Q754604"
+            ]
+          }
+        ],
         "continents": [
           "EU"
         ],
@@ -652683,7 +655765,39 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Rugops_BW.jpg/500px-Rugops_BW.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q133025#x1",
+            "text": "Jeho fosilie se našly v Nigeru.",
+            "cat": "výskyt",
+            "not": [
+              "Q102349764",
+              "Q131400",
+              "Q14410",
+              "Q15972921",
+              "Q309392",
+              "Q888114"
+            ]
+          },
+          {
+            "id": "Q133025#x2",
+            "text": "Tento druh byl masožravý dinosaurus.",
+            "cat": "potrava",
+            "not": [
+              "Q16773910"
+            ]
+          },
+          {
+            "id": "Q133025#x5",
+            "text": "Jeho lebka měřila asi 31 centimetrů.",
+            "cat": "čísla",
+            "not": [
+              "Q131673",
+              "Q132859",
+              "Q1705935"
+            ]
+          }
+        ],
         "continents": [
           "AF"
         ],
@@ -652775,7 +655889,40 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Archaeothyris_BW.jpg/500px-Archaeothyris_BW.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q133034#x0",
+            "text": "Tento druh žil před asi 306 miliony let v období karbonu.",
+            "cat": "výskyt",
+            "not": [
+              "Q131553",
+              "Q133193",
+              "Q188851",
+              "Q209696",
+              "Q311123",
+              "Q431457",
+              "Q6536145"
+            ]
+          },
+          {
+            "id": "Q133034#x2",
+            "text": "Velké špičáky naznačují, že tento druh byl masožravec.",
+            "cat": "potrava",
+            "not": [
+              "Q131688",
+              "Q133193"
+            ]
+          },
+          {
+            "id": "Q133034#x3",
+            "text": "Tento druh žil ve vlhké vegetaci na zemi v lese.",
+            "cat": "výskyt",
+            "not": [
+              "Q209696",
+              "Q6536145"
+            ]
+          }
+        ],
         "continents": [
           "NA"
         ],
@@ -652948,7 +656095,14 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Fruitadens_NT.jpg/500px-Fruitadens_NT.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q133058#x3",
+            "text": "Tento druh se živil vybranými rostlinami a možná hmyzem.",
+            "cat": "potrava",
+            "not": []
+          }
+        ],
         "continents": [
           "NA"
         ],
@@ -653150,7 +656304,40 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Goyocephalebcn1.JPG/500px-Goyocephalebcn1.JPG"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q133079#x0",
+            "text": "Tento druh žil v Mongolsku před asi 76 miliony let.",
+            "cat": "výskyt",
+            "not": [
+              "Q1055883",
+              "Q107969684",
+              "Q120743561",
+              "Q131595",
+              "Q133133",
+              "Q133183",
+              "Q13410268",
+              "Q135102",
+              "Q17414109"
+            ]
+          },
+          {
+            "id": "Q133079#x1",
+            "text": "Tento druh měl na zadním okraji lebky kostěné hrbolky, základy malých rohů.",
+            "cat": "vzhled",
+            "not": [
+              "Q132191",
+              "Q18510952",
+              "Q3087702"
+            ]
+          },
+          {
+            "id": "Q133079#x2",
+            "text": "Tento druh měl v horní čelisti vpředu velké špičákovité zuby a vzadu trojúhelníkové.",
+            "cat": "vzhled",
+            "not": []
+          }
+        ],
         "continents": [
           "AS"
         ],
@@ -653173,7 +656360,38 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Elmisaurus.jpg/500px-Elmisaurus.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q133081#x0",
+            "text": "Tento druh žil v období svrchní křídy.",
+            "cat": "výskyt",
+            "not": [
+              "Q1164873",
+              "Q130902",
+              "Q131302",
+              "Q134623",
+              "Q1878170",
+              "Q2345315",
+              "Q271710"
+            ]
+          },
+          {
+            "id": "Q133081#x1",
+            "text": "Jeho fosílie se našly v Mongolsku.",
+            "cat": "výskyt",
+            "not": [
+              "Q107685",
+              "Q131235",
+              "Q131537",
+              "Q131648",
+              "Q136872",
+              "Q137294",
+              "Q46995838",
+              "Q57273328",
+              "Q761582"
+            ]
+          }
+        ],
         "continents": [
           "AS",
           "NA"
@@ -653303,7 +656521,42 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Moropus_oregonensis.jpg/500px-Moropus_oregonensis.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q133086#x0",
+            "text": "Tento druh žil v Severní Americe v období miocénu.",
+            "cat": "výskyt",
+            "not": [
+              "Q133295",
+              "Q188949",
+              "Q254836",
+              "Q310972",
+              "Q564261"
+            ]
+          },
+          {
+            "id": "Q133086#x1",
+            "text": "Tento druh měl místo kopyt na nohách velké drápy.",
+            "cat": "vzhled",
+            "not": [
+              "Q133295",
+              "Q133358",
+              "Q188949",
+              "Q222191",
+              "Q310972",
+              "Q311212",
+              "Q7684684"
+            ]
+          },
+          {
+            "id": "Q133086#x3",
+            "text": "Tento druh se podle tvaru čenichu pravděpodobně živil okusováním vegetace.",
+            "cat": "potrava",
+            "not": [
+              "Q254836"
+            ]
+          }
+        ],
         "continents": [
           "NA"
         ],
@@ -653332,7 +656585,65 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Miragaia_BW.jpg/500px-Miragaia_BW.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q133109#x0",
+            "text": "Tento druh měl krk složený z nejméně sedmnácti obratlů.",
+            "cat": "čísla",
+            "not": [
+              "Q130921",
+              "Q131179",
+              "Q131399",
+              "Q132481",
+              "Q139189",
+              "Q20675364",
+              "Q2701043"
+            ]
+          },
+          {
+            "id": "Q133109#x1",
+            "text": "Tento druh měl víc krčních obratlů než většina sauropodů.",
+            "cat": "vzhled",
+            "not": []
+          },
+          {
+            "id": "Q133109#x2",
+            "text": "Tento druh byl čtyřnohý býložravec.",
+            "cat": "potrava",
+            "not": [
+              "Q131056"
+            ]
+          },
+          {
+            "id": "Q133109#x3",
+            "text": "Tento druh dorůstal délky asi šesti metrů a váhy dvou tun.",
+            "cat": "čísla",
+            "not": [
+              "Q107969684",
+              "Q133133",
+              "Q133183",
+              "Q134334",
+              "Q135102",
+              "Q14506",
+              "Q17414109"
+            ]
+          },
+          {
+            "id": "Q133109#x4",
+            "text": "Jeho fosilie z pozdní jury se našly v Portugalsku.",
+            "cat": "výskyt",
+            "not": [
+              "Q134203",
+              "Q134226",
+              "Q134637",
+              "Q1706548",
+              "Q28610332",
+              "Q326596",
+              "Q58179217",
+              "Q968771"
+            ]
+          }
+        ],
         "continents": [
           "EU",
           "NA"
@@ -653482,7 +656793,73 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Sinocalliopteryx_gigas.jpg/500px-Sinocalliopteryx_gigas.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q133117#x0",
+            "text": "Tento druh žil v období spodní křídy v Číně.",
+            "cat": "výskyt",
+            "not": [
+              "Q131673",
+              "Q132552",
+              "Q132859",
+              "Q135001",
+              "Q284931",
+              "Q593763"
+            ]
+          },
+          {
+            "id": "Q133117#x1",
+            "text": "Tělo pokrývaly jednoduché vláknité útvary podobné chlupům.",
+            "cat": "vzhled",
+            "not": [
+              "Q1878170"
+            ]
+          },
+          {
+            "id": "Q133117#x2",
+            "text": "V jeho břiše se našla noha menšího dinosaura podobného ptákům.",
+            "cat": "potrava",
+            "not": [
+              "Q132552",
+              "Q134310",
+              "Q284931"
+            ]
+          },
+          {
+            "id": "Q133117#x3",
+            "text": "Mezi jeho kořist patřili ptáci.",
+            "cat": "potrava",
+            "not": [
+              "Q131780",
+              "Q133453",
+              "Q133837",
+              "Q2451710"
+            ]
+          },
+          {
+            "id": "Q133117#x4",
+            "text": "Tento druh dosahoval délky asi 2,4 metru.",
+            "cat": "čísla",
+            "not": [
+              "Q131241",
+              "Q133034",
+              "Q133675",
+              "Q139169",
+              "Q56316452"
+            ]
+          },
+          {
+            "id": "Q133117#x5",
+            "text": "Tento druh vážil podle odhadu kolem dvaceti kilogramů.",
+            "cat": "čísla",
+            "not": [
+              "Q1827222",
+              "Q3083026",
+              "Q310529",
+              "Q899506"
+            ]
+          }
+        ],
         "continents": [
           "AS"
         ],
@@ -653517,7 +656894,56 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Estemmenosuchus_uralensis.jpg/500px-Estemmenosuchus_uralensis.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q133120#x0",
+            "text": "Tento druh žil před zhruba 267 miliony let ve středním permu.",
+            "cat": "výskyt",
+            "not": [
+              "Q131241",
+              "Q131791",
+              "Q133034",
+              "Q133675",
+              "Q139169",
+              "Q18642358",
+              "Q20718358",
+              "Q3889333",
+              "Q56316452"
+            ]
+          },
+          {
+            "id": "Q133120#x1",
+            "text": "Jeho kostry se našly v ruské oblasti Perm.",
+            "cat": "výskyt",
+            "not": [
+              "Q1067635",
+              "Q124605213",
+              "Q131166",
+              "Q132291",
+              "Q132927",
+              "Q133152",
+              "Q133158",
+              "Q133349",
+              "Q2944495",
+              "Q634119",
+              "Q7254536"
+            ]
+          },
+          {
+            "id": "Q133120#x3",
+            "text": "Rohovité výrůstky na hlavě sloužily pravděpodobně k předvádění a k soubojům.",
+            "cat": "chování",
+            "not": [
+              "Q1056138",
+              "Q131518",
+              "Q131788",
+              "Q133203",
+              "Q14330",
+              "Q16773910",
+              "Q648806"
+            ]
+          }
+        ],
         "continents": [
           "EU"
         ],
@@ -653746,7 +657172,44 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Wannanosaurus_for_wiki_review.jpg/500px-Wannanosaurus_for_wiki_review.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q133138#x0",
+            "text": "Tento druh žil před asi 70 miliony let.",
+            "cat": "výskyt",
+            "not": [
+              "Q131435",
+              "Q1706554",
+              "Q20672152",
+              "Q22067785",
+              "Q626336"
+            ]
+          },
+          {
+            "id": "Q133138#x1",
+            "text": "Jeho kosti se našly v Číně v provincii Anhui.",
+            "cat": "výskyt",
+            "not": [
+              "Q109887670",
+              "Q131602",
+              "Q132820",
+              "Q132966",
+              "Q133122",
+              "Q134104",
+              "Q134389",
+              "Q1655417",
+              "Q4769855",
+              "Q555915",
+              "Q862601"
+            ]
+          },
+          {
+            "id": "Q133138#x2",
+            "text": "Tento druh se pravděpodobně živil různými rostlinami při zemi.",
+            "cat": "potrava",
+            "not": []
+          }
+        ],
         "continents": [
           "AS"
         ],
@@ -653769,7 +657232,37 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Graciliceratops_BW.jpg/500px-Graciliceratops_BW.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q133140#x0",
+            "text": "Tento druh žil v Asii v období svrchní křídy.",
+            "cat": "výskyt",
+            "not": [
+              "Q1706554",
+              "Q626336"
+            ]
+          },
+          {
+            "id": "Q133140#x1",
+            "text": "Jeho fosílie se našly v Mongolsku.",
+            "cat": "výskyt",
+            "not": [
+              "Q131056",
+              "Q134203",
+              "Q134226",
+              "Q1706548",
+              "Q28610332",
+              "Q58179217",
+              "Q968771"
+            ]
+          },
+          {
+            "id": "Q133140#x2",
+            "text": "Tento druh žil v polosuché krajině s řekami a velkými jezery.",
+            "cat": "výskyt",
+            "not": []
+          }
+        ],
         "continents": [
           "AS"
         ],
@@ -653798,7 +657291,50 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Oryctodromeus_cubicularis_-_Museum_of_the_Rockies.jpg/500px-Oryctodromeus_cubicularis_-_Museum_of_the_Rockies.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q133146#x2",
+            "text": "Jeho noru pravděpodobně sdíleli menší živočichové.",
+            "cat": "vztahy",
+            "not": []
+          },
+          {
+            "id": "Q133146#x3",
+            "text": "Tento druh byl malý, rychlý býložravec.",
+            "cat": "potrava",
+            "not": []
+          },
+          {
+            "id": "Q133146#x4",
+            "text": "Dospělí jedinci měřili asi 2,1 metru a vážili 22 až 32 kilogramů.",
+            "cat": "čísla",
+            "not": [
+              "Q106805159",
+              "Q132414",
+              "Q132717",
+              "Q14455",
+              "Q18684887",
+              "Q2158843",
+              "Q311563",
+              "Q3914791"
+            ]
+          },
+          {
+            "id": "Q133146#x5",
+            "text": "Jeho fosílie se našly v Montaně a Idahu v USA.",
+            "cat": "výskyt",
+            "not": [
+              "Q108751474",
+              "Q131247",
+              "Q131435",
+              "Q138061",
+              "Q1706554",
+              "Q20672152",
+              "Q22067785",
+              "Q626336"
+            ]
+          }
+        ],
         "continents": [
           "NA"
         ],
@@ -654333,7 +657869,66 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Camptosaurus.jpg/500px-Camptosaurus.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q133203#x0",
+            "text": "Tento druh žil v období pozdní jury.",
+            "cat": "výskyt",
+            "not": [
+              "Q130921",
+              "Q131070",
+              "Q131179",
+              "Q131205",
+              "Q131399",
+              "Q132414",
+              "Q132481",
+              "Q132683",
+              "Q134884",
+              "Q139189",
+              "Q14403",
+              "Q191339",
+              "Q20675364",
+              "Q21494374",
+              "Q21945702",
+              "Q310531",
+              "Q311212"
+            ]
+          },
+          {
+            "id": "Q133203#x1",
+            "text": "Tento druh se živil tuhými rostlinami.",
+            "cat": "potrava",
+            "not": [
+              "Q130921",
+              "Q131197",
+              "Q131205",
+              "Q134884",
+              "Q14400",
+              "Q14403"
+            ]
+          },
+          {
+            "id": "Q133203#x4",
+            "text": "Tento druh chodil většinou po zadních nohou.",
+            "cat": "chování",
+            "not": [
+              "Q14491",
+              "Q187484",
+              "Q20675364",
+              "Q222191",
+              "Q309390",
+              "Q310503",
+              "Q40621",
+              "Q857081"
+            ]
+          },
+          {
+            "id": "Q133203#x5",
+            "text": "Tento druh býval kořistí dravých dinosaurů, teropodů.",
+            "cat": "vztahy",
+            "not": []
+          }
+        ],
         "continents": [
           "EU",
           "NA"
@@ -654417,7 +658012,63 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Andrewsarchus_mongoliensis.jpg/500px-Andrewsarchus_mongoliensis.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q133214#x0",
+            "text": "Tento druh žil ve středním eocénu v dnešní Číně.",
+            "cat": "výskyt",
+            "not": [
+              "Q111731074",
+              "Q131070",
+              "Q131759",
+              "Q140183",
+              "Q18972",
+              "Q20717983",
+              "Q2288361",
+              "Q2483571"
+            ]
+          },
+          {
+            "id": "Q133214#x1",
+            "text": "Jeho lebka měřila přes 83 centimetrů.",
+            "cat": "čísla",
+            "not": [
+              "Q131070",
+              "Q134257",
+              "Q18972",
+              "Q310503"
+            ]
+          },
+          {
+            "id": "Q133214#x2",
+            "text": "Tento druh byl možná všežravec nebo se živil mršinami.",
+            "cat": "potrava",
+            "not": [
+              "Q134257",
+              "Q140183",
+              "Q20717983",
+              "Q2288361",
+              "Q830854"
+            ]
+          },
+          {
+            "id": "Q133214#x4",
+            "text": "Tento druh měl pravděpodobně slabý skus.",
+            "cat": "vzhled",
+            "not": []
+          },
+          {
+            "id": "Q133214#x5",
+            "text": "Vědci ho dříve považovali za blízkého příbuzného kytovců.",
+            "cat": "vztahy",
+            "not": [
+              "Q132517",
+              "Q134357",
+              "Q192272",
+              "Q20035817"
+            ]
+          }
+        ],
         "continents": [
           "AS"
         ],
@@ -654603,7 +658254,76 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Talos_sampsoni.jpg/500px-Talos_sampsoni.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q133246#x0",
+            "text": "Tento druh žil před zhruba 76 miliony let, v období pozdní křídy.",
+            "cat": "výskyt",
+            "not": [
+              "Q131211",
+              "Q131331",
+              "Q131786",
+              "Q15144358",
+              "Q18510922",
+              "Q20672342"
+            ]
+          },
+          {
+            "id": "Q133246#x1",
+            "text": "Jeho fosilie se našly v Utahu ve Spojených státech.",
+            "cat": "výskyt",
+            "not": [
+              "Q113754163",
+              "Q131102",
+              "Q131264",
+              "Q131467",
+              "Q131636",
+              "Q14947755",
+              "Q16777007",
+              "Q1959271",
+              "Q20675442",
+              "Q675014"
+            ]
+          },
+          {
+            "id": "Q133246#x2",
+            "text": "Tento druh měřil asi 2 metry a vážil odhadem 38 kilogramů.",
+            "cat": "čísla",
+            "not": [
+              "Q1064780",
+              "Q132500",
+              "Q134648",
+              "Q2585658",
+              "Q2713191"
+            ]
+          },
+          {
+            "id": "Q133246#x3",
+            "text": "Tento druh měl na druhém prstu nohy srpovitý dráp.",
+            "cat": "vzhled",
+            "not": [
+              "Q1056138",
+              "Q131202",
+              "Q131518",
+              "Q131788",
+              "Q132665",
+              "Q133177",
+              "Q133203",
+              "Q14330",
+              "Q16773910",
+              "Q648806"
+            ]
+          },
+          {
+            "id": "Q133246#x4",
+            "text": "Jeden nalezený dráp byl za života poškozen, možná při útoku na kořist.",
+            "cat": "chování",
+            "not": [
+              "Q132927",
+              "Q7254536"
+            ]
+          }
+        ],
         "continents": [
           "NA"
         ],
@@ -654679,7 +658399,32 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Cearadactylus.jpg/500px-Cearadactylus.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q133271#x1",
+            "text": "Jeho fosílie se našly v Brazílii.",
+            "cat": "výskyt",
+            "not": [
+              "Q1098279",
+              "Q131776",
+              "Q132573",
+              "Q132958",
+              "Q133000",
+              "Q31650",
+              "Q600172"
+            ]
+          },
+          {
+            "id": "Q133271#x3",
+            "text": "Nalezená lebka měřila 57 centimetrů.",
+            "cat": "čísla",
+            "not": [
+              "Q132958",
+              "Q133000",
+              "Q31650"
+            ]
+          }
+        ],
         "continents": [
           "SA"
         ],
@@ -654810,7 +658555,53 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Chalicotherium_paris.jpg/500px-Chalicotherium_paris.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q133349#x0",
+            "text": "Tento druh se živil listy, kůrou a větvičkami.",
+            "cat": "potrava",
+            "not": [
+              "Q254836"
+            ]
+          },
+          {
+            "id": "Q133349#x1",
+            "text": "Tento druh žil v Evropě a v Asii v období miocénu.",
+            "cat": "výskyt",
+            "not": [
+              "Q564261",
+              "Q7684684"
+            ]
+          },
+          {
+            "id": "Q133349#x3",
+            "text": "Tento druh chodil po kloubech předních končetin.",
+            "cat": "chování",
+            "not": [
+              "Q133295",
+              "Q133358",
+              "Q188949",
+              "Q222191",
+              "Q254836",
+              "Q310972",
+              "Q311212",
+              "Q564261",
+              "Q7684684"
+            ]
+          },
+          {
+            "id": "Q133349#x4",
+            "text": "Tento druh vážil kolem 1500 kilogramů.",
+            "cat": "čísla",
+            "not": [
+              "Q133295",
+              "Q222191",
+              "Q254836",
+              "Q311212",
+              "Q564261"
+            ]
+          }
+        ],
         "continents": [
           "EU",
           "AS",
@@ -654873,7 +658664,33 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Dinofelis_barlowi.jpg/500px-Dinofelis_barlowi.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q133364#x1",
+            "text": "Jeho fosílie se v Jižní Africe našly poblíž kostí pavianů.",
+            "cat": "vztahy",
+            "not": [
+              "Q141533",
+              "Q18511009",
+              "Q2076664",
+              "Q468586",
+              "Q496689",
+              "Q683207",
+              "Q731948",
+              "Q7395585",
+              "Q840036",
+              "Q871939"
+            ]
+          },
+          {
+            "id": "Q133364#x2",
+            "text": "Tento druh žil v Evropě, Asii, Africe a Severní Americe.",
+            "cat": "výskyt",
+            "not": [
+              "Q135101"
+            ]
+          }
+        ],
         "continents": [
           "EU",
           "AS",
@@ -655063,7 +658880,56 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Camelops_hesternus.jpg/500px-Camelops_hesternus.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q133439#x0",
+            "text": "Tento druh se živil keři a křovinami.",
+            "cat": "potrava",
+            "not": [
+              "Q125026545",
+              "Q131137",
+              "Q132405",
+              "Q134884",
+              "Q3621452"
+            ]
+          },
+          {
+            "id": "Q133439#x3",
+            "text": "Tento druh vyhynul před zhruba 13 000 lety spolu s většinou velkých savců v Americe.",
+            "cat": "vymření",
+            "not": [
+              "Q111731074",
+              "Q131070",
+              "Q131759",
+              "Q134257",
+              "Q18972",
+              "Q2483571",
+              "Q310503"
+            ]
+          },
+          {
+            "id": "Q133439#x4",
+            "text": "Jeho fosílie se našly od Aljašky až po Honduras.",
+            "cat": "výskyt",
+            "not": [
+              "Q125026545",
+              "Q132405",
+              "Q132517",
+              "Q134357",
+              "Q168903",
+              "Q3621452"
+            ]
+          },
+          {
+            "id": "Q133439#x5",
+            "text": "Výška v kohoutku dosahovala až 2,3 metru.",
+            "cat": "čísla",
+            "not": [
+              "Q18972",
+              "Q310503"
+            ]
+          }
+        ],
         "continents": [
           "NA"
         ],
@@ -655273,7 +659139,37 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Meiolania.jpg/500px-Meiolania.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q133604#x1",
+            "text": "Krunýř měří 0,7 až 2 metry na délku.",
+            "cat": "čísla",
+            "not": [
+              "Q128233",
+              "Q12973051",
+              "Q131561",
+              "Q131690",
+              "Q15632851",
+              "Q1930333",
+              "Q25963034",
+              "Q310520",
+              "Q40752",
+              "Q568269"
+            ]
+          },
+          {
+            "id": "Q133604#x3",
+            "text": "Rohy mohly pomáhat odhrnovat listí při pasení.",
+            "cat": "potrava",
+            "not": []
+          },
+          {
+            "id": "Q133604#x4",
+            "text": "Tento druh trávil čas v suchých oblastech nebo na plážích ostrovů.",
+            "cat": "výskyt",
+            "not": []
+          }
+        ],
         "continents": [
           "OC"
         ],
@@ -655488,7 +659384,33 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Entelodon_Sp_Illustration.jpg/500px-Entelodon_Sp_Illustration.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q133847#x0",
+            "text": "Tento druh byl všežravý, podobně jako dnešní divoké prase.",
+            "cat": "potrava",
+            "not": [
+              "Q134257",
+              "Q140183",
+              "Q20717983",
+              "Q2288361",
+              "Q2483571",
+              "Q830854"
+            ]
+          },
+          {
+            "id": "Q133847#x1",
+            "text": "Jeho fosílie se našly v Evropě, Kazachstánu, Mongolsku, Číně i Japonsku.",
+            "cat": "výskyt",
+            "not": [
+              "Q111731074",
+              "Q140183",
+              "Q18972",
+              "Q20717983",
+              "Q310503"
+            ]
+          }
+        ],
         "continents": [
           "EU",
           "AS"
@@ -655626,7 +659548,54 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Palorchestes_BW.jpg/500px-Palorchestes_BW.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q133889#x0",
+            "text": "Tento druh se živil rostlinami, například keři a kořeny.",
+            "cat": "potrava",
+            "not": [
+              "Q134618",
+              "Q311712",
+              "Q391032",
+              "Q685786"
+            ]
+          },
+          {
+            "id": "Q133889#x1",
+            "text": "Přední nohy nesly velké drápy podobné drápům koaly.",
+            "cat": "vzhled",
+            "not": [
+              "Q391032"
+            ]
+          },
+          {
+            "id": "Q133889#x2",
+            "text": "Jazyk byl dlouhý a vysunovatelný, podobně jako u žirafy.",
+            "cat": "vzhled",
+            "not": []
+          },
+          {
+            "id": "Q133889#x3",
+            "text": "Tento druh byl velký jako kůň, dlouhý asi 2,5 metru.",
+            "cat": "čísla",
+            "not": [
+              "Q209637",
+              "Q210070",
+              "Q391032"
+            ]
+          },
+          {
+            "id": "Q133889#x5",
+            "text": "Jeho fosílie se našly na východě australského kontinentu.",
+            "cat": "výskyt",
+            "not": [
+              "Q131085",
+              "Q134618",
+              "Q16934814",
+              "Q391032"
+            ]
+          }
+        ],
         "continents": [
           "OC"
         ],
@@ -655709,7 +659678,38 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Megantereon_cultridens_skull_34.jpg/500px-Megantereon_cultridens_skull_34.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q133945#x0",
+            "text": "Tento druh lovil ze zálohy.",
+            "cat": "chování",
+            "not": []
+          },
+          {
+            "id": "Q133945#x1",
+            "text": "Tento druh dosahoval velikosti dnešních levhartů nebo jaguárů.",
+            "cat": "čísla",
+            "not": [
+              "Q2675629",
+              "Q583627"
+            ]
+          },
+          {
+            "id": "Q133945#x4",
+            "text": "Tento druh měl velmi dlouhé šavlovité tesáky.",
+            "cat": "vzhled",
+            "not": [
+              "Q1035243",
+              "Q112245916",
+              "Q131076",
+              "Q131477",
+              "Q18609695",
+              "Q205935",
+              "Q2076664",
+              "Q583627"
+            ]
+          }
+        ],
         "continents": [
           "EU",
           "AS",
@@ -655826,7 +659826,20 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Knight_Coryphodon.jpg/500px-Knight_Coryphodon.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q134013#x0",
+            "text": "Jeho fosílie se našly na ostrově Ellesmere u Grónska.",
+            "cat": "výskyt",
+            "not": [
+              "Q134297",
+              "Q14516253",
+              "Q149083",
+              "Q17581455",
+              "Q3234485"
+            ]
+          }
+        ],
         "continents": [
           "EU",
           "AS",
@@ -656373,7 +660386,49 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Gastonia_mount_BYU_4.jpg/500px-Gastonia_mount_BYU_4.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q134170#x3",
+            "text": "Kostěný pancíř ho pravděpodobně chránil před predátorem Utahraptorem.",
+            "cat": "vztahy",
+            "not": [
+              "Q130885",
+              "Q131732",
+              "Q132191",
+              "Q132470",
+              "Q133402",
+              "Q134604041",
+              "Q14384",
+              "Q14491",
+              "Q18510952",
+              "Q3087702"
+            ]
+          },
+          {
+            "id": "Q134170#x4",
+            "text": "Tento druh vážil podle odhadu asi 1,9 tuny.",
+            "cat": "čísla",
+            "not": [
+              "Q131435",
+              "Q138061",
+              "Q626336"
+            ]
+          },
+          {
+            "id": "Q134170#x5",
+            "text": "Tento druh měl boky chráněné štítem ze srostlých kostěných plátů.",
+            "cat": "vzhled",
+            "not": [
+              "Q131256",
+              "Q132604",
+              "Q134392",
+              "Q135092049",
+              "Q1705570",
+              "Q2457727",
+              "Q62029371"
+            ]
+          }
+        ],
         "continents": [
           "NA"
         ],
@@ -656501,7 +660556,71 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Piatnitzkysaurus_skull_1.jpg/500px-Piatnitzkysaurus_skull_1.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q134195#x0",
+            "text": "Tento druh žil v období jury v dnešní Argentině.",
+            "cat": "výskyt",
+            "not": [
+              "Q131102",
+              "Q131264",
+              "Q131636",
+              "Q14947755",
+              "Q16777007",
+              "Q20675442",
+              "Q2629075",
+              "Q675014"
+            ]
+          },
+          {
+            "id": "Q134195#x1",
+            "text": "Tento druh byl dvounohý masožravec žijící na zemi.",
+            "cat": "potrava",
+            "not": [
+              "Q20675442"
+            ]
+          },
+          {
+            "id": "Q134195#x2",
+            "text": "Tento druh dorůstal délky přes 4 metry.",
+            "cat": "čísla",
+            "not": [
+              "Q132822",
+              "Q133137",
+              "Q310529",
+              "Q310938"
+            ]
+          },
+          {
+            "id": "Q134195#x3",
+            "text": "Tento druh měl robustní paže a silné zadní nohy se čtyřmi prsty.",
+            "cat": "vzhled",
+            "not": []
+          },
+          {
+            "id": "Q134195#x4",
+            "text": "Lebka tohoto druhu měla 50 centimetrů na délku.",
+            "cat": "čísla",
+            "not": [
+              "Q131750",
+              "Q134623"
+            ]
+          },
+          {
+            "id": "Q134195#x5",
+            "text": "Jeho fosílie se našly v Argentině.",
+            "cat": "výskyt",
+            "not": [
+              "Q131155",
+              "Q131446",
+              "Q133517",
+              "Q1821811",
+              "Q1994612",
+              "Q383329",
+              "Q644544"
+            ]
+          }
+        ],
         "continents": [
           "SA"
         ],
@@ -656692,7 +660811,33 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Orodromeus.jpg/500px-Orodromeus.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q134226#x0",
+            "text": "Tento druh byl malý rychlý dvounohý býložravec.",
+            "cat": "potrava",
+            "not": []
+          },
+          {
+            "id": "Q134226#x1",
+            "text": "Tento druh se živil rostlinami do výšky asi jednoho metru.",
+            "cat": "potrava",
+            "not": [
+              "Q2158843"
+            ]
+          },
+          {
+            "id": "Q134226#x3",
+            "text": "Tento druh měřil na délku odhadem 2,5 metru.",
+            "cat": "čísla",
+            "not": [
+              "Q1256132",
+              "Q12901024",
+              "Q135263",
+              "Q1936104"
+            ]
+          }
+        ],
         "continents": [
           "NA"
         ],
@@ -657187,7 +661332,42 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Utahceratops_gettyi_3_salt_lake_city.jpg/500px-Utahceratops_gettyi_3_salt_lake_city.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q134308#x0",
+            "text": "Tento druh žil před zhruba 76 miliony let, v období svrchní křídy.",
+            "cat": "výskyt",
+            "not": [
+              "Q132604",
+              "Q133109",
+              "Q134392",
+              "Q135092049",
+              "Q1705570",
+              "Q2457727",
+              "Q62029371"
+            ]
+          },
+          {
+            "id": "Q134308#x1",
+            "text": "Tento druh byl býložravec.",
+            "cat": "potrava",
+            "not": [
+              "Q130921",
+              "Q139189",
+              "Q2701043"
+            ]
+          },
+          {
+            "id": "Q134308#x2",
+            "text": "Tento druh měřil na délku 4,5 až 5 metrů a vážil asi 2 tuny.",
+            "cat": "čísla",
+            "not": [
+              "Q131435",
+              "Q138061",
+              "Q626336"
+            ]
+          }
+        ],
         "continents": [
           "NA"
         ],
@@ -657354,7 +661534,68 @@ window.GAME_DATA = [
             "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Xiongguanlong_NT.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q134320#x2",
+            "text": "Tento druh byl téměř jistě masožravec.",
+            "cat": "potrava",
+            "not": [
+              "Q131102",
+              "Q131264",
+              "Q131467",
+              "Q131636"
+            ]
+          },
+          {
+            "id": "Q134320#x3",
+            "text": "Tento druh žil na stejném místě jako dinosaurus Beishanlong.",
+            "cat": "vztahy",
+            "not": [
+              "Q1031486",
+              "Q131634",
+              "Q131644",
+              "Q132558",
+              "Q134103",
+              "Q136860",
+              "Q17363721",
+              "Q311281",
+              "Q64836111",
+              "Q7622223",
+              "Q91930067"
+            ]
+          },
+          {
+            "id": "Q134320#x4",
+            "text": "Tento druh měřil asi 5 metrů.",
+            "cat": "čísla",
+            "not": [
+              "Q1056138",
+              "Q115813367",
+              "Q131167",
+              "Q131202",
+              "Q131518",
+              "Q131788",
+              "Q132665",
+              "Q133177",
+              "Q14330",
+              "Q16773910"
+            ]
+          },
+          {
+            "id": "Q134320#x5",
+            "text": "Tento druh vážil podle odhadu asi 270 kilogramů.",
+            "cat": "čísla",
+            "not": [
+              "Q132547",
+              "Q134308",
+              "Q136254",
+              "Q139919",
+              "Q2417324",
+              "Q285364",
+              "Q747009"
+            ]
+          }
+        ],
         "continents": [
           "AS"
         ],
@@ -657793,7 +662034,71 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Phiomia.JPG/500px-Phiomia.JPG"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q134407#x0",
+            "text": "Tento druh se živil hlavně větvičkami a listy, méně plody.",
+            "cat": "potrava",
+            "not": [
+              "Q134159",
+              "Q2789205",
+              "Q727783"
+            ]
+          },
+          {
+            "id": "Q134407#x1",
+            "text": "Tento druh hledal potravu v lesích a řídkých lesích.",
+            "cat": "chování",
+            "not": []
+          },
+          {
+            "id": "Q134407#x2",
+            "text": "Tento druh žil v severní Africe před 37 až 30 miliony let.",
+            "cat": "výskyt",
+            "not": [
+              "Q134159",
+              "Q2789205",
+              "Q3699044",
+              "Q727783"
+            ]
+          },
+          {
+            "id": "Q134407#x3",
+            "text": "Tento druh měl výšku v ramenou odhadem 135 až 170 cm.",
+            "cat": "čísla",
+            "not": [
+              "Q131232",
+              "Q3699044",
+              "Q376401",
+              "Q693352"
+            ]
+          },
+          {
+            "id": "Q134407#x4",
+            "text": "Tento druh vážil odhadem asi 1200 kg.",
+            "cat": "čísla",
+            "not": [
+              "Q131232",
+              "Q134159",
+              "Q2789205",
+              "Q3699044",
+              "Q376401",
+              "Q693352",
+              "Q727783"
+            ]
+          },
+          {
+            "id": "Q134407#x5",
+            "text": "Tento druh patřil mezi první chobotnaté s pravým chobotem.",
+            "cat": "vzhled",
+            "not": [
+              "Q19555",
+              "Q3236057",
+              "Q739132",
+              "Q88262453"
+            ]
+          }
+        ],
         "continents": [
           "AF"
         ],
@@ -657911,7 +662216,68 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Becklespinax.jpg/500px-Becklespinax.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q134591#x0",
+            "text": "Tento druh žil na počátku křídy, asi před 140 miliony let.",
+            "cat": "výskyt",
+            "not": [
+              "Q131275",
+              "Q133081",
+              "Q1814708",
+              "Q18325158",
+              "Q2029022",
+              "Q2576461",
+              "Q751087"
+            ]
+          },
+          {
+            "id": "Q134591#x1",
+            "text": "Jeho fosílie se našly v lomu v jižní Anglii.",
+            "cat": "výskyt",
+            "not": [
+              "Q130966",
+              "Q135602",
+              "Q136506586",
+              "Q138106",
+              "Q15137014",
+              "Q205935",
+              "Q20717918",
+              "Q2456661",
+              "Q28031858",
+              "Q44884994"
+            ]
+          },
+          {
+            "id": "Q134591#x2",
+            "text": "Jeho délka se odhaduje na asi 8 metrů.",
+            "cat": "čísla",
+            "not": [
+              "Q131467",
+              "Q131636",
+              "Q14947755",
+              "Q20675442",
+              "Q2629075",
+              "Q675014"
+            ]
+          },
+          {
+            "id": "Q134591#x3",
+            "text": "Jeho hmotnost se odhaduje na asi jednu tunu.",
+            "cat": "čísla",
+            "not": [
+              "Q1064780",
+              "Q131680",
+              "Q132500",
+              "Q132713",
+              "Q134182",
+              "Q134648",
+              "Q239272",
+              "Q2585658",
+              "Q2713191"
+            ]
+          }
+        ],
         "continents": [
           "EU"
         ],
@@ -657997,7 +662363,52 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Stenopelix_restoration.jpg/500px-Stenopelix_restoration.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q134600#x0",
+            "text": "Tento druh žil v Německu v období rané křídy, asi před 140 miliony let.",
+            "cat": "výskyt",
+            "not": [
+              "Q106805159",
+              "Q132414",
+              "Q136892",
+              "Q14455",
+              "Q18684887",
+              "Q311563",
+              "Q3914791"
+            ]
+          },
+          {
+            "id": "Q134600#x1",
+            "text": "Tento druh měřil na délku asi 1,4 metru a vážil asi 10 kilogramů.",
+            "cat": "čísla",
+            "not": [
+              "Q1256132",
+              "Q12901024",
+              "Q134220",
+              "Q1936104",
+              "Q292141"
+            ]
+          },
+          {
+            "id": "Q134600#x2",
+            "text": "Tento druh byl malý býložravec.",
+            "cat": "potrava",
+            "not": [
+              "Q130921",
+              "Q139189",
+              "Q2701043"
+            ]
+          },
+          {
+            "id": "Q134600#x3",
+            "text": "Tento druh chodil po dvou zadních nohou.",
+            "cat": "chování",
+            "not": [
+              "Q20675364"
+            ]
+          }
+        ],
         "continents": [
           "EU"
         ],
@@ -658384,7 +662795,56 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/%D0%92%D1%8B%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%B0_%D0%B4%D0%B8%D0%BD%D0%BE%D0%B7%D0%B0%D0%B2%D1%80%D0%BE%D0%B2_%2820250430141113%29.jpg/500px-%D0%92%D1%8B%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%B0_%D0%B4%D0%B8%D0%BD%D0%BE%D0%B7%D0%B0%D0%B2%D1%80%D0%BE%D0%B2_%2820250430141113%29.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q134636#x0",
+            "text": "Tento druh žil v období rané křídy na území dnešního Thajska.",
+            "cat": "výskyt",
+            "not": [
+              "Q1031486",
+              "Q131634",
+              "Q131644",
+              "Q132558",
+              "Q136860",
+              "Q311281",
+              "Q7622223",
+              "Q91930067"
+            ]
+          },
+          {
+            "id": "Q134636#x2",
+            "text": "Tento druh měl kuželovité zuby, které se hodily k nabodávání masa.",
+            "cat": "vzhled",
+            "not": [
+              "Q131331",
+              "Q132602",
+              "Q754604"
+            ]
+          },
+          {
+            "id": "Q134636#x3",
+            "text": "Rozbor zubů ukazuje, že tento druh žil částečně ve vodě.",
+            "cat": "chování",
+            "not": [
+              "Q131331",
+              "Q131786",
+              "Q132602",
+              "Q18510922",
+              "Q20672342",
+              "Q22811125"
+            ]
+          },
+          {
+            "id": "Q134636#x5",
+            "text": "Tento druh měřil odhadem 5 až 9 metrů.",
+            "cat": "čísla",
+            "not": [
+              "Q133034",
+              "Q139169",
+              "Q20718358"
+            ]
+          }
+        ],
         "continents": [
           "AS"
         ],
@@ -658407,7 +662867,73 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Dans_l%27ombre_des_dinosaures_-_Gilmareasaurus_-_001.jpg/500px-Dans_l%27ombre_des_dinosaures_-_Gilmareasaurus_-_001.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q134637#x1",
+            "text": "Jeho fosílie se našly ve Vnitřním Mongolsku.",
+            "cat": "výskyt",
+            "not": [
+              "Q131197",
+              "Q133498",
+              "Q134299",
+              "Q135922217",
+              "Q203583",
+              "Q21122031",
+              "Q40621",
+              "Q516014",
+              "Q57745610"
+            ]
+          },
+          {
+            "id": "Q134637#x2",
+            "text": "Tento druh žil asi před 96 miliony let.",
+            "cat": "výskyt",
+            "not": [
+              "Q108751474",
+              "Q138061",
+              "Q1706554",
+              "Q20672152",
+              "Q22067785",
+              "Q2272018",
+              "Q626336"
+            ]
+          },
+          {
+            "id": "Q134637#x3",
+            "text": "Tento druh dorůstal délky až 6,2 metru.",
+            "cat": "čísla",
+            "not": [
+              "Q132191",
+              "Q14384",
+              "Q14491"
+            ]
+          },
+          {
+            "id": "Q134637#x4",
+            "text": "Tento druh vážil 1,2 až 3,6 tuny.",
+            "cat": "čísla",
+            "not": [
+              "Q107969684",
+              "Q133133",
+              "Q133183",
+              "Q134334",
+              "Q135102",
+              "Q14506",
+              "Q17414109"
+            ]
+          },
+          {
+            "id": "Q134637#x5",
+            "text": "Jeho fosílie objevila výprava z Amerického muzea přírodní historie.",
+            "cat": "výskyt",
+            "not": [
+              "Q133402",
+              "Q18510952",
+              "Q2986383",
+              "Q3087702"
+            ]
+          }
+        ],
         "continents": [
           "AS"
         ],
@@ -658483,7 +663009,61 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Baurutitan_britoi_profile_reconstruction.jpg/500px-Baurutitan_britoi_profile_reconstruction.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q134648#x0",
+            "text": "Tento druh žil v pozdní křídě na území dnešní Brazílie.",
+            "cat": "výskyt",
+            "not": [
+              "Q107685",
+              "Q131235",
+              "Q131537",
+              "Q131648",
+              "Q136872",
+              "Q137294",
+              "Q46995838",
+              "Q4703562",
+              "Q57273328"
+            ]
+          },
+          {
+            "id": "Q134648#x1",
+            "text": "Jeho odhadovaná délka je 12 až 14 metrů.",
+            "cat": "čísla",
+            "not": [
+              "Q131155",
+              "Q131446",
+              "Q132857",
+              "Q132937",
+              "Q133517",
+              "Q383329",
+              "Q644544"
+            ]
+          },
+          {
+            "id": "Q134648#x2",
+            "text": "Jeho odhadovaná výška je kolem 3,5 metru.",
+            "cat": "čísla",
+            "not": [
+              "Q133081",
+              "Q1814708",
+              "Q18325158",
+              "Q2029022",
+              "Q2576461",
+              "Q751087"
+            ]
+          },
+          {
+            "id": "Q134648#x3",
+            "text": "Jeho fosilie se našly už v roce 1957.",
+            "cat": "výskyt",
+            "not": [
+              "Q133137",
+              "Q1827222",
+              "Q3083026"
+            ]
+          }
+        ],
         "continents": [
           "SA"
         ],
@@ -658565,7 +663145,48 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Prognathodon3.jpg/500px-Prognathodon3.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q134700#x1",
+            "text": "Jeho fosílie se našly na Blízkém východě, v Evropě, Africe, Severní Americe a na Novém Zélandu.",
+            "cat": "výskyt",
+            "not": [
+              "Q141496",
+              "Q87488035"
+            ]
+          },
+          {
+            "id": "Q134700#x2",
+            "text": "Tento druh měl ocasní ploutev se dvěma laloky jako žralok.",
+            "cat": "vzhled",
+            "not": [
+              "Q141496",
+              "Q146475",
+              "Q320632",
+              "Q87488035"
+            ]
+          },
+          {
+            "id": "Q134700#x3",
+            "text": "Jeho největší známá lebka měří přes 1,4 metru.",
+            "cat": "čísla",
+            "not": [
+              "Q134066",
+              "Q134597",
+              "Q141496",
+              "Q146475",
+              "Q291861",
+              "Q320632",
+              "Q87488035"
+            ]
+          },
+          {
+            "id": "Q134700#x4",
+            "text": "V jeho útrobách se našly zbytky ryb a mořských želv.",
+            "cat": "potrava",
+            "not": []
+          }
+        ],
         "continents": [
           "EU",
           "AS",
@@ -658748,7 +663369,49 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Charnia_masoni_-_MUSE.jpg/500px-Charnia_masoni_-_MUSE.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q134755#x1",
+            "text": "Tento druh žil připevněný ke dnu moře.",
+            "cat": "chování",
+            "not": [
+              "Q1064780",
+              "Q131680",
+              "Q131782",
+              "Q132500",
+              "Q132713",
+              "Q134182",
+              "Q134648",
+              "Q239272",
+              "Q2585658",
+              "Q2713191"
+            ]
+          },
+          {
+            "id": "Q134755#x3",
+            "text": "Tento druh neměl žádný zřejmý orgán pro příjem potravy, třeba ústa.",
+            "cat": "vzhled",
+            "not": [
+              "Q131211",
+              "Q131331",
+              "Q131786",
+              "Q132602",
+              "Q133070",
+              "Q137252",
+              "Q15144358",
+              "Q18510922",
+              "Q20672342",
+              "Q22811125",
+              "Q754604"
+            ]
+          },
+          {
+            "id": "Q134755#x5",
+            "text": "Známé exempláře měří od 1 do 66 centimetrů na délku.",
+            "cat": "čísla",
+            "not": []
+          }
+        ],
         "continents": [
           "EU",
           "NA"
@@ -658809,7 +663472,30 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Amebelodon_model_-_Cleveland_Museum_of_Natural_History_-_2014-12-26_%2820861746986%29.jpg/500px-Amebelodon_model_-_Cleveland_Museum_of_Natural_History_-_2014-12-26_%2820861746986%29.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q134781#x1",
+            "text": "Jeho dolní kly sloužily i ke škrábání kůry ze stromů.",
+            "cat": "potrava",
+            "not": [
+              "Q1698713",
+              "Q19555",
+              "Q3236057",
+              "Q3699044",
+              "Q739132",
+              "Q88262453"
+            ]
+          },
+          {
+            "id": "Q134781#x2",
+            "text": "Tento druh se živil rostlinami se širokými listy, ne trávou.",
+            "cat": "potrava",
+            "not": [
+              "Q19555",
+              "Q3236057"
+            ]
+          }
+        ],
         "continents": [
           "NA"
         ],
@@ -659024,7 +663710,64 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Stupendemys_young_adult.jpg/500px-Stupendemys_young_adult.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q134896#x0",
+            "text": "Tento druh byl největší známou sladkovodní želvou.",
+            "cat": "čísla",
+            "not": [
+              "Q129426802",
+              "Q13418266",
+              "Q134269",
+              "Q1418323",
+              "Q14405",
+              "Q245262",
+              "Q30116769",
+              "Q305519",
+              "Q633747"
+            ]
+          },
+          {
+            "id": "Q134896#x2",
+            "text": "U samců rostly na přední straně krunýře kostěné rohy.",
+            "cat": "vzhled",
+            "not": [
+              "Q129426802",
+              "Q13418266",
+              "Q134269",
+              "Q1418323",
+              "Q14405",
+              "Q30116769",
+              "Q633747"
+            ]
+          },
+          {
+            "id": "Q134896#x3",
+            "text": "Tento druh se mohl živit rybami, hady a malými krokodýly.",
+            "cat": "potrava",
+            "not": [
+              "Q13418266",
+              "Q1418323",
+              "Q245262",
+              "Q305519",
+              "Q633747"
+            ]
+          },
+          {
+            "id": "Q134896#x5",
+            "text": "Jeho fosilie se našly v severní části Jižní Ameriky.",
+            "cat": "výskyt",
+            "not": [
+              "Q129426802",
+              "Q13418266",
+              "Q1418323",
+              "Q14405",
+              "Q245262",
+              "Q305519",
+              "Q633747"
+            ]
+          }
+        ],
         "continents": [
           "SA"
         ],
@@ -659407,7 +664150,54 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Ilokelesia.jpg/500px-Ilokelesia.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q135101#x0",
+            "text": "Tento druh žil na začátku pozdní křídy v Argentině.",
+            "cat": "výskyt",
+            "not": [
+              "Q131155",
+              "Q131446",
+              "Q133517",
+              "Q1821811",
+              "Q1994612",
+              "Q383329",
+              "Q644544"
+            ]
+          },
+          {
+            "id": "Q135101#x1",
+            "text": "Tento druh byl středně velký masožravý dinosaurus.",
+            "cat": "potrava",
+            "not": [
+              "Q135602",
+              "Q138106",
+              "Q20717918",
+              "Q2456661",
+              "Q28031858"
+            ]
+          },
+          {
+            "id": "Q135101#x3",
+            "text": "Jeho fosilie se našly v argentinské provincii Neuquén.",
+            "cat": "výskyt",
+            "not": [
+              "Q1827222",
+              "Q3083026",
+              "Q310529",
+              "Q899506"
+            ]
+          },
+          {
+            "id": "Q135101#x4",
+            "text": "Jeho fosilie se objevily v roce 1991.",
+            "cat": "výskyt",
+            "not": [
+              "Q132859",
+              "Q593763"
+            ]
+          }
+        ],
         "continents": [
           "SA"
         ],
@@ -659611,7 +664401,36 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Khaan.jpg/500px-Khaan.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q135295#x0",
+            "text": "Tento druh žil v Mongolsku v období svrchní křídy.",
+            "cat": "výskyt",
+            "not": [
+              "Q132822",
+              "Q3083026",
+              "Q310529",
+              "Q310938",
+              "Q899506"
+            ]
+          },
+          {
+            "id": "Q135295#x2",
+            "text": "Tento druh byl pravděpodobně pokrytý peřím.",
+            "cat": "vzhled",
+            "not": [
+              "Q107685",
+              "Q131648",
+              "Q4703562"
+            ]
+          },
+          {
+            "id": "Q135295#x3",
+            "text": "Tento druh měl velmi silný stisk čelistí.",
+            "cat": "chování",
+            "not": []
+          }
+        ],
         "continents": [
           "AS"
         ],
@@ -659634,7 +664453,55 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Rapetosaurus_BW.jpg/500px-Rapetosaurus_BW.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q135300#x0",
+            "text": "Tento druh žil na Madagaskaru před 70 až 66 miliony let.",
+            "cat": "výskyt",
+            "not": [
+              "Q131241",
+              "Q131791",
+              "Q133034",
+              "Q133675",
+              "Q139169",
+              "Q18642358",
+              "Q20718358",
+              "Q3889333",
+              "Q56316452"
+            ]
+          },
+          {
+            "id": "Q135300#x1",
+            "text": "Tento druh měl malé zuby ve tvaru tužek, vhodné k trhání listů ze stromů.",
+            "cat": "potrava",
+            "not": [
+              "Q131211",
+              "Q131331",
+              "Q131786",
+              "Q132602",
+              "Q22811125",
+              "Q754604"
+            ]
+          },
+          {
+            "id": "Q135300#x2",
+            "text": "Na jeho kostech jsou stopy zubů dravého dinosaura majungasaura.",
+            "cat": "vztahy",
+            "not": [
+              "Q131780",
+              "Q132968",
+              "Q133453",
+              "Q133837",
+              "Q18604594",
+              "Q2078996",
+              "Q2197682",
+              "Q22927446",
+              "Q2451710",
+              "Q570439",
+              "Q629204"
+            ]
+          }
+        ],
         "continents": [
           "AF"
         ],
@@ -659657,7 +664524,47 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Kotasauraus.jpg/500px-Kotasauraus.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q135306#x1",
+            "text": "Jeho fosílie se našly v Indii.",
+            "cat": "výskyt",
+            "not": [
+              "Q1064780",
+              "Q132500",
+              "Q132713",
+              "Q134182",
+              "Q134648",
+              "Q239272",
+              "Q2585658",
+              "Q2713191"
+            ]
+          },
+          {
+            "id": "Q135306#x2",
+            "text": "Tento druh se živil rostlinami.",
+            "cat": "potrava",
+            "not": [
+              "Q2696795",
+              "Q309392"
+            ]
+          },
+          {
+            "id": "Q135306#x4",
+            "text": "Tento druh měl na ocase kyj, možná k boji nebo k obraně.",
+            "cat": "vzhled",
+            "not": [
+              "Q1164873",
+              "Q130902",
+              "Q131540",
+              "Q131750",
+              "Q134623",
+              "Q1878170",
+              "Q2345315",
+              "Q271710"
+            ]
+          }
+        ],
         "continents": [
           "AS"
         ],
@@ -659722,7 +664629,33 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Ekaltadeta_ima.jpg/500px-Ekaltadeta_ima.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q135402#x0",
+            "text": "Tento druh byl podle zubů masožravý nebo všežravý s chutí na maso.",
+            "cat": "potrava",
+            "not": [
+              "Q131085",
+              "Q131563",
+              "Q136448",
+              "Q16934814",
+              "Q209637"
+            ]
+          },
+          {
+            "id": "Q135402#x1",
+            "text": "Tento druh žil v období miocénu v severovýchodní Austrálii.",
+            "cat": "výskyt",
+            "not": [
+              "Q131085",
+              "Q134618",
+              "Q16934814",
+              "Q209637",
+              "Q311712",
+              "Q391032"
+            ]
+          }
+        ],
         "continents": [
           "OC"
         ],
@@ -659745,7 +664678,20 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/XenicusLongipesBuller.jpg/500px-XenicusLongipesBuller.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q135443#x2",
+            "text": "Tento druh vymizel po zavlečení kunovitých šelem a krys na Nový Zéland.",
+            "cat": "vymření",
+            "not": [
+              "Q13098211",
+              "Q132835",
+              "Q134600",
+              "Q137150",
+              "Q847140"
+            ]
+          }
+        ],
         "continents": [
           "OC"
         ],
@@ -659815,7 +664761,22 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Bonitasaura_head.jpg/500px-Bonitasaura_head.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q135544#x1",
+            "text": "Jeho fosílie se našly v Argentině.",
+            "cat": "výskyt",
+            "not": [
+              "Q131275",
+              "Q131398",
+              "Q133081",
+              "Q1814708",
+              "Q18325158",
+              "Q2576461",
+              "Q751087"
+            ]
+          }
+        ],
         "continents": [
           "SA"
         ],
@@ -660349,7 +665310,14 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Bellusaurus-v1.jpg/500px-Bellusaurus-v1.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q1362710#x1",
+            "text": "Fosilie sedmnácti dobře zachovaných jedinců se našly na jednom místě.",
+            "cat": "výskyt",
+            "not": []
+          }
+        ],
         "continents": [
           "AS"
         ],
@@ -660915,7 +665883,33 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/HaopterusGracilis-PaleozoologicalMuseumOfChina-May23-08.jpg/500px-HaopterusGracilis-PaleozoologicalMuseumOfChina-May23-08.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q137490#x1",
+            "text": "Jeho fosílie se našly v Číně.",
+            "cat": "výskyt",
+            "not": [
+              "Q132577",
+              "Q135246",
+              "Q22110914",
+              "Q242358"
+            ]
+          },
+          {
+            "id": "Q137490#x2",
+            "text": "Tento druh se zřejmě živil rybami.",
+            "cat": "potrava",
+            "not": [
+              "Q242358"
+            ]
+          },
+          {
+            "id": "Q137490#x5",
+            "text": "Tento druh žil v oblasti s hlubokými sladkovodními jezery a častými sopečnými erupcemi.",
+            "cat": "výskyt",
+            "not": []
+          }
+        ],
         "continents": [
           "AS"
         ],
@@ -661019,7 +666013,21 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Pachypleurosaurus.jpg/500px-Pachypleurosaurus.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q137689#x1",
+            "text": "Tento druh žil v subtropickém mořském rameni hlubokém asi 100 metrů.",
+            "cat": "výskyt",
+            "not": [
+              "Q127826022",
+              "Q133246",
+              "Q134896",
+              "Q135094",
+              "Q41220590",
+              "Q971275"
+            ]
+          }
+        ],
         "continents": [
           "EU"
         ],
@@ -661686,7 +666694,66 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Cladoselache_NT_small.jpg/500px-Cladoselache_NT_small.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q139096#x0",
+            "text": "Tento druh žil v pozdním devonu v Severní Americe.",
+            "cat": "výskyt",
+            "not": [
+              "Q614603",
+              "Q65194526"
+            ]
+          },
+          {
+            "id": "Q139096#x1",
+            "text": "Tento druh býval rychlý a hbitý mořský predátor.",
+            "cat": "chování",
+            "not": [
+              "Q3699044"
+            ]
+          },
+          {
+            "id": "Q139096#x2",
+            "text": "Jeho fosílie zachovaly stopy kůže, svalových vláken i ledvin.",
+            "cat": "výskyt",
+            "not": [
+              "Q614603"
+            ]
+          },
+          {
+            "id": "Q139096#x3",
+            "text": "Tento druh se živil ranými kostnatými rybami.",
+            "cat": "potrava",
+            "not": [
+              "Q3699044",
+              "Q5863739"
+            ]
+          },
+          {
+            "id": "Q139096#x4",
+            "text": "Tento druh býval kořistí velkých pancířnatých ryb.",
+            "cat": "vztahy",
+            "not": [
+              "Q132036",
+              "Q134235",
+              "Q3699044",
+              "Q3984454",
+              "Q5863739",
+              "Q614603",
+              "Q65194526"
+            ]
+          },
+          {
+            "id": "Q139096#x5",
+            "text": "Tento druh dorůstal délky asi 2 metrů.",
+            "cat": "čísla",
+            "not": [
+              "Q3699044",
+              "Q3984454",
+              "Q614603"
+            ]
+          }
+        ],
         "continents": [
           "NA"
         ],
@@ -662145,7 +667212,49 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/GlobidensDB2.jpg/500px-GlobidensDB2.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q141401#x0",
+            "text": "Tento druh se živil měkkýši s tvrdou schránkou, například mlži.",
+            "cat": "potrava",
+            "not": []
+          },
+          {
+            "id": "Q141401#x1",
+            "text": "Tento druh měl kulaté zuby, které drtily tvrdé schránky kořisti.",
+            "cat": "vzhled",
+            "not": []
+          },
+          {
+            "id": "Q141401#x3",
+            "text": "V jeho žaludku se našly rozdrcené lastury mlžů.",
+            "cat": "potrava",
+            "not": []
+          },
+          {
+            "id": "Q141401#x4",
+            "text": "Tento druh žil v teplých mělkých mořích pozdní křídy.",
+            "cat": "výskyt",
+            "not": [
+              "Q141496",
+              "Q146475",
+              "Q320632"
+            ]
+          },
+          {
+            "id": "Q141401#x5",
+            "text": "Tento druh měřil na délku asi pět až šest metrů.",
+            "cat": "čísla",
+            "not": [
+              "Q113620659",
+              "Q141496",
+              "Q146475",
+              "Q291861",
+              "Q320632",
+              "Q87488035"
+            ]
+          }
+        ],
         "continents": [
           "AS",
           "AF",
@@ -662233,7 +667342,37 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Xenosmilus_hodsonae.jpg/500px-Xenosmilus_hodsonae.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q141533#x0",
+            "text": "Tento druh žil v Severní Americe v období raného pleistocénu.",
+            "cat": "výskyt",
+            "not": [
+              "Q131076",
+              "Q132569",
+              "Q205935"
+            ]
+          },
+          {
+            "id": "Q141533#x2",
+            "text": "Tento druh měl zoubkované všechny zuby, nejen tesáky a řezáky.",
+            "cat": "vzhled",
+            "not": [
+              "Q131477"
+            ]
+          },
+          {
+            "id": "Q141533#x5",
+            "text": "Tento druh žil ve stejné době jako mastodonti.",
+            "cat": "vztahy",
+            "not": [
+              "Q131076",
+              "Q131477",
+              "Q132569",
+              "Q14400"
+            ]
+          }
+        ],
         "continents": [
           "NA",
           "SA"
@@ -662302,7 +667441,30 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Chenonetta_finschi_bones_1876_holotype.jpg/500px-Chenonetta_finschi_bones_1876_holotype.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q1418323#x1",
+            "text": "Tento druh žil v lesích, křovinách a travnatých porostech.",
+            "cat": "výskyt",
+            "not": []
+          },
+          {
+            "id": "Q1418323#x2",
+            "text": "Tento druh se pravděpodobně živil rostlinami, spadaným ovocem a bezobratlými.",
+            "cat": "potrava",
+            "not": []
+          },
+          {
+            "id": "Q1418323#x3",
+            "text": "Tento druh měl silně zmenšená křídla a pravděpodobně neuměl létat.",
+            "cat": "vzhled",
+            "not": [
+              "Q134586",
+              "Q2319226",
+              "Q578813"
+            ]
+          }
+        ],
         "continents": [
           "OC"
         ],
@@ -663974,7 +669136,67 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Xinjiangtitan_%28adjusted%29.jpg/500px-Xinjiangtitan_%28adjusted%29.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q15144358#x0",
+            "text": "Tento druh měl nejdelší známý úplný krk ze všech zvířat.",
+            "cat": "čísla",
+            "not": [
+              "Q131275",
+              "Q133081",
+              "Q134771",
+              "Q1814708",
+              "Q18325158",
+              "Q2029022",
+              "Q2576461",
+              "Q751087"
+            ]
+          },
+          {
+            "id": "Q15144358#x1",
+            "text": "Tento druh měřil na délku 30 až 32 metrů.",
+            "cat": "čísla",
+            "not": [
+              "Q131275",
+              "Q131398",
+              "Q133081",
+              "Q134771",
+              "Q1814708",
+              "Q18325158",
+              "Q2029022",
+              "Q2576461",
+              "Q751087"
+            ]
+          },
+          {
+            "id": "Q15144358#x2",
+            "text": "Tento druh vážil až 40 tun.",
+            "cat": "čísla",
+            "not": [
+              "Q107685",
+              "Q131235",
+              "Q137294",
+              "Q4703562",
+              "Q761582"
+            ]
+          },
+          {
+            "id": "Q15144358#x3",
+            "text": "Tento druh žil ve střední juře v dnešní severozápadní Číně.",
+            "cat": "výskyt",
+            "not": [
+              "Q130966",
+              "Q135602",
+              "Q136506586",
+              "Q138106",
+              "Q15137014",
+              "Q205935",
+              "Q20717918",
+              "Q28031858",
+              "Q44884994"
+            ]
+          }
+        ],
         "continents": [
           "AS"
         ],
@@ -663997,7 +669219,67 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Acheroraptor_reconstruction.jpg/500px-Acheroraptor_reconstruction.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q15215620#x0",
+            "text": "Tento druh žil na konci křídy v Severní Americe.",
+            "cat": "výskyt",
+            "not": [
+              "Q128233",
+              "Q131561",
+              "Q131690",
+              "Q15632851",
+              "Q25963034",
+              "Q310520",
+              "Q568269"
+            ]
+          },
+          {
+            "id": "Q15215620#x1",
+            "text": "Jeho fosílie se našly v Montaně ve Spojených státech.",
+            "cat": "výskyt",
+            "not": [
+              "Q130966",
+              "Q135602",
+              "Q136506586",
+              "Q138106",
+              "Q205935",
+              "Q20717918",
+              "Q2456661",
+              "Q44884994"
+            ]
+          },
+          {
+            "id": "Q15215620#x2",
+            "text": "Tento druh měřil asi 3 metry a vážil asi 40 kilogramů.",
+            "cat": "čísla",
+            "not": [
+              "Q130966",
+              "Q135602",
+              "Q136506586",
+              "Q138106",
+              "Q15137014",
+              "Q205935",
+              "Q2456661",
+              "Q28031858",
+              "Q44884994"
+            ]
+          },
+          {
+            "id": "Q15215620#x3",
+            "text": "Tento druh měl na každé noze srpovitý dráp, pravděpodobně k přidržování kořisti.",
+            "cat": "chování",
+            "not": [
+              "Q1064780",
+              "Q131680",
+              "Q131782",
+              "Q132713",
+              "Q239272",
+              "Q2585658",
+              "Q2713191"
+            ]
+          }
+        ],
         "continents": [
           "NA"
         ],
@@ -665513,7 +670795,42 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Ojoraptorsaurus_boerei_profile_reconstruction.jpg/500px-Ojoraptorsaurus_boerei_profile_reconstruction.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q1704992#x1",
+            "text": "Jeho kosti se našly v Novém Mexiku.",
+            "cat": "výskyt",
+            "not": [
+              "Q130966",
+              "Q135602",
+              "Q136506586",
+              "Q138106",
+              "Q15137014",
+              "Q205935",
+              "Q20717918",
+              "Q2456661",
+              "Q44884994"
+            ]
+          },
+          {
+            "id": "Q1704992#x2",
+            "text": "Tento druh měřil na délku asi 1,8 až 2,1 metru.",
+            "cat": "čísla",
+            "not": [
+              "Q1316954",
+              "Q138638",
+              "Q26261015",
+              "Q27075012",
+              "Q32859091"
+            ]
+          },
+          {
+            "id": "Q1704992#x3",
+            "text": "Tento druh žil společně s býložravými obry, například s dlouhokrkými sauropody.",
+            "cat": "vztahy",
+            "not": []
+          }
+        ],
         "continents": [
           "NA"
         ],
@@ -665710,7 +671027,52 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Teratophoneus2_NT.jpg/500px-Teratophoneus2_NT.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q1705998#x0",
+            "text": "Tento druh žil v období svrchní křídy.",
+            "cat": "výskyt",
+            "not": [
+              "Q1056138",
+              "Q131202",
+              "Q131518",
+              "Q131788",
+              "Q133203",
+              "Q14330",
+              "Q16773910"
+            ]
+          },
+          {
+            "id": "Q1705998#x1",
+            "text": "Jeho fosílie se našly v americkém státě Utah.",
+            "cat": "výskyt",
+            "not": [
+              "Q1144395",
+              "Q121095909",
+              "Q131213",
+              "Q134607",
+              "Q21446516",
+              "Q5721716",
+              "Q966510"
+            ]
+          },
+          {
+            "id": "Q1705998#x2",
+            "text": "Dospělí jedinci měřili podle odhadu až 8,7 metru.",
+            "cat": "čísla",
+            "not": [
+              "Q1031486",
+              "Q131644",
+              "Q132558",
+              "Q134103",
+              "Q17363721",
+              "Q311281",
+              "Q64836111",
+              "Q7622223",
+              "Q91930067"
+            ]
+          }
+        ],
         "continents": [
           "NA"
         ],
@@ -665785,7 +671147,48 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Delapparentia_by_durbed.jpg/500px-Delapparentia_by_durbed.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q1706554#x1",
+            "text": "Jeho fosilie se našly ve Španělsku, v provincii Teruel.",
+            "cat": "výskyt",
+            "not": [
+              "Q131197",
+              "Q133498",
+              "Q134299",
+              "Q135922217",
+              "Q203583",
+              "Q21122031",
+              "Q40621",
+              "Q516014",
+              "Q57745610"
+            ]
+          },
+          {
+            "id": "Q1706554#x2",
+            "text": "Tento druh měřil na délku odhadem 10 metrů.",
+            "cat": "čísla",
+            "not": [
+              "Q131197",
+              "Q133498",
+              "Q134299",
+              "Q516014",
+              "Q57745610"
+            ]
+          },
+          {
+            "id": "Q1706554#x3",
+            "text": "Jeho hmotnost se odhaduje na 3,5 tuny.",
+            "cat": "čísla",
+            "not": [
+              "Q131256",
+              "Q134392",
+              "Q135092049",
+              "Q2457727",
+              "Q62029371"
+            ]
+          }
+        ],
         "continents": [
           "EU"
         ],
@@ -666241,7 +671644,72 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Kodymirus_Reconstruction.jpg/500px-Kodymirus_Reconstruction.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q1778244#x0",
+            "text": "Tento druh byl malý dravec dlouhý asi 80 milimetrů.",
+            "cat": "čísla",
+            "not": [
+              "Q131481",
+              "Q132547",
+              "Q134151",
+              "Q134308",
+              "Q134629",
+              "Q139919",
+              "Q2556351",
+              "Q285364",
+              "Q67103336"
+            ]
+          },
+          {
+            "id": "Q1778244#x1",
+            "text": "Tento druh měl pár velkých zubatých chytacích přívěsků.",
+            "cat": "vzhled",
+            "not": [
+              "Q102349764",
+              "Q131400",
+              "Q14410",
+              "Q15972921",
+              "Q21266789",
+              "Q2696795",
+              "Q309392",
+              "Q888114"
+            ]
+          },
+          {
+            "id": "Q1778244#x2",
+            "text": "Podle fosilních stop tento druh drápy rýpal v bahně a vyrušoval zahrabanou kořist.",
+            "cat": "potrava",
+            "not": [
+              "Q1316954",
+              "Q132521",
+              "Q138638",
+              "Q15245693",
+              "Q20670696",
+              "Q26261015",
+              "Q27075012",
+              "Q32859091",
+              "Q79018071"
+            ]
+          },
+          {
+            "id": "Q1778244#x3",
+            "text": "Jeho zkameněliny se našly v Česku, v Barrandienu.",
+            "cat": "výskyt",
+            "not": [
+              "Q128233",
+              "Q12973051",
+              "Q131561",
+              "Q131690",
+              "Q15632851",
+              "Q1930333",
+              "Q25963034",
+              "Q310520",
+              "Q40752",
+              "Q568269"
+            ]
+          }
+        ],
         "continents": [
           "EU"
         ],
@@ -667113,7 +672581,32 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Patagornis_marshiDB24.jpg/500px-Patagornis_marshiDB24.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q1866161#x1",
+            "text": "Jeho kořistí mohli být malí a středně velcí savci, například pozemní lenochodi.",
+            "cat": "potrava",
+            "not": [
+              "Q18617035",
+              "Q2706540"
+            ]
+          },
+          {
+            "id": "Q1866161#x3",
+            "text": "Tento druh měl zadní nohy přizpůsobené běhu.",
+            "cat": "chování",
+            "not": [
+              "Q2706540",
+              "Q747851"
+            ]
+          },
+          {
+            "id": "Q1866161#x4",
+            "text": "Tento druh žil v krajině s pastvinami a lesy.",
+            "cat": "výskyt",
+            "not": []
+          }
+        ],
         "continents": [
           "SA"
         ],
@@ -667192,7 +672685,63 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Alcovasaurus_longispinus_by_ABelov.jpg/500px-Alcovasaurus_longispinus_by_ABelov.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q18684887#x0",
+            "text": "Tento druh žil v období svrchní jury.",
+            "cat": "výskyt",
+            "not": [
+              "Q131056",
+              "Q134203",
+              "Q134226",
+              "Q134637",
+              "Q1706548",
+              "Q28610332",
+              "Q326596",
+              "Q58179217",
+              "Q783455",
+              "Q968771"
+            ]
+          },
+          {
+            "id": "Q18684887#x1",
+            "text": "Jeho kosti se našly ve Wyomingu ve Spojených státech.",
+            "cat": "výskyt",
+            "not": [
+              "Q130921",
+              "Q131179",
+              "Q131399",
+              "Q132481",
+              "Q139189",
+              "Q20675364",
+              "Q21494374",
+              "Q21945702",
+              "Q2701043"
+            ]
+          },
+          {
+            "id": "Q18684887#x4",
+            "text": "Nejdelší ocasní trn měřil 86 centimetrů.",
+            "cat": "čísla",
+            "not": [
+              "Q130921",
+              "Q131179",
+              "Q131399",
+              "Q132481",
+              "Q139189",
+              "Q20675364",
+              "Q21494374",
+              "Q21945702",
+              "Q2701043"
+            ]
+          },
+          {
+            "id": "Q18684887#x5",
+            "text": "Podle vědců sloužily ocasní trny hlavně jako zbraně.",
+            "cat": "chování",
+            "not": []
+          }
+        ],
         "continents": [
           "NA"
         ],
@@ -667888,7 +673437,35 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Tatankaceratops_NT.jpg/500px-Tatankaceratops_NT.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q18915569#x2",
+            "text": "Jeho fosílie se našla v Jižní Dakotě, ve vrstvách zvaných Hell Creek.",
+            "cat": "výskyt",
+            "not": [
+              "Q107969684",
+              "Q120743561",
+              "Q133133",
+              "Q133183",
+              "Q135102",
+              "Q14506",
+              "Q17414109"
+            ]
+          },
+          {
+            "id": "Q18915569#x3",
+            "text": "Tento druh je znám jen z jediné částečné lebky.",
+            "cat": "čísla",
+            "not": [
+              "Q109887670",
+              "Q131602",
+              "Q132820",
+              "Q132966",
+              "Q134389",
+              "Q4769855"
+            ]
+          }
+        ],
         "continents": [
           "NA"
         ],
@@ -668022,7 +673599,93 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/MA_I360023_TePapa_Corvus-antipodum-pycrafti_full.jpg/500px-MA_I360023_TePapa_Corvus-antipodum-pycrafti_full.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q1892017#x0",
+            "text": "Tento druh žil jen na Novém Zélandu.",
+            "cat": "výskyt",
+            "not": [
+              "Q1042042",
+              "Q11220589",
+              "Q135327",
+              "Q1933735",
+              "Q550316",
+              "Q727783",
+              "Q910989",
+              "Q990174"
+            ]
+          },
+          {
+            "id": "Q1892017#x1",
+            "text": "Tento druh vážil odhadem 0,9 až 1 kg.",
+            "cat": "čísla",
+            "not": [
+              "Q13098211",
+              "Q132835",
+              "Q134600",
+              "Q27075774",
+              "Q550316",
+              "Q599569",
+              "Q724978",
+              "Q847140",
+              "Q911041",
+              "Q912836",
+              "Q990174"
+            ]
+          },
+          {
+            "id": "Q1892017#x2",
+            "text": "Tento druh se asi živil plody, velkým hmyzem, suchozemskými obratlovci a vejci mořských ptáků.",
+            "cat": "potrava",
+            "not": [
+              "Q137150"
+            ]
+          },
+          {
+            "id": "Q1892017#x3",
+            "text": "Tento druh se možná živil mršinami ptáků ulovených orlem Haastovým.",
+            "cat": "vztahy",
+            "not": [
+              "Q13098211",
+              "Q132835",
+              "Q134600",
+              "Q137150",
+              "Q27075774",
+              "Q550316",
+              "Q599569",
+              "Q724978",
+              "Q847140",
+              "Q911041",
+              "Q912836",
+              "Q990174"
+            ]
+          },
+          {
+            "id": "Q1892017#x4",
+            "text": "Tento druh zmizel při prvním osídlení Nového Zélandu Maory.",
+            "cat": "vymření",
+            "not": [
+              "Q1042042",
+              "Q11220589",
+              "Q135327",
+              "Q135443",
+              "Q1587161",
+              "Q1933735",
+              "Q285008",
+              "Q28819554",
+              "Q550316",
+              "Q727783",
+              "Q910989",
+              "Q990174"
+            ]
+          },
+          {
+            "id": "Q1892017#x5",
+            "text": "Jeho snůšky mohly ničit krysy, které na ostrovy zavlekli Maorové.",
+            "cat": "vymření",
+            "not": []
+          }
+        ],
         "continents": [
           "OC"
         ],
@@ -668100,7 +673763,62 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/R%C3%A9union_Ibis.jpg/500px-R%C3%A9union_Ibis.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q18972#x1",
+            "text": "Tento druh uměl létat jen omezeně.",
+            "cat": "chování",
+            "not": []
+          },
+          {
+            "id": "Q18972#x2",
+            "text": "Tento druh žil v 17. století v horských oblastech.",
+            "cat": "výskyt",
+            "not": [
+              "Q130869",
+              "Q132474",
+              "Q133038",
+              "Q133085",
+              "Q2086368",
+              "Q239272",
+              "Q310517",
+              "Q3222766",
+              "Q40751",
+              "Q477725",
+              "Q899557"
+            ]
+          },
+          {
+            "id": "Q18972#x4",
+            "text": "Tento druh měřil na délku nejvýše asi 65 cm.",
+            "cat": "čísla",
+            "not": [
+              "Q131021",
+              "Q131039",
+              "Q131067",
+              "Q131568",
+              "Q133038",
+              "Q133085",
+              "Q14397",
+              "Q18510948",
+              "Q188717",
+              "Q189193",
+              "Q2086368",
+              "Q40752",
+              "Q899557"
+            ]
+          },
+          {
+            "id": "Q18972#x5",
+            "text": "Tento druh vyhynul nejpozději na začátku 18. století.",
+            "cat": "vymření",
+            "not": [
+              "Q123102",
+              "Q285008",
+              "Q888549"
+            ]
+          }
+        ],
         "continents": [
           "AF"
         ],
@@ -668129,7 +673847,49 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Massospondylus_BW.jpg/500px-Massospondylus_BW.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q191339#x1",
+            "text": "Tento druh byl pravděpodobně býložravec.",
+            "cat": "potrava",
+            "not": [
+              "Q131481",
+              "Q2491",
+              "Q2696795",
+              "Q309392",
+              "Q312131",
+              "Q496689"
+            ]
+          },
+          {
+            "id": "Q191339#x3",
+            "text": "Tento druh měřil na délku 4 až 6 metrů.",
+            "cat": "čísla",
+            "not": [
+              "Q100196",
+              "Q1064780",
+              "Q130966",
+              "Q131565",
+              "Q131680",
+              "Q132500",
+              "Q132713",
+              "Q134182",
+              "Q134648",
+              "Q203583",
+              "Q239272",
+              "Q2585658",
+              "Q2713191"
+            ]
+          },
+          {
+            "id": "Q191339#x4",
+            "text": "Skořápka vajec byla tenčí než 0,1 milimetru.",
+            "cat": "čísla",
+            "not": [
+              "Q168903"
+            ]
+          }
+        ],
         "continents": [
           "AF",
           "NA"
@@ -668224,7 +673984,86 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Mammut_americanum_Sergiodlarosa.jpg/500px-Mammut_americanum_Sergiodlarosa.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q192272#x1",
+            "text": "Tento druh žil nejspíš v lesích, kdežto mamuti v otevřené krajině.",
+            "cat": "vztahy",
+            "not": []
+          },
+          {
+            "id": "Q192272#x2",
+            "text": "Tento druh žil jen v Severní Americe.",
+            "cat": "výskyt",
+            "not": [
+              "Q123102",
+              "Q130988",
+              "Q131038",
+              "Q131056",
+              "Q131094",
+              "Q131232",
+              "Q132647",
+              "Q132789",
+              "Q132817",
+              "Q134159",
+              "Q14506",
+              "Q168903",
+              "Q2789205",
+              "Q285008",
+              "Q287975",
+              "Q376401",
+              "Q693352"
+            ]
+          },
+          {
+            "id": "Q192272#x3",
+            "text": "Tento druh vyhynul před asi 11 000 lety.",
+            "cat": "vymření",
+            "not": [
+              "Q123102",
+              "Q130988",
+              "Q131038",
+              "Q131056",
+              "Q131094",
+              "Q131232",
+              "Q132647",
+              "Q132789",
+              "Q132817",
+              "Q14506",
+              "Q168903",
+              "Q19555",
+              "Q245060",
+              "Q285008",
+              "Q287975",
+              "Q310535",
+              "Q3236057",
+              "Q376401",
+              "Q739132",
+              "Q88262453"
+            ]
+          },
+          {
+            "id": "Q192272#x4",
+            "text": "Dospělí samci vážili v průměru 6,8 až 9,2 tuny.",
+            "cat": "čísla",
+            "not": [
+              "Q131006",
+              "Q131232",
+              "Q132789",
+              "Q192383",
+              "Q19555",
+              "Q222191",
+              "Q309390",
+              "Q309392",
+              "Q310503",
+              "Q3236057",
+              "Q575699",
+              "Q739132",
+              "Q857081",
+              "Q88262453"
+            ]
+          }
+        ],
         "continents": [
           "NA"
         ],
@@ -668940,7 +674779,48 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Phenacodus_AMNH.jpg/500px-Phenacodus_AMNH.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q1955124#x0",
+            "text": "Tento druh žil od pozdního paleocénu do středního eocénu.",
+            "cat": "výskyt",
+            "not": [
+              "Q1274400",
+              "Q131006",
+              "Q131253",
+              "Q132536",
+              "Q132575",
+              "Q135306",
+              "Q18961256",
+              "Q2210827",
+              "Q526150"
+            ]
+          },
+          {
+            "id": "Q1955124#x1",
+            "text": "Tento druh vážil až 56 kilogramů.",
+            "cat": "čísla",
+            "not": [
+              "Q1274400",
+              "Q131006",
+              "Q131253",
+              "Q135306"
+            ]
+          },
+          {
+            "id": "Q1955124#x2",
+            "text": "Každá končetina končila pěti plně vyvinutými prsty.",
+            "cat": "vzhled",
+            "not": [
+              "Q131006",
+              "Q132536",
+              "Q132575",
+              "Q18961256",
+              "Q2210827",
+              "Q526150"
+            ]
+          }
+        ],
         "continents": [
           "EU",
           "NA"
@@ -669299,7 +675179,60 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Pulmonoscopius_BW.jpg/500px-Pulmonoscopius_BW.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q19888319#x0",
+            "text": "Jeho fosílie se našly ve Skotsku.",
+            "cat": "výskyt",
+            "not": [
+              "Q131094",
+              "Q132534",
+              "Q138023",
+              "Q141626",
+              "Q2101463",
+              "Q2418217",
+              "Q310535",
+              "Q44246",
+              "Q57364114",
+              "Q764899",
+              "Q81482"
+            ]
+          },
+          {
+            "id": "Q19888319#x1",
+            "text": "Největší známý jedinec měřil odhadem přes 70 centimetrů.",
+            "cat": "čísla",
+            "not": [
+              "Q2418217"
+            ]
+          },
+          {
+            "id": "Q19888319#x2",
+            "text": "Tento druh byl pravděpodobně aktivní denní predátor.",
+            "cat": "chování",
+            "not": [
+              "Q131094",
+              "Q132534",
+              "Q138023",
+              "Q44246",
+              "Q57364114",
+              "Q764899"
+            ]
+          },
+          {
+            "id": "Q19888319#x3",
+            "text": "Tento druh se pravděpodobně živil menšími členovci a malými čtyřnožci.",
+            "cat": "potrava",
+            "not": [
+              "Q131094",
+              "Q132534",
+              "Q138023",
+              "Q44246",
+              "Q57364114",
+              "Q764899"
+            ]
+          }
+        ],
         "continents": [
           "EU"
         ],
@@ -669436,7 +675369,25 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/MA_I364432_Anas_chathamica_006.jpg/500px-MA_I364432_Anas_chathamica_006.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q202076#x1",
+            "text": "Tento druh se pravděpodobně živil hlavně kraby a měkkýši.",
+            "cat": "potrava",
+            "not": [
+              "Q134952"
+            ]
+          },
+          {
+            "id": "Q202076#x2",
+            "text": "Tento druh vážil asi 1,5 kilogramu.",
+            "cat": "čísla",
+            "not": [
+              "Q134952",
+              "Q2671476"
+            ]
+          }
+        ],
         "continents": [
           "OC"
         ],
@@ -669596,7 +675547,103 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Parasaurolophus_walkeri.jpg/500px-Parasaurolophus_walkeri.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q203583#x0",
+            "text": "Tento druh žil v období svrchní křídy před 73 až 76,5 miliony let.",
+            "cat": "výskyt",
+            "not": [
+              "Q131006",
+              "Q131179",
+              "Q131399",
+              "Q187484",
+              "Q192383",
+              "Q21945702",
+              "Q222191",
+              "Q2701043",
+              "Q309390",
+              "Q309392",
+              "Q310387",
+              "Q310503",
+              "Q575699",
+              "Q857081"
+            ]
+          },
+          {
+            "id": "Q203583#x2",
+            "text": "Tento druh uměl chodit po dvou i po čtyřech nohách.",
+            "cat": "chování",
+            "not": [
+              "Q130885",
+              "Q131565",
+              "Q14384",
+              "Q14491",
+              "Q188949",
+              "Q242358",
+              "Q2986383",
+              "Q3087702",
+              "Q312054"
+            ]
+          },
+          {
+            "id": "Q203583#x3",
+            "text": "Tento druh měl na hlavě dutý hřeben s trubicemi od nozder.",
+            "cat": "vzhled",
+            "not": [
+              "Q130885",
+              "Q131006",
+              "Q132191",
+              "Q133402",
+              "Q14384",
+              "Q14491",
+              "Q18510952",
+              "Q187484",
+              "Q192383",
+              "Q222191",
+              "Q2986383",
+              "Q3087702",
+              "Q309390",
+              "Q309392",
+              "Q310387",
+              "Q310503",
+              "Q40621",
+              "Q575699",
+              "Q857081"
+            ]
+          },
+          {
+            "id": "Q203583#x4",
+            "text": "Hřeben na hlavě mohl zesilovat zvuk a sloužit k dorozumívání.",
+            "cat": "chování",
+            "not": [
+              "Q1256132",
+              "Q12901024",
+              "Q130921",
+              "Q133203",
+              "Q134884",
+              "Q135263",
+              "Q14400",
+              "Q14403",
+              "Q18915213",
+              "Q191339",
+              "Q2783396",
+              "Q292141",
+              "Q310531",
+              "Q311212"
+            ]
+          },
+          {
+            "id": "Q203583#x5",
+            "text": "Mláďata měla nízký a polokulovitý hřeben na hlavě.",
+            "cat": "vzhled",
+            "not": [
+              "Q1256132",
+              "Q12901024",
+              "Q135263",
+              "Q292141"
+            ]
+          }
+        ],
         "continents": [
           "NA"
         ],
@@ -669893,7 +675940,70 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Zhenyuanlong.jpg/500px-Zhenyuanlong.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q20670696#x1",
+            "text": "Jeho fosílie se našly v Číně, v provincii Liaoning.",
+            "cat": "výskyt",
+            "not": [
+              "Q107685",
+              "Q131174",
+              "Q131537",
+              "Q136872",
+              "Q137294",
+              "Q46995838",
+              "Q4703562",
+              "Q57273328",
+              "Q761582"
+            ]
+          },
+          {
+            "id": "Q20670696#x2",
+            "text": "Tento druh měl na ocase a pažích velká pera.",
+            "cat": "vzhled",
+            "not": [
+              "Q133203",
+              "Q14330",
+              "Q16773910",
+              "Q648806"
+            ]
+          },
+          {
+            "id": "Q20670696#x3",
+            "text": "Tento druh měl křídla, ale pravděpodobně nedokázal létat.",
+            "cat": "chování",
+            "not": [
+              "Q107685",
+              "Q131174",
+              "Q131537",
+              "Q131648",
+              "Q136872",
+              "Q46995838",
+              "Q4703562",
+              "Q57273328"
+            ]
+          },
+          {
+            "id": "Q20670696#x4",
+            "text": "Tento druh vážil odhadem 20 kilogramů.",
+            "cat": "čísla",
+            "not": [
+              "Q131673",
+              "Q132552",
+              "Q132859",
+              "Q134310",
+              "Q134319",
+              "Q1705935",
+              "Q284931"
+            ]
+          },
+          {
+            "id": "Q20670696#x5",
+            "text": "Křídla možná sloužila k lákání partnerů nebo k zastrašování soupeřů.",
+            "cat": "chování",
+            "not": []
+          }
+        ],
         "continents": [
           "AS"
         ],
@@ -669955,7 +676065,46 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Siamodon_tooth1.JPG/500px-Siamodon_tooth1.JPG"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q20672152#x0",
+            "text": "Jeho fosílie se našly na severovýchodě Thajska.",
+            "cat": "výskyt",
+            "not": [
+              "Q1256132",
+              "Q12901024",
+              "Q134220",
+              "Q134395",
+              "Q135263",
+              "Q18915213",
+              "Q1936104",
+              "Q2783396",
+              "Q292141",
+              "Q96077702"
+            ]
+          },
+          {
+            "id": "Q20672152#x1",
+            "text": "Tento druh žil v rané křídě, před 125 až 113 miliony let.",
+            "cat": "výskyt",
+            "not": [
+              "Q1055883",
+              "Q107969684",
+              "Q120743561",
+              "Q131595",
+              "Q13410268",
+              "Q134334",
+              "Q135102",
+              "Q14506"
+            ]
+          },
+          {
+            "id": "Q20672152#x2",
+            "text": "Tento druh měl v horní čelisti nejméně 25 zubů.",
+            "cat": "čísla",
+            "not": []
+          }
+        ],
         "continents": [
           "AS"
         ],
@@ -670431,7 +676580,38 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Erliansaurus.jpg/500px-Erliansaurus.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q20717966#x1",
+            "text": "Jeho pozůstatky se našly ve Vnitřním Mongolsku v Číně.",
+            "cat": "výskyt",
+            "not": [
+              "Q1031486",
+              "Q131634",
+              "Q131644",
+              "Q136860",
+              "Q311281",
+              "Q64836111",
+              "Q7622223",
+              "Q91930067"
+            ]
+          },
+          {
+            "id": "Q20717966#x3",
+            "text": "Dospělí jedinci podle odhadu měřili asi 4 metry.",
+            "cat": "čísla",
+            "not": [
+              "Q130902",
+              "Q131302",
+              "Q131540",
+              "Q131750",
+              "Q134623",
+              "Q134814",
+              "Q27145711",
+              "Q271710"
+            ]
+          }
+        ],
         "continents": [
           "AS"
         ],
@@ -670566,7 +676746,66 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Hagryphus_giganteus_-_Natural_History_Museum_of_Utah_-_DSC07248.JPG/500px-Hagryphus_giganteus_-_Natural_History_Museum_of_Utah_-_DSC07248.JPG"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q20718358#x0",
+            "text": "Tento druh žil na konci křídy, před asi 75 miliony let.",
+            "cat": "výskyt",
+            "not": [
+              "Q1067635",
+              "Q131166",
+              "Q132927",
+              "Q133152",
+              "Q133349",
+              "Q634119"
+            ]
+          },
+          {
+            "id": "Q20718358#x1",
+            "text": "Tento druh byl dlouhý asi 3 metry.",
+            "cat": "čísla",
+            "not": [
+              "Q1067635",
+              "Q124605213",
+              "Q132291",
+              "Q132927",
+              "Q133158",
+              "Q2944495",
+              "Q634119"
+            ]
+          },
+          {
+            "id": "Q20718358#x2",
+            "text": "Jeho fosílie se našla na jihu Utahu.",
+            "cat": "výskyt",
+            "not": [
+              "Q1031486",
+              "Q131634",
+              "Q131644",
+              "Q132558",
+              "Q134103",
+              "Q136860",
+              "Q17363721",
+              "Q311281",
+              "Q64836111",
+              "Q91930067"
+            ]
+          },
+          {
+            "id": "Q20718358#x3",
+            "text": "Tento druh sdílel prostředí s tyranosauridy.",
+            "cat": "vztahy",
+            "not": [
+              "Q1031486",
+              "Q131644",
+              "Q136860",
+              "Q137581",
+              "Q17363721",
+              "Q311281",
+              "Q64836111"
+            ]
+          }
+        ],
         "continents": [
           "NA"
         ],
@@ -671068,7 +677307,43 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Caloprymnus.jpg/500px-Caloprymnus.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q209696#x1",
+            "text": "Tento druh stavěl hnízda v mělkých prohlubních v zemi.",
+            "cat": "chování",
+            "not": []
+          },
+          {
+            "id": "Q209696#x2",
+            "text": "Tento druh byl převážně býložravý, ale jedl i brouky.",
+            "cat": "potrava",
+            "not": [
+              "Q134618",
+              "Q311712",
+              "Q391032",
+              "Q685786"
+            ]
+          },
+          {
+            "id": "Q209696#x4",
+            "text": "Za jeho vyhynutí se viní lišky a zdivočelé kočky.",
+            "cat": "vymření",
+            "not": [
+              "Q131085",
+              "Q134618",
+              "Q16934814",
+              "Q311712",
+              "Q391032"
+            ]
+          },
+          {
+            "id": "Q209696#x5",
+            "text": "Tento druh trávil den v hnízdě a ven vycházel za soumraku.",
+            "cat": "chování",
+            "not": []
+          }
+        ],
         "continents": [
           "OC"
         ],
@@ -671174,7 +677449,65 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Denversaurus_FukuiJH.jpg/500px-Denversaurus_FukuiJH.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q21012043#x0",
+            "text": "Tento druh žil na konci křídy v západní části Severní Ameriky.",
+            "cat": "výskyt",
+            "not": [
+              "Q120743561",
+              "Q133133",
+              "Q133183",
+              "Q135102",
+              "Q17414109"
+            ]
+          },
+          {
+            "id": "Q21012043#x1",
+            "text": "Tento druh dosahoval podle odhadu délky asi 6 metrů.",
+            "cat": "čísla",
+            "not": [
+              "Q109887670",
+              "Q131602",
+              "Q132820",
+              "Q132966",
+              "Q134104",
+              "Q862601"
+            ]
+          },
+          {
+            "id": "Q21012043#x2",
+            "text": "Tento druh vážil podle odhadu asi 3 tuny.",
+            "cat": "čísla",
+            "not": [
+              "Q131435",
+              "Q138061",
+              "Q626336"
+            ]
+          },
+          {
+            "id": "Q21012043#x4",
+            "text": "Jeho fosílie se našly v Jižní Dakotě.",
+            "cat": "výskyt",
+            "not": [
+              "Q1256132",
+              "Q134220",
+              "Q134395",
+              "Q135263",
+              "Q18915213",
+              "Q1936104",
+              "Q2783396",
+              "Q292141",
+              "Q96077702"
+            ]
+          },
+          {
+            "id": "Q21012043#x5",
+            "text": "Tento druh žil v teplém, vlhkém a bažinatém prostředí.",
+            "cat": "výskyt",
+            "not": []
+          }
+        ],
         "continents": [
           "NA"
         ],
@@ -671467,7 +677800,60 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Podokesaurus_restoration.jpg/500px-Podokesaurus_restoration.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q21446516#x0",
+            "text": "Tento druh žil ve východní části dnešních USA v rané juře.",
+            "cat": "výskyt",
+            "not": [
+              "Q131211",
+              "Q131331",
+              "Q132602",
+              "Q133070",
+              "Q137252",
+              "Q15144358",
+              "Q18510922",
+              "Q20672342",
+              "Q22811125",
+              "Q754604"
+            ]
+          },
+          {
+            "id": "Q21446516#x1",
+            "text": "Tento druh měl lehkou stavbu těla a duté kosti.",
+            "cat": "vzhled",
+            "not": [
+              "Q2696795"
+            ]
+          },
+          {
+            "id": "Q21446516#x3",
+            "text": "Tento druh byl pravděpodobně rychlý predátor s chápavýma rukama.",
+            "cat": "potrava",
+            "not": [
+              "Q131241",
+              "Q133675"
+            ]
+          },
+          {
+            "id": "Q21446516#x5",
+            "text": "Tento druh je od roku 2022 státním dinosaurem Massachusetts.",
+            "cat": "výskyt",
+            "not": [
+              "Q107685",
+              "Q131174",
+              "Q131235",
+              "Q131537",
+              "Q131648",
+              "Q136872",
+              "Q137294",
+              "Q46995838",
+              "Q4703562",
+              "Q57273328",
+              "Q761582"
+            ]
+          }
+        ],
         "continents": [
           "NA"
         ],
@@ -671496,7 +677882,32 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Protocetus_BW.jpg/500px-Protocetus_BW.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q21446751#x0",
+            "text": "Tento druh žil ve středním eocénu před zhruba 45 miliony let.",
+            "cat": "výskyt",
+            "not": [
+              "Q125026545",
+              "Q132517",
+              "Q134357",
+              "Q16882783",
+              "Q168903",
+              "Q192272",
+              "Q20035817",
+              "Q3621452",
+              "Q5065309"
+            ]
+          },
+          {
+            "id": "Q21446751#x1",
+            "text": "Jeho fosílie se našly poblíž Káhiry v Egyptě.",
+            "cat": "výskyt",
+            "not": [
+              "Q310503"
+            ]
+          }
+        ],
         "continents": [
           "AF"
         ],
@@ -671641,7 +678052,25 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Acanthoceras_cenomanense_01.jpg/500px-Acanthoceras_cenomanense_01.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q2158843#x1",
+            "text": "Žebra na schránce možná pomáhala snášet vysoký tlak v hlubších vodách.",
+            "cat": "vzhled",
+            "not": [
+              "Q131424",
+              "Q131700",
+              "Q133025",
+              "Q133169",
+              "Q134934",
+              "Q140746",
+              "Q1892017",
+              "Q309975",
+              "Q790609",
+              "Q895480"
+            ]
+          }
+        ],
         "continents": [
           "EU",
           "AS",
@@ -671708,7 +678137,33 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Ischioceratops_flipped.jpg/500px-Ischioceratops_flipped.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q21871534#x0",
+            "text": "Tento druh žil v období křídy na území dnešní Číny.",
+            "cat": "výskyt",
+            "not": [
+              "Q133498"
+            ]
+          },
+          {
+            "id": "Q21871534#x3",
+            "text": "Tento druh se pohyboval po zemi na čtyřech končetinách.",
+            "cat": "chování",
+            "not": []
+          },
+          {
+            "id": "Q21871534#x5",
+            "text": "Z tohoto druhu se nenašla lebka.",
+            "cat": "vzhled",
+            "not": [
+              "Q131256",
+              "Q132604",
+              "Q133109",
+              "Q134392"
+            ]
+          }
+        ],
         "continents": [
           "AS"
         ],
@@ -671844,7 +678299,23 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Boreonykus_LM.jpg/500px-Boreonykus_LM.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q21977554#x3",
+            "text": "Jeho jméno znamená severní dráp.",
+            "cat": "vzhled",
+            "not": [
+              "Q102349764",
+              "Q131400",
+              "Q14410",
+              "Q15972921",
+              "Q21266789",
+              "Q2696795",
+              "Q309392",
+              "Q888114"
+            ]
+          }
+        ],
         "continents": [
           "NA"
         ],
@@ -672245,7 +678716,54 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Saurichthys_%28Mensch_%26_Natur-Museum%2C_M%C3%BCnchen%29.jpg/500px-Saurichthys_%28Mensch_%26_Natur-Museum%2C_M%C3%BCnchen%29.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q2267091#x0",
+            "text": "Tento druh žil v mořích i ve sladké vodě.",
+            "cat": "výskyt",
+            "not": [
+              "Q131319",
+              "Q132762",
+              "Q132813",
+              "Q133889",
+              "Q1933219",
+              "Q290346",
+              "Q3499325",
+              "Q73556",
+              "Q907896"
+            ]
+          },
+          {
+            "id": "Q2267091#x1",
+            "text": "Jeho fosílie se našly na všech kontinentech kromě Jižní Ameriky a Antarktidy.",
+            "cat": "výskyt",
+            "not": [
+              "Q131319",
+              "Q132813",
+              "Q133889",
+              "Q134636",
+              "Q1933219",
+              "Q290346",
+              "Q3499325",
+              "Q73556",
+              "Q907896"
+            ]
+          },
+          {
+            "id": "Q2267091#x2",
+            "text": "Čelisti tvořily třetinu délky těla.",
+            "cat": "čísla",
+            "not": [
+              "Q131319",
+              "Q132762",
+              "Q132813",
+              "Q133889",
+              "Q290346",
+              "Q73556",
+              "Q907896"
+            ]
+          }
+        ],
         "continents": [
           "EU",
           "AS",
@@ -672376,7 +678894,29 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Acinonyx_pardinensis_1.JPG/500px-Acinonyx_pardinensis_1.JPG"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q2272925#x0",
+            "text": "Tento druh vážil zhruba 60 až 121 kilogramů.",
+            "cat": "čísla",
+            "not": [
+              "Q2675629",
+              "Q3661310",
+              "Q583627"
+            ]
+          },
+          {
+            "id": "Q2272925#x3",
+            "text": "Tento druh žil v Evropě po boku hyen a šavlozubých koček.",
+            "cat": "vztahy",
+            "not": [
+              "Q131076",
+              "Q132569",
+              "Q205935",
+              "Q583627"
+            ]
+          }
+        ],
         "continents": [
           "EU",
           "AS"
@@ -672400,7 +678940,60 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Discos2.jpg/500px-Discos2.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q2279031#x0",
+            "text": "Tento druh žil ve střední a západní Evropě na konci karbonu a v raném permu.",
+            "cat": "výskyt",
+            "not": [
+              "Q1042042",
+              "Q134236",
+              "Q136358533",
+              "Q14326",
+              "Q1705998",
+              "Q20718369",
+              "Q2407305",
+              "Q35626945",
+              "Q591610"
+            ]
+          },
+          {
+            "id": "Q2279031#x1",
+            "text": "Jeho nejlepší fosilie se našly v České republice.",
+            "cat": "výskyt",
+            "not": [
+              "Q1042042",
+              "Q134236",
+              "Q136358533",
+              "Q14326",
+              "Q1705998",
+              "Q20718369",
+              "Q2407305",
+              "Q3011777",
+              "Q35626945",
+              "Q591610"
+            ]
+          },
+          {
+            "id": "Q2279031#x2",
+            "text": "Tento druh měl široké čelisti s ostrými zuby a krátké končetiny.",
+            "cat": "vzhled",
+            "not": [
+              "Q20718369"
+            ]
+          },
+          {
+            "id": "Q2279031#x3",
+            "text": "Tělo pokrývaly zaoblené šupiny se soustřednými kroužky.",
+            "cat": "vzhled",
+            "not": [
+              "Q1042042",
+              "Q20718369",
+              "Q3011777",
+              "Q35626945"
+            ]
+          }
+        ],
         "continents": [
           "EU"
         ],
@@ -672897,7 +679490,56 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Brontornis_burmeisteri_life_reconstruction.jpg/500px-Brontornis_burmeisteri_life_reconstruction.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q2339690#x0",
+            "text": "Tento druh žil v Argentině v období miocénu.",
+            "cat": "výskyt",
+            "not": [
+              "Q1164873",
+              "Q130902",
+              "Q131302",
+              "Q131750",
+              "Q134623",
+              "Q134814",
+              "Q1878170",
+              "Q2345315",
+              "Q27145711",
+              "Q271710"
+            ]
+          },
+          {
+            "id": "Q2339690#x2",
+            "text": "Tento druh vážil podle odhadů 350 až 400 kilogramů.",
+            "cat": "čísla",
+            "not": [
+              "Q131102",
+              "Q131264",
+              "Q131467",
+              "Q131636",
+              "Q14947755",
+              "Q20675442",
+              "Q2629075",
+              "Q675014"
+            ]
+          },
+          {
+            "id": "Q2339690#x3",
+            "text": "Tento druh se podle některých vědců živil rostlinami.",
+            "cat": "potrava",
+            "not": [
+              "Q132521",
+              "Q20670696",
+              "Q79018071"
+            ]
+          },
+          {
+            "id": "Q2339690#x4",
+            "text": "Tento druh žil pravděpodobně v otevřené krajině.",
+            "cat": "výskyt",
+            "not": []
+          }
+        ],
         "continents": [
           "SA"
         ],
@@ -672982,7 +679624,29 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Procariama.jpg/500px-Procariama.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q2361775#x0",
+            "text": "Tento druh dosahoval výšky asi 70 centimetrů a hmotnosti 10 kilogramů.",
+            "cat": "čísla",
+            "not": [
+              "Q133129",
+              "Q2706540",
+              "Q747851",
+              "Q760382"
+            ]
+          },
+          {
+            "id": "Q2361775#x1",
+            "text": "Jeho fosílie se našly v Argentině.",
+            "cat": "výskyt",
+            "not": [
+              "Q18617035",
+              "Q2706540",
+              "Q747851"
+            ]
+          }
+        ],
         "continents": [
           "SA"
         ],
@@ -673095,7 +679759,35 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Australopithecus_africanus_-_Cast_of_taung_child.jpg/500px-Australopithecus_africanus_-_Cast_of_taung_child.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q239272#x1",
+            "text": "Tento druh měl velmi proměnlivou potravu.",
+            "cat": "potrava",
+            "not": [
+              "Q690567"
+            ]
+          },
+          {
+            "id": "Q239272#x5",
+            "text": "Objem mozku byl asi 420 až 510 cm³.",
+            "cat": "čísla",
+            "not": [
+              "Q1191111",
+              "Q130880",
+              "Q131676",
+              "Q189193",
+              "Q18972",
+              "Q192383",
+              "Q20717740",
+              "Q2591525",
+              "Q3278562",
+              "Q37395",
+              "Q50928574",
+              "Q690567"
+            ]
+          }
+        ],
         "continents": [
           "AF"
         ],
@@ -673157,7 +679849,20 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Adeopapposaurus_mognai.jpg/500px-Adeopapposaurus_mognai.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q24039152#x1",
+            "text": "Tento druh měl pravděpodobně rohovinový zobák.",
+            "cat": "vzhled",
+            "not": [
+              "Q134771",
+              "Q18325158",
+              "Q2029022",
+              "Q2576461",
+              "Q751087"
+            ]
+          }
+        ],
         "continents": [
           "SA"
         ],
@@ -673273,7 +679978,24 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Condorraptor.jpg/500px-Condorraptor.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q2415707#x1",
+            "text": "Jeho fosílie se našly v Argentině.",
+            "cat": "výskyt",
+            "not": [
+              "Q131481",
+              "Q132547",
+              "Q134151",
+              "Q134308",
+              "Q136254",
+              "Q139919",
+              "Q2417324",
+              "Q285364",
+              "Q67103336"
+            ]
+          }
+        ],
         "continents": [
           "SA"
         ],
@@ -673446,7 +680168,45 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/American_lion_skull_bronze_0015.JPG/500px-American_lion_skull_bronze_0015.JPG"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q242358#x1",
+            "text": "Jeho kořistí byli pravděpodobně mamuti, koně, velbloudi a bizoni.",
+            "cat": "potrava",
+            "not": [
+              "Q130880",
+              "Q131021",
+              "Q131039",
+              "Q131067",
+              "Q131568",
+              "Q14397",
+              "Q18510948",
+              "Q18511009",
+              "Q189193",
+              "Q18972",
+              "Q37395",
+              "Q40752",
+              "Q731948",
+              "Q840036",
+              "Q871939"
+            ]
+          },
+          {
+            "id": "Q242358#x4",
+            "text": "Tento druh byl možná denní predátor.",
+            "cat": "chování",
+            "not": [
+              "Q130980",
+              "Q131078",
+              "Q131583",
+              "Q14326",
+              "Q14330",
+              "Q14384",
+              "Q1698713",
+              "Q376401"
+            ]
+          }
+        ],
         "continents": [
           "NA",
           "SA"
@@ -673488,7 +680248,73 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Pteranodon_amnh_martyniuk.jpg/500px-Pteranodon_amnh_martyniuk.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q245060#x0",
+            "text": "Tento druh žil v období svrchní křídy v Severní Americe.",
+            "cat": "výskyt",
+            "not": [
+              "Q1098279",
+              "Q131776",
+              "Q132573",
+              "Q132958",
+              "Q133000",
+              "Q191339",
+              "Q2888784",
+              "Q310531",
+              "Q311212",
+              "Q31650",
+              "Q600172"
+            ]
+          },
+          {
+            "id": "Q245060#x1",
+            "text": "Vědci znají asi 1200 jeho fosilních exemplářů.",
+            "cat": "čísla",
+            "not": [
+              "Q130988",
+              "Q131038",
+              "Q131056",
+              "Q310535"
+            ]
+          },
+          {
+            "id": "Q245060#x2",
+            "text": "Tento druh měl bezzubý zobák podobný ptačímu.",
+            "cat": "vzhled",
+            "not": [
+              "Q1098279",
+              "Q131006",
+              "Q131776",
+              "Q133000",
+              "Q192383",
+              "Q222191",
+              "Q2888784",
+              "Q309392",
+              "Q310387",
+              "Q310503",
+              "Q600172",
+              "Q857081"
+            ]
+          },
+          {
+            "id": "Q245060#x5",
+            "text": "Tento druh lovil nad mořem různé mořské živočichy.",
+            "cat": "potrava",
+            "not": [
+              "Q123102",
+              "Q130988",
+              "Q131038",
+              "Q131056",
+              "Q131094",
+              "Q14506",
+              "Q168903",
+              "Q242358",
+              "Q285008",
+              "Q310535"
+            ]
+          }
+        ],
         "continents": [
           "EU",
           "NA"
@@ -674136,7 +680962,26 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Columba_versicolor_1832.jpg/500px-Columba_versicolor_1832.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q249370#x0",
+            "text": "Tento druh vyhynul koncem 19. století kvůli odlesňování a zavlečeným krysám a kočkám.",
+            "cat": "vymření",
+            "not": [
+              "Q131205",
+              "Q131379",
+              "Q170121",
+              "Q2272925",
+              "Q60778"
+            ]
+          },
+          {
+            "id": "Q249370#x1",
+            "text": "Jeho vejce ohrožovaly vrány a další přirození predátoři.",
+            "cat": "vztahy",
+            "not": []
+          }
+        ],
         "continents": [
           "AS"
         ],
@@ -674215,7 +681060,30 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Titanoides_primaevus.jpg/500px-Titanoides_primaevus.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q2520880#x1",
+            "text": "Tento druh byl podle tvaru zubů nejspíš býložravec.",
+            "cat": "potrava",
+            "not": [
+              "Q134297",
+              "Q149083",
+              "Q3234485",
+              "Q524436"
+            ]
+          },
+          {
+            "id": "Q2520880#x3",
+            "text": "Tento druh vážil až 150 kilogramů.",
+            "cat": "čísla",
+            "not": [
+              "Q149083",
+              "Q17581455",
+              "Q388417",
+              "Q791059"
+            ]
+          }
+        ],
         "continents": [
           "NA"
         ],
@@ -674338,7 +681206,49 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Styxosaurus_BW.jpg/500px-Styxosaurus_BW.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q2555300#x0",
+            "text": "Tento druh se pravděpodobně živil belemnity, rybami a kalmary.",
+            "cat": "potrava",
+            "not": [
+              "Q133129",
+              "Q133538344"
+            ]
+          },
+          {
+            "id": "Q2555300#x4",
+            "text": "Jeho fosílie se našly v Severní Americe.",
+            "cat": "výskyt",
+            "not": [
+              "Q110983876",
+              "Q113549840",
+              "Q131153",
+              "Q133129",
+              "Q133538344",
+              "Q18585011",
+              "Q19887815",
+              "Q2462626",
+              "Q2712887",
+              "Q3985451"
+            ]
+          },
+          {
+            "id": "Q2555300#x5",
+            "text": "Tento druh žil v pozdní křídě.",
+            "cat": "výskyt",
+            "not": [
+              "Q110983876",
+              "Q113549840",
+              "Q131153",
+              "Q133129",
+              "Q19887815",
+              "Q2462626",
+              "Q389864",
+              "Q3985451"
+            ]
+          }
+        ],
         "continents": [
           "NA"
         ],
@@ -674391,7 +681301,52 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Dromomeron_BW.jpg/500px-Dromomeron_BW.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q2566615#x0",
+            "text": "Tento druh žil před zhruba 220 až 212 miliony let.",
+            "cat": "výskyt",
+            "not": [
+              "Q131155",
+              "Q132937",
+              "Q133517",
+              "Q1821811",
+              "Q1994612",
+              "Q383329",
+              "Q644544"
+            ]
+          },
+          {
+            "id": "Q2566615#x1",
+            "text": "Jeho zbytky se našly v jihozápadních USA a severozápadní Argentině.",
+            "cat": "výskyt",
+            "not": [
+              "Q1067635",
+              "Q124605213",
+              "Q131166",
+              "Q132927",
+              "Q133152",
+              "Q133158",
+              "Q133349",
+              "Q2944495",
+              "Q634119",
+              "Q7254536"
+            ]
+          },
+          {
+            "id": "Q2566615#x2",
+            "text": "Tento druh měřil na délku asi 1 metr.",
+            "cat": "čísla",
+            "not": [
+              "Q1316954",
+              "Q132521",
+              "Q20670696",
+              "Q26261015",
+              "Q27075012",
+              "Q32859091"
+            ]
+          }
+        ],
         "continents": [
           "NA",
           "SA"
@@ -675142,7 +682097,47 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/USNM_PAL_57487_Sidneyia_inexpectans.jpg/500px-USNM_PAL_57487_Sidneyia_inexpectans.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q2697079#x0",
+            "text": "Tento druh se živil trilobity a ramenonožci.",
+            "cat": "potrava",
+            "not": []
+          },
+          {
+            "id": "Q2697079#x1",
+            "text": "Tento druh žil na mořském dně.",
+            "cat": "chování",
+            "not": [
+              "Q130966",
+              "Q135602",
+              "Q136506586",
+              "Q138106",
+              "Q15137014",
+              "Q205935",
+              "Q20717918",
+              "Q2456661",
+              "Q28031858",
+              "Q44884994"
+            ]
+          },
+          {
+            "id": "Q2697079#x3",
+            "text": "Jeho fosílie se našly v Kanadě a v Číně.",
+            "cat": "výskyt",
+            "not": [
+              "Q1067635",
+              "Q124605213",
+              "Q131166",
+              "Q132291",
+              "Q132927",
+              "Q133152",
+              "Q133158",
+              "Q634119",
+              "Q7254536"
+            ]
+          }
+        ],
         "continents": [
           "NA"
         ],
@@ -675216,7 +682211,76 @@ window.GAME_DATA = [
             "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Juratyrant_signed.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q2701043#x0",
+            "text": "Tento druh žil v pozdní juře na území dnešní Anglie.",
+            "cat": "výskyt",
+            "not": [
+              "Q131481",
+              "Q132547",
+              "Q134151",
+              "Q134308",
+              "Q134629",
+              "Q136254",
+              "Q139919",
+              "Q2417324",
+              "Q2556351",
+              "Q285364",
+              "Q67103336",
+              "Q747009"
+            ]
+          },
+          {
+            "id": "Q2701043#x1",
+            "text": "Jeho kostra se našla roku 1984 v hrabství Dorset.",
+            "cat": "výskyt",
+            "not": [
+              "Q128233",
+              "Q12973051",
+              "Q131561",
+              "Q131690",
+              "Q15632851",
+              "Q1930333",
+              "Q25963034",
+              "Q310520",
+              "Q40752",
+              "Q568269"
+            ]
+          },
+          {
+            "id": "Q2701043#x2",
+            "text": "Jeho fosilie jsou staré asi 149 milionů let.",
+            "cat": "čísla",
+            "not": [
+              "Q1064780",
+              "Q131680",
+              "Q131782",
+              "Q132500",
+              "Q132713",
+              "Q134182",
+              "Q134648",
+              "Q239272",
+              "Q2585658",
+              "Q2713191"
+            ]
+          },
+          {
+            "id": "Q2701043#x3",
+            "text": "Tento druh vážil podle odhadu až 648 kilogramů.",
+            "cat": "čísla",
+            "not": [
+              "Q131102",
+              "Q131264",
+              "Q131467",
+              "Q131636",
+              "Q14947755",
+              "Q20675442",
+              "Q2629075",
+              "Q675014"
+            ]
+          }
+        ],
         "continents": [
           "EU"
         ],
@@ -675245,7 +682309,23 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Atelopus_longirostris_male.jpg/500px-Atelopus_longirostris_male.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q2706540#x0",
+            "text": "Tento druh byl znovu objeven v roce 2016 po více než dvaceti letech bez pozorování.",
+            "cat": "vymření",
+            "not": [
+              "Q132581",
+              "Q134650",
+              "Q15693000",
+              "Q18560048",
+              "Q20728010",
+              "Q2465083",
+              "Q320632",
+              "Q59122796"
+            ]
+          }
+        ],
         "continents": [
           "SA"
         ],
@@ -675567,7 +682647,48 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Hovasaurus_BW.jpg/500px-Hovasaurus_BW.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q2713191#x0",
+            "text": "Tento druh žil na území dnešního Madagaskaru.",
+            "cat": "výskyt",
+            "not": [
+              "Q131400",
+              "Q14410",
+              "Q15972921",
+              "Q21266789",
+              "Q2696795",
+              "Q309392",
+              "Q888114"
+            ]
+          },
+          {
+            "id": "Q2713191#x1",
+            "text": "Tento druh měl ocas tvořící dvě třetiny délky těla.",
+            "cat": "čísla",
+            "not": [
+              "Q131275",
+              "Q2576461"
+            ]
+          },
+          {
+            "id": "Q2713191#x2",
+            "text": "Tento druh měl ocas ze stran zploštělý jako mořští hadi.",
+            "cat": "vzhled",
+            "not": [
+              "Q131331",
+              "Q131786",
+              "Q132602",
+              "Q133070",
+              "Q137252",
+              "Q15144358",
+              "Q18510922",
+              "Q20672342",
+              "Q22811125",
+              "Q754604"
+            ]
+          }
+        ],
         "continents": [
           "AF"
         ],
@@ -675759,7 +682880,48 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Trinisaura2.jpg/500px-Trinisaura2.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q2783396#x0",
+            "text": "Jeho fosílie se našly v Antarktidě na ostrově Jamese Rosse.",
+            "cat": "výskyt",
+            "not": [
+              "Q1055883",
+              "Q107969684",
+              "Q120743561",
+              "Q131595",
+              "Q133133",
+              "Q133183",
+              "Q13410268",
+              "Q134334",
+              "Q135102",
+              "Q14506",
+              "Q17414109"
+            ]
+          },
+          {
+            "id": "Q2783396#x1",
+            "text": "Tento druh žil před asi 73 miliony let.",
+            "cat": "výskyt",
+            "not": [
+              "Q132717",
+              "Q136892",
+              "Q18684887",
+              "Q2158843",
+              "Q55949103"
+            ]
+          },
+          {
+            "id": "Q2783396#x3",
+            "text": "Tento druh byl býložravec.",
+            "cat": "potrava",
+            "not": [
+              "Q130921",
+              "Q139189",
+              "Q2701043"
+            ]
+          }
+        ],
         "continents": [
           "AN"
         ],
@@ -676464,7 +683626,49 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/BMNH_IMG_5509_Asteroceras_sp.jpg/500px-BMNH_IMG_5509_Asteroceras_sp.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q2879606#x1",
+            "text": "Některé druhy z tohoto rodu dorůstaly až 40 centimetrů.",
+            "cat": "čísla",
+            "not": [
+              "Q131424",
+              "Q131700",
+              "Q133025",
+              "Q133169",
+              "Q140746",
+              "Q895480"
+            ]
+          },
+          {
+            "id": "Q2879606#x2",
+            "text": "Tento druh žil v mělkém otevřeném moři nedaleko pobřeží.",
+            "cat": "výskyt",
+            "not": [
+              "Q131424",
+              "Q131700",
+              "Q133025",
+              "Q133169",
+              "Q140746",
+              "Q1892017",
+              "Q790609"
+            ]
+          },
+          {
+            "id": "Q2879606#x3",
+            "text": "Jeho zkameněliny se našly například v Kanadě, Číně, Německu a Peru.",
+            "cat": "výskyt",
+            "not": [
+              "Q131424",
+              "Q131700",
+              "Q133025",
+              "Q133169",
+              "Q1892017",
+              "Q309975",
+              "Q790609"
+            ]
+          }
+        ],
         "continents": [
           "EU"
         ],
@@ -676493,7 +683697,92 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Liopleurodon_ferox_Tubingen_2.JPG/500px-Liopleurodon_ferox_Tubingen_2.JPG"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q287975#x0",
+            "text": "Tento druh číhal na kořist ze zálohy a lovil ryby, hlavonožce a jiné mořské plazy.",
+            "cat": "potrava",
+            "not": [
+              "Q131264",
+              "Q131678",
+              "Q133538344",
+              "Q14388",
+              "Q309466",
+              "Q310529",
+              "Q3699044",
+              "Q528572",
+              "Q971275"
+            ]
+          },
+          {
+            "id": "Q287975#x2",
+            "text": "Lebka tvoří téměř čtvrtinu délky celého těla.",
+            "cat": "čísla",
+            "not": [
+              "Q131021",
+              "Q131067",
+              "Q14397",
+              "Q40752"
+            ]
+          },
+          {
+            "id": "Q287975#x3",
+            "text": "Tento druh dorůstal délky asi 2,5 až 8 metrů.",
+            "cat": "čísla",
+            "not": [
+              "Q192383",
+              "Q19887815",
+              "Q222191",
+              "Q309390",
+              "Q575699"
+            ]
+          },
+          {
+            "id": "Q287975#x4",
+            "text": "Tento druh žil v období jury, asi před 166 až 155 miliony let.",
+            "cat": "výskyt",
+            "not": [
+              "Q130980",
+              "Q131067",
+              "Q131078",
+              "Q131106",
+              "Q131315",
+              "Q131583",
+              "Q14384",
+              "Q14405",
+              "Q1698713",
+              "Q17351700",
+              "Q2555300",
+              "Q27075757",
+              "Q30088293",
+              "Q310520",
+              "Q376401",
+              "Q477223",
+              "Q572528",
+              "Q76411",
+              "Q844868"
+            ]
+          },
+          {
+            "id": "Q287975#x5",
+            "text": "Jeho fosílie se našly hlavně v Evropě, jedna také v Mexiku.",
+            "cat": "výskyt",
+            "not": [
+              "Q131078",
+              "Q133129",
+              "Q133538344",
+              "Q14326",
+              "Q14384",
+              "Q14405",
+              "Q18585011",
+              "Q19887815",
+              "Q2712887",
+              "Q310520",
+              "Q389864",
+              "Q477223"
+            ]
+          }
+        ],
         "continents": [
           "EU"
         ],
@@ -676516,7 +683805,45 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Bowdleria_rufescens_%28AM_LB8541-1%29.jpg/500px-Bowdleria_rufescens_%28AM_LB8541-1%29.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q28819554#x0",
+            "text": "Tento druh se živil hmyzem.",
+            "cat": "potrava",
+            "not": [
+              "Q13098211",
+              "Q132835",
+              "Q134600"
+            ]
+          },
+          {
+            "id": "Q28819554#x1",
+            "text": "K vyhynutí přispěly mimo jiné krysy a divoké kočky.",
+            "cat": "vymření",
+            "not": [
+              "Q13098211",
+              "Q132835",
+              "Q134600",
+              "Q137150"
+            ]
+          },
+          {
+            "id": "Q28819554#x3",
+            "text": "Tento druh dorůstal délky 18 cm.",
+            "cat": "čísla",
+            "not": [
+              "Q13098211",
+              "Q132835",
+              "Q134600",
+              "Q137150",
+              "Q27075774",
+              "Q550316",
+              "Q599569",
+              "Q724978",
+              "Q847140"
+            ]
+          }
+        ],
         "continents": [
           "OC"
         ],
@@ -676745,7 +684072,64 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/DickinsoniaCostata.jpg/500px-DickinsoniaCostata.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q292078#x1",
+            "text": "Tento druh žil v období ediakaru.",
+            "cat": "výskyt",
+            "not": [
+              "Q131155",
+              "Q131446",
+              "Q132857",
+              "Q132937",
+              "Q133517",
+              "Q1821811",
+              "Q1994612",
+              "Q383329",
+              "Q644544"
+            ]
+          },
+          {
+            "id": "Q292078#x2",
+            "text": "Tento druh dorůstal délky i přes metr.",
+            "cat": "čísla",
+            "not": [
+              "Q14947755",
+              "Q20675442"
+            ]
+          },
+          {
+            "id": "Q292078#x3",
+            "text": "Jeho fosilie se našly v Austrálii, Číně, Rusku, Kanadě a na Ukrajině.",
+            "cat": "výskyt",
+            "not": [
+              "Q115813367",
+              "Q131167",
+              "Q131202",
+              "Q131518",
+              "Q131788",
+              "Q133177",
+              "Q133203",
+              "Q14330",
+              "Q16773910"
+            ]
+          },
+          {
+            "id": "Q292078#x5",
+            "text": "Tento druh se podle studie z roku 2022 dočasně přichycoval k mořskému dnu hlenem.",
+            "cat": "chování",
+            "not": [
+              "Q1064780",
+              "Q131680",
+              "Q132500",
+              "Q132713",
+              "Q134182",
+              "Q134648",
+              "Q239272",
+              "Q2585658"
+            ]
+          }
+        ],
         "continents": [
           "EU",
           "AS"
@@ -676823,7 +684207,62 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Cotylorhynchus_romeri.jpg/500px-Cotylorhynchus_romeri.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q292141#x1",
+            "text": "Tento druh žil v dnešním Texasu a Oklahomě.",
+            "cat": "výskyt",
+            "not": [
+              "Q131553",
+              "Q133193",
+              "Q188851",
+              "Q209696",
+              "Q311123",
+              "Q431457",
+              "Q83348502"
+            ]
+          },
+          {
+            "id": "Q292141#x2",
+            "text": "Tento druh žil na konci spodního permu.",
+            "cat": "výskyt",
+            "not": [
+              "Q131553",
+              "Q133193",
+              "Q188851",
+              "Q209696",
+              "Q311123",
+              "Q431457",
+              "Q6536145"
+            ]
+          },
+          {
+            "id": "Q292141#x3",
+            "text": "Největší zástupci tohoto druhu mohli měřit přes 6 metrů.",
+            "cat": "čísla",
+            "not": [
+              "Q133193",
+              "Q188851",
+              "Q209696",
+              "Q311123",
+              "Q431457",
+              "Q6536145",
+              "Q83348502"
+            ]
+          },
+          {
+            "id": "Q292141#x4",
+            "text": "Tento druh měl velmi malou hlavu ve srovnání s tělem.",
+            "cat": "vzhled",
+            "not": []
+          },
+          {
+            "id": "Q292141#x5",
+            "text": "Tento druh měl krátké široké prsty s mohutnými drápy.",
+            "cat": "vzhled",
+            "not": []
+          }
+        ],
         "continents": [
           "NA"
         ],
@@ -676891,7 +684330,38 @@ window.GAME_DATA = [
             "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Yulong_NT.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q2944495#x1",
+            "text": "Jeho fosílie se našly v Číně v provincii Henan.",
+            "cat": "výskyt",
+            "not": [
+              "Q131241",
+              "Q131791",
+              "Q133034",
+              "Q133675",
+              "Q139169",
+              "Q18642358",
+              "Q20718358",
+              "Q3889333",
+              "Q56316452"
+            ]
+          },
+          {
+            "id": "Q2944495#x2",
+            "text": "Většina známých jedinců měla délku těla čtvrt až půl metru.",
+            "cat": "čísla",
+            "not": [
+              "Q130966",
+              "Q135602",
+              "Q136506586",
+              "Q15137014",
+              "Q205935",
+              "Q20717918",
+              "Q2456661"
+            ]
+          }
+        ],
         "continents": [
           "AS"
         ],
@@ -677048,7 +684518,47 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Nodosaur.jpg/500px-Nodosaur.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q29947914#x0",
+            "text": "Kapradiny tvořily velkou část potravy tohoto druhu.",
+            "cat": "potrava",
+            "not": [
+              "Q131056"
+            ]
+          },
+          {
+            "id": "Q29947914#x3",
+            "text": "Tento druh měl zbarvení, které sloužilo k maskování.",
+            "cat": "vzhled",
+            "not": []
+          },
+          {
+            "id": "Q29947914#x4",
+            "text": "Tento druh měřil asi 5,5 metru a vážil 1,3 tuny.",
+            "cat": "čísla",
+            "not": [
+              "Q109887670",
+              "Q132820",
+              "Q134104",
+              "Q862601"
+            ]
+          },
+          {
+            "id": "Q29947914#x5",
+            "text": "Z ramen mu vyčnívaly dlouhé trny podobné býčím rohům.",
+            "cat": "vzhled",
+            "not": [
+              "Q131056",
+              "Q134203",
+              "Q134226",
+              "Q134637",
+              "Q1706548",
+              "Q783455",
+              "Q968771"
+            ]
+          }
+        ],
         "continents": [
           "NA"
         ],
@@ -677417,7 +684927,25 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Obdurodon_dicksoni.JPG/500px-Obdurodon_dicksoni.JPG"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q3087702#x0",
+            "text": "Tento druh žil v Austrálii v období miocénu.",
+            "cat": "výskyt",
+            "not": [
+              "Q131577",
+              "Q137490",
+              "Q145435",
+              "Q18819",
+              "Q20717775",
+              "Q2107235",
+              "Q2335300",
+              "Q528572",
+              "Q7204674",
+              "Q76411"
+            ]
+          }
+        ],
         "continents": [
           "OC"
         ],
@@ -677898,7 +685426,116 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Megatherium_NT_small.jpg/500px-Megatherium_NT_small.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q310387#x0",
+            "text": "Tento druh se živil listy a větvičkami stromů a keřů.",
+            "cat": "potrava",
+            "not": [
+              "Q131006",
+              "Q132647",
+              "Q187484",
+              "Q2377787",
+              "Q309392",
+              "Q310503",
+              "Q575699",
+              "Q857081"
+            ]
+          },
+          {
+            "id": "Q310387#x1",
+            "text": "Tento druh se mohl postavit na zadní nohy a ocas použít jako oporu.",
+            "cat": "chování",
+            "not": [
+              "Q132647",
+              "Q133200",
+              "Q2377787",
+              "Q634550"
+            ]
+          },
+          {
+            "id": "Q310387#x2",
+            "text": "Dospělý jedinec vážil asi čtyři tuny, stejně jako slon indický.",
+            "cat": "čísla",
+            "not": [
+              "Q123102",
+              "Q130988",
+              "Q131056",
+              "Q131094",
+              "Q132647",
+              "Q133200",
+              "Q134380",
+              "Q137429",
+              "Q14506",
+              "Q168903",
+              "Q2377787",
+              "Q245060",
+              "Q2566615",
+              "Q2844148",
+              "Q285008",
+              "Q310535",
+              "Q3301304",
+              "Q3498371",
+              "Q634550"
+            ]
+          },
+          {
+            "id": "Q310387#x3",
+            "text": "Tento druh vyhynul asi před 12 000 lety.",
+            "cat": "vymření",
+            "not": [
+              "Q130980",
+              "Q131078",
+              "Q131583",
+              "Q132647",
+              "Q132769",
+              "Q133200",
+              "Q137429",
+              "Q14326",
+              "Q14330",
+              "Q14384",
+              "Q14405",
+              "Q2377787",
+              "Q2566615",
+              "Q2844148",
+              "Q310520",
+              "Q3301304",
+              "Q3498371",
+              "Q376401",
+              "Q477223",
+              "Q634550",
+              "Q76411"
+            ]
+          },
+          {
+            "id": "Q310387#x5",
+            "text": "Jeho nejbližšími žijícími příbuznými jsou lenochodi tříprstí.",
+            "cat": "vztahy",
+            "not": [
+              "Q130921",
+              "Q131070",
+              "Q131205",
+              "Q132414",
+              "Q132647",
+              "Q132683",
+              "Q132769",
+              "Q133200",
+              "Q133203",
+              "Q134884",
+              "Q14400",
+              "Q14403",
+              "Q191339",
+              "Q2377787",
+              "Q2566615",
+              "Q2844148",
+              "Q310531",
+              "Q311212",
+              "Q3301304",
+              "Q3498371",
+              "Q634550"
+            ]
+          }
+        ],
         "continents": [
           "NA",
           "SA"
@@ -677928,7 +685565,31 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Gigantopithecus_blacki_restoration.jpg/500px-Gigantopithecus_blacki_restoration.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q310434#x3",
+            "text": "Tento druh žil ve střední a jižní Číně.",
+            "cat": "výskyt",
+            "not": [
+              "Q1191111",
+              "Q130921",
+              "Q131205",
+              "Q131676",
+              "Q132414",
+              "Q132683",
+              "Q133203",
+              "Q133856",
+              "Q134884",
+              "Q14400",
+              "Q191339",
+              "Q192383",
+              "Q20717740",
+              "Q310517",
+              "Q310531",
+              "Q50928574"
+            ]
+          }
+        ],
         "continents": [
           "AS"
         ],
@@ -678424,7 +686085,70 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Struthiomimus.JPG/500px-Struthiomimus.JPG"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q310535#x0",
+            "text": "Tento druh uměl podle odhadů běžet rychlostí 50 až 80 km/h.",
+            "cat": "čísla",
+            "not": [
+              "Q131302",
+              "Q134814",
+              "Q134884",
+              "Q27145711"
+            ]
+          },
+          {
+            "id": "Q310535#x2",
+            "text": "Tento druh žil ve stejné době jako dromeosauridi a tyranosauři.",
+            "cat": "vztahy",
+            "not": [
+              "Q131039",
+              "Q1316954",
+              "Q138638",
+              "Q188717",
+              "Q189193",
+              "Q18972",
+              "Q27075012",
+              "Q37395"
+            ]
+          },
+          {
+            "id": "Q310535#x4",
+            "text": "Tento druh dosahoval délky asi 4,3 metru.",
+            "cat": "čísla",
+            "not": [
+              "Q130921",
+              "Q131070",
+              "Q131481",
+              "Q132414",
+              "Q132547",
+              "Q132683",
+              "Q134884",
+              "Q136254",
+              "Q139919",
+              "Q14400",
+              "Q14403",
+              "Q2417324",
+              "Q285364",
+              "Q310531",
+              "Q311212",
+              "Q747009"
+            ]
+          },
+          {
+            "id": "Q310535#x5",
+            "text": "Tento druh žil v období pozdní křídy na západě Severní Ameriky.",
+            "cat": "výskyt",
+            "not": [
+              "Q130880",
+              "Q138638",
+              "Q189193",
+              "Q18972",
+              "Q20670696",
+              "Q32859091"
+            ]
+          }
+        ],
         "continents": [
           "NA"
         ],
@@ -678453,7 +686177,89 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Microraptor_gui_%28dinos%29.jpg/500px-Microraptor_gui_%28dinos%29.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q310537#x1",
+            "text": "Jeho fosilie se našly v Číně, v provincii Liao-ning.",
+            "cat": "výskyt",
+            "not": [
+              "Q130869",
+              "Q132713",
+              "Q134182",
+              "Q134648",
+              "Q205935",
+              "Q239272",
+              "Q2585658",
+              "Q2713191",
+              "Q310517",
+              "Q3222766",
+              "Q40751",
+              "Q43502",
+              "Q629204",
+              "Q646994"
+            ]
+          },
+          {
+            "id": "Q310537#x2",
+            "text": "Tento druh měl čtyři křídla, na předních i zadních končetinách.",
+            "cat": "vzhled",
+            "not": [
+              "Q1031486",
+              "Q131634",
+              "Q131644",
+              "Q132558",
+              "Q134103",
+              "Q136860",
+              "Q137581",
+              "Q311281",
+              "Q64836111",
+              "Q7622223",
+              "Q91930067"
+            ]
+          },
+          {
+            "id": "Q310537#x3",
+            "text": "Jeho kořistí byli podle fosilních zbytků potravy malí savci, ptáci a ryby.",
+            "cat": "potrava",
+            "not": [
+              "Q131038",
+              "Q131094",
+              "Q133203",
+              "Q14330",
+              "Q14506",
+              "Q168903"
+            ]
+          },
+          {
+            "id": "Q310537#x4",
+            "text": "Jeho peří bylo pravděpodobně černé a duhově lesklé.",
+            "cat": "vzhled",
+            "not": []
+          },
+          {
+            "id": "Q310537#x5",
+            "text": "Jeho délka byla asi jeden metr a hmotnost asi jeden kilogram.",
+            "cat": "čísla",
+            "not": [
+              "Q130902",
+              "Q130966",
+              "Q131046",
+              "Q131695",
+              "Q1316954",
+              "Q132521",
+              "Q14455",
+              "Q188949",
+              "Q203583",
+              "Q20670696",
+              "Q242358",
+              "Q26261015",
+              "Q27075012",
+              "Q271710",
+              "Q312054",
+              "Q32859091"
+            ]
+          }
+        ],
         "continents": [
           "AS"
         ],
@@ -678810,7 +686616,32 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Mammuthus_sungari.jpg/500px-Mammuthus_sungari.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q311260#x0",
+            "text": "Tento druh žil v pleistocénu v severní Číně.",
+            "cat": "výskyt",
+            "not": [
+              "Q131232",
+              "Q132789",
+              "Q134159",
+              "Q2789205"
+            ]
+          },
+          {
+            "id": "Q311260#x1",
+            "text": "Jeho kosti se našly v uhelném dole ve Vnitřním Mongolsku.",
+            "cat": "výskyt",
+            "not": [
+              "Q131232",
+              "Q132789",
+              "Q134159",
+              "Q2789205",
+              "Q693352",
+              "Q727783"
+            ]
+          }
+        ],
         "continents": [
           "AS"
         ],
@@ -679317,7 +687148,80 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Mosasaurus_beaugei1DB.jpg/500px-Mosasaurus_beaugei1DB.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q312131#x0",
+            "text": "Tento druh se podle paleontologů živil kostnatými rybami, žraloky, hlavonožci, ptáky a mořskými plazy.",
+            "cat": "potrava",
+            "not": [
+              "Q130980",
+              "Q131078",
+              "Q131583",
+              "Q141496",
+              "Q14326",
+              "Q14330",
+              "Q14384",
+              "Q146475",
+              "Q1698713",
+              "Q320632",
+              "Q376401",
+              "Q87488035"
+            ]
+          },
+          {
+            "id": "Q312131#x1",
+            "text": "Tento druh stál na vrcholu potravního řetězce.",
+            "cat": "chování",
+            "not": [
+              "Q131046",
+              "Q131695",
+              "Q141496",
+              "Q14455",
+              "Q146475",
+              "Q188949",
+              "Q203583",
+              "Q312054",
+              "Q320632",
+              "Q87488035"
+            ]
+          },
+          {
+            "id": "Q312131#x2",
+            "text": "Tento druh měl výborný zrak, který vynahrazoval slabý čich.",
+            "cat": "vzhled",
+            "not": []
+          },
+          {
+            "id": "Q312131#x4",
+            "text": "Tento druh žil před 82 až 66 miliony let, v pozdní křídě.",
+            "cat": "výskyt",
+            "not": [
+              "Q131481",
+              "Q131678",
+              "Q141496",
+              "Q14388",
+              "Q146475",
+              "Q291861",
+              "Q310529",
+              "Q320632",
+              "Q3699044",
+              "Q496689",
+              "Q528572",
+              "Q971275"
+            ]
+          },
+          {
+            "id": "Q312131#x5",
+            "text": "Jeho fosilie se našly v Severní a Jižní Americe, Evropě, Africe, západní Asii a Antarktidě.",
+            "cat": "výskyt",
+            "not": [
+              "Q131264",
+              "Q141496",
+              "Q2491",
+              "Q87488035"
+            ]
+          }
+        ],
         "continents": [
           "EU",
           "NA"
@@ -679768,7 +687672,51 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Armadillosuchus.jpg/500px-Armadillosuchus.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q3238343#x0",
+            "text": "Tento druh byl pravděpodobně všežravý a živil se bezobratlými a rostlinami.",
+            "cat": "potrava",
+            "not": []
+          },
+          {
+            "id": "Q3238343#x1",
+            "text": "Tento druh měl pancíř z malých kostěných destiček.",
+            "cat": "vzhled",
+            "not": [
+              "Q132547",
+              "Q134151",
+              "Q134308",
+              "Q134629",
+              "Q136254",
+              "Q139919",
+              "Q2417324",
+              "Q2556351",
+              "Q747009"
+            ]
+          },
+          {
+            "id": "Q3238343#x3",
+            "text": "Jeho fosílie z doby před asi 70 miliony let se našly v Brazílii.",
+            "cat": "výskyt",
+            "not": [
+              "Q1064780",
+              "Q131680",
+              "Q131782",
+              "Q132713",
+              "Q134182",
+              "Q239272",
+              "Q2585658",
+              "Q2713191"
+            ]
+          },
+          {
+            "id": "Q3238343#x5",
+            "text": "Tento druh se možná vyhříval na slunci a před přehřátím se skrýval v norách.",
+            "cat": "chování",
+            "not": []
+          }
+        ],
         "continents": [
           "SA"
         ],
@@ -679878,7 +687826,68 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Guizhouichthyosaurus_tangae.jpg/500px-Guizhouichthyosaurus_tangae.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q3281334#x0",
+            "text": "Tento druh byl vrcholovým predátorem.",
+            "cat": "potrava",
+            "not": [
+              "Q131096",
+              "Q131336",
+              "Q131565",
+              "Q131652",
+              "Q131773",
+              "Q132683",
+              "Q134753",
+              "Q142971",
+              "Q1587161",
+              "Q947572",
+              "Q988142"
+            ]
+          },
+          {
+            "id": "Q3281334#x1",
+            "text": "Tento druh požíral i jiné velké mořské plazy.",
+            "cat": "potrava",
+            "not": [
+              "Q131096",
+              "Q131336",
+              "Q131565",
+              "Q131652",
+              "Q131773",
+              "Q132683",
+              "Q134753",
+              "Q142971",
+              "Q1587161",
+              "Q947572",
+              "Q988142"
+            ]
+          },
+          {
+            "id": "Q3281334#x3",
+            "text": "Tento druh měřil obvykle kolem pěti metrů.",
+            "cat": "čísla",
+            "not": [
+              "Q131096",
+              "Q131336",
+              "Q131565",
+              "Q132554",
+              "Q132683",
+              "Q134753",
+              "Q1587161",
+              "Q947572"
+            ]
+          },
+          {
+            "id": "Q3281334#x4",
+            "text": "Tento druh měl malé zuby s hladkými hranami.",
+            "cat": "vzhled",
+            "not": [
+              "Q1587161",
+              "Q947572"
+            ]
+          }
+        ],
         "continents": [
           "AS"
         ],
@@ -680004,7 +688013,43 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Rhoetosaurus_Leg.jpg/500px-Rhoetosaurus_Leg.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q333524#x0",
+            "text": "Tento druh se živil rostlinami, možná jehličnany nebo semennými kapradinami.",
+            "cat": "potrava",
+            "not": [
+              "Q131673",
+              "Q134319",
+              "Q150218",
+              "Q1705935"
+            ]
+          },
+          {
+            "id": "Q333524#x2",
+            "text": "Jeho fosílie se našly ve východní Austrálii.",
+            "cat": "výskyt",
+            "not": [
+              "Q107685",
+              "Q131174",
+              "Q131235",
+              "Q131537",
+              "Q131648",
+              "Q136872",
+              "Q137294",
+              "Q46995838",
+              "Q4703562",
+              "Q57273328",
+              "Q761582"
+            ]
+          },
+          {
+            "id": "Q333524#x3",
+            "text": "Tento druh měl na noze čtyři drápy.",
+            "cat": "vzhled",
+            "not": []
+          }
+        ],
         "continents": [
           "OC"
         ],
@@ -680152,7 +688197,63 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Hadrosaure.jpg/500px-Hadrosaure.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q3493376#x1",
+            "text": "Tento druh byl býložravec, který se pohyboval po dvou i po čtyřech.",
+            "cat": "potrava",
+            "not": []
+          },
+          {
+            "id": "Q3493376#x2",
+            "text": "Tento druh patřil mezi poslední neptačí dinosaury, kteří vyhynuli na konci křídy.",
+            "cat": "vymření",
+            "not": [
+              "Q133498",
+              "Q134299",
+              "Q135922217",
+              "Q203583",
+              "Q516014",
+              "Q57745610"
+            ]
+          },
+          {
+            "id": "Q3493376#x3",
+            "text": "Jeho první pozůstatky se našly ve Španělsku v Pyrenejích.",
+            "cat": "výskyt",
+            "not": [
+              "Q108751474",
+              "Q131247",
+              "Q131435",
+              "Q138061",
+              "Q20672152",
+              "Q22067785",
+              "Q2272018",
+              "Q626336"
+            ]
+          },
+          {
+            "id": "Q3493376#x4",
+            "text": "Tento druh žil před 67 až 66 miliony let.",
+            "cat": "výskyt",
+            "not": [
+              "Q131732",
+              "Q132191",
+              "Q18510952",
+              "Q2986383",
+              "Q3087702"
+            ]
+          },
+          {
+            "id": "Q3493376#x5",
+            "text": "Tento druh žil na ostrově.",
+            "cat": "výskyt",
+            "not": [
+              "Q131732",
+              "Q132470"
+            ]
+          }
+        ],
         "continents": [
           "EU"
         ],
@@ -680210,7 +688311,71 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Saltoposuchus_BW.jpg/500px-Saltoposuchus_BW.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q3499325#x1",
+            "text": "Jeho fosilie se našly v Německu.",
+            "cat": "výskyt",
+            "not": [
+              "Q132822",
+              "Q133137",
+              "Q1827222",
+              "Q3083026",
+              "Q310529",
+              "Q310938",
+              "Q899506"
+            ]
+          },
+          {
+            "id": "Q3499325#x2",
+            "text": "Tento druh měl podél hřbetu dvojitou řadu kostěných štítků.",
+            "cat": "vzhled",
+            "not": [
+              "Q1164873",
+              "Q131302",
+              "Q131750",
+              "Q134623",
+              "Q2345315",
+              "Q271710"
+            ]
+          },
+          {
+            "id": "Q3499325#x3",
+            "text": "Tento druh byl pravděpodobně rychlý a hbitý.",
+            "cat": "chování",
+            "not": []
+          },
+          {
+            "id": "Q3499325#x4",
+            "text": "Tento druh měřil asi 1 až 1,5 metru a vážil 10 až 15 kilogramů.",
+            "cat": "čísla",
+            "not": [
+              "Q131155",
+              "Q132857",
+              "Q132937",
+              "Q1994612",
+              "Q383329",
+              "Q644544"
+            ]
+          },
+          {
+            "id": "Q3499325#x5",
+            "text": "Populární knihy ho často chybně označovaly za předka dinosaurů.",
+            "cat": "vztahy",
+            "not": [
+              "Q130966",
+              "Q135602",
+              "Q136506586",
+              "Q138106",
+              "Q15137014",
+              "Q205935",
+              "Q20717918",
+              "Q2456661",
+              "Q28031858",
+              "Q44884994"
+            ]
+          }
+        ],
         "continents": [
           "EU"
         ],
@@ -680233,7 +688398,35 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Eosinopteryx.jpg/500px-Eosinopteryx.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q3561744#x1",
+            "text": "Tento druh žil v pozdní juře v Číně.",
+            "cat": "výskyt",
+            "not": [
+              "Q1144395",
+              "Q121095909",
+              "Q131213",
+              "Q132458",
+              "Q132727",
+              "Q134607",
+              "Q21446516",
+              "Q966510"
+            ]
+          },
+          {
+            "id": "Q3561744#x4",
+            "text": "Tento druh neměl silně zahnuté drápy k lovu ani k lezení.",
+            "cat": "vzhled",
+            "not": []
+          },
+          {
+            "id": "Q3561744#x5",
+            "text": "Tento druh byl podle vědců přizpůsobený běhu a životu na zemi.",
+            "cat": "chování",
+            "not": []
+          }
+        ],
         "continents": [
           "AS"
         ],
@@ -681183,7 +689376,61 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Nasutoceratops_skull.jpg/500px-Nasutoceratops_skull.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q3914791#x0",
+            "text": "Tento druh žil v Severní Americe v období pozdní křídy.",
+            "cat": "výskyt",
+            "not": [
+              "Q133498",
+              "Q135922217"
+            ]
+          },
+          {
+            "id": "Q3914791#x1",
+            "text": "Jeho první známé fosilie se našly v Utahu.",
+            "cat": "výskyt",
+            "not": [
+              "Q131256",
+              "Q134392",
+              "Q1705570",
+              "Q2457727",
+              "Q62029371"
+            ]
+          },
+          {
+            "id": "Q3914791#x2",
+            "text": "Kostěné jádro rohů nad očima měřilo až 457 milimetrů.",
+            "cat": "čísla",
+            "not": [
+              "Q109887670",
+              "Q132820",
+              "Q132966",
+              "Q134104",
+              "Q134389",
+              "Q1655417",
+              "Q4769855",
+              "Q862601"
+            ]
+          },
+          {
+            "id": "Q3914791#x3",
+            "text": "Tento druh byl podle odhadů dlouhý 4,5 metru a vážil 1,5 tuny.",
+            "cat": "čísla",
+            "not": [
+              "Q109887670",
+              "Q132820",
+              "Q134104",
+              "Q862601"
+            ]
+          },
+          {
+            "id": "Q3914791#x4",
+            "text": "Nosní kosti byly možná vyplněné vzduchem.",
+            "cat": "vzhled",
+            "not": []
+          }
+        ],
         "continents": [
           "NA"
         ],
@@ -681397,7 +689644,96 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Albertosaurus_skull_cast.jpg/500px-Albertosaurus_skull_cast.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q40751#x0",
+            "text": "Tento druh žil před asi 71 miliony let.",
+            "cat": "výskyt",
+            "not": [
+              "Q123102",
+              "Q130988",
+              "Q131038",
+              "Q131056",
+              "Q131094",
+              "Q132552",
+              "Q132647",
+              "Q132859",
+              "Q134310",
+              "Q134319",
+              "Q150218",
+              "Q168903",
+              "Q245060",
+              "Q285008",
+              "Q287975"
+            ]
+          },
+          {
+            "id": "Q40751#x1",
+            "text": "Tento druh dorůstal délky 8 až 9 metrů.",
+            "cat": "čísla",
+            "not": [
+              "Q130966",
+              "Q131481",
+              "Q135602",
+              "Q136506586",
+              "Q138106",
+              "Q205935",
+              "Q2456661",
+              "Q28031858",
+              "Q310529",
+              "Q44884994",
+              "Q496689",
+              "Q528572",
+              "Q971275"
+            ]
+          },
+          {
+            "id": "Q40751#x2",
+            "text": "Čelisti měly dohromady 58 a více zubů ve tvaru banánu.",
+            "cat": "vzhled",
+            "not": [
+              "Q135602",
+              "Q136506586",
+              "Q138106",
+              "Q205935",
+              "Q2456661"
+            ]
+          },
+          {
+            "id": "Q40751#x3",
+            "text": "Tento druh mohl chodit rychlostí 14 až 21 kilometrů za hodinu.",
+            "cat": "čísla",
+            "not": []
+          },
+          {
+            "id": "Q40751#x4",
+            "text": "Na jednom nalezišti se našlo 26 jedinců, což naznačuje život ve skupinách.",
+            "cat": "chování",
+            "not": []
+          },
+          {
+            "id": "Q40751#x5",
+            "text": "Tento druh byl možná vrcholovým predátorem svého prostředí.",
+            "cat": "vztahy",
+            "not": [
+              "Q132547",
+              "Q134308",
+              "Q136254",
+              "Q139919",
+              "Q14491",
+              "Q187484",
+              "Q192383",
+              "Q222191",
+              "Q2417324",
+              "Q285364",
+              "Q309390",
+              "Q40621",
+              "Q575699",
+              "Q67103336",
+              "Q747009"
+            ]
+          }
+        ],
         "continents": [
           "NA"
         ],
@@ -681586,7 +689922,47 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Argentinadraco.jpg/500px-Argentinadraco.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q42649831#x1",
+            "text": "Jeho fosílie se našly v Patagonii v Argentině.",
+            "cat": "výskyt",
+            "not": [
+              "Q132577",
+              "Q135246",
+              "Q22110914",
+              "Q988297"
+            ]
+          },
+          {
+            "id": "Q42649831#x2",
+            "text": "Tento druh se možná živil malými bezobratlými v sedimentu řek a jezer.",
+            "cat": "potrava",
+            "not": [
+              "Q115197",
+              "Q131088",
+              "Q245060",
+              "Q2679173"
+            ]
+          },
+          {
+            "id": "Q42649831#x3",
+            "text": "Tento druh byl bezzubý.",
+            "cat": "vzhled",
+            "not": [
+              "Q131460",
+              "Q132577",
+              "Q135246",
+              "Q242358"
+            ]
+          },
+          {
+            "id": "Q42649831#x4",
+            "text": "Tento druh měl pravděpodobně silný stisk čelistí.",
+            "cat": "chování",
+            "not": []
+          }
+        ],
         "continents": [
           "SA"
         ],
@@ -681609,7 +689985,29 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Yunnanosaurus_BW.jpg/500px-Yunnanosaurus_BW.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q427650#x0",
+            "text": "Tento druh žil před 199 až 183 miliony let v dnešní Číně.",
+            "cat": "výskyt",
+            "not": [
+              "Q131690",
+              "Q15632851",
+              "Q25963034",
+              "Q310520",
+              "Q40752"
+            ]
+          },
+          {
+            "id": "Q427650#x2",
+            "text": "Tento druh měl v čelistech přes šedesát zubů ve tvaru lžičky.",
+            "cat": "vzhled",
+            "not": [
+              "Q310529",
+              "Q899506"
+            ]
+          }
+        ],
         "continents": [
           "AS"
         ],
@@ -681638,7 +690036,47 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Phorusrhacid_skeleton_white_background.jpg/500px-Phorusrhacid_skeleton_white_background.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q427685#x0",
+            "text": "Tento druh žil v USA od počátku pliocénu do raného pleistocénu.",
+            "cat": "výskyt",
+            "not": [
+              "Q133129",
+              "Q2706540"
+            ]
+          },
+          {
+            "id": "Q427685#x1",
+            "text": "Jeho kořistí byli pravděpodobně býložraví savci, třeba tapíři a kapybary.",
+            "cat": "potrava",
+            "not": [
+              "Q18617035",
+              "Q2706540",
+              "Q747851"
+            ]
+          },
+          {
+            "id": "Q427685#x2",
+            "text": "Tento druh měřil na výšku odhadem 1,4 až 2 metry.",
+            "cat": "čísla",
+            "not": [
+              "Q18617035",
+              "Q2468395",
+              "Q2706540"
+            ]
+          },
+          {
+            "id": "Q427685#x5",
+            "text": "Tento druh byl nelétavý pták s malými křídly.",
+            "cat": "vzhled",
+            "not": [
+              "Q18617035",
+              "Q2706540",
+              "Q747851"
+            ]
+          }
+        ],
         "continents": [
           "NA",
           "SA"
@@ -681835,7 +690273,61 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Pisanosaurus_NT_small.jpg/500px-Pisanosaurus_NT_small.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q44246#x0",
+            "text": "Tento druh byl malý pozemní býložravec.",
+            "cat": "potrava",
+            "not": [
+              "Q106805159",
+              "Q132414",
+              "Q2158843",
+              "Q311563"
+            ]
+          },
+          {
+            "id": "Q44246#x1",
+            "text": "Tento druh mohl být kořistí velkého masožravého dinosaura.",
+            "cat": "vztahy",
+            "not": []
+          },
+          {
+            "id": "Q44246#x3",
+            "text": "Tento druh měřil podle odhadů asi 1 až 1,3 metru a vážil asi 2 kilogramy.",
+            "cat": "čísla",
+            "not": [
+              "Q109887670",
+              "Q131602",
+              "Q132820",
+              "Q132966",
+              "Q133122",
+              "Q134104",
+              "Q134389",
+              "Q1655417",
+              "Q4769855",
+              "Q555915",
+              "Q862601"
+            ]
+          },
+          {
+            "id": "Q44246#x4",
+            "text": "Tento druh žil před asi 229 miliony let.",
+            "cat": "výskyt",
+            "not": [
+              "Q109887670",
+              "Q131602",
+              "Q132820",
+              "Q132966",
+              "Q133122",
+              "Q134104",
+              "Q134389",
+              "Q1655417",
+              "Q4769855",
+              "Q555915",
+              "Q862601"
+            ]
+          }
+        ],
         "continents": [
           "SA"
         ],
@@ -681858,7 +690350,40 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/OSTROMIA_mario_lanzas_recomstruction.jpg/500px-OSTROMIA_mario_lanzas_recomstruction.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q44533656#x0",
+            "text": "Jeho fosílie se našla v Německu v roce 1855.",
+            "cat": "výskyt",
+            "not": [
+              "Q131481",
+              "Q132547",
+              "Q134151",
+              "Q134308",
+              "Q134629",
+              "Q136254",
+              "Q139919",
+              "Q2417324",
+              "Q2556351",
+              "Q285364",
+              "Q67103336",
+              "Q747009"
+            ]
+          },
+          {
+            "id": "Q44533656#x1",
+            "text": "Tento druh žil v období svrchní jury.",
+            "cat": "výskyt",
+            "not": [
+              "Q102349764",
+              "Q131400",
+              "Q15972921",
+              "Q21266789",
+              "Q2696795",
+              "Q309392"
+            ]
+          }
+        ],
         "continents": [
           "EU"
         ],
@@ -682324,7 +690849,39 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Devincenzia_skull.jpg/500px-Devincenzia_skull.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q4895333#x0",
+            "text": "Tento druh byl vrcholovým predátorem svého prostředí.",
+            "cat": "potrava",
+            "not": [
+              "Q18617035",
+              "Q2706540"
+            ]
+          },
+          {
+            "id": "Q4895333#x1",
+            "text": "Jeho kořistí byli pravděpodobně pozemní lenochodi a jiní původní savci.",
+            "cat": "potrava",
+            "not": [
+              "Q18617035",
+              "Q2706540",
+              "Q747851"
+            ]
+          },
+          {
+            "id": "Q4895333#x3",
+            "text": "Tento druh mohl dosahovat výšky 2 metry a hmotnosti 200 až 500 kilogramů.",
+            "cat": "čísla",
+            "not": [
+              "Q18617035",
+              "Q2468395",
+              "Q2706540",
+              "Q747851",
+              "Q760382"
+            ]
+          }
+        ],
         "continents": [
           "SA"
         ],
@@ -682745,7 +691302,34 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Sarkastodon_scull_AMNH.jpg/500px-Sarkastodon_scull_AMNH.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q527627#x0",
+            "text": "Tento druh žil ve středním eocénu v dnešní Číně a Mongolsku.",
+            "cat": "výskyt",
+            "not": [
+              "Q131170",
+              "Q131249",
+              "Q131763",
+              "Q1705966",
+              "Q1760943"
+            ]
+          },
+          {
+            "id": "Q527627#x1",
+            "text": "Tento druh dosahoval délky asi 3 metry.",
+            "cat": "čísla",
+            "not": [
+              "Q131170",
+              "Q131249",
+              "Q131763",
+              "Q1705966",
+              "Q1760943",
+              "Q3029892",
+              "Q690483"
+            ]
+          }
+        ],
         "continents": [
           "AS"
         ],
@@ -682774,7 +691358,57 @@ window.GAME_DATA = [
             "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Rodrigues_Solitaire.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q528572#x0",
+            "text": "Tento druh se živil ovocem a semeny.",
+            "cat": "potrava",
+            "not": [
+              "Q131205",
+              "Q131379",
+              "Q14405",
+              "Q2272925",
+              "Q60778"
+            ]
+          },
+          {
+            "id": "Q528572#x2",
+            "text": "Tento druh snášel jediné vejce, které zahřívali střídavě oba rodiče.",
+            "cat": "chování",
+            "not": [
+              "Q131678",
+              "Q2272925",
+              "Q310529",
+              "Q3699044",
+              "Q496689",
+              "Q971275"
+            ]
+          },
+          {
+            "id": "Q528572#x3",
+            "text": "Tento druh žil jen na ostrově Rodrigues v Indickém oceánu, východně od Madagaskaru.",
+            "cat": "výskyt",
+            "not": [
+              "Q130921",
+              "Q131070",
+              "Q131205",
+              "Q131379",
+              "Q132414",
+              "Q132683",
+              "Q133203",
+              "Q134884",
+              "Q14400",
+              "Q14403",
+              "Q170121",
+              "Q191339",
+              "Q2272925",
+              "Q310531",
+              "Q311212",
+              "Q60778",
+              "Q643442"
+            ]
+          }
+        ],
         "continents": [
           "AF"
         ],
@@ -683452,7 +692086,34 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Polyptychodon_hudsDB2.jpg/500px-Polyptychodon_hudsDB2.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q572528#x0",
+            "text": "Tento druh žil v období střední a svrchní křídy.",
+            "cat": "výskyt",
+            "not": [
+              "Q110983876",
+              "Q113549840",
+              "Q131153",
+              "Q133129",
+              "Q19887815",
+              "Q2462626",
+              "Q389864",
+              "Q3985451"
+            ]
+          },
+          {
+            "id": "Q572528#x1",
+            "text": "Jeho zkameněliny se našly v mořských usazeninách v jižní Anglii, Francii a Argentině.",
+            "cat": "výskyt",
+            "not": [
+              "Q133538344",
+              "Q18585011",
+              "Q2712887",
+              "Q389864"
+            ]
+          }
+        ],
         "continents": [
           "EU",
           "NA"
@@ -683816,7 +692477,25 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Crittendenceratops_shaded.jpg/500px-Crittendenceratops_shaded.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q58179217#x1",
+            "text": "Jeho fosílie se našly v Arizoně ve Spojených státech.",
+            "cat": "výskyt",
+            "not": [
+              "Q130885",
+              "Q131732",
+              "Q132191",
+              "Q132470",
+              "Q133402",
+              "Q134604041",
+              "Q14384",
+              "Q18510952",
+              "Q2986383",
+              "Q3087702"
+            ]
+          }
+        ],
         "continents": [
           "NA"
         ],
@@ -684191,7 +692870,49 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Weewarrasaurus_reconstruction.jpg/500px-Weewarrasaurus_reconstruction.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q59456759#x0",
+            "text": "Tento druh žil v Austrálii v období svrchní křídy.",
+            "cat": "výskyt",
+            "not": [
+              "Q131435",
+              "Q1706554",
+              "Q20672152",
+              "Q626336"
+            ]
+          },
+          {
+            "id": "Q59456759#x1",
+            "text": "Tento druh byl velký asi jako labrador.",
+            "cat": "čísla",
+            "not": [
+              "Q131056",
+              "Q134637",
+              "Q1706548",
+              "Q326596",
+              "Q58179217",
+              "Q783455",
+              "Q968771"
+            ]
+          },
+          {
+            "id": "Q59456759#x2",
+            "text": "Jeho fosilie se zachovala v zeleno-modrém opálu.",
+            "cat": "výskyt",
+            "not": [
+              "Q131197",
+              "Q133498",
+              "Q134299",
+              "Q135922217",
+              "Q203583",
+              "Q21122031",
+              "Q40621",
+              "Q516014",
+              "Q57745610"
+            ]
+          }
+        ],
         "continents": [
           "OC"
         ],
@@ -684396,7 +693117,76 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Dracovenator_snout.JPG/500px-Dracovenator_snout.JPG"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q60778#x0",
+            "text": "Tento druh žil před zhruba 201 až 199 miliony let.",
+            "cat": "výskyt",
+            "not": [
+              "Q107685",
+              "Q131174",
+              "Q131235",
+              "Q131537",
+              "Q131648",
+              "Q136872",
+              "Q137294",
+              "Q46995838",
+              "Q4703562",
+              "Q57273328",
+              "Q761582"
+            ]
+          },
+          {
+            "id": "Q60778#x1",
+            "text": "Tento druh žil na území dnešní Jižní Afriky.",
+            "cat": "výskyt",
+            "not": [
+              "Q133137",
+              "Q1827222",
+              "Q3083026"
+            ]
+          },
+          {
+            "id": "Q60778#x3",
+            "text": "Tento druh chodil po dvou nohách a byl masožravec.",
+            "cat": "chování",
+            "not": [
+              "Q131467",
+              "Q131636",
+              "Q20675442"
+            ]
+          },
+          {
+            "id": "Q60778#x4",
+            "text": "Tento druh dorůstal odhadem 5,5 až 6,5 metru na délku.",
+            "cat": "čísla",
+            "not": [
+              "Q132968",
+              "Q133453",
+              "Q133837",
+              "Q18604594",
+              "Q2197682",
+              "Q22927446",
+              "Q570439",
+              "Q629204"
+            ]
+          },
+          {
+            "id": "Q60778#x5",
+            "text": "Tento druh vážil odhadem 250 kilogramů.",
+            "cat": "čísla",
+            "not": [
+              "Q128233",
+              "Q12973051",
+              "Q131561",
+              "Q15632851",
+              "Q1930333",
+              "Q310520",
+              "Q40752",
+              "Q568269"
+            ]
+          }
+        ],
         "continents": [
           "AF"
         ],
@@ -684756,7 +693546,27 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Iziko_Thigh_bone_kangnasaurus.JPG/500px-Iziko_Thigh_bone_kangnasaurus.JPG"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q633747#x0",
+            "text": "Tento druh žil v období svrchní křídy v Jižní Africe.",
+            "cat": "výskyt",
+            "not": [
+              "Q133109",
+              "Q134392",
+              "Q135092049",
+              "Q1705570",
+              "Q2457727",
+              "Q62029371"
+            ]
+          },
+          {
+            "id": "Q633747#x1",
+            "text": "Tento druh byl pravděpodobně dvounohý býložravec.",
+            "cat": "potrava",
+            "not": []
+          }
+        ],
         "continents": [
           "AF"
         ],
@@ -685572,7 +694382,28 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Moho_nobilis-Keulemans.jpg/500px-Moho_nobilis-Keulemans.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q664458#x0",
+            "text": "Tento druh obýval horský deštný les na ostrově Havaj.",
+            "cat": "výskyt",
+            "not": [
+              "Q13098211",
+              "Q132835",
+              "Q134600",
+              "Q137150"
+            ]
+          },
+          {
+            "id": "Q664458#x1",
+            "text": "Tento druh se živil nektarem a drobnými bezobratlými.",
+            "cat": "potrava",
+            "not": [
+              "Q135327",
+              "Q1933735"
+            ]
+          }
+        ],
         "continents": [
           "NA"
         ],
@@ -685720,7 +694551,19 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/ArctodusSimusSkeleton.jpg/500px-ArctodusSimusSkeleton.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q683207#x0",
+            "text": "Tento druh žil v Severní Americe v pleistocénu.",
+            "cat": "výskyt",
+            "not": [
+              "Q135101",
+              "Q138066",
+              "Q20640526",
+              "Q2675629"
+            ]
+          }
+        ],
         "continents": [
           "NA"
         ],
@@ -685843,7 +694686,31 @@ window.GAME_DATA = [
             "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Yunnanozoon_lividum_YKLP_13005.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q690567#x1",
+            "text": "Tento druh se pravděpodobně živil drobnými částicemi, které filtroval z vody.",
+            "cat": "potrava",
+            "not": [
+              "Q131404",
+              "Q131583",
+              "Q133058",
+              "Q138981",
+              "Q1579253",
+              "Q1931846",
+              "Q194536",
+              "Q2575047",
+              "Q27075029",
+              "Q5226428"
+            ]
+          },
+          {
+            "id": "Q690567#x3",
+            "text": "Tělo bylo ze stran silně zploštělé, vyšší než široké.",
+            "cat": "vzhled",
+            "not": []
+          }
+        ],
         "continents": [
           "AS"
         ],
@@ -685871,7 +694738,49 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Elephas_reckii.jpg/500px-Elephas_reckii.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q693352#x2",
+            "text": "Kly některých jedinců dosahovaly délky 4 metrů.",
+            "cat": "vzhled",
+            "not": [
+              "Q131232",
+              "Q19555",
+              "Q3236057",
+              "Q739132",
+              "Q88262453"
+            ]
+          },
+          {
+            "id": "Q693352#x3",
+            "text": "Tento druh žil v Africe a západní Asii.",
+            "cat": "výskyt",
+            "not": [
+              "Q1698713",
+              "Q19555",
+              "Q3236057",
+              "Q739132"
+            ]
+          },
+          {
+            "id": "Q693352#x4",
+            "text": "K vymření mohlo přispět rostoucí vysychání Afriky.",
+            "cat": "vymření",
+            "not": [
+              "Q1698713",
+              "Q19555",
+              "Q3236057",
+              "Q3699044",
+              "Q739132"
+            ]
+          },
+          {
+            "id": "Q693352#x5",
+            "text": "Pravěcí lidé vyráběli nástroje z jeho kostí a kostí velkých hrochů.",
+            "cat": "vztahy",
+            "not": []
+          }
+        ],
         "continents": [
           "AF"
         ],
@@ -686054,7 +694963,59 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Onchopristis_numidus_052013.JPG/500px-Onchopristis_numidus_052013.JPG"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q7092026#x0",
+            "text": "Tento druh býval kořistí spinosaura.",
+            "cat": "vztahy",
+            "not": [
+              "Q1061943",
+              "Q1062126",
+              "Q1076760",
+              "Q120763258",
+              "Q137591",
+              "Q20673567",
+              "Q20717966",
+              "Q2420570",
+              "Q3618445",
+              "Q760860"
+            ]
+          },
+          {
+            "id": "Q7092026#x1",
+            "text": "Tento druh měl dlouhý rypec s velkými zuby jako pila.",
+            "cat": "vzhled",
+            "not": []
+          },
+          {
+            "id": "Q7092026#x2",
+            "text": "Zuby na jeho rypci měly malé háčky směřující dozadu.",
+            "cat": "vzhled",
+            "not": []
+          },
+          {
+            "id": "Q7092026#x3",
+            "text": "Tento druh žil v období křídy v Africe, Evropě a Severní Americe.",
+            "cat": "výskyt",
+            "not": [
+              "Q1076760",
+              "Q20673567",
+              "Q760860"
+            ]
+          },
+          {
+            "id": "Q7092026#x4",
+            "text": "Největší zuby na rypci měřily 7 cm.",
+            "cat": "čísla",
+            "not": []
+          },
+          {
+            "id": "Q7092026#x5",
+            "text": "Zuby na rypci se pravděpodobně neustále obměňovaly.",
+            "cat": "chování",
+            "not": []
+          }
+        ],
         "continents": [
           "AF",
           "NA"
@@ -686149,7 +695110,68 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Pterichthyodes_milleri.jpg/500px-Pterichthyodes_milleri.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q719429#x0",
+            "text": "Jeho fosílie se našly ve Skotsku.",
+            "cat": "výskyt",
+            "not": [
+              "Q131475",
+              "Q13156613",
+              "Q134134",
+              "Q135590",
+              "Q1930353",
+              "Q2193177",
+              "Q23055480",
+              "Q427685"
+            ]
+          },
+          {
+            "id": "Q719429#x1",
+            "text": "Tento druh měl hlavu a přední část těla chráněnou silným pancířem.",
+            "cat": "vzhled",
+            "not": [
+              "Q13156613",
+              "Q135590",
+              "Q189193",
+              "Q2193177",
+              "Q23055480",
+              "Q309490",
+              "Q427685"
+            ]
+          },
+          {
+            "id": "Q719429#x2",
+            "text": "Tento druh žil při dně jezer.",
+            "cat": "chování",
+            "not": [
+              "Q13156613",
+              "Q134134",
+              "Q135590",
+              "Q189193",
+              "Q1930353",
+              "Q2193177",
+              "Q23055480",
+              "Q309490",
+              "Q427685"
+            ]
+          },
+          {
+            "id": "Q719429#x3",
+            "text": "Tento druh se živil rozkládajícími se zbytky na dně jezer.",
+            "cat": "potrava",
+            "not": [
+              "Q13156613",
+              "Q135590",
+              "Q189193",
+              "Q1930353",
+              "Q2193177",
+              "Q23055480",
+              "Q309490",
+              "Q427685"
+            ]
+          }
+        ],
         "continents": [
           "EU"
         ],
@@ -686341,7 +695363,35 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Protapirus_AMNH.jpg/500px-Protapirus_AMNH.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q7251183#x0",
+            "text": "Tento druh žil v Severní Americe a Eurasii.",
+            "cat": "výskyt",
+            "not": [
+              "Q564261"
+            ]
+          },
+          {
+            "id": "Q7251183#x1",
+            "text": "Tento druh měl v horní i dolní čelisti malé špičáky podobné kelům.",
+            "cat": "vzhled",
+            "not": [
+              "Q254836",
+              "Q564261"
+            ]
+          },
+          {
+            "id": "Q7251183#x3",
+            "text": "Tento druh měl na přední končetině čtyři prsty.",
+            "cat": "vzhled",
+            "not": [
+              "Q188949",
+              "Q310972",
+              "Q564261"
+            ]
+          }
+        ],
         "continents": [
           "EU",
           "NA"
@@ -686856,7 +695906,24 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Panthera_leo_spelaea_MHNT.PAL.2009.0.1_Montmaurin_Pl%C3%A9istoc%C3%A8ne.jpg/500px-Panthera_leo_spelaea_MHNT.PAL.2009.0.1_Montmaurin_Pl%C3%A9istoc%C3%A8ne.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q7395585#x5",
+            "text": "Tento druh vyhynul asi před 13 000 lety.",
+            "cat": "vymření",
+            "not": [
+              "Q1035243",
+              "Q112245916",
+              "Q131076",
+              "Q131477",
+              "Q132569",
+              "Q14400",
+              "Q18609695",
+              "Q205935",
+              "Q583627"
+            ]
+          }
+        ],
         "continents": [
           "EU",
           "AS",
@@ -687373,7 +696440,37 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Stratodus_DB12.jpg/500px-Stratodus_DB12.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q7622223#x2",
+            "text": "Tento druh měl v tlamě nejméně 6000 zubů.",
+            "cat": "čísla",
+            "not": [
+              "Q100376723",
+              "Q1263591",
+              "Q131646",
+              "Q133210",
+              "Q133945",
+              "Q23807302",
+              "Q3238343",
+              "Q862063",
+              "Q968269"
+            ]
+          },
+          {
+            "id": "Q7622223#x3",
+            "text": "Tento druh dorůstal délky až 5 metrů.",
+            "cat": "čísla",
+            "not": [
+              "Q1263591",
+              "Q131646",
+              "Q133945",
+              "Q23807302",
+              "Q3238343",
+              "Q862063"
+            ]
+          }
+        ],
         "continents": [
           "EU",
           "NA"
@@ -687466,7 +696563,51 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Naturalis_Biodiversity_Center_-_ZMA.AVES.1670_-_Numenius_tenuirostris_Vieillot%2C_1817_-_Scolopacidae_-_skin_specimen%2C_right_lateral_view_%28cropped%29.jpg/500px-Naturalis_Biodiversity_Center_-_ZMA.AVES.1670_-_Numenius_tenuirostris_Vieillot%2C_1817_-_Scolopacidae_-_skin_specimen%2C_right_lateral_view_%28cropped%29.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q76411#x0",
+            "text": "Tento druh hledal v měkkém bahně drobné bezobratlé.",
+            "cat": "potrava",
+            "not": [
+              "Q131021",
+              "Q131039",
+              "Q131568",
+              "Q135300",
+              "Q14397",
+              "Q16975532",
+              "Q18510948",
+              "Q188717",
+              "Q18915244",
+              "Q189193",
+              "Q20717516",
+              "Q21446751",
+              "Q21977554",
+              "Q40752",
+              "Q889477",
+              "Q967742"
+            ]
+          },
+          {
+            "id": "Q76411#x5",
+            "text": "Jediná potvrzená hnízdiště byla v rašeliništích severně od ruského Omsku.",
+            "cat": "výskyt",
+            "not": [
+              "Q1261924",
+              "Q1263591",
+              "Q135300",
+              "Q16975532",
+              "Q18915244",
+              "Q189193",
+              "Q18972",
+              "Q20717516",
+              "Q21446751",
+              "Q21977554",
+              "Q28114434",
+              "Q889477",
+              "Q967742"
+            ]
+          }
+        ],
         "continents": [
           "EU",
           "AS",
@@ -687527,7 +696668,58 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Lajasvenator_ascheriae_J..jpg/500px-Lajasvenator_ascheriae_J..jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q76508453#x0",
+            "text": "Tento druh žil v období rané křídy v dnešní Argentině.",
+            "cat": "výskyt",
+            "not": [
+              "Q1164873",
+              "Q130902",
+              "Q131302",
+              "Q131750",
+              "Q134814",
+              "Q1878170",
+              "Q2345315",
+              "Q27145711",
+              "Q271710"
+            ]
+          },
+          {
+            "id": "Q76508453#x3",
+            "text": "Jeho kostra je stará asi 137 milionů let.",
+            "cat": "čísla",
+            "not": [
+              "Q113754163",
+              "Q131102",
+              "Q131264",
+              "Q131467",
+              "Q131636",
+              "Q16777007",
+              "Q1959271",
+              "Q20675442",
+              "Q675014"
+            ]
+          },
+          {
+            "id": "Q76508453#x4",
+            "text": "Jeho kostra se našla v Argentině v provincii Neuquén.",
+            "cat": "výskyt",
+            "not": [
+              "Q107685",
+              "Q131174",
+              "Q131235",
+              "Q131537",
+              "Q131648",
+              "Q136872",
+              "Q137294",
+              "Q46995838",
+              "Q4703562",
+              "Q57273328",
+              "Q761582"
+            ]
+          }
+        ],
         "continents": [
           "SA"
         ],
@@ -687634,7 +696826,45 @@ window.GAME_DATA = [
             "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Apidium_phiomense_03.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q773484#x0",
+            "text": "Tento druh žil v tropických lesích severní Afriky.",
+            "cat": "výskyt",
+            "not": [
+              "Q2591525",
+              "Q310517",
+              "Q690567"
+            ]
+          },
+          {
+            "id": "Q773484#x1",
+            "text": "Tento druh žil na stromech a pohyboval se po větvích chůzí a skoky.",
+            "cat": "chování",
+            "not": [
+              "Q133856",
+              "Q2591525",
+              "Q690567"
+            ]
+          },
+          {
+            "id": "Q773484#x2",
+            "text": "Tento druh se živil převážně měkkým ovocem.",
+            "cat": "potrava",
+            "not": [
+              "Q133856",
+              "Q2591525",
+              "Q310517",
+              "Q690567"
+            ]
+          },
+          {
+            "id": "Q773484#x3",
+            "text": "Samci byli větší než samice.",
+            "cat": "vzhled",
+            "not": []
+          }
+        ],
         "continents": [
           "AF"
         ],
@@ -687669,7 +696899,24 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Appalachiosaurus_montgomeriensis_fossil%2C_Tellus_Science_Museum_2.jpg/500px-Appalachiosaurus_montgomeriensis_fossil%2C_Tellus_Science_Museum_2.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q773996#x1",
+            "text": "Tento druh žil v pozdní křídě na východě Severní Ameriky.",
+            "cat": "výskyt",
+            "not": [
+              "Q138638",
+              "Q20670696",
+              "Q32859091"
+            ]
+          },
+          {
+            "id": "Q773996#x3",
+            "text": "Nalezená kostra patří mláděti, dospělí byli výrazně větší.",
+            "cat": "vzhled",
+            "not": []
+          }
+        ],
         "continents": [
           "NA"
         ],
@@ -687808,7 +697055,37 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Drepanis_funerea-Keulemans.jpg/500px-Drepanis_funerea-Keulemans.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q790609#x1",
+            "text": "Tento druh žil jen na havajském ostrově Molokai.",
+            "cat": "výskyt",
+            "not": [
+              "Q13098211",
+              "Q132835",
+              "Q134600",
+              "Q137150",
+              "Q27075774",
+              "Q550316",
+              "Q599569",
+              "Q847140",
+              "Q911041",
+              "Q912836",
+              "Q990174"
+            ]
+          },
+          {
+            "id": "Q790609#x2",
+            "text": "Jeho prostředí ničil dovezený dobytek a jeleni.",
+            "cat": "vymření",
+            "not": [
+              "Q11220589",
+              "Q135327",
+              "Q1933735",
+              "Q910989"
+            ]
+          }
+        ],
         "continents": [
           "OC"
         ],
@@ -688551,7 +697828,23 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Rodrigues_Night_Heron.jpg/500px-Rodrigues_Night_Heron.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q862063#x0",
+            "text": "Tento druh se živil gekony a šneky.",
+            "cat": "potrava",
+            "not": [
+              "Q2086368",
+              "Q899557"
+            ]
+          },
+          {
+            "id": "Q862063#x3",
+            "text": "Tento druh byl velmi krotký a nebál se lidí.",
+            "cat": "chování",
+            "not": []
+          }
+        ],
         "continents": [
           "AF"
         ],
@@ -689245,7 +698538,45 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Nothosaurus_mirabilis_455.jpg/500px-Nothosaurus_mirabilis_455.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q910989#x1",
+            "text": "Jeho fosílie se našly od severní Afriky a Evropy až po Čínu.",
+            "cat": "výskyt",
+            "not": [
+              "Q133881",
+              "Q134199",
+              "Q1698713",
+              "Q18915569",
+              "Q2415707"
+            ]
+          },
+          {
+            "id": "Q910989#x3",
+            "text": "Tento druh se živil rybami, hlavonožci i jinými plazy.",
+            "cat": "potrava",
+            "not": [
+              "Q1698713",
+              "Q18915569",
+              "Q21011930",
+              "Q310531"
+            ]
+          },
+          {
+            "id": "Q910989#x4",
+            "text": "Tento druh patřil mezi vrcholové predátory své doby.",
+            "cat": "potrava",
+            "not": [
+              "Q133881",
+              "Q15632468",
+              "Q1698713",
+              "Q18915569",
+              "Q21011930",
+              "Q310531",
+              "Q58377069"
+            ]
+          }
+        ],
         "continents": [
           "EU",
           "AS",
@@ -689438,7 +698769,25 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Stormbergia.jpg/500px-Stormbergia.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q930088#x0",
+            "text": "Tento druh žil na počátku jurského období.",
+            "cat": "výskyt",
+            "not": [
+              "Q1055883",
+              "Q107969684",
+              "Q120743561",
+              "Q131595",
+              "Q133133",
+              "Q133183",
+              "Q13410268",
+              "Q134334",
+              "Q14506",
+              "Q17414109"
+            ]
+          }
+        ],
         "continents": [
           "AF"
         ],
@@ -689667,7 +699016,26 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/MA_I156495_TePapa_Turnagra-tanagra_full.jpg/500px-MA_I156495_TePapa_Turnagra-tanagra_full.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q947572#x3",
+            "text": "Tento druh žil na Severním ostrově Nového Zélandu.",
+            "cat": "výskyt",
+            "not": [
+              "Q13098211",
+              "Q132835",
+              "Q134600",
+              "Q27075774",
+              "Q550316",
+              "Q599569",
+              "Q724978",
+              "Q847140",
+              "Q911041",
+              "Q912836",
+              "Q990174"
+            ]
+          }
+        ],
         "continents": [
           "OC"
         ],
@@ -690070,7 +699438,28 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Hipparion4.jpg/500px-Hipparion4.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q971275#x0",
+            "text": "Tento druh se živil převážně trávou.",
+            "cat": "potrava",
+            "not": [
+              "Q100196",
+              "Q130902",
+              "Q130966",
+              "Q131046",
+              "Q131565",
+              "Q133295",
+              "Q222191",
+              "Q242358",
+              "Q254836",
+              "Q271710",
+              "Q311212",
+              "Q564261",
+              "Q7684684"
+            ]
+          }
+        ],
         "continents": [
           "EU",
           "AS",
@@ -690135,7 +699524,36 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Plataleorhynchus.jpg/500px-Plataleorhynchus.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q988142#x0",
+            "text": "Tento druh žil na konci jury a na začátku křídy.",
+            "cat": "výskyt",
+            "not": [
+              "Q132958",
+              "Q2888784"
+            ]
+          },
+          {
+            "id": "Q988142#x1",
+            "text": "Jeho fosílie se našly v Dorsetu v Anglii.",
+            "cat": "výskyt",
+            "not": [
+              "Q132577",
+              "Q22110914",
+              "Q242358",
+              "Q988297"
+            ]
+          },
+          {
+            "id": "Q988142#x3",
+            "text": "Tento druh se možná živil vodními živočichy z bahnitého dna.",
+            "cat": "potrava",
+            "not": [
+              "Q2888784"
+            ]
+          }
+        ],
         "continents": [
           "EU"
         ],
@@ -690522,7 +699940,53 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Horseshoe_Crabs_%284678537011%29.jpg/500px-Horseshoe_Crabs_%284678537011%29.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q1133152#x2",
+            "text": "Živí se měkkýši, kroužkovci, dalšími bezobratlými a kousky ryb.",
+            "cat": "potrava",
+            "not": [
+              "Q1335549",
+              "Q21175"
+            ]
+          },
+          {
+            "id": "Q1133152#x3",
+            "text": "Samice snáší 15 000 až 64 000 vajec.",
+            "cat": "čísla",
+            "not": [
+              "Q113297",
+              "Q1137615",
+              "Q1142349",
+              "Q1164137",
+              "Q119195",
+              "Q1301286",
+              "Q1317090",
+              "Q1335549",
+              "Q169513",
+              "Q1758710",
+              "Q1953235",
+              "Q21175",
+              "Q263978",
+              "Q2680164",
+              "Q2688862",
+              "Q288140",
+              "Q305130",
+              "Q3134808",
+              "Q337509",
+              "Q4661821",
+              "Q472994",
+              "Q48564",
+              "Q902450"
+            ]
+          },
+          {
+            "id": "Q1133152#x5",
+            "text": "Má krev šedobílou až světle žlutou, na vzduchu tmavě modrou.",
+            "cat": "vzhled",
+            "not": []
+          }
+        ],
         "continents": [
           "NA"
         ],

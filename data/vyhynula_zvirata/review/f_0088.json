@@ -1,0 +1,33 @@
+{"drop_facts": [
+{"id": "Q191339#x2", "why": "citace říká pravděpodobně k potravě, jen možná k trhání a stahování; posun jistoty"},
+{"id": "Q191339#x5", "why": "bez jasného podmětu; zužuje faktory prostředí jen na potravu"},
+{"id": "Q192272#x0", "why": "chybí podmět, přítomný čas u vyhynulého druhu"},
+{"id": "Q192272#x5", "why": "citace je jen domněnka podle slonů, text ji podává jako fakt v přítomném čase"},
+{"id": "Q1955124#x3", "why": "citace říká býložravý, nebo možná masožravý; změna nebo na i posouvá význam"},
+{"id": "Q202076#x0", "why": "Chathamské ostrovy prozrazují název chathamica"},
+{"id": "Q202076#x3", "why": "chybí jasný podmět"},
+{"id": "Q203583#x1", "why": "chybí podmět; pine přeloženo jako borové jehličí je posun"},
+{"id": "Q20670696#x0", "why": "chybí jasný podmět"},
+{"id": "Q20672152#x3", "why": "míra jedné fosilní kosti podaná jako vlastnost druhu"},
+{"id": "Q20717775#x1", "why": "chybí podmět, přítomný čas u vyhynulého druhu, horní mez 3 m je sporná"},
+{"id": "Q20717966#x0", "why": "žil před 83 až 70 miliony let, na konci křídy je zavádějící"}
+], "drop_pairs": [
+{"id": "Q191339#x3", "species": "Q131695"},
+{"id": "Q191339#x4", "species": "Q123102"},
+{"id": "Q192272#x1", "species": "Q1698713"},
+{"id": "Q192272#x1", "species": "Q3699044"},
+{"id": "Q192272#x4", "species": "Q310387"},
+{"id": "Q1955124#x2", "species": "Q1274400"},
+{"id": "Q1955124#x2", "species": "Q131253"},
+{"id": "Q202076#x2", "species": "Q309975"},
+{"id": "Q203583#x0", "species": "Q130921"},
+{"id": "Q203583#x0", "species": "Q14491"},
+{"id": "Q203583#x0", "species": "Q21494374"},
+{"id": "Q203583#x0", "species": "Q40621"},
+{"id": "Q203583#x2", "species": "Q131695"},
+{"id": "Q203583#x2", "species": "Q18510952"},
+{"id": "Q203583#x3", "species": "Q131732"},
+{"id": "Q20670696#x1", "species": "Q131648"},
+{"id": "Q20670696#x3", "species": "Q137294"},
+{"id": "Q20672152#x1", "species": "Q17414109"}
+]}

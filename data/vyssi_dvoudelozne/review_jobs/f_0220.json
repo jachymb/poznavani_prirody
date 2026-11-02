@@ -1,0 +1,419 @@
+[
+ {
+  "id": "Q1135236#3",
+  "species": "Durian cibetkový",
+  "latin": "Durio zibethinus",
+  "text": "Plody jsou pokryté hustými ostny.",
+  "quote": "hustými ostny kuželovitého tvaru",
+  "claimed_false_for": {
+   "Q3918504": "Ostružiník vzpřímený (Rubus nessensis)",
+   "Q460517": "Mandarinka klementina (Citrus ×clementina)",
+   "Q63045": "Řečík terebintový (Pistacia terebinthus)",
+   "Q7218532": "Jedovatec kořenující (Toxicodendron radicans)"
+  }
+ },
+ {
+  "id": "Q1266124#3",
+  "species": "Rožec nízký",
+  "latin": "Cerastium pumilum",
+  "text": "Má 3 až 18 bílých květů v jednom shluku.",
+  "quote": "je tvořeno 3 až 18 pětičetnými bílými květy",
+  "claimed_false_for": {
+   "Q2007832": "Chebule korková (Anamirta cocculus)",
+   "Q2991695": "Bolševník sibiřský (Heracleum sibiricum)"
+  }
+ },
+ {
+  "id": "Q1339103#3",
+  "species": "Silenka bezlodyžná",
+  "latin": "Silene acaulis",
+  "text": "Roste jako nízký polštář, který je celý rok zelený.",
+  "quote": "Vytrvalá, polštářovitá, stálezelená rostlina",
+  "claimed_false_for": {
+   "Q2007832": "Chebule korková (Anamirta cocculus)",
+   "Q2991695": "Bolševník sibiřský (Heracleum sibiricum)"
+  }
+ },
+ {
+  "id": "Q1420828#0",
+  "species": "Dřín kanadský",
+  "latin": "Cornus canadensis",
+  "text": "Rostliny se rozrůstají v polštářovitý porost.",
+  "quote": "Rostliny se rozrůstají v polštářovitý porost.",
+  "claimed_false_for": {
+   "Q2007832": "Chebule korková (Anamirta cocculus)",
+   "Q2991695": "Bolševník sibiřský (Heracleum sibiricum)"
+  }
+ },
+ {
+  "id": "Q149421#0",
+  "species": "Čemeřice smrdutá",
+  "latin": "Helleborus foetidus",
+  "text": "Tento druh je původní v západní a jihozápadní Evropě.",
+  "quote": "je původní v západní a jihozápadní Evropě s přesahem do severní Afriky",
+  "claimed_false_for": {
+   "Q2007832": "Chebule korková (Anamirta cocculus)"
+  }
+ },
+ {
+  "id": "Q156944#5",
+  "species": "Javor klen",
+  "latin": "Acer pseudoplatanus",
+  "text": "Má tvrdé dřevo, ze kterého se vyrábí nábytek.",
+  "quote": "Má tvrdé, krémově bílé hutné dřevo, které se používá na výrobu hudebních nástrojů, nábytku",
+  "claimed_false_for": {
+   "Q1348662": "Vrba laponská (Salix lapponum)",
+   "Q159842": "Čistec německý (Stachys germanica)",
+   "Q160068": "Záraza vyšší (Orobanche elatior)",
+   "Q164024": "Černýš hajní (Melampyrum nemorosum)",
+   "Q21156075": "Chrpa parukářka (Centaurea pseudophrygia)",
+   "Q2991695": "Bolševník sibiřský (Heracleum sibiricum)",
+   "Q3918504": "Ostružiník vzpřímený (Rubus nessensis)",
+   "Q958823": "Děhel lesní (Angelica sylvestris)"
+  }
+ },
+ {
+  "id": "Q157085#1",
+  "species": "Náprstník velkokvětý",
+  "latin": "Digitalis grandiflora",
+  "text": "Dorůstá do výšky až 120 centimetrů.",
+  "quote": "40–120 cm vysoká jedovatá bylina",
+  "claimed_false_for": {
+   "Q958823": "Děhel lesní (Angelica sylvestris)"
+  }
+ },
+ {
+  "id": "Q157405#0",
+  "species": "Samorostlík klasnatý",
+  "latin": "Actaea spicata",
+  "text": "Dorůstá do výšky 30 až 70 centimetrů.",
+  "quote": "vytrvalá, 30 až 70 cm vysoká bylina",
+  "claimed_false_for": {
+   "Q2007832": "Chebule korková (Anamirta cocculus)"
+  }
+ },
+ {
+  "id": "Q157628#x0",
+  "species": "Bříza zakrslá",
+  "latin": "Betula nana",
+  "text": "Pasou se na ní sobi, hlavně na jaře a v létě.",
+  "quote": "Хорошо поедается северным оленем (Rangifer tarandus) весной и летом",
+  "claimed_false_for": {
+   "Q1034859": "Dub špičatolistý (Quercus acutissima)",
+   "Q1331298": "Parociovka Jacquemontova (Parrotiopsis jacquemontiana)",
+   "Q158178": "Dub kermesový (Quercus coccifera)",
+   "Q3565069": "Dub hálkový (Quercus infectoria)",
+   "Q666160": "Dub modrý (Quercus douglasii)",
+   "Q847209": "Dub žlázonosný (Quercus serrata)"
+  }
+ },
+ {
+  "id": "Q157628#x1",
+  "species": "Bříza zakrslá",
+  "latin": "Betula nana",
+  "text": "Mladé listy na ní brzy z jara spásají losi.",
+  "quote": "Молодая листва ранней весной поедается европейским лосём (Alces alces).",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q157628#x2",
+  "species": "Bříza zakrslá",
+  "latin": "Betula nana",
+  "text": "Jehnědy a pupeny na ní zobají kuřovití ptáci.",
+  "quote": "Сережки и почки поедаются куропаткой.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q157628#x3",
+  "species": "Bříza zakrslá",
+  "latin": "Betula nana",
+  "text": "Pyl roznáší vítr.",
+  "quote": "The wind-pollinated fruiting catkins",
+  "claimed_false_for": {
+   "Q1549425": "Chrpa žlutokvětá (Centaurea macrocephala)",
+   "Q19848986": "Heřmánkovec nevonný (Tripleurospermum inodorum)",
+   "Q28141": "Vrba plazivá (Salix repens)"
+  }
+ },
+ {
+  "id": "Q158066#2",
+  "species": "Jarmanka větší",
+  "latin": "Astrantia major",
+  "text": "Dorůstá do výšky 30 až 60 centimetrů.",
+  "quote": "přímou lodyhou vysokou 30 až 60 cm",
+  "claimed_false_for": {
+   "Q460517": "Mandarinka klementina (Citrus ×clementina)",
+   "Q63045": "Řečík terebintový (Pistacia terebinthus)",
+   "Q958823": "Děhel lesní (Angelica sylvestris)"
+  }
+ },
+ {
+  "id": "Q158226#3",
+  "species": "Tařice skalní",
+  "latin": "Aurinia saxatilis",
+  "text": "Vyroste do výšky 10 až 30 centimetrů.",
+  "quote": "vyrůstající do výše 10 až 30 cm",
+  "claimed_false_for": {
+   "Q460517": "Mandarinka klementina (Citrus ×clementina)",
+   "Q63045": "Řečík terebintový (Pistacia terebinthus)",
+   "Q958823": "Děhel lesní (Angelica sylvestris)"
+  }
+ },
+ {
+  "id": "Q158335#0",
+  "species": "Lakušník vzplývavý",
+  "latin": "Ranunculus fluitans",
+  "text": "Květy rozkvétají nad hladinou a opyluje je hmyz.",
+  "quote": "vykvétají nad hladinou a jsou opylovány hmyzem",
+  "claimed_false_for": {
+   "Q2007832": "Chebule korková (Anamirta cocculus)",
+   "Q2991695": "Bolševník sibiřský (Heracleum sibiricum)"
+  }
+ },
+ {
+  "id": "Q159770#0",
+  "species": "Zemědým Vaillantův",
+  "latin": "Fumaria vaillantii",
+  "text": "Dorůstá do výšky 10 až 30 centimetrů.",
+  "quote": "Jednoletá bylina vysoká 10 až 30 cm",
+  "claimed_false_for": {
+   "Q2007832": "Chebule korková (Anamirta cocculus)",
+   "Q2991695": "Bolševník sibiřský (Heracleum sibiricum)"
+  }
+ },
+ {
+  "id": "Q159910#0",
+  "species": "Záraza síťnatá",
+  "latin": "Orobanche reticulata",
+  "text": "Tento druh si neumí sám vyrábět živiny, bere je z jiných rostlin.",
+  "quote": "Tato rostlina je bez schopností získávat potřebné látky k růstu a kvetení pomoci fotosyntézy a proto si je zajišťuje parazitováním kořenů jiných rostlin.",
+  "claimed_false_for": {
+   "Q2007832": "Chebule korková (Anamirta cocculus)",
+   "Q2991695": "Bolševník sibiřský (Heracleum sibiricum)"
+  }
+ },
+ {
+  "id": "Q160755#0",
+  "species": "Bažanka vejčitá",
+  "latin": "Mercurialis ovata",
+  "text": "Kvete v dubnu a květnu.",
+  "quote": "Kvetou v období dubna a května.",
+  "claimed_false_for": {
+   "Q1348662": "Vrba laponská (Salix lapponum)",
+   "Q159842": "Čistec německý (Stachys germanica)",
+   "Q958823": "Děhel lesní (Angelica sylvestris)"
+  }
+ },
+ {
+  "id": "Q161166#0",
+  "species": "Javor jasanolistý",
+  "latin": "Acer negundo",
+  "text": "Dožívá se zpravidla 60 až 100 let.",
+  "quote": "dožívá se zpravidla pouze 60–100 let",
+  "claimed_false_for": {
+   "Q2991695": "Bolševník sibiřský (Heracleum sibiricum)"
+  }
+ },
+ {
+  "id": "Q163763#1",
+  "species": "Udatna dvoudomá",
+  "latin": "Aruncus dioicus",
+  "text": "Roste planě na vlhkých polostinných místech.",
+  "quote": "Roste planě na vlhkých polostinných místech.",
+  "claimed_false_for": {
+   "Q159842": "Čistec německý (Stachys germanica)",
+   "Q160068": "Záraza vyšší (Orobanche elatior)",
+   "Q63045": "Řečík terebintový (Pistacia terebinthus)"
+  }
+ },
+ {
+  "id": "Q2541945#1",
+  "species": "Pelyněk Pančičův",
+  "latin": "Artemisia pancicii",
+  "text": "Kvete v srpnu a září, někdy až na začátku října.",
+  "quote": "Kvítky této dlouhodenní rostliny rozkvétají v srpnu a září, někdy až počátkem října.",
+  "claimed_false_for": {
+   "Q1348662": "Vrba laponská (Salix lapponum)",
+   "Q160068": "Záraza vyšší (Orobanche elatior)",
+   "Q3918504": "Ostružiník vzpřímený (Rubus nessensis)"
+  }
+ },
+ {
+  "id": "Q2549523#x0",
+  "species": "Korymbie citroníková",
+  "latin": "Corymbia citriodora",
+  "text": "Dorůstá výšky 25 až 40 metrů.",
+  "quote": "grows to a height of 25–40 m (82–131 ft)",
+  "claimed_false_for": {
+   "Q150952": "Rebutia brunescens (Rebutia brunnescens)",
+   "Q1520028": "Balmín metlatý (Leptospermum scoparium)",
+   "Q158221": "Řeřišnice nedůtklivá (Cardamine impatiens)",
+   "Q159094": "Vrbovka malokvětá (Epilobium parviflorum)",
+   "Q159427": "Čarovník alpský (Circaea alpina)",
+   "Q159669": "Vrbovka růžová (Epilobium roseum)",
+   "Q160123": "Lokanka lepá (Clarkia unguiculata)",
+   "Q164151": "Vrbovka žláznatá (Epilobium ciliatum)",
+   "Q164337": "Hvozdíček lomikamenovitý (Petrorhagia saxifraga)",
+   "Q3206161": "Marunek rakouský (Cota austriaca)",
+   "Q59420273": "Fejchoa (Feijoa sellowiana)"
+  }
+ },
+ {
+  "id": "Q2549523#x1",
+  "species": "Korymbie citroníková",
+  "latin": "Corymbia citriodora",
+  "text": "Kvete téměř po celý rok.",
+  "quote": "Flowering occurs in most months",
+  "claimed_false_for": {
+   "Q1520028": "Balmín metlatý (Leptospermum scoparium)",
+   "Q159094": "Vrbovka malokvětá (Epilobium parviflorum)",
+   "Q159669": "Vrbovka růžová (Epilobium roseum)",
+   "Q160123": "Lokanka lepá (Clarkia unguiculata)",
+   "Q164151": "Vrbovka žláznatá (Epilobium ciliatum)",
+   "Q164337": "Hvozdíček lomikamenovitý (Petrorhagia saxifraga)"
+  }
+ },
+ {
+  "id": "Q2549523#x2",
+  "species": "Korymbie citroníková",
+  "latin": "Corymbia citriodora",
+  "text": "Olej z listů se používá v repelentech proti komárům.",
+  "quote": "a refined form of this oil is used in insect repellents, especially against mosquitoes",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q2549523#x3",
+  "species": "Korymbie citroníková",
+  "latin": "Corymbia citriodora",
+  "text": "Dřevo je velmi těžké, tvrdé a odolné proti houbám a termitům.",
+  "quote": "Durabilidade: Classe 1 (muito durável), com alta resistência a fungos e cupins.",
+  "claimed_false_for": {
+   "Q158221": "Řeřišnice nedůtklivá (Cardamine impatiens)",
+   "Q159094": "Vrbovka malokvětá (Epilobium parviflorum)",
+   "Q159427": "Čarovník alpský (Circaea alpina)",
+   "Q159669": "Vrbovka růžová (Epilobium roseum)",
+   "Q160123": "Lokanka lepá (Clarkia unguiculata)",
+   "Q164151": "Vrbovka žláznatá (Epilobium ciliatum)",
+   "Q164337": "Hvozdíček lomikamenovitý (Petrorhagia saxifraga)",
+   "Q271179": "Vrcholák pravý (Terminalia catappa)",
+   "Q3206161": "Marunek rakouský (Cota austriaca)"
+  }
+ },
+ {
+  "id": "Q2549523#x4",
+  "species": "Korymbie citroníková",
+  "latin": "Corymbia citriodora",
+  "text": "Po pokácení nebo požáru znovu vyrůstá ze zásobního orgánu u paty kmene.",
+  "quote": "um órgão de reserva que permite a rebrota vigorosa após corte ou incêndio",
+  "claimed_false_for": {
+   "Q158221": "Řeřišnice nedůtklivá (Cardamine impatiens)",
+   "Q160123": "Lokanka lepá (Clarkia unguiculata)",
+   "Q3206161": "Marunek rakouský (Cota austriaca)"
+  }
+ },
+ {
+  "id": "Q33115#0",
+  "species": "Prustka obecná",
+  "latin": "Hippuris vulgaris",
+  "text": "Roste ve stojaté nebo pomalu tekoucí vodě.",
+  "quote": "Roste ve stojaté nebo jen líně tekoucí vodě, její výška hladiny může kolísat.",
+  "claimed_false_for": {
+   "Q159842": "Čistec německý (Stachys germanica)",
+   "Q160068": "Záraza vyšší (Orobanche elatior)",
+   "Q164024": "Černýš hajní (Melampyrum nemorosum)",
+   "Q21156075": "Chrpa parukářka (Centaurea pseudophrygia)",
+   "Q3918504": "Ostružiník vzpřímený (Rubus nessensis)",
+   "Q460517": "Mandarinka klementina (Citrus ×clementina)",
+   "Q63045": "Řečík terebintový (Pistacia terebinthus)",
+   "Q7218532": "Jedovatec kořenující (Toxicodendron radicans)"
+  }
+ },
+ {
+  "id": "Q3390128#1",
+  "species": "Oměj tuhý",
+  "latin": "Aconitum firmum",
+  "text": "Má nejčastěji tmavě modrofialové květy.",
+  "quote": "Okvětních lístků je 5, nejčastěji tmavě modrofialové",
+  "claimed_false_for": {
+   "Q2007832": "Chebule korková (Anamirta cocculus)",
+   "Q2991695": "Bolševník sibiřský (Heracleum sibiricum)"
+  }
+ },
+ {
+  "id": "Q3927688#1",
+  "species": "Dub žlutavý",
+  "latin": "Quercus dalechampii",
+  "text": "Obvykle dosahuje výšky 8 až 20 metrů.",
+  "quote": "dosahující výšky obvykle 8–20 m",
+  "claimed_false_for": {
+   "Q159842": "Čistec německý (Stachys germanica)",
+   "Q160068": "Záraza vyšší (Orobanche elatior)",
+   "Q164024": "Černýš hajní (Melampyrum nemorosum)",
+   "Q21156075": "Chrpa parukářka (Centaurea pseudophrygia)"
+  }
+ },
+ {
+  "id": "Q551995#0",
+  "species": "Azorela nahloučená",
+  "latin": "Azorella compacta",
+  "text": "Tvoří kompaktní polštáře, které mohou být širší než dva metry.",
+  "quote": "tvořící kompaktní, bochanovité polštáře, které mohou dosáhnout průměru více než 2 metry a výšky přes 1 metr",
+  "claimed_false_for": {
+   "Q2007832": "Chebule korková (Anamirta cocculus)",
+   "Q2991695": "Bolševník sibiřský (Heracleum sibiricum)"
+  }
+ },
+ {
+  "id": "Q7215753#0",
+  "species": "Srpice barvířská",
+  "latin": "Serratula tinctoria",
+  "text": "Dorůstá do výšky 40 až 80 centimetrů.",
+  "quote": "s lodyhou vysokou 40 až 80 cm",
+  "claimed_false_for": {
+   "Q460517": "Mandarinka klementina (Citrus ×clementina)",
+   "Q63045": "Řečík terebintový (Pistacia terebinthus)",
+   "Q958823": "Děhel lesní (Angelica sylvestris)"
+  }
+ },
+ {
+  "id": "Q782859#4",
+  "species": "Kopřivák morušovitý",
+  "latin": "Dendrocnide moroides",
+  "text": "Obsahuje nervový jed, který způsobuje bolest.",
+  "quote": "Neurotoxin obsažený ve vláknech bezprostředně způsobuje bolest",
+  "claimed_false_for": {
+   "Q7218532": "Jedovatec kořenující (Toxicodendron radicans)"
+  }
+ },
+ {
+  "id": "Q796692#3",
+  "species": "Šalvěj kalifornská",
+  "latin": "Salvia columbariae",
+  "text": "Často roste tam, kde předtím hořelo.",
+  "quote": "téměř vždy v prořídlých, otevřených porostech, často po požárech",
+  "claimed_false_for": {
+   "Q460517": "Mandarinka klementina (Citrus ×clementina)"
+  }
+ },
+ {
+  "id": "Q844835#0",
+  "species": "Svitel latnatý",
+  "latin": "Koelreuteria paniculata",
+  "text": "Na podzim má plody podobné malým lampionům.",
+  "quote": "Na podzim přináší množství ozdobných plodů, které se podobají malým lampionům",
+  "claimed_false_for": {
+   "Q3918504": "Ostružiník vzpřímený (Rubus nessensis)",
+   "Q460517": "Mandarinka klementina (Citrus ×clementina)"
+  }
+ },
+ {
+  "id": "Q894245#3",
+  "species": "Eleuterokok ostnitý",
+  "latin": "Eleutherococcus senticosus",
+  "text": "Dorůstá zhruba do výšky 1,5 až 2 metrů.",
+  "quote": "dorůstající do průměrně výše 1,5 až 2 m",
+  "claimed_false_for": {
+   "Q159842": "Čistec německý (Stachys germanica)"
+  }
+ }
+]

@@ -1,0 +1,196 @@
+[
+ {
+  "id": "Q1165686#x0",
+  "species": "Trsnatec lupenitý",
+  "latin": "Grifola frondosa",
+  "text": "Roste u paty stromů, zejména starých dubů a javorů.",
+  "quote": "grows at the base of trees, particularly old growth oaks or maples",
+  "claimed_false_for": {
+   "Q503359": "Lysohlávka kopinatá (Psilocybe semilanceata)"
+  }
+ },
+ {
+  "id": "Q1165686#x1",
+  "species": "Trsnatec lupenitý",
+  "latin": "Grifola frondosa",
+  "text": "Často roste několik let po sobě na stejném místě.",
+  "quote": "is a perennial fungus that often grows in the same place for several years in succession",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1165686#x2",
+  "species": "Trsnatec lupenitý",
+  "latin": "Grifola frondosa",
+  "text": "Plodnice tvoří trsy velké až 50 cm.",
+  "quote": "The fruiting bodies form clumps up to 50 cm (20 in)",
+  "claimed_false_for": {
+   "Q1434635": "Holubinka fialovonohá (Russula violeipes)",
+   "Q3915457": "Slizobedla lesklá (Limacella illinita)",
+   "Q430845": "Ryzec dubový (Lactarius quietus)",
+   "Q753833": "Outkovka pestrá (Trametes versicolor)",
+   "Q96895499": "Choroš zimní (Lentinus brumalis)"
+  }
+ },
+ {
+  "id": "Q1165686#x3",
+  "species": "Trsnatec lupenitý",
+  "latin": "Grifola frondosa",
+  "text": "Způsobuje bílou hnilobu dřeva.",
+  "quote": "白色腐朽を引き起こす木材腐朽菌",
+  "claimed_false_for": {
+   "Q1314944": "Verpáník lékařský (Laricifomes officinalis)",
+   "Q1434635": "Holubinka fialovonohá (Russula violeipes)",
+   "Q36992": "Kotrč kadeřavý (Sparassis crispa)",
+   "Q3915457": "Slizobedla lesklá (Limacella illinita)",
+   "Q430845": "Ryzec dubový (Lactarius quietus)",
+   "Q53743": "Krásnoporka žemlička (Albatrellus confluens)",
+   "Q631566": "Pstřeň dubový (Fistulina hepatica)",
+   "Q772098": "Sírovec žlutooranžový (Laetiporus sulphureus)"
+  }
+ },
+ {
+  "id": "Q1536218#x0",
+  "species": "Šťavnatka žlutolemá",
+  "latin": "Hygrophorus chrysodon",
+  "text": "Tvoří mykorhizu na kořenech stromů.",
+  "quote": "fiind un simbiont micoriza (formează micorize pe rădăcinile arborilor)",
+  "claimed_false_for": {
+   "Q1423834": "Pečárka opásaná (Agaricus bitorquis)",
+   "Q1552361": "Límcovka měděnková (Stropharia aeruginosa)",
+   "Q186451": "Hlíva ústřičná (Pleurotus ostreatus)",
+   "Q243381": "Bedla vysoká (Macrolepiota procera)",
+   "Q794194": "Lysohlávka aztécká (Psilocybe aztecorum)",
+   "Q922887": "Bedla ostrošupinná (Echinoderma asperum)"
+  }
+ },
+ {
+  "id": "Q1536218#x1",
+  "species": "Šťavnatka žlutolemá",
+  "latin": "Hygrophorus chrysodon",
+  "text": "Roste vždy ve větších skupinách od července do listopadu.",
+  "quote": "crescând mereu în grupuri mai mari din iulie până în noiembrie",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1536218#x2",
+  "species": "Šťavnatka žlutolemá",
+  "latin": "Hygrophorus chrysodon",
+  "text": "Roste v listnatých a smíšených lesích pod buky, vzácněji pod smrky.",
+  "quote": "în păduri de foioase sau în cele mixte sub fagi, rar și în cele de conifere pe lângă molizi",
+  "claimed_false_for": {
+   "Q1423834": "Pečárka opásaná (Agaricus bitorquis)",
+   "Q1855552": "Šťavnatka olivově bílá (Hygrophorus olivaceoalbus)",
+   "Q794194": "Lysohlávka aztécká (Psilocybe aztecorum)",
+   "Q934772": "Voskovka luční (Cuphophyllus pratensis)"
+  }
+ },
+ {
+  "id": "Q2360294#x0",
+  "species": "Kozák topolový",
+  "latin": "Leccinum duriusculum",
+  "text": "Žije v symbióze se stromy a tvoří mykorhizu na jejich kořenech.",
+  "quote": "fiind un simbiont micoriza (formează micorize pe rădăcinile arborilor)",
+  "claimed_false_for": {
+   "Q752492": "Špička obecná (Marasmius oreades)",
+   "Q901047": "Koniofora sklepní (Coniophora puteana)"
+  }
+ },
+ {
+  "id": "Q2360294#x2",
+  "species": "Kozák topolový",
+  "latin": "Leccinum duriusculum",
+  "text": "Plodnice rostou od června do října, někdy až do listopadu.",
+  "quote": "din iunie până în octombrie (noiembrie)",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q2360294#x3",
+  "species": "Kozák topolový",
+  "latin": "Leccinum duriusculum",
+  "text": "Červi napadají plodnice jen zřídka.",
+  "quote": "este numai rareori atacată de viermi",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q320999#x0",
+  "species": "Houževnatec jedlý",
+  "latin": "Lentinula edodes",
+  "text": "Roste ve skupinách na odumírajícím dřevě listnatých stromů.",
+  "quote": "Shiitake grow in groups on the decaying wood of deciduous trees",
+  "claimed_false_for": {
+   "Q13684": "Lišák zprohýbaný (Hydnum repandum)",
+   "Q1423834": "Pečárka opásaná (Agaricus bitorquis)",
+   "Q1445543": "Muchomůrka šiškovitá (Amanita strobiliformis)",
+   "Q1855552": "Šťavnatka olivově bílá (Hygrophorus olivaceoalbus)",
+   "Q1879286": "Šťavnatka modřínová (Hygrophorus lucorum)",
+   "Q188749": "Liška obecná (Cantharellus cibarius)",
+   "Q243381": "Bedla vysoká (Macrolepiota procera)",
+   "Q28492278": "Lakovka ametystová (Laccaria amethystina)",
+   "Q503359": "Lysohlávka kopinatá (Psilocybe semilanceata)",
+   "Q62138": "Ryzec pravý (Lactarius deliciosus)",
+   "Q633503": "Hřib žlučník (Tylopilus felleus)",
+   "Q757127": "Hřib bronzový (Boletus aereus)",
+   "Q816730": "Klouzek obecný (Suillus luteus)",
+   "Q865540": "Ryzec kravský (Lactarius torminosus)",
+   "Q922887": "Bedla ostrošupinná (Echinoderma asperum)",
+   "Q934772": "Voskovka luční (Cuphophyllus pratensis)"
+  }
+ },
+ {
+  "id": "Q320999#x2",
+  "species": "Houževnatec jedlý",
+  "latin": "Lentinula edodes",
+  "text": "Syrové nebo málo tepelně upravené plodnice vzácně způsobují alergickou vyrážku.",
+  "quote": "Rarely, consumption of raw or slightly cooked shiitake mushrooms may cause an allergic reaction",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q320999#x3",
+  "species": "Houževnatec jedlý",
+  "latin": "Lentinula edodes",
+  "text": "Na slunci se v plodnicích tvoří vitamin D2.",
+  "quote": "shiitakes produce vitamin D2 upon exposure of their internal ergosterol to ultraviolet B (UVB) rays from sunlight",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q320999#x4",
+  "species": "Houževnatec jedlý",
+  "latin": "Lentinula edodes",
+  "text": "Tvoří asi čtvrtinu celkové roční produkce pěstovaných hub na světě.",
+  "quote": "contributing about 25% of the total yearly production of mushrooms",
+  "claimed_false_for": {
+   "Q13684": "Lišák zprohýbaný (Hydnum repandum)",
+   "Q1445543": "Muchomůrka šiškovitá (Amanita strobiliformis)",
+   "Q1552361": "Límcovka měděnková (Stropharia aeruginosa)",
+   "Q1855552": "Šťavnatka olivově bílá (Hygrophorus olivaceoalbus)",
+   "Q1879286": "Šťavnatka modřínová (Hygrophorus lucorum)",
+   "Q188749": "Liška obecná (Cantharellus cibarius)",
+   "Q229814": "Troudnatec kopytovitý (Fomes fomentarius)",
+   "Q28492278": "Lakovka ametystová (Laccaria amethystina)",
+   "Q503359": "Lysohlávka kopinatá (Psilocybe semilanceata)",
+   "Q62138": "Ryzec pravý (Lactarius deliciosus)",
+   "Q631566": "Pstřeň dubový (Fistulina hepatica)",
+   "Q633503": "Hřib žlučník (Tylopilus felleus)",
+   "Q728673": "Hnojník inkoustový (Coprinopsis atramentaria)",
+   "Q757127": "Hřib bronzový (Boletus aereus)",
+   "Q772098": "Sírovec žlutooranžový (Laetiporus sulphureus)",
+   "Q794194": "Lysohlávka aztécká (Psilocybe aztecorum)",
+   "Q816730": "Klouzek obecný (Suillus luteus)",
+   "Q865540": "Ryzec kravský (Lactarius torminosus)",
+   "Q922887": "Bedla ostrošupinná (Echinoderma asperum)",
+   "Q934772": "Voskovka luční (Cuphophyllus pratensis)"
+  }
+ },
+ {
+  "id": "Q320999#x5",
+  "species": "Houževnatec jedlý",
+  "latin": "Lentinula edodes",
+  "text": "Klobouk má průměr 4 až 10 centimetrů.",
+  "quote": "傘の径は4 - 10センチメートル",
+  "claimed_false_for": {
+   "Q229814": "Troudnatec kopytovitý (Fomes fomentarius)",
+   "Q503359": "Lysohlávka kopinatá (Psilocybe semilanceata)",
+   "Q772098": "Sírovec žlutooranžový (Laetiporus sulphureus)"
+  }
+ }
+]
