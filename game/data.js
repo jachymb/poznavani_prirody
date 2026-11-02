@@ -413738,6 +413738,7 @@ window.GAME_DATA = [
               "Q1460161",
               "Q146224",
               "Q149109",
+              "Q150994",
               "Q1572669",
               "Q1646440",
               "Q1752834",
@@ -414418,7 +414419,8 @@ window.GAME_DATA = [
               "Q1156618",
               "Q11879787",
               "Q1937687",
-              "Q292408"
+              "Q292408",
+              "Q3490169"
             ]
           }
         ],
@@ -414537,6 +414539,8 @@ window.GAME_DATA = [
             "text": "Tvoří zelené polštáře o průměru až půl metru.",
             "cat": "vzhled",
             "not": [
+              "Q146224",
+              "Q150994",
               "Q179213"
             ]
           },
@@ -414904,7 +414908,9 @@ window.GAME_DATA = [
             "id": "Q1763341#x3",
             "text": "Ve střední Evropě platí za pozůstatek z doby ledové.",
             "cat": "výskyt",
-            "not": []
+            "not": [
+              "Q182303"
+            ]
           }
         ],
         "continents": [
@@ -415928,6 +415934,7 @@ window.GAME_DATA = [
               "Q1937687",
               "Q245867",
               "Q292408",
+              "Q3490169",
               "Q385125",
               "Q442127",
               "Q796552",
