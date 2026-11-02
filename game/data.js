@@ -663230,7 +663230,7 @@ window.GAME_DATA = [
       },
       {
         "id": "Q188717",
-        "name": "Smilodon",
+        "name": "Tygr šavlozubý",
         "latin": "Smilodon",
         "family": "kočkovití",
         "order": "šelmy",
