@@ -1,0 +1,57 @@
+[
+ {
+  "id": "Q379761#x1",
+  "species": "Jeřáb paví",
+  "latin": "Balearica pavonina",
+  "text": "Při hledání potravy dupe, aby z půdy vypudil bezobratlé.",
+  "quote": "they might stomp their feet to disturb and reveal invertebrates in the soil",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q379761#x2",
+  "species": "Jeřáb paví",
+  "latin": "Balearica pavonina",
+  "text": "Odpočívá a přespává na stromech.",
+  "quote": "It is also known to roost in trees.",
+  "claimed_false_for": {
+   "Q1141135": "Jeřáb bradavičnatý (Bugeranus carunculatus)",
+   "Q21949185": "Jeřáb bílý (Leucogeranus leucogeranus)",
+   "Q261445": "Jeřáb černokrký (Grus nigricollis)"
+  }
+ },
+ {
+  "id": "Q379761#x3",
+  "species": "Jeřáb paví",
+  "latin": "Balearica pavonina",
+  "text": "Mláďata se pasou s rodiči na loukách už den po vylíhnutí.",
+  "quote": "Chicks will forage with their parents in grassland areas the day after hatching.",
+  "claimed_false_for": {
+   "Q25469": "Špaček obecný (Sturnus vulgaris)",
+   "Q27075785": "Zvonek zelený (Chloris chloris)",
+   "Q619058": "Arassari pestrý (Pteroglossus torquatus)"
+  }
+ },
+ {
+  "id": "Q379761#x4",
+  "species": "Jeřáb paví",
+  "latin": "Balearica pavonina",
+  "text": "Vejce zahřívají samec i samice 28 až 31 dní.",
+  "quote": "Incubation of eggs will be performed by both males and females and will last 28–31 days.",
+  "claimed_false_for": {
+   "Q1086846": "Chřástalec malý (Heliornis fulica)",
+   "Q19055": "Bělokur běloocasý (Lagopus leucura)",
+   "Q25469": "Špaček obecný (Sturnus vulgaris)",
+   "Q27075785": "Zvonek zelený (Chloris chloris)",
+   "Q619058": "Arassari pestrý (Pteroglossus torquatus)",
+   "Q917017": "Chřástal páskovaný (Gallirallus philippensis)"
+  }
+ },
+ {
+  "id": "Q379761#x5",
+  "species": "Jeřáb paví",
+  "latin": "Balearica pavonina",
+  "text": "Samci hlídají hnízdo na blízkých stromech, zatímco samice hledají potravu.",
+  "quote": "Males are known to stand guard by the nest in nearby trees, prepared to signal a threat, as females forage.",
+  "claimed_false_for": {}
+ }
+]

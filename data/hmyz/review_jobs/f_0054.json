@@ -1,0 +1,392 @@
+[
+ {
+  "id": "Q175045#x0",
+  "species": "Ploštička březová",
+  "latin": "Kleidocerys resedae",
+  "text": "Zimuje pod kůrou, ve škvírách stromů i v opadaném listí.",
+  "quote": "Зимуют в форме имаго и личинок в различных укрытиях, в том числе под корой, древесных трещинках и в опавших листьях.",
+  "claimed_false_for": {
+   "Q1409595": "Vážka červená (Crocothemis erythraea)",
+   "Q266370": "Znakoplavka obecná (Notonecta glauca)",
+   "Q751209": "Saranče čárkovaná (Stenobothrus lineatus)"
+  }
+ },
+ {
+  "id": "Q175045#x1",
+  "species": "Ploštička březová",
+  "latin": "Kleidocerys resedae",
+  "text": "Na bříšku má pachové žlázy, kterými odpuzuje nepřátele.",
+  "quote": "Снизу тельца на брюшке есть пахучие железы , с помощью которых они могут общаться между собой или же отпугивать врагов.",
+  "claimed_false_for": {
+   "Q1409595": "Vážka červená (Crocothemis erythraea)",
+   "Q581995": "Drvodělka fialová (Xylocopa violacea)",
+   "Q751209": "Saranče čárkovaná (Stenobothrus lineatus)"
+  }
+ },
+ {
+  "id": "Q175754#x0",
+  "species": "Zavíječ zimostrázový",
+  "latin": "Cydalima perspectalis",
+  "text": "Dospělí motýli jsou aktivní výhradně v noci.",
+  "quote": "Les adultes sont exclusivement nocturnes.",
+  "claimed_false_for": {
+   "Q1300802": "Bělopásek hrachorový (Neptis sappho)",
+   "Q311653": "Bělásek rezedkový (Pontia daplidice)",
+   "Q97672923": "Astraptes fulgerator (Telegonus fulgerator)"
+  }
+ },
+ {
+  "id": "Q175754#x1",
+  "species": "Zavíječ zimostrázový",
+  "latin": "Cydalima perspectalis",
+  "text": "Dospělé motýly přitahuje světlo, kroužou kolem lamp.",
+  "quote": "un papillon nocturne, attiré par la lumière, qu'on peut voir tournoyer autour de réverbères",
+  "claimed_false_for": {
+   "Q1300802": "Bělopásek hrachorový (Neptis sappho)",
+   "Q311653": "Bělásek rezedkový (Pontia daplidice)",
+   "Q97672923": "Astraptes fulgerator (Telegonus fulgerator)"
+  }
+ },
+ {
+  "id": "Q175754#x2",
+  "species": "Zavíječ zimostrázový",
+  "latin": "Cydalima perspectalis",
+  "text": "Přezimuje jako malé housenky v zámotcích z listů a hedvábného vlákna.",
+  "quote": "L'hivernage se fait sous forme de jeunes chenilles, dans des cocons de feuilles et de soie",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q175754#x3",
+  "species": "Zavíječ zimostrázový",
+  "latin": "Cydalima perspectalis",
+  "text": "Mladé housenky loví sršeň asijský.",
+  "quote": "Vespa velutina prélève plutôt des larves au stade précoce",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q175754#x4",
+  "species": "Zavíječ zimostrázový",
+  "latin": "Cydalima perspectalis",
+  "text": "Na housenkách parazituje moucha kuklice.",
+  "quote": "La mouche tachinaire Compsilura concinnata a été observée sur plusieurs sites comme parasitant les chenilles.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q175754#x5",
+  "species": "Zavíječ zimostrázový",
+  "latin": "Cydalima perspectalis",
+  "text": "Rozpětí křídel dospělého motýla je 40 až 45 milimetrů.",
+  "quote": "The wingspan of the adult is 40–45 mm.",
+  "claimed_false_for": {
+   "Q1303096": "Srpokřídlec trnkový (Cilix glaucata)",
+   "Q25818": "Kropenatec borový (Macaria liturata)"
+  }
+ },
+ {
+  "id": "Q18571888#x0",
+  "species": "Phloiophilus edwardsi",
+  "latin": "Phloiophilus edwardsii",
+  "text": "Živí se houbami, které rozkládají dřevo.",
+  "quote": "ernähren sich von holzzersetzenden Pilzen",
+  "claimed_false_for": {
+   "Q1093306": "Modrásek obecný (Plebejus idas)",
+   "Q1301917": "Mandelinka dvacetitečná (Chrysomela vigintipunctata)",
+   "Q1305510": "Bázlivec kalinový (Pyrrhalta viburni)",
+   "Q1427018": "Lesklice skvrnitá (Somatochlora flavomaculata)",
+   "Q1433805": "Slunéčko čtyřtečné (Harmonia quadripunctata)",
+   "Q1535893": "Střevlík fialový (Carabus violaceus)",
+   "Q18398440": "Sběrač rosný (Onymacris unguicularis)",
+   "Q387616": "Vážka žlutavá (Sympetrum flaveolum)",
+   "Q585566": "Lalokonosec rýhovaný (Otiorhynchus sulcatus)",
+   "Q624996": "Puchýřník lékařský (Lytta vesicatoria)"
+  }
+ },
+ {
+  "id": "Q18571888#x1",
+  "species": "Phloiophilus edwardsi",
+  "latin": "Phloiophilus edwardsii",
+  "text": "Larvy se vyvíjejí v suchých větvích a větvičkách.",
+  "quote": "Die Larven entwickeln sich in dürren Ästen und Zweigen.",
+  "claimed_false_for": {
+   "Q1093306": "Modrásek obecný (Plebejus idas)",
+   "Q1141328": "Páchník hnědý (Osmoderma eremita)",
+   "Q1301917": "Mandelinka dvacetitečná (Chrysomela vigintipunctata)",
+   "Q1305510": "Bázlivec kalinový (Pyrrhalta viburni)",
+   "Q1427018": "Lesklice skvrnitá (Somatochlora flavomaculata)",
+   "Q1433805": "Slunéčko čtyřtečné (Harmonia quadripunctata)",
+   "Q1535893": "Střevlík fialový (Carabus violaceus)",
+   "Q387616": "Vážka žlutavá (Sympetrum flaveolum)",
+   "Q585566": "Lalokonosec rýhovaný (Otiorhynchus sulcatus)",
+   "Q624996": "Puchýřník lékařský (Lytta vesicatoria)"
+  }
+ },
+ {
+  "id": "Q261060#x1",
+  "species": "Bourovec trávový",
+  "latin": "Euthrix potatoria",
+  "text": "Housenky pijí kapky rosy a deště, které se shromažďují na listech.",
+  "quote": "Znane są z tego, że spijają dość\nduże ilości wody w postaci kropel rosy i deszczu zbierających się na liściach rośliny pokarmowej.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q261060#x2",
+  "species": "Bourovec trávový",
+  "latin": "Euthrix potatoria",
+  "text": "Samci často přilétají k umělému světlu.",
+  "quote": "Samce często przylatują do sztucznych źródeł światła.",
+  "claimed_false_for": {
+   "Q1300802": "Bělopásek hrachorový (Neptis sappho)",
+   "Q311653": "Bělásek rezedkový (Pontia daplidice)",
+   "Q97672923": "Astraptes fulgerator (Telegonus fulgerator)"
+  }
+ },
+ {
+  "id": "Q261060#x3",
+  "species": "Bourovec trávový",
+  "latin": "Euthrix potatoria",
+  "text": "Samice kladou vajíčka na stébla trav a rákosů.",
+  "quote": "The females lay their eggs in small clusters, mainly on the stem of grasses or reeds.",
+  "claimed_false_for": {
+   "Q115128": "Lišaj kyprejový (Deilephila porcellus)",
+   "Q1300802": "Bělopásek hrachorový (Neptis sappho)",
+   "Q1303096": "Srpokřídlec trnkový (Cilix glaucata)",
+   "Q1761280": "Můřice obecná (Tethea or)",
+   "Q25818": "Kropenatec borový (Macaria liturata)",
+   "Q311653": "Bělásek rezedkový (Pontia daplidice)",
+   "Q33316": "Drsnokřídlec lipový (Biston strataria)"
+  }
+ },
+ {
+  "id": "Q285314#x0",
+  "species": "Otakárek citrusový",
+  "latin": "Papilio demoleus",
+  "text": "Dospělí samci umírají po čtyřech dnech, samice po týdnu.",
+  "quote": "male adults dying after four days and females after a week",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q285314#x1",
+  "species": "Otakárek citrusový",
+  "latin": "Papilio demoleus",
+  "text": "Parazitické vosy kladou do housenek desítky vajíček.",
+  "quote": "parasitic wasps, which lay dozens of eggs in them",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q285314#x3",
+  "species": "Otakárek citrusový",
+  "latin": "Papilio demoleus",
+  "text": "Mladé housenky připomínají ptačí trus.",
+  "quote": "which resemble a white patch of uric acid deposited in a bird's",
+  "claimed_false_for": {
+   "Q1520915": "Pestřenka psaná (Sphaerophoria scripta)",
+   "Q176338": "Slunéčko šestnáctitečné (Tytthaspis sedecimpunctata)",
+   "Q221792": "Pestrokrovečník mravenčí (Thanasimus formicarius)"
+  }
+ },
+ {
+  "id": "Q285314#x4",
+  "species": "Otakárek citrusový",
+  "latin": "Papilio demoleus",
+  "text": "Barva kukly se přizpůsobuje barvě a povrchu okolí.",
+  "quote": "with the colour developing according to the prevalent colour and texture in the background",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q285314#x5",
+  "species": "Otakárek citrusový",
+  "latin": "Papilio demoleus",
+  "text": "Přezimuje jako kukla v chladných oblastech.",
+  "quote": "In cold climates, the lime butterfly is known to pass the winter as pupae.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q514036#x0",
+  "species": "Batolec červený",
+  "latin": "Apatura ilia",
+  "text": "Živí se medovicí ze stromů a létá blízko jejich vrcholků.",
+  "quote": "It feeds on tree honeydew and flies near their summit.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q514036#x1",
+  "species": "Batolec červený",
+  "latin": "Apatura ilia",
+  "text": "Housenky se živí vrbami a topoly.",
+  "quote": "The caterpillar host plants are willows and poplars",
+  "claimed_false_for": {
+   "Q115128": "Lišaj kyprejový (Deilephila porcellus)",
+   "Q1300802": "Bělopásek hrachorový (Neptis sappho)",
+   "Q1520915": "Pestřenka psaná (Sphaerophoria scripta)",
+   "Q176338": "Slunéčko šestnáctitečné (Tytthaspis sedecimpunctata)",
+   "Q221792": "Pestrokrovečník mravenčí (Thanasimus formicarius)",
+   "Q25818": "Kropenatec borový (Macaria liturata)",
+   "Q311653": "Bělásek rezedkový (Pontia daplidice)"
+  }
+ },
+ {
+  "id": "Q514036#x2",
+  "species": "Batolec červený",
+  "latin": "Apatura ilia",
+  "text": "Přezimuje jako malá hnědá housenka přilepená k větvičce.",
+  "quote": "winters as a young caterpillar, becoming brown, stuck to a twig",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q514036#x4",
+  "species": "Batolec červený",
+  "latin": "Apatura ilia",
+  "text": "Rozpětí křídel je u samic 55–60 mm a u samců 60–70 mm.",
+  "quote": "The wingspan is 55–60 mm (2.2–2.4 in) in the female and 60–70 mm (2.4–2.8 in) in the male.",
+  "claimed_false_for": {
+   "Q1300802": "Bělopásek hrachorový (Neptis sappho)",
+   "Q1303096": "Srpokřídlec trnkový (Cilix glaucata)",
+   "Q1761280": "Můřice obecná (Tethea or)",
+   "Q25818": "Kropenatec borový (Macaria liturata)"
+  }
+ },
+ {
+  "id": "Q514036#x5",
+  "species": "Batolec červený",
+  "latin": "Apatura ilia",
+  "text": "Létá od května do září v jedné nebo dvou generacích.",
+  "quote": "A. ilia flies from May to September in one or two generations.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q618315#x2",
+  "species": "Vlnatka krvavá",
+  "latin": "Eriosoma lanigerum",
+  "text": "Po napadení parazitickými vosami přestávají tvořit vosk a zčernají.",
+  "quote": "When they have been parasitised by the wasps the aphids cease wax production and turn black in colour.",
+  "claimed_false_for": {
+   "Q1409595": "Vážka červená (Crocothemis erythraea)",
+   "Q266370": "Znakoplavka obecná (Notonecta glauca)",
+   "Q581995": "Drvodělka fialová (Xylocopa violacea)",
+   "Q751209": "Saranče čárkovaná (Stenobothrus lineatus)",
+   "Q940337": "Štěnice domácí (Cimex lectularius)"
+  }
+ },
+ {
+  "id": "Q618315#x3",
+  "species": "Vlnatka krvavá",
+  "latin": "Eriosoma lanigerum",
+  "text": "Požírají ho berušky, larvy pestřenek a zlatoočky.",
+  "quote": "these aphids are preyed on by the bug Anthocoris nemoralis, ladybirds, hoverfly larvae and lacewings.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q618315#x4",
+  "species": "Vlnatka krvavá",
+  "latin": "Eriosoma lanigerum",
+  "text": "Jejich množství na stromech omezují škvoři.",
+  "quote": "The presence of earwigs Forficula auricularia on the trees can reduce the levels of aphid infestation",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q618315#x5",
+  "species": "Vlnatka krvavá",
+  "latin": "Eriosoma lanigerum",
+  "text": "Rodí až pět živých mláďat denně.",
+  "quote": "Each aphid may give birth to up to five live young a day",
+  "claimed_false_for": {
+   "Q1126211": "Vroubenka smrdutá (Coreus marginatus)",
+   "Q1409595": "Vážka červená (Crocothemis erythraea)",
+   "Q2239043": "Molice vlaštovičníková (Aleyrodes proletella)",
+   "Q266370": "Znakoplavka obecná (Notonecta glauca)",
+   "Q3270185": "Kněžice mramorovaná (Halyomorpha halys)",
+   "Q56085742": "Kněžice pásovaná (Graphosoma italicum)",
+   "Q581988": "Molice skleníková (Trialeurodes vaporariorum)",
+   "Q581995": "Drvodělka fialová (Xylocopa violacea)",
+   "Q751209": "Saranče čárkovaná (Stenobothrus lineatus)",
+   "Q940337": "Štěnice domácí (Cimex lectularius)"
+  }
+ },
+ {
+  "id": "Q638257#x0",
+  "species": "Kousavec korový",
+  "latin": "Rhagium inquisitor",
+  "text": "Larvy se vyvíjejí hlavně v odumřelých jehličnanech.",
+  "quote": "The larvae develop mainly in dead conifers.",
+  "claimed_false_for": {
+   "Q1093306": "Modrásek obecný (Plebejus idas)",
+   "Q1141328": "Páchník hnědý (Osmoderma eremita)",
+   "Q1301917": "Mandelinka dvacetitečná (Chrysomela vigintipunctata)",
+   "Q1305510": "Bázlivec kalinový (Pyrrhalta viburni)",
+   "Q1427018": "Lesklice skvrnitá (Somatochlora flavomaculata)",
+   "Q1433805": "Slunéčko čtyřtečné (Harmonia quadripunctata)",
+   "Q1535893": "Střevlík fialový (Carabus violaceus)",
+   "Q18398440": "Sběrač rosný (Onymacris unguicularis)",
+   "Q387616": "Vážka žlutavá (Sympetrum flaveolum)",
+   "Q585566": "Lalokonosec rýhovaný (Otiorhynchus sulcatus)",
+   "Q624996": "Puchýřník lékařský (Lytta vesicatoria)"
+  }
+ },
+ {
+  "id": "Q638257#x1",
+  "species": "Kousavec korový",
+  "latin": "Rhagium inquisitor",
+  "text": "Na larvách parazitují lumci.",
+  "quote": "на личинках ребристого рагия паразитируют наездники из семейств браконид",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q638257#x2",
+  "species": "Kousavec korový",
+  "latin": "Rhagium inquisitor",
+  "text": "Dospělci mohou přezimovat v kukelních komůrkách.",
+  "quote": "Adults may overwinter in their pupal chambers",
+  "claimed_false_for": {
+   "Q1093306": "Modrásek obecný (Plebejus idas)",
+   "Q1301917": "Mandelinka dvacetitečná (Chrysomela vigintipunctata)",
+   "Q1305510": "Bázlivec kalinový (Pyrrhalta viburni)",
+   "Q1427018": "Lesklice skvrnitá (Somatochlora flavomaculata)",
+   "Q387616": "Vážka žlutavá (Sympetrum flaveolum)"
+  }
+ },
+ {
+  "id": "Q638257#x3",
+  "species": "Kousavec korový",
+  "latin": "Rhagium inquisitor",
+  "text": "Samice naklade za život 49 až 120 vajíček.",
+  "quote": "За жизнь самка способна отложить от 49 до 120 яиц.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q638257#x4",
+  "species": "Kousavec korový",
+  "latin": "Rhagium inquisitor",
+  "text": "Larvy se podílejí na rozkladu odumřelého dřeva.",
+  "quote": "the larvae contribute to the breakdown of dead wood",
+  "claimed_false_for": {
+   "Q1093306": "Modrásek obecný (Plebejus idas)",
+   "Q1301917": "Mandelinka dvacetitečná (Chrysomela vigintipunctata)",
+   "Q1305510": "Bázlivec kalinový (Pyrrhalta viburni)",
+   "Q1427018": "Lesklice skvrnitá (Somatochlora flavomaculata)",
+   "Q1433805": "Slunéčko čtyřtečné (Harmonia quadripunctata)",
+   "Q1535893": "Střevlík fialový (Carabus violaceus)",
+   "Q18398440": "Sběrač rosný (Onymacris unguicularis)",
+   "Q387616": "Vážka žlutavá (Sympetrum flaveolum)",
+   "Q585566": "Lalokonosec rýhovaný (Otiorhynchus sulcatus)",
+   "Q624996": "Puchýřník lékařský (Lytta vesicatoria)"
+  }
+ },
+ {
+  "id": "Q638257#x5",
+  "species": "Kousavec korový",
+  "latin": "Rhagium inquisitor",
+  "text": "Samice kladou vajíčka do štěrbin v kůře.",
+  "quote": "Females lay eggs in bark crevices",
+  "claimed_false_for": {
+   "Q1093306": "Modrásek obecný (Plebejus idas)",
+   "Q1141328": "Páchník hnědý (Osmoderma eremita)",
+   "Q1301917": "Mandelinka dvacetitečná (Chrysomela vigintipunctata)",
+   "Q1427018": "Lesklice skvrnitá (Somatochlora flavomaculata)",
+   "Q1433805": "Slunéčko čtyřtečné (Harmonia quadripunctata)",
+   "Q1535893": "Střevlík fialový (Carabus violaceus)",
+   "Q387616": "Vážka žlutavá (Sympetrum flaveolum)",
+   "Q585566": "Lalokonosec rýhovaný (Otiorhynchus sulcatus)",
+   "Q624996": "Puchýřník lékařský (Lytta vesicatoria)"
+  }
+ }
+]

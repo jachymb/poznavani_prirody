@@ -1,0 +1,34 @@
+[
+ {
+  "id": "Q179213#x0",
+  "species": "Dřípovičník zpeřený",
+  "latin": "Schistostega pennata",
+  "text": "Kulovité buňky fungují jako čočky a soustřeďují i velmi slabé světlo.",
+  "quote": "spherical cells in the protonema that act as lenses, collecting and concentrating even the faintest light",
+  "claimed_false_for": {
+   "Q1432956": "Měřík čeřitý (Plagiomnium undulatum)",
+   "Q1777800": "Zpeřenka tamaryšková (Thuidium tamariscinum)"
+  }
+ },
+ {
+  "id": "Q325331#0",
+  "species": "Děrkavka poduškovitá",
+  "latin": "Grimmia pulvinata",
+  "text": "Často osidluje zdivo a beton.",
+  "quote": "velmi často však osidluje sekundární substráty antropogenního původu (zdivo, beton)",
+  "claimed_false_for": {
+   "Q149109": "Kostrbatec zelený (Rhytidiadelphus squarrosus)"
+  }
+ },
+ {
+  "id": "Q3490169#1",
+  "species": "Hlevíček hladký",
+  "latin": "Phaeoceros laevis",
+  "text": "Nachází se podél cest, v příkopech a na vlhkých polích.",
+  "quote": "Nachází se podél cest, v příkopech, na vlhkých polích, úhorech a podél lesních potůčků.",
+  "claimed_false_for": {
+   "Q1777800": "Zpeřenka tamaryšková (Thuidium tamariscinum)",
+   "Q301377": "Ploník ztenčený (Polytrichastrum formosum)"
+  }
+ }
+]

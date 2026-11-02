@@ -355841,6 +355841,7 @@ window.GAME_DATA = [
             "text": "Dorůstá délky těla až 80 cm.",
             "cat": "čísla",
             "not": [
+              "Q132808",
               "Q134974",
               "Q1472053",
               "Q1519675",
@@ -356166,6 +356167,7 @@ window.GAME_DATA = [
             "cat": "výskyt",
             "not": [
               "Q107078367",
+              "Q132808",
               "Q134974",
               "Q136116",
               "Q1472053",
@@ -356761,6 +356763,7 @@ window.GAME_DATA = [
             "not": [
               "Q1300629",
               "Q1317340",
+              "Q132808",
               "Q135052",
               "Q1646839",
               "Q586336"
@@ -356778,6 +356781,7 @@ window.GAME_DATA = [
             "cat": "výskyt",
             "not": [
               "Q1300629",
+              "Q132808",
               "Q1646839",
               "Q206070"
             ]
@@ -357281,7 +357285,9 @@ window.GAME_DATA = [
             "id": "Q720580#1",
             "text": "Dokáže se velmi rychle pohybovat do strany.",
             "cat": "chování",
-            "not": []
+            "not": [
+              "Q132808"
+            ]
           },
           {
             "id": "Q720580#2",
@@ -381767,7 +381773,8 @@ window.GAME_DATA = [
             "text": "Kvete v květnu a červnu.",
             "cat": "růst",
             "not": [
-              "Q109995"
+              "Q109995",
+              "Q159349"
             ]
           },
           {
@@ -388141,7 +388148,10 @@ window.GAME_DATA = [
             "text": "Semena odnášejí mravenci do mravenišť.",
             "cat": "vztahy",
             "not": [
-              "Q164181"
+              "Q159349",
+              "Q164181",
+              "Q3502763",
+              "Q41794154"
             ]
           }
         ],
@@ -389662,7 +389672,10 @@ window.GAME_DATA = [
               "Q158109",
               "Q158237",
               "Q158935",
+              "Q159349",
               "Q17507117",
+              "Q3502763",
+              "Q41794154",
               "Q956289"
             ]
           }
@@ -396353,11 +396366,13 @@ window.GAME_DATA = [
             "text": "Může silně potlačit pěstované plodiny.",
             "cat": "vztahy",
             "not": [
+              "Q159349",
               "Q161153",
               "Q1785436",
               "Q27885033",
               "Q2849950",
               "Q33194",
+              "Q3502763",
               "Q737615",
               "Q828375",
               "Q922285",
@@ -401335,11 +401350,14 @@ window.GAME_DATA = [
               "Q159247",
               "Q159251",
               "Q159255",
+              "Q159349",
               "Q159639",
               "Q26875",
               "Q311524",
               "Q3391243",
+              "Q3502763",
               "Q3847968",
+              "Q41794154",
               "Q50346809"
             ]
           },
@@ -402499,7 +402517,11 @@ window.GAME_DATA = [
             "id": "Q3337247#0",
             "text": "Ponořené listy brzy odumírají.",
             "cat": "růst",
-            "not": []
+            "not": [
+              "Q159349",
+              "Q3502763",
+              "Q41794154"
+            ]
           },
           {
             "id": "Q3337247#1",
@@ -405160,8 +405182,10 @@ window.GAME_DATA = [
             "text": "Kvete modrofialovými květy se šesti lístky.",
             "cat": "vzhled",
             "not": [
+              "Q159349",
               "Q159886",
               "Q161123",
+              "Q41794154",
               "Q827098"
             ]
           },
@@ -409714,8 +409738,7 @@ window.GAME_DATA = [
             "text": "Roste ve skalních štěrbinách a na sutích.",
             "cat": "výskyt",
             "not": [
-              "Q1637866",
-              "Q2466601"
+              "Q1637866"
             ]
           }
         ],
@@ -410602,7 +410625,6 @@ window.GAME_DATA = [
             "cat": "čísla",
             "not": [
               "Q213548",
-              "Q2466601",
               "Q2678657"
             ]
           },
@@ -412857,15 +412879,6 @@ window.GAME_DATA = [
               "Q1546744",
               "Q901435"
             ]
-          },
-          {
-            "id": "Q948839#1",
-            "text": "Bývá vysoká 30 až 150 cm.",
-            "cat": "čísla",
-            "not": [
-              "Q2466601",
-              "Q901435"
-            ]
           }
         ],
         "continents": [
@@ -414796,6 +414809,7 @@ window.GAME_DATA = [
             "not": [
               "Q137867",
               "Q149101",
+              "Q149109",
               "Q150994",
               "Q1763341",
               "Q442127",
@@ -449068,6 +449082,7 @@ window.GAME_DATA = [
             "cat": "růst",
             "not": [
               "Q10567609",
+              "Q113273",
               "Q1365267",
               "Q199127",
               "Q3374554"
@@ -452151,7 +452166,12 @@ window.GAME_DATA = [
             "id": "Q1135236#3",
             "text": "Plody jsou pokryté hustými ostny.",
             "cat": "vzhled",
-            "not": []
+            "not": [
+              "Q3918504",
+              "Q460517",
+              "Q63045",
+              "Q7218532"
+            ]
           }
         ],
         "continents": [
@@ -467240,11 +467260,19 @@ window.GAME_DATA = [
             "not": [
               "Q1277255",
               "Q131226",
+              "Q1348662",
+              "Q159842",
+              "Q160068",
+              "Q164024",
               "Q181095",
+              "Q21156075",
               "Q242573",
               "Q26158",
+              "Q2991695",
+              "Q3918504",
               "Q500383",
-              "Q83193"
+              "Q83193",
+              "Q958823"
             ]
           },
           {
@@ -472355,7 +472383,10 @@ window.GAME_DATA = [
             "text": "Vyroste do výšky 10 až 30 centimetrů.",
             "cat": "čísla",
             "not": [
-              "Q666160"
+              "Q460517",
+              "Q63045",
+              "Q666160",
+              "Q958823"
             ]
           }
         ],
@@ -484622,7 +484653,10 @@ window.GAME_DATA = [
             "text": "Kvete v dubnu a květnu.",
             "cat": "růst",
             "not": [
-              "Q161110"
+              "Q1348662",
+              "Q159842",
+              "Q161110",
+              "Q958823"
             ]
           }
         ],
@@ -492236,6 +492270,9 @@ window.GAME_DATA = [
             "cat": "výskyt",
             "not": [
               "Q158359",
+              "Q159842",
+              "Q160068",
+              "Q63045",
               "Q90595797"
             ]
           }
@@ -512185,8 +512222,12 @@ window.GAME_DATA = [
             "text": "Obvykle dosahuje výšky 8 až 20 metrů.",
             "cat": "čísla",
             "not": [
+              "Q159842",
+              "Q160068",
+              "Q164024",
               "Q1661525",
               "Q17743711",
+              "Q21156075",
               "Q341600",
               "Q448431"
             ]
@@ -521769,7 +521810,8 @@ window.GAME_DATA = [
               "Q2306503",
               "Q3147858",
               "Q3744787",
-              "Q458238"
+              "Q458238",
+              "Q7218532"
             ]
           }
         ],
@@ -523045,7 +523087,9 @@ window.GAME_DATA = [
               "Q159195",
               "Q159537",
               "Q161056",
-              "Q164064"
+              "Q164064",
+              "Q3918504",
+              "Q460517"
             ]
           },
           {
@@ -547164,7 +547208,8 @@ window.GAME_DATA = [
             "cat": "čísla",
             "not": [
               "Q11058458",
-              "Q156938"
+              "Q156938",
+              "Q958823"
             ]
           },
           {
@@ -550934,7 +550979,11 @@ window.GAME_DATA = [
             "id": "Q158066#2",
             "text": "Dorůstá do výšky 30 až 60 centimetrů.",
             "cat": "čísla",
-            "not": []
+            "not": [
+              "Q460517",
+              "Q63045",
+              "Q958823"
+            ]
           },
           {
             "id": "Q158066#3",
@@ -581930,8 +581979,11 @@ window.GAME_DATA = [
             "text": "Kvete v srpnu a září, někdy až na začátku října.",
             "cat": "růst",
             "not": [
+              "Q1348662",
+              "Q160068",
               "Q164064",
-              "Q292653"
+              "Q292653",
+              "Q3918504"
             ]
           },
           {
@@ -590527,9 +590579,17 @@ window.GAME_DATA = [
               "Q146269",
               "Q148926",
               "Q159360",
+              "Q159842",
+              "Q160068",
               "Q160346",
+              "Q164024",
+              "Q21156075",
               "Q2241463",
-              "Q257757"
+              "Q257757",
+              "Q3918504",
+              "Q460517",
+              "Q63045",
+              "Q7218532"
             ]
           },
           {
@@ -602793,7 +602853,10 @@ window.GAME_DATA = [
             "not": [
               "Q149332",
               "Q156538",
-              "Q1569528"
+              "Q1569528",
+              "Q460517",
+              "Q63045",
+              "Q958823"
             ]
           },
           {
@@ -604545,7 +604608,8 @@ window.GAME_DATA = [
             "cat": "výskyt",
             "not": [
               "Q159718",
-              "Q160561"
+              "Q160561",
+              "Q460517"
             ]
           }
         ],
@@ -608050,6 +608114,7 @@ window.GAME_DATA = [
               "Q15377507",
               "Q1548163",
               "Q158387",
+              "Q159842",
               "Q160575",
               "Q202532",
               "Q2121023",
@@ -690088,14 +690153,6 @@ window.GAME_DATA = [
             "text": "Živí se planktonem a potravu omračuje žahavými buňkami.",
             "cat": "potrava",
             "not": []
-          },
-          {
-            "id": "Q1192350#1",
-            "text": "Během roku se rozmnožuje pučením, na podzim i pohlavně.",
-            "cat": "chování",
-            "not": [
-              "Q522939"
-            ]
           }
         ],
         "continents": [
@@ -690146,8 +690203,7 @@ window.GAME_DATA = [
             "text": "Vodní ptáci nebo lidé tento druh pravděpodobně šíří do nových vod.",
             "cat": "vztahy",
             "not": [
-              "Q445245",
-              "Q522939"
+              "Q445245"
             ]
           }
         ],

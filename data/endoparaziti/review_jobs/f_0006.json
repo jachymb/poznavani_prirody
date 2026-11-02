@@ -1,0 +1,187 @@
+[
+ {
+  "id": "Q1128693#x0",
+  "species": "Řemenatka ptačí",
+  "latin": "Ligula intestinalis",
+  "text": "Využívá veslonožce a kaprovité ryby jako mezihostitele.",
+  "quote": "it uses copepods and cyprinid fish as their intermediate host",
+  "claimed_false_for": {
+   "Q134582": "Krevnička močová (Schistosoma haematobium)",
+   "Q134669": "Vlasovec psí (Dirofilaria immitis)",
+   "Q138713": "Motolice podivná (Leucochloridium paradoxum)",
+   "Q150987": "Tenkohlavec prasečí (Trichuris suis)",
+   "Q2324689": "Krevnička střevní (Schistosoma mansoni)",
+   "Q244111": "Hádě střevní (Strongyloides stercoralis)",
+   "Q2520810": "Měchovec lidský (Ancylostoma duodenale)",
+   "Q334149": "Motolice jaterní (Fasciola hepatica)",
+   "Q3376138": "Fascioloides magna (Fascioloides magna)",
+   "Q630200": "Měchožil zhoubný (Echinococcus granulosus)"
+  }
+ },
+ {
+  "id": "Q1128693#x1",
+  "species": "Řemenatka ptačí",
+  "latin": "Ligula intestinalis",
+  "text": "Mění chování mezihostitele, takže se snáze stane kořistí predátorů.",
+  "quote": "It is a parasite that changes its intermediate host's behavior to become more vulnerable to its predators.",
+  "claimed_false_for": {
+   "Q150987": "Tenkohlavec prasečí (Trichuris suis)",
+   "Q244111": "Hádě střevní (Strongyloides stercoralis)",
+   "Q2520810": "Měchovec lidský (Ancylostoma duodenale)"
+  }
+ },
+ {
+  "id": "Q1128693#x2",
+  "species": "Řemenatka ptačí",
+  "latin": "Ligula intestinalis",
+  "text": "Dospělý cizopasník žije v ptácích, kteří se živí rybami.",
+  "quote": "un ave ictiófaga como hospedador definitivo",
+  "claimed_false_for": {
+   "Q134582": "Krevnička močová (Schistosoma haematobium)",
+   "Q134669": "Vlasovec psí (Dirofilaria immitis)",
+   "Q138713": "Motolice podivná (Leucochloridium paradoxum)",
+   "Q150987": "Tenkohlavec prasečí (Trichuris suis)",
+   "Q2324689": "Krevnička střevní (Schistosoma mansoni)",
+   "Q244111": "Hádě střevní (Strongyloides stercoralis)",
+   "Q2520810": "Měchovec lidský (Ancylostoma duodenale)",
+   "Q334149": "Motolice jaterní (Fasciola hepatica)",
+   "Q3376138": "Fascioloides magna (Fascioloides magna)",
+   "Q61571148": "Škulovec široký (Dibothriocephalus latus)",
+   "Q630200": "Měchožil zhoubný (Echinococcus granulosus)"
+  }
+ },
+ {
+  "id": "Q1128693#x3",
+  "species": "Řemenatka ptačí",
+  "latin": "Ligula intestinalis",
+  "text": "Způsobuje, že se rybám nevyvinou pohlavní žlázy.",
+  "quote": "this species can cause the gonads of fish to remain undeveloped",
+  "claimed_false_for": {
+   "Q134582": "Krevnička močová (Schistosoma haematobium)",
+   "Q134669": "Vlasovec psí (Dirofilaria immitis)",
+   "Q138713": "Motolice podivná (Leucochloridium paradoxum)",
+   "Q150987": "Tenkohlavec prasečí (Trichuris suis)",
+   "Q2324689": "Krevnička střevní (Schistosoma mansoni)",
+   "Q244111": "Hádě střevní (Strongyloides stercoralis)",
+   "Q2520810": "Měchovec lidský (Ancylostoma duodenale)",
+   "Q334149": "Motolice jaterní (Fasciola hepatica)",
+   "Q3376138": "Fascioloides magna (Fascioloides magna)",
+   "Q630200": "Měchožil zhoubný (Echinococcus granulosus)"
+  }
+ },
+ {
+  "id": "Q139073#x0",
+  "species": "Škrkavka kočičí",
+  "latin": "Toxocara cati",
+  "text": "Cizopasí u koček a dalších kočkovitých šelem.",
+  "quote": "is a parasite of cats and other felids",
+  "claimed_false_for": {
+   "Q1253087": "Roup dětský (Enterobius vermicularis)",
+   "Q133092": "Škrkavka psí (Toxocara canis)",
+   "Q2060647": "Anisakis simplex (Anisakis simplex)",
+   "Q2550294": "Baylisascaris procyonis (Baylisascaris procyonis)",
+   "Q311109": "Vlasovec mízní (Wuchereria bancrofti)",
+   "Q3134908": "Heterorhabditis bacteriophora (Heterorhabditis bacteriophora)",
+   "Q3503323": "Ascaridia galli (Ascaridia galli)",
+   "Q468771": "Škrkavka dětská (Ascaris lumbricoides)",
+   "Q650470": "Tasemnice dětská (Hymenolepis nana)"
+  }
+ },
+ {
+  "id": "Q139073#x1",
+  "species": "Škrkavka kočičí",
+  "latin": "Toxocara cati",
+  "text": "Dorůstá délky až 10 cm.",
+  "quote": "may be up to 10 cm in length",
+  "claimed_false_for": {
+   "Q1074210": "Motolice žlučová (Clonorchis sinensis)",
+   "Q1253087": "Roup dětský (Enterobius vermicularis)",
+   "Q3134908": "Heterorhabditis bacteriophora (Heterorhabditis bacteriophora)",
+   "Q650470": "Tasemnice dětská (Hymenolepis nana)"
+  }
+ },
+ {
+  "id": "Q139073#x2",
+  "species": "Škrkavka kočičí",
+  "latin": "Toxocara cati",
+  "text": "Larvy přecházejí z matky na koťata mateřským mlékem.",
+  "quote": "easily transmitted from an adult female to her nursing kittens through her milk",
+  "claimed_false_for": {
+   "Q1074210": "Motolice žlučová (Clonorchis sinensis)",
+   "Q1253087": "Roup dětský (Enterobius vermicularis)",
+   "Q2060647": "Anisakis simplex (Anisakis simplex)",
+   "Q2550294": "Baylisascaris procyonis (Baylisascaris procyonis)",
+   "Q311109": "Vlasovec mízní (Wuchereria bancrofti)",
+   "Q3134908": "Heterorhabditis bacteriophora (Heterorhabditis bacteriophora)",
+   "Q3503323": "Ascaridia galli (Ascaridia galli)",
+   "Q650470": "Tasemnice dětská (Hymenolepis nana)"
+  }
+ },
+ {
+  "id": "Q139073#x3",
+  "species": "Škrkavka kočičí",
+  "latin": "Toxocara cati",
+  "text": "Vajíčka se stávají nakažlivými tři až čtyři týdny po vyloučení v trusu.",
+  "quote": "The eggs of the roundworm become infective in three to four weeks after being passed out in fecal matter.",
+  "claimed_false_for": {
+   "Q1253087": "Roup dětský (Enterobius vermicularis)"
+  }
+ },
+ {
+  "id": "Q2203128#x0",
+  "species": "Háďátko řepné",
+  "latin": "Heterodera schachtii",
+  "text": "Napadá více než 200 druhů rostlin, například zelí, brokolici a ředkvičky.",
+  "quote": "It infects more than 200 different plants including economically important crops such as sugar beets, cabbage, broccoli, and radish.",
+  "claimed_false_for": {
+   "Q133092": "Škrkavka psí (Toxocara canis)",
+   "Q134361": "Vlasovec oční (Loa loa)",
+   "Q1502531": "Vlasovec medinský (Dracunculus medinensis)",
+   "Q1859493": "Krevnatka úhoří (Anguillicoloides crassus)",
+   "Q1953495": "Myrmeconema neotropicum (Myrmeconema neotropicum)",
+   "Q2433913": "Měchovec americký (Necator americanus)",
+   "Q2706090": "Tasemnice krysí (Hymenolepis diminuta)",
+   "Q3283008": "Trichobilharzia regenti (Trichobilharzia regenti)",
+   "Q565708": "Tasemnice dlouhočlenná (Taenia solium)",
+   "Q595116": "Háďátko pšeničné (Anguina tritici)"
+  }
+ },
+ {
+  "id": "Q2203128#x1",
+  "species": "Háďátko řepné",
+  "latin": "Heterodera schachtii",
+  "text": "Vajíčka přežívají uvnitř cyst 10 let i déle.",
+  "quote": "Eggs can survive within cysts for 10 or more years.",
+  "claimed_false_for": {
+   "Q133092": "Škrkavka psí (Toxocara canis)",
+   "Q134361": "Vlasovec oční (Loa loa)",
+   "Q149049": "Pratylenchus penetrans (Pratylenchus penetrans)",
+   "Q1502531": "Vlasovec medinský (Dracunculus medinensis)",
+   "Q1859493": "Krevnatka úhoří (Anguillicoloides crassus)",
+   "Q1953495": "Myrmeconema neotropicum (Myrmeconema neotropicum)",
+   "Q2433913": "Měchovec americký (Necator americanus)",
+   "Q2706090": "Tasemnice krysí (Hymenolepis diminuta)",
+   "Q3283008": "Trichobilharzia regenti (Trichobilharzia regenti)",
+   "Q565708": "Tasemnice dlouhočlenná (Taenia solium)"
+  }
+ },
+ {
+  "id": "Q2203128#x2",
+  "species": "Háďátko řepné",
+  "latin": "Heterodera schachtii",
+  "text": "Larvy v kořeni vytvoří zvláštní místo, ze kterého celý život čerpají potravu.",
+  "quote": "the larva will release chemicals from the stylet to form a pocket of lysed cells called a syncytium. This will be the larva's food source for the rest of its life.",
+  "claimed_false_for": {
+   "Q133092": "Škrkavka psí (Toxocara canis)",
+   "Q134361": "Vlasovec oční (Loa loa)",
+   "Q149049": "Pratylenchus penetrans (Pratylenchus penetrans)",
+   "Q1502531": "Vlasovec medinský (Dracunculus medinensis)",
+   "Q1859493": "Krevnatka úhoří (Anguillicoloides crassus)",
+   "Q1953495": "Myrmeconema neotropicum (Myrmeconema neotropicum)",
+   "Q2433913": "Měchovec americký (Necator americanus)",
+   "Q2706090": "Tasemnice krysí (Hymenolepis diminuta)",
+   "Q3283008": "Trichobilharzia regenti (Trichobilharzia regenti)",
+   "Q565708": "Tasemnice dlouhočlenná (Taenia solium)"
+  }
+ }
+]
