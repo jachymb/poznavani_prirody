@@ -1,0 +1,134 @@
+[
+ {
+  "id": "Q1331593#1",
+  "species": "Ostenec Picassův",
+  "latin": "Rhinecanthus aculeatus",
+  "text": "Tento druh se v noci schovává do dutin ve skalách.",
+  "quote": "V noci se ukrývá do dutin ve skalách a útesech",
+  "claimed_false_for": {
+   "Q214034": "Platýs bradavičnatý (Platichthys flesus)"
+  }
+ },
+ {
+  "id": "Q1513246#0",
+  "species": "Veleparma thajská",
+  "latin": "Catlocarpio siamensis",
+  "text": "Živí se převážně vodními rostlinami.",
+  "quote": "Živí se převážně vodními rostlinami",
+  "claimed_false_for": {
+   "Q1156517": "Štítovec lodivod (Echeneis naucrates)",
+   "Q2020774": "Kanic písmenkový (Serranus scriba)",
+   "Q2683765": "Chňapálek měsíční (Caesio lunaris)",
+   "Q747794": "Piskoř pruhovaný (Misgurnus fossilis)",
+   "Q827142": "Veslonos americký (Polyodon spathula)"
+  }
+ },
+ {
+  "id": "Q1536867#0",
+  "species": "Čichavec tmavohnědý",
+  "latin": "Sphaerichthys osphromenoides",
+  "text": "Žije v černých vodách Malajsie a Indonésie.",
+  "quote": "Pochází z černých vod Malajsie a Indonésie.",
+  "claimed_false_for": {
+   "Q1000274": "Pilníkotrn skvrnitý (Cantherhines pardalis)",
+   "Q1156517": "Štítovec lodivod (Echeneis naucrates)",
+   "Q1519624": "Čichavec pruhovaný (Trichogaster fasciata)",
+   "Q2020774": "Kanic písmenkový (Serranus scriba)",
+   "Q214034": "Platýs bradavičnatý (Platichthys flesus)",
+   "Q2478695": "Cípal sladkovodní (Agonostomus monticola)",
+   "Q2683765": "Chňapálek měsíční (Caesio lunaris)",
+   "Q304256": "Rájovec dlouhoploutvý (Macropodus opercularis)",
+   "Q747794": "Piskoř pruhovaný (Misgurnus fossilis)",
+   "Q827142": "Veslonos americký (Polyodon spathula)"
+  }
+ },
+ {
+  "id": "Q166812#4",
+  "species": "Okoun říční",
+  "latin": "Perca fluviatilis",
+  "text": "Loví menší nebo nemocné ryby.",
+  "quote": "napadá menší, či nemocné ryby",
+  "claimed_false_for": {
+   "Q2683765": "Chňapálek měsíční (Caesio lunaris)",
+   "Q827142": "Veslonos americký (Polyodon spathula)"
+  }
+ },
+ {
+  "id": "Q169444#1",
+  "species": "Dánio pruhované",
+  "latin": "Danio rerio",
+  "text": "Žije ve velkých hejnech blízko hladiny.",
+  "quote": "Žijí v horní třetině vodního sloupce, nebo přímo u hladiny, ve velkých hejnech.",
+  "claimed_false_for": {
+   "Q747794": "Piskoř pruhovaný (Misgurnus fossilis)"
+  }
+ },
+ {
+  "id": "Q1954062#1",
+  "species": "Chňapálek různopruhý",
+  "latin": "Caesio varilineata",
+  "text": "Žije v hlubokých lagunách a na korálových útesech.",
+  "quote": "Obývá hluboké laguny a korálové útesy.",
+  "claimed_false_for": {
+   "Q1519624": "Čichavec pruhovaný (Trichogaster fasciata)",
+   "Q218891": "Čichavec líbající (Helostoma temminckii)",
+   "Q2478695": "Cípal sladkovodní (Agonostomus monticola)",
+   "Q304256": "Rájovec dlouhoploutvý (Macropodus opercularis)",
+   "Q747794": "Piskoř pruhovaný (Misgurnus fossilis)",
+   "Q827142": "Veslonos americký (Polyodon spathula)"
+  }
+ },
+ {
+  "id": "Q2330446#1",
+  "species": "Odranec pravý",
+  "latin": "السمكة الصخرية المرجانية",
+  "text": "Tento druh je vysoce jedovatý.",
+  "quote": "Je vysoce jedovatá",
+  "claimed_false_for": {
+   "Q214034": "Platýs bradavičnatý (Platichthys flesus)"
+  }
+ },
+ {
+  "id": "Q269781#1",
+  "species": "Tuňák žlutoploutvý",
+  "latin": "Thunnus albacares",
+  "text": "Patří mezi nejrychlejší ryby.",
+  "quote": "je to jedna z nejrychlejších ryb současnosti",
+  "claimed_false_for": {
+   "Q214034": "Platýs bradavičnatý (Platichthys flesus)"
+  }
+ },
+ {
+  "id": "Q28532237#0",
+  "species": "Kýlnatka tamilská",
+  "latin": "Laubuka dadiburjori",
+  "text": "Žije v řekách a potocích jihozápadní Indie.",
+  "quote": "Pochází z řek a potoků jihozápadní Indie",
+  "claimed_false_for": {
+   "Q214034": "Platýs bradavičnatý (Platichthys flesus)"
+  }
+ },
+ {
+  "id": "Q592876#x3",
+  "species": "Jeseter bílý",
+  "latin": "Acipenser transmontanus",
+  "text": "Žije v ústích velkých řek, ale k rozmnožování vplouvá do sladké vody.",
+  "quote": "They primarily live in estuaries of large rivers, but migrate to spawn in freshwater",
+  "claimed_false_for": {
+   "Q1000274": "Pilníkotrn skvrnitý (Cantherhines pardalis)",
+   "Q1156517": "Štítovec lodivod (Echeneis naucrates)",
+   "Q2020774": "Kanic písmenkový (Serranus scriba)",
+   "Q2683765": "Chňapálek měsíční (Caesio lunaris)"
+  }
+ },
+ {
+  "id": "Q962972#0",
+  "species": "Útesník šestipruhý",
+  "latin": "Abudefduf sexfasciatus",
+  "text": "Živí se zooplanktonem a řasami.",
+  "quote": "Živí se zooplanktonem a řasami.",
+  "claimed_false_for": {
+   "Q214034": "Platýs bradavičnatý (Platichthys flesus)"
+  }
+ }
+]
