@@ -31,6 +31,7 @@ assert(window.Quiz.isDull({ text: "Kvete od června do srpna." }) && !window.Qui
   const extinct = promptsOf("vyhynula_zvirata");
   assert(extinct.has("Který druh je na obrázku?") && extinct.has("Najdi na obrázcích:") && ![...extinct].some((p) => p.includes("fot")), "vyhynulá zvířata mají obrázky");
   assert(promptsOf("savci").has("Který druh je na fotce?"), "žijící druhy mají fotky");
+  assert(promptsOf("endoparaziti").has("Který druh je na obrázku?"), "cizopasníci mají obrázky");
   const amphibians = [classes.find((c) => c.slug === "obojzivelnici")];
   const frogs = Array.from({ length: 3000 }, () => window.Quiz.makeQuestion(amphibians).target.order === "žáby").filter(Boolean).length;
   assert(frogs < 2000, `žáby nevytlačí ostatní obojživelníky (${frogs} z 3000)`);

@@ -626176,7 +626176,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q1253087#2",
-            "text": "Člověk se nakazí pozřením vajíček ústy.",
+            "text": "Člověk se nakazí spolknutím vajíček.",
             "cat": "vztahy",
             "not": [
               "Q1074210",
@@ -626336,7 +626336,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q133167#0",
-            "text": "Cizopasí v plicích člověka, masožravců a prasat.",
+            "text": "Parazituje v plicích člověka, masožravců a prasat.",
             "cat": "vztahy",
             "not": [
               "Q1128693",
@@ -626403,7 +626403,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q134361#0",
-            "text": "Přenáší ho ovádi rodu Chrysops.",
+            "text": "Tohoto parazita přenášejí ovádi.",
             "cat": "vztahy",
             "not": [
               "Q1256989",
@@ -626423,7 +626423,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q134361#1",
-            "text": "Larvy v ovádovi dozrávají 1 až 2 týdny.",
+            "text": "Larvy dozrávají v ovádovi 1 až 2 týdny.",
             "cat": "mláďata",
             "not": [
               "Q1256989",
@@ -626494,7 +626494,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q134582#1",
-            "text": "Mezihostitelem jsou plži rodu Bulinus.",
+            "text": "Mezihostitelem jsou plži.",
             "cat": "vztahy",
             "not": [
               "Q135777",
@@ -626712,7 +626712,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q137224#1",
-            "text": "Přenáší ho muchnička, když saje krev člověku.",
+            "text": "Tohoto parazita přenáší muchnička, když člověku saje krev.",
             "cat": "vztahy",
             "not": [
               "Q1256989",
@@ -626971,7 +626971,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q145041#1",
-            "text": "Nakazí se častěji dospělá zvířata než mláďata.",
+            "text": "Častěji se nakazí dospělá zvířata než mláďata.",
             "cat": "výskyt",
             "not": []
           }
@@ -627326,7 +627326,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q1754336#1",
-            "text": "Jeho vývoj nepotřebuje mezihostitele.",
+            "text": "Vývoj je přímý, bez mezihostitele.",
             "cat": "mláďata",
             "not": [
               "Q134582",
@@ -627470,7 +627470,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q2060647#1",
-            "text": "Jeho mezihostiteli jsou korýši.",
+            "text": "Mezihostiteli jsou korýši.",
             "cat": "vztahy",
             "not": [
               "Q134669",
@@ -627641,7 +627641,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q2324689#1",
-            "text": "Hostitelem je hlavně člověk, také primáti a hlodavci.",
+            "text": "Hostitelem je hlavně člověk, ale také další primáti a hlodavci.",
             "cat": "vztahy",
             "not": [
               "Q138713",
@@ -627752,7 +627752,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q244111#1",
-            "text": "Dorůstá velikosti 0,8 – 2,2 mm.",
+            "text": "Dorůstá velikosti 0,8 až 2,2 mm.",
             "cat": "čísla",
             "not": [
               "Q133167",
@@ -628053,7 +628053,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q292170#1",
-            "text": "Mezihostitelem jsou paka nížinná a aguti zlatý.",
+            "text": "Mezihostiteli jsou paka nížinná a aguti zlatý.",
             "cat": "vztahy",
             "not": [
               "Q1154414",
@@ -628157,7 +628157,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q311109#1",
-            "text": "Larvy tohoto druhu jsou v krvi nejvíc v noci.",
+            "text": "Nejvíce larev je v krvi v noci.",
             "cat": "mláďata",
             "not": [
               "Q1154414",
@@ -628580,7 +628580,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q3376138#1",
-            "text": "Jeho vývoj probíhá přes vodního plže.",
+            "text": "Mezihostitelem je vodní plž.",
             "cat": "vztahy",
             "not": [
               "Q134361",
@@ -628769,7 +628769,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q4118359#2",
-            "text": "Samice začne klást vajíčka 14 dní po nakažení.",
+            "text": "Samice začne klást vajíčka 14 dní po nakažení hostitele.",
             "cat": "čísla",
             "not": []
           }
@@ -628859,7 +628859,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q5279085#0",
-            "text": "Obvykle žije v psech a norcích.",
+            "text": "Obvyklými konečnými hostiteli jsou psi a norci.",
             "cat": "vztahy",
             "not": [
               "Q134582",
@@ -629044,7 +629044,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q604573#1",
-            "text": "Vyvíjí se přes larvy některých druhů brouků.",
+            "text": "Vývojový cyklus probíhá přes larvy některých druhů brouků.",
             "cat": "mláďata",
             "not": [
               "Q1074210",
@@ -629179,7 +629179,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q630200#1",
-            "text": "Mezihostitelem jsou kopytníci.",
+            "text": "Mezihostiteli jsou kopytníci.",
             "cat": "vztahy",
             "not": [
               "Q1154414",
@@ -629358,7 +629358,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q650470#2",
-            "text": "Dospělec dorůstá nejvýš do délky 40 milimetrů.",
+            "text": "Dospělec měří nejvýš 40 milimetrů.",
             "cat": "čísla",
             "not": [
               "Q1128693",
@@ -629473,7 +629473,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q669922#3",
-            "text": "Ve střevě lišky vyrostou malé tasemnice z larev.",
+            "text": "Z larev vyrostou ve střevě lišky malé tasemnice.",
             "cat": "mláďata",
             "not": [
               "Q1128693",
@@ -629661,7 +629661,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q773607#3",
-            "text": "Jeden zralý článek má asi 50 000 až 80 000 vajíček.",
+            "text": "Jeden zralý článek obsahuje asi 50 000 až 80 000 vajíček.",
             "cat": "čísla",
             "not": [
               "Q1154414",
@@ -629713,7 +629713,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q81125#0",
-            "text": "Blecha je mezihostitelem tohoto druhu.",
+            "text": "Mezihostitelem je blecha.",
             "cat": "vztahy",
             "not": [
               "Q1128693",
@@ -629731,7 +629731,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q81125#1",
-            "text": "Tento druh se živí obsahem střev.",
+            "text": "Živí se střevním obsahem.",
             "cat": "potrava",
             "not": [
               "Q3061587",
@@ -629785,7 +629785,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q9361543#2",
-            "text": "Vajíčka odcházejí z hostitele spolu s trusem.",
+            "text": "Vajíčka opouštějí hostitele spolu s trusem.",
             "cat": "mláďata",
             "not": [
               "Q311109",
