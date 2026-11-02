@@ -414856,7 +414856,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q1763341#x2",
-            "text": "Tvoří tobolky s výtrusy jen vzácně.",
+            "text": "Tobolky s výtrusy tvoří jen vzácně.",
             "cat": "růst",
             "not": []
           },
@@ -415311,7 +415311,14 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Sphagnum_warnstorfii_49428268.jpg/500px-Sphagnum_warnstorfii_49428268.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q292385#x2",
+            "text": "Po usušení mívá výrazně modravý nádech.",
+            "cat": "vzhled",
+            "not": []
+          }
+        ],
         "continents": [
           "EU",
           "AS",
@@ -415441,7 +415448,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q325331#x2",
-            "text": "Pomáhá odhadovat množství kovů ve vzduchu ve městech.",
+            "text": "Pomáhá odhadovat množství kovů v městském ovzduší.",
             "cat": "využití",
             "not": []
           }
