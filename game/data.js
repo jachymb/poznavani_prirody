@@ -167511,7 +167511,17 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/The_River_Gambia_019_%2839668680953%29.jpg/500px-The_River_Gambia_019_%2839668680953%29.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q379761#x4",
+            "text": "Vejce zahřívají samec i samice 28 až 31 dní.",
+            "cat": "čísla",
+            "not": [
+              "Q19055",
+              "Q27075785"
+            ]
+          }
+        ],
         "continents": [
           "AF"
         ],
@@ -278029,7 +278039,20 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Trigonostigma_espei_Thai_%28cropped%29.jpg/500px-Trigonostigma_espei_Thai_%28cropped%29.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q28599938#x0",
+            "text": "Vyskytuje se převážně v Thajsku a Kambodži.",
+            "cat": "výskyt",
+            "not": [
+              "Q1070009",
+              "Q1402074",
+              "Q3233721",
+              "Q617967",
+              "Q908440"
+            ]
+          }
+        ],
         "continents": [
           "AS"
         ],
@@ -280103,7 +280126,34 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Usfws-male-bowfin-hides-vegetation.jpg/500px-Usfws-male-bowfin-hides-vegetation.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q491934#x1",
+            "text": "Živí se rybami, raky, měkkýši a vodním hmyzem.",
+            "cat": "potrava",
+            "not": []
+          },
+          {
+            "id": "Q491934#x2",
+            "text": "Dožívá se až 33 let.",
+            "cat": "čísla",
+            "not": [
+              "Q115045",
+              "Q1767177"
+            ]
+          },
+          {
+            "id": "Q491934#x3",
+            "text": "Samec hlídá jikry v hnízdě 8 až 10 dní, do vylíhnutí.",
+            "cat": "mláďata",
+            "not": [
+              "Q1429252",
+              "Q214034",
+              "Q694527",
+              "Q917209"
+            ]
+          }
+        ],
         "continents": [
           "NA"
         ],
@@ -285851,7 +285901,32 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Poecilia_velifera_-_Matteo_Cassella_-_60110619.jpeg/500px-Poecilia_velifera_-_Matteo_Cassella_-_60110619.jpeg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q923248#x3",
+            "text": "Při vyplašení uniká od hladiny do ponořeného úkrytu.",
+            "cat": "chování",
+            "not": []
+          },
+          {
+            "id": "Q923248#x4",
+            "text": "Žije ve sladké i slané vodě.",
+            "cat": "výskyt",
+            "not": [
+              "Q3753597",
+              "Q3768219"
+            ]
+          },
+          {
+            "id": "Q923248#x5",
+            "text": "Obvykle měří do 10 centimetrů, výjimečně až 15.",
+            "cat": "čísla",
+            "not": [
+              "Q26821893",
+              "Q5240255"
+            ]
+          }
+        ],
         "continents": [
           "NA"
         ],
@@ -291100,7 +291175,7 @@ window.GAME_DATA = [
           "EU"
         ],
         "pop": 34,
-        "emoji": "🦟"
+        "emoji": "🪰"
       },
       {
         "id": "Q1050343",
@@ -295434,7 +295509,7 @@ window.GAME_DATA = [
           "AS"
         ],
         "pop": 33,
-        "emoji": "🦟"
+        "emoji": "🪰"
       },
       {
         "id": "Q1281161",
@@ -297845,7 +297920,7 @@ window.GAME_DATA = [
           "AS"
         ],
         "pop": 16,
-        "emoji": "🦟"
+        "emoji": "🪰"
       },
       {
         "id": "Q1317005",
@@ -297893,7 +297968,7 @@ window.GAME_DATA = [
           "AF"
         ],
         "pop": 17,
-        "emoji": "🦟"
+        "emoji": "🪰"
       },
       {
         "id": "Q1317410",
@@ -298202,7 +298277,7 @@ window.GAME_DATA = [
           "AS"
         ],
         "pop": 14,
-        "emoji": "🦟"
+        "emoji": "🪰"
       },
       {
         "id": "Q1318172",
@@ -300197,7 +300272,7 @@ window.GAME_DATA = [
           "AS"
         ],
         "pop": 29,
-        "emoji": "🦟"
+        "emoji": "🪰"
       },
       {
         "id": "Q1394647",
@@ -300607,7 +300682,7 @@ window.GAME_DATA = [
           "AF"
         ],
         "pop": 29,
-        "emoji": "🦟"
+        "emoji": "🪰"
       },
       {
         "id": "Q1410407",
@@ -300903,7 +300978,7 @@ window.GAME_DATA = [
           "AF"
         ],
         "pop": 25,
-        "emoji": "🦟"
+        "emoji": "🪰"
       },
       {
         "id": "Q1423288",
@@ -301134,7 +301209,7 @@ window.GAME_DATA = [
           "AS"
         ],
         "pop": 26,
-        "emoji": "🦟"
+        "emoji": "🪰"
       },
       {
         "id": "Q1427593",
@@ -302215,7 +302290,7 @@ window.GAME_DATA = [
           "AF"
         ],
         "pop": 31,
-        "emoji": "🦟"
+        "emoji": "🪰"
       },
       {
         "id": "Q147449",
@@ -302281,7 +302356,7 @@ window.GAME_DATA = [
           "AS"
         ],
         "pop": 14,
-        "emoji": "🦟"
+        "emoji": "🪰"
       },
       {
         "id": "Q1479779",
@@ -302654,7 +302729,7 @@ window.GAME_DATA = [
           "AS"
         ],
         "pop": 28,
-        "emoji": "🦟"
+        "emoji": "🪰"
       },
       {
         "id": "Q1493916",
@@ -303416,7 +303491,7 @@ window.GAME_DATA = [
           "EU"
         ],
         "pop": 21,
-        "emoji": "🦟"
+        "emoji": "🪰"
       },
       {
         "id": "Q1520915",
@@ -303750,7 +303825,7 @@ window.GAME_DATA = [
           "AS"
         ],
         "pop": 25,
-        "emoji": "🦟"
+        "emoji": "🪰"
       },
       {
         "id": "Q1532970",
@@ -304774,7 +304849,7 @@ window.GAME_DATA = [
           "AF"
         ],
         "pop": 33,
-        "emoji": "🦟"
+        "emoji": "🪰"
       },
       {
         "id": "Q1548397",
@@ -307056,7 +307131,7 @@ window.GAME_DATA = [
           "NA"
         ],
         "pop": 20,
-        "emoji": "🦟"
+        "emoji": "🪰"
       },
       {
         "id": "Q162310",
@@ -307841,7 +307916,7 @@ window.GAME_DATA = [
           "AF"
         ],
         "pop": 14,
-        "emoji": "🦟"
+        "emoji": "🪰"
       },
       {
         "id": "Q166111",
@@ -308539,7 +308614,7 @@ window.GAME_DATA = [
           "AF"
         ],
         "pop": 28,
-        "emoji": "🦟"
+        "emoji": "🪰"
       },
       {
         "id": "Q1746557",
@@ -308629,7 +308704,7 @@ window.GAME_DATA = [
           "AF"
         ],
         "pop": 26,
-        "emoji": "🦟"
+        "emoji": "🪰"
       },
       {
         "id": "Q1746600",
@@ -308707,7 +308782,7 @@ window.GAME_DATA = [
           "AF"
         ],
         "pop": 32,
-        "emoji": "🦟"
+        "emoji": "🪰"
       },
       {
         "id": "Q1746687",
@@ -308808,7 +308883,18 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Kleidocerys_resedae_%2826732746246%29.jpg/500px-Kleidocerys_resedae_%2826732746246%29.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q175045#x0",
+            "text": "Zimuje pod kůrou, ve škvírách stromů i v opadaném listí.",
+            "cat": "chování",
+            "not": [
+              "Q1409595",
+              "Q266370",
+              "Q751209"
+            ]
+          }
+        ],
         "continents": [
           "EU",
           "AS",
@@ -309306,7 +309392,29 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Cydalima_perspectalis%2C_brown_variant%2C_Hungary.jpg/500px-Cydalima_perspectalis%2C_brown_variant%2C_Hungary.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q175754#x2",
+            "text": "Přezimuje jako malé housenky v zámotcích z listů a hedvábného vlákna.",
+            "cat": "chování",
+            "not": []
+          },
+          {
+            "id": "Q175754#x4",
+            "text": "Na housenkách parazituje moucha kuklice.",
+            "cat": "vztahy",
+            "not": []
+          },
+          {
+            "id": "Q175754#x5",
+            "text": "Rozpětí křídel dospělého motýla je 40 až 45 milimetrů.",
+            "cat": "čísla",
+            "not": [
+              "Q1303096",
+              "Q25818"
+            ]
+          }
+        ],
         "continents": [
           "EU",
           "AS"
@@ -310216,7 +310324,7 @@ window.GAME_DATA = [
           "AS"
         ],
         "pop": 25,
-        "emoji": "🦟"
+        "emoji": "🪰"
       },
       {
         "id": "Q1792836",
@@ -311161,7 +311269,41 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/2020_11_10_Phloiophilus_edwardsi2.jpg/500px-2020_11_10_Phloiophilus_edwardsi2.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q18571888#x0",
+            "text": "Živí se houbami, které rozkládají dřevo.",
+            "cat": "potrava",
+            "not": [
+              "Q1093306",
+              "Q1301917",
+              "Q1305510",
+              "Q1427018",
+              "Q1433805",
+              "Q18398440",
+              "Q387616",
+              "Q585566",
+              "Q624996"
+            ]
+          },
+          {
+            "id": "Q18571888#x1",
+            "text": "Larvy se vyvíjejí v suchých větvích a větvičkách.",
+            "cat": "mláďata",
+            "not": [
+              "Q1093306",
+              "Q1141328",
+              "Q1301917",
+              "Q1305510",
+              "Q1427018",
+              "Q1433805",
+              "Q1535893",
+              "Q387616",
+              "Q585566",
+              "Q624996"
+            ]
+          }
+        ],
         "continents": [
           "EU"
         ],
@@ -312190,7 +312332,7 @@ window.GAME_DATA = [
           "NA"
         ],
         "pop": 25,
-        "emoji": "🦟"
+        "emoji": "🪰"
       },
       {
         "id": "Q1945889",
@@ -312820,7 +312962,7 @@ window.GAME_DATA = [
           "AF"
         ],
         "pop": 34,
-        "emoji": "🦟"
+        "emoji": "🪰"
       },
       {
         "id": "Q2013172",
@@ -314317,7 +314459,7 @@ window.GAME_DATA = [
           "AF"
         ],
         "pop": 26,
-        "emoji": "🦟"
+        "emoji": "🪰"
       },
       {
         "id": "Q2152896",
@@ -315434,7 +315576,7 @@ window.GAME_DATA = [
           "AS"
         ],
         "pop": 24,
-        "emoji": "🦟"
+        "emoji": "🪰"
       },
       {
         "id": "Q232843",
@@ -315532,7 +315674,7 @@ window.GAME_DATA = [
           "AF"
         ],
         "pop": 27,
-        "emoji": "🦟"
+        "emoji": "🪰"
       },
       {
         "id": "Q233024",
@@ -316381,7 +316523,7 @@ window.GAME_DATA = [
           "AS"
         ],
         "pop": 22,
-        "emoji": "🦟"
+        "emoji": "🪰"
       },
       {
         "id": "Q244274",
@@ -316883,7 +317025,7 @@ window.GAME_DATA = [
           "AF"
         ],
         "pop": 40,
-        "emoji": "🦟"
+        "emoji": "🪰"
       },
       {
         "id": "Q250269",
@@ -318354,7 +318496,23 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Euthrix_potatoria_%287447953016%29.jpg/500px-Euthrix_potatoria_%287447953016%29.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q261060#x1",
+            "text": "Housenky pijí kapky rosy a deště, které se shromažďují na listech.",
+            "cat": "chování",
+            "not": []
+          },
+          {
+            "id": "Q261060#x2",
+            "text": "Samci často přilétají k umělému světlu.",
+            "cat": "chování",
+            "not": [
+              "Q1300802",
+              "Q311653"
+            ]
+          }
+        ],
         "continents": [
           "EU",
           "AS"
@@ -318746,7 +318904,7 @@ window.GAME_DATA = [
           "SA"
         ],
         "pop": 26,
-        "emoji": "🦟"
+        "emoji": "🪰"
       },
       {
         "id": "Q265918",
@@ -320143,7 +320301,7 @@ window.GAME_DATA = [
           "AS"
         ],
         "pop": 30,
-        "emoji": "🦟"
+        "emoji": "🪰"
       },
       {
         "id": "Q285314",
@@ -320202,7 +320360,36 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Lemon_butterfly-2-periyerikadu-yercaud-salem-India.jpg/500px-Lemon_butterfly-2-periyerikadu-yercaud-salem-India.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q285314#x1",
+            "text": "Parazitické vosy kladou do housenek desítky vajíček.",
+            "cat": "vztahy",
+            "not": []
+          },
+          {
+            "id": "Q285314#x3",
+            "text": "Mladé housenky připomínají ptačí trus.",
+            "cat": "vzhled",
+            "not": [
+              "Q1520915",
+              "Q176338",
+              "Q221792"
+            ]
+          },
+          {
+            "id": "Q285314#x4",
+            "text": "Barva kukly se přizpůsobuje barvě a povrchu okolí.",
+            "cat": "vzhled",
+            "not": []
+          },
+          {
+            "id": "Q285314#x5",
+            "text": "Přezimuje jako kukla v chladných oblastech.",
+            "cat": "chování",
+            "not": []
+          }
+        ],
         "continents": [
           "AS",
           "AF",
@@ -320300,7 +320487,7 @@ window.GAME_DATA = [
           "AF"
         ],
         "pop": 23,
-        "emoji": "🦟"
+        "emoji": "🪰"
       },
       {
         "id": "Q286921",
@@ -321005,7 +321192,7 @@ window.GAME_DATA = [
           "AS"
         ],
         "pop": 39,
-        "emoji": "🦟"
+        "emoji": "🪰"
       },
       {
         "id": "Q30258",
@@ -321526,7 +321713,7 @@ window.GAME_DATA = [
           "AS"
         ],
         "pop": 26,
-        "emoji": "🦟"
+        "emoji": "🪰"
       },
       {
         "id": "Q307183",
@@ -321705,7 +321892,7 @@ window.GAME_DATA = [
           "AS"
         ],
         "pop": 19,
-        "emoji": "🦟"
+        "emoji": "🪰"
       },
       {
         "id": "Q3088397",
@@ -324093,7 +324280,7 @@ window.GAME_DATA = [
           "NA"
         ],
         "pop": 35,
-        "emoji": "🦟"
+        "emoji": "🪰"
       },
       {
         "id": "Q389732",
@@ -327294,7 +327481,7 @@ window.GAME_DATA = [
           "AF"
         ],
         "pop": 38,
-        "emoji": "🦟"
+        "emoji": "🪰"
       },
       {
         "id": "Q5063962",
@@ -327455,7 +327642,7 @@ window.GAME_DATA = [
           "AF"
         ],
         "pop": 33,
-        "emoji": "🦟"
+        "emoji": "🪰"
       },
       {
         "id": "Q5114915",
@@ -327637,7 +327824,34 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Apatura_ilia_-_Lesser_purple_emperor_-_%D0%9F%D0%B5%D1%80%D0%B5%D0%BB%D0%B8%D0%B2%D0%BD%D0%B8%D1%86%D0%B0_%D0%BC%D0%B0%D0%BB%D0%B0%D1%8F_%2826270200737%29.jpg/500px-Apatura_ilia_-_Lesser_purple_emperor_-_%D0%9F%D0%B5%D1%80%D0%B5%D0%BB%D0%B8%D0%B2%D0%BD%D0%B8%D1%86%D0%B0_%D0%BC%D0%B0%D0%BB%D0%B0%D1%8F_%2826270200737%29.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q514036#x1",
+            "text": "Housenky se živí vrbami a topoly.",
+            "cat": "potrava",
+            "not": [
+              "Q115128",
+              "Q1300802",
+              "Q1520915",
+              "Q176338",
+              "Q221792",
+              "Q25818",
+              "Q311653"
+            ]
+          },
+          {
+            "id": "Q514036#x2",
+            "text": "Přezimuje jako malá hnědá housenka přilepená k větvičce.",
+            "cat": "chování",
+            "not": []
+          },
+          {
+            "id": "Q514036#x5",
+            "text": "Létá od května do září v jedné nebo dvou generacích.",
+            "cat": "chování",
+            "not": []
+          }
+        ],
         "continents": [
           "EU",
           "AS"
@@ -328018,7 +328232,7 @@ window.GAME_DATA = [
           "NA"
         ],
         "pop": 37,
-        "emoji": "🦟"
+        "emoji": "🪰"
       },
       {
         "id": "Q527496",
@@ -328114,7 +328328,7 @@ window.GAME_DATA = [
           "NA"
         ],
         "pop": 47,
-        "emoji": "🦟"
+        "emoji": "🪰"
       },
       {
         "id": "Q531946",
@@ -328532,7 +328746,7 @@ window.GAME_DATA = [
           "AS"
         ],
         "pop": 34,
-        "emoji": "🦟"
+        "emoji": "🪰"
       },
       {
         "id": "Q56085742",
@@ -328805,7 +329019,7 @@ window.GAME_DATA = [
           "NA"
         ],
         "pop": 17,
-        "emoji": "🦟"
+        "emoji": "🪰"
       },
       {
         "id": "Q577020",
@@ -328975,7 +329189,7 @@ window.GAME_DATA = [
           "AS"
         ],
         "pop": 18,
-        "emoji": "🦟"
+        "emoji": "🪰"
       },
       {
         "id": "Q580176",
@@ -330107,7 +330321,7 @@ window.GAME_DATA = [
           "AS"
         ],
         "pop": 36,
-        "emoji": "🦟"
+        "emoji": "🪰"
       },
       {
         "id": "Q618315",
@@ -330124,7 +330338,25 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Puceron-lanigere.JPG/500px-Puceron-lanigere.JPG"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q618315#x5",
+            "text": "Rodí až pět živých mláďat denně.",
+            "cat": "mláďata",
+            "not": [
+              "Q1126211",
+              "Q1409595",
+              "Q2239043",
+              "Q266370",
+              "Q3270185",
+              "Q56085742",
+              "Q581988",
+              "Q581995",
+              "Q751209",
+              "Q940337"
+            ]
+          }
+        ],
         "continents": [
           "EU",
           "AS",
@@ -330437,7 +330669,7 @@ window.GAME_DATA = [
           "AS"
         ],
         "pop": 31,
-        "emoji": "🦟"
+        "emoji": "🪰"
       },
       {
         "id": "Q638257",
@@ -330478,7 +330710,78 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Rhagium_inquisitor_Caderzone_02.jpg/500px-Rhagium_inquisitor_Caderzone_02.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q638257#x0",
+            "text": "Larvy se vyvíjejí hlavně v odumřelých jehličnanech.",
+            "cat": "potrava",
+            "not": [
+              "Q1093306",
+              "Q1141328",
+              "Q1301917",
+              "Q1305510",
+              "Q1427018",
+              "Q1535893",
+              "Q18398440",
+              "Q387616",
+              "Q585566",
+              "Q624996"
+            ]
+          },
+          {
+            "id": "Q638257#x1",
+            "text": "Na larvách parazitují lumci.",
+            "cat": "vztahy",
+            "not": []
+          },
+          {
+            "id": "Q638257#x2",
+            "text": "Dospělci mohou přezimovat v kukelních komůrkách.",
+            "cat": "chování",
+            "not": [
+              "Q1093306",
+              "Q1301917",
+              "Q1305510",
+              "Q1427018",
+              "Q387616"
+            ]
+          },
+          {
+            "id": "Q638257#x3",
+            "text": "Samice naklade za život 49 až 120 vajíček.",
+            "cat": "čísla",
+            "not": []
+          },
+          {
+            "id": "Q638257#x4",
+            "text": "Larvy se podílejí na rozkladu odumřelého dřeva.",
+            "cat": "chování",
+            "not": [
+              "Q1093306",
+              "Q1301917",
+              "Q1305510",
+              "Q1427018",
+              "Q1433805",
+              "Q1535893",
+              "Q387616",
+              "Q585566",
+              "Q624996"
+            ]
+          },
+          {
+            "id": "Q638257#x5",
+            "text": "Samice kladou vajíčka do štěrbin v kůře.",
+            "cat": "mláďata",
+            "not": [
+              "Q1141328",
+              "Q1301917",
+              "Q1427018",
+              "Q1535893",
+              "Q387616",
+              "Q624996"
+            ]
+          }
+        ],
         "continents": [
           "EU",
           "AS",
@@ -330804,7 +331107,7 @@ window.GAME_DATA = [
           "AF"
         ],
         "pop": 23,
-        "emoji": "🦟"
+        "emoji": "🪰"
       },
       {
         "id": "Q651464",
@@ -331139,7 +331442,7 @@ window.GAME_DATA = [
           "AS"
         ],
         "pop": 10,
-        "emoji": "🦟"
+        "emoji": "🪰"
       },
       {
         "id": "Q667742",
@@ -331404,7 +331707,7 @@ window.GAME_DATA = [
           "AS"
         ],
         "pop": 20,
-        "emoji": "🦟"
+        "emoji": "🪰"
       },
       {
         "id": "Q674760",
@@ -332470,7 +332773,7 @@ window.GAME_DATA = [
           "AS"
         ],
         "pop": 23,
-        "emoji": "🦟"
+        "emoji": "🪰"
       },
       {
         "id": "Q728282",
@@ -333970,7 +334273,7 @@ window.GAME_DATA = [
           "EU"
         ],
         "pop": 14,
-        "emoji": "🦟"
+        "emoji": "🪰"
       },
       {
         "id": "Q768766",
@@ -334869,7 +335172,7 @@ window.GAME_DATA = [
           "AS"
         ],
         "pop": 28,
-        "emoji": "🦟"
+        "emoji": "🪰"
       },
       {
         "id": "Q805094",
@@ -336882,7 +337185,7 @@ window.GAME_DATA = [
           "AS"
         ],
         "pop": 28,
-        "emoji": "🦟"
+        "emoji": "🪰"
       },
       {
         "id": "Q882629",
@@ -337969,7 +338272,7 @@ window.GAME_DATA = [
           "AF"
         ],
         "pop": 39,
-        "emoji": "🦟"
+        "emoji": "🪰"
       },
       {
         "id": "Q911407",
@@ -338126,7 +338429,7 @@ window.GAME_DATA = [
           "EU"
         ],
         "pop": 16,
-        "emoji": "🦟"
+        "emoji": "🪰"
       },
       {
         "id": "Q913064",
@@ -338232,7 +338535,7 @@ window.GAME_DATA = [
           "AF"
         ],
         "pop": 34,
-        "emoji": "🦟"
+        "emoji": "🪰"
       },
       {
         "id": "Q913451",
@@ -339084,7 +339387,7 @@ window.GAME_DATA = [
           "AS"
         ],
         "pop": 30,
-        "emoji": "🦟"
+        "emoji": "🪰"
       },
       {
         "id": "Q934570",
@@ -340107,7 +340410,7 @@ window.GAME_DATA = [
           "AS"
         ],
         "pop": 27,
-        "emoji": "🦟"
+        "emoji": "🪰"
       },
       {
         "id": "Q943119",
@@ -356781,7 +357084,6 @@ window.GAME_DATA = [
             "cat": "výskyt",
             "not": [
               "Q1300629",
-              "Q132808",
               "Q1646839",
               "Q206070"
             ]
@@ -357285,9 +357587,7 @@ window.GAME_DATA = [
             "id": "Q720580#1",
             "text": "Dokáže se velmi rychle pohybovat do strany.",
             "cat": "chování",
-            "not": [
-              "Q132808"
-            ]
+            "not": []
           },
           {
             "id": "Q720580#2",
@@ -375124,7 +375424,28 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/%E9%AB%98%E8%89%AF%E8%96%91_Alpinia_officinarum_-%E9%A6%99%E6%B8%AF%E5%8B%95%E6%A4%8D%E7%89%A9%E5%85%AC%E5%9C%92_Hong_Kong_Botanical_Garden-_%289252478061%29.jpg/500px-%E9%AB%98%E8%89%AF%E8%96%91_Alpinia_officinarum_-%E9%A6%99%E6%B8%AF%E5%8B%95%E6%A4%8D%E7%89%A9%E5%85%AC%E5%9C%92_Hong_Kong_Botanical_Garden-_%289252478061%29.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q1281083#x0",
+            "text": "Dorůstá výšky až 2 metrů.",
+            "cat": "čísla",
+            "not": [
+              "Q199075"
+            ]
+          },
+          {
+            "id": "Q1281083#x2",
+            "text": "Kvete od dubna do září.",
+            "cat": "růst",
+            "not": []
+          },
+          {
+            "id": "Q1281083#x3",
+            "text": "Výtažek z něj se v Indii používá do parfémů.",
+            "cat": "využití",
+            "not": []
+          }
+        ],
         "continents": [
           "AS"
         ],
@@ -381769,15 +382090,6 @@ window.GAME_DATA = [
         ],
         "facts": [
           {
-            "id": "Q158118#1",
-            "text": "Kvete v květnu a červnu.",
-            "cat": "růst",
-            "not": [
-              "Q109995",
-              "Q159349"
-            ]
-          },
-          {
             "id": "Q158118#2",
             "text": "Láká motýly, ale nemá žádný nektar.",
             "cat": "vztahy",
@@ -388149,9 +388461,7 @@ window.GAME_DATA = [
             "cat": "vztahy",
             "not": [
               "Q159349",
-              "Q164181",
-              "Q3502763",
-              "Q41794154"
+              "Q164181"
             ]
           }
         ],
@@ -388313,7 +388623,48 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Potamogeton_praelongus%2C_Llyn_Cregennen_Isaf%2C_Wales.jpg/500px-Potamogeton_praelongus%2C_Llyn_Cregennen_Isaf%2C_Wales.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q159487#x1",
+            "text": "Stonky často mění směr mezi jednotlivými uzlinami a rostou cik-cak.",
+            "cat": "vzhled",
+            "not": [
+              "Q154500",
+              "Q159444",
+              "Q159641",
+              "Q1788480",
+              "Q2700676",
+              "Q4338343",
+              "Q763872"
+            ]
+          },
+          {
+            "id": "Q159487#x2",
+            "text": "Vyžaduje čistou a hlubokou vodu.",
+            "cat": "výskyt",
+            "not": [
+              "Q159444",
+              "Q159641",
+              "Q1788480",
+              "Q4338343",
+              "Q763872"
+            ]
+          },
+          {
+            "id": "Q159487#x3",
+            "text": "Špatně snáší vodu přebohatou na živiny.",
+            "cat": "výskyt",
+            "not": [
+              "Q154500"
+            ]
+          },
+          {
+            "id": "Q159487#x4",
+            "text": "Semena potřebují ke klíčení období chladu.",
+            "cat": "růst",
+            "not": []
+          }
+        ],
         "continents": [
           "EU",
           "AS",
@@ -389286,7 +389637,33 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Elodea_canadensis_kz03.jpg/500px-Elodea_canadensis_kz03.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q159760#x4",
+            "text": "Květní trubice měří na délku až 30 cm, ale na šířku jen 1 mm.",
+            "cat": "čísla",
+            "not": [
+              "Q10906279",
+              "Q154500",
+              "Q158868",
+              "Q159444",
+              "Q159641",
+              "Q160722",
+              "Q1788480",
+              "Q2700676",
+              "Q4338343",
+              "Q763872"
+            ]
+          },
+          {
+            "id": "Q159760#x5",
+            "text": "Přežívá zamrzlá v ledu a pod ledem dokonce pomalu roste.",
+            "cat": "růst",
+            "not": [
+              "Q161809"
+            ]
+          }
+        ],
         "continents": [
           "EU",
           "AS",
@@ -405182,10 +405559,8 @@ window.GAME_DATA = [
             "text": "Kvete modrofialovými květy se šesti lístky.",
             "cat": "vzhled",
             "not": [
-              "Q159349",
               "Q159886",
               "Q161123",
-              "Q41794154",
               "Q827098"
             ]
           },
@@ -410072,7 +410447,8 @@ window.GAME_DATA = [
               "Q1130272",
               "Q1637866",
               "Q2176480",
-              "Q2233063"
+              "Q2233063",
+              "Q901435"
             ]
           }
         ],
@@ -410333,6 +410709,7 @@ window.GAME_DATA = [
               "Q718312",
               "Q743883",
               "Q847497",
+              "Q901435",
               "Q902211",
               "Q905897",
               "Q923786",
@@ -411978,7 +412355,8 @@ window.GAME_DATA = [
               "Q11258500",
               "Q1546744",
               "Q256971",
-              "Q743883"
+              "Q743883",
+              "Q901435"
             ]
           }
         ],
@@ -414367,41 +414745,6 @@ window.GAME_DATA = [
         ],
         "facts": [
           {
-            "id": "Q179213#x0",
-            "text": "Kulovité buňky fungují jako čočky a soustřeďují i velmi slabé světlo.",
-            "cat": "vzhled",
-            "not": [
-              "Q11879787",
-              "Q137867",
-              "Q140350",
-              "Q1404902",
-              "Q1426971",
-              "Q1432956",
-              "Q1460161",
-              "Q148994",
-              "Q149101",
-              "Q149109",
-              "Q1500863",
-              "Q150300",
-              "Q150994",
-              "Q1646440",
-              "Q1752834",
-              "Q1763341",
-              "Q1777800",
-              "Q178025",
-              "Q182303",
-              "Q1937687",
-              "Q2097953",
-              "Q245867",
-              "Q301377",
-              "Q4354537",
-              "Q442127",
-              "Q5400250",
-              "Q796552",
-              "Q992846"
-            ]
-          },
-          {
             "id": "Q179213#x2",
             "text": "Roste i na stinných místech, kde jiné rostliny nepřežijí.",
             "cat": "výskyt",
@@ -414801,22 +415144,7 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Grimmia_pulvinata_109753798.jpg/500px-Grimmia_pulvinata_109753798.jpg"
           }
         ],
-        "facts": [
-          {
-            "id": "Q325331#0",
-            "text": "Často osidluje zdivo a beton.",
-            "cat": "výskyt",
-            "not": [
-              "Q137867",
-              "Q149101",
-              "Q149109",
-              "Q150994",
-              "Q1763341",
-              "Q442127",
-              "Q5400250"
-            ]
-          }
-        ],
+        "facts": [],
         "continents": [
           "EU",
           "AS",
@@ -414855,15 +415183,6 @@ window.GAME_DATA = [
             "text": "Vyskytuje se od nížin až do nadmořské výšky 800 metrů.",
             "cat": "čísla",
             "not": []
-          },
-          {
-            "id": "Q3490169#1",
-            "text": "Nachází se podél cest, v příkopech a na vlhkých polích.",
-            "cat": "výskyt",
-            "not": [
-              "Q1777800",
-              "Q301377"
-            ]
           }
         ],
         "continents": [
@@ -416130,6 +416449,8 @@ window.GAME_DATA = [
               "Q1138172",
               "Q1142154",
               "Q12045561",
+              "Q1245997",
+              "Q1665550",
               "Q245842",
               "Q2715589",
               "Q466426",
@@ -448362,7 +448683,27 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Mollisia_cinerea1.jpg/500px-Mollisia_cinerea1.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q722657#x0",
+            "text": "Rozkládá odumřelé dřevo listnatých stromů, zejména dubů a buků.",
+            "cat": "vztahy",
+            "not": [
+              "Q10635270",
+              "Q2267811",
+              "Q3388167",
+              "Q3487883",
+              "Q529191",
+              "Q9384107"
+            ]
+          },
+          {
+            "id": "Q722657#x1",
+            "text": "Vyskytuje se na všech kontinentech kromě Antarktidy.",
+            "cat": "výskyt",
+            "not": []
+          }
+        ],
         "continents": [
           "EU",
           "AS",
@@ -448724,16 +449065,6 @@ window.GAME_DATA = [
         ],
         "facts": [
           {
-            "id": "Q10567609#x2",
-            "text": "Snáší nízkou vlhkost, proto roste i na stromech v kalifornských pouštích.",
-            "cat": "výskyt",
-            "not": [
-              "Q113273",
-              "Q2974933",
-              "Q582664"
-            ]
-          },
-          {
             "id": "Q10567609#x3",
             "text": "Ve srovnání s jinými lišejníky dobře snáší látky znečišťující ovzduší.",
             "cat": "vztahy",
@@ -449074,18 +449405,6 @@ window.GAME_DATA = [
               "Q248744",
               "Q3374554",
               "Q582664"
-            ]
-          },
-          {
-            "id": "Q182281#x3",
-            "text": "Plodnice vytváří jen velmi zřídka.",
-            "cat": "růst",
-            "not": [
-              "Q10567609",
-              "Q113273",
-              "Q1365267",
-              "Q199127",
-              "Q3374554"
             ]
           }
         ],
@@ -485176,7 +485495,9 @@ window.GAME_DATA = [
             "id": "Q161166#0",
             "text": "Dožívá se zpravidla 60 až 100 let.",
             "cat": "čísla",
-            "not": []
+            "not": [
+              "Q2991695"
+            ]
           },
           {
             "id": "Q161166#1",
@@ -532095,7 +532416,10 @@ window.GAME_DATA = [
             "id": "Q1266124#3",
             "text": "Má 3 až 18 bílých květů v jednom shluku.",
             "cat": "vzhled",
-            "not": []
+            "not": [
+              "Q2007832",
+              "Q2991695"
+            ]
           }
         ],
         "continents": [
@@ -534343,6 +534667,8 @@ window.GAME_DATA = [
               "Q159191",
               "Q160113",
               "Q160239",
+              "Q2007832",
+              "Q2991695",
               "Q4383088"
             ]
           }
@@ -536876,6 +537202,8 @@ window.GAME_DATA = [
             "not": [
               "Q158642",
               "Q161416",
+              "Q2007832",
+              "Q2991695",
               "Q334697",
               "Q728769"
             ]
@@ -560553,6 +560881,8 @@ window.GAME_DATA = [
               "Q157555",
               "Q160585",
               "Q161724",
+              "Q2007832",
+              "Q2991695",
               "Q460123",
               "Q7164849"
             ]
@@ -598511,12 +598841,14 @@ window.GAME_DATA = [
               "Q101815",
               "Q17245203",
               "Q195416",
+              "Q2007832",
               "Q21110",
               "Q218462",
               "Q2345294",
               "Q252331",
               "Q2703655",
               "Q27609",
+              "Q2991695",
               "Q3938471",
               "Q882880",
               "Q905980"
@@ -613699,7 +614031,8 @@ window.GAME_DATA = [
             "cat": "výskyt",
             "not": [
               "Q161823",
-              "Q163981"
+              "Q163981",
+              "Q2007832"
             ]
           },
           {
@@ -614900,6 +615233,7 @@ window.GAME_DATA = [
             "cat": "čísla",
             "not": [
               "Q1074622",
+              "Q2007832",
               "Q3695281"
             ]
           },
@@ -615654,6 +615988,8 @@ window.GAME_DATA = [
             "text": "Květy rozkvétají nad hladinou a opyluje je hmyz.",
             "cat": "růst",
             "not": [
+              "Q2007832",
+              "Q2991695",
               "Q920344"
             ]
           },
@@ -616541,6 +616877,8 @@ window.GAME_DATA = [
               "Q158303",
               "Q158563",
               "Q159753",
+              "Q2007832",
+              "Q2991695",
               "Q634975"
             ]
           },
@@ -620574,6 +620912,8 @@ window.GAME_DATA = [
               "Q157405",
               "Q164248",
               "Q1743596",
+              "Q2007832",
+              "Q2991695",
               "Q3205931",
               "Q5131218",
               "Q55813582",
@@ -626165,7 +626505,35 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Legulas.jpg/500px-Legulas.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q1128693#x0",
+            "text": "Využívá veslonožce a kaprovité ryby jako mezihostitele.",
+            "cat": "vztahy",
+            "not": [
+              "Q134582",
+              "Q134669",
+              "Q138713",
+              "Q150987",
+              "Q2324689",
+              "Q244111",
+              "Q2520810",
+              "Q334149",
+              "Q3376138",
+              "Q630200"
+            ]
+          },
+          {
+            "id": "Q1128693#x1",
+            "text": "Mění chování mezihostitele, takže se snáze stane kořistí predátorů.",
+            "cat": "vztahy",
+            "not": [
+              "Q150987",
+              "Q244111",
+              "Q2520810"
+            ]
+          }
+        ],
         "continents": [
           "EU",
           "AS",
@@ -626955,7 +627323,19 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Toxocara_cati_2_beentree.jpg/500px-Toxocara_cati_2_beentree.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q139073#x1",
+            "text": "Dorůstá délky až 10 cm.",
+            "cat": "čísla",
+            "not": [
+              "Q1074210",
+              "Q1253087",
+              "Q3134908",
+              "Q650470"
+            ]
+          }
+        ],
         "continents": [
           "EU",
           "AS",
@@ -627661,7 +628041,25 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/EB1911_Nematoda_-_Heterodera_schachtii_%282%29.jpg/500px-EB1911_Nematoda_-_Heterodera_schachtii_%282%29.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q2203128#x0",
+            "text": "Napadá více než 200 druhů rostlin, například zelí, brokolici a ředkvičky.",
+            "cat": "vztahy",
+            "not": [
+              "Q133092",
+              "Q134361",
+              "Q1502531",
+              "Q1859493",
+              "Q1953495",
+              "Q2433913",
+              "Q2706090",
+              "Q3283008",
+              "Q565708",
+              "Q595116"
+            ]
+          }
+        ],
         "continents": [
           "EU",
           "AS",

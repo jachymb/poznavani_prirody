@@ -128,7 +128,7 @@ RULES = {
         (family("mravencovití"), "🐜"), (order("blanokřídlí"), "🐝"),
         (family("komárovití", "tiplicovití"), "🦟"), (order("dvoukřídlí"), "🪰"),
         (order("rovnokřídlí", "kudlanky", "strašilky"), "🦗"), (order("švábi", "Zygentoma"), "🪳"),
-        (order("vážky", "jepice", "síťokřídlí", "srpice", "střechatky"), "🦟"),
+        (order("vážky", "jepice", "síťokřídlí", "srpice", "střechatky"), "🪰"),
         (ANY, "🪲"),
     ],
     "pavoukovci": [
