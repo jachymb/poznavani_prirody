@@ -1,0 +1,27 @@
+#!/bin/sh
+# Po commitu na main nasadí složenou hru na blog v sousedním repu. Selhání commit nevrátí, jen vypíše hlášku.
+# Hook dědí GIT_DIR a GIT_INDEX_FILE tohoto repa, bez jejich zrušení by git pracoval s ním místo s blogem.
+unset $(git rev-parse --local-env-vars)
+BLOG=../../jachymb.github.io
+GAME=poznavani-prirody/index.html
+
+[ "$(git branch --show-current)" = main ] || exit 0
+# dist skládá pre-commit z pracovní kopie, takže by obsahoval i to, co se do commitu nedostalo.
+if [ -n "$(git status --porcelain -- game build.js)" ]; then
+  echo "Hra nenasazena: v game/ jsou necommitnuté změny." >&2
+  exit 0
+fi
+if [ "$(git -C "$BLOG" branch --show-current 2>/dev/null)" != main ]; then
+  echo "Hra nenasazena: $BLOG neexistuje nebo není na větvi main." >&2
+  exit 0
+fi
+
+REV=$(git rev-parse --short HEAD)
+git show HEAD:dist/poznavani_prirody.html > "$BLOG/$GAME" || exit 0
+cd "$BLOG" || exit 0
+git add -- "$GAME"
+git diff --cached --quiet -- "$GAME" && exit 0
+# Commit jen tohoto souboru: v blogu bývají rozpracované změny, ty sem nepatří.
+git commit -q -m "Deploy Poznavani prirody $REV" -- "$GAME" && git push -q origin main \
+  && echo "Hra $REV nasazena na blog." \
+  || echo "Nasazení hry na blog selhalo, viz výpis výše." >&2
