@@ -1,0 +1,25 @@
+{"drop_facts": [
+{"id": "Q630200#5", "why": "přidané slovo „jen“, které citace neobsahuje"},
+{"id": "Q650470#0", "why": "vynechává „definitivním“ a podmínku přímého cyklu; prvenství člověka je sporné, běžnými hostiteli jsou i hlodavci"},
+{"id": "Q650470#3", "why": "„v jednom článku“ je bez kontextu nejasné, dítě si to vyloží jako text"},
+{"id": "Q669922#6", "why": "zavádějící: nakazit se může asi čtvrtina lidí a neléčená nemoc je téměř vždy smrtelná"},
+{"id": "Q730937#0", "why": "sporné: jeden hostitel je zároveň definitivní i mezihostitel; „hlavními“ posouvá „nejčastějšími“, důležitá jsou i prasata"},
+{"id": "Q773607#4", "why": "nemá podmět („mohou žít“), navíc jde jen o odhad horní meze"},
+{"id": "Q773607#5", "why": "odborný pojem „boubel“ je pro desetileté dítě bez vysvětlení nesrozumitelný"},
+{"id": "Q9361543#1", "why": "„dál se nevyvíjí“ citace neobsahuje a posouvá článek: mění se na schistosomula a mohou migrovat, jen nedokončí vývoj"}
+], "drop_pairs": [
+{"id": "Q650470#2", "species": "Q139073"},
+{"id": "Q650470#2", "species": "Q311109"},
+{"id": "Q669922#2", "species": "Q468771"},
+{"id": "Q669922#3", "species": "Q2706090"},
+{"id": "Q669922#4", "species": "Q1253087"},
+{"id": "Q773607#0", "species": "Q1128693"},
+{"id": "Q773607#0", "species": "Q139073"},
+{"id": "Q773607#0", "species": "Q1754336"},
+{"id": "Q773607#0", "species": "Q632792"},
+{"id": "Q773607#2", "species": "Q139073"},
+{"id": "Q773607#2", "species": "Q291499"},
+{"id": "Q9361543#0", "species": "Q135777"},
+{"id": "Q9361543#0", "species": "Q138713"},
+{"id": "Q9361543#0", "species": "Q3376138"}
+]}

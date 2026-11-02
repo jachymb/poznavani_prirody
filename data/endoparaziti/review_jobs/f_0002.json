@@ -1,0 +1,684 @@
+[
+ {
+  "id": "Q21053#0",
+  "species": "Motolice kopinatá",
+  "latin": "Dicrocoelium dendriticum",
+  "text": "Cizopasí v játrech přežvýkavců, například ovcí.",
+  "quote": "parazituje v játrech domácích, ale i volně žijících přežvýkavců",
+  "claimed_false_for": {
+   "Q1128693": "Řemenatka ptačí (Ligula intestinalis)",
+   "Q134582": "Krevnička močová (Schistosoma haematobium)",
+   "Q145801": "Angiostrongylus vasorum (Angiostrongylus vasorum)",
+   "Q1502531": "Vlasovec medinský (Dracunculus medinensis)",
+   "Q150987": "Tenkohlavec prasečí (Trichuris suis)",
+   "Q1953495": "Myrmeconema neotropicum (Myrmeconema neotropicum)",
+   "Q2203128": "Háďátko řepné (Heterodera schachtii)",
+   "Q2706090": "Tasemnice krysí (Hymenolepis diminuta)",
+   "Q3823518": "Strunovec vodní (Gordius aquaticus)",
+   "Q632792": "Tasemnice kočičí (Hydatigera taeniaeformis)",
+   "Q773607": "Tasemnice bezbranná (Taenia saginata)"
+  }
+ },
+ {
+  "id": "Q21053#1",
+  "species": "Motolice kopinatá",
+  "latin": "Dicrocoelium dendriticum",
+  "text": "Nakažený mravenec zůstane strnule přichycen na stéblech trav.",
+  "quote": "který v důsledku poškození nervové soustavy zůstává strnule přichycen na vrcholcích stébel trav",
+  "claimed_false_for": {
+   "Q1128693": "Řemenatka ptačí (Ligula intestinalis)",
+   "Q134582": "Krevnička močová (Schistosoma haematobium)",
+   "Q145801": "Angiostrongylus vasorum (Angiostrongylus vasorum)",
+   "Q1502531": "Vlasovec medinský (Dracunculus medinensis)",
+   "Q150987": "Tenkohlavec prasečí (Trichuris suis)",
+   "Q1953495": "Myrmeconema neotropicum (Myrmeconema neotropicum)",
+   "Q2203128": "Háďátko řepné (Heterodera schachtii)",
+   "Q2566614": "Fasciola gigantica (Fasciola gigantica)",
+   "Q2706090": "Tasemnice krysí (Hymenolepis diminuta)",
+   "Q3823518": "Strunovec vodní (Gordius aquaticus)",
+   "Q632792": "Tasemnice kočičí (Hydatigera taeniaeformis)",
+   "Q773607": "Tasemnice bezbranná (Taenia saginata)"
+  }
+ },
+ {
+  "id": "Q2203128#1",
+  "species": "Háďátko řepné",
+  "latin": "Heterodera schachtii",
+  "text": "Loví ho houba hlíva ústřičná.",
+  "quote": "Jedním z organismů, které háďátka loví a konzumuje je houba hlíva ústřičná",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q2324689#0",
+  "species": "Krevnička střevní",
+  "latin": "Schistosoma mansoni",
+  "text": "Mezihostitelem jsou plži.",
+  "quote": "Mezihostitelem jsou plži z rodu Biomphalaria.",
+  "claimed_false_for": {
+   "Q139073": "Škrkavka kočičí (Toxocara cati)",
+   "Q145041": "Škrkavka šelmí (Toxascaris leonina)",
+   "Q2550294": "Baylisascaris procyonis (Baylisascaris procyonis)",
+   "Q292170": "Echinococcus vogeli (Echinococcus vogeli)",
+   "Q311109": "Vlasovec mízní (Wuchereria bancrofti)",
+   "Q565708": "Tasemnice dlouhočlenná (Taenia solium)",
+   "Q595116": "Háďátko pšeničné (Anguina tritici)",
+   "Q604573": "Vrtejš velký (Macracanthorhynchus hirudinaceus)",
+   "Q81125": "Tasemnice psí (Dipylidium caninum)"
+  }
+ },
+ {
+  "id": "Q2324689#1",
+  "species": "Krevnička střevní",
+  "latin": "Schistosoma mansoni",
+  "text": "Hostitelem je hlavně člověk, také primáti a hlodavci.",
+  "quote": "Mezi definitivní hostitele patří hlavně člověk, ale také další primáti a hlodavci.",
+  "claimed_false_for": {
+   "Q138713": "Motolice podivná (Leucochloridium paradoxum)",
+   "Q139073": "Škrkavka kočičí (Toxocara cati)",
+   "Q145041": "Škrkavka šelmí (Toxascaris leonina)",
+   "Q2550294": "Baylisascaris procyonis (Baylisascaris procyonis)",
+   "Q3376138": "Fascioloides magna (Fascioloides magna)",
+   "Q595116": "Háďátko pšeničné (Anguina tritici)",
+   "Q604573": "Vrtejš velký (Macracanthorhynchus hirudinaceus)",
+   "Q81125": "Tasemnice psí (Dipylidium caninum)"
+  }
+ },
+ {
+  "id": "Q2324689#3",
+  "species": "Krevnička střevní",
+  "latin": "Schistosoma mansoni",
+  "text": "Samička vytvoří asi 300 vajíček za den.",
+  "quote": "Po spárování začne samička produkovat vajíčka (přibližně 300 za den).",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q2433913#0",
+  "species": "Měchovec americký",
+  "latin": "Necator americanus",
+  "text": "Denně odebere hostiteli asi 0,2 ml krve.",
+  "quote": "Jedinec necatora denně odebere svému hostiteli asi 0,2 ml krve.",
+  "claimed_false_for": {
+   "Q138713": "Motolice podivná (Leucochloridium paradoxum)",
+   "Q3375476": "Tasemnice ovčí (Moniezia expansa)",
+   "Q3503323": "Ascaridia galli (Ascaridia galli)",
+   "Q604573": "Vrtejš velký (Macracanthorhynchus hirudinaceus)",
+   "Q632792": "Tasemnice kočičí (Hydatigera taeniaeformis)",
+   "Q650470": "Tasemnice dětská (Hymenolepis nana)"
+  }
+ },
+ {
+  "id": "Q2433913#1",
+  "species": "Měchovec americký",
+  "latin": "Necator americanus",
+  "text": "Samice klade až 10 000 vajíček za jeden den.",
+  "quote": "přičemž je schopna naklást až 10 000 vajíček za jeden den.",
+  "claimed_false_for": {
+   "Q149049": "Pratylenchus penetrans (Pratylenchus penetrans)",
+   "Q2324689": "Krevnička střevní (Schistosoma mansoni)"
+  }
+ },
+ {
+  "id": "Q2433913#2",
+  "species": "Měchovec americký",
+  "latin": "Necator americanus",
+  "text": "Napadá člověka i jiné savce, například primáty.",
+  "quote": "Avšak N. americanus může napadat i další savce (např. primáty).",
+  "claimed_false_for": {
+   "Q1253087": "Roup dětský (Enterobius vermicularis)",
+   "Q149049": "Pratylenchus penetrans (Pratylenchus penetrans)",
+   "Q1953495": "Myrmeconema neotropicum (Myrmeconema neotropicum)",
+   "Q3823518": "Strunovec vodní (Gordius aquaticus)"
+  }
+ },
+ {
+  "id": "Q2433913#3",
+  "species": "Měchovec americký",
+  "latin": "Necator americanus",
+  "text": "Larva do těla proniká kůží, typicky přes chodidla nebo ruce.",
+  "quote": "typicky přes chodidla či ruce.",
+  "claimed_false_for": {
+   "Q133167": "Paragonimus westermani (Paragonimus westermani)",
+   "Q138713": "Motolice podivná (Leucochloridium paradoxum)",
+   "Q150987": "Tenkohlavec prasečí (Trichuris suis)",
+   "Q2566614": "Fasciola gigantica (Fasciola gigantica)",
+   "Q3061587": "Jazyčnatka tasemnicová (Linguatula serrata)",
+   "Q3279537": "Fasciolopsis buski (Fasciolopsis buski)",
+   "Q3375476": "Tasemnice ovčí (Moniezia expansa)",
+   "Q3503323": "Ascaridia galli (Ascaridia galli)",
+   "Q5279085": "Ledvinovec psí (Dioctophyme renale)",
+   "Q604573": "Vrtejš velký (Macracanthorhynchus hirudinaceus)",
+   "Q632792": "Tasemnice kočičí (Hydatigera taeniaeformis)",
+   "Q650470": "Tasemnice dětská (Hymenolepis nana)"
+  }
+ },
+ {
+  "id": "Q244111#0",
+  "species": "Hádě střevní",
+  "latin": "Strongyloides stercoralis",
+  "text": "Cizopasí u člověka nebo psa.",
+  "quote": "jehož hostitelem je člověk nebo pes",
+  "claimed_false_for": {
+   "Q138713": "Motolice podivná (Leucochloridium paradoxum)",
+   "Q150987": "Tenkohlavec prasečí (Trichuris suis)",
+   "Q2566614": "Fasciola gigantica (Fasciola gigantica)",
+   "Q3375476": "Tasemnice ovčí (Moniezia expansa)",
+   "Q3503323": "Ascaridia galli (Ascaridia galli)",
+   "Q632792": "Tasemnice kočičí (Hydatigera taeniaeformis)"
+  }
+ },
+ {
+  "id": "Q244111#1",
+  "species": "Hádě střevní",
+  "latin": "Strongyloides stercoralis",
+  "text": "Dorůstá velikosti 0,8 – 2,2 mm.",
+  "quote": "dorůstá velikosti 0,8 – 2,2 mm",
+  "claimed_false_for": {
+   "Q133167": "Paragonimus westermani (Paragonimus westermani)",
+   "Q150987": "Tenkohlavec prasečí (Trichuris suis)",
+   "Q2566614": "Fasciola gigantica (Fasciola gigantica)",
+   "Q3061587": "Jazyčnatka tasemnicová (Linguatula serrata)",
+   "Q3279537": "Fasciolopsis buski (Fasciolopsis buski)",
+   "Q3375476": "Tasemnice ovčí (Moniezia expansa)",
+   "Q3503323": "Ascaridia galli (Ascaridia galli)",
+   "Q5279085": "Ledvinovec psí (Dioctophyme renale)",
+   "Q604573": "Vrtejš velký (Macracanthorhynchus hirudinaceus)",
+   "Q632792": "Tasemnice kočičí (Hydatigera taeniaeformis)",
+   "Q650470": "Tasemnice dětská (Hymenolepis nana)"
+  }
+ },
+ {
+  "id": "Q2520810#0",
+  "species": "Měchovec lidský",
+  "latin": "Ancylostoma duodenale",
+  "text": "Přichytí se ke střevu a saje krev.",
+  "quote": "jež slouží k přichycení parazita k sliznici střeva a sání krve",
+  "claimed_false_for": {
+   "Q133167": "Paragonimus westermani (Paragonimus westermani)",
+   "Q138713": "Motolice podivná (Leucochloridium paradoxum)",
+   "Q3061587": "Jazyčnatka tasemnicová (Linguatula serrata)",
+   "Q3375476": "Tasemnice ovčí (Moniezia expansa)",
+   "Q3503323": "Ascaridia galli (Ascaridia galli)",
+   "Q632792": "Tasemnice kočičí (Hydatigera taeniaeformis)",
+   "Q650470": "Tasemnice dětská (Hymenolepis nana)"
+  }
+ },
+ {
+  "id": "Q2550294#0",
+  "species": "Baylisascaris procyonis",
+  "latin": "Baylisascaris procyonis",
+  "text": "Dospělý cizopasník žije ve střevě mývala.",
+  "quote": "Dospělá škrkavka žije a rozmnožuje se ve střevě svého definitivního hostitele, mývala.",
+  "claimed_false_for": {
+   "Q134361": "Vlasovec oční (Loa loa)",
+   "Q2060647": "Anisakis simplex (Anisakis simplex)",
+   "Q292170": "Echinococcus vogeli (Echinococcus vogeli)",
+   "Q3279537": "Fasciolopsis buski (Fasciolopsis buski)",
+   "Q3375476": "Tasemnice ovčí (Moniezia expansa)",
+   "Q468771": "Škrkavka dětská (Ascaris lumbricoides)",
+   "Q565708": "Tasemnice dlouhočlenná (Taenia solium)",
+   "Q773607": "Tasemnice bezbranná (Taenia saginata)"
+  }
+ },
+ {
+  "id": "Q2550294#1",
+  "species": "Baylisascaris procyonis",
+  "latin": "Baylisascaris procyonis",
+  "text": "Samice denně vyprodukuje 115 000 až 179 000 vajíček.",
+  "quote": "Samice škrkavky může produkovat 115 000 – 179 000 vajíček denně.",
+  "claimed_false_for": {
+   "Q1074210": "Motolice žlučová (Clonorchis sinensis)",
+   "Q2324689": "Krevnička střevní (Schistosoma mansoni)"
+  }
+ },
+ {
+  "id": "Q2566614#0",
+  "species": "Fasciola gigantica",
+  "latin": "Fasciola gigantica",
+  "text": "Vyvíjí se přes vodního plže jako mezihostitele.",
+  "quote": "Vývojový cyklus probíhá přes mezihostitele – vodní plž z čeledi Lymnaeidae.",
+  "claimed_false_for": {
+   "Q134361": "Vlasovec oční (Loa loa)",
+   "Q139073": "Škrkavka kočičí (Toxocara cati)",
+   "Q150960": "Capillaria hepatica (Capillaria hepatica)",
+   "Q2203128": "Háďátko řepné (Heterodera schachtii)",
+   "Q2550294": "Baylisascaris procyonis (Baylisascaris procyonis)",
+   "Q292170": "Echinococcus vogeli (Echinococcus vogeli)",
+   "Q595116": "Háďátko pšeničné (Anguina tritici)",
+   "Q604573": "Vrtejš velký (Macracanthorhynchus hirudinaceus)",
+   "Q61571148": "Škulovec široký (Dibothriocephalus latus)",
+   "Q630200": "Měchožil zhoubný (Echinococcus granulosus)"
+  }
+ },
+ {
+  "id": "Q2566614#1",
+  "species": "Fasciola gigantica",
+  "latin": "Fasciola gigantica",
+  "text": "Hlavním hostitelem je skot a buvol.",
+  "quote": "Hlavním definitivním hostitelem je skot a vodní (domestikovaný) buvol.",
+  "claimed_false_for": {
+   "Q133167": "Paragonimus westermani (Paragonimus westermani)",
+   "Q134361": "Vlasovec oční (Loa loa)",
+   "Q139073": "Škrkavka kočičí (Toxocara cati)",
+   "Q1449098": "Angiostrongylus cantonensis (Angiostrongylus cantonensis)",
+   "Q150960": "Capillaria hepatica (Capillaria hepatica)",
+   "Q2203128": "Háďátko řepné (Heterodera schachtii)",
+   "Q2550294": "Baylisascaris procyonis (Baylisascaris procyonis)",
+   "Q292170": "Echinococcus vogeli (Echinococcus vogeli)",
+   "Q595116": "Háďátko pšeničné (Anguina tritici)",
+   "Q604573": "Vrtejš velký (Macracanthorhynchus hirudinaceus)",
+   "Q61571148": "Škulovec široký (Dibothriocephalus latus)"
+  }
+ },
+ {
+  "id": "Q2706090#1",
+  "species": "Tasemnice krysí",
+  "latin": "Hymenolepis diminuta",
+  "text": "V laboratořích bývá mezihostitelem brouk potemník moučný.",
+  "quote": "V laboratorních podmínkách je to nejčastěji brouk potemník moučný",
+  "claimed_false_for": {
+   "Q1154414": "Tenkohlavec lidský (Trichuris trichiura)",
+   "Q1253087": "Roup dětský (Enterobius vermicularis)",
+   "Q150987": "Tenkohlavec prasečí (Trichuris suis)",
+   "Q1859493": "Krevnatka úhoří (Anguillicoloides crassus)",
+   "Q2808577": "Paragordius tricuspidatus (Paragordius tricuspidatus)",
+   "Q311109": "Vlasovec mízní (Wuchereria bancrofti)",
+   "Q9361543": "Trichobilharzia szidati (Trichobilharzia szidati)"
+  }
+ },
+ {
+  "id": "Q2808577#0",
+  "species": "Paragordius tricuspidatus",
+  "latin": "Paragordius tricuspidatus",
+  "text": "Cizopasí v cvrčkovi lesním.",
+  "quote": "hostitelem, cvrčkem lesním (Nemobius sylvestris)",
+  "claimed_false_for": {
+   "Q1253087": "Roup dětský (Enterobius vermicularis)",
+   "Q133092": "Škrkavka psí (Toxocara canis)",
+   "Q135523": "Motolice thajská (Opisthorchis viverrini)",
+   "Q1449098": "Angiostrongylus cantonensis (Angiostrongylus cantonensis)",
+   "Q1953495": "Myrmeconema neotropicum (Myrmeconema neotropicum)",
+   "Q2433913": "Měchovec americký (Necator americanus)",
+   "Q2520810": "Měchovec lidský (Ancylostoma duodenale)",
+   "Q291499": "Měchovec psí (Ancylostoma caninum)",
+   "Q3061587": "Jazyčnatka tasemnicová (Linguatula serrata)",
+   "Q3283008": "Trichobilharzia regenti (Trichobilharzia regenti)",
+   "Q595116": "Háďátko pšeničné (Anguina tritici)",
+   "Q630200": "Měchožil zhoubný (Echinococcus granulosus)"
+  }
+ },
+ {
+  "id": "Q2808577#1",
+  "species": "Paragordius tricuspidatus",
+  "latin": "Paragordius tricuspidatus",
+  "text": "Vajíčka bývají kladena na okrajích řek.",
+  "quote": "Vajíčka P. tricuspidates bývají kladena na okrajích řek",
+  "claimed_false_for": {
+   "Q1253087": "Roup dětský (Enterobius vermicularis)",
+   "Q1449098": "Angiostrongylus cantonensis (Angiostrongylus cantonensis)",
+   "Q1953495": "Myrmeconema neotropicum (Myrmeconema neotropicum)",
+   "Q3061587": "Jazyčnatka tasemnicová (Linguatula serrata)",
+   "Q595116": "Háďátko pšeničné (Anguina tritici)"
+  }
+ },
+ {
+  "id": "Q291499#0",
+  "species": "Měchovec psí",
+  "latin": "Ancylostoma caninum",
+  "text": "Hostiteli mohou být i vlci, lišky a kočky.",
+  "quote": "Dalšími hostiteli mohou být jiné masožravé šelmy, jako například vlci, lišky, kočky",
+  "claimed_false_for": {
+   "Q1253087": "Roup dětský (Enterobius vermicularis)",
+   "Q149049": "Pratylenchus penetrans (Pratylenchus penetrans)",
+   "Q1953495": "Myrmeconema neotropicum (Myrmeconema neotropicum)",
+   "Q3823518": "Strunovec vodní (Gordius aquaticus)"
+  }
+ },
+ {
+  "id": "Q291499#1",
+  "species": "Měchovec psí",
+  "latin": "Ancylostoma caninum",
+  "text": "Cizopasí hlavně v tenkém střevě psa.",
+  "quote": "infikuje převážně tenké střevo psa",
+  "claimed_false_for": {
+   "Q133167": "Paragonimus westermani (Paragonimus westermani)",
+   "Q138713": "Motolice podivná (Leucochloridium paradoxum)",
+   "Q150987": "Tenkohlavec prasečí (Trichuris suis)",
+   "Q2566614": "Fasciola gigantica (Fasciola gigantica)",
+   "Q3061587": "Jazyčnatka tasemnicová (Linguatula serrata)",
+   "Q3279537": "Fasciolopsis buski (Fasciolopsis buski)",
+   "Q3375476": "Tasemnice ovčí (Moniezia expansa)",
+   "Q3503323": "Ascaridia galli (Ascaridia galli)",
+   "Q5279085": "Ledvinovec psí (Dioctophyme renale)",
+   "Q604573": "Vrtejš velký (Macracanthorhynchus hirudinaceus)",
+   "Q632792": "Tasemnice kočičí (Hydatigera taeniaeformis)",
+   "Q650470": "Tasemnice dětská (Hymenolepis nana)"
+  }
+ },
+ {
+  "id": "Q291499#2",
+  "species": "Měchovec psí",
+  "latin": "Ancylostoma caninum",
+  "text": "Živí se střevní výstelkou a troškou krve.",
+  "quote": "živí se střevní výstelkou spolu s troškou krve",
+  "claimed_false_for": {
+   "Q3375476": "Tasemnice ovčí (Moniezia expansa)",
+   "Q632792": "Tasemnice kočičí (Hydatigera taeniaeformis)",
+   "Q650470": "Tasemnice dětská (Hymenolepis nana)"
+  }
+ },
+ {
+  "id": "Q291499#3",
+  "species": "Měchovec psí",
+  "latin": "Ancylostoma caninum",
+  "text": "Při krmení zabraňuje srážení krve.",
+  "quote": "využívá při krmení a zabraňuje srážení krve",
+  "claimed_false_for": {
+   "Q138713": "Motolice podivná (Leucochloridium paradoxum)",
+   "Q3375476": "Tasemnice ovčí (Moniezia expansa)",
+   "Q3503323": "Ascaridia galli (Ascaridia galli)",
+   "Q604573": "Vrtejš velký (Macracanthorhynchus hirudinaceus)",
+   "Q632792": "Tasemnice kočičí (Hydatigera taeniaeformis)",
+   "Q650470": "Tasemnice dětská (Hymenolepis nana)"
+  }
+ },
+ {
+  "id": "Q291499#4",
+  "species": "Měchovec psí",
+  "latin": "Ancylostoma caninum",
+  "text": "Vajíčka se líhnou během jednoho dne na vlhké a teplé půdě.",
+  "quote": "Vajíčka jsou z hostitele vylučována ve výkalech a líhnou se během jednoho dne na vlhké a teplé půdě.",
+  "claimed_false_for": {
+   "Q133167": "Paragonimus westermani (Paragonimus westermani)",
+   "Q138713": "Motolice podivná (Leucochloridium paradoxum)",
+   "Q150987": "Tenkohlavec prasečí (Trichuris suis)",
+   "Q2566614": "Fasciola gigantica (Fasciola gigantica)",
+   "Q3279537": "Fasciolopsis buski (Fasciolopsis buski)",
+   "Q3375476": "Tasemnice ovčí (Moniezia expansa)",
+   "Q3503323": "Ascaridia galli (Ascaridia galli)",
+   "Q604573": "Vrtejš velký (Macracanthorhynchus hirudinaceus)",
+   "Q632792": "Tasemnice kočičí (Hydatigera taeniaeformis)"
+  }
+ },
+ {
+  "id": "Q291499#5",
+  "species": "Měchovec psí",
+  "latin": "Ancylostoma caninum",
+  "text": "Samičky jsou dlouhé 14 až 16 milimetrů.",
+  "quote": "Samičky měchovce psího jsou v průměru 14-16 mm dlouhé",
+  "claimed_false_for": {
+   "Q150987": "Tenkohlavec prasečí (Trichuris suis)",
+   "Q3503323": "Ascaridia galli (Ascaridia galli)",
+   "Q5279085": "Ledvinovec psí (Dioctophyme renale)",
+   "Q604573": "Vrtejš velký (Macracanthorhynchus hirudinaceus)"
+  }
+ },
+ {
+  "id": "Q292170#0",
+  "species": "Echinococcus vogeli",
+  "latin": "Echinococcus vogeli",
+  "text": "Cizopasí ve střevech psů pralesních a domácích.",
+  "quote": "parazitující ve střevech psů pralesních a psů domácích",
+  "claimed_false_for": {
+   "Q1128693": "Řemenatka ptačí (Ligula intestinalis)",
+   "Q134669": "Vlasovec psí (Dirofilaria immitis)",
+   "Q1754336": "Vlasovka slezová (Haemonchus contortus)",
+   "Q2060647": "Anisakis simplex (Anisakis simplex)",
+   "Q2203128": "Háďátko řepné (Heterodera schachtii)",
+   "Q2433913": "Měchovec americký (Necator americanus)",
+   "Q2706090": "Tasemnice krysí (Hymenolepis diminuta)",
+   "Q311109": "Vlasovec mízní (Wuchereria bancrofti)"
+  }
+ },
+ {
+  "id": "Q292170#1",
+  "species": "Echinococcus vogeli",
+  "latin": "Echinococcus vogeli",
+  "text": "Mezihostitelem jsou paka nížinná a aguti zlatý.",
+  "quote": "Mezihostitelem tasemnice je paka nížinná (Cuniculus paca) a aguti zlatý (Dasyprocta leporina).",
+  "claimed_false_for": {
+   "Q1154414": "Tenkohlavec lidský (Trichuris trichiura)",
+   "Q1253087": "Roup dětský (Enterobius vermicularis)",
+   "Q150987": "Tenkohlavec prasečí (Trichuris suis)",
+   "Q1859493": "Krevnatka úhoří (Anguillicoloides crassus)",
+   "Q2808577": "Paragordius tricuspidatus (Paragordius tricuspidatus)",
+   "Q311109": "Vlasovec mízní (Wuchereria bancrofti)",
+   "Q3134908": "Heterorhabditis bacteriophora (Heterorhabditis bacteriophora)",
+   "Q9361543": "Trichobilharzia szidati (Trichobilharzia szidati)"
+  }
+ },
+ {
+  "id": "Q3061587#0",
+  "species": "Jazyčnatka tasemnicová",
+  "latin": "Linguatula serrata",
+  "text": "Dospělci žijí v nosní dutině psa.",
+  "quote": "se dospělé jazyčnatky lokalizují v jeho nosní dutině",
+  "claimed_false_for": {
+   "Q1154414": "Tenkohlavec lidský (Trichuris trichiura)",
+   "Q145041": "Škrkavka šelmí (Toxascaris leonina)",
+   "Q150960": "Capillaria hepatica (Capillaria hepatica)",
+   "Q1859493": "Krevnatka úhoří (Anguillicoloides crassus)",
+   "Q2060647": "Anisakis simplex (Anisakis simplex)",
+   "Q244111": "Hádě střevní (Strongyloides stercoralis)",
+   "Q3279537": "Fasciolopsis buski (Fasciolopsis buski)",
+   "Q3375476": "Tasemnice ovčí (Moniezia expansa)",
+   "Q4118359": "Ancylostoma braziliense (Ancylostoma braziliense)",
+   "Q61571148": "Škulovec široký (Dibothriocephalus latus)",
+   "Q650470": "Tasemnice dětská (Hymenolepis nana)",
+   "Q9361543": "Trichobilharzia szidati (Trichobilharzia szidati)"
+  }
+ },
+ {
+  "id": "Q3061587#1",
+  "species": "Jazyčnatka tasemnicová",
+  "latin": "Linguatula serrata",
+  "text": "Mezihostitelem jsou nejčastěji savci, například zajíc nebo ovce.",
+  "quote": "Mezihostitelem jsou nejčastěji savci (zajíc, hlodavec, ovce atd.)",
+  "claimed_false_for": {
+   "Q1154414": "Tenkohlavec lidský (Trichuris trichiura)",
+   "Q1859493": "Krevnatka úhoří (Anguillicoloides crassus)",
+   "Q2060647": "Anisakis simplex (Anisakis simplex)",
+   "Q244111": "Hádě střevní (Strongyloides stercoralis)",
+   "Q3279537": "Fasciolopsis buski (Fasciolopsis buski)",
+   "Q3375476": "Tasemnice ovčí (Moniezia expansa)",
+   "Q4118359": "Ancylostoma braziliense (Ancylostoma braziliense)",
+   "Q61571148": "Škulovec široký (Dibothriocephalus latus)",
+   "Q650470": "Tasemnice dětská (Hymenolepis nana)",
+   "Q9361543": "Trichobilharzia szidati (Trichobilharzia szidati)"
+  }
+ },
+ {
+  "id": "Q311109#0",
+  "species": "Vlasovec mízní",
+  "latin": "Wuchereria bancrofti",
+  "text": "Přenášejí krevsající komáři.",
+  "quote": "Přenašečem vlasovce jsou krevsající komáři z rodů Aedes, Culex, Anopheles či Mansonia.",
+  "claimed_false_for": {
+   "Q1154414": "Tenkohlavec lidský (Trichuris trichiura)",
+   "Q1253087": "Roup dětský (Enterobius vermicularis)",
+   "Q1256989": "Krevnička jaterní (Schistosoma japonicum)",
+   "Q139073": "Škrkavka kočičí (Toxocara cati)",
+   "Q1502531": "Vlasovec medinský (Dracunculus medinensis)",
+   "Q1953495": "Myrmeconema neotropicum (Myrmeconema neotropicum)",
+   "Q21053": "Motolice kopinatá (Dicrocoelium dendriticum)",
+   "Q2433913": "Měchovec americký (Necator americanus)",
+   "Q2706090": "Tasemnice krysí (Hymenolepis diminuta)",
+   "Q334149": "Motolice jaterní (Fasciola hepatica)",
+   "Q468771": "Škrkavka dětská (Ascaris lumbricoides)",
+   "Q565708": "Tasemnice dlouhočlenná (Taenia solium)",
+   "Q595116": "Háďátko pšeničné (Anguina tritici)",
+   "Q604573": "Vrtejš velký (Macracanthorhynchus hirudinaceus)",
+   "Q61571148": "Škulovec široký (Dibothriocephalus latus)",
+   "Q630200": "Měchožil zhoubný (Echinococcus granulosus)",
+   "Q650470": "Tasemnice dětská (Hymenolepis nana)",
+   "Q669922": "Měchožil bublinatý (Echinococcus multilocularis)",
+   "Q730937": "Svalovec stočený (Trichinella spiralis)",
+   "Q773607": "Tasemnice bezbranná (Taenia saginata)"
+  }
+ },
+ {
+  "id": "Q311109#1",
+  "species": "Vlasovec mízní",
+  "latin": "Wuchereria bancrofti",
+  "text": "Larvy tohoto druhu jsou v krvi nejvíc v noci.",
+  "quote": "maximální výskyt mikrofilárií v krvi v nočních hodinách",
+  "claimed_false_for": {
+   "Q1154414": "Tenkohlavec lidský (Trichuris trichiura)",
+   "Q1253087": "Roup dětský (Enterobius vermicularis)",
+   "Q1256989": "Krevnička jaterní (Schistosoma japonicum)",
+   "Q139073": "Škrkavka kočičí (Toxocara cati)",
+   "Q1502531": "Vlasovec medinský (Dracunculus medinensis)",
+   "Q1953495": "Myrmeconema neotropicum (Myrmeconema neotropicum)",
+   "Q21053": "Motolice kopinatá (Dicrocoelium dendriticum)",
+   "Q2433913": "Měchovec americký (Necator americanus)",
+   "Q2706090": "Tasemnice krysí (Hymenolepis diminuta)",
+   "Q334149": "Motolice jaterní (Fasciola hepatica)",
+   "Q565708": "Tasemnice dlouhočlenná (Taenia solium)",
+   "Q595116": "Háďátko pšeničné (Anguina tritici)",
+   "Q604573": "Vrtejš velký (Macracanthorhynchus hirudinaceus)",
+   "Q61571148": "Škulovec široký (Dibothriocephalus latus)",
+   "Q630200": "Měchožil zhoubný (Echinococcus granulosus)",
+   "Q650470": "Tasemnice dětská (Hymenolepis nana)",
+   "Q669922": "Měchožil bublinatý (Echinococcus multilocularis)",
+   "Q773607": "Tasemnice bezbranná (Taenia saginata)"
+  }
+ },
+ {
+  "id": "Q3134908#0",
+  "species": "Heterorhabditis bacteriophora",
+  "latin": "Heterorhabditis bacteriophora",
+  "text": "Žije v symbióze s bakteriemi, které hostitele rychle usmrtí.",
+  "quote": "Je známý svou symbiózou s gramnegativními bakteriemi druhu Photorhabdus luminescens, díky které dokáže rychle usmrtit svého hostitele.",
+  "claimed_false_for": {
+   "Q1154414": "Tenkohlavec lidský (Trichuris trichiura)",
+   "Q1253087": "Roup dětský (Enterobius vermicularis)",
+   "Q135523": "Motolice thajská (Opisthorchis viverrini)",
+   "Q1449098": "Angiostrongylus cantonensis (Angiostrongylus cantonensis)",
+   "Q145801": "Angiostrongylus vasorum (Angiostrongylus vasorum)",
+   "Q149049": "Pratylenchus penetrans (Pratylenchus penetrans)",
+   "Q2324689": "Krevnička střevní (Schistosoma mansoni)",
+   "Q244111": "Hádě střevní (Strongyloides stercoralis)",
+   "Q2520810": "Měchovec lidský (Ancylostoma duodenale)",
+   "Q3823518": "Strunovec vodní (Gordius aquaticus)",
+   "Q565708": "Tasemnice dlouhočlenná (Taenia solium)"
+  }
+ },
+ {
+  "id": "Q3134908#1",
+  "species": "Heterorhabditis bacteriophora",
+  "latin": "Heterorhabditis bacteriophora",
+  "text": "Napadá larvy půdního hmyzu, vzácněji i dospělce.",
+  "quote": "Tento druh parazitické hlístovky není specializovaný na konkrétního hostitele, ale obecně larvy půdního hmyzu, vzácněji i dospělce.",
+  "claimed_false_for": {
+   "Q1154414": "Tenkohlavec lidský (Trichuris trichiura)",
+   "Q1253087": "Roup dětský (Enterobius vermicularis)",
+   "Q135523": "Motolice thajská (Opisthorchis viverrini)",
+   "Q1449098": "Angiostrongylus cantonensis (Angiostrongylus cantonensis)",
+   "Q145801": "Angiostrongylus vasorum (Angiostrongylus vasorum)",
+   "Q149049": "Pratylenchus penetrans (Pratylenchus penetrans)",
+   "Q2324689": "Krevnička střevní (Schistosoma mansoni)",
+   "Q244111": "Hádě střevní (Strongyloides stercoralis)",
+   "Q2520810": "Měchovec lidský (Ancylostoma duodenale)",
+   "Q565708": "Tasemnice dlouhočlenná (Taenia solium)"
+  }
+ },
+ {
+  "id": "Q3134908#2",
+  "species": "Heterorhabditis bacteriophora",
+  "latin": "Heterorhabditis bacteriophora",
+  "text": "Larva pronikne do hostitele většinou trávicí soustavou.",
+  "quote": "Po nalezení vhodného hostitele proniká invazivní larva nejčastěji otvory trávicí soustavy",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q3279537#0",
+  "species": "Fasciolopsis buski",
+  "latin": "Fasciolopsis buski",
+  "text": "Cizopasí u člověka a prasat.",
+  "quote": "parazitující u člověka a prasat",
+  "claimed_false_for": {
+   "Q134361": "Vlasovec oční (Loa loa)",
+   "Q2203128": "Háďátko řepné (Heterodera schachtii)",
+   "Q595116": "Háďátko pšeničné (Anguina tritici)"
+  }
+ },
+ {
+  "id": "Q3279537#1",
+  "species": "Fasciolopsis buski",
+  "latin": "Fasciolopsis buski",
+  "text": "Vývoj probíhá přes plže.",
+  "quote": "cyklus motolice probíhá přes plže z čeledi Planorbidae.",
+  "claimed_false_for": {
+   "Q134361": "Vlasovec oční (Loa loa)",
+   "Q139073": "Škrkavka kočičí (Toxocara cati)",
+   "Q150960": "Capillaria hepatica (Capillaria hepatica)",
+   "Q2203128": "Háďátko řepné (Heterodera schachtii)",
+   "Q2550294": "Baylisascaris procyonis (Baylisascaris procyonis)",
+   "Q292170": "Echinococcus vogeli (Echinococcus vogeli)",
+   "Q595116": "Háďátko pšeničné (Anguina tritici)",
+   "Q604573": "Vrtejš velký (Macracanthorhynchus hirudinaceus)",
+   "Q61571148": "Škulovec široký (Dibothriocephalus latus)",
+   "Q630200": "Měchožil zhoubný (Echinococcus granulosus)"
+  }
+ },
+ {
+  "id": "Q3283008#0",
+  "species": "Trichobilharzia regenti",
+  "latin": "Trichobilharzia regenti",
+  "text": "Mezihostitelem tohoto druhu je sladkovodní plž.",
+  "quote": "kdy mezihostitelem je sladkovodní plž",
+  "claimed_false_for": {
+   "Q138713": "Motolice podivná (Leucochloridium paradoxum)",
+   "Q139073": "Škrkavka kočičí (Toxocara cati)",
+   "Q145041": "Škrkavka šelmí (Toxascaris leonina)",
+   "Q2550294": "Baylisascaris procyonis (Baylisascaris procyonis)",
+   "Q292170": "Echinococcus vogeli (Echinococcus vogeli)",
+   "Q311109": "Vlasovec mízní (Wuchereria bancrofti)",
+   "Q565708": "Tasemnice dlouhočlenná (Taenia solium)",
+   "Q595116": "Háďátko pšeničné (Anguina tritici)",
+   "Q604573": "Vrtejš velký (Macracanthorhynchus hirudinaceus)",
+   "Q81125": "Tasemnice psí (Dipylidium caninum)"
+  }
+ },
+ {
+  "id": "Q3283008#2",
+  "species": "Trichobilharzia regenti",
+  "latin": "Trichobilharzia regenti",
+  "text": "Dokáže proniknout do lidské kůže a způsobit silně svědící vyrážku.",
+  "quote": "může penetrovat také do lidské kůže a způsobovat silně svědící vyrážku",
+  "claimed_false_for": {
+   "Q135777": "Heterophyes heterophyes (Heterophyes heterophyes)",
+   "Q138713": "Motolice podivná (Leucochloridium paradoxum)",
+   "Q139073": "Škrkavka kočičí (Toxocara cati)",
+   "Q145041": "Škrkavka šelmí (Toxascaris leonina)",
+   "Q2550294": "Baylisascaris procyonis (Baylisascaris procyonis)",
+   "Q292170": "Echinococcus vogeli (Echinococcus vogeli)",
+   "Q311109": "Vlasovec mízní (Wuchereria bancrofti)",
+   "Q3376138": "Fascioloides magna (Fascioloides magna)",
+   "Q565708": "Tasemnice dlouhočlenná (Taenia solium)",
+   "Q595116": "Háďátko pšeničné (Anguina tritici)",
+   "Q604573": "Vrtejš velký (Macracanthorhynchus hirudinaceus)",
+   "Q81125": "Tasemnice psí (Dipylidium caninum)"
+  }
+ },
+ {
+  "id": "Q3283008#3",
+  "species": "Trichobilharzia regenti",
+  "latin": "Trichobilharzia regenti",
+  "text": "Larvy putují z kůže nervovou soustavou do nosu.",
+  "quote": "migrují z kůže do místa své definitivní lokalizace (sliznice nosní tkáně) skrz nervový systém",
+  "claimed_false_for": {
+   "Q135777": "Heterophyes heterophyes (Heterophyes heterophyes)",
+   "Q138713": "Motolice podivná (Leucochloridium paradoxum)",
+   "Q139073": "Škrkavka kočičí (Toxocara cati)",
+   "Q145041": "Škrkavka šelmí (Toxascaris leonina)",
+   "Q2550294": "Baylisascaris procyonis (Baylisascaris procyonis)",
+   "Q292170": "Echinococcus vogeli (Echinococcus vogeli)",
+   "Q311109": "Vlasovec mízní (Wuchereria bancrofti)",
+   "Q3376138": "Fascioloides magna (Fascioloides magna)",
+   "Q565708": "Tasemnice dlouhočlenná (Taenia solium)",
+   "Q595116": "Háďátko pšeničné (Anguina tritici)",
+   "Q604573": "Vrtejš velký (Macracanthorhynchus hirudinaceus)",
+   "Q81125": "Tasemnice psí (Dipylidium caninum)"
+  }
+ }
+]

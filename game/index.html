@@ -178,7 +178,7 @@
     savci: "🐻", ptaci: "🐦", plazi: "🦎", obojzivelnici: "🐸", ryby: "🐟", paryby: "🦈", hmyz: "🦋", pavoukovci: "🕷️", mekkysi: "🐌", korysi: "🦀",
     ostatni_zivocichove: "🪼",
     nahosemenne: "🌲", rosidy: "🌹", asteridy: "🌻", ostatni_dvoudelozne: "🪷", jednodelozne: "🌷", vytrusne: "🌿", ostatni_rostliny: "🍃",
-    stopkovytrusne: "🍄‍🟫", ostatni_houby: "🍂", vyhynula_zvirata: "🦖", mikroorganismy: "🦠",
+    stopkovytrusne: "🍄‍🟫", ostatni_houby: "🍂", vyhynula_zvirata: "🦖", mikroorganismy: "🦠", endoparaziti: "🪱",
   };
   // Co skupiny obsahují, ukáže se při najetí myší.
   const GROUP_HINTS = {
@@ -202,6 +202,7 @@
     stopkovytrusne: "Houby s kloboukem, jako hřiby, muchomůrky a holubinky, dále choroše, hvězdovky a další, včetně rzí a snětí",
     vreckovytrusne: "Smrže, ucháče, kališníky, dřevnatky, padlí a další, včetně lišejníků",
     vyhynula_zvirata: "Dinosauři, ptakoještěři, mamuti, trilobiti, amoniti a další zvířata, která už nežijí, i nedávno vyhynulá jako dronte nebo vakovlk. Na obrázcích jsou i fosílie a rekonstrukce",
+    endoparaziti: "Tasemnice, motolice, škrkavky a další cizopasníci, kteří žijí uvnitř těl jiných živočichů. Na obrázcích jsou i preparáty, snímky z mikroskopu a lékařské fotografie",
     mikroorganismy: "Bakterie a sinice, archea, prvoci (měňavky, trepky, krásnoočka), rozsivky, obrněnky, mikroskopické zelené řasy, hlenky a další drobné organismy. Fotky jsou i snímky z mikroskopu",
   };
   const GROUP_DRAWINGS = {
@@ -258,12 +259,28 @@
       el("small", {}, playable ? `${names} · ${count} druhů` : hasData ? "Na vybraných kontinentech málo druhů" : "Už brzy"));
   }
 
+  const GROUP_WARNINGS = {
+    endoparaziti: "Některé fotografie v této kategorii můžou být znepokojivé. Ukazují cizopasníky i napadená těla lidí a zvířat.",
+  };
+  function showWarning(kingdom, classSlug) {
+    const heading = el("h1", { tabIndex: -1 }, "⚠️ Upozornění");
+    app.replaceChildren(
+      heading,
+      el("p", { class: "note" }, GROUP_WARNINGS[classSlug]),
+      el("p", { class: "lead" }, "Opravdu chceš pokračovat?"),
+      el("button", { class: "primary", onclick: () => startGame(kingdom, { classSlug }) }, "Ano, pokračovat"),
+      el("button", { class: "secondary", onclick: showHome }, "Raději se vrátit"),
+    );
+    window.scrollTo(0, 0);
+    heading.focus();
+  }
+
   // Kvíz jen z jedné třídy. Nabízí se jen třídy, které při současném výběru jdou hrát.
   function classChoices() {
     const sections = [...KINGDOMS, EXTRA].map((k) => {
       const playable = classesOf(k.id).filter((c) => window.Quiz.makeQuestion([c], { level }));
       const buttons = playable.sort((a, b) => b.species.length - a.species.length).map((c) =>
-        el("button", { class: "group", title: GROUP_HINTS[c.slug] || "", onclick: () => startGame(k, { classSlug: c.slug }) },
+        el("button", { class: "group", title: GROUP_HINTS[c.slug] || "", onclick: () => (GROUP_WARNINGS[c.slug] ? showWarning(k, c.slug) : startGame(k, { classSlug: c.slug })) },
           groupIcon(c.slug), c.name, " ", el("small", {}, String(c.species.length))));
       return buttons.length ? el("section", {}, el("h3", {}, `${k.icon} ${k.label}`), el("div", { class: "groups" }, ...buttons)) : null;
     });

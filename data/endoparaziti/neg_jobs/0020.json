@@ -1,0 +1,174 @@
+{
+ "facts": [
+  {
+   "id": "Q3503323#2",
+   "species": "Ascaridia galli",
+   "text": "Samička naklade za život až 50 miliónů vajíček.",
+   "quote": "naklade za život až 50 miliónů vajíček"
+  },
+  {
+   "id": "Q133092#2",
+   "species": "Škrkavka psí",
+   "text": "Parazituje u psů a psovitých masožravců.",
+   "quote": "parazituje u psů a psovitých masožravců"
+  },
+  {
+   "id": "Q139073#1",
+   "species": "Škrkavka kočičí",
+   "text": "Tento druh může u koťat způsobit vážné zdravotní problémy.",
+   "quote": "U koťat může způsobit vážné zdravotní problémy"
+  },
+  {
+   "id": "Q139073#0",
+   "species": "Škrkavka kočičí",
+   "text": "Tento druh cizopasí na kočkách a kočkovitých šelmách.",
+   "quote": "parazit koček a kočkovitých šelem"
+  },
+  {
+   "id": "Q2550294#0",
+   "species": "Baylisascaris procyonis",
+   "text": "Dospělý cizopasník žije ve střevě mývala.",
+   "quote": "Dospělá škrkavka žije a rozmnožuje se ve střevě svého definitivního hostitele, mývala."
+  },
+  {
+   "id": "Q1253087#1",
+   "species": "Roup dětský",
+   "text": "Samice klade až 12 000 oplozených vajíček kolem řitního otvoru.",
+   "quote": "Samice klade až 12 000 oplozených vajíček kolem řitního otvoru člověka"
+  }
+ ],
+ "candidates": {
+  "Q2060647": {
+   "name": "Anisakis simplex",
+   "latin": "Anisakis simplex",
+   "family": "Anisakidae",
+   "lead": "Anisakis simplex, též sleďový červ, je parazitický červ trávicího traktu mořských savců. Má složitý vývojový cyklus, v němž figurují korýši jako mezihostitelé a následně ryby či hlavonožci coby paratenický hostitel. V této podobě je Anisakis nebezpečný i pro člověka – larvy v tělní dutině či svalovině ryb jsou silným alergenem a člověkem pozřené živé larvy mohou proniknout skrze žaludeční stěnu do\nvnitřních orgánů. Onemocnění člověka způsobené tímto nematodem se nazývá anisakióza.",
+   "facts": [
+    "Cizopasí v trávicím traktu mořských savců.",
+    "Jeho mezihostiteli jsou korýši."
+   ]
+  },
+  "Q468771": {
+   "name": "Škrkavka dětská",
+   "latin": "Ascaris lumbricoides",
+   "family": "Ascarididae",
+   "lead": "Škrkavka dětská (Ascaris lumbricoides) je celosvětově rozšířený parazit člověka a lidoopů. Jedná se o hlístici s přímým vývojovým cyklem, jejíž dospělci měří 15–20 cm a lokalizují se v tenkém střevě hostitele. Je jedním z nejběžnějších parazitů člověka vůbec, celosvětově je infikováno kolem 1,4 miliardy lidí.\nVyskytuje se především v tropických a subtropických oblastech Asie, Afriky a Ameriky. Ačkoliv je patogenita škrkavky nízká, pro člověka mohou být fatální komplikace v podobě perforace nebo ",
+   "facts": [
+    "Cizopasí u člověka a lidoopů.",
+    "Samice vyprodukuje asi 200 000 vajíček za den."
+   ]
+  },
+  "Q145041": {
+   "name": "Škrkavka šelmí",
+   "latin": "Toxascaris leonina",
+   "family": "Ascarididae",
+   "lead": "Škrkavka šelmí (Toxascaris leonina Linstow 1902) je kosmopolitně rozšířený parazit psovitých a kočkovitých šelem, případně dalších masožravců. Jedná se o hlístici, která parazituje v tenkém střevě hostitele. Ve srovnání se škrkavkou psí a škrkavkou kočičí je výskyt toho parazita méně častý. Dalším rozdílem oproti zástupcům rodu Toxocara je fakt, že k infekci dochází častěji u dospělých zvířat než\nu mláďat, a to především ve velkochovech nebo zoologických zahradách.",
+   "facts": [
+    "Cizopasí u psovitých a kočkovitých šelem a dalších masožravců.",
+    "Nakazí se častěji dospělá zvířata než mláďata."
+   ]
+  },
+  "Q292170": {
+   "name": "Echinococcus vogeli",
+   "latin": "Echinococcus vogeli",
+   "family": "Taeniidae",
+   "lead": "Echinococcus vogeli (Rausch & Bernstein 1972) je drobná tasemnice z čeledi Taeniidae parazitující ve střevech psů pralesních a psů domácích. Mezihostitelem tasemnice je paka nížinná (Cuniculus paca) a aguti zlatý (Dasyprocta leporina). Vyskytuje se pouze ve Střední a Jižní Americe. E. vogeli je největší ze všech ostatních zástupců rodu Echinococcus, dospělci dosahují velikosti okolo 12 milimetrů.\nAtypickým hostitelem mohou být primáti nebo člověk. Infekce člověka je poměrně vzácná a onemocnění s",
+   "facts": [
+    "Cizopasí ve střevech psů pralesních a domácích.",
+    "Mezihostitelem jsou paka nížinná a aguti zlatý."
+   ]
+  },
+  "Q565708": {
+   "name": "Tasemnice dlouhočlenná",
+   "latin": "Taenia solium",
+   "family": "Taeniidae",
+   "lead": "Tasemnice dlouhočlenná (Taenia solium Linné, 1758) je kosmopolitně rozšířený helmint z čeledi Taeniidae, jehož dospělí jedinci parazitují v tenkém střevě člověka. Mezihostitelem je prase domácí nebo prase divoké. Přítomnost dospělých tasemnic ve střevě člověka se označuje jako taenióza. Člověk může zároveň sloužit jako mezihostitel – larvy v orgánech. V tomto případě se jedná o závažné onemocnění\nzvané cysticerkóza.\n\n\n== Morfologie ==\nTělo dospělé tasemnice T. solium se skládá ze skolexu (hlavič",
+   "facts": [
+    "Dospělí jedinci parazitují v tenkém střevě člověka.",
+    "Mezihostitelem je prase domácí nebo prase divoké.",
+    "Jeden zralý článek má přibližně 80 000–100 000 vajíček.",
+    "Dospělí jedinci dosahují délky 2–4 metrů."
+   ]
+  },
+  "Q3375476": {
+   "name": "Tasemnice ovčí",
+   "latin": "Moniezia expansa",
+   "family": "Anoplocephalidae",
+   "lead": "Tasemnice ovčí (Moniezia expansa) je parazit s nepřímým životním cyklem. Jejím mezihostitelem jsou pancířníci (roztoči vyskytující se v půdě), a finálním konečným hostitelem hospodářská zvířata, primárně kozy (Capra hircus) a ovce (Ovis aries). Jsou však zaznamenány i případy, kdy definitivním hostitelem byl velbloud (Camelus) nebo kozorožec (Capra ibex).\nNákaza druhem M. expansa bývá zpravidla bezpříznaková a její patogenita je považována za nízkou. U mladých zvířat se při silné infekci mohou o",
+   "facts": [
+    "Mezihostitelem jsou půdní roztoči pancířníci.",
+    "Hostitel pozře roztoče spolu s rostlinnou potravou.",
+    "Dospělí jedinci žijí v tenkém střevě.",
+    "Dorůstá do délky 2 až 6 metrů."
+   ]
+  },
+  "Q4118359": {
+   "name": "Ancylostoma braziliense",
+   "latin": "Ancylostoma braziliense",
+   "family": "měchovcovití",
+   "lead": "Ancylostoma braziliense je druh měchovce vyskytující se v Brazílii, Oceánii, Indonésii, Indii a na Filipínách. Je to endoparazit žijící v tenkém střevě koček a psů. Je nejčastější příčinou onemocnění larva migrans u člověka.\n\n\n== Morfologie ==\nMá výrazný pohlavní dimorfismus: samci dosahují rozměrů 7–9 mm, spikuly bursy copulatrix nacházející se na konci těla jsou dlouhé 0,8mm. Bursa copulatrix je složená z tří laloků; z nichž jsou dva v laterální pozici a jeden v pozici dorzální. Laterální lalo",
+   "facts": [
+    "Žije v tenkém střevě koček a psů.",
+    "Larvy se živí půdními bakteriemi.",
+    "Samice začne klást vajíčka 14 dní po nakažení.",
+    "Dospělci žijí průměrně 5 až 15 let."
+   ]
+  },
+  "Q133167": {
+   "name": "Paragonimus westermani",
+   "latin": "Paragonimus westermani",
+   "family": "Troglotrematidae",
+   "lead": "Paragonimus westermani Kerbert, 1878 (česky motolice plicní, anglicky lung fluke) je parazitem člověka, masožravců a prasat, který se lokalizuje v plicích. Patří do kmene Platyhelminthes, třídy Trematoda (motolice) a vývoj probíhá přes 2 mezihostitele. Způsobuje závažné plicní onemocnění člověka a zvířat zvané paragonimóza.",
+   "facts": [
+    "Cizopasí v plicích člověka, masožravců a prasat.",
+    "Vyvíjí se přes dva mezihostitele."
+   ]
+  },
+  "Q134361": {
+   "name": "Vlasovec oční",
+   "latin": "Loa loa",
+   "family": "Onchocercidae",
+   "lead": "Vlasovec oční (Loa loa) je druh hlístice (velikost 30–50 mm), který parazituje ve spojivkovém vaku mezi spojivkou a bělmem. Způsobuje svědění oka, záněty spojivek a slzných váčků. Může vést k zánětům kůže a poruchám vidění. Stejně jako vlasovec mízní se přenáší zejména bodavým hmyzem s denní aktivitou, ovádi rodu Chrysops včetně druhů C. dimidiata a C. silacea, v tropických oblastech Afriky.\nObjevuje se také v podkoží (častější než v oku), kde vznikají silně zánětlivé a bolestivé otoky, které mo",
+   "facts": [
+    "Přenáší ho ovádi rodu Chrysops.",
+    "Larvy v ovádovi dozrávají 1 až 2 týdny.",
+    "Tento druh se dožívá 10–15 let.",
+    "Dospělci mohou odcestovat do oka a usadit se ve spojivkovém vaku."
+   ]
+  },
+  "Q1502531": {
+   "name": "Vlasovec medinský",
+   "latin": "Dracunculus medinensis",
+   "family": "Dracunculidae",
+   "lead": "Vlasovec medinský (nebo také guinejský červ; Dracunculus medinensis) je parazit rozšířený v Africe, původce choroby zvané drakunkulóza.\n\n\n== Popis, životní cyklus ==\n\nČlověk se nakazí pozřením vody, která obsahuje živé buchanky, tj. drobné vodní korýše, kteří jsou mezihostitelem tohoto červa. V těle nakažené buchanky se nachází infekční larva vlasovce L3, která se ve střevě uvolní a pronikne do břišní dutiny. Zde dospívá, dochází k páření, samci po páření uhynou. Dospělé oplozené samičky pak mig",
+   "facts": [
+    "Mezihostitelem je buchanka, drobný vodní korýš.",
+    "Samička může dorůst až do délky jednoho metru."
+   ]
+  },
+  "Q3279537": {
+   "name": "Fasciolopsis buski",
+   "latin": "Fasciolopsis buski",
+   "family": "Fasciolidae",
+   "lead": "Fasciolopsis buski (Lankester, 1857) je střevní motolice parazitující u člověka a prasat ve východní a jihovýchodní Asii. Dospělí jedinci měří 8–10 cm a řadí se tak mezi největší motolice parazitující u člověka. Infekce touto motolicí se označuje fasciolopsióza (také známa jako nemoc lotosového květu) a jedná se typickou zoonózu alimentárního původu (nakažení kontaminovanou potravou). Vývojový\ncyklus motolice probíhá přes plže z čeledi Planorbidae.",
+   "facts": [
+    "Cizopasí u člověka a prasat.",
+    "Vývoj probíhá přes plže."
+   ]
+  },
+  "Q773607": {
+   "name": "Tasemnice bezbranná",
+   "latin": "Taenia saginata",
+   "family": "Taeniidae",
+   "lead": "Tasemnice bezbranná (Taenia saginata, 1782) je kosmopolitně rozšířený helmint z čeledi Taeniidae. Definitivním hostitelem je člověk, mezihostitelem skot. Dospělí jedinci se lokalizují v tenkém střevě člověka, kde se živí tráveninou. Člověk se nakazí pozřením nedostatečně tepelně upraveného hovězího masa s boubelemi. Jedná se o zoonózu. Hlavním preventivním opatřením před nákazou člověka je krom\ntepelné úpravy masa také veterinární prohlídka poráženého skotu, při které se nařezávají svaly na pred",
+   "facts": [
+    "Dospělí jedinci žijí v tenkém střevě člověka.",
+    "Mezihostitelem je skot.",
+    "Člověk se nakazí pozřením nedostatečně tepelně upraveného hovězího masa.",
+    "Jeden zralý článek má asi 50 000 až 80 000 vajíček.",
+    "Ve střevě člověka mohou žít pravděpodobně až 20–25 let.",
+    "Ve svalech skotu se za zhruba 10 týdnů vyvine boubel."
+   ]
+  }
+ }
+}

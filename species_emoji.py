@@ -209,6 +209,7 @@ RULES["vyhynula_zvirata"] = [
     (lambda s: s.get("clade") == "dinosaurs", "🦖"), (ANY, "🦴"),
 ]
 RULES["mikroorganismy"] = [(ANY, "🦠")]
+RULES["endoparaziti"] = [(ANY, "🪱")]
 
 
 def species_emoji(group, species):

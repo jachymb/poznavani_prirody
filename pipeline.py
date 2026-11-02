@@ -65,10 +65,12 @@ CLASSES = {
     "mikroorganismy": ("Q10876 Q10872 Q137323 Q473809 Q5368723 Q499091 Q11299399 Q21588562 Q129012 Q180148 Q5194 Q190115 Q144474 Q132609 Q1151744"
                        " Q508019 Q843136 Q335130 Q141280 Q473747 Q132652 Q131260", "Mikroorganismy", "mikroorganismy"),
 }
-EXTRA = {"vyhynula_zvirata", "mikroorganismy"}
+CLASSES["endoparaziti"] = ("Q159715 Q207547 Q5185 Q178235 Q222975 Q5186", "Vnitřní cizopasníci", "endoparaziti")
+EXTRA = {"vyhynula_zvirata", "mikroorganismy", "endoparaziti"}
 EXTRA_EXCLUDE = {"Q184573"}  # hnědé řasy patří do SAR, ale mikroskopické nejsou
-EXTRA_EXCLUDE_IDS = {"Q1738729"}  # urnička pohárová je houba, Wikidata ji chybně řadí mezi prvoky
-EXTRA_INCLUDE_IDS = {"mikroorganismy": {"Q1135851", "Q26816853"}}  # plíseň šedá, Candida auris: jinde ve stromu
+# urnička pohárová je houba, Wikidata ji chybně řadí mezi prvoky; háďátko obecné žije volně, patří do mikroorganismů
+EXTRA_EXCLUDE_IDS = {"mikroorganismy": {"Q1738729"}, "endoparaziti": {"Q91703"}}
+EXTRA_INCLUDE_IDS = {"mikroorganismy": {"Q1135851", "Q26816853", "Q91703"}}  # plíseň šedá, Candida auris, háďátko obecné: jinde ve stromu
 # Mikroorganismy bez článku o druhu nebo rodu: náhradou je obsáhlý článek o vyšším taxonu („Želvuška – Tardigrada spp.“).
 EXTRA_HIGHER = {"Q5194": "Želvuška", "Q180148": "Vířník", "Q430301": "Pijavenka", "Q190115": "Břichobrvka", "Q107027": "Dírkonošec",
                 "Q107920": "Mřížovec", "Q162678": "Rozsivka", "Q1647990": "Kokolitka"}
@@ -142,7 +144,9 @@ def dicot_group(order):
 # Vnitřní dělení skupin, kde jsou řády moc jemné nebo nesourodé: (Qid předka na Wikidatech, název), platí první shoda.
 # Hra podle něj losuje a plní úrovně místo podle řádu, druhy bez shody zůstávají u svého řádu.
 CLADES = {
-    "paryby": [("Q6495741", "rejnoci"), ("Q149104", "chiméry"), ("Q7372", "žraloci")],
+    "endoparaziti": [("Q159715", "tasemnice"), ("Q207547", "motolice"), ("Q5185", "hlístice"), ("Q178235", "vrtejši"), ("Q222975", "jazyčnatky"),
+                     ("Q5186", "strunovci")],
+    "paryby":[("Q6495741", "rejnoci"), ("Q149104", "chiméry"), ("Q7372", "žraloci")],
     "mekkysi": [("Q4867740", "plži"), ("Q25368", "mlži"), ("Q128257", "hlavonožci")],
     "vytrusne": [("Q25347", "mechy"), ("Q189808", "játrovky"), ("Q191156", "hlevíky"), ("Q1149748", "plavuně"), ("Q5384600", "přesličky"),
                  ("Q373615", "kapradiny")],
@@ -270,7 +274,15 @@ def get(url, raw=False, attempts=6):
     while True:
         try:
             with urllib.request.urlopen(urllib.request.Request(url, headers=UA), timeout=120) as r:
-                return r.read() if raw else json.load(r)
+                result = r.read() if raw else json.load(r)
+            # API Wikimedia hlásí omezení rychlosti i s kódem 200, jen chybou v těle odpovědi
+            if raw or "error" not in result:
+                return result
+            attempt += 1
+            print(f"  chyba API: {result['error'].get('code')}: {result['error'].get('info')}", flush=True)
+            if attempt == attempts:
+                raise RuntimeError(result["error"])
+            time.sleep(5 * 2**attempt)
         except urllib.error.HTTPError as e:
             if e.code == 429:  # omezení rychlosti Wikimedia: počkat, není to selhání
                 print(f"  429, čekám {e.headers.get('Retry-After') or 60} s", flush=True)
@@ -416,7 +428,7 @@ def extra_members(slug):
     # rod, jehož druh má vlastní článek, by se ve hře ukázal dvakrát
     parents = parent_map(found)
     direct = {p for s in found for p in parents.get(s, [])}
-    result = {"members": [s for s in found if s not in direct and s not in EXTRA_EXCLUDE_IDS]}
+    result = {"members": [s for s in found if s not in direct and s not in EXTRA_EXCLUDE_IDS.get(slug, set())]}
     if slug == "mikroorganismy":  # vyšší taxony až po vyřazení rodů s druhy: vířníci jsou nadřazení pijavenkám a zůstávají oba
         result["members"] += sorted(EXTRA_HIGHER)
     if slug == "vyhynula_zvirata":  # kvůli emoji: dinosauři mimo ptáky 🦖, ptáci 🐦

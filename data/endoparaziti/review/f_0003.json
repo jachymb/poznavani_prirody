@@ -1,0 +1,38 @@
+{
+ "drop_facts": [
+  {"id": "Q3376138#2", "why": "sporné: srnec bývá v odborné literatuře veden jako aberantní hostitel, ne hlavní"},
+  {"id": "Q3376138#3", "why": "posouvá význam: zdroj říká 'nebyla zjištěna', text tvrdí, že nikdy nenakazil"},
+  {"id": "Q3376138#5", "why": "vynechává podmínku: počet platí pro larvy z jednoho miracidia"},
+  {"id": "Q3503323#2", "why": "sporné: zdroj uvádí jen 'usuzuje se', údaj je nepravděpodobně vysoký"},
+  {"id": "Q3503323#3", "why": "sporné: hlístice se obvykle svlékají čtyřikrát"},
+  {"id": "Q4118359#3", "why": "nepravděpodobná průměrná délka života měchovce 5-15 let"},
+  {"id": "Q565708#2", "why": "sporný počet vajíček (běžně se uvádí méně) a 'článek' je bez kontextu nesrozumitelný"},
+  {"id": "Q595116#0", "why": "prozrazuje český název druhu (háďátko pšeničné)"},
+  {"id": "Q604573#0", "why": "sporné: vrtejš velký žije v tenkém střevě, výskyt v žaludku není doložen běžnými zdroji"},
+  {"id": "Q630200#2", "why": "krkolomné a bez článku nesrozumitelné ('Psi s dospělci ve střevě'), navíc příliš absolutní"}
+ ],
+ "drop_pairs": [
+  {"id": "Q334149#0", "species": "Q468771"},
+  {"id": "Q3375476#0", "species": "Q2706090"},
+  {"id": "Q3503323#1", "species": "Q139073"},
+  {"id": "Q4118359#0", "species": "Q3279537"},
+  {"id": "Q4118359#0", "species": "Q650470"},
+  {"id": "Q468771#0", "species": "Q1253087"},
+  {"id": "Q468771#0", "species": "Q134669"},
+  {"id": "Q468771#0", "species": "Q139073"},
+  {"id": "Q468771#0", "species": "Q3823518"},
+  {"id": "Q468771#0", "species": "Q630200"},
+  {"id": "Q468771#0", "species": "Q669922"},
+  {"id": "Q5279085#0", "species": "Q730937"},
+  {"id": "Q5279085#1", "species": "Q137224"},
+  {"id": "Q5279085#1", "species": "Q311109"},
+  {"id": "Q565708#1", "species": "Q669922"},
+  {"id": "Q604573#1", "species": "Q2808577"},
+  {"id": "Q630200#0", "species": "Q1128693"},
+  {"id": "Q630200#0", "species": "Q2433913"},
+  {"id": "Q630200#0", "species": "Q2706090"},
+  {"id": "Q630200#0", "species": "Q468771"},
+  {"id": "Q630200#0", "species": "Q730937"},
+  {"id": "Q630200#1", "species": "Q669922"}
+ ]
+}

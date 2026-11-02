@@ -1,0 +1,174 @@
+{
+ "facts": [
+  {
+   "id": "Q3134908#2",
+   "species": "Heterorhabditis bacteriophora",
+   "text": "Larva pronikne do hostitele většinou trávicí soustavou.",
+   "quote": "Po nalezení vhodného hostitele proniká invazivní larva nejčastěji otvory trávicí soustavy"
+  },
+  {
+   "id": "Q3134908#0",
+   "species": "Heterorhabditis bacteriophora",
+   "text": "Žije v symbióze s bakteriemi, které hostitele rychle usmrtí.",
+   "quote": "Je známý svou symbiózou s gramnegativními bakteriemi druhu Photorhabdus luminescens, díky které dokáže rychle usmrtit svého hostitele."
+  },
+  {
+   "id": "Q3134908#1",
+   "species": "Heterorhabditis bacteriophora",
+   "text": "Napadá larvy půdního hmyzu, vzácněji i dospělce.",
+   "quote": "Tento druh parazitické hlístovky není specializovaný na konkrétního hostitele, ale obecně larvy půdního hmyzu, vzácněji i dospělce."
+  },
+  {
+   "id": "Q4118359#3",
+   "species": "Ancylostoma braziliense",
+   "text": "Dospělci žijí průměrně 5 až 15 let.",
+   "quote": "Dospělci žijí průměrně 5–15 let."
+  },
+  {
+   "id": "Q2433913#2",
+   "species": "Měchovec americký",
+   "text": "Napadá člověka i jiné savce, například primáty.",
+   "quote": "Avšak N. americanus může napadat i další savce (např. primáty)."
+  },
+  {
+   "id": "Q291499#0",
+   "species": "Měchovec psí",
+   "text": "Hostiteli mohou být i vlci, lišky a kočky.",
+   "quote": "Dalšími hostiteli mohou být jiné masožravé šelmy, jako například vlci, lišky, kočky"
+  },
+  {
+   "id": "Q2433913#1",
+   "species": "Měchovec americký",
+   "text": "Samice klade až 10 000 vajíček za jeden den.",
+   "quote": "přičemž je schopna naklást až 10 000 vajíček za jeden den."
+  }
+ ],
+ "candidates": {
+  "Q1449098": {
+   "name": "Angiostrongylus cantonensis",
+   "latin": "Angiostrongylus cantonensis",
+   "family": "Metastrongylidae",
+   "lead": "Angiostrongylus cantonensis (Chen, 1935) je hlístice, jež parazituje v plicních tepnách krys a potkanů. Mezihostitelem hlístice jsou suchozemští či vodní plži. Člověk se může zřídka nakazit pozřením infikovaného plže s larvami. Larvy mohou proniknout do mozku, kde způsobují eosinofilní meningitidu. Hlístice se vyskytuje především v jihovýchodní Asii a ostrovech v Tichomoří, včetně Havaje. V letech\n2005–2010 stoupla prudce incidence tohoto onemocnění na Havaji. Případy meningitidy způsobené A. ca",
+   "facts": [
+    "Parazituje v plicních tepnách krys a potkanů.",
+    "Mezihostiteli jsou suchozemští a vodní plži."
+   ]
+  },
+  "Q244111": {
+   "name": "Hádě střevní",
+   "latin": "Strongyloides stercoralis",
+   "family": "Strongyloididae",
+   "lead": "Hádě střevní (Strongyloides stercoralis) je endoparazit, jehož hostitelem je člověk nebo pes. Má protáhlé tělo a dorůstá velikosti 0,8 – 2,2 mm. Samičky jsou větší než samci. Vyskytuje se především v tropických a subtropických oblastech, ale jsou známy případy napadení i v ČR. Parazitičtí jedinci žijí ve střevě člověka. Nemoc způsobená hádětem se nazývá strongyloidóza.\n\n\n== Životní cyklus ==\n\nŽivotní cyklus je jednohostitelský a probíhá na souši.\nVe vývoji háděte se střídají parazitické a volně ",
+   "facts": [
+    "Tento druh cizopasí u člověka nebo psa.",
+    "Dorůstá velikosti 0,8 – 2,2 mm."
+   ]
+  },
+  "Q145801": {
+   "name": "Angiostrongylus vasorum",
+   "latin": "Angiostrongylus vasorum",
+   "family": "Metastrongylidae",
+   "lead": "Angiostrongylus vasorum, také známý jako francouzská dirofilárie, je druh parazitické hlístice z čeledi Metastrongylidae. Způsobuje onemocnění angiostrongylózu psů. Nemá zoonotický potenciál, to znamená, že není přenosný na člověka.\nO biologii tohoto druhu není mnoho známo.\n\n\n== Popis ==\nTato hlístice je malá a má narůžovělou barvu. Délka dospělce je 14,0–20,5 mm. Šířka dospělce je 0,170–0,306 mm.\nSamice mají zakončení ve tvaru bradky.\n\nŽivotní cyklus začíná, když jsou larvy L3 požity definitivn",
+   "facts": [
+    "Mezihostiteli jsou slimáci a hlemýždi.",
+    "Hlavními hostiteli jsou psi a lišky.",
+    "Dospělec je dlouhý 14–20,5 mm.",
+    "Dospělci žijí v pravé srdeční komoře a v plicní tepně."
+   ]
+  },
+  "Q2520810": {
+   "name": "Měchovec lidský",
+   "latin": "Ancylostoma duodenale",
+   "family": "měchovcovití",
+   "lead": "Měchovec lidský (Ancylostoma duodenale), také někdy označovaný jako měchovec dvanáctníkový, je významný parazit člověka vyskytující se v subtropickém a tropickém pásu, zejména pak na východní polokouli a v Jižní Americe. Dospělí jedinci se lokalizují v tenkém střevě hostitelů, jako jsou lidé, kočky a psi, a během svého vývoje migrují různými tkáněmi. Onemocnění způsobené měchovcem lidským se\nodborně nazývá ankylostomóza a může být pro člověka smrtelné. Projevuje se v několika fázích.\n\n\n== Morfol",
+   "facts": [
+    "Přichytí se ke střevu a saje krev."
+   ]
+  },
+  "Q2324689": {
+   "name": "Krevnička střevní",
+   "latin": "Schistosoma mansoni",
+   "family": "Schistosomatidae",
+   "lead": "Krevnička střevní (Schistosoma mansoni) je parazitický helmint z čeledi Schistosomatidae, který způsobuje tzv. střevní schistosomózu. Při onemocnění jsou většinou zasažena játra a tlusté střevo. Mezi definitivní hostitele patří hlavně člověk, ale také další primáti a hlodavci. Mezihostitelem jsou plži z rodu Biomphalaria.\nKrevnička střevní se vyskytuje v Africe (včetně Madagaskaru a Středního Východu) a v Jižní Americe. Byla pojmenována podle skotského lékaře sira Patricka Mansona.\n\n\n== Morfolog",
+   "facts": [
+    "Mezihostitelem jsou plži.",
+    "Hostitelem je hlavně člověk, také primáti a hlodavci.",
+    "Samička vytvoří asi 300 vajíček za den."
+   ]
+  },
+  "Q1154414": {
+   "name": "Tenkohlavec lidský",
+   "latin": "Trichuris trichiura",
+   "family": "Trichuridae",
+   "lead": "Tenkohlavec lidský (Trichuris trichiura) je kosmopolitně rozšířený druh hlístic parazitujících v tlustém a slepém střevě člověka a lidoopů. Onemocnění tímto parazitem se označuje jako trichurióza nebo trichocefalóza. Dospělci měří 3–5 cm. T. trichiura je rozšířen především v subtropických a tropických oblastech Asie, Ameriky a Afriky. Ve středověku se vyskytoval u lidí i v Evropě. Výskyt parazita\nje úzce spjat s nízkou úrovní hygieny. Infekce člověka T. trichiura může probíhat bez příznaků, nebo",
+   "facts": [
+    "Dospělí červi měří 3–5 cm.",
+    "Samička denně vyloučí 3 000 až 20 000 vajíček.",
+    "Vajíčka v půdě vydrží infekční i 6 let."
+   ]
+  },
+  "Q3823518": {
+   "name": "Strunovec vodní",
+   "latin": "Gordius aquaticus",
+   "family": "Gordiidae",
+   "lead": "Strunovec vodní (Gordius aquaticus) je červ z kmene strunovců (Nematomorpha), zástupce rodu Gordius. Jde o první popsaný druh strunovce, jehož popis byl pod stále platným vědeckým jménem zveřejněn již v klíčovém 10. vydání Linného Systema naturae z roku 1758.\n\n\n== Popis ==\nStrunovec vodní je červ tenkého, strunovitého těla. Dosahuje délky okolo 10 cm v případě samic, samci mohou měřit až 25 cm. Zbarvení těla je světle až tmavě hnědé, špička předního konce těla je bílá, s tmavým lemováním okolo. ",
+   "facts": [
+    "Larvy cizopasí uvnitř hmyzu, zvláště brouků."
+   ]
+  },
+  "Q1253087": {
+   "name": "Roup dětský",
+   "latin": "Enterobius vermicularis",
+   "family": "Oxyuridae",
+   "lead": "Roup dětský (Enterobius vermicularis) je parazitická hlístice z řádu Oxyurida. Roup dětský parazituje pouze u člověka, a to v tlustém střevě. Samičky během spánku hostitele vylézají z konečníku a kladou vajíčka v jeho okolí. Onemocnění vyvolané tímto střevním parazitem se odborně nazývá enterobióza.\n\n\n== Popis ==\n\nRoup dětský je červ bělavé, bílé barvy, žije v tenkém a tlustém střevě. Samice je větší než sameček, zatímco samec dosahuje délky 6 mm, samice až 13 mm. Samice klade až 12 000 oplozený",
+   "facts": [
+    "Parazituje jen u člověka, a to v tlustém střevě.",
+    "Samice klade až 12 000 oplozených vajíček kolem řitního otvoru.",
+    "Člověk se nakazí pozřením vajíček ústy.",
+    "Samice dosahuje délky až 13 mm, samec jen 6 mm."
+   ]
+  },
+  "Q135523": {
+   "name": "Motolice thajská",
+   "latin": "Opisthorchis viverrini",
+   "family": "Opisthorchiidae",
+   "lead": "Motolice thajská (Opisthorchis viverrini, Stiles et Hassal, 1896; anglicky Southeast Asian liver fluke) je parazit ze třídy motolic, který se lokalizuje v játrech a žlučových cestách člověka, psa a kočky, případně dalších rybožravých savců. Parazit se vyskytuje v Thajsku, Laosu a Kambodži. Vývojový cyklus motolice je složitý a zahrnuje 2 mezihostitele. Prvním mezihostitelem jsou plži rodu\nBithynia, druhým jsou ryby z čeledi kaprovitých.\n\n\n== Příbuzné druhy ==\nClonorchis sinensis\nOpisthorchis fel",
+   "facts": [
+    "Žije v játrech a žlučových cestách člověka, psa a kočky.",
+    "Vývoj má složitý cyklus se dvěma mezihostiteli."
+   ]
+  },
+  "Q565708": {
+   "name": "Tasemnice dlouhočlenná",
+   "latin": "Taenia solium",
+   "family": "Taeniidae",
+   "lead": "Tasemnice dlouhočlenná (Taenia solium Linné, 1758) je kosmopolitně rozšířený helmint z čeledi Taeniidae, jehož dospělí jedinci parazitují v tenkém střevě člověka. Mezihostitelem je prase domácí nebo prase divoké. Přítomnost dospělých tasemnic ve střevě člověka se označuje jako taenióza. Člověk může zároveň sloužit jako mezihostitel – larvy v orgánech. V tomto případě se jedná o závažné onemocnění\nzvané cysticerkóza.\n\n\n== Morfologie ==\nTělo dospělé tasemnice T. solium se skládá ze skolexu (hlavič",
+   "facts": [
+    "Dospělí jedinci parazitují v tenkém střevě člověka.",
+    "Mezihostitelem je prase domácí nebo prase divoké.",
+    "Jeden zralý článek má přibližně 80 000–100 000 vajíček.",
+    "Dospělí jedinci dosahují délky 2–4 metrů."
+   ]
+  },
+  "Q1953495": {
+   "name": "Myrmeconema neotropicum",
+   "latin": "Myrmeconema neotropicum",
+   "family": "Tetradonematidae",
+   "lead": "Myrmeconema neotropicum je parazitický zástupce kmene hlístic (Nematoda). Jeho mezihostitelem jsou tropičtí mravenci druhu Cephalotes atratus, kteří po napadení tímto parazitem změní zbarvení svého zadečku. Připomínají tak plody ovoce a je součástí strategie parazita. Nakažení mravenci se tak stávají neodolatelnou kořistí pro definitivní hostitele – ptáky.\n\n\n== Charakteristika ==\nMyrmeconema neotropicum patří do kmene hlístic, jejich tělo je proto válcovité, nesegmentované a kryté kutikulou s oc",
+   "facts": [
+    "Tento druh cizopasí v tropických mravencích.",
+    "Konečným hostitelem jsou ptáci, kteří sežerou nakažené mravence."
+   ]
+  },
+  "Q149049": {
+   "name": "Pratylenchus penetrans",
+   "latin": "Pratylenchus penetrans",
+   "family": "Hoplolaimidae",
+   "lead": "Pratylenchus penetrans je hlístice patřící do skupiny kořenových endoparazitů.\n\n\n== EPPO kód ==\nPRATPE\n\n\n== Synonyma patogena ==\n\n\n=== Vědecké názvy ===\nPodle EPPO je pro patogena s označením Pratylenchus penetrans používáno více rozdílných názvů, například Tylenchus penetrans.\n\n\n== Zeměpisné rozšíření ==\nPratylenchus penetrans je endemický hlavně v mírném pásmu. Výskyt je znám ze Spojených států, z Evropy, Austrálie, Kanady, Egypta, Asie či Jižní Afriky.\n\n\n== Popis ==\nPratylenchus penetrans je ",
+   "facts": [
+    "Napadá více než 350 druhů rostlin, například jabloně a třešně.",
+    "Celý životní cyklus trvá 30 až 86 dnů."
+   ]
+  }
+ }
+}

@@ -59,6 +59,19 @@ const KIND = {
     bland: 'žádné „Je to mikroorganismus.“, „Je velmi malý.“ ani „Žije skoro všude.“',
     terms: 'Nemoci, které organismus způsobuje, uváděj věcně a bez děsivých podrobností.',
   },
+  // Vnitřní cizopasníci nejsou ve volné přírodě vidět a hra před kategorií varuje: rozhoduje, jestli snímek pomáhá druh poznat, ne jestli je hezký.
+  endoparaziti: {
+    good: 'fotografii nebo snímek z mikroskopu cizopasníka nebo jeho typické části a vývojového stadia (hlavička, článek, larva, vajíčko), preparát, exemplář na podložce nebo v misce, kresbu nebo schéma stavby těla, i lékařskou nebo veterinární fotografii cizopasníka v těle či na těle člověka nebo jiného napadeného živočicha a typických projevů nákazy. Snímek nemusí být hezký, musí pomáhat tento druh poznat',
+    bad: 'graf, životní cyklus bez dobře viditelného cizopasníka, fotku přístroje, laboratoře, lidí nebo nákazy, na které cizopasník ani typický projev jeho nákazy nejsou poznat',
+    art: 'mapu, logo, známku',
+    artExample: 'mapa, graf',
+    harm: 'nahotu nebo intimní části těla',
+    hard: 'cizopasník skoro není vidět: snímek je rozmazaný, přeexponovaný nebo ve velmi nízkém rozlišení',
+    where: '',
+    categories: 'vzhled | výskyt | potrava | vztahy | čísla | mláďata (vztahy = hostitelé, nemoci, které způsobuje; mláďata = vajíčka, larvy a vývoj; čísla = měřitelný údaj)',
+    bland: 'žádné „Je to cizopasník.“, „Žije v těle hostitele.“ ani „Je nebezpečný.“',
+    terms: 'Říkej „cizopasník“ a „cizopasí“. Nemoci a jejich projevy uváděj věcně. Neuváděj léčbu, léky ani dávkování. Hledej zajímavosti: složité životní cykly, mezihostitele, ovlivňování chování hostitele, délku a počet vajíček.',
+  },
 }
 // Běžné fotky přírody nesmí být kresby ani preparáty; u Extra to KIND mění.
 const DEFAULTS = {

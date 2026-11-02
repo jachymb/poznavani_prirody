@@ -209,8 +209,8 @@
             // Úroveň zužuje jen hledané druhy. Špatné odpovědi jsou z celé třídy, vybrané podle stejných pravidel příbuznosti.
             const q = make(target, classmates.filter(scopeOf(target, step, level)), level);
             if (!q) continue;
-            // Vyhynulá zvířata ukazují i rekonstrukce a fosílie, ne fotky živých zvířat.
-            if (slug === "vyhynula_zvirata") {
+            // Vyhynulá zvířata ukazují i rekonstrukce a fosílie, endoparaziti preparáty a kresby, ne fotky živých zvířat.
+            if (slug === "vyhynula_zvirata" || slug === "endoparaziti") {
               q.prompt = q.prompt.replace("na fotkách", "na obrázcích").replace("na fotce", "na obrázku");
               q.picture = "Obrázek";
             }
