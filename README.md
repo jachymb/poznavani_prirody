@@ -44,6 +44,8 @@ Každá skupina druhů v `CLASSES` v `pipeline.py` prochází těmito kroky:
 
 Savci navíc procházejí negativním krokem vůči podobným druhům z užší skupiny (`MAMMAL_PEERS` v `pipeline.py`), hra z nich bere špatné odpovědi. Ruční opravy jsou v `manual.json` v adresářích jednotlivých kroků v `data/`.
 
+Sekce **Extra** (pod houbami, jen jako výběr jedné skupiny) má dvě skupiny: **Vyhynulá zvířata** (fosilní taxony a vyhynulé druhy živočichů na Wikidatech) a **Mikroorganismy** (bakterie, archea, prvoci, rozsivky, mikroskopické zelené řasy, hlenky a další, kořeny v `CLASSES`). Berou druhy i rody, i bez českého jména, a mají přednost: druh, který do nich patří, se zpracuje jen tam a do žádné říše se nepočítá. Seznam členů je v `data/<skupina>/members.json`. Fotky smí být u vyhynulých fosílie, exponáty a rekonstrukce, u mikroorganismů snímky z mikroskopu a vizualizace; tvrzení se získávají stejně jako u ostatních.
+
 Skupiny ve hře určuje `GAME_GROUPS` podle stromu druhu na Wikidatech. Dvouděložné se dál dělí podle řádu (APG IV) na superrosidy („Příbuzné růžím“), superasteridy („Příbuzné slunečnicím“) a ostatní dvouděložné. Zastaralé nebo chybějící řády z Wikidat nahrazuje `MODERN_ORDERS` a `FAMILY_ORDERS`.
 
 Každý krok zpracuje jen to, co ještě neprošlo. `python pipeline.py next <počet>` vypíše další dávku úloh a řeší přechody mezi kroky. Když už není co dělat, složí `game/data.js`. `python pipeline.py todo <skupina>` ukáže, co ve skupině chybí.

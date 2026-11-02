@@ -1,0 +1,89 @@
+[
+ {
+  "id": "Q1126782#0",
+  "species": "Žralok bělocípý",
+  "latin": "Carcharhinus albimarginatus",
+  "text": "Tento druh se dokáže potopit do hloubky nejméně 800 metrů.",
+  "quote": "Dokáže se potopit do hloubky nejméně 800 metrů.",
+  "claimed_false_for": {
+   "Q206495": "Žralok citronový (Negaprion brevirostris)"
+  }
+ },
+ {
+  "id": "Q169468#x1",
+  "species": "Žralok zebrovitý",
+  "latin": "Stegostoma fasciatum",
+  "text": "Živí se hlavně měkkýši se schránkou, ale i korýši a drobnými rybami.",
+  "quote": "The zebra shark feeds primarily on shelled molluscs, though it also takes crustaceans, small bony fishes, and possibly sea snakes.",
+  "claimed_false_for": {
+   "Q206495": "Žralok citronový (Negaprion brevirostris)"
+  }
+ },
+ {
+  "id": "Q695344#0",
+  "species": "Žralok lagunový",
+  "latin": "Triaenodon obesus",
+  "text": "Má bílé špičky hřbetní a ocasní ploutve.",
+  "quote": "stejnoměrným bílým zbarvením špiček hřbetní a ocasní ploutve",
+  "claimed_false_for": {
+   "Q206495": "Žralok citronový (Negaprion brevirostris)",
+   "Q252029": "Žralok hedvábný (Carcharhinus falciformis)",
+   "Q586662": "Psohlav obecný (Galeorhinus galeus)"
+  }
+ },
+ {
+  "id": "Q726384#1",
+  "species": "Žralok černoploutvý",
+  "latin": "Carcharhinus melanopterus",
+  "text": "Samice rodí 2 až 5 mláďat.",
+  "quote": "samice rodí 2-5 mláďat v cyklech",
+  "claimed_false_for": {
+   "Q586662": "Psohlav obecný (Galeorhinus galeus)"
+  }
+ },
+ {
+  "id": "Q756964#0",
+  "species": "Trnucha atlantská",
+  "latin": "Dasyatis sabina",
+  "text": "Dorůstá nejvýše 61 cm délky.",
+  "quote": "Dorůstá maximálně 61 cm délky a může vážit až 4,9 kg.",
+  "claimed_false_for": {
+   "Q206495": "Žralok citronový (Negaprion brevirostris)",
+   "Q252029": "Žralok hedvábný (Carcharhinus falciformis)",
+   "Q586662": "Psohlav obecný (Galeorhinus galeus)"
+  }
+ },
+ {
+  "id": "Q80378#3",
+  "species": "Žralok obrovský",
+  "latin": "Rhincodon typus",
+  "text": "Samice rodí v jednom vrhu až 300 mláďat.",
+  "quote": "V jednom vrhu samice rodí i 300 mláďat",
+  "claimed_false_for": {
+   "Q206495": "Žralok citronový (Negaprion brevirostris)",
+   "Q586662": "Psohlav obecný (Galeorhinus galeus)"
+  }
+ },
+ {
+  "id": "Q833586#x3",
+  "species": "Žralok velrybář",
+  "latin": "Carcharhinus obscurus",
+  "text": "Dospělí jedinci nemají téměř žádné přirozené nepřátele.",
+  "quote": "Full-grown dusky sharks have no significant natural predators.",
+  "claimed_false_for": {
+   "Q586662": "Psohlav obecný (Galeorhinus galeus)"
+  }
+ },
+ {
+  "id": "Q964954#1",
+  "species": "Trnucha modroskvrnná",
+  "latin": "Taeniura lymma",
+  "text": "Tento druh se brání jedovatým ostnem.",
+  "quote": "Na svoji obranu je vybavena jedovatým ostnem, který je schopna v případě ohrožení zabodnout do oběti a vypustit do ní jed.",
+  "claimed_false_for": {
+   "Q206495": "Žralok citronový (Negaprion brevirostris)",
+   "Q252029": "Žralok hedvábný (Carcharhinus falciformis)",
+   "Q586662": "Psohlav obecný (Galeorhinus galeus)"
+  }
+ }
+]

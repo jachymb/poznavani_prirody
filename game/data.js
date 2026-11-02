@@ -80650,12 +80650,21 @@ window.GAME_DATA = [
             "cat": "vzhled",
             "not": [
               "Q19630",
+              "Q252767",
               "Q26140",
+              "Q26641",
               "Q27074602",
               "Q30535",
+              "Q369767",
+              "Q555163",
               "Q604442",
               "Q632066",
+              "Q650748",
               "Q753758",
+              "Q755119",
+              "Q775636",
+              "Q779285",
+              "Q827657",
               "Q840349",
               "Q845408"
             ]
@@ -82730,7 +82739,6 @@ window.GAME_DATA = [
               "Q26956",
               "Q27074824",
               "Q501063",
-              "Q550316",
               "Q583220",
               "Q593759"
             ]
@@ -85837,7 +85845,6 @@ window.GAME_DATA = [
             "cat": "mláďata",
             "not": [
               "Q27075027",
-              "Q27075029",
               "Q322159",
               "Q378533",
               "Q997666"
@@ -97698,7 +97705,6 @@ window.GAME_DATA = [
               "Q217704",
               "Q26816",
               "Q27074973",
-              "Q27075029",
               "Q27160",
               "Q27171",
               "Q389505",
@@ -109276,7 +109282,10 @@ window.GAME_DATA = [
             "cat": "vztahy",
             "not": [
               "Q137474876",
-              "Q25961"
+              "Q252767",
+              "Q25961",
+              "Q652266",
+              "Q827657"
             ]
           },
           {
@@ -113082,7 +113091,6 @@ window.GAME_DATA = [
               "Q26017",
               "Q26816",
               "Q27074973",
-              "Q27075029",
               "Q27160",
               "Q389505",
               "Q546548"
@@ -120301,8 +120309,18 @@ window.GAME_DATA = [
               "Q21948535",
               "Q244813",
               "Q25247",
+              "Q252767",
               "Q25388",
               "Q3180758",
+              "Q369767",
+              "Q555163",
+              "Q650748",
+              "Q652266",
+              "Q731308",
+              "Q755119",
+              "Q775636",
+              "Q779285",
+              "Q827657",
               "Q998864"
             ]
           },
@@ -127448,11 +127466,22 @@ window.GAME_DATA = [
               "Q1260615",
               "Q207246",
               "Q245414",
+              "Q252767",
               "Q257006",
+              "Q26641",
               "Q28106966",
+              "Q369767",
               "Q457267",
+              "Q555163",
+              "Q650748",
+              "Q652266",
               "Q688641",
-              "Q753758"
+              "Q731308",
+              "Q753758",
+              "Q755119",
+              "Q775636",
+              "Q779285",
+              "Q827657"
             ]
           },
           {
@@ -128964,7 +128993,10 @@ window.GAME_DATA = [
             "id": "Q235057#0",
             "text": "Živí se hlavně hmyzem, ale jí i bobule.",
             "cat": "potrava",
-            "not": []
+            "not": [
+              "Q555163",
+              "Q731308"
+            ]
           },
           {
             "id": "Q235057#1",
@@ -129144,8 +129176,7 @@ window.GAME_DATA = [
             "text": "Hnízdí v nížinách v otevřené krajině.",
             "cat": "výskyt",
             "not": [
-              "Q2888535",
-              "Q550316"
+              "Q2888535"
             ]
           }
         ],
@@ -130079,8 +130110,7 @@ window.GAME_DATA = [
             "cat": "mláďata",
             "not": [
               "Q1261360",
-              "Q240962",
-              "Q27075029"
+              "Q240962"
             ]
           },
           {
@@ -136768,7 +136798,6 @@ window.GAME_DATA = [
               "Q25740",
               "Q26597",
               "Q2888535",
-              "Q550316",
               "Q80858",
               "Q998616"
             ]
@@ -138414,7 +138443,6 @@ window.GAME_DATA = [
               "Q26349",
               "Q26816",
               "Q27074973",
-              "Q27075029",
               "Q27171",
               "Q4764",
               "Q546548",
@@ -141393,7 +141421,6 @@ window.GAME_DATA = [
               "Q217704",
               "Q26816",
               "Q27074973",
-              "Q27075029",
               "Q27160",
               "Q27171",
               "Q389505",
@@ -144080,7 +144107,6 @@ window.GAME_DATA = [
             "not": [
               "Q217704",
               "Q27074973",
-              "Q27075029",
               "Q546548",
               "Q667778"
             ]
@@ -145284,7 +145310,6 @@ window.GAME_DATA = [
               "Q26147",
               "Q26444",
               "Q2888535",
-              "Q550316",
               "Q80858",
               "Q998616"
             ]
@@ -146376,7 +146401,6 @@ window.GAME_DATA = [
               "Q26055",
               "Q26816",
               "Q27074973",
-              "Q27075029",
               "Q27160",
               "Q27171",
               "Q28122714",
@@ -148962,8 +148986,16 @@ window.GAME_DATA = [
               "Q1043334",
               "Q1267247",
               "Q1267444",
+              "Q252767",
               "Q27074841",
-              "Q742552"
+              "Q369767",
+              "Q555163",
+              "Q650748",
+              "Q731308",
+              "Q742552",
+              "Q775636",
+              "Q779285",
+              "Q827657"
             ]
           },
           {
@@ -149136,9 +149168,20 @@ window.GAME_DATA = [
             "cat": "čísla",
             "not": [
               "Q25247",
+              "Q252767",
+              "Q26641",
+              "Q369767",
               "Q4764",
+              "Q555163",
+              "Q650748",
+              "Q652266",
               "Q679154",
-              "Q733120"
+              "Q731308",
+              "Q733120",
+              "Q755119",
+              "Q775636",
+              "Q779285",
+              "Q827657"
             ]
           }
         ],
@@ -150944,8 +150987,16 @@ window.GAME_DATA = [
               "Q117258834",
               "Q206654",
               "Q213021",
+              "Q252767",
+              "Q369767",
               "Q520983",
+              "Q555163",
+              "Q652266",
+              "Q731308",
               "Q748939",
+              "Q755119",
+              "Q779285",
+              "Q827657",
               "Q852709"
             ]
           },
@@ -159684,7 +159735,6 @@ window.GAME_DATA = [
               "Q260091",
               "Q27074999",
               "Q27075027",
-              "Q27075029",
               "Q322159",
               "Q378533",
               "Q387494",
@@ -162093,7 +162143,10 @@ window.GAME_DATA = [
             "text": "Snáší 5 až 8 vajec.",
             "cat": "čísla",
             "not": [
+              "Q650748",
+              "Q652266",
               "Q686287",
+              "Q731308",
               "Q864359"
             ]
           }
@@ -166653,7 +166706,6 @@ window.GAME_DATA = [
               "Q330318",
               "Q420813",
               "Q4764",
-              "Q550316",
               "Q578352",
               "Q605827"
             ]
@@ -166805,7 +166857,6 @@ window.GAME_DATA = [
               "Q25777",
               "Q27220",
               "Q28106837",
-              "Q550316",
               "Q748861",
               "Q783177"
             ]
@@ -175284,7 +175335,6 @@ window.GAME_DATA = [
               "Q383182",
               "Q501063",
               "Q528117",
-              "Q550316",
               "Q583220",
               "Q593759",
               "Q599921",
@@ -181185,7 +181235,6 @@ window.GAME_DATA = [
               "Q501063",
               "Q503804",
               "Q528117",
-              "Q550316",
               "Q583220",
               "Q593759",
               "Q725276",
@@ -201791,6 +201840,15 @@ window.GAME_DATA = [
               "Q174466",
               "Q218448",
               "Q235052",
+              "Q252767",
+              "Q26641",
+              "Q555163",
+              "Q650748",
+              "Q731308",
+              "Q755119",
+              "Q775636",
+              "Q779285",
+              "Q827657",
               "Q838955"
             ]
           },
@@ -202364,7 +202422,6 @@ window.GAME_DATA = [
               "Q27075904",
               "Q274179",
               "Q420813",
-              "Q550316",
               "Q578352",
               "Q605827"
             ]
@@ -203704,7 +203761,6 @@ window.GAME_DATA = [
               "Q192817",
               "Q200724",
               "Q2888535",
-              "Q550316",
               "Q80858",
               "Q998616"
             ]
@@ -207136,9 +207192,19 @@ window.GAME_DATA = [
               "Q188660",
               "Q199963",
               "Q202804",
+              "Q252767",
               "Q25307",
+              "Q26641",
+              "Q369767",
+              "Q555163",
+              "Q650748",
+              "Q652266",
+              "Q731308",
               "Q733120",
-              "Q756643"
+              "Q755119",
+              "Q756643",
+              "Q775636",
+              "Q779285"
             ]
           },
           {
@@ -213724,7 +213790,6 @@ window.GAME_DATA = [
               "Q217704",
               "Q26816",
               "Q27074973",
-              "Q27075029",
               "Q27160",
               "Q27171",
               "Q389505",
@@ -214063,7 +214128,6 @@ window.GAME_DATA = [
             "not": [
               "Q18987",
               "Q27074973",
-              "Q27075029",
               "Q667778"
             ]
           },
@@ -217463,8 +217527,16 @@ window.GAME_DATA = [
             "text": "Hnízdo je miska z rostlinných vláken, zvenku ozdobená mechem.",
             "cat": "chování",
             "not": [
+              "Q252767",
+              "Q369767",
               "Q430191",
-              "Q649024"
+              "Q555163",
+              "Q649024",
+              "Q650748",
+              "Q652266",
+              "Q731308",
+              "Q755119",
+              "Q775636"
             ]
           },
           {
@@ -219455,10 +219527,19 @@ window.GAME_DATA = [
               "Q1420315",
               "Q244368",
               "Q247966",
+              "Q252767",
+              "Q26641",
               "Q266761",
               "Q26961",
+              "Q555163",
+              "Q650748",
+              "Q652266",
+              "Q731308",
               "Q752146",
+              "Q775636",
+              "Q779285",
               "Q80780",
+              "Q827657",
               "Q926641",
               "Q940324"
             ]
@@ -220439,8 +220520,7 @@ window.GAME_DATA = [
             "cat": "mláďata",
             "not": [
               "Q1261360",
-              "Q240962",
-              "Q27075029"
+              "Q240962"
             ]
           },
           {
@@ -220656,6 +220736,8 @@ window.GAME_DATA = [
               "Q18840",
               "Q2088805",
               "Q29865",
+              "Q731308",
+              "Q755119",
               "Q912863"
             ]
           }
@@ -226657,8 +226739,7 @@ window.GAME_DATA = [
             "cat": "chování",
             "not": [
               "Q1261360",
-              "Q240962",
-              "Q27075029"
+              "Q240962"
             ]
           },
           {
@@ -240249,6 +240330,47 @@ window.GAME_DATA = [
         "emoji": "🐍"
       },
       {
+        "id": "Q2703580",
+        "name": "Kobra jávská",
+        "latin": "Naja sputatrix",
+        "family": "korálovcovití",
+        "order": "šupinatí",
+        "wiki": "https://cs.wikipedia.org/wiki/Kobra_j%C3%A1vsk%C3%A1",
+        "photos": [
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Naja_sputatrix_381362309.jpg",
+            "author": "Max Tibby",
+            "license": "CC0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Naja_sputatrix_381362309.jpg/500px-Naja_sputatrix_381362309.jpg"
+          }
+        ],
+        "facts": [
+          {
+            "id": "Q2703580#1",
+            "text": "Umí stříkat jed na oči útočníkům.",
+            "cat": "chování",
+            "not": [
+              "Q1498639",
+              "Q2179263",
+              "Q221080",
+              "Q244377",
+              "Q245183",
+              "Q253890",
+              "Q72934",
+              "Q764797",
+              "Q790586",
+              "Q792301",
+              "Q900848"
+            ]
+          }
+        ],
+        "continents": [
+          "AS"
+        ],
+        "pop": 28,
+        "emoji": "🐍"
+      },
+      {
         "id": "Q2704229",
         "name": "Užovka tečkovaná",
         "latin": "Diadophis punctatus",
@@ -241185,6 +241307,58 @@ window.GAME_DATA = [
           "AS"
         ],
         "pop": 20,
+        "emoji": "🐢"
+      },
+      {
+        "id": "Q2716655",
+        "name": "Vousivka gibba",
+        "latin": "Mesoclemmys gibba",
+        "family": "matamatovití",
+        "order": "želvy",
+        "wiki": "https://cs.wikipedia.org/wiki/Vousivka_gibba",
+        "photos": [
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Toadhead_Turtle_(Mesoclemmys_gibba)_(39037111661).jpg",
+            "author": "Bernard DUPONT from FRANCE",
+            "license": "CC BY-SA 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Toadhead_Turtle_%28Mesoclemmys_gibba%29_%2839037111661%29.jpg/500px-Toadhead_Turtle_%28Mesoclemmys_gibba%29_%2839037111661%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Toadhead_Turtle_(Mesoclemmys_gibba)_(25166155428).jpg",
+            "author": "Bernard DUPONT from FRANCE",
+            "license": "CC BY-SA 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Toadhead_Turtle_%28Mesoclemmys_gibba%29_%2825166155428%29.jpg/500px-Toadhead_Turtle_%28Mesoclemmys_gibba%29_%2825166155428%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Toadhead_Turtle_(Mesoclemmys_gibba)_(24172554167).jpg",
+            "author": "Bernard DUPONT from FRANCE",
+            "license": "CC BY-SA 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Toadhead_Turtle_%28Mesoclemmys_gibba%29_%2824172554167%29.jpg/500px-Toadhead_Turtle_%28Mesoclemmys_gibba%29_%2824172554167%29.jpg"
+          }
+        ],
+        "facts": [
+          {
+            "id": "Q2716655#0",
+            "text": "Většinu života tráví ve vodě.",
+            "cat": "výskyt",
+            "not": [
+              "Q2087254",
+              "Q2104559",
+              "Q2656629"
+            ]
+          },
+          {
+            "id": "Q2716655#1",
+            "text": "Samci jsou menší než samice a mají delší ocasy.",
+            "cat": "vzhled",
+            "not": []
+          }
+        ],
+        "continents": [
+          "NA",
+          "SA"
+        ],
+        "pop": 16,
         "emoji": "🐢"
       },
       {
@@ -246097,6 +246271,64 @@ window.GAME_DATA = [
         ],
         "pop": 18,
         "emoji": "🦎"
+      },
+      {
+        "id": "Q473521",
+        "name": "Kajman klínohlavý",
+        "latin": "Paleosuchus trigonatus",
+        "family": "aligátorovití",
+        "order": "krokodýli",
+        "wiki": "https://cs.wikipedia.org/wiki/Kajman_kl%C3%ADnohlav%C3%BD",
+        "photos": [
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Schneider%27s_Smooth-fronted_Caiman,_Berlin_Zoo.jpg",
+            "author": "William Warby",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Schneider%27s_Smooth-fronted_Caiman%2C_Berlin_Zoo.jpg/500px-Schneider%27s_Smooth-fronted_Caiman%2C_Berlin_Zoo.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Paleosuchus_trigonatus_544040265.jpg",
+            "author": "Paulo Mascaretti",
+            "license": "CC0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Paleosuchus_trigonatus_544040265.jpg/500px-Paleosuchus_trigonatus_544040265.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Paleosuchus_trigonatus_12981550.jpg",
+            "author": "Julien Renoult",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Paleosuchus_trigonatus_12981550.jpg/500px-Paleosuchus_trigonatus_12981550.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Paleosuchus_trigonatus_544040304.jpg",
+            "author": "Paulo Mascaretti",
+            "license": "CC0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Paleosuchus_trigonatus_544040304.jpg/500px-Paleosuchus_trigonatus_544040304.jpg"
+          }
+        ],
+        "facts": [
+          {
+            "id": "Q473521#0",
+            "text": "Tento druh je aktivní především v noci.",
+            "cat": "chování",
+            "not": [
+              "Q740576"
+            ]
+          },
+          {
+            "id": "Q473521#1",
+            "text": "Snáší 15 až 25 vajec.",
+            "cat": "čísla",
+            "not": [
+              "Q1366532",
+              "Q2625714"
+            ]
+          }
+        ],
+        "continents": [
+          "SA"
+        ],
+        "pop": 38,
+        "emoji": "🐊"
       },
       {
         "id": "Q47945",
@@ -258000,7 +258232,6 @@ window.GAME_DATA = [
               "Q15856",
               "Q2142057",
               "Q24796785",
-              "Q320632",
               "Q372267",
               "Q615690",
               "Q739887"
@@ -258360,7 +258591,6 @@ window.GAME_DATA = [
               "Q2142057",
               "Q2274204",
               "Q28027978",
-              "Q320632",
               "Q545917",
               "Q967892",
               "Q996518"
@@ -258933,7 +259163,6 @@ window.GAME_DATA = [
               "Q2274157",
               "Q2274193",
               "Q2691035",
-              "Q320632",
               "Q586567",
               "Q775326",
               "Q996518"
@@ -259439,7 +259668,6 @@ window.GAME_DATA = [
             "not": [
               "Q2142057",
               "Q2274204",
-              "Q320632",
               "Q545917",
               "Q967892",
               "Q996518"
@@ -259667,7 +259895,6 @@ window.GAME_DATA = [
             "cat": "potrava",
             "not": [
               "Q15856",
-              "Q320632",
               "Q739887"
             ]
           }
@@ -262158,7 +262385,6 @@ window.GAME_DATA = [
               "Q22718",
               "Q2274157",
               "Q2274193",
-              "Q320632",
               "Q586567",
               "Q739887",
               "Q775326",
@@ -263283,7 +263509,6 @@ window.GAME_DATA = [
               "Q2142057",
               "Q2274193",
               "Q2277171",
-              "Q320632",
               "Q44324",
               "Q586567",
               "Q606431"
@@ -263754,7 +263979,6 @@ window.GAME_DATA = [
               "Q2698012",
               "Q2700590",
               "Q28031739",
-              "Q320632",
               "Q677689",
               "Q775326",
               "Q963997"
@@ -265259,7 +265483,6 @@ window.GAME_DATA = [
               "Q2698100",
               "Q31694",
               "Q319393",
-              "Q320632",
               "Q321087",
               "Q337616",
               "Q507708",
@@ -266581,7 +266804,6 @@ window.GAME_DATA = [
               "Q2274204",
               "Q2571127",
               "Q28056419",
-              "Q320632",
               "Q545917",
               "Q967892",
               "Q996518"
@@ -269675,7 +269897,12 @@ window.GAME_DATA = [
             "text": "Živí se převážně vodními rostlinami.",
             "cat": "potrava",
             "not": [
-              "Q549"
+              "Q1156517",
+              "Q2020774",
+              "Q2683765",
+              "Q549",
+              "Q747794",
+              "Q827142"
             ]
           },
           {
@@ -269998,8 +270225,18 @@ window.GAME_DATA = [
             "text": "Žije v černých vodách Malajsie a Indonésie.",
             "cat": "výskyt",
             "not": [
+              "Q1000274",
+              "Q1156517",
               "Q1156826",
-              "Q2124700"
+              "Q1519624",
+              "Q2020774",
+              "Q2124700",
+              "Q214034",
+              "Q2478695",
+              "Q2683765",
+              "Q304256",
+              "Q747794",
+              "Q827142"
             ]
           }
         ],
@@ -270724,7 +270961,10 @@ window.GAME_DATA = [
             "id": "Q166812#4",
             "text": "Loví menší nebo nemocné ryby.",
             "cat": "potrava",
-            "not": []
+            "not": [
+              "Q2683765",
+              "Q827142"
+            ]
           },
           {
             "id": "Q166812#5",
@@ -270832,6 +271072,7 @@ window.GAME_DATA = [
             "text": "Žije ve velkých hejnech blízko hladiny.",
             "cat": "chování",
             "not": [
+              "Q747794",
               "Q756771"
             ]
           },
@@ -272086,9 +272327,15 @@ window.GAME_DATA = [
             "text": "Žije v hlubokých lagunách a na korálových útesech.",
             "cat": "výskyt",
             "not": [
+              "Q1519624",
               "Q2170401",
+              "Q218891",
+              "Q2478695",
+              "Q304256",
               "Q3753597",
+              "Q747794",
               "Q748495",
+              "Q827142",
               "Q882185"
             ]
           }
@@ -279854,7 +280101,11 @@ window.GAME_DATA = [
             "text": "Žije v ústích velkých řek, ale k rozmnožování vplouvá do sladké vody.",
             "cat": "výskyt",
             "not": [
+              "Q1000274",
+              "Q1156517",
               "Q1892630",
+              "Q2020774",
+              "Q2683765",
               "Q575704"
             ]
           },
@@ -285007,7 +285258,8 @@ window.GAME_DATA = [
             "text": "Samice produkují 500 tisíc až 9 milionů jiker.",
             "cat": "čísla",
             "not": [
-              "Q144410"
+              "Q144410",
+              "Q842406"
             ]
           }
         ],
@@ -285368,6 +285620,7 @@ window.GAME_DATA = [
             "not": [
               "Q169468",
               "Q190469",
+              "Q206495",
               "Q29150",
               "Q625161",
               "Q756859",
@@ -285918,6 +286171,7 @@ window.GAME_DATA = [
               "Q129026",
               "Q185260",
               "Q192158",
+              "Q206495",
               "Q252029",
               "Q26337",
               "Q318090",
@@ -287788,6 +288042,9 @@ window.GAME_DATA = [
               "Q185260",
               "Q190469",
               "Q192158",
+              "Q206495",
+              "Q252029",
+              "Q586662",
               "Q625161",
               "Q756859",
               "Q912073"
@@ -287869,6 +288126,7 @@ window.GAME_DATA = [
             "not": [
               "Q188212",
               "Q377591",
+              "Q586662",
               "Q80378"
             ]
           }
@@ -287964,11 +288222,14 @@ window.GAME_DATA = [
               "Q1126782",
               "Q1160972",
               "Q185260",
+              "Q206495",
+              "Q252029",
               "Q29121",
               "Q29150",
               "Q311651",
               "Q338891",
               "Q377591",
+              "Q586662",
               "Q756859",
               "Q757353",
               "Q873701"
@@ -288135,12 +288396,14 @@ window.GAME_DATA = [
               "Q188212",
               "Q190469",
               "Q192158",
+              "Q206495",
               "Q252029",
               "Q26337",
               "Q31788",
               "Q318090",
               "Q338891",
               "Q370444",
+              "Q586662",
               "Q618595",
               "Q686123",
               "Q757353",
@@ -288226,7 +288489,8 @@ window.GAME_DATA = [
             "text": "Dospělí jedinci nemají téměř žádné přirozené nepřátele.",
             "cat": "vztahy",
             "not": [
-              "Q469958"
+              "Q469958",
+              "Q586662"
             ]
           },
           {
@@ -288571,11 +288835,14 @@ window.GAME_DATA = [
             "not": [
               "Q1126782",
               "Q185260",
+              "Q206495",
+              "Q252029",
               "Q29121",
               "Q29150",
               "Q311651",
               "Q338891",
               "Q377591",
+              "Q586662",
               "Q756859",
               "Q757353",
               "Q873701",
@@ -290312,8 +290579,10 @@ window.GAME_DATA = [
             "cat": "potrava",
             "not": [
               "Q1434652",
+              "Q14430561",
               "Q1520915",
               "Q166111",
+              "Q18571888",
               "Q2100394",
               "Q2469727",
               "Q28120",
@@ -290431,6 +290700,8 @@ window.GAME_DATA = [
             "cat": "vztahy",
             "not": [
               "Q1318000",
+              "Q14430561",
+              "Q18571888",
               "Q2667294",
               "Q311096",
               "Q390499",
@@ -290986,6 +291257,8 @@ window.GAME_DATA = [
               "Q1225579",
               "Q1281161",
               "Q1352185",
+              "Q14430561",
+              "Q18571888",
               "Q1950127",
               "Q263784",
               "Q4423930",
@@ -300435,6 +300708,7 @@ window.GAME_DATA = [
             "cat": "potrava",
             "not": [
               "Q1009939",
+              "Q14430561",
               "Q149696",
               "Q2140604",
               "Q390738",
@@ -302536,7 +302810,9 @@ window.GAME_DATA = [
             "text": "Samečci za letu vydávají hlasitý chřestivý zvuk.",
             "cat": "chování",
             "not": [
+              "Q14430561",
               "Q1500713",
+              "Q18571888",
               "Q1935365",
               "Q20747",
               "Q2345306",
@@ -304750,10 +305026,12 @@ window.GAME_DATA = [
             "not": [
               "Q1076931",
               "Q1396932",
+              "Q14430561",
               "Q1535744",
               "Q15736396",
               "Q1746508",
               "Q1767783",
+              "Q18571888",
               "Q1909388",
               "Q2483149",
               "Q27925",
@@ -307470,6 +307748,8 @@ window.GAME_DATA = [
             "not": [
               "Q1109803",
               "Q1367046",
+              "Q14430561",
+              "Q18571888",
               "Q932432",
               "Q942217"
             ]
@@ -307628,6 +307908,8 @@ window.GAME_DATA = [
             "cat": "potrava",
             "not": [
               "Q1432942",
+              "Q14430561",
+              "Q18571888",
               "Q2165841",
               "Q473854",
               "Q521942"
@@ -309940,7 +310222,9 @@ window.GAME_DATA = [
             "cat": "potrava",
             "not": [
               "Q1307197",
+              "Q14430561",
               "Q1753908",
+              "Q18571888",
               "Q28175",
               "Q837774",
               "Q855094"
@@ -321250,8 +321534,11 @@ window.GAME_DATA = [
             "cat": "chování",
             "not": [
               "Q1313397",
+              "Q16753940",
+              "Q2068939",
               "Q284352",
-              "Q3134808"
+              "Q3134808",
+              "Q751959"
             ]
           }
         ],
@@ -321407,7 +321694,10 @@ window.GAME_DATA = [
             "cat": "chování",
             "not": [
               "Q140554",
-              "Q27501554"
+              "Q16753940",
+              "Q2068939",
+              "Q27501554",
+              "Q751959"
             ]
           },
           {
@@ -322251,7 +322541,9 @@ window.GAME_DATA = [
             "id": "Q1302233#2",
             "text": "Loví hlavně lezoucí členovce.",
             "cat": "potrava",
-            "not": []
+            "not": [
+              "Q751959"
+            ]
           },
           {
             "id": "Q1302233#3",
@@ -322425,7 +322717,10 @@ window.GAME_DATA = [
             "id": "Q1308106#2",
             "text": "Má osm očí, dvě z nich jsou velké.",
             "cat": "vzhled",
-            "not": []
+            "not": [
+              "Q2068939",
+              "Q2519430"
+            ]
           },
           {
             "id": "Q1308106#3",
@@ -323541,10 +323836,14 @@ window.GAME_DATA = [
             "text": "Tento druh je v Česku velmi hojný.",
             "cat": "výskyt",
             "not": [
+              "Q1302240",
               "Q1308106",
               "Q1313397",
+              "Q2068939",
+              "Q2519430",
               "Q284352",
-              "Q3134808"
+              "Q3134808",
+              "Q548969"
             ]
           }
         ],
@@ -323858,14 +324157,21 @@ window.GAME_DATA = [
             "not": [
               "Q1137615",
               "Q1142349",
+              "Q1302240",
+              "Q1315295",
               "Q140698",
               "Q1498643",
+              "Q16753940",
+              "Q1886003",
               "Q2090659",
+              "Q2519430",
               "Q2946227",
               "Q305130",
               "Q388278",
               "Q40230",
               "Q4776199",
+              "Q548969",
+              "Q751959",
               "Q902450",
               "Q917794"
             ]
@@ -324224,9 +324530,12 @@ window.GAME_DATA = [
             "not": [
               "Q1133152",
               "Q1704634",
+              "Q1886003",
+              "Q2068939",
               "Q2197310",
               "Q290822",
-              "Q292510"
+              "Q292510",
+              "Q548969"
             ]
           },
           {
@@ -325045,8 +325354,11 @@ window.GAME_DATA = [
             "cat": "chování",
             "not": [
               "Q1313397",
+              "Q16753940",
+              "Q2068939",
               "Q284352",
-              "Q3134808"
+              "Q3134808",
+              "Q751959"
             ]
           },
           {
@@ -326977,14 +327289,21 @@ window.GAME_DATA = [
             "cat": "chování",
             "not": [
               "Q1133152",
+              "Q1302240",
               "Q1308106",
               "Q1313397",
+              "Q1315295",
               "Q136914",
               "Q140543",
               "Q1609572",
+              "Q16753940",
+              "Q1886003",
+              "Q2068939",
               "Q21175",
+              "Q2519430",
               "Q310038",
               "Q40230",
+              "Q751959",
               "Q789598",
               "Q902450"
             ]
@@ -326996,6 +327315,8 @@ window.GAME_DATA = [
             "not": [
               "Q116263616",
               "Q116263638",
+              "Q1886003",
+              "Q2068939",
               "Q290822",
               "Q461019",
               "Q937723"
@@ -328499,10 +328820,14 @@ window.GAME_DATA = [
             "cat": "chování",
             "not": [
               "Q1302233",
+              "Q1302240",
+              "Q1315295",
+              "Q1886003",
               "Q2128637",
               "Q2197310",
               "Q27501462",
-              "Q6483023"
+              "Q6483023",
+              "Q751959"
             ]
           },
           {
@@ -329943,6 +330268,7 @@ window.GAME_DATA = [
               "Q3201040",
               "Q728187",
               "Q751784",
+              "Q777865",
               "Q820786",
               "Q901401",
               "Q910785"
@@ -330051,13 +330377,15 @@ window.GAME_DATA = [
             "text": "Loví hvězdice trnové koruny.",
             "cat": "vztahy",
             "not": [
+              "Q1006379",
               "Q1500654",
               "Q151201",
               "Q1844769",
               "Q2214027",
               "Q3164532",
               "Q385029",
-              "Q428534"
+              "Q428534",
+              "Q835427"
             ]
           },
           {
@@ -330633,6 +330961,7 @@ window.GAME_DATA = [
             "text": "Uzavře se víčkem a tím se chrání před vyschnutím.",
             "cat": "chování",
             "not": [
+              "Q1006379",
               "Q131757",
               "Q164336",
               "Q174549",
@@ -330934,6 +331263,7 @@ window.GAME_DATA = [
               "Q7187379",
               "Q728187",
               "Q752130",
+              "Q777865",
               "Q820786",
               "Q908813",
               "Q937520"
@@ -331193,6 +331523,7 @@ window.GAME_DATA = [
               "Q689003",
               "Q751784",
               "Q756724",
+              "Q777865",
               "Q820786",
               "Q912404"
             ]
@@ -331401,7 +331732,9 @@ window.GAME_DATA = [
             "text": "Loví hlavně v noci.",
             "cat": "chování",
             "not": [
-              "Q820786"
+              "Q1006379",
+              "Q820786",
+              "Q835427"
             ]
           },
           {
@@ -331723,6 +332056,7 @@ window.GAME_DATA = [
               "Q427854",
               "Q428534",
               "Q773951",
+              "Q777865",
               "Q854808"
             ]
           }
@@ -332139,7 +332473,8 @@ window.GAME_DATA = [
             "cat": "mláďata",
             "not": [
               "Q1850495",
-              "Q756724"
+              "Q756724",
+              "Q835427"
             ]
           },
           {
@@ -333031,9 +333366,11 @@ window.GAME_DATA = [
             "text": "Živí se především houbami.",
             "cat": "potrava",
             "not": [
+              "Q1006379",
               "Q1698916",
               "Q1758969",
               "Q772012",
+              "Q835427",
               "Q912404"
             ]
           }
@@ -333141,12 +333478,14 @@ window.GAME_DATA = [
             "text": "Ulita je vysoká 11 až 22 milimetrů.",
             "cat": "čísla",
             "not": [
+              "Q1006379",
               "Q174549",
               "Q22019793",
               "Q2536380",
               "Q26908",
               "Q651332",
               "Q689003",
+              "Q777865",
               "Q820786"
             ]
           }
@@ -333250,6 +333589,7 @@ window.GAME_DATA = [
               "Q3201040",
               "Q385029",
               "Q689003",
+              "Q777865",
               "Q820786",
               "Q932364"
             ]
@@ -333302,6 +333642,7 @@ window.GAME_DATA = [
               "Q1850495",
               "Q2664666",
               "Q772012",
+              "Q835427",
               "Q940450"
             ]
           }
@@ -333479,11 +333820,13 @@ window.GAME_DATA = [
             "text": "V noci stoupá do mělké vody a krmí se tam.",
             "cat": "chování",
             "not": [
+              "Q1006379",
               "Q114893",
               "Q21113",
               "Q2153396",
               "Q385029",
               "Q773951",
+              "Q835427",
               "Q898580",
               "Q932364"
             ]
@@ -333571,6 +333914,12 @@ window.GAME_DATA = [
             "author": "Astacoides",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Kamberkrebs_spiny-cheek_crayfish_Orconectes_limosus_male.jpg/500px-Kamberkrebs_spiny-cheek_crayfish_Orconectes_limosus_male.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Kamberkrebs.jpg",
+            "author": "Lorenz Seebauer",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Kamberkrebs.jpg/500px-Kamberkrebs.jpg"
           }
         ],
         "facts": [
@@ -333624,6 +333973,12 @@ window.GAME_DATA = [
             "author": "No machine-readable author provided. MikeMurphy assumed (based on copyright clai",
             "license": "Public domain",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Procambarus_clarkii.jpg/500px-Procambarus_clarkii.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Procambarus_clarki_-_Rode_Rivierkreeft_01_(50141237518).jpg",
+            "author": "Paul van de Velde",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Procambarus_clarki_-_Rode_Rivierkreeft_01_%2850141237518%29.jpg/500px-Procambarus_clarki_-_Rode_Rivierkreeft_01_%2850141237518%29.jpg"
           }
         ],
         "facts": [
@@ -333674,9 +334029,65 @@ window.GAME_DATA = [
             "author": "SentienceIsAnIllusion",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/A._Vulgare_adults.jpg/500px-A._Vulgare_adults.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Armadillidium_vulgare_P1210333a.jpg",
+            "author": "xpda",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Armadillidium_vulgare_P1210333a.jpg/500px-Armadillidium_vulgare_P1210333a.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Armadillidium_vulgare_2414.JPG",
+            "author": "Walter Siegmund (talk)",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Armadillidium_vulgare_2414.JPG/500px-Armadillidium_vulgare_2414.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Armadillidium_vulgare_(Crustacea-_Isopoda)_(10797672314).jpg",
+            "author": "gbohne from Berlin, Germany",
+            "license": "CC BY-SA 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Armadillidium_vulgare_%28Crustacea-_Isopoda%29_%2810797672314%29.jpg/500px-Armadillidium_vulgare_%28Crustacea-_Isopoda%29_%2810797672314%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Pill_bug_with_yellow_spots_on_the_tree_-_2.jpg",
+            "author": "KKPCW",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Pill_bug_with_yellow_spots_on_the_tree_-_2.jpg/500px-Pill_bug_with_yellow_spots_on_the_tree_-_2.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Carcassonne_-_Cloporte_07.jpg",
+            "author": "Tylwyth Eldar",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Carcassonne_-_Cloporte_07.jpg/500px-Carcassonne_-_Cloporte_07.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q1300629#x1",
+            "text": "Živí se hlavně rozkládajícím se rostlinným opadem.",
+            "cat": "potrava",
+            "not": [
+              "Q1366514",
+              "Q27690",
+              "Q27765",
+              "Q37668",
+              "Q43735",
+              "Q752188"
+            ]
+          },
+          {
+            "id": "Q1300629#x2",
+            "text": "Loví ho pavouci, střevlíci, rejsci a ropuchy.",
+            "cat": "vztahy",
+            "not": []
+          },
+          {
+            "id": "Q1300629#x4",
+            "text": "Parazitují na něm hlístice a dvoukřídlí.",
+            "cat": "vztahy",
+            "not": []
+          }
+        ],
         "continents": [
           "EU",
           "AS",
@@ -333707,9 +334118,72 @@ window.GAME_DATA = [
             "author": "Gllawm",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Lepidurus_apus_%28Juill%C3%A9%29_20032014_01.jpg/500px-Lepidurus_apus_%28Juill%C3%A9%29_20032014_01.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Lepidurus_apus_(S%C3%A9lign%C3%A9)_04032021_02.jpg",
+            "author": "Gllawm",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Lepidurus_apus_%28S%C3%A9lign%C3%A9%29_04032021_02.jpg/500px-Lepidurus_apus_%28S%C3%A9lign%C3%A9%29_04032021_02.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Lepidurus_apus_(Secondign%C3%A9-sur-Belle)_22032022_04.jpg",
+            "author": "Gllawm",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Lepidurus_apus_%28Secondign%C3%A9-sur-Belle%29_22032022_04.jpg/500px-Lepidurus_apus_%28Secondign%C3%A9-sur-Belle%29_22032022_04.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Lepidurus_apus_(S%C3%A9lign%C3%A9)_04032021_01.jpg",
+            "author": "Gllawm",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Lepidurus_apus_%28S%C3%A9lign%C3%A9%29_04032021_01.jpg/500px-Lepidurus_apus_%28S%C3%A9lign%C3%A9%29_04032021_01.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q1317340#x0",
+            "text": "Živí se rostlinným materiálem a drobnými vodními bezobratlými, například perloočkami.",
+            "cat": "potrava",
+            "not": []
+          },
+          {
+            "id": "Q1317340#x1",
+            "text": "Loví ho malí brodiví ptáci, kachny, labutě a v některých tůních i ryby.",
+            "cat": "vztahy",
+            "not": []
+          },
+          {
+            "id": "Q1317340#x2",
+            "text": "Odolná vajíčka se vylíhla i po 28 letech sucha.",
+            "cat": "čísla",
+            "not": [
+              "Q134974",
+              "Q1366514",
+              "Q181075",
+              "Q43735",
+              "Q935625"
+            ]
+          },
+          {
+            "id": "Q1317340#x4",
+            "text": "Žije hlavně v dočasných sladkovodních tůních hlubokých 10 až 100 cm.",
+            "cat": "výskyt",
+            "not": [
+              "Q134974",
+              "Q1366514",
+              "Q1519675",
+              "Q181075",
+              "Q2798958",
+              "Q43735",
+              "Q935625"
+            ]
+          },
+          {
+            "id": "Q1317340#x5",
+            "text": "Vajíčka se zřejmě šíří vodou, divokými zvířaty i stěhovavými ptáky.",
+            "cat": "chování",
+            "not": []
+          }
+        ],
         "continents": [
           "EU",
           "AS",
@@ -333717,6 +334191,48 @@ window.GAME_DATA = [
           "NA"
         ],
         "pop": 13,
+        "emoji": "🦐"
+      },
+      {
+        "id": "Q132808",
+        "name": "Listonoh letní",
+        "latin": "Triops cancriformis",
+        "family": "Triopsidae",
+        "order": "listonožky",
+        "wiki": "https://cs.wikipedia.org/wiki/Listonoh_letn%C3%AD",
+        "photos": [
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Triops_cancriformis,_New_Forest_2_(53059532765).jpg",
+            "author": "Sam Thomas",
+            "license": "CC BY-SA 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Triops_cancriformis%2C_New_Forest_2_%2853059532765%29.jpg/500px-Triops_cancriformis%2C_New_Forest_2_%2853059532765%29.jpg"
+          }
+        ],
+        "facts": [
+          {
+            "id": "Q132808#0",
+            "text": "Tento druh je aktivní od května do srpna.",
+            "cat": "chování",
+            "not": []
+          },
+          {
+            "id": "Q132808#1",
+            "text": "Dosahuje délky až 10 cm.",
+            "cat": "čísla",
+            "not": [
+              "Q1300629",
+              "Q1646839",
+              "Q720580"
+            ]
+          }
+        ],
+        "continents": [
+          "EU",
+          "AS",
+          "AF",
+          "NA"
+        ],
+        "pop": 25,
         "emoji": "🦐"
       },
       {
@@ -333732,6 +334248,12 @@ window.GAME_DATA = [
             "author": "Øystein Paulsen",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Meganyctiphanes_norvegica2.jpg/500px-Meganyctiphanes_norvegica2.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Northern_Krill_(Meganyctiphanes_norvegica)_in_Church_Bay,_Rathlin_Island.jpg",
+            "author": "Polygonia c-album",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Northern_Krill_%28Meganyctiphanes_norvegica%29_in_Church_Bay%2C_Rathlin_Island.jpg/500px-Northern_Krill_%28Meganyctiphanes_norvegica%29_in_Church_Bay%2C_Rathlin_Island.jpg"
           }
         ],
         "facts": [
@@ -333764,9 +334286,66 @@ window.GAME_DATA = [
             "author": "",
             "license": "CC BY 2.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Triops_longicaudatus2.jpg/500px-Triops_longicaudatus2.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Triops_longicaudatus_3.jpg",
+            "author": "USGS",
+            "license": "Public domain",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Triops_longicaudatus_3.jpg/500px-Triops_longicaudatus_3.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q135052#x1",
+            "text": "Vajíčka přežijí mráz i sucho.",
+            "cat": "chování",
+            "not": [
+              "Q134974",
+              "Q1366514",
+              "Q181075",
+              "Q43735",
+              "Q935625"
+            ]
+          },
+          {
+            "id": "Q135052#x2",
+            "text": "Vajíčka vydrží v klidovém stavu až 20 let.",
+            "cat": "čísla",
+            "not": [
+              "Q134974",
+              "Q1366514",
+              "Q181075",
+              "Q2798958",
+              "Q43735",
+              "Q935625"
+            ]
+          },
+          {
+            "id": "Q135052#x3",
+            "text": "Požírá larvy komárů.",
+            "cat": "potrava",
+            "not": [
+              "Q134974",
+              "Q1366514",
+              "Q2798958",
+              "Q43735",
+              "Q935625"
+            ]
+          },
+          {
+            "id": "Q135052#x4",
+            "text": "V Japonsku žere plevel na rýžových polích.",
+            "cat": "potrava",
+            "not": [
+              "Q134974",
+              "Q1366514",
+              "Q181075",
+              "Q2798958",
+              "Q43735",
+              "Q935625"
+            ]
+          }
+        ],
         "continents": [
           "NA",
           "SA"
@@ -333880,7 +334459,31 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Rak_mexick%C3%BD-02.jpg/500px-Rak_mexick%C3%BD-02.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q1519675#x2",
+            "text": "Je aktivní ve dne i v noci.",
+            "cat": "chování",
+            "not": []
+          },
+          {
+            "id": "Q1519675#x3",
+            "text": "Za dobrých podmínek se dožívá nejvýš dvou let.",
+            "cat": "čísla",
+            "not": [
+              "Q206070",
+              "Q27690",
+              "Q287523",
+              "Q37668"
+            ]
+          },
+          {
+            "id": "Q1519675#x5",
+            "text": "Samice se sama stará o potomstvo.",
+            "cat": "mláďata",
+            "not": []
+          }
+        ],
         "continents": [
           "NA"
         ],
@@ -333906,6 +334509,12 @@ window.GAME_DATA = [
             "author": "André Karwath aka Aka",
             "license": "CC BY-SA 2.5",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Oniscus_asellus_-_male_top_1_%28aka%29.jpg/500px-Oniscus_asellus_-_male_top_1_%28aka%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:2013-06-26_21-56-00-cloporte.jpg",
+            "author": "Thomas Bresson",
+            "license": "CC BY 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/2013-06-26_21-56-00-cloporte.jpg/500px-2013-06-26_21-56-00-cloporte.jpg"
           }
         ],
         "facts": [
@@ -333947,6 +334556,42 @@ window.GAME_DATA = [
             "author": "Martin Cooper from Ipswich, UK",
             "license": "CC BY 2.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Common_striped_woodlouse_%28Philoscia_muscorum%29_Ipswich%2C_UK.jpg/500px-Common_striped_woodlouse_%28Philoscia_muscorum%29_Ipswich%2C_UK.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Woodlouse_(34217366080).jpg",
+            "author": "Katja Schulz from Washington, D. C., USA",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Woodlouse_%2834217366080%29.jpg/500px-Woodlouse_%2834217366080%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Philoscia_muscorum_71086871.jpg",
+            "author": "Gilles San Martin",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Philoscia_muscorum_71086871.jpg/500px-Philoscia_muscorum_71086871.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Philoscia_muscorum_80566492.jpg",
+            "author": "Katja Schulz",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Philoscia_muscorum_80566492.jpg/500px-Philoscia_muscorum_80566492.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Philoscia_muscorum_177585296.jpg",
+            "author": "Michel Langeveld",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Philoscia_muscorum_177585296.jpg/500px-Philoscia_muscorum_177585296.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Philoscia_muscorum_93329024.jpg",
+            "author": "Ben Smith",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Philoscia_muscorum_93329024.jpg/500px-Philoscia_muscorum_93329024.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Philoscia_muscorum_106774658.jpg",
+            "author": "Markus Krieger",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Philoscia_muscorum_106774658.jpg/500px-Philoscia_muscorum_106774658.jpg"
           }
         ],
         "facts": [
@@ -333989,6 +334634,24 @@ window.GAME_DATA = [
             "author": "Marc Figueras ( Oersted )",
             "license": "CC BY 2.5",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Grapsus_grapsus.JPG/500px-Grapsus_grapsus.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Grapsus_grapsus_224333035.jpg",
+            "author": "Andrew Meeds",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Grapsus_grapsus_224333035.jpg/500px-Grapsus_grapsus_224333035.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Sally-lightfoot_crab_-_Flickr_-_pellaea_(2).jpg",
+            "author": "Jason Hollinger",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Sally-lightfoot_crab_-_Flickr_-_pellaea_%282%29.jpg/500px-Sally-lightfoot_crab_-_Flickr_-_pellaea_%282%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Sally_Lightfoot_Crab_(49521361146).jpg",
+            "author": "David Stanley from Nanaimo, Canada",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Sally_Lightfoot_Crab_%2849521361146%29.jpg/500px-Sally_Lightfoot_Crab_%2849521361146%29.jpg"
           }
         ],
         "facts": [
@@ -334045,6 +334708,24 @@ window.GAME_DATA = [
             "author": "",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Robber_crab.jpg/500px-Robber_crab.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Birgus_latro_(Bora-Bora).jpg",
+            "author": "Brocken Inaglory",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Birgus_latro_%28Bora-Bora%29.jpg/500px-Birgus_latro_%28Bora-Bora%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Birgus_latro_423159121.jpg",
+            "author": "Ken Puliafico",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Birgus_latro_423159121.jpg/500px-Birgus_latro_423159121.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Kokosnusskrabbe.jpg",
+            "author": "Msdstefan",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Kokosnusskrabbe.jpg/500px-Kokosnusskrabbe.jpg"
           }
         ],
         "facts": [
@@ -334097,6 +334778,24 @@ window.GAME_DATA = [
             "author": "H. Zell",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Astacus_astacus_02.JPG/500px-Astacus_astacus_02.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Actacus_actacus2.JPG",
+            "author": "Martti13",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Actacus_actacus2.JPG/500px-Actacus_actacus2.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Actacus_actacus1.JPG",
+            "author": "Martti13",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Actacus_actacus1.JPG/500px-Actacus_actacus1.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Flusskrebs.jpg",
+            "author": "Fotosherling",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Flusskrebs.jpg/500px-Flusskrebs.jpg"
           }
         ],
         "facts": [
@@ -334137,6 +334836,42 @@ window.GAME_DATA = [
             "author": "Larry & Teddy Page from Cedar, Michigan, USA",
             "license": "CC BY 2.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/A_Woodlouse_%28Porcellio_scaber%29_%283844681398%29.jpg/500px-A_Woodlouse_%28Porcellio_scaber%29_%283844681398%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Porcellio_scaber_10.2025_(2).jpg",
+            "author": "DidierFy",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Porcellio_scaber_10.2025_%282%29.jpg/500px-Porcellio_scaber_10.2025_%282%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Porcellio_scaber_(18966816560).jpg",
+            "author": "Donald Hobern from Copenhagen, Denmark",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Porcellio_scaber_%2818966816560%29.jpg/500px-Porcellio_scaber_%2818966816560%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Porcellio_scaber_173625393.jpg",
+            "author": "lazarus",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Porcellio_scaber_173625393.jpg/500px-Porcellio_scaber_173625393.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Porcellio_scaber_115402197.jpg",
+            "author": "Stephen James McWilliam",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Porcellio_scaber_115402197.jpg/500px-Porcellio_scaber_115402197.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Porcellio_scaber_109636446.jpg",
+            "author": "Michel Langeveld",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Porcellio_scaber_109636446.jpg/500px-Porcellio_scaber_109636446.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Common_rough_woodlouse_(48807437153).jpg",
+            "author": "hedera.baltica from Wrocław, Poland",
+            "license": "CC BY-SA 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Common_rough_woodlouse_%2848807437153%29.jpg/500px-Common_rough_woodlouse_%2848807437153%29.jpg"
           }
         ],
         "facts": [
@@ -334188,6 +334923,24 @@ window.GAME_DATA = [
             "author": "Michel Estermann",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Entenmuscheol.jpg/500px-Entenmuscheol.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Goose_barnacles_(Lepas_anatifera).jpg",
+            "author": "RamiAubourg",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Goose_barnacles_%28Lepas_anatifera%29.jpg/500px-Goose_barnacles_%28Lepas_anatifera%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:2020-05-07_%E2%80%94_Pelagic_Gooseneck_Barnacle_(Lepas_anatifera)_1.jpg",
+            "author": "Don Henise",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/2020-05-07_%E2%80%94_Pelagic_Gooseneck_Barnacle_%28Lepas_anatifera%29_1.jpg/500px-2020-05-07_%E2%80%94_Pelagic_Gooseneck_Barnacle_%28Lepas_anatifera%29_1.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:A_goose_barnacle_from_Royal_National_Park.JPG",
+            "author": "Schomynv",
+            "license": "Public domain",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/A_goose_barnacle_from_Royal_National_Park.JPG/500px-A_goose_barnacle_from_Royal_National_Park.JPG"
           }
         ],
         "facts": [
@@ -334236,6 +334989,12 @@ window.GAME_DATA = [
             "author": "No machine-readable author provided. Marco Busdraghi assumed (based on copyright",
             "license": "CC BY 2.5",
             "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Homarus_gammarus_-_Astice.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Homard_europ%C3%A9en_(Homarus_gammarus)_(Ifremer_00728-84037_-_37358).jpg",
+            "author": "Olivier Dugornay",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Homard_europ%C3%A9en_%28Homarus_gammarus%29_%28Ifremer_00728-84037_-_37358%29.jpg/500px-Homard_europ%C3%A9en_%28Homarus_gammarus%29_%28Ifremer_00728-84037_-_37358%29.jpg"
           }
         ],
         "facts": [
@@ -334318,6 +335077,12 @@ window.GAME_DATA = [
             "author": "Misa.stefanovic.07",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/NP_TARA_-_Potocni_rak.jpg/500px-NP_TARA_-_Potocni_rak.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Steinkrebs1.jpg",
+            "author": "Christoph Leeb",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Steinkrebs1.jpg/500px-Steinkrebs1.jpg"
           }
         ],
         "facts": [
@@ -334413,6 +335178,12 @@ window.GAME_DATA = [
             "author": "OAR/National Undersea Research Program (NURP).",
             "license": "Public domain",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Nur01521_-_Flickr_-_NOAA_Photo_Library.jpg/500px-Nur01521_-_Flickr_-_NOAA_Photo_Library.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:American_lobster,_Homarus_americanus_in_Newfoundland,_Canada_(20563012093).jpg",
+            "author": "Derek Keats from Johannesburg, South Africa",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/American_lobster%2C_Homarus_americanus_in_Newfoundland%2C_Canada_%2820563012093%29.jpg/500px-American_lobster%2C_Homarus_americanus_in_Newfoundland%2C_Canada_%2820563012093%29.jpg"
           }
         ],
         "facts": [
@@ -334500,6 +335271,42 @@ window.GAME_DATA = [
             "author": "Cédric Péneau",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Odontodactylus_scyllarus_R%C3%A9union.jpg/500px-Odontodactylus_scyllarus_R%C3%A9union.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Odontodactylus_scyllarus_360974318.jpg",
+            "author": "portioid",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Odontodactylus_scyllarus_360974318.jpg/500px-Odontodactylus_scyllarus_360974318.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Odontodactylus_scyllarus_60094698.jpg",
+            "author": "Kai Squires",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Odontodactylus_scyllarus_60094698.jpg/500px-Odontodactylus_scyllarus_60094698.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Odontodactylus_scyllarus_365676911.jpg",
+            "author": "Pauline Walsh Jacobson",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Odontodactylus_scyllarus_365676911.jpg/500px-Odontodactylus_scyllarus_365676911.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Odontodactylus_scyllarus_158207167.jpg",
+            "author": "Bernard DUPONT",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Odontodactylus_scyllarus_158207167.jpg/500px-Odontodactylus_scyllarus_158207167.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Peacock_Mantis_Shrimp_(14463975261).jpg",
+            "author": "Elias Levy",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Peacock_Mantis_Shrimp_%2814463975261%29.jpg/500px-Peacock_Mantis_Shrimp_%2814463975261%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Odontodactylus_scyllarus_22279815.jpg",
+            "author": "malts",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Odontodactylus_scyllarus_22279815.jpg/500px-Odontodactylus_scyllarus_22279815.jpg"
           }
         ],
         "facts": [
@@ -334535,6 +335342,12 @@ window.GAME_DATA = [
             "author": "",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Astacus_leptodactylus_Blausteinsee_05.jpg/500px-Astacus_leptodactylus_Blausteinsee_05.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Galizischer_Sumpfkrebs_(Nahaufnahme).jpg",
+            "author": "Lorenz Seebauer",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Galizischer_Sumpfkrebs_%28Nahaufnahme%29.jpg/500px-Galizischer_Sumpfkrebs_%28Nahaufnahme%29.jpg"
           }
         ],
         "facts": [
@@ -334598,6 +335411,18 @@ window.GAME_DATA = [
             "author": "Micha Baum",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Palaemon_adspersus_102885056.jpg/500px-Palaemon_adspersus_102885056.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Palaemon_adspersus_104963882.jpg",
+            "author": "Klaus Kevin Kristensen",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Palaemon_adspersus_104963882.jpg/500px-Palaemon_adspersus_104963882.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Palaemon_adspersus_102885068.jpg",
+            "author": "Micha Baum",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Palaemon_adspersus_102885068.jpg/500px-Palaemon_adspersus_102885068.jpg"
           }
         ],
         "facts": [
@@ -334750,7 +335575,48 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Pacifastacus_leniusculus_01_by-dpc.jpg/500px-Pacifastacus_leniusculus_01_by-dpc.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q693000#x0",
+            "text": "Je aktivní hlavně v noci.",
+            "cat": "chování",
+            "not": []
+          },
+          {
+            "id": "Q693000#x1",
+            "text": "Živí se rybami, živočichy žijícími na dně a vodními rostlinami.",
+            "cat": "potrava",
+            "not": [
+              "Q1573371"
+            ]
+          },
+          {
+            "id": "Q693000#x2",
+            "text": "Loví ho například sumci, úhoři a volavky.",
+            "cat": "vztahy",
+            "not": []
+          },
+          {
+            "id": "Q693000#x3",
+            "text": "Přenáší račí mor, ale sám je vůči němu převážně odolný.",
+            "cat": "vztahy",
+            "not": [
+              "Q1300629",
+              "Q1472053",
+              "Q1573371",
+              "Q206070",
+              "Q27690",
+              "Q27765",
+              "Q3643627",
+              "Q37668",
+              "Q43735",
+              "Q585024",
+              "Q720580",
+              "Q720597",
+              "Q752188"
+            ]
+          }
+        ],
         "continents": [
           "EU",
           "NA"
@@ -334789,6 +335655,12 @@ window.GAME_DATA = [
             "author": "Petar Milošević",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Crab_%28Pachygrapsus_marmoratus%29_on_Istrian_coast_%28Adriatic_sea%29.jpg/500px-Crab_%28Pachygrapsus_marmoratus%29_on_Istrian_coast_%28Adriatic_sea%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:2018.09.14.-25-Atlantischer_Ozean-Angoulins-sur-Mer--Marmorierte_Quadratkrabbe.jpg",
+            "author": "Eichler, Andreas",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/2018.09.14.-25-Atlantischer_Ozean-Angoulins-sur-Mer--Marmorierte_Quadratkrabbe.jpg/500px-2018.09.14.-25-Atlantischer_Ozean-Angoulins-sur-Mer--Marmorierte_Quadratkrabbe.jpg"
           }
         ],
         "facts": [
@@ -334858,6 +335730,30 @@ window.GAME_DATA = [
             "author": "George Chernilevsky",
             "license": "Public domain",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Eriphia_verrucosa_2008_G1.jpg/500px-Eriphia_verrucosa_2008_G1.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Cangrejo_verrugoso_(Eriphia_verrucosa),_Set%C3%BAbal,_Portugal,_2020-08-01,_DD_13.jpg",
+            "author": "Diego Delso",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Cangrejo_verrugoso_%28Eriphia_verrucosa%29%2C_Set%C3%BAbal%2C_Portugal%2C_2020-08-01%2C_DD_13.jpg/500px-Cangrejo_verrugoso_%28Eriphia_verrucosa%29%2C_Set%C3%BAbal%2C_Portugal%2C_2020-08-01%2C_DD_13.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Cangrejo_verrugoso_(Eriphia_verrucosa),_Set%C3%BAbal,_Portugal,_2020-08-01,_DD_12.jpg",
+            "author": "Diego Delso",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Cangrejo_verrugoso_%28Eriphia_verrucosa%29%2C_Set%C3%BAbal%2C_Portugal%2C_2020-08-01%2C_DD_12.jpg/500px-Cangrejo_verrugoso_%28Eriphia_verrucosa%29%2C_Set%C3%BAbal%2C_Portugal%2C_2020-08-01%2C_DD_12.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Eriphia_verrucosa_female_2009_G1.jpg",
+            "author": "George Chernilevsky",
+            "license": "Public domain",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Eriphia_verrucosa_female_2009_G1.jpg/500px-Eriphia_verrucosa_female_2009_G1.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Eriphia_verrucosa_male_2009_G3.jpg",
+            "author": "George Chernilevsky",
+            "license": "Public domain",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Eriphia_verrucosa_male_2009_G3.jpg/500px-Eriphia_verrucosa_male_2009_G3.jpg"
           }
         ],
         "facts": [
@@ -334901,7 +335797,42 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/EriocheirSinensis1.jpg/500px-EriocheirSinensis1.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q823941#x0",
+            "text": "Živí se hlavně v noci rostlinami, larvami hmyzu, mlži, plži, malými rybami a mršinami.",
+            "cat": "potrava",
+            "not": []
+          },
+          {
+            "id": "Q823941#x1",
+            "text": "Nejméně tři čtvrtiny potravy tvoří rostliny.",
+            "cat": "potrava",
+            "not": [
+              "Q27690",
+              "Q27765",
+              "Q37668",
+              "Q43735",
+              "Q752188"
+            ]
+          },
+          {
+            "id": "Q823941#x2",
+            "text": "Tráví většinu života ve sladké vodě a k rozmnožování se vrací do moře.",
+            "cat": "chování",
+            "not": [
+              "Q1300629",
+              "Q1573371",
+              "Q27690",
+              "Q37668",
+              "Q43735",
+              "Q585024",
+              "Q720580",
+              "Q720597",
+              "Q752188"
+            ]
+          }
+        ],
         "continents": [
           "EU",
           "AS",
@@ -334929,6 +335860,54 @@ window.GAME_DATA = [
             "author": "q phia",
             "license": "CC BY 2.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/2017%2C_cuba%2C_jardines_aggressor%2C_playa_bonita%2C_banded_coral_shrimp_%2837521008562%29.jpg/500px-2017%2C_cuba%2C_jardines_aggressor%2C_playa_bonita%2C_banded_coral_shrimp_%2837521008562%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Stenopus_hispidus_347428899.jpg",
+            "author": "portioid",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Stenopus_hispidus_347428899.jpg/500px-Stenopus_hispidus_347428899.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Stenopus_hispidus_341925094.jpg",
+            "author": "portioid",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Stenopus_hispidus_341925094.jpg/500px-Stenopus_hispidus_341925094.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Stenopus_hispidus_383032070.jpg",
+            "author": "Pauline Walsh Jacobson",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Stenopus_hispidus_383032070.jpg/500px-Stenopus_hispidus_383032070.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Stenopus_hispidus_341925390.jpg",
+            "author": "portioid",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Stenopus_hispidus_341925390.jpg/500px-Stenopus_hispidus_341925390.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Stenopus_hispidus_341925159.jpg",
+            "author": "portioid",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Stenopus_hispidus_341925159.jpg/500px-Stenopus_hispidus_341925159.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Stenopus_hispidus_361045416.jpg",
+            "author": "portioid",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Stenopus_hispidus_361045416.jpg/500px-Stenopus_hispidus_361045416.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Stenopus_hispidus_387214731.jpg",
+            "author": "portioid",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Stenopus_hispidus_387214731.jpg/500px-Stenopus_hispidus_387214731.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Stenopus_hispidus_387214742.jpg",
+            "author": "portioid",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Stenopus_hispidus_387214742.jpg/500px-Stenopus_hispidus_387214742.jpg"
           }
         ],
         "facts": [
@@ -352603,11 +353582,8 @@ window.GAME_DATA = [
             "text": "Dorůstá do výšky 10 až 25 centimetrů.",
             "cat": "čísla",
             "not": [
-              "Q157442",
               "Q157547",
               "Q158898",
-              "Q159295",
-              "Q161124",
               "Q2278032",
               "Q28367"
             ]
@@ -354373,7 +355349,6 @@ window.GAME_DATA = [
             "text": "Pyl z květů roznáší vítr.",
             "cat": "růst",
             "not": [
-              "Q159160",
               "Q159444"
             ]
           }
@@ -357851,10 +358826,7 @@ window.GAME_DATA = [
             "id": "Q157885#0",
             "text": "Má stébla vysoká 20 až 60 centimetrů.",
             "cat": "čísla",
-            "not": [
-              "Q12027921",
-              "Q158963"
-            ]
+            "not": []
           }
         ],
         "continents": [
@@ -361132,7 +362104,6 @@ window.GAME_DATA = [
               "Q158524",
               "Q158527",
               "Q159608",
-              "Q159677",
               "Q4338343"
             ]
           },
@@ -366108,12 +367079,10 @@ window.GAME_DATA = [
               "Q1466032",
               "Q148734",
               "Q150095",
-              "Q157442",
               "Q158828",
               "Q159027",
               "Q159028",
               "Q159295",
-              "Q161124",
               "Q162399"
             ]
           },
@@ -366341,9 +367310,7 @@ window.GAME_DATA = [
             "cat": "růst",
             "not": [
               "Q12043121",
-              "Q158527",
-              "Q162425",
-              "Q4338343"
+              "Q162425"
             ]
           },
           {
@@ -368930,8 +369897,7 @@ window.GAME_DATA = [
             "text": "Kvete od května do června.",
             "cat": "růst",
             "not": [
-              "Q1433082",
-              "Q159349"
+              "Q1433082"
             ]
           }
         ],
@@ -369809,11 +370775,9 @@ window.GAME_DATA = [
             "cat": "vzhled",
             "not": [
               "Q12043121",
-              "Q158521",
               "Q158527",
               "Q158894",
               "Q158963",
-              "Q160008",
               "Q4338343"
             ]
           },
@@ -371824,7 +372788,6 @@ window.GAME_DATA = [
             "not": [
               "Q112520",
               "Q12027921",
-              "Q12043121",
               "Q133818",
               "Q15313014",
               "Q158918",
@@ -373563,7 +374526,6 @@ window.GAME_DATA = [
               "Q12060404",
               "Q159055",
               "Q159349",
-              "Q159562",
               "Q161124",
               "Q693409"
             ]
@@ -378149,7 +379111,6 @@ window.GAME_DATA = [
             "not": [
               "Q13100366",
               "Q13187",
-              "Q159298",
               "Q159562",
               "Q159641",
               "Q161839",
@@ -384521,9 +385482,7 @@ window.GAME_DATA = [
             "text": "V Evropě kvete od června do října.",
             "cat": "růst",
             "not": [
-              "Q12043121",
-              "Q158527",
-              "Q4338343"
+              "Q12043121"
             ]
           },
           {
@@ -385140,11 +386099,13 @@ window.GAME_DATA = [
             "text": "Na jaře má nezelený výhonek se špičkou plnou výtrusů.",
             "cat": "růst",
             "not": [
+              "Q11258500",
               "Q1130272",
               "Q1345500",
               "Q1684201",
               "Q21122",
               "Q213548",
+              "Q256971",
               "Q2705087",
               "Q3023471",
               "Q322994",
@@ -385213,8 +386174,10 @@ window.GAME_DATA = [
             "text": "Na jaře nejdřív vyroste světle hnědý stonek bez větví.",
             "cat": "růst",
             "not": [
+              "Q11258500",
               "Q1130272",
               "Q1684201",
+              "Q256971",
               "Q2705087",
               "Q3023471",
               "Q322994",
@@ -385452,7 +386415,10 @@ window.GAME_DATA = [
             "id": "Q1130272#0",
             "text": "Listy bývají dlouhé 15 až 60 centimetrů.",
             "cat": "čísla",
-            "not": []
+            "not": [
+              "Q11258500",
+              "Q256971"
+            ]
           }
         ],
         "continents": [
@@ -385925,12 +386891,14 @@ window.GAME_DATA = [
             "text": "Na jaře nejdřív vyroste červenohnědá lodyha bez větví.",
             "cat": "vzhled",
             "not": [
+              "Q11258500",
               "Q1130272",
               "Q1546744",
               "Q1684201",
               "Q1753134",
               "Q191532",
               "Q2273882",
+              "Q256971",
               "Q2705087",
               "Q3023471",
               "Q322994",
@@ -388552,7 +389520,9 @@ window.GAME_DATA = [
             "text": "Listy dorůstají až do 150 centimetrů a rostou v hustých trsech.",
             "cat": "čísla",
             "not": [
+              "Q11258500",
               "Q1546744",
+              "Q256971",
               "Q743883"
             ]
           }
@@ -388677,10 +389647,12 @@ window.GAME_DATA = [
             "cat": "čísla",
             "not": [
               "Q107592",
+              "Q11258500",
               "Q1301661",
               "Q2000383",
               "Q21122",
               "Q2176480",
+              "Q256971",
               "Q3023471",
               "Q743883",
               "Q847497",
@@ -391040,7 +392012,8 @@ window.GAME_DATA = [
             "text": "Roste na střechách, na zdech a mezi dlažbou.",
             "cat": "výskyt",
             "not": [
-              "Q140350"
+              "Q140350",
+              "Q867250"
             ]
           }
         ],
@@ -391558,7 +392531,9 @@ window.GAME_DATA = [
             "id": "Q5400250#1",
             "text": "Vyskytuje se na borce a trouchnivém dřevě.",
             "cat": "výskyt",
-            "not": []
+            "not": [
+              "Q178025"
+            ]
           }
         ],
         "continents": [
@@ -391740,7 +392715,8 @@ window.GAME_DATA = [
               "Q292408",
               "Q385125",
               "Q442127",
-              "Q796552"
+              "Q796552",
+              "Q867250"
             ]
           }
         ],
@@ -399767,6 +400743,50 @@ window.GAME_DATA = [
         "emoji": "🍄‍🟫"
       },
       {
+        "id": "Q1491620",
+        "name": "Slizák lepkavý",
+        "latin": "Chroogomphus rutilus",
+        "family": "slizákovité",
+        "order": "hřibotvaré",
+        "wiki": "https://cs.wikipedia.org/wiki/Sliz%C3%A1k_lepkav%C3%BD",
+        "photos": [
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Chroogomphus_rutilus_Bryonia_orig.jpg",
+            "author": "Alberto Vasquez",
+            "license": "CC BY-SA 2.5",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Chroogomphus_rutilus_Bryonia_orig.jpg/500px-Chroogomphus_rutilus_Bryonia_orig.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Kupferrote_Gelbfu%C3%9F_Chroogomphus_rutilus.jpg",
+            "author": "Holger Krisp",
+            "license": "CC BY 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Kupferrote_Gelbfu%C3%9F_Chroogomphus_rutilus.jpg/500px-Kupferrote_Gelbfu%C3%9F_Chroogomphus_rutilus.jpg"
+          }
+        ],
+        "facts": [
+          {
+            "id": "Q1491620#x3",
+            "text": "Výtrusný prach je tmavohnědý, téměř černý.",
+            "cat": "vzhled",
+            "not": [
+              "Q10510655",
+              "Q2360294",
+              "Q2403071",
+              "Q3501513",
+              "Q42054"
+            ]
+          }
+        ],
+        "continents": [
+          "EU",
+          "AS",
+          "NA",
+          "OC"
+        ],
+        "pop": 27,
+        "emoji": "🍄‍🟫"
+      },
+      {
         "id": "Q1495949",
         "name": "Kržatka otrubičnatá",
         "latin": "Tubaria furfuracea",
@@ -405906,6 +406926,104 @@ window.GAME_DATA = [
         "emoji": "🍄‍🟫"
       },
       {
+        "id": "Q25379773",
+        "name": "Čirůvka dvoubarvá",
+        "latin": "Lepista personata",
+        "family": "čirůvkovité",
+        "order": "pečárkotvaré",
+        "wiki": "https://cs.wikipedia.org/wiki/%C4%8Cir%C5%AFvka_dvoubarv%C3%A1",
+        "photos": [
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Lepista_personata.JPG",
+            "author": "Paffka",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Lepista_personata.JPG/500px-Lepista_personata.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:%D0%93%D1%80%D0%B8%D0%B1_%D0%A0%D1%8F%D0%B4%D0%BE%D0%B2%D0%BA%D0%B0_%D0%BB%D0%B8%D0%BB%D0%BE%D0%B2%D0%BE%D0%BD%D0%BE%D0%B3%D0%B0%D1%8F_(2)_16-11-2025_%D0%A1%D0%B0%D1%80%D0%B0%D1%82%D0%BE%D0%B2.jpg",
+            "author": "ИринаЯ",
+            "license": "CC0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/%D0%93%D1%80%D0%B8%D0%B1_%D0%A0%D1%8F%D0%B4%D0%BE%D0%B2%D0%BA%D0%B0_%D0%BB%D0%B8%D0%BB%D0%BE%D0%B2%D0%BE%D0%BD%D0%BE%D0%B3%D0%B0%D1%8F_%282%29_16-11-2025_%D0%A1%D0%B0%D1%80%D0%B0%D1%82%D0%BE%D0%B2.jpg/500px-%D0%93%D1%80%D0%B8%D0%B1_%D0%A0%D1%8F%D0%B4%D0%BE%D0%B2%D0%BA%D0%B0_%D0%BB%D0%B8%D0%BB%D0%BE%D0%B2%D0%BE%D0%BD%D0%BE%D0%B3%D0%B0%D1%8F_%282%29_16-11-2025_%D0%A1%D0%B0%D1%80%D0%B0%D1%82%D0%BE%D0%B2.jpg"
+          }
+        ],
+        "facts": [
+          {
+            "id": "Q25379773#x0",
+            "text": "Roste ve skupinách a tvoří čarodějné kruhy.",
+            "cat": "růst",
+            "not": []
+          },
+          {
+            "id": "Q25379773#x1",
+            "text": "Plodnice vyrůstají od léta do začátku zimy.",
+            "cat": "růst",
+            "not": []
+          },
+          {
+            "id": "Q25379773#x3",
+            "text": "Roste na otevřených loukách, v parcích, na pastvinách a na lesních světlinách.",
+            "cat": "výskyt",
+            "not": [
+              "Q320999",
+              "Q631566"
+            ]
+          }
+        ],
+        "continents": [
+          "EU",
+          "NA"
+        ],
+        "pop": 25,
+        "emoji": "🍄‍🟫"
+      },
+      {
+        "id": "Q254161",
+        "name": "Hřib žlutomasý",
+        "latin": "Xerocomellus chrysenteron",
+        "family": "hřibovité",
+        "order": "hřibotvaré",
+        "wiki": "https://cs.wikipedia.org/wiki/H%C5%99ib_%C5%BElutomas%C3%BD",
+        "photos": [
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Xerocomellus_chrysenteron_311334418.jpg",
+            "author": "Darren Obbard",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Xerocomellus_chrysenteron_311334418.jpg/500px-Xerocomellus_chrysenteron_311334418.jpg"
+          }
+        ],
+        "facts": [
+          {
+            "id": "Q254161#0",
+            "text": "Klobouk se obvykle rozpraskává na malá políčka.",
+            "cat": "vzhled",
+            "not": [
+              "Q5351663",
+              "Q816730"
+            ]
+          },
+          {
+            "id": "Q254161#2",
+            "text": "Roste od června do poloviny října.",
+            "cat": "růst",
+            "not": []
+          },
+          {
+            "id": "Q254161#3",
+            "text": "Na tomto druhu často parazituje jiná houba, která vytvoří žlutý povlak.",
+            "cat": "vztahy",
+            "not": []
+          }
+        ],
+        "continents": [
+          "EU",
+          "AS",
+          "NA",
+          "OC"
+        ],
+        "pop": 38,
+        "emoji": "🍄‍🟫"
+      },
+      {
         "id": "Q2567074",
         "name": "Bedla odřená",
         "latin": "Macrolepiota excoriata",
@@ -406508,6 +407626,82 @@ window.GAME_DATA = [
           "EU"
         ],
         "pop": 28,
+        "emoji": "🍄‍🟫"
+      },
+      {
+        "id": "Q26203737",
+        "name": "Hřib Quéletův",
+        "latin": "Suillellus queletii",
+        "family": "hřibovité",
+        "order": "hřibotvaré",
+        "wiki": "https://cs.wikipedia.org/wiki/H%C5%99ib_Qu%C3%A9let%C5%AFv",
+        "photos": [
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Suillellus_queletii_10.jpg",
+            "author": "matejfranceskin",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Suillellus_queletii_10.jpg/500px-Suillellus_queletii_10.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Suillellus_queletii_8.jpg",
+            "author": "Davide Puddu",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Suillellus_queletii_8.jpg/500px-Suillellus_queletii_8.jpg"
+          }
+        ],
+        "facts": [
+          {
+            "id": "Q26203737#0",
+            "text": "Když na jeho spodek zatlačíte, zmodrá.",
+            "cat": "vzhled",
+            "not": [
+              "Q1356296",
+              "Q1415446",
+              "Q5351663"
+            ]
+          },
+          {
+            "id": "Q26203737#1",
+            "text": "Tento druh je vzácný a roste hlavně v teplých oblastech.",
+            "cat": "výskyt",
+            "not": [
+              "Q1356296",
+              "Q1415446",
+              "Q816730"
+            ]
+          },
+          {
+            "id": "Q26203737#2",
+            "text": "Žije ve spojení s kořeny dubů.",
+            "cat": "vztahy",
+            "not": [
+              "Q10682293",
+              "Q1356296",
+              "Q1415446",
+              "Q2360294",
+              "Q2523582",
+              "Q3501463",
+              "Q355571",
+              "Q5351663",
+              "Q816730"
+            ]
+          },
+          {
+            "id": "Q26203737#3",
+            "text": "Klobouk bývá 5 až 15 centimetrů široký.",
+            "cat": "čísla",
+            "not": [
+              "Q5351663"
+            ]
+          }
+        ],
+        "continents": [
+          "EU",
+          "AS",
+          "NA",
+          "OC"
+        ],
+        "pop": 24,
         "emoji": "🍄‍🟫"
       },
       {
@@ -408356,6 +409550,33 @@ window.GAME_DATA = [
         "emoji": "🍄‍🟫"
       },
       {
+        "id": "Q320999",
+        "name": "Houževnatec jedlý",
+        "latin": "Lentinula edodes",
+        "family": "Omphalotaceae",
+        "order": "pečárkotvaré",
+        "wiki": "https://cs.wikipedia.org/wiki/Hou%C5%BEevnatec_jedl%C3%BD",
+        "photos": [
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Shiitake_mushroom.jpg",
+            "author": "Keith Weller",
+            "license": "Public domain",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Shiitake_mushroom.jpg/500px-Shiitake_mushroom.jpg"
+          }
+        ],
+        "facts": [],
+        "continents": [
+          "EU",
+          "AS",
+          "AF",
+          "NA",
+          "SA",
+          "OC"
+        ],
+        "pop": 63,
+        "emoji": "🍄‍🟫"
+      },
+      {
         "id": "Q321342",
         "name": "Ucho Jidášovo",
         "latin": "Auricularia auricula-judae",
@@ -408620,6 +409841,41 @@ window.GAME_DATA = [
           "NA"
         ],
         "pop": 2,
+        "emoji": "🍄‍🟫"
+      },
+      {
+        "id": "Q3490762",
+        "name": "Čirůvka masová",
+        "latin": "Calocybe carnea",
+        "family": "Lyophyllaceae",
+        "order": "pečárkotvaré",
+        "wiki": "https://cs.wikipedia.org/wiki/%C4%8Cir%C5%AFvka_masov%C3%A1",
+        "photos": [
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Calocybe_carnea.jpg",
+            "author": "Luridiformis na projektu Wikipedie v jazyce angličtina",
+            "license": "CC BY 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Calocybe_carnea.jpg/500px-Calocybe_carnea.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Rugosomyces_carneus_Fleischroter_Sch%C3%B6nkopf.jpg",
+            "author": "Holger Krisp",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Rugosomyces_carneus_Fleischroter_Sch%C3%B6nkopf.jpg/500px-Rugosomyces_carneus_Fleischroter_Sch%C3%B6nkopf.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Rugosomyces_carneus_(36700505970).jpg",
+            "author": "Lukas from London, England",
+            "license": "CC BY-SA 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Rugosomyces_carneus_%2836700505970%29.jpg/500px-Rugosomyces_carneus_%2836700505970%29.jpg"
+          }
+        ],
+        "facts": [],
+        "continents": [
+          "EU",
+          "NA"
+        ],
+        "pop": 12,
         "emoji": "🍄‍🟫"
       },
       {
@@ -408900,6 +410156,58 @@ window.GAME_DATA = [
           "NA"
         ],
         "pop": 18,
+        "emoji": "🍄‍🟫"
+      },
+      {
+        "id": "Q352153",
+        "name": "Holubinka kolčaví",
+        "latin": "Russula mustelina",
+        "family": "holubinkovité",
+        "order": "holubinkotvaré",
+        "wiki": "https://cs.wikipedia.org/wiki/Holubinka_kol%C4%8Dav%C3%AD",
+        "photos": [
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Russula_mustelina_go%C5%82%C4%85bek_kunowy_G1.1.jpg",
+            "author": "Jerzy Opioła",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Russula_mustelina_go%C5%82%C4%85bek_kunowy_G1.1.jpg/500px-Russula_mustelina_go%C5%82%C4%85bek_kunowy_G1.1.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Russula_mustelina_go%C5%82%C4%85bek_kunowy_G1.jpg",
+            "author": "Jerzy Opioła",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Russula_mustelina_go%C5%82%C4%85bek_kunowy_G1.jpg/500px-Russula_mustelina_go%C5%82%C4%85bek_kunowy_G1.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Russula_mustelina_BS13.jpg",
+            "author": "Jerzy Opioła",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Russula_mustelina_BS13.jpg/500px-Russula_mustelina_BS13.jpg"
+          }
+        ],
+        "facts": [
+          {
+            "id": "Q352153#0",
+            "text": "Roste hlavně v jehličnatých lesích.",
+            "cat": "výskyt",
+            "not": [
+              "Q1318085",
+              "Q1421173",
+              "Q1569411",
+              "Q81182623"
+            ]
+          },
+          {
+            "id": "Q352153#1",
+            "text": "Roste od července do září.",
+            "cat": "růst",
+            "not": []
+          }
+        ],
+        "continents": [
+          "EU"
+        ],
+        "pop": 21,
         "emoji": "🍄‍🟫"
       },
       {
@@ -418271,6 +419579,83 @@ window.GAME_DATA = [
         "emoji": "🍄‍🟫"
       },
       {
+        "id": "Q901047",
+        "name": "Koniofora sklepní",
+        "latin": "Coniophora puteana",
+        "family": "konioforovité",
+        "order": "hřibotvaré",
+        "wiki": "https://cs.wikipedia.org/wiki/Koniofora_sklepn%C3%AD",
+        "photos": [
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Majam%C3%A4dik1.jpg",
+            "author": "Svencapoeira",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Majam%C3%A4dik1.jpg/500px-Majam%C3%A4dik1.jpg"
+          }
+        ],
+        "facts": [
+          {
+            "id": "Q901047#0",
+            "text": "Tvoří nažloutlé povlaky široké až 50 centimetrů.",
+            "cat": "vzhled",
+            "not": [
+              "Q10682293",
+              "Q13578485",
+              "Q1415446",
+              "Q2360294",
+              "Q249595",
+              "Q2523582",
+              "Q3501463",
+              "Q355571",
+              "Q3641723",
+              "Q816730"
+            ]
+          },
+          {
+            "id": "Q901047#1",
+            "text": "S věkem zhnědne do kávové barvy.",
+            "cat": "vzhled",
+            "not": []
+          },
+          {
+            "id": "Q901047#2",
+            "text": "Rozkládá dřevo a zanechává po sobě hnědé kostičky.",
+            "cat": "vztahy",
+            "not": [
+              "Q12955841",
+              "Q13416103",
+              "Q13548139",
+              "Q13578485",
+              "Q2360294",
+              "Q249595",
+              "Q2523582",
+              "Q3501463",
+              "Q355571",
+              "Q3641723",
+              "Q5351663",
+              "Q580098",
+              "Q670090",
+              "Q80590",
+              "Q816730",
+              "Q851539",
+              "Q854895",
+              "Q886424",
+              "Q901119"
+            ]
+          }
+        ],
+        "continents": [
+          "EU",
+          "AS",
+          "AF",
+          "NA",
+          "SA",
+          "OC"
+        ],
+        "pop": 14,
+        "emoji": "🍄‍🟫"
+      },
+      {
         "id": "Q901119",
         "name": "Holubinka celokrajná",
         "latin": "Russula integra",
@@ -421288,17 +422673,6 @@ window.GAME_DATA = [
             "text": "Roste vzácně, jen v příznivých letech hojněji.",
             "cat": "výskyt",
             "not": []
-          },
-          {
-            "id": "Q108933624#1",
-            "text": "Má bělavou stopku s několika podélnými žebry.",
-            "cat": "vzhled",
-            "not": [
-              "Q10463308",
-              "Q2315947",
-              "Q722657",
-              "Q898044"
-            ]
           },
           {
             "id": "Q108933624#2",
@@ -424323,8 +425697,7 @@ window.GAME_DATA = [
             "cat": "růst",
             "not": [
               "Q10432279",
-              "Q3487883",
-              "Q722657"
+              "Q3487883"
             ]
           },
           {
@@ -429805,7 +431178,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q1251952#x2",
-            "text": "Samovolně se vysévá, i v trávníku.",
+            "text": "Samovolně se vysévá, dokonce i v trávníku.",
             "cat": "růst",
             "not": []
           }
@@ -431082,7 +432455,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q13188#x2",
-            "text": "Snese mírný mráz až do asi −12 °C.",
+            "text": "Snese mírný mráz, asi do −12 °C.",
             "cat": "výskyt",
             "not": [
               "Q158018",
@@ -432828,7 +434201,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q1365023#x4",
-            "text": "Dožívá se na jihu svého areálu 80 až 90 let.",
+            "text": "Na jihu svého areálu se dožívá 80 až 90 let.",
             "cat": "čísla",
             "not": [
               "Q156870"
@@ -433946,7 +435319,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q1424919#0",
-            "text": "Roste ve východní Asii, třeba v Číně a Japonsku.",
+            "text": "Roste ve východní Asii, například v Číně a Japonsku.",
             "cat": "výskyt",
             "not": [
               "Q149367",
@@ -436180,13 +437553,13 @@ window.GAME_DATA = [
           },
           {
             "id": "Q147176#x2",
-            "text": "Listy často napadá oranžová rzivá houba, která na nich tvoří otoky.",
+            "text": "Listy často napadá jasně oranžová rez, která na nich tvoří hálky.",
             "cat": "vztahy",
             "not": []
           },
           {
             "id": "Q147176#x3",
-            "text": "Plody lpí na srsti zvířat, a tak se šíří.",
+            "text": "Plody snadno ulpí na srsti zvířat, a tak se šíří.",
             "cat": "růst",
             "not": []
           }
@@ -436959,7 +438332,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q148532#x1",
-            "text": "Zavírá listy ve tmě a na světle je znovu otevírá.",
+            "text": "Ve tmě listy zavírá a na světle je znovu otevírá.",
             "cat": "růst",
             "not": [
               "Q146684",
@@ -439026,7 +440399,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q149726#x0",
-            "text": "Opyluje se hmyzem nebo sama.",
+            "text": "Květy opyluje hmyz, nebo se opylují samy.",
             "cat": "růst",
             "not": []
           },
@@ -439038,7 +440411,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q149726#x2",
-            "text": "Většinou nepříjemně páchne, hlavně když ji rozetřeme.",
+            "text": "Většinou nepříjemně páchne, hlavně po rozemnutí.",
             "cat": "vzhled",
             "not": [
               "Q131226",
@@ -439048,7 +440421,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q149726#x3",
-            "text": "Osidluje okraje cest, železniční tratě a neobdělaná prázdná místa.",
+            "text": "Osidluje okraje cest, železniční tratě a řídce zarostlá pustá místa.",
             "cat": "výskyt",
             "not": []
           }
@@ -439529,7 +440902,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q1499241#1",
-            "text": "Tento druh se těží pro kvalitní a ohebné dřevo.",
+            "text": "Těží se pro kvalitní a ohebné dřevo.",
             "cat": "využití",
             "not": []
           }
@@ -444951,7 +446324,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q157532#x0",
-            "text": "Opyluje ho hmyz.",
+            "text": "Květy opyluje hmyz.",
             "cat": "vztahy",
             "not": [
               "Q2003088",
@@ -444960,7 +446333,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q157532#x1",
-            "text": "Samčí a samičí jehnědy mívá na oddělených stromech.",
+            "text": "Samčí a samičí jehnědy rostou na různých stromech.",
             "cat": "růst",
             "not": [
               "Q1160961",
@@ -455426,7 +456799,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q159528#x2",
-            "text": "Mladé semenáčky v Irsku rostou asi 2,5 metru ročně.",
+            "text": "Mladé semenáčky v Irsku přirůstají asi o 2,5 metru ročně.",
             "cat": "čísla",
             "not": []
           },
@@ -455527,7 +456900,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q159534#x3",
-            "text": "Květ vydrží obvykle jen jeden den, pak zvadne.",
+            "text": "Květ obvykle vydrží jen jeden den a pak zvadne.",
             "cat": "růst",
             "not": [
               "Q145930",
@@ -461114,13 +462487,13 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q161160#x0",
-            "text": "Semena zůstávají schopná vyklíčit až 30 let.",
+            "text": "Semena si udrží klíčivost až 30 let.",
             "cat": "čísla",
             "not": []
           },
           {
             "id": "Q161160#x1",
-            "text": "Semena požírají lovní ptáci, například tetřevi.",
+            "text": "Semena požírá pernatá zvěř, například tetřevi.",
             "cat": "vztahy",
             "not": []
           },
@@ -465360,7 +466733,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q162728#x0",
-            "text": "Opylují ho různé druhy hmyzu, třeba včely.",
+            "text": "Květy opyluje hmyz, například včely.",
             "cat": "vztahy",
             "not": []
           },
@@ -467128,7 +468501,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q163305#1",
-            "text": "Vyroste jen do 10 až 30 centimetrů.",
+            "text": "Dorůstá výšky jen 10 až 30 centimetrů.",
             "cat": "čísla",
             "not": [
               "Q159897",
@@ -469369,7 +470742,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q164145#1",
-            "text": "Dorůstá průměrně do výšky 40 až 80 centimetrů.",
+            "text": "Obvykle dorůstá výšky 40 až 80 centimetrů.",
             "cat": "čísla",
             "not": [
               "Q1546424",
@@ -469387,7 +470760,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q164145#3",
-            "text": "Mokrá semena se lepí na peří ptáků.",
+            "text": "Navlhlá semena se lepí na peří ptáků a srst zvířat.",
             "cat": "růst",
             "not": []
           }
@@ -473766,7 +475139,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q177932#x1",
-            "text": "Napadají ho různí škůdci, například hmyz, hlístice, slimáci a holubi hřivnáči.",
+            "text": "Napadá řada škůdců: hmyz, hlístice, slimáci i holubi hřivnáči.",
             "cat": "vztahy",
             "not": []
           },
@@ -473788,7 +475161,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q177932#x4",
-            "text": "Z jeho oleje se vyrábí bionafta, palivo pro motorová vozidla.",
+            "text": "Z oleje této rostliny se vyrábí bionafta, palivo pro motorová vozidla.",
             "cat": "využití",
             "not": [
               "Q131226",
@@ -479800,7 +481173,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q257106#2",
-            "text": "Květy jsou bledě fialové a rostou v rovných hroznech.",
+            "text": "Bledě fialové květy jsou uspořádány v rovných hroznech.",
             "cat": "vzhled",
             "not": [
               "Q125337",
@@ -480586,7 +481959,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q26726#x0",
-            "text": "Samčí rostliny vypustí pyl a několik týdnů před dozráním semen odumírají.",
+            "text": "Samčí rostliny uvolní pyl a odumřou několik týdnů před dozráním semen.",
             "cat": "růst",
             "not": [
               "Q1152721",
@@ -480643,7 +482016,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q26726#x4",
-            "text": "Z jeho semen se vyrábí olej do lamp, laků a barev.",
+            "text": "Olej z jeho semen se používá do lamp, laků a barev.",
             "cat": "využití",
             "not": []
           },
@@ -482386,7 +483759,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q28017#x3",
-            "text": "Snáší mráz, i silné mrazy kvetení jen dočasně přeruší.",
+            "text": "Snáší mráz a silné mrazy přeruší kvetení jen dočasně.",
             "cat": "růst",
             "not": [
               "Q37937"
@@ -483799,7 +485172,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q3071706#0",
-            "text": "Tento druh se někdy dožívá přes 2000 let.",
+            "text": "Některé stromy se dožívají přes 2000 let.",
             "cat": "čísla",
             "not": [
               "Q104212",
@@ -483816,7 +485189,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q3071706#1",
-            "text": "Má listy s velmi dlouhou špičkou.",
+            "text": "Listy mají velmi dlouhou špičku.",
             "cat": "vzhled",
             "not": []
           }
@@ -486895,7 +488268,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q37383#1",
-            "text": "Žije jen jeden rok.",
+            "text": "Je to jednoletá bylina.",
             "cat": "růst",
             "not": [
               "Q102240169",
@@ -486919,7 +488292,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q37383#2",
-            "text": "Zavrtává své plody do země.",
+            "text": "Po oplození květů se semeník na prodlužující se stopce zavrtá 3 až 6 cm hluboko do půdy.",
             "cat": "růst",
             "not": [
               "Q102240169",
@@ -486950,7 +488323,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q37383#3",
-            "text": "Má semena dlouhá 7 až 21 milimetrů.",
+            "text": "Semena jsou dlouhá 7 až 21 milimetrů.",
             "cat": "čísla",
             "not": [
               "Q1029175",
@@ -487573,7 +488946,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q380279#0",
-            "text": "Pěstuje se ve Východní Asii a v Himálaji.",
+            "text": "Pěstuje se ve východní Asii a v Himálaji.",
             "cat": "výskyt",
             "not": []
           },
@@ -488689,7 +490062,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q41318#1",
-            "text": "Má původ v Africe.",
+            "text": "Pochází z Afriky.",
             "cat": "výskyt",
             "not": [
               "Q1130177",
@@ -489286,7 +490659,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q4179199#x0",
-            "text": "Je cenná medonosná rostlina, poskytuje nektar i pyl.",
+            "text": "Je to cenná medonosná rostlina, která poskytuje nektar i pyl.",
             "cat": "vztahy",
             "not": []
           },
@@ -489305,7 +490678,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q4179199#x2",
-            "text": "Měří při kvetení 40 až 60 centimetrů, při dozrávání plodů až 120 centimetrů.",
+            "text": "V době květu měří 40 až 60 centimetrů, při zrání plodů až 120 centimetrů.",
             "cat": "čísla",
             "not": []
           },
@@ -494525,7 +495898,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q601161#x1",
-            "text": "Kvete od května do června.",
+            "text": "Kvete v květnu a červnu.",
             "cat": "růst",
             "not": []
           },
@@ -509423,7 +510796,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q132677#3",
-            "text": "Tento druh je keř vysoký jeden až dva metry.",
+            "text": "Je to keř vysoký jeden až dva metry.",
             "cat": "čísla",
             "not": [
               "Q1405636",
@@ -516505,7 +517878,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q14959#x3",
-            "text": "Plodí dvakrát ročně, kvést může po celý rok.",
+            "text": "Plody nese dvakrát ročně, kvést ale může po celý rok.",
             "cat": "růst",
             "not": [
               "Q1111359",
@@ -517290,7 +518663,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q1516461#x0",
-            "text": "Opylují ho včely a kutilky.",
+            "text": "Květy opylují včely a kutilky.",
             "cat": "vztahy",
             "not": []
           },
@@ -517368,7 +518741,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q1520598#1",
-            "text": "Roste na smetištích, v příkopech a na okrajích polí.",
+            "text": "Roste na smetištích, v příkopech a na okrajích polních cest.",
             "cat": "výskyt",
             "not": [
               "Q159819",
@@ -517630,7 +519003,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q15226455#0",
-            "text": "Dorůstá až do dvou metrů.",
+            "text": "Dorůstá výšky až 2 metry.",
             "cat": "vzhled",
             "not": [
               "Q127555",
@@ -522051,7 +523424,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q156625#x0",
-            "text": "Vyvíjí silný kořen, který sahá až do hloubky 2 metrů.",
+            "text": "Silný hlavní kořen sahá až do hloubky 2 metrů.",
             "cat": "čísla",
             "not": [
               "Q16528",
@@ -522060,7 +523433,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q156625#x1",
-            "text": "Snáší sucho, protože hluboký kořen získává vláhu z hlubokých vrstev půdy.",
+            "text": "Snáší sucho, protože kořen čerpá vláhu z hlubokých vrstev půdy.",
             "cat": "výskyt",
             "not": []
           },
@@ -522810,13 +524183,13 @@ window.GAME_DATA = [
           },
           {
             "id": "Q156938#x1",
-            "text": "Živí se jím housenky některých můr.",
+            "text": "Je živnou rostlinou housenek některých můr.",
             "cat": "vztahy",
             "not": []
           },
           {
             "id": "Q156938#x2",
-            "text": "Jeho dřevo odolává termitům.",
+            "text": "Dřevo odolává termitům a dalším škůdcům.",
             "cat": "využití",
             "not": []
           },
@@ -522850,7 +524223,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q156938#x5",
-            "text": "Jeho dřevo se používá ke stavbě lodí už více než 2000 let.",
+            "text": "Dřevo se používá ke stavbě lodí už více než 2000 let.",
             "cat": "využití",
             "not": [
               "Q131517",
@@ -524622,13 +525995,13 @@ window.GAME_DATA = [
           },
           {
             "id": "Q157569#x2",
-            "text": "Živí se jím bobři a ondatry.",
+            "text": "Je potravou bobrů a ondater.",
             "cat": "vztahy",
             "not": []
           },
           {
             "id": "Q157569#x3",
-            "text": "Pyl a nektar z jeho květů jsou důležitou potravou pro mnoho druhů hmyzu.",
+            "text": "Pyl a nektar z květů jsou důležitou potravou pro mnoho druhů hmyzu.",
             "cat": "vztahy",
             "not": []
           },
@@ -533813,7 +535186,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q159431#x0",
-            "text": "Listy rostou v kruzích po šesti až osmi kolem stonku.",
+            "text": "Listy vyrůstají kolem stonku v přeslenech po šesti až osmi.",
             "cat": "vzhled",
             "not": [
               "Q132677",
@@ -533828,7 +535201,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q159431#x1",
-            "text": "Roste někdy jako plevel na obilných polích.",
+            "text": "Někdy roste jako plevel na obilných polích.",
             "cat": "výskyt",
             "not": []
           }
@@ -535298,7 +536671,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q159718#0",
-            "text": "Kvete od května do září, když je nad vodou a ve vlhku.",
+            "text": "Kvete od května do září, pokud roste nad hladinou na vlhkém místě.",
             "cat": "růst",
             "not": []
           }
@@ -538004,14 +539377,6 @@ window.GAME_DATA = [
             ]
           },
           {
-            "id": "Q160480#x2",
-            "text": "Kvete v červnu a červenci, někdy až do srpna.",
-            "cat": "růst",
-            "not": [
-              "Q1066116"
-            ]
-          },
-          {
             "id": "Q160480#x3",
             "text": "Žije jen jeden rok.",
             "cat": "růst",
@@ -538524,7 +539889,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q160885#2",
-            "text": "Semena se nejčastěji šíří s pomocí zvířat.",
+            "text": "Semena nejčastěji roznášejí zvířata.",
             "cat": "růst",
             "not": [
               "Q158332",
@@ -539349,7 +540714,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q161232#x5",
-            "text": "Listy se dříve rozsypávaly po stodolách, aby odháněly myši a potkany.",
+            "text": "Dříve se listy rozhazovaly po sýpkách, aby odháněly myši a potkany.",
             "cat": "využití",
             "not": []
           }
@@ -547165,7 +548530,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q164942#x0",
-            "text": "Osídluje vlhká místa v ne příliš hustých smrkových lesích.",
+            "text": "Roste na vlhkých místech v řidších smrkových lesích.",
             "cat": "výskyt",
             "not": [
               "Q1445326",
@@ -547189,7 +548554,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q164942#x3",
-            "text": "Roste na mechových, kyselých půdách chudých na živiny.",
+            "text": "Roste na kyselých, mechem porostlých půdách chudých na živiny.",
             "cat": "výskyt",
             "not": []
           }
@@ -552609,7 +553974,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q202305#x0",
-            "text": "Semena šíří hlodavci, lišky, medvědi, soby i mnoho druhů ptáků.",
+            "text": "Semena šíří hlodavci, lišky, medvědi, sobi i mnoho druhů ptáků.",
             "cat": "vztahy",
             "not": []
           },
@@ -556698,7 +558063,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q2359202#x0",
-            "text": "Dorůstá výšky až 1 metr.",
+            "text": "Dorůstá výšky až 1 metru.",
             "cat": "čísla",
             "not": [
               "Q156907"
@@ -556720,7 +558085,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q2359202#x3",
-            "text": "Množí se řízky stonků, ale lze ho vypěstovat i ze semen.",
+            "text": "Množí se stonkovými řízky, ale lze ho vypěstovat i ze semen.",
             "cat": "růst",
             "not": []
           },
@@ -557037,7 +558402,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q243945#x0",
-            "text": "Opylují ho včely a motýli, i noční.",
+            "text": "Opylují ho včely a motýli, včetně nočních.",
             "cat": "vztahy",
             "not": []
           },
@@ -557394,7 +558759,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q24853263#0",
-            "text": "Má zvonkovité květy, růžové nebo namodralé.",
+            "text": "Květy jsou zvonkovité, světle růžové nebo namodralé.",
             "cat": "vzhled",
             "not": [
               "Q10890841",
@@ -565243,7 +566608,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q311426#x1",
-            "text": "Květy opyluje hmyz, nebo se opylují samy.",
+            "text": "Květy opyluje hmyz nebo se opylují samy.",
             "cat": "vztahy",
             "not": []
           }
@@ -569870,7 +571235,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q386770#x0",
-            "text": "Spásají ho jeleni, místy je to pro ně důležitá zimní potrava.",
+            "text": "Jeleni tuto rostlinu spásají a místy je pro ně důležitou zimní potravou.",
             "cat": "vztahy",
             "not": []
           },
@@ -569887,7 +571252,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q386770#x2",
-            "text": "Požírají ho také bažanti, medvědi a lišky.",
+            "text": "Tuto rostlinu jedí také bažanti, medvědi, myši a lišky.",
             "cat": "vztahy",
             "not": []
           },
@@ -570947,13 +572312,13 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q4236769#x1",
-            "text": "Do Japonska se zřejmě dostal s pěstováním rýže.",
+            "text": "Tento druh se do Japonska zřejmě dostal s pěstováním rýže.",
             "cat": "výskyt",
             "not": []
           },
           {
             "id": "Q4236769#x2",
-            "text": "Často dosahuje výšky až 2 metry.",
+            "text": "Často dorůstá až 2 metrů.",
             "cat": "čísla",
             "not": [
               "Q1342885",
@@ -571018,7 +572383,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q426647#x0",
-            "text": "Listy a mladé výhonky dobře spásají králíci.",
+            "text": "Listy a mladé výhonky králíci rádi žerou.",
             "cat": "vztahy",
             "not": []
           },
@@ -572295,7 +573660,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q48677#x2",
-            "text": "Má mělké kořeny a nejlépe roste bez konkurence cizích kořenů.",
+            "text": "Má mělké kořeny a nejlépe roste bez konkurence kořenů jiných rostlin.",
             "cat": "růst",
             "not": []
           },
@@ -572995,7 +574360,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q515267#x2",
-            "text": "Může se opylovat hmyzem, ale i sama.",
+            "text": "Květy opyluje hmyz, možné je ale i samoopylení.",
             "cat": "růst",
             "not": []
           },
@@ -578143,13 +579508,13 @@ window.GAME_DATA = [
           },
           {
             "id": "Q683490#x3",
-            "text": "Okrajové květy okolíku přitahují hmyz, který ho opyluje.",
+            "text": "Okrajové květy okolíku slouží hlavně k lákání opylujícího hmyzu.",
             "cat": "vztahy",
             "not": []
           },
           {
             "id": "Q683490#x4",
-            "text": "Tento druh je na Islandu považován za nepůvodní invazní druh.",
+            "text": "Na Islandu patří mezi nepůvodní invazní rostliny.",
             "cat": "výskyt",
             "not": []
           },
@@ -582274,7 +583639,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q848074#x1",
-            "text": "Plody nese jen tehdy, když rostou samčí i samičí rostliny.",
+            "text": "Plody nese, jen když rostou pospolu samčí i samičí rostliny.",
             "cat": "růst",
             "not": [
               "Q125813",
@@ -582310,7 +583675,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q848074#x3",
-            "text": "Její liány se v Japonsku používají na stavbu visutých mostů.",
+            "text": "Z lián tohoto druhu se v Japonsku stavějí visuté mosty.",
             "cat": "využití",
             "not": [
               "Q125813",
@@ -585684,7 +587049,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q938579#x4",
-            "text": "Na začátku léta loupe kůru a odkrývá pod ní zelenou kůru.",
+            "text": "Kůra se jednou ročně na začátku léta odlupuje a pod ní se objeví hladká zelená vrstva.",
             "cat": "vzhled",
             "not": [
               "Q125813",
@@ -585696,7 +587061,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q938579#x5",
-            "text": "Jeho tvrdé dřevo odolává hnilobě, dříve se z něj dělaly střechy a rukojeti nářadí.",
+            "text": "Tvrdé dřevo odolává hnilobě, a proto se z něj dříve dělaly střechy a rukojeti nářadí.",
             "cat": "využití",
             "not": []
           }
@@ -588103,13 +589468,13 @@ window.GAME_DATA = [
           },
           {
             "id": "Q130201#x4",
-            "text": "Na jeden květ vytváří velmi mnoho pylu.",
+            "text": "Každý květ vytváří velmi mnoho pylu.",
             "cat": "růst",
             "not": []
           },
           {
             "id": "Q130201#x5",
-            "text": "Listy a latex jsou mírně jedovaté pro pasoucí se zvířata.",
+            "text": "Listy a mléčná šťáva jsou pro pasoucí se zvířata mírně jedovaté.",
             "cat": "účinky",
             "not": []
           }
@@ -588954,13 +590319,13 @@ window.GAME_DATA = [
           },
           {
             "id": "Q148623#x4",
-            "text": "Napadá ho houba rez.",
+            "text": "Napadá ho houba zvaná rez.",
             "cat": "vztahy",
             "not": []
           },
           {
             "id": "Q148623#x5",
-            "text": "Všechny části jsou například pro psy velmi jedovaté.",
+            "text": "Všechny části rostliny jsou velmi jedovaté, například pro psy.",
             "cat": "účinky",
             "not": []
           }
@@ -593253,7 +594618,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q161105#x1",
-            "text": "Na podzim se tmavozelené listy mohou zbarvit do červena, jantarova a žluta.",
+            "text": "Na podzim se tmavozelené listy mohou zbarvit krvavě červeně, jantarově nebo žlutě.",
             "cat": "vzhled",
             "not": []
           },
@@ -593265,7 +594630,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q161105#x3",
-            "text": "Dobře snáší sucho, jakmile se zakoření.",
+            "text": "Jakmile zakoření, dobře snáší i suchou půdu.",
             "cat": "růst",
             "not": [
               "Q468996"
@@ -594055,7 +595420,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q162818#x1",
-            "text": "Obsahuje látku, která je jedovatá pro lidi i zvířata.",
+            "text": "Obsahuje látku jedovatou pro lidi i zvířata.",
             "cat": "účinky",
             "not": []
           },
@@ -595115,7 +596480,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q16528#x0",
-            "text": "Opylují ho včely a brouci, většinou před polednem.",
+            "text": "Květy opylují včely a brouci, většinou před polednem.",
             "cat": "vztahy",
             "not": [
               "Q131226",
@@ -595161,7 +596526,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q16528#x4",
-            "text": "Semena zůstávají klíčivá velmi dlouho, jedno vyklíčilo po asi 1300 letech.",
+            "text": "Semena zůstávají klíčivá velmi dlouho, jedno vyklíčilo asi po 1300 letech.",
             "cat": "čísla",
             "not": []
           },
@@ -602084,17 +603449,24 @@ window.GAME_DATA = [
               "Q1164137",
               "Q119195",
               "Q1302240",
+              "Q1315295",
               "Q1317090",
               "Q1335549",
               "Q140543",
               "Q1609572",
+              "Q16753940",
               "Q169513",
               "Q1704634",
+              "Q1886003",
               "Q1953235",
+              "Q2068939",
               "Q21175",
+              "Q2519430",
               "Q337509",
               "Q472994",
               "Q4743843",
+              "Q548969",
+              "Q751959",
               "Q902450",
               "Q917794"
             ]
@@ -602132,9 +603504,7 @@ window.GAME_DATA = [
             "id": "Q1192350#1",
             "text": "Během roku se rozmnožuje pučením, na podzim i pohlavně.",
             "cat": "chování",
-            "not": [
-              "Q2470250"
-            ]
+            "not": []
           }
         ],
         "continents": [
@@ -602349,20 +603719,6 @@ window.GAME_DATA = [
               "Q2470250",
               "Q384085",
               "Q580826"
-            ]
-          },
-          {
-            "id": "Q445245#x5",
-            "text": "Žije v hloubkách až 2700 metrů.",
-            "cat": "čísla",
-            "not": [
-              "Q1192350",
-              "Q1888438",
-              "Q2470250",
-              "Q384085",
-              "Q522939",
-              "Q580826",
-              "Q935234"
             ]
           }
         ],
@@ -602988,7 +604344,6 @@ window.GAME_DATA = [
             "text": "Živí se larvami korýšů, veslonožci, rozsivkami a planktonem.",
             "cat": "potrava",
             "not": [
-              "Q1140786",
               "Q21120",
               "Q26634"
             ]
@@ -604376,6 +605731,12 @@ window.GAME_DATA = [
             "author": "Andy Murray",
             "license": "CC BY-SA 2.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Sminthurides_aquaticus_%2810595166106%29.jpg/500px-Sminthurides_aquaticus_%2810595166106%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Sminthurides_aquaticus_(7096720787).jpg",
+            "author": "Andy Murray",
+            "license": "CC BY-SA 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Sminthurides_aquaticus_%287096720787%29.jpg/500px-Sminthurides_aquaticus_%287096720787%29.jpg"
           }
         ],
         "facts": [
@@ -604425,6 +605786,24 @@ window.GAME_DATA = [
             "author": "-serwacy01-",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Tetrodonto.jpg/500px-Tetrodonto.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Tetrodontophorbielanens.jpg",
+            "author": "-serwacy01-",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Tetrodontophorbielanens.jpg/500px-Tetrodontophorbielanens.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Tetrodontophora_bielanensis_Ruda_Slaska_(horizontal).jpg",
+            "author": "Adrian Tync",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Tetrodontophora_bielanensis_Ruda_Slaska_%28horizontal%29.jpg/500px-Tetrodontophora_bielanensis_Ruda_Slaska_%28horizontal%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Tetrodontophorabielanensis.jpg",
+            "author": "-serwacy01-",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Tetrodontophorabielanensis.jpg/500px-Tetrodontophorabielanensis.jpg"
           }
         ],
         "facts": [
@@ -604461,9 +605840,58 @@ window.GAME_DATA = [
             "author": "Vincent Kruger",
             "license": "CC0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Golden_sea_squirt.jpg/500px-Golden_sea_squirt.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Tunicado_(Polycarpa_aurata),_Anilao,_Filipinas,_2023-08-21,_DD_03.jpg",
+            "author": "Diego Delso",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Tunicado_%28Polycarpa_aurata%29%2C_Anilao%2C_Filipinas%2C_2023-08-21%2C_DD_03.jpg/500px-Tunicado_%28Polycarpa_aurata%29%2C_Anilao%2C_Filipinas%2C_2023-08-21%2C_DD_03.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Tunicado_(Polycarpa_aurata),_Anilao,_Filipinas,_2023-08-21,_DD_46.jpg",
+            "author": "Diego Delso",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Tunicado_%28Polycarpa_aurata%29%2C_Anilao%2C_Filipinas%2C_2023-08-21%2C_DD_46.jpg/500px-Tunicado_%28Polycarpa_aurata%29%2C_Anilao%2C_Filipinas%2C_2023-08-21%2C_DD_46.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Tunicado_(Polycarpa_aurata),_Anilao,_Filipinas,_2023-08-21,_DD_07.jpg",
+            "author": "Diego Delso",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Tunicado_%28Polycarpa_aurata%29%2C_Anilao%2C_Filipinas%2C_2023-08-21%2C_DD_07.jpg/500px-Tunicado_%28Polycarpa_aurata%29%2C_Anilao%2C_Filipinas%2C_2023-08-21%2C_DD_07.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q1534556#x0",
+            "text": "Živí se tím, že filtruje z vody plankton a bakterie.",
+            "cat": "potrava",
+            "not": [
+              "Q10672222",
+              "Q14856149",
+              "Q545813"
+            ]
+          },
+          {
+            "id": "Q1534556#x2",
+            "text": "Hostí symbiotickou krevetu.",
+            "cat": "vztahy",
+            "not": [
+              "Q10672222",
+              "Q14856149",
+              "Q545813"
+            ]
+          },
+          {
+            "id": "Q1534556#x3",
+            "text": "Mláďata jsou volně plovoucí larvy podobné pulcům.",
+            "cat": "mláďata",
+            "not": [
+              "Q10672222",
+              "Q14856149",
+              "Q545813"
+            ]
+          }
+        ],
         "continents": [
           "AS",
           "OC"
@@ -604581,7 +606009,19 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Podura_aquatica_-_4.jpg/500px-Podura_aquatica_-_4.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q545813#x0",
+            "text": "Skáče po hladině a nepropadne se pod ni.",
+            "cat": "chování",
+            "not": [
+              "Q1534556",
+              "Q3624860",
+              "Q4921692",
+              "Q837241"
+            ]
+          }
+        ],
         "continents": [
           "EU",
           "AS",
@@ -604603,6 +606043,18 @@ window.GAME_DATA = [
             "author": "Olivier Dugornay (Ifremer)",
             "license": "CC BY 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Botrylle_%C3%A9toil%C3%A9_%28Botryllus_schlosseri%29_en_rade_de_Brest_%28Ifremer_00569-68126_-_43831%29.jpg/500px-Botrylle_%C3%A9toil%C3%A9_%28Botryllus_schlosseri%29_en_rade_de_Brest_%28Ifremer_00569-68126_-_43831%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Botrylle_%C3%A9toil%C3%A9_(Botryllus_schlosseri)_(Ifremer_00424-53561_-_3366).jpg",
+            "author": "Olivier Dugornay",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Botrylle_%C3%A9toil%C3%A9_%28Botryllus_schlosseri%29_%28Ifremer_00424-53561_-_3366%29.jpg/500px-Botrylle_%C3%A9toil%C3%A9_%28Botryllus_schlosseri%29_%28Ifremer_00424-53561_-_3366%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Botrylle_%C3%A9toil%C3%A9_(Botryllus_schlosseri)_en_rade_de_Brest_(Ifremer_00569-68126_-_43834).jpg",
+            "author": "Olivier Dugornay (Ifremer)",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Botrylle_%C3%A9toil%C3%A9_%28Botryllus_schlosseri%29_en_rade_de_Brest_%28Ifremer_00569-68126_-_43834%29.jpg/500px-Botrylle_%C3%A9toil%C3%A9_%28Botryllus_schlosseri%29_en_rade_de_Brest_%28Ifremer_00569-68126_-_43834%29.jpg"
           }
         ],
         "facts": [
@@ -604652,7 +606104,9 @@ window.GAME_DATA = [
               "Q144700",
               "Q202406",
               "Q7171",
-              "Q726276"
+              "Q726276",
+              "Q752683",
+              "Q842406"
             ]
           }
         ],
