@@ -352011,7 +352011,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q1895259#0",
-            "text": "Ulita bývá 65 až 200 mm veliká.",
+            "text": "Ulita měří 65 až 200 mm.",
             "cat": "čísla",
             "not": [
               "Q1844769",
@@ -352505,7 +352505,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q2214027#x1",
-            "text": "Vápnité víčko slouží zvířeti k uzavření ulity.",
+            "text": "Uvnitř ulity se uzavírá vápnitým víčkem.",
             "cat": "chování",
             "not": [
               "Q1123809",
@@ -352850,7 +352850,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q27855#0",
-            "text": "Přichycuje se vlákny na skály u pobřeží.",
+            "text": "Vlákny se přichycuje ke skalám u pobřeží.",
             "cat": "chování",
             "not": [
               "Q1006379",
@@ -353157,7 +353157,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q385029#x2",
-            "text": "Původně pochází z Evropy, hlavně ze střední Evropy.",
+            "text": "Pochází z Evropy, hlavně ze střední Evropy.",
             "cat": "výskyt",
             "not": [
               "Q131757",
@@ -353317,7 +353317,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q428534#x0",
-            "text": "Živí se rostlinami, například květy, plody, stonky a listy.",
+            "text": "Žere ořechy, květy, plody, stonky a listy mnoha rostlin.",
             "cat": "potrava",
             "not": [
               "Q131757"
@@ -353325,7 +353325,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q428534#x2",
-            "text": "Snáší až 1200 vajec za rok.",
+            "text": "Za rok naklade až 1200 vajec.",
             "cat": "čísla",
             "not": []
           },
@@ -354203,7 +354203,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q777865#0",
-            "text": "Získává potravu filtrováním vody.",
+            "text": "Potravu získává filtrováním vody.",
             "cat": "potrava",
             "not": [
               "Q114893",
@@ -354427,7 +354427,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q835427#x2",
-            "text": "Pozná pijavky lovící měkkýše a zavře víčko schránky.",
+            "text": "Podle pachu pozná pijavky, které loví měkkýše, a uzavře ulitu víčkem.",
             "cat": "vztahy",
             "not": [
               "Q1249634",
@@ -354442,7 +354442,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q835427#x3",
-            "text": "Šíří se přirozeně tak, že ho přenášejí ptáci.",
+            "text": "V přírodě roznášejí ptáci.",
             "cat": "vztahy",
             "not": []
           }
@@ -354516,7 +354516,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q854808#x1",
-            "text": "Často ho napadá bílý parazitický roztoč.",
+            "text": "Na tomto druhu často cizopasí bílý roztoč.",
             "cat": "vztahy",
             "not": []
           },
@@ -354646,7 +354646,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q872853#x3",
-            "text": "Schránka je nahoře tmavá a dole světlá, což pomáhá skrýt se před predátory.",
+            "text": "Schránka je nahoře tmavá a dole světlá, a tak ji predátoři hůře zahlédnou.",
             "cat": "vzhled",
             "not": [
               "Q21113",
@@ -354886,7 +354886,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q908799#x0",
-            "text": "Nejraději požírá kopřivy, jejichž pálivé chloupky jsou pro měkkýše neškodné.",
+            "text": "Nejraději se živí kopřivami, jejichž žahavé chloupky jsou pro měkkýše neškodné.",
             "cat": "potrava",
             "not": [
               "Q1844769"
@@ -354894,7 +354894,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q908799#x3",
-            "text": "Požírají ho drozdi a špačci.",
+            "text": "Tento druh je potravou drozdů a špačků.",
             "cat": "vztahy",
             "not": []
           },
@@ -354908,7 +354908,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q908799#x5",
-            "text": "Za svůj život snese 400 až 540 vajec.",
+            "text": "Za život naklade 400 až 540 vajíček.",
             "cat": "čísla",
             "not": []
           }
@@ -354939,7 +354939,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q908813#0",
-            "text": "Pase se na kamenech a jí řasy.",
+            "text": "Na kamenech spásá řasy a mikroorganismy.",
             "cat": "potrava",
             "not": [
               "Q131757",
@@ -355303,7 +355303,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q940450#x0",
-            "text": "V noci stoupá do mělké vody a krmí se tam.",
+            "text": "V noci vystupuje za potravou do mělké vody.",
             "cat": "chování",
             "not": [
               "Q114893",
