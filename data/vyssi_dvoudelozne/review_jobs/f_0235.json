@@ -1,0 +1,43 @@
+[
+ {
+  "id": "Q15219694#x2",
+  "species": "Ranunculus × polyanthemoides",
+  "latin": "Ranunculus polyanthemoides",
+  "text": "Tento druh je udáván i z České republiky.",
+  "quote": "Je udáván i z České republiky.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q15545507#x0",
+  "species": "Mandloň obecná",
+  "latin": "Prunus amygdalus",
+  "text": "Na jaře poskytuje včelám velmi vyhledávaný nektar.",
+  "quote": "très recherché par les abeilles au printemps",
+  "claimed_false_for": {
+   "Q147064": "Topol černý (Populus nigra)",
+   "Q156904": "Olše lepkavá (Alnus glutinosa)"
+  }
+ },
+ {
+  "id": "Q15545507#x1",
+  "species": "Mandloň obecná",
+  "latin": "Prunus amygdalus",
+  "text": "Jeho semena požírá několik druhů mravenců.",
+  "quote": "Pavement ants (Tetramorium caespitum), southern fire ants (Solenopsis xyloni), and thief ants (Solenopsis molesta) are seed predators.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q15545507#x2",
+  "species": "Mandloň obecná",
+  "latin": "Prunus amygdalus",
+  "text": "Jedna z jeho odrůd má hořká a jedovatá semena.",
+  "quote": "Bittermandel mit bitter schmeckenden, schon in kleineren Mengen giftigen Samen",
+  "claimed_false_for": {
+   "Q147064": "Topol černý (Populus nigra)",
+   "Q156904": "Olše lepkavá (Alnus glutinosa)",
+   "Q159565": "Vrba jíva (Salix caprea)",
+   "Q2544599": "Čekanka obecná (Cichorium intybus)",
+   "Q26932": "Lopuch větší (Arctium lappa)"
+  }
+ }
+]

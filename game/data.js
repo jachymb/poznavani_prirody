@@ -51733,7 +51733,37 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Myotis_daubentonii_%282863188648%29.jpg/500px-Myotis_daubentonii_%282863188648%29.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q504488#x7",
+            "text": "Živí se hlavně pakomáry.",
+            "cat": "potrava",
+            "not": [
+              "Q142715",
+              "Q1767321",
+              "Q1769821",
+              "Q301286",
+              "Q649684",
+              "Q717028",
+              "Q751965",
+              "Q754983"
+            ]
+          },
+          {
+            "id": "Q504488#x9",
+            "text": "Kořist chytá i nohama s dlouhými drápy.",
+            "cat": "chování",
+            "not": [
+              "Q142715",
+              "Q1767321",
+              "Q1769821",
+              "Q301286",
+              "Q649684",
+              "Q751965",
+              "Q754983"
+            ]
+          }
+        ],
         "continents": [
           "EU",
           "AS"
@@ -346289,7 +346319,14 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Gew%C3%B6hnliche_Haubennetzspinne_Phylloneta_impressa_1.jpg/500px-Gew%C3%B6hnliche_Haubennetzspinne_Phylloneta_impressa_1.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q1886003#x4",
+            "text": "Kokon tohoto druhu je zelenavý nebo modravý.",
+            "cat": "mláďata",
+            "not": []
+          }
+        ],
         "continents": [
           "EU",
           "AS",
@@ -413648,15 +413685,6 @@ window.GAME_DATA = [
         ],
         "facts": [
           {
-            "id": "Q11308062#0",
-            "text": "Za sucha se listy přitisknou ke stonku.",
-            "cat": "vzhled",
-            "not": [
-              "Q1432956",
-              "Q442127"
-            ]
-          },
-          {
             "id": "Q11308062#1",
             "text": "Roste hlavně na stromech, často na listnatých.",
             "cat": "výskyt",
@@ -415099,19 +415127,7 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Bryum_argenteum_2005.07.26_13.29.24.jpg/500px-Bryum_argenteum_2005.07.26_13.29.24.jpg"
           }
         ],
-        "facts": [
-          {
-            "id": "Q1937687#1",
-            "text": "Roste na střechách, na zdech a mezi dlažbou.",
-            "cat": "výskyt",
-            "not": [
-              "Q12039444",
-              "Q140350",
-              "Q146224",
-              "Q867250"
-            ]
-          }
-        ],
+        "facts": [],
         "continents": [
           "EU",
           "AS",
@@ -415862,6 +415878,7 @@ window.GAME_DATA = [
               "Q1426971",
               "Q1432956",
               "Q1460161",
+              "Q146224",
               "Q148994",
               "Q149101",
               "Q1500863",
@@ -454259,9 +454276,7 @@ window.GAME_DATA = [
             "cat": "jedovatost",
             "not": [
               "Q1019275",
-              "Q158045",
-              "Q21369716",
-              "Q854941"
+              "Q158045"
             ]
           }
         ],
@@ -454587,7 +454602,6 @@ window.GAME_DATA = [
               "Q161794",
               "Q163746",
               "Q21369716",
-              "Q2157164",
               "Q232344",
               "Q478530",
               "Q504781",
@@ -462845,11 +462859,9 @@ window.GAME_DATA = [
             "not": [
               "Q147492",
               "Q149332",
-              "Q158596",
               "Q158987",
               "Q2051175",
               "Q2089847",
-              "Q2157164",
               "Q232344",
               "Q389185",
               "Q4383088",
@@ -474838,9 +474850,7 @@ window.GAME_DATA = [
               "Q159492",
               "Q1660041",
               "Q1759912",
-              "Q2089847",
               "Q21369716",
-              "Q2157164",
               "Q232344",
               "Q854941"
             ]
@@ -494624,9 +494634,7 @@ window.GAME_DATA = [
             "id": "Q164145#0",
             "text": "Kvete od května do srpna.",
             "cat": "růst",
-            "not": [
-              "Q854941"
-            ]
+            "not": []
           },
           {
             "id": "Q164145#1",
@@ -521052,7 +521060,6 @@ window.GAME_DATA = [
             "not": [
               "Q160097",
               "Q165166",
-              "Q21369716",
               "Q854941"
             ]
           }
@@ -527116,7 +527123,6 @@ window.GAME_DATA = [
             "not": [
               "Q11643111",
               "Q12341330",
-              "Q158596",
               "Q159570",
               "Q159737",
               "Q160185",
@@ -527124,8 +527130,7 @@ window.GAME_DATA = [
               "Q2089847",
               "Q21369716",
               "Q2157164",
-              "Q3374608",
-              "Q504781"
+              "Q3374608"
             ]
           },
           {
@@ -540793,12 +540798,10 @@ window.GAME_DATA = [
             "not": [
               "Q1516461",
               "Q15226455",
-              "Q15350096",
               "Q157791",
               "Q159482",
               "Q161232",
               "Q164553",
-              "Q1777420",
               "Q1797041",
               "Q926838"
             ]
@@ -543351,7 +543354,6 @@ window.GAME_DATA = [
               "Q159079",
               "Q159691",
               "Q160078",
-              "Q206532",
               "Q792835",
               "Q820171",
               "Q9336718"
@@ -547305,14 +547307,7 @@ window.GAME_DATA = [
             "id": "Q156037#3",
             "text": "Stonek je čtyřhranný a nahoře se větví.",
             "cat": "vzhled",
-            "not": [
-              "Q1467033",
-              "Q1516461",
-              "Q15383314",
-              "Q159482",
-              "Q1660041",
-              "Q1777420"
-            ]
+            "not": []
           }
         ],
         "continents": [
@@ -551651,8 +551646,6 @@ window.GAME_DATA = [
             "text": "Roste na vlhkých loukách a ve světlých lesích.",
             "cat": "výskyt",
             "not": [
-              "Q206532",
-              "Q2166505",
               "Q303512",
               "Q4011060"
             ]
@@ -563650,8 +563643,7 @@ window.GAME_DATA = [
               "Q159424",
               "Q1786791",
               "Q206532",
-              "Q2166505",
-              "Q820171"
+              "Q2166505"
             ]
           }
         ],
@@ -564619,9 +564611,7 @@ window.GAME_DATA = [
             "id": "Q1610350#0",
             "text": "Kvete od června do září.",
             "cat": "růst",
-            "not": [
-              "Q2166505"
-            ]
+            "not": []
           },
           {
             "id": "Q1610350#2",
@@ -571744,7 +571734,6 @@ window.GAME_DATA = [
               "Q15383314",
               "Q157791",
               "Q159482",
-              "Q164553",
               "Q165166",
               "Q1777420",
               "Q1797041",
@@ -576107,7 +576096,6 @@ window.GAME_DATA = [
             "cat": "výskyt",
             "not": [
               "Q1467033",
-              "Q15226455",
               "Q15245321",
               "Q157353",
               "Q164553",
@@ -577988,9 +577976,7 @@ window.GAME_DATA = [
             "id": "Q1940715#1",
             "text": "Kvete od května do srpna.",
             "cat": "růst",
-            "not": [
-              "Q2166505"
-            ]
+            "not": []
           },
           {
             "id": "Q1940715#2",
@@ -584511,19 +584497,13 @@ window.GAME_DATA = [
             "not": [
               "Q11733786",
               "Q149397",
-              "Q1516461",
-              "Q15226455",
               "Q15350096",
               "Q15383314",
               "Q157495",
               "Q157508",
-              "Q157791",
-              "Q159482",
               "Q161232",
               "Q164553",
               "Q17242685",
-              "Q1777420",
-              "Q1797041",
               "Q1927560",
               "Q206532",
               "Q41318",
@@ -585383,8 +585363,6 @@ window.GAME_DATA = [
             "cat": "výskyt",
             "not": [
               "Q1339103",
-              "Q206532",
-              "Q2166505",
               "Q22694",
               "Q41521670",
               "Q611970"
@@ -586531,14 +586509,6 @@ window.GAME_DATA = [
               "Q147498",
               "Q2359202",
               "Q932516"
-            ]
-          },
-          {
-            "id": "Q2697123#1",
-            "text": "Kvete od dubna do července.",
-            "cat": "růst",
-            "not": [
-              "Q2166505"
             ]
           },
           {
@@ -590954,7 +590924,6 @@ window.GAME_DATA = [
               "Q25237",
               "Q27033",
               "Q3355098",
-              "Q792835",
               "Q803769",
               "Q820171"
             ]
@@ -593371,11 +593340,8 @@ window.GAME_DATA = [
             "cat": "růst",
             "not": [
               "Q15226455",
-              "Q15350096",
-              "Q157791",
               "Q158301",
               "Q159482",
-              "Q164553",
               "Q1797041",
               "Q609627"
             ]
@@ -601655,7 +601621,6 @@ window.GAME_DATA = [
               "Q149471",
               "Q15383314",
               "Q159482",
-              "Q1660041",
               "Q771101"
             ]
           },
@@ -606330,7 +606295,6 @@ window.GAME_DATA = [
               "Q1543811",
               "Q157791",
               "Q159482",
-              "Q161232",
               "Q164553",
               "Q1660041",
               "Q1761334",
@@ -626763,31 +626727,6 @@ window.GAME_DATA = [
               "Q839507",
               "Q942409"
             ]
-          },
-          {
-            "id": "Q165416#3",
-            "text": "Dorůstá až do výšky 3,5 metru.",
-            "cat": "čísla",
-            "not": [
-              "Q1074257",
-              "Q11799270",
-              "Q12209024",
-              "Q149341",
-              "Q149625",
-              "Q15366572",
-              "Q15378552",
-              "Q15618255",
-              "Q158783",
-              "Q161116",
-              "Q164977",
-              "Q2724976",
-              "Q3284219",
-              "Q511179",
-              "Q546069",
-              "Q833994",
-              "Q942409",
-              "Q990982"
-            ]
           }
         ],
         "continents": [
@@ -627460,7 +627399,16 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Myristica_fragrans_-_Nutmeg_-_WikiSangamotsavam_2018%2C_Kottappuram%2C_Kodungalloor_%282%29.jpg/500px-Myristica_fragrans_-_Nutmeg_-_WikiSangamotsavam_2018%2C_Kottappuram%2C_Kodungalloor_%282%29.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q2724976#x2",
+            "text": "Semeno ve vysokých dávkách vyvolává halucinace.",
+            "cat": "účinky",
+            "not": [
+              "Q37153"
+            ]
+          }
+        ],
         "continents": [
           "AS",
           "AF",
@@ -679073,7 +679021,17 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Dinilysia_NT.jpg/500px-Dinilysia_NT.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q20717775#x5",
+            "text": "Tento druh žil v období křídy na území dnešní Argentiny.",
+            "cat": "výskyt",
+            "not": [
+              "Q1737353",
+              "Q910989"
+            ]
+          }
+        ],
         "continents": [
           "SA"
         ],
