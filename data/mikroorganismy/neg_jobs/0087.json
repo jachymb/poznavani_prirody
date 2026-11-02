@@ -1,0 +1,168 @@
+{
+ "facts": [
+  {
+   "id": "Q18645284#x4",
+   "species": "Prochlorococcus",
+   "text": "Před škodlivými formami kyslíku ho chrání heterotrofní organismy.",
+   "quote": "Prochlorococcus do not have mechanisms to degrade reactive oxygen species and rely on heterotrophs to protect them."
+  },
+  {
+   "id": "Q18645284#x1",
+   "species": "Prochlorococcus",
+   "text": "Odhadem vytváří 13 až 48 % kyslíku, který vzniká fotosyntézou na Zemi.",
+   "quote": "The bacterium accounts for an estimated 13–48% of the global photosynthetic production of oxygen"
+  },
+  {
+   "id": "Q18645284#x0",
+   "species": "Prochlorococcus",
+   "text": "Je nejmenším známým fotosyntetizujícím organismem, měří 0,5 až 0,7 mikrometru.",
+   "quote": "Prochlorococcus is the smallest at just 0.5 to 0.7 micrometres in diameter."
+  },
+  {
+   "id": "Q18645284#x3",
+   "species": "Prochlorococcus",
+   "text": "Hojně se vyskytuje v prosvětlené vrstvě tropických oceánů.",
+   "quote": "Prochlorococcus is abundant in the euphotic zone of the world's tropical oceans."
+  },
+  {
+   "id": "Q18645284#x5",
+   "species": "Prochlorococcus",
+   "text": "Obvykle se dělí jednou za den.",
+   "quote": "Typically, Prochlorococcus divide once a day in the subsurface layer or oligotrophic waters."
+  },
+  {
+   "id": "Q18645284#x2",
+   "species": "Prochlorococcus",
+   "text": "Jeden mililitr povrchové mořské vody může obsahovat 100 000 buněk i více.",
+   "quote": "a single millilitre of surface seawater may contain 100,000 cells or more"
+  }
+ ],
+ "candidates": {
+  "Q150962": {
+   "name": "Synechococcus",
+   "latin": "Synechococcus",
+   "family": "Synechococcaceae",
+   "lead": "Synechococcus je rod jednobuněčných sinic, běžných ve vodním (sladkém i slaném) prostředí. Dosahují velikostí od 0,8 µm do 1,5 µm. Fotosyntetizující, kulovité buňky těchto sinic dávají přednost světlým povrchovým mořím. V těchto místech pak dosahují vysokých populačních hustot (1000 – 200000 buněk na mililitr).\nZnámo je asi 75 druhů, z nichž asi 36 je víceméně uznávaných. Byl sekvenován genom několika izolátů druhu Synechococcus elongatus. Mají 2,7 miliónů párů bází, jiný izolát 2,4 Mbp.",
+   "facts": [
+    "Žije ve sladké i slané vodě.",
+    "Měří 0,8 až 1,5 µm."
+   ]
+  },
+  "Q131238": {
+   "name": "Bacillus subtilis",
+   "latin": "Bacillus subtilis",
+   "family": "Bacillaceae",
+   "lead": "Bacillus subtilis (česky někdy bacil senný) je grampozitivní sporulující aerobní bakterie. Je nepatogenní a žije v půdě.\nPatří mezi bakterie, které na těžký nedostatek výživných látek odpovídají tvorbou endospóry – morfologicky odlišného typu buňky. Termín endospóra je v užším smyslu vyhrazen pro útvary tvořené bacily a klostridiemi, ačkoli podobné spóry produkují i streptomycety. Endospóra je metabolicky stagnující a vůči podmínkám prostředí velmi odolná buňka schopná přežít teplotní extrémy, s",
+   "facts": [
+    "Žije v půdě.",
+    "Nezpůsobuje nemoci.",
+    "Při nedostatku živin vytvoří odolnou endospóru.",
+    "Využívá se v průmyslu k výrobě proteinů."
+   ]
+  },
+  "Q6823576": {
+   "name": "Methanobacterium",
+   "latin": "Methanobacterium",
+   "family": "Methanobacteriaceae",
+   "lead": "Methanobacterium je prokaryotní jednobuněčný organismus zařazený do domény Archaea, kmen Euryarchaeota. Jedná se o striktně anaerobní mikroorganismus, který se vyskytuje např. v trávicím traktu přežvýkavců či ve vodních sedimentech. Methanogenní archea hrají nezbytnou roli v cyklu uhlíku. Jsou totiž zodpovědné za poslední krok mineralizace organické hmoty za anaerobních podmínek za vzniku methanu.\n\n\n== Charakteristika ==\nZástupci rodu Methanobacterium jsou zakřivené či rovné, dlouhé až vláknité ",
+   "facts": [
+    "Vyskytuje se v trávicím traktu přežvýkavců.",
+    "Jako zdroj energie využívá vodík.",
+    "Pomáhá vyrábět methan v bioplynových stanicích.",
+    "V bioplynových stanicích spolupracuje s jinými mikroorganismy."
+   ]
+  },
+  "Q141236": {
+   "name": "Vakovka lidská",
+   "latin": "Balantidium coli",
+   "family": "Balantidiidae",
+   "lead": "Vakovka lidská (Balantidium coli) je paraziticky žijící nálevník, nejčastěji se vyskytující ve střevech prasat domácích. V některých případech dochází k přenosu na člověka, kde může způsobovat zoonické onemocnění balantidiózu.\n\n\n== Morfologie ==\nBalantidium vytváří dvě stádia, stádium trofozoita a cysty. Trofozoitické stádium je vejčitého tvaru o velikosti 130-300 × 30-100 µm. V přední části je buňka zúžena v místě buněčných úst (cytostom), v místě cytostomu se nachází žíhaná struktura obústí (p",
+   "facts": [
+    "Žije hlavně v tlustém střevě prasat domácích.",
+    "Živí se škrobovými zrny a zbytky buněk.",
+    "Výjimečně se přenáší i na krysy, opice a člověka.",
+    "Cysty mají silnou dvojitou stěnu."
+   ]
+  },
+  "Q310467": {
+   "name": "Bacillus thuringiensis",
+   "latin": "Bacillus thuringiensis",
+   "family": "Bacillaceae",
+   "lead": "Bacillus thuringiensis je grampozitivní půdní bakterie z rodu Bacillus a kmene Firmicutes. Je aerobní a produkuje spory. Ty obsahují toxiny (δ-endotoxiny, také označované jako Cry), které mají insekticidní účinky na některé skupiny hmyzu, a proto se užívá k produkci pesticidů a také geneticky modifikovaných (transgenních) rostlin.\n\n\n== Užití ==\n\nSpory a krystalinové proteiny této bakterie se užívají jako specifické insekticidy, pod názvy Dipel či Thuricide. Aplikují se v tekutých postřicích na p",
+   "facts": [
+    "Tento druh tvoří toxiny, které působí na některé skupiny hmyzu.",
+    "Tento druh se používá k výrobě pesticidů."
+   ]
+  },
+  "Q11353905": {
+   "name": "Brucella abortus",
+   "latin": "Brucella abortus",
+   "family": "Brucellaceae",
+   "lead": "Brucella abortus je gram-negativní kokovitá bakterie z rodu Brucella. Jedná se o nepohyblivou, striktně aerobní, kataláza pozitivní bakterii, která se kultivuje na tryptonovém nebo Brucella agaru při atmosféře 5-10 % CO2. Je původcem brucelózy skotu (též infekční zmetání skotu nebo Bangova vlnitá horečka). K infekci jsou vnímaví kromě skotu také další přežvýkavci (bizon, buvol, velbloud, ovce,\nkoza, jelenovití), ale také kůň, drůbež, pes a člověk. Česká republika je od roku 1964 prostá bovinní b",
+   "facts": [
+    "Způsobuje u skotu nemoc zvanou infekční zmetání.",
+    "Mohou se nakazit i kůň, drůbež, pes a člověk."
+   ]
+  },
+  "Q12043723": {
+   "name": "Panoženka měňavková",
+   "latin": "Mastigamoeba aspera",
+   "family": "Mastigamoebidae",
+   "lead": "Panoženka měňavková (Mastigamoeba aspera) tvoří přechod mezi bičíkovci a kořenonožci. Vedle mohutného bičíku má na těle i panožky. Žije na dně vod.",
+   "facts": [
+    "Má mohutný bičík a panožky.",
+    "Žije na dně vod."
+   ]
+  },
+  "Q3492461": {
+   "name": "Plíseň kokosová",
+   "latin": "Phytophthora palmivora",
+   "family": "Peronosporaceae",
+   "lead": "Plíseň kokosová (Phytophthora palmivora) z řádu Pythiales je parazitický organizmus ze skupiny oomycet, napadající některé kulturní rostliny a působící na nich ztráty na výnosu.\nV  tropech a subtropech napadá hlavně papáju melounovou (Carica papaya), ananasovník (Ananas), kakaovník (Theobroma), palmu olejnou (Elaeis guineensis) a láhevník (Annona). Způsobuje hnilobu kořenů, hnilobu stonku (rakovinu kůry a dřeně), zkrucování listů a nekrotické skvrnky.\n\n\n== Příbuzné druhy ==\nplíseň bramborová (Ph",
+   "facts": [
+    "Napadá papáju, ananasovník a palmu olejnou.",
+    "Způsobuje hnilobu kořenů a stonků rostlin."
+   ]
+  },
+  "Q132595": {
+   "name": "Bičenka poševní",
+   "latin": "Trichomonas vaginalis",
+   "family": "Trichomonadidae",
+   "lead": "Bičenka poševní (Trichomonas vaginalis) lidově též zvaná pošvík, je anaerobní čtyřbičíkatý parazitický prvok s kosmopolitním výskytem. Má přeměněné mitochondrie zvané hydrogenozomy. Parazituje v pohlavních orgánech žen a způsobuje lidskou urogenitální trichomoniázu. Žije také v močové trubici mužů, zde ale onemocnění způsobuje velmi vzácně. Přenáší se pouze pohlavním stykem. Infekčním stádiem je\ntrofozoit.\n\n\n== Morfologie ==\nBičenka poševní má čtyři přední bičíky a jeden zpětný, který vytváří na",
+   "facts": [
+    "Parazituje v pohlavních orgánech žen.",
+    "Živí se bakteriemi, zbytky buněk a červenými krvinkami."
+   ]
+  },
+  "Q3898962": {
+   "name": "Měňavka bahenní",
+   "latin": "Pelomyxa palustris",
+   "family": "Pelomyxidae",
+   "lead": "Měňavka bahenní (Pelomyxa palustris) je velká sladkovodní améba, poprvé popsána roku 1874 Richardem Greeffem.  Je významná svojí neobvyklou buněčnou stavbou.\n\n\n== Výskyt ==\nMěňavka bahenní se zpravidla vyskytuje v sedimentech stojatých a pomalu tekoucích sladkých vod. Klíčové je pro ni anaerobní či mikroaerofilní prostředí.\n\n\n== Morfologie a cytologie ==\nVelikost měňavky bahenní se obvykle pohybuje mezi 2-3 mm. V některých případech však dorůstá až do délky 5 mm, což z ní činí jednu z největších",
+   "facts": [
+    "Získává energii hlavně ze sapropelu, tedy sedimentu ve stojatých vodách.",
+    "Uvnitř žijí bakterie a archea, které nahrazují mitochondrie."
+   ]
+  },
+  "Q139928": {
+   "name": "Yersinia pseudotuberculosis",
+   "latin": "Yersinia pseudotuberculosis",
+   "family": "Yersiniaceae",
+   "lead": "Bakterie Yersinia pseudotuberculosis (rod Yersinia, čeleď Enterobacteriaceae) je původcem pseudotuberkulózy – bakteriálního onemocnění savců i ptáků, které je charakterizováno akutní septikémií a tvorbou sýrovitých uzlů (kaseózních nodulů) ve viscerálních orgánech, připomínajících tuberkulózní granulomy.\n\n\n== Morfologie ==\nY. pseudotuberculosis představuje gramnegativní (G-) pleomorfní tyčky o průměrné velikosti 0,5 x 0,8-5,0 µm. Netvoří spory ani pouzdro. V zorném poli se nachází jednotlivě, ve",
+   "facts": [
+    "Způsobuje bakteriální onemocnění savců i ptáků.",
+    "Tento druh rychle hyne na slunečním světle, v suchu i v teple."
+   ]
+  },
+  "Q131029": {
+   "name": "Shigella",
+   "latin": "Shigella",
+   "family": "Enterobacteriaceae",
+   "lead": "Shigella je rod gramnegativních, nesporulujících tyčinkovitých bakterií. Rod byl pojmenován po japonském bakteriologovi Kiyoshi Shigovi (1871–1957), který ho objevil v roce 1897. Bakterie jsou původci onemocnění shigelóza, tedy bacilární úplavice. Tato nemoc byla dosud zaznamenána jen u goril a lidí. Odhaduje se, že ročně způsobuje Shigella celosvětově 80–165 milionů případů, z čehož zřejmě až 600\n000 postižených zemře. V Česku bývá ročně zaznamenáno asi 400 případů tohoto onemocnění (zvláště u ",
+   "facts": [
+    "Způsobuje nemoc zvanou úplavice.",
+    "Zdrojem infekce bývá nakažená potrava, hlavně mléko a voda."
+   ]
+  }
+ }
+}

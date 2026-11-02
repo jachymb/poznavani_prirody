@@ -1,0 +1,216 @@
+{
+ "facts": [
+  {
+   "id": "Q131649#x2",
+   "species": "Corynebacterium diphtheriae",
+   "text": "Přenáší se z člověka na člověka kapénkami při kašlání nebo kýchání.",
+   "quote": "Mode of transmission is person-to-person contact via respiratory droplets (i.e., coughing or sneezing)"
+  },
+  {
+   "id": "Q288311#x4",
+   "species": "Rhodococcus",
+   "text": "Žije v půdě, ve vodě i uvnitř buněk jiných organismů.",
+   "quote": "thrive in a broad range of environments, including soil, water, and eukaryotic cells"
+  },
+  {
+   "id": "Q288311#x2",
+   "species": "Rhodococcus",
+   "text": "Dokáže v sobě hromadit těžké kovy, například radioaktivní cesium.",
+   "quote": "Rhodococci are also capable of accumulating heavy metal ions, such as radioactive caesium"
+  },
+  {
+   "id": "Q288311#x3",
+   "species": "Rhodococcus",
+   "text": "Některé druhy způsobují zápal plic u hříbat.",
+   "quote": "R. equi is the causative agent of foal pneumonia (rattles) and mainly infects foals up to three months in age."
+  },
+  {
+   "id": "Q288311#x5",
+   "species": "Rhodococcus",
+   "text": "Podílí se na odsiřování fosilních paliv.",
+   "quote": "their involvement in fossil fuel biodesulfurization"
+  },
+  {
+   "id": "Q131649#x0",
+   "species": "Corynebacterium diphtheriae",
+   "text": "Způsobuje nemoc záškrt.",
+   "quote": "is a Gram-positive pathogenic bacterium that causes diphtheria"
+  },
+  {
+   "id": "Q131649#x3",
+   "species": "Corynebacterium diphtheriae",
+   "text": "Napadá téměř výhradně lidi.",
+   "quote": "C. diphtheriae has shown to exclusively infect humans."
+  },
+  {
+   "id": "Q288311#x1",
+   "species": "Rhodococcus",
+   "text": "Provádí fixaci dusíku, takže si vytváří živiny i tam, kde jich je málo.",
+   "quote": "They also undergo nitrogen fixation, which allows them"
+  },
+  {
+   "id": "Q288311#x0",
+   "species": "Rhodococcus",
+   "text": "Rozkládá škodlivé látky znečišťující prostředí, například toluen a naftalen.",
+   "quote": "its ability to metabolize harmful environmental pollutants, including toluene, naphthalene, herbicides, and PCBs"
+  },
+  {
+   "id": "Q131649#x5",
+   "species": "Corynebacterium diphtheriae",
+   "text": "Genom tvoří jediný kruhový chromozom o velikosti 2,5 milionu bází.",
+   "quote": "The genome of C. diphtheriae consists of a single circular chromosome of 2.5 Mbp, with no plasmids."
+  },
+  {
+   "id": "Q131649#x4",
+   "species": "Corynebacterium diphtheriae",
+   "text": "Má tvar tyčinky a netvoří spory.",
+   "quote": "C. diphtheriae is a rod-shaped, Gram-positive, non spore-forming, and nonmotile bacterium."
+  },
+  {
+   "id": "Q131649#x1",
+   "species": "Corynebacterium diphtheriae",
+   "text": "Jedovatý toxin produkují jen kmeny nakažené virem zvaným bakteriofág.",
+   "quote": "The strains that are toxigenic are ones which have been infected with a bacteriophage."
+  }
+ ],
+ "candidates": {
+  "Q130971": {
+   "name": "Kochův bacil",
+   "latin": "Mycobacterium tuberculosis",
+   "family": "Mycobacteriaceae",
+   "lead": "Mycobacterium tuberculosis (MTB) je patogenní bakterie z rodu Mycobacterium. Způsobuje většinu případů tuberkulózy. Poprvé byla objevena Robertem Kochem v roce 1882. Má neobvyklý voskový plášť na povrchu buňky (především z kyseliny mykolové), který je nepropustný pro Gramovo barvení; místo něj se proto používají acid-fast techniky. M. tuberculosis je vysoce aerobní, bakterie potřebuje vysoké\nhladiny kyslíku. Primárně je tato bakterie patogenem v dýchací ústrojí savců, napadá plíce, kde způsobuje",
+   "facts": [
+    "Způsobuje většinu případů tuberkulózy.",
+    "Napadá hlavně plíce savců.",
+    "Dělí se přibližně jednou za 15 až 20 hodin.",
+    "Množí se uvnitř makrofágů."
+   ]
+  },
+  "Q155891": {
+   "name": "Mycobacterium leprae",
+   "latin": "Mycobacterium leprae",
+   "family": "Mycobacteriaceae",
+   "lead": "Mycobatecterium leprae je bakterie, která se většinou vyskytuje v teplých tropických zemích, způsobující lepru („Hansenova nemoc“). Je to intracelulární, pleomorfní, acidorezistentní bakterie. M. leprae je aerobní bacillus obklopený charakteristickým voskovým povlakem, jenž je unikátní pro mykobakterie. Ve velikosti a tvaru se velmi podobá Mycobacterium tuberculosis.\nTato bakterie se vyskytovala například v Anglii. Byla objevena roku 1873 norským lékařem Gerhardem Armauerem Hansenem (1841–1912),",
+   "facts": [
+    "Způsobuje Hansenovu nemoc.",
+    "Tento druh se nejčastěji vyskytuje v teplých tropických zemích."
+   ]
+  },
+  "Q135175": {
+   "name": "Nocardia",
+   "latin": "Nocardia",
+   "family": "Nocardiaceae",
+   "lead": "Nocardia (nokardie) je rod grampozitivních aerobních bakterií, tyčinkovitého tvaru, z kmene aktinobakterií. Často však tvoří vláknité vzdušné mycelium. Jejich buněčná stěna je podobná stěně mykobakterií.\nŘadíme k nim asi 85 druhů. Nokardie se vyskytují po celém světě především v půdě bohaté na humus.\nNěkteré z nokardií jsou oportunisticky patogenní (původci nokardióz). Nokardie, které infikují člověka, se do těla dostávají z půdy. V ohrožení onemocnění jsou zejména pacienti se sníženou imunitou ",
+   "facts": [
+    "Vyskytuje se po celém světě, především v půdě bohaté na humus.",
+    "Některé druhy způsobují nemoci u lidí."
+   ]
+  },
+  "Q1756496": {
+   "name": "Blastocystis",
+   "latin": "Blastocystis",
+   "family": "Blastocystidae",
+   "lead": "Blastocystis (Blastocystis sp.) je rod jednobuněčných parazitárních organismů, aktuálně zařazený do kmene Stramenopila (Heterokonta). Jedná se o organismus s nízkou hostitelskou specificitou. Mezi jeho hostitele patří hmyz, plazi, ptáci a savci včetně člověka. Infekce probíhá orálně; parazit se dostává trávicím traktem do tlustého střeva, kde se rozmnožuje.\n\n\n== Historie ==\nV roce 1849 během epidemie cholery v Londýně dva britští badatelé, Frederick Brittan a Joseph Griffiths Swayne, nezávisle n",
+   "facts": [
+    "Parazituje na hmyzu, plazech, ptácích a savcích, včetně člověka.",
+    "Rozmnožuje se v tlustém střevě hostitele.",
+    "Nakazí se požitím kontaminované potraviny nebo vody.",
+    "Nejčastěji se nachází ve vzorcích lidské stolice.",
+    "Infekce častěji postihuje dospělé než děti.",
+    "Infekční cysta opouští tělo hostitele ve stolici."
+   ]
+  },
+  "Q81062864": {
+   "name": "Anabaena flos-aquae",
+   "latin": "Anabaena flos-aquae",
+   "family": "Nostocaceae",
+   "lead": "Anabaena flos-aquae je druh sinice z rodu Anabaena.\n\n\n== Popis ==\nTato vláknitá sinice je schopná klouzavého pohybu. Produkuje některé cyanotoxiny (anatoxin-α) a mnohdy způsobuje při přemnožení vodní květ. Jedovatost jejích toxinů byla prokázána i experimenty na myších, které umírají po injekci extraktu z těchto sinic po 10–24 hodinách.\nUvažovalo se o využití této sinice k výrobě speciálních vzduchových měchýřků na buněčné úrovni, které by se přidávaly při kultivaci buněčných linií do suspenze, ",
+   "facts": [
+    "Tento druh tvoří některé jedovaté toxiny.",
+    "Tento druh je vláknitý a umí klouzavě pohybovat."
+   ]
+  },
+  "Q627992": {
+   "name": "Rickettsia",
+   "latin": "Rickettsia",
+   "family": "Rickettsiaceae",
+   "lead": "Rickettsia je rod gramnegativních, pleomorfních bakterií z čeledi Rickettsiacae. Jedná se o obligátní intracelulární patogeny, jež napadají buňky retikulo-endoteliálního systému, zejména monocyty či buňky endotelu. Přenášejí se výhradně přes vektory, nejčastěji klíšťata, vši, roztoče a blechy. Jednotlivé druhy způsobují závažná onemocnění lidí a zvířat po celém světě. Mezi nejznámější nemoci\nzpůsobené rickettsiemi patří skvrnitý tyfus (původce Rickettsia prowazekii, pojmenovaný po česko-rakouské",
+   "facts": [
+    "Tento druh se přenáší přes klíšťata, vši, roztoče a blechy.",
+    "Způsobuje mimo jiné skvrnitý tyfus a horečku Skalistých hor."
+   ]
+  },
+  "Q115528": {
+   "name": "Borelie",
+   "latin": "Borrelia",
+   "family": "Borreliaceae",
+   "lead": "Borrelia je rod gramnegativních bakterií z kmene spirochéty (Spirochaetae), do něhož kromě rodu Borrelia patří rody Leptospira a Treponema. Ve všech třech rodech jsou zastoupeny jak nepatogenní druhy, tak patogenní (např. patogen Leptospira interrogans je původcem leptospirózy, patogen Treponema pallidum je původcem syfilis).\nRod Borrelia je pojmenován po francouzském mikrobiologovi jménem Amédée Borrel. Dlouhé buňky bakterií mají rozměry 0,2 až 0,5 × 8 až 30 (33) µm. Z metabolického hlediska js",
+   "facts": [
+    "Přenášejí je cizopasní členovci.",
+    "Způsobují několik bakteriálních nemocí.",
+    "Buňky jsou dlouhé 8 až 30 mikrometrů.",
+    "Pohyb zajišťují podélná vlákna."
+   ]
+  },
+  "Q1543914": {
+   "name": "Batrachochytrium dendrobatidis",
+   "latin": "Batrachochytrium dendrobatidis",
+   "family": "Batrachochytriaceae",
+   "lead": "Batrachochytrium dendrobatidis je druh houby chytridiomycety z řádu Rhizophydiales, který parazituje na obojživelnících, především žábách, jimž způsobuje vysoce nakažlivé infekční onemocnění chytridiomykózu. Způsobuje poškození dýchacího a nervového systému, což zpravidla vede k úhynu v důsledku srdečního selhání.\nOd konce 80. let 20. století se chytridiomykóza rozšířila po celém světě a vyvolala pandemii, představující důležitý faktor úbytku obojživelníků v mnoha oblastech světa. Soudí se, že z",
+   "facts": [
+    "Parazituje na obojživelnících, především na žábách.",
+    "Nemoc, kterou způsobuje, je podle odhadů příčinou vyhynutí více než 20 druhů žab."
+   ]
+  },
+  "Q56290719": {
+   "name": "Clostridioides difficile",
+   "latin": "Clostridioides difficile",
+   "family": "Peptostreptococcaceae",
+   "lead": "Clostridioides difficile, starší název Clostridium difficile (z řeckého κλωστήρ, kloster, vřeteno a latinského dis- + facilis, obtížný, nesnadný), též „CDF/cdf“ nebo „C. diff“, je grampozitivní bakterie z rodu Clostridium, která způsobuje průjem nebo jiná onemocnění trávicího traktu v situacích, kdy je běžná střevní mikroflóra potlačena antibiotiky.\nKlostridia jsou anaerobní sporulující tyčinky. C. difficile je nejzávažnějším původcem průjmů spjatých s antibiotiky (ADD) a může způsobovat pseudom",
+   "facts": [
+    "Způsobuje průjem, když antibiotika potlačí běžné střevní bakterie.",
+    "Tento druh uvolňuje toxiny, které mohou způsobit nadýmání a průjem."
+   ]
+  },
+  "Q311376": {
+   "name": "Plasmodium vivax",
+   "latin": "Plasmodium vivax",
+   "family": "Plasmodiidae",
+   "lead": "Plasmodium vivax je jednobuněčný parazitický prvok z rodu Plasmodium. Patří mezi pět druhů způsobujících malárii u lidí. Tento druh je považován za nejrozšířenějšího původce malárie mimo Afriku a je známý svou schopností přetrvávat v játrech hostitele ve formě hypnozoitů, což může vést k relapsům onemocnění i dlouho po primární infekci. Infekce P. vivax je méně smrtelná než infekce Plasmodium\nfalciparum, přesto může způsobovat závažné zdravotní komplikace a má veliký ekonomický dopad.\n\n\n== Život",
+   "facts": [
+    "Člověk se nakazí kousnutím infikovaného komára.",
+    "Napadá mladé červené krvinky.",
+    "Způsobuje horečku, která se opakuje každých 48 hodin.",
+    "Část parazitů zůstává v játrech a nemoc se může vrátit i po letech."
+   ]
+  },
+  "Q135368": {
+   "name": "Saccharomyces boulardii",
+   "latin": "Saccharomyces boulardii",
+   "family": "Saccharomycetaceae",
+   "lead": "Saccharomyces boulardii, syn. S. cerevisiae var. boulardii je tropická kvasinka, kterou poprvé izoloval francouzský vědec Henri Boulard v roce 1923 ze slupky liči a mangostany.\nS. boulardii se někdy používá jako probiotikum s cílem zavést prospěšné mikroorganismy do tlustého a tenkého střeva a poskytnout ochranu před patogeny. Roste při teplotě 37 °C (98,6 °F). Kromě toho se ukázalo, že populární nástroj pro úpravu genomu CRISPR-Cas9 je účinný u S. boulardii. Boulard poprvé izoloval tuto kvasink",
+   "facts": [
+    "Roste při teplotě 37 °C.",
+    "Lépe snáší žaludeční kyseliny než běžná kvasinka.",
+    "U zdravých lidí zůstává v trávicím ústrojí a nešíří se do těla.",
+    "Vytváří látky, které tlumí škodlivé bakterie a jejich jedy."
+   ]
+  },
+  "Q91703": {
+   "name": "Háďátko obecné",
+   "latin": "Caenorhabditis elegans",
+   "family": "Rhabditidae",
+   "lead": "Háďátko obecné (Caenorhabditis elegans) je volně žijící nepatogenní půdní červ z kmene hlístic. Háďátko žije v půdě po celém světě a je významným modelovým organismem, jehož výzkum započal v roce 1974. Tento druh se stal významným nástrojem molekulární a vývojové biologie. Jedná se rovněž o první mnohobuněčný organismus, u něhož byl osekvenován kompletní genom. Rovněž byl poprvé u tohoto druhu\nprezentován fenomén RNA interference. Tito tvorové také dokázali přežít havárii raketoplánu Columbia.\nT",
+   "facts": [
+    "Tento druh je významným modelovým organismem.",
+    "Dospělý jedinec má přesně 302 neuronů.",
+    "Žije v půdě v mírném pásu.",
+    "Živí se bakteriemi z rozkládající se organické hmoty.",
+    "Požírají ho dravé hlístice a některý všežravý hmyz.",
+    "Odolné larvy jsou přenášeny některými mnohonožkami, hmyzem, korýši a plži.",
+    "Má 302 neuronů.",
+    "Dožívá se průměrně dvou až tří týdnů."
+   ]
+  }
+ }
+}

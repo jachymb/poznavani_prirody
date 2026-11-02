@@ -1055,8 +1055,8 @@ def sync_shell_review(slug, batch=30):
     print(f"{slug}: fotek schránek k opětovnému posouzení {len(items)}")
 
 
-def sync_needy_negatives(slug, batch=20, candidates=12, minimum=3, rounds=2):
-    """Druhy s méně než třemi nepravdivými tvrzeními posoudí vůči dalším tvrzením ze třídy. Každý druh nejvýš ve dvou kolech."""
+def sync_needy_negatives(slug, batch=20, candidates=12, minimum=3, rounds=5):
+    """Druhy s méně než třemi nepravdivými tvrzeními posoudí vůči dalším tvrzením ze třídy. Každý druh nejvýš v pěti kolech."""
     base, _, articles, _, _, jobs_dir, _ = paths(slug)
     built = json.loads((base / "built.json").read_text("utf-8"))["species"]
     false_count = Counter(q for s in built for f in s["facts"] for q in f["not"])

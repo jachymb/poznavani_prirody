@@ -286995,7 +286995,8 @@ window.GAME_DATA = [
             "cat": "mláďata",
             "not": [
               "Q5125285",
-              "Q842406"
+              "Q842406",
+              "Q846231"
             ]
           }
         ],
@@ -409112,6 +409113,7 @@ window.GAME_DATA = [
               "Q202067",
               "Q2176480",
               "Q2220785",
+              "Q2466601",
               "Q28957",
               "Q733398",
               "Q902211",
@@ -409712,7 +409714,8 @@ window.GAME_DATA = [
             "text": "Roste ve skalních štěrbinách a na sutích.",
             "cat": "výskyt",
             "not": [
-              "Q1637866"
+              "Q1637866",
+              "Q2466601"
             ]
           }
         ],
@@ -410599,6 +410602,7 @@ window.GAME_DATA = [
             "cat": "čísla",
             "not": [
               "Q213548",
+              "Q2466601",
               "Q2678657"
             ]
           },
@@ -411022,14 +411026,17 @@ window.GAME_DATA = [
             "text": "Tento druh se používá jako hnojivo na rýžovištích.",
             "cat": "využití",
             "not": [
-              "Q202067"
+              "Q202067",
+              "Q2466601"
             ]
           },
           {
             "id": "Q2705087#5",
             "text": "Slouží jako výživné krmivo pro některá hospodářská zvířata.",
             "cat": "vztahy",
-            "not": []
+            "not": [
+              "Q2466601"
+            ]
           }
         ],
         "continents": [
@@ -411444,7 +411451,9 @@ window.GAME_DATA = [
             "id": "Q4678994#1",
             "text": "Ve střední Evropě se pěstuje ve sklenících.",
             "cat": "výskyt",
-            "not": []
+            "not": [
+              "Q2466601"
+            ]
           }
         ],
         "continents": [
@@ -412854,6 +412863,7 @@ window.GAME_DATA = [
             "text": "Bývá vysoká 30 až 150 cm.",
             "cat": "čísla",
             "not": [
+              "Q2466601",
               "Q901435"
             ]
           }
@@ -414353,6 +414363,7 @@ window.GAME_DATA = [
               "Q140350",
               "Q1404902",
               "Q1426971",
+              "Q1432956",
               "Q1460161",
               "Q148994",
               "Q149101",
@@ -414363,6 +414374,7 @@ window.GAME_DATA = [
               "Q1646440",
               "Q1752834",
               "Q1763341",
+              "Q1777800",
               "Q178025",
               "Q182303",
               "Q1937687",
@@ -414834,7 +414846,10 @@ window.GAME_DATA = [
             "id": "Q3490169#1",
             "text": "Nachází se podél cest, v příkopech a na vlhkých polích.",
             "cat": "výskyt",
-            "not": []
+            "not": [
+              "Q1777800",
+              "Q301377"
+            ]
           }
         ],
         "continents": [
@@ -415293,6 +415308,8 @@ window.GAME_DATA = [
             "cat": "výskyt",
             "not": [
               "Q1192790",
+              "Q1245997",
+              "Q1665550",
               "Q2529160",
               "Q899476"
             ]
@@ -448696,7 +448713,11 @@ window.GAME_DATA = [
             "id": "Q10567609#x2",
             "text": "Snáší nízkou vlhkost, proto roste i na stromech v kalifornských pouštích.",
             "cat": "výskyt",
-            "not": []
+            "not": [
+              "Q113273",
+              "Q2974933",
+              "Q582664"
+            ]
           },
           {
             "id": "Q10567609#x3",
@@ -448774,7 +448795,8 @@ window.GAME_DATA = [
             "text": "Laloky jsou na koncích často lehce nafouklé.",
             "cat": "vzhled",
             "not": [
-              "Q182281"
+              "Q182281",
+              "Q582664"
             ]
           },
           {
@@ -690071,7 +690093,9 @@ window.GAME_DATA = [
             "id": "Q1192350#1",
             "text": "Během roku se rozmnožuje pučením, na podzim i pohlavně.",
             "cat": "chování",
-            "not": []
+            "not": [
+              "Q522939"
+            ]
           }
         ],
         "continents": [
@@ -690122,7 +690146,8 @@ window.GAME_DATA = [
             "text": "Vodní ptáci nebo lidé tento druh pravděpodobně šíří do nových vod.",
             "cat": "vztahy",
             "not": [
-              "Q445245"
+              "Q445245",
+              "Q522939"
             ]
           }
         ],
@@ -690549,6 +690574,7 @@ window.GAME_DATA = [
               "Q1192350",
               "Q2470250",
               "Q445245",
+              "Q522939",
               "Q531601"
             ]
           },
