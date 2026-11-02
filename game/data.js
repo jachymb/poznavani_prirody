@@ -2412,7 +2412,6 @@ window.GAME_DATA = [
             "not": [
               "Q104831614",
               "Q116250826",
-              "Q210070",
               "Q270098",
               "Q301042",
               "Q317393",
@@ -2904,7 +2903,6 @@ window.GAME_DATA = [
               "Q116250826",
               "Q1764140",
               "Q193683",
-              "Q210070",
               "Q2313420",
               "Q270098",
               "Q275608",
@@ -3989,7 +3987,6 @@ window.GAME_DATA = [
             "text": "Jí hlavně trávu.",
             "cat": "potrava",
             "not": [
-              "Q210070",
               "Q301042",
               "Q626023",
               "Q782785"
@@ -16434,7 +16431,6 @@ window.GAME_DATA = [
               "Q193683",
               "Q209291",
               "Q209594",
-              "Q210070",
               "Q2313420",
               "Q270098",
               "Q275608",
@@ -19946,7 +19942,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q193182#8",
-            "text": "Loví ptáci, tasmánský čert, kočky, lišky a psi.",
+            "text": "Loví ji ptáci, tasmánský čert, kočky, lišky a psi.",
             "cat": "vztahy",
             "not": [
               "Q313166",
@@ -24587,7 +24583,6 @@ window.GAME_DATA = [
               "Q193182",
               "Q209291",
               "Q209497",
-              "Q210070",
               "Q602666",
               "Q842374"
             ]
@@ -24608,7 +24603,6 @@ window.GAME_DATA = [
               "Q194671",
               "Q209291",
               "Q209497",
-              "Q210070",
               "Q26046",
               "Q28154803",
               "Q36101",
@@ -25063,7 +25057,6 @@ window.GAME_DATA = [
               "Q209594",
               "Q209652",
               "Q209660",
-              "Q210070",
               "Q226933",
               "Q549108",
               "Q639089",
@@ -25431,7 +25424,6 @@ window.GAME_DATA = [
               "Q193683",
               "Q209117",
               "Q209291",
-              "Q210070",
               "Q2313420",
               "Q270098",
               "Q668004",
@@ -25569,7 +25561,6 @@ window.GAME_DATA = [
               "Q209497",
               "Q209581",
               "Q209652",
-              "Q210070",
               "Q226933",
               "Q26046",
               "Q28154803",
@@ -25889,7 +25880,6 @@ window.GAME_DATA = [
               "Q1251864",
               "Q193683",
               "Q209117",
-              "Q210070",
               "Q475449",
               "Q726151",
               "Q732477",
@@ -35692,7 +35682,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q271705#4",
-            "text": "Loví lvi, levharti, hyeny, psi hyenovití a paviáni.",
+            "text": "Loví ji lvi, levharti, hyeny, psi hyenovití a paviáni.",
             "cat": "vztahy",
             "not": [
               "Q109262322",
@@ -44719,7 +44709,6 @@ window.GAME_DATA = [
               "Q132576",
               "Q160042",
               "Q194268",
-              "Q210070",
               "Q26283",
               "Q317393",
               "Q626023",
@@ -51208,7 +51197,6 @@ window.GAME_DATA = [
               "Q1764140",
               "Q193683",
               "Q194426",
-              "Q210070",
               "Q2313420",
               "Q723435"
             ]
@@ -52364,7 +52352,6 @@ window.GAME_DATA = [
             "cat": "čísla",
             "not": [
               "Q1764140",
-              "Q210070",
               "Q726151"
             ]
           },
@@ -55470,7 +55457,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q577677#7",
-            "text": "Mohou lovit krokodýli a hadi.",
+            "text": "Mohou ji lovit krokodýli a hadi.",
             "cat": "vztahy",
             "not": [
               "Q168327",
@@ -56077,7 +56064,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q585213#0",
-            "text": "Loví tchoř černý, jezevec americký a orel skalní.",
+            "text": "Loví ho tchoř černý, jezevec americký a orel skalní.",
             "cat": "vztahy",
             "not": [
               "Q1060476",
@@ -57695,7 +57682,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q6145#6",
-            "text": "Loví výr velký a tchoř.",
+            "text": "Loví ho výr velký a tchoř.",
             "cat": "vztahy",
             "not": [
               "Q109262315",
@@ -61753,7 +61740,6 @@ window.GAME_DATA = [
               "Q194663",
               "Q209291",
               "Q209497",
-              "Q210070",
               "Q602666",
               "Q752436",
               "Q842374"
@@ -66912,6 +66898,12 @@ window.GAME_DATA = [
         "order": "sudokopytníci",
         "wiki": "https://cs.wikipedia.org/wiki/Pl%C3%ADskavice_saravack%C3%A1",
         "photos": [
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Frazer%C2%B4s_dolphin_group.jpg",
+            "author": "",
+            "license": "Public domain",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Frazer%C2%B4s_dolphin_group.jpg/500px-Frazer%C2%B4s_dolphin_group.jpg"
+          },
           {
             "page": "https://commons.wikimedia.org/wiki/File:ASC_6083a_fraser_(R%C3%A9solution_de_l_%C3%A9cran).jpg",
             "author": "Laurent Bouveret",
@@ -130744,7 +130736,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q244197#7",
-            "text": "Ohrožují hlavně hranostajové a kočky.",
+            "text": "Ohrožují ho hlavně hranostajové a kočky.",
             "cat": "vztahy",
             "not": []
           },
@@ -153212,7 +153204,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q27075754#5",
-            "text": "Ohrožuje ptačí malárie, kterou přenášejí komáři.",
+            "text": "Ohrožuje ho ptačí malárie, kterou přenášejí komáři.",
             "cat": "vztahy",
             "not": []
           },
@@ -232411,7 +232403,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q1681355#5",
-            "text": "Loví draví ptáci, například orel bojovný.",
+            "text": "Loví ji draví ptáci, například orel bojovný.",
             "cat": "vztahy",
             "not": []
           }
@@ -244825,7 +244817,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q319535#x2",
-            "text": "Ohrožuje invazní ropucha aga, která je pro něj jedovatá.",
+            "text": "Ohrožuje ho invazní ropucha aga, která je pro něj jedovatá.",
             "cat": "vztahy",
             "not": [
               "Q168745",
@@ -249222,7 +249214,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q612564#5",
-            "text": "Loví stromoví hadi, například bojgy a bičovky.",
+            "text": "Loví ho stromoví hadi, například bojgy a bičovky.",
             "cat": "vztahy",
             "not": []
           }
@@ -289937,7 +289929,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q756964#5",
-            "text": "Loví žraloci, například žralok tygří a žralok bělavý.",
+            "text": "Loví ji žraloci, například žralok tygří a žralok bělavý.",
             "cat": "vztahy",
             "not": []
           }
@@ -290533,7 +290525,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q964954#4",
-            "text": "Loví žraloci.",
+            "text": "Loví ji žraloci.",
             "cat": "vztahy",
             "not": []
           }
@@ -369411,7 +369403,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q849381#4",
-            "text": "Někdy napadají houby kořenovník vrstevnatý a václavka obecná.",
+            "text": "Někdy ji napadají houby kořenovník vrstevnatý a václavka obecná.",
             "cat": "vztahy",
             "not": []
           }
@@ -371830,7 +371822,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q745425#x0",
-            "text": "Opylují brouci.",
+            "text": "Opylují ji brouci.",
             "cat": "vztahy",
             "not": []
           }
@@ -376355,7 +376347,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q1426766#0",
-            "text": "Opyluje vítr.",
+            "text": "Opyluje ji vítr.",
             "cat": "vztahy",
             "not": [
               "Q5920308"
@@ -386976,7 +386968,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q159279#2",
-            "text": "Opylují hlavně drobní motýli.",
+            "text": "Opylují ji hlavně drobní motýli.",
             "cat": "vztahy",
             "not": [
               "Q157430",
@@ -387050,7 +387042,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q159283#2",
-            "text": "Opylují hlavně čmeláci.",
+            "text": "Opylují ho hlavně čmeláci.",
             "cat": "vztahy",
             "not": [
               "Q12043120",
@@ -387128,7 +387120,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q159284#2",
-            "text": "Opylují hlavně motýli.",
+            "text": "Opylují ji hlavně motýli.",
             "cat": "vztahy",
             "not": [
               "Q157574",
@@ -410618,7 +410610,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q2247460#x4",
-            "text": "Ohrožují kopytníci a býložraví bezobratlí.",
+            "text": "Ohrožují ji kopytníci a býložraví bezobratlí.",
             "cat": "vztahy",
             "not": []
           }
@@ -431397,7 +431389,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q27668537#x3",
-            "text": "Pěstují lidé už od dob starých Římanů.",
+            "text": "Pěstují ji lidé už od dob starých Římanů.",
             "cat": "čísla",
             "not": [
               "Q10432825",
@@ -455145,7 +455137,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q13189#8",
-            "text": "Mohou napadat červci a puklice.",
+            "text": "Mohou ji napadat červci a puklice.",
             "cat": "vztahy",
             "not": []
           },
@@ -497714,7 +497706,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q177932#x1",
-            "text": "Napadá řada škůdců: hmyz, hlístice, slimáci i holubi hřivnáči.",
+            "text": "Napadá ji řada škůdců: hmyz, hlístice, slimáci i holubi hřivnáči.",
             "cat": "vztahy",
             "not": []
           },
@@ -548082,7 +548074,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q157422#0",
-            "text": "Spásá i jeden z nosatců.",
+            "text": "Spásá ho i jeden z nosatců.",
             "cat": "vztahy",
             "not": []
           },
@@ -580157,7 +580149,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q2319755#4",
-            "text": "Mohou poškozovat slimáci.",
+            "text": "Mohou ji poškozovat slimáci.",
             "cat": "vztahy",
             "not": []
           }
@@ -591214,7 +591206,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q3376352#4",
-            "text": "Napadá parazitická záraza, která mu odčerpává živiny.",
+            "text": "Napadá ho parazitická záraza, která mu odčerpává živiny.",
             "cat": "vztahy",
             "not": []
           }
@@ -604821,7 +604813,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q813599#5",
-            "text": "Utlačují silnější konkurenti: ostružiníky a kopřivy.",
+            "text": "Utlačují ho silnější konkurenti: ostružiníky a kopřivy.",
             "cat": "vztahy",
             "not": []
           }
@@ -691268,7 +691260,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q882716#x2",
-            "text": "Požírají například čtverzubci, krevety, a dokonce i některé sasanky.",
+            "text": "Požírají ji například čtverzubci, krevety, a dokonce i některé sasanky.",
             "cat": "vztahy",
             "not": []
           },

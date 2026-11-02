@@ -309,8 +309,23 @@ Přečti ${root}/data/czech_names/found/${id}.json (id → jméno, alternativy, 
 Zapiš nástrojem Write do ${root}/data/czech_names/checked/${id}.json jen JSON s položkou pro každé nalezené jméno:
 {"Q1": {"ok": true, "name": "Kvasinka pivní", "why": "BioLib i učebnice mikrobiologie"}, "Q2": {"ok": false, "why": "stránka uvádí jiný druh"}}
 Vrať jen slovo HOTOVO.`
+const pronounPrompt = (id) => `Opravuješ češtinu v dětském přírodovědném kvízu. V některých větách je druh předmětem, ale chybí zájmeno, takže věta nedává smysl.
+
+Přečti ${root}/data/pronoun/jobs/${id}.json. Každá položka má "id", "species" (o tomto druhu věta je), "text" a "quote" (zdroj).
+
+Podle pádů a podle citace rozhodni, kdo koná. Hledej věty, kde koná někdo jiný a druh je předmět bez zájmena:
+- „Loví výr velký a tchoř.“ o ježkovi → „Loví ho výr velký a tchoř.“
+- „Opylují včely a čmeláci.“ o rostlině → „Opylují ji včely a čmeláci.“
+- „Napadá ho“ a „Loví myši.“ (myši jsou kořist druhu) jsou v pořádku, ty neopravuj.
+
+Zájmeno (ho, ji, je) vyber podle rodu českého jména druhu v poli "species", u latinského jména použij „ho“ nebo větu přeformuluj bez zájmena. Zachovej význam i údaje ze zdroje, nic nepřidávej a neopravuj jiné věci. Věty, kde koná sám druh, nech být. Když z citace nejde poznat, kdo koná, větu nech být.
+
+Zapiš nástrojem Write do ${root}/data/pronoun/found/${id}.json jen tento JSON (bez nálezu prázdný seznam):
+{"fixes": [{"id": "Q1#0", "text": "Loví ho výr velký a tchoř."}]}
+Vrať jen slovo HOTOVO.`
 function run({ slug, kingdom, stage }, id) {
-  if (stage === 'names') return ask(namesPrompt(id), { label: `jména:${id}`, phase: 'Česká jména', model: 'sonnet' })
+  if (stage === 'pronoun') return ask(pronounPrompt(id), { label: `zájmena:${id}`, phase: 'Jazyk', model: 'sonnet' })
+  if (stage === 'names')return ask(namesPrompt(id), { label: `jména:${id}`, phase: 'Česká jména', model: 'sonnet' })
   if (stage === 'names_check') return ask(namesCheckPrompt(id), { label: `ověření jmen:${id}`, phase: 'Česká jména' })
   if (stage === 'facts') return ask(factsPrompt(slug, kingdom, id), { label: `fakta:${slug}:${id}`, phase: 'Fakta a fotky', model: 'haiku' })
   // překlad a výběr z cizího jazyka potřebuje víc než lehký model
