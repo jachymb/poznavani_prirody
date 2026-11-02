@@ -456909,6 +456909,149 @@ window.GAME_DATA = [
         "emoji": "🌸"
       },
       {
+        "id": "Q133573",
+        "name": "Ajahuaska",
+        "latin": "Banisteriopsis caapi",
+        "family": "malpighiovité",
+        "order": "malpighiotvaré",
+        "wiki": "https://cs.wikipedia.org/wiki/Banisteriopsis_caapi",
+        "photos": [
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Starr-140222-0329-Banisteriopsis_caapi-leaves-Haiku-Maui_(24613686313).jpg",
+            "author": "Forest and Kim Starr",
+            "license": "CC BY 3.0 us",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Starr-140222-0329-Banisteriopsis_caapi-leaves-Haiku-Maui_%2824613686313%29.jpg/500px-Starr-140222-0329-Banisteriopsis_caapi-leaves-Haiku-Maui_%2824613686313%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Starr-140222-0335-Banisteriopsis_caapi-leaves-Haiku-Maui_(25240510635).jpg",
+            "author": "Forest and Kim Starr",
+            "license": "CC BY 3.0 us",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Starr-140222-0335-Banisteriopsis_caapi-leaves-Haiku-Maui_%2825240510635%29.jpg/500px-Starr-140222-0335-Banisteriopsis_caapi-leaves-Haiku-Maui_%2825240510635%29.jpg"
+          }
+        ],
+        "facts": [
+          {
+            "id": "Q133573#0",
+            "text": "Roste jako liána v amazonské džungli.",
+            "cat": "výskyt",
+            "not": [
+              "Q108684",
+              "Q10912510",
+              "Q1160961",
+              "Q12861234",
+              "Q1425243",
+              "Q160459",
+              "Q27033",
+              "Q2878084",
+              "Q481711",
+              "Q594058"
+            ]
+          },
+          {
+            "id": "Q133573#x0",
+            "text": "Dorůstá délky až 30 metrů.",
+            "cat": "čísla",
+            "not": [
+              "Q108684",
+              "Q12861234",
+              "Q160459",
+              "Q27033",
+              "Q2878084",
+              "Q594058"
+            ]
+          },
+          {
+            "id": "Q133573#x1",
+            "text": "Pro oporu se ovíjí kolem jiných rostlin.",
+            "cat": "růst",
+            "not": [
+              "Q108684",
+              "Q10912510",
+              "Q1160961",
+              "Q12861234",
+              "Q1425243",
+              "Q160459",
+              "Q27033",
+              "Q2878084",
+              "Q481711",
+              "Q594058"
+            ]
+          },
+          {
+            "id": "Q133573#x2",
+            "text": "Kvete jen zřídka, nejčastěji v lednu.",
+            "cat": "růst",
+            "not": [
+              "Q10912510",
+              "Q160459",
+              "Q27033",
+              "Q2878084",
+              "Q594058"
+            ]
+          },
+          {
+            "id": "Q133573#x3",
+            "text": "Pěstované rostliny bývají neplodné, proto se množí řízky.",
+            "cat": "růst",
+            "not": [
+              "Q160459",
+              "Q27033",
+              "Q2878084",
+              "Q594058"
+            ]
+          },
+          {
+            "id": "Q133573#x4",
+            "text": "Obsahuje alkaloidy, které mohou způsobovat halucinace.",
+            "cat": "účinky",
+            "not": [
+              "Q108684",
+              "Q12861234",
+              "Q1425243",
+              "Q27033"
+            ]
+          },
+          {
+            "id": "Q133573#x6",
+            "text": "Roste v celém povodí Amazonky.",
+            "cat": "výskyt",
+            "not": [
+              "Q108684",
+              "Q10912510",
+              "Q12861234",
+              "Q1425243",
+              "Q160459",
+              "Q27033",
+              "Q2878084",
+              "Q481711",
+              "Q594058"
+            ]
+          },
+          {
+            "id": "Q133573#x7",
+            "text": "Plody mají křídla dlouhá 2 až 4 centimetry.",
+            "cat": "čísla",
+            "not": [
+              "Q108684",
+              "Q10912510",
+              "Q1160961",
+              "Q12861234",
+              "Q1425243",
+              "Q156790",
+              "Q160459",
+              "Q2878084",
+              "Q481711",
+              "Q594058"
+            ]
+          }
+        ],
+        "continents": [
+          "SA"
+        ],
+        "pop": 30,
+        "emoji": "🌿"
+      },
+      {
         "id": "Q133616",
         "name": "Lomikámen nicí",
         "latin": "Saxifraga cernua",
@@ -470072,7 +470215,9 @@ window.GAME_DATA = [
             "id": "Q157532#x3",
             "text": "Kůru, listy a pupeny ochotně požírají bobři.",
             "cat": "vztahy",
-            "not": []
+            "not": [
+              "Q133573"
+            ]
           }
         ],
         "continents": [
@@ -474711,6 +474856,7 @@ window.GAME_DATA = [
             "text": "Roste jako keř vysoký 0,5 až 2 metry.",
             "cat": "vzhled",
             "not": [
+              "Q133573",
               "Q157726",
               "Q158376",
               "Q158578",
@@ -488752,16 +488898,6 @@ window.GAME_DATA = [
         ],
         "facts": [
           {
-            "id": "Q161670#0",
-            "text": "Kvete na jaře, brzy po roztátí sněhu, od dubna do června.",
-            "cat": "růst",
-            "not": [
-              "Q161697",
-              "Q913129",
-              "Q922370"
-            ]
-          },
-          {
             "id": "Q161670#4",
             "text": "Později v sezóně ho opylují zejména drobné mouchy.",
             "cat": "vztahy",
@@ -500921,6 +501057,7 @@ window.GAME_DATA = [
             "text": "Zralé plody s třeskem explodují a vymršťují semena.",
             "cat": "růst",
             "not": [
+              "Q133573",
               "Q147064",
               "Q157540",
               "Q158590",
@@ -522399,6 +522536,7 @@ window.GAME_DATA = [
             "cat": "čísla",
             "not": [
               "Q13189",
+              "Q133573",
               "Q146281",
               "Q149553",
               "Q15385772",
@@ -586329,7 +586467,9 @@ window.GAME_DATA = [
             "id": "Q267749#1",
             "text": "V Thárské poušti se používá proti šíření pouště.",
             "cat": "využití",
-            "not": []
+            "not": [
+              "Q133573"
+            ]
           }
         ],
         "continents": [
@@ -588378,14 +588518,6 @@ window.GAME_DATA = [
               "Q536658",
               "Q905980",
               "Q9344158"
-            ]
-          },
-          {
-            "id": "Q276342#1",
-            "text": "Dorůstá do výšky 50 až 100 centimetrů.",
-            "cat": "čísla",
-            "not": [
-              "Q12033758"
             ]
           },
           {
