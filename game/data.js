@@ -626042,6 +626042,7 @@ window.GAME_DATA = [
           "AF"
         ],
         "pop": 1,
+        "clade": "chromista",
         "emoji": "🦠"
       },
       {
@@ -626177,6 +626178,7 @@ window.GAME_DATA = [
           "OC"
         ],
         "pop": 57,
+        "clade": "rhizaria",
         "emoji": "🦠"
       },
       {
@@ -626197,7 +626199,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q1114305#0",
-            "text": "Způsobuje sexuálně přenosnou nemoc měkký vřed.",
+            "text": "Způsobuje sexuálně přenosnou nemoc zvanou měkký vřed.",
             "cat": "vztahy",
             "not": [
               "Q104443866",
@@ -626427,7 +626429,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q115528#0",
-            "text": "Jejich přenašeči jsou cizopasní členovci.",
+            "text": "Přenášejí je cizopasní členovci.",
             "cat": "vztahy",
             "not": [
               "Q1114305",
@@ -626655,6 +626657,7 @@ window.GAME_DATA = [
           "OC"
         ],
         "pop": 22,
+        "clade": "nálevníci",
         "emoji": "🦠"
       },
       {
@@ -626744,6 +626747,7 @@ window.GAME_DATA = [
           "EU"
         ],
         "pop": 5,
+        "clade": "rhizaria",
         "emoji": "🦠"
       },
       {
@@ -626986,7 +626990,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q131027#1",
-            "text": "Parazituje hlavně na člověku.",
+            "text": "Hlavním hostitelem je člověk.",
             "cat": "vztahy",
             "not": [
               "Q1061596",
@@ -627221,7 +627225,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q131268#3",
-            "text": "Za nepříznivých podmínek tvoří endospory, aby přežila.",
+            "text": "Za nepříznivých podmínek tvoří endospory.",
             "cat": "účinky",
             "not": [
               "Q1198419",
@@ -627371,7 +627375,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q131273#3",
-            "text": "V Česku se nejspíš nejvíc vyskytuje od června do srpna.",
+            "text": "V Česku lze nejvyšší výskyt předpokládat od června do srpna.",
             "cat": "výskyt",
             "not": []
           }
@@ -627406,7 +627410,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q131307#1",
-            "text": "Soupeří s jinými mikroby, například salmonelou.",
+            "text": "Soupeří s jinými mikroby, například se salmonelou.",
             "cat": "vztahy",
             "not": []
           }
@@ -627667,7 +627671,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q132592#0",
-            "text": "Způsobuje mnoho infekcí, které lidé získají v nemocnici.",
+            "text": "Způsobuje mnoho infekcí, kterými se lidé nakazí v nemocnici.",
             "cat": "vztahy",
             "not": [
               "Q131129",
@@ -627724,7 +627728,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q132595#1",
-            "text": "Živí se bakteriemi, buněčným detritem a červenými krvinkami.",
+            "text": "Živí se bakteriemi, zbytky buněk a červenými krvinkami.",
             "cat": "potrava",
             "not": [
               "Q131129",
@@ -627946,7 +627950,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q134351#3",
-            "text": "Vědci ho používají jako modelový organismus.",
+            "text": "Používá se jako modelový organismus.",
             "cat": "využití",
             "not": []
           }
@@ -628007,7 +628011,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q134734#3",
-            "text": "Hlavním příznakem jsou akutní, vodnaté a nekrvavé průjmy.",
+            "text": "Hlavním příznakem jsou akutní vodnaté průjmy bez krve.",
             "cat": "účinky",
             "not": [
               "Q146310",
@@ -628550,7 +628554,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q141236#1",
-            "text": "Živí se škrobovými zrny a buněčným detritem.",
+            "text": "Živí se škrobovými zrny a zbytky buněk.",
             "cat": "potrava",
             "not": [
               "Q1950715",
@@ -628587,6 +628591,7 @@ window.GAME_DATA = [
           "OC"
         ],
         "pop": 27,
+        "clade": "nálevníci",
         "emoji": "🦠"
       },
       {
@@ -628619,7 +628624,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q142705#2",
-            "text": "Je všudypřítomná ve vlhku, v půdě i v rostlinách.",
+            "text": "Vyskytuje se všude ve vlhkém prostředí, v půdě i v rostlinách.",
             "cat": "výskyt",
             "not": [
               "Q131271",
@@ -628837,7 +628842,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q1500736#0",
-            "text": "Nejčastěji napadá zralé plody ovoce.",
+            "text": "Nejčastěji napadá zralé ovoce.",
             "cat": "vztahy",
             "not": [
               "Q1152218",
@@ -628851,7 +628856,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q1500736#1",
-            "text": "Parazité rodu Syncephalis omezují jeho pohlavní rozmnožování.",
+            "text": "Někteří parazité omezují jeho pohlavní rozmnožování.",
             "cat": "vztahy",
             "not": []
           }
@@ -628887,7 +628892,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q150954#0",
-            "text": "Najde se v půdě i ve vodě.",
+            "text": "Vyskytuje se v půdě i ve vodě.",
             "cat": "výskyt",
             "not": [
               "Q5233857"
@@ -628936,7 +628941,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q150962#1",
-            "text": "Velikostí dosahuje 0,8 až 1,5 µm.",
+            "text": "Měří 0,8 až 1,5 µm.",
             "cat": "čísla",
             "not": [
               "Q1152218",
@@ -629000,7 +629005,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q153875#4",
-            "text": "Způsobuje mor u lidí.",
+            "text": "Způsobuje u lidí mor.",
             "cat": "vztahy",
             "not": [
               "Q1061596",
@@ -629204,7 +629209,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q155891#0",
-            "text": "Způsobuje nemoc, které se říká Hansenova.",
+            "text": "Způsobuje Hansenovu nemoc.",
             "cat": "vztahy",
             "not": [
               "Q131238",
@@ -629483,6 +629488,7 @@ window.GAME_DATA = [
           "OC"
         ],
         "pop": 75,
+        "clade": "chromista",
         "emoji": "🦠"
       },
       {
@@ -629557,7 +629563,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q1796255#0",
-            "text": "Pohybuje se klouzavým pohybem.",
+            "text": "Pohybuje se klouzáním.",
             "cat": "vzhled",
             "not": [
               "Q132592",
@@ -629996,6 +630002,7 @@ window.GAME_DATA = [
           "OC"
         ],
         "pop": 18,
+        "clade": "nálevníci",
         "emoji": "🦠"
       },
       {
@@ -630016,7 +630023,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q1946250#0",
-            "text": "Živí se rozkladem kyseliny octové a vyrábí metan.",
+            "text": "Živí se rozkladem kyseliny octové, při kterém vzniká metan.",
             "cat": "potrava",
             "not": [
               "Q131129",
@@ -630151,7 +630158,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q1950818#0",
-            "text": "Přenáší ji kousnutí hmyzu.",
+            "text": "Přenáší se při kousnutí hmyzem.",
             "cat": "vztahy",
             "not": [
               "Q1114305",
@@ -630296,7 +630303,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q220392#1",
-            "text": "Tento druh je jednobuněčná řasa, která fotosyntetizuje.",
+            "text": "Je to jednobuněčná fotosyntetizující řasa.",
             "cat": "vzhled",
             "not": [
               "Q1061596",
@@ -630319,6 +630326,7 @@ window.GAME_DATA = [
           "OC"
         ],
         "pop": 27,
+        "clade": "obrněnky",
         "emoji": "🦠"
       },
       {
@@ -630396,7 +630404,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q236001#0",
-            "text": "Plave rychle pomocí bičíku.",
+            "text": "Pomocí bičíku rychle plave.",
             "cat": "vzhled",
             "not": [
               "Q1141979",
@@ -630473,7 +630481,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q2441328#2",
-            "text": "Dokáže nahromadit kolem 12 % betakarotenu ze sušiny buňky.",
+            "text": "Hromadí betakaroten, který může tvořit kolem 12 % sušiny buňky.",
             "cat": "čísla",
             "not": [
               "Q131649",
@@ -630726,7 +630734,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q2658061#3",
-            "text": "Člověk se může nakazit jedením syrového masa.",
+            "text": "Člověk se může nakazit, když jí syrové maso.",
             "cat": "vztahy",
             "not": [
               "Q1152218",
@@ -630737,13 +630745,13 @@ window.GAME_DATA = [
           },
           {
             "id": "Q2658061#4",
-            "text": "Důkladným vařením masa se nákaze dá zabránit.",
+            "text": "Nákaze se dá zabránit důkladným vařením masa.",
             "cat": "vztahy",
             "not": []
           },
           {
             "id": "Q2658061#5",
-            "text": "Nákazy jsou časté u domácích zvířat, třeba skotu nebo ovcí.",
+            "text": "Nákazy jsou časté u domácích zvířat, třeba u skotu nebo ovcí.",
             "cat": "vztahy",
             "not": []
           }
@@ -630837,7 +630845,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q26816853#4",
-            "text": "Přilne k lidské kůži i k neživým površím.",
+            "text": "Dokáže přilnout k lidské kůži i k neživým povrchům.",
             "cat": "výskyt",
             "not": []
           }
@@ -630872,7 +630880,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q2697755#0",
-            "text": "Najdeme ji ve sladké, slané i mořské vodě.",
+            "text": "Vyskytuje se ve sladké, slané i mořské vodě.",
             "cat": "výskyt",
             "not": [
               "Q156007",
@@ -630917,7 +630925,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q2706492#1",
-            "text": "Slouží jako ukazatel znečištěné vody.",
+            "text": "Slouží jako ukazatel znečištění vody.",
             "cat": "využití",
             "not": [
               "Q132595",
@@ -630941,7 +630949,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q2706492#3",
-            "text": "Umí plavat rychlostí víc než 1,5 milimetru za sekundu.",
+            "text": "Dokáže plavat rychlostí přes 1,5 milimetru za sekundu.",
             "cat": "čísla",
             "not": [
               "Q132656",
@@ -630958,6 +630966,7 @@ window.GAME_DATA = [
           "OC"
         ],
         "pop": 21,
+        "clade": "nálevníci",
         "emoji": "🦠"
       },
       {
@@ -631148,6 +631157,7 @@ window.GAME_DATA = [
           "OC"
         ],
         "pop": 12,
+        "clade": "nálevníci",
         "emoji": "🦠"
       },
       {
@@ -631174,7 +631184,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q292015#1",
-            "text": "Tento druh je parazit, který se množí uvnitř buněk hostitele.",
+            "text": "Jako parazit se množí uvnitř buněk hostitele.",
             "cat": "vztahy",
             "not": [
               "Q1946250",
@@ -631185,7 +631195,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q292015#2",
-            "text": "Způsobuje nemoc lidí i zvířat.",
+            "text": "Způsobuje onemocnění lidí i zvířat.",
             "cat": "vztahy",
             "not": [
               "Q1946250",
@@ -631617,6 +631627,7 @@ window.GAME_DATA = [
           "OC"
         ],
         "pop": 6,
+        "clade": "chromista",
         "emoji": "🦠"
       },
       {
@@ -631702,7 +631713,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q311376#0",
-            "text": "Přenáší ho komár, když kousne člověka.",
+            "text": "Člověk se nakazí kousnutím infikovaného komára.",
             "cat": "vztahy",
             "not": [
               "Q104443866",
@@ -632010,7 +632021,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q3489113#1",
-            "text": "Napadá hostitele, na jeho těle rostou bílé až hnědé vatovité porosty.",
+            "text": "Na těle napadeného organismu se objevují bílé až hnědé vatovité porosty.",
             "cat": "vztahy",
             "not": [
               "Q139928",
@@ -632080,7 +632091,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q3492461#1",
-            "text": "Způsobuje hnilobu kořenů a hnilobu stonku rostlin.",
+            "text": "Způsobuje hnilobu kořenů a stonků rostlin.",
             "cat": "vztahy",
             "not": [
               "Q139928",
@@ -632275,7 +632286,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q386827#0",
-            "text": "Přežije dávku gama záření 15 000 grayů.",
+            "text": "Přežije i dávku 15 000 grayů gama záření.",
             "cat": "čísla",
             "not": [
               "Q115528",
@@ -632330,7 +632341,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q3898962#0",
-            "text": "Získává energii hlavně ze sapropelu, sedimentu ve stojatých vodách.",
+            "text": "Získává energii hlavně ze sapropelu, tedy sedimentu ve stojatých vodách.",
             "cat": "potrava",
             "not": [
               "Q12043982",
@@ -632400,7 +632411,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q4978547#0",
-            "text": "Vnímaví k němu jsou psi a volně žijící psovité šelmy.",
+            "text": "Nakazit se mohou psi a volně žijící psovité šelmy.",
             "cat": "vztahy",
             "not": [
               "Q150962",
@@ -632557,7 +632568,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q5201274#0",
-            "text": "Spící stadia tvoří nejčastěji v hlodavcích.",
+            "text": "Spící stadia tvoří nejčastěji v těle hlodavců.",
             "cat": "vztahy",
             "not": []
           },
@@ -632714,7 +632725,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q56290719#0",
-            "text": "Způsobuje průjem v trávicím traktu, když jsou střevní bakterie potlačeny antibiotiky.",
+            "text": "Způsobuje průjem, když antibiotika potlačí běžné střevní bakterie.",
             "cat": "vztahy",
             "not": [
               "Q1152218",
@@ -632884,7 +632895,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q62895951#0",
-            "text": "Žije v lidském trávicím ústrojí, zdravým lidem nezpůsobuje nemoc.",
+            "text": "Žije v lidské trávicí soustavě a zdravým lidem nezpůsobuje onemocnění.",
             "cat": "výskyt",
             "not": [
               "Q156007"
@@ -632965,7 +632976,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q63409998#2",
-            "text": "Umí růst s využitím elementární síry.",
+            "text": "K růstu dokáže využívat elementární síru.",
             "cat": "potrava",
             "not": [
               "Q131452",
@@ -633106,7 +633117,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q6823576#3",
-            "text": "Žije ve spolupráci s jinými mikroorganismy v bioplynových stanicích.",
+            "text": "V bioplynových stanicích spolupracuje s jinými mikroorganismy.",
             "cat": "vztahy",
             "not": [
               "Q131003",
@@ -633218,7 +633229,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q719725#0",
-            "text": "Buňky tohoto druhu jsou oválné až kulovité, velké 5–10 mikrometrů.",
+            "text": "Buňky jsou oválné až kulovité, velké 5 až 10 mikrometrů.",
             "cat": "vzhled",
             "not": [
               "Q107027",
