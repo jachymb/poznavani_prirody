@@ -225,7 +225,7 @@
       el("dl", { class: "meta" },
         el("dt", {}, "ID"), el("dd", {}, el("a", { href: `https://www.wikidata.org/wiki/${s.id}`, target: "_blank", rel: "noopener" }, s.id)),
         el("dt", {}, "Wikipedie"), el("dd", {}, el("a", { href: s.wiki, target: "_blank", rel: "noopener" }, decodeURIComponent(s.wiki.split("/wiki/")[1] || s.wiki))),
-        el("dt", {}, "Zařazení"), el("dd", {}, [KINGDOMS[s.cls.kingdom], s.cls.name, s.order, s.family].filter(Boolean).join(" › ")),
+        el("dt", {}, "Zařazení"), el("dd", {}, [KINGDOMS[s.cls.kingdom], s.cls.name, s.clade, s.order, s.family].filter(Boolean).join(" › ")),
         s.peers ? [el("dt", {}, "Užší skupina"), el("dd", {}, s.peers)] : null,
         el("dt", {}, "Kontinenty"), el("dd", {}, s.continents.map((c) => CONTINENTS[c] || c).join(", ") || "—"),
         el("dt", {}, "Známost"), el("dd", {}, String(s.pop ?? "—")),

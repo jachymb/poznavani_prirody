@@ -173,13 +173,22 @@
     return scopes[step];
   }
 
+  // Vnitřní dělení třídy: řád a v něm čeleď, nebo skupina z Wikidat (žraloci, plži, mechy) a v ní řád.
   const group = (s) => s.clade || s.order;
-  // Odmocnina tlumí známost, velikost třídy (velké třídy nevytlačí malé) i velikost řádu ve třídě (žáby nevytlačí mloky).
+  const subgroup = (s) => `${group(s)}/${s.clade ? s.order : s.family}`;
+  // Odmocnina tlumí známost a velikost třídy (velké třídy nevytlačí malé); skupina dostane podíl podle odmocniny své velikosti
+  // a rozdělí ho stejně mezi podskupiny (žáby nevytlačí mloky, kočky ostatní šelmy).
+  const weightCache = new WeakMap();
   function weights(species) {
-    const size = {};
-    for (const s of species) size[group(s)] = (size[group(s)] || 0) + 1;
+    if (!weightCache.has(species)) weightCache.set(species, computeWeights(species));
+    return weightCache.get(species);
+  }
+  function computeWeights(species) {
+    const size = {}, spread = {};
+    for (const s of species) for (const key of [group(s), subgroup(s)]) size[key] = (size[key] || 0) + 1;
+    for (const [sub, top] of new Map(species.map((s) => [subgroup(s), group(s)]))) spread[top] = (spread[top] || 0) + Math.sqrt(size[sub]);
     const base = (s) => Math.sqrt((1 + (s.pop || 0)) / species.length);
-    const damped = (s) => (s.egg ? base(s) : base(s) / Math.sqrt(size[group(s)]));
+    const damped = (s) => (s.egg ? base(s) : (base(s) * Math.sqrt(size[group(s)])) / (Math.sqrt(size[subgroup(s)]) * spread[group(s)]));
     const scale = species.reduce((n, s) => n + base(s), 0) / species.reduce((n, s) => n + damped(s), 0);
     return new Map(species.map((s) => [s, s.egg ? base(s) : damped(s) * scale]));
   }

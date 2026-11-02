@@ -350488,6 +350488,7 @@ window.GAME_DATA = [
           "NA"
         ],
         "pop": 20,
+        "clade": "plži",
         "emoji": "🐌"
       },
       {
@@ -350574,6 +350575,7 @@ window.GAME_DATA = [
           "OC"
         ],
         "pop": 21,
+        "clade": "hlavonožci",
         "emoji": "🐙"
       },
       {
@@ -350657,6 +350659,7 @@ window.GAME_DATA = [
           "NA"
         ],
         "pop": 37,
+        "clade": "plži",
         "emoji": "🐌"
       },
       {
@@ -350719,6 +350722,7 @@ window.GAME_DATA = [
           "AF"
         ],
         "pop": 26,
+        "clade": "mlži",
         "emoji": "🦪"
       },
       {
@@ -350787,6 +350791,7 @@ window.GAME_DATA = [
           "OC"
         ],
         "pop": 43,
+        "clade": "plži",
         "emoji": "🐌"
       },
       {
@@ -350838,6 +350843,7 @@ window.GAME_DATA = [
           "SA"
         ],
         "pop": 21,
+        "clade": "plži",
         "emoji": "🐌"
       },
       {
@@ -350886,6 +350892,7 @@ window.GAME_DATA = [
           "AF"
         ],
         "pop": 17,
+        "clade": "mlži",
         "emoji": "🦪"
       },
       {
@@ -350944,6 +350951,7 @@ window.GAME_DATA = [
           "OC"
         ],
         "pop": 28,
+        "clade": "plži",
         "emoji": "🐌"
       },
       {
@@ -351025,6 +351033,7 @@ window.GAME_DATA = [
           "AS"
         ],
         "pop": 19,
+        "clade": "plži",
         "emoji": "🐌"
       },
       {
@@ -351083,6 +351092,7 @@ window.GAME_DATA = [
           "AS"
         ],
         "pop": 24,
+        "clade": "mlži",
         "emoji": "🦪"
       },
       {
@@ -351132,6 +351142,7 @@ window.GAME_DATA = [
           "OC"
         ],
         "pop": 20,
+        "clade": "plži",
         "emoji": "🐌"
       },
       {
@@ -351214,6 +351225,7 @@ window.GAME_DATA = [
           "SA"
         ],
         "pop": 13,
+        "clade": "plži",
         "emoji": "🐌"
       },
       {
@@ -351250,6 +351262,7 @@ window.GAME_DATA = [
           "OC"
         ],
         "pop": 21,
+        "clade": "plži",
         "emoji": "🐌"
       },
       {
@@ -351367,6 +351380,7 @@ window.GAME_DATA = [
           "OC"
         ],
         "pop": 23,
+        "clade": "hlavonožci",
         "emoji": "🦑"
       },
       {
@@ -351444,6 +351458,7 @@ window.GAME_DATA = [
           "AF"
         ],
         "pop": 15,
+        "clade": "plži",
         "emoji": "🐌"
       },
       {
@@ -351513,6 +351528,7 @@ window.GAME_DATA = [
           "NA"
         ],
         "pop": 18,
+        "clade": "plži",
         "emoji": "🐌"
       },
       {
@@ -351578,6 +351594,7 @@ window.GAME_DATA = [
           "EU"
         ],
         "pop": 12,
+        "clade": "plži",
         "emoji": "🐌"
       },
       {
@@ -351627,6 +351644,7 @@ window.GAME_DATA = [
           "AF"
         ],
         "pop": 23,
+        "clade": "mlži",
         "emoji": "🦪"
       },
       {
@@ -351698,6 +351716,7 @@ window.GAME_DATA = [
           "OC"
         ],
         "pop": 18,
+        "clade": "plži",
         "emoji": "🐌"
       },
       {
@@ -351739,6 +351758,7 @@ window.GAME_DATA = [
           "EU"
         ],
         "pop": 16,
+        "clade": "plži",
         "emoji": "🐌"
       },
       {
@@ -351811,6 +351831,7 @@ window.GAME_DATA = [
           "EU"
         ],
         "pop": 29,
+        "clade": "plži",
         "emoji": "🐚"
       },
       {
@@ -351866,6 +351887,7 @@ window.GAME_DATA = [
           "OC"
         ],
         "pop": 19,
+        "clade": "plži",
         "emoji": "🐌"
       },
       {
@@ -351962,6 +351984,7 @@ window.GAME_DATA = [
           "OC"
         ],
         "pop": 24,
+        "clade": "hlavonožci",
         "emoji": "🐙"
       },
       {
@@ -352005,6 +352028,7 @@ window.GAME_DATA = [
           "OC"
         ],
         "pop": 12,
+        "clade": "plži",
         "emoji": "🐌"
       },
       {
@@ -352093,6 +352117,7 @@ window.GAME_DATA = [
           "OC"
         ],
         "pop": 17,
+        "clade": "plži",
         "emoji": "🐌"
       },
       {
@@ -352169,6 +352194,7 @@ window.GAME_DATA = [
           "NA"
         ],
         "pop": 32,
+        "clade": "plži",
         "emoji": "🐌"
       },
       {
@@ -352242,6 +352268,7 @@ window.GAME_DATA = [
           "AF"
         ],
         "pop": 32,
+        "clade": "mlži",
         "emoji": "🦪"
       },
       {
@@ -352294,6 +352321,7 @@ window.GAME_DATA = [
           "NA"
         ],
         "pop": 22,
+        "clade": "plži",
         "emoji": "🐌"
       },
       {
@@ -352432,6 +352460,7 @@ window.GAME_DATA = [
           "OC"
         ],
         "pop": 35,
+        "clade": "plži",
         "emoji": "🐌"
       },
       {
@@ -352494,6 +352523,7 @@ window.GAME_DATA = [
           "AF"
         ],
         "pop": 12,
+        "clade": "plži",
         "emoji": "🐌"
       },
       {
@@ -352573,6 +352603,7 @@ window.GAME_DATA = [
           "EU"
         ],
         "pop": 55,
+        "clade": "plži",
         "emoji": "🐌"
       },
       {
@@ -352638,6 +352669,7 @@ window.GAME_DATA = [
           "OC"
         ],
         "pop": 10,
+        "clade": "hlavonožci",
         "emoji": "🐙"
       },
       {
@@ -352705,6 +352737,7 @@ window.GAME_DATA = [
           "OC"
         ],
         "pop": 18,
+        "clade": "plži",
         "emoji": "🐌"
       },
       {
@@ -352778,6 +352811,7 @@ window.GAME_DATA = [
           "OC"
         ],
         "pop": 33,
+        "clade": "plži",
         "emoji": "🐌"
       },
       {
@@ -352850,6 +352884,7 @@ window.GAME_DATA = [
           "OC"
         ],
         "pop": 46,
+        "clade": "mlži",
         "emoji": "🦪"
       },
       {
@@ -352892,6 +352927,7 @@ window.GAME_DATA = [
           "EU"
         ],
         "pop": 11,
+        "clade": "plži",
         "emoji": "🐌"
       },
       {
@@ -352950,6 +352986,7 @@ window.GAME_DATA = [
           "EU"
         ],
         "pop": 9,
+        "clade": "plži",
         "emoji": "🐌"
       },
       {
@@ -352988,6 +353025,7 @@ window.GAME_DATA = [
           "AF"
         ],
         "pop": 18,
+        "clade": "mlži",
         "emoji": "🦪"
       },
       {
@@ -353072,6 +353110,7 @@ window.GAME_DATA = [
           "NA"
         ],
         "pop": 10,
+        "clade": "hlavonožci",
         "emoji": "🦑"
       },
       {
@@ -353130,6 +353169,7 @@ window.GAME_DATA = [
           "EU"
         ],
         "pop": 12,
+        "clade": "plži",
         "emoji": "🐌"
       },
       {
@@ -353244,6 +353284,7 @@ window.GAME_DATA = [
           "EU"
         ],
         "pop": 37,
+        "clade": "plži",
         "emoji": "🐌"
       },
       {
@@ -353315,6 +353356,7 @@ window.GAME_DATA = [
           "AF"
         ],
         "pop": 18,
+        "clade": "plži",
         "emoji": "🐌"
       },
       {
@@ -353354,6 +353396,7 @@ window.GAME_DATA = [
           "AS"
         ],
         "pop": 18,
+        "clade": "plži",
         "emoji": "🐌"
       },
       {
@@ -353400,6 +353443,7 @@ window.GAME_DATA = [
           "SA"
         ],
         "pop": 29,
+        "clade": "plži",
         "emoji": "🐌"
       },
       {
@@ -353482,6 +353526,7 @@ window.GAME_DATA = [
           "AF"
         ],
         "pop": 29,
+        "clade": "plži",
         "emoji": "🐌"
       },
       {
@@ -353552,6 +353597,7 @@ window.GAME_DATA = [
           "SA"
         ],
         "pop": 51,
+        "clade": "hlavonožci",
         "emoji": "🐙"
       },
       {
@@ -353621,6 +353667,7 @@ window.GAME_DATA = [
           "AS"
         ],
         "pop": 17,
+        "clade": "plži",
         "emoji": "🐌"
       },
       {
@@ -353681,6 +353728,7 @@ window.GAME_DATA = [
           "AF"
         ],
         "pop": 11,
+        "clade": "plži",
         "emoji": "🐌"
       },
       {
@@ -353758,6 +353806,7 @@ window.GAME_DATA = [
           "OC"
         ],
         "pop": 27,
+        "clade": "mlži",
         "emoji": "🦪"
       },
       {
@@ -353824,6 +353873,7 @@ window.GAME_DATA = [
           "OC"
         ],
         "pop": 40,
+        "clade": "mlži",
         "emoji": "🦪"
       },
       {
@@ -353863,6 +353913,7 @@ window.GAME_DATA = [
           "NA"
         ],
         "pop": 36,
+        "clade": "mlži",
         "emoji": "🐌"
       },
       {
@@ -353945,6 +353996,7 @@ window.GAME_DATA = [
           "AF"
         ],
         "pop": 37,
+        "clade": "hlavonožci",
         "emoji": "🦑"
       },
       {
@@ -354024,6 +354076,7 @@ window.GAME_DATA = [
           "NA"
         ],
         "pop": 31,
+        "clade": "mlži",
         "emoji": "🦪"
       },
       {
@@ -354123,6 +354176,7 @@ window.GAME_DATA = [
           "EU"
         ],
         "pop": 15,
+        "clade": "plži",
         "emoji": "🐌"
       },
       {
@@ -354193,6 +354247,7 @@ window.GAME_DATA = [
           "AS"
         ],
         "pop": 28,
+        "clade": "mlži",
         "emoji": "🦪"
       },
       {
@@ -354240,6 +354295,7 @@ window.GAME_DATA = [
           "AS"
         ],
         "pop": 25,
+        "clade": "mlži",
         "emoji": "🦪"
       },
       {
@@ -354298,6 +354354,7 @@ window.GAME_DATA = [
           "EU"
         ],
         "pop": 14,
+        "clade": "plži",
         "emoji": "🐌"
       },
       {
@@ -354339,6 +354396,7 @@ window.GAME_DATA = [
           "OC"
         ],
         "pop": 20,
+        "clade": "mlži",
         "emoji": "🦪"
       },
       {
@@ -354395,6 +354453,7 @@ window.GAME_DATA = [
           "NA"
         ],
         "pop": 18,
+        "clade": "plži",
         "emoji": "🐌"
       },
       {
@@ -354508,6 +354567,7 @@ window.GAME_DATA = [
           "OC"
         ],
         "pop": 31,
+        "clade": "plži",
         "emoji": "🐌"
       },
       {
@@ -354620,6 +354680,7 @@ window.GAME_DATA = [
           "OC"
         ],
         "pop": 27,
+        "clade": "hlavonožci",
         "emoji": "🐚"
       },
       {
@@ -354686,6 +354747,7 @@ window.GAME_DATA = [
           "EU"
         ],
         "pop": 19,
+        "clade": "plži",
         "emoji": "🐌"
       },
       {
@@ -354748,6 +354810,7 @@ window.GAME_DATA = [
           "AS"
         ],
         "pop": 12,
+        "clade": "plži",
         "emoji": "🐌"
       },
       {
@@ -354802,6 +354865,7 @@ window.GAME_DATA = [
           "NA"
         ],
         "pop": 16,
+        "clade": "plži",
         "emoji": "🐌"
       },
       {
@@ -354854,6 +354918,7 @@ window.GAME_DATA = [
           "AS"
         ],
         "pop": 17,
+        "clade": "plži",
         "emoji": "🐌"
       },
       {
@@ -354899,6 +354964,7 @@ window.GAME_DATA = [
           "AF"
         ],
         "pop": 19,
+        "clade": "plži",
         "emoji": "🐌"
       },
       {
@@ -354952,6 +355018,7 @@ window.GAME_DATA = [
           "NA"
         ],
         "pop": 12,
+        "clade": "plži",
         "emoji": "🐌"
       },
       {
@@ -355004,6 +355071,7 @@ window.GAME_DATA = [
           "NA"
         ],
         "pop": 30,
+        "clade": "plži",
         "emoji": "🐌"
       },
       {
@@ -355062,6 +355130,7 @@ window.GAME_DATA = [
           "NA"
         ],
         "pop": 34,
+        "clade": "hlavonožci",
         "emoji": "🐙"
       },
       {
@@ -355145,6 +355214,7 @@ window.GAME_DATA = [
           "NA"
         ],
         "pop": 33,
+        "clade": "plži",
         "emoji": "🐌"
       },
       {
@@ -355200,6 +355270,7 @@ window.GAME_DATA = [
           "EU"
         ],
         "pop": 13,
+        "clade": "plži",
         "emoji": "🐌"
       },
       {
@@ -355257,6 +355328,7 @@ window.GAME_DATA = [
           "OC"
         ],
         "pop": 16,
+        "clade": "hlavonožci",
         "emoji": "🐚"
       },
       {
@@ -355307,6 +355379,7 @@ window.GAME_DATA = [
           "EU"
         ],
         "pop": 24,
+        "clade": "plži",
         "emoji": "🐌"
       }
     ]
@@ -408475,6 +408548,7 @@ window.GAME_DATA = [
           "OC"
         ],
         "pop": 77,
+        "clade": "přesličky",
         "emoji": "🌿"
       },
       {
@@ -408542,6 +408616,7 @@ window.GAME_DATA = [
           "NA"
         ],
         "pop": 32,
+        "clade": "přesličky",
         "emoji": "🌿"
       },
       {
@@ -408619,6 +408694,7 @@ window.GAME_DATA = [
           "NA"
         ],
         "pop": 35,
+        "clade": "kapradiny",
         "emoji": "🌿"
       },
       {
@@ -408693,6 +408769,7 @@ window.GAME_DATA = [
           "AS"
         ],
         "pop": 12,
+        "clade": "přesličky",
         "emoji": "🌿"
       },
       {
@@ -408770,6 +408847,7 @@ window.GAME_DATA = [
           "NA"
         ],
         "pop": 44,
+        "clade": "kapradiny",
         "emoji": "🌿"
       },
       {
@@ -408843,6 +408921,7 @@ window.GAME_DATA = [
           "NA"
         ],
         "pop": 37,
+        "clade": "kapradiny",
         "emoji": "🌿"
       },
       {
@@ -408926,6 +409005,7 @@ window.GAME_DATA = [
           "OC"
         ],
         "pop": 21,
+        "clade": "kapradiny",
         "emoji": "🌿"
       },
       {
@@ -409000,6 +409080,7 @@ window.GAME_DATA = [
           "NA"
         ],
         "pop": 28,
+        "clade": "kapradiny",
         "emoji": "🌿"
       },
       {
@@ -409084,6 +409165,7 @@ window.GAME_DATA = [
           "NA"
         ],
         "pop": 32,
+        "clade": "kapradiny",
         "emoji": "🌿"
       },
       {
@@ -409174,6 +409256,7 @@ window.GAME_DATA = [
           "SA"
         ],
         "pop": 40,
+        "clade": "kapradiny",
         "emoji": "🌿"
       },
       {
@@ -409264,6 +409347,7 @@ window.GAME_DATA = [
           "NA"
         ],
         "pop": 28,
+        "clade": "přesličky",
         "emoji": "🌿"
       },
       {
@@ -409329,6 +409413,7 @@ window.GAME_DATA = [
           "AF"
         ],
         "pop": 17,
+        "clade": "kapradiny",
         "emoji": "🌿"
       },
       {
@@ -409405,6 +409490,7 @@ window.GAME_DATA = [
           "NA"
         ],
         "pop": 28,
+        "clade": "kapradiny",
         "emoji": "🌿"
       },
       {
@@ -409479,6 +409565,7 @@ window.GAME_DATA = [
           "NA"
         ],
         "pop": 26,
+        "clade": "kapradiny",
         "emoji": "🌿"
       },
       {
@@ -409558,6 +409645,7 @@ window.GAME_DATA = [
           "NA"
         ],
         "pop": 22,
+        "clade": "kapradiny",
         "emoji": "🌿"
       },
       {
@@ -409613,6 +409701,7 @@ window.GAME_DATA = [
           "AS"
         ],
         "pop": 20,
+        "clade": "kapradiny",
         "emoji": "🌿"
       },
       {
@@ -409673,6 +409762,7 @@ window.GAME_DATA = [
           "NA"
         ],
         "pop": 30,
+        "clade": "kapradiny",
         "emoji": "🌿"
       },
       {
@@ -409755,6 +409845,7 @@ window.GAME_DATA = [
           "AF"
         ],
         "pop": 31,
+        "clade": "kapradiny",
         "emoji": "🌿"
       },
       {
@@ -409855,6 +409946,7 @@ window.GAME_DATA = [
           "OC"
         ],
         "pop": 29,
+        "clade": "kapradiny",
         "emoji": "🌿"
       },
       {
@@ -409894,6 +409986,7 @@ window.GAME_DATA = [
           "EU"
         ],
         "pop": 6,
+        "clade": "kapradiny",
         "emoji": "🌱"
       },
       {
@@ -409923,6 +410016,7 @@ window.GAME_DATA = [
           "EU"
         ],
         "pop": 16,
+        "clade": "kapradiny",
         "emoji": "🌿"
       },
       {
@@ -410000,6 +410094,7 @@ window.GAME_DATA = [
           "AF"
         ],
         "pop": 21,
+        "clade": "kapradiny",
         "emoji": "🌿"
       },
       {
@@ -410074,6 +410169,7 @@ window.GAME_DATA = [
           "NA"
         ],
         "pop": 23,
+        "clade": "kapradiny",
         "emoji": "🌿"
       },
       {
@@ -410153,6 +410249,7 @@ window.GAME_DATA = [
           "NA"
         ],
         "pop": 44,
+        "clade": "přesličky",
         "emoji": "🌿"
       },
       {
@@ -410294,6 +410391,7 @@ window.GAME_DATA = [
           "OC"
         ],
         "pop": 50,
+        "clade": "kapradiny",
         "emoji": "🌿"
       },
       {
@@ -410326,6 +410424,7 @@ window.GAME_DATA = [
           "EU"
         ],
         "pop": 11,
+        "clade": "kapradiny",
         "emoji": "🌿"
       },
       {
@@ -410415,6 +410514,7 @@ window.GAME_DATA = [
           "NA"
         ],
         "pop": 24,
+        "clade": "kapradiny",
         "emoji": "🌿"
       },
       {
@@ -410477,6 +410577,7 @@ window.GAME_DATA = [
           "NA"
         ],
         "pop": 22,
+        "clade": "kapradiny",
         "emoji": "🌿"
       },
       {
@@ -410558,6 +410659,7 @@ window.GAME_DATA = [
           "NA"
         ],
         "pop": 26,
+        "clade": "kapradiny",
         "emoji": "🌿"
       },
       {
@@ -410637,6 +410739,7 @@ window.GAME_DATA = [
           "EU"
         ],
         "pop": 11,
+        "clade": "kapradiny",
         "emoji": "🌿"
       },
       {
@@ -410679,6 +410782,7 @@ window.GAME_DATA = [
           "NA"
         ],
         "pop": 22,
+        "clade": "kapradiny",
         "emoji": "🌿"
       },
       {
@@ -410744,6 +410848,7 @@ window.GAME_DATA = [
           "NA"
         ],
         "pop": 30,
+        "clade": "přesličky",
         "emoji": "🌿"
       },
       {
@@ -410791,6 +410896,7 @@ window.GAME_DATA = [
           "NA"
         ],
         "pop": 35,
+        "clade": "přesličky",
         "emoji": "🌿"
       },
       {
@@ -410834,6 +410940,7 @@ window.GAME_DATA = [
           "NA"
         ],
         "pop": 19,
+        "clade": "kapradiny",
         "emoji": "🌿"
       },
       {
@@ -410912,6 +411019,7 @@ window.GAME_DATA = [
           "NA"
         ],
         "pop": 15,
+        "clade": "kapradiny",
         "emoji": "🌿"
       },
       {
@@ -410972,6 +411080,7 @@ window.GAME_DATA = [
           "OC"
         ],
         "pop": 26,
+        "clade": "kapradiny",
         "emoji": "🌿"
       },
       {
@@ -411047,6 +411156,7 @@ window.GAME_DATA = [
           "OC"
         ],
         "pop": 19,
+        "clade": "kapradiny",
         "emoji": "🌿"
       },
       {
@@ -411110,6 +411220,7 @@ window.GAME_DATA = [
           "AF"
         ],
         "pop": 28,
+        "clade": "kapradiny",
         "emoji": "🌿"
       },
       {
@@ -411169,6 +411280,7 @@ window.GAME_DATA = [
           "EU"
         ],
         "pop": 22,
+        "clade": "kapradiny",
         "emoji": "🌿"
       },
       {
@@ -411250,6 +411362,7 @@ window.GAME_DATA = [
           "OC"
         ],
         "pop": 17,
+        "clade": "kapradiny",
         "emoji": "🌱"
       },
       {
@@ -411311,6 +411424,7 @@ window.GAME_DATA = [
           "NA"
         ],
         "pop": 57,
+        "clade": "kapradiny",
         "emoji": "🌿"
       },
       {
@@ -411381,6 +411495,7 @@ window.GAME_DATA = [
           "OC"
         ],
         "pop": 57,
+        "clade": "kapradiny",
         "emoji": "🌿"
       },
       {
@@ -411430,6 +411545,7 @@ window.GAME_DATA = [
           "NA"
         ],
         "pop": 31,
+        "clade": "kapradiny",
         "emoji": "🌿"
       },
       {
@@ -411499,6 +411615,7 @@ window.GAME_DATA = [
           "NA"
         ],
         "pop": 26,
+        "clade": "kapradiny",
         "emoji": "🌿"
       },
       {
@@ -411597,6 +411714,7 @@ window.GAME_DATA = [
           "OC"
         ],
         "pop": 33,
+        "clade": "kapradiny",
         "emoji": "🌿"
       },
       {
@@ -411673,6 +411791,7 @@ window.GAME_DATA = [
           "NA"
         ],
         "pop": 33,
+        "clade": "kapradiny",
         "emoji": "🌿"
       },
       {
@@ -411720,6 +411839,7 @@ window.GAME_DATA = [
           "AF"
         ],
         "pop": 36,
+        "clade": "kapradiny",
         "emoji": "🌿"
       },
       {
@@ -411791,6 +411911,7 @@ window.GAME_DATA = [
           "NA"
         ],
         "pop": 24,
+        "clade": "kapradiny",
         "emoji": "🌿"
       },
       {
@@ -411875,6 +411996,7 @@ window.GAME_DATA = [
           "NA"
         ],
         "pop": 22,
+        "clade": "kapradiny",
         "emoji": "🌿"
       },
       {
@@ -411935,6 +412057,7 @@ window.GAME_DATA = [
           "NA"
         ],
         "pop": 21,
+        "clade": "kapradiny",
         "emoji": "🌿"
       },
       {
@@ -412036,6 +412159,7 @@ window.GAME_DATA = [
           "SA"
         ],
         "pop": 37,
+        "clade": "kapradiny",
         "emoji": "🌿"
       },
       {
@@ -412098,6 +412222,7 @@ window.GAME_DATA = [
           "NA"
         ],
         "pop": 45,
+        "clade": "kapradiny",
         "emoji": "🌿"
       },
       {
@@ -412184,6 +412309,7 @@ window.GAME_DATA = [
           "NA"
         ],
         "pop": 38,
+        "clade": "kapradiny",
         "emoji": "🌿"
       },
       {
@@ -412261,6 +412387,7 @@ window.GAME_DATA = [
           "EU"
         ],
         "pop": 13,
+        "clade": "kapradiny",
         "emoji": "🌿"
       },
       {
@@ -412376,6 +412503,7 @@ window.GAME_DATA = [
           "NA"
         ],
         "pop": 41,
+        "clade": "kapradiny",
         "emoji": "🌿"
       },
       {
@@ -412434,6 +412562,7 @@ window.GAME_DATA = [
           "NA"
         ],
         "pop": 26,
+        "clade": "kapradiny",
         "emoji": "🌿"
       },
       {
@@ -412491,6 +412620,7 @@ window.GAME_DATA = [
           "OC"
         ],
         "pop": 31,
+        "clade": "kapradiny",
         "emoji": "🌿"
       },
       {
@@ -412532,6 +412662,7 @@ window.GAME_DATA = [
           "NA"
         ],
         "pop": 26,
+        "clade": "přesličky",
         "emoji": "🌿"
       },
       {
@@ -412621,6 +412752,7 @@ window.GAME_DATA = [
           "NA"
         ],
         "pop": 39,
+        "clade": "přesličky",
         "emoji": "🌿"
       },
       {
@@ -412722,6 +412854,7 @@ window.GAME_DATA = [
           "NA"
         ],
         "pop": 26,
+        "clade": "kapradiny",
         "emoji": "🌿"
       },
       {
@@ -412770,6 +412903,7 @@ window.GAME_DATA = [
           "NA"
         ],
         "pop": 37,
+        "clade": "přesličky",
         "emoji": "🌿"
       },
       {
@@ -412844,6 +412978,7 @@ window.GAME_DATA = [
           "NA"
         ],
         "pop": 27,
+        "clade": "kapradiny",
         "emoji": "🌿"
       },
       {
@@ -412901,6 +413036,7 @@ window.GAME_DATA = [
           "NA"
         ],
         "pop": 29,
+        "clade": "kapradiny",
         "emoji": "🌿"
       },
       {
@@ -412958,6 +413094,7 @@ window.GAME_DATA = [
           "NA"
         ],
         "pop": 12,
+        "clade": "mechy",
         "emoji": "🌿"
       },
       {
@@ -412997,6 +413134,7 @@ window.GAME_DATA = [
           "SA"
         ],
         "pop": 17,
+        "clade": "mechy",
         "emoji": "🌿"
       },
       {
@@ -413037,6 +413175,7 @@ window.GAME_DATA = [
           "NA"
         ],
         "pop": 9,
+        "clade": "mechy",
         "emoji": "🌱"
       },
       {
@@ -413101,6 +413240,7 @@ window.GAME_DATA = [
           "NA"
         ],
         "pop": 8,
+        "clade": "mechy",
         "emoji": "🌱"
       },
       {
@@ -413155,6 +413295,7 @@ window.GAME_DATA = [
           "NA"
         ],
         "pop": 17,
+        "clade": "mechy",
         "emoji": "🌱"
       },
       {
@@ -413228,6 +413369,7 @@ window.GAME_DATA = [
           "NA"
         ],
         "pop": 18,
+        "clade": "mechy",
         "emoji": "🌱"
       },
       {
@@ -413288,6 +413430,7 @@ window.GAME_DATA = [
           "OC"
         ],
         "pop": 14,
+        "clade": "mechy",
         "emoji": "🌱"
       },
       {
@@ -413342,6 +413485,7 @@ window.GAME_DATA = [
           "NA"
         ],
         "pop": 17,
+        "clade": "mechy",
         "emoji": "🌱"
       },
       {
@@ -413375,6 +413519,7 @@ window.GAME_DATA = [
           "AS"
         ],
         "pop": 12,
+        "clade": "mechy",
         "emoji": "🌱"
       },
       {
@@ -413432,6 +413577,7 @@ window.GAME_DATA = [
           "OC"
         ],
         "pop": 14,
+        "clade": "mechy",
         "emoji": "🌱"
       },
       {
@@ -413495,6 +413641,7 @@ window.GAME_DATA = [
           "AS"
         ],
         "pop": 14,
+        "clade": "mechy",
         "emoji": "🌱"
       },
       {
@@ -413537,6 +413684,7 @@ window.GAME_DATA = [
           "OC"
         ],
         "pop": 18,
+        "clade": "mechy",
         "emoji": "🌱"
       },
       {
@@ -413602,6 +413750,7 @@ window.GAME_DATA = [
           "NA"
         ],
         "pop": 22,
+        "clade": "mechy",
         "emoji": "🌱"
       },
       {
@@ -413680,6 +413829,7 @@ window.GAME_DATA = [
           "OC"
         ],
         "pop": 17,
+        "clade": "mechy",
         "emoji": "🌱"
       },
       {
@@ -413725,6 +413875,7 @@ window.GAME_DATA = [
           "NA"
         ],
         "pop": 21,
+        "clade": "mechy",
         "emoji": "🌱"
       },
       {
@@ -413763,6 +413914,7 @@ window.GAME_DATA = [
           "OC"
         ],
         "pop": 14,
+        "clade": "mechy",
         "emoji": "🌿"
       },
       {
@@ -413828,6 +413980,7 @@ window.GAME_DATA = [
           "NA"
         ],
         "pop": 15,
+        "clade": "mechy",
         "emoji": "🌱"
       },
       {
@@ -413891,6 +414044,7 @@ window.GAME_DATA = [
           "SA"
         ],
         "pop": 15,
+        "clade": "mechy",
         "emoji": "🌱"
       },
       {
@@ -413942,6 +414096,7 @@ window.GAME_DATA = [
           "NA"
         ],
         "pop": 22,
+        "clade": "mechy",
         "emoji": "🌱"
       },
       {
@@ -414019,6 +414174,7 @@ window.GAME_DATA = [
           "OC"
         ],
         "pop": 22,
+        "clade": "mechy",
         "emoji": "🌱"
       },
       {
@@ -414055,6 +414211,7 @@ window.GAME_DATA = [
           "NA"
         ],
         "pop": 11,
+        "clade": "mechy",
         "emoji": "🌿"
       },
       {
@@ -414107,6 +414264,7 @@ window.GAME_DATA = [
           "OC"
         ],
         "pop": 16,
+        "clade": "mechy",
         "emoji": "🌱"
       },
       {
@@ -414193,6 +414351,7 @@ window.GAME_DATA = [
           "OC"
         ],
         "pop": 34,
+        "clade": "mechy",
         "emoji": "🌱"
       },
       {
@@ -414269,6 +414428,7 @@ window.GAME_DATA = [
           "NA"
         ],
         "pop": 22,
+        "clade": "mechy",
         "emoji": "🌱"
       },
       {
@@ -414318,6 +414478,7 @@ window.GAME_DATA = [
           "OC"
         ],
         "pop": 18,
+        "clade": "mechy",
         "emoji": "🌱"
       },
       {
@@ -414357,6 +414518,7 @@ window.GAME_DATA = [
           "OC"
         ],
         "pop": 22,
+        "clade": "mechy",
         "emoji": "🌱"
       },
       {
@@ -414408,6 +414570,7 @@ window.GAME_DATA = [
           "NA"
         ],
         "pop": 9,
+        "clade": "játrovky",
         "emoji": "🌱"
       },
       {
@@ -414488,6 +414651,7 @@ window.GAME_DATA = [
           "OC"
         ],
         "pop": 22,
+        "clade": "mechy",
         "emoji": "🌱"
       },
       {
@@ -414531,6 +414695,7 @@ window.GAME_DATA = [
           "NA"
         ],
         "pop": 12,
+        "clade": "mechy",
         "emoji": "🌱"
       },
       {
@@ -414570,6 +414735,7 @@ window.GAME_DATA = [
           "AN"
         ],
         "pop": 17,
+        "clade": "mechy",
         "emoji": "🌱"
       },
       {
@@ -414613,6 +414779,7 @@ window.GAME_DATA = [
           "NA"
         ],
         "pop": 14,
+        "clade": "mechy",
         "emoji": "🌱"
       },
       {
@@ -414671,6 +414838,7 @@ window.GAME_DATA = [
           "OC"
         ],
         "pop": 17,
+        "clade": "mechy",
         "emoji": "🌿"
       },
       {
@@ -414717,6 +414885,7 @@ window.GAME_DATA = [
           "OC"
         ],
         "pop": 18,
+        "clade": "hlevíky",
         "emoji": "🌿"
       },
       {
@@ -414762,6 +414931,7 @@ window.GAME_DATA = [
           "NA"
         ],
         "pop": 18,
+        "clade": "mechy",
         "emoji": "🌱"
       },
       {
@@ -414811,6 +414981,7 @@ window.GAME_DATA = [
           "NA"
         ],
         "pop": 14,
+        "clade": "mechy",
         "emoji": "🌱"
       },
       {
@@ -414864,6 +415035,7 @@ window.GAME_DATA = [
           "NA"
         ],
         "pop": 13,
+        "clade": "mechy",
         "emoji": "🌱"
       },
       {
@@ -414915,6 +415087,7 @@ window.GAME_DATA = [
           "NA"
         ],
         "pop": 10,
+        "clade": "mechy",
         "emoji": "🌱"
       },
       {
@@ -414958,6 +415131,7 @@ window.GAME_DATA = [
           "NA"
         ],
         "pop": 10,
+        "clade": "mechy",
         "emoji": "🌱"
       },
       {
@@ -415013,6 +415187,7 @@ window.GAME_DATA = [
           "NA"
         ],
         "pop": 14,
+        "clade": "mechy",
         "emoji": "🌱"
       },
       {
@@ -415102,6 +415277,7 @@ window.GAME_DATA = [
           "OC"
         ],
         "pop": 32,
+        "clade": "játrovky",
         "emoji": "🌱"
       },
       {
@@ -415173,6 +415349,7 @@ window.GAME_DATA = [
           "NA"
         ],
         "pop": 34,
+        "clade": "plavuně",
         "emoji": "🌿"
       },
       {
@@ -415234,6 +415411,7 @@ window.GAME_DATA = [
           "NA"
         ],
         "pop": 45,
+        "clade": "plavuně",
         "emoji": "🌿"
       },
       {
@@ -415277,6 +415455,7 @@ window.GAME_DATA = [
           "NA"
         ],
         "pop": 31,
+        "clade": "plavuně",
         "emoji": "🌿"
       },
       {
@@ -415350,6 +415529,7 @@ window.GAME_DATA = [
           "EU"
         ],
         "pop": 7,
+        "clade": "plavuně",
         "emoji": "🌿"
       },
       {
@@ -415393,6 +415573,7 @@ window.GAME_DATA = [
           "NA"
         ],
         "pop": 27,
+        "clade": "plavuně",
         "emoji": "🌱"
       },
       {
@@ -415465,6 +415646,7 @@ window.GAME_DATA = [
           "AS"
         ],
         "pop": 13,
+        "clade": "plavuně",
         "emoji": "🌱"
       },
       {
@@ -415546,6 +415728,7 @@ window.GAME_DATA = [
           "NA"
         ],
         "pop": 20,
+        "clade": "plavuně",
         "emoji": "🌿"
       },
       {
@@ -415588,6 +415771,7 @@ window.GAME_DATA = [
           "NA"
         ],
         "pop": 19,
+        "clade": "plavuně",
         "emoji": "🌿"
       },
       {
@@ -415659,6 +415843,7 @@ window.GAME_DATA = [
           "NA"
         ],
         "pop": 28,
+        "clade": "plavuně",
         "emoji": "🌿"
       },
       {
@@ -415744,6 +415929,7 @@ window.GAME_DATA = [
           "OC"
         ],
         "pop": 54,
+        "clade": "plavuně",
         "emoji": "🌿"
       },
       {
@@ -415828,6 +416014,7 @@ window.GAME_DATA = [
           "OC"
         ],
         "pop": 16,
+        "clade": "plavuně",
         "emoji": "🌱"
       },
       {
@@ -415897,6 +416084,7 @@ window.GAME_DATA = [
           "NA"
         ],
         "pop": 28,
+        "clade": "plavuně",
         "emoji": "🌿"
       },
       {
@@ -415966,6 +416154,7 @@ window.GAME_DATA = [
           "NA"
         ],
         "pop": 30,
+        "clade": "plavuně",
         "emoji": "🌿"
       },
       {
@@ -416037,6 +416226,7 @@ window.GAME_DATA = [
           "EU"
         ],
         "pop": 11,
+        "clade": "plavuně",
         "emoji": "🌿"
       },
       {
@@ -416099,6 +416289,7 @@ window.GAME_DATA = [
           "EU"
         ],
         "pop": 15,
+        "clade": "plavuně",
         "emoji": "🌿"
       }
     ]
@@ -625876,6 +626067,7 @@ window.GAME_DATA = [
           "EU"
         ],
         "pop": 39,
+        "clade": "strunatci",
         "emoji": "🐟"
       },
       {
@@ -625925,6 +626117,7 @@ window.GAME_DATA = [
           "NA"
         ],
         "pop": 47,
+        "clade": "strunatci",
         "emoji": "🐟"
       },
       {
@@ -626013,6 +626206,7 @@ window.GAME_DATA = [
           "EU"
         ],
         "pop": 42,
+        "clade": "strunatci",
         "emoji": "🐟"
       },
       {
@@ -626041,6 +626235,7 @@ window.GAME_DATA = [
           "NA"
         ],
         "pop": 35,
+        "clade": "členovci",
         "emoji": "🦀"
       },
       {
@@ -626078,6 +626273,7 @@ window.GAME_DATA = [
           "NA"
         ],
         "pop": 19,
+        "clade": "žahavci",
         "emoji": "🪼"
       },
       {
@@ -626132,6 +626328,7 @@ window.GAME_DATA = [
           "OC"
         ],
         "pop": 22,
+        "clade": "žahavci",
         "emoji": "🪼"
       },
       {
@@ -626208,6 +626405,7 @@ window.GAME_DATA = [
           "SA"
         ],
         "pop": 26,
+        "clade": "žahavci",
         "emoji": "🪼"
       },
       {
@@ -626252,6 +626450,7 @@ window.GAME_DATA = [
           "OC"
         ],
         "pop": 20,
+        "clade": "žahavci",
         "emoji": "🪸"
       },
       {
@@ -626297,6 +626496,7 @@ window.GAME_DATA = [
           "OC"
         ],
         "pop": 17,
+        "clade": "žahavci",
         "emoji": "🪱"
       },
       {
@@ -626401,6 +626601,7 @@ window.GAME_DATA = [
           "OC"
         ],
         "pop": 45,
+        "clade": "žahavci",
         "emoji": "🪼"
       },
       {
@@ -626458,6 +626659,7 @@ window.GAME_DATA = [
           "AF"
         ],
         "pop": 44,
+        "clade": "žahavci",
         "emoji": "🪸"
       },
       {
@@ -626564,6 +626766,7 @@ window.GAME_DATA = [
           "OC"
         ],
         "pop": 31,
+        "clade": "žahavci",
         "emoji": "🪸"
       },
       {
@@ -626627,6 +626830,7 @@ window.GAME_DATA = [
           "NA"
         ],
         "pop": 17,
+        "clade": "žahavci",
         "emoji": "🪸"
       },
       {
@@ -626687,6 +626891,7 @@ window.GAME_DATA = [
           "AF"
         ],
         "pop": 18,
+        "clade": "ostnokožci",
         "emoji": "⭐"
       },
       {
@@ -626747,6 +626952,7 @@ window.GAME_DATA = [
           "OC"
         ],
         "pop": 25,
+        "clade": "ostnokožci",
         "emoji": "⭐"
       },
       {
@@ -626875,6 +627081,7 @@ window.GAME_DATA = [
           "NA"
         ],
         "pop": 31,
+        "clade": "ostnokožci",
         "emoji": "⭐"
       },
       {
@@ -626941,6 +627148,7 @@ window.GAME_DATA = [
           "NA"
         ],
         "pop": 10,
+        "clade": "ostnokožci",
         "emoji": "🪱"
       },
       {
@@ -626997,6 +627205,7 @@ window.GAME_DATA = [
           "OC"
         ],
         "pop": 42,
+        "clade": "ostnokožci",
         "emoji": "⭐"
       },
       {
@@ -627044,6 +627253,7 @@ window.GAME_DATA = [
           "OC"
         ],
         "pop": 20,
+        "clade": "ostnokožci",
         "emoji": "⭐"
       },
       {
@@ -627103,6 +627313,7 @@ window.GAME_DATA = [
           "EU"
         ],
         "pop": 20,
+        "clade": "ostnokožci",
         "emoji": "⭐"
       },
       {
@@ -627169,6 +627380,7 @@ window.GAME_DATA = [
           "SA"
         ],
         "pop": 17,
+        "clade": "ostnokožci",
         "emoji": "⭐"
       },
       {
@@ -627258,6 +627470,7 @@ window.GAME_DATA = [
           "OC"
         ],
         "pop": 21,
+        "clade": "ostnokožci",
         "emoji": "⭐"
       },
       {
@@ -627327,6 +627540,7 @@ window.GAME_DATA = [
           "NA"
         ],
         "pop": 20,
+        "clade": "kroužkovci",
         "emoji": "🪱"
       },
       {
@@ -627409,6 +627623,7 @@ window.GAME_DATA = [
           "EU"
         ],
         "pop": 15,
+        "clade": "kroužkovci",
         "emoji": "🪱"
       },
       {
@@ -627488,6 +627703,7 @@ window.GAME_DATA = [
           "OC"
         ],
         "pop": 34,
+        "clade": "kroužkovci",
         "emoji": "🪱"
       },
       {
@@ -627524,6 +627740,7 @@ window.GAME_DATA = [
           "OC"
         ],
         "pop": 26,
+        "clade": "kroužkovci",
         "emoji": "🪱"
       },
       {
@@ -627639,6 +627856,7 @@ window.GAME_DATA = [
           "SA"
         ],
         "pop": 20,
+        "clade": "kroužkovci",
         "emoji": "🪱"
       },
       {
@@ -627701,6 +627919,7 @@ window.GAME_DATA = [
           "OC"
         ],
         "pop": 24,
+        "clade": "kroužkovci",
         "emoji": "🪱"
       },
       {
@@ -627767,6 +627986,7 @@ window.GAME_DATA = [
           "OC"
         ],
         "pop": 33,
+        "clade": "kroužkovci",
         "emoji": "🪱"
       },
       {
@@ -627810,6 +628030,7 @@ window.GAME_DATA = [
           "NA"
         ],
         "pop": 24,
+        "clade": "kroužkovci",
         "emoji": "🪱"
       },
       {
@@ -627857,6 +628078,7 @@ window.GAME_DATA = [
           "NA"
         ],
         "pop": 32,
+        "clade": "kroužkovci",
         "emoji": "🪱"
       },
       {
@@ -627898,6 +628120,7 @@ window.GAME_DATA = [
           "AS"
         ],
         "pop": 56,
+        "clade": "kroužkovci",
         "emoji": "🪱"
       },
       {
@@ -628000,6 +628223,7 @@ window.GAME_DATA = [
           "OC"
         ],
         "pop": 53,
+        "clade": "kroužkovci",
         "emoji": "🪱"
       },
       {
@@ -628040,6 +628264,7 @@ window.GAME_DATA = [
           "OC"
         ],
         "pop": 7,
+        "clade": "kroužkovci",
         "emoji": "🪱"
       },
       {
@@ -628082,6 +628307,7 @@ window.GAME_DATA = [
           "SA"
         ],
         "pop": 37,
+        "clade": "členovci",
         "emoji": "🐛"
       },
       {
@@ -628142,6 +628368,7 @@ window.GAME_DATA = [
           "OC"
         ],
         "pop": 38,
+        "clade": "členovci",
         "emoji": "🐛"
       },
       {
@@ -628182,6 +628409,7 @@ window.GAME_DATA = [
           "OC"
         ],
         "pop": 15,
+        "clade": "členovci",
         "emoji": "🐛"
       },
       {
@@ -628268,6 +628496,7 @@ window.GAME_DATA = [
           "OC"
         ],
         "pop": 29,
+        "clade": "členovci",
         "emoji": "🐛"
       },
       {
@@ -628317,6 +628546,7 @@ window.GAME_DATA = [
           "NA"
         ],
         "pop": 5,
+        "clade": "členovci",
         "emoji": "🐜"
       },
       {
@@ -628377,6 +628607,7 @@ window.GAME_DATA = [
           "AS"
         ],
         "pop": 7,
+        "clade": "členovci",
         "emoji": "🐜"
       },
       {
@@ -628455,6 +628686,7 @@ window.GAME_DATA = [
           "OC"
         ],
         "pop": 15,
+        "clade": "strunatci",
         "emoji": "🪸"
       },
       {
@@ -628490,6 +628722,7 @@ window.GAME_DATA = [
           "AF"
         ],
         "pop": 9,
+        "clade": "strunatci",
         "emoji": "🪸"
       },
       {
@@ -628532,6 +628765,7 @@ window.GAME_DATA = [
           "OC"
         ],
         "pop": 8,
+        "clade": "strunatci",
         "emoji": "🪼"
       },
       {
@@ -628586,6 +628820,7 @@ window.GAME_DATA = [
           "NA"
         ],
         "pop": 19,
+        "clade": "členovci",
         "emoji": "🐜"
       },
       {
@@ -628636,6 +628871,7 @@ window.GAME_DATA = [
           "OC"
         ],
         "pop": 14,
+        "clade": "strunatci",
         "emoji": "🪸"
       },
       {

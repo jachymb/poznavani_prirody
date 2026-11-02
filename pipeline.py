@@ -139,12 +139,37 @@ def dicot_group(order):
     return "rosidy" if order in SUPERROSIDS else "asteridy" if order in SUPERASTERIDS else "ostatni_dvoudelozne"
 
 
-# Paryby mají jemné řády (žraloci pět, rejnoci čtyři), kvóty úrovní ve hře proto počítají s nadřády.
-RAY_ORDERS = {"praví rejnoci", "Myliobatiformes", "Rhinopristiformes", "Parejnoci", "Rajiformes", "Torpediniformes"}
+# Vnitřní dělení skupin, kde jsou řády moc jemné nebo nesourodé: (Qid předka na Wikidatech, název), platí první shoda.
+# Hra podle něj losuje a plní úrovně místo podle řádu, druhy bez shody zůstávají u svého řádu.
+CLADES = {
+    "paryby": [("Q6495741", "rejnoci"), ("Q149104", "chiméry"), ("Q7372", "žraloci")],
+    "mekkysi": [("Q4867740", "plži"), ("Q25368", "mlži"), ("Q128257", "hlavonožci")],
+    "vytrusne": [("Q25347", "mechy"), ("Q189808", "játrovky"), ("Q191156", "hlevíky"), ("Q1149748", "plavuně"), ("Q5384600", "přesličky"),
+                 ("Q373615", "kapradiny")],
+    "ostatni_zivocichove": [("Q25522", "kroužkovci"), ("Q25441", "žahavci"), ("Q44631", "ostnokožci"), ("Q1360", "členovci"), ("Q10915", "strunatci")],
+    "mikroorganismy": [("Q25577567", "sinice"), ("Q10876", "bakterie"), ("Q10872", "archea"), ("Q764", "houby"), ("Q729", "živočichové"),
+                       ("Q11973077", "zelené řasy"), ("Q473809", "měňavkovci"), ("Q193030", "výtrusovci"), ("Q25834462", "bičivky"),
+                       ("Q862296", "chromista"), ("Q101274", "prvoci")],
+    "vyhynula_zvirata": [("Q5113", "ptáci"), ("Q188438", "teropodi"), ("Q133012", "sauropodi"), ("Q430", "ostatní dinosauři"),
+                         ("Q2189453", "ptakoještěři"), ("Q132819", "plesiosauři"), ("Q131863", "krokodýli"), ("Q7377", "savci"), ("Q10811", "plazi"),
+                         ("Q10908", "obojživelníci"), ("Q19159", "čtyřnožci"), ("Q25371", "paryby"), ("Q10915", "ryby"), ("Q1360", "členovci"),
+                         ("Q25326", "měkkýši")],
+}
+CLADE_PARENTS_FILE = ROOT / "data" / "clade_parents.json"
 
 
-def cartilaginous_clade(order):
-    return "rejnoci" if order in RAY_ORDERS else "chiméry" if order in ("Chimaeriformes", "chiméry") else "žraloci"
+def assign_clades(groups):
+    """Druhům skupin z CLADES doplní „clade“ podle předků. Rodokmeny se ukládají, stahují se jen pro nové druhy."""
+    parents = json.loads(CLADE_PARENTS_FILE.read_text("utf-8")) if CLADE_PARENTS_FILE.exists() else {}
+    for group in groups:
+        roots = CLADES.get(group["slug"], [])
+        todo = [s["id"] for s in group["species"] if roots and s["id"] not in parents and not s.get("egg")]
+        if todo:
+            parents.update(parent_map(todo))
+            CLADE_PARENTS_FILE.write_text(json.dumps(parents), encoding="utf-8")
+        for s in group["species"]:
+            if clade := next((name for q, name in roots if has_ancestor(s["id"], q, parents)), None):
+                s["clade"] = clade
 
 
 # Latinský název, který se při stahování z Wikidat nepodařilo získat; podle české Wikipedie.
@@ -1358,8 +1383,7 @@ def write_game_data():
             group["species"] = []
     for s in groups["savci"]["species"]:
         s["peers"] = peer_group(s)
-    for s in groups["paryby"]["species"]:
-        s["clade"] = cartilaginous_clade(s["order"])
+    assign_clades([*groups.values(), *others.values()])
     if groups[EASTER_EGG["class"]]["species"]:
         add_easter_egg(groups[EASTER_EGG["class"]]["species"])
     for group in [*groups.values(), *others.values()]:
