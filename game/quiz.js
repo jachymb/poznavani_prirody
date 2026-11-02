@@ -196,7 +196,7 @@
   // classes: třídy jedné říše. skip: id druhů, které už v kole byly. only: jen tyto cílové druhy (opakování chyb).
   // level: beginner, advanced nebo expert určuje, z jak blízkých druhů jsou špatné odpovědi.
   function makeQuestion(classes, { skip = new Set(), only = null, level = "expert" } = {}) {
-    const all = classes.flatMap((c) => { const w = weights(c.species); return c.species.map((s) => [s, w.get(s), c.wide || c.species]); })
+    const all = classes.flatMap((c) => { const w = weights(c.species); return c.species.map((s) => [s, w.get(s), c.wide || c.species, c.slug]); })
       .filter(([s]) => !only || only.has(s.id));
     const fresh = all.filter(([s]) => !skip.has(s.id));
     for (const pool of [fresh, all]) {
@@ -205,10 +205,15 @@
       for (const make of shuffle(MAKERS)) {
         for (let step = 0; step < SCOPE_STEPS; step++) {
           for (let tries = 0; tries < TARGET_TRIES; tries++) {
-            const [target, , classmates] = pickWeighted(pool, ([, w]) => w);
+            const [target, , classmates, slug] = pickWeighted(pool, ([, w]) => w);
             // Úroveň zužuje jen hledané druhy. Špatné odpovědi jsou z celé třídy, vybrané podle stejných pravidel příbuznosti.
             const q = make(target, classmates.filter(scopeOf(target, step, level)), level);
             if (!q) continue;
+            // Vyhynulá zvířata ukazují i rekonstrukce a fosílie, ne fotky živých zvířat.
+            if (slug === "vyhynula_zvirata") {
+              q.prompt = q.prompt.replace("na fotkách", "na obrázcích").replace("na fotce", "na obrázku");
+              q.picture = "Obrázek";
+            }
             const other = target.facts.filter((f) => f !== q.shownFact);
             q.target = target;
             q.bonusFact = other.length ? pickFact(other).text : null;

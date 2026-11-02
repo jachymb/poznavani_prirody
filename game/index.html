@@ -201,7 +201,7 @@
     jednodelozne: "Trávy, ostřice, lilie, orchideje, palmy, banánovníky a další rostliny s jedním děložním lístkem",
     stopkovytrusne: "Houby s kloboukem, jako hřiby, muchomůrky a holubinky, dále choroše, hvězdovky a další, včetně rzí a snětí",
     vreckovytrusne: "Smrže, ucháče, kališníky, dřevnatky, padlí a další, včetně lišejníků",
-    vyhynula_zvirata: "Dinosauři, ptakoještěři, mamuti, trilobiti, amoniti a další zvířata, která už nežijí, i nedávno vyhynulá jako dronte nebo vakovlk. Fotky jsou i fosílie a rekonstrukce",
+    vyhynula_zvirata: "Dinosauři, ptakoještěři, mamuti, trilobiti, amoniti a další zvířata, která už nežijí, i nedávno vyhynulá jako dronte nebo vakovlk. Na obrázcích jsou i fosílie a rekonstrukce",
     mikroorganismy: "Bakterie a sinice, archea, prvoci (měňavky, trepky, krásnoočka), rozsivky, obrněnky, mikroskopické zelené řasy, hlenky a další drobné organismy. Fotky jsou i snímky z mikroskopu",
   };
   const GROUP_DRAWINGS = {
@@ -415,7 +415,7 @@
     const answers = q.options.map((option, i) => {
       const onclick = () => answer(q, option, answers, card);
       const button = q.type === "findPhoto"
-        ? el("button", { class: "answer tile", onclick }, photoEl(option.photo, `Fotka ${i + 1}`, "", failed))
+        ? el("button", { class: "answer tile", onclick }, photoEl(option.photo, `${q.picture || "Fotka"} ${i + 1}`, "", failed))
         : q.type === "findSpecies"
           ? el("button", { class: "answer tile", onclick }, photoEl(option.photo, "", "", failed), el("span", {}, ...speciesName(option.species)))
           : q.type === "findName"
@@ -432,7 +432,7 @@
       prompt,
       q.highlight ? el("h2", {}, ...speciesName(q.target)) : null,
       q.statement ? el("div", { class: "statement" }, q.statement) : null,
-      q.photo ? photoEl(q.photo, "Fotka hledaného druhu", "single", failed) : null,
+      q.photo ? photoEl(q.photo, `${q.picture || "Fotka"} hledaného druhu`, "single", failed) : null,
       el("div", { class: wrap }, ...answers),
     );
     app.replaceChildren(bar(), card, game.kingdom.note ? el("p", { class: "note" }, game.kingdom.note) : "");
