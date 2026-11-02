@@ -28,6 +28,13 @@ assert(window.Quiz.isDull({ text: "Kvete od června do srpna." }) && !window.Qui
   const europe = window.Quiz.inContinents([mammals], new Set(["EU"]));
   assert(window.Quiz.atLevel(europe, "beginner")[0].species.some((s) => s.order === "letouni"), "začátečník v Evropě zná netopýra");
   assert(classes.find((c) => c.slug === "mekkysi").species.filter((s) => s.clade === "mlži").every((s) => s.emoji === "🦪"), "všichni mlži mají 🦪");
+  for (const level of ["beginner", "advanced", "expert"]) {
+    const here = window.Quiz.atLevel(window.Quiz.inContinents(classes.filter((c) => c.kingdom === "zivocichove"), new Set(["AF"])), level);
+    for (let i = 0; i < 500; i++) {
+      const q = window.Quiz.makeQuestion(here, { level });
+      for (const o of q.options) assert(!o.species || o.species.egg || o.species.continents.includes("AF"), `${level}: ${o.species && o.species.name} není z vybraného kontinentu`);
+    }
+  }
   const promptsOf = (slug) => new Set(Array.from({ length: 300 }, () => window.Quiz.makeQuestion([classes.find((c) => c.slug === slug)]).prompt));
   const extinct = promptsOf("vyhynula_zvirata");
   assert(extinct.has("Který druh je na obrázku?") && extinct.has("Najdi na obrázcích:") && ![...extinct].some((p) => p.includes("fot")), "vyhynulá zvířata mají obrázky");
