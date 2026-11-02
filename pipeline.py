@@ -316,6 +316,38 @@ def list_species(qids, skip=()):
     return species_details(sorted(s for s, roots in species_roots().items() if wanted & set(roots) and s not in skip))
 
 
+def extra_ids():
+    """Druhy a rody, které patří do některé skupiny z Extra (podle members.json)."""
+    files = [paths(slug)[0] / "members.json" for slug in EXTRA]
+    return {s for f in files if f.exists() for s in json.loads(f.read_text("utf-8"))["members"]}
+
+
+def parent_map(ids):
+    """Nadřazené taxony (P171) přes API Wikidat po úrovních až ke kořeni; dotazy na celou cestu přes WDQS u fosilií vyprší."""
+    parents, frontier = {}, set(ids)
+    while frontier:
+        batch, frontier = sorted(frontier), set()
+        for i in range(0, len(batch), 50):
+            entities = get("https://www.wikidata.org/w/api.php?" + urllib.parse.urlencode(
+                {"action": "wbgetentities", "ids": "|".join(batch[i:i + 50]), "props": "claims", "format": "json"}))["entities"]
+            for q, e in entities.items():
+                parents[q] = [c["mainsnak"]["datavalue"]["value"]["id"] for c in e.get("claims", {}).get("P171", []) if c["mainsnak"].get("datavalue")]
+                frontier |= {p for p in parents[q] if p not in parents}
+    return parents
+
+
+def has_ancestor(q, root, parents):
+    seen, stack = set(), list(parents.get(q, []))
+    while stack:
+        p = stack.pop()
+        if p == root:
+            return True
+        if p not in seen:
+            seen.add(p)
+            stack += parents.get(p, [])
+    return False
+
+
 def extra_members(slug):
     """Druhy a rody s českým článkem pro skupinu z Extra. Ukládá se do members.json: má přednost i před druhy z jiných skupin."""
     file = paths(slug)[0] / "members.json"
@@ -328,9 +360,8 @@ def extra_members(slug):
         for condition in (f"?s wdt:P31 wd:{fossil}.", f"?s wdt:P141 wd:{extinct}."):  # dohromady nebo od článků dotaz vyprší
             rows = sparql(f"SELECT DISTINCT ?s WHERE {{ {condition} {article} }}")
             candidates |= {r["s"]["value"].rsplit("/", 1)[1] for r in rows}
-        candidates = sorted(candidates)
-        animals = {r["s"]["value"].rsplit("/", 1)[1] for r in sparql_by_species(candidates, lambda v: f"SELECT ?s WHERE {{ VALUES ?s {{ {v} }} ?s wdt:P171+ wd:Q729 }}")}
-        found = [s for s in candidates if s in animals]
+        parents = parent_map(candidates)
+        found = sorted(s for s in candidates if has_ancestor(s, "Q729", parents))
     else:
         found = set()
         for root in CLASSES[slug][0].split():
@@ -340,13 +371,12 @@ def extra_members(slug):
             found -= {r["s"]["value"].rsplit("/", 1)[1] for r in sparql(f"SELECT DISTINCT ?s WHERE {{ ?s wdt:P171+ wd:{root}. {article} }}")}
         found = sorted(found)
     # rod, jehož druh má vlastní článek, by se ve hře ukázal dvakrát
-    parents = {r["parent"]["value"].rsplit("/", 1)[1] for r in sparql_by_species(found, lambda v: f"SELECT ?parent WHERE {{ VALUES ?s {{ {v} }} ?s wdt:P171 ?parent }}")}
-    result = {"members": [s for s in found if s not in parents and s not in EXTRA_EXCLUDE_IDS]}
+    parents = parent_map(found)
+    direct = {p for s in found for p in parents.get(s, [])}
+    result = {"members": [s for s in found if s not in direct and s not in EXTRA_EXCLUDE_IDS]}
     if slug == "vyhynula_zvirata":  # kvůli emoji: dinosauři mimo ptáky 🦖, ptáci 🐦
-        under = lambda root: sorted({r["s"]["value"].rsplit("/", 1)[1] for r in sparql_by_species(
-            result["members"], lambda v: f"SELECT ?s WHERE {{ VALUES ?s {{ {v} }} ?s wdt:P171+ wd:{root} }}")})
-        result["birds"] = under("Q5113")
-        result["dinosaurs"] = sorted(set(under("Q430")) - set(result["birds"]))
+        result["birds"] = [s for s in result["members"] if has_ancestor(s, "Q5113", parents)]
+        result["dinosaurs"] = [s for s in result["members"] if has_ancestor(s, "Q430", parents) and s not in result["birds"]]
     file.parent.mkdir(parents=True, exist_ok=True)
     file.write_text(json.dumps(result), encoding="utf-8")
     return result
@@ -468,8 +498,8 @@ def fetch(slug):
         if other != slug and paths(other)[1].exists():
             others |= set(json.loads(paths(other)[1].read_text("utf-8")))
     existing = json.loads(species_file.read_text("utf-8")) if species_file.exists() else {}
-    if slug in EXTRA:  # druhy z jiných skupin si Extra jen vezme ve hře, znovu se nezpracovávají
-        listed = species_details([s for s in extra_members(slug)["members"] if s not in others | set(existing)])
+    if slug in EXTRA:  # Extra má přednost: druh z jiné skupiny se zpracuje znovu tady, s pravidly pro Extra
+        listed = species_details([s for s in extra_members(slug)["members"] if s not in existing])
     else:
         listed = list_species(CLASSES[slug][0].split(), others | set(existing))
     found = {k: v for k, v in listed.items() if not v["latin"].startswith(EXCLUDE) and (v["title"] != v["latin"] or k in LATIN_ONLY or slug in EXTRA)}
@@ -708,6 +738,9 @@ def load_facts(slug):
     """Načte výstupy kroku 1 a tvrzení z cizojazyčných článků; tvrzení bez doslovné opory ve zdroji nebo prozrazující název zahodí."""
     base, species_file, articles, _, facts_dir, *_ = paths(slug)
     species = json.loads(species_file.read_text("utf-8"))
+    if slug not in EXTRA:  # druhy z Extra se zpracují tam, ne podruhé ve své dřívější skupině
+        taken = extra_ids()
+        species = {k: v for k, v in species.items() if k not in taken}
     out, dropped = {}, Counter()
     fixes, duplicates = {}, set()
     for file in sorted((base / "language").glob("*.json")):
@@ -1231,26 +1264,27 @@ def write_game_data():
     groups.update({slug: {"slug": slug, "name": name, "kingdom": "rostliny", "species": []} for slug, name in DICOT_GROUPS.items()})
     groups.update({slug: {"slug": slug, "name": CLASSES[slug][1], "kingdom": "extra", "species": []} for slug in sorted(EXTRA)})
     others = {kingdom: {"slug": slug, "name": name, "kingdom": kingdom, "species": []} for kingdom, (slug, name) in OTHER_GROUPS.items()}
-    # Extra má přednost: vyhynulý savec nebo mikroskopická řasa ze staršího stahování jde tam, ne do své říše.
-    extra_of, clade = {}, {}
-    for slug in EXTRA:
-        file = paths(slug)[0] / "members.json"
+    # Extra má přednost: vyhynulý savec nebo mikroskopická řasa se zpracuje v Extra, ne ve své říši.
+    extra_of = extra_ids()
+    clade = {}
+    for file in (paths(slug)[0] / "members.json" for slug in EXTRA):
         if file.exists():
             info = json.loads(file.read_text("utf-8"))
-            extra_of.update(dict.fromkeys(info["members"], slug))
             clade.update({**dict.fromkeys(info.get("dinosaurs", []), "dinosaurs"), **dict.fromkeys(info.get("birds", []), "birds")})
     for slug, (_, _, kingdom) in CLASSES.items():
         file = paths(slug)[0] / "built.json"
         if not file.exists():
             continue
         for s in json.loads(file.read_text("utf-8"))["species"]:
+            if slug not in EXTRA and s["id"] in extra_of:  # starší sestavení skupiny, druh už patří do Extra
+                continue
             s["facts"] = [f for f in s["facts"] if f.pop("reviewed", False)]
             s["photos"] = [{k: v for k, v in p.items() if k not in ("reviewed", "i")} for p in s["photos"] if p.get("reviewed")]
             if s["continents"] and s["photos"]:
                 s["latin"] = s["latin"] or LATIN_NAMES.get(s["id"], "")
                 s["order"] = modern_order(s["order"], s["family"])
                 own = set(roots.get(s["id"], []))
-                key = extra_of.get(s["id"]) or next((key for key, cfg in GAME_GROUPS.items() if own & set(cfg[0].split())), None)
+                key = slug if slug in EXTRA else next((key for key, cfg in GAME_GROUPS.items() if own & set(cfg[0].split())), None)
                 if key == "dvoudelozne":
                     key = dicot_group(s["order"])
                 if s["order"] in ORDERS_OF_FISH:

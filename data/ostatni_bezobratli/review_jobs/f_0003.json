@@ -1,0 +1,64 @@
+[
+ {
+  "id": "Q1534556#x0",
+  "species": "Sumka zlatoústá",
+  "latin": "Polycarpa aurata",
+  "text": "Živí se tím, že filtruje z vody plankton a bakterie.",
+  "quote": "filtering out phytoplankton, bacteria and other food particles",
+  "claimed_false_for": {
+   "Q10672222": "Podrepka vodní (Sminthurides aquaticus)",
+   "Q14856149": "Larvěnka obrovská (Tetrodontophora bielanensis)",
+   "Q545813": "Mákovka vodní (Podura aquatica)"
+  }
+ },
+ {
+  "id": "Q1534556#x1",
+  "species": "Sumka zlatoústá",
+  "latin": "Polycarpa aurata",
+  "text": "Na povrchu těla mohou růst hydroidi a řasy, které občas požírají nahožábří měkkýši.",
+  "quote": "Hydroids and algae may grow on the outside of the tunicate and nudibranchs such as Nembrotha lineolata sometimes feed on them.",
+  "claimed_false_for": {
+   "Q10672222": "Podrepka vodní (Sminthurides aquaticus)",
+   "Q14856149": "Larvěnka obrovská (Tetrodontophora bielanensis)",
+   "Q545813": "Mákovka vodní (Podura aquatica)"
+  }
+ },
+ {
+  "id": "Q1534556#x2",
+  "species": "Sumka zlatoústá",
+  "latin": "Polycarpa aurata",
+  "text": "Hostí symbiotickou krevetu.",
+  "quote": "La crevette Odontonia katoi est un hôte symbiotique de Polycarpa aurata.",
+  "claimed_false_for": {
+   "Q10672222": "Podrepka vodní (Sminthurides aquaticus)",
+   "Q14856149": "Larvěnka obrovská (Tetrodontophora bielanensis)",
+   "Q545813": "Mákovka vodní (Podura aquatica)"
+  }
+ },
+ {
+  "id": "Q1534556#x3",
+  "species": "Sumka zlatoústá",
+  "latin": "Polycarpa aurata",
+  "text": "Mláďata jsou volně plovoucí larvy podobné pulcům.",
+  "quote": "produit des larves nageant librement, semblables à des têtards",
+  "claimed_false_for": {
+   "Q10672222": "Podrepka vodní (Sminthurides aquaticus)",
+   "Q14856149": "Larvěnka obrovská (Tetrodontophora bielanensis)",
+   "Q4921692": "Salpa řetězová (Thetys vagina)",
+   "Q545813": "Mákovka vodní (Podura aquatica)"
+  }
+ },
+ {
+  "id": "Q545813#x0",
+  "species": "Mákovka vodní",
+  "latin": "Podura aquatica",
+  "text": "Skáče po hladině a nepropadne se pod ni.",
+  "quote": "allowing the animal to jump without breaking the surface tension of the water",
+  "claimed_false_for": {
+   "Q1534556": "Sumka zlatoústá (Polycarpa aurata)",
+   "Q3624860": "Sumka obecná (Ascidia mentula)",
+   "Q4921692": "Salpa řetězová (Thetys vagina)",
+   "Q837241": "Zřasenka středomořská (Botryllus schlosseri)"
+  }
+ }
+]
