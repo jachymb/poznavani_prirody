@@ -1,0 +1,24 @@
+{"drop_facts": [
+{"id": "Q288311#0", "why": "sporné: většina rodokoků žije volně v půdě a vodě, ne u zvířat; navíc přidané 'jen'"},
+{"id": "Q288311#1", "why": "zavádějící 'často': lidské infekce jsou vzácné, citace říká jen to, že se nákaza často projeví jako zápal plic"},
+{"id": "Q3018329#1", "why": "chybí předmět i jasný podmět, dá se číst i jako 'přenášejí larvy roztočů'"},
+{"id": "Q309465#1", "why": "nejasné: neříká, jaká nemoc ani po požití čeho (chybí podmínka 'kontaminované potravy')"},
+{"id": "Q309471#0", "why": "sporné: ve střevě zvířat žije jako komenzál, ne jako parazit"},
+{"id": "Q309972#1", "why": "sporný údaj: autospory jsou fotoautotrofní, zbytky mateřské buňky nespotřebovávají"},
+{"id": "Q309972#5", "why": "bez podmětu: 'z biomasy' platí obecně a druhu se netýká"},
+{"id": "Q310363#1", "why": "bez souvislosti s lišejníkem nesrozumitelné (jaká houbová vlákna, jaká stěna)"},
+{"id": "Q3103814#0", "why": "funkce kokolitů je sporná hypotéza, vypuštěno 'zejména'; pojem kokolit dítě nezná"},
+{"id": "Q3103814#1", "why": "dvojznačné: 6-10 um měří celá kokosféra, ne kokolity; pojem kokolit dítě nezná"}
+],
+"drop_pairs": [
+{"id": "Q288725#1", "species": "Q520210"},
+{"id": "Q3021915#1", "species": "Q1950818"},
+{"id": "Q3021915#1", "species": "Q2441328"},
+{"id": "Q309465#2", "species": "Q1198419"},
+{"id": "Q309465#2", "species": "Q2706492"},
+{"id": "Q309465#3", "species": "Q311383"},
+{"id": "Q309471#1", "species": "Q1198419"},
+{"id": "Q309972#2", "species": "Q131452"},
+{"id": "Q309972#2", "species": "Q188121"},
+{"id": "Q309972#2", "species": "Q19253007"}
+]}

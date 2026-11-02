@@ -268182,6 +268182,51 @@ window.GAME_DATA = [
         "emoji": "🐟"
       },
       {
+        "id": "Q1135526",
+        "name": "Platýs limanda",
+        "latin": "Limanda limanda",
+        "family": "platýsovití",
+        "order": "platýsi",
+        "wiki": "https://cs.wikipedia.org/wiki/Plat%C3%BDs_limanda",
+        "photos": [
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Limanda_limanda_6977930.jpg",
+            "author": "Bernard Picton",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Limanda_limanda_6977930.jpg/500px-Limanda_limanda_6977930.jpg"
+          }
+        ],
+        "facts": [
+          {
+            "id": "Q1135526#0",
+            "text": "Dospělí se živí plži, mlži, červy, korýši a malými rybami.",
+            "cat": "potrava",
+            "not": [
+              "Q798246"
+            ]
+          },
+          {
+            "id": "Q1135526#1",
+            "text": "Žije ve vodách Atlantiku, Bílého a Severního moře.",
+            "cat": "výskyt",
+            "not": [
+              "Q1043491",
+              "Q179377",
+              "Q491934",
+              "Q617967",
+              "Q739380",
+              "Q798246",
+              "Q841996"
+            ]
+          }
+        ],
+        "continents": [
+          "EU"
+        ],
+        "pop": 37,
+        "emoji": "🐟"
+      },
+      {
         "id": "Q1139189",
         "name": "Ostenec oranžovoproužkatý",
         "latin": "Balistapus undulatus",
@@ -270204,7 +270249,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q14505073#x4",
-            "text": "Břišní ploutve jsou tenké jako nitky a slouží jako orgány hmatu.",
+            "text": "Břišní ploutve jsou velmi dlouhé, tenké jako nitky a slouží jako hmatové orgány.",
             "cat": "vzhled",
             "not": [
               "Q1162971",
@@ -270314,6 +270359,51 @@ window.GAME_DATA = [
           "SA"
         ],
         "pop": 57,
+        "emoji": "🐟"
+      },
+      {
+        "id": "Q146641",
+        "name": "Candát obecný",
+        "latin": "Sander lucioperca",
+        "family": "okounovití",
+        "order": "ostnoploutví",
+        "wiki": "https://cs.wikipedia.org/wiki/Cand%C3%A1t_obecn%C3%BD",
+        "photos": [
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:M%C3%A4nnchen_%C3%BCber_Gelege.jpg",
+            "author": "Lorenz Seebauer",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/M%C3%A4nnchen_%C3%BCber_Gelege.jpg/500px-M%C3%A4nnchen_%C3%BCber_Gelege.jpg"
+          }
+        ],
+        "facts": [
+          {
+            "id": "Q146641#2",
+            "text": "Samec hlídá snůšku a chrání ji před predátory až do vylíhnutí potěru.",
+            "cat": "mláďata",
+            "not": [
+              "Q182976",
+              "Q187981",
+              "Q188387",
+              "Q188879",
+              "Q200473",
+              "Q2090926",
+              "Q214278",
+              "Q237619",
+              "Q26821893",
+              "Q2683765",
+              "Q269781",
+              "Q74411"
+            ]
+          }
+        ],
+        "continents": [
+          "EU",
+          "AS",
+          "AF",
+          "NA"
+        ],
+        "pop": 58,
         "emoji": "🐟"
       },
       {
@@ -270602,7 +270692,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q1522625#x5",
-            "text": "Hlavním prostředím jsou mangrovová ústí řek.",
+            "text": "Žije hlavně v ústích řek porostlých mangrovy.",
             "cat": "výskyt",
             "not": [
               "Q1544489",
@@ -271232,6 +271322,46 @@ window.GAME_DATA = [
           "OC"
         ],
         "pop": 24,
+        "emoji": "🐟"
+      },
+      {
+        "id": "Q164327",
+        "name": "Mečoun obecný",
+        "latin": "Xiphias gladius",
+        "family": "Xiphiidae",
+        "order": "Mečouni",
+        "wiki": "https://cs.wikipedia.org/wiki/Me%C4%8Doun_obecn%C3%BD",
+        "photos": [
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Xiphias_gladius_in_the_sea.jpg",
+            "author": "sylvain_eichhorn",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Xiphias_gladius_in_the_sea.jpg/500px-Xiphias_gladius_in_the_sea.jpg"
+          }
+        ],
+        "facts": [
+          {
+            "id": "Q164327#0",
+            "text": "Loví ryby žijící v hejnech, například makrely nebo sledě.",
+            "cat": "potrava",
+            "not": [
+              "Q200473",
+              "Q214278",
+              "Q278307",
+              "Q549"
+            ]
+          }
+        ],
+        "continents": [
+          "EU",
+          "AS",
+          "AF",
+          "NA",
+          "SA",
+          "AN",
+          "OC"
+        ],
+        "pop": 83,
         "emoji": "🐟"
       },
       {
@@ -272569,7 +272699,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q1920243#x2",
-            "text": "Mláďata mohou zůstat 5 až 6 let v mangrovech.",
+            "text": "Mláďata mohou žít v mangrovech 5 až 6 let.",
             "cat": "mláďata",
             "not": [
               "Q139544",
@@ -273866,6 +273996,69 @@ window.GAME_DATA = [
         "emoji": "🐟"
       },
       {
+        "id": "Q212552",
+        "name": "Úhořovec mořský",
+        "latin": "Conger conger",
+        "family": "úhořovcovití",
+        "order": "holobřiší",
+        "wiki": "https://cs.wikipedia.org/wiki/%C3%9Aho%C5%99ovec_mo%C5%99sk%C3%BD",
+        "photos": [
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:C%C3%B3ngaru.JPG",
+            "author": "Matapexes",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/C%C3%B3ngaru.JPG/500px-C%C3%B3ngaru.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Conger_conger_55103542.jpg",
+            "author": "Chris Taklis",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Conger_conger_55103542.jpg/500px-Conger_conger_55103542.jpg"
+          }
+        ],
+        "facts": [
+          {
+            "id": "Q212552#0",
+            "text": "Má jedovatou krev.",
+            "cat": "účinky",
+            "not": [
+              "Q146641",
+              "Q178202",
+              "Q187986",
+              "Q214278",
+              "Q549"
+            ]
+          },
+          {
+            "id": "Q212552#1",
+            "text": "Bývá dlouhý okolo 150 cm.",
+            "cat": "čísla",
+            "not": [
+              "Q1021931",
+              "Q178202",
+              "Q200473",
+              "Q203572",
+              "Q214278",
+              "Q217129",
+              "Q217329",
+              "Q2217479",
+              "Q2330446",
+              "Q469754",
+              "Q549",
+              "Q643373",
+              "Q77062"
+            ]
+          }
+        ],
+        "continents": [
+          "EU",
+          "AF",
+          "NA"
+        ],
+        "pop": 54,
+        "emoji": "🐟"
+      },
+      {
         "id": "Q2131058",
         "name": "Ropušnička kolébavá",
         "latin": "Ablabys taenianotus",
@@ -274228,6 +274421,113 @@ window.GAME_DATA = [
           "EU"
         ],
         "pop": 20,
+        "emoji": "🐟"
+      },
+      {
+        "id": "Q214415",
+        "name": "Tuňák obecný",
+        "latin": "Thunnus thynnus",
+        "family": "makrelovití",
+        "order": "Scombriformes",
+        "wiki": "https://cs.wikipedia.org/wiki/Tu%C5%88%C3%A1k_obecn%C3%BD",
+        "photos": [
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Group_of_tuna.jpg",
+            "author": "Danilo Cedrone (United Nations Food and Agriculture Organization)",
+            "license": "Public domain",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Group_of_tuna.jpg/500px-Group_of_tuna.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Tuna_1.jpg",
+            "author": "Takashi Hososhima",
+            "license": "CC BY-SA 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Tuna_1.jpg/500px-Tuna_1.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:GFNMS_bluefin_tuna_(49040302228).jpg",
+            "author": "National Marine Sanctuaries",
+            "license": "Public domain",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/GFNMS_bluefin_tuna_%2849040302228%29.jpg/500px-GFNMS_bluefin_tuna_%2849040302228%29.jpg"
+          }
+        ],
+        "facts": [
+          {
+            "id": "Q214415#0",
+            "text": "Dosahuje běžně délky 2 až 2,5 metru.",
+            "cat": "čísla",
+            "not": [
+              "Q187986",
+              "Q200473",
+              "Q2124700",
+              "Q214278",
+              "Q2170401",
+              "Q217129",
+              "Q223289",
+              "Q2327953",
+              "Q237619",
+              "Q581310",
+              "Q627960",
+              "Q633957",
+              "Q643373",
+              "Q855808",
+              "Q863850"
+            ]
+          },
+          {
+            "id": "Q214415#2",
+            "text": "Některé části těla mohou být až o 21 °C teplejší než okolní voda.",
+            "cat": "čísla",
+            "not": [
+              "Q1139971",
+              "Q145409",
+              "Q187986",
+              "Q200473",
+              "Q2124700",
+              "Q214278",
+              "Q2170401",
+              "Q217129",
+              "Q223289",
+              "Q2327953",
+              "Q237619",
+              "Q581310",
+              "Q627960",
+              "Q643373",
+              "Q76098",
+              "Q81110",
+              "Q855808",
+              "Q863850"
+            ]
+          },
+          {
+            "id": "Q214415#3",
+            "text": "Na konci léta opouští severní Evropu a táhne do teplejších vod.",
+            "cat": "chování",
+            "not": [
+              "Q145409",
+              "Q187986",
+              "Q200473",
+              "Q2124700",
+              "Q214278",
+              "Q2170401",
+              "Q2327953",
+              "Q237619",
+              "Q269781",
+              "Q581310",
+              "Q627960",
+              "Q76098",
+              "Q81110",
+              "Q855808",
+              "Q863850"
+            ]
+          }
+        ],
+        "continents": [
+          "EU",
+          "AF",
+          "NA",
+          "SA"
+        ],
+        "pop": 53,
         "emoji": "🐟"
       },
       {
@@ -275079,6 +275379,81 @@ window.GAME_DATA = [
         "emoji": "🐟"
       },
       {
+        "id": "Q2249706",
+        "name": "Ploskozubec tupohlavý",
+        "latin": "Chlorurus sordidus",
+        "family": "pyskounovití",
+        "order": "Labriformes",
+        "wiki": "https://cs.wikipedia.org/wiki/Ploskozubec_tupohlav%C3%BD",
+        "photos": [
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Pez_loro_(Chlorurus_sordidus),_islas_Ad_Dimaniyat,_Om%C3%A1n,_2024-08-13,_DD_118.jpg",
+            "author": "Diego Delso",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Pez_loro_%28Chlorurus_sordidus%29%2C_islas_Ad_Dimaniyat%2C_Om%C3%A1n%2C_2024-08-13%2C_DD_118.jpg/500px-Pez_loro_%28Chlorurus_sordidus%29%2C_islas_Ad_Dimaniyat%2C_Om%C3%A1n%2C_2024-08-13%2C_DD_118.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Pez_loro_(Chlorurus_sordidus),_Mauricio,_2025-09-24,_DD_53.jpg",
+            "author": "Diego Delso",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Pez_loro_%28Chlorurus_sordidus%29%2C_Mauricio%2C_2025-09-24%2C_DD_53.jpg/500px-Pez_loro_%28Chlorurus_sordidus%29%2C_Mauricio%2C_2025-09-24%2C_DD_53.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Chlorurus_sordidus,_Ko_Surin,_Ko_Phra_Thong,_Amphoe_Khura_Buri,_Phang-nga,_Thailand_imported_from_iNaturalist_photo_262623997.jpg",
+            "author": "no rights reserved",
+            "license": "CC0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Chlorurus_sordidus%2C_Ko_Surin%2C_Ko_Phra_Thong%2C_Amphoe_Khura_Buri%2C_Phang-nga%2C_Thailand_imported_from_iNaturalist_photo_262623997.jpg/500px-Chlorurus_sordidus%2C_Ko_Surin%2C_Ko_Phra_Thong%2C_Amphoe_Khura_Buri%2C_Phang-nga%2C_Thailand_imported_from_iNaturalist_photo_262623997.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Pez_loro_(Chlorurus_sordidus),_Zanz%C3%ADbar,_Tanzania,_2024-05-30,_DD_22.jpg",
+            "author": "Diego Delso",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Pez_loro_%28Chlorurus_sordidus%29%2C_Zanz%C3%ADbar%2C_Tanzania%2C_2024-05-30%2C_DD_22.jpg/500px-Pez_loro_%28Chlorurus_sordidus%29%2C_Zanz%C3%ADbar%2C_Tanzania%2C_2024-05-30%2C_DD_22.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Pez_loro_(Chlorurus_sordidus),_islas_Ad_Dimaniyat,_Om%C3%A1n,_2024-08-13,_DD_12.jpg",
+            "author": "Diego Delso",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Pez_loro_%28Chlorurus_sordidus%29%2C_islas_Ad_Dimaniyat%2C_Om%C3%A1n%2C_2024-08-13%2C_DD_12.jpg/500px-Pez_loro_%28Chlorurus_sordidus%29%2C_islas_Ad_Dimaniyat%2C_Om%C3%A1n%2C_2024-08-13%2C_DD_12.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Chlorurus_sordidus,_m%C3%A2le.JPG",
+            "author": "Elisabeth Morcel",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Chlorurus_sordidus%2C_m%C3%A2le.JPG/500px-Chlorurus_sordidus%2C_m%C3%A2le.JPG"
+          }
+        ],
+        "facts": [
+          {
+            "id": "Q2249706#0",
+            "text": "Tento druh se živí řasami.",
+            "cat": "potrava",
+            "not": [
+              "Q1043491",
+              "Q179377",
+              "Q198568",
+              "Q2124700"
+            ]
+          },
+          {
+            "id": "Q2249706#1",
+            "text": "Může měřit až okolo 40 cm.",
+            "cat": "čísla",
+            "not": [
+              "Q1519624",
+              "Q3764497"
+            ]
+          }
+        ],
+        "continents": [
+          "AS",
+          "AF",
+          "OC"
+        ],
+        "pop": 18,
+        "emoji": "🐠"
+      },
+      {
         "id": "Q2306485",
         "name": "Soltýn barakuda",
         "latin": "Sphyraena barracuda",
@@ -275365,7 +275740,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q237046#x3",
-            "text": "Živí se hlavně měkkýši, ale i trochou rostlinné potravy.",
+            "text": "Živí se hlavně měkkýši, část potravy tvoří i rostliny.",
             "cat": "potrava",
             "not": [
               "Q528704",
@@ -276058,6 +276433,74 @@ window.GAME_DATA = [
           "AF"
         ],
         "pop": 36,
+        "emoji": "🐟"
+      },
+      {
+        "id": "Q2612847",
+        "name": "Chňapálek vysokotělý",
+        "latin": "Caesio cuning",
+        "family": "chňapálkovití",
+        "order": "ostnoploutví",
+        "wiki": "https://cs.wikipedia.org/wiki/Ch%C5%88ap%C3%A1lek_vysokot%C4%9Bl%C3%BD",
+        "photos": [
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Yellowtail_fusilier_(Caesio_cuning)_(42825441414).jpg",
+            "author": "Rickard Zerpe",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Yellowtail_fusilier_%28Caesio_cuning%29_%2842825441414%29.jpg/500px-Yellowtail_fusilier_%28Caesio_cuning%29_%2842825441414%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Yellowtail_fusilier_(Caesio_cuning)_(49604783288).jpg",
+            "author": "Rickard Zerpe",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Yellowtail_fusilier_%28Caesio_cuning%29_%2849604783288%29.jpg/500px-Yellowtail_fusilier_%28Caesio_cuning%29_%2849604783288%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Yellowtail_fusilier_(Caesio_cuning)_(46751140705).jpg",
+            "author": "Rickard Zerpe",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Yellowtail_fusilier_%28Caesio_cuning%29_%2846751140705%29.jpg/500px-Yellowtail_fusilier_%28Caesio_cuning%29_%2846751140705%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Yellowtail_fusilier_(Caesio_cuning_)_(44240894575).jpg",
+            "author": "Rickard Zerpe",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Yellowtail_fusilier_%28Caesio_cuning_%29_%2844240894575%29.jpg/500px-Yellowtail_fusilier_%28Caesio_cuning_%29_%2844240894575%29.jpg"
+          }
+        ],
+        "facts": [
+          {
+            "id": "Q2612847#0",
+            "text": "Dorůstá až do délky 60 cm.",
+            "cat": "čísla",
+            "not": [
+              "Q132895",
+              "Q1429252",
+              "Q2020774",
+              "Q203572",
+              "Q2478695",
+              "Q2482211",
+              "Q2649348",
+              "Q2683765"
+            ]
+          },
+          {
+            "id": "Q2612847#1",
+            "text": "Živí se zooplanktonem.",
+            "cat": "potrava",
+            "not": [
+              "Q2020774",
+              "Q2090926",
+              "Q74411",
+              "Q934761"
+            ]
+          }
+        ],
+        "continents": [
+          "AS",
+          "OC"
+        ],
+        "pop": 15,
         "emoji": "🐟"
       },
       {
@@ -277681,6 +278124,58 @@ window.GAME_DATA = [
         "emoji": "🐟"
       },
       {
+        "id": "Q300955",
+        "name": "Jeseter velký",
+        "latin": "Acipenser sturio",
+        "family": "jeseterovití",
+        "order": "jeseteři",
+        "wiki": "https://cs.wikipedia.org/wiki/Jeseter_velk%C3%BD",
+        "photos": [
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:St%C3%B6r_Sturgeon.jpg",
+            "author": "Aah-Yeah",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/St%C3%B6r_Sturgeon.jpg/500px-St%C3%B6r_Sturgeon.jpg"
+          }
+        ],
+        "facts": [
+          {
+            "id": "Q300955#0",
+            "text": "Živí se mořskými bezobratlými, jako jsou korýši, červi a měkkýši.",
+            "cat": "potrava",
+            "not": [
+              "Q146641",
+              "Q178202",
+              "Q200473",
+              "Q214278",
+              "Q3541",
+              "Q549",
+              "Q855167"
+            ]
+          },
+          {
+            "id": "Q300955#1",
+            "text": "Větší jedinci loví i ryby, které žijí při dně.",
+            "cat": "vztahy",
+            "not": [
+              "Q200473",
+              "Q214278",
+              "Q28532237",
+              "Q549",
+              "Q76115",
+              "Q847501",
+              "Q855167"
+            ]
+          }
+        ],
+        "continents": [
+          "EU",
+          "AF"
+        ],
+        "pop": 56,
+        "emoji": "🐟"
+      },
+      {
         "id": "Q304256",
         "name": "Rájovec dlouhoploutvý",
         "latin": "Macropodus opercularis",
@@ -277973,6 +278468,48 @@ window.GAME_DATA = [
         "emoji": "🐟"
       },
       {
+        "id": "Q3233228",
+        "name": "Chňapal podélnopruhý",
+        "latin": "Lutjanus synagris",
+        "family": "chňapalovití",
+        "order": "Lutjaniformes",
+        "wiki": "https://cs.wikipedia.org/wiki/Ch%C5%88apal_pod%C3%A9lnopruh%C3%BD",
+        "photos": [
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Lane_snapper_Lutjanus_synagris_juvenile_(3471817077).jpg",
+            "author": "Paul Asman and Jill Lenoble",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Lane_snapper_Lutjanus_synagris_juvenile_%283471817077%29.jpg/500px-Lane_snapper_Lutjanus_synagris_juvenile_%283471817077%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Lutjanus_synagris_160676666.jpg",
+            "author": "Pauline Walsh Jacobson",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Lutjanus_synagris_160676666.jpg/500px-Lutjanus_synagris_160676666.jpg"
+          }
+        ],
+        "facts": [
+          {
+            "id": "Q3233228#0",
+            "text": "Bývá kořistí větších ryb a žraloků.",
+            "cat": "vztahy",
+            "not": []
+          },
+          {
+            "id": "Q3233228#1",
+            "text": "Mladé ryby žijí v pobřežních vodách.",
+            "cat": "výskyt",
+            "not": []
+          }
+        ],
+        "continents": [
+          "NA",
+          "SA"
+        ],
+        "pop": 18,
+        "emoji": "🐟"
+      },
+      {
         "id": "Q3233721",
         "name": "Mečovka Montezumova",
         "latin": "Xiphophorus montezumae",
@@ -278053,7 +278590,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q3235871#x3",
-            "text": "Mladé rybky se shromažďují v malých skupinách po 3 až 5.",
+            "text": "Mladé rybky se drží v malých skupinkách po 3 až 5 jedincích.",
             "cat": "mláďata",
             "not": []
           }
@@ -278226,6 +278763,46 @@ window.GAME_DATA = [
         ],
         "pop": 50,
         "emoji": "🐠"
+      },
+      {
+        "id": "Q348917",
+        "name": "Koruška americká",
+        "latin": "Thaleichthys pacificus",
+        "family": "Osmeridae",
+        "order": "Osmeriformes",
+        "wiki": "https://cs.wikipedia.org/wiki/Koru%C5%A1ka_americk%C3%A1",
+        "photos": [
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Hooligan_wcHDR3c.jpg",
+            "author": "Gillfoto",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Hooligan_wcHDR3c.jpg/500px-Hooligan_wcHDR3c.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Hooligan_wc8a.jpg",
+            "author": "Gillfoto",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Hooligan_wc8a.jpg/500px-Hooligan_wc8a.jpg"
+          }
+        ],
+        "facts": [
+          {
+            "id": "Q348917#0",
+            "text": "Živí se především planktonem.",
+            "cat": "potrava",
+            "not": [
+              "Q1257383",
+              "Q26821893",
+              "Q767055",
+              "Q943193"
+            ]
+          }
+        ],
+        "continents": [
+          "NA"
+        ],
+        "pop": 22,
+        "emoji": "🐟"
       },
       {
         "id": "Q3510700",
@@ -279258,6 +279835,46 @@ window.GAME_DATA = [
         ],
         "pop": 16,
         "emoji": "🐠"
+      },
+      {
+        "id": "Q461432",
+        "name": "Lufara dravá",
+        "latin": "Pomatomus saltatrix",
+        "family": "Pomatomidae",
+        "order": "Scombriformes",
+        "wiki": "https://cs.wikipedia.org/wiki/Lufara_drav%C3%A1",
+        "photos": [
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Bluefish_at_Mayor_Island_MPA_PC146136.JPG",
+            "author": "Peter Southwood",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Bluefish_at_Mayor_Island_MPA_PC146136.JPG/500px-Bluefish_at_Mayor_Island_MPA_PC146136.JPG"
+          }
+        ],
+        "facts": [
+          {
+            "id": "Q461432#0",
+            "text": "Ve velkých skupinách napadá hejna drobných ryb, třeba sleďů a sardinek.",
+            "cat": "potrava",
+            "not": [
+              "Q2124700",
+              "Q2170401",
+              "Q627960",
+              "Q855808",
+              "Q863850"
+            ]
+          }
+        ],
+        "continents": [
+          "EU",
+          "AS",
+          "AF",
+          "NA",
+          "SA",
+          "OC"
+        ],
+        "pop": 46,
+        "emoji": "🐟"
       },
       {
         "id": "Q465261",
@@ -280501,7 +281118,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q592469#x0",
-            "text": "Samci hlídají a prokysličují snůšku jiker.",
+            "text": "Samci hlídají jikry a prokysličují je.",
             "cat": "mláďata",
             "not": [
               "Q115045",
@@ -280885,6 +281502,69 @@ window.GAME_DATA = [
         "emoji": "🐟"
       },
       {
+        "id": "Q627960",
+        "name": "Lipan podhorní",
+        "latin": "Thymallus thymallus",
+        "family": "lososovití",
+        "order": "lososotvární",
+        "wiki": "https://cs.wikipedia.org/wiki/Lipan_podhorn%C3%AD",
+        "photos": [
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Thymallus_thymallus2.jpg",
+            "author": "Gilles San Martin",
+            "license": "CC BY-SA 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Thymallus_thymallus2.jpg/500px-Thymallus_thymallus2.jpg"
+          }
+        ],
+        "facts": [
+          {
+            "id": "Q627960#0",
+            "text": "Má velkou barevnou hřbetní ploutev podobnou praporku.",
+            "cat": "vzhled",
+            "not": []
+          },
+          {
+            "id": "Q627960#1",
+            "text": "Umí vyskočit z vody pro hmyz, ale obvykle ho sbírá z hladiny.",
+            "cat": "chování",
+            "not": [
+              "Q2143094",
+              "Q782345"
+            ]
+          },
+          {
+            "id": "Q627960#2",
+            "text": "V dospělosti se živí převážně larvami hmyzu.",
+            "cat": "potrava",
+            "not": [
+              "Q1328265",
+              "Q135004",
+              "Q201235",
+              "Q2656290",
+              "Q74411",
+              "Q882668",
+              "Q917705"
+            ]
+          },
+          {
+            "id": "Q627960#3",
+            "text": "Samice klade 3000 až 6000 jiker.",
+            "cat": "čísla",
+            "not": [
+              "Q1126155",
+              "Q74411",
+              "Q882668"
+            ]
+          }
+        ],
+        "continents": [
+          "EU",
+          "AS"
+        ],
+        "pop": 43,
+        "emoji": "🐟"
+      },
+      {
         "id": "Q628790",
         "name": "Hadohlavec červený",
         "latin": "Channa micropeltes",
@@ -281054,6 +281734,53 @@ window.GAME_DATA = [
           "AF"
         ],
         "pop": 29,
+        "emoji": "🐟"
+      },
+      {
+        "id": "Q633957",
+        "name": "Tuňák pruhovaný",
+        "latin": "Katsuwonus pelamis",
+        "family": "makrelovití",
+        "order": "Scombriformes",
+        "wiki": "https://cs.wikipedia.org/wiki/Tu%C5%88%C3%A1k_pruhovan%C3%BD",
+        "photos": [
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Skipjack_tuna_shoal.jpg",
+            "author": "",
+            "license": "Public domain",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Skipjack_tuna_shoal.jpg/500px-Skipjack_tuna_shoal.jpg"
+          }
+        ],
+        "facts": [
+          {
+            "id": "Q633957#0",
+            "text": "Plave ve velkých hejnech, v nichž může být až 50 000 ryb.",
+            "cat": "chování",
+            "not": [
+              "Q201235",
+              "Q2124700",
+              "Q26821893",
+              "Q744000"
+            ]
+          },
+          {
+            "id": "Q633957#1",
+            "text": "Dožívá se odhadem 6–12 let.",
+            "cat": "čísla",
+            "not": [
+              "Q855808"
+            ]
+          }
+        ],
+        "continents": [
+          "EU",
+          "AS",
+          "AF",
+          "NA",
+          "SA",
+          "OC"
+        ],
+        "pop": 60,
         "emoji": "🐟"
       },
       {
@@ -281480,7 +282207,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q7045#x2",
-            "text": "Kořist nejdřív vystopuje, pak vysune čelist a nasaje ji.",
+            "text": "Ke kořisti se nenápadně přiblíží, vysune čelisti do tvaru trubice a nasaje ji.",
             "cat": "chování",
             "not": [
               "Q131431"
@@ -281488,7 +282215,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q7045#x5",
-            "text": "Snáší jikry, které se stávají součástí planktonu.",
+            "text": "Jikry se volně vznášejí ve vodě a stávají se součástí planktonu.",
             "cat": "mláďata",
             "not": [
               "Q1142975",
@@ -281965,6 +282692,49 @@ window.GAME_DATA = [
         "emoji": "🐟"
       },
       {
+        "id": "Q744000",
+        "name": "Nebehled obecný",
+        "latin": "Uranoscopus scaber",
+        "family": "nebehledovití",
+        "order": "Uranoscopiformes",
+        "wiki": "https://cs.wikipedia.org/wiki/Nebehled_obecn%C3%BD",
+        "photos": [
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Uranoscopus_scaber-Elafonisos.jpeg",
+            "author": "Colman",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Uranoscopus_scaber-Elafonisos.jpeg/500px-Uranoscopus_scaber-Elafonisos.jpeg"
+          }
+        ],
+        "facts": [
+          {
+            "id": "Q744000#0",
+            "text": "Láká kořist na výrůstek v tlamě jako na udici.",
+            "cat": "potrava",
+            "not": [
+              "Q1130760",
+              "Q1340577",
+              "Q195606",
+              "Q2021864",
+              "Q2469966",
+              "Q2530772",
+              "Q28599938",
+              "Q333375",
+              "Q348917",
+              "Q374092",
+              "Q737579"
+            ]
+          }
+        ],
+        "continents": [
+          "EU",
+          "AS",
+          "AF"
+        ],
+        "pop": 30,
+        "emoji": "🐟"
+      },
+      {
         "id": "Q74411",
         "name": "Lates stříbřitý",
         "latin": "Lates calcarifer",
@@ -282074,6 +282844,57 @@ window.GAME_DATA = [
           "AS"
         ],
         "pop": 44,
+        "emoji": "🐟"
+      },
+      {
+        "id": "Q747794",
+        "name": "Piskoř pruhovaný",
+        "latin": "Misgurnus fossilis",
+        "family": "sekavcovití",
+        "order": "máloostní",
+        "wiki": "https://cs.wikipedia.org/wiki/Pisko%C5%99_pruhovan%C3%BD",
+        "photos": [
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Vingerjas.jpg",
+            "author": "Tiit Hunt",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Vingerjas.jpg/500px-Vingerjas.jpg"
+          }
+        ],
+        "facts": [
+          {
+            "id": "Q747794#0",
+            "text": "Živí se měkkýši, larvami pakomárů a dalšími bezobratlými ze dna.",
+            "cat": "potrava",
+            "not": []
+          },
+          {
+            "id": "Q747794#1",
+            "text": "Dýchá nejen žábrami, ale i polykáním vzduchu.",
+            "cat": "chování",
+            "not": [
+              "Q1049325",
+              "Q1767177",
+              "Q198568",
+              "Q2006774",
+              "Q237619",
+              "Q583540",
+              "Q750967",
+              "Q924585"
+            ]
+          },
+          {
+            "id": "Q747794#2",
+            "text": "Mláďata žijí u dna a schovávají se ve vegetaci.",
+            "cat": "mláďata",
+            "not": []
+          }
+        ],
+        "continents": [
+          "EU",
+          "AS"
+        ],
+        "pop": 39,
         "emoji": "🐟"
       },
       {
@@ -282307,6 +283128,77 @@ window.GAME_DATA = [
         "emoji": "🐟"
       },
       {
+        "id": "Q755105",
+        "name": "Okounek pstruhový",
+        "latin": "Micropterus salmoides",
+        "family": "okounkovití",
+        "order": "Centrarchiformes",
+        "wiki": "https://cs.wikipedia.org/wiki/Okounek_pstruhov%C3%BD",
+        "photos": [
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Florida_Bass,_Rainbow_River,_Florida_34432,_USA_imported_from_iNaturalist_photo_72295916.jpg",
+            "author": "no rights reserved",
+            "license": "CC0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Florida_Bass%2C_Rainbow_River%2C_Florida_34432%2C_USA_imported_from_iNaturalist_photo_72295916.jpg/500px-Florida_Bass%2C_Rainbow_River%2C_Florida_34432%2C_USA_imported_from_iNaturalist_photo_72295916.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Florida_Bass,_Rainbow_River,_Florida_34432,_USA_imported_from_iNaturalist_photo_72295925_(cropped).jpg",
+            "author": "no rights reserved",
+            "license": "CC0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Florida_Bass%2C_Rainbow_River%2C_Florida_34432%2C_USA_imported_from_iNaturalist_photo_72295925_%28cropped%29.jpg/500px-Florida_Bass%2C_Rainbow_River%2C_Florida_34432%2C_USA_imported_from_iNaturalist_photo_72295925_%28cropped%29.jpg"
+          }
+        ],
+        "facts": [
+          {
+            "id": "Q755105#x0",
+            "text": "Samec hlídá hnízdo, dokud se z vajíček nevylíhnou mláďata.",
+            "cat": "mláďata",
+            "not": [
+              "Q1130118",
+              "Q1140081",
+              "Q627960",
+              "Q694527",
+              "Q882668"
+            ]
+          },
+          {
+            "id": "Q755105#x2",
+            "text": "Mláďata jsou kořistí volavek, štik a úhořů.",
+            "cat": "vztahy",
+            "not": []
+          },
+          {
+            "id": "Q755105#x3",
+            "text": "Dospělí jedinci bývají ve svém prostředí vrcholovými predátory.",
+            "cat": "vztahy",
+            "not": [
+              "Q10866107",
+              "Q1130118",
+              "Q1139189",
+              "Q311170",
+              "Q627960",
+              "Q826713"
+            ]
+          },
+          {
+            "id": "Q755105#x4",
+            "text": "Dospělí se živí menšími rybami, červy, šneky, žábami a hady.",
+            "cat": "potrava",
+            "not": []
+          }
+        ],
+        "continents": [
+          "EU",
+          "AS",
+          "AF",
+          "NA",
+          "SA",
+          "OC"
+        ],
+        "pop": 37,
+        "emoji": "🐟"
+      },
+      {
         "id": "Q756771",
         "name": "Jeseter sibiřský",
         "latin": "Acipenser baerii",
@@ -282486,6 +283378,88 @@ window.GAME_DATA = [
           "SA"
         ],
         "pop": 66,
+        "emoji": "🐟"
+      },
+      {
+        "id": "Q76115",
+        "name": "Tolstolobik bílý",
+        "latin": "Hypophthalmichthys molitrix",
+        "family": "Xenocyprididae",
+        "order": "máloostní",
+        "wiki": "https://cs.wikipedia.org/wiki/Tolstolobik_b%C3%ADl%C3%BD",
+        "photos": [
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Image-Hypophthalmichthys_molitrix_03.jpg",
+            "author": "Tino Strauss",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Image-Hypophthalmichthys_molitrix_03.jpg/500px-Image-Hypophthalmichthys_molitrix_03.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Jumping_silver_carp.jpg",
+            "author": "Columbia Environmental Research Center",
+            "license": "Public domain",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Jumping_silver_carp.jpg/500px-Jumping_silver_carp.jpg"
+          }
+        ],
+        "facts": [
+          {
+            "id": "Q76115#x0",
+            "text": "Živí se filtrováním planktonu z vody.",
+            "cat": "potrava",
+            "not": [
+              "Q2148124",
+              "Q2542507",
+              "Q752178",
+              "Q945616"
+            ]
+          },
+          {
+            "id": "Q76115#x1",
+            "text": "Nemá žaludek.",
+            "cat": "vzhled",
+            "not": [
+              "Q2148124",
+              "Q2542507",
+              "Q752178",
+              "Q945616"
+            ]
+          },
+          {
+            "id": "Q76115#x2",
+            "text": "Při vyplašení vyskakuje z vody až do výšky 3 metrů.",
+            "cat": "chování",
+            "not": [
+              "Q2148124",
+              "Q728408",
+              "Q752178",
+              "Q945616"
+            ]
+          },
+          {
+            "id": "Q76115#x3",
+            "text": "Tam, kam byl zavlečen, soutěží o potravu s původními rybami živícími se planktonem.",
+            "cat": "vztahy",
+            "not": []
+          },
+          {
+            "id": "Q76115#x5",
+            "text": "Ve své původní oblasti táhne proti proudu řek ke tření.",
+            "cat": "chování",
+            "not": [
+              "Q2148124",
+              "Q2542507",
+              "Q728408",
+              "Q752178",
+              "Q945616"
+            ]
+          }
+        ],
+        "continents": [
+          "EU",
+          "AS",
+          "NA"
+        ],
+        "pop": 50,
         "emoji": "🐟"
       },
       {
@@ -283142,6 +284116,52 @@ window.GAME_DATA = [
           "NA"
         ],
         "pop": 35,
+        "emoji": "🐟"
+      },
+      {
+        "id": "Q827142",
+        "name": "Veslonos americký",
+        "latin": "Polyodon spathula",
+        "family": "veslonosovití",
+        "order": "jeseteři",
+        "wiki": "https://cs.wikipedia.org/wiki/Veslonos_americk%C3%BD",
+        "photos": [
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Polyodon_spathula_Aquarium_Li%C3%A8ge_30012016_3.jpg",
+            "author": "Vassil",
+            "license": "CC0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Polyodon_spathula_Aquarium_Li%C3%A8ge_30012016_3.jpg/500px-Polyodon_spathula_Aquarium_Li%C3%A8ge_30012016_3.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Hal_-_Polyodon_spathula_-_1.jpg",
+            "author": "Emőke Dénes",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Hal_-_Polyodon_spathula_-_1.jpg/500px-Hal_-_Polyodon_spathula_-_1.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Paddlefish-USFWS-Fish-and-Aquatic-Conservation-2160x1440.jpg",
+            "author": "U.S. Fish and Wildlife Service",
+            "license": "Public domain",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Paddlefish-USFWS-Fish-and-Aquatic-Conservation-2160x1440.jpg/500px-Paddlefish-USFWS-Fish-and-Aquatic-Conservation-2160x1440.jpg"
+          }
+        ],
+        "facts": [
+          {
+            "id": "Q827142#0",
+            "text": "Živí se zejména zooplanktonem.",
+            "cat": "potrava",
+            "not": [
+              "Q27773",
+              "Q300955",
+              "Q756969",
+              "Q842647"
+            ]
+          }
+        ],
+        "continents": [
+          "NA"
+        ],
+        "pop": 43,
         "emoji": "🐟"
       },
       {
@@ -284282,7 +285302,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q900868#x1",
-            "text": "Čistí mořské želvy od řas na jejich krunýřích.",
+            "text": "Čistí mořským želvám krunýře od řas.",
             "cat": "vztahy",
             "not": []
           },
@@ -284420,6 +285440,43 @@ window.GAME_DATA = [
           "AS"
         ],
         "pop": 37,
+        "emoji": "🐟"
+      },
+      {
+        "id": "Q910363",
+        "name": "Pelamida obecná",
+        "latin": "Sarda sarda",
+        "family": "makrelovití",
+        "order": "Scombriformes",
+        "wiki": "https://cs.wikipedia.org/wiki/Pelamida_obecn%C3%A1",
+        "photos": [
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Sarda_sarda_Azores.jpg",
+            "author": "tunicatedreamz",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Sarda_sarda_Azores.jpg/500px-Sarda_sarda_Azores.jpg"
+          }
+        ],
+        "facts": [
+          {
+            "id": "Q910363#1",
+            "text": "Dospělosti dosahuje při velikosti kolem 37 cm.",
+            "cat": "čísla",
+            "not": [
+              "Q2170401",
+              "Q581310",
+              "Q855808",
+              "Q863850"
+            ]
+          }
+        ],
+        "continents": [
+          "EU",
+          "AF",
+          "NA",
+          "SA"
+        ],
+        "pop": 42,
         "emoji": "🐟"
       },
       {
@@ -285021,6 +286078,48 @@ window.GAME_DATA = [
           "NA"
         ],
         "pop": 34,
+        "emoji": "🐟"
+      },
+      {
+        "id": "Q93675",
+        "name": "Štika americká",
+        "latin": "Esox americanus",
+        "family": "štikovití",
+        "order": "štikotvární",
+        "wiki": "https://cs.wikipedia.org/wiki/%C5%A0tika_americk%C3%A1",
+        "photos": [
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Grass_Pickerel_in_Aquaria_(1975)_(7645290350).jpg",
+            "author": "Hunter Desportes",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Grass_Pickerel_in_Aquaria_%281975%29_%287645290350%29.jpg/500px-Grass_Pickerel_in_Aquaria_%281975%29_%287645290350%29.jpg"
+          }
+        ],
+        "facts": [
+          {
+            "id": "Q93675#0",
+            "text": "Běžně dosahuje délky kolem 30 cm.",
+            "cat": "čísla",
+            "not": [
+              "Q614326",
+              "Q752178",
+              "Q917705"
+            ]
+          },
+          {
+            "id": "Q93675#1",
+            "text": "Loví ze zálohy menší rybky.",
+            "cat": "potrava",
+            "not": [
+              "Q200473",
+              "Q278307"
+            ]
+          }
+        ],
+        "continents": [
+          "NA"
+        ],
+        "pop": 24,
         "emoji": "🐟"
       },
       {
@@ -290206,7 +291305,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q10578977#x1",
-            "text": "Dospělí jedinci jsou dobří letci a při úskoku uletí několik metrů.",
+            "text": "Dospělci dobře létají a při útěku doskočí i několik metrů daleko.",
             "cat": "chování",
             "not": [
               "Q517920",
@@ -292678,7 +293777,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q1137159#x0",
-            "text": "Housenky se živí listy velmi jedovaté rostliny, vůči jejímu jedu jsou imunní.",
+            "text": "Housenky se živí listy velmi jedovaté rostliny a jejímu jedu odolávají.",
             "cat": "potrava",
             "not": [
               "Q1071861",
@@ -293155,7 +294254,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q1151518#1",
-            "text": "Přezimuje v kokonech.",
+            "text": "Larvy přezimují v zámotcích, ve kterých se pak zakuklí.",
             "cat": "chování",
             "not": [
               "Q1305510",
@@ -293416,7 +294515,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q1187084#x1",
-            "text": "Dospělci přezimují v klidovém stavu pod zemí nebo v opadu listí.",
+            "text": "Dospělci přezimují pod zemí nebo v opadaném listí.",
             "cat": "chování",
             "not": [
               "Q1305510",
@@ -293438,7 +294537,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q1187084#x3",
-            "text": "Za jeden rok mohou vzniknout dvě nebo tři generace.",
+            "text": "Během jednoho roku může mít dvě nebo tři generace.",
             "cat": "čísla",
             "not": [
               "Q389732",
@@ -294373,7 +295472,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q1281161#x0",
-            "text": "Napodobuje vosy žlutočerným zbarvením a pohyby, a tak se chrání.",
+            "text": "Chrání se tím, že žlutočerným zbarvením a pohyby napodobuje vosy.",
             "cat": "chování",
             "not": [
               "Q1491890",
@@ -294394,7 +295493,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q1281161#x3",
-            "text": "Larvy žijí v suchém mrtvém dřevu, třeba v kůlech plotů.",
+            "text": "Larvy žijí v suchém mrtvém dřevě, třeba v plotových kůlech.",
             "cat": "výskyt",
             "not": [
               "Q1130274",
@@ -294787,7 +295886,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q1301905#x0",
-            "text": "Housenky přezimují v lehce utkaných zámotcích.",
+            "text": "Housenky přezimují ve volně spředených zámotcích.",
             "cat": "chování",
             "not": []
           },
@@ -295396,7 +296495,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q1303427#x0",
-            "text": "Živí se okraji mladých listů, květními pupeny nebo spodní stranou listů třezalek.",
+            "text": "Žere okraje mladých listů, poupata nebo spodní stranu listů třezalek.",
             "cat": "potrava",
             "not": [
               "Q159543",
@@ -295685,7 +296784,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q1305510#x1",
-            "text": "Proti tomuto druhu se v biologické ochraně využívá ploštice.",
+            "text": "K jeho biologickému hubení se používá jeden druh ploštice.",
             "cat": "vztahy",
             "not": [
               "Q1491890",
@@ -299479,7 +300578,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q1409595#x3",
-            "text": "Rozšiřuje se na sever, což se spojuje se změnou klimatu.",
+            "text": "Šíření tohoto druhu na sever se dává do souvislosti se změnou klimatu.",
             "cat": "výskyt",
             "not": []
           }
@@ -299908,7 +301007,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q1423828#x4",
-            "text": "Chloupky housenek uvolňují jed, který způsobuje kožní vyrážku.",
+            "text": "Chloupky housenek uvolňují jed, který může způsobit kožní vyrážku.",
             "cat": "účinky",
             "not": [
               "Q1049370",
@@ -301569,7 +302668,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q1493916#x2",
-            "text": "Samice kladou celkem až 400 vajíček.",
+            "text": "Samice naklade celkem až 400 vajíček.",
             "cat": "čísla",
             "not": []
           }
@@ -301718,7 +302817,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q1499243#x0",
-            "text": "Larvy se vyvíjejí v mrtvém dřevu jehličnatých i listnatých stromů.",
+            "text": "Larvy se vyvíjejí ve vlhkém mrtvém dřevě jehličnatých i listnatých stromů.",
             "cat": "mláďata",
             "not": [
               "Q1491890",
@@ -302811,7 +303910,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q1535734#x0",
-            "text": "Loví hlavně v noci menší živočichy, například šneky, červy a hmyz.",
+            "text": "Je aktivní hlavně v noci a loví menší živočichy, například šneky, červy a hmyz.",
             "cat": "potrava",
             "not": [
               "Q1071584",
@@ -303061,7 +304160,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q1542272#x0",
-            "text": "Pyl sbírá téměř jen z jedné skupiny příbuzných rostlin.",
+            "text": "Pyl sbírá téměř výhradně z rostlin z čeledi štětkovitých.",
             "cat": "potrava",
             "not": [
               "Q1950127",
@@ -303097,7 +304196,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q1542272#x3",
-            "text": "Hnízdo má pět až deset buněk, v každé je jedno vajíčko.",
+            "text": "Hnízdo má pět až deset buněk, v každé je jedno vajíčko a pyl jako potrava pro larvu.",
             "cat": "mláďata",
             "not": [
               "Q1061241",
@@ -303253,7 +304352,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q1543905#x0",
-            "text": "Žije v malých koloniích, které mají 500 až 2000 dělnic.",
+            "text": "Žije v malých koloniích s 500 až 2000 dělnicemi.",
             "cat": "čísla",
             "not": [
               "Q1500649",
@@ -303435,7 +304534,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q1545665#x1",
-            "text": "Housenky se živí nejprve květy, později semeny a pak listy stromů.",
+            "text": "Housenky se živí nejprve květy, pak semeny a nakonec mladými listy.",
             "cat": "potrava",
             "not": [
               "Q1050343",
@@ -303462,7 +304561,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q1545665#x3",
-            "text": "Housenky přežijí bez potravy až šest týdnů, než raší listy.",
+            "text": "Housenky vydrží bez potravy až šest týdnů, než vyraší listy.",
             "cat": "čísla",
             "not": []
           },
@@ -303474,7 +304573,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q1545665#x5",
-            "text": "Když není medovice, slétají dospělci z korun stromů k nektaru květů.",
+            "text": "Když chybí medovice, slétají dospělci z korun stromů na květy sát nektar.",
             "cat": "potrava",
             "not": []
           }
@@ -303917,7 +305016,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q1549084#x3",
-            "text": "Barva a kresba křídel je výborná kamufláž na kůře kmenů, kde tento motýl odpočívá.",
+            "text": "Díky barvě a kresbě křídel výborně splývá s kůrou kmenů, na nichž odpočívá.",
             "cat": "vzhled",
             "not": []
           }
@@ -304116,7 +305215,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q1550927#x5",
-            "text": "Šíří bakterii spojenou s rychlým odumíráním oliv.",
+            "text": "Šíří bakterii spojenou s rychlým odumíráním olivovníků.",
             "cat": "vztahy",
             "not": [
               "Q145247",
@@ -305033,7 +306132,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q158603#x4",
-            "text": "Dokáže přeletět oceán, jeden doložený let měl asi 4 200 km.",
+            "text": "Dokáže přeletět oceán – jeden doložený let měřil asi 4 200 km.",
             "cat": "čísla",
             "not": [
               "Q148769",
@@ -306296,7 +307395,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q163771#x4",
-            "text": "Housenky žijí společně a obírají vrcholky stromů do holých větví.",
+            "text": "Housenky žijí pohromadě a nejvyšší větvičky stromů ožírají dohola.",
             "cat": "chování",
             "not": [
               "Q782434",
@@ -306808,7 +307907,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q1662116#x2",
-            "text": "Živí se na hluchavkách, jeteli, vikvi a bobovitých rostlinách, například štírovníku.",
+            "text": "Potravu sbírá na hluchavkách, jeteli, vikvi a bobovitých rostlinách, jako je štírovník.",
             "cat": "potrava",
             "not": []
           },
@@ -309201,7 +310300,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q179287#x0",
-            "text": "Housenky žijí v koloniích o asi 200 jedincích.",
+            "text": "Housenky žijí v koloniích po zhruba 200 jedincích.",
             "cat": "chování",
             "not": [
               "Q167435",
@@ -309354,7 +310453,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q179530#x3",
-            "text": "Samci se shromažďují poblíž vrcholů kopců.",
+            "text": "Samci se shromažďují poblíž vrcholů kopců a soupeří tam o samice.",
             "cat": "chování",
             "not": []
           },
@@ -310167,7 +311266,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q1886568#x0",
-            "text": "Mšice nežere, živí se listy bylin.",
+            "text": "Nežere mšice, ale listy bylin.",
             "cat": "potrava",
             "not": [
               "Q233024",
@@ -311978,7 +313077,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q203691#x4",
-            "text": "Hnízdo obvykle obsahuje méně než sto jedinců.",
+            "text": "V hnízdě žije obvykle méně než sto jedinců.",
             "cat": "čísla",
             "not": [
               "Q136668",
@@ -312755,13 +313854,13 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q21121#x0",
-            "text": "Na dřevě se živí jen larvy.",
+            "text": "Dřevem se živí jen larvy.",
             "cat": "potrava",
             "not": []
           },
           {
             "id": "Q21121#x2",
-            "text": "Vývoj z vajíčka v dospělého brouka trvá dva až deset let.",
+            "text": "Vývoj od vajíčka po dospělého brouka trvá dva až deset let.",
             "cat": "čísla",
             "not": [
               "Q1130274",
@@ -312968,7 +314067,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q21275405#x3",
-            "text": "Na Britských ostrovech žije jen na ostrově Irsko.",
+            "text": "Na Britských ostrovech žije jen v Irsku.",
             "cat": "výskyt",
             "not": [
               "Q1328595",
@@ -314581,7 +315680,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q2362946#x0",
-            "text": "Živí se hlavně nektarem a pylem rostlin hvězdnicovitých, hluchavkovitých a bobovitých.",
+            "text": "Živí se hlavně nektarem a pylem hvězdnicovitých, hluchavkovitých a bobovitých rostlin.",
             "cat": "potrava",
             "not": [
               "Q387616",
@@ -314590,7 +315689,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q2362946#x1",
-            "text": "Opyluje mnoho kvetoucích rostlin, také zemědělských.",
+            "text": "Opyluje mnoho kvetoucích rostlin včetně zemědělských plodin.",
             "cat": "vztahy",
             "not": []
           },
@@ -314602,7 +315701,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q2362946#x3",
-            "text": "Hnízdo obývá 50 až 100 dělnic.",
+            "text": "V jednom hnízdě vyroste 50 až 100 dělnic.",
             "cat": "čísla",
             "not": [
               "Q1163848",
@@ -316173,7 +317272,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q2561096#x3",
-            "text": "Samice poznají stromy napadené pilořitkami podle pachu houby.",
+            "text": "Samice pozná strom napadený pilořitkami podle pachu houby, která rozkládá dřevo.",
             "cat": "chování",
             "not": [
               "Q1061241",
@@ -318182,7 +319281,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q26842#x3",
-            "text": "Svléká se i po dosažení dospělosti.",
+            "text": "Na rozdíl od mnoha jiných druhů hmyzu se svléká i v dospělosti.",
             "cat": "chování",
             "not": [
               "Q1314962",
@@ -318426,7 +319525,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q27711#x0",
-            "text": "Je všežravec, živí se rostlinami i jiným hmyzem.",
+            "text": "Je všežravec, živí se rostlinnou i živočišnou potravou.",
             "cat": "potrava",
             "not": [
               "Q1304959",
@@ -318443,7 +319542,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q27711#x3",
-            "text": "Mláďata se podobají dospělým, jsou menší a nemají křídla.",
+            "text": "Mláďata vypadají jako dospělí, jen jsou menší a nemají křídla.",
             "cat": "mláďata",
             "not": [
               "Q1304959",
@@ -319788,7 +320887,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q301297#x3",
-            "text": "Hnízdí ve skupinách až s 15 000 norami.",
+            "text": "Hnízdí ve skupinách, které mohou mít až 15 000 nor.",
             "cat": "čísla",
             "not": [
               "Q1410407",
@@ -321113,7 +322212,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q311653#x5",
-            "text": "Žije většinou na suchých svazích s málo vegetace.",
+            "text": "Žije většinou na suchých svazích s řídkou vegetací.",
             "cat": "výskyt",
             "not": [
               "Q1141328",
@@ -321281,7 +322380,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q322180#x3",
-            "text": "Samice při kladení vajíček zanechává pachovou látku, která odrazuje jiné samice.",
+            "text": "Samice při kladení vajíček zanechává pachovou látku, která odrazuje jiné samice od kladení na tentýž květ.",
             "cat": "chování",
             "not": []
           },
@@ -323336,7 +324435,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q402435#0",
-            "text": "Housenky se živí hlavně listy stromů.",
+            "text": "Housenky se živí hlavně listy javorů.",
             "cat": "potrava",
             "not": [
               "Q1266127",
@@ -324366,7 +325465,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q460810#x1",
-            "text": "Larvy se vyvíjejí v mraveništích a živí se vejci a larvami mravenců.",
+            "text": "Larvy se vyvíjejí v mraveništích a živí se vajíčky a larvami mravenců.",
             "cat": "vztahy",
             "not": [
               "Q1089537",
@@ -324395,7 +325494,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q460810#x3",
-            "text": "Larvální vývoj trvá asi dva roky.",
+            "text": "Vývoj larev trvá asi dva roky.",
             "cat": "čísla",
             "not": [
               "Q1316205",
@@ -324557,7 +325656,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q460891#x2",
-            "text": "Mravenci ho přijmou, protože získá jejich pach.",
+            "text": "Mravenci ho přijímají, protože přebírá pach jejich kolonie.",
             "cat": "vztahy",
             "not": []
           }
@@ -324839,7 +325938,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q466194#x1",
-            "text": "Samice nosí vajíčka v pouzdře až do chvíle krátce před vylíhnutím.",
+            "text": "Samice nosí pouzdro s vajíčky s sebou téměř až do vylíhnutí mláďat.",
             "cat": "mláďata",
             "not": [
               "Q1148004",
@@ -324868,7 +325967,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q466194#x2",
-            "text": "Za ideálních podmínek dospívá z vajíčka asi za 50 až 60 dní.",
+            "text": "Za ideálních podmínek se z vajíčka vyvine v dospělce asi za 50 až 60 dní.",
             "cat": "čísla",
             "not": [
               "Q248379",
@@ -324879,7 +325978,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q466194#x3",
-            "text": "Nepřežije silný mráz, v chladných oblastech žije jen poblíž lidských obydlí.",
+            "text": "V chladných oblastech žije jen u lidských obydlí, protože nepřežije silný mráz.",
             "cat": "výskyt",
             "not": [
               "Q1128042",
@@ -325834,7 +326933,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q503799#x4",
-            "text": "Larvy pomáhají rozkladu dřeva a koloběhu živin v lese.",
+            "text": "Larvy přispívají k rozkladu dřeva a koloběhu živin v lese.",
             "cat": "vztahy",
             "not": [
               "Q1114576",
@@ -327488,7 +328587,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q56085742#x3",
-            "text": "Bývá často na okolících miříkovitých rostlin.",
+            "text": "Často sedává na okolících miříkovitých rostlin.",
             "cat": "výskyt",
             "not": [
               "Q145247",
@@ -328403,7 +329502,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q596482#x2",
-            "text": "Hnízda má pod zemí.",
+            "text": "Hnízdí pod zemí.",
             "cat": "chování",
             "not": [
               "Q1774364",
@@ -328569,7 +329668,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q598996#x1",
-            "text": "Cvrkat dokážou samci i samice.",
+            "text": "Cvrčet dokážou samci i samice.",
             "cat": "chování",
             "not": [
               "Q1304959",
@@ -328687,7 +329786,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q603128#x1",
-            "text": "Dospělci jsou v domovské oblasti důležití opylovači.",
+            "text": "Dospělci jsou v oblasti původního výskytu důležitými opylovači.",
             "cat": "vztahy",
             "not": [
               "Q306968",
@@ -328714,7 +329813,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q603128#x3",
-            "text": "Larvy žijí ve velkých skupinách, jejich přežití na skupině závisí.",
+            "text": "Larvy žijí ve velkých skupinách, na kterých závisí jejich přežití.",
             "cat": "chování",
             "not": [
               "Q1346422",
@@ -328745,7 +329844,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q603128#x5",
-            "text": "Za život naklade 2000 až 3000 vajíček.",
+            "text": "Samice za život naklade 2 000 až 3 000 vajíček.",
             "cat": "čísla",
             "not": []
           }
@@ -329597,7 +330696,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q647284#x2",
-            "text": "Žije na suchých vřesovištích a úhorech až do výšky 1 700 metrů.",
+            "text": "Žije na suchých vřesovištích a úhorech až do nadmořské výšky 1 700 metrů.",
             "cat": "výskyt",
             "not": []
           },
@@ -330211,7 +331310,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q668208#x4",
-            "text": "Většina generací se rozmnožuje bez páření.",
+            "text": "Všechny generace kromě podzimní se rozmnožují bez páření.",
             "cat": "chování",
             "not": [
               "Q1532591",
@@ -331056,7 +332155,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q722650#x2",
-            "text": "Housenky přezimují spící v listech rostliny, na které žijí.",
+            "text": "Housenky přezimují v listech rostliny, na které žijí.",
             "cat": "chování",
             "not": []
           },
@@ -337740,7 +338839,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q929463#x2",
-            "text": "Dospělci létají od února do začátku listopadu a jsou silní migranti.",
+            "text": "Dospělci létají od února do začátku listopadu a jsou zdatní migranti.",
             "cat": "chování",
             "not": [
               "Q1303617",
@@ -337760,7 +338859,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q929463#x3",
-            "text": "Vajíčka jsou kladena jednotlivě na květní poupata živných rostlin.",
+            "text": "Samice kladou vajíčka jednotlivě na poupata živných rostlin.",
             "cat": "mláďata",
             "not": [
               "Q148769",
@@ -338701,7 +339800,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q939526#x3",
-            "text": "Přezimují jako larvy v kokonu z listí.",
+            "text": "Přezimuje jako housenka v kokonu z listí.",
             "cat": "chování",
             "not": [
               "Q121791",
@@ -340343,7 +341442,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q998128#x3",
-            "text": "Parazitují na něm například lumci a kuklice.",
+            "text": "Na tomto druhu parazitují například lumci a kuklice.",
             "cat": "vztahy",
             "not": []
           }
@@ -349532,9 +350631,12 @@ window.GAME_DATA = [
             "cat": "potrava",
             "not": [
               "Q114893",
+              "Q139053",
+              "Q1507512",
               "Q1850495",
               "Q2153396",
               "Q3201040",
+              "Q62603",
               "Q901401",
               "Q910785"
             ]
@@ -349629,6 +350731,54 @@ window.GAME_DATA = [
           "OC"
         ],
         "pop": 43,
+        "emoji": "🐌"
+      },
+      {
+        "id": "Q139053",
+        "name": "Rapana dravá",
+        "latin": "Rapana venosa",
+        "family": "Muricidae",
+        "order": "Q980146",
+        "wiki": "https://cs.wikipedia.org/wiki/Rapana_drav%C3%A1",
+        "photos": [
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Rapana_Black_Sea_2008_G1.jpg",
+            "author": "George Chernilevsky",
+            "license": "Public domain",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Rapana_Black_Sea_2008_G1.jpg/500px-Rapana_Black_Sea_2008_G1.jpg"
+          }
+        ],
+        "facts": [],
+        "continents": [
+          "EU",
+          "AS",
+          "NA",
+          "SA"
+        ],
+        "pop": 21,
+        "emoji": "🐚"
+      },
+      {
+        "id": "Q1404905",
+        "name": "Zaděnka hladká",
+        "latin": "Callista chione",
+        "family": "Veneridae",
+        "order": "Q25385804",
+        "wiki": "https://cs.wikipedia.org/wiki/Zad%C4%9Bnka_hladk%C3%A1",
+        "photos": [
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Gl%C3%A4nzende_Venusmuschel_Callista_chione.jpg",
+            "author": "Holger Krisp",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Gl%C3%A4nzende_Venusmuschel_Callista_chione.jpg/500px-Gl%C3%A4nzende_Venusmuschel_Callista_chione.jpg"
+          }
+        ],
+        "facts": [],
+        "continents": [
+          "EU",
+          "AF"
+        ],
+        "pop": 17,
         "emoji": "🐌"
       },
       {
@@ -349769,6 +350919,88 @@ window.GAME_DATA = [
         ],
         "pop": 19,
         "emoji": "🐌"
+      },
+      {
+        "id": "Q1500716",
+        "name": "Škeble říční",
+        "latin": "Anodonta anatina",
+        "family": "velevrubovití",
+        "order": "Unionoida",
+        "wiki": "https://cs.wikipedia.org/wiki/%C5%A0keble_%C5%99%C3%AD%C4%8Dn%C3%AD",
+        "photos": [
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:%D0%91%D0%B5%D0%B7%D0%B7%D1%83%D0%B1%D0%BA%D0%B0_(Anodonta_anatina).jpg",
+            "author": "Пономарьова Алевтина",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/%D0%91%D0%B5%D0%B7%D0%B7%D1%83%D0%B1%D0%BA%D0%B0_%28Anodonta_anatina%29.jpg/500px-%D0%91%D0%B5%D0%B7%D0%B7%D1%83%D0%B1%D0%BA%D0%B0_%28Anodonta_anatina%29.jpg"
+          }
+        ],
+        "facts": [
+          {
+            "id": "Q1500716#0",
+            "text": "Mláďata určitou dobu cizopasí na kůži nebo žábrách ryb.",
+            "cat": "vztahy",
+            "not": [
+              "Q1472765",
+              "Q1548480",
+              "Q174549",
+              "Q2536380",
+              "Q427854",
+              "Q811137",
+              "Q892046",
+              "Q898580",
+              "Q910785",
+              "Q937520"
+            ]
+          },
+          {
+            "id": "Q1500716#1",
+            "text": "Tento druh je ve Švédsku nejrozšířenějším velkým sladkovodním mlžem.",
+            "cat": "výskyt",
+            "not": [
+              "Q1472765",
+              "Q1548480",
+              "Q174549",
+              "Q2536380",
+              "Q427854",
+              "Q811137",
+              "Q892046",
+              "Q898580",
+              "Q910785",
+              "Q937520"
+            ]
+          }
+        ],
+        "continents": [
+          "EU",
+          "AS"
+        ],
+        "pop": 24,
+        "emoji": "🦪"
+      },
+      {
+        "id": "Q1507512",
+        "name": "Homolice síťkovaná",
+        "latin": "Conus textile",
+        "family": "homolicovití",
+        "order": "Q980146",
+        "wiki": "https://cs.wikipedia.org/wiki/Homolice_s%C3%AD%C5%A5kovan%C3%A1",
+        "photos": [
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Textile_cone.JPG",
+            "author": "Richard Ling",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Textile_cone.JPG/500px-Textile_cone.JPG"
+          }
+        ],
+        "facts": [],
+        "continents": [
+          "AS",
+          "AF",
+          "OC"
+        ],
+        "pop": 20,
+        "emoji": "🐚"
       },
       {
         "id": "Q151201",
@@ -349998,7 +351230,15 @@ window.GAME_DATA = [
             "cat": "vztahy",
             "not": [
               "Q114893",
+              "Q139053",
+              "Q1404905",
+              "Q1507512",
+              "Q1757231",
               "Q1844769",
+              "Q21124",
+              "Q376050",
+              "Q62603",
+              "Q798236",
               "Q854808"
             ]
           },
@@ -350227,6 +351467,100 @@ window.GAME_DATA = [
         "emoji": "🐌"
       },
       {
+        "id": "Q1757231",
+        "name": "Hřebenatka svatojakubská",
+        "latin": "Pecten jacobaeus",
+        "family": "Pectinidae",
+        "order": "Pectinida",
+        "wiki": "https://cs.wikipedia.org/wiki/H%C5%99ebenatka_svatojakubsk%C3%A1",
+        "photos": [
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Pecten_jacobaeus.jpg",
+            "author": "Andreas Tille",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Pecten_jacobaeus.jpg/500px-Pecten_jacobaeus.jpg"
+          }
+        ],
+        "facts": [],
+        "continents": [
+          "EU",
+          "AF"
+        ],
+        "pop": 23,
+        "emoji": "🦪"
+      },
+      {
+        "id": "Q175818",
+        "name": "Slimák pestrý",
+        "latin": "Limacus flavus",
+        "family": "slimákovití",
+        "order": "stopkoocí",
+        "wiki": "https://cs.wikipedia.org/wiki/Slim%C3%A1k_pestr%C3%BD",
+        "photos": [
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Limax_flavus_Piazzo_03.jpg",
+            "author": "Syrio",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Limax_flavus_Piazzo_03.jpg/500px-Limax_flavus_Piazzo_03.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Yellow_Slug_(Limax_flavus)_(8212661949).jpg",
+            "author": "Peter O'Connor aka anemoneprojectors from Stevenage, United Kingdom",
+            "license": "CC BY-SA 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Yellow_Slug_%28Limax_flavus%29_%288212661949%29.jpg/500px-Yellow_Slug_%28Limax_flavus%29_%288212661949%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Limacus_flavus_Piazzo_03.jpg",
+            "author": "Syrio",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Limacus_flavus_Piazzo_03.jpg/500px-Limacus_flavus_Piazzo_03.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Salyangoz.JPG",
+            "author": "Maderibeyza",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Salyangoz.JPG/500px-Salyangoz.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Slug_(7970748352).jpg",
+            "author": "Timo Newton-Syms from Helsinki, Finland and Chalfont St Giles, Bucks, UK",
+            "license": "CC BY-SA 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Slug_%287970748352%29.jpg/500px-Slug_%287970748352%29.jpg"
+          }
+        ],
+        "facts": [
+          {
+            "id": "Q175818#0",
+            "text": "Žije ve vlhkých oblastech a ve sklepech.",
+            "cat": "výskyt",
+            "not": [
+              "Q2664666"
+            ]
+          },
+          {
+            "id": "Q175818#1",
+            "text": "Je to nahý plž s drobnými žlutými skvrnami na hřbetě.",
+            "cat": "vzhled",
+            "not": [
+              "Q114893",
+              "Q1500654",
+              "Q2664666",
+              "Q3164532",
+              "Q3201040",
+              "Q428534",
+              "Q811137",
+              "Q910785"
+            ]
+          }
+        ],
+        "continents": [
+          "EU",
+          "OC"
+        ],
+        "pop": 18,
+        "emoji": "🐌"
+      },
+      {
         "id": "Q1758969",
         "name": "Bahenka pruhovaná",
         "latin": "Viviparus viviparus",
@@ -350388,7 +351722,15 @@ window.GAME_DATA = [
             "id": "Q1844769#5",
             "text": "Pstruzi ho polykají, ale většinou ho nestráví.",
             "cat": "vztahy",
-            "not": []
+            "not": [
+              "Q139053",
+              "Q1404905",
+              "Q1507512",
+              "Q1757231",
+              "Q21124",
+              "Q376050",
+              "Q62603"
+            ]
           }
         ],
         "continents": [
@@ -350495,6 +351837,49 @@ window.GAME_DATA = [
         ],
         "pop": 24,
         "emoji": "🐙"
+      },
+      {
+        "id": "Q1895259",
+        "name": "Šišan rudý",
+        "latin": "Cypraecassis rufa",
+        "family": "Cassidae",
+        "order": "Q1187122",
+        "wiki": "https://cs.wikipedia.org/wiki/%C5%A0i%C5%A1an_rud%C3%BD",
+        "photos": [
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Cypraecassis_rufa.jpg",
+            "author": "Philippe Bourjon",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Cypraecassis_rufa.jpg/500px-Cypraecassis_rufa.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Cypraecassis_rufa_Landaagiraavaru.JPG",
+            "author": "Frédéric Ducarme",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Cypraecassis_rufa_Landaagiraavaru.JPG/500px-Cypraecassis_rufa_Landaagiraavaru.JPG"
+          }
+        ],
+        "facts": [
+          {
+            "id": "Q1895259#0",
+            "text": "Ulita bývá 65 až 200 mm veliká.",
+            "cat": "čísla",
+            "not": [
+              "Q1844769",
+              "Q22019793",
+              "Q3164532",
+              "Q689003",
+              "Q908813",
+              "Q945738"
+            ]
+          }
+        ],
+        "continents": [
+          "AF",
+          "OC"
+        ],
+        "pop": 12,
+        "emoji": "🐚"
       },
       {
         "id": "Q1940276",
@@ -350659,6 +352044,53 @@ window.GAME_DATA = [
         ],
         "pop": 32,
         "emoji": "🐌"
+      },
+      {
+        "id": "Q21124",
+        "name": "Srdcovka jedlá",
+        "latin": "Cerastoderma edule",
+        "family": "srdcovkovití",
+        "order": "Cardiida",
+        "wiki": "https://cs.wikipedia.org/wiki/Srdcovka_jedl%C3%A1",
+        "photos": [
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Common_Cockle_(Saueskjell)_(Cerastoderma_edule)_-_B%C3%A6rum,_Norway_2021-02-23_(01).jpg",
+            "author": "Ryan Hodnett",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Common_Cockle_%28Saueskjell%29_%28Cerastoderma_edule%29_-_B%C3%A6rum%2C_Norway_2021-02-23_%2801%29.jpg/500px-Common_Cockle_%28Saueskjell%29_%28Cerastoderma_edule%29_-_B%C3%A6rum%2C_Norway_2021-02-23_%2801%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Common_Cockle_(Saueskjell)_(Cerastoderma_edule)_-_And%C3%B8y,_Norway_2023-07-10_(01).jpg",
+            "author": "Ryan Hodnett",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Common_Cockle_%28Saueskjell%29_%28Cerastoderma_edule%29_-_And%C3%B8y%2C_Norway_2023-07-10_%2801%29.jpg/500px-Common_Cockle_%28Saueskjell%29_%28Cerastoderma_edule%29_-_And%C3%B8y%2C_Norway_2023-07-10_%2801%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Common_Cockle_(Cerastoderma_edule)_-_Kvinnherad,_Norway_2021-07-29.jpg",
+            "author": "Ryan Hodnett",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Common_Cockle_%28Cerastoderma_edule%29_-_Kvinnherad%2C_Norway_2021-07-29.jpg/500px-Common_Cockle_%28Cerastoderma_edule%29_-_Kvinnherad%2C_Norway_2021-07-29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Noordwijk_-_Kokkel_(Cerastoderma_edule)_v2.jpg",
+            "author": "Rudolphous",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Noordwijk_-_Kokkel_%28Cerastoderma_edule%29_v2.jpg/500px-Noordwijk_-_Kokkel_%28Cerastoderma_edule%29_v2.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Common_Cockle_(Cerastoderma_edule)_-_Oslo,_Norway_2021-03-25_(01).jpg",
+            "author": "Ryan Hodnett",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Common_Cockle_%28Cerastoderma_edule%29_-_Oslo%2C_Norway_2021-03-25_%2801%29.jpg/500px-Common_Cockle_%28Cerastoderma_edule%29_-_Oslo%2C_Norway_2021-03-25_%2801%29.jpg"
+          }
+        ],
+        "facts": [],
+        "continents": [
+          "EU",
+          "AF"
+        ],
+        "pop": 32,
+        "emoji": "🦪"
       },
       {
         "id": "Q2153396",
@@ -351197,6 +352629,78 @@ window.GAME_DATA = [
         "emoji": "🐌"
       },
       {
+        "id": "Q27855",
+        "name": "Slávka jedlá",
+        "latin": "Mytilus edulis",
+        "family": "Mytilidae",
+        "order": "Mytilida",
+        "wiki": "https://cs.wikipedia.org/wiki/Sl%C3%A1vka_jedl%C3%A1",
+        "photos": [
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Miesmuscheln_Mytilus_2.jpg",
+            "author": "Benutzer:Darkone , 26. Oktober 2003",
+            "license": "CC BY-SA 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Miesmuscheln_Mytilus_2.jpg/500px-Miesmuscheln_Mytilus_2.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Blue_Mussel_(Bl%C3%A5skjell)_(Mytilus_edulis)_-_Bod%C3%B8,_Norway_2023-07-19_(01).jpg",
+            "author": "Ryan Hodnett",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Blue_Mussel_%28Bl%C3%A5skjell%29_%28Mytilus_edulis%29_-_Bod%C3%B8%2C_Norway_2023-07-19_%2801%29.jpg/500px-Blue_Mussel_%28Bl%C3%A5skjell%29_%28Mytilus_edulis%29_-_Bod%C3%B8%2C_Norway_2023-07-19_%2801%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Moules_(Mytilus_edulis)_(Ifremer_00562-67403_-_41372).jpg",
+            "author": "Olivier Dugornay",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Moules_%28Mytilus_edulis%29_%28Ifremer_00562-67403_-_41372%29.jpg/500px-Moules_%28Mytilus_edulis%29_%28Ifremer_00562-67403_-_41372%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Blue_Mussel_(Bl%C3%A5skjell)_(Mytilus_edulis)_-_And%C3%B8y,_Norway_2023-07-10_(01).jpg",
+            "author": "Ryan Hodnett",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Blue_Mussel_%28Bl%C3%A5skjell%29_%28Mytilus_edulis%29_-_And%C3%B8y%2C_Norway_2023-07-10_%2801%29.jpg/500px-Blue_Mussel_%28Bl%C3%A5skjell%29_%28Mytilus_edulis%29_-_And%C3%B8y%2C_Norway_2023-07-10_%2801%29.jpg"
+          }
+        ],
+        "facts": [
+          {
+            "id": "Q27855#0",
+            "text": "Přichycuje se vlákny na skály u pobřeží.",
+            "cat": "chování",
+            "not": [
+              "Q1006379",
+              "Q114893",
+              "Q131757",
+              "Q1500716",
+              "Q1632342",
+              "Q22019793",
+              "Q245314",
+              "Q26908",
+              "Q3819564",
+              "Q427854",
+              "Q651361",
+              "Q756724",
+              "Q835427",
+              "Q854808",
+              "Q872853",
+              "Q910785",
+              "Q911251",
+              "Q912404"
+            ]
+          }
+        ],
+        "continents": [
+          "EU",
+          "AS",
+          "AF",
+          "NA",
+          "SA",
+          "AN",
+          "OC"
+        ],
+        "pop": 46,
+        "emoji": "🦪"
+      },
+      {
         "id": "Q3164532",
         "name": "Praménka rakouská",
         "latin": "Bythinella austriaca",
@@ -351297,6 +352801,29 @@ window.GAME_DATA = [
         "emoji": "🐌"
       },
       {
+        "id": "Q376050",
+        "name": "Venuška jedlá",
+        "latin": "Venus verrucosa",
+        "family": "Veneridae",
+        "order": "Q25385804",
+        "wiki": "https://cs.wikipedia.org/wiki/Venu%C5%A1ka_jedl%C3%A1",
+        "photos": [
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Venus_verrucosa_(10.3897-BDJ.12.e115051)_Figure_101.jpg",
+            "author": "Mariottini et al. (2024)",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Venus_verrucosa_%2810.3897-BDJ.12.e115051%29_Figure_101.jpg/500px-Venus_verrucosa_%2810.3897-BDJ.12.e115051%29_Figure_101.jpg"
+          }
+        ],
+        "facts": [],
+        "continents": [
+          "EU",
+          "AF"
+        ],
+        "pop": 18,
+        "emoji": "🐌"
+      },
+      {
         "id": "Q3819564",
         "name": "Sepiola tichomořská",
         "latin": "Rossia pacifica",
@@ -351354,15 +352881,21 @@ window.GAME_DATA = [
             "text": "Loví také malé kraby, menší ryby a jiné hlavonožce.",
             "cat": "potrava",
             "not": [
+              "Q1404905",
               "Q174549",
+              "Q1757231",
               "Q21113",
+              "Q21124",
               "Q22019793",
               "Q245314",
               "Q3201040",
+              "Q376050",
               "Q427854",
               "Q428534",
+              "Q62603",
               "Q773951",
               "Q777865",
+              "Q798236",
               "Q854808"
             ]
           }
@@ -351657,6 +353190,29 @@ window.GAME_DATA = [
         "emoji": "🐌"
       },
       {
+        "id": "Q62603",
+        "name": "Křídlatec velký",
+        "latin": "Lobatus gigas",
+        "family": "Strombidae",
+        "order": "Q1187122",
+        "wiki": "https://cs.wikipedia.org/wiki/K%C5%99%C3%ADdlatec_velk%C3%BD",
+        "photos": [
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Queen_Conch_(Lobatus_gigas).jpg",
+            "author": "Daniel Neal from Sacramento, CA, US",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Queen_Conch_%28Lobatus_gigas%29.jpg/500px-Queen_Conch_%28Lobatus_gigas%29.jpg"
+          }
+        ],
+        "facts": [],
+        "continents": [
+          "NA",
+          "SA"
+        ],
+        "pop": 29,
+        "emoji": "🐚"
+      },
+      {
         "id": "Q651332",
         "name": "Ostranka jaderská",
         "latin": "Bolinus brandaris",
@@ -351695,15 +353251,21 @@ window.GAME_DATA = [
             "text": "Živí se jinými měkkýši.",
             "cat": "potrava",
             "not": [
+              "Q1404905",
               "Q1500716",
               "Q151201",
+              "Q1757231",
               "Q1940276",
+              "Q21124",
               "Q27855",
+              "Q376050",
               "Q427854",
+              "Q62603",
               "Q7187379",
               "Q728187",
               "Q751784",
               "Q752130",
+              "Q798236",
               "Q908799",
               "Q908813",
               "Q937520",
@@ -351983,9 +353545,16 @@ window.GAME_DATA = [
             "cat": "výskyt",
             "not": [
               "Q1249634",
+              "Q1404905",
+              "Q1507512",
               "Q164336",
+              "Q1757231",
               "Q182258",
+              "Q21124",
+              "Q376050",
+              "Q62603",
               "Q651332",
+              "Q798236",
               "Q867200",
               "Q945738"
             ]
@@ -352043,15 +353612,19 @@ window.GAME_DATA = [
             "not": [
               "Q114893",
               "Q131757",
+              "Q1404905",
               "Q1500654",
+              "Q1757231",
               "Q1758969",
               "Q21113",
+              "Q21124",
               "Q22019793",
               "Q245314",
               "Q26908",
               "Q3164532",
               "Q427854",
               "Q428534",
+              "Q798236",
               "Q912404",
               "Q932364"
             ]
@@ -352063,6 +353636,45 @@ window.GAME_DATA = [
         ],
         "pop": 40,
         "emoji": "🦪"
+      },
+      {
+        "id": "Q752130",
+        "name": "Slávička mnohotvárná",
+        "latin": "Dreissena polymorpha",
+        "family": "slávičkovití",
+        "order": "Myida",
+        "wiki": "https://cs.wikipedia.org/wiki/Sl%C3%A1vi%C4%8Dka_mnohotv%C3%A1rn%C3%A1",
+        "photos": [
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Zebra_Mussels_on_the_Shoreline_(52134880927).jpg",
+            "author": "USFWS Mountain Prairie",
+            "license": "Public domain",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Zebra_Mussels_on_the_Shoreline_%2852134880927%29.jpg/500px-Zebra_Mussels_on_the_Shoreline_%2852134880927%29.jpg"
+          }
+        ],
+        "facts": [
+          {
+            "id": "Q752130#0",
+            "text": "Filtrováním zvyšuje průhlednost vody.",
+            "cat": "chování",
+            "not": [
+              "Q1472765",
+              "Q1500654",
+              "Q1850495",
+              "Q1940276",
+              "Q26908",
+              "Q756724",
+              "Q811137"
+            ]
+          }
+        ],
+        "continents": [
+          "EU",
+          "AS",
+          "NA"
+        ],
+        "pop": 36,
+        "emoji": "🐌"
       },
       {
         "id": "Q756724",
@@ -352180,10 +353792,17 @@ window.GAME_DATA = [
             "cat": "výskyt",
             "not": [
               "Q114893",
+              "Q139053",
+              "Q1404905",
+              "Q1507512",
               "Q1548480",
+              "Q1757231",
               "Q1940276",
+              "Q21124",
               "Q26908",
+              "Q376050",
               "Q3819564",
+              "Q62603",
               "Q7187379",
               "Q811137",
               "Q872853"
@@ -352195,11 +353814,14 @@ window.GAME_DATA = [
             "cat": "potrava",
             "not": [
               "Q114893",
+              "Q139053",
+              "Q1507512",
               "Q1548480",
               "Q1940276",
               "Q26908",
               "Q3819564",
               "Q598612",
+              "Q62603",
               "Q7187379",
               "Q811137",
               "Q872853",
@@ -352313,6 +353935,99 @@ window.GAME_DATA = [
         ],
         "pop": 15,
         "emoji": "🐌"
+      },
+      {
+        "id": "Q777865",
+        "name": "Škeble rybničná",
+        "latin": "Anodonta cygnea",
+        "family": "velevrubovití",
+        "order": "Unionoida",
+        "wiki": "https://cs.wikipedia.org/wiki/%C5%A0keble_rybni%C4%8Dn%C3%A1",
+        "photos": [
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Anodonta_cygnea_214933315.jpg",
+            "author": "Michel Langeveld",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Anodonta_cygnea_214933315.jpg/500px-Anodonta_cygnea_214933315.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Skeble_rybnicna.JPG",
+            "author": "Andy.vac",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Skeble_rybnicna.JPG/500px-Skeble_rybnicna.JPG"
+          }
+        ],
+        "facts": [
+          {
+            "id": "Q777865#0",
+            "text": "Získává potravu filtrováním vody.",
+            "cat": "potrava",
+            "not": [
+              "Q114893",
+              "Q1548480",
+              "Q1940276",
+              "Q26908",
+              "Q3819564",
+              "Q7187379",
+              "Q811137",
+              "Q872853"
+            ]
+          },
+          {
+            "id": "Q777865#1",
+            "text": "Larvy určitou dobu cizopasí na kůži nebo žábrách ryb.",
+            "cat": "vztahy",
+            "not": [
+              "Q114893",
+              "Q139053",
+              "Q1404905",
+              "Q1507512",
+              "Q1548480",
+              "Q1757231",
+              "Q1844769",
+              "Q1940276",
+              "Q21124",
+              "Q26908",
+              "Q376050",
+              "Q3819564",
+              "Q598612",
+              "Q62603",
+              "Q7187379",
+              "Q811137",
+              "Q872853",
+              "Q911251"
+            ]
+          }
+        ],
+        "continents": [
+          "EU",
+          "AS"
+        ],
+        "pop": 28,
+        "emoji": "🦪"
+      },
+      {
+        "id": "Q798236",
+        "name": "Velevrub tupý",
+        "latin": "Unio crassus",
+        "family": "velevrubovití",
+        "order": "Unionoida",
+        "wiki": "https://cs.wikipedia.org/wiki/Velevrub_tup%C3%BD",
+        "photos": [
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Unio_crassus,_Detva.jpg",
+            "author": "Peter261504",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Unio_crassus%2C_Detva.jpg/500px-Unio_crassus%2C_Detva.jpg"
+          }
+        ],
+        "facts": [],
+        "continents": [
+          "EU",
+          "AS"
+        ],
+        "pop": 25,
+        "emoji": "🦪"
       },
       {
         "id": "Q811137",
@@ -352557,6 +354272,7 @@ window.GAME_DATA = [
               "Q114893",
               "Q1844769",
               "Q3201040",
+              "Q798236",
               "Q811137",
               "Q898580"
             ]
@@ -352651,7 +354367,10 @@ window.GAME_DATA = [
             "id": "Q872853#x2",
             "text": "Oči nemají čočku a fungují jako dírková komora.",
             "cat": "vzhled",
-            "not": []
+            "not": [
+              "Q1757231",
+              "Q62603"
+            ]
           },
           {
             "id": "Q872853#x3",
@@ -352926,6 +354645,51 @@ window.GAME_DATA = [
         "emoji": "🐌"
       },
       {
+        "id": "Q908813",
+        "name": "Zubovec říční",
+        "latin": "Theodoxus fluviatilis",
+        "family": "zubovcovití",
+        "order": "Cycloneritida",
+        "wiki": "https://cs.wikipedia.org/wiki/Zubovec_%C5%99%C3%AD%C4%8Dn%C3%AD",
+        "photos": [
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Theodoxus_fluviatilis_Mollusque_eau_douce_Charente_(profil).JPG",
+            "author": "Lamiot",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Theodoxus_fluviatilis_Mollusque_eau_douce_Charente_%28profil%29.JPG/500px-Theodoxus_fluviatilis_Mollusque_eau_douce_Charente_%28profil%29.JPG"
+          }
+        ],
+        "facts": [
+          {
+            "id": "Q908813#0",
+            "text": "Pase se na kamenech a jí řasy.",
+            "cat": "potrava",
+            "not": [
+              "Q131757",
+              "Q651332",
+              "Q777865"
+            ]
+          },
+          {
+            "id": "Q908813#1",
+            "text": "Dožívá se asi tří let.",
+            "cat": "čísla",
+            "not": [
+              "Q182258",
+              "Q777865",
+              "Q820786"
+            ]
+          }
+        ],
+        "continents": [
+          "EU",
+          "AS",
+          "AF"
+        ],
+        "pop": 19,
+        "emoji": "🐌"
+      },
+      {
         "id": "Q910785",
         "name": "Jantarka úhledná",
         "latin": "Oxyloma elegans",
@@ -353059,15 +354823,23 @@ window.GAME_DATA = [
             "not": [
               "Q114893",
               "Q131757",
+              "Q139053",
+              "Q1404905",
+              "Q1507512",
               "Q1632342",
+              "Q1757231",
               "Q21113",
+              "Q21124",
               "Q22019793",
               "Q245314",
               "Q26908",
               "Q3164532",
+              "Q376050",
               "Q427854",
+              "Q62603",
               "Q751784",
               "Q756724",
+              "Q798236",
               "Q932364",
               "Q945738"
             ]
@@ -353161,6 +354933,61 @@ window.GAME_DATA = [
           "NA"
         ],
         "pop": 33,
+        "emoji": "🐌"
+      },
+      {
+        "id": "Q937520",
+        "name": "Bahenka živorodá",
+        "latin": "Viviparus contectus",
+        "family": "bahenkovití",
+        "order": "Architaenioglossa",
+        "wiki": "https://cs.wikipedia.org/wiki/Bahenka_%C5%BEivorod%C3%A1",
+        "photos": [
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Viviparus_contectus_m2.JPG",
+            "author": "Aiwok",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Viviparus_contectus_m2.JPG/500px-Viviparus_contectus_m2.JPG"
+          }
+        ],
+        "facts": [
+          {
+            "id": "Q937520#0",
+            "text": "Tento druh se živí řasami a organickými zbytky.",
+            "cat": "potrava",
+            "not": [
+              "Q1548480",
+              "Q2536380"
+            ]
+          },
+          {
+            "id": "Q937520#1",
+            "text": "Vajíčka se vyvíjejí v těle samice, která rodí živá mláďata.",
+            "cat": "mláďata",
+            "not": [
+              "Q1249634",
+              "Q139053",
+              "Q1404905",
+              "Q1507512",
+              "Q1548480",
+              "Q164336",
+              "Q1757231",
+              "Q175818",
+              "Q21124",
+              "Q245314",
+              "Q2536380",
+              "Q3201040",
+              "Q376050",
+              "Q428534",
+              "Q62603",
+              "Q940450"
+            ]
+          }
+        ],
+        "continents": [
+          "EU"
+        ],
+        "pop": 13,
         "emoji": "🐌"
       },
       {
@@ -353785,6 +355612,55 @@ window.GAME_DATA = [
         "emoji": "🦞"
       },
       {
+        "id": "Q1366514",
+        "name": "Batynomus obrovský",
+        "latin": "Bathynomus giganteus",
+        "family": "Cirolanidae",
+        "order": "stejnonožci",
+        "wiki": "https://cs.wikipedia.org/wiki/Batynomus_obrovsk%C3%BD",
+        "photos": [
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Bathynomus_giganteus_hi-res.jpg",
+            "author": "NOAA",
+            "license": "Public domain",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Bathynomus_giganteus_hi-res.jpg/500px-Bathynomus_giganteus_hi-res.jpg"
+          }
+        ],
+        "facts": [
+          {
+            "id": "Q1366514#0",
+            "text": "Živí se těly uhynulých živočichů.",
+            "cat": "potrava",
+            "not": []
+          },
+          {
+            "id": "Q1366514#1",
+            "text": "Může dosáhnout délky přes 30 cm.",
+            "cat": "čísla",
+            "not": [
+              "Q1300629",
+              "Q1317340",
+              "Q135052",
+              "Q1573371",
+              "Q1646839",
+              "Q21171",
+              "Q2798958",
+              "Q287523",
+              "Q43735",
+              "Q585024",
+              "Q586336",
+              "Q61642001"
+            ]
+          }
+        ],
+        "continents": [
+          "NA",
+          "SA"
+        ],
+        "pop": 19,
+        "emoji": "🪲"
+      },
+      {
         "id": "Q1472053",
         "name": "Žábronožka sněžní",
         "latin": "Eubranchipus grubii",
@@ -354063,6 +355939,7 @@ window.GAME_DATA = [
               "Q1519675",
               "Q1573371",
               "Q571290",
+              "Q61642001",
               "Q823941"
             ]
           }
@@ -354137,6 +356014,7 @@ window.GAME_DATA = [
               "Q1519675",
               "Q1573371",
               "Q210959",
+              "Q61642001",
               "Q693000",
               "Q823941"
             ]
@@ -354409,6 +356287,47 @@ window.GAME_DATA = [
         "emoji": "🦞"
       },
       {
+        "id": "Q27765",
+        "name": "Garnát obecný",
+        "latin": "Crangon crangon",
+        "family": "Crangonidae",
+        "order": "desetinožci",
+        "wiki": "https://cs.wikipedia.org/wiki/Garn%C3%A1t_obecn%C3%BD",
+        "photos": [
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Crangon_crangon_Sandgarnele.jpg",
+            "author": "Holger Krisp",
+            "license": "CC BY 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Crangon_crangon_Sandgarnele.jpg/500px-Crangon_crangon_Sandgarnele.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Ecomare_-_gewone_garnalen_(gewone-garnalen-in-zand--sdw_05).jpg",
+            "author": "Ecomare/Salko de Wolf",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Ecomare_-_gewone_garnalen_%28gewone-garnalen-in-zand--sdw_05%29.jpg/500px-Ecomare_-_gewone_garnalen_%28gewone-garnalen-in-zand--sdw_05%29.jpg"
+          }
+        ],
+        "facts": [
+          {
+            "id": "Q27765#0",
+            "text": "Ve dne se tento druh schovává v písku před predátory, například treskou.",
+            "cat": "vztahy",
+            "not": [
+              "Q1300629",
+              "Q1472053",
+              "Q3643627",
+              "Q586336"
+            ]
+          }
+        ],
+        "continents": [
+          "EU",
+          "AF"
+        ],
+        "pop": 38,
+        "emoji": "🦐"
+      },
+      {
         "id": "Q2798958",
         "name": "Stínka drobná",
         "latin": "Lepidoniscus minutus",
@@ -354534,6 +356453,7 @@ window.GAME_DATA = [
               "Q206070",
               "Q210959",
               "Q27690",
+              "Q61642001",
               "Q693000"
             ]
           }
@@ -355084,7 +357004,8 @@ window.GAME_DATA = [
               "Q1519675",
               "Q1646839",
               "Q210959",
-              "Q2798958"
+              "Q2798958",
+              "Q61642001"
             ]
           }
         ],
@@ -355171,6 +357092,80 @@ window.GAME_DATA = [
           "AF"
         ],
         "pop": 22,
+        "emoji": "🦀"
+      },
+      {
+        "id": "Q752188",
+        "name": "Krab německý",
+        "latin": "Cancer pagurus",
+        "family": "Cancridae",
+        "order": "desetinožci",
+        "wiki": "https://cs.wikipedia.org/wiki/Krab_n%C4%9Bmeck%C3%BD",
+        "photos": [
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Tourteau_(Cancer_pagurus)_et_plongeur_(Ifremer_00682-79395_-_32203).jpg",
+            "author": "Olivier Dugornay",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Tourteau_%28Cancer_pagurus%29_et_plongeur_%28Ifremer_00682-79395_-_32203%29.jpg/500px-Tourteau_%28Cancer_pagurus%29_et_plongeur_%28Ifremer_00682-79395_-_32203%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Tourteau_(Cancer_pagurus)_(Ifremer_00618-73045).jpg",
+            "author": "Matthias Huber",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Tourteau_%28Cancer_pagurus%29_%28Ifremer_00618-73045%29.jpg/500px-Tourteau_%28Cancer_pagurus%29_%28Ifremer_00618-73045%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Tourteau_(Cancer_pagurus)_et_plongeur_(Ifremer_00682-79395_-_32196).jpg",
+            "author": "Olivier Dugornay",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Tourteau_%28Cancer_pagurus%29_et_plongeur_%28Ifremer_00682-79395_-_32196%29.jpg/500px-Tourteau_%28Cancer_pagurus%29_et_plongeur_%28Ifremer_00682-79395_-_32196%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Tourteau_(Cancer_pagurus)_et_plongeur_(Ifremer_00682-79395_-_32197).jpg",
+            "author": "Olivier Dugornay",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Tourteau_%28Cancer_pagurus%29_et_plongeur_%28Ifremer_00682-79395_-_32197%29.jpg/500px-Tourteau_%28Cancer_pagurus%29_et_plongeur_%28Ifremer_00682-79395_-_32197%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Tourteau_(Cancer_pagurus)_et_plongeur_(Ifremer_00682-79395_-_32195).jpg",
+            "author": "Olivier Dugornay",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Tourteau_%28Cancer_pagurus%29_et_plongeur_%28Ifremer_00682-79395_-_32195%29.jpg/500px-Tourteau_%28Cancer_pagurus%29_et_plongeur_%28Ifremer_00682-79395_-_32195%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Tourteau_(Cancer_pagurus)_(Ifremer_00378-48930_-_1094).jpg",
+            "author": "Olivier Dugornay",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Tourteau_%28Cancer_pagurus%29_%28Ifremer_00378-48930_-_1094%29.jpg/500px-Tourteau_%28Cancer_pagurus%29_%28Ifremer_00378-48930_-_1094%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Tourteau_(Cancer_pagurus)_(Ifremer_00378-48930_-_1093).jpg",
+            "author": "Olivier Dugornay",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Tourteau_%28Cancer_pagurus%29_%28Ifremer_00378-48930_-_1093%29.jpg/500px-Tourteau_%28Cancer_pagurus%29_%28Ifremer_00378-48930_-_1093%29.jpg"
+          }
+        ],
+        "facts": [
+          {
+            "id": "Q752188#0",
+            "text": "Živí se mršinami, mlži a ostnokožci.",
+            "cat": "potrava",
+            "not": [
+              "Q4302742"
+            ]
+          },
+          {
+            "id": "Q752188#1",
+            "text": "Tento druh je noční a přes den se ukrývá.",
+            "cat": "chování",
+            "not": []
+          }
+        ],
+        "continents": [
+          "EU",
+          "AF"
+        ],
+        "pop": 38,
         "emoji": "🦀"
       },
       {
@@ -411219,7 +413214,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q146224#x0",
-            "text": "Roste na vlhkých, ale ne mokrých místech v lesích a na drnu.",
+            "text": "Roste na vlhkých, ale ne mokrých místech v lesích a v trávníku.",
             "cat": "výskyt",
             "not": [
               "Q1572669",
@@ -411228,7 +413223,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q146224#x3",
-            "text": "Buňky listů jsou uspořádány v šikmých řadách a vidět je lupou.",
+            "text": "Buňky listů jsou uspořádány v šikmých řadách a pod lupou jsou dobře vidět.",
             "cat": "vzhled",
             "not": []
           }
@@ -411747,7 +413742,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q1752834#x1",
-            "text": "Spory zůstávají životaschopné i po 16 letech sušení.",
+            "text": "Spory zůstávají životaschopné i po 16 letech v suchu.",
             "cat": "čísla",
             "not": []
           }
@@ -412463,6 +414458,51 @@ window.GAME_DATA = [
         "emoji": "🌿"
       },
       {
+        "id": "Q385125",
+        "name": "Pramenička obecná",
+        "latin": "Fontinalis antipyretica",
+        "family": "Fontinalaceae",
+        "order": "rokytotvaré",
+        "wiki": "https://cs.wikipedia.org/wiki/Prameni%C4%8Dka_obecn%C3%A1",
+        "photos": [
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Common_water_moss_in_a_pool_at_Myrstigen_trail_6.jpg",
+            "author": "W.carter",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Common_water_moss_in_a_pool_at_Myrstigen_trail_6.jpg/500px-Common_water_moss_in_a_pool_at_Myrstigen_trail_6.jpg"
+          }
+        ],
+        "facts": [
+          {
+            "id": "Q385125#0",
+            "text": "Tvoří nápadné trsy, běžně delší než 15 centimetrů.",
+            "cat": "čísla",
+            "not": [
+              "Q1156618",
+              "Q12039444",
+              "Q1426971",
+              "Q146224",
+              "Q150994",
+              "Q1752834",
+              "Q182303",
+              "Q1937687",
+              "Q2097953",
+              "Q292408",
+              "Q3490169",
+              "Q442127"
+            ]
+          }
+        ],
+        "continents": [
+          "EU",
+          "AS",
+          "AF",
+          "NA"
+        ],
+        "pop": 18,
+        "emoji": "🌱"
+      },
+      {
         "id": "Q4354537",
         "name": "Vlasolistec vlhkomilný",
         "latin": "Tomentypnum nitens",
@@ -412552,7 +414592,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q442127#x1",
-            "text": "Roste na zemi, kládách, skalách, patách stromů i podél potoků.",
+            "text": "Roste na zemi, na kládách a skalách, u paty stromů i podél potoků.",
             "cat": "výskyt",
             "not": []
           }
@@ -412694,7 +414734,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q867250#x4",
-            "text": "Jeho spory založily nové porosty až 40 km od mateřských rostlin.",
+            "text": "Spory dokážou založit nové porosty až 40 km od mateřských rostlin.",
             "cat": "čísla",
             "not": []
           },
@@ -623529,6 +625569,94 @@ window.GAME_DATA = [
     "name": "Ostatní živočichové",
     "kingdom": "zivocichove",
     "species": [
+      {
+        "id": "Q798246",
+        "name": "Mihule potoční",
+        "latin": "Lampetra planeri",
+        "family": "mihulovití",
+        "order": "mihule",
+        "wiki": "https://cs.wikipedia.org/wiki/Mihule_poto%C4%8Dn%C3%AD",
+        "photos": [
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Lampetra_planeri_76210273.jpg",
+            "author": "Julien Renoult",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Lampetra_planeri_76210273.jpg/500px-Lampetra_planeri_76210273.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Lampetra_planeri.jpg",
+            "author": "Julien Renoult",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Lampetra_planeri.jpg/500px-Lampetra_planeri.jpg"
+          }
+        ],
+        "facts": [
+          {
+            "id": "Q798246#0",
+            "text": "Má protáhlé, hadovité tělo bez párových ploutví.",
+            "cat": "vzhled",
+            "not": [
+              "Q1043491",
+              "Q1522625",
+              "Q162274",
+              "Q192285",
+              "Q2006774",
+              "Q3442",
+              "Q627960",
+              "Q928382"
+            ]
+          },
+          {
+            "id": "Q798246#1",
+            "text": "Dospělci nepřijímají potravu a žijí ze zásob nahromaděných v larválním stadiu.",
+            "cat": "potrava",
+            "not": [
+              "Q1043491",
+              "Q1522625",
+              "Q159323",
+              "Q162274",
+              "Q192285",
+              "Q2006774",
+              "Q3442",
+              "Q627960",
+              "Q728408",
+              "Q928382"
+            ]
+          },
+          {
+            "id": "Q798246#2",
+            "text": "Larvy žijí několik let zavrtané v měkkém dně řek.",
+            "cat": "mláďata",
+            "not": [
+              "Q1043491",
+              "Q1265801",
+              "Q1522625",
+              "Q159323",
+              "Q162274",
+              "Q192285",
+              "Q1955023",
+              "Q2006774",
+              "Q2067460",
+              "Q214415",
+              "Q3442",
+              "Q3757835",
+              "Q3768219",
+              "Q627960",
+              "Q900868",
+              "Q910363",
+              "Q922646",
+              "Q928382",
+              "Q941448",
+              "Q969159"
+            ]
+          }
+        ],
+        "continents": [
+          "EU"
+        ],
+        "pop": 42,
+        "emoji": "🐟"
+      },
       {
         "id": "Q1133152",
         "name": "Ostrorep americký",

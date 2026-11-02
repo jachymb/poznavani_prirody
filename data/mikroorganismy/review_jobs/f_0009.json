@@ -1,0 +1,166 @@
+[
+ {
+  "id": "Q1198419#0",
+  "species": "Tetrahymena",
+  "latin": "Tetrahymena",
+  "text": "Žije volně, běžně ve stojatých vodách.",
+  "quote": "žijících volně, běžně ve stojatých vodách",
+  "claimed_false_for": {
+   "Q133186": "Bacteroides (Bacteroides)"
+  }
+ },
+ {
+  "id": "Q131268#1",
+  "species": "Clostridium botulinum",
+  "latin": "Clostridium botulinum",
+  "text": "Produkuje neurotoxin, který způsobuje ochrnutí svalů.",
+  "quote": "produkuje neurotoxin botulotoxin, způsobující ochrnutí svalů",
+  "claimed_false_for": {
+   "Q133186": "Bacteroides (Bacteroides)",
+   "Q158013": "Legionella (Legionella)",
+   "Q2697755": "Aeromonas hydrophila (Aeromonas hydrophila)",
+   "Q3241189": "Acinetobacter baumannii (Acinetobacter baumannii)",
+   "Q6823576": "Methanobacterium (Methanobacterium)"
+  }
+ },
+ {
+  "id": "Q140004#0",
+  "species": "Serratia marcescens",
+  "latin": "Serratia marcescens",
+  "text": "Živí se mastnými látkami, například zbytky mýdla.",
+  "quote": "mastnými látkami, jako jsou zbytky mýdla",
+  "claimed_false_for": {
+   "Q6823576": "Methanobacterium (Methanobacterium)"
+  }
+ },
+ {
+  "id": "Q14565729#0",
+  "species": "Spirulina",
+  "latin": "Spirulina",
+  "text": "Vyskytují se převážně v tropických a subtropických jezerech.",
+  "quote": "Vyskytují se převážně v tropických a subtropických jezerech",
+  "claimed_false_for": {
+   "Q133186": "Bacteroides (Bacteroides)"
+  }
+ },
+ {
+  "id": "Q146310#0",
+  "species": "Pyrococcus furiosus",
+  "latin": "Pyrococcus furiosus",
+  "text": "Dokáže růst při teplotách 70 až 103 °C.",
+  "quote": "Je schopný růst v teplotním rozmezí 70 až 103 °C",
+  "claimed_false_for": {
+   "Q133186": "Bacteroides (Bacteroides)",
+   "Q158013": "Legionella (Legionella)",
+   "Q2697755": "Aeromonas hydrophila (Aeromonas hydrophila)",
+   "Q3241189": "Acinetobacter baumannii (Acinetobacter baumannii)"
+  }
+ },
+ {
+  "id": "Q180556#2",
+  "species": "Helicobacter pylori",
+  "latin": "Helicobacter pylori",
+  "text": "Přenáší se slinami nebo výkaly nakaženého člověka.",
+  "quote": "při přímém kontaktu úst se slinami nebo výkaly nakaženého jednotlivce",
+  "claimed_false_for": {
+   "Q158013": "Legionella (Legionella)",
+   "Q6823576": "Methanobacterium (Methanobacterium)"
+  }
+ },
+ {
+  "id": "Q220392#0",
+  "species": "Zooxanthela",
+  "latin": "Zooxanthellae",
+  "text": "Žije v symbióze s korálnatci, medúzami a mlži.",
+  "quote": "Mezi živočichy, kteří mají zooxanthely, patří mřížovci, korálnatci, medúzy, mlži a někteří zadožábří.",
+  "claimed_false_for": {
+   "Q133186": "Bacteroides (Bacteroides)",
+   "Q158013": "Legionella (Legionella)",
+   "Q2697755": "Aeromonas hydrophila (Aeromonas hydrophila)",
+   "Q3241189": "Acinetobacter baumannii (Acinetobacter baumannii)",
+   "Q6823576": "Methanobacterium (Methanobacterium)"
+  }
+ },
+ {
+  "id": "Q25419#2",
+  "species": "Escherichia coli",
+  "latin": "Escherichia coli",
+  "text": "Často způsobuje infekce získané v nemocnicích.",
+  "quote": "Často způsobuje nosokomiální infekce, tj. infekce získané v nemocnicích.",
+  "claimed_false_for": {
+   "Q6823576": "Methanobacterium (Methanobacterium)"
+  }
+ },
+ {
+  "id": "Q3018329#0",
+  "species": "Orientia tsutsugamushi",
+  "latin": "Orientia tsutsugamushi",
+  "text": "Způsobuje nemoc zvanou křovinný tyfus.",
+  "quote": "způsobující nemoc zvanou cucugamuši neboli křovinný tyfus",
+  "claimed_false_for": {
+   "Q133186": "Bacteroides (Bacteroides)",
+   "Q158013": "Legionella (Legionella)",
+   "Q2697755": "Aeromonas hydrophila (Aeromonas hydrophila)",
+   "Q3241189": "Acinetobacter baumannii (Acinetobacter baumannii)",
+   "Q6823576": "Methanobacterium (Methanobacterium)"
+  }
+ },
+ {
+  "id": "Q309972#0",
+  "species": "Chlorella vulgaris",
+  "latin": "Chlorella vulgaris",
+  "text": "Získává energii ze slunečního záření.",
+  "quote": "Energii, která je potřebná pro syntézu nových sloučenin, získávají řasy ze slunečního záření",
+  "claimed_false_for": {
+   "Q133186": "Bacteroides (Bacteroides)",
+   "Q158013": "Legionella (Legionella)",
+   "Q2697755": "Aeromonas hydrophila (Aeromonas hydrophila)",
+   "Q3241189": "Acinetobacter baumannii (Acinetobacter baumannii)",
+   "Q6823576": "Methanobacterium (Methanobacterium)"
+  }
+ },
+ {
+  "id": "Q3489113#0",
+  "species": "Achlya",
+  "latin": "Achlya",
+  "text": "Žije ve sladké vodě.",
+  "quote": "Achlya je rod sladkovodních oomycet.",
+  "claimed_false_for": {
+   "Q133186": "Bacteroides (Bacteroides)"
+  }
+ },
+ {
+  "id": "Q5233857#2",
+  "species": "Theileria",
+  "latin": "Theileria",
+  "text": "Způsobují vážná onemocnění dobytka a kopytníků.",
+  "quote": "Způsobují vážná onemocnění dobytka, kopytníků a výjimečně i člověka.",
+  "claimed_false_for": {
+   "Q6823576": "Methanobacterium (Methanobacterium)"
+  }
+ },
+ {
+  "id": "Q614156#1",
+  "species": "Bacillus anthracis",
+  "latin": "Bacillus anthracis",
+  "text": "V přírodě žije v půdě.",
+  "quote": "v přírodě je to však půdní bakterie",
+  "claimed_false_for": {
+   "Q133186": "Bacteroides (Bacteroides)"
+  }
+ },
+ {
+  "id": "Q830142#0",
+  "species": "Rhizobium",
+  "latin": "Rhizobium",
+  "text": "Žije v hlízkách bobovitých rostlin.",
+  "quote": "vyskytují se v hlízkách bobovitých rostlin",
+  "claimed_false_for": {
+   "Q133186": "Bacteroides (Bacteroides)",
+   "Q158013": "Legionella (Legionella)",
+   "Q2697755": "Aeromonas hydrophila (Aeromonas hydrophila)",
+   "Q3241189": "Acinetobacter baumannii (Acinetobacter baumannii)",
+   "Q6823576": "Methanobacterium (Methanobacterium)"
+  }
+ }
+]

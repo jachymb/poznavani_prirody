@@ -19,7 +19,12 @@ assert(window.Quiz.isDull({ text: "Kvete od června do srpna." }) && !window.Qui
   const advancedIds = new Set(advanced[0].species.map((s) => s.id));
   assert(advancedIds.size < big.species.length, "pokročilý má užší výběr");
   assert(beginner[0].species.length < advancedIds.size, "začátečník má nejužší výběr");
-  assert(beginner[0].species.every((s) => advancedIds.has(s.id)), "začátečníkovy druhy zná i pokročilý");
+  for (const c of classes) {
+    const adv = new Set(window.Quiz.atLevel([c], "advanced")[0].species);
+    assert(window.Quiz.atLevel([c], "beginner")[0].species.every((s) => adv.has(s)), `${c.slug}: začátečníkovy druhy zná i pokročilý`);
+  }
+  const mammals = classes.find((c) => c.slug === "savci");
+  assert(window.Quiz.atLevel([mammals], "advanced")[0].species.some((s) => s.order === "letouni"), "pokročilý zná i netopýry");
   for (const [level, picked] of [["beginner", beginner], ["advanced", advanced]]) {
     const pool = new Set(picked[0].species.map((s) => s.id));
     let unknownWrong = 0;

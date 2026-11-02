@@ -212,11 +212,17 @@
 
   // Hledané druhy podle úrovně: nejznámější z každé třídy (a vzácný vtípek, ten má vlastní nízkou váhu). Celá třída zůstává
   // ve „wide“ pro špatné odpovědi.
+  // Polovinu míst dostanou řády podle velikosti, jinak by známost z Wikidat nechala netopýry a primáty jen znalcům.
+  const ORDER_QUOTA = 0.5;
   const atLevel = (classes, level) => classes.map((c) => {
     const pool = LEVEL_POOLS[level];
     if (!pool) return c;
     const limit = Math.max(pool.min, Math.ceil(c.species.length * pool.share));
-    const known = [...c.species].sort((a, b) => (b.pop || 0) - (a.pop || 0)).slice(0, limit);
+    const ranked = [...c.species].sort((a, b) => (b.pop || 0) - (a.pop || 0));
+    const size = {}, taken = {};
+    for (const s of ranked) size[s.order] = (size[s.order] || 0) + 1;
+    const known = new Set(ranked.filter((s) => (taken[s.order] = (taken[s.order] || 0) + 1) <= Math.floor(size[s.order] * pool.share * ORDER_QUOTA)));
+    for (const s of ranked) if (known.size < limit) known.add(s);
     return { ...c, wide: c.species, species: [...new Set([...known, ...c.species.filter((s) => s.egg)])] };
   });
 

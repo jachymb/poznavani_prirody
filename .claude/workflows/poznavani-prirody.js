@@ -266,17 +266,20 @@ Jako výsledek vrať jen slovo HOTOVO.`
 
 // Lehký model na čtení jednoho článku; negativní úsudek a kontinenty stojí na širší znalosti, proto silnější model.
 // Přísná kontrola běží na výchozím modelu relace.
+// Pojistka pro dávku se špatným id: subagent nesmí vyrobit výstup k úloze, která neexistuje.
+const GUARD = '\n\nPokud soubor, který máš podle zadání přečíst (úloha nebo článek), neexistuje, nic nezapisuj a vrať jen slovo CHYBÍ.'
+const ask = (prompt, opts) => agent(prompt + GUARD, opts)
 function run({ slug, kingdom, stage }, id) {
-  if (stage === 'facts') return agent(factsPrompt(slug, kingdom, id), { label: `fakta:${slug}:${id}`, phase: 'Fakta a fotky', model: 'haiku' })
+  if (stage === 'facts') return ask(factsPrompt(slug, kingdom, id), { label: `fakta:${slug}:${id}`, phase: 'Fakta a fotky', model: 'haiku' })
   // překlad a výběr z cizího jazyka potřebuje víc než lehký model
-  if (stage === 'foreign') return agent(foreignFactsPrompt(slug, kingdom, id), { label: `cizí:${slug}:${id}`, phase: 'Fakta a fotky', model: 'sonnet' })
-  if (stage === 'photos') return agent(photosPrompt(slug, kingdom, id), { label: `fotky:${slug}:${id}`, phase: 'Další fotky', model: 'haiku' })
-  if (stage === 'negatives') return agent(negativesPrompt(slug, kingdom, id), { label: `neg:${slug}:${id}`, phase: 'Negativní tvrzení', model: 'sonnet' })
-  if (stage === 'language') return agent(languagePrompt(slug, id), { label: `jazyk:${slug}:${id}`, phase: 'Jazyk' })
-  if (stage === 'continents') return agent(continentsPrompt(slug, id), { label: `kontinenty:${slug}:${id}`, phase: 'Kontinenty', model: 'sonnet' })
+  if (stage === 'foreign') return ask(foreignFactsPrompt(slug, kingdom, id), { label: `cizí:${slug}:${id}`, phase: 'Fakta a fotky', model: 'sonnet' })
+  if (stage === 'photos') return ask(photosPrompt(slug, kingdom, id), { label: `fotky:${slug}:${id}`, phase: 'Další fotky', model: 'haiku' })
+  if (stage === 'negatives') return ask(negativesPrompt(slug, kingdom, id), { label: `neg:${slug}:${id}`, phase: 'Negativní tvrzení', model: 'sonnet' })
+  if (stage === 'language') return ask(languagePrompt(slug, id), { label: `jazyk:${slug}:${id}`, phase: 'Jazyk' })
+  if (stage === 'continents') return ask(continentsPrompt(slug, id), { label: `kontinenty:${slug}:${id}`, phase: 'Kontinenty', model: 'sonnet' })
   const prompt = id.startsWith('f_') ? factReviewPrompt(slug, id) : id.startsWith('w_') ? wildPrompt(slug, kingdom, id)
     : id.startsWith('h_') || id.startsWith('s_') ? restorePrompt(slug, kingdom, id) : photoReviewPrompt(slug, kingdom, id)
-  return agent(prompt, { label: `kontrola:${slug}:${id}`, phase: 'Přísná kontrola' })
+  return ask(prompt, { label: `kontrola:${slug}:${id}`, phase: 'Přísná kontrola' })
 }
 
 // Dávku vybírá hlavní agent přes "pipeline.py next". Pomocný subagent by to neměl dělat: harness mu předává

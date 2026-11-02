@@ -1,0 +1,422 @@
+[
+ {
+  "id": "Q1249634#0",
+  "species": "Hřebenatka kuchyňská",
+  "latin": "Pecten maximus",
+  "text": "Potravu získává filtrováním okolní vody.",
+  "quote": "Hřebenatky jsou filtrátoři, získávající potravu z okolní vody",
+  "claimed_false_for": {
+   "Q139053": "Rapana dravá (Rapana venosa)",
+   "Q1507512": "Homolice síťkovaná (Conus textile)",
+   "Q62603": "Křídlatec velký (Lobatus gigas)"
+  }
+ },
+ {
+  "id": "Q139053#0",
+  "species": "Rapana dravá",
+  "latin": "Rapana venosa",
+  "text": "Ulita je šedohnědá a dosahuje až 18 cm.",
+  "quote": "Ulita šedohnědé barvy dosahuje velikosti až 18 cm.",
+  "claimed_false_for": {
+   "Q1006379": "Uchatka nadmutá (Radix auricularia)",
+   "Q651332": "Ostranka jaderská (Bolinus brandaris)",
+   "Q908799": "Keřovka plavá (Fruticicola fruticum)",
+   "Q910785": "Jantarka úhledná (Oxyloma elegans)"
+  }
+ },
+ {
+  "id": "Q139053#1",
+  "species": "Rapana dravá",
+  "latin": "Rapana venosa",
+  "text": "Původně žila u pobřeží Japonska a východní Číny.",
+  "quote": "Původní areál rozšíření zahrnoval pobřeží v Japonsku a u východočínského pobřeží.",
+  "claimed_false_for": {
+   "Q1006379": "Uchatka nadmutá (Radix auricularia)",
+   "Q1404905": "Zaděnka hladká (Callista chione)",
+   "Q376050": "Venuška jedlá (Venus verrucosa)",
+   "Q428534": "Oblovka obrovská (Achatina achatina)",
+   "Q651332": "Ostranka jaderská (Bolinus brandaris)",
+   "Q777865": "Škeble rybničná (Anodonta cygnea)",
+   "Q892046": "Slimák popelavý (Limax cinereoniger)",
+   "Q908799": "Keřovka plavá (Fruticicola fruticum)",
+   "Q910785": "Jantarka úhledná (Oxyloma elegans)"
+  }
+ },
+ {
+  "id": "Q1404905#0",
+  "species": "Zaděnka hladká",
+  "latin": "Callista chione",
+  "text": "Živí se filtrací plovoucích částic ve vodě.",
+  "quote": "se živí filtrací plovoucích částic ve vodním prostředí",
+  "claimed_false_for": {
+   "Q164336": "Zej obrovský (Aplysia depilans)",
+   "Q175818": "Slimák pestrý (Limacus flavus)",
+   "Q22019793": "Hlemýžď kropenatý (Cornu aspersum)",
+   "Q2214027": "Donka dalmatská (Bolma rugosa)",
+   "Q3201040": "Sítovka lesklá (Aegopinella nitidula)",
+   "Q689003": "Člunice jezerní (Acroloxus lacustris)",
+   "Q912404": "Chobotnice velká (Enteroctopus dofleini)"
+  }
+ },
+ {
+  "id": "Q1404905#1",
+  "species": "Zaděnka hladká",
+  "latin": "Callista chione",
+  "text": "Lastura může dosáhnout průměru až 11 cm.",
+  "quote": "může dosáhnout průměru až 11 cm",
+  "claimed_false_for": {
+   "Q175818": "Slimák pestrý (Limacus flavus)",
+   "Q3201040": "Sítovka lesklá (Aegopinella nitidula)",
+   "Q689003": "Člunice jezerní (Acroloxus lacustris)"
+  }
+ },
+ {
+  "id": "Q1507512#0",
+  "species": "Homolice síťkovaná",
+  "latin": "Conus textile",
+  "text": "Má jed, který způsobuje svalovou slabost a ochrnutí.",
+  "quote": "Její jed, conotoxin, je neurotoxin způsobující svalovou slabost, ochrnutí a zástavu dechu.",
+  "claimed_false_for": {
+   "Q1006379": "Uchatka nadmutá (Radix auricularia)",
+   "Q1404905": "Zaděnka hladká (Callista chione)",
+   "Q376050": "Venuška jedlá (Venus verrucosa)",
+   "Q428534": "Oblovka obrovská (Achatina achatina)",
+   "Q777865": "Škeble rybničná (Anodonta cygnea)",
+   "Q892046": "Slimák popelavý (Limax cinereoniger)",
+   "Q908799": "Keřovka plavá (Fruticicola fruticum)",
+   "Q910785": "Jantarka úhledná (Oxyloma elegans)"
+  }
+ },
+ {
+  "id": "Q1507512#1",
+  "species": "Homolice síťkovaná",
+  "latin": "Conus textile",
+  "text": "Žije skrytě v písčitém podloží, mezi kameny a řasami.",
+  "quote": "I přes svoje nápadné zbarvení žijí skrytě v písčitém podloží, mezi kameny a řasami.",
+  "claimed_false_for": {
+   "Q1006379": "Uchatka nadmutá (Radix auricularia)",
+   "Q428534": "Oblovka obrovská (Achatina achatina)",
+   "Q777865": "Škeble rybničná (Anodonta cygnea)",
+   "Q892046": "Slimák popelavý (Limax cinereoniger)",
+   "Q908799": "Keřovka plavá (Fruticicola fruticum)",
+   "Q910785": "Jantarka úhledná (Oxyloma elegans)"
+  }
+ },
+ {
+  "id": "Q1632342#6",
+  "species": "Sépie vějířovitá",
+  "latin": "Sepia apama",
+  "text": "Delfíni tento druh loví a při lovu mu odstraňují kost a barvivo.",
+  "quote": "kteří si pro lov sépií a jejich pozření vyvinuli zvláštní metodu lovu, během které je odstraněna sépiová kost a barvivo z těla sépie",
+  "claimed_false_for": {
+   "Q139053": "Rapana dravá (Rapana venosa)",
+   "Q1404905": "Zaděnka hladká (Callista chione)",
+   "Q1507512": "Homolice síťkovaná (Conus textile)",
+   "Q1757231": "Hřebenatka svatojakubská (Pecten jacobaeus)",
+   "Q21124": "Srdcovka jedlá (Cerastoderma edule)",
+   "Q376050": "Venuška jedlá (Venus verrucosa)",
+   "Q62603": "Křídlatec velký (Lobatus gigas)",
+   "Q798236": "Velevrub tupý (Unio crassus)"
+  }
+ },
+ {
+  "id": "Q1757231#0",
+  "species": "Hřebenatka svatojakubská",
+  "latin": "Pecten jacobaeus",
+  "text": "Umí plavat tím, že vypuzuje vodu.",
+  "quote": "může plavat na kratší vzdálenosti pomocí vypuzovaní vody",
+  "claimed_false_for": {
+   "Q245314": "Hlemýžď zahradní (Helix pomatia)",
+   "Q2664666": "Zavinutec tygrovaný (Cypraea tigris)",
+   "Q27855": "Slávka jedlá (Mytilus edulis)",
+   "Q385029": "Skalnice kýlnatá (Helicigona lapicida)",
+   "Q598612": "Okružák ploský (Planorbarius corneus)",
+   "Q835427": "Bahnivka rmutná (Bithynia tentaculata)",
+   "Q908813": "Zubovec říční (Theodoxus fluviatilis)"
+  }
+ },
+ {
+  "id": "Q1757231#1",
+  "species": "Hřebenatka svatojakubská",
+  "latin": "Pecten jacobaeus",
+  "text": "Žije na mořském dně až do hloubky 200 metrů.",
+  "quote": "Žije při mořském dně v hloubce do 200 metrů",
+  "claimed_false_for": {
+   "Q245314": "Hlemýžď zahradní (Helix pomatia)",
+   "Q385029": "Skalnice kýlnatá (Helicigona lapicida)",
+   "Q598612": "Okružák ploský (Planorbarius corneus)",
+   "Q835427": "Bahnivka rmutná (Bithynia tentaculata)"
+  }
+ },
+ {
+  "id": "Q1844769#5",
+  "species": "Písečník novozélandský",
+  "latin": "Potamopyrgus antipodarum",
+  "text": "Pstruzi ho polykají, ale většinou ho nestráví.",
+  "quote": "až 80 % písečníků, které jsou spolknuti pstruhy, projdou trávicím traktem v neporušeném stavu",
+  "claimed_false_for": {
+   "Q139053": "Rapana dravá (Rapana venosa)",
+   "Q1404905": "Zaděnka hladká (Callista chione)",
+   "Q1507512": "Homolice síťkovaná (Conus textile)",
+   "Q1757231": "Hřebenatka svatojakubská (Pecten jacobaeus)",
+   "Q21124": "Srdcovka jedlá (Cerastoderma edule)",
+   "Q376050": "Venuška jedlá (Venus verrucosa)",
+   "Q62603": "Křídlatec velký (Lobatus gigas)"
+  }
+ },
+ {
+  "id": "Q21124#0",
+  "species": "Srdcovka jedlá",
+  "latin": "Cerastoderma edule",
+  "text": "Žije pár centimetrů pod povrchem bahna nebo písku.",
+  "quote": "Žije pár centimetrů pod povrchem v bahnitých nebo písčitých dnech.",
+  "claimed_false_for": {
+   "Q131757": "Glaukus atlantský (Glaucus atlanticus)",
+   "Q1500654": "Jantarka obecná (Succinea putris)",
+   "Q174549": "Slimák žlutý (Malacolimax tenellus)",
+   "Q182258": "Přílipka misková (Patella vulgata)",
+   "Q751784": "Zéva obrovská (Tridacna gigas)",
+   "Q898580": "Papáskovka žíhaná (Caucasotachea vindobonensis)"
+  }
+ },
+ {
+  "id": "Q21124#1",
+  "species": "Srdcovka jedlá",
+  "latin": "Cerastoderma edule",
+  "text": "Mláďata žijí 2–3 týdny volně ve vodě, pak klesnou ke dnu.",
+  "quote": "Larvy žijí 2–3 týdny volně ve vodě poté jako dospělci klesnou ke dnu.",
+  "claimed_false_for": {
+   "Q1500654": "Jantarka obecná (Succinea putris)",
+   "Q174549": "Slimák žlutý (Malacolimax tenellus)",
+   "Q1758969": "Bahenka pruhovaná (Viviparus viviparus)",
+   "Q1844769": "Písečník novozélandský (Potamopyrgus antipodarum)",
+   "Q898580": "Papáskovka žíhaná (Caucasotachea vindobonensis)"
+  }
+ },
+ {
+  "id": "Q376050#1",
+  "species": "Venuška jedlá",
+  "latin": "Venus verrucosa",
+  "text": "Žije v Atlantském oceánu podél západní Evropy.",
+  "quote": "se vyskytují v Atlantském oceánu podél západoevropského pobřeží",
+  "claimed_false_for": {
+   "Q175818": "Slimák pestrý (Limacus flavus)",
+   "Q22019793": "Hlemýžď kropenatý (Cornu aspersum)",
+   "Q3201040": "Sítovka lesklá (Aegopinella nitidula)",
+   "Q689003": "Člunice jezerní (Acroloxus lacustris)",
+   "Q798236": "Velevrub tupý (Unio crassus)",
+   "Q912404": "Chobotnice velká (Enteroctopus dofleini)",
+   "Q937520": "Bahenka živorodá (Viviparus contectus)"
+  }
+ },
+ {
+  "id": "Q3819564#4",
+  "species": "Sepiola tichomořská",
+  "latin": "Rossia pacifica",
+  "text": "Loví také malé kraby, menší ryby a jiné hlavonožce.",
+  "quote": "malí krabi, dále menší ryby a v neposlední řadě i ostatní hlavonožci",
+  "claimed_false_for": {
+   "Q1404905": "Zaděnka hladká (Callista chione)",
+   "Q1757231": "Hřebenatka svatojakubská (Pecten jacobaeus)",
+   "Q21124": "Srdcovka jedlá (Cerastoderma edule)",
+   "Q376050": "Venuška jedlá (Venus verrucosa)",
+   "Q62603": "Křídlatec velký (Lobatus gigas)",
+   "Q798236": "Velevrub tupý (Unio crassus)"
+  }
+ },
+ {
+  "id": "Q62603#0",
+  "species": "Křídlatec velký",
+  "latin": "Lobatus gigas",
+  "text": "Může se dožít až čtyřiceti let.",
+  "quote": "mohou se dožít až čtyřiceti let",
+  "claimed_false_for": {
+   "Q1844769": "Písečník novozélandský (Potamopyrgus antipodarum)",
+   "Q3164532": "Praménka rakouská (Bythinella austriaca)",
+   "Q854808": "Slimák největší (Limax maximus)",
+   "Q945738": "Plamatka lesní (Arianta arbustorum)"
+  }
+ },
+ {
+  "id": "Q62603#1",
+  "species": "Křídlatec velký",
+  "latin": "Lobatus gigas",
+  "text": "Samice kladou vejce v dlouhých rosolovitých provazcích.",
+  "quote": "Samice kladou vejce v dlouhých rosolovitých provazcích",
+  "claimed_false_for": {
+   "Q1757231": "Hřebenatka svatojakubská (Pecten jacobaeus)",
+   "Q1844769": "Písečník novozélandský (Potamopyrgus antipodarum)",
+   "Q772012": "Perlorodka říční (Margaritifera margaritifera)",
+   "Q945738": "Plamatka lesní (Arianta arbustorum)"
+  }
+ },
+ {
+  "id": "Q651332#0",
+  "species": "Ostranka jaderská",
+  "latin": "Bolinus brandaris",
+  "text": "Živí se jinými měkkýši.",
+  "quote": "Je masožravec, živí se jinými měkkýši.",
+  "claimed_false_for": {
+   "Q1404905": "Zaděnka hladká (Callista chione)",
+   "Q1757231": "Hřebenatka svatojakubská (Pecten jacobaeus)",
+   "Q21124": "Srdcovka jedlá (Cerastoderma edule)",
+   "Q376050": "Venuška jedlá (Venus verrucosa)",
+   "Q62603": "Křídlatec velký (Lobatus gigas)",
+   "Q798236": "Velevrub tupý (Unio crassus)"
+  }
+ },
+ {
+  "id": "Q728187#1",
+  "species": "Korbikula asijská",
+  "latin": "Corbicula fluminea",
+  "text": "Je původem z Asie a v mnoha oblastech je invazní.",
+  "quote": "Původem asijský druh. V mnoha oblastech jako invazní druh.",
+  "claimed_false_for": {
+   "Q1404905": "Zaděnka hladká (Callista chione)",
+   "Q1507512": "Homolice síťkovaná (Conus textile)",
+   "Q1757231": "Hřebenatka svatojakubská (Pecten jacobaeus)",
+   "Q21124": "Srdcovka jedlá (Cerastoderma edule)",
+   "Q376050": "Venuška jedlá (Venus verrucosa)",
+   "Q62603": "Křídlatec velký (Lobatus gigas)",
+   "Q798236": "Velevrub tupý (Unio crassus)"
+  }
+ },
+ {
+  "id": "Q751784#1",
+  "species": "Zéva obrovská",
+  "latin": "Tridacna gigas",
+  "text": "Žije na korálových útesech v teplých mělkých vodách.",
+  "quote": "korálové útesy teplých mělkých vod Indického a Tichého oceánu",
+  "claimed_false_for": {
+   "Q1404905": "Zaděnka hladká (Callista chione)",
+   "Q1757231": "Hřebenatka svatojakubská (Pecten jacobaeus)",
+   "Q21124": "Srdcovka jedlá (Cerastoderma edule)",
+   "Q798236": "Velevrub tupý (Unio crassus)"
+  }
+ },
+ {
+  "id": "Q772012#0",
+  "species": "Perlorodka říční",
+  "latin": "Margaritifera margaritifera",
+  "text": "Obývá chladné potoky s nízkým obsahem živin.",
+  "quote": "obývá chladné potoky s nízkým obsahem živin",
+  "claimed_false_for": {
+   "Q139053": "Rapana dravá (Rapana venosa)",
+   "Q1404905": "Zaděnka hladká (Callista chione)",
+   "Q1507512": "Homolice síťkovaná (Conus textile)",
+   "Q1757231": "Hřebenatka svatojakubská (Pecten jacobaeus)",
+   "Q21124": "Srdcovka jedlá (Cerastoderma edule)",
+   "Q376050": "Venuška jedlá (Venus verrucosa)",
+   "Q62603": "Křídlatec velký (Lobatus gigas)"
+  }
+ },
+ {
+  "id": "Q772012#1",
+  "species": "Perlorodka říční",
+  "latin": "Margaritifera margaritifera",
+  "text": "Živí se filtrací drobných organických částic.",
+  "quote": "Živí se filtrací drobných organických částic",
+  "claimed_false_for": {
+   "Q139053": "Rapana dravá (Rapana venosa)",
+   "Q1507512": "Homolice síťkovaná (Conus textile)",
+   "Q62603": "Křídlatec velký (Lobatus gigas)"
+  }
+ },
+ {
+  "id": "Q777865#1",
+  "species": "Škeble rybničná",
+  "latin": "Anodonta cygnea",
+  "text": "Larvy určitou dobu cizopasí na kůži nebo žábrách ryb.",
+  "quote": "Určitou dobu cizopasí na kůži nebo žábrách ryb.",
+  "claimed_false_for": {
+   "Q139053": "Rapana dravá (Rapana venosa)",
+   "Q1404905": "Zaděnka hladká (Callista chione)",
+   "Q1507512": "Homolice síťkovaná (Conus textile)",
+   "Q1757231": "Hřebenatka svatojakubská (Pecten jacobaeus)",
+   "Q21124": "Srdcovka jedlá (Cerastoderma edule)",
+   "Q376050": "Venuška jedlá (Venus verrucosa)",
+   "Q62603": "Křídlatec velký (Lobatus gigas)"
+  }
+ },
+ {
+  "id": "Q798236#0",
+  "species": "Velevrub tupý",
+  "latin": "Unio crassus",
+  "text": "Žije v čistých potocích a řekách.",
+  "quote": "Tento druh se v Česku vyskytuje většinou v nižších polohách v čistších potocích nebo i řekách či říčkách.",
+  "claimed_false_for": {
+   "Q114893": "Páskovka hajní (Cepaea nemoralis)",
+   "Q139053": "Rapana dravá (Rapana venosa)",
+   "Q2153396": "Plzák lesní (Arion rufus)",
+   "Q62603": "Křídlatec velký (Lobatus gigas)",
+   "Q7187379": "Monodonta spirálovitá (Phorcus turbinatus)"
+  }
+ },
+ {
+  "id": "Q798236#1",
+  "species": "Velevrub tupý",
+  "latin": "Unio crassus",
+  "text": "Lastura je dlouhá 50 až 70 milimetrů.",
+  "quote": "Má lasturu o délce 50–70 milimetrů, výšce 30–40 milimetrů.",
+  "claimed_false_for": {
+   "Q114893": "Páskovka hajní (Cepaea nemoralis)",
+   "Q2153396": "Plzák lesní (Arion rufus)",
+   "Q7187379": "Monodonta spirálovitá (Phorcus turbinatus)",
+   "Q901401": "Uchatka toulavá (Radix peregra)"
+  }
+ },
+ {
+  "id": "Q854808#x4",
+  "species": "Slimák největší",
+  "latin": "Limax maximus",
+  "text": "Dorůstá délky 10 až 20 cm.",
+  "quote": "The adult body length is 10-20 cm (4-8 in).",
+  "claimed_false_for": {
+   "Q798236": "Velevrub tupý (Unio crassus)"
+  }
+ },
+ {
+  "id": "Q872853#x2",
+  "species": "Loděnka hlubinná",
+  "latin": "Nautilus pompilius",
+  "text": "Oči nemají čočku a fungují jako dírková komora.",
+  "quote": "the eye has no lens and thus is comparable to a pinhole camera",
+  "claimed_false_for": {
+   "Q1757231": "Hřebenatka svatojakubská (Pecten jacobaeus)",
+   "Q62603": "Křídlatec velký (Lobatus gigas)"
+  }
+ },
+ {
+  "id": "Q912404#4",
+  "species": "Chobotnice velká",
+  "latin": "Enteroctopus dofleini",
+  "text": "Samice čistí vajíčka od parazitů.",
+  "quote": "čistí je chapadly od parazitů",
+  "claimed_false_for": {
+   "Q139053": "Rapana dravá (Rapana venosa)",
+   "Q1404905": "Zaděnka hladká (Callista chione)",
+   "Q1507512": "Homolice síťkovaná (Conus textile)",
+   "Q1757231": "Hřebenatka svatojakubská (Pecten jacobaeus)",
+   "Q21124": "Srdcovka jedlá (Cerastoderma edule)",
+   "Q376050": "Venuška jedlá (Venus verrucosa)",
+   "Q62603": "Křídlatec velký (Lobatus gigas)",
+   "Q798236": "Velevrub tupý (Unio crassus)"
+  }
+ },
+ {
+  "id": "Q937520#1",
+  "species": "Bahenka živorodá",
+  "latin": "Viviparus contectus",
+  "text": "Vajíčka se vyvíjejí v těle samice, která rodí živá mláďata.",
+  "quote": "vajíčka prodělávají vývoj v těle samice a samice rodí živá mláďata",
+  "claimed_false_for": {
+   "Q139053": "Rapana dravá (Rapana venosa)",
+   "Q1404905": "Zaděnka hladká (Callista chione)",
+   "Q1507512": "Homolice síťkovaná (Conus textile)",
+   "Q1757231": "Hřebenatka svatojakubská (Pecten jacobaeus)",
+   "Q21124": "Srdcovka jedlá (Cerastoderma edule)",
+   "Q376050": "Venuška jedlá (Venus verrucosa)",
+   "Q62603": "Křídlatec velký (Lobatus gigas)"
+  }
+ }
+]
