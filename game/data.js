@@ -409307,6 +409307,7 @@ window.GAME_DATA = [
               "Q1130386",
               "Q12039444",
               "Q1355107",
+              "Q140350",
               "Q1404902",
               "Q1432956",
               "Q149109",
@@ -409805,6 +409806,7 @@ window.GAME_DATA = [
               "Q1197925",
               "Q12039444",
               "Q1332525",
+              "Q140350",
               "Q1404902",
               "Q1432956",
               "Q149109",
@@ -409828,6 +409830,7 @@ window.GAME_DATA = [
             "cat": "čísla",
             "not": [
               "Q12039444",
+              "Q140350",
               "Q1404902",
               "Q1432956",
               "Q149109",
@@ -410271,6 +410274,7 @@ window.GAME_DATA = [
             "cat": "výskyt",
             "not": [
               "Q12039444",
+              "Q140350",
               "Q1404902",
               "Q1432956",
               "Q149109",
@@ -411444,6 +411448,7 @@ window.GAME_DATA = [
             "cat": "čísla",
             "not": [
               "Q12039444",
+              "Q140350",
               "Q1404902",
               "Q1432956",
               "Q149109",
@@ -411895,6 +411900,7 @@ window.GAME_DATA = [
             "cat": "výskyt",
             "not": [
               "Q12039444",
+              "Q140350",
               "Q1404902",
               "Q1432956",
               "Q149109",
@@ -411969,7 +411975,40 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Hymenophyllum_tunbrigense_kz15.jpg/500px-Hymenophyllum_tunbrigense_kz15.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q3023471#x0",
+            "text": "V období sucha se může scvrknout, po deštích se znovu zelená.",
+            "cat": "růst",
+            "not": []
+          },
+          {
+            "id": "Q3023471#x1",
+            "text": "Roste na vlhkých skalách, často mezi mechy.",
+            "cat": "výskyt",
+            "not": [
+              "Q1332525"
+            ]
+          },
+          {
+            "id": "Q3023471#x2",
+            "text": "Listy tvoří jen jedna vrstva buněk.",
+            "cat": "vzhled",
+            "not": [
+              "Q107592",
+              "Q1130272",
+              "Q1332525",
+              "Q1552374",
+              "Q2247460",
+              "Q256971",
+              "Q2654918",
+              "Q579784",
+              "Q718312",
+              "Q948839",
+              "Q958103"
+            ]
+          }
+        ],
         "continents": [
           "EU",
           "AS",
@@ -412019,6 +412058,7 @@ window.GAME_DATA = [
               "Q11258500",
               "Q1197925",
               "Q1355107",
+              "Q140350",
               "Q21122",
               "Q263881",
               "Q847497",
@@ -414982,6 +415022,7 @@ window.GAME_DATA = [
             "cat": "vzhled",
             "not": [
               "Q137867",
+              "Q140350",
               "Q1404902",
               "Q1426971",
               "Q1460161",
@@ -415127,7 +415168,14 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Bryum_argenteum_2005.07.26_13.29.24.jpg/500px-Bryum_argenteum_2005.07.26_13.29.24.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q1937687#x0",
+            "text": "Tento druh se často šíří úlomky na botách lidí a kopytech zvířat.",
+            "cat": "růst",
+            "not": []
+          }
+        ],
         "continents": [
           "EU",
           "AS",
@@ -415520,27 +415568,7 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Common_water_moss_in_a_pool_at_Myrstigen_trail_6.jpg/500px-Common_water_moss_in_a_pool_at_Myrstigen_trail_6.jpg"
           }
         ],
-        "facts": [
-          {
-            "id": "Q385125#0",
-            "text": "Tvoří nápadné trsy, běžně delší než 15 centimetrů.",
-            "cat": "čísla",
-            "not": [
-              "Q1156618",
-              "Q12039444",
-              "Q1426971",
-              "Q146224",
-              "Q150994",
-              "Q1752834",
-              "Q182303",
-              "Q1937687",
-              "Q2097953",
-              "Q292408",
-              "Q3490169",
-              "Q442127"
-            ]
-          }
-        ],
+        "facts": [],
         "continents": [
           "EU",
           "AS",
@@ -466338,7 +466366,22 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Fleurs_en_feuilles_d%27amandier.jpg/500px-Fleurs_en_feuilles_d%27amandier.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q15545507#x3",
+            "text": "Poskytuje včelám na jaře velmi vyhledávaný nektar.",
+            "cat": "vztahy",
+            "not": [
+              "Q156904"
+            ]
+          },
+          {
+            "id": "Q15545507#x4",
+            "text": "Její semena požírá několik druhů mravenců.",
+            "cat": "vztahy",
+            "not": []
+          }
+        ],
         "continents": [
           "EU",
           "AS",
@@ -479609,21 +479652,6 @@ window.GAME_DATA = [
           }
         ],
         "facts": [
-          {
-            "id": "Q159424#0",
-            "text": "Dorůstá jen do pěti centimetrů.",
-            "cat": "čísla",
-            "not": [
-              "Q1074130",
-              "Q1315944",
-              "Q1348567",
-              "Q146604",
-              "Q153343",
-              "Q161382",
-              "Q2078310",
-              "Q922370"
-            ]
-          },
           {
             "id": "Q159424#1",
             "text": "Kvete od července do září.",
@@ -693797,7 +693825,41 @@ window.GAME_DATA = [
             "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Pato_poc.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q526150#x4",
+            "text": "Tento druh žil pouze v jezeře Atitlán v Guatemale.",
+            "cat": "výskyt",
+            "not": [
+              "Q1164873",
+              "Q131637",
+              "Q131646",
+              "Q1938297",
+              "Q20717967",
+              "Q20728010",
+              "Q285364",
+              "Q575699",
+              "Q736000",
+              "Q81482"
+            ]
+          },
+          {
+            "id": "Q526150#x5",
+            "text": "Kvůli vysazeným dravým rybám tomuto druhu prudce ubylo potravy.",
+            "cat": "vztahy",
+            "not": [
+              "Q1164873",
+              "Q131637",
+              "Q131646",
+              "Q1938297",
+              "Q20717967",
+              "Q20728010",
+              "Q285364",
+              "Q736000",
+              "Q81482"
+            ]
+          }
+        ],
         "continents": [
           "NA"
         ],
