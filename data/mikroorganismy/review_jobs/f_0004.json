@@ -1,0 +1,666 @@
+[
+ {
+  "id": "Q155630#1",
+  "species": "Lamblie střevní",
+  "latin": "Giardia lamblia",
+  "text": "Má 6 předních a 2 zadní bičíky.",
+  "quote": "mají 6 předních a 2 zadní (vlečné) bičíky",
+  "claimed_false_for": {
+   "Q132656": "Bifidobacterium (Bifidobacterium)",
+   "Q160821": "Vibrio cholerae (Vibrio cholerae)",
+   "Q1796255": "Oscillatoria princeps (Oscillatoria princeps)",
+   "Q188121": "Staphylococcus aureus (Staphylococcus aureus)",
+   "Q236001": "Krásnoočko (Euglena)",
+   "Q3614869": "Nostoc azollae (Anabaena azollae)",
+   "Q386827": "Deinococcus radiodurans (Deinococcus radiodurans)"
+  }
+ },
+ {
+  "id": "Q155630#3",
+  "species": "Lamblie střevní",
+  "latin": "Giardia lamblia",
+  "text": "Tvoří cysty, které přežijí ve studené vodě týdny až měsíce.",
+  "quote": "Cysty jsou schopny přežít týdny až měsíce ve studené vodě",
+  "claimed_false_for": {
+   "Q132656": "Bifidobacterium (Bifidobacterium)",
+   "Q140004": "Serratia marcescens (Serratia marcescens)",
+   "Q148731": "Aliivibrio fischeri (Aliivibrio fischeri)",
+   "Q160821": "Vibrio cholerae (Vibrio cholerae)",
+   "Q1796255": "Oscillatoria princeps (Oscillatoria princeps)",
+   "Q188121": "Staphylococcus aureus (Staphylococcus aureus)",
+   "Q311435": "Herminiimonas glaciei (Herminiimonas glaciei)",
+   "Q386827": "Deinococcus radiodurans (Deinococcus radiodurans)"
+  }
+ },
+ {
+  "id": "Q155891#0",
+  "species": "Mycobacterium leprae",
+  "latin": "Mycobacterium leprae",
+  "text": "Způsobuje nemoc, které se říká Hansenova.",
+  "quote": "způsobující lepru („Hansenova nemoc“)",
+  "claimed_false_for": {
+   "Q131238": "Bacillus subtilis (Bacillus subtilis)",
+   "Q135177": "Yersinia enterocolitica (Yersinia enterocolitica)",
+   "Q148731": "Aliivibrio fischeri (Aliivibrio fischeri)",
+   "Q153875": "Yersinia pestis (Yersinia pestis)",
+   "Q155630": "Lamblie střevní (Giardia lamblia)",
+   "Q160821": "Vibrio cholerae (Vibrio cholerae)",
+   "Q1796255": "Oscillatoria princeps (Oscillatoria princeps)",
+   "Q1946250": "Methanosarcina acetivorans (Methanosarcina acetivorans)",
+   "Q1950818": "Leishmania tropica (Leishmania tropica)",
+   "Q3103814": "Gephyrocapsa oceanica (Gephyrocapsa oceanica)",
+   "Q311435": "Herminiimonas glaciei (Herminiimonas glaciei)",
+   "Q81062864": "Anabaena flos-aquae (Anabaena flos-aquae)"
+  }
+ },
+ {
+  "id": "Q155891#1",
+  "species": "Mycobacterium leprae",
+  "latin": "Mycobacterium leprae",
+  "text": "Tento druh se nejčastěji vyskytuje v teplých tropických zemích.",
+  "quote": "se většinou vyskytuje v teplých tropických zemích",
+  "claimed_false_for": {
+   "Q311435": "Herminiimonas glaciei (Herminiimonas glaciei)"
+  }
+ },
+ {
+  "id": "Q156007#0",
+  "species": "Treponema pallidum",
+  "latin": "Treponema pallidum",
+  "text": "Způsobuje syfilis.",
+  "quote": "původce syfilidy",
+  "claimed_false_for": {
+   "Q1061596": "Lactobacillus (Lactobacillus)",
+   "Q1114305": "Haemophilus ducreyi (Haemophilus ducreyi)",
+   "Q1190338": "Měňavka velká (Amoeba proteus)",
+   "Q130971": "Mycobacterium tuberculosis (Mycobacterium tuberculosis)",
+   "Q131003": "Toxoplasma gondii (Toxoplasma gondii)",
+   "Q131273": "Naegleria fowleri (Naegleria fowleri)",
+   "Q131452": "Streptococcus mutans (Streptococcus mutans)",
+   "Q131904999": "Isospora jaracimrmani (Isospora jaracimrmani)",
+   "Q142705": "Stenotrophomonas maltophilia (Stenotrophomonas maltophilia)",
+   "Q148710": "Šroubatka (Spirogyra)",
+   "Q153875": "Yersinia pestis (Yersinia pestis)",
+   "Q155630": "Lamblie střevní (Giardia lamblia)",
+   "Q160821": "Vibrio cholerae (Vibrio cholerae)",
+   "Q180556": "Helicobacter pylori (Helicobacter pylori)",
+   "Q188121": "Staphylococcus aureus (Staphylococcus aureus)",
+   "Q221179": "Streptococcus pneumoniae (Streptococcus pneumoniae)",
+   "Q236001": "Krásnoočko (Euglena)",
+   "Q25419": "Escherichia coli (Escherichia coli)",
+   "Q310362": "Lyngbya (Lyngbya)",
+   "Q614156": "Bacillus anthracis (Bacillus anthracis)",
+   "Q81062864": "Anabaena flos-aquae (Anabaena flos-aquae)"
+  }
+ },
+ {
+  "id": "Q156007#1",
+  "species": "Treponema pallidum",
+  "latin": "Treponema pallidum",
+  "text": "Jeho genom má 1,14 milionu párů bází.",
+  "quote": "Obsahuje 1,14 milionů párů bází.",
+  "claimed_false_for": {
+   "Q1114305": "Haemophilus ducreyi (Haemophilus ducreyi)",
+   "Q1190338": "Měňavka velká (Amoeba proteus)",
+   "Q130971": "Mycobacterium tuberculosis (Mycobacterium tuberculosis)",
+   "Q131003": "Toxoplasma gondii (Toxoplasma gondii)",
+   "Q131027": "Měňavka úplavičná (Entamoeba histolytica)",
+   "Q131273": "Naegleria fowleri (Naegleria fowleri)",
+   "Q131452": "Streptococcus mutans (Streptococcus mutans)",
+   "Q142705": "Stenotrophomonas maltophilia (Stenotrophomonas maltophilia)",
+   "Q148710": "Šroubatka (Spirogyra)",
+   "Q153875": "Yersinia pestis (Yersinia pestis)",
+   "Q155630": "Lamblie střevní (Giardia lamblia)",
+   "Q160821": "Vibrio cholerae (Vibrio cholerae)",
+   "Q221179": "Streptococcus pneumoniae (Streptococcus pneumoniae)",
+   "Q25419": "Escherichia coli (Escherichia coli)",
+   "Q614156": "Bacillus anthracis (Bacillus anthracis)",
+   "Q81062864": "Anabaena flos-aquae (Anabaena flos-aquae)"
+  }
+ },
+ {
+  "id": "Q158013#0",
+  "species": "Legionella",
+  "latin": "Legionella",
+  "text": "Běžně se vyskytuje ve vodním prostředí.",
+  "quote": "se běžně vyskytuje ve vodním prostředí",
+  "claimed_false_for": {
+   "Q148561": "Bartonella quintana (Bartonella quintana)",
+   "Q188121": "Staphylococcus aureus (Staphylococcus aureus)",
+   "Q1950715": "Leishmania major (Leishmania major)",
+   "Q2658061": "Sarcocystis (Sarcocystis)",
+   "Q7848579": "Trypanosoma potkaní (Trypanosoma lewisi)"
+  }
+ },
+ {
+  "id": "Q158013#1",
+  "species": "Legionella",
+  "latin": "Legionella",
+  "text": "Některé druhy způsobují u lidí nemoc.",
+  "quote": "druhy způsobující legionelózu čili „nemoc legionářů“",
+  "claimed_false_for": {
+   "Q148710": "Šroubatka (Spirogyra)",
+   "Q2441328": "Dunaliella salina (Dunaliella salina)",
+   "Q310363": "Coccomyxa (Coccomyxa)",
+   "Q386827": "Deinococcus radiodurans (Deinococcus radiodurans)"
+  }
+ },
+ {
+  "id": "Q160821#1",
+  "species": "Vibrio cholerae",
+  "latin": "Vibrio cholerae",
+  "text": "Přenáší se fekálně-orální cestou.",
+  "quote": "Přenáší se fekálně-orální cestou.",
+  "claimed_false_for": {
+   "Q1061596": "Lactobacillus (Lactobacillus)",
+   "Q129496606": "Leishmania martiniquensis (Leishmania martiniquensis)",
+   "Q130971": "Mycobacterium tuberculosis (Mycobacterium tuberculosis)",
+   "Q131273": "Naegleria fowleri (Naegleria fowleri)",
+   "Q153875": "Yersinia pestis (Yersinia pestis)",
+   "Q155891": "Mycobacterium leprae (Mycobacterium leprae)",
+   "Q221179": "Streptococcus pneumoniae (Streptococcus pneumoniae)",
+   "Q236001": "Krásnoočko (Euglena)",
+   "Q3018329": "Orientia tsutsugamushi (Orientia tsutsugamushi)",
+   "Q614156": "Bacillus anthracis (Bacillus anthracis)"
+  }
+ },
+ {
+  "id": "Q1756496#0",
+  "species": "Blastocystis",
+  "latin": "Blastocystis",
+  "text": "Parazituje na hmyzu, plazech, ptácích a savcích, včetně člověka.",
+  "quote": "Mezi jeho hostitele patří hmyz, plazi, ptáci a savci včetně člověka.",
+  "claimed_false_for": {
+   "Q136904": "Emiliania huxleyi (Emiliania huxleyi)",
+   "Q14565729": "Spirulina (Spirulina)",
+   "Q148710": "Šroubatka (Spirogyra)",
+   "Q148731": "Aliivibrio fischeri (Aliivibrio fischeri)",
+   "Q220392": "Zooxanthela (Zooxanthellae)",
+   "Q288725": "Trepka zelená (Paramecium bursaria)",
+   "Q311435": "Herminiimonas glaciei (Herminiimonas glaciei)",
+   "Q830142": "Rhizobium (Rhizobium)"
+  }
+ },
+ {
+  "id": "Q1756496#1",
+  "species": "Blastocystis",
+  "latin": "Blastocystis",
+  "text": "Rozmnožuje se v tlustém střevě hostitele.",
+  "quote": "parazit se dostává trávicím traktem do tlustého střeva, kde se rozmnožuje.",
+  "claimed_false_for": {
+   "Q136904": "Emiliania huxleyi (Emiliania huxleyi)",
+   "Q14565729": "Spirulina (Spirulina)",
+   "Q148710": "Šroubatka (Spirogyra)",
+   "Q148731": "Aliivibrio fischeri (Aliivibrio fischeri)",
+   "Q220392": "Zooxanthela (Zooxanthellae)",
+   "Q288725": "Trepka zelená (Paramecium bursaria)",
+   "Q311435": "Herminiimonas glaciei (Herminiimonas glaciei)",
+   "Q830142": "Rhizobium (Rhizobium)"
+  }
+ },
+ {
+  "id": "Q1756496#2",
+  "species": "Blastocystis",
+  "latin": "Blastocystis",
+  "text": "Nakazí se požitím kontaminované potraviny nebo vody.",
+  "quote": "Infekce Blastocystis probíhá požitím kontaminované potraviny či vody s tlustostěnnými cystami.",
+  "claimed_false_for": {
+   "Q136904": "Emiliania huxleyi (Emiliania huxleyi)",
+   "Q14565729": "Spirulina (Spirulina)",
+   "Q148710": "Šroubatka (Spirogyra)",
+   "Q148731": "Aliivibrio fischeri (Aliivibrio fischeri)",
+   "Q220392": "Zooxanthela (Zooxanthellae)",
+   "Q288725": "Trepka zelená (Paramecium bursaria)",
+   "Q311435": "Herminiimonas glaciei (Herminiimonas glaciei)",
+   "Q830142": "Rhizobium (Rhizobium)"
+  }
+ },
+ {
+  "id": "Q1756496#3",
+  "species": "Blastocystis",
+  "latin": "Blastocystis",
+  "text": "Nejčastěji se nachází ve vzorcích lidské stolice.",
+  "quote": "Blastocystis sp. je nejběžnější jednobuněčný parazit nalézající se ve vzorcích lidské stolice.",
+  "claimed_false_for": {
+   "Q136904": "Emiliania huxleyi (Emiliania huxleyi)",
+   "Q14565729": "Spirulina (Spirulina)",
+   "Q148710": "Šroubatka (Spirogyra)",
+   "Q148731": "Aliivibrio fischeri (Aliivibrio fischeri)",
+   "Q220392": "Zooxanthela (Zooxanthellae)",
+   "Q288725": "Trepka zelená (Paramecium bursaria)",
+   "Q311435": "Herminiimonas glaciei (Herminiimonas glaciei)",
+   "Q830142": "Rhizobium (Rhizobium)"
+  }
+ },
+ {
+  "id": "Q1756496#4",
+  "species": "Blastocystis",
+  "latin": "Blastocystis",
+  "text": "Infekce častěji postihuje dospělé než děti.",
+  "quote": "Infekce postihuje častěji dospělé, než děti.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1756496#5",
+  "species": "Blastocystis",
+  "latin": "Blastocystis",
+  "text": "Infekční cysta opouští tělo hostitele ve stolici.",
+  "quote": "Infekční tlustostěnná cysta opouští ve stolici tělo hostitele.",
+  "claimed_false_for": {
+   "Q136904": "Emiliania huxleyi (Emiliania huxleyi)",
+   "Q14565729": "Spirulina (Spirulina)",
+   "Q148710": "Šroubatka (Spirogyra)",
+   "Q148731": "Aliivibrio fischeri (Aliivibrio fischeri)",
+   "Q220392": "Zooxanthela (Zooxanthellae)",
+   "Q288725": "Trepka zelená (Paramecium bursaria)",
+   "Q311435": "Herminiimonas glaciei (Herminiimonas glaciei)",
+   "Q830142": "Rhizobium (Rhizobium)"
+  }
+ },
+ {
+  "id": "Q1796255#0",
+  "species": "Oscillatoria princeps",
+  "latin": "Oscillatoria princeps",
+  "text": "Pohybuje se klouzavým pohybem.",
+  "quote": "Pohybuje se klouzavým pohybem",
+  "claimed_false_for": {
+   "Q132592": "Klebsiella pneumoniae (Klebsiella pneumoniae)",
+   "Q137103": "Bordetella pertussis (Bordetella pertussis)"
+  }
+ },
+ {
+  "id": "Q1796255#1",
+  "species": "Oscillatoria princeps",
+  "latin": "Oscillatoria princeps",
+  "text": "Její vlákna mají velmi širokou buněčnou stěnu.",
+  "quote": "Její dlouhá vlákna mají velice širokou buněčnou stěnu",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q180556#0",
+  "species": "Helicobacter pylori",
+  "latin": "Helicobacter pylori",
+  "text": "Napadá sliznici žaludku.",
+  "quote": "napadá sliznici žaludku",
+  "claimed_false_for": {
+   "Q1061596": "Lactobacillus (Lactobacillus)",
+   "Q115528": "Borrelia (Borrelia)",
+   "Q131003": "Toxoplasma gondii (Toxoplasma gondii)",
+   "Q131271": "Streptococcus pyogenes (Streptococcus pyogenes)",
+   "Q141236": "Vakovka lidská (Balantidium coli)",
+   "Q156007": "Treponema pallidum (Treponema pallidum)",
+   "Q1950818": "Leishmania tropica (Leishmania tropica)",
+   "Q2133435": "Zrněnka (Pleurococcus)",
+   "Q236001": "Krásnoočko (Euglena)",
+   "Q288311": "Rhodococcus (Rhodococcus)",
+   "Q3898962": "Měňavka bahenní (Pelomyxa palustris)",
+   "Q614156": "Bacillus anthracis (Bacillus anthracis)"
+  }
+ },
+ {
+  "id": "Q180556#1",
+  "species": "Helicobacter pylori",
+  "latin": "Helicobacter pylori",
+  "text": "Způsobuje žaludeční vředy.",
+  "quote": "Způsobuje zejména žaludeční vředy",
+  "claimed_false_for": {
+   "Q1061596": "Lactobacillus (Lactobacillus)",
+   "Q115528": "Borrelia (Borrelia)",
+   "Q131003": "Toxoplasma gondii (Toxoplasma gondii)",
+   "Q131271": "Streptococcus pyogenes (Streptococcus pyogenes)",
+   "Q141236": "Vakovka lidská (Balantidium coli)",
+   "Q156007": "Treponema pallidum (Treponema pallidum)",
+   "Q160821": "Vibrio cholerae (Vibrio cholerae)",
+   "Q1950818": "Leishmania tropica (Leishmania tropica)",
+   "Q2133435": "Zrněnka (Pleurococcus)",
+   "Q236001": "Krásnoočko (Euglena)",
+   "Q288311": "Rhodococcus (Rhodococcus)",
+   "Q3898962": "Měňavka bahenní (Pelomyxa palustris)",
+   "Q614156": "Bacillus anthracis (Bacillus anthracis)"
+  }
+ },
+ {
+  "id": "Q180556#2",
+  "species": "Helicobacter pylori",
+  "latin": "Helicobacter pylori",
+  "text": "Přenáší se slinami nebo výkaly nakaženého člověka.",
+  "quote": "při přímém kontaktu úst se slinami nebo výkaly nakaženého jednotlivce",
+  "claimed_false_for": {
+   "Q115528": "Borrelia (Borrelia)",
+   "Q131273": "Naegleria fowleri (Naegleria fowleri)",
+   "Q153875": "Yersinia pestis (Yersinia pestis)",
+   "Q1950818": "Leishmania tropica (Leishmania tropica)",
+   "Q2133435": "Zrněnka (Pleurococcus)",
+   "Q3898962": "Měňavka bahenní (Pelomyxa palustris)",
+   "Q614156": "Bacillus anthracis (Bacillus anthracis)"
+  }
+ },
+ {
+  "id": "Q180556#3",
+  "species": "Helicobacter pylori",
+  "latin": "Helicobacter pylori",
+  "text": "Rozkládá močovinu v lidském žaludku.",
+  "quote": "Ureáza rozkládá močovinu přítomnou v lidském žaludku",
+  "claimed_false_for": {
+   "Q115528": "Borrelia (Borrelia)",
+   "Q131003": "Toxoplasma gondii (Toxoplasma gondii)",
+   "Q141236": "Vakovka lidská (Balantidium coli)",
+   "Q156007": "Treponema pallidum (Treponema pallidum)",
+   "Q160821": "Vibrio cholerae (Vibrio cholerae)",
+   "Q1950818": "Leishmania tropica (Leishmania tropica)",
+   "Q2133435": "Zrněnka (Pleurococcus)",
+   "Q236001": "Krásnoočko (Euglena)",
+   "Q3898962": "Měňavka bahenní (Pelomyxa palustris)",
+   "Q614156": "Bacillus anthracis (Bacillus anthracis)"
+  }
+ },
+ {
+  "id": "Q180556#4",
+  "species": "Helicobacter pylori",
+  "latin": "Helicobacter pylori",
+  "text": "Na povrchu má 4 až 6 bičíků.",
+  "quote": "Na svém povrchu má 4 až 6 bičíků",
+  "claimed_false_for": {
+   "Q1061596": "Lactobacillus (Lactobacillus)",
+   "Q130971": "Mycobacterium tuberculosis (Mycobacterium tuberculosis)",
+   "Q131003": "Toxoplasma gondii (Toxoplasma gondii)",
+   "Q131271": "Streptococcus pyogenes (Streptococcus pyogenes)",
+   "Q156007": "Treponema pallidum (Treponema pallidum)",
+   "Q188121": "Staphylococcus aureus (Staphylococcus aureus)",
+   "Q1950818": "Leishmania tropica (Leishmania tropica)",
+   "Q2133435": "Zrněnka (Pleurococcus)",
+   "Q221179": "Streptococcus pneumoniae (Streptococcus pneumoniae)",
+   "Q236001": "Krásnoočko (Euglena)",
+   "Q288311": "Rhodococcus (Rhodococcus)",
+   "Q614156": "Bacillus anthracis (Bacillus anthracis)"
+  }
+ },
+ {
+  "id": "Q180556#5",
+  "species": "Helicobacter pylori",
+  "latin": "Helicobacter pylori",
+  "text": "Měří 2,8 až 3,3 mikrometru na délku.",
+  "quote": "2,8 až 3,3 mikrometrů na délku",
+  "claimed_false_for": {
+   "Q115528": "Borrelia (Borrelia)",
+   "Q131027": "Měňavka úplavičná (Entamoeba histolytica)",
+   "Q131273": "Naegleria fowleri (Naegleria fowleri)",
+   "Q141236": "Vakovka lidská (Balantidium coli)",
+   "Q142705": "Stenotrophomonas maltophilia (Stenotrophomonas maltophilia)",
+   "Q236001": "Krásnoočko (Euglena)",
+   "Q3898962": "Měňavka bahenní (Pelomyxa palustris)"
+  }
+ },
+ {
+  "id": "Q180556#6",
+  "species": "Helicobacter pylori",
+  "latin": "Helicobacter pylori",
+  "text": "Žije i v žaludcích psů a jiných savců.",
+  "quote": "Vědci nalezli Helicobacter pylori nejenom v lidských a psích žaludcích, ale i u jiných savců",
+  "claimed_false_for": {
+   "Q115528": "Borrelia (Borrelia)",
+   "Q131027": "Měňavka úplavičná (Entamoeba histolytica)",
+   "Q131271": "Streptococcus pyogenes (Streptococcus pyogenes)",
+   "Q131273": "Naegleria fowleri (Naegleria fowleri)",
+   "Q153875": "Yersinia pestis (Yersinia pestis)",
+   "Q160821": "Vibrio cholerae (Vibrio cholerae)",
+   "Q1950818": "Leishmania tropica (Leishmania tropica)",
+   "Q2133435": "Zrněnka (Pleurococcus)",
+   "Q221179": "Streptococcus pneumoniae (Streptococcus pneumoniae)",
+   "Q236001": "Krásnoočko (Euglena)",
+   "Q3898962": "Měňavka bahenní (Pelomyxa palustris)",
+   "Q614156": "Bacillus anthracis (Bacillus anthracis)"
+  }
+ },
+ {
+  "id": "Q180556#7",
+  "species": "Helicobacter pylori",
+  "latin": "Helicobacter pylori",
+  "text": "Tvoří toxin, který ničí buňky žaludku.",
+  "quote": "VacA poté způsobuje progresivní vakuolizaci žaludečních buněk, která vede k buněčnému úmrtí",
+  "claimed_false_for": {
+   "Q1061596": "Lactobacillus (Lactobacillus)",
+   "Q115528": "Borrelia (Borrelia)",
+   "Q141236": "Vakovka lidská (Balantidium coli)",
+   "Q1950818": "Leishmania tropica (Leishmania tropica)",
+   "Q2133435": "Zrněnka (Pleurococcus)",
+   "Q236001": "Krásnoočko (Euglena)",
+   "Q3898962": "Měňavka bahenní (Pelomyxa palustris)"
+  }
+ },
+ {
+  "id": "Q18645284#0",
+  "species": "Prochlorococcus",
+  "latin": "Prochlorococcus",
+  "text": "Vytvoří až 20 % kyslíku, který vzniká fotosyntézou.",
+  "quote": "Z celkového množství kyslíku produkovaného fotosyntézou vytvoří tento druh sinic až 20%",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q188121#0",
+  "species": "Staphylococcus aureus",
+  "latin": "Staphylococcus aureus",
+  "text": "Asi 20–50 % lidí jsou přenašeči této bakterie.",
+  "quote": "Přenašečství se vyskytuje asi u 20–50 % populace",
+  "claimed_false_for": {
+   "Q156007": "Treponema pallidum (Treponema pallidum)",
+   "Q236001": "Krásnoočko (Euglena)"
+  }
+ },
+ {
+  "id": "Q188121#1",
+  "species": "Staphylococcus aureus",
+  "latin": "Staphylococcus aureus",
+  "text": "Může způsobit otravu z jídla, třeba z majonézových salátů.",
+  "quote": "jedná se o otravu z potravy kontaminované termostabilním enterotoxinem B (majonézové saláty, sekaná atd.)",
+  "claimed_false_for": {
+   "Q1061596": "Lactobacillus (Lactobacillus)",
+   "Q1153950": "Hepatozoon (Hepatozoon)",
+   "Q130971": "Mycobacterium tuberculosis (Mycobacterium tuberculosis)",
+   "Q131273": "Naegleria fowleri (Naegleria fowleri)",
+   "Q148561": "Bartonella quintana (Bartonella quintana)",
+   "Q153875": "Yersinia pestis (Yersinia pestis)",
+   "Q156007": "Treponema pallidum (Treponema pallidum)",
+   "Q180556": "Helicobacter pylori (Helicobacter pylori)",
+   "Q1946250": "Methanosarcina acetivorans (Methanosarcina acetivorans)",
+   "Q221179": "Streptococcus pneumoniae (Streptococcus pneumoniae)",
+   "Q3021915": "Váleč koulivý (Volvox globator)",
+   "Q311383": "Plasmodium falciparum (Plasmodium falciparum)",
+   "Q3497618": "Eimeria maxima (Eimeria maxima)",
+   "Q386827": "Deinococcus radiodurans (Deinococcus radiodurans)",
+   "Q653846": "Trebouxia (Trebouxia)"
+  }
+ },
+ {
+  "id": "Q188121#2",
+  "species": "Staphylococcus aureus",
+  "latin": "Staphylococcus aureus",
+  "text": "Velmi často způsobuje infekce kůže a měkkých tkání.",
+  "quote": "Způsobuje velmi často různé infekce v rozsahu od mírných zánětů kůže a měkkých tkání",
+  "claimed_false_for": {
+   "Q1061596": "Lactobacillus (Lactobacillus)",
+   "Q1198419": "Tetrahymena (Tetrahymena)",
+   "Q131003": "Toxoplasma gondii (Toxoplasma gondii)",
+   "Q131027": "Měňavka úplavičná (Entamoeba histolytica)",
+   "Q131273": "Naegleria fowleri (Naegleria fowleri)",
+   "Q160821": "Vibrio cholerae (Vibrio cholerae)",
+   "Q180556": "Helicobacter pylori (Helicobacter pylori)",
+   "Q1946250": "Methanosarcina acetivorans (Methanosarcina acetivorans)",
+   "Q236001": "Krásnoočko (Euglena)",
+   "Q2441328": "Dunaliella salina (Dunaliella salina)",
+   "Q3021915": "Váleč koulivý (Volvox globator)",
+   "Q386827": "Deinococcus radiodurans (Deinococcus radiodurans)",
+   "Q653846": "Trebouxia (Trebouxia)"
+  }
+ },
+ {
+  "id": "Q188121#3",
+  "species": "Staphylococcus aureus",
+  "latin": "Staphylococcus aureus",
+  "text": "Přibližně 90 % těchto bakterií je odolných vůči běžnému penicilinu.",
+  "quote": "Přibližně 90 % stafylokoků je rezistentních na běžný penicilin.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q19253007#1",
+  "species": "Kožovec rybí",
+  "latin": "Ichthyophthirius multifiliis",
+  "text": "Měří do 1 mm.",
+  "quote": "měří do 1 mm",
+  "claimed_false_for": {
+   "Q78611696": "Chaos carolinensis (Chaos carolinense)"
+  }
+ },
+ {
+  "id": "Q1946250#0",
+  "species": "Methanosarcina acetivorans",
+  "latin": "Methanosarcina acetivorans",
+  "text": "Živí se rozkladem kyseliny octové a vyrábí metan.",
+  "quote": "se vyživuje metanogenním rozkladem kyseliny octové za vzniku metanu, nikoliv spalováním vodíku",
+  "claimed_false_for": {
+   "Q130971": "Mycobacterium tuberculosis (Mycobacterium tuberculosis)",
+   "Q131129": "Neisseria gonorrhoeae (Neisseria gonorrhoeae)",
+   "Q131452": "Streptococcus mutans (Streptococcus mutans)",
+   "Q135175": "Nocardia (Nocardia)",
+   "Q14565729": "Spirulina (Spirulina)",
+   "Q155891": "Mycobacterium leprae (Mycobacterium leprae)",
+   "Q25419": "Escherichia coli (Escherichia coli)",
+   "Q292015": "Listeria monocytogenes (Listeria monocytogenes)",
+   "Q309972": "Chlorella vulgaris (Chlorella vulgaris)",
+   "Q310467": "Bacillus thuringiensis (Bacillus thuringiensis)",
+   "Q517258": "Enterokok (Enterococcus)",
+   "Q56290719": "Clostridioides difficile (Clostridioides difficile)"
+  }
+ },
+ {
+  "id": "Q1946250#1",
+  "species": "Methanosarcina acetivorans",
+  "latin": "Methanosarcina acetivorans",
+  "text": "Má největší genom ze všech archeí: 5 751 492 párů bází.",
+  "quote": "má největší genom ze všech archeí, a to 5 751 492 párů bází",
+  "claimed_false_for": {
+   "Q130971": "Mycobacterium tuberculosis (Mycobacterium tuberculosis)",
+   "Q131129": "Neisseria gonorrhoeae (Neisseria gonorrhoeae)",
+   "Q131452": "Streptococcus mutans (Streptococcus mutans)",
+   "Q135175": "Nocardia (Nocardia)",
+   "Q14565729": "Spirulina (Spirulina)",
+   "Q155891": "Mycobacterium leprae (Mycobacterium leprae)",
+   "Q25419": "Escherichia coli (Escherichia coli)",
+   "Q292015": "Listeria monocytogenes (Listeria monocytogenes)",
+   "Q309972": "Chlorella vulgaris (Chlorella vulgaris)",
+   "Q310467": "Bacillus thuringiensis (Bacillus thuringiensis)",
+   "Q517258": "Enterokok (Enterococcus)",
+   "Q56290719": "Clostridioides difficile (Clostridioides difficile)"
+  }
+ },
+ {
+  "id": "Q1950703#0",
+  "species": "Bodo",
+  "latin": "Bodo",
+  "text": "Někteří zástupci jsou parazity ryb, hlavně sladkovodních.",
+  "quote": "Někteří jsou ektoparazity a endoparazity ryb a to zejména sladkovodních.",
+  "claimed_false_for": {
+   "Q116504956": "Medakamo hakoo (Medakamo hakoo)",
+   "Q12043982": "Paulinella chromatophora (Paulinella chromatophora)",
+   "Q131065": "Chlamydia trachomatis (Chlamydia trachomatis)",
+   "Q132595": "Bičenka poševní (Trichomonas vaginalis)",
+   "Q136904": "Emiliania huxleyi (Emiliania huxleyi)",
+   "Q14565729": "Spirulina (Spirulina)",
+   "Q153875": "Yersinia pestis (Yersinia pestis)",
+   "Q2666248": "Ferroplasma (Ferroplasma)"
+  }
+ },
+ {
+  "id": "Q1950703#1",
+  "species": "Bodo",
+  "latin": "Bodo",
+  "text": "Živí se zbytky organických látek a někdy i bakteriemi.",
+  "quote": "Jejich hlavní potravou jsou zbytky různých organických látek a mnohdy i různé bakterie.",
+  "claimed_false_for": {
+   "Q116504956": "Medakamo hakoo (Medakamo hakoo)",
+   "Q12043982": "Paulinella chromatophora (Paulinella chromatophora)",
+   "Q136904": "Emiliania huxleyi (Emiliania huxleyi)",
+   "Q14565729": "Spirulina (Spirulina)",
+   "Q2666248": "Ferroplasma (Ferroplasma)"
+  }
+ },
+ {
+  "id": "Q1950715#0",
+  "species": "Leishmania major",
+  "latin": "Leishmania major",
+  "text": "Hlavním přenašečem jsou bodavé mouchy.",
+  "quote": "Hlavním zdrojem nákazy jsou bodavé mouchy rodu Phlebotomus.",
+  "claimed_false_for": {
+   "Q1114305": "Haemophilus ducreyi (Haemophilus ducreyi)",
+   "Q131029": "Shigella (Shigella)",
+   "Q131268": "Clostridium botulinum (Clostridium botulinum)",
+   "Q131649": "Corynebacterium diphtheriae (Corynebacterium diphtheriae)",
+   "Q132592": "Klebsiella pneumoniae (Klebsiella pneumoniae)",
+   "Q135175": "Nocardia (Nocardia)",
+   "Q236001": "Krásnoočko (Euglena)",
+   "Q2442109": "Propionibacterium acnes (Cutibacterium acnes)",
+   "Q264363": "Měňavka ústní (Entamoeba gingivalis)",
+   "Q311376": "Plasmodium vivax (Plasmodium vivax)",
+   "Q6646558": "Listonella anguillarum (Listonella anguillarum)",
+   "Q830142": "Rhizobium (Rhizobium)"
+  }
+ },
+ {
+  "id": "Q1950715#1",
+  "species": "Leishmania major",
+  "latin": "Leishmania major",
+  "text": "Hlavními zdroji nákazy jsou menší hlodavci, malí savci a ptáci.",
+  "quote": "Hlavními rezervoáry nákazy jsou menší hlodavci, malí savci a ptáci.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1950715#2",
+  "species": "Leishmania major",
+  "latin": "Leishmania major",
+  "text": "Psi se nakazí jen zřídka.",
+  "quote": "Existují zdokumentované případy nákazy psů z Egypta a Saúdské Arábie. Nicméně je to spíše vzácností.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1950715#3",
+  "species": "Leishmania major",
+  "latin": "Leishmania major",
+  "text": "Přenášející mouchy jsou aktivní od soumraku do svítání.",
+  "quote": "či vyhýbání se době aktivity přenášejících much, tedy od soumraku do svítání",
+  "claimed_false_for": {
+   "Q1114305": "Haemophilus ducreyi (Haemophilus ducreyi)",
+   "Q131029": "Shigella (Shigella)",
+   "Q131268": "Clostridium botulinum (Clostridium botulinum)",
+   "Q131649": "Corynebacterium diphtheriae (Corynebacterium diphtheriae)",
+   "Q132592": "Klebsiella pneumoniae (Klebsiella pneumoniae)",
+   "Q135175": "Nocardia (Nocardia)",
+   "Q236001": "Krásnoočko (Euglena)",
+   "Q2442109": "Propionibacterium acnes (Cutibacterium acnes)",
+   "Q264363": "Měňavka ústní (Entamoeba gingivalis)",
+   "Q311376": "Plasmodium vivax (Plasmodium vivax)",
+   "Q6646558": "Listonella anguillarum (Listonella anguillarum)",
+   "Q830142": "Rhizobium (Rhizobium)"
+  }
+ },
+ {
+  "id": "Q1950752#0",
+  "species": "Leishmania donovani",
+  "latin": "Leishmania donovani",
+  "text": "Přenáší ho samička flebotoma při kousnutí.",
+  "quote": "Přenáší se infekčním kousnutím hmyzího vektoru, samičkou flebotoma (Phlebotomus).",
+  "claimed_false_for": {
+   "Q1114305": "Haemophilus ducreyi (Haemophilus ducreyi)",
+   "Q131029": "Shigella (Shigella)",
+   "Q131268": "Clostridium botulinum (Clostridium botulinum)",
+   "Q131649": "Corynebacterium diphtheriae (Corynebacterium diphtheriae)",
+   "Q132592": "Klebsiella pneumoniae (Klebsiella pneumoniae)",
+   "Q135175": "Nocardia (Nocardia)",
+   "Q236001": "Krásnoočko (Euglena)",
+   "Q2442109": "Propionibacterium acnes (Cutibacterium acnes)",
+   "Q264363": "Měňavka ústní (Entamoeba gingivalis)",
+   "Q311376": "Plasmodium vivax (Plasmodium vivax)",
+   "Q6646558": "Listonella anguillarum (Listonella anguillarum)",
+   "Q830142": "Rhizobium (Rhizobium)"
+  }
+ }
+]

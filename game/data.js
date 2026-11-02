@@ -280962,16 +280962,6 @@ window.GAME_DATA = [
         ],
         "facts": [
           {
-            "id": "Q629430#0",
-            "text": "Má červené tělo s nahnědlým hřbetem a světle červeným bříškem.",
-            "cat": "vzhled",
-            "not": [
-              "Q206507",
-              "Q2306485",
-              "Q2478695"
-            ]
-          },
-          {
             "id": "Q629430#1",
             "text": "Dorůstá až do velikosti 5 cm.",
             "cat": "čísla",
@@ -292909,6 +292899,99 @@ window.GAME_DATA = [
         "emoji": "🪰"
       },
       {
+        "id": "Q1141328",
+        "name": "Páchník hnědý",
+        "latin": "Osmoderma eremita",
+        "family": "zlatohlávkovití",
+        "order": "brouci",
+        "wiki": "https://cs.wikipedia.org/wiki/P%C3%A1chn%C3%ADk_hn%C4%9Bd%C3%BD",
+        "photos": [
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Osmoderma_eremita_hann.JPG",
+            "author": "Magne Flåten",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Osmoderma_eremita_hann.JPG/500px-Osmoderma_eremita_hann.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Osmoderma_eremita-mt.jpg",
+            "author": "Magnefl",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Osmoderma_eremita-mt.jpg/500px-Osmoderma_eremita-mt.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Pachnica.jpg",
+            "author": "Eume",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Pachnica.jpg/500px-Pachnica.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Osmoderma_eremita-mg.jpg",
+            "author": "Magnefl",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Osmoderma_eremita-mg.jpg/500px-Osmoderma_eremita-mg.jpg"
+          }
+        ],
+        "facts": [
+          {
+            "id": "Q1141328#x0",
+            "text": "Larvy se vyvíjejí v dutých stromech, nejraději v dubech.",
+            "cat": "výskyt",
+            "not": [
+              "Q1301917",
+              "Q1316279",
+              "Q1683382",
+              "Q2667294",
+              "Q289050",
+              "Q4423930",
+              "Q754675"
+            ]
+          },
+          {
+            "id": "Q1141328#x1",
+            "text": "Samci vydávají vůni, kterou lákají samice.",
+            "cat": "chování",
+            "not": []
+          },
+          {
+            "id": "Q1141328#x2",
+            "text": "Samice snáší 20 až 80 vajec.",
+            "cat": "čísla",
+            "not": []
+          },
+          {
+            "id": "Q1141328#x3",
+            "text": "Larvy se živí trouchnivým dřevem a plísní v dutinách stromů.",
+            "cat": "potrava",
+            "not": [
+              "Q1301917",
+              "Q1316279",
+              "Q1683382",
+              "Q2667294",
+              "Q289050",
+              "Q4423930",
+              "Q754675"
+            ]
+          },
+          {
+            "id": "Q1141328#x4",
+            "text": "Zbytky jeho těla se nacházejí ve vývržcích sov.",
+            "cat": "vztahy",
+            "not": []
+          },
+          {
+            "id": "Q1141328#x5",
+            "text": "Cizopasí na něm hlístice, které ho mohou zabít.",
+            "cat": "vztahy",
+            "not": []
+          }
+        ],
+        "continents": [
+          "EU"
+        ],
+        "pop": 34,
+        "emoji": "🪲"
+      },
+      {
         "id": "Q1148004",
         "name": "Komár tropický",
         "latin": "Aedes aegypti",
@@ -293037,6 +293120,57 @@ window.GAME_DATA = [
         ],
         "pop": 25,
         "emoji": "🦋"
+      },
+      {
+        "id": "Q1151518",
+        "name": "Hřebenule borová",
+        "latin": "Diprion pini",
+        "family": "hřebenulovití",
+        "order": "blanokřídlí",
+        "wiki": "https://cs.wikipedia.org/wiki/H%C5%99ebenule_borov%C3%A1",
+        "photos": [
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Diprion_pini_-_metamorphosis_B_-_07_-_female_-_envol_(14_juillet_2010).jpg",
+            "author": "entomart",
+            "license": "Attribution",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Diprion_pini_-_metamorphosis_B_-_07_-_female_-_envol_%2814_juillet_2010%29.jpg/500px-Diprion_pini_-_metamorphosis_B_-_07_-_female_-_envol_%2814_juillet_2010%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Diprion_pini_-_metamorphosis_B_-_06_-_female_(14_july_2010).jpg",
+            "author": "entomart",
+            "license": "Attribution",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Diprion_pini_-_metamorphosis_B_-_06_-_female_%2814_july_2010%29.jpg/500px-Diprion_pini_-_metamorphosis_B_-_06_-_female_%2814_july_2010%29.jpg"
+          }
+        ],
+        "facts": [
+          {
+            "id": "Q1151518#0",
+            "text": "Larvy žijí pospolitě.",
+            "cat": "chování",
+            "not": [
+              "Q1318000",
+              "Q2561096",
+              "Q655138"
+            ]
+          },
+          {
+            "id": "Q1151518#1",
+            "text": "Přezimuje v kokonech.",
+            "cat": "chování",
+            "not": [
+              "Q1305510",
+              "Q1386336",
+              "Q503989",
+              "Q645538"
+            ]
+          }
+        ],
+        "continents": [
+          "EU",
+          "AS"
+        ],
+        "pop": 19,
+        "emoji": "🐝"
       },
       {
         "id": "Q1163848",
@@ -293380,6 +293514,70 @@ window.GAME_DATA = [
           "AF"
         ],
         "pop": 29,
+        "emoji": "🪲"
+      },
+      {
+        "id": "Q11962",
+        "name": "Červotoč chlebový",
+        "latin": "Stegobium paniceum",
+        "family": "Anobiidae",
+        "order": "brouci",
+        "wiki": "https://cs.wikipedia.org/wiki/%C4%8Cervoto%C4%8D_chlebov%C3%BD",
+        "photos": [
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Stegobium_paniceum_02.JPG",
+            "author": "AfroBrazilian",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Stegobium_paniceum_02.JPG/500px-Stegobium_paniceum_02.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Stegobium_paniceum_01.JPG",
+            "author": "AfroBrazilian",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Stegobium_paniceum_01.JPG/500px-Stegobium_paniceum_01.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:CSIRO_ScienceImage_2757_Drugstore_beetle_Stegobium_paniceum.jpg",
+            "author": "division, CSIRO",
+            "license": "CC BY 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/CSIRO_ScienceImage_2757_Drugstore_beetle_Stegobium_paniceum.jpg/500px-CSIRO_ScienceImage_2757_Drugstore_beetle_Stegobium_paniceum.jpg"
+          }
+        ],
+        "facts": [
+          {
+            "id": "Q11962#0",
+            "text": "Larvy žijí v pevných materiálech, které obsahují škrob.",
+            "cat": "potrava",
+            "not": [
+              "Q15736390",
+              "Q171811",
+              "Q1762405",
+              "Q1886568",
+              "Q243794",
+              "Q587722",
+              "Q844763"
+            ]
+          },
+          {
+            "id": "Q11962#1",
+            "text": "Za příznivých podmínek může mít ročně dvě až tři generace.",
+            "cat": "čísla",
+            "not": [
+              "Q1499243",
+              "Q190491",
+              "Q858284"
+            ]
+          }
+        ],
+        "continents": [
+          "EU",
+          "AS",
+          "AF",
+          "NA",
+          "SA",
+          "OC"
+        ],
+        "pop": 26,
         "emoji": "🪲"
       },
       {
@@ -299089,6 +299287,55 @@ window.GAME_DATA = [
         "emoji": "🦗"
       },
       {
+        "id": "Q1401296",
+        "name": "Martináč bukový",
+        "latin": "Aglia tau",
+        "family": "martináčovití",
+        "order": "motýli",
+        "wiki": "https://cs.wikipedia.org/wiki/Martin%C3%A1%C4%8D_bukov%C3%BD",
+        "photos": [
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Aglia_tau_(47652653711).jpg",
+            "author": "xulescu_g",
+            "license": "CC BY-SA 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Aglia_tau_%2847652653711%29.jpg/500px-Aglia_tau_%2847652653711%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Aglia_tau_-_male_3_(HS).jpg",
+            "author": "Harald Süpfle",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Aglia_tau_-_male_3_%28HS%29.jpg/500px-Aglia_tau_-_male_3_%28HS%29.jpg"
+          }
+        ],
+        "facts": [
+          {
+            "id": "Q1401296#1",
+            "text": "Tento druh je v noci aktivní a často přilétá ke světlu.",
+            "cat": "chování",
+            "not": [
+              "Q1137199",
+              "Q1519595",
+              "Q176297",
+              "Q1949538",
+              "Q630602",
+              "Q882485"
+            ]
+          },
+          {
+            "id": "Q1401296#3",
+            "text": "Housenky se z vajíček líhnou asi po dvou týdnech.",
+            "cat": "mláďata",
+            "not": []
+          }
+        ],
+        "continents": [
+          "EU",
+          "AS"
+        ],
+        "pop": 30,
+        "emoji": "🦋"
+      },
+      {
         "id": "Q140515",
         "name": "Pernatuška svlačcová",
         "latin": "Emmelina monodactyla",
@@ -300407,6 +300654,71 @@ window.GAME_DATA = [
         "emoji": "🦋"
       },
       {
+        "id": "Q1440936",
+        "name": "Tmavoskvrnáč zhoubný",
+        "latin": "Erannis defoliaria",
+        "family": "píďalkovití",
+        "order": "motýli",
+        "wiki": "https://cs.wikipedia.org/wiki/Tmavoskvrn%C3%A1%C4%8D_zhoubn%C3%BD",
+        "photos": [
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Erannis_defoliaria_-_Ben_Sale_-_2018_(32658030538).jpg",
+            "author": "Ben Sale",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Erannis_defoliaria_-_Ben_Sale_-_2018_%2832658030538%29.jpg/500px-Erannis_defoliaria_-_Ben_Sale_-_2018_%2832658030538%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:(1935)_Mottled_Umber_(Erannis_defoliaria)_(4036892286).jpg",
+            "author": "Ben Sale from UK",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/%281935%29_Mottled_Umber_%28Erannis_defoliaria%29_%284036892286%29.jpg/500px-%281935%29_Mottled_Umber_%28Erannis_defoliaria%29_%284036892286%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Erannis_defoliaria_(Geometridae)_-_(imago),_Groesbeek,_the_Netherlands.jpg",
+            "author": "This image is created by user B. Schoenmakers at Waarneming.nl , a source of nat",
+            "license": "CC BY 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Erannis_defoliaria_%28Geometridae%29_-_%28imago%29%2C_Groesbeek%2C_the_Netherlands.jpg/500px-Erannis_defoliaria_%28Geometridae%29_-_%28imago%29%2C_Groesbeek%2C_the_Netherlands.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Erannis_defoliaria_%E2%99%82_-_Mottled_umber_(male)_-_%D0%9F%D1%8F%D0%B4%D0%B5%D0%BD%D0%B8%D1%86%D0%B0-%D0%BE%D0%B1%D0%B4%D0%B8%D1%80%D0%B0%D0%BB%D0%BE_(%D1%81%D0%B0%D0%BC%D0%B5%D1%86)_(46530920972).jpg",
+            "author": "Ilia Ustyantsev from Russia",
+            "license": "CC BY-SA 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Erannis_defoliaria_%E2%99%82_-_Mottled_umber_%28male%29_-_%D0%9F%D1%8F%D0%B4%D0%B5%D0%BD%D0%B8%D1%86%D0%B0-%D0%BE%D0%B1%D0%B4%D0%B8%D1%80%D0%B0%D0%BB%D0%BE_%28%D1%81%D0%B0%D0%BC%D0%B5%D1%86%29_%2846530920972%29.jpg/500px-Erannis_defoliaria_%E2%99%82_-_Mottled_umber_%28male%29_-_%D0%9F%D1%8F%D0%B4%D0%B5%D0%BD%D0%B8%D1%86%D0%B0-%D0%BE%D0%B1%D0%B4%D0%B8%D1%80%D0%B0%D0%BB%D0%BE_%28%D1%81%D0%B0%D0%BC%D0%B5%D1%86%29_%2846530920972%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Mottled_Umber_(Erannis_defoliaria)_(52479323328).jpg",
+            "author": "Ben Sale from Stevenage, UK",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Mottled_Umber_%28Erannis_defoliaria%29_%2852479323328%29.jpg/500px-Mottled_Umber_%28Erannis_defoliaria%29_%2852479323328%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Erannis_defoliaria_-_Ben_Sale_-_2011_(6206298051).jpg",
+            "author": "Ben Sale",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Erannis_defoliaria_-_Ben_Sale_-_2011_%286206298051%29.jpg/500px-Erannis_defoliaria_-_Ben_Sale_-_2011_%286206298051%29.jpg"
+          }
+        ],
+        "facts": [
+          {
+            "id": "Q1440936#0",
+            "text": "Housenky vykusují pupeny, květy a rašící listy.",
+            "cat": "potrava",
+            "not": [
+              "Q1746600",
+              "Q244228",
+              "Q3410512",
+              "Q581988"
+            ]
+          }
+        ],
+        "continents": [
+          "EU",
+          "AS"
+        ],
+        "pop": 25,
+        "emoji": "🦋"
+      },
+      {
         "id": "Q144273",
         "name": "Komár útočný",
         "latin": "Aedes vexans",
@@ -300617,6 +300929,36 @@ window.GAME_DATA = [
         ],
         "pop": 12,
         "emoji": "🪲"
+      },
+      {
+        "id": "Q1453990",
+        "name": "Čmelák proměnlivý",
+        "latin": "Bombus humilis",
+        "family": "včelovití",
+        "order": "blanokřídlí",
+        "wiki": "https://cs.wikipedia.org/wiki/%C4%8Cmel%C3%A1k_prom%C4%9Bnliv%C3%BD",
+        "photos": [
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Brown-banded_Carder-Bumble_bee_imported_from_iNaturalist_photo_206602699_on_18_November_2023.jpg",
+            "author": "(c) Поляков Александр, some rights reserved (CC BY)",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Brown-banded_Carder-Bumble_bee_imported_from_iNaturalist_photo_206602699_on_18_November_2023.jpg/500px-Brown-banded_Carder-Bumble_bee_imported_from_iNaturalist_photo_206602699_on_18_November_2023.jpg"
+          }
+        ],
+        "facts": [
+          {
+            "id": "Q1453990#1",
+            "text": "Matka dorůstá do velikosti 16 až 18 milimetrů.",
+            "cat": "čísla",
+            "not": []
+          }
+        ],
+        "continents": [
+          "EU",
+          "AS"
+        ],
+        "pop": 21,
+        "emoji": "🐝"
       },
       {
         "id": "Q1467389",
@@ -309682,6 +310024,34 @@ window.GAME_DATA = [
         "emoji": "🦋"
       },
       {
+        "id": "Q18571888",
+        "name": "Phloiophilus edwardsi",
+        "latin": "Phloiophilus edwardsii",
+        "family": "Phloiophilus edwardsi",
+        "order": "brouci",
+        "wiki": "https://cs.wikipedia.org/wiki/Phloiophilus_edwardsi",
+        "photos": [
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:2020_11_10_Phloiophilus_edwardsi.jpg",
+            "author": "Slimguy",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/2020_11_10_Phloiophilus_edwardsi.jpg/500px-2020_11_10_Phloiophilus_edwardsi.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:2020_11_10_Phloiophilus_edwardsi2.jpg",
+            "author": "Slimguy",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/2020_11_10_Phloiophilus_edwardsi2.jpg/500px-2020_11_10_Phloiophilus_edwardsi2.jpg"
+          }
+        ],
+        "facts": [],
+        "continents": [
+          "EU"
+        ],
+        "pop": 8,
+        "emoji": "🪲"
+      },
+      {
         "id": "Q1859583",
         "name": "Šípověnka trnková",
         "latin": "Acronicta psi",
@@ -310590,6 +310960,65 @@ window.GAME_DATA = [
           "AF"
         ],
         "pop": 30,
+        "emoji": "🪲"
+      },
+      {
+        "id": "Q1931246",
+        "name": "Plošec sundský",
+        "latin": "Mormolyce phyllodes",
+        "family": "střevlíkovití",
+        "order": "brouci",
+        "wiki": "https://cs.wikipedia.org/wiki/Plo%C5%A1ec_sundsk%C3%BD",
+        "photos": [
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Mormolyce_phyllodes,_the_Violin_Beetle_(13476766024).jpg",
+            "author": "Dick Culbert from Gibsons, B.C., Canada",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Mormolyce_phyllodes%2C_the_Violin_Beetle_%2813476766024%29.jpg/500px-Mormolyce_phyllodes%2C_the_Violin_Beetle_%2813476766024%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Violin_beetle_Mormolyce_phyllodes.jpg",
+            "author": "Dr. Arthur Anker",
+            "license": "CC BY-SA 1.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Violin_beetle_Mormolyce_phyllodes.jpg/500px-Violin_beetle_Mormolyce_phyllodes.jpg"
+          }
+        ],
+        "facts": [
+          {
+            "id": "Q1931246#0",
+            "text": "Dospělí jedinci i larvy jsou dravci.",
+            "cat": "potrava",
+            "not": [
+              "Q1499243",
+              "Q171811",
+              "Q1886568",
+              "Q190491",
+              "Q243794",
+              "Q587722",
+              "Q858284"
+            ]
+          },
+          {
+            "id": "Q1931246#1",
+            "text": "Larvy žijí v rourkách hub.",
+            "cat": "výskyt",
+            "not": [
+              "Q1499243",
+              "Q15736390",
+              "Q171811",
+              "Q1762405",
+              "Q1886568",
+              "Q190491",
+              "Q243794",
+              "Q587722",
+              "Q844763"
+            ]
+          }
+        ],
+        "continents": [
+          "AS"
+        ],
+        "pop": 16,
         "emoji": "🪲"
       },
       {
@@ -314838,6 +315267,95 @@ window.GAME_DATA = [
         "emoji": "🦟"
       },
       {
+        "id": "Q244274",
+        "name": "Červec nopálový",
+        "latin": "Dactylopius coccus",
+        "family": "Dactylopiidae",
+        "order": "polokřídlí",
+        "wiki": "https://cs.wikipedia.org/wiki/%C4%8Cervec_nop%C3%A1lov%C3%BD",
+        "photos": [
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Cochineal_insects_on_prickly_pear_-_Flickr_-_pellaea_(1).jpg",
+            "author": "Jason Hollinger",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Cochineal_insects_on_prickly_pear_-_Flickr_-_pellaea_%281%29.jpg/500px-Cochineal_insects_on_prickly_pear_-_Flickr_-_pellaea_%281%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Dactylopius_coccus_on_Opuntia_ficus-indica_(004).jpg",
+            "author": "Juandev",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Dactylopius_coccus_on_Opuntia_ficus-indica_%28004%29.jpg/500px-Dactylopius_coccus_on_Opuntia_ficus-indica_%28004%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Dactylopius_coccus_Masca_2.jpg",
+            "author": "Leyo",
+            "license": "CC BY-SA 3.0 ch",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Dactylopius_coccus_Masca_2.jpg/500px-Dactylopius_coccus_Masca_2.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Dactylopius_coccus_(Barlovento)_04_ies.jpg",
+            "author": "Frank Vincentz",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Dactylopius_coccus_%28Barlovento%29_04_ies.jpg/500px-Dactylopius_coccus_%28Barlovento%29_04_ies.jpg"
+          }
+        ],
+        "facts": [
+          {
+            "id": "Q244274#0",
+            "text": "Žije na kaktusech.",
+            "cat": "vztahy",
+            "not": [
+              "Q1148004",
+              "Q158699",
+              "Q159543",
+              "Q162870",
+              "Q175045",
+              "Q2382963",
+              "Q26842",
+              "Q27653",
+              "Q390754",
+              "Q476326",
+              "Q486957",
+              "Q5063962",
+              "Q527496",
+              "Q635430",
+              "Q683592",
+              "Q740169",
+              "Q811483",
+              "Q839307",
+              "Q9389446",
+              "Q940337",
+              "Q998268"
+            ]
+          },
+          {
+            "id": "Q244274#1",
+            "text": "Saje mízu rostlin.",
+            "cat": "potrava",
+            "not": [
+              "Q159543",
+              "Q162870",
+              "Q26842",
+              "Q390754",
+              "Q527496",
+              "Q635430",
+              "Q839307",
+              "Q940337"
+            ]
+          }
+        ],
+        "continents": [
+          "EU",
+          "AS",
+          "AF",
+          "NA",
+          "SA",
+          "OC"
+        ],
+        "pop": 48,
+        "emoji": "🪲"
+      },
+      {
         "id": "Q2450235",
         "name": "Smutník jílkový",
         "latin": "Penthophera morio",
@@ -315525,6 +316043,66 @@ window.GAME_DATA = [
           "OC"
         ],
         "pop": 48,
+        "emoji": "🪲"
+      },
+      {
+        "id": "Q2557995",
+        "name": "Mšice bavlníková",
+        "latin": "Aphis gossypii",
+        "family": "mšicovití",
+        "order": "polokřídlí",
+        "wiki": "https://cs.wikipedia.org/wiki/M%C5%A1ice_bavln%C3%ADkov%C3%A1",
+        "photos": [
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Aphis_gossypii02.jpg",
+            "author": "Clemson University - USDA Cooperative Extension Slide Series, United States",
+            "license": "Public domain",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Aphis_gossypii02.jpg/500px-Aphis_gossypii02.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Aphis_gossypii_252211094.jpg",
+            "author": "Alex Abair",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Aphis_gossypii_252211094.jpg/500px-Aphis_gossypii_252211094.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Aphis_gossypii_252211071.jpg",
+            "author": "Alex Abair",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Aphis_gossypii_252211071.jpg/500px-Aphis_gossypii_252211071.jpg"
+          }
+        ],
+        "facts": [
+          {
+            "id": "Q2557995#1",
+            "text": "Může mít až padesát generací za rok.",
+            "cat": "čísla",
+            "not": [
+              "Q11796194",
+              "Q1340609",
+              "Q2047011",
+              "Q2133916",
+              "Q2152896",
+              "Q265918",
+              "Q2940155",
+              "Q341135",
+              "Q486957",
+              "Q600498",
+              "Q608908",
+              "Q67687694",
+              "Q926409"
+            ]
+          }
+        ],
+        "continents": [
+          "EU",
+          "AS",
+          "AF",
+          "NA",
+          "SA",
+          "OC"
+        ],
+        "pop": 29,
         "emoji": "🪲"
       },
       {
@@ -316978,6 +317556,80 @@ window.GAME_DATA = [
         ],
         "pop": 19,
         "emoji": "🐝"
+      },
+      {
+        "id": "Q264998",
+        "name": "Zlatoočka obecná",
+        "latin": "Chrysoperla carnea",
+        "family": "Chrysopidae",
+        "order": "síťokřídlí",
+        "wiki": "https://cs.wikipedia.org/wiki/Zlatoo%C4%8Dka_obecn%C3%A1",
+        "photos": [
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:ChrysoperlaCarnea1.jpg",
+            "author": "Christian Fischer",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/ChrysoperlaCarnea1.jpg/500px-ChrysoperlaCarnea1.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Chrysoperla_carnea-MF.jpg",
+            "author": "Magne Flåten",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Chrysoperla_carnea-MF.jpg/500px-Chrysoperla_carnea-MF.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Chrysoperla_carnea_(41590336900).jpg",
+            "author": "Donald Hobern from Copenhagen, Denmark",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Chrysoperla_carnea_%2841590336900%29.jpg/500px-Chrysoperla_carnea_%2841590336900%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Chrysoperla,_carnea_complex_in_Riga_01.jpg",
+            "author": "Syrio",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Chrysoperla%2C_carnea_complex_in_Riga_01.jpg/500px-Chrysoperla%2C_carnea_complex_in_Riga_01.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Common_Green_Lacewing_-_Chrysoperla_carnea_(24643542710).jpg",
+            "author": "Line Sabroe from Denmark",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Common_Green_Lacewing_-_Chrysoperla_carnea_%2824643542710%29.jpg/500px-Common_Green_Lacewing_-_Chrysoperla_carnea_%2824643542710%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Chrysoperla_carnea_(35596945823).jpg",
+            "author": "Donald Hobern from Copenhagen, Denmark",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Chrysoperla_carnea_%2835596945823%29.jpg/500px-Chrysoperla_carnea_%2835596945823%29.jpg"
+          }
+        ],
+        "facts": [
+          {
+            "id": "Q264998#0",
+            "text": "Jedna larva za svůj vývoj zahubí 150 až 500 mšic.",
+            "cat": "čísla",
+            "not": [
+              "Q137324",
+              "Q1409595",
+              "Q1750802",
+              "Q232843",
+              "Q256218",
+              "Q428187",
+              "Q531946",
+              "Q67814938",
+              "Q912420",
+              "Q913064"
+            ]
+          }
+        ],
+        "continents": [
+          "EU",
+          "AS",
+          "AF",
+          "NA",
+          "SA"
+        ],
+        "pop": 26,
+        "emoji": "🦟"
       },
       {
         "id": "Q265918",
@@ -321314,6 +321966,97 @@ window.GAME_DATA = [
         "emoji": "🪲"
       },
       {
+        "id": "Q3649920",
+        "name": "Mravenec pasekový",
+        "latin": "Formica pressilabris",
+        "family": "mravencovití",
+        "order": "blanokřídlí",
+        "wiki": "https://cs.wikipedia.org/wiki/Mravenec_pasekov%C3%BD",
+        "photos": [
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Formica_pressilabriss_worker.jpg",
+            "author": "Nicolas Baudet",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Formica_pressilabriss_worker.jpg/500px-Formica_pressilabriss_worker.jpg"
+          }
+        ],
+        "facts": [
+          {
+            "id": "Q3649920#0",
+            "text": "Největším zdrojem energie jsou pro něj výměšky mšic.",
+            "cat": "potrava",
+            "not": [
+              "Q1318000",
+              "Q1542272",
+              "Q1909657",
+              "Q1911846",
+              "Q2239277",
+              "Q503989",
+              "Q655138",
+              "Q779383"
+            ]
+          },
+          {
+            "id": "Q3649920#1",
+            "text": "Opatruje mšice na stromech a keřích.",
+            "cat": "vztahy",
+            "not": [
+              "Q1318000",
+              "Q1542272",
+              "Q1909657",
+              "Q1911846",
+              "Q2239277",
+              "Q2561096",
+              "Q3410222",
+              "Q503989",
+              "Q655138",
+              "Q779383"
+            ]
+          },
+          {
+            "id": "Q3649920#2",
+            "text": "Oplodněná samička si může založit kolonii v hnízdě jiného druhu.",
+            "cat": "vztahy",
+            "not": [
+              "Q10508113",
+              "Q1071861",
+              "Q1130463",
+              "Q1353657",
+              "Q1416065",
+              "Q1500713",
+              "Q2382963",
+              "Q244274",
+              "Q573384",
+              "Q598996",
+              "Q645538",
+              "Q844036",
+              "Q998226"
+            ]
+          },
+          {
+            "id": "Q3649920#3",
+            "text": "Staví kupy, které mají většinou do 40 cm v průměru.",
+            "cat": "čísla",
+            "not": [
+              "Q1318000",
+              "Q1911846",
+              "Q2561096",
+              "Q3410222",
+              "Q503989",
+              "Q645538",
+              "Q655138",
+              "Q779383"
+            ]
+          }
+        ],
+        "continents": [
+          "EU",
+          "AS"
+        ],
+        "pop": 14,
+        "emoji": "🐜"
+      },
+      {
         "id": "Q3650925",
         "name": "Mravenec rašelinný",
         "latin": "Formica picea",
@@ -322568,6 +323311,60 @@ window.GAME_DATA = [
         ],
         "pop": 14,
         "emoji": "🪰"
+      },
+      {
+        "id": "Q402435",
+        "name": "Hřbetozubec břekový",
+        "latin": "Ptilodon cucullina",
+        "family": "hřbetozubcovití",
+        "order": "motýli",
+        "wiki": "https://cs.wikipedia.org/wiki/H%C5%99betozubec_b%C5%99ekov%C3%BD",
+        "photos": [
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Ptilodon_cucullina_male_Saarland_003.jpg",
+            "author": "Orchi",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Ptilodon_cucullina_male_Saarland_003.jpg/500px-Ptilodon_cucullina_male_Saarland_003.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Ptilodon_cucullina_male_Saarland_004.jpg",
+            "author": "Orchi",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Ptilodon_cucullina_male_Saarland_004.jpg/500px-Ptilodon_cucullina_male_Saarland_004.jpg"
+          }
+        ],
+        "facts": [
+          {
+            "id": "Q402435#0",
+            "text": "Housenky se živí hlavně listy stromů.",
+            "cat": "potrava",
+            "not": [
+              "Q1266127",
+              "Q1316205",
+              "Q286921",
+              "Q548472",
+              "Q608908",
+              "Q9394417"
+            ]
+          },
+          {
+            "id": "Q402435#1",
+            "text": "Nalétává na zdroje umělého světla.",
+            "cat": "chování",
+            "not": [
+              "Q1049370",
+              "Q1266127",
+              "Q1316205",
+              "Q286921",
+              "Q9394417"
+            ]
+          }
+        ],
+        "continents": [
+          "EU"
+        ],
+        "pop": 12,
+        "emoji": "🦋"
       },
       {
         "id": "Q41524",
@@ -328194,6 +328991,33 @@ window.GAME_DATA = [
         ],
         "pop": 36,
         "emoji": "🦟"
+      },
+      {
+        "id": "Q618315",
+        "name": "Vlnatka krvavá",
+        "latin": "Eriosoma lanigerum",
+        "family": "mšicovití",
+        "order": "polokřídlí",
+        "wiki": "https://cs.wikipedia.org/wiki/Vlnatka_krvav%C3%A1",
+        "photos": [
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Puceron-lanigere.JPG",
+            "author": "",
+            "license": "CC BY-SA 2.5",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Puceron-lanigere.JPG/500px-Puceron-lanigere.JPG"
+          }
+        ],
+        "facts": [],
+        "continents": [
+          "EU",
+          "AS",
+          "AF",
+          "NA",
+          "SA",
+          "OC"
+        ],
+        "pop": 23,
+        "emoji": "🪲"
       },
       {
         "id": "Q623150",
@@ -335009,6 +335833,57 @@ window.GAME_DATA = [
         ],
         "pop": 21,
         "emoji": "🪲"
+      },
+      {
+        "id": "Q882809",
+        "name": "Stužkonoska modrá",
+        "latin": "Catocala fraxini",
+        "family": "Q2068481",
+        "order": "motýli",
+        "wiki": "https://cs.wikipedia.org/wiki/Stu%C5%BEkonoska_modr%C3%A1",
+        "photos": [
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Catocala_fraxini_-_Blue_underwing_-_%D0%9E%D1%80%D0%B4%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BB%D0%B5%D0%BD%D1%82%D0%B0_%D0%B3%D0%BE%D0%BB%D1%83%D0%B1%D0%B0%D1%8F_(39971086705).jpg",
+            "author": "Ilia Ustyantsev",
+            "license": "CC BY-SA 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Catocala_fraxini_-_Blue_underwing_-_%D0%9E%D1%80%D0%B4%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BB%D0%B5%D0%BD%D1%82%D0%B0_%D0%B3%D0%BE%D0%BB%D1%83%D0%B1%D0%B0%D1%8F_%2839971086705%29.jpg/500px-Catocala_fraxini_-_Blue_underwing_-_%D0%9E%D1%80%D0%B4%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BB%D0%B5%D0%BD%D1%82%D0%B0_%D0%B3%D0%BE%D0%BB%D1%83%D0%B1%D0%B0%D1%8F_%2839971086705%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Catocala_fraxini_01a_(HS).JPG",
+            "author": "Harald Süpfle",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Catocala_fraxini_01a_%28HS%29.JPG/500px-Catocala_fraxini_01a_%28HS%29.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Blue_Underwing_(51409655875).jpg",
+            "author": "Ben Sale from Stevenage, UK",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Blue_Underwing_%2851409655875%29.jpg/500px-Blue_Underwing_%2851409655875%29.jpg"
+          }
+        ],
+        "facts": [
+          {
+            "id": "Q882809#0",
+            "text": "Tento druh je aktivní v noci.",
+            "cat": "chování",
+            "not": [
+              "Q1320946",
+              "Q579588"
+            ]
+          },
+          {
+            "id": "Q882809#1",
+            "text": "Se složenými křídly splývá s kůrou stromů.",
+            "cat": "chování",
+            "not": []
+          }
+        ],
+        "continents": [
+          "EU",
+          "AS"
+        ],
+        "pop": 28,
+        "emoji": "🦋"
       },
       {
         "id": "Q882849",
@@ -348428,6 +349303,12 @@ window.GAME_DATA = [
             "author": "Ryan Hodnett",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Big-eared_Radix_%28Radix_auricularia%29_-_Guelph%2C_Ontario_2014-05-22_%2801%29.jpg/500px-Big-eared_Radix_%28Radix_auricularia%29_-_Guelph%2C_Ontario_2014-05-22_%2801%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Radix_auricularia_01.JPG",
+            "author": "AfroBrazilian",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Radix_auricularia_01.JPG/500px-Radix_auricularia_01.JPG"
           }
         ],
         "facts": [
@@ -348636,6 +349517,12 @@ window.GAME_DATA = [
             "author": "Olivier Dugornay",
             "license": "CC BY 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Coquille_Saint-Jacques_%28Pecten_maximus%29_en_rade_de_Brest_%28Ifremer_00644-75660_-_30458%29.jpg/500px-Coquille_Saint-Jacques_%28Pecten_maximus%29_en_rade_de_Brest_%28Ifremer_00644-75660_-_30458%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Pecten_maximus_470495021.jpg",
+            "author": "Thomas Galewski",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Pecten_maximus_470495021.jpg/500px-Pecten_maximus_470495021.jpg"
           }
         ],
         "facts": [
@@ -348827,6 +349714,12 @@ window.GAME_DATA = [
             "author": "Ralf Lotys (Sicherlich)",
             "license": "CC BY 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/2021-07_Rezerwat_Smolnik_%287b%29_Succinea_putris.jpg/500px-2021-07_Rezerwat_Smolnik_%287b%29_Succinea_putris.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:2024-06_Rezerwat_Barucice_(09)_Succinea_putris.jpeg",
+            "author": "Ralf Lotys (Sicherlich)",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/2024-06_Rezerwat_Barucice_%2809%29_Succinea_putris.jpeg/500px-2024-06_Rezerwat_Barucice_%2809%29_Succinea_putris.jpeg"
           },
           {
             "page": "https://commons.wikimedia.org/wiki/File:Amber_snail_(51008947480).jpg",
@@ -349383,6 +350276,12 @@ window.GAME_DATA = [
         "wiki": "https://cs.wikipedia.org/wiki/P%C5%99%C3%ADlipka_miskov%C3%A1",
         "photos": [
           {
+            "page": "https://commons.wikimedia.org/wiki/File:Common_limpets1.jpg",
+            "author": "Tango22",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Common_limpets1.jpg/500px-Common_limpets1.jpg"
+          },
+          {
             "page": "https://commons.wikimedia.org/wiki/File:79Patella_vulgata.jpg",
             "author": "Emőke Dénes",
             "license": "CC BY-SA 4.0",
@@ -349616,6 +350515,12 @@ window.GAME_DATA = [
             "author": "Fritz Geller-Grimm",
             "license": "CC BY-SA 2.5",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Camargue_fg11.jpg/500px-Camargue_fg11.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Dried_snails_in_Malia_Greece.jpg",
+            "author": "This Photo was taken by Wolfgang Moroder . Feel free to use my photos, but pleas",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Dried_snails_in_Malia_Greece.jpg/500px-Dried_snails_in_Malia_Greece.jpg"
           }
         ],
         "facts": [
@@ -349958,6 +350863,12 @@ window.GAME_DATA = [
             "author": "Diego Delso",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Caracol_marino_%28Bolma_rugosa%29%2C_Sesimbra%2C_Portugal%2C_2025-08-01%2C_DD_03.jpg/500px-Caracol_marino_%28Bolma_rugosa%29%2C_Sesimbra%2C_Portugal%2C_2025-08-01%2C_DD_03.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Bolma_rugosa_Rote_Runzelstern_2.jpg",
+            "author": "Holger Krisp",
+            "license": "CC BY 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Bolma_rugosa_Rote_Runzelstern_2.jpg/500px-Bolma_rugosa_Rote_Runzelstern_2.jpg"
           },
           {
             "page": "https://commons.wikimedia.org/wiki/File:Caracol_marino_(Bolma_rugosa),_Parque_natural_de_la_Arr%C3%A1bida,_Portugal,_2022-07-22,_DD_17.jpg",
@@ -350342,6 +351253,12 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Aegopinella_nitidula_-_Gilles_San_Martin_-_484995941.jpeg/500px-Aegopinella_nitidula_-_Gilles_San_Martin_-_484995941.jpeg"
           },
           {
+            "page": "https://commons.wikimedia.org/wiki/File:Aegopinella_nitidula_(27404050945).jpg",
+            "author": "Donald Hobern from Copenhagen, Denmark",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Aegopinella_nitidula_%2827404050945%29.jpg/500px-Aegopinella_nitidula_%2827404050945%29.jpg"
+          },
+          {
             "page": "https://commons.wikimedia.org/wiki/File:Aegopinella_nitidula_(27128302740).jpg",
             "author": "Donald Hobern from Copenhagen, Denmark",
             "license": "CC BY 2.0",
@@ -350482,6 +351399,12 @@ window.GAME_DATA = [
             "author": "Boronian",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Helicigona_lapicida_Friedberg.jpg/500px-Helicigona_lapicida_Friedberg.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Lapidary_Snail_(Helicigona_lapicida)_-_B%C3%A6rum,_Norway_2021-06-01.jpg",
+            "author": "Ryan Hodnett",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Lapidary_Snail_%28Helicigona_lapicida%29_-_B%C3%A6rum%2C_Norway_2021-06-01.jpg/500px-Lapidary_Snail_%28Helicigona_lapicida%29_-_B%C3%A6rum%2C_Norway_2021-06-01.jpg"
           }
         ],
         "facts": [
@@ -350534,6 +351457,18 @@ window.GAME_DATA = [
             "author": "Cephas",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Cepaea_hortensis_UL_06.jpg/500px-Cepaea_hortensis_UL_06.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Schnecke-_gelb_(2_von_6).jpg",
+            "author": "KlixKlax",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Schnecke-_gelb_%282_von_6%29.jpg/500px-Schnecke-_gelb_%282_von_6%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Aestivating_snails_(Cepaea_hortensis)_in_Voerde-L%C3%B6hnen,_Germany_-_Flickr_-_reingestalter.jpg",
+            "author": "Daniel Ullrich from Köln, Germany",
+            "license": "CC BY-SA 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Aestivating_snails_%28Cepaea_hortensis%29_in_Voerde-L%C3%B6hnen%2C_Germany_-_Flickr_-_reingestalter.jpg/500px-Aestivating_snails_%28Cepaea_hortensis%29_in_Voerde-L%C3%B6hnen%2C_Germany_-_Flickr_-_reingestalter.jpg"
           },
           {
             "page": "https://commons.wikimedia.org/wiki/File:2009-10-24_(10)_Snail,_Schnecke.JPG",
@@ -350695,6 +351630,12 @@ window.GAME_DATA = [
             "author": "Claus Ableiter",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Posthornschnecke1.jpg/500px-Posthornschnecke1.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Planorbarius_corneus_(Great_Ramshorn_Snail),_Elst_(Gld),_the_Netherlands.jpg",
+            "author": "Bj.schoenmakers",
+            "license": "CC0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Planorbarius_corneus_%28Great_Ramshorn_Snail%29%2C_Elst_%28Gld%29%2C_the_Netherlands.jpg/500px-Planorbarius_corneus_%28Great_Ramshorn_Snail%29%2C_Elst_%28Gld%29%2C_the_Netherlands.jpg"
           }
         ],
         "facts": [
@@ -350724,10 +351665,28 @@ window.GAME_DATA = [
         "wiki": "https://cs.wikipedia.org/wiki/Ostranka_jadersk%C3%A1",
         "photos": [
           {
+            "page": "https://commons.wikimedia.org/wiki/File:Brandhorn_Bolinus_brandaris_3.jpg",
+            "author": "Holger Krisp",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Brandhorn_Bolinus_brandaris_3.jpg/500px-Brandhorn_Bolinus_brandaris_3.jpg"
+          },
+          {
             "page": "https://commons.wikimedia.org/wiki/File:Brandhorn_Bolinus_brandaris.jpg",
             "author": "Holger Krisp",
             "license": "CC BY 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Brandhorn_Bolinus_brandaris.jpg/500px-Brandhorn_Bolinus_brandaris.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Purple_Dye_Murex_(Murice_Spinoso)_(Bolinus_brandaris)_-_Cagliari,_Italy_2024-04-01_(02).jpg",
+            "author": "Ryan Hodnett",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Purple_Dye_Murex_%28Murice_Spinoso%29_%28Bolinus_brandaris%29_-_Cagliari%2C_Italy_2024-04-01_%2802%29.jpg/500px-Purple_Dye_Murex_%28Murice_Spinoso%29_%28Bolinus_brandaris%29_-_Cagliari%2C_Italy_2024-04-01_%2802%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Purple_Dye_Murex_(Murice_Spinoso)_(Bolinus_brandaris)_-_Cagliari,_Italy_2024-04-01_(01).jpg",
+            "author": "Ryan Hodnett",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Purple_Dye_Murex_%28Murice_Spinoso%29_%28Bolinus_brandaris%29_-_Cagliari%2C_Italy_2024-04-01_%2801%29.jpg/500px-Purple_Dye_Murex_%28Murice_Spinoso%29_%28Bolinus_brandaris%29_-_Cagliari%2C_Italy_2024-04-01_%2801%29.jpg"
           }
         ],
         "facts": [
@@ -350927,6 +351886,12 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Monodonta-turbinata.jpg/500px-Monodonta-turbinata.jpg"
           },
           {
+            "page": "https://commons.wikimedia.org/wiki/File:Osilinus_turbinatus.jpg",
+            "author": "tato grasso",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Osilinus_turbinatus.jpg/500px-Osilinus_turbinatus.jpg"
+          },
+          {
             "page": "https://commons.wikimedia.org/wiki/File:Phorcus_sp._-_Pollen%C3%A7a,_Spain_2022-04-15.jpg",
             "author": "Ryan Hodnett",
             "license": "CC BY-SA 4.0",
@@ -350979,6 +351944,18 @@ window.GAME_DATA = [
             "author": "Peterwchen",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Corbicula_fluminea-closed.jpg/500px-Corbicula_fluminea-closed.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Asiatic_clam_(Corbicula_fluminea)_from_Cache_Creek,_CA_(5210905488).jpg",
+            "author": "Franco Folini",
+            "license": "CC BY-SA 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Asiatic_clam_%28Corbicula_fluminea%29_from_Cache_Creek%2C_CA_%285210905488%29.jpg/500px-Asiatic_clam_%28Corbicula_fluminea%29_from_Cache_Creek%2C_CA_%285210905488%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Asian_Clam_(Corbicula_fluminea)_-_Mahwah,_New_Jersey_2023-01-18_(01).jpg",
+            "author": "Ryan Hodnett",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Asian_Clam_%28Corbicula_fluminea%29_-_Mahwah%2C_New_Jersey_2023-01-18_%2801%29.jpg/500px-Asian_Clam_%28Corbicula_fluminea%29_-_Mahwah%2C_New_Jersey_2023-01-18_%2801%29.jpg"
           }
         ],
         "facts": [
@@ -351182,6 +352159,12 @@ window.GAME_DATA = [
             "author": "Joel Berglund",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Group_of_Margaritifera_margaritifera.jpg/500px-Group_of_Margaritifera_margaritifera.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Margaritifera_margaritifera_Berglund.jpg",
+            "author": "Joel Berglund",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Margaritifera_margaritifera_Berglund.jpg/500px-Margaritifera_margaritifera_Berglund.jpg"
           },
           {
             "page": "https://commons.wikimedia.org/wiki/File:UV_Margaritifera_margaritifera.jpg",
@@ -352538,9 +353521,7 @@ window.GAME_DATA = [
             "id": "Q1317340#x0",
             "text": "Živí se rostlinným materiálem a drobnými vodními bezobratlými, například perloočkami.",
             "cat": "potrava",
-            "not": [
-              "Q4302742"
-            ]
+            "not": []
           },
           {
             "id": "Q1317340#x1",
@@ -353511,14 +354492,6 @@ window.GAME_DATA = [
             ]
           },
           {
-            "id": "Q287523#5",
-            "text": "Mladé jedince hubí pstruzi.",
-            "cat": "vztahy",
-            "not": [
-              "Q4302742"
-            ]
-          },
-          {
             "id": "Q287523#6",
             "text": "Plíseň způsobující račí mor ohrožuje tento druh.",
             "cat": "vztahy",
@@ -353638,12 +354611,8 @@ window.GAME_DATA = [
             "cat": "výskyt",
             "not": [
               "Q1300629",
-              "Q136116",
-              "Q1472053",
               "Q1646839",
-              "Q206070",
-              "Q3643627",
-              "Q61642001"
+              "Q206070"
             ]
           },
           {
@@ -353777,7 +354746,6 @@ window.GAME_DATA = [
               "Q1317340",
               "Q132808",
               "Q135052",
-              "Q136116",
               "Q1472053",
               "Q1646839",
               "Q27765",
@@ -354089,8 +355057,7 @@ window.GAME_DATA = [
             "cat": "čísla",
             "not": [
               "Q136116",
-              "Q1646839",
-              "Q61642001"
+              "Q1646839"
             ]
           },
           {
@@ -354105,8 +355072,7 @@ window.GAME_DATA = [
             "cat": "potrava",
             "not": [
               "Q1472053",
-              "Q3643627",
-              "Q4302742"
+              "Q3643627"
             ]
           },
           {
@@ -354247,13 +355213,11 @@ window.GAME_DATA = [
             "cat": "chování",
             "not": [
               "Q1300629",
-              "Q136116",
               "Q1573371",
               "Q27690",
               "Q37668",
               "Q43735",
               "Q585024",
-              "Q61642001",
               "Q720580",
               "Q720597",
               "Q752188"
@@ -411121,6 +412085,7 @@ window.GAME_DATA = [
             "cat": "výskyt",
             "not": [
               "Q140350",
+              "Q146224",
               "Q867250"
             ]
           }
@@ -443245,9 +444210,7 @@ window.GAME_DATA = [
             "id": "Q19733#x4",
             "text": "Roste téměř po celém světě, v Americe, Evropě, Asii, Africe i Austrálii.",
             "cat": "výskyt",
-            "not": [
-              "Q2030523"
-            ]
+            "not": []
           }
         ],
         "continents": [
@@ -444914,16 +445877,7 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Mollisia_cinerea1.jpg/500px-Mollisia_cinerea1.jpg"
           }
         ],
-        "facts": [
-          {
-            "id": "Q722657#0",
-            "text": "Roste od dubna do října na tlejícím dřevě listnatých stromů.",
-            "cat": "růst",
-            "not": [
-              "Q2030523"
-            ]
-          }
-        ],
+        "facts": [],
         "continents": [
           "EU",
           "AS",
@@ -623009,8 +623963,7 @@ window.GAME_DATA = [
             "cat": "výskyt",
             "not": [
               "Q1192350",
-              "Q445245",
-              "Q935234"
+              "Q445245"
             ]
           }
         ],

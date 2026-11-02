@@ -1,0 +1,650 @@
+[
+ {
+  "id": "Q139928#1",
+  "species": "Yersinia pseudotuberculosis",
+  "latin": "Yersinia pseudotuberculosis",
+  "text": "Rychle hyne na slunečním světle, v suchu i v teple.",
+  "quote": "je rychle inaktivována slunečním světlem, suchem, teplem",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q140004#0",
+  "species": "Serratia marcescens",
+  "latin": "Serratia marcescens",
+  "text": "Živí se mastnými látkami, například zbytky mýdla.",
+  "quote": "mastnými látkami, jako jsou zbytky mýdla",
+  "claimed_false_for": {
+   "Q131065": "Chlamydia trachomatis (Chlamydia trachomatis)",
+   "Q156007": "Treponema pallidum (Treponema pallidum)",
+   "Q18645284": "Prochlorococcus (Prochlorococcus)"
+  }
+ },
+ {
+  "id": "Q140004#1",
+  "species": "Serratia marcescens",
+  "latin": "Serratia marcescens",
+  "text": "U lidí může způsobit infekce močových cest, dýchacích cest a ran.",
+  "quote": "U lidí může S. marcescens způsobit oportunní infekce na několika místech, včetně močových cest, dýchacích cest, ran",
+  "claimed_false_for": {
+   "Q131904999": "Isospora jaracimrmani (Isospora jaracimrmani)",
+   "Q134950": "Vápenatka mnohohlavá (Physarum polycephalum)",
+   "Q136904": "Emiliania huxleyi (Emiliania huxleyi)",
+   "Q3898962": "Měňavka bahenní (Pelomyxa palustris)",
+   "Q830142": "Rhizobium (Rhizobium)"
+  }
+ },
+ {
+  "id": "Q140004#2",
+  "species": "Serratia marcescens",
+  "latin": "Serratia marcescens",
+  "text": "Může způsobit smrtelnou nemoc bource morušového.",
+  "quote": "Může způsobovat smrtelná onemocnění bource morušového",
+  "claimed_false_for": {
+   "Q131065": "Chlamydia trachomatis (Chlamydia trachomatis)",
+   "Q131129": "Neisseria gonorrhoeae (Neisseria gonorrhoeae)",
+   "Q154625": "Neisseria meningitidis (Neisseria meningitidis)",
+   "Q156007": "Treponema pallidum (Treponema pallidum)",
+   "Q18645284": "Prochlorococcus (Prochlorococcus)",
+   "Q311435": "Herminiimonas glaciei (Herminiimonas glaciei)",
+   "Q520210": "Vlčí mléko červené (Lycogala epidendrum)"
+  }
+ },
+ {
+  "id": "Q141236#0",
+  "species": "Vakovka lidská",
+  "latin": "Balantidium coli",
+  "text": "Žije hlavně v tlustém střevě prasat domácích.",
+  "quote": "Balantidium coli se vyskytuje převážně v tlustém střevě prasat domácích",
+  "claimed_false_for": {
+   "Q132434": "Acetobacter (Acetobacter)",
+   "Q146310": "Pyrococcus furiosus (Pyrococcus furiosus)",
+   "Q19253007": "Kožovec rybí (Ichthyophthirius multifiliis)",
+   "Q1950715": "Leishmania major (Leishmania major)",
+   "Q1954952": "Micrococcus (Micrococcus)",
+   "Q2442109": "Propionibacterium acnes (Cutibacterium acnes)",
+   "Q2706492": "Trepka velká (Paramecium caudatum)",
+   "Q311376": "Plasmodium vivax (Plasmodium vivax)",
+   "Q3492461": "Plíseň kokosová (Phytophthora palmivora)"
+  }
+ },
+ {
+  "id": "Q141236#1",
+  "species": "Vakovka lidská",
+  "latin": "Balantidium coli",
+  "text": "Živí se škrobovými zrny a buněčným detritem.",
+  "quote": "Balantidium se živí škrobovými zrny, buněčným detritem",
+  "claimed_false_for": {
+   "Q19253007": "Kožovec rybí (Ichthyophthirius multifiliis)",
+   "Q1950715": "Leishmania major (Leishmania major)",
+   "Q311376": "Plasmodium vivax (Plasmodium vivax)",
+   "Q3492461": "Plíseň kokosová (Phytophthora palmivora)"
+  }
+ },
+ {
+  "id": "Q141236#2",
+  "species": "Vakovka lidská",
+  "latin": "Balantidium coli",
+  "text": "Výjimečně se přenáší i na krysy, opice a člověka.",
+  "quote": "Výjimečně může dojít k přenosu na krysy, opice, divoká prasata, klokany a člověka.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q141236#3",
+  "species": "Vakovka lidská",
+  "latin": "Balantidium coli",
+  "text": "Cysty mají silnou dvojitou stěnu.",
+  "quote": "Mají silnou dvojitou stěnu, tlustou 400-500 nm.",
+  "claimed_false_for": {
+   "Q132434": "Acetobacter (Acetobacter)",
+   "Q132592": "Klebsiella pneumoniae (Klebsiella pneumoniae)",
+   "Q146310": "Pyrococcus furiosus (Pyrococcus furiosus)",
+   "Q1950715": "Leishmania major (Leishmania major)",
+   "Q1954952": "Micrococcus (Micrococcus)",
+   "Q2442109": "Propionibacterium acnes (Cutibacterium acnes)",
+   "Q309471": "Clostridium tetani (Clostridium tetani)"
+  }
+ },
+ {
+  "id": "Q142705#1",
+  "species": "Stenotrophomonas maltophilia",
+  "latin": "Stenotrophomonas maltophilia",
+  "text": "Vzácně se vyskytuje i u papouška vlnkovaného.",
+  "quote": "Stenotrophomonas maltophilia je ojediněle prokazována i u některých živočichů, např. papoušků vlnkovaných",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q142705#2",
+  "species": "Stenotrophomonas maltophilia",
+  "latin": "Stenotrophomonas maltophilia",
+  "text": "Je všudypřítomná ve vlhku, v půdě i v rostlinách.",
+  "quote": "S. maltophilia je všudypřítomná ve vlhkém prostředí, v půdě a rostlinách",
+  "claimed_false_for": {
+   "Q131271": "Streptococcus pyogenes (Streptococcus pyogenes)",
+   "Q133548": "Desulforudis audaxviator (Desulforudis audaxviator)",
+   "Q15078733": "Kokcidie jaterní (Eimeria stiedai)",
+   "Q3018329": "Orientia tsutsugamushi (Orientia tsutsugamushi)",
+   "Q836301": "Brucella suis (Brucella suis)"
+  }
+ },
+ {
+  "id": "Q14565729#0",
+  "species": "Spirulina",
+  "latin": "Spirulina",
+  "text": "Vyskytují se převážně v tropických a subtropických jezerech.",
+  "quote": "Vyskytují se převážně v tropických a subtropických jezerech",
+  "claimed_false_for": {
+   "Q131027": "Měňavka úplavičná (Entamoeba histolytica)",
+   "Q131129": "Neisseria gonorrhoeae (Neisseria gonorrhoeae)",
+   "Q131238": "Bacillus subtilis (Bacillus subtilis)",
+   "Q135175": "Nocardia (Nocardia)",
+   "Q137103": "Bordetella pertussis (Bordetella pertussis)",
+   "Q180556": "Helicobacter pylori (Helicobacter pylori)",
+   "Q309471": "Clostridium tetani (Clostridium tetani)",
+   "Q311435": "Herminiimonas glaciei (Herminiimonas glaciei)",
+   "Q62895951": "Enterobacter aerogenes (Enterobacter aerogenes)",
+   "Q7848579": "Trypanosoma potkaní (Trypanosoma lewisi)"
+  }
+ },
+ {
+  "id": "Q14565729#1",
+  "species": "Spirulina",
+  "latin": "Spirulina",
+  "text": "Vlákna jsou stočena v levotočivou šroubovici.",
+  "quote": "Vlákna jsou stočena v levotočivou šroubovici.",
+  "claimed_false_for": {
+   "Q131027": "Měňavka úplavičná (Entamoeba histolytica)",
+   "Q131129": "Neisseria gonorrhoeae (Neisseria gonorrhoeae)",
+   "Q137103": "Bordetella pertussis (Bordetella pertussis)",
+   "Q19253007": "Kožovec rybí (Ichthyophthirius multifiliis)",
+   "Q309471": "Clostridium tetani (Clostridium tetani)",
+   "Q311435": "Herminiimonas glaciei (Herminiimonas glaciei)",
+   "Q62895951": "Enterobacter aerogenes (Enterobacter aerogenes)",
+   "Q7848579": "Trypanosoma potkaní (Trypanosoma lewisi)"
+  }
+ },
+ {
+  "id": "Q146310#0",
+  "species": "Pyrococcus furiosus",
+  "latin": "Pyrococcus furiosus",
+  "text": "Dokáže růst při teplotách 70 až 103 °C.",
+  "quote": "Je schopný růst v teplotním rozmezí 70 až 103 °C",
+  "claimed_false_for": {
+   "Q1198419": "Tetrahymena (Tetrahymena)",
+   "Q131273": "Naegleria fowleri (Naegleria fowleri)",
+   "Q132595": "Bičenka poševní (Trichomonas vaginalis)",
+   "Q148710": "Šroubatka (Spirogyra)",
+   "Q2133435": "Zrněnka (Pleurococcus)",
+   "Q25419": "Escherichia coli (Escherichia coli)",
+   "Q2706492": "Trepka velká (Paramecium caudatum)",
+   "Q288725": "Trepka zelená (Paramecium bursaria)",
+   "Q3492461": "Plíseň kokosová (Phytophthora palmivora)",
+   "Q627992": "Rickettsia (Rickettsia)",
+   "Q6646558": "Listonella anguillarum (Listonella anguillarum)"
+  }
+ },
+ {
+  "id": "Q146310#1",
+  "species": "Pyrococcus furiosus",
+  "latin": "Pyrococcus furiosus",
+  "text": "Jako zdroj uhlíku dává přednost sacharidům, například škrobu.",
+  "quote": "preference sacharidů (škrobu, oligosacharidů) jako zdroje uhlíku",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q146310#2",
+  "species": "Pyrococcus furiosus",
+  "latin": "Pyrococcus furiosus",
+  "text": "Má enzym, který se používá ke kopírování DNA v laboratořích.",
+  "quote": "Významným enzymem z P. furiosus je Pfu DNA-polymeráza, využívaná v polymerázové řetězové reakci (PCR)",
+  "claimed_false_for": {
+   "Q1198419": "Tetrahymena (Tetrahymena)",
+   "Q131273": "Naegleria fowleri (Naegleria fowleri)",
+   "Q132595": "Bičenka poševní (Trichomonas vaginalis)",
+   "Q148710": "Šroubatka (Spirogyra)",
+   "Q2133435": "Zrněnka (Pleurococcus)",
+   "Q2706492": "Trepka velká (Paramecium caudatum)",
+   "Q288725": "Trepka zelená (Paramecium bursaria)",
+   "Q3492461": "Plíseň kokosová (Phytophthora palmivora)",
+   "Q627992": "Rickettsia (Rickettsia)",
+   "Q6646558": "Listonella anguillarum (Listonella anguillarum)"
+  }
+ },
+ {
+  "id": "Q146310#3",
+  "species": "Pyrococcus furiosus",
+  "latin": "Pyrococcus furiosus",
+  "text": "Tento druh byl poprvé izolován z horkých mořských sedimentů.",
+  "quote": "byl poprvé izolován z horkých mořských sedimentů",
+  "claimed_false_for": {
+   "Q1198419": "Tetrahymena (Tetrahymena)",
+   "Q131273": "Naegleria fowleri (Naegleria fowleri)",
+   "Q132595": "Bičenka poševní (Trichomonas vaginalis)",
+   "Q148710": "Šroubatka (Spirogyra)",
+   "Q2133435": "Zrněnka (Pleurococcus)",
+   "Q25419": "Escherichia coli (Escherichia coli)",
+   "Q2706492": "Trepka velká (Paramecium caudatum)",
+   "Q288725": "Trepka zelená (Paramecium bursaria)",
+   "Q3492461": "Plíseň kokosová (Phytophthora palmivora)",
+   "Q627992": "Rickettsia (Rickettsia)",
+   "Q6646558": "Listonella anguillarum (Listonella anguillarum)"
+  }
+ },
+ {
+  "id": "Q148561#0",
+  "species": "Bartonella quintana",
+  "latin": "Bartonella quintana",
+  "text": "Tento druh se přenáší vší šatní.",
+  "quote": "přenášen vší šatní",
+  "claimed_false_for": {
+   "Q131904999": "Isospora jaracimrmani (Isospora jaracimrmani)",
+   "Q135177": "Yersinia enterocolitica (Yersinia enterocolitica)",
+   "Q139227": "Burkholderia cepacia (Burkholderia cepacia)",
+   "Q142705": "Stenotrophomonas maltophilia (Stenotrophomonas maltophilia)",
+   "Q150162": "Trypanosoma cruzi (Trypanosoma cruzi)",
+   "Q150962": "Synechococcus (Synechococcus)",
+   "Q155891": "Mycobacterium leprae (Mycobacterium leprae)",
+   "Q1950752": "Leishmania donovani (Leishmania donovani)",
+   "Q310363": "Coccomyxa (Coccomyxa)",
+   "Q3492461": "Plíseň kokosová (Phytophthora palmivora)",
+   "Q3898962": "Měňavka bahenní (Pelomyxa palustris)",
+   "Q81062864": "Anabaena flos-aquae (Anabaena flos-aquae)"
+  }
+ },
+ {
+  "id": "Q148561#1",
+  "species": "Bartonella quintana",
+  "latin": "Bartonella quintana",
+  "text": "Způsobuje zákopovou horečku.",
+  "quote": "Tato bakterie je původcem tzv. zákopové horečky.",
+  "claimed_false_for": {
+   "Q131904999": "Isospora jaracimrmani (Isospora jaracimrmani)",
+   "Q135177": "Yersinia enterocolitica (Yersinia enterocolitica)",
+   "Q139227": "Burkholderia cepacia (Burkholderia cepacia)",
+   "Q142705": "Stenotrophomonas maltophilia (Stenotrophomonas maltophilia)",
+   "Q150162": "Trypanosoma cruzi (Trypanosoma cruzi)",
+   "Q150962": "Synechococcus (Synechococcus)",
+   "Q155891": "Mycobacterium leprae (Mycobacterium leprae)",
+   "Q1950752": "Leishmania donovani (Leishmania donovani)",
+   "Q310363": "Coccomyxa (Coccomyxa)",
+   "Q3492461": "Plíseň kokosová (Phytophthora palmivora)",
+   "Q3898962": "Měňavka bahenní (Pelomyxa palustris)",
+   "Q81062864": "Anabaena flos-aquae (Anabaena flos-aquae)"
+  }
+ },
+ {
+  "id": "Q148710#0",
+  "species": "Šroubatka",
+  "latin": "Spirogyra",
+  "text": "Chloroplasty jsou uspořádané do šroubovice.",
+  "quote": "pojmenovaných podle charakteristického uspořádání chloroplastů do šroubovice",
+  "claimed_false_for": {
+   "Q104443866": "Nannochloropsis gaditana (Nannochloropsis gaditana)",
+   "Q1152218": "Acanthamoeba (Acanthamoeba)",
+   "Q25419": "Escherichia coli (Escherichia coli)",
+   "Q292015": "Listeria monocytogenes (Listeria monocytogenes)",
+   "Q3489113": "Achlya (Achlya)",
+   "Q3898962": "Měňavka bahenní (Pelomyxa palustris)",
+   "Q627992": "Rickettsia (Rickettsia)",
+   "Q653846": "Trebouxia (Trebouxia)",
+   "Q6646558": "Listonella anguillarum (Listonella anguillarum)",
+   "Q68528412": "Cryptobia helicis (Cryptobia helicis)",
+   "Q78611696": "Chaos carolinensis (Chaos carolinense)",
+   "Q941131": "Nanobakterie (Nanobacterium)"
+  }
+ },
+ {
+  "id": "Q148710#1",
+  "species": "Šroubatka",
+  "latin": "Spirogyra",
+  "text": "Na tomto druhu se shlukují bakterie tam, kde vzniká kyslík.",
+  "quote": "Na povrchu šroubatky se bakterie shlukovaly právě nad osvětlenými chloroplasty, které produkovaly kyslík.",
+  "claimed_false_for": {
+   "Q1152218": "Acanthamoeba (Acanthamoeba)",
+   "Q25419": "Escherichia coli (Escherichia coli)",
+   "Q292015": "Listeria monocytogenes (Listeria monocytogenes)",
+   "Q3489113": "Achlya (Achlya)",
+   "Q3898962": "Měňavka bahenní (Pelomyxa palustris)",
+   "Q627992": "Rickettsia (Rickettsia)",
+   "Q6646558": "Listonella anguillarum (Listonella anguillarum)",
+   "Q68528412": "Cryptobia helicis (Cryptobia helicis)",
+   "Q78611696": "Chaos carolinensis (Chaos carolinense)",
+   "Q941131": "Nanobakterie (Nanobacterium)"
+  }
+ },
+ {
+  "id": "Q148731#0",
+  "species": "Aliivibrio fischeri",
+  "latin": "Aliivibrio fischeri",
+  "text": "Žije v symbióze s olihní sepiolou kropenatou.",
+  "quote": "Bakterie proslula svým symbiotickým vztahem s olihní sepiolou kropenatou",
+  "claimed_false_for": {
+   "Q129496606": "Leishmania martiniquensis (Leishmania martiniquensis)",
+   "Q139928": "Yersinia pseudotuberculosis (Yersinia pseudotuberculosis)",
+   "Q155891": "Mycobacterium leprae (Mycobacterium leprae)",
+   "Q1756496": "Blastocystis (Blastocystis)",
+   "Q221179": "Streptococcus pneumoniae (Streptococcus pneumoniae)",
+   "Q288725": "Trepka zelená (Paramecium bursaria)",
+   "Q3018329": "Orientia tsutsugamushi (Orientia tsutsugamushi)",
+   "Q5201274": "Cystoisospora (Cystoisospora)"
+  }
+ },
+ {
+  "id": "Q148731#1",
+  "species": "Aliivibrio fischeri",
+  "latin": "Aliivibrio fischeri",
+  "text": "Žije v mořské vodě.",
+  "quote": "která se vyskytuje v mořské vodě",
+  "claimed_false_for": {
+   "Q129496606": "Leishmania martiniquensis (Leishmania martiniquensis)",
+   "Q155891": "Mycobacterium leprae (Mycobacterium leprae)",
+   "Q1756496": "Blastocystis (Blastocystis)",
+   "Q221179": "Streptococcus pneumoniae (Streptococcus pneumoniae)",
+   "Q288725": "Trepka zelená (Paramecium bursaria)",
+   "Q3018329": "Orientia tsutsugamushi (Orientia tsutsugamushi)",
+   "Q5201274": "Cystoisospora (Cystoisospora)"
+  }
+ },
+ {
+  "id": "Q150162#0",
+  "species": "Trypanosoma cruzi",
+  "latin": "Trypanosoma cruzi",
+  "text": "Způsobuje Chagasovu chorobu.",
+  "quote": "původce Chagasovy choroby čili americké trypanozomiázy",
+  "claimed_false_for": {
+   "Q1114305": "Haemophilus ducreyi (Haemophilus ducreyi)",
+   "Q131029": "Shigella (Shigella)",
+   "Q131268": "Clostridium botulinum (Clostridium botulinum)",
+   "Q131649": "Corynebacterium diphtheriae (Corynebacterium diphtheriae)",
+   "Q132592": "Klebsiella pneumoniae (Klebsiella pneumoniae)",
+   "Q135175": "Nocardia (Nocardia)",
+   "Q236001": "Krásnoočko (Euglena)",
+   "Q2442109": "Propionibacterium acnes (Cutibacterium acnes)",
+   "Q264363": "Měňavka ústní (Entamoeba gingivalis)",
+   "Q311376": "Plasmodium vivax (Plasmodium vivax)",
+   "Q6646558": "Listonella anguillarum (Listonella anguillarum)",
+   "Q830142": "Rhizobium (Rhizobium)"
+  }
+ },
+ {
+  "id": "Q150162#1",
+  "species": "Trypanosoma cruzi",
+  "latin": "Trypanosoma cruzi",
+  "text": "Přenašeči jsou ploštice zákeřnice.",
+  "quote": "Přenašeči těchto prvoků jsou ploštice zákeřnice",
+  "claimed_false_for": {
+   "Q1114305": "Haemophilus ducreyi (Haemophilus ducreyi)",
+   "Q131029": "Shigella (Shigella)",
+   "Q131268": "Clostridium botulinum (Clostridium botulinum)",
+   "Q131649": "Corynebacterium diphtheriae (Corynebacterium diphtheriae)",
+   "Q132592": "Klebsiella pneumoniae (Klebsiella pneumoniae)",
+   "Q135175": "Nocardia (Nocardia)",
+   "Q236001": "Krásnoočko (Euglena)",
+   "Q2442109": "Propionibacterium acnes (Cutibacterium acnes)",
+   "Q264363": "Měňavka ústní (Entamoeba gingivalis)",
+   "Q311376": "Plasmodium vivax (Plasmodium vivax)",
+   "Q6646558": "Listonella anguillarum (Listonella anguillarum)",
+   "Q830142": "Rhizobium (Rhizobium)"
+  }
+ },
+ {
+  "id": "Q15078733#1",
+  "species": "Kokcidie jaterní",
+  "latin": "Eimeria stiedai",
+  "text": "Může u králíků způsobit žloutenku.",
+  "quote": "tím i ke žloutence",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q15078733#2",
+  "species": "Kokcidie jaterní",
+  "latin": "Eimeria stiedai",
+  "text": "Nejvíce ohroženi jsou malí králíčci po odstavu.",
+  "quote": "Nebezpečí hrozí zejména u malých králíčků po odstavu",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q15078733#3",
+  "species": "Kokcidie jaterní",
+  "latin": "Eimeria stiedai",
+  "text": "Celý životní cyklus trvá asi 7 dní.",
+  "quote": "Celý cyklus trvá přibližně 7 dní.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q150954#0",
+  "species": "Prototheca",
+  "latin": "Prototheca",
+  "text": "Najde se v půdě i ve vodě.",
+  "quote": "Bývají izolovány z půdních i vodních vzorků.",
+  "claimed_false_for": {
+   "Q5233857": "Theileria (Theileria)"
+  }
+ },
+ {
+  "id": "Q150954#1",
+  "species": "Prototheca",
+  "latin": "Prototheca",
+  "text": "Některé druhy žijí jako paraziti a způsobují vzácné infekce.",
+  "quote": "dva takoví zástupci žijí paraziticky a způsobují vzácné infekce i u člověka.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q150962#0",
+  "species": "Synechococcus",
+  "latin": "Synechococcus",
+  "text": "Žije ve sladké i slané vodě.",
+  "quote": "běžných ve vodním (sladkém i slaném) prostředí",
+  "claimed_false_for": {
+   "Q1153950": "Hepatozoon (Hepatozoon)",
+   "Q136904": "Emiliania huxleyi (Emiliania huxleyi)",
+   "Q148561": "Bartonella quintana (Bartonella quintana)",
+   "Q148731": "Aliivibrio fischeri (Aliivibrio fischeri)",
+   "Q311383": "Plasmodium falciparum (Plasmodium falciparum)",
+   "Q3898962": "Měňavka bahenní (Pelomyxa palustris)"
+  }
+ },
+ {
+  "id": "Q150962#1",
+  "species": "Synechococcus",
+  "latin": "Synechococcus",
+  "text": "Velikostí dosahuje 0,8 až 1,5 µm.",
+  "quote": "Dosahují velikostí od 0,8 µm do 1,5 µm.",
+  "claimed_false_for": {
+   "Q1152218": "Acanthamoeba (Acanthamoeba)",
+   "Q150954": "Prototheca (Prototheca)",
+   "Q3898962": "Měňavka bahenní (Pelomyxa palustris)"
+  }
+ },
+ {
+  "id": "Q153875#0",
+  "species": "Yersinia pestis",
+  "latin": "Yersinia pestis",
+  "text": "Tento druh se přenáší blechami, které napadají hlodavce.",
+  "quote": "Y. pestis se přenáší blechami (druhy Pulex irritans, Xenopsylla cheopis) napadajícími hlodavce, hlavně krysy.",
+  "claimed_false_for": {
+   "Q1061596": "Lactobacillus (Lactobacillus)",
+   "Q130971": "Mycobacterium tuberculosis (Mycobacterium tuberculosis)",
+   "Q131003": "Toxoplasma gondii (Toxoplasma gondii)",
+   "Q131027": "Měňavka úplavičná (Entamoeba histolytica)",
+   "Q131029": "Shigella (Shigella)",
+   "Q131273": "Naegleria fowleri (Naegleria fowleri)",
+   "Q131904999": "Isospora jaracimrmani (Isospora jaracimrmani)",
+   "Q132592": "Klebsiella pneumoniae (Klebsiella pneumoniae)",
+   "Q134950": "Vápenatka mnohohlavá (Physarum polycephalum)",
+   "Q136904": "Emiliania huxleyi (Emiliania huxleyi)",
+   "Q156007": "Treponema pallidum (Treponema pallidum)",
+   "Q160821": "Vibrio cholerae (Vibrio cholerae)",
+   "Q180556": "Helicobacter pylori (Helicobacter pylori)",
+   "Q221179": "Streptococcus pneumoniae (Streptococcus pneumoniae)",
+   "Q25419": "Escherichia coli (Escherichia coli)",
+   "Q3512031": "Brucella melitensis (Brucella melitensis)",
+   "Q3898962": "Měňavka bahenní (Pelomyxa palustris)",
+   "Q5201274": "Cystoisospora (Cystoisospora)",
+   "Q614156": "Bacillus anthracis (Bacillus anthracis)",
+   "Q830142": "Rhizobium (Rhizobium)"
+  }
+ },
+ {
+  "id": "Q153875#1",
+  "species": "Yersinia pestis",
+  "latin": "Yersinia pestis",
+  "text": "V přírodě udržují některé druhy hlodavců.",
+  "quote": "Rezervoáry spojené s Y. pestis jsou některé druhy hlodavců.",
+  "claimed_false_for": {
+   "Q1061596": "Lactobacillus (Lactobacillus)",
+   "Q131027": "Měňavka úplavičná (Entamoeba histolytica)",
+   "Q131029": "Shigella (Shigella)",
+   "Q131273": "Naegleria fowleri (Naegleria fowleri)",
+   "Q131904999": "Isospora jaracimrmani (Isospora jaracimrmani)",
+   "Q134950": "Vápenatka mnohohlavá (Physarum polycephalum)",
+   "Q136904": "Emiliania huxleyi (Emiliania huxleyi)",
+   "Q160821": "Vibrio cholerae (Vibrio cholerae)",
+   "Q180556": "Helicobacter pylori (Helicobacter pylori)",
+   "Q188121": "Staphylococcus aureus (Staphylococcus aureus)",
+   "Q221179": "Streptococcus pneumoniae (Streptococcus pneumoniae)",
+   "Q236001": "Krásnoočko (Euglena)",
+   "Q3898962": "Měňavka bahenní (Pelomyxa palustris)",
+   "Q614156": "Bacillus anthracis (Bacillus anthracis)",
+   "Q830142": "Rhizobium (Rhizobium)"
+  }
+ },
+ {
+  "id": "Q153875#4",
+  "species": "Yersinia pestis",
+  "latin": "Yersinia pestis",
+  "text": "Způsobuje mor u lidí.",
+  "quote": "Lidské infekce Yersinií pestis, způsobující mor",
+  "claimed_false_for": {
+   "Q1061596": "Lactobacillus (Lactobacillus)",
+   "Q130971": "Mycobacterium tuberculosis (Mycobacterium tuberculosis)",
+   "Q131003": "Toxoplasma gondii (Toxoplasma gondii)",
+   "Q131027": "Měňavka úplavičná (Entamoeba histolytica)",
+   "Q131065": "Chlamydia trachomatis (Chlamydia trachomatis)",
+   "Q131129": "Neisseria gonorrhoeae (Neisseria gonorrhoeae)",
+   "Q131273": "Naegleria fowleri (Naegleria fowleri)",
+   "Q154625": "Neisseria meningitidis (Neisseria meningitidis)",
+   "Q156007": "Treponema pallidum (Treponema pallidum)",
+   "Q160821": "Vibrio cholerae (Vibrio cholerae)",
+   "Q180556": "Helicobacter pylori (Helicobacter pylori)",
+   "Q18645284": "Prochlorococcus (Prochlorococcus)",
+   "Q188121": "Staphylococcus aureus (Staphylococcus aureus)",
+   "Q221179": "Streptococcus pneumoniae (Streptococcus pneumoniae)",
+   "Q236001": "Krásnoočko (Euglena)",
+   "Q311435": "Herminiimonas glaciei (Herminiimonas glaciei)",
+   "Q520210": "Vlčí mléko červené (Lycogala epidendrum)",
+   "Q614156": "Bacillus anthracis (Bacillus anthracis)"
+  }
+ },
+ {
+  "id": "Q153875#5",
+  "species": "Yersinia pestis",
+  "latin": "Yersinia pestis",
+  "text": "Při Černé smrti zemřela nejméně třetina evropské populace.",
+  "quote": "Černé smrti, jež zahubila nejméně třetinu evropské populace",
+  "claimed_false_for": {
+   "Q1061596": "Lactobacillus (Lactobacillus)",
+   "Q130971": "Mycobacterium tuberculosis (Mycobacterium tuberculosis)",
+   "Q131003": "Toxoplasma gondii (Toxoplasma gondii)",
+   "Q131065": "Chlamydia trachomatis (Chlamydia trachomatis)",
+   "Q131129": "Neisseria gonorrhoeae (Neisseria gonorrhoeae)",
+   "Q154625": "Neisseria meningitidis (Neisseria meningitidis)",
+   "Q156007": "Treponema pallidum (Treponema pallidum)",
+   "Q160821": "Vibrio cholerae (Vibrio cholerae)",
+   "Q180556": "Helicobacter pylori (Helicobacter pylori)",
+   "Q18645284": "Prochlorococcus (Prochlorococcus)",
+   "Q188121": "Staphylococcus aureus (Staphylococcus aureus)",
+   "Q221179": "Streptococcus pneumoniae (Streptococcus pneumoniae)",
+   "Q236001": "Krásnoočko (Euglena)",
+   "Q25419": "Escherichia coli (Escherichia coli)",
+   "Q311435": "Herminiimonas glaciei (Herminiimonas glaciei)",
+   "Q520210": "Vlčí mléko červené (Lycogala epidendrum)",
+   "Q614156": "Bacillus anthracis (Bacillus anthracis)"
+  }
+ },
+ {
+  "id": "Q154625#0",
+  "species": "Neisseria meningitidis",
+  "latin": "Neisseria meningitidis",
+  "text": "Infikuje jen člověka.",
+  "quote": "Infikuje jen člověka",
+  "claimed_false_for": {
+   "Q12043982": "Paulinella chromatophora (Paulinella chromatophora)",
+   "Q134734": "Cryptosporidium parvum (Cryptosporidium parvum)",
+   "Q1950703": "Bodo (Bodo)",
+   "Q2133435": "Zrněnka (Pleurococcus)",
+   "Q2715006": "Bičenka drůbeží (Trichomonas gallinae)",
+   "Q3898962": "Měňavka bahenní (Pelomyxa palustris)",
+   "Q830142": "Rhizobium (Rhizobium)"
+  }
+ },
+ {
+  "id": "Q154625#1",
+  "species": "Neisseria meningitidis",
+  "latin": "Neisseria meningitidis",
+  "text": "U některých lidí žije v nosohltanu bez příznaků.",
+  "quote": "může obývat u některých lidí nosohltan a nevyvolávat žádné příznaky onemocnění",
+  "claimed_false_for": {
+   "Q1114305": "Haemophilus ducreyi (Haemophilus ducreyi)",
+   "Q12043982": "Paulinella chromatophora (Paulinella chromatophora)",
+   "Q134734": "Cryptosporidium parvum (Cryptosporidium parvum)",
+   "Q156007": "Treponema pallidum (Treponema pallidum)",
+   "Q1950703": "Bodo (Bodo)",
+   "Q1950752": "Leishmania donovani (Leishmania donovani)",
+   "Q2133435": "Zrněnka (Pleurococcus)",
+   "Q2715006": "Bičenka drůbeží (Trichomonas gallinae)",
+   "Q3898962": "Měňavka bahenní (Pelomyxa palustris)",
+   "Q830142": "Rhizobium (Rhizobium)"
+  }
+ },
+ {
+  "id": "Q154625#2",
+  "species": "Neisseria meningitidis",
+  "latin": "Neisseria meningitidis",
+  "text": "Přenáší se kapénkově.",
+  "quote": "Přenáší se kapénkově.",
+  "claimed_false_for": {
+   "Q1114305": "Haemophilus ducreyi (Haemophilus ducreyi)",
+   "Q12043982": "Paulinella chromatophora (Paulinella chromatophora)",
+   "Q134734": "Cryptosporidium parvum (Cryptosporidium parvum)",
+   "Q156007": "Treponema pallidum (Treponema pallidum)",
+   "Q1950703": "Bodo (Bodo)",
+   "Q1950752": "Leishmania donovani (Leishmania donovani)",
+   "Q2133435": "Zrněnka (Pleurococcus)",
+   "Q2715006": "Bičenka drůbeží (Trichomonas gallinae)",
+   "Q3898962": "Měňavka bahenní (Pelomyxa palustris)",
+   "Q830142": "Rhizobium (Rhizobium)"
+  }
+ },
+ {
+  "id": "Q154625#3",
+  "species": "Neisseria meningitidis",
+  "latin": "Neisseria meningitidis",
+  "text": "Měří přibližně 1 μm.",
+  "quote": "o velikosti přibližně 1 μm",
+  "claimed_false_for": {
+   "Q12043982": "Paulinella chromatophora (Paulinella chromatophora)",
+   "Q1950703": "Bodo (Bodo)",
+   "Q2133435": "Zrněnka (Pleurococcus)",
+   "Q3898962": "Měňavka bahenní (Pelomyxa palustris)"
+  }
+ },
+ {
+  "id": "Q155630#0",
+  "species": "Lamblie střevní",
+  "latin": "Giardia lamblia",
+  "text": "Má dvě jádra.",
+  "quote": "Na druhou stranu mají dvě jádra.",
+  "claimed_false_for": {
+   "Q132656": "Bifidobacterium (Bifidobacterium)",
+   "Q140004": "Serratia marcescens (Serratia marcescens)",
+   "Q148731": "Aliivibrio fischeri (Aliivibrio fischeri)",
+   "Q160821": "Vibrio cholerae (Vibrio cholerae)",
+   "Q1796255": "Oscillatoria princeps (Oscillatoria princeps)",
+   "Q188121": "Staphylococcus aureus (Staphylococcus aureus)",
+   "Q236001": "Krásnoočko (Euglena)",
+   "Q311435": "Herminiimonas glaciei (Herminiimonas glaciei)",
+   "Q3614869": "Nostoc azollae (Anabaena azollae)",
+   "Q386827": "Deinococcus radiodurans (Deinococcus radiodurans)"
+  }
+ }
+]

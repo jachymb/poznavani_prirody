@@ -1,0 +1,610 @@
+[
+ {
+  "id": "Q1950752#1",
+  "species": "Leishmania donovani",
+  "latin": "Leishmania donovani",
+  "text": "Způsobuje nemoc kala-azar.",
+  "quote": "u něhož způsobuje viscerální leishmaniózu, také známou jako nemoc kala-azar.",
+  "claimed_false_for": {
+   "Q1114305": "Haemophilus ducreyi (Haemophilus ducreyi)",
+   "Q131029": "Shigella (Shigella)",
+   "Q131268": "Clostridium botulinum (Clostridium botulinum)",
+   "Q131649": "Corynebacterium diphtheriae (Corynebacterium diphtheriae)",
+   "Q132592": "Klebsiella pneumoniae (Klebsiella pneumoniae)",
+   "Q135175": "Nocardia (Nocardia)",
+   "Q236001": "Krásnoočko (Euglena)",
+   "Q2442109": "Propionibacterium acnes (Cutibacterium acnes)",
+   "Q264363": "Měňavka ústní (Entamoeba gingivalis)",
+   "Q311376": "Plasmodium vivax (Plasmodium vivax)",
+   "Q6646558": "Listonella anguillarum (Listonella anguillarum)",
+   "Q830142": "Rhizobium (Rhizobium)"
+  }
+ },
+ {
+  "id": "Q1950818#0",
+  "species": "Leishmania tropica",
+  "latin": "Leishmania tropica",
+  "text": "Přenáší ji kousnutí hmyzu.",
+  "quote": "Je přenášena při kousnutí hmyzím vektorem rodu Phlebotomus",
+  "claimed_false_for": {
+   "Q1114305": "Haemophilus ducreyi (Haemophilus ducreyi)",
+   "Q131029": "Shigella (Shigella)",
+   "Q131268": "Clostridium botulinum (Clostridium botulinum)",
+   "Q131649": "Corynebacterium diphtheriae (Corynebacterium diphtheriae)",
+   "Q132592": "Klebsiella pneumoniae (Klebsiella pneumoniae)",
+   "Q135175": "Nocardia (Nocardia)",
+   "Q236001": "Krásnoočko (Euglena)",
+   "Q2442109": "Propionibacterium acnes (Cutibacterium acnes)",
+   "Q264363": "Měňavka ústní (Entamoeba gingivalis)",
+   "Q6646558": "Listonella anguillarum (Listonella anguillarum)",
+   "Q830142": "Rhizobium (Rhizobium)"
+  }
+ },
+ {
+  "id": "Q1950818#1",
+  "species": "Leishmania tropica",
+  "latin": "Leishmania tropica",
+  "text": "Na některých místech mohou být rezervoárem nákazy psi.",
+  "quote": "jimiž mohou být například psi nebo damani na některých místech v Izraeli",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1954952#0",
+  "species": "Micrococcus",
+  "latin": "Micrococcus",
+  "text": "Většinou žijí jako komenzálové.",
+  "quote": "Mikrokoky jsou především saprotrofní a komenzálické druhy",
+  "claimed_false_for": {
+   "Q12043723": "Panoženka měňavková (Mastigamoeba aspera)",
+   "Q150162": "Trypanosoma cruzi (Trypanosoma cruzi)",
+   "Q236001": "Krásnoočko (Euglena)",
+   "Q4978547": "Brucella canis (Brucella canis)",
+   "Q78611696": "Chaos carolinensis (Chaos carolinense)"
+  }
+ },
+ {
+  "id": "Q1954952#1",
+  "species": "Micrococcus",
+  "latin": "Micrococcus",
+  "text": "Některé mohou vyvolat nemoc, hlavně u lidí se sníženou imunitou.",
+  "quote": "některé mohou vyvolávat onemocnění, především u pacientů se sníženou imunitou",
+  "claimed_false_for": {
+   "Q12043723": "Panoženka měňavková (Mastigamoeba aspera)",
+   "Q78611696": "Chaos carolinensis (Chaos carolinense)"
+  }
+ },
+ {
+  "id": "Q2133435#0",
+  "species": "Zrněnka",
+  "latin": "Pleurococcus",
+  "text": "Tvoří zelené povlaky na kůře stromů nebo na skalách.",
+  "quote": "Žije na skalách nebo kůře stromů, kde vytváří zelené povlaky.",
+  "claimed_false_for": {
+   "Q1141979": "Haemophilus influenzae (Haemophilus influenzae)",
+   "Q131003": "Toxoplasma gondii (Toxoplasma gondii)",
+   "Q131027": "Měňavka úplavičná (Entamoeba histolytica)",
+   "Q131268": "Clostridium botulinum (Clostridium botulinum)",
+   "Q131488": "Campylobacter (Campylobacter)",
+   "Q135175": "Nocardia (Nocardia)",
+   "Q137103": "Bordetella pertussis (Bordetella pertussis)",
+   "Q154625": "Neisseria meningitidis (Neisseria meningitidis)",
+   "Q2658061": "Sarcocystis (Sarcocystis)",
+   "Q309465": "Clostridium perfringens (Clostridium perfringens)"
+  }
+ },
+ {
+  "id": "Q2133435#1",
+  "species": "Zrněnka",
+  "latin": "Pleurococcus",
+  "text": "Má kulový tvar, aby neztrácel vodu.",
+  "quote": "Zrněnky mají kulový tvar, aby neztrácely vodu.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q220392#0",
+  "species": "Zooxanthela",
+  "latin": "Zooxanthellae",
+  "text": "Žije v symbióze s korálnatci, medúzami a mlži.",
+  "quote": "Mezi živočichy, kteří mají zooxanthely, patří mřížovci, korálnatci, medúzy, mlži a někteří zadožábří.",
+  "claimed_false_for": {
+   "Q1061596": "Lactobacillus (Lactobacillus)",
+   "Q134351": "Dictyostelium discoideum (Dictyostelium discoideum)",
+   "Q140004": "Serratia marcescens (Serratia marcescens)",
+   "Q15078733": "Kokcidie jaterní (Eimeria stiedai)",
+   "Q1954952": "Micrococcus (Micrococcus)",
+   "Q2442109": "Propionibacterium acnes (Cutibacterium acnes)",
+   "Q2658061": "Sarcocystis (Sarcocystis)",
+   "Q520210": "Vlčí mléko červené (Lycogala epidendrum)"
+  }
+ },
+ {
+  "id": "Q220392#1",
+  "species": "Zooxanthela",
+  "latin": "Zooxanthellae",
+  "text": "Tento druh je jednobuněčná řasa, která fotosyntetizuje.",
+  "quote": "jednobuněčnou fotosyntetizující řasu",
+  "claimed_false_for": {
+   "Q1061596": "Lactobacillus (Lactobacillus)",
+   "Q134351": "Dictyostelium discoideum (Dictyostelium discoideum)",
+   "Q140004": "Serratia marcescens (Serratia marcescens)",
+   "Q15078733": "Kokcidie jaterní (Eimeria stiedai)",
+   "Q1954952": "Micrococcus (Micrococcus)",
+   "Q2442109": "Propionibacterium acnes (Cutibacterium acnes)",
+   "Q2658061": "Sarcocystis (Sarcocystis)",
+   "Q520210": "Vlčí mléko červené (Lycogala epidendrum)"
+  }
+ },
+ {
+  "id": "Q221179#0",
+  "species": "Streptococcus pneumoniae",
+  "latin": "Streptococcus pneumoniae",
+  "text": "Žije v horních cestách dýchacích u dětí.",
+  "quote": "Streptococcus pneumoniae je usídlena v horních cestách dýchacích u dětí.",
+  "claimed_false_for": {
+   "Q1153950": "Hepatozoon (Hepatozoon)",
+   "Q116504956": "Medakamo hakoo (Medakamo hakoo)",
+   "Q1198419": "Tetrahymena (Tetrahymena)",
+   "Q156007": "Treponema pallidum (Treponema pallidum)",
+   "Q180556": "Helicobacter pylori (Helicobacter pylori)",
+   "Q18645284": "Prochlorococcus (Prochlorococcus)",
+   "Q236001": "Krásnoočko (Euglena)",
+   "Q2706492": "Trepka velká (Paramecium caudatum)",
+   "Q288725": "Trepka zelená (Paramecium bursaria)",
+   "Q614156": "Bacillus anthracis (Bacillus anthracis)"
+  }
+ },
+ {
+  "id": "Q221179#1",
+  "species": "Streptococcus pneumoniae",
+  "latin": "Streptococcus pneumoniae",
+  "text": "Tento druh je nejčastější příčinou bakteriální meningitidy u dětí.",
+  "quote": "S. pneumoniae je nejčastější příčinou bakteriální meningitidy u dospělých, dětí a psů.",
+  "claimed_false_for": {
+   "Q1061596": "Lactobacillus (Lactobacillus)",
+   "Q1153950": "Hepatozoon (Hepatozoon)",
+   "Q116504956": "Medakamo hakoo (Medakamo hakoo)",
+   "Q1198419": "Tetrahymena (Tetrahymena)",
+   "Q131065": "Chlamydia trachomatis (Chlamydia trachomatis)",
+   "Q133186": "Bacteroides (Bacteroides)",
+   "Q156007": "Treponema pallidum (Treponema pallidum)",
+   "Q158013": "Legionella (Legionella)",
+   "Q18645284": "Prochlorococcus (Prochlorococcus)",
+   "Q236001": "Krásnoočko (Euglena)",
+   "Q2706492": "Trepka velká (Paramecium caudatum)",
+   "Q288725": "Trepka zelená (Paramecium bursaria)",
+   "Q3512031": "Brucella melitensis (Brucella melitensis)",
+   "Q627992": "Rickettsia (Rickettsia)",
+   "Q941131": "Nanobakterie (Nanobacterium)"
+  }
+ },
+ {
+  "id": "Q236001#0",
+  "species": "Krásnoočko",
+  "latin": "Euglena",
+  "text": "Plave rychle pomocí bičíku.",
+  "quote": "Prostřednictvím bičíku rychle plave a změnou svého tvaru se dokáže protáhnout mezi překážkami.",
+  "claimed_false_for": {
+   "Q1141979": "Haemophilus influenzae (Haemophilus influenzae)",
+   "Q130971": "Mycobacterium tuberculosis (Mycobacterium tuberculosis)",
+   "Q131027": "Měňavka úplavičná (Entamoeba histolytica)",
+   "Q153875": "Yersinia pestis (Yersinia pestis)",
+   "Q188121": "Staphylococcus aureus (Staphylococcus aureus)",
+   "Q221179": "Streptococcus pneumoniae (Streptococcus pneumoniae)",
+   "Q288725": "Trepka zelená (Paramecium bursaria)",
+   "Q3018329": "Orientia tsutsugamushi (Orientia tsutsugamushi)",
+   "Q309972": "Chlorella vulgaris (Chlorella vulgaris)",
+   "Q614156": "Bacillus anthracis (Bacillus anthracis)"
+  }
+ },
+ {
+  "id": "Q236001#1",
+  "species": "Krásnoočko",
+  "latin": "Euglena",
+  "text": "Ve tmě, bez fotosyntézy, se živí organickými částicemi.",
+  "quote": "Když jsou delší dobu ve tmě bez možnosti fotosyntézy, dokážou se živit organickými částicemi.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q2441328#0",
+  "species": "Dunaliella salina",
+  "latin": "Dunaliella salina",
+  "text": "Žije v solných jezerech a lagunách po celém světě.",
+  "quote": "se vyskytuje v solných jezerech a solných lagunách po celém světě.",
+  "claimed_false_for": {
+   "Q131649": "Corynebacterium diphtheriae (Corynebacterium diphtheriae)",
+   "Q134734": "Cryptosporidium parvum (Cryptosporidium parvum)",
+   "Q137103": "Bordetella pertussis (Bordetella pertussis)",
+   "Q155630": "Lamblie střevní (Giardia lamblia)",
+   "Q5233857": "Theileria (Theileria)"
+  }
+ },
+ {
+  "id": "Q2441328#1",
+  "species": "Dunaliella salina",
+  "latin": "Dunaliella salina",
+  "text": "Nemá pevnou buněčnou stěnu, jen tenkou membránu.",
+  "quote": "Místo pevné polysacharidové buněčné stěny mají jen tenkou a pružnou plasmatickou membránu.",
+  "claimed_false_for": {
+   "Q131238": "Bacillus subtilis (Bacillus subtilis)",
+   "Q131649": "Corynebacterium diphtheriae (Corynebacterium diphtheriae)",
+   "Q137103": "Bordetella pertussis (Bordetella pertussis)",
+   "Q140004": "Serratia marcescens (Serratia marcescens)",
+   "Q142705": "Stenotrophomonas maltophilia (Stenotrophomonas maltophilia)",
+   "Q614156": "Bacillus anthracis (Bacillus anthracis)"
+  }
+ },
+ {
+  "id": "Q2441328#2",
+  "species": "Dunaliella salina",
+  "latin": "Dunaliella salina",
+  "text": "Dokáže nahromadit kolem 12 % betakarotenu ze sušiny buňky.",
+  "quote": "Dokáže naakumulovat, v závislosti na kultivačních podmínkách, kolem 12 % β-karotenu",
+  "claimed_false_for": {
+   "Q131649": "Corynebacterium diphtheriae (Corynebacterium diphtheriae)",
+   "Q134734": "Cryptosporidium parvum (Cryptosporidium parvum)",
+   "Q137103": "Bordetella pertussis (Bordetella pertussis)",
+   "Q155630": "Lamblie střevní (Giardia lamblia)",
+   "Q5233857": "Theileria (Theileria)"
+  }
+ },
+ {
+  "id": "Q2441328#3",
+  "species": "Dunaliella salina",
+  "latin": "Dunaliella salina",
+  "text": "Přizpůsobuje se vysoké slanosti hromaděním glycerolu.",
+  "quote": "S vysokou koncentrací solí se vyrovnává akumulací glycerolu,",
+  "claimed_false_for": {
+   "Q131649": "Corynebacterium diphtheriae (Corynebacterium diphtheriae)",
+   "Q134734": "Cryptosporidium parvum (Cryptosporidium parvum)",
+   "Q137103": "Bordetella pertussis (Bordetella pertussis)",
+   "Q155630": "Lamblie střevní (Giardia lamblia)",
+   "Q5233857": "Theileria (Theileria)"
+  }
+ },
+ {
+  "id": "Q2442109#0",
+  "species": "Propionibacterium acnes",
+  "latin": "Cutibacterium acnes",
+  "text": "Živí se mastnými kyselinami z kožního mazu.",
+  "quote": "Živí se mastnými kyselinami obsaženými v kožním mazu z mazových žláz.",
+  "claimed_false_for": {
+   "Q1114305": "Haemophilus ducreyi (Haemophilus ducreyi)",
+   "Q131029": "Shigella (Shigella)",
+   "Q148710": "Šroubatka (Spirogyra)",
+   "Q153875": "Yersinia pestis (Yersinia pestis)",
+   "Q155630": "Lamblie střevní (Giardia lamblia)",
+   "Q180556": "Helicobacter pylori (Helicobacter pylori)",
+   "Q2658061": "Sarcocystis (Sarcocystis)",
+   "Q3018329": "Orientia tsutsugamushi (Orientia tsutsugamushi)",
+   "Q3021915": "Váleč koulivý (Volvox globator)",
+   "Q3497618": "Eimeria maxima (Eimeria maxima)",
+   "Q6823576": "Methanobacterium (Methanobacterium)",
+   "Q836301": "Brucella suis (Brucella suis)"
+  }
+ },
+ {
+  "id": "Q2442109#1",
+  "species": "Propionibacterium acnes",
+  "latin": "Cutibacterium acnes",
+  "text": "Když se ucpe mazová žláza, přemnoží se a tvoří akné.",
+  "quote": "Ucpe-li se vývod mazové žlázy, tato anaerobní bakterie se přemnoží a vylučuje chemické látky, které narušují stěnu póru, umožňuje bakteriím jako Staphylococcus aureus šířit se do kůže a tvoří ložiska akné",
+  "claimed_false_for": {
+   "Q1114305": "Haemophilus ducreyi (Haemophilus ducreyi)",
+   "Q131029": "Shigella (Shigella)",
+   "Q148710": "Šroubatka (Spirogyra)",
+   "Q153875": "Yersinia pestis (Yersinia pestis)",
+   "Q155630": "Lamblie střevní (Giardia lamblia)",
+   "Q180556": "Helicobacter pylori (Helicobacter pylori)",
+   "Q2658061": "Sarcocystis (Sarcocystis)",
+   "Q3018329": "Orientia tsutsugamushi (Orientia tsutsugamushi)",
+   "Q3021915": "Váleč koulivý (Volvox globator)",
+   "Q3497618": "Eimeria maxima (Eimeria maxima)",
+   "Q6823576": "Methanobacterium (Methanobacterium)",
+   "Q836301": "Brucella suis (Brucella suis)"
+  }
+ },
+ {
+  "id": "Q25419#0",
+  "species": "Escherichia coli",
+  "latin": "Escherichia coli",
+  "text": "Žije ve střevech teplokrevných živočichů, včetně člověka.",
+  "quote": "E. coli patří ke střevní mikroflóře teplokrevných živočichů včetně člověka",
+  "claimed_false_for": {
+   "Q131065": "Chlamydia trachomatis (Chlamydia trachomatis)",
+   "Q131129": "Neisseria gonorrhoeae (Neisseria gonorrhoeae)",
+   "Q131273": "Naegleria fowleri (Naegleria fowleri)",
+   "Q154625": "Neisseria meningitidis (Neisseria meningitidis)",
+   "Q156007": "Treponema pallidum (Treponema pallidum)",
+   "Q18645284": "Prochlorococcus (Prochlorococcus)",
+   "Q236001": "Krásnoočko (Euglena)",
+   "Q311435": "Herminiimonas glaciei (Herminiimonas glaciei)",
+   "Q520210": "Vlčí mléko červené (Lycogala epidendrum)"
+  }
+ },
+ {
+  "id": "Q25419#1",
+  "species": "Escherichia coli",
+  "latin": "Escherichia coli",
+  "text": "Patogenní kmeny způsobují u člověka průjmy.",
+  "quote": "Pokud se bakterie dostane do intestinálního traktu člověka, vyvolává infekce provázené průjmy.",
+  "claimed_false_for": {
+   "Q1061596": "Lactobacillus (Lactobacillus)",
+   "Q130971": "Mycobacterium tuberculosis (Mycobacterium tuberculosis)",
+   "Q131129": "Neisseria gonorrhoeae (Neisseria gonorrhoeae)",
+   "Q131273": "Naegleria fowleri (Naegleria fowleri)",
+   "Q156007": "Treponema pallidum (Treponema pallidum)",
+   "Q18645284": "Prochlorococcus (Prochlorococcus)",
+   "Q221179": "Streptococcus pneumoniae (Streptococcus pneumoniae)",
+   "Q236001": "Krásnoočko (Euglena)",
+   "Q311435": "Herminiimonas glaciei (Herminiimonas glaciei)",
+   "Q520210": "Vlčí mléko červené (Lycogala epidendrum)"
+  }
+ },
+ {
+  "id": "Q25419#2",
+  "species": "Escherichia coli",
+  "latin": "Escherichia coli",
+  "text": "Často způsobuje infekce získané v nemocnicích.",
+  "quote": "Často způsobuje nosokomiální infekce, tj. infekce získané v nemocnicích.",
+  "claimed_false_for": {
+   "Q131003": "Toxoplasma gondii (Toxoplasma gondii)",
+   "Q131129": "Neisseria gonorrhoeae (Neisseria gonorrhoeae)",
+   "Q156007": "Treponema pallidum (Treponema pallidum)",
+   "Q18645284": "Prochlorococcus (Prochlorococcus)",
+   "Q236001": "Krásnoočko (Euglena)",
+   "Q311435": "Herminiimonas glaciei (Herminiimonas glaciei)",
+   "Q520210": "Vlčí mléko červené (Lycogala epidendrum)"
+  }
+ },
+ {
+  "id": "Q25419#3",
+  "species": "Escherichia coli",
+  "latin": "Escherichia coli",
+  "text": "Využívá se v biotechnologiích a genovém inženýrství.",
+  "quote": "což je důvodem jejího využití v biotechnologiích a genovém inženýrství",
+  "claimed_false_for": {
+   "Q131003": "Toxoplasma gondii (Toxoplasma gondii)",
+   "Q131065": "Chlamydia trachomatis (Chlamydia trachomatis)",
+   "Q131129": "Neisseria gonorrhoeae (Neisseria gonorrhoeae)",
+   "Q154625": "Neisseria meningitidis (Neisseria meningitidis)",
+   "Q156007": "Treponema pallidum (Treponema pallidum)",
+   "Q18645284": "Prochlorococcus (Prochlorococcus)",
+   "Q520210": "Vlčí mléko červené (Lycogala epidendrum)"
+  }
+ },
+ {
+  "id": "Q25419#4",
+  "species": "Escherichia coli",
+  "latin": "Escherichia coli",
+  "text": "Dokáže vyrábět textilní barvivo indigo.",
+  "quote": "Roku 1983 byla objevena schopnost bakterie E. coli syntetizovat textilní barvivo indigo.",
+  "claimed_false_for": {
+   "Q131003": "Toxoplasma gondii (Toxoplasma gondii)",
+   "Q131027": "Měňavka úplavičná (Entamoeba histolytica)",
+   "Q131273": "Naegleria fowleri (Naegleria fowleri)",
+   "Q131904999": "Isospora jaracimrmani (Isospora jaracimrmani)",
+   "Q134950": "Vápenatka mnohohlavá (Physarum polycephalum)",
+   "Q136904": "Emiliania huxleyi (Emiliania huxleyi)",
+   "Q236001": "Krásnoočko (Euglena)",
+   "Q3898962": "Měňavka bahenní (Pelomyxa palustris)"
+  }
+ },
+ {
+  "id": "Q25419#5",
+  "species": "Escherichia coli",
+  "latin": "Escherichia coli",
+  "text": "Za dobrých podmínek se dělí zhruba každých 20 minut.",
+  "quote": "Při optimálních podmínkách (37 °C, dostatek živin) je doba generace zhruba 20 min.",
+  "claimed_false_for": {
+   "Q130971": "Mycobacterium tuberculosis (Mycobacterium tuberculosis)",
+   "Q131003": "Toxoplasma gondii (Toxoplasma gondii)",
+   "Q131027": "Měňavka úplavičná (Entamoeba histolytica)",
+   "Q131065": "Chlamydia trachomatis (Chlamydia trachomatis)",
+   "Q131273": "Naegleria fowleri (Naegleria fowleri)",
+   "Q156007": "Treponema pallidum (Treponema pallidum)",
+   "Q180556": "Helicobacter pylori (Helicobacter pylori)",
+   "Q520210": "Vlčí mléko červené (Lycogala epidendrum)"
+  }
+ },
+ {
+  "id": "Q264363#0",
+  "species": "Měňavka ústní",
+  "latin": "Entamoeba gingivalis",
+  "text": "Živí se bakteriemi spojenými s nemocí dásní.",
+  "quote": "kde se živí bakteriemi, které jsou spojené s touto nemocí",
+  "claimed_false_for": {
+   "Q132595": "Bičenka poševní (Trichomonas vaginalis)",
+   "Q132656": "Bifidobacterium (Bifidobacterium)",
+   "Q135175": "Nocardia (Nocardia)",
+   "Q155891": "Mycobacterium leprae (Mycobacterium leprae)",
+   "Q2133435": "Zrněnka (Pleurococcus)",
+   "Q288311": "Rhodococcus (Rhodococcus)",
+   "Q310362": "Lyngbya (Lyngbya)",
+   "Q3103814": "Gephyrocapsa oceanica (Gephyrocapsa oceanica)",
+   "Q941131": "Nanobakterie (Nanobacterium)"
+  }
+ },
+ {
+  "id": "Q264363#1",
+  "species": "Měňavka ústní",
+  "latin": "Entamoeba gingivalis",
+  "text": "Žije v symbióze s člověkem.",
+  "quote": "Zároveň se jedná o první amébu, která byla popsaná u jako symbiont člověka",
+  "claimed_false_for": {
+   "Q2133435": "Zrněnka (Pleurococcus)",
+   "Q310362": "Lyngbya (Lyngbya)",
+   "Q3103814": "Gephyrocapsa oceanica (Gephyrocapsa oceanica)",
+   "Q941131": "Nanobakterie (Nanobacterium)"
+  }
+ },
+ {
+  "id": "Q2658061#0",
+  "species": "Sarcocystis",
+  "latin": "Sarcocystis",
+  "text": "Definitivními hostiteli jsou masožravci, například dravci a sovy.",
+  "quote": "Jejich definitivními hostiteli jsou masožravci – např. savci, dravci a sovy, hadi, apod.",
+  "claimed_false_for": {
+   "Q3497618": "Eimeria maxima (Eimeria maxima)"
+  }
+ },
+ {
+  "id": "Q2658061#1",
+  "species": "Sarcocystis",
+  "latin": "Sarcocystis",
+  "text": "Kořist slouží jako mezihostitel, predátor jako definitivní hostitel.",
+  "quote": "Evolučně se adaptovali na vztah kořisti a predátora, v němž kořist je mezihostitelem a predátor definitivním hostitelem parazita.",
+  "claimed_false_for": {
+   "Q133548": "Desulforudis audaxviator (Desulforudis audaxviator)"
+  }
+ },
+ {
+  "id": "Q2658061#2",
+  "species": "Sarcocystis",
+  "latin": "Sarcocystis",
+  "text": "Cysty najdeme ve svalech mezihostitele, třeba v jazyku nebo srdci.",
+  "quote": "Mohou být nalezeny v podstatě ve veškerém pruhovaném svalstvu těla, zahrnujícím mj. jazyk, jícen, bránici i srdeční sval",
+  "claimed_false_for": {
+   "Q131271": "Streptococcus pyogenes (Streptococcus pyogenes)",
+   "Q146310": "Pyrococcus furiosus (Pyrococcus furiosus)",
+   "Q148731": "Aliivibrio fischeri (Aliivibrio fischeri)",
+   "Q158013": "Legionella (Legionella)",
+   "Q1946250": "Methanosarcina acetivorans (Methanosarcina acetivorans)",
+   "Q236001": "Krásnoočko (Euglena)",
+   "Q63409998": "Saccharolobus solfataricus (Saccharolobus solfataricus)"
+  }
+ },
+ {
+  "id": "Q2658061#3",
+  "species": "Sarcocystis",
+  "latin": "Sarcocystis",
+  "text": "Člověk se může nakazit jedením syrového masa.",
+  "quote": "Člověk jako definitivní hostitel se může nakazit konzumací syrového nebo částečně syrového, infikovaného vepřového nebo hovězího masa.",
+  "claimed_false_for": {
+   "Q1152218": "Acanthamoeba (Acanthamoeba)",
+   "Q131649": "Corynebacterium diphtheriae (Corynebacterium diphtheriae)",
+   "Q133548": "Desulforudis audaxviator (Desulforudis audaxviator)",
+   "Q148561": "Bartonella quintana (Bartonella quintana)",
+   "Q311376": "Plasmodium vivax (Plasmodium vivax)",
+   "Q7848579": "Trypanosoma potkaní (Trypanosoma lewisi)"
+  }
+ },
+ {
+  "id": "Q2658061#4",
+  "species": "Sarcocystis",
+  "latin": "Sarcocystis",
+  "text": "Důkladným vařením masa se nákaze dá zabránit.",
+  "quote": "Infekci se dá zabránit důkladným vařením masa před konzumací.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q2658061#5",
+  "species": "Sarcocystis",
+  "latin": "Sarcocystis",
+  "text": "Nákazy jsou časté u domácích zvířat, třeba skotu nebo ovcí.",
+  "quote": "Nákazy Sarcocystis jsou časté u domestikovaných zvířat jako skot nebo ovce.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q2666248#0",
+  "species": "Ferroplasma",
+  "latin": "Ferroplasma",
+  "text": "Žije v prostředí s extrémním pH.",
+  "quote": "žijí však v prostředí extrémním z hlediska pH",
+  "claimed_false_for": {
+   "Q1114305": "Haemophilus ducreyi (Haemophilus ducreyi)",
+   "Q131904999": "Isospora jaracimrmani (Isospora jaracimrmani)",
+   "Q154625": "Neisseria meningitidis (Neisseria meningitidis)",
+   "Q264363": "Měňavka ústní (Entamoeba gingivalis)",
+   "Q2715006": "Bičenka drůbeží (Trichomonas gallinae)"
+  }
+ },
+ {
+  "id": "Q2666248#1",
+  "species": "Ferroplasma",
+  "latin": "Ferroplasma",
+  "text": "Oxiduje železnaté ionty.",
+  "quote": "oxiduje železnaté ionty",
+  "claimed_false_for": {
+   "Q1114305": "Haemophilus ducreyi (Haemophilus ducreyi)",
+   "Q131904999": "Isospora jaracimrmani (Isospora jaracimrmani)",
+   "Q154625": "Neisseria meningitidis (Neisseria meningitidis)",
+   "Q264363": "Měňavka ústní (Entamoeba gingivalis)",
+   "Q2715006": "Bičenka drůbeží (Trichomonas gallinae)",
+   "Q517258": "Enterokok (Enterococcus)"
+  }
+ },
+ {
+  "id": "Q2697755#0",
+  "species": "Aeromonas hydrophila",
+  "latin": "Aeromonas hydrophila",
+  "text": "Najdeme ji ve sladké, slané i mořské vodě.",
+  "quote": "Je možné ji najít v sladké, slané, mořské, brakické, chlorované i nechlorované vodě.",
+  "claimed_false_for": {
+   "Q156007": "Treponema pallidum (Treponema pallidum)",
+   "Q1950752": "Leishmania donovani (Leishmania donovani)",
+   "Q2715006": "Bičenka drůbeží (Trichomonas gallinae)",
+   "Q311376": "Plasmodium vivax (Plasmodium vivax)"
+  }
+ },
+ {
+  "id": "Q2697755#1",
+  "species": "Aeromonas hydrophila",
+  "latin": "Aeromonas hydrophila",
+  "text": "Je odolná vůči chloru, mrazu a chladu.",
+  "quote": "Je značně rezistentní, především vůči chloru, mrazu a chladu.",
+  "claimed_false_for": {
+   "Q156007": "Treponema pallidum (Treponema pallidum)",
+   "Q1950752": "Leishmania donovani (Leishmania donovani)",
+   "Q2715006": "Bičenka drůbeží (Trichomonas gallinae)",
+   "Q311376": "Plasmodium vivax (Plasmodium vivax)"
+  }
+ },
+ {
+  "id": "Q2706492#0",
+  "species": "Trepka velká",
+  "latin": "Paramecium caudatum",
+  "text": "Žije v symbióze s bakteriemi v jádrech.",
+  "quote": "Mikronukleus nebo makronukleos je často infikován symbiotickou bakterií",
+  "claimed_false_for": {
+   "Q131307": "Bacillus cereus (Bacillus cereus)",
+   "Q132656": "Bifidobacterium (Bifidobacterium)",
+   "Q133186": "Bacteroides (Bacteroides)",
+   "Q221179": "Streptococcus pneumoniae (Streptococcus pneumoniae)",
+   "Q2441328": "Dunaliella salina (Dunaliella salina)",
+   "Q310467": "Bacillus thuringiensis (Bacillus thuringiensis)",
+   "Q520210": "Vlčí mléko červené (Lycogala epidendrum)"
+  }
+ },
+ {
+  "id": "Q2706492#1",
+  "species": "Trepka velká",
+  "latin": "Paramecium caudatum",
+  "text": "Slouží jako ukazatel znečištěné vody.",
+  "quote": "Slouží proto jako bioindikátor tohoto znečištění.",
+  "claimed_false_for": {
+   "Q132595": "Bičenka poševní (Trichomonas vaginalis)",
+   "Q221179": "Streptococcus pneumoniae (Streptococcus pneumoniae)",
+   "Q2441328": "Dunaliella salina (Dunaliella salina)",
+   "Q310467": "Bacillus thuringiensis (Bacillus thuringiensis)",
+   "Q311383": "Plasmodium falciparum (Plasmodium falciparum)",
+   "Q520210": "Vlčí mléko červené (Lycogala epidendrum)"
+  }
+ },
+ {
+  "id": "Q2706492#2",
+  "species": "Trepka velká",
+  "latin": "Paramecium caudatum",
+  "text": "Měří 0,17 až 0,35 milimetru.",
+  "quote": "při délce 0,17–0,35 mm největší z rodu trepek",
+  "claimed_false_for": {
+   "Q131307": "Bacillus cereus (Bacillus cereus)",
+   "Q132595": "Bičenka poševní (Trichomonas vaginalis)",
+   "Q132656": "Bifidobacterium (Bifidobacterium)",
+   "Q133186": "Bacteroides (Bacteroides)",
+   "Q221179": "Streptococcus pneumoniae (Streptococcus pneumoniae)",
+   "Q2441328": "Dunaliella salina (Dunaliella salina)",
+   "Q310467": "Bacillus thuringiensis (Bacillus thuringiensis)",
+   "Q520210": "Vlčí mléko červené (Lycogala epidendrum)"
+  }
+ }
+]
