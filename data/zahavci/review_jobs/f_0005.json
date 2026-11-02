@@ -1,0 +1,242 @@
+[
+ {
+  "id": "Q1192350#1",
+  "species": "Nezmar hnědý",
+  "latin": "Hydra oligactis",
+  "text": "Během roku se rozmnožuje pučením, na podzim i pohlavně.",
+  "quote": "Během roku se rozmnožuje pučením a na podzim pohlavně.",
+  "claimed_false_for": {
+   "Q445245": "Korunovka purpurová (Periphylla periphylla)"
+  }
+ },
+ {
+  "id": "Q1888438#4",
+  "species": "Medúzka sladkovodní",
+  "latin": "Craspedacusta sowerbyi",
+  "text": "Vodní ptáci nebo lidé tento druh pravděpodobně šíří do nových vod.",
+  "quote": "rozšířil pravděpodobně za pomoci vodních ptáků nebo lidí",
+  "claimed_false_for": {
+   "Q445245": "Korunovka purpurová (Periphylla periphylla)"
+  }
+ },
+ {
+  "id": "Q2470250#x0",
+  "species": "Kořenoústka plicnatá",
+  "latin": "Rhizostoma pulmo",
+  "text": "Vyskytuje se v severovýchodním Atlantiku a ve Středozemním, Černém a Azovském moři.",
+  "quote": "It is found in the northeast Atlantic, and in the Mediterranean Sea, Black Sea and Sea of Azov.",
+  "claimed_false_for": {
+   "Q1192350": "Nezmar hnědý (Hydra oligactis)",
+   "Q1888438": "Medúzka sladkovodní (Craspedacusta sowerbyi)",
+   "Q384085": "Sasanka velkolepá (Heteractis magnifica)"
+  }
+ },
+ {
+  "id": "Q2470250#x1",
+  "species": "Kořenoústka plicnatá",
+  "latin": "Rhizostoma pulmo",
+  "text": "Je oblíbenou potravou kožatky velké.",
+  "quote": "It is a favourite food of the leatherback turtle.",
+  "claimed_false_for": {
+   "Q1192350": "Nezmar hnědý (Hydra oligactis)",
+   "Q1888438": "Medúzka sladkovodní (Craspedacusta sowerbyi)",
+   "Q384085": "Sasanka velkolepá (Heteractis magnifica)",
+   "Q531601": "Korál červený (Corallium rubrum)",
+   "Q580826": "Sasanka koňská (Actinia equina)",
+   "Q935234": "Sasanka karafiátová (Metridium senile)"
+  }
+ },
+ {
+  "id": "Q2470250#x2",
+  "species": "Kořenoústka plicnatá",
+  "latin": "Rhizostoma pulmo",
+  "text": "Obvykle dorůstá průměru až 40 centimetrů.",
+  "quote": "is typically up to 40 cm (16 in) in diameter",
+  "claimed_false_for": {
+   "Q1192350": "Nezmar hnědý (Hydra oligactis)",
+   "Q1888438": "Medúzka sladkovodní (Craspedacusta sowerbyi)"
+  }
+ },
+ {
+  "id": "Q2470250#x3",
+  "species": "Kořenoústka plicnatá",
+  "latin": "Rhizostoma pulmo",
+  "text": "Její jed způsobuje pálení kůže, záněty a vředy, ale člověku vážně neublíží.",
+  "quote": "Effects include a mild burning sensation on the skin, dermatitis, and ulcers which confirms it is toxic but does not pose a serious threat to humans.",
+  "claimed_false_for": {
+   "Q1192350": "Nezmar hnědý (Hydra oligactis)",
+   "Q1888438": "Medúzka sladkovodní (Craspedacusta sowerbyi)",
+   "Q531601": "Korál červený (Corallium rubrum)",
+   "Q935234": "Sasanka karafiátová (Metridium senile)"
+  }
+ },
+ {
+  "id": "Q384085#1",
+  "species": "Sasanka velkolepá",
+  "latin": "Heteractis magnifica",
+  "text": "Dorůstá až do průměru jednoho metru.",
+  "quote": "dorůstá až průměru jeden metr.",
+  "claimed_false_for": {
+   "Q445245": "Korunovka purpurová (Periphylla periphylla)"
+  }
+ },
+ {
+  "id": "Q445245#x0",
+  "species": "Korunovka purpurová",
+  "latin": "Periphylla periphylla",
+  "text": "Světélkuje a červenými záblesky se dorozumívá s ostatními.",
+  "quote": "with red flashes serving as a signal amongst themselves",
+  "claimed_false_for": {
+   "Q1192350": "Nezmar hnědý (Hydra oligactis)",
+   "Q1888438": "Medúzka sladkovodní (Craspedacusta sowerbyi)",
+   "Q531601": "Korál červený (Corallium rubrum)",
+   "Q580826": "Sasanka koňská (Actinia equina)",
+   "Q935234": "Sasanka karafiátová (Metridium senile)"
+  }
+ },
+ {
+  "id": "Q445245#x1",
+  "species": "Korunovka purpurová",
+  "latin": "Periphylla periphylla",
+  "text": "Kořist tvoří hlavně klanonožci, křídlonožci a obunožci.",
+  "quote": "There was a 27% presence of copepods, 23% of pteropods, 20% of amphipods",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q445245#x2",
+  "species": "Korunovka purpurová",
+  "latin": "Periphylla periphylla",
+  "text": "Vyhýbá se světlu, a proto jen zřídka opouští hlubiny.",
+  "quote": "Periphylla is intensely photophobic, and thus only seldom leaves the bathypelagic zone",
+  "claimed_false_for": {
+   "Q1192350": "Nezmar hnědý (Hydra oligactis)",
+   "Q1888438": "Medúzka sladkovodní (Craspedacusta sowerbyi)",
+   "Q2470250": "Kořenoústka plicnatá (Rhizostoma pulmo)",
+   "Q384085": "Sasanka velkolepá (Heteractis magnifica)",
+   "Q522939": "Talířovka obrovská (Cyanea capillata)",
+   "Q580826": "Sasanka koňská (Actinia equina)",
+   "Q935234": "Sasanka karafiátová (Metridium senile)"
+  }
+ },
+ {
+  "id": "Q445245#x3",
+  "species": "Korunovka purpurová",
+  "latin": "Periphylla periphylla",
+  "text": "Přes den se zdržuje v hloubce kolem 150 metrů, v noci blíž k hladině.",
+  "quote": "found in abundance at a depth of approximately 13.75 m during nighttime, and as deep as 150 m during daytime",
+  "claimed_false_for": {
+   "Q1192350": "Nezmar hnědý (Hydra oligactis)",
+   "Q1888438": "Medúzka sladkovodní (Craspedacusta sowerbyi)",
+   "Q384085": "Sasanka velkolepá (Heteractis magnifica)",
+   "Q522939": "Talířovka obrovská (Cyanea capillata)",
+   "Q531601": "Korál červený (Corallium rubrum)",
+   "Q580826": "Sasanka koňská (Actinia equina)",
+   "Q935234": "Sasanka karafiátová (Metridium senile)"
+  }
+ },
+ {
+  "id": "Q445245#x4",
+  "species": "Korunovka purpurová",
+  "latin": "Periphylla periphylla",
+  "text": "Má největší vajíčka ze všech žahavců.",
+  "quote": "Their eggs are actually the largest sized eggs within all Cnidaria",
+  "claimed_false_for": {
+   "Q1192350": "Nezmar hnědý (Hydra oligactis)",
+   "Q1888438": "Medúzka sladkovodní (Craspedacusta sowerbyi)",
+   "Q2470250": "Kořenoústka plicnatá (Rhizostoma pulmo)",
+   "Q384085": "Sasanka velkolepá (Heteractis magnifica)",
+   "Q522939": "Talířovka obrovská (Cyanea capillata)",
+   "Q531601": "Korál červený (Corallium rubrum)",
+   "Q580826": "Sasanka koňská (Actinia equina)",
+   "Q935234": "Sasanka karafiátová (Metridium senile)"
+  }
+ },
+ {
+  "id": "Q445245#x5",
+  "species": "Korunovka purpurová",
+  "latin": "Periphylla periphylla",
+  "text": "Žije v hloubkách až 2700 metrů.",
+  "quote": "is found in depths up to 2700 meters",
+  "claimed_false_for": {
+   "Q1192350": "Nezmar hnědý (Hydra oligactis)",
+   "Q1888438": "Medúzka sladkovodní (Craspedacusta sowerbyi)",
+   "Q384085": "Sasanka velkolepá (Heteractis magnifica)",
+   "Q522939": "Talířovka obrovská (Cyanea capillata)",
+   "Q580826": "Sasanka koňská (Actinia equina)",
+   "Q935234": "Sasanka karafiátová (Metridium senile)"
+  }
+ },
+ {
+  "id": "Q531601#1",
+  "species": "Korál červený",
+  "latin": "Corallium rubrum",
+  "text": "Žije v koloniích na kamenitém mořském dnu.",
+  "quote": "žijí přisedle v koloniích na kamenitém mořském dnu",
+  "claimed_false_for": {
+   "Q445245": "Korunovka purpurová (Periphylla periphylla)"
+  }
+ },
+ {
+  "id": "Q580826#x0",
+  "species": "Sasanka koňská",
+  "latin": "Actinia equina",
+  "text": "Mláďata se vyvíjejí uvnitř těla matky, až sto najednou.",
+  "quote": "up to one hundred embryos developing inside the body cavity before being ejected into the open water as juveniles",
+  "claimed_false_for": {
+   "Q1192350": "Nezmar hnědý (Hydra oligactis)",
+   "Q1888438": "Medúzka sladkovodní (Craspedacusta sowerbyi)",
+   "Q522939": "Talířovka obrovská (Cyanea capillata)"
+  }
+ },
+ {
+  "id": "Q580826#x2",
+  "species": "Sasanka koňská",
+  "latin": "Actinia equina",
+  "text": "Živí se zooplanktonem a organickými částicemi.",
+  "quote": "Alimenta-se de zooplâncton e partículas orgânicas.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q580826#x3",
+  "species": "Sasanka koňská",
+  "latin": "Actinia equina",
+  "text": "Pod chapadly má modré kuličky se žahavými buňkami.",
+  "quote": "bright blue beads (known as acrorhagi) located just beneath the tentacles, organised as an external ring containing stinging cells",
+  "claimed_false_for": {
+   "Q1192350": "Nezmar hnědý (Hydra oligactis)",
+   "Q1888438": "Medúzka sladkovodní (Craspedacusta sowerbyi)",
+   "Q445245": "Korunovka purpurová (Periphylla periphylla)",
+   "Q522939": "Talířovka obrovská (Cyanea capillata)",
+   "Q531601": "Korál červený (Corallium rubrum)"
+  }
+ },
+ {
+  "id": "Q580826#x4",
+  "species": "Sasanka koňská",
+  "latin": "Actinia equina",
+  "text": "Pod vodou má až 192 chapadel uspořádaných do šesti kruhů.",
+  "quote": "Underwater, it displays up to 192 tentacles, arranged in six circles.",
+  "claimed_false_for": {
+   "Q1192350": "Nezmar hnědý (Hydra oligactis)",
+   "Q445245": "Korunovka purpurová (Periphylla periphylla)",
+   "Q531601": "Korál červený (Corallium rubrum)"
+  }
+ },
+ {
+  "id": "Q580826#x5",
+  "species": "Sasanka koňská",
+  "latin": "Actinia equina",
+  "text": "Snáší vysoké teploty i vyschnutí.",
+  "quote": "it can tolerate both high temperatures and desiccation",
+  "claimed_false_for": {
+   "Q1192350": "Nezmar hnědý (Hydra oligactis)",
+   "Q1888438": "Medúzka sladkovodní (Craspedacusta sowerbyi)",
+   "Q2470250": "Kořenoústka plicnatá (Rhizostoma pulmo)",
+   "Q384085": "Sasanka velkolepá (Heteractis magnifica)",
+   "Q445245": "Korunovka purpurová (Periphylla periphylla)",
+   "Q522939": "Talířovka obrovská (Cyanea capillata)",
+   "Q531601": "Korál červený (Corallium rubrum)",
+   "Q935234": "Sasanka karafiátová (Metridium senile)"
+  }
+ }
+]

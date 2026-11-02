@@ -1,0 +1,19 @@
+{"drop_facts": [
+  {"id": "Q96636858#x2", "why": "převrácený význam (brouci nejsou potravou houbě) a nejasný podmět"},
+  {"id": "Q96636858#x3", "why": "sporný údaj o dvou vlnách plodnic ročně, jinde uváděno souvisle jaro-podzim"},
+  {"id": "Q977364#x0", "why": "vynechává podmínku 've střední Evropě' (jinde převážně na borovicích)"},
+  {"id": "Q978751#x1", "why": "zájmeno 'ho' bez jasného podmětu, rodově nesedí k holubince"},
+  {"id": "Q978751#x2", "why": "zájmeno 'jeho' bez jasného podmětu, rodově nesedí k holubince"}
+],
+"drop_pairs": [
+  {"id": "Q96636858#x0", "species": "Q1314944"},
+  {"id": "Q96636858#x0", "species": "Q772098"},
+  {"id": "Q96895499#1", "species": "Q1928270"},
+  {"id": "Q96895499#1", "species": "Q774576"},
+  {"id": "Q96895499#1", "species": "Q96934111"},
+  {"id": "Q977364#x1", "species": "Q2700696"},
+  {"id": "Q977364#x1", "species": "Q954191"},
+  {"id": "Q977364#x2", "species": "Q1574926"},
+  {"id": "Q977364#x3", "species": "Q1094895"},
+  {"id": "Q978751#x0", "species": "Q761680"}
+]}

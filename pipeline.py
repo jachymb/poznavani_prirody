@@ -59,7 +59,16 @@ CLASSES = {
     "ostatni_zivocichove": ("Q729", "Ostatní živočichové", "zivocichove"),
     "ostatni_rostliny": ("Q756", "Ostatní rostliny", "rostliny"),
     "ostatni_houby": ("Q764", "Ostatní houby", "houby"),
+    # Sekce Extra: druhy i rody, i bez českého jména. Má přednost před ostatními skupinami a do žádné říše se nepočítá.
+    "vyhynula_zvirata": ("", "Vyhynulá zvířata", "vyhynule"),
+    "mikroorganismy": ("Q10876 Q10872 Q137323 Q473809 Q5368723 Q499091 Q11299399 Q21588562 Q129012 Q180148 Q5194 Q190115 Q144474 Q132609 Q1151744",
+                       "Mikroorganismy", "mikroorganismy"),
 }
+EXTRA = {"vyhynula_zvirata", "mikroorganismy"}
+EXTRA_EXCLUDE = {"Q184573"}  # hnědé řasy patří do SAR, ale mikroskopické nejsou
+EXTRA_EXCLUDE_IDS = {"Q1738729"}  # urnička pohárová je houba, Wikidata ji chybně řadí mezi prvoky
+EXTINCT = "Q23038290 Q237350"  # fosilní taxon (P31), vyhynulý (P141)
+EXTRA_RANKS = "wd:Q7432 wd:Q34740"  # druh, rod: dinosauři a mnoho mikroorganismů mají český článek jen o rodu
 # Skupiny ve hře: smí obsahovat jen druhy, které do taxonu opravdu patří, podle jejich stromu na Wikidatech.
 # Druh dostane první skupinu, pod kterou patří (ptáci jsou na Wikidatech i v plazech).
 # Co nikam nepatří nebo by zůstalo ve skupině s příliš málo druhy, jde do souhrnné skupiny OTHER_GROUPS.
@@ -190,7 +199,7 @@ MAX_PHOTOS = 4
 MIN_COMMONS_WIDTH = 800  # další fotky z Commons mají být kvalitní
 WANTED_PHOTOS = 2  # s menším počtem schválených fotek se hledají další
 GAME_PHOTOS = 10  # nejvýš tolik schválených fotek jednoho druhu, doplňuje se do něj z Commons
-CATEGORIES = {"vzhled", "potrava", "výskyt", "chování", "mláďata", "čísla", "vztahy", "růst", "využití", "jedovatost", "účinky"}
+CATEGORIES = {"vzhled", "potrava", "výskyt", "chování", "mláďata", "čísla", "vztahy", "růst", "využití", "jedovatost", "účinky", "vymření"}
 CONTINENTS = ("EU", "AS", "AF", "NA", "SA", "AN", "OC")
 MIN_CLASS_SPECIES = 4  # méně druhů nestačí na otázku se čtyřmi možnostmi
 BAD_FILE = re.compile(
@@ -199,6 +208,8 @@ BAD_FILE = re.compile(
     r"|\bplate\b|fmib|taxiderm|museum|denticule|mnhn|naturalis|specimen|holotyp|syntyp|lectotyp|paratyp",
     re.I,
 )
+RELAXED_BAD_FILE = re.compile(r"map|range|distribution|areal|rozsir|rozšíř|status|logo|icon|stamp|známk|timeline|cladogram|kladogram|chart|graph"
+                              r"|size|comparison|scale", re.I)
 # dítě nesmí ze hry odnést, že něco může jíst nebo se tím léčit
 UNSAFE = re.compile(r"\b(jedl[ýáéíou]|chutn|léč|lék)", re.I)
 GEO_SECTION = re.compile(r"rozšíř|výskyt|areál|geografi|stanovišt|biotop|prostředí", re.I)
@@ -281,7 +292,7 @@ def paths(slug):
 def species_roots():
     """Ke každému druhu s českým článkem kořeny z CLASSES, pod které patří. Ukládá se, jeden průchod stačí pro všechny skupiny."""
     file = ROOTS_FILE
-    all_roots = sorted({q for cfg in [*CLASSES.values(), *GAME_GROUPS.values()] for q in cfg[0].split()})
+    all_roots = sorted({q for slug, cfg in [*CLASSES.items(), *GAME_GROUPS.items()] if slug not in EXTRA for q in cfg[0].split()})
     state = json.loads(file.read_text("utf-8")) if file.exists() else {}
     if state.get("all_roots") != all_roots:
         state = {"all_roots": all_roots, "roots": {}, "checked": []}
@@ -302,7 +313,46 @@ def species_roots():
 def list_species(qids, skip=()):
     """Druhy s českým článkem v daných taxonech: {qid: {title, latin, p18, commons, family, order}}."""
     wanted = set(qids)
-    members = sorted(s for s, roots in species_roots().items() if wanted & set(roots) and s not in skip)
+    return species_details(sorted(s for s, roots in species_roots().items() if wanted & set(roots) and s not in skip))
+
+
+def extra_members(slug):
+    """Druhy a rody s českým článkem pro skupinu z Extra. Ukládá se do members.json: má přednost i před druhy z jiných skupin."""
+    file = paths(slug)[0] / "members.json"
+    if file.exists():
+        return json.loads(file.read_text("utf-8"))
+    article = f"?art schema:about ?s; schema:isPartOf <https://cs.wikipedia.org/>. ?s wdt:P105 ?rank. VALUES ?rank {{ {EXTRA_RANKS} }}"
+    if slug == "vyhynula_zvirata":
+        fossil, extinct = EXTINCT.split()
+        candidates = set()
+        for condition in (f"?s wdt:P31 wd:{fossil}.", f"?s wdt:P141 wd:{extinct}."):  # dohromady dotaz vyprší
+            rows = sparql(f"""SELECT DISTINCT ?s WHERE {{ hint:Query hint:optimizer "None". {article} {condition} }}""")
+            candidates |= {r["s"]["value"].rsplit("/", 1)[1] for r in rows}
+        candidates = sorted(candidates)
+        animals = {r["s"]["value"].rsplit("/", 1)[1] for r in sparql_by_species(candidates, lambda v: f"SELECT ?s WHERE {{ VALUES ?s {{ {v} }} ?s wdt:P171+ wd:Q729 }}")}
+        found = [s for s in candidates if s in animals]
+    else:
+        found = set()
+        for root in CLASSES[slug][0].split():
+            rows = sparql(f"SELECT DISTINCT ?s WHERE {{ ?s wdt:P171+ wd:{root}. {article} }}")
+            found |= {r["s"]["value"].rsplit("/", 1)[1] for r in rows}
+        for root in EXTRA_EXCLUDE:
+            found -= {r["s"]["value"].rsplit("/", 1)[1] for r in sparql(f"SELECT DISTINCT ?s WHERE {{ ?s wdt:P171+ wd:{root}. {article} }}")}
+        found = sorted(found)
+    # rod, jehož druh má vlastní článek, by se ve hře ukázal dvakrát
+    parents = {r["parent"]["value"].rsplit("/", 1)[1] for r in sparql_by_species(found, lambda v: f"SELECT ?parent WHERE {{ VALUES ?s {{ {v} }} ?s wdt:P171 ?parent }}")}
+    result = {"members": [s for s in found if s not in parents and s not in EXTRA_EXCLUDE_IDS]}
+    if slug == "vyhynula_zvirata":  # kvůli emoji: dinosauři mimo ptáky 🦖, ptáci 🐦
+        under = lambda root: sorted({r["s"]["value"].rsplit("/", 1)[1] for r in sparql_by_species(
+            result["members"], lambda v: f"SELECT ?s WHERE {{ VALUES ?s {{ {v} }} ?s wdt:P171+ wd:{root} }}")})
+        result["birds"] = under("Q5113")
+        result["dinosaurs"] = sorted(set(under("Q430")) - set(result["birds"]))
+    file.parent.mkdir(parents=True, exist_ok=True)
+    file.write_text(json.dumps(result), encoding="utf-8")
+    return result
+
+
+def species_details(members):
     out = {}
     for r in sparql_by_species(members, lambda values: f"""SELECT ?s ?art ?latin ?img ?cat WHERE {{ VALUES ?s {{ {values} }}
         ?art schema:about ?s; schema:isPartOf <https://cs.wikipedia.org/>. OPTIONAL {{?s wdt:P225 ?latin}} OPTIONAL {{?s wdt:P18 ?img}} OPTIONAL {{?s wdt:P373 ?cat}} }}"""):
@@ -323,23 +373,25 @@ def list_species(qids, skip=()):
     return out
 
 
-def good_files(files):
-    return [f for f in files if f.lower().endswith((".jpg", ".jpeg")) and not BAD_FILE.search(f)]
+def good_files(files, relaxed=False):
+    """Kandidáti podle názvu souboru. U Extra smí být fosílie, exponáty, rekonstrukce a snímky z mikroskopu, vyřadí se jen mapy a grafika."""
+    bad = RELAXED_BAD_FILE if relaxed else BAD_FILE
+    return [f for f in files if f.lower().endswith((".jpg", ".jpeg")) and not bad.search(f)]
 
 
-def photo_candidates(sp, article_images):
+def photo_candidates(sp, article_images, relaxed=False):
     files = [f.removeprefix("Soubor:") for f in article_images]
-    return image_records(good_files(list(dict.fromkeys(sp["p18"] + files))), MAX_PHOTOS)
+    return image_records(good_files(list(dict.fromkeys(sp["p18"] + files)), relaxed), MAX_PHOTOS)
 
 
-def commons_candidates(category, known=(), limit=MAX_PHOTOS):
+def commons_candidates(category, known=(), limit=MAX_PHOTOS, relaxed=False):
     """Fotky z kategorie druhu na Wikimedia Commons, které ještě nemá."""
     members = wiki(host="commons.wikimedia.org", action="query", list="categorymembers", cmtitle=f"Category:{category}", cmtype="file", cmlimit=200)["categorymembers"]
     known = {f.replace(" ", "_") for f in known}
     files = [m["title"].removeprefix("File:") for m in members]
     # Commons řadí podle abecedy, začátek abecedy často zaplní kresby a muzejní exponáty. Pevné semínko: výběr je opakovatelný.
     random.Random(category).shuffle(files)
-    return image_records(good_files([f for f in files if f.replace(" ", "_") not in known]), limit, MIN_COMMONS_WIDTH)
+    return image_records(good_files([f for f in files if f.replace(" ", "_") not in known], relaxed), limit, MIN_COMMONS_WIDTH)
 
 
 def image_records(good, limit, min_width=400):
@@ -390,8 +442,9 @@ def fetch_species(slug, sid, sp):
     text = SECTION_END.split(page.get("extract", ""))[0].strip()
     if not text:  # o použitelnosti článku jinak rozhoduje subagent
         return "empty"
-    candidates = photo_candidates(sp, [i["title"] for i in page.get("images", [])])
-    photos = download_photos(thumbs, sid, candidates or commons_candidates(sp["commons"] or sp["latin"]))
+    relaxed = slug in EXTRA
+    candidates = photo_candidates(sp, [i["title"] for i in page.get("images", [])], relaxed)
+    photos = download_photos(thumbs, sid, candidates or commons_candidates(sp["commons"] or sp["latin"], relaxed=relaxed))
     if not photos:
         return "photoless"
     name = re.sub(r"\s*\(.*\)$", "", sp["title"])
@@ -415,8 +468,11 @@ def fetch(slug):
         if other != slug and paths(other)[1].exists():
             others |= set(json.loads(paths(other)[1].read_text("utf-8")))
     existing = json.loads(species_file.read_text("utf-8")) if species_file.exists() else {}
-    listed = list_species(CLASSES[slug][0].split(), others | set(existing))
-    found = {k: v for k, v in listed.items() if not v["latin"].startswith(EXCLUDE) and (v["title"] != v["latin"] or k in LATIN_ONLY)}
+    if slug in EXTRA:  # druhy z jiných skupin si Extra jen vezme ve hře, znovu se nezpracovávají
+        listed = species_details([s for s in extra_members(slug)["members"] if s not in others | set(existing)])
+    else:
+        listed = list_species(CLASSES[slug][0].split(), others | set(existing))
+    found = {k: v for k, v in listed.items() if not v["latin"].startswith(EXCLUDE) and (v["title"] != v["latin"] or k in LATIN_ONLY or slug in EXTRA)}
     print(f"Nových druhů s článkem (s českým názvem): {len(found)}", flush=True)
     # průběžný stav, ať přerušené stahování naváže; species.json se změní až po dokončení.
     # Už stažené druhy zůstávají beze změny, schválení fotek jsou indexy do jejich seznamu.
@@ -484,7 +540,7 @@ def more_photos(slug, batch=25, retry=False, fill=False):
         sp = species[sid]
         known = [p["file"] for p in sp["photos"]]
         limit = wanted[sid] if fill else MAX_PHOTOS * 2 if retry else MAX_PHOTOS
-        return download_photos(thumbs, sid, commons_candidates(categories.get(sid) or sp["latin"], known, limit), len(known))
+        return download_photos(thumbs, sid, commons_candidates(categories.get(sid) or sp["latin"], known, limit, slug in EXTRA), len(known))
 
     found = 0
     with ThreadPoolExecutor(3) as pool:
@@ -1088,9 +1144,18 @@ def build(slug):
     if unfinished:
         print("POZOR, tyto úlohy přísné kontroly nemají výstup, jejich data prošla bez ní:", unfinished)
     # fotka u dvou druhů by v otázce vytvořila dvě stejné možnosti
-    uses = Counter(species[s]["photos"][i]["url"] for s, v in facts.items() for i in v["photos"])
+    # adresy bez sledovacích parametrů; táž fotka dvakrát u jednoho druhu zůstane jednou
+    url = lambda s, i: species[s]["photos"][i]["url"].split("?")[0]  # noqa: E731
+    owners = defaultdict(set)
+    for s, v in facts.items():
+        for i in v["photos"]:
+            owners[url(s, i)].add(s)
     for sid, v in facts.items():
-        v["photos"] = [i for i in v["photos"] if uses[species[sid]["photos"][i]["url"]] == 1]
+        kept = {}
+        for i in v["photos"]:
+            if len(owners[url(sid, i)]) == 1:
+                kept.setdefault(url(sid, i), i)
+        v["photos"] = list(kept.values())
     alive = {s for s, v in facts.items() if v["photos"]}
     where = {}
     for file in sorted((base / "continents").glob("*.json")):
@@ -1139,7 +1204,8 @@ def popularity(slug, batch=300):
 def plain_text(text):
     """„Tento druh má…“ -> „Má…“. Kde by věta závisela na rodu („je velký“), nebo změnila pořadí slov („se“), zůstává podmět."""
     match = re.match(r"Tento druh (\S)(\S*)", text)
-    if not match or match.group(1) + match.group(2) in ("je", "není", "se", "si", "byl"):
+    # minulý čas (u vyhynulých: „žil“, „lovil“) závisí na rodu, podmět musí zůstat
+    if not match or match.group(1) + match.group(2) in ("je", "není", "se", "si", "byl") or match.group(2).endswith("l"):
         return text
     return match.group(1).upper() + text[len("Tento druh ") + 1:]
 
@@ -1163,7 +1229,16 @@ def write_game_data():
     groups = {slug: {"slug": slug, "name": name, "kingdom": kingdom, "species": []} for slug, (_, name, kingdom) in GAME_GROUPS.items()
               if slug != "dvoudelozne"}
     groups.update({slug: {"slug": slug, "name": name, "kingdom": "rostliny", "species": []} for slug, name in DICOT_GROUPS.items()})
+    groups.update({slug: {"slug": slug, "name": CLASSES[slug][1], "kingdom": "extra", "species": []} for slug in sorted(EXTRA)})
     others = {kingdom: {"slug": slug, "name": name, "kingdom": kingdom, "species": []} for kingdom, (slug, name) in OTHER_GROUPS.items()}
+    # Extra má přednost: vyhynulý savec nebo mikroskopická řasa ze staršího stahování jde tam, ne do své říše.
+    extra_of, clade = {}, {}
+    for slug in EXTRA:
+        file = paths(slug)[0] / "members.json"
+        if file.exists():
+            info = json.loads(file.read_text("utf-8"))
+            extra_of.update(dict.fromkeys(info["members"], slug))
+            clade.update({**dict.fromkeys(info.get("dinosaurs", []), "dinosaurs"), **dict.fromkeys(info.get("birds", []), "birds")})
     for slug, (_, _, kingdom) in CLASSES.items():
         file = paths(slug)[0] / "built.json"
         if not file.exists():
@@ -1175,14 +1250,14 @@ def write_game_data():
                 s["latin"] = s["latin"] or LATIN_NAMES.get(s["id"], "")
                 s["order"] = modern_order(s["order"], s["family"])
                 own = set(roots.get(s["id"], []))
-                key = next((key for key, cfg in GAME_GROUPS.items() if own & set(cfg[0].split())), None)
+                key = extra_of.get(s["id"]) or next((key for key, cfg in GAME_GROUPS.items() if own & set(cfg[0].split())), None)
                 if key == "dvoudelozne":
                     key = dicot_group(s["order"])
                 if s["order"] in ORDERS_OF_FISH:
                     key = "ryby"
                 (groups[key] if key else others[kingdom])["species"].append(s)
     for group in groups.values():
-        if len(group["species"]) < MIN_CLASS_SPECIES:
+        if len(group["species"]) < MIN_CLASS_SPECIES and group["kingdom"] in others:
             others[group["kingdom"]]["species"] += group["species"]
             group["species"] = []
     for s in groups["savci"]["species"]:
@@ -1191,7 +1266,7 @@ def write_game_data():
         add_easter_egg(groups[EASTER_EGG["class"]]["species"])
     for group in [*groups.values(), *others.values()]:
         for s in group["species"]:
-            s["emoji"] = species_emoji(group["slug"], s)
+            s["emoji"] = species_emoji(group["slug"], {**s, "clade": clade.get(s["id"])})
     classes = [g for g in [*groups.values(), *others.values()] if len(g["species"]) >= MIN_CLASS_SPECIES]
     # odsazené kvůli ručnímu čtení a čitelným rozdílům v gitu, build.js odsazení při kompilaci odstraní
     (ROOT / "game" / "data.js").write_text("window.GAME_DATA = " + json.dumps(classes, ensure_ascii=False, indent=2) + ";\n", encoding="utf-8")

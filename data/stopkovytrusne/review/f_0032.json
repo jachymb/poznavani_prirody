@@ -1,0 +1,25 @@
+{"drop_facts": [
+ {"id": "Q3490762#x0", "why": "farmland přeloženo jako pole; druh roste v trávě (louky, pastviny), ne na polích s plodinami"},
+ {"id": "Q3490762#x1", "why": "přidané slovo „jen“, které v citaci není"},
+ {"id": "Q3570555#1", "why": "vzácnost platí pro ČR/Evropu, vynechaná podmínka (v Severní Americe běžnější)"},
+ {"id": "Q3817466#x0", "why": "vůně nepřímo prozrazuje český název „vonná“"},
+ {"id": "Q3915786#x3", "why": "údaje z červených seznamů se mění, mohou být zastaralé; zařazení na seznam neznamená vždy ohrožený"},
+ {"id": "Q42054#0", "why": "sporný rozměr klobouku, většina zdrojů uvádí asi 2–12 cm"},
+ {"id": "Q4329061#x1", "why": "zavádějící „tradičně spojuje“, nejasné pro děti a v rozporu s českým pojetím křemenáče dubového"},
+ {"id": "Q48188#x0", "why": "zápach mršiny nepřímo prozrazuje český název „smrdutá“"},
+ {"id": "Q48188#x5", "why": "zobecňuje pozorování jedné studie u jezevčích nor, vynechává kontext „možná souvislost“"},
+ {"id": "Q498221#x0", "why": "maroon znamená vínově červenou, ne hnědou; mléko ryzce smrkového rudne"},
+ {"id": "Q498221#x2", "why": "vynechané „také“; hlavním partnerem je smrk, medvědice je výjimka"}
+],
+"drop_pairs": [
+ {"id": "Q3506233#0", "species": "Q111697"},
+ {"id": "Q36992#3", "species": "Q1654979"},
+ {"id": "Q3817466#x2", "species": "Q1112614"},
+ {"id": "Q3915786#x0", "species": "Q10674380"},
+ {"id": "Q3915840#x0", "species": "Q10432825"},
+ {"id": "Q3915840#x0", "species": "Q1356296"},
+ {"id": "Q3915840#x0", "species": "Q783554"},
+ {"id": "Q41596453#x2", "species": "Q1624061"},
+ {"id": "Q41596453#x2", "species": "Q205568"},
+ {"id": "Q41596453#x2", "species": "Q473745"}
+]}

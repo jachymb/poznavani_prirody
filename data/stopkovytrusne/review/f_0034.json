@@ -1,0 +1,30 @@
+{"drop_facts": [
+{"id": "Q752492#x0", "why": "nejasný 'kruh' bez zmínky o čarodějných kruzích, bez článku nesrozumitelné"},
+{"id": "Q761680#x1", "why": "škodlivost pro hostitele a zpoždění dozrávání spor není spolehlivě doloženo, sporné"},
+{"id": "Q856834#x1", "why": "zobecňuje konkrétní druh slimáka (banana slug) na všechny slimáky, příliš úzce specifické"},
+{"id": "Q856834#x2", "why": "ekologie mechovky (mykorhiza vs. saprotrofie) je sporná"},
+{"id": "Q857903#x4", "why": "zaměňuje horní mez (až 10 cm) za typickou hodnotu"},
+{"id": "Q865540#x4", "why": "'za syrova' naznačuje, že tepelně upravený je bezpečný; u nás považován za jedovatý"}
+],
+"drop_pairs": [
+{"id": "Q690801#x0", "species": "Q188643"},
+{"id": "Q690801#x0", "species": "Q623485"},
+{"id": "Q690801#x0", "species": "Q628977"},
+{"id": "Q690801#x0", "species": "Q937968"},
+{"id": "Q690801#x0", "species": "Q3817466"},
+{"id": "Q690801#x0", "species": "Q138027"},
+{"id": "Q761680#x2", "species": "Q473745"},
+{"id": "Q76922#0", "species": "Q1257786"},
+{"id": "Q76922#0", "species": "Q633746"},
+{"id": "Q779716#1", "species": "Q10713598"},
+{"id": "Q779716#1", "species": "Q3817466"},
+{"id": "Q779716#1", "species": "Q761680"},
+{"id": "Q790626#1", "species": "Q227690"},
+{"id": "Q857903#x1", "species": "Q10713598"},
+{"id": "Q833108#1", "species": "Q26203718"},
+{"id": "Q833108#1", "species": "Q26203737"},
+{"id": "Q833108#1", "species": "Q20721676"},
+{"id": "Q833108#1", "species": "Q2909343"},
+{"id": "Q833108#1", "species": "Q3570555"},
+{"id": "Q833108#1", "species": "Q633503"}
+]}

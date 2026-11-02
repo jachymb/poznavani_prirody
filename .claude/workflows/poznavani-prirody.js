@@ -34,10 +34,42 @@ const KIND = {
     bland: 'žádné „Je to houba.“, „Roste v lese.“ ani „Má klobouk.“',
     captive: 'houba zjevně neroste volně: je v ruce, na stole, v košíku, v misce nebo v obchodě, je to pěstírna nebo substrát v nádobě',
   },
+  // Extra: fosílie, exponáty a rekonstrukce jsou u vyhynulých v pořádku, u mikroorganismů snímky z mikroskopu a vizualizace.
+  vyhynule: {
+    good: 'fotografii fosílie, kostry, otisku nebo muzejního exponátu, věrnou rekonstrukci (malbu, kresbu, model, sochu), u nedávno vyhynulých druhů i dobovou fotografii nebo preparát, na kterých jde zvíře dobře poznat',
+    bad: 'časovou osu, srovnání velikosti se siluetami, schéma bez zvířete, celý muzejní sál bez jasného hlavního exponátu',
+    art: 'mapu, známku',
+    artExample: 'mapa, schéma',
+    harm: 'krev, zraněné zvíře, lov nebo cokoli nevhodného pro děti',
+    hard: 'zvíře nebo fosílie skoro není vidět: je rozmazané, malé, zakryté nebo ve velmi nízkém rozlišení',
+    where: '',
+    categories: 'vzhled | potrava | výskyt | chování | čísla | vztahy | vymření (výskyt = kde a kdy žil; vymření = kdy a proč vyhynul; čísla = měřitelný údaj)',
+    bland: 'žádné „Je to vyhynulé zvíře.“ ani „Známe ho jen z fosílií.“',
+    terms: 'Vyhynulé zvíře popisuj v minulém čase s podmětem „Tento druh“ („Tento druh žil v období křídy.“) nebo slovy, která nezávisí na rodu („Pochází z období křídy.“, „Jeho fosílie se našly v Mongolsku.“).',
+  },
+  mikroorganismy: {
+    good: 'snímek z mikroskopu, fotografii kolonie nebo kultury, grafickou vizualizaci nebo model, které odpovídají tomuto druhu, u hlenek a viditelných řas i běžnou fotografii',
+    bad: 'graf, schéma bez organismu, fotku přístroje, laboratoře nebo lidí',
+    art: 'mapu, logo, známku',
+    artExample: 'mapa, graf',
+    hard: 'organismus skoro není vidět: snímek je rozmazaný, přeexponovaný nebo ve velmi nízkém rozlišení',
+    where: '',
+    categories: 'vzhled | výskyt | potrava | vztahy | čísla | využití | jedovatost (vztahy = symbióza, parazitismus, nemoci, které způsobuje; využití = jen nepotravinové a nelékařské, např. v průmyslu; čísla = měřitelný údaj)',
+    bland: 'žádné „Je to mikroorganismus.“, „Je velmi malý.“ ani „Žije skoro všude.“',
+    terms: 'Nemoci, které organismus způsobuje, uváděj věcně a bez děsivých podrobností.',
+  },
 }
+// Běžné fotky přírody nesmí být kresby ani preparáty; u Extra to KIND mění.
+const DEFAULTS = {
+  art: 'mapu, kresbu, malbu, schéma, sken z knihy, známku',
+  artExample: 'kresba, sken z knihy',
+  harm: 'mrtvý nebo poškozený organismus, krev, lov nebo cokoli nevhodného pro děti',
+  where: ' v přírodě',
+}
+const K = (kingdom, field) => KIND[kingdom][field] ?? DEFAULTS[field]
 
 // Hra chce jen fotky, které jsou z volné přírody, nebo tak aspoň na první pohled vypadají.
-const WILD = (kingdom) => `Zamítni i fotku, která nevypadá ani na první pohled jako z volné přírody, protože ${KIND[kingdom].captive}. Fotka ze zoo nebo zahrady, na které to nejde poznat, je v pořádku.`
+const WILD = (kingdom) => (KIND[kingdom].captive ? `Zamítni i fotku, která nevypadá ani na první pohled jako z volné přírody, protože ${KIND[kingdom].captive}. Fotka ze zoo nebo zahrady, na které to nejde poznat, je v pořádku.` : '')
 
 const wildPrompt = (slug, kingdom, id) => `Kontroluješ fotky dětského kvízu o přírodě. Ve hře mají být jen fotky z volné přírody, nebo aspoň takové, které tak na první pohled vypadají. Ostatní kvality fotek už prošly kontrolou, posuzuj jen prostředí.
 
@@ -100,7 +132,7 @@ const factsPrompt = (slug, kingdom, id) =>`Pracuješ na dětské výukové hře 
 1. Přečti článek z české Wikipedie: ${root}/data/${slug}/articles/${id}.txt
    Hlavička obsahuje název druhu, cílový POČET TVRZENÍ a seznam FOTEK (relativní cesty k ${root}).
 2. Prohlédni si každou fotku nástrojem Read a posuď ji. Schval (ok: true) jen ${KIND[kingdom].good} a která vzhledem, názvem souboru i popisem odpovídá tomuto druhu.
-   Zamítni (ok: false): mapu, kresbu, malbu, schéma, sken z knihy, známku, ${KIND[kingdom].bad}, jiný druh, fotku se dvěma různými druhy, fotku, kde je hlavní člověk, a fotku s nápisem prozrazujícím název druhu.
+   Zamítni (ok: false): ${K(kingdom, 'art')}, ${KIND[kingdom].bad}, jiný druh, fotku se dvěma různými druhy, fotku, kde je hlavní člověk, a fotku s nápisem prozrazujícím název druhu.
    ${WILD(kingdom)}
 3. ${FACT_RULES(kingdom)}
    U každého tvrzení uveď "quote": DOSLOVNÝ úsek textu článku (bez hlavičky), který tvrzení dokládá. Kopíruj přesně, program ho hledá v článku.
@@ -113,8 +145,8 @@ Jako výsledek vrať jen slovo HOTOVO.`
 const photosPrompt = (slug, kingdom, id) => `Posuzuješ další fotky k dětské výukové hře o přírodě. Fotky pocházejí z kategorie druhu na Wikimedia Commons, takže na nich může být cokoli. Buď stejně přísný jako u ostatních fotek, nároky na kvalitu nesnižuj: raději žádnou fotku než špatnou.
 
 Přečti ${root}/data/${slug}/photo_jobs/${id}.json ("species", "latin" a seznam "photos") a každou fotku ("image", cesta relativní k ${root}) si prohlédni nástrojem Read.
-Schval (ok: true) jen ${KIND[kingdom].good} a která vzhledem, názvem souboru i popisem odpovídá tomuto druhu a dobře ukazuje druh v přírodě.
-Zamítni (ok: false): mapu, kresbu, malbu, schéma, sken z knihy, známku, ${KIND[kingdom].bad}, jiný druh, fotku se dvěma různými druhy, fotku, kde je hlavní člověk, a fotku s nápisem prozrazujícím název druhu. Zamítni i fotku, kde ${KIND[kingdom].hard}.
+Schval (ok: true) jen ${KIND[kingdom].good} a která vzhledem, názvem souboru i popisem odpovídá tomuto druhu a dobře ukazuje druh${K(kingdom, 'where')}.
+Zamítni (ok: false): ${K(kingdom, 'art')}, ${KIND[kingdom].bad}, jiný druh, fotku se dvěma různými druhy, fotku, kde je hlavní člověk, a fotku s nápisem prozrazujícím název druhu. Zamítni i fotku, kde ${KIND[kingdom].hard}.
 ${WILD(kingdom)}
 
 Zapiš nástrojem Write do souboru ${root}/data/${slug}/more_photos/${id}.json jen tento JSON s položkou pro každou fotku:
@@ -168,13 +200,13 @@ const photoReviewPrompt = (slug, kingdom, id) => `Kontroluješ fotky dětského 
 
 Přečti ${root}/data/${slug}/review_jobs/${id}.json a každou fotku ("image", cesta relativní k ${root}) si prohlédni nástrojem Read.
 Do "reject_photos" dej každou fotku, která:
-- není ${KIND[kingdom].good}: např. kresba, sken z knihy, ${KIND[kingdom].bad};
+- není ${KIND[kingdom].good}: např. ${K(kingdom, 'artExample')}, ${KIND[kingdom].bad};
 - ukazuje jiný druh, než uvádí "species" a "latin", nebo vzhled druhu zjevně neodpovídá;
-- ukazuje mrtvý nebo poškozený organismus, krev, lov nebo cokoli nevhodného pro děti;
+- ukazuje ${K(kingdom, 'harm')};
 - obsahuje nápis nebo popisek prozrazující druh;
-- ${KIND[kingdom].hard}, takže znaky druhu nejde rozeznat;
-- nevypadá ani na první pohled jako z volné přírody, protože ${KIND[kingdom].captive}.
-Fotku samotného druhu z běžného úhlu, u níž pouze nejde odlišit velmi podobné příbuzné, ponech. Fotku ze zoo nebo zahrady, která na první pohled vypadá jako z volné přírody, ponech.
+- ${KIND[kingdom].hard}, takže znaky druhu nejde rozeznat;${KIND[kingdom].captive ? `
+- nevypadá ani na první pohled jako z volné přírody, protože ${KIND[kingdom].captive}.` : ''}
+Fotku samotného druhu z běžného úhlu, u níž pouze nejde odlišit velmi podobné příbuzné, ponech.${KIND[kingdom].captive ? ' Fotku ze zoo nebo zahrady, která na první pohled vypadá jako z volné přírody, ponech.' : ''}
 
 Zapiš nástrojem Write do ${root}/data/${slug}/review/${id}.json jen tento JSON (pole může být prázdné):
 {"reject_photos": [{"species_id": "Q1", "i": 0, "why": "krátký důvod"}]}

@@ -162,6 +162,8 @@
     { id: "rostliny", label: "Rostliny", icon: "🌱", note: "Neznámé rostliny nikdy neochutnávej a nesbírej jen podle této hry." },
     { id: "houby", label: "Houby", icon: "🍄", note: "Pozor: hra neučí sbírat houby. Nikdy nejez houbu, kterou neověřil dospělý znalec." },
   ];
+  // Zvláštní skupiny jen ve výběru jedné skupiny: jejich druhy se do žádné říše nepočítají.
+  const EXTRA = { id: "extra", label: "Extra", icon: "✨" };
   const CONTINENTS = [
     { code: "EU", name: "Evropa", color: "#3f7fb5" },
     { code: "AS", name: "Asie", color: "#d9822b" },
@@ -176,7 +178,7 @@
     savci: "🐻", ptaci: "🐦", plazi: "🦎", obojzivelnici: "🐸", ryby: "🐟", paryby: "🦈", hmyz: "🦋", pavoukovci: "🕷️", mekkysi: "🐌", korysi: "🦀",
     ostatni_zivocichove: "🪼",
     nahosemenne: "🌲", rosidy: "🌹", asteridy: "🌻", ostatni_dvoudelozne: "🪷", jednodelozne: "🌷", vytrusne: "🌿", ostatni_rostliny: "🍃",
-    stopkovytrusne: "🍄‍🟫", ostatni_houby: "🦠",
+    stopkovytrusne: "🍄‍🟫", ostatni_houby: "🍂", vyhynula_zvirata: "🦖", mikroorganismy: "🦠",
   };
   // Co skupiny obsahují, ukáže se při najetí myší.
   const GROUP_HINTS = {
@@ -199,6 +201,8 @@
     jednodelozne: "Trávy, ostřice, lilie, orchideje, palmy, banánovníky a další rostliny s jedním děložním lístkem",
     stopkovytrusne: "Houby s kloboukem, jako hřiby, muchomůrky a holubinky, dále choroše, hvězdovky a další, včetně rzí a snětí",
     vreckovytrusne: "Smrže, ucháče, kališníky, dřevnatky, padlí a další, včetně lišejníků",
+    vyhynula_zvirata: "Dinosauři, ptakoještěři, mamuti, trilobiti, amoniti a další zvířata, která už nežijí, i nedávno vyhynulá jako dronte nebo vakovlk. Fotky jsou i fosílie a rekonstrukce",
+    mikroorganismy: "Bakterie a sinice, archea, prvoci (měňavky, trepky, krásnoočka), rozsivky, obrněnky, mikroskopické zelené řasy, hlenky a další drobné organismy. Fotky jsou i snímky z mikroskopu",
   };
   const GROUP_DRAWINGS = {
     plostenci: '<path fill="#e6a6a0" stroke="#c97c75" stroke-width=".8" d="M2.500 12.500c1-4.500 4.500-6.500 7-5.500s3.700 3 5.500 1.500c1.300-1.100 2.500-.6 2.500.8s-1.700 3.700-5 4.200-5-1-6.500-.8-2.500 1.500-3.500-.2z"/><circle cx="14.700" cy="10" r=".5" fill="#6d3a36"/><circle cx="16" cy="9.800" r=".5" fill="#6d3a36"/>',
@@ -256,7 +260,7 @@
 
   // Kvíz jen z jedné třídy. Nabízí se jen třídy, které při současném výběru jdou hrát.
   function classChoices() {
-    const sections = KINGDOMS.map((k) => {
+    const sections = [...KINGDOMS, EXTRA].map((k) => {
       const playable = classesOf(k.id).filter((c) => window.Quiz.makeQuestion([c], { level }));
       const buttons = playable.sort((a, b) => b.species.length - a.species.length).map((c) =>
         el("button", { class: "group", title: GROUP_HINTS[c.slug] || "", onclick: () => startGame(k, { classSlug: c.slug }) },

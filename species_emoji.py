@@ -203,6 +203,12 @@ RULES = {
 
 for _dicots in ("rosidy", "asteridy", "ostatni_dvoudelozne"):  # dvouděložné jsou ve hře ve třech skupinách
     RULES[_dicots] = RULES["dvoudelozne"]
+# Extra: „clade“ doplní pipeline podle stromu na Wikidatech (ptáci jsou na Wikidatech i dinosauři).
+RULES["vyhynula_zvirata"] = [
+    (name("Mamut"), "🦣"), (name("Dronte"), "🦤"), (lambda s: s.get("clade") == "birds", "🐦"),
+    (lambda s: s.get("clade") == "dinosaurs", "🦖"), (ANY, "🦴"),
+]
+RULES["mikroorganismy"] = [(ANY, "🦠")]
 
 
 def species_emoji(group, species):
