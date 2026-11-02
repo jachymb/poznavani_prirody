@@ -27,6 +27,8 @@ assert(window.Quiz.isDull({ text: "Kvete od června do srpna." }) && !window.Qui
   assert(window.Quiz.atLevel([mammals], "advanced")[0].species.some((s) => s.order === "letouni"), "pokročilý zná i netopýry");
   const europe = window.Quiz.inContinents([mammals], new Set(["EU"]));
   assert(window.Quiz.atLevel(europe, "beginner")[0].species.some((s) => s.order === "letouni"), "začátečník v Evropě zná netopýra");
+  const sharks = window.Quiz.inContinents([classes.find((c) => c.slug === "paryby")], new Set(["EU"]));
+  assert(window.Quiz.atLevel(sharks, "beginner")[0].species.some((s) => s.clade === "rejnoci"), "začátečník v Evropě zná i rejnoka");
   for (const c of classes) {
     const limit = Math.max(8, Math.ceil(c.species.length * 0.05));
     assert(window.Quiz.atLevel([c], "beginner")[0].species.filter((s) => !s.egg).length <= limit, `${c.slug}: kvóty řádů nezvětší začátečníka`);

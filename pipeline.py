@@ -135,6 +135,14 @@ def dicot_group(order):
     return "rosidy" if order in SUPERROSIDS else "asteridy" if order in SUPERASTERIDS else "ostatni_dvoudelozne"
 
 
+# Paryby mají jemné řády (žraloci pět, rejnoci čtyři), kvóty úrovní ve hře proto počítají s nadřády.
+RAY_ORDERS = {"praví rejnoci", "Myliobatiformes", "Rhinopristiformes", "Parejnoci", "Rajiformes", "Torpediniformes"}
+
+
+def cartilaginous_clade(order):
+    return "rejnoci" if order in RAY_ORDERS else "chiméry" if order in ("Chimaeriformes", "chiméry") else "žraloci"
+
+
 # Latinský název, který se při stahování z Wikidat nepodařilo získat; podle české Wikipedie.
 LATIN_NAMES = {"Q1394001": "Correlophus ciliatus"}
 # Řády kostnatých ryb, které na Wikidatech nejsou napojené na kořeny skupiny Ryby (tresky, parmice).
@@ -1346,6 +1354,8 @@ def write_game_data():
             group["species"] = []
     for s in groups["savci"]["species"]:
         s["peers"] = peer_group(s)
+    for s in groups["paryby"]["species"]:
+        s["clade"] = cartilaginous_clade(s["order"])
     if groups[EASTER_EGG["class"]]["species"]:
         add_easter_egg(groups[EASTER_EGG["class"]]["species"])
     for group in [*groups.values(), *others.values()]:

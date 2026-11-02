@@ -219,9 +219,10 @@
     if (!pool) return c;
     const limit = Math.max(pool.min, Math.ceil(c.species.length * pool.share));
     const ranked = [...c.species].sort((a, b) => (b.pop || 0) - (a.pop || 0));
-    const size = {}, taken = {};
-    for (const s of ranked) size[s.order] = (size[s.order] || 0) + 1;
-    const known = new Set(ranked.filter((s) => (taken[s.order] = (taken[s.order] || 0) + 1) <= Math.round(size[s.order] * pool.share * ORDER_QUOTA)));
+    const size = {}, taken = {}, perSpecies = (limit / ranked.length) * ORDER_QUOTA;
+    const group = (s) => s.clade || s.order;
+    for (const s of ranked) size[group(s)] = (size[group(s)] || 0) + 1;
+    const known = new Set(ranked.filter((s) => (taken[group(s)] = (taken[group(s)] || 0) + 1) <= Math.round(size[group(s)] * perSpecies)));
     for (const s of ranked) if (known.size < limit) known.add(s);
     return { ...c, wide: c.species, species: [...new Set([...known, ...c.species.filter((s) => s.egg)])] };
   });

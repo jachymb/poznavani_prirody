@@ -267419,6 +267419,7 @@ window.GAME_DATA = [
               "Q129639",
               "Q24049404",
               "Q260106",
+              "Q301019",
               "Q333375",
               "Q536224",
               "Q755105",
@@ -279991,6 +279992,7 @@ window.GAME_DATA = [
             "cat": "čísla",
             "not": [
               "Q2482211",
+              "Q301019",
               "Q592469",
               "Q627960"
             ]
@@ -282107,6 +282109,7 @@ window.GAME_DATA = [
               "Q129639",
               "Q24049404",
               "Q260106",
+              "Q301019",
               "Q333375",
               "Q838199"
             ]
@@ -282283,7 +282286,9 @@ window.GAME_DATA = [
             "id": "Q723654#4",
             "text": "Loví i měkkýše, korýše a žáby.",
             "cat": "potrava",
-            "not": []
+            "not": [
+              "Q301019"
+            ]
           },
           {
             "id": "Q723654#5",
@@ -282294,6 +282299,7 @@ window.GAME_DATA = [
               "Q192167",
               "Q2482211",
               "Q27098",
+              "Q301019",
               "Q592469",
               "Q913943",
               "Q917209"
@@ -282549,6 +282555,7 @@ window.GAME_DATA = [
             "not": [
               "Q1519608",
               "Q3541",
+              "Q385764",
               "Q855167",
               "Q882822"
             ]
@@ -282569,6 +282576,7 @@ window.GAME_DATA = [
               "Q27336",
               "Q3541",
               "Q3761965",
+              "Q385764",
               "Q387344",
               "Q458204",
               "Q519849",
@@ -285516,6 +285524,7 @@ window.GAME_DATA = [
               "Q13222818",
               "Q24049404",
               "Q260106",
+              "Q301019",
               "Q333375",
               "Q838199",
               "Q943193"
@@ -287320,6 +287329,7 @@ window.GAME_DATA = [
           "OC"
         ],
         "pop": 35,
+        "clade": "žraloci",
         "emoji": "🦈"
       },
       {
@@ -287375,6 +287385,7 @@ window.GAME_DATA = [
           "AF"
         ],
         "pop": 36,
+        "clade": "chiméry",
         "emoji": "🐟"
       },
       {
@@ -287450,6 +287461,7 @@ window.GAME_DATA = [
           "OC"
         ],
         "pop": 41,
+        "clade": "žraloci",
         "emoji": "🦈"
       },
       {
@@ -287530,6 +287542,7 @@ window.GAME_DATA = [
           "SA"
         ],
         "pop": 22,
+        "clade": "chiméry",
         "emoji": "🐟"
       },
       {
@@ -287632,6 +287645,7 @@ window.GAME_DATA = [
           "OC"
         ],
         "pop": 28,
+        "clade": "žraloci",
         "emoji": "🦈"
       },
       {
@@ -287715,6 +287729,7 @@ window.GAME_DATA = [
           "OC"
         ],
         "pop": 107,
+        "clade": "žraloci",
         "emoji": "🦈"
       },
       {
@@ -287780,6 +287795,7 @@ window.GAME_DATA = [
           "OC"
         ],
         "pop": 41,
+        "clade": "žraloci",
         "emoji": "🦈"
       },
       {
@@ -287868,6 +287884,7 @@ window.GAME_DATA = [
           "OC"
         ],
         "pop": 47,
+        "clade": "žraloci",
         "emoji": "🦈"
       },
       {
@@ -287987,6 +288004,7 @@ window.GAME_DATA = [
           "OC"
         ],
         "pop": 63,
+        "clade": "žraloci",
         "emoji": "🦈"
       },
       {
@@ -288053,6 +288071,7 @@ window.GAME_DATA = [
           "OC"
         ],
         "pop": 67,
+        "clade": "žraloci",
         "emoji": "🦈"
       },
       {
@@ -288146,6 +288165,7 @@ window.GAME_DATA = [
           "OC"
         ],
         "pop": 59,
+        "clade": "žraloci",
         "emoji": "🦈"
       },
       {
@@ -288226,6 +288246,7 @@ window.GAME_DATA = [
           "OC"
         ],
         "pop": 45,
+        "clade": "žraloci",
         "emoji": "🦈"
       },
       {
@@ -288282,6 +288303,7 @@ window.GAME_DATA = [
           "OC"
         ],
         "pop": 40,
+        "clade": "žraloci",
         "emoji": "🦈"
       },
       {
@@ -288352,6 +288374,7 @@ window.GAME_DATA = [
           "OC"
         ],
         "pop": 40,
+        "clade": "žraloci",
         "emoji": "🦈"
       },
       {
@@ -288421,6 +288444,7 @@ window.GAME_DATA = [
           "OC"
         ],
         "pop": 70,
+        "clade": "žraloci",
         "emoji": "🦈"
       },
       {
@@ -288511,6 +288535,7 @@ window.GAME_DATA = [
           "OC"
         ],
         "pop": 24,
+        "clade": "žraloci",
         "emoji": "🦈"
       },
       {
@@ -288563,6 +288588,7 @@ window.GAME_DATA = [
           "SA"
         ],
         "pop": 25,
+        "clade": "žraloci",
         "emoji": "🦈"
       },
       {
@@ -288610,6 +288636,7 @@ window.GAME_DATA = [
           "OC"
         ],
         "pop": 28,
+        "clade": "žraloci",
         "emoji": "🦈"
       },
       {
@@ -288660,6 +288687,7 @@ window.GAME_DATA = [
           "OC"
         ],
         "pop": 34,
+        "clade": "rejnoci",
         "emoji": "🐟"
       },
       {
@@ -288718,6 +288746,7 @@ window.GAME_DATA = [
           "OC"
         ],
         "pop": 44,
+        "clade": "žraloci",
         "emoji": "🦈"
       },
       {
@@ -288765,6 +288794,7 @@ window.GAME_DATA = [
           "OC"
         ],
         "pop": 17,
+        "clade": "žraloci",
         "emoji": "🦈"
       },
       {
@@ -288881,6 +288911,7 @@ window.GAME_DATA = [
           "OC"
         ],
         "pop": 49,
+        "clade": "žraloci",
         "emoji": "🦈"
       },
       {
@@ -289020,6 +289051,7 @@ window.GAME_DATA = [
           "OC"
         ],
         "pop": 41,
+        "clade": "rejnoci",
         "emoji": "🐟"
       },
       {
@@ -289062,6 +289094,7 @@ window.GAME_DATA = [
           "SA"
         ],
         "pop": 32,
+        "clade": "žraloci",
         "emoji": "🦈"
       },
       {
@@ -289112,6 +289145,7 @@ window.GAME_DATA = [
           "NA"
         ],
         "pop": 56,
+        "clade": "žraloci",
         "emoji": "🦈"
       },
       {
@@ -289210,6 +289244,7 @@ window.GAME_DATA = [
           "OC"
         ],
         "pop": 27,
+        "clade": "žraloci",
         "emoji": "🦈"
       },
       {
@@ -289296,6 +289331,7 @@ window.GAME_DATA = [
           "SA"
         ],
         "pop": 18,
+        "clade": "rejnoci",
         "emoji": "🐟"
       },
       {
@@ -289333,6 +289369,7 @@ window.GAME_DATA = [
           "AF"
         ],
         "pop": 38,
+        "clade": "rejnoci",
         "emoji": "🐟"
       },
       {
@@ -289372,6 +289409,7 @@ window.GAME_DATA = [
           "OC"
         ],
         "pop": 41,
+        "clade": "žraloci",
         "emoji": "🦈"
       },
       {
@@ -289452,6 +289490,7 @@ window.GAME_DATA = [
           "SA"
         ],
         "pop": 37,
+        "clade": "žraloci",
         "emoji": "🦈"
       },
       {
@@ -289519,6 +289558,7 @@ window.GAME_DATA = [
           "OC"
         ],
         "pop": 46,
+        "clade": "žraloci",
         "emoji": "🦈"
       },
       {
@@ -289577,6 +289617,7 @@ window.GAME_DATA = [
           "OC"
         ],
         "pop": 42,
+        "clade": "žraloci",
         "emoji": "🦈"
       },
       {
@@ -289616,6 +289657,7 @@ window.GAME_DATA = [
           "AF"
         ],
         "pop": 42,
+        "clade": "rejnoci",
         "emoji": "🐟"
       },
       {
@@ -289666,6 +289708,7 @@ window.GAME_DATA = [
           "OC"
         ],
         "pop": 19,
+        "clade": "žraloci",
         "emoji": "🦈"
       },
       {
@@ -289753,6 +289796,7 @@ window.GAME_DATA = [
           "OC"
         ],
         "pop": 39,
+        "clade": "žraloci",
         "emoji": "🦈"
       },
       {
@@ -289806,6 +289850,7 @@ window.GAME_DATA = [
           "OC"
         ],
         "pop": 46,
+        "clade": "žraloci",
         "emoji": "🦈"
       },
       {
@@ -289859,6 +289904,7 @@ window.GAME_DATA = [
           "SA"
         ],
         "pop": 41,
+        "clade": "žraloci",
         "emoji": "🦈"
       },
       {
@@ -289931,6 +289977,7 @@ window.GAME_DATA = [
           "NA"
         ],
         "pop": 19,
+        "clade": "rejnoci",
         "emoji": "🐟"
       },
       {
@@ -289986,6 +290033,7 @@ window.GAME_DATA = [
           "OC"
         ],
         "pop": 42,
+        "clade": "žraloci",
         "emoji": "🦈"
       },
       {
@@ -290062,6 +290110,7 @@ window.GAME_DATA = [
           "OC"
         ],
         "pop": 94,
+        "clade": "žraloci",
         "emoji": "🦈"
       },
       {
@@ -290156,6 +290205,7 @@ window.GAME_DATA = [
           "OC"
         ],
         "pop": 35,
+        "clade": "žraloci",
         "emoji": "🦈"
       },
       {
@@ -290210,6 +290260,7 @@ window.GAME_DATA = [
           "AF"
         ],
         "pop": 38,
+        "clade": "žraloci",
         "emoji": "🦈"
       },
       {
@@ -290297,6 +290348,7 @@ window.GAME_DATA = [
           "OC"
         ],
         "pop": 35,
+        "clade": "žraloci",
         "emoji": "🦈"
       },
       {
@@ -290345,6 +290397,7 @@ window.GAME_DATA = [
           "AF"
         ],
         "pop": 33,
+        "clade": "rejnoci",
         "emoji": "🐟"
       },
       {
@@ -290377,6 +290430,7 @@ window.GAME_DATA = [
           "AF"
         ],
         "pop": 31,
+        "clade": "rejnoci",
         "emoji": "🐟"
       },
       {
@@ -290413,6 +290467,7 @@ window.GAME_DATA = [
           "SA"
         ],
         "pop": 37,
+        "clade": "žraloci",
         "emoji": "🦈"
       },
       {
@@ -290520,6 +290575,7 @@ window.GAME_DATA = [
           "OC"
         ],
         "pop": 33,
+        "clade": "rejnoci",
         "emoji": "🐟"
       }
     ]
@@ -350748,7 +350804,33 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Rapana_Black_Sea_2008_G1.jpg/500px-Rapana_Black_Sea_2008_G1.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q139053#0",
+            "text": "Ulita je šedohnědá a dosahuje až 18 cm.",
+            "cat": "čísla",
+            "not": [
+              "Q1006379",
+              "Q908799",
+              "Q910785"
+            ]
+          },
+          {
+            "id": "Q139053#1",
+            "text": "Původně žila u pobřeží Japonska a východní Číny.",
+            "cat": "výskyt",
+            "not": [
+              "Q1404905",
+              "Q376050",
+              "Q428534",
+              "Q651332",
+              "Q777865",
+              "Q892046",
+              "Q908799",
+              "Q910785"
+            ]
+          }
+        ],
         "continents": [
           "EU",
           "AS",
@@ -350773,7 +350855,32 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Gl%C3%A4nzende_Venusmuschel_Callista_chione.jpg/500px-Gl%C3%A4nzende_Venusmuschel_Callista_chione.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q1404905#0",
+            "text": "Živí se filtrací plovoucích částic ve vodě.",
+            "cat": "potrava",
+            "not": [
+              "Q164336",
+              "Q175818",
+              "Q22019793",
+              "Q2214027",
+              "Q3201040",
+              "Q689003",
+              "Q912404"
+            ]
+          },
+          {
+            "id": "Q1404905#1",
+            "text": "Lastura může dosáhnout průměru až 11 cm.",
+            "cat": "čísla",
+            "not": [
+              "Q175818",
+              "Q3201040",
+              "Q689003"
+            ]
+          }
+        ],
         "continents": [
           "EU",
           "AF"
@@ -350993,7 +351100,32 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Textile_cone.JPG/500px-Textile_cone.JPG"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q1507512#0",
+            "text": "Má jed, který způsobuje svalovou slabost a ochrnutí.",
+            "cat": "účinky",
+            "not": [
+              "Q1006379",
+              "Q1404905",
+              "Q376050",
+              "Q428534",
+              "Q777865",
+              "Q892046",
+              "Q908799",
+              "Q910785"
+            ]
+          },
+          {
+            "id": "Q1507512#1",
+            "text": "Žije skrytě v písčitém podloží, mezi kameny a řasami.",
+            "cat": "chování",
+            "not": [
+              "Q908799",
+              "Q910785"
+            ]
+          }
+        ],
         "continents": [
           "AS",
           "AF",
@@ -351222,24 +351354,6 @@ window.GAME_DATA = [
               "Q773951",
               "Q908799",
               "Q932364"
-            ]
-          },
-          {
-            "id": "Q1632342#6",
-            "text": "Delfíni tento druh loví a při lovu mu odstraňují kost a barvivo.",
-            "cat": "vztahy",
-            "not": [
-              "Q114893",
-              "Q139053",
-              "Q1404905",
-              "Q1507512",
-              "Q1757231",
-              "Q1844769",
-              "Q21124",
-              "Q376050",
-              "Q62603",
-              "Q798236",
-              "Q854808"
             ]
           },
           {
@@ -351481,7 +351595,33 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Pecten_jacobaeus.jpg/500px-Pecten_jacobaeus.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q1757231#0",
+            "text": "Umí plavat tím, že vypuzuje vodu.",
+            "cat": "chování",
+            "not": [
+              "Q245314",
+              "Q2664666",
+              "Q27855",
+              "Q385029",
+              "Q598612",
+              "Q835427",
+              "Q908813"
+            ]
+          },
+          {
+            "id": "Q1757231#1",
+            "text": "Žije na mořském dně až do hloubky 200 metrů.",
+            "cat": "výskyt",
+            "not": [
+              "Q245314",
+              "Q385029",
+              "Q598612",
+              "Q835427"
+            ]
+          }
+        ],
         "continents": [
           "EU",
           "AF"
@@ -351716,20 +351856,6 @@ window.GAME_DATA = [
               "Q1472765",
               "Q1850495",
               "Q1895259"
-            ]
-          },
-          {
-            "id": "Q1844769#5",
-            "text": "Pstruzi ho polykají, ale většinou ho nestráví.",
-            "cat": "vztahy",
-            "not": [
-              "Q139053",
-              "Q1404905",
-              "Q1507512",
-              "Q1757231",
-              "Q21124",
-              "Q376050",
-              "Q62603"
             ]
           }
         ],
@@ -352084,7 +352210,33 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Common_Cockle_%28Cerastoderma_edule%29_-_Oslo%2C_Norway_2021-03-25_%2801%29.jpg/500px-Common_Cockle_%28Cerastoderma_edule%29_-_Oslo%2C_Norway_2021-03-25_%2801%29.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q21124#0",
+            "text": "Žije pár centimetrů pod povrchem bahna nebo písku.",
+            "cat": "výskyt",
+            "not": [
+              "Q131757",
+              "Q1500654",
+              "Q174549",
+              "Q182258",
+              "Q751784",
+              "Q898580"
+            ]
+          },
+          {
+            "id": "Q21124#1",
+            "text": "Mláďata žijí 2–3 týdny volně ve vodě, pak klesnou ke dnu.",
+            "cat": "mláďata",
+            "not": [
+              "Q1500654",
+              "Q174549",
+              "Q1758969",
+              "Q1844769",
+              "Q898580"
+            ]
+          }
+        ],
         "continents": [
           "EU",
           "AF"
@@ -352815,7 +352967,22 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Venus_verrucosa_%2810.3897-BDJ.12.e115051%29_Figure_101.jpg/500px-Venus_verrucosa_%2810.3897-BDJ.12.e115051%29_Figure_101.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q376050#1",
+            "text": "Žije v Atlantském oceánu podél západní Evropy.",
+            "cat": "výskyt",
+            "not": [
+              "Q175818",
+              "Q22019793",
+              "Q3201040",
+              "Q689003",
+              "Q798236",
+              "Q912404",
+              "Q937520"
+            ]
+          }
+        ],
         "continents": [
           "EU",
           "AF"
@@ -353204,7 +353371,30 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Queen_Conch_%28Lobatus_gigas%29.jpg/500px-Queen_Conch_%28Lobatus_gigas%29.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q62603#0",
+            "text": "Může se dožít až čtyřiceti let.",
+            "cat": "čísla",
+            "not": [
+              "Q1844769",
+              "Q3164532",
+              "Q854808",
+              "Q945738"
+            ]
+          },
+          {
+            "id": "Q62603#1",
+            "text": "Samice kladou vejce v dlouhých rosolovitých provazcích.",
+            "cat": "mláďata",
+            "not": [
+              "Q1757231",
+              "Q1844769",
+              "Q772012",
+              "Q945738"
+            ]
+          }
+        ],
         "continents": [
           "NA",
           "SA"
@@ -353546,7 +353736,6 @@ window.GAME_DATA = [
             "not": [
               "Q1249634",
               "Q1404905",
-              "Q1507512",
               "Q164336",
               "Q1757231",
               "Q182258",
@@ -354021,7 +354210,31 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Unio_crassus%2C_Detva.jpg/500px-Unio_crassus%2C_Detva.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q798236#0",
+            "text": "Žije v čistých potocích a řekách.",
+            "cat": "výskyt",
+            "not": [
+              "Q114893",
+              "Q139053",
+              "Q2153396",
+              "Q62603",
+              "Q7187379"
+            ]
+          },
+          {
+            "id": "Q798236#1",
+            "text": "Lastura je dlouhá 50 až 70 milimetrů.",
+            "cat": "čísla",
+            "not": [
+              "Q114893",
+              "Q2153396",
+              "Q7187379",
+              "Q901401"
+            ]
+          }
+        ],
         "continents": [
           "EU",
           "AS"
@@ -354272,7 +354485,6 @@ window.GAME_DATA = [
               "Q114893",
               "Q1844769",
               "Q3201040",
-              "Q798236",
               "Q811137",
               "Q898580"
             ]
@@ -356558,6 +356770,56 @@ window.GAME_DATA = [
         ],
         "pop": 36,
         "emoji": "🦞"
+      },
+      {
+        "id": "Q4302742",
+        "name": "Coronula diadema",
+        "latin": "Coronula diadema",
+        "family": "Coronulidae",
+        "order": "",
+        "wiki": "https://cs.wikipedia.org/wiki/Coronula_diadema",
+        "photos": [
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Anim1032_-_Flickr_-_NOAA_Photo_Library.jpg",
+            "author": "Aleria Jensen, NOAA/NMFS/AKFSC.",
+            "license": "Public domain",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Anim1032_-_Flickr_-_NOAA_Photo_Library.jpg/500px-Anim1032_-_Flickr_-_NOAA_Photo_Library.jpg"
+          }
+        ],
+        "facts": [
+          {
+            "id": "Q4302742#0",
+            "text": "Žije přichycen na velkých kytovcích, nejčastěji na keporkacích.",
+            "cat": "vztahy",
+            "not": [
+              "Q107078367",
+              "Q1366514",
+              "Q27765",
+              "Q2798958",
+              "Q720597",
+              "Q752188"
+            ]
+          },
+          {
+            "id": "Q4302742#1",
+            "text": "Pravděpodobně se živí krilem a většími druhy planktonu.",
+            "cat": "potrava",
+            "not": [
+              "Q2798958"
+            ]
+          }
+        ],
+        "continents": [
+          "EU",
+          "AS",
+          "AF",
+          "NA",
+          "SA",
+          "AN",
+          "OC"
+        ],
+        "pop": 13,
+        "emoji": "🐚"
       },
       {
         "id": "Q43735",
@@ -625569,6 +625831,102 @@ window.GAME_DATA = [
     "name": "Ostatní živočichové",
     "kingdom": "zivocichove",
     "species": [
+      {
+        "id": "Q301019",
+        "name": "Mihule říční",
+        "latin": "Lampetra fluviatilis",
+        "family": "mihulovití",
+        "order": "mihule",
+        "wiki": "https://cs.wikipedia.org/wiki/Mihule_%C5%99%C3%AD%C4%8Dn%C3%AD",
+        "photos": [
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:J%C3%B5esilmud2_(cropped).jpg",
+            "author": "Tiit Hunt",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/J%C3%B5esilmud2_%28cropped%29.jpg/500px-J%C3%B5esilmud2_%28cropped%29.jpg"
+          }
+        ],
+        "facts": [
+          {
+            "id": "Q301019#0",
+            "text": "Parazituje na menších mořských rybách.",
+            "cat": "vztahy",
+            "not": [
+              "Q2021864",
+              "Q237619",
+              "Q28599939",
+              "Q3233721",
+              "Q326219",
+              "Q536224",
+              "Q582842",
+              "Q798246",
+              "Q863850",
+              "Q900868",
+              "Q924585"
+            ]
+          },
+          {
+            "id": "Q301019#1",
+            "text": "Larvy se živí rozpadajícími organickými látkami.",
+            "cat": "potrava",
+            "not": []
+          }
+        ],
+        "continents": [
+          "EU"
+        ],
+        "pop": 39,
+        "emoji": "🐟"
+      },
+      {
+        "id": "Q385764",
+        "name": "Mihule mořská",
+        "latin": "Petromyzon marinus",
+        "family": "mihulovití",
+        "order": "mihule",
+        "wiki": "https://cs.wikipedia.org/wiki/Mihule_mo%C5%99sk%C3%A1",
+        "photos": [
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Petromyzon_marinus_282284066.jpg",
+            "author": "Stephanie Tran",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Petromyzon_marinus_282284066.jpg/500px-Petromyzon_marinus_282284066.jpg"
+          }
+        ],
+        "facts": [
+          {
+            "id": "Q385764#0",
+            "text": "Parazituje na rybách.",
+            "cat": "vztahy",
+            "not": [
+              "Q2021864",
+              "Q237619",
+              "Q28599939",
+              "Q3233721",
+              "Q326219",
+              "Q536224",
+              "Q582842",
+              "Q798246",
+              "Q863850",
+              "Q900868",
+              "Q924585"
+            ]
+          },
+          {
+            "id": "Q385764#1",
+            "text": "Larvy se živí planktonem.",
+            "cat": "potrava",
+            "not": []
+          }
+        ],
+        "continents": [
+          "EU",
+          "AF",
+          "NA"
+        ],
+        "pop": 47,
+        "emoji": "🐟"
+      },
       {
         "id": "Q798246",
         "name": "Mihule potoční",
