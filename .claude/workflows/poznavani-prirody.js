@@ -280,7 +280,7 @@ Přečti ${root}/data/${slug}/continent_jobs/${id}.json. Každá položka má "i
 Kódy: EU Evropa, AS Asie, AF Afrika, NA Severní Amerika (včetně Střední Ameriky a Karibiku), SA Jižní Amerika, AN Antarktida (včetně okolních subantarktických ostrovů a moří), OC Austrálie a Oceánie (včetně Nového Zélandu a Nové Guineje).
 Pravidla:
 - Uveď všechny kontinenty, kde druh dnes žije ve volné přírodě, včetně trvale usazených populací zavlečených člověkem.
-- Vyhynulý druh zařaď tam, kde žil. Domácí nebo pěstovaný druh zařaď tam, kde je běžně chován nebo pěstován.
+- Vyhynulý druh zařaď tam, kde žil. Domácí nebo chovaný živočich patří tam, odkud pochází, a tam, kde žije zdivočele ve volné přírodě, ne tam, kde žije jen v zajetí (na farmě, v chovu, doma, v zoo). Pěstovaný druh rostliny zařaď tam, kde je běžně pěstován.
 - Madagaskar patří k AF, Sibiř a Dálný východ k AS, evropská část Ruska k EU, Sumatra, Borneo a Jáva k AS.
 - Mořský druh zařaď ke kontinentům, u jejichž pobřeží žije. Kosmopolitní druh dostane všechny, kde opravdu žije (AN jen tehdy, když tam skutečně žije).
 - Každý druh musí mít aspoň jeden kód. Nepřiřazuj kontinenty jen podle odhadu z příbuzných.
@@ -336,7 +336,22 @@ Zájmeno (ho, ji, je) vyber podle rodu českého jména druhu v poli "species", 
 Zapiš nástrojem Write do ${root}/data/pronoun/found/${id}.json jen tento JSON (bez nálezu prázdný seznam):
 {"fixes": [{"id": "Q1#0", "text": "Loví ho výr velký a tchoř."}]}
 Vrať jen slovo HOTOVO.`
+const continentCheckPrompt = (id) => `Kontroluješ kontinenty výskytu živočichů v dětském přírodovědném kvízu. Dřívější pravidlo chybně počítalo i místa, kde druh žije jen v zajetí.
+
+Přečti ${root}/data/continent_check/jobs/${id}.json. Každá položka má "id", "name", "latin" a "continents". Kódy: EU Evropa, AS Asie, AF Afrika, NA Severní Amerika (včetně Střední Ameriky a Karibiku), SA Jižní Amerika, AN Antarktida (včetně okolních subantarktických ostrovů a moří), OC Austrálie a Oceánie (včetně Nového Zélandu a Nové Guineje).
+
+Pravidla:
+- Kontinent patří druhu, kde žije ve volné přírodě: původně, nebo jako zavlečená trvale usazená či zdivočelá populace. Zavlečené druhy tam tedy patří (lasice kolčava na Novém Zélandu, buvol domácí v Austrálii) a takový kontinent nemaž.
+- Nepatří tam kontinent, kde druh žije jen v zajetí: na farmě, v chovu, doma jako mazlíček, v zoo nebo v akváriu.
+- Domácí druh bez divoké populace (morče domácí, lama alpaka, kříženci) si ponechá aspoň kontinent, odkud pochází.
+- Vyhynulé druhy tu nejsou. Madagaskar patří k AF, Sibiř k AS, evropská část Ruska k EU, Sumatra, Borneo a Jáva k AS. Mořský druh patří ke kontinentům, u jejichž pobřeží žije.
+- Oprav i jinou zjevnou chybu v kontinentech, ale jen když si jsi jistý. Ojedinělý zatoulaný jedinec nestačí. Když si nejsi jistý, položku nech být. Většina položek je v pořádku.
+
+Zapiš nástrojem Write do ${root}/data/continent_check/found/${id}.json jen tento JSON se změněnými položkami. Soubor zapiš vždy, když není co měnit, je "changes" prázdný seznam:
+{"changes": [{"id": "Q1", "continents": ["AS"], "why": "krátký důvod: co se změnilo a proč"}]}
+Vrať jen slovo HOTOVO.`
 function run({ slug, kingdom, stage }, id) {
+  if (stage === 'continents_check') return ask(continentCheckPrompt(id), { label: `kontrola kontinentů:${id}`, phase: 'Kontinenty', model: 'sonnet' })
   if (stage === 'foreign_more') return ask(foreignMorePrompt(slug, kingdom, id), { label: `cizí 2:${slug}:${id}`, phase: 'Fakta a fotky' })
   if (stage === 'pronoun') return ask(pronounPrompt(id), { label: `zájmena:${id}`, phase: 'Jazyk', model: 'sonnet' })
   if (stage === 'names')return ask(namesPrompt(id), { label: `jména:${id}`, phase: 'Česká jména', model: 'sonnet' })

@@ -8426,7 +8426,6 @@ window.GAME_DATA = [
           }
         ],
         "continents": [
-          "EU",
           "AS"
         ],
         "pop": 67,
@@ -9466,8 +9465,7 @@ window.GAME_DATA = [
           }
         ],
         "continents": [
-          "AF",
-          "NA"
+          "AF"
         ],
         "pop": 62,
         "peers": "přežvýkavci",
@@ -11971,7 +11969,8 @@ window.GAME_DATA = [
           }
         ],
         "continents": [
-          "AS"
+          "AS",
+          "NA"
         ],
         "pop": 76,
         "peers": "opice Starého světa",
@@ -15573,6 +15572,7 @@ window.GAME_DATA = [
         "continents": [
           "AS",
           "NA",
+          "SA",
           "OC"
         ],
         "pop": 81,
@@ -15931,7 +15931,8 @@ window.GAME_DATA = [
           }
         ],
         "continents": [
-          "AS"
+          "AS",
+          "OC"
         ],
         "pop": 66,
         "peers": "přežvýkavci",
@@ -17297,7 +17298,6 @@ window.GAME_DATA = [
           }
         ],
         "continents": [
-          "EU",
           "AS"
         ],
         "pop": 71,
@@ -18939,7 +18939,9 @@ window.GAME_DATA = [
         ],
         "continents": [
           "EU",
-          "AS"
+          "AS",
+          "NA",
+          "OC"
         ],
         "pop": 74,
         "peers": "přežvýkavci",
@@ -19709,6 +19711,7 @@ window.GAME_DATA = [
           }
         ],
         "continents": [
+          "EU",
           "AS"
         ],
         "pop": 55,
@@ -20682,8 +20685,6 @@ window.GAME_DATA = [
           }
         ],
         "continents": [
-          "EU",
-          "AS",
           "SA"
         ],
         "pop": 43,
@@ -22753,12 +22754,7 @@ window.GAME_DATA = [
           }
         ],
         "continents": [
-          "EU",
-          "AS",
-          "AF",
-          "NA",
-          "SA",
-          "OC"
+          "AS"
         ],
         "pop": 53,
         "peers": "myšovci",
@@ -23656,7 +23652,6 @@ window.GAME_DATA = [
           }
         ],
         "continents": [
-          "EU",
           "AS"
         ],
         "pop": 54,
@@ -27513,7 +27508,8 @@ window.GAME_DATA = [
         "continents": [
           "EU",
           "NA",
-          "SA"
+          "SA",
+          "OC"
         ],
         "pop": 60,
         "peers": "přežvýkavci",
@@ -27566,7 +27562,8 @@ window.GAME_DATA = [
           }
         ],
         "continents": [
-          "EU"
+          "EU",
+          "AS"
         ],
         "pop": 48,
         "peers": "letouni",
@@ -28498,6 +28495,7 @@ window.GAME_DATA = [
         ],
         "continents": [
           "EU",
+          "AS",
           "AF"
         ],
         "pop": 43,
@@ -29511,7 +29509,6 @@ window.GAME_DATA = [
           }
         ],
         "continents": [
-          "EU",
           "NA"
         ],
         "pop": 64,
@@ -36273,8 +36270,7 @@ window.GAME_DATA = [
         ],
         "continents": [
           "EU",
-          "AS",
-          "NA"
+          "AS"
         ],
         "pop": 82,
         "peers": "psotvaré šelmy",
@@ -46575,7 +46571,8 @@ window.GAME_DATA = [
         "continents": [
           "EU",
           "AS",
-          "NA"
+          "NA",
+          "AN"
         ],
         "pop": 121,
         "peers": "přežvýkavci",
@@ -48271,7 +48268,6 @@ window.GAME_DATA = [
           }
         ],
         "continents": [
-          "AS",
           "OC"
         ],
         "pop": 25,
@@ -48599,10 +48595,7 @@ window.GAME_DATA = [
           }
         ],
         "continents": [
-          "EU",
           "AS",
-          "AF",
-          "NA",
           "SA",
           "OC"
         ],
@@ -51290,7 +51283,6 @@ window.GAME_DATA = [
           }
         ],
         "continents": [
-          "NA",
           "SA"
         ],
         "pop": 41,
@@ -58249,7 +58241,6 @@ window.GAME_DATA = [
           }
         ],
         "continents": [
-          "AS",
           "AF"
         ],
         "pop": 46,
@@ -59050,10 +59041,7 @@ window.GAME_DATA = [
           }
         ],
         "continents": [
-          "AF",
-          "SA",
-          "AN",
-          "OC"
+          "AN"
         ],
         "pop": 49,
         "peers": "ploutvonožci",
@@ -64485,7 +64473,6 @@ window.GAME_DATA = [
         ],
         "continents": [
           "AS",
-          "AF",
           "NA",
           "OC"
         ],
@@ -68245,7 +68232,6 @@ window.GAME_DATA = [
           }
         ],
         "continents": [
-          "EU",
           "AS"
         ],
         "pop": 51,
@@ -69541,7 +69527,6 @@ window.GAME_DATA = [
           }
         ],
         "continents": [
-          "EU",
           "AF"
         ],
         "pop": 38,
@@ -71297,12 +71282,7 @@ window.GAME_DATA = [
           }
         ],
         "continents": [
-          "EU",
-          "AS",
-          "AF",
-          "NA",
-          "SA",
-          "OC"
+          "SA"
         ],
         "pop": 108,
         "peers": "dikobrazovci",
@@ -72096,10 +72076,7 @@ window.GAME_DATA = [
           }
         ],
         "continents": [
-          "EU",
-          "NA",
-          "SA",
-          "OC"
+          "SA"
         ],
         "pop": 100,
         "peers": "sudokopytníci",
@@ -73285,6 +73262,7 @@ window.GAME_DATA = [
           "AF",
           "NA",
           "SA",
+          "AN",
           "OC"
         ],
         "pop": 121,
@@ -84336,7 +84314,6 @@ window.GAME_DATA = [
         ],
         "continents": [
           "AS",
-          "SA",
           "OC"
         ],
         "pop": 33,
@@ -86844,8 +86821,7 @@ window.GAME_DATA = [
         ],
         "continents": [
           "EU",
-          "AS",
-          "AF"
+          "AS"
         ],
         "pop": 57,
         "emoji": "🐦"
@@ -87878,8 +87854,7 @@ window.GAME_DATA = [
           }
         ],
         "continents": [
-          "NA",
-          "SA"
+          "NA"
         ],
         "pop": 29,
         "emoji": "🐦"
@@ -89422,9 +89397,7 @@ window.GAME_DATA = [
           }
         ],
         "continents": [
-          "EU",
           "AS",
-          "AF",
           "OC"
         ],
         "pop": 42,
@@ -89900,9 +89873,7 @@ window.GAME_DATA = [
           }
         ],
         "continents": [
-          "AF",
-          "NA",
-          "OC"
+          "AF"
         ],
         "pop": 34,
         "emoji": "🐦"
@@ -92181,8 +92152,7 @@ window.GAME_DATA = [
           }
         ],
         "continents": [
-          "SA",
-          "AN"
+          "SA"
         ],
         "pop": 25,
         "emoji": "🐦"
@@ -93511,7 +93481,6 @@ window.GAME_DATA = [
           }
         ],
         "continents": [
-          "AS",
           "OC"
         ],
         "pop": 24,
@@ -95990,7 +95959,6 @@ window.GAME_DATA = [
           }
         ],
         "continents": [
-          "SA",
           "OC"
         ],
         "pop": 25,
@@ -100140,8 +100108,7 @@ window.GAME_DATA = [
         ],
         "continents": [
           "EU",
-          "AS",
-          "NA"
+          "AS"
         ],
         "pop": 50,
         "emoji": "🐦"
@@ -102613,7 +102580,6 @@ window.GAME_DATA = [
           }
         ],
         "continents": [
-          "EU",
           "NA"
         ],
         "pop": 35,
@@ -104122,8 +104088,7 @@ window.GAME_DATA = [
         ],
         "continents": [
           "EU",
-          "AS",
-          "AF"
+          "AS"
         ],
         "pop": 78,
         "emoji": "🐦"
@@ -105017,8 +104982,7 @@ window.GAME_DATA = [
           }
         ],
         "continents": [
-          "NA",
-          "SA"
+          "NA"
         ],
         "pop": 28,
         "emoji": "🐦"
@@ -109406,10 +109370,7 @@ window.GAME_DATA = [
         "continents": [
           "EU",
           "AS",
-          "AF",
-          "NA",
-          "SA",
-          "OC"
+          "AF"
         ],
         "pop": 84,
         "emoji": "🐦"
@@ -114714,7 +114675,6 @@ window.GAME_DATA = [
           }
         ],
         "continents": [
-          "EU",
           "AS",
           "OC"
         ],
@@ -123861,6 +123821,7 @@ window.GAME_DATA = [
         ],
         "continents": [
           "EU",
+          "AS",
           "NA"
         ],
         "pop": 59,
@@ -125886,9 +125847,8 @@ window.GAME_DATA = [
         ],
         "continents": [
           "AS",
-          "AF",
           "NA",
-          "OC"
+          "SA"
         ],
         "pop": 48,
         "emoji": "🐦"
@@ -126742,7 +126702,6 @@ window.GAME_DATA = [
           }
         ],
         "continents": [
-          "EU",
           "AS",
           "AF"
         ],
@@ -128958,8 +128917,6 @@ window.GAME_DATA = [
           }
         ],
         "continents": [
-          "NA",
-          "SA",
           "OC"
         ],
         "pop": 17,
@@ -129507,7 +129464,8 @@ window.GAME_DATA = [
         "continents": [
           "EU",
           "AS",
-          "AF"
+          "AF",
+          "OC"
         ],
         "pop": 69,
         "emoji": "🐦"
@@ -131802,6 +131760,7 @@ window.GAME_DATA = [
         ],
         "continents": [
           "EU",
+          "AS",
           "AF"
         ],
         "pop": 56,
@@ -132058,7 +132017,7 @@ window.GAME_DATA = [
           }
         ],
         "continents": [
-          "NA"
+          "OC"
         ],
         "pop": 43,
         "emoji": "🐦‍⬛"
@@ -132733,7 +132692,6 @@ window.GAME_DATA = [
           }
         ],
         "continents": [
-          "EU",
           "NA",
           "OC"
         ],
@@ -132834,7 +132792,6 @@ window.GAME_DATA = [
           }
         ],
         "continents": [
-          "EU",
           "AF",
           "NA",
           "SA"
@@ -137538,7 +137495,8 @@ window.GAME_DATA = [
         ],
         "continents": [
           "EU",
-          "AS"
+          "AS",
+          "NA"
         ],
         "pop": 97,
         "emoji": "🦅"
@@ -140637,8 +140595,7 @@ window.GAME_DATA = [
         "continents": [
           "EU",
           "AS",
-          "AF",
-          "OC"
+          "AF"
         ],
         "pop": 78,
         "emoji": "🐦"
@@ -146168,8 +146125,7 @@ window.GAME_DATA = [
         "continents": [
           "EU",
           "AS",
-          "AF",
-          "NA"
+          "AF"
         ],
         "pop": 75,
         "emoji": "🐦"
@@ -146675,7 +146631,8 @@ window.GAME_DATA = [
           }
         ],
         "continents": [
-          "EU"
+          "EU",
+          "NA"
         ],
         "pop": 68,
         "emoji": "🪿"
@@ -149018,10 +148975,8 @@ window.GAME_DATA = [
           }
         ],
         "continents": [
-          "EU",
           "AS",
           "AF",
-          "NA",
           "OC"
         ],
         "pop": 56,
@@ -152734,7 +152689,8 @@ window.GAME_DATA = [
           }
         ],
         "continents": [
-          "AS"
+          "AS",
+          "OC"
         ],
         "pop": 45,
         "emoji": "🐦"
@@ -156223,8 +156179,7 @@ window.GAME_DATA = [
         ],
         "continents": [
           "EU",
-          "AF",
-          "NA"
+          "AF"
         ],
         "pop": 57,
         "emoji": "🐦"
@@ -157574,7 +157529,6 @@ window.GAME_DATA = [
           }
         ],
         "continents": [
-          "EU",
           "NA",
           "SA"
         ],
@@ -159179,7 +159133,8 @@ window.GAME_DATA = [
         "continents": [
           "EU",
           "AS",
-          "AF"
+          "AF",
+          "OC"
         ],
         "pop": 67,
         "emoji": "🐦"
@@ -159947,7 +159902,7 @@ window.GAME_DATA = [
           "EU",
           "AS",
           "AF",
-          "NA"
+          "OC"
         ],
         "pop": 51,
         "emoji": "🐔"
@@ -166601,8 +166556,7 @@ window.GAME_DATA = [
           }
         ],
         "continents": [
-          "AS",
-          "OC"
+          "AS"
         ],
         "pop": 46,
         "emoji": "🦜"
@@ -170474,7 +170428,6 @@ window.GAME_DATA = [
           }
         ],
         "continents": [
-          "EU",
           "NA",
           "SA"
         ],
@@ -172455,7 +172408,6 @@ window.GAME_DATA = [
           }
         ],
         "continents": [
-          "EU",
           "NA"
         ],
         "pop": 38,
@@ -173406,7 +173358,6 @@ window.GAME_DATA = [
           }
         ],
         "continents": [
-          "NA",
           "SA"
         ],
         "pop": 33,
@@ -176434,7 +176385,35 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/2022-04-16_Thalasseus_elegans%2C_Upper_Newport_Bay%2C_California_1.jpg/500px-2022-04-16_Thalasseus_elegans%2C_Upper_Newport_Bay%2C_California_1.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q524893#x5",
+            "text": "Klade jedno nebo dvě vejce do důlku v zemi.",
+            "cat": "chování",
+            "not": [
+              "Q114338",
+              "Q208060",
+              "Q856201"
+            ]
+          },
+          {
+            "id": "Q524893#x6",
+            "text": "Přezimuje hlavně na tichomořském pobřeží Jižní Ameriky.",
+            "cat": "výskyt",
+            "not": [
+              "Q114338",
+              "Q116708",
+              "Q1263584",
+              "Q18840",
+              "Q208060",
+              "Q28355",
+              "Q385881",
+              "Q390270",
+              "Q62345",
+              "Q941644"
+            ]
+          }
+        ],
         "continents": [
           "NA",
           "SA"
@@ -177598,7 +177577,6 @@ window.GAME_DATA = [
           }
         ],
         "continents": [
-          "AS",
           "OC"
         ],
         "pop": 30,
@@ -178519,8 +178497,6 @@ window.GAME_DATA = [
           }
         ],
         "continents": [
-          "EU",
-          "NA",
           "OC"
         ],
         "pop": 13,
@@ -178593,7 +178569,6 @@ window.GAME_DATA = [
           }
         ],
         "continents": [
-          "EU",
           "AF"
         ],
         "pop": 49,
@@ -179152,7 +179127,6 @@ window.GAME_DATA = [
           }
         ],
         "continents": [
-          "AS",
           "OC"
         ],
         "pop": 30,
@@ -181267,7 +181241,6 @@ window.GAME_DATA = [
           "EU",
           "AS",
           "AF",
-          "NA",
           "OC"
         ],
         "pop": 35,
@@ -181884,7 +181857,7 @@ window.GAME_DATA = [
           }
         ],
         "continents": [
-          "NA"
+          "OC"
         ],
         "pop": 27,
         "emoji": "🐦"
@@ -182876,7 +182849,8 @@ window.GAME_DATA = [
           }
         ],
         "continents": [
-          "NA"
+          "NA",
+          "SA"
         ],
         "pop": 27,
         "emoji": "🐦"
@@ -183389,10 +183363,8 @@ window.GAME_DATA = [
           }
         ],
         "continents": [
-          "EU",
           "NA",
-          "SA",
-          "AN"
+          "SA"
         ],
         "pop": 44,
         "emoji": "🐦"
@@ -193514,7 +193486,6 @@ window.GAME_DATA = [
           }
         ],
         "continents": [
-          "NA",
           "OC"
         ],
         "pop": 46,
@@ -194418,7 +194389,6 @@ window.GAME_DATA = [
         ],
         "continents": [
           "AS",
-          "NA",
           "OC"
         ],
         "pop": 30,
@@ -194502,7 +194472,6 @@ window.GAME_DATA = [
           }
         ],
         "continents": [
-          "EU",
           "NA"
         ],
         "pop": 39,
@@ -195859,8 +195828,7 @@ window.GAME_DATA = [
           }
         ],
         "continents": [
-          "AS",
-          "OC"
+          "AS"
         ],
         "pop": 43,
         "emoji": "🐦"
@@ -200965,7 +200933,6 @@ window.GAME_DATA = [
           }
         ],
         "continents": [
-          "EU",
           "AS"
         ],
         "pop": 50,
@@ -201673,7 +201640,6 @@ window.GAME_DATA = [
           }
         ],
         "continents": [
-          "EU",
           "NA"
         ],
         "pop": 47,
@@ -201977,7 +201943,6 @@ window.GAME_DATA = [
           }
         ],
         "continents": [
-          "NA",
           "SA"
         ],
         "pop": 44,
@@ -203952,7 +203917,6 @@ window.GAME_DATA = [
           }
         ],
         "continents": [
-          "AS",
           "NA",
           "OC"
         ],
@@ -205645,7 +205609,6 @@ window.GAME_DATA = [
           }
         ],
         "continents": [
-          "NA",
           "SA"
         ],
         "pop": 28,
@@ -207490,10 +207453,7 @@ window.GAME_DATA = [
           }
         ],
         "continents": [
-          "EU",
-          "AS",
-          "NA",
-          "OC"
+          "AS"
         ],
         "pop": 52,
         "emoji": "🐦"
@@ -207707,6 +207667,7 @@ window.GAME_DATA = [
           }
         ],
         "continents": [
+          "AS",
           "OC"
         ],
         "pop": 22,
@@ -209828,7 +209789,6 @@ window.GAME_DATA = [
           }
         ],
         "continents": [
-          "EU",
           "AS"
         ],
         "pop": 45,
@@ -211173,6 +211133,7 @@ window.GAME_DATA = [
         ],
         "continents": [
           "EU",
+          "AS",
           "AF"
         ],
         "pop": 57,
@@ -219313,7 +219274,6 @@ window.GAME_DATA = [
           }
         ],
         "continents": [
-          "EU",
           "AS"
         ],
         "pop": 48,
@@ -223002,7 +222962,6 @@ window.GAME_DATA = [
           }
         ],
         "continents": [
-          "NA",
           "SA"
         ],
         "pop": 33,
@@ -224007,8 +223966,7 @@ window.GAME_DATA = [
           }
         ],
         "continents": [
-          "SA",
-          "OC"
+          "SA"
         ],
         "pop": 29,
         "emoji": "🦅"
@@ -226309,7 +226267,6 @@ window.GAME_DATA = [
           }
         ],
         "continents": [
-          "EU",
           "AS"
         ],
         "pop": 32,
@@ -229119,7 +229076,6 @@ window.GAME_DATA = [
           }
         ],
         "continents": [
-          "EU",
           "AS"
         ],
         "pop": 22,
@@ -229201,7 +229157,8 @@ window.GAME_DATA = [
         ],
         "continents": [
           "AS",
-          "NA"
+          "NA",
+          "OC"
         ],
         "pop": 34,
         "emoji": "🦎"
@@ -230408,8 +230365,7 @@ window.GAME_DATA = [
           }
         ],
         "continents": [
-          "AF",
-          "NA"
+          "AF"
         ],
         "pop": 36,
         "emoji": "🦎"
@@ -232561,9 +232517,7 @@ window.GAME_DATA = [
           }
         ],
         "continents": [
-          "AS",
-          "AF",
-          "NA"
+          "AF"
         ],
         "pop": 83,
         "emoji": "🐊"
@@ -235423,7 +235377,6 @@ window.GAME_DATA = [
           }
         ],
         "continents": [
-          "AS",
           "OC"
         ],
         "pop": 16,
@@ -238334,8 +238287,7 @@ window.GAME_DATA = [
         ],
         "continents": [
           "AS",
-          "AF",
-          "NA"
+          "OC"
         ],
         "pop": 23,
         "emoji": "🐢"
@@ -239026,8 +238978,7 @@ window.GAME_DATA = [
           }
         ],
         "continents": [
-          "AS",
-          "OC"
+          "AS"
         ],
         "pop": 25,
         "emoji": "🦎"
@@ -239242,6 +239193,7 @@ window.GAME_DATA = [
           }
         ],
         "continents": [
+          "EU",
           "AS"
         ],
         "pop": 24,
@@ -240552,7 +240504,6 @@ window.GAME_DATA = [
           }
         ],
         "continents": [
-          "EU",
           "AS"
         ],
         "pop": 17,
@@ -246687,8 +246638,7 @@ window.GAME_DATA = [
           }
         ],
         "continents": [
-          "AS",
-          "NA"
+          "AS"
         ],
         "pop": 33,
         "emoji": "🐢"
@@ -251425,7 +251375,8 @@ window.GAME_DATA = [
           }
         ],
         "continents": [
-          "AF"
+          "AF",
+          "NA"
         ],
         "pop": 47,
         "emoji": "🦎"
@@ -252158,10 +252109,7 @@ window.GAME_DATA = [
           }
         ],
         "continents": [
-          "EU",
           "AS",
-          "NA",
-          "SA",
           "OC"
         ],
         "pop": 35,
@@ -253924,7 +253872,6 @@ window.GAME_DATA = [
           }
         ],
         "continents": [
-          "NA",
           "SA"
         ],
         "pop": 33,
@@ -254251,7 +254198,8 @@ window.GAME_DATA = [
           }
         ],
         "continents": [
-          "EU"
+          "EU",
+          "AF"
         ],
         "pop": 33,
         "emoji": "🦎"
@@ -254859,7 +254807,31 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Four-lined_Snake_%28Elaphe_quatuorlineata%29_%28Captive_specimen%29_%2830474530948%29.jpg/500px-Four-lined_Snake_%28Elaphe_quatuorlineata%29_%28Captive_specimen%29_%2830474530948%29.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q854499#x5",
+            "text": "Šplhá na keře a stromy, kde vybírá ptačí hnízda.",
+            "cat": "potrava",
+            "not": [
+              "Q2716655",
+              "Q3007906",
+              "Q572677"
+            ]
+          },
+          {
+            "id": "Q854499#x6",
+            "text": "Mláďata se zpočátku živí hlavně ještěrkami.",
+            "cat": "mláďata",
+            "not": [
+              "Q1106916",
+              "Q2716655",
+              "Q3007906",
+              "Q572677",
+              "Q599571",
+              "Q838578"
+            ]
+          }
+        ],
         "continents": [
           "EU"
         ],
@@ -258025,7 +257997,32 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Ranitomeya_lamasi.jpg/500px-Ranitomeya_lamasi.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q1343792#x4",
+            "text": "Pulec se živí například larvami komárů.",
+            "cat": "potrava",
+            "not": []
+          },
+          {
+            "id": "Q1343792#x5",
+            "text": "Samec přenáší pulce do vody uvnitř bambusu nebo jiných rostlin.",
+            "cat": "mláďata",
+            "not": [
+              "Q1391753",
+              "Q1508935",
+              "Q1585467",
+              "Q215247",
+              "Q221745",
+              "Q2245678",
+              "Q226081",
+              "Q22718",
+              "Q2274204",
+              "Q739887",
+              "Q976103"
+            ]
+          }
+        ],
         "continents": [
           "SA"
         ],
@@ -263410,6 +263407,7 @@ window.GAME_DATA = [
         ],
         "continents": [
           "AS",
+          "AF",
           "OC"
         ],
         "pop": 33,
@@ -266664,8 +266662,7 @@ window.GAME_DATA = [
           }
         ],
         "continents": [
-          "EU",
-          "AF"
+          "EU"
         ],
         "pop": 37,
         "emoji": "🐸"
@@ -268136,6 +268133,7 @@ window.GAME_DATA = [
         ],
         "continents": [
           "EU",
+          "AS",
           "AF"
         ],
         "pop": 36,
@@ -269138,9 +269136,6 @@ window.GAME_DATA = [
           }
         ],
         "continents": [
-          "EU",
-          "AS",
-          "NA",
           "SA"
         ],
         "pop": 52,
@@ -269563,7 +269558,6 @@ window.GAME_DATA = [
         "continents": [
           "AS",
           "AF",
-          "NA",
           "OC"
         ],
         "pop": 29,
@@ -270199,6 +270193,7 @@ window.GAME_DATA = [
         ],
         "continents": [
           "EU",
+          "AS",
           "AF"
         ],
         "pop": 39,
@@ -272436,7 +272431,8 @@ window.GAME_DATA = [
         ],
         "continents": [
           "EU",
-          "AS"
+          "AS",
+          "NA"
         ],
         "pop": 59,
         "emoji": "🐟"
@@ -272534,6 +272530,7 @@ window.GAME_DATA = [
         ],
         "continents": [
           "EU",
+          "AS",
           "AF"
         ],
         "pop": 63,
@@ -273151,18 +273148,13 @@ window.GAME_DATA = [
             "cat": "čísla",
             "not": [
               "Q1257383",
-              "Q144700",
               "Q159323",
               "Q1687707",
               "Q199788",
-              "Q202406",
               "Q28599938",
-              "Q726276",
-              "Q752683",
               "Q842406",
               "Q855808",
-              "Q863850",
-              "Q919598"
+              "Q863850"
             ]
           }
         ],
@@ -273248,8 +273240,6 @@ window.GAME_DATA = [
           }
         ],
         "continents": [
-          "EU",
-          "AF",
           "NA",
           "SA"
         ],
@@ -274430,7 +274420,6 @@ window.GAME_DATA = [
             "text": "Tento druh se často zahrabává do písku nebo se schovává mezi kameny.",
             "cat": "chování",
             "not": [
-              "Q199788",
               "Q202406",
               "Q726276",
               "Q846231",
@@ -274562,6 +274551,7 @@ window.GAME_DATA = [
         ],
         "continents": [
           "EU",
+          "AS",
           "AF",
           "NA",
           "SA"
@@ -275046,6 +275036,7 @@ window.GAME_DATA = [
         ],
         "continents": [
           "EU",
+          "AS",
           "AF"
         ],
         "pop": 66,
@@ -275801,6 +275792,7 @@ window.GAME_DATA = [
         ],
         "continents": [
           "EU",
+          "AS",
           "AF"
         ],
         "pop": 52,
@@ -275862,8 +275854,7 @@ window.GAME_DATA = [
         ],
         "continents": [
           "EU",
-          "AS",
-          "AF"
+          "AS"
         ],
         "pop": 56,
         "emoji": "🐟"
@@ -278771,7 +278762,6 @@ window.GAME_DATA = [
           }
         ],
         "continents": [
-          "NA",
           "SA"
         ],
         "pop": 37,
@@ -284830,7 +284820,8 @@ window.GAME_DATA = [
           }
         ],
         "continents": [
-          "AS"
+          "AS",
+          "NA"
         ],
         "pop": 43,
         "emoji": "🐟"
@@ -285415,7 +285406,6 @@ window.GAME_DATA = [
         ],
         "continents": [
           "AS",
-          "NA",
           "OC"
         ],
         "pop": 33,
@@ -285572,6 +285562,7 @@ window.GAME_DATA = [
         ],
         "continents": [
           "EU",
+          "AS",
           "AF",
           "NA",
           "SA"
@@ -287150,7 +287141,6 @@ window.GAME_DATA = [
             "text": "Samice nakladou až 150 tisíc jiker.",
             "cat": "mláďata",
             "not": [
-              "Q202406",
               "Q5125285",
               "Q842406"
             ]
@@ -287656,8 +287646,7 @@ window.GAME_DATA = [
           }
         ],
         "continents": [
-          "NA",
-          "SA"
+          "NA"
         ],
         "pop": 22,
         "clade": "chiméry",
@@ -288417,8 +288406,7 @@ window.GAME_DATA = [
         "continents": [
           "AF",
           "NA",
-          "SA",
-          "OC"
+          "SA"
         ],
         "pop": 40,
         "clade": "žraloci",
@@ -295021,8 +295009,7 @@ window.GAME_DATA = [
           }
         ],
         "continents": [
-          "AS",
-          "NA"
+          "AS"
         ],
         "pop": 41,
         "emoji": "🐝"
@@ -298279,6 +298266,7 @@ window.GAME_DATA = [
         ],
         "continents": [
           "EU",
+          "AS",
           "AF"
         ],
         "pop": 21,
@@ -298623,6 +298611,7 @@ window.GAME_DATA = [
         ],
         "continents": [
           "EU",
+          "AS",
           "NA"
         ],
         "pop": 14,
@@ -302674,6 +302663,7 @@ window.GAME_DATA = [
         ],
         "continents": [
           "EU",
+          "AS",
           "AF"
         ],
         "pop": 14,
@@ -303804,7 +303794,8 @@ window.GAME_DATA = [
         "continents": [
           "EU",
           "AS",
-          "AF"
+          "AF",
+          "OC"
         ],
         "pop": 24,
         "emoji": "🦋"
@@ -308339,7 +308330,9 @@ window.GAME_DATA = [
         "continents": [
           "EU",
           "AS",
-          "AF"
+          "AF",
+          "NA",
+          "OC"
         ],
         "pop": 19,
         "emoji": "🐞"
@@ -310833,7 +310826,8 @@ window.GAME_DATA = [
         ],
         "continents": [
           "EU",
-          "AS"
+          "AS",
+          "NA"
         ],
         "pop": 8,
         "emoji": "🪲"
@@ -313953,7 +313947,7 @@ window.GAME_DATA = [
         ],
         "continents": [
           "EU",
-          "NA"
+          "AS"
         ],
         "pop": 24,
         "emoji": "🪲"
@@ -314537,6 +314531,7 @@ window.GAME_DATA = [
         ],
         "continents": [
           "EU",
+          "AS",
           "AF"
         ],
         "pop": 26,
@@ -316601,7 +316596,8 @@ window.GAME_DATA = [
         ],
         "continents": [
           "EU",
-          "AS"
+          "AS",
+          "NA"
         ],
         "pop": 22,
         "emoji": "🪰"
@@ -316685,12 +316681,8 @@ window.GAME_DATA = [
           }
         ],
         "continents": [
-          "EU",
-          "AS",
-          "AF",
           "NA",
-          "SA",
-          "OC"
+          "SA"
         ],
         "pop": 48,
         "emoji": "🪲"
@@ -318278,6 +318270,7 @@ window.GAME_DATA = [
         "continents": [
           "EU",
           "AS",
+          "NA",
           "SA",
           "OC"
         ],
@@ -319391,7 +319384,8 @@ window.GAME_DATA = [
         "continents": [
           "EU",
           "AS",
-          "AF"
+          "AF",
+          "SA"
         ],
         "pop": 75,
         "emoji": "🦋"
@@ -321707,7 +321701,8 @@ window.GAME_DATA = [
           }
         ],
         "continents": [
-          "AS"
+          "AS",
+          "OC"
         ],
         "pop": 39,
         "emoji": "🐝"
@@ -322038,7 +322033,8 @@ window.GAME_DATA = [
           }
         ],
         "continents": [
-          "EU"
+          "EU",
+          "AS"
         ],
         "pop": 11,
         "emoji": "🦋"
@@ -322789,7 +322785,8 @@ window.GAME_DATA = [
         "continents": [
           "EU",
           "AS",
-          "NA"
+          "NA",
+          "SA"
         ],
         "pop": 35,
         "emoji": "🪲"
@@ -326426,6 +326423,7 @@ window.GAME_DATA = [
         ],
         "continents": [
           "EU",
+          "AS",
           "NA"
         ],
         "pop": 28,
@@ -327720,6 +327718,7 @@ window.GAME_DATA = [
         ],
         "continents": [
           "EU",
+          "AS",
           "AF"
         ],
         "pop": 33,
@@ -328405,8 +328404,7 @@ window.GAME_DATA = [
         "continents": [
           "EU",
           "AS",
-          "AF",
-          "NA"
+          "AF"
         ],
         "pop": 47,
         "emoji": "🪰"
@@ -328747,7 +328745,8 @@ window.GAME_DATA = [
         ],
         "continents": [
           "EU",
-          "AS"
+          "AS",
+          "AF"
         ],
         "pop": 25,
         "emoji": "🦋"
@@ -329096,8 +329095,7 @@ window.GAME_DATA = [
         ],
         "continents": [
           "EU",
-          "AS",
-          "NA"
+          "AS"
         ],
         "pop": 17,
         "emoji": "🪰"
@@ -329334,7 +329332,8 @@ window.GAME_DATA = [
         ],
         "continents": [
           "EU",
-          "AS"
+          "AS",
+          "NA"
         ],
         "pop": 23,
         "emoji": "🪲"
@@ -329834,7 +329833,8 @@ window.GAME_DATA = [
         ],
         "continents": [
           "EU",
-          "AS"
+          "AS",
+          "OC"
         ],
         "pop": 20,
         "emoji": "🐝"
@@ -342232,6 +342232,7 @@ window.GAME_DATA = [
         ],
         "continents": [
           "EU",
+          "AS",
           "AF"
         ],
         "pop": 13,
@@ -342396,7 +342397,8 @@ window.GAME_DATA = [
         ],
         "continents": [
           "EU",
-          "AS"
+          "AS",
+          "NA"
         ],
         "pop": 25,
         "emoji": "🕷️"
@@ -342917,7 +342919,8 @@ window.GAME_DATA = [
         ],
         "continents": [
           "EU",
-          "AS"
+          "AS",
+          "NA"
         ],
         "pop": 13,
         "emoji": "🕷️"
@@ -345742,7 +345745,8 @@ window.GAME_DATA = [
           }
         ],
         "continents": [
-          "EU"
+          "EU",
+          "AS"
         ],
         "pop": 17,
         "emoji": "🕷️"
@@ -346264,7 +346268,8 @@ window.GAME_DATA = [
           }
         ],
         "continents": [
-          "EU"
+          "EU",
+          "AS"
         ],
         "pop": 16,
         "emoji": "🕷️"
@@ -352420,6 +352425,7 @@ window.GAME_DATA = [
           }
         ],
         "continents": [
+          "AS",
           "AF",
           "OC"
         ],
@@ -357660,6 +357666,7 @@ window.GAME_DATA = [
         ],
         "continents": [
           "EU",
+          "AS",
           "NA"
         ],
         "pop": 38,
@@ -409029,9 +409036,7 @@ window.GAME_DATA = [
             "id": "Q107592#3",
             "text": "Dorůstá nejčastěji do výšky 10 až 70 centimetrů.",
             "cat": "čísla",
-            "not": [
-              "Q301377"
-            ]
+            "not": []
           }
         ],
         "continents": [
@@ -409420,7 +409425,6 @@ window.GAME_DATA = [
               "Q213548",
               "Q2176480",
               "Q2273882",
-              "Q301377",
               "Q322994",
               "Q4678994",
               "Q542735",
@@ -409511,9 +409515,7 @@ window.GAME_DATA = [
             "id": "Q1197925#1",
             "text": "Nadzemní stonky jsou dlouhé 10 až 70 centimetrů.",
             "cat": "čísla",
-            "not": [
-              "Q301377"
-            ]
+            "not": []
           }
         ],
         "continents": [
@@ -409925,7 +409927,6 @@ window.GAME_DATA = [
             "not": [
               "Q1684201",
               "Q523210",
-              "Q899476",
               "Q948839"
             ]
           }
@@ -410207,7 +410208,6 @@ window.GAME_DATA = [
               "Q263881",
               "Q28957",
               "Q299246",
-              "Q301377",
               "Q905897",
               "Q937406"
             ]
@@ -411803,24 +411803,6 @@ window.GAME_DATA = [
             "not": []
           },
           {
-            "id": "Q299246#2",
-            "text": "Tento druh se pravděpodobně šíří přilepením na peří ptáků.",
-            "cat": "růst",
-            "not": [
-              "Q12045561",
-              "Q1245997",
-              "Q1665550",
-              "Q245842",
-              "Q2715589",
-              "Q301377",
-              "Q466426",
-              "Q787930",
-              "Q899476",
-              "Q9372555",
-              "Q9372557"
-            ]
-          },
-          {
             "id": "Q299246#3",
             "text": "Tento druh byl v Česku dlouho považován za vyhynulý.",
             "cat": "výskyt",
@@ -413220,7 +413202,6 @@ window.GAME_DATA = [
             "cat": "výskyt",
             "not": [
               "Q322994",
-              "Q466426",
               "Q905897",
               "Q998341"
             ]
@@ -413459,7 +413440,6 @@ window.GAME_DATA = [
             "not": [
               "Q1546744",
               "Q245842",
-              "Q466426",
               "Q787930",
               "Q901435",
               "Q9372557"
@@ -413515,23 +413495,6 @@ window.GAME_DATA = [
           }
         ],
         "facts": [
-          {
-            "id": "Q958103#x0",
-            "text": "Je jedinou známou živnou rostlinou housenek jednoho druhu můry.",
-            "cat": "vztahy",
-            "not": [
-              "Q12045561",
-              "Q1245997",
-              "Q1665550",
-              "Q245842",
-              "Q2715589",
-              "Q466426",
-              "Q787930",
-              "Q899476",
-              "Q9372555",
-              "Q9372557"
-            ]
-          },
           {
             "id": "Q958103#x2",
             "text": "Zkoumá se, zda může pomoci čistit půdu od těžkých kovů.",
@@ -413656,6 +413619,7 @@ window.GAME_DATA = [
               "Q146224",
               "Q149109",
               "Q1572669",
+              "Q1646440",
               "Q1752834",
               "Q1763341",
               "Q1777800",
@@ -414224,7 +414188,10 @@ window.GAME_DATA = [
             "id": "Q146224#x3",
             "text": "Buňky listů jsou uspořádány v šikmých řadách a pod lupou jsou dobře vidět.",
             "cat": "vzhled",
-            "not": []
+            "not": [
+              "Q178025",
+              "Q2097953"
+            ]
           }
         ],
         "continents": [
@@ -415249,7 +415216,9 @@ window.GAME_DATA = [
             "id": "Q292385#1",
             "text": "Roste až v nadmořských výškách nad 2500 metrů.",
             "cat": "čísla",
-            "not": []
+            "not": [
+              "Q3490169"
+            ]
           }
         ],
         "continents": [
@@ -415627,6 +415596,7 @@ window.GAME_DATA = [
               "Q1665550",
               "Q245842",
               "Q2715589",
+              "Q3490169",
               "Q466426",
               "Q787930",
               "Q899476",
@@ -415743,7 +415713,8 @@ window.GAME_DATA = [
             "text": "Roste v mokrých lesích, kde převládají vrby a břízy.",
             "cat": "výskyt",
             "not": [
-              "Q11879787"
+              "Q11879787",
+              "Q3490169"
             ]
           }
         ],
@@ -418649,7 +418620,38 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Sparassis_nemecii.jpg/500px-Sparassis_nemecii.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q10674380#x0",
+            "text": "Parazituje převážně na kořenech jedle.",
+            "cat": "vztahy",
+            "not": [
+              "Q1757951",
+              "Q36992",
+              "Q472142",
+              "Q675252",
+              "Q736892",
+              "Q753833",
+              "Q843177",
+              "Q9376239",
+              "Q96934111",
+              "Q980655"
+            ]
+          },
+          {
+            "id": "Q10674380#x2",
+            "text": "Plodnice má kulovitý, keříčkovitý tvar.",
+            "cat": "vzhled",
+            "not": [
+              "Q472142",
+              "Q736892",
+              "Q753833",
+              "Q843177",
+              "Q9376239",
+              "Q96934111"
+            ]
+          }
+        ],
         "continents": [
           "EU"
         ],
@@ -430296,7 +430298,48 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Rhodotus_palmatus_-_Wrinkled_Peach_%2851576652182%29.jpg/500px-Rhodotus_palmatus_-_Wrinkled_Peach_%2851576652182%29.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q2580187#x4",
+            "text": "Roste na mrtvém dřevě, především jilmovém.",
+            "cat": "vztahy",
+            "not": [
+              "Q10510074",
+              "Q1315936",
+              "Q1536218",
+              "Q1572277",
+              "Q1855552",
+              "Q2255926",
+              "Q3915840",
+              "Q56328319",
+              "Q623485"
+            ]
+          },
+          {
+            "id": "Q2580187#x5",
+            "text": "Způsobuje bílou hnilobu dřeva.",
+            "cat": "vztahy",
+            "not": [
+              "Q1315936",
+              "Q1536218",
+              "Q1855552",
+              "Q2255926",
+              "Q3915840",
+              "Q56328319",
+              "Q623485"
+            ]
+          },
+          {
+            "id": "Q2580187#x6",
+            "text": "Dává přednost pravidelně zaplavovaným a málo osluněným místům.",
+            "cat": "výskyt",
+            "not": [
+              "Q1315936",
+              "Q3915840",
+              "Q56328319"
+            ]
+          }
+        ],
         "continents": [
           "EU",
           "AS",
@@ -433046,7 +433089,14 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Pseudoinonotus_dryadeus_%2844390711621%29.jpg/500px-Pseudoinonotus_dryadeus_%2844390711621%29.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q3395772#x1",
+            "text": "Ve vlhkém prostředí vylučuje plodnice drobné hnědé kapičky.",
+            "cat": "růst",
+            "not": []
+          }
+        ],
         "continents": [
           "EU",
           "AS",
@@ -433082,7 +433132,25 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Rugosomyces_carneus_%2836700505970%29.jpg/500px-Rugosomyces_carneus_%2836700505970%29.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q3490762#x2",
+            "text": "Objevuje se na jaře, v létě a začátkem podzimu, obvykle po dešti.",
+            "cat": "růst",
+            "not": []
+          },
+          {
+            "id": "Q3490762#x3",
+            "text": "V lesích roste velmi vzácně, pokud v nich není travnatá mýtina.",
+            "cat": "výskyt",
+            "not": [
+              "Q1536218",
+              "Q1572277",
+              "Q1855552",
+              "Q623485"
+            ]
+          }
+        ],
         "continents": [
           "EU",
           "NA"
@@ -445677,9 +445745,7 @@ window.GAME_DATA = [
             "id": "Q10546447#0",
             "text": "Roste velmi vzácně, jednotlivě nebo v malých skupinách.",
             "cat": "výskyt",
-            "not": [
-              "Q3374554"
-            ]
+            "not": []
           },
           {
             "id": "Q10546447#1",
@@ -446400,11 +446466,7 @@ window.GAME_DATA = [
             "id": "Q1417061#0",
             "text": "Roste od března do května.",
             "cat": "růst",
-            "not": [
-              "Q113273",
-              "Q2974933",
-              "Q3374554"
-            ]
+            "not": []
           },
           {
             "id": "Q1417061#1",
@@ -448470,7 +448532,30 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Mitrula_paludosa_%2833993388380%29.jpg/500px-Mitrula_paludosa_%2833993388380%29.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q3333209#x2",
+            "text": "Roste na opadaném listí, jehličí, větvičkách, tlejících mechách a řasách.",
+            "cat": "vztahy",
+            "not": []
+          },
+          {
+            "id": "Q3333209#x3",
+            "text": "Z vody často vyčnívá jen hlavička plodnice.",
+            "cat": "výskyt",
+            "not": [
+              "Q10519246",
+              "Q1795398",
+              "Q2267811",
+              "Q2315947",
+              "Q2866408",
+              "Q3913774",
+              "Q529191",
+              "Q605828",
+              "Q722657"
+            ]
+          }
+        ],
         "continents": [
           "EU",
           "AS",
@@ -448757,10 +448842,7 @@ window.GAME_DATA = [
             "text": "Roste na jaře, od března do května.",
             "cat": "růst",
             "not": [
-              "Q113273",
-              "Q1552015",
-              "Q2974933",
-              "Q3374554"
+              "Q1552015"
             ]
           }
         ],
@@ -448938,8 +449020,7 @@ window.GAME_DATA = [
             "cat": "čísla",
             "not": [
               "Q113273",
-              "Q2974933",
-              "Q3374554"
+              "Q2974933"
             ]
           }
         ],
@@ -449700,7 +449781,6 @@ window.GAME_DATA = [
               "Q113273",
               "Q1365267",
               "Q182281",
-              "Q3374554",
               "Q881824"
             ]
           },
@@ -451786,7 +451866,30 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/J%C3%ADrovec_Dupont%C5%AFv%2C_ZOO_Ostrava_2.jpg/500px-J%C3%ADrovec_Dupont%C5%AFv%2C_ZOO_Ostrava_2.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q108281267#x0",
+            "text": "Tento druh se ve volné přírodě nevyskytuje.",
+            "cat": "výskyt",
+            "not": [
+              "Q148986",
+              "Q15539738",
+              "Q15543125",
+              "Q15634290",
+              "Q158855",
+              "Q161406",
+              "Q162728",
+              "Q2601080",
+              "Q36071"
+            ]
+          },
+          {
+            "id": "Q108281267#x2",
+            "text": "Prospívá na plném slunci v hlubokých vlhkých půdách.",
+            "cat": "růst",
+            "not": []
+          }
+        ],
         "continents": [
           "EU",
           "NA"
@@ -451926,10 +452029,7 @@ window.GAME_DATA = [
               "Q104212",
               "Q146190",
               "Q158520",
-              "Q158542",
               "Q158664",
-              "Q158992",
-              "Q159200",
               "Q159367",
               "Q159418",
               "Q160585",
@@ -451949,14 +452049,11 @@ window.GAME_DATA = [
               "Q156307",
               "Q160319",
               "Q160921",
-              "Q161379",
               "Q161477",
               "Q161644",
               "Q161665",
               "Q162325",
               "Q163004",
-              "Q163168",
-              "Q163348",
               "Q163981",
               "Q170662",
               "Q182448",
@@ -452209,7 +452306,6 @@ window.GAME_DATA = [
               "Q15441429",
               "Q158520",
               "Q158542",
-              "Q158664",
               "Q158992",
               "Q159128",
               "Q159367",
@@ -453652,9 +453748,7 @@ window.GAME_DATA = [
               "Q157393",
               "Q157490",
               "Q157585",
-              "Q157624",
               "Q157927",
-              "Q158226",
               "Q158313",
               "Q158332",
               "Q158413",
@@ -456333,7 +456427,6 @@ window.GAME_DATA = [
             "not": [
               "Q132145",
               "Q134253",
-              "Q1428973",
               "Q148961",
               "Q149749",
               "Q157968",
@@ -457415,9 +457508,6 @@ window.GAME_DATA = [
               "Q1195985",
               "Q159008",
               "Q160189",
-              "Q2559189",
-              "Q2716902",
-              "Q292653",
               "Q29907"
             ]
           },
@@ -457487,24 +457577,6 @@ window.GAME_DATA = [
               "Q160019",
               "Q7844860",
               "Q819184"
-            ]
-          },
-          {
-            "id": "Q1355893#1",
-            "text": "Hlízy jsou podzemní stonky.",
-            "cat": "vzhled",
-            "not": [
-              "Q255375",
-              "Q2559189",
-              "Q259033",
-              "Q271179",
-              "Q2716902",
-              "Q273742",
-              "Q275160",
-              "Q292653",
-              "Q3071706",
-              "Q310157",
-              "Q311325"
             ]
           }
         ],
@@ -458360,36 +458432,6 @@ window.GAME_DATA = [
               "Q4431244",
               "Q45680",
               "Q5131966"
-            ]
-          },
-          {
-            "id": "Q1405636#4",
-            "text": "Opyluje ho jediný druh drobné vosy.",
-            "cat": "vztahy",
-            "not": [
-              "Q102088",
-              "Q1066106",
-              "Q146951",
-              "Q1509784",
-              "Q157407",
-              "Q158900",
-              "Q158953",
-              "Q159174",
-              "Q2087013",
-              "Q504781",
-              "Q657935",
-              "Q671227",
-              "Q702175",
-              "Q7376217",
-              "Q74644",
-              "Q750467",
-              "Q845791",
-              "Q847209",
-              "Q852572",
-              "Q854714",
-              "Q854941",
-              "Q857220",
-              "Q9325795"
             ]
           },
           {
@@ -460363,8 +460405,6 @@ window.GAME_DATA = [
               "Q13182",
               "Q1510231",
               "Q1536249",
-              "Q15525126",
-              "Q15543125",
               "Q156538",
               "Q157277",
               "Q157968",
@@ -460588,8 +460628,7 @@ window.GAME_DATA = [
               "Q148396",
               "Q158035",
               "Q161235",
-              "Q3143948",
-              "Q3938471"
+              "Q3143948"
             ]
           },
           {
@@ -461308,7 +461347,6 @@ window.GAME_DATA = [
               "Q1033449",
               "Q10360891",
               "Q1077410",
-              "Q10855099",
               "Q12252383",
               "Q125813",
               "Q1329209",
@@ -463795,7 +463833,6 @@ window.GAME_DATA = [
               "Q1033449",
               "Q10360891",
               "Q1077410",
-              "Q10855099",
               "Q1105707",
               "Q121749",
               "Q12252383",
@@ -463813,7 +463850,6 @@ window.GAME_DATA = [
               "Q319390",
               "Q3348720",
               "Q35905",
-              "Q367242",
               "Q380279",
               "Q3898877",
               "Q3938471"
@@ -465005,17 +465041,6 @@ window.GAME_DATA = [
               "Q147498",
               "Q1489573",
               "Q156904",
-              "Q159445",
-              "Q159570",
-              "Q159643",
-              "Q159737",
-              "Q159752",
-              "Q159787",
-              "Q159826",
-              "Q160096",
-              "Q160102",
-              "Q160185",
-              "Q160191",
               "Q165378",
               "Q3390128",
               "Q3467740",
@@ -466140,7 +466165,6 @@ window.GAME_DATA = [
             "not": [
               "Q158785",
               "Q269224",
-              "Q310157",
               "Q311325",
               "Q857075"
             ]
@@ -466192,38 +466216,7 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Fleurs_en_feuilles_d%27amandier.jpg/500px-Fleurs_en_feuilles_d%27amandier.jpg"
           }
         ],
-        "facts": [
-          {
-            "id": "Q15545507#1",
-            "text": "Tento druh se využívá jako podnož pro roubování broskvoní.",
-            "cat": "využití",
-            "not": [
-              "Q133617",
-              "Q133964",
-              "Q134253",
-              "Q1348662",
-              "Q1365023",
-              "Q1367533",
-              "Q140415",
-              "Q1424919",
-              "Q1425243",
-              "Q1428973",
-              "Q14530198",
-              "Q147861",
-              "Q148961",
-              "Q148986",
-              "Q155909",
-              "Q1592259",
-              "Q159482",
-              "Q159897",
-              "Q162834",
-              "Q163544",
-              "Q3061658",
-              "Q491793",
-              "Q792835"
-            ]
-          }
-        ],
+        "facts": [],
         "continents": [
           "EU",
           "AS",
@@ -466694,7 +466687,6 @@ window.GAME_DATA = [
               "Q26932",
               "Q271179",
               "Q2716902",
-              "Q273742",
               "Q275160",
               "Q292653",
               "Q29907",
@@ -468100,7 +468092,6 @@ window.GAME_DATA = [
             "not": [
               "Q132734",
               "Q158664",
-              "Q159418",
               "Q161110",
               "Q171497",
               "Q42339",
@@ -470062,7 +470053,6 @@ window.GAME_DATA = [
             "text": "Kvete v červnu a červenci.",
             "cat": "růst",
             "not": [
-              "Q121749",
               "Q124969"
             ]
           }
@@ -474483,8 +474473,7 @@ window.GAME_DATA = [
             "not": [
               "Q146190",
               "Q161724",
-              "Q3143948",
-              "Q3938471"
+              "Q3143948"
             ]
           }
         ],
@@ -474563,25 +474552,6 @@ window.GAME_DATA = [
               "Q311471",
               "Q56345405",
               "Q594058"
-            ]
-          },
-          {
-            "id": "Q158425#1",
-            "text": "Kvete v červnu až červenci, ještě předtím, než se objeví listy.",
-            "cat": "růst",
-            "not": [
-              "Q160319",
-              "Q160921",
-              "Q161313",
-              "Q161379",
-              "Q161477",
-              "Q161644",
-              "Q161665",
-              "Q162325",
-              "Q163168",
-              "Q163348",
-              "Q163413",
-              "Q163981"
             ]
           }
         ],
@@ -475398,7 +475368,6 @@ window.GAME_DATA = [
               "Q157927",
               "Q158066",
               "Q158313",
-              "Q158413",
               "Q158912",
               "Q1595512",
               "Q159602",
@@ -476862,7 +476831,34 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Sorbaria_sorbifolia_Kemi%2C_Finland_15.07.2013.jpg/500px-Sorbaria_sorbifolia_Kemi%2C_Finland_15.07.2013.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q158953#x4",
+            "text": "Může tvořit husté neprostupné porosty, protože se šíří kořenovými výběžky.",
+            "cat": "růst",
+            "not": []
+          },
+          {
+            "id": "Q158953#x5",
+            "text": "Pochází ze Sibiře a východní Asie.",
+            "cat": "výskyt",
+            "not": [
+              "Q146186",
+              "Q158198",
+              "Q159558",
+              "Q3061658",
+              "Q3410988",
+              "Q384640",
+              "Q6122027"
+            ]
+          },
+          {
+            "id": "Q158953#x6",
+            "text": "Odolává i mrazům minus 20 °C.",
+            "cat": "čísla",
+            "not": []
+          }
+        ],
         "continents": [
           "EU",
           "AS",
@@ -477059,10 +477055,8 @@ window.GAME_DATA = [
             "text": "Lodyhy bývají dlouhé 40 až 200 centimetrů.",
             "cat": "čísla",
             "not": [
-              "Q161379",
               "Q162521",
               "Q163168",
-              "Q163348",
               "Q163981",
               "Q601161"
             ]
@@ -477468,8 +477462,7 @@ window.GAME_DATA = [
               "Q145399",
               "Q158508",
               "Q160480",
-              "Q2559189",
-              "Q311325"
+              "Q2559189"
             ]
           },
           {
@@ -477538,7 +477531,6 @@ window.GAME_DATA = [
             "cat": "čísla",
             "not": [
               "Q159570",
-              "Q159737",
               "Q160185",
               "Q666160"
             ]
@@ -480104,8 +480096,7 @@ window.GAME_DATA = [
             "text": "Je to medonosná rostlina, která láká mnoho opylovačů.",
             "cat": "vztahy",
             "not": [
-              "Q1510231",
-              "Q157277"
+              "Q1510231"
             ]
           }
         ],
@@ -480232,9 +480223,7 @@ window.GAME_DATA = [
             "id": "Q159492#2",
             "text": "Kvete většinou od května do srpna.",
             "cat": "růst",
-            "not": [
-              "Q121749"
-            ]
+            "not": []
           },
           {
             "id": "Q159492#4",
@@ -480900,7 +480889,6 @@ window.GAME_DATA = [
               "Q162461",
               "Q26811",
               "Q41505",
-              "Q504781",
               "Q9325795"
             ]
           },
@@ -481125,7 +481113,6 @@ window.GAME_DATA = [
               "Q147305",
               "Q163609",
               "Q271179",
-              "Q310157",
               "Q311325"
             ]
           }
@@ -481320,24 +481307,12 @@ window.GAME_DATA = [
         ],
         "facts": [
           {
-            "id": "Q159604#0",
-            "text": "Kvete nejčastěji v červenci až v září.",
-            "cat": "růst",
-            "not": [
-              "Q149367",
-              "Q149376",
-              "Q158546"
-            ]
-          },
-          {
             "id": "Q159604#1",
             "text": "Dorůstá nejčastěji do výšky 20 až 90 cm.",
             "cat": "čísla",
             "not": [
-              "Q149376",
               "Q149775",
               "Q1510231",
-              "Q1536249",
               "Q15525126",
               "Q15543125",
               "Q157277"
@@ -483191,20 +483166,6 @@ window.GAME_DATA = [
             "not": [
               "Q2601238"
             ]
-          },
-          {
-            "id": "Q159773#7",
-            "text": "Kurovití ptáci požírají semena, která vypadnou z lusků.",
-            "cat": "vztahy",
-            "not": [
-              "Q161379",
-              "Q161644",
-              "Q161665",
-              "Q163168",
-              "Q163348",
-              "Q163413",
-              "Q163981"
-            ]
           }
         ],
         "continents": [
@@ -484979,7 +484940,6 @@ window.GAME_DATA = [
               "Q162405",
               "Q3446538",
               "Q41521670",
-              "Q504781",
               "Q657935",
               "Q702175",
               "Q74644",
@@ -485289,9 +485249,7 @@ window.GAME_DATA = [
             "id": "Q160377#2",
             "text": "Kvete od dubna do června.",
             "cat": "růst",
-            "not": [
-              "Q160102"
-            ]
+            "not": []
           }
         ],
         "continents": [
@@ -486631,7 +486589,6 @@ window.GAME_DATA = [
             "text": "Kvete na jaře, v dubnu a v květnu.",
             "cat": "růst",
             "not": [
-              "Q17245203",
               "Q2220315",
               "Q927257"
             ]
@@ -486878,9 +486835,7 @@ window.GAME_DATA = [
             "id": "Q161344#0",
             "text": "Kvete v červnu a červenci.",
             "cat": "růst",
-            "not": [
-              "Q149376"
-            ]
+            "not": []
           },
           {
             "id": "Q161344#1",
@@ -488482,7 +488437,6 @@ window.GAME_DATA = [
             "cat": "vzhled",
             "not": [
               "Q147861",
-              "Q148961",
               "Q159699"
             ]
           },
@@ -489487,7 +489441,6 @@ window.GAME_DATA = [
               "Q158226",
               "Q158313",
               "Q158332",
-              "Q158457",
               "Q160377"
             ]
           },
@@ -489987,7 +489940,6 @@ window.GAME_DATA = [
             "text": "Kvete v červnu a červenci.",
             "cat": "růst",
             "not": [
-              "Q2559189",
               "Q29488"
             ]
           },
@@ -490136,7 +490088,6 @@ window.GAME_DATA = [
               "Q147064",
               "Q156307",
               "Q158289",
-              "Q159445",
               "Q159570",
               "Q159737",
               "Q159752",
@@ -490144,7 +490095,6 @@ window.GAME_DATA = [
               "Q159871",
               "Q160102",
               "Q160185",
-              "Q160191",
               "Q163004",
               "Q170662",
               "Q39708",
@@ -490545,7 +490495,6 @@ window.GAME_DATA = [
             "not": [
               "Q147096",
               "Q162171",
-              "Q35905",
               "Q367242",
               "Q389185",
               "Q3938471",
@@ -490783,18 +490732,6 @@ window.GAME_DATA = [
             "text": "Květy navštěvují včely a čmeláci.",
             "cat": "vztahy",
             "not": []
-          },
-          {
-            "id": "Q162774#6",
-            "text": "Spadlé plody sežerou lišky a zajíci.",
-            "cat": "potrava",
-            "not": [
-              "Q160319",
-              "Q160921",
-              "Q161313",
-              "Q161477",
-              "Q162325"
-            ]
           }
         ],
         "continents": [
@@ -491805,17 +491742,8 @@ window.GAME_DATA = [
             "text": "Může pomoci očistit půdu, protože z ní přijímá kadmium a zinek.",
             "cat": "využití",
             "not": [
-              "Q255375",
-              "Q2559189",
-              "Q259033",
-              "Q271179",
-              "Q2716902",
               "Q273742",
-              "Q275160",
               "Q292653",
-              "Q29907",
-              "Q3071706",
-              "Q310157",
               "Q311325"
             ]
           }
@@ -493149,23 +493077,15 @@ window.GAME_DATA = [
               "Q158542",
               "Q158576",
               "Q158664",
-              "Q159128",
               "Q159200",
               "Q159331",
               "Q159434",
               "Q160072",
-              "Q160319",
               "Q160755",
-              "Q160921",
-              "Q161313",
               "Q161379",
-              "Q161477",
               "Q161644",
-              "Q161665",
-              "Q162325",
               "Q163168",
               "Q163348",
-              "Q163981",
               "Q164447",
               "Q2878084",
               "Q310050",
@@ -496301,7 +496221,6 @@ window.GAME_DATA = [
             "not": [
               "Q12861234",
               "Q128939",
-              "Q1510231",
               "Q164649",
               "Q164700"
             ]
@@ -498205,13 +498124,9 @@ window.GAME_DATA = [
             "text": "Ptáci v zimě zobou plody a roznášejí semena po okolí.",
             "cat": "vztahy",
             "not": [
-              "Q160319",
-              "Q160921",
               "Q161313",
-              "Q161477",
               "Q161644",
               "Q161665",
-              "Q162325",
               "Q163413"
             ]
           }
@@ -499049,8 +498964,6 @@ window.GAME_DATA = [
             "cat": "využití",
             "not": [
               "Q131226",
-              "Q159445",
-              "Q159570",
               "Q159737",
               "Q159752",
               "Q159787",
@@ -499799,9 +499712,7 @@ window.GAME_DATA = [
               "Q157490",
               "Q157585",
               "Q157756",
-              "Q158035",
-              "Q158413",
-              "Q158415"
+              "Q158035"
             ]
           },
           {
@@ -500076,22 +499987,6 @@ window.GAME_DATA = [
               "Q1652130",
               "Q341680",
               "Q674096"
-            ]
-          },
-          {
-            "id": "Q1888040#4",
-            "text": "Dřevo mohou napadat termiti.",
-            "cat": "vztahy",
-            "not": [
-              "Q157490",
-              "Q157585",
-              "Q157927",
-              "Q158226",
-              "Q158313",
-              "Q158332",
-              "Q158413",
-              "Q158415",
-              "Q158457"
             ]
           }
         ],
@@ -501856,7 +501751,6 @@ window.GAME_DATA = [
             "cat": "vzhled",
             "not": [
               "Q130201",
-              "Q1428973",
               "Q148961",
               "Q15365316",
               "Q156106",
@@ -504172,10 +504066,13 @@ window.GAME_DATA = [
               "Q161639",
               "Q162849",
               "Q163944",
+              "Q164977",
               "Q165191",
               "Q2319755",
               "Q3595658",
-              "Q41558"
+              "Q41558",
+              "Q511179",
+              "Q622525"
             ]
           },
           {
@@ -504895,7 +504792,6 @@ window.GAME_DATA = [
             "cat": "využití",
             "not": [
               "Q149367",
-              "Q1510231",
               "Q15520533",
               "Q158221",
               "Q159094",
@@ -505215,7 +505111,6 @@ window.GAME_DATA = [
               "Q238486",
               "Q34007",
               "Q42339",
-              "Q504781",
               "Q657935",
               "Q702175",
               "Q74644",
@@ -506229,7 +506124,6 @@ window.GAME_DATA = [
               "Q158018",
               "Q162171",
               "Q310050",
-              "Q35905",
               "Q367242",
               "Q389185",
               "Q3938471",
@@ -506466,9 +506360,7 @@ window.GAME_DATA = [
             "cat": "čísla",
             "not": [
               "Q156944",
-              "Q158301",
-              "Q1915950",
-              "Q203985"
+              "Q158301"
             ]
           },
           {
@@ -506792,7 +506684,6 @@ window.GAME_DATA = [
               "Q2038139",
               "Q203985",
               "Q2078310",
-              "Q2089847",
               "Q922370"
             ]
           }
@@ -508401,14 +508292,11 @@ window.GAME_DATA = [
             "cat": "čísla",
             "not": [
               "Q143525",
-              "Q164145",
               "Q164698",
               "Q1652385",
-              "Q17243227",
               "Q17245203",
               "Q1786791",
               "Q1813339",
-              "Q18182668",
               "Q187941",
               "Q234193"
             ]
@@ -508836,8 +508724,7 @@ window.GAME_DATA = [
               "Q1088271",
               "Q164447",
               "Q2702446",
-              "Q3410988",
-              "Q74644"
+              "Q3410988"
             ]
           },
           {
@@ -510073,7 +509960,17 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Didzioji_vilkpupe_resize.JPG/500px-Didzioji_vilkpupe_resize.JPG"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q3143948#x0",
+            "text": "Kvete v září.",
+            "cat": "růst",
+            "not": [
+              "Q149260",
+              "Q149812"
+            ]
+          }
+        ],
         "continents": [
           "EU",
           "AS",
@@ -510583,12 +510480,10 @@ window.GAME_DATA = [
             "not": [
               "Q158468",
               "Q158576",
-              "Q158865",
               "Q158992",
               "Q159128",
               "Q159200",
-              "Q159367",
-              "Q159434"
+              "Q159367"
             ]
           },
           {
@@ -514363,7 +514258,6 @@ window.GAME_DATA = [
               "Q163348",
               "Q163413",
               "Q163763",
-              "Q163981",
               "Q165213",
               "Q18198979",
               "Q2727171",
@@ -514893,7 +514787,6 @@ window.GAME_DATA = [
               "Q2280877",
               "Q2305124",
               "Q232344",
-              "Q2349096",
               "Q257106",
               "Q2573726",
               "Q2577765",
@@ -517149,7 +517042,6 @@ window.GAME_DATA = [
               "Q1033449",
               "Q10360891",
               "Q10855099",
-              "Q1105707",
               "Q12252383",
               "Q125813",
               "Q133616",
@@ -520291,7 +520183,6 @@ window.GAME_DATA = [
               "Q163955",
               "Q702175",
               "Q7485552",
-              "Q845791",
               "Q847209",
               "Q852572",
               "Q854714",
@@ -522376,13 +522267,10 @@ window.GAME_DATA = [
               "Q15385772",
               "Q157532",
               "Q157668",
-              "Q164145",
               "Q164698",
               "Q1652385",
-              "Q17243227",
               "Q1786791",
               "Q1813339",
-              "Q18182668",
               "Q187941",
               "Q2603234"
             ]
@@ -524272,8 +524160,6 @@ window.GAME_DATA = [
               "Q133964",
               "Q1365023",
               "Q1367533",
-              "Q1424919",
-              "Q1425243",
               "Q1428973",
               "Q14530198",
               "Q146951",
@@ -524985,7 +524871,6 @@ window.GAME_DATA = [
               "Q1105707",
               "Q148939",
               "Q149367",
-              "Q149376",
               "Q149447",
               "Q149775",
               "Q1536249",
@@ -525324,7 +525209,6 @@ window.GAME_DATA = [
               "Q149775",
               "Q1510231",
               "Q1529852",
-              "Q1536249",
               "Q15525126",
               "Q15543125",
               "Q156538",
@@ -525708,7 +525592,6 @@ window.GAME_DATA = [
               "Q21110",
               "Q2591210",
               "Q3143948",
-              "Q35905",
               "Q367242",
               "Q384640",
               "Q476864"
@@ -526650,7 +526533,6 @@ window.GAME_DATA = [
             "text": "Roste na suchých písčitých místech, často mezi borovicemi.",
             "cat": "výskyt",
             "not": [
-              "Q158576",
               "Q158664"
             ]
           }
@@ -527015,7 +526897,6 @@ window.GAME_DATA = [
               "Q15366572",
               "Q160019",
               "Q160921",
-              "Q161313",
               "Q161644",
               "Q161665",
               "Q163348"
@@ -528911,7 +528792,6 @@ window.GAME_DATA = [
               "Q161421",
               "Q163090",
               "Q17271654",
-              "Q2319755",
               "Q2776477",
               "Q518949",
               "Q6077871"
@@ -529301,9 +529181,7 @@ window.GAME_DATA = [
             "cat": "čísla",
             "not": [
               "Q1281021",
-              "Q157878",
               "Q158938",
-              "Q158984",
               "Q159008",
               "Q159128",
               "Q159137",
@@ -529759,9 +529637,7 @@ window.GAME_DATA = [
               "Q1431280",
               "Q156921",
               "Q161633",
-              "Q5190122",
-              "Q941600",
-              "Q958823"
+              "Q5190122"
             ]
           },
           {
@@ -531328,9 +531204,7 @@ window.GAME_DATA = [
             "text": "Dorůstá do výšky 30 až 120 cm.",
             "cat": "čísla",
             "not": [
-              "Q2723742",
-              "Q2776477",
-              "Q3487324"
+              "Q2776477"
             ]
           }
         ],
@@ -533031,7 +532905,37 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Primula_%C3%97_media.jpg/500px-Primula_%C3%97_media.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q12047372#x2",
+            "text": "Je to kříženec dvou druhů, jeden má raději sušší a druhý vlhčí místa.",
+            "cat": "vztahy",
+            "not": [
+              "Q147305",
+              "Q1612679",
+              "Q161631",
+              "Q161937",
+              "Q162779",
+              "Q163763",
+              "Q1857489",
+              "Q218462",
+              "Q247714",
+              "Q2605239",
+              "Q2699200",
+              "Q93235"
+            ]
+          },
+          {
+            "id": "Q12047372#x3",
+            "text": "Vyskytuje se mimo jiné v Česku, na Slovensku, v Belgii a v severní Francii.",
+            "cat": "výskyt",
+            "not": [
+              "Q1612679",
+              "Q1857489",
+              "Q2605239"
+            ]
+          }
+        ],
         "continents": [
           "EU"
         ],
@@ -533882,7 +533786,6 @@ window.GAME_DATA = [
             "cat": "růst",
             "not": [
               "Q1130177",
-              "Q15536178",
               "Q164452"
             ]
           },
@@ -534479,11 +534382,8 @@ window.GAME_DATA = [
               "Q28801933",
               "Q3502059",
               "Q383705",
-              "Q41611",
-              "Q4236769",
               "Q458318",
-              "Q489597",
-              "Q511103"
+              "Q489597"
             ]
           },
           {
@@ -534491,9 +534391,7 @@ window.GAME_DATA = [
             "text": "Nejčastěji roste na slunných místech se suchou půdou.",
             "cat": "výskyt",
             "not": [
-              "Q104212",
-              "Q570551",
-              "Q620234"
+              "Q104212"
             ]
           },
           {
@@ -534897,30 +534795,6 @@ window.GAME_DATA = [
           }
         ],
         "facts": [
-          {
-            "id": "Q1319071#0",
-            "text": "Pochází z travnatých plání v USA a jihovýchodní Kanadě.",
-            "cat": "výskyt",
-            "not": [
-              "Q1529892",
-              "Q15551062",
-              "Q2062517",
-              "Q24853263",
-              "Q25284",
-              "Q2593236",
-              "Q2624440",
-              "Q26302",
-              "Q2671017",
-              "Q2707970",
-              "Q27164",
-              "Q311471",
-              "Q5353083",
-              "Q580360",
-              "Q588939",
-              "Q63598",
-              "Q930849"
-            ]
-          },
           {
             "id": "Q1319071#1",
             "text": "Kvete od června do srpna.",
@@ -536550,7 +536424,6 @@ window.GAME_DATA = [
             "text": "Kvete koncem jara.",
             "cat": "růst",
             "not": [
-              "Q157791",
               "Q1620531",
               "Q27984",
               "Q829752"
@@ -538104,7 +537977,6 @@ window.GAME_DATA = [
             "cat": "růst",
             "not": [
               "Q1479326",
-              "Q1551608",
               "Q158610",
               "Q161058",
               "Q17507129",
@@ -541477,10 +541349,7 @@ window.GAME_DATA = [
             "text": "Kvete od července do září.",
             "cat": "růst",
             "not": [
-              "Q518949",
-              "Q620234",
-              "Q639615",
-              "Q683490"
+              "Q518949"
             ]
           },
           {
@@ -541509,7 +541378,10 @@ window.GAME_DATA = [
               "Q156091",
               "Q157952",
               "Q158563",
+              "Q164977",
+              "Q511179",
               "Q5772378",
+              "Q622525",
               "Q683282"
             ]
           },
@@ -541813,10 +541685,8 @@ window.GAME_DATA = [
               "Q1137175",
               "Q1144217",
               "Q1160937",
-              "Q11791907",
               "Q11797118",
               "Q1195985",
-              "Q12047372",
               "Q12358",
               "Q157397",
               "Q157408",
@@ -542196,7 +542066,6 @@ window.GAME_DATA = [
             "not": [
               "Q157307",
               "Q161421",
-              "Q161431",
               "Q17271654"
             ]
           },
@@ -542394,11 +542263,9 @@ window.GAME_DATA = [
               "Q1348567",
               "Q158295",
               "Q161823",
-              "Q2068262",
               "Q20792193",
               "Q210366",
               "Q21877442",
-              "Q228122",
               "Q234193",
               "Q329046"
             ]
@@ -543150,7 +543017,6 @@ window.GAME_DATA = [
             "not": [
               "Q159246",
               "Q159332",
-              "Q159743",
               "Q159819",
               "Q1610350",
               "Q162998",
@@ -544338,9 +544204,7 @@ window.GAME_DATA = [
             "cat": "růst",
             "not": [
               "Q1266138",
-              "Q1328685",
               "Q144940",
-              "Q2707970",
               "Q2712730",
               "Q37083"
             ]
@@ -547217,10 +547081,7 @@ window.GAME_DATA = [
             "text": "Kvete od června do září.",
             "cat": "růst",
             "not": [
-              "Q149553",
-              "Q24853263",
-              "Q2707970",
-              "Q2712730"
+              "Q149553"
             ]
           },
           {
@@ -547378,7 +547239,6 @@ window.GAME_DATA = [
               "Q1472658",
               "Q15602001",
               "Q158664",
-              "Q159246",
               "Q159332",
               "Q159743",
               "Q159749",
@@ -548537,7 +548397,6 @@ window.GAME_DATA = [
               "Q7224565",
               "Q901245",
               "Q941035",
-              "Q941600",
               "Q958823",
               "Q966569"
             ]
@@ -551644,11 +551503,9 @@ window.GAME_DATA = [
               "Q158115",
               "Q164043",
               "Q21872006",
-              "Q2723742",
               "Q30166",
               "Q30959",
-              "Q341582",
-              "Q3487324"
+              "Q341582"
             ]
           },
           {
@@ -553037,8 +552894,6 @@ window.GAME_DATA = [
             "cat": "vzhled",
             "not": [
               "Q15579368",
-              "Q157249",
-              "Q157577",
               "Q157631",
               "Q158449",
               "Q25686"
@@ -553491,8 +553346,6 @@ window.GAME_DATA = [
               "Q155825",
               "Q157519",
               "Q3502059",
-              "Q3594100",
-              "Q383705",
               "Q386770",
               "Q458318",
               "Q510340"
@@ -553560,13 +553413,7 @@ window.GAME_DATA = [
             "id": "Q158212#0",
             "text": "Kvete od června do října.",
             "cat": "růst",
-            "not": [
-              "Q164553",
-              "Q1777420",
-              "Q2034131",
-              "Q206425",
-              "Q206532"
-            ]
+            "not": []
           },
           {
             "id": "Q158212#1",
@@ -554252,9 +554099,7 @@ window.GAME_DATA = [
             "id": "Q158372#3",
             "text": "Kvete od června do srpna.",
             "cat": "růst",
-            "not": [
-              "Q161421"
-            ]
+            "not": []
           },
           {
             "id": "Q158372#4",
@@ -554541,10 +554386,7 @@ window.GAME_DATA = [
             "id": "Q158449#1",
             "text": "Kvete od května do listopadu.",
             "cat": "růst",
-            "not": [
-              "Q159749",
-              "Q159819"
-            ]
+            "not": []
           },
           {
             "id": "Q158449#2",
@@ -554560,10 +554402,6 @@ window.GAME_DATA = [
             "text": "Dorůstá průměrně do 35 cm, v hlubší vodě až 70 cm.",
             "cat": "čísla",
             "not": [
-              "Q158938",
-              "Q159008",
-              "Q159137",
-              "Q159192",
               "Q165321"
             ]
           }
@@ -555622,9 +555460,7 @@ window.GAME_DATA = [
               "Q26686",
               "Q2723742",
               "Q27624",
-              "Q280807",
               "Q30166",
-              "Q30959",
               "Q341582",
               "Q3487324"
             ]
@@ -556461,8 +556297,7 @@ window.GAME_DATA = [
             "text": "Kvete v květnu a červnu.",
             "cat": "růst",
             "not": [
-              "Q17250840",
-              "Q958823"
+              "Q17250840"
             ]
           },
           {
@@ -557133,12 +556968,10 @@ window.GAME_DATA = [
             "text": "Dorůstá do výšky 30 až 70 centimetrů.",
             "cat": "čísla",
             "not": [
-              "Q15383314",
               "Q158209",
               "Q18421053",
               "Q2707970",
-              "Q2712730",
-              "Q2716731"
+              "Q2712730"
             ]
           },
           {
@@ -557471,9 +557304,6 @@ window.GAME_DATA = [
             "not": [
               "Q10912510",
               "Q159060",
-              "Q24853263",
-              "Q2532820",
-              "Q2624440",
               "Q2716731"
             ]
           },
@@ -558019,9 +557849,7 @@ window.GAME_DATA = [
             "id": "Q159115#1",
             "text": "Vyhledává vlhčí a stinnější místa, například lesy a břehy vod.",
             "cat": "výskyt",
-            "not": [
-              "Q2671017"
-            ]
+            "not": []
           }
         ],
         "continents": [
@@ -558296,11 +558124,8 @@ window.GAME_DATA = [
             "not": [
               "Q159246",
               "Q159332",
-              "Q159743",
-              "Q159749",
               "Q159819",
               "Q1610350",
-              "Q161232",
               "Q162536",
               "Q163831",
               "Q310370",
@@ -558968,15 +558793,7 @@ window.GAME_DATA = [
               "Q1471963",
               "Q159437",
               "Q497124",
-              "Q518949",
-              "Q544417",
-              "Q620234",
-              "Q639615",
-              "Q683490",
-              "Q70660315",
-              "Q941035",
-              "Q941600",
-              "Q966569"
+              "Q518949"
             ]
           },
           {
@@ -561080,11 +560897,9 @@ window.GAME_DATA = [
               "Q1652385",
               "Q165321",
               "Q2723742",
-              "Q27624",
               "Q2776477",
               "Q30166",
               "Q310157",
-              "Q3239567",
               "Q3487324",
               "Q35905"
             ]
@@ -561376,7 +561191,6 @@ window.GAME_DATA = [
               "Q157555",
               "Q159332",
               "Q159823",
-              "Q1610350",
               "Q161130",
               "Q3009692",
               "Q3695281"
@@ -563478,11 +563292,6 @@ window.GAME_DATA = [
             "text": "Květy mohou být bílé, krémové, červené i fialové.",
             "cat": "vzhled",
             "not": [
-              "Q515267",
-              "Q56345405",
-              "Q570551",
-              "Q620234",
-              "Q683490",
               "Q70660315"
             ]
           }
@@ -564552,7 +564361,6 @@ window.GAME_DATA = [
             "not": [
               "Q1066106",
               "Q1328685",
-              "Q133477",
               "Q147459",
               "Q163641",
               "Q4992358"
@@ -565739,7 +565547,6 @@ window.GAME_DATA = [
             "cat": "růst",
             "not": [
               "Q1266138",
-              "Q1328685",
               "Q144940",
               "Q1471963",
               "Q497124"
@@ -565903,7 +565710,10 @@ window.GAME_DATA = [
               "Q158303",
               "Q158356",
               "Q164402",
+              "Q164977",
               "Q181095",
+              "Q511179",
+              "Q622525",
               "Q683282"
             ]
           },
@@ -566771,7 +566581,6 @@ window.GAME_DATA = [
               "Q1328685",
               "Q1367533",
               "Q15227952",
-              "Q15536178",
               "Q2245737",
               "Q2712730",
               "Q324331",
@@ -568891,8 +568700,6 @@ window.GAME_DATA = [
             "cat": "čísla",
             "not": [
               "Q1328685",
-              "Q133477",
-              "Q1344280",
               "Q159450",
               "Q160561",
               "Q1938923"
@@ -569395,8 +569202,6 @@ window.GAME_DATA = [
               "Q1281021",
               "Q159128",
               "Q161235",
-              "Q161421",
-              "Q161431",
               "Q162501",
               "Q163582",
               "Q163620",
@@ -569905,7 +569710,6 @@ window.GAME_DATA = [
               "Q159596",
               "Q159756",
               "Q164337",
-              "Q2319755",
               "Q47532",
               "Q47718"
             ]
@@ -570494,9 +570298,7 @@ window.GAME_DATA = [
             "id": "Q1633853#1",
             "text": "Kvete od začátku července do konce září.",
             "cat": "růst",
-            "not": [
-              "Q158938"
-            ]
+            "not": []
           },
           {
             "id": "Q1633853#2",
@@ -570568,7 +570370,6 @@ window.GAME_DATA = [
               "Q159246",
               "Q159332",
               "Q159482",
-              "Q159743",
               "Q159749",
               "Q159819",
               "Q159823",
@@ -572203,7 +572004,6 @@ window.GAME_DATA = [
             "cat": "čísla",
             "not": [
               "Q10692526",
-              "Q11797118",
               "Q164560",
               "Q27984"
             ]
@@ -574181,8 +573981,6 @@ window.GAME_DATA = [
             "cat": "vzhled",
             "not": [
               "Q1467033",
-              "Q147165",
-              "Q1520956",
               "Q1541319",
               "Q161644",
               "Q609718",
@@ -575408,8 +575206,7 @@ window.GAME_DATA = [
               "Q47161",
               "Q941035",
               "Q941600",
-              "Q958823",
-              "Q966569"
+              "Q958823"
             ]
           },
           {
@@ -576387,10 +576184,6 @@ window.GAME_DATA = [
             "text": "Kvete v červenci a srpnu.",
             "cat": "růst",
             "not": [
-              "Q10692526",
-              "Q1084114",
-              "Q1137175",
-              "Q11791907",
               "Q12047372"
             ]
           }
@@ -576512,11 +576305,7 @@ window.GAME_DATA = [
             "id": "Q18042564#0",
             "text": "Kvete od května do června.",
             "cat": "růst",
-            "not": [
-              "Q12718073",
-              "Q1344280",
-              "Q144940"
-            ]
+            "not": []
           },
           {
             "id": "Q18042564#1",
@@ -577367,18 +577156,13 @@ window.GAME_DATA = [
             "id": "Q1851639#0",
             "text": "Dorůstá do výšky 40 až 90 centimetrů.",
             "cat": "čísla",
-            "not": [
-              "Q15579368",
-              "Q1570130",
-              "Q157249"
-            ]
+            "not": []
           },
           {
             "id": "Q1851639#1",
             "text": "Na koncích stonků má růžově fialové květy.",
             "cat": "vzhled",
             "not": [
-              "Q147165",
               "Q1516461",
               "Q1520938",
               "Q1520956",
@@ -578375,19 +578159,6 @@ window.GAME_DATA = [
             "not": []
           },
           {
-            "id": "Q19849678#2",
-            "text": "Ukazuje, že hladina podzemní vody je vysoko.",
-            "cat": "výskyt",
-            "not": [
-              "Q1370878",
-              "Q159201",
-              "Q160019",
-              "Q2671017",
-              "Q275573",
-              "Q329046"
-            ]
-          },
-          {
             "id": "Q19849678#3",
             "text": "Má nektar hluboko v květu.",
             "cat": "vztahy",
@@ -578767,9 +578538,7 @@ window.GAME_DATA = [
             "id": "Q202305#x0",
             "text": "Semena šíří hlodavci, lišky, medvědi, sobi i mnoho druhů ptáků.",
             "cat": "vztahy",
-            "not": [
-              "Q144940"
-            ]
+            "not": []
           },
           {
             "id": "Q202305#x1",
@@ -578996,8 +578765,6 @@ window.GAME_DATA = [
               "Q158035",
               "Q239291",
               "Q25284",
-              "Q2532820",
-              "Q2701210",
               "Q421057",
               "Q776583"
             ]
@@ -580771,8 +580538,7 @@ window.GAME_DATA = [
             "cat": "čísla",
             "not": [
               "Q132741",
-              "Q1612679",
-              "Q941035"
+              "Q1612679"
             ]
           }
         ],
@@ -581547,8 +581313,7 @@ window.GAME_DATA = [
               "Q157307",
               "Q17271654",
               "Q2707970",
-              "Q2712730",
-              "Q2716731"
+              "Q2712730"
             ]
           },
           {
@@ -581556,7 +581321,6 @@ window.GAME_DATA = [
             "text": "Má temně růžové až světle nachové květy.",
             "cat": "vzhled",
             "not": [
-              "Q147165",
               "Q1516461",
               "Q1520938",
               "Q1520956",
@@ -581978,11 +581742,7 @@ window.GAME_DATA = [
             "text": "Kvete od června nebo července až do prvních mrazů.",
             "cat": "růst",
             "not": [
-              "Q164553",
               "Q1777420",
-              "Q2034131",
-              "Q206425",
-              "Q206532",
               "Q3125935",
               "Q627393"
             ]
@@ -582390,7 +582150,6 @@ window.GAME_DATA = [
               "Q158335",
               "Q161431",
               "Q162834",
-              "Q164043",
               "Q17746419"
             ]
           },
@@ -582826,18 +582585,6 @@ window.GAME_DATA = [
             "text": "Květy opyluje drobný létající hmyz, který přilétá pro nektar.",
             "cat": "vztahy",
             "not": []
-          },
-          {
-            "id": "Q2352976#3",
-            "text": "Semena roznášejí zvířata, na jejichž srsti se zachytávají.",
-            "cat": "vztahy",
-            "not": [
-              "Q2723742",
-              "Q2763698",
-              "Q2776477",
-              "Q332469",
-              "Q3487324"
-            ]
           }
         ],
         "continents": [
@@ -583593,9 +583340,7 @@ window.GAME_DATA = [
             "id": "Q24853263#1",
             "text": "Kvete od června do srpna.",
             "cat": "růst",
-            "not": [
-              "Q15536178"
-            ]
+            "not": []
           }
         ],
         "continents": [
@@ -583648,8 +583393,6 @@ window.GAME_DATA = [
               "Q149344",
               "Q162501",
               "Q941035",
-              "Q941600",
-              "Q958823",
               "Q966569"
             ]
           }
@@ -583860,9 +583603,7 @@ window.GAME_DATA = [
               "Q3498187",
               "Q4115036",
               "Q765089",
-              "Q792835",
               "Q796692",
-              "Q8344185",
               "Q9355423"
             ]
           },
@@ -585237,7 +584978,6 @@ window.GAME_DATA = [
               "Q2838916",
               "Q3594100",
               "Q3678193",
-              "Q383705",
               "Q489597",
               "Q9336718"
             ]
@@ -589729,8 +589469,6 @@ window.GAME_DATA = [
             "text": "Dorůstá do výšky půl metru.",
             "cat": "čísla",
             "not": [
-              "Q1328685",
-              "Q133477",
               "Q144412",
               "Q159269",
               "Q275573",
@@ -590532,10 +590270,8 @@ window.GAME_DATA = [
             "not": [
               "Q1029175",
               "Q161421",
-              "Q162834",
               "Q163141",
               "Q164130",
-              "Q164391",
               "Q2123494"
             ]
           },
@@ -590772,9 +590508,7 @@ window.GAME_DATA = [
               "Q217778",
               "Q25284",
               "Q2532820",
-              "Q2605239",
               "Q2675769",
-              "Q2712730",
               "Q458318",
               "Q683490"
             ]
@@ -593615,10 +593349,6 @@ window.GAME_DATA = [
               "Q131219",
               "Q202219",
               "Q2723742",
-              "Q27624",
-              "Q30166",
-              "Q30959",
-              "Q3239567",
               "Q3487324",
               "Q857159"
             ]
@@ -596008,9 +595738,7 @@ window.GAME_DATA = [
             "cat": "čísla",
             "not": [
               "Q3337300",
-              "Q887221",
-              "Q941035",
-              "Q958823"
+              "Q887221"
             ]
           },
           {
@@ -596474,7 +596202,6 @@ window.GAME_DATA = [
               "Q163620",
               "Q164024",
               "Q164043",
-              "Q164130",
               "Q164391",
               "Q47685",
               "Q672410"
@@ -596766,8 +596493,7 @@ window.GAME_DATA = [
               "Q789360",
               "Q792835",
               "Q796692",
-              "Q8344185",
-              "Q891000"
+              "Q8344185"
             ]
           }
         ],
@@ -596836,8 +596562,7 @@ window.GAME_DATA = [
               "Q161665",
               "Q3594100",
               "Q386770",
-              "Q39575",
-              "Q511103"
+              "Q39575"
             ]
           },
           {
@@ -597715,10 +597440,6 @@ window.GAME_DATA = [
             "text": "Kvete od července do září.",
             "cat": "růst",
             "not": [
-              "Q10692526",
-              "Q1084114",
-              "Q1137175",
-              "Q11791907",
               "Q12047372",
               "Q1936759",
               "Q261340"
@@ -599944,9 +599665,7 @@ window.GAME_DATA = [
             "id": "Q526630#1",
             "text": "Kvete od června do září.",
             "cat": "růst",
-            "not": [
-              "Q2166505"
-            ]
+            "not": []
           }
         ],
         "continents": [
@@ -600200,7 +599919,6 @@ window.GAME_DATA = [
               "Q1363283",
               "Q1420828",
               "Q14404571",
-              "Q144940",
               "Q1548650",
               "Q15577376",
               "Q178547",
@@ -600696,7 +600414,6 @@ window.GAME_DATA = [
             "text": "Dorůstá do výšky 50 až 100 centimetrů.",
             "cat": "čísla",
             "not": [
-              "Q15579368",
               "Q1570130",
               "Q157249",
               "Q19391707",
@@ -600708,8 +600425,6 @@ window.GAME_DATA = [
             "text": "Kvete v červnu a červenci.",
             "cat": "růst",
             "not": [
-              "Q15226455",
-              "Q1551608",
               "Q15577376",
               "Q922370"
             ]
@@ -601826,11 +601541,8 @@ window.GAME_DATA = [
             "text": "Dorůstá až do výšky 0,6 metru.",
             "cat": "čísla",
             "not": [
-              "Q1034504",
               "Q104212",
               "Q10692526",
-              "Q1137175",
-              "Q11797118",
               "Q1938923",
               "Q500383",
               "Q522881"
@@ -602355,11 +602067,7 @@ window.GAME_DATA = [
             "id": "Q614880#0",
             "text": "Kvete od května až do prvních mrazů.",
             "cat": "růst",
-            "not": [
-              "Q2723742",
-              "Q30166",
-              "Q3487324"
-            ]
+            "not": []
           },
           {
             "id": "Q614880#1",
@@ -602968,11 +602676,7 @@ window.GAME_DATA = [
             "text": "Kvete od července do září.",
             "cat": "růst",
             "not": [
-              "Q10692526",
-              "Q1084114",
-              "Q11791907",
               "Q12047372",
-              "Q15536178",
               "Q639337"
             ]
           },
@@ -605347,16 +605051,10 @@ window.GAME_DATA = [
             "text": "Kvete na jaře, ještě před rozvinutím listů.",
             "cat": "růst",
             "not": [
-              "Q515267",
-              "Q5435736",
               "Q544417",
               "Q56345405",
-              "Q570551",
               "Q609627",
-              "Q620234",
-              "Q639615",
               "Q643890",
-              "Q70660315",
               "Q744339",
               "Q752675"
             ]
@@ -606750,11 +606448,7 @@ window.GAME_DATA = [
               "Q1267255",
               "Q229961",
               "Q26302",
-              "Q2723742",
-              "Q27624",
-              "Q30166",
               "Q3239567",
-              "Q3487324",
               "Q685852"
             ]
           },
@@ -607024,7 +606718,6 @@ window.GAME_DATA = [
             "cat": "vzhled",
             "not": [
               "Q2068262",
-              "Q2166505",
               "Q2177531"
             ]
           },
@@ -607170,13 +606863,7 @@ window.GAME_DATA = [
             "id": "Q805322#0",
             "text": "Květy mají pět cípů a jsou až 8 cm velké.",
             "cat": "vzhled",
-            "not": [
-              "Q381584",
-              "Q386770",
-              "Q41611",
-              "Q489597",
-              "Q511103"
-            ]
+            "not": []
           },
           {
             "id": "Q805322#1",
@@ -608401,13 +608088,11 @@ window.GAME_DATA = [
               "Q312094",
               "Q34007",
               "Q515267",
-              "Q5435736",
               "Q544417",
               "Q570551",
               "Q620234",
               "Q639615",
-              "Q692248",
-              "Q70660315"
+              "Q692248"
             ]
           },
           {
@@ -608734,33 +608419,6 @@ window.GAME_DATA = [
               "Q380279",
               "Q5527672",
               "Q968658"
-            ]
-          },
-          {
-            "id": "Q848074#x1",
-            "text": "Plody nese, jen když rostou pospolu samčí i samičí rostliny.",
-            "cat": "růst",
-            "not": [
-              "Q125813",
-              "Q157624",
-              "Q159269",
-              "Q159537",
-              "Q161431",
-              "Q162501",
-              "Q162834",
-              "Q163141",
-              "Q163582",
-              "Q163620",
-              "Q164024",
-              "Q164043",
-              "Q164130",
-              "Q1857489",
-              "Q248958",
-              "Q50346430",
-              "Q5413585",
-              "Q622525",
-              "Q81671",
-              "Q93235"
             ]
           },
           {
@@ -609290,7 +608948,6 @@ window.GAME_DATA = [
               "Q56345405",
               "Q683490",
               "Q685852",
-              "Q70660315",
               "Q744339",
               "Q930849"
             ]
@@ -609588,8 +609245,6 @@ window.GAME_DATA = [
             "text": "Kvete od července do září.",
             "cat": "růst",
             "not": [
-              "Q159749",
-              "Q159819",
               "Q882880"
             ]
           },
@@ -609874,9 +609529,7 @@ window.GAME_DATA = [
             "cat": "čísla",
             "not": [
               "Q15540797",
-              "Q164553",
               "Q17242685",
-              "Q1777420",
               "Q2573726",
               "Q39708",
               "Q90595797"
@@ -612144,7 +611797,6 @@ window.GAME_DATA = [
               "Q1362051",
               "Q570551",
               "Q609718",
-              "Q620234",
               "Q718004"
             ]
           }
@@ -613494,10 +613146,8 @@ window.GAME_DATA = [
               "Q1612679",
               "Q518949",
               "Q5435736",
-              "Q570551",
               "Q620234",
-              "Q639615",
-              "Q70660315"
+              "Q639615"
             ]
           },
           {
@@ -615598,7 +615248,6 @@ window.GAME_DATA = [
               "Q162818",
               "Q162910",
               "Q163372",
-              "Q1634712",
               "Q164539",
               "Q18182668",
               "Q213356",
@@ -615683,7 +615332,6 @@ window.GAME_DATA = [
             "text": "Dorůstá nejčastěji do výšky 20 až 60 centimetrů.",
             "cat": "čísla",
             "not": [
-              "Q158397",
               "Q161105",
               "Q1634712",
               "Q854714"
@@ -616602,9 +616250,7 @@ window.GAME_DATA = [
             "text": "Kvete na jaře, v dubnu a květnu.",
             "cat": "růst",
             "not": [
-              "Q158040",
-              "Q1989614",
-              "Q229961"
+              "Q158040"
             ]
           }
         ],
@@ -616730,11 +616376,7 @@ window.GAME_DATA = [
             "not": [
               "Q104212",
               "Q11819794",
-              "Q12209024",
-              "Q1472658",
-              "Q15378552",
-              "Q15618255",
-              "Q157887"
+              "Q1472658"
             ]
           }
         ],
@@ -617469,10 +617111,7 @@ window.GAME_DATA = [
             "id": "Q157405#1",
             "text": "Kvete od května do července.",
             "cat": "růst",
-            "not": [
-              "Q1989614",
-              "Q27344"
-            ]
+            "not": []
           },
           {
             "id": "Q157405#2",
@@ -617596,7 +617235,6 @@ window.GAME_DATA = [
               "Q159327",
               "Q162764",
               "Q164246",
-              "Q1989614",
               "Q229961",
               "Q927257"
             ]
@@ -618319,9 +617957,7 @@ window.GAME_DATA = [
               "Q311178",
               "Q3467740",
               "Q4093614",
-              "Q4266316",
               "Q4337504",
-              "Q634727",
               "Q682257"
             ]
           },
@@ -618373,12 +618009,8 @@ window.GAME_DATA = [
               "Q164261",
               "Q164266",
               "Q164700",
-              "Q16528",
-              "Q18746153",
-              "Q1989614",
               "Q229961",
               "Q2363208",
-              "Q27344",
               "Q2882800"
             ]
           }
@@ -618563,7 +618195,6 @@ window.GAME_DATA = [
             "text": "Dorůstá výšky 10 až 60 centimetrů.",
             "cat": "čísla",
             "not": [
-              "Q158397",
               "Q160100",
               "Q161105",
               "Q1634712"
@@ -618761,9 +618392,7 @@ window.GAME_DATA = [
               "Q157557",
               "Q161050",
               "Q164064",
-              "Q3205931",
               "Q55813582",
-              "Q728595",
               "Q737738",
               "Q854714"
             ]
@@ -618933,7 +618562,6 @@ window.GAME_DATA = [
             "cat": "růst",
             "not": [
               "Q470006",
-              "Q682257",
               "Q737738"
             ]
           },
@@ -619796,10 +619424,7 @@ window.GAME_DATA = [
             "id": "Q161056#0",
             "text": "Kvete od března do května.",
             "cat": "růst",
-            "not": [
-              "Q1989614",
-              "Q229961"
-            ]
+            "not": []
           },
           {
             "id": "Q161056#1",
@@ -619823,9 +619448,7 @@ window.GAME_DATA = [
             "not": [
               "Q164266",
               "Q16528",
-              "Q1989614",
-              "Q2064748",
-              "Q2882800"
+              "Q2064748"
             ]
           },
           {
@@ -620012,9 +619635,7 @@ window.GAME_DATA = [
               "Q311178",
               "Q4337504",
               "Q470006",
-              "Q55813582",
-              "Q728595",
-              "Q737738"
+              "Q55813582"
             ]
           },
           {
@@ -620891,7 +620512,6 @@ window.GAME_DATA = [
             "cat": "růst",
             "not": [
               "Q145399",
-              "Q682257",
               "Q737738"
             ]
           },
@@ -621074,7 +620694,6 @@ window.GAME_DATA = [
             "text": "Tento druh se pěstuje v zahradách jako náhrada trávníku pod stromy.",
             "cat": "využití",
             "not": [
-              "Q158397",
               "Q161105",
               "Q1634712"
             ]
@@ -621084,8 +620703,7 @@ window.GAME_DATA = [
             "text": "Tvoří hustý koberec, který brání růstu plevelů.",
             "cat": "vztahy",
             "not": [
-              "Q161105",
-              "Q1634712"
+              "Q161105"
             ]
           },
           {
@@ -622111,36 +621729,6 @@ window.GAME_DATA = [
               "Q511179",
               "Q91269946"
             ]
-          },
-          {
-            "id": "Q2007832#1",
-            "text": "Tento druh se pne po skalnatých útesech.",
-            "cat": "výskyt",
-            "not": [
-              "Q1431626",
-              "Q148929",
-              "Q158338",
-              "Q158397",
-              "Q159015",
-              "Q159064",
-              "Q159327",
-              "Q159727",
-              "Q160575",
-              "Q161105",
-              "Q161553",
-              "Q161636",
-              "Q161737",
-              "Q162818",
-              "Q162910",
-              "Q1634712",
-              "Q164229",
-              "Q164447",
-              "Q164977",
-              "Q1866461",
-              "Q3338529",
-              "Q511179",
-              "Q91269946"
-            ]
           }
         ],
         "continents": [
@@ -622780,8 +622368,6 @@ window.GAME_DATA = [
             "text": "Kvete v dubnu až květnu.",
             "cat": "růst",
             "not": [
-              "Q1989614",
-              "Q229961",
               "Q341582"
             ]
           }
@@ -622817,8 +622403,7 @@ window.GAME_DATA = [
               "Q157272",
               "Q159721",
               "Q160191",
-              "Q161105",
-              "Q1634712"
+              "Q161105"
             ]
           },
           {
@@ -623353,15 +622938,11 @@ window.GAME_DATA = [
               "Q149325",
               "Q15235880",
               "Q283386",
-              "Q311178",
               "Q3390128",
               "Q3467740",
               "Q3695281",
-              "Q4337504",
               "Q55813582",
               "Q634727",
-              "Q682257",
-              "Q728595",
               "Q737738"
             ]
           }
@@ -623866,9 +623447,7 @@ window.GAME_DATA = [
             "text": "Kvete od července do listopadu.",
             "cat": "růst",
             "not": [
-              "Q12209024",
               "Q149341",
-              "Q15378552",
               "Q15618255",
               "Q470006"
             ]
@@ -624150,8 +623729,6 @@ window.GAME_DATA = [
               "Q160575",
               "Q164266",
               "Q16528",
-              "Q1989614",
-              "Q2064748",
               "Q2882800"
             ]
           },
@@ -624161,7 +623738,6 @@ window.GAME_DATA = [
             "cat": "vzhled",
             "not": [
               "Q12209024",
-              "Q149341",
               "Q15219694",
               "Q15378552",
               "Q15618255",
@@ -624447,15 +624023,11 @@ window.GAME_DATA = [
               "Q15365316",
               "Q157276",
               "Q161045",
-              "Q164261",
               "Q164268",
-              "Q16528",
               "Q18746153",
               "Q1989614",
-              "Q229961",
               "Q2363208",
-              "Q27344",
-              "Q2882800"
+              "Q27344"
             ]
           },
           {
@@ -624510,11 +624082,6 @@ window.GAME_DATA = [
               "Q147834",
               "Q149749",
               "Q1499457",
-              "Q164261",
-              "Q164266",
-              "Q16528",
-              "Q1989614",
-              "Q229961",
               "Q2882800"
             ]
           }
@@ -624641,10 +624208,6 @@ window.GAME_DATA = [
               "Q131584",
               "Q147834",
               "Q158338",
-              "Q159015",
-              "Q159064",
-              "Q160575",
-              "Q161105",
               "Q161556",
               "Q1634712"
             ]
@@ -624924,15 +624487,11 @@ window.GAME_DATA = [
             "text": "Kvete v srpnu a v září.",
             "cat": "růst",
             "not": [
-              "Q11799270",
               "Q12209024",
               "Q149341",
-              "Q149625",
-              "Q15366572",
               "Q15378552",
               "Q15618255",
               "Q157557",
-              "Q157887",
               "Q164064",
               "Q854714"
             ]
@@ -625254,14 +624813,12 @@ window.GAME_DATA = [
             "text": "Květy jsou nahnědle purpurové a 5 až 7 cm široké.",
             "cat": "vzhled",
             "not": [
-              "Q158338",
               "Q158397",
               "Q159015",
               "Q159064",
               "Q160575",
               "Q161105",
               "Q161553",
-              "Q161636",
               "Q161737",
               "Q162818",
               "Q162910",
@@ -626095,9 +625652,7 @@ window.GAME_DATA = [
             "text": "Kvete od května do července.",
             "cat": "růst",
             "not": [
-              "Q161553",
-              "Q1989614",
-              "Q27344"
+              "Q161553"
             ]
           },
           {
@@ -626505,7 +626060,6 @@ window.GAME_DATA = [
               "Q2386378",
               "Q311178",
               "Q3205931",
-              "Q4337504",
               "Q472653",
               "Q819208",
               "Q942409"
@@ -626756,10 +626310,7 @@ window.GAME_DATA = [
             "id": "Q162365#1",
             "text": "Tento druh je pro savce mírně jedovatý.",
             "cat": "účinky",
-            "not": [
-              "Q16528",
-              "Q2363208"
-            ]
+            "not": []
           }
         ],
         "continents": [
@@ -626957,7 +626508,6 @@ window.GAME_DATA = [
               "Q161737",
               "Q162818",
               "Q162910",
-              "Q1634712",
               "Q1859063",
               "Q7844860",
               "Q794061",
@@ -626972,7 +626522,6 @@ window.GAME_DATA = [
             "cat": "růst",
             "not": [
               "Q546069",
-              "Q682257",
               "Q737738",
               "Q839507",
               "Q942409"
@@ -627124,13 +626673,9 @@ window.GAME_DATA = [
             "cat": "vzhled",
             "not": [
               "Q164261",
-              "Q164700",
               "Q18746153",
-              "Q1989614",
               "Q229961",
               "Q2363208",
-              "Q27344",
-              "Q2882800",
               "Q948827"
             ]
           },
@@ -627151,8 +626696,6 @@ window.GAME_DATA = [
             "text": "Má tmavě červené plody dlouhé 4 až 5 cm.",
             "cat": "vzhled",
             "not": [
-              "Q158338",
-              "Q158397",
               "Q158722",
               "Q159015",
               "Q159064",
@@ -627163,7 +626706,6 @@ window.GAME_DATA = [
               "Q161737",
               "Q162818",
               "Q162910",
-              "Q1634712",
               "Q1709343",
               "Q26006",
               "Q7844860",
@@ -627246,7 +626788,45 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/%C3%97_Sinocalycalycanthus_raulstonii_%27Hartlage_Wine%27_2019-06-01_10.jpg/500px-%C3%97_Sinocalycalycanthus_raulstonii_%27Hartlage_Wine%27_2019-06-01_10.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q21397476#x0",
+            "text": "Tento druh vznikl v roce 1991 zkřížením dvou jiných druhů.",
+            "cat": "čísla",
+            "not": [
+              "Q1074257",
+              "Q10786205",
+              "Q11739000",
+              "Q158722",
+              "Q1709343",
+              "Q2566375",
+              "Q3024124",
+              "Q3284219",
+              "Q37153",
+              "Q584469",
+              "Q692162",
+              "Q948827"
+            ]
+          },
+          {
+            "id": "Q21397476#x1",
+            "text": "Kvete od května až do září.",
+            "cat": "růst",
+            "not": [
+              "Q2566375"
+            ]
+          },
+          {
+            "id": "Q21397476#x2",
+            "text": "Dorůstá do výšky 2,5 až 3 metrů.",
+            "cat": "čísla",
+            "not": [
+              "Q1074257",
+              "Q158722",
+              "Q3284219"
+            ]
+          }
+        ],
         "continents": [
           "EU",
           "NA"
@@ -627379,7 +626959,6 @@ window.GAME_DATA = [
               "Q3205931",
               "Q3390128",
               "Q3467740",
-              "Q4266316",
               "Q55813582",
               "Q634727",
               "Q682257",
@@ -627640,34 +627219,7 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Myristica_fragrans_-_Nutmeg_-_WikiSangamotsavam_2018%2C_Kottappuram%2C_Kodungalloor_%282%29.jpg/500px-Myristica_fragrans_-_Nutmeg_-_WikiSangamotsavam_2018%2C_Kottappuram%2C_Kodungalloor_%282%29.jpg"
           }
         ],
-        "facts": [
-          {
-            "id": "Q2724976#0",
-            "text": "Dorůstá výšky až 15 metrů.",
-            "cat": "čísla",
-            "not": [
-              "Q11799270",
-              "Q12209024",
-              "Q147030",
-              "Q149341",
-              "Q149625",
-              "Q15366572",
-              "Q15378552",
-              "Q15618255",
-              "Q164091",
-              "Q275620",
-              "Q909197"
-            ]
-          },
-          {
-            "id": "Q2724976#1",
-            "text": "Kvete bledě žlutými, voňavými květy.",
-            "cat": "růst",
-            "not": [
-              "Q909197"
-            ]
-          }
-        ],
+        "facts": [],
         "continents": [
           "AS",
           "AF",
@@ -627729,7 +627281,6 @@ window.GAME_DATA = [
             "text": "Má jedovatá semena.",
             "cat": "účinky",
             "not": [
-              "Q311178",
               "Q43084"
             ]
           },
@@ -628094,14 +627645,10 @@ window.GAME_DATA = [
               "Q149341",
               "Q149625",
               "Q164261",
-              "Q164700",
               "Q16528",
-              "Q18746153",
-              "Q1989614",
               "Q2064748",
               "Q229961",
               "Q2363208",
-              "Q2882800",
               "Q990982"
             ]
           },
@@ -628285,10 +627832,7 @@ window.GAME_DATA = [
             "id": "Q546069#0",
             "text": "Kvete v dubnu a květnu, dříve než se objeví listy.",
             "cat": "růst",
-            "not": [
-              "Q1255793",
-              "Q157887"
-            ]
+            "not": []
           },
           {
             "id": "Q546069#1",
@@ -628298,14 +627842,11 @@ window.GAME_DATA = [
               "Q12209024",
               "Q1255793",
               "Q15219694",
-              "Q15366572",
               "Q15378552",
               "Q15618255",
               "Q156853",
               "Q157739",
-              "Q157887",
-              "Q158273",
-              "Q158335"
+              "Q158273"
             ]
           }
         ],
@@ -628614,7 +628155,6 @@ window.GAME_DATA = [
               "Q634727",
               "Q682257",
               "Q692162",
-              "Q728595",
               "Q737738",
               "Q770635",
               "Q948827"
@@ -628769,10 +628309,7 @@ window.GAME_DATA = [
             "id": "Q833994#3",
             "text": "Obsahuje jedovaté látky.",
             "cat": "účinky",
-            "not": [
-              "Q161105",
-              "Q1634712"
-            ]
+            "not": []
           },
           {
             "id": "Q833994#5",
@@ -628975,7 +628512,6 @@ window.GAME_DATA = [
               "Q162365",
               "Q164261",
               "Q164266",
-              "Q164268",
               "Q164700",
               "Q18746153",
               "Q1989614",
@@ -628984,7 +628520,6 @@ window.GAME_DATA = [
               "Q2363208",
               "Q26006",
               "Q27344",
-              "Q2882800",
               "Q794061",
               "Q942409",
               "Q990982"
@@ -629150,10 +628685,8 @@ window.GAME_DATA = [
               "Q158335",
               "Q158722",
               "Q164261",
-              "Q164266",
               "Q164268",
               "Q164700",
-              "Q16528",
               "Q18746153",
               "Q1989614",
               "Q2064748",
@@ -629222,9 +628755,7 @@ window.GAME_DATA = [
             "text": "Kvete v květnu a červnu, až po rozvinutí listů.",
             "cat": "růst",
             "not": [
-              "Q1989614",
-              "Q2566375",
-              "Q27344"
+              "Q2566375"
             ]
           },
           {
@@ -641070,7 +640601,38 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Anabaenaflosaquae_EPA.jpg/500px-Anabaenaflosaquae_EPA.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q81062864#x0",
+            "text": "Při přemnožení často způsobuje vodní květ.",
+            "cat": "výskyt",
+            "not": [
+              "Q131027",
+              "Q132595",
+              "Q132656",
+              "Q133548",
+              "Q135177",
+              "Q150954",
+              "Q31856",
+              "Q517258"
+            ]
+          },
+          {
+            "id": "Q81062864#x1",
+            "text": "Tvoří jed zvaný anatoxin-α.",
+            "cat": "jedovatost",
+            "not": [
+              "Q131027",
+              "Q132595",
+              "Q132656",
+              "Q133548",
+              "Q135177",
+              "Q150954",
+              "Q31856",
+              "Q517258"
+            ]
+          }
+        ],
         "continents": [
           "EU",
           "AS",
@@ -642807,7 +642369,37 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Guemesia_ochoai.jpg/500px-Guemesia_ochoai.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q110886909#x2",
+            "text": "Tento druh se živil masem.",
+            "cat": "potrava",
+            "not": [
+              "Q131241",
+              "Q133675",
+              "Q1654983",
+              "Q310972"
+            ]
+          },
+          {
+            "id": "Q110886909#x3",
+            "text": "Tento druh žil na území dnešní Argentiny.",
+            "cat": "výskyt",
+            "not": [
+              "Q115197",
+              "Q131241",
+              "Q133675",
+              "Q133881",
+              "Q134633",
+              "Q1654983",
+              "Q23807302",
+              "Q310972",
+              "Q3238343",
+              "Q56316452",
+              "Q88688924"
+            ]
+          }
+        ],
         "continents": [
           "SA"
         ],
@@ -671500,7 +671092,22 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Dicranurus_monstrosus_AMNH_FI_83817.jpg/500px-Dicranurus_monstrosus_AMNH_FI_83817.jpg"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q1469172#x3",
+            "text": "Tento druh žil v mělkém moři mezi Euramerikou a Gondwanou.",
+            "cat": "výskyt",
+            "not": [
+              "Q1068038",
+              "Q15297894",
+              "Q1705966",
+              "Q2056622",
+              "Q311286",
+              "Q527627",
+              "Q862601"
+            ]
+          }
+        ],
         "continents": [
           "AF",
           "NA",
@@ -672406,7 +672013,18 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Carcharocles_megalodon_10317.JPG/500px-Carcharocles_megalodon_10317.JPG"
           }
         ],
-        "facts": [],
+        "facts": [
+          {
+            "id": "Q15693000#x2",
+            "text": "Tento druh měl mohutné zuby s pilovitým ostřím.",
+            "cat": "vzhled",
+            "not": [
+              "Q148608",
+              "Q1737353",
+              "Q1760943"
+            ]
+          }
+        ],
         "continents": [
           "EU",
           "AS",
@@ -703401,17 +703019,13 @@ window.GAME_DATA = [
             "not": [
               "Q139182",
               "Q144410",
-              "Q1534556",
               "Q301019",
-              "Q3624860",
               "Q385764",
-              "Q798246",
-              "Q837241"
+              "Q798246"
             ]
           }
         ],
         "continents": [
-          "EU",
           "AS",
           "NA",
           "OC"
@@ -703477,12 +703091,9 @@ window.GAME_DATA = [
             "text": "Tento druh je potravou mořského plže.",
             "cat": "vztahy",
             "not": [
-              "Q1133152",
               "Q1319163",
               "Q144410",
-              "Q301019",
               "Q367643",
-              "Q385764",
               "Q790637",
               "Q798246"
             ]
@@ -703491,9 +703102,7 @@ window.GAME_DATA = [
             "id": "Q139182#1",
             "text": "Žije v mělkých, osluněných vodách do 20 m hloubky.",
             "cat": "výskyt",
-            "not": [
-              "Q3624860"
-            ]
+            "not": []
           }
         ],
         "continents": [
@@ -703607,31 +703216,13 @@ window.GAME_DATA = [
             "id": "Q2212339#x0",
             "text": "Dožívá se až 13 let.",
             "cat": "čísla",
-            "not": [
-              "Q1133152"
-            ]
-          },
-          {
-            "id": "Q2212339#x1",
-            "text": "Živí se larvami korýšů, veslonožci, rozsivkami a planktonem.",
-            "cat": "potrava",
-            "not": [
-              "Q1319163",
-              "Q21120",
-              "Q26634",
-              "Q367643",
-              "Q790637"
-            ]
+            "not": []
           },
           {
             "id": "Q2212339#x2",
             "text": "Mezi predátory tohoto druhu patří hvězdice, platýsi, krabi a racci.",
             "cat": "vztahy",
-            "not": [
-              "Q1319163",
-              "Q367643",
-              "Q790637"
-            ]
+            "not": []
           },
           {
             "id": "Q2212339#x3",
@@ -703758,17 +703349,13 @@ window.GAME_DATA = [
             "cat": "chování",
             "not": [
               "Q1130991",
-              "Q1133152",
-              "Q1319163",
               "Q144410",
               "Q1534556",
               "Q2212339",
               "Q301019",
               "Q3624860",
-              "Q367643",
               "Q385764",
               "Q664443",
-              "Q790637",
               "Q798246"
             ]
           }
@@ -703906,20 +703493,6 @@ window.GAME_DATA = [
               "Q790637",
               "Q798246"
             ]
-          },
-          {
-            "id": "Q822952#3",
-            "text": "Larvy se obvykle usazují mezi mořskými řasami.",
-            "cat": "vztahy",
-            "not": [
-              "Q1319163",
-              "Q144410",
-              "Q301019",
-              "Q367643",
-              "Q385764",
-              "Q790637",
-              "Q798246"
-            ]
           }
         ],
         "continents": [
@@ -704024,7 +703597,6 @@ window.GAME_DATA = [
             "cat": "vztahy",
             "not": [
               "Q1319163",
-              "Q144410",
               "Q301019",
               "Q367643",
               "Q385764",
@@ -704082,8 +703654,7 @@ window.GAME_DATA = [
             "cat": "potrava",
             "not": [
               "Q133020",
-              "Q134912",
-              "Q144410"
+              "Q134912"
             ]
           },
           {
@@ -704147,59 +703718,6 @@ window.GAME_DATA = [
         ],
         "facts": [
           {
-            "id": "Q1171262#x0",
-            "text": "Žije uvnitř hladké trubice z jemných částeček bahna nebo písku slepených hlenem.",
-            "cat": "chování",
-            "not": [
-              "Q1051334",
-              "Q1133152",
-              "Q1319163",
-              "Q1410121",
-              "Q1434787",
-              "Q144410",
-              "Q1501422",
-              "Q1534556",
-              "Q1569834",
-              "Q30041",
-              "Q301019",
-              "Q3624860",
-              "Q367643",
-              "Q385764",
-              "Q5130403",
-              "Q790637",
-              "Q798246",
-              "Q837241"
-            ]
-          },
-          {
-            "id": "Q1171262#x1",
-            "text": "Pomocí řasinek na chapadlech žene vodu korunou a zachytává z ní drobnou potravu.",
-            "cat": "potrava",
-            "not": [
-              "Q1051334",
-              "Q1133152",
-              "Q1140786",
-              "Q1319163",
-              "Q133020",
-              "Q134912",
-              "Q1410121",
-              "Q1501422",
-              "Q1534556",
-              "Q1569834",
-              "Q21155",
-              "Q30041",
-              "Q30092",
-              "Q301019",
-              "Q3624860",
-              "Q367643",
-              "Q385764",
-              "Q5130403",
-              "Q790637",
-              "Q798246",
-              "Q837241"
-            ]
-          },
-          {
             "id": "Q1171262#x2",
             "text": "Koruna chapadel je velmi citlivá a při pohybu nebo stínu se rychle stáhne.",
             "cat": "chování",
@@ -704211,16 +703729,13 @@ window.GAME_DATA = [
               "Q134912",
               "Q1410121",
               "Q1501422",
-              "Q1534556",
               "Q1569834",
               "Q21155",
               "Q30041",
               "Q30092",
-              "Q3624860",
               "Q367643",
               "Q5130403",
-              "Q790637",
-              "Q837241"
+              "Q790637"
             ]
           }
         ],
@@ -704277,7 +703792,6 @@ window.GAME_DATA = [
               "Q134912",
               "Q1410121",
               "Q1434787",
-              "Q144410",
               "Q1501422",
               "Q1569834",
               "Q21155",
@@ -704430,8 +703944,6 @@ window.GAME_DATA = [
               "Q1133152",
               "Q133020",
               "Q1434787",
-              "Q144410",
-              "Q367643",
               "Q385764",
               "Q790637"
             ]
@@ -704463,14 +703975,7 @@ window.GAME_DATA = [
             "id": "Q1410121#3",
             "text": "Má různé barvy: červenou, žlutou, zelenou nebo bílou.",
             "cat": "vzhled",
-            "not": [
-              "Q1319163",
-              "Q301019",
-              "Q367643",
-              "Q385764",
-              "Q790637",
-              "Q798246"
-            ]
+            "not": []
           },
           {
             "id": "Q1410121#4",
@@ -704556,9 +704061,7 @@ window.GAME_DATA = [
             "id": "Q1434787#0",
             "text": "Živí se drobnými organismy a planktonem.",
             "cat": "potrava",
-            "not": [
-              "Q1133152"
-            ]
+            "not": []
           }
         ],
         "continents": [
@@ -704678,13 +704181,8 @@ window.GAME_DATA = [
             "not": [
               "Q133020",
               "Q134912",
-              "Q144410",
-              "Q1534556",
-              "Q301019",
-              "Q3624860",
               "Q385764",
-              "Q798246",
-              "Q837241"
+              "Q798246"
             ]
           }
         ],
@@ -704716,9 +704214,7 @@ window.GAME_DATA = [
             "id": "Q21155#0",
             "text": "Dožívá se nejméně 5 až 6 let.",
             "cat": "čísla",
-            "not": [
-              "Q144410"
-            ]
+            "not": []
           },
           {
             "id": "Q21155#5",
@@ -704738,10 +704234,8 @@ window.GAME_DATA = [
             "not": [
               "Q1319163",
               "Q133020",
-              "Q144410",
               "Q30041",
-              "Q367643",
-              "Q790637"
+              "Q367643"
             ]
           }
         ],
@@ -704784,9 +704278,7 @@ window.GAME_DATA = [
               "Q1569834",
               "Q21155",
               "Q30092",
-              "Q301019",
               "Q3624860",
-              "Q385764",
               "Q5130403",
               "Q798246",
               "Q837241"
@@ -704858,7 +704350,6 @@ window.GAME_DATA = [
             "text": "Dorůstá délky přibližně 9 až 30 cm.",
             "cat": "čísla",
             "not": [
-              "Q1140786",
               "Q133020",
               "Q1434787"
             ]
@@ -704867,17 +704358,14 @@ window.GAME_DATA = [
             "id": "Q30092#1",
             "text": "Chybějící konec těla doroste.",
             "cat": "chování",
-            "not": [
-              "Q144410"
-            ]
+            "not": []
           },
           {
             "id": "Q30092#3",
             "text": "Je potravou pro ptáky, savce i plazy.",
             "cat": "vztahy",
             "not": [
-              "Q133020",
-              "Q144410"
+              "Q133020"
             ]
           },
           {

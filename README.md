@@ -39,7 +39,7 @@ Každá skupina druhů v `CLASSES` v `pipeline.py` prochází těmito kroky:
 3a. **Cizojazyčné zdroje:** `python pipeline.py foreign <skupina>` stáhne druhům bez jediného tvrzení anglický článek a nejdelší článek v dalším jazyce (bývá tam, kde je druh doma). Subagent z nich vybere tvrzení podle stejných pravidel a napíše je česky, citace zůstává v původním jazyce. Kde nic použitelného není, druh zůstane jen pro otázky s fotkou.
 4. **Negativní tvrzení:** subagent určí, pro které druhy tvrzení s jistotou neplatí. Z toho vznikají špatné odpovědi. Druhy s méně než třemi takovými tvrzeními se posoudí ještě vůči dalším tvrzením ze třídy (úlohy `need_`, nejvýš dvě kola).
 5. **Přísná kontrola:** silnější model znovu projde tvrzení, negativní úsudky a fotky.
-6. **Kontinenty:** subagent přiřadí druhům kontinenty výskytu.
+6. **Kontinenty:** subagent přiřadí druhům kontinenty výskytu. Počítá se život ve volné přírodě, tedy i zavlečené usazené a zdivočelé populace (buvol domácí v Austrálii), ne zvířata jen v zajetí, u domácích druhů navíc oblast původu.
 7. **Jazyk:** redaktor opraví nepřirozené věty a vyřadí věty, které u druhu říkají totéž. Oprava musí projít stejnými pravidly jako původní věta.
 
 Savci navíc procházejí negativním krokem vůči podobným druhům z užší skupiny (`MAMMAL_PEERS` v `pipeline.py`), hra z nich bere špatné odpovědi. Ruční opravy jsou v `manual.json` v adresářích jednotlivých kroků v `data/`.
