@@ -633624,7 +633624,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q1013728#0",
-            "text": "Celková délka tohoto druhu je asi 25 až 26 cm.",
+            "text": "Tento druh dosahoval celkové délky asi 25 až 26 cm.",
             "cat": "čísla",
             "not": [
               "Q113549840",
@@ -633795,7 +633795,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q1042042#1",
-            "text": "Tento druh jedl také hmyz a měkkýše.",
+            "text": "Tento druh se živil také hmyzem a měkkýši.",
             "cat": "potrava",
             "not": []
           }
@@ -633880,7 +633880,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q1048895#0",
-            "text": "Kočky domácí se tímto druhem živily.",
+            "text": "Tímto druhem se živily domácí kočky.",
             "cat": "vztahy",
             "not": [
               "Q130738",
@@ -633987,7 +633987,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q1055883#0",
-            "text": "Tento druh se bránil rohy proti predátorům.",
+            "text": "Proti predátorům se tento druh bránil rohy.",
             "cat": "vztahy",
             "not": [
               "Q125026545",
@@ -634004,7 +634004,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q1055883#1",
-            "text": "Tento druh se živil mnoha druhy rostlin.",
+            "text": "Tento druh se živil mnoha různými rostlinami.",
             "cat": "potrava",
             "not": [
               "Q125026545",
@@ -634186,7 +634186,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q1061943#1",
-            "text": "Pravděpodobně plaval s pomocí bočně zploštělého ocasu.",
+            "text": "Pravděpodobně plaval pomocí bočně zploštělého ocasu.",
             "cat": "chování",
             "not": [
               "Q131751",
@@ -634538,7 +634538,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q107685#2",
-            "text": "Tento druh žil ve východní Africe, dnes v Etiopii, Keni a Tanzanii.",
+            "text": "Tento druh žil ve východní Africe, na území dnešní Etiopie, Keni a Tanzanie.",
             "cat": "výskyt",
             "not": [
               "Q100196",
@@ -634706,7 +634706,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q108751474#1",
-            "text": "Jeho délka byla asi 4,5 metru.",
+            "text": "Tento druh dosahoval délky asi 4,5 metru.",
             "cat": "čísla",
             "not": [
               "Q1064780",
@@ -635072,7 +635072,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q112245916#1",
-            "text": "Jeho fosílie se našly v Severní Americe, například v Kalifornii a Texasu.",
+            "text": "Fosílie tohoto druhu se našly v Severní Americe, například v Kalifornii a Texasu.",
             "cat": "výskyt",
             "not": [
               "Q104883923",
@@ -635190,7 +635190,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q113620659#1",
-            "text": "Tento druh měl zploštělý ocas, který pomáhal k rychlému pohybu ve vodě.",
+            "text": "Tento druh měl zploštělý ocas, který mu pomáhal k rychlému pohybu ve vodě.",
             "cat": "vzhled",
             "not": [
               "Q138981",
@@ -635304,7 +635304,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q1144395#1",
-            "text": "Tento druh byl skvěle anatomicky uzpůsoben k rychlému běhu.",
+            "text": "Tento druh byl stavbou těla skvěle uzpůsoben k rychlému běhu.",
             "cat": "vzhled",
             "not": [
               "Q131410",
@@ -635361,7 +635361,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q11514710#1",
-            "text": "Jeho délka byla zhruba 3 až 4 metry.",
+            "text": "Tento druh byl dlouhý zhruba 3 až 4 metry.",
             "cat": "čísla",
             "not": [
               "Q131142",
@@ -635548,7 +635548,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q117037494#0",
-            "text": "Tento druh byl malý dinosaurus.",
+            "text": "Šlo o malého dinosaura.",
             "cat": "vzhled",
             "not": [
               "Q132762",
@@ -635559,7 +635559,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q117037494#1",
-            "text": "Jeho fosílie byly objeveny v poušti Gobi.",
+            "text": "Fosílie tohoto druhu byly objeveny v poušti Gobi.",
             "cat": "výskyt",
             "not": [
               "Q1056138",
@@ -635681,7 +635681,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q1187367#1",
-            "text": "Tento druh žil hlavně ve vodě a na břeh vylézal za odpočinkem.",
+            "text": "Tento druh žil hlavně ve vodě a na břeh vylézal odpočívat.",
             "cat": "chování",
             "not": [
               "Q105745562",
@@ -635828,7 +635828,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q1191111#0",
-            "text": "Živil se hlavně listím stromů a dřevin.",
+            "text": "Tento druh se živil hlavně listím stromů a dalších dřevin.",
             "cat": "potrava",
             "not": [
               "Q13418266",
@@ -635971,7 +635971,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q12049345#0",
-            "text": "Tento druh žil v moři svrchní křídy.",
+            "text": "Tento druh žil v moři v období svrchní křídy.",
             "cat": "výskyt",
             "not": [
               "Q131179",
@@ -635997,7 +635997,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q12049345#1",
-            "text": "Tento druh se našel ve Francii, v Čechách i na pobřeží Namibie.",
+            "text": "Tento druh byl nalezen ve Francii, v Čechách i na pobřeží Namibie.",
             "cat": "výskyt",
             "not": [
               "Q131264",
@@ -636214,7 +636214,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q123102#4",
-            "text": "Tento druh byl aktivní v noci a za šera.",
+            "text": "Tento druh lovil v noci a za šera.",
             "cat": "chování",
             "not": []
           },
@@ -636357,7 +636357,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q1254623#1",
-            "text": "Tento druh se velmi podobá dnešním kajmanům.",
+            "text": "Tento druh se velmi podobal dnešním kajmanům.",
             "cat": "vztahy",
             "not": [
               "Q1013728",
@@ -636422,7 +636422,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q1261924#1",
-            "text": "Tento druh vyhynul na Pittově ostrově kvůli kočkám domácím.",
+            "text": "Tento druh vyhynul na Pittově ostrově kvůli domácím kočkám.",
             "cat": "vymření",
             "not": [
               "Q131602",
@@ -636462,7 +636462,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q1263591#1",
-            "text": "Jeho populace rapidně ubývala, protože ho lovily krysy ostrovní.",
+            "text": "Jeho počty rychle klesaly, protože ho lovily krysy ostrovní.",
             "cat": "vztahy",
             "not": [
               "Q131602",
@@ -636685,7 +636685,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q128050#0",
-            "text": "Tento druh žil před asi 97 miliony let.",
+            "text": "Tento druh žil asi před 97 miliony let.",
             "cat": "čísla",
             "not": [
               "Q131213",
@@ -636748,7 +636748,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q128233#0",
-            "text": "Tento druh byl býložravec.",
+            "text": "Tento druh byl býložravý.",
             "cat": "potrava",
             "not": [
               "Q1183500",
@@ -636822,7 +636822,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q129426802#0",
-            "text": "Tento druh mohl útočit na býložravé dinosaury.",
+            "text": "Tento druh dokázal útočit na býložravé dinosaury.",
             "cat": "potrava",
             "not": [
               "Q131781",
@@ -637040,7 +637040,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q130880#1",
-            "text": "Délka tohoto druhu byla 70 cm až 1,4 m.",
+            "text": "Tento druh byl dlouhý 70 cm až 1,4 m.",
             "cat": "čísla",
             "not": [
               "Q130980",
@@ -637086,7 +637086,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q130885#1",
-            "text": "Tento druh spásal nízký vegetační porost.",
+            "text": "Tento druh spásal nízkou vegetaci.",
             "cat": "potrava",
             "not": [
               "Q123102",
@@ -637426,7 +637426,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q13098211#0",
-            "text": "Tento druh se živil živou kořistí i zdechlinami.",
+            "text": "Jeho potravou byla živá kořist i zdechliny.",
             "cat": "potrava",
             "not": [
               "Q16778336",
@@ -637463,7 +637463,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q13098211#5",
-            "text": "Dospělci dosahovali délky asi 11 až 12,4 metru.",
+            "text": "Dospělí jedinci dosahovali délky asi 11 až 12,4 metru.",
             "cat": "čísla",
             "not": [
               "Q131102",
@@ -637942,7 +637942,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q131067#0",
-            "text": "Tento druh dosahoval rychlosti možná až kolem 70 km/h.",
+            "text": "Možná dosahoval rychlosti až kolem 70 km/h.",
             "cat": "čísla",
             "not": [
               "Q105745562",
@@ -638128,7 +638128,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q131078#1",
-            "text": "Délka dospělého jedince byla zhruba 8 metrů.",
+            "text": "Dospělý jedinec byl dlouhý zhruba 8 metrů.",
             "cat": "čísla",
             "not": [
               "Q1256132",
@@ -638265,7 +638265,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q131088#0",
-            "text": "Tento druh byl velmi dobře přizpůsobený pro rychlý běh.",
+            "text": "Tento druh byl velmi dobře přizpůsobený rychlému běhu.",
             "cat": "chování",
             "not": [
               "Q131763",
@@ -638282,7 +638282,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q131088#1",
-            "text": "Tento druh žil v období nejranější jury před 199 až 190 miliony let.",
+            "text": "Tento druh žil v období nejranější jury, asi před 199 až 190 miliony let.",
             "cat": "výskyt",
             "not": [
               "Q131573",
@@ -638358,7 +638358,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q131096#0",
-            "text": "Tento druh byl býložravec.",
+            "text": "Tento druh byl býložravý.",
             "cat": "potrava",
             "not": [
               "Q131106",
@@ -638482,7 +638482,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q131102#1",
-            "text": "Jeho hmotnost mohla být až kolem 4600 kilogramů.",
+            "text": "Tento druh mohl vážit až kolem 4600 kilogramů.",
             "cat": "čísla",
             "not": [
               "Q117037494",
@@ -639251,7 +639251,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q131166#0",
-            "text": "Tento druh byl masožravý dinosaurus.",
+            "text": "Tento druh patřil mezi masožravé dinosaury.",
             "cat": "potrava",
             "not": [
               "Q128233",
@@ -639363,7 +639363,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q131170#0",
-            "text": "Tento druh byl dlouhý kolem 8 až 9 metrů.",
+            "text": "Tento druh byl dlouhý asi 8 až 9 metrů.",
             "cat": "čísla",
             "not": [
               "Q131601",
@@ -639454,7 +639454,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q131179#0",
-            "text": "Lovili ho menší a střední masožraví dinosauři.",
+            "text": "Lovili ho menší a středně velcí masožraví dinosauři.",
             "cat": "vztahy",
             "not": []
           },
@@ -639865,7 +639865,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q131232#1",
-            "text": "Délka těla byla kolem tří metrů.",
+            "text": "Tělo bylo dlouhé kolem tří metrů.",
             "cat": "čísla",
             "not": []
           }
@@ -639925,7 +639925,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q131235#3",
-            "text": "Otisky peří nasvědčují schopnosti klouzavého letu.",
+            "text": "Otisky peří naznačují, že tento druh uměl klouzavě létat.",
             "cat": "chování",
             "not": [
               "Q128233",
@@ -640071,7 +640071,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q131247#1",
-            "text": "Fosilní nálezy se vyskytují v Asii.",
+            "text": "Fosilní nálezy tohoto druhu pocházejí z Asie.",
             "cat": "výskyt",
             "not": [
               "Q131589",
@@ -640179,7 +640179,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q131253#0",
-            "text": "Jeho lebka patřila mezi nejdelší ze všech dinosaurů.",
+            "text": "Tento druh měl jednu z nejdelších lebek ze všech dinosaurů.",
             "cat": "čísla",
             "not": [
               "Q131106",
@@ -640933,7 +640933,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q131407#1",
-            "text": "Tento druh si zuby obnovoval přibližně každých 14 dní.",
+            "text": "Tento druh si obnovoval zuby přibližně každých 14 dní.",
             "cat": "čísla",
             "not": [
               "Q310434"
@@ -641655,7 +641655,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q131518#1",
-            "text": "Tento druh měl za potravu hmyz a drobné obratlovce.",
+            "text": "Tento druh lovil hmyz a drobné obratlovce.",
             "cat": "potrava",
             "not": [
               "Q131038",
@@ -642342,7 +642342,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q131589#2",
-            "text": "Tento druh žil ve velkých stádech, někdy až tisícihlavých.",
+            "text": "Tento druh žil ve velkých, až tisícihlavých stádech.",
             "cat": "chování",
             "not": [
               "Q132313"
@@ -642490,7 +642490,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q131601#1",
-            "text": "Jeho fosilie našli v Montaně v USA.",
+            "text": "Fosilie byly objeveny v Montaně v USA.",
             "cat": "výskyt",
             "not": [
               "Q131235",
@@ -642747,7 +642747,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q131644#1",
-            "text": "Tento druh měřil asi 12 až 18,3 metru.",
+            "text": "Tento druh měřil na délku asi 12 až 18,3 metru.",
             "cat": "čísla",
             "not": [
               "Q1062126",
@@ -642793,7 +642793,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q131646#1",
-            "text": "Na hřbetu a ocasu tvořily pancíř stovky drobných kožních štítků.",
+            "text": "Pancíř na hřbetě a ocasu tvořily stovky drobných kožních štítků.",
             "cat": "vzhled",
             "not": [
               "Q131153"
@@ -643029,7 +643029,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q131678#1",
-            "text": "Tento druh se živil travou, pobřežními rákosy a malými keři.",
+            "text": "Tento druh se živil travou, pobřežním rákosím a malými keři.",
             "cat": "potrava",
             "not": [
               "Q100196",
@@ -643369,7 +643369,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q131703#0",
-            "text": "Tento druh žil před asi 75 miliony let.",
+            "text": "Tento druh žil asi před 75 miliony let.",
             "cat": "vymření",
             "not": [
               "Q149083",
@@ -643446,7 +643446,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q131710#0",
-            "text": "Dospělí jedinci měřili 7,5 až 9 metrů.",
+            "text": "Dospělí jedinci měřili na délku 7,5 až 9 metrů.",
             "cat": "čísla",
             "not": [
               "Q131446",
@@ -643816,7 +643816,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q131756#1",
-            "text": "Tento druh měřil asi 15 metrů.",
+            "text": "Tento druh měřil na délku asi 15 metrů.",
             "cat": "čísla",
             "not": [
               "Q135327",
@@ -644040,7 +644040,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q131769#1",
-            "text": "Tento druh dosahoval délky asi 1,8 až 2 metry.",
+            "text": "Tento druh dosahoval délky asi 1,8 až 2 metrů.",
             "cat": "čísla",
             "not": [
               "Q131756",
@@ -644597,7 +644597,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q131813#1",
-            "text": "Tento druh byl dlouhý kolem 10 až 15 cm.",
+            "text": "Tento druh byl dlouhý asi 10 až 15 cm.",
             "cat": "čísla",
             "not": [
               "Q132563",
@@ -645254,7 +645254,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q132474#0",
-            "text": "Jeho zuby jsou uzpůsobené na pojídání hmyzu.",
+            "text": "Tento druh měl zuby uzpůsobené k pojídání hmyzu.",
             "cat": "potrava",
             "not": [
               "Q1274400",
@@ -645302,7 +645302,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q132481#0",
-            "text": "Tento druh žil asi před 70 miliony lety.",
+            "text": "Tento druh žil asi před 70 miliony let.",
             "cat": "výskyt",
             "not": [
               "Q133159",
@@ -645340,7 +645340,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q132494#0",
-            "text": "Tento druh žil před asi 161 miliony let v Číně.",
+            "text": "Tento druh žil asi před 161 miliony let v Číně.",
             "cat": "výskyt",
             "not": [
               "Q132291",
@@ -645363,7 +645363,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q132494#1",
-            "text": "Tento druh dosahoval délky asi 4 metry.",
+            "text": "Tento druh dosahoval délky asi 4 metrů.",
             "cat": "čísla",
             "not": [
               "Q131096",
@@ -645637,7 +645637,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q132526#1",
-            "text": "Tento druh se živil vysoko rostoucí rostlinnou potravou ve větvích stromů.",
+            "text": "Tento druh spásal rostlinnou potravu vysoko ve větvích stromů.",
             "cat": "potrava",
             "not": [
               "Q128233",
@@ -646037,7 +646037,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q132554#1",
-            "text": "Tento druh se v období rozmnožování pravděpodobně sdružoval.",
+            "text": "V období rozmnožování se tato zvířata pravděpodobně sdružovala.",
             "cat": "chování",
             "not": []
           }
@@ -646269,7 +646269,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q132573#1",
-            "text": "Rozpětí křídel měřilo až 3,5 metru.",
+            "text": "Tento druh měl rozpětí křídel až 3,5 metru.",
             "cat": "čísla",
             "not": [
               "Q1098279",
@@ -646370,7 +646370,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q132577#1",
-            "text": "Tento druh žil před asi 219 až 215 miliony lety v dnešní Itálii.",
+            "text": "Tento druh žil asi před 219 až 215 miliony let v dnešní Itálii.",
             "cat": "výskyt",
             "not": [
               "Q131932",
@@ -647424,7 +647424,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q132813#1",
-            "text": "Tento druh žil asi před 200 miliony lety v Jihoafrické republice.",
+            "text": "Tento druh žil asi před 200 miliony lety na území dnešní Jihoafrické republiky.",
             "cat": "výskyt",
             "not": [
               "Q132563",
@@ -648368,7 +648368,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q133031#0",
-            "text": "Tento druh byl patrně loven velkými dravými dinosaury.",
+            "text": "Patrně lovili velcí draví dinosauři.",
             "cat": "vztahy",
             "not": [
               "Q2272925",
@@ -648871,7 +648871,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q133084#1",
-            "text": "Tento druh žil spolu s psovitými šelmami.",
+            "text": "Tento druh žil spolu se psovitými šelmami.",
             "cat": "vztahy",
             "not": [
               "Q132853",
@@ -648911,7 +648911,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q133085#1",
-            "text": "Tento druh dosahoval výšky v kohoutku 180 cm.",
+            "text": "Tento druh měřil v kohoutku 180 cm.",
             "cat": "čísla",
             "not": [
               "Q131167",
@@ -649580,7 +649580,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q133157#0",
-            "text": "Tento druh žil před přibližně 74,3 miliónu let.",
+            "text": "Tento druh žil přibližně před 74,3 milionu let.",
             "cat": "výskyt",
             "not": [
               "Q110602",
@@ -649647,7 +649647,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q133158#1",
-            "text": "Tento druh vážil asi jako 11 slonů afrických.",
+            "text": "Tento druh vážil asi jako 11 afrických slonů.",
             "cat": "čísla",
             "not": [
               "Q117037494",
@@ -650592,7 +650592,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q133376#1",
-            "text": "Jeho fosílie pocházejí z období trvajícího asi 20 milionů let.",
+            "text": "Jeho fosílie pocházejí z období dlouhého asi 20 milionů let.",
             "cat": "výskyt",
             "not": []
           }
@@ -651224,7 +651224,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q133881#0",
-            "text": "Tento druh žil před asi 118 až 110 miliony let.",
+            "text": "Tento druh žil asi před 118 až 110 miliony let.",
             "cat": "výskyt",
             "not": [
               "Q130880",
@@ -651240,7 +651240,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q133881#1",
-            "text": "Dospělí jedinci měřili zřejmě kolem 3 metrů na délku.",
+            "text": "Dospělí jedinci měřili na délku zřejmě kolem 3 metrů.",
             "cat": "čísla",
             "not": [
               "Q115813367",
@@ -651743,7 +651743,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q134134#1",
-            "text": "Tento druh žil před asi 70 miliony let.",
+            "text": "Tento druh žil asi před 70 miliony let.",
             "cat": "výskyt",
             "not": [
               "Q134162",
@@ -651818,7 +651818,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q134151#0",
-            "text": "Tento druh měl až 220 zubů v ústní dutině.",
+            "text": "Tento druh měl v tlamě až 220 zubů.",
             "cat": "čísla",
             "not": []
           },
@@ -651863,7 +651863,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q134159#1",
-            "text": "Tento druh dosahoval délky kolem 2,3 až 3,5 metru.",
+            "text": "Tento druh dosahoval délky asi 2,3 až 3,5 metru.",
             "cat": "čísla",
             "not": [
               "Q1061943",
@@ -652058,7 +652058,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q134182#0",
-            "text": "Tento druh byl dvounohý a rychlý lovec.",
+            "text": "Tento druh byl rychlý dvounohý lovec.",
             "cat": "chování",
             "not": [
               "Q132547"
@@ -652488,7 +652488,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q134236#1",
-            "text": "V břiše jednoho nalezeného jedince byly zachovány kostry ryb.",
+            "text": "V břiše jednoho nalezeného jedince se zachovaly kostry ryb.",
             "cat": "potrava",
             "not": [
               "Q131094",
@@ -652571,7 +652571,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q134269#1",
-            "text": "Tento druh byl zřejmě dominantním predátorem moří.",
+            "text": "Tento druh byl zřejmě dominantním predátorem moří v období svrchní křídy.",
             "cat": "vztahy",
             "not": [
               "Q1056138",
@@ -652647,7 +652647,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q134297#0",
-            "text": "Tento druh se živil zřejmě malými obratlovci.",
+            "text": "Tento druh se zřejmě živil malými obratlovci.",
             "cat": "potrava",
             "not": [
               "Q134407",
@@ -653048,7 +653048,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q134321#1",
-            "text": "Tento druh dosahoval délky jen kolem 60 cm až 1 metru.",
+            "text": "Tento druh byl dlouhý jen asi 60 cm až 1 metr.",
             "cat": "čísla",
             "not": [
               "Q131094",
@@ -653596,7 +653596,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q134597#0",
-            "text": "Tento druh byl mořský predátor, který lovil menší a středně velké obratlovce.",
+            "text": "Tento mořský predátor lovil menší až středně velké obratlovce.",
             "cat": "potrava",
             "not": [
               "Q26261015"
@@ -654086,7 +654086,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q134643#0",
-            "text": "Tento druh žil v období spodní křídy, asi před 112 miliony lety.",
+            "text": "Tento druh žil v období spodní křídy, asi před 112 miliony let.",
             "cat": "výskyt",
             "not": [
               "Q1013728",
@@ -654358,7 +654358,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q134753#0",
-            "text": "Tento druh dosahoval délky jen 1 až 2 metry.",
+            "text": "Tento druh měřil na délku jen 1 až 2 metry.",
             "cat": "čísla",
             "not": [
               "Q131589",
@@ -654939,7 +654939,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q135001#1",
-            "text": "Tento druh měl při své velikosti silnější stisk čelistí než hyena.",
+            "text": "Tento druh měl v poměru ke své velikosti silnější stisk čelistí než hyena.",
             "cat": "čísla",
             "not": []
           }
@@ -655011,7 +655011,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q135094#1",
-            "text": "Tento druh zmizel asi před 400 000 lety.",
+            "text": "Tento druh vymizel asi před 400 000 lety.",
             "cat": "vymření",
             "not": [
               "Q112245916",
@@ -655179,7 +655179,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q135263#0",
-            "text": "Tento druh byl asi 0,75 metru dlouhý.",
+            "text": "Tento druh byl dlouhý asi 0,75 metru.",
             "cat": "čísla",
             "not": [
               "Q131232",
@@ -655506,7 +655506,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q135590#1",
-            "text": "Tento druh měl rád měkkou vegetaci, jako stonky a listy.",
+            "text": "Podle tvaru zubů dával přednost měkké vegetaci, jako jsou stonky a listy.",
             "cat": "potrava",
             "not": [
               "Q15303586"
@@ -655538,7 +655538,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q135602#0",
-            "text": "Tento druh žil před 139 až 131 miliony lety.",
+            "text": "Tento druh žil asi před 139 až 131 miliony let.",
             "cat": "výskyt",
             "not": [
               "Q131568",
@@ -656255,7 +656255,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q136860#1",
-            "text": "Tento druh měřil odhadem kolem 10 metrů.",
+            "text": "Tento druh měřil na délku odhadem kolem 10 metrů.",
             "cat": "čísla",
             "not": [
               "Q113754163",
@@ -656299,7 +656299,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q136872#0",
-            "text": "Tento druh měřil asi 4,5 až 5 metrů.",
+            "text": "Tento druh měřil na délku asi 4,5 až 5 metrů.",
             "cat": "čísla",
             "not": [
               "Q134607",
@@ -656727,7 +656727,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q138023#1",
-            "text": "Tento druh se živil nízko rostoucí rostlinnou potravou.",
+            "text": "Tento druh se živil nízko rostoucími rostlinami.",
             "cat": "potrava",
             "not": [
               "Q131717",
@@ -657083,7 +657083,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q138638#1",
-            "text": "Tento druh žil před 62–60 miliony lety.",
+            "text": "Tento druh žil před 62 až 60 miliony let.",
             "cat": "výskyt",
             "not": [
               "Q1277058",
@@ -657253,7 +657253,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q138981#1",
-            "text": "Velké sovy ho možná lovily.",
+            "text": "Tento druh se možná stával kořistí velkých sov.",
             "cat": "vztahy",
             "not": [
               "Q1098279",
@@ -657508,7 +657508,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q139979324#0",
-            "text": "Tento druh žil před asi 72 až 66 miliony let.",
+            "text": "Tento druh žil asi před 72 až 66 miliony let.",
             "cat": "výskyt",
             "not": [
               "Q131211",
@@ -657981,7 +657981,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q142971#1",
-            "text": "Tento druh dosahoval délky asi 4 metry.",
+            "text": "Tento druh byl dlouhý asi 4 metry.",
             "cat": "čísla",
             "not": [
               "Q2101463",
@@ -658222,7 +658222,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q14388#1",
-            "text": "Tento druh se bránil ocasními trny proti dravým dinosaurům.",
+            "text": "Proti dravým dinosaurům se tento druh bránil ocasními trny.",
             "cat": "chování",
             "not": [
               "Q132647",
@@ -658243,7 +658243,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q14388#3",
-            "text": "Tento druh žil před asi 150 miliony let v Severní Americe.",
+            "text": "Tento druh žil asi před 150 miliony let v Severní Americe.",
             "cat": "výskyt",
             "not": [
               "Q130988",
@@ -658290,7 +658290,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q14397#0",
-            "text": "Tento druh žil na konci jurské periody, před asi 154 miliony let.",
+            "text": "Tento druh žil na konci jurské periody, asi před 154 miliony let.",
             "cat": "výskyt",
             "not": [
               "Q113754163",
@@ -658462,7 +658462,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q14405#3",
-            "text": "Tento druh dosahoval délky asi 3,3 až 4 metry.",
+            "text": "Tento druh byl dlouhý asi 3,3 až 4 metry.",
             "cat": "čísla",
             "not": [
               "Q1048895",
@@ -658728,7 +658728,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q144415#0",
-            "text": "Tento druh byl možná loven velkými dravými dinosaury.",
+            "text": "Možná lovili velcí draví dinosauři.",
             "cat": "vztahy",
             "not": []
           },
@@ -658867,7 +658867,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q14483#0",
-            "text": "Tento druh mohl mít roh nad nozdrami dlouhý až 60 cm.",
+            "text": "Roh nad nozdrami mohl být dlouhý až 60 cm.",
             "cat": "vzhled",
             "not": [
               "Q131067",
@@ -659045,7 +659045,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q14510#0",
-            "text": "Tento druh byl až 12 metrů dlouhý.",
+            "text": "Tento druh byl dlouhý až 12 metrů.",
             "cat": "čísla",
             "not": [
               "Q131781",
@@ -659585,7 +659585,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q15137014#1",
-            "text": "Jeho délka byla asi 8 metrů.",
+            "text": "Tento druh dosahoval délky asi 8 metrů.",
             "cat": "čísla",
             "not": [
               "Q131241",
@@ -660132,7 +660132,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q1577291#1",
-            "text": "Tento druh byl býložravý čtyřnožec, občas se pohyboval po dvou.",
+            "text": "Tento druh byl býložravý čtyřnožec, který se občas pohyboval po dvou.",
             "cat": "potrava",
             "not": [
               "Q477223"
@@ -660622,7 +660622,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q16773910#0",
-            "text": "Tento druh byl býložravec, jedl rostliny.",
+            "text": "Tento druh byl býložravec.",
             "cat": "potrava",
             "not": [
               "Q130902",
@@ -660723,7 +660723,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q16778336#1",
-            "text": "Délka tohoto druhu byla asi 19 metrů.",
+            "text": "Tento druh dosahoval délky asi 19 metrů.",
             "cat": "čísla",
             "not": [
               "Q131208",
@@ -661286,7 +661286,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q1705935#1",
-            "text": "Tento druh dosahoval odhadované délky 10 až 12 metrů.",
+            "text": "Tento druh měřil podle odhadů 10 až 12 metrů.",
             "cat": "čísla",
             "not": [
               "Q124605213",
@@ -661591,7 +661591,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q17363721#1",
-            "text": "Tento druh žil před asi 125 miliony let.",
+            "text": "Tento druh žil asi před 125 miliony let.",
             "cat": "výskyt",
             "not": [
               "Q1031486",
@@ -661707,7 +661707,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q17414109#1",
-            "text": "Tento druh žil před asi 170 miliony lety.",
+            "text": "Tento druh žil asi před 170 miliony let.",
             "cat": "výskyt",
             "not": [
               "Q131589",
@@ -661852,7 +661852,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q1760943#3",
-            "text": "Tento druh žil na stejném ostrově s mořskými ptáky a karetami obrovskými.",
+            "text": "Tento druh sdílel ostrov s mořskými ptáky a karetami obrovskými.",
             "cat": "vztahy",
             "not": [
               "Q132538",
@@ -662169,7 +662169,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q18435#1",
-            "text": "Tento druh žil asi před 78,5 milióny let.",
+            "text": "Tento druh žil asi před 78,5 miliony let.",
             "cat": "čísla",
             "not": [
               "Q131150",
@@ -662294,7 +662294,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q18510948#1",
-            "text": "Potravou mu patrně byla mláďata sauropodů nebo mršiny.",
+            "text": "Patrně lovil mláďata sauropodů nebo se živil také mršinami.",
             "cat": "potrava",
             "not": [
               "Q130885",
@@ -662400,7 +662400,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q18511009#0",
-            "text": "Tento druh požíral snad i členy svého vlastního druhu.",
+            "text": "Jedinci tohoto druhu se snad požírali i navzájem.",
             "cat": "potrava",
             "not": [
               "Q134650",
@@ -662981,7 +662981,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q187484#5",
-            "text": "Tento druh byl vybit za 27 let od objevení.",
+            "text": "Tento druh byl vybit během 27 let od svého objevení.",
             "cat": "vymření",
             "not": [
               "Q123102",
@@ -663354,7 +663354,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q188851#0",
-            "text": "Tento druh jedl hlavně rostliny, jako byliny, trávy a bobule.",
+            "text": "Tento druh se živil hlavně rostlinami, například bylinami, trávami a bobulemi.",
             "cat": "potrava",
             "not": [
               "Q112245916",
@@ -664453,7 +664453,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q194536#1",
-            "text": "Poslední potvrzený kus tohoto druhu byl ve volné přírodě uloven v roce 1943.",
+            "text": "Poslední potvrzený exemplář byl ve volné přírodě uloven v roce 1943.",
             "cat": "vymření",
             "not": [
               "Q131103",
@@ -664711,7 +664711,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q1959271#1",
-            "text": "Odhaduje se, že jeho délka byla asi 8 až 11 metrů.",
+            "text": "Jeho délka se odhaduje asi na 8 až 11 metrů.",
             "cat": "čísla",
             "not": [
               "Q1013728",
@@ -665572,7 +665572,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q20672151#1",
-            "text": "Tento druh byl velký a nelétavý pták.",
+            "text": "Tento druh byl velký nelétavý pták.",
             "cat": "vzhled",
             "not": [
               "Q1013728",
@@ -665850,7 +665850,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q20675442#0",
-            "text": "Tento druh žil v období siluru a spodního devonu.",
+            "text": "Tento druh žil v období siluru až spodního devonu.",
             "cat": "výskyt",
             "not": [
               "Q108418977",
@@ -666376,7 +666376,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q20719273#1",
-            "text": "Tento druh byl dravý živočich.",
+            "text": "Tento druh byl dravec.",
             "cat": "potrava",
             "not": [
               "Q132500",
@@ -666494,7 +666494,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q2076664#4",
-            "text": "Příčiny jeho vyhynutí se spojují se změnami klimatu i s lidmi.",
+            "text": "Jeho vyhynutí se spojuje s rychlými změnami klimatu i se šířením člověka.",
             "cat": "vymření",
             "not": []
           }
@@ -666624,7 +666624,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q2087008#0",
-            "text": "Tento druh žil v období přelomu spodní a svrchní křídy.",
+            "text": "Tento druh žil na přelomu spodní a svrchní křídy.",
             "cat": "výskyt",
             "not": [
               "Q131568",
@@ -666998,7 +666998,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q2118470#1",
-            "text": "Tento druh měl obří lebeční hřeben, který zřejmě sloužil k rozpoznávání.",
+            "text": "Tento druh měl obří lebeční hřeben, který zřejmě sloužil k rozpoznávání a signalizaci.",
             "cat": "vzhled",
             "not": [
               "Q131076",
@@ -667991,7 +667991,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q2272018#1",
-            "text": "Tento druh mohl dorůstat přes 6 metrů délky.",
+            "text": "Tento druh mohl dorůstat délky přes 6 metrů.",
             "cat": "čísla",
             "not": [
               "Q131601",
@@ -668219,7 +668219,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q2300807#0",
-            "text": "Tento druh dosahoval délky 1 metru a hmotnosti zjevně až 30 kg.",
+            "text": "Tento druh dosahoval délky 1 metru a zřejmě vážil až 30 kg.",
             "cat": "čísla",
             "not": [
               "Q12049345",
@@ -669581,7 +669581,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q2468395#1",
-            "text": "Hmotnost tohoto druhu byla 5 až 10 kilogramů.",
+            "text": "Tento druh vážil 5 až 10 kilogramů.",
             "cat": "čísla",
             "not": [
               "Q133129",
@@ -669621,7 +669621,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q2483571#0",
-            "text": "Tento druh viděl nad hladinu i při ponoření pod vodou.",
+            "text": "Dobře viděl nad hladinu i při úplném ponoření pod vodu.",
             "cat": "chování",
             "not": [
               "Q1055883",
@@ -670139,7 +670139,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q2569047#1",
-            "text": "Odhadem měl rozpětí křídel zhruba 5 metrů.",
+            "text": "Rozpětí křídel se odhaduje zhruba na 5 metrů.",
             "cat": "čísla",
             "not": [
               "Q131076",
@@ -670265,7 +670265,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q2576461#1",
-            "text": "Jeho délka byla přibližně jeden metr.",
+            "text": "Tento druh dorůstal délky přibližně jednoho metru.",
             "cat": "čísla",
             "not": [
               "Q1164873",
@@ -670371,7 +670371,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q2591525#1",
-            "text": "Rozpětí křídel bylo odhadem zhruba 2,5 metru.",
+            "text": "Rozpětí křídel se odhaduje zhruba na 2,5 metru.",
             "cat": "čísla",
             "not": [
               "Q131673",
@@ -671022,7 +671022,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q27075029#2",
-            "text": "Kočky a lišky ho lovily.",
+            "text": "Lovili nepůvodní predátoři, například kočky a lišky.",
             "cat": "vztahy",
             "not": [
               "Q109887670",
@@ -671272,7 +671272,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q27145711#0",
-            "text": "Pravděpodobně byl pomalý býložravec.",
+            "text": "Šlo pravděpodobně o pomalého býložravce.",
             "cat": "potrava",
             "not": [
               "Q12681153",
@@ -671555,7 +671555,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q28031858#0",
-            "text": "Pochází z období svrchního triasu, před 225 až 220 miliony lety.",
+            "text": "Pochází z období svrchního triasu, před 225 až 220 miliony let.",
             "cat": "výskyt",
             "not": [
               "Q110602",
@@ -671857,7 +671857,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q285008#4",
-            "text": "Tento druh nepřežil v druhotných lesích, které vyrostly znovu.",
+            "text": "Tento druh nedokázal přežít v obnovených druhotných lesích.",
             "cat": "vymření",
             "not": [
               "Q131211",
@@ -671914,7 +671914,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q285008#7",
-            "text": "Tento druh tvořil páry, které spolu obvykle zůstávaly celý život.",
+            "text": "Páry spolu obvykle zůstávaly po celý život.",
             "cat": "chování",
             "not": []
           }
@@ -672968,7 +672968,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q3029892#1",
-            "text": "Tento druh žil před 125 miliony lety v období rané křídy.",
+            "text": "Tento druh žil před 125 miliony let v období rané křídy.",
             "cat": "vymření",
             "not": [
               "Q132969",
@@ -673013,7 +673013,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q305519#0",
-            "text": "Tento druh se živil okusováním nejvyšších keřů a nízkých větví stromů.",
+            "text": "Tento druh okusoval nejvyšší keře a nízké větve stromů.",
             "cat": "potrava",
             "not": [
               "Q1061943",
@@ -673292,7 +673292,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q309466#0",
-            "text": "Tento druh byl loven obřím dravcem Tyrannosaurus rex.",
+            "text": "Tento druh byl kořistí obřího dravce tyranosaura.",
             "cat": "vztahy",
             "not": [
               "Q109887670",
@@ -674019,13 +674019,13 @@ window.GAME_DATA = [
           },
           {
             "id": "Q310531#1",
-            "text": "Některé jeho kosti nesou stopy po ohryzu masožravce.",
+            "text": "Některé jeho kosti nesou stopy po okousání masožravci.",
             "cat": "vztahy",
             "not": []
           },
           {
             "id": "Q310531#2",
-            "text": "Tento druh žil ve stejné době jako Homo habilis a Homo erectus.",
+            "text": "Tento druh žil ve stejné době jako člověk zručný a člověk vzpřímený.",
             "cat": "vztahy",
             "not": [
               "Q131021",
@@ -674200,7 +674200,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q310826#3",
-            "text": "Dospělí dosahovali výšky asi 130 cm.",
+            "text": "Dospělí jedinci měřili asi 130 cm.",
             "cat": "čísla",
             "not": [
               "Q131038",
@@ -674669,7 +674669,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q311479#0",
-            "text": "Rozpětí křídel měřilo asi 1 až 1,2 metru.",
+            "text": "Rozpětí křídel činilo asi 1 až 1,2 metru.",
             "cat": "čísla",
             "not": [
               "Q132958",
@@ -674682,7 +674682,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q311479#1",
-            "text": "Tento druh žil asi před 120 miliony lety v Číně.",
+            "text": "Tento druh žil asi před 120 miliony let na území dnešní Číny.",
             "cat": "výskyt",
             "not": [
               "Q131205",
@@ -674806,7 +674806,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q311712#0",
-            "text": "Jeho rozpětí křídel činilo asi 4,5 metru.",
+            "text": "Rozpětí křídel činilo asi 4,5 metru.",
             "cat": "čísla",
             "not": [
               "Q131673",
@@ -675029,7 +675029,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q312222#0",
-            "text": "Tento druh byl všežravec, který jedl hlavně rostliny.",
+            "text": "Tento druh byl všežravý a jedl hlavně rostliny.",
             "cat": "potrava",
             "not": [
               "Q133000",
@@ -675097,7 +675097,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q31422#0",
-            "text": "Tento druh žil pravděpodobně v menších stádních skupinách.",
+            "text": "Tento druh žil pravděpodobně v menších stádech.",
             "cat": "chování",
             "not": []
           },
@@ -675857,7 +675857,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q3498371#1",
-            "text": "Tento druh dosahoval délky kolem 2 až 3 metrů.",
+            "text": "Tento druh byl dlouhý asi 2 až 3 metry.",
             "cat": "čísla",
             "not": [
               "Q130966",
@@ -676245,7 +676245,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q37395#1",
-            "text": "Tento druh měl dvě dlouhá chapadla, kterými podával kořist k ústům.",
+            "text": "Tento druh měl dvě dlouhá chapadla, kterými si podával kořist k ústům.",
             "cat": "vzhled",
             "not": [
               "Q107685",
@@ -676453,7 +676453,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q379051#4",
-            "text": "Tento druh měl dlouhý dolů zahnutý zobák.",
+            "text": "Tento druh měl dlouhý, dolů zahnutý zobák.",
             "cat": "vzhled",
             "not": [
               "Q135263",
@@ -676462,7 +676462,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q379051#5",
-            "text": "Tento druh byl špatný letec, často pobýval na zemi.",
+            "text": "Špatně létal a často pobýval na zemi.",
             "cat": "chování",
             "not": []
           }
@@ -676492,7 +676492,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q383329#1",
-            "text": "Přední nohy zřejmě sloužily k hrabání do tuhých termitišť.",
+            "text": "Přední nohy zřejmě sloužily k rozhrabávání tuhých termitišť.",
             "cat": "chování",
             "not": [
               "Q130880",
@@ -677461,7 +677461,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q43502#2",
-            "text": "Ke trávení potravy pomáhaly žaludeční kameny.",
+            "text": "Trávení podporovaly žaludeční kameny.",
             "cat": "potrava",
             "not": []
           },
@@ -678180,7 +678180,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q510638#0",
-            "text": "Hlavní složkou jeho potravy zřejmě byly ovoce a ořechy.",
+            "text": "Jeho hlavní potravou bylo zřejmě ovoce a ořechy.",
             "cat": "potrava",
             "not": [
               "Q132174",
@@ -678207,7 +678207,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q510638#3",
-            "text": "Poslední potvrzený kus byl zastřelen v roce 1826.",
+            "text": "Poslední potvrzený exemplář byl zastřelen v roce 1826.",
             "cat": "vymření",
             "not": [
               "Q131558",
@@ -678299,7 +678299,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q5226428#1",
-            "text": "Odhadovaná délka je 8 až 9 metrů.",
+            "text": "Jeho délka se odhaduje na 8 až 9 metrů.",
             "cat": "čísla",
             "not": [
               "Q1261924",
@@ -678735,7 +678735,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q56247617#0",
-            "text": "Jeho fosílie se našly v Novém Mexiku v USA.",
+            "text": "Jeho fosilie se našly v Novém Mexiku v USA.",
             "cat": "výskyt",
             "not": [
               "Q109997024",
@@ -678787,7 +678787,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q56316452#0",
-            "text": "Tento druh žil před asi 75 až 74 miliony let.",
+            "text": "Tento druh žil asi před 75 až 74 miliony let.",
             "cat": "výskyt",
             "not": [
               "Q131103",
@@ -679521,7 +679521,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q583627#1",
-            "text": "Tento druh vyhubil nadměrný lov koncem devatenáctého století.",
+            "text": "Nadměrný lov vyhubil tento druh koncem devatenáctého století.",
             "cat": "vymření",
             "not": [
               "Q1035243",
@@ -679653,7 +679653,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q588058#0",
-            "text": "Tento druh žil na konci období jury, před asi 150 miliony let.",
+            "text": "Tento druh žil na konci období jury, asi před 150 miliony let.",
             "cat": "výskyt",
             "not": [
               "Q131006",
@@ -679958,7 +679958,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q599076#0",
-            "text": "Jeho potravou byla tuhá rostlinná strava, například větvičky a hlízy.",
+            "text": "Tento druh se živil tuhou rostlinnou potravou, například větvičkami a hlízami.",
             "cat": "potrava",
             "not": [
               "Q131465",
@@ -680378,7 +680378,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q629204#4",
-            "text": "Hnízdění probíhalo od března do dubna, ve snůšce dvě až pět vajec.",
+            "text": "Hnízdění probíhalo od března do dubna, ve snůšce bylo dvě až pět vajec.",
             "cat": "čísla",
             "not": [
               "Q310527",
@@ -680695,13 +680695,13 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q641109#0",
-            "text": "Tento druh nemohl létat, křídla byla velmi malá.",
+            "text": "Tento druh nemohl létat, protože měl velmi malá křídla.",
             "cat": "vzhled",
             "not": []
           },
           {
             "id": "Q641109#2",
-            "text": "Tento druh vyhynul kvůli lovu a kvůli invazivním savcům.",
+            "text": "Tento druh vyhynul kvůli lovu a invazivním savcům.",
             "cat": "vymření",
             "not": [
               "Q100376723",
@@ -680989,7 +680989,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q64836111#1",
-            "text": "Při chůzi se tělo opíralo jen o jediný prst každé zadní nohy.",
+            "text": "Při chůzi se tělo opíralo jen o jeden prst každé zadní nohy.",
             "cat": "chování",
             "not": [
               "Q131275",
@@ -681290,7 +681290,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q66614821#1",
-            "text": "Tento druh byl dravý dinosaurus střední velikosti.",
+            "text": "Byl to dravý dinosaurus střední velikosti.",
             "cat": "vzhled",
             "not": [
               "Q131782",
@@ -681366,7 +681366,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q675014#0",
-            "text": "Tento druh byl pravděpodobně hmyzožravec nebo všežravec.",
+            "text": "Tento druh byl pravděpodobně hmyzožravý nebo všežravý.",
             "cat": "potrava",
             "not": [
               "Q131134",
@@ -681425,7 +681425,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q685786#1",
-            "text": "Na zánik tohoto druhu pravděpodobně měl vliv příchod prvních lidí do Austrálie.",
+            "text": "Na zánik tohoto druhu měl pravděpodobně vliv příchod prvních lidí do Austrálie.",
             "cat": "vymření",
             "not": [
               "Q11878382",
@@ -681865,7 +681865,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q7204674#1",
-            "text": "Tento druh měl v dospělosti délku přibližně 4,8 až 5 metrů.",
+            "text": "Dospělá zvířata byla dlouhá přibližně 4,8 až 5 metrů.",
             "cat": "čísla",
             "not": [
               "Q1048895",
@@ -682190,7 +682190,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q733150#1",
-            "text": "Tento druh vyhynul před asi 40 000 lety.",
+            "text": "Tento druh vyhynul asi před 40 000 lety.",
             "cat": "vymření",
             "not": [
               "Q123102",
@@ -682253,7 +682253,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q733377#1",
-            "text": "Zdivočelé kočky tento druh lovily jako snadnou kořist.",
+            "text": "Pro zdivočelé kočky byl tento druh snadnou kořistí.",
             "cat": "vztahy",
             "not": [
               "Q100196",
@@ -682321,7 +682321,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q733644#0",
-            "text": "Tento druh měl zuby, které sloužily k lovu ryb.",
+            "text": "Tento druh používal zuby k lovu ryb.",
             "cat": "potrava",
             "not": [
               "Q131096",
@@ -682661,7 +682661,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q747009#1",
-            "text": "Tento druh dosahoval délky asi 3 metry.",
+            "text": "Tento druh byl dlouhý asi 3 metry.",
             "cat": "čísla",
             "not": [
               "Q132620",
@@ -682823,7 +682823,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q751087#1",
-            "text": "Tento druh měřil necelý 1 metr a vážil asi 1,5 kg.",
+            "text": "Tento druh byl dlouhý necelý metr a vážil asi 1,5 kg.",
             "cat": "čísla",
             "not": [
               "Q115197",
@@ -683232,7 +683232,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q7684684#0",
-            "text": "Tento druh byl býložravec, pravděpodobně jedl listy, semena a ovoce.",
+            "text": "Tento druh byl býložravec, který pravděpodobně jedl listy, semena a ovoce.",
             "cat": "potrava",
             "not": [
               "Q15303586"
@@ -683629,7 +683629,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q81482#0",
-            "text": "Tento druh žil asi před 161 až 159 miliony lety.",
+            "text": "Tento druh žil asi před 161 až 159 miliony let.",
             "cat": "výskyt",
             "not": [
               "Q131331",
@@ -683796,7 +683796,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q83348502#1",
-            "text": "Tento druh nesl na zádech výraznou hřbetní plachtu.",
+            "text": "Tento druh nesl na zádech výraznou plachtu.",
             "cat": "vzhled",
             "not": [
               "Q131267",
@@ -683849,7 +683849,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q834483#1",
-            "text": "Zmizení tohoto druhu se dává do souvislosti s nepůvodními predátory.",
+            "text": "Vymizení tohoto druhu se spojuje s invazí nepůvodních predátorů.",
             "cat": "vymření",
             "not": [
               "Q1193456",
@@ -683996,19 +683996,19 @@ window.GAME_DATA = [
           },
           {
             "id": "Q844773#5",
-            "text": "Hnízdění probíhalo v puklinách skal, dokonce i v jeskyních.",
+            "text": "Tento druh hnízdil v puklinách skal, nebo dokonce v jeskyních.",
             "cat": "chování",
             "not": []
           },
           {
             "id": "Q844773#6",
-            "text": "Snůška obvykle měla dvě vejce.",
+            "text": "Snůšku obvykle tvořila dvě vejce.",
             "cat": "čísla",
             "not": []
           },
           {
             "id": "Q844773#7",
-            "text": "Rodiče krmili mláďata zprvu červy.",
+            "text": "Rodiče zprvu krmili mláďata červy.",
             "cat": "chování",
             "not": []
           }
@@ -684275,7 +684275,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q862601#1",
-            "text": "Žil jen na Havajských ostrovech.",
+            "text": "Tento druh žil jen na Havajských ostrovech.",
             "cat": "výskyt",
             "not": [
               "Q131046",
@@ -684767,7 +684767,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q9051224#0",
-            "text": "Tento druh byl patrně býložravec, který žil na stromech.",
+            "text": "Tento druh byl patrně býložravý a žil na stromech.",
             "cat": "potrava",
             "not": [
               "Q383329"
@@ -684819,7 +684819,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q907896#0",
-            "text": "Byl asi 6,5 metru dlouhý a vážil kolem 1100 kilogramů.",
+            "text": "Tento druh byl asi 6,5 metru dlouhý a vážil kolem 1100 kilogramů.",
             "cat": "čísla",
             "not": [
               "Q134226",
@@ -685032,7 +685032,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q91930067#1",
-            "text": "Tento druh byl odhadem dlouhý asi 6 metrů.",
+            "text": "Tento druh byl podle odhadů dlouhý asi 6 metrů.",
             "cat": "čísla",
             "not": [
               "Q132803",
@@ -685081,7 +685081,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q921551#1",
-            "text": "Tento druh měřil 1,8 až 2 metry a vážil asi 20 kilogramů.",
+            "text": "Tento druh byl dlouhý 1,8 až 2 metry a vážil asi 20 kilogramů.",
             "cat": "čísla",
             "not": [
               "Q130902",
@@ -685258,7 +685258,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q941714#1",
-            "text": "Příčina jeho vyhynutí zůstává neznámá.",
+            "text": "Příčina vyhynutí tohoto druhu zůstává neznámá.",
             "cat": "vymření",
             "not": []
           }
