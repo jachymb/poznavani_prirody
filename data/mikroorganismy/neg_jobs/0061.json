@@ -1,0 +1,160 @@
+{
+ "facts": [
+  {
+   "id": "Q1950703#0",
+   "species": "Bodo",
+   "text": "Někteří zástupci jsou parazity ryb, hlavně sladkovodních.",
+   "quote": "Někteří jsou ektoparazity a endoparazity ryb a to zejména sladkovodních."
+  },
+  {
+   "id": "Q68528412#1",
+   "species": "Cryptobia helicis",
+   "text": "Živí se bakteriemi.",
+   "quote": "se živí bakteriemi"
+  },
+  {
+   "id": "Q1950703#1",
+   "species": "Bodo",
+   "text": "Živí se zbytky organických látek a někdy i bakteriemi.",
+   "quote": "Jejich hlavní potravou jsou zbytky různých organických látek a mnohdy i různé bakterie."
+  },
+  {
+   "id": "Q68528412#0",
+   "species": "Cryptobia helicis",
+   "text": "Tento druh žije v symbióze s plicnatými plži.",
+   "quote": "je symbiontem plicnatých plžů"
+  }
+ ],
+ "candidates": {
+  "Q132595": {
+   "name": "Bičenka poševní",
+   "latin": "Trichomonas vaginalis",
+   "family": "Trichomonadidae",
+   "lead": "Bičenka poševní (Trichomonas vaginalis) lidově též zvaná pošvík, je anaerobní čtyřbičíkatý parazitický prvok s kosmopolitním výskytem. Má přeměněné mitochondrie zvané hydrogenozomy. Parazituje v pohlavních orgánech žen a způsobuje lidskou urogenitální trichomoniázu. Žije také v močové trubici mužů, zde ale onemocnění způsobuje velmi vzácně. Přenáší se pouze pohlavním stykem. Infekčním stádiem je\ntrofozoit.\n\n\n== Morfologie ==\nBičenka poševní má čtyři přední bičíky a jeden zpětný, který vytváří na",
+   "facts": [
+    "Parazituje v pohlavních orgánech žen.",
+    "Živí se bakteriemi, buněčným detritem a červenými krvinkami."
+   ]
+  },
+  "Q153875": {
+   "name": "Yersinia pestis",
+   "latin": "Yersinia pestis",
+   "family": "Yersiniaceae",
+   "lead": "Yersinia pestis (původně Pasteurella pestis) je patogenní gramnegativní bakterie z čeledi Yersiniaceae . Jedná se o fakultativní anaerobní bakterii, která je přenositelná na zvíře i na člověka.\nLidské infekce Yersinií pestis, způsobující mor, se projevují ve třech hlavních formách, které souvisí s místem vstupu infekce do těla. Rozlišujeme formu dýmějovou, septickou (sepse, otrava krve) a plicní. Všechny tyto tři formy jsou odpovědné za vysokou úmrtnost během epidemií v lidské historii, včetně t",
+   "facts": [
+    "Tento druh se přenáší blechami, které napadají hlodavce.",
+    "Tento druh v přírodě udržují některé druhy hlodavců.",
+    "Mor může způsobit zhroucení celé kolonie psounů.",
+    "Mor škodí i jiným savcům než člověku.",
+    "Způsobuje mor u lidí.",
+    "Při Černé smrti zemřela nejméně třetina evropské populace."
+   ]
+  },
+  "Q136904": {
+   "name": "Emiliania huxleyi",
+   "latin": "Emiliania huxleyi",
+   "family": "Noelaerhabdaceae",
+   "lead": "Emiliania huxleyi je jednobuněčná mořská řasa z chromist, která byla objevena krátce po roce 1950, po vynalezení elektronového mikroskopu. Do té doby byl fytoplankton viditelný pod mikroskopem jen jako slabé šmouhy. Kokolity jako první objevil Thomas Henry Huxley, který se zabýval průzkumem mořského dna a jako první použil výraz kokolit. Emiliania huxleyi byla pojmenována po něm.\nEmiliania huxleyi je jeden z pěti tisíců druhů řas tvořících fytoplankton – mikroskopických fotosyntetizujících organ",
+   "facts": [
+    "Tento druh žije ve všech oceánech kromě polárních oblastí.",
+    "Tento druh odráží tolik světla, že ho zaznamenají satelity.",
+    "V bílé vodě tvoří 80–90 % fytoplanktonu.",
+    "Tento druh má zásadní vliv na klima Země."
+   ]
+  },
+  "Q116504956": {
+   "name": "Medakamo hakoo",
+   "latin": "Medakamo hakoo",
+   "family": "Coccomyxaceae",
+   "lead": "Medakamo hakoo je zelená sladkovodní řasa, objevená v roce 2015 vědci z Tokijské univerzity v domácím akváriu. Buňky této řasy měří přibližně jeden mikrometr, což ji řadí mezi nejmenší autotrofní organismy.\n\n\n== Objev ==\nObjev Medakamo hakoo byl náhodný, když si profesor Tsuneyoshi Kuroiwa z Tokijské univerzity všiml, že voda v nádrži jeho rybiček druhu medaka náhle zezelenala. Po prozkoumání pod mikroskopem odhalil růst velmi malých řas. Na základě tohoto objevu strávil tým z Katedry integrovan",
+   "facts": [
+    "Tento druh fixuje oxid uhličitý fotosyntézou.",
+    "Buňky tohoto druhu měří přibližně jeden mikrometr."
+   ]
+  },
+  "Q150162": {
+   "name": "Trypanosoma cruzi",
+   "latin": "Trypanosoma cruzi",
+   "family": "Trypanozomy",
+   "lead": "Trypanosoma cruzi (někdy trypanozoma americká nebo trypanozoma Chagasova) je parazitický prvok z rodu Trypanosoma, původce Chagasovy choroby čili americké trypanozomiázy. Řadí se do skupiny trypanozom Stercoraria, které dokončují svůj vývoj v zadní část trávicí soustavy přenašečů (v tomto případě ploštic).\n\n\n== Patogeneze ==\nDruh Trypanosoma cruzi je velice hostitelsky nespecifický, což znamená, že napadá široké spektrum divokých i domácích zvířat. Vyskytuje se v Jižní Americe (na jih až v Argen",
+   "facts": [
+    "Způsobuje Chagasovu chorobu.",
+    "Přenašeči jsou ploštice zákeřnice."
+   ]
+  },
+  "Q12043982": {
+   "name": "Paulinella chromatophora",
+   "latin": "Paulinella chromatophora",
+   "family": "Paulinellidae",
+   "lead": "Paulinella chromatophora je prvok z kmene Cercozoa, třídy Silicofilosea (Imbricatea). Bylo prokázáno, že její plastidy (zvané cyanely) získal tento druh pohlcením sinice, ale zcela nezávisle od primární endosymbiotické události, díky níž má plastidy většina ostatních fotosyntetitujících eukaryot.\nJednalo se pravděpodobně o sinici z příbuzenstva rodů Prochlorococcus a Synechococcus, jak vyplývá ze sekvenace DNA z této unikátní cyanely, jejíž genom stále činí asi 14 000 bází.\nBlízce příbuznými dru",
+   "facts": [
+    "Tento druh získal plastidy pohlcením sinice.",
+    "Blízce příbuzné druhy mají také cyanely."
+   ]
+  },
+  "Q131065": {
+   "name": "Chlamydia trachomatis",
+   "latin": "Chlamydia trachomatis",
+   "family": "Chlamydiaceae",
+   "lead": "Chlamydia trachomatis jsou gramnegativní bakterie, které parazitují uvnitř vnímavých buněk sliznic. Jedná se o jednoho ze tří původců chlamydiózy. Bakterie má dvoufázový životní cyklus, který se odehrává mimo i uvnitř buňky. Cyklus je ukončen prasknutím buňky a výsevem infekčních tělísek, které infikují další buňky. Tento cyklus trvá obvykle 48 až 72 hodin. Chlamydia trachomatis se přenáší\npohlavním stykem a může u mužů i u žen způsobit vážné zdravotní komplikace.\n\n\n== Příznaky ==\nMezi příznaky ",
+   "facts": [
+    "Parazituje uvnitř vnímavých buněk sliznic.",
+    "Přenáší se pohlavním stykem."
+   ]
+  },
+  "Q14565729": {
+   "name": "Spirulina",
+   "latin": "Spirulina",
+   "family": "Spirulinaceae",
+   "lead": "Spirulina (také Arthrospira) je rod sinic z řádu Oscillatoriales.\n\n\n== Popis ==\nSpirulina jsou vzplývavé vláknité sinice s cylindrickými buňkami. Vlákna jsou stočena v levotočivou šroubovici. Vyskytují se převážně v tropických a subtropických jezerech s vysokým pH a koncentracemi uhličitanů a hydrogenuhličitanů. A. platensis se vyskytuje v Africe, Asii a Jižní Americe, zatímco A. maxima ve Střední Americe.\n\n\n== Použití ==\nSpirulina se pěstuje v Japonsku na výrobu vitamínových tablet. Obsahuje to",
+   "facts": [
+    "Vyskytují se převážně v tropických a subtropických jezerech.",
+    "Vlákna jsou stočena v levotočivou šroubovici."
+   ]
+  },
+  "Q1950752": {
+   "name": "Leishmania donovani",
+   "latin": "Leishmania donovani",
+   "family": "Trypanozomy",
+   "lead": "Leishmania donovani je komplex příbuzných druhů protozoitních flagellátů z rodu Leishmania. Jejím jediným rezervoárem je člověk, u něhož způsobuje viscerální leishmaniózu, také známou jako nemoc kala-azar. Přenáší se infekčním kousnutím hmyzího vektoru, samičkou flebotoma (Phlebotomus).\n\n\n== Morfologie ==\nLeishmanie vytvářejí dvě morfologická stadia. Vnitrobuněční amastigoti, jejichž tvar je kulatý s velmi krátkým bičíkem nevyčnívajícím z periflagelární kapsy (proto vzniká dojem, že bičík schází",
+   "facts": [
+    "Přenáší ho samička flebotoma při kousnutí.",
+    "Způsobuje nemoc kala-azar."
+   ]
+  },
+  "Q115528": {
+   "name": "Borrelia",
+   "latin": "Borrelia",
+   "family": "Borreliaceae",
+   "lead": "Borrelia je rod gramnegativních bakterií z kmene spirochéty (Spirochaetae), do něhož kromě rodu Borrelia patří rody Leptospira a Treponema. Ve všech třech rodech jsou zastoupeny jak nepatogenní druhy, tak patogenní (např. patogen Leptospira interrogans je původcem leptospirózy, patogen Treponema pallidum je původcem syfilis).\nRod Borrelia je pojmenován po francouzském mikrobiologovi jménem Amédée Borrel. Dlouhé buňky bakterií mají rozměry 0,2 až 0,5 × 8 až 30 (33) µm. Z metabolického hlediska js",
+   "facts": [
+    "Jejich přenašeči jsou cizopasní členovci.",
+    "Způsobují několik bakteriálních nemocí.",
+    "Buňky jsou dlouhé 8 až 30 mikrometrů.",
+    "Pohyb zajišťují podélná vlákna."
+   ]
+  },
+  "Q1153950": {
+   "name": "Hepatozoon",
+   "latin": "Hepatozoon",
+   "family": "Hepatozoidae",
+   "lead": "Hepatozoon je rod patřící do skupiny chromalveolata a kmenu apikomplexa, která zahrnuje přes 300 druhů obligátních parazitů napadajících krvinky červené (erytrocyty) i bílé (leukocyty). Tento druh parazita byl popsán u všech skupin tetrapodních obratlovců, stejně jako u celé řady hematofágního hmyzu, kterého může využít jako vektor přenosu i jako definitivního hostitele. Tento rod se vyznačuje\nzdaleka největší biodiverzitou a prevalencí ze všech hemogregarin. Mají zajímavý životní cyklus, ve kte",
+   "facts": [
+    "Napadá červené i bílé krvinky.",
+    "Mezihostitelem mohou být klíšťata a hmyz.",
+    "Zvíře se nakazí, když sežere infikované klíště.",
+    "Velmi často se vyskytuje u obojživelníků a plazů."
+   ]
+  },
+  "Q2666248": {
+   "name": "Ferroplasma",
+   "latin": "Ferroplasma",
+   "family": "Ferroplasmaceae",
+   "lead": "Ferroplasma je rod archeí z kmene Euryarchaeota, čeledi Ferroplasmataceae, jenž zahrnuje několik málo druhů, zejména pak F. acidiphilum, F. acidarmanus či F. cyprexacervatum.\n\n\n== Charakteristika ==\nFerroplasma jsou z hlediska teploty mezofilní organismy, žijí však v prostředí extrémním z hlediska pH – jsou to obligátní acidofilové a jejich optimální pH je asi 1,3. Typový druh, Ferroplasma acidiphilum, oxiduje železnaté ionty, postrádá buněčnou stěnu a z hlediska získávání uhlíku je autotrofní, ",
+   "facts": [
+    "Žije v prostředí s extrémním pH.",
+    "Oxiduje železnaté ionty."
+   ]
+  }
+ }
+}

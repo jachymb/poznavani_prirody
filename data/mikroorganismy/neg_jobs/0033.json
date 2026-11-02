@@ -1,0 +1,172 @@
+{
+ "facts": [
+  {
+   "id": "Q3614869#2",
+   "species": "Nostoc azollae",
+   "text": "Kapradina dodává sinici sacharidy.",
+   "quote": "kapradina dodává sinici organické sloučeniny, například"
+  },
+  {
+   "id": "Q81062864#0",
+   "species": "Anabaena flos-aquae",
+   "text": "Tento druh tvoří některé jedovaté toxiny.",
+   "quote": "Produkuje některé cyanotoxiny (anatoxin-α) a mnohdy způsobuje při přemnožení vodní květ."
+  },
+  {
+   "id": "Q81062864#1",
+   "species": "Anabaena flos-aquae",
+   "text": "Tento druh je vláknitý a umí klouzavě pohybovat.",
+   "quote": "Tato vláknitá sinice je schopná klouzavého pohybu."
+  },
+  {
+   "id": "Q3614869#0",
+   "species": "Nostoc azollae",
+   "text": "Žije v symbióze s drobnými kapradinami.",
+   "quote": "tvoří symbiotické vztahy s drobnými kapradinami"
+  },
+  {
+   "id": "Q3614869#3",
+   "species": "Nostoc azollae",
+   "text": "Přenáší se z jedné kapradiny na druhou.",
+   "quote": "buňky sinice přenášejí vertikálně z jednoho hostitele na druhého"
+  },
+  {
+   "id": "Q3614869#1",
+   "species": "Nostoc azollae",
+   "text": "Žije uvnitř listových dutin kapradiny.",
+   "quote": "Buňky sinice žijí uvnitř specializovaných listových dutin kapradiny"
+  }
+ ],
+ "candidates": {
+  "Q31856": {
+   "name": "Pseudomonas aeruginosa",
+   "latin": "Pseudomonas aeruginosa",
+   "family": "Pseudomonadaceae",
+   "lead": "Pseudomonas aeruginosa (syn. Bacterium pyocyaneum) je pohyblivá gramnegativní bakterie se slizovou vrstvou patřící do skupiny fluorescenčních pseudomonád. Jako potenciální patogen vyvolává řadu onemocnění, jako je zánět močových cest, středního ucha či hnisání popálenin.\n\n\n== Faktory virulence ==\nProdukuje exotoxin A, který blokuje proteosyntézu. Alginát působí jako adhezivní faktor. Pyocyanin tvoří volné kyslíkové radikály. Pyoverdin je zodpovědný za vázání železa a zelenomodré zbarvení kolonií",
+   "facts": [
+    "Vyvolává zánět močových cest a středního ucha.",
+    "Produkuje exotoxin A, který blokuje tvorbu bílkovin."
+   ]
+  },
+  "Q141236": {
+   "name": "Vakovka lidská",
+   "latin": "Balantidium coli",
+   "family": "Balantidiidae",
+   "lead": "Vakovka lidská (Balantidium coli) je paraziticky žijící nálevník, nejčastěji se vyskytující ve střevech prasat domácích. V některých případech dochází k přenosu na člověka, kde může způsobovat zoonické onemocnění balantidiózu.\n\n\n== Morfologie ==\nBalantidium vytváří dvě stádia, stádium trofozoita a cysty. Trofozoitické stádium je vejčitého tvaru o velikosti 130-300 × 30-100 µm. V přední části je buňka zúžena v místě buněčných úst (cytostom), v místě cytostomu se nachází žíhaná struktura obústí (p",
+   "facts": [
+    "Žije hlavně v tlustém střevě prasat domácích.",
+    "Živí se škrobovými zrny a buněčným detritem.",
+    "Výjimečně se přenáší i na krysy, opice a člověka.",
+    "Cysty mají silnou dvojitou stěnu."
+   ]
+  },
+  "Q68528412": {
+   "name": "Cryptobia helicis",
+   "latin": "Cryptobia helicis",
+   "family": "Cryptobiidae",
+   "lead": "Cryptobia helicis je symbiontem plicnatých plžů (Pulmonata) a patří do třídy kinetoplastida. Byla objevena americkým paleontologem, parazitologem a anatomem Josephem Leidym.\n\n\n== Objev ==\nCryptobia helicis objevil a popsal v roce 1846 Joseph Leidy. Nalezl ho v materiálu odebraného z rozmnožovacího ústrojí tří druhů suchozemských plicnatých plžů, které nasbíral v okolí Filadelfie v Pensylvánii (USA).\n\n\n== Morfologie ==\nVelikost C. helicis se pohybuje od 11,25 × 1,25 μm do 27 × 2,25 μm. Tělo má le",
+   "facts": [
+    "Tento druh žije v symbióze s plicnatými plži.",
+    "Živí se bakteriemi."
+   ]
+  },
+  "Q870849": {
+   "name": "Brucella ovis",
+   "latin": "Brucella ovis",
+   "family": "Brucellaceae",
+   "lead": "Brucella ovis je gramnegativní kokovitá bakterie z rodu Brucella. Jedná se o nepohyblivé, striktně aerobní bakterie. V porovnání s ostatními zástupci rodu Brucella jsou nejméně metabolicky aktivní. K infekci jsou vnímavé pouze ovce, na člověka se nepřenáší. Bakterie B. ovis způsobují brucelózu ovcí, u samců označovanou také jako infekční epididymitida beranů. U beranů dochází k zánětům varlat a\nnadvarlat, u březích bahnic je napadána placenta a dochází k potratům.",
+   "facts": [
+    "Nakazí jen ovce, na člověka se nepřenáší.",
+    "U březích ovcí způsobuje potraty."
+   ]
+  },
+  "Q142705": {
+   "name": "Stenotrophomonas maltophilia",
+   "latin": "Stenotrophomonas maltophilia",
+   "family": "Lysobacteraceae",
+   "lead": "Stenotrophomonas maltophilia je aerobní, nefermentativní, gramnegativní bakterie. Je to nepříliš častý bakteriální patogen lidí způsobující obtížně léčitelné infekce. Původně byl pojmenován Bacterium bookeri, následně přejmenován na Pseudomonas maltophilia. S. maltophilia byl také zahrnut do rodu Xanthomonas, než se v roce 1993 stal typovým druhem rodu Stenotrophomonas.\nS. maltophilia je o něco menší (0,7–1,8  × 0,4–0,7 μm) než ostatní zástupci rodu. Jde o pohyblivé bakterie vybavené polárním bi",
+   "facts": [
+    "Vzácně se vyskytuje i u papouška vlnkovaného.",
+    "Je všudypřítomná ve vlhku, v půdě i v rostlinách.",
+    "Používá se i v biotechnologiích."
+   ]
+  },
+  "Q309465": {
+   "name": "Clostridium perfringens",
+   "latin": "Clostridium perfringens",
+   "family": "Clostridiaceae",
+   "lead": "Clostridium perfringens (dříve též C. welchii) je grampozitivní tyčinkovitá anaerobní sporulující bakterie z rodu Clostridium. C. perfringens je v přírodě všudypřítomná a je běžně obsažena v rozkládající se vegetaci, mořském sedimentu, trávicí soustavě člověka i jiných obratlovců, na tělech hmyzu a v půdě.\n\n\n== Infekční charakteristika ==\nClostridium perfringens se běžně vyskytuje v infekcích jako benigní složka normální flóry. V tomto případě je její role při onemocnění malá.\nInfekce C. perfrin",
+   "facts": [
+    "Tento druh je nejčastějším bakteriálním původcem plynaté sněti.",
+    "Nemoc se objeví 6 až 24 hodin po požití.",
+    "Vytváří toxin, který zabíjí buňky.",
+    "Žije v půdě, v rozkládající se vegetaci i na tělech hmyzu."
+   ]
+  },
+  "Q5233857": {
+   "name": "Theileria",
+   "latin": "Theileria",
+   "family": "Theileriidae",
+   "lead": "Theileria (česky mořivka) je rod výtrusovců řazený mezi piroplazmy (Piroplasmida), kteří jsou příbuzní Plasmodiu (původce tropické malárie). Jsou to jednobuněční prvoci s obligátně parazitickým způsobem života. Způsobují vážná onemocnění dobytka, kopytníků a výjimečně i člověka. Jejich přenašečem jsou klíšťata a klíšťáci.\nRod Theileria se pravděpodobně poprvé objevil v miocénu u přežvýkavců. Je pojmenován po Gertrud Theiler, dceři Arnolda Theilera, otci veterinárního lékařství ve východní Africe",
+   "facts": [
+    "Jsou to jednobuněční prvoci, kteří žijí jen jako parazité.",
+    "Přenašeči jsou klíšťata a klíšťáci.",
+    "Způsobují vážná onemocnění dobytka a kopytníků."
+   ]
+  },
+  "Q134275": {
+   "name": "Chlamydophila psittaci",
+   "latin": "Chlamydophila psittaci",
+   "family": "Chlamydiaceae",
+   "lead": "Chlamydophila psittaci (dříve Chlamydia psittaci) je velmi malá patogenní bakterie ze skupiny chlamydií, která způsobuje epizootické nákazy u zvířat a psitakózu u člověka. Je to obligátní vnitrobuněčný parazit. Jejím přírodním rezervoárem jsou především ptáci (včetně městských holubů). Lidé se mohou infikovat právě požitím či vdechnutím ptačích tělních tekutin, například moči, slin a trusu.\nInkubační doba je 1-2 týdny, prvotními příznaky jsou bolesti v krku, horečky, bolesti svalů, kloubů, silné",
+   "facts": [
+    "Přirozeně ji nosí hlavně ptáci.",
+    "Inkubační doba bývá 1 až 2 týdny."
+   ]
+  },
+  "Q150954": {
+   "name": "Prototheca",
+   "latin": "Prototheca",
+   "family": "Chlorellaceae",
+   "lead": "Prototheca je rod zelených řas z čeledi Chlorellaceae. Bývají izolovány z půdních i vodních vzorků. V buňkách některých druhů někdy není přítomen chlorofyl – dva takoví zástupci žijí paraziticky a způsobují vzácné infekce i u člověka. Takové onemocnění se pak nazývá protothekóza.\n\n\n== Popis ==\nRod Prototheca zahrnuje jednobuněčné druhy s oválnými či kulovitými buňkami, které mají v průměru 2-25 mikrometrů. V dospělosti se buňky změní ve sporangium a naplní se 2-20 endosporami, uspořádanými do tv",
+   "facts": [
+    "Najde se v půdě i ve vodě.",
+    "Některé druhy žijí jako paraziti a způsobují vzácné infekce."
+   ]
+  },
+  "Q63409998": {
+   "name": "Saccharolobus solfataricus",
+   "latin": "Saccharolobus solfataricus",
+   "family": "Sulfolobaceae",
+   "lead": "Saccharolobus solfataricus, dříve označovaný jako Sulfolobus solfataricus, je hypertermoacidofilním mikroorganismem z domény archea. V roce 2018 byl tento mikroorganismus reklasifikován z rodu Sulfolobus do nově vytvořeného rodu Saccharolobus, od této doby tedy nese nové označení Saccharolobus solfataricus.\nPoprvé byl tento archeon objeven a izolován v roce 1980 dvěma německými vědci Karlem Setterem a Wolframem Zilligem u vulkánu Solfatara v Itálii, po kterém tento mikroorganismus také nese svůj",
+   "facts": [
+    "Žije v horkých pramenech po celém světě.",
+    "Roste nejlépe při teplotách 80 až 85 °C.",
+    "Umí růst s využitím elementární síry.",
+    "Jeho enzymy se hodí i do čisticích prostředků."
+   ]
+  },
+  "Q1190338": {
+   "name": "Měňavka velká",
+   "latin": "Amoeba proteus",
+   "family": "Amoebidae",
+   "lead": "Měňavka velká (Amoeba proteus) je typický zástupce měňavek z říše Amoebozoa. Patří mezi heterotrofní jednobuněčné organismy, jejichž tvar se neustále mění (plazma se přelévá z místa na místo).\n\n\n== Historie ==\nPrvním popisovatelem této améby (měňavky) je pravděpodobně popis Augusta Johanna Rösela von Rosenhofa, který v roce 1755 publikoval kresby améboidního prvoka, kterého nazval „malý Proteus“. Následně různí autoři přiřadili Röselův organismus a další améboidní prvoky různá jména: Carl Linnae",
+   "facts": [
+    "Živí se jednobuněčnými řasami a malými prvoky.",
+    "Dosahuje velikosti až 1 mm, vidíme ji pouhým okem.",
+    "Žije na dně sladkých vod, například v rybnících a bažinách.",
+    "Má deset nebo více panožek."
+   ]
+  },
+  "Q132595": {
+   "name": "Bičenka poševní",
+   "latin": "Trichomonas vaginalis",
+   "family": "Trichomonadidae",
+   "lead": "Bičenka poševní (Trichomonas vaginalis) lidově též zvaná pošvík, je anaerobní čtyřbičíkatý parazitický prvok s kosmopolitním výskytem. Má přeměněné mitochondrie zvané hydrogenozomy. Parazituje v pohlavních orgánech žen a způsobuje lidskou urogenitální trichomoniázu. Žije také v močové trubici mužů, zde ale onemocnění způsobuje velmi vzácně. Přenáší se pouze pohlavním stykem. Infekčním stádiem je\ntrofozoit.\n\n\n== Morfologie ==\nBičenka poševní má čtyři přední bičíky a jeden zpětný, který vytváří na",
+   "facts": [
+    "Parazituje v pohlavních orgánech žen.",
+    "Živí se bakteriemi, buněčným detritem a červenými krvinkami."
+   ]
+  }
+ }
+}

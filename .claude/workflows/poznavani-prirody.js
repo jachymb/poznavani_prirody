@@ -15,6 +15,7 @@ const KIND = {
     hard: 'zvíře skoro není vidět: je rozmazané, malé, zakryté, ve velmi nízkém rozlišení, ukazuje jen část těla nebo jen nevyvinutá mláďata',
     categories: 'vzhled | potrava | výskyt | chování | mláďata | čísla | vztahy (vztahy = symbióza, parazité, predátoři, soužití s jinými druhy; čísla = měřitelný údaj)',
     bland: 'žádné „Má srst.“, „Vyskytuje se v přírodě.“ ani „Je chráněný zákonem.“',
+    shells: 'Výjimka pro živočichy, kteří žijí převážně ve schránce (plži, mlži, svijonožci, ramenonožci): v pořádku je i zavřený mlž a celá nepoškozená schránka tohoto druhu ležící v přírodě (na břehu, v písku, v trávě). Neprojde schránka v muzeu, ve sbírce, v ruce, na stole ani na jednobarevném pozadí.',
     captive: 'zvíře je zjevně v zajetí nebo chované člověkem: je ve výběhu, kleci nebo ohradě, za pletivem nebo mříží, za sklem terária nebo akvária, mezi umělými skalami, betonovými zdmi a dalšími stavbami zoo, u misky s krmením, má obojek nebo vodítko, je v ruce, v bytě chovatele nebo na jednobarevném studiovém pozadí. Volně žijící zvíře v prostředí, kde jeho druh běžně žije i vedle lidí, v zajetí není a je v pořádku: hmyz nebo pavouk na zdi, okně, nábytku či zábradlí, pták na střeše, plotě nebo ve městě, ještěrka na zídce, veverka v parku. Domácí zvíře (pes, kočka, kůň, ovce, skot a podobně) smí být venku na pastvě, na dvoře nebo v krajině, ne však v kleci, v místnosti ani ve studiu',
   },
   rostliny: {
@@ -111,21 +112,34 @@ const foreignFactsPrompt = (slug, kingdom, id) => `Pracuješ na dětské výukov
 
 Jako výsledek vrať jen slovo HOTOVO.`
 
-// Fotky živočichů, které dřív zamítlo jen lidské prostředí (zeď, okno, nábytek, město), ačkoli zvíře žilo volně.
-const restorePrompt = (slug, kingdom, id) => `Kontroluješ fotky dětského kvízu o přírodě (děti od 10 let). Tyto fotky dřív zamítla kontrola, protože zvíře nebylo v divoké krajině, ale v lidském prostředí (na zdi, okně, nábytku, zábradlí, ve městě nebo na zahradě). To pravidlo bylo příliš přísné: hra nechce jen zvířata v zajetí. Volně žijící zvíře v prostředí, kde jeho druh běžně žije i vedle lidí, je v pořádku.
+// Fotky živočichů zamítnuté podle pravidla, které bylo příliš přísné: h_ lidské prostředí kolem volně žijícího zvířete,
+// s_ jen schránka u živočichů, kteří ve schránce žijí.
+const RESTORE = {
+  h: {
+    why: 'protože zvíře nebylo v divoké krajině, ale v lidském prostředí (na zdi, okně, nábytku, zábradlí, ve městě nebo na zahradě). To pravidlo bylo příliš přísné: hra nechce jen zvířata v zajetí. Volně žijící zvíře v prostředí, kde jeho druh běžně žije i vedle lidí, je v pořádku.',
+    now: 'lidské prostředí kolem volně žijícího zvířete',
+    extra: '',
+  },
+  s: {
+    why: 'protože ukazovaly jen schránku (ulitu, lasturu) nebo zavřeného mlže, ne viditelně živé zvíře. U živočichů, kteří žijí převážně ve schránce (plži, mlži, svijonožci, ramenonožci), je to v pořádku: celá schránka v přírodě dítěti druh dobře ukáže.',
+    now: 'to, že je vidět jen schránka nebo zavřený mlž',
+    extra: '\n- je to celá nepoškozená schránka (nebo zvíře) v přírodě, ne v muzeu, ve sbírce, v ruce, na stole ani na jednobarevném pozadí, a znaky druhu na ní jdou dobře poznat;',
+  },
+}
+const restorePrompt = (slug, kingdom, id) => { const r = RESTORE[id[0]]; return `Kontroluješ fotky dětského kvízu o přírodě (děti od 10 let). Tyto fotky dřív zamítla kontrola, ${r.why}
 
 Přečti ${root}/data/${slug}/review_jobs/${id}.json. Každá položka má "species", "latin", "image" (cesta relativní k ${root}) a "rejected" s původním důvodem zamítnutí. Každou fotku si prohlédni nástrojem Read.
 Do "restore_photos" dej fotku, jen pokud splňuje všechno:
-- je to ${KIND[kingdom].good} a ukazuje druh "species" ("latin"), vzhled druhu odpovídá;
-- není to kresba, sken z knihy, ${KIND[kingdom].bad}, mrtvý nebo poškozený organismus, krev ani nic nevhodného pro děti, a nemá nápis nebo popisek prozrazující druh;
+- je to ${KIND[kingdom].good} nebo podle výjimky výše, ukazuje druh "species" ("latin") a vzhled druhu odpovídá;
+- není to kresba, sken z knihy, ${KIND[kingdom].bad}, poškozený organismus, krev ani nic nevhodného pro děti, a nemá nápis nebo popisek prozrazující druh;
 - neplatí, že ${KIND[kingdom].hard};
-- zvíře není v zajetí: nesmí platit, že ${KIND[kingdom].captive}.
-Kvalitu posuzuj stejně přísně jako dřív, raději žádnou fotku než špatnou. Důvodem k zamítnutí už jen není lidské prostředí kolem volně žijícího zvířete. Když si nejsi jistý, fotku nevracej.
+- zvíře není v zajetí: nesmí platit, že ${KIND[kingdom].captive};${r.extra}
+Kvalitu posuzuj stejně přísně jako dřív, raději žádnou fotku než špatnou. Důvodem k zamítnutí už jen není ${r.now}. Když si nejsi jistý, fotku nevracej.
 
 Zapiš nástrojem Write do ${root}/data/${slug}/review/${id}.json jen tento JSON (pole může být prázdné):
 {"restore_photos": [{"species_id": "Q1", "i": 0, "why": "krátký důvod"}]}
 
-Jako výsledek vrať jen slovo HOTOVO.`
+Jako výsledek vrať jen slovo HOTOVO.` }
 
 const factsPrompt = (slug, kingdom, id) =>`Pracuješ na dětské výukové hře o přírodě pro děti od 10 let. Projekt je v adresáři ${root}.
 
@@ -133,7 +147,7 @@ const factsPrompt = (slug, kingdom, id) =>`Pracuješ na dětské výukové hře 
    Hlavička obsahuje název druhu, cílový POČET TVRZENÍ a seznam FOTEK (relativní cesty k ${root}).
 2. Prohlédni si každou fotku nástrojem Read a posuď ji. Schval (ok: true) jen ${KIND[kingdom].good} a která vzhledem, názvem souboru i popisem odpovídá tomuto druhu.
    Zamítni (ok: false): ${K(kingdom, 'art')}, ${KIND[kingdom].bad}, jiný druh, fotku se dvěma různými druhy, fotku, kde je hlavní člověk, a fotku s nápisem prozrazujícím název druhu.
-   ${WILD(kingdom)}
+   ${WILD(kingdom)} ${KIND[kingdom].shells || ''}
 3. ${FACT_RULES(kingdom)}
    U každého tvrzení uveď "quote": DOSLOVNÝ úsek textu článku (bez hlavičky), který tvrzení dokládá. Kopíruj přesně, program ho hledá v článku.
 4. Zapiš nástrojem Write do souboru ${root}/data/${slug}/facts/${id}.json tento JSON a nic jiného:
@@ -147,7 +161,7 @@ const photosPrompt = (slug, kingdom, id) => `Posuzuješ další fotky k dětské
 Přečti ${root}/data/${slug}/photo_jobs/${id}.json ("species", "latin" a seznam "photos") a každou fotku ("image", cesta relativní k ${root}) si prohlédni nástrojem Read.
 Schval (ok: true) jen ${KIND[kingdom].good} a která vzhledem, názvem souboru i popisem odpovídá tomuto druhu a dobře ukazuje druh${K(kingdom, 'where')}.
 Zamítni (ok: false): ${K(kingdom, 'art')}, ${KIND[kingdom].bad}, jiný druh, fotku se dvěma různými druhy, fotku, kde je hlavní člověk, a fotku s nápisem prozrazujícím název druhu. Zamítni i fotku, kde ${KIND[kingdom].hard}.
-${WILD(kingdom)}
+${WILD(kingdom)} ${KIND[kingdom].shells || ''}
 
 Zapiš nástrojem Write do souboru ${root}/data/${slug}/more_photos/${id}.json jen tento JSON s položkou pro každou fotku:
 {"photos": [{"i": 0, "ok": true, "why": "krátký důvod"}]}
@@ -206,7 +220,7 @@ Do "reject_photos" dej každou fotku, která:
 - obsahuje nápis nebo popisek prozrazující druh;
 - ${KIND[kingdom].hard}, takže znaky druhu nejde rozeznat;${KIND[kingdom].captive ? `
 - nevypadá ani na první pohled jako z volné přírody, protože ${KIND[kingdom].captive}.` : ''}
-Fotku samotného druhu z běžného úhlu, u níž pouze nejde odlišit velmi podobné příbuzné, ponech.${KIND[kingdom].captive ? ' Fotku ze zoo nebo zahrady, která na první pohled vypadá jako z volné přírody, ponech.' : ''}
+Fotku samotného druhu z běžného úhlu, u níž pouze nejde odlišit velmi podobné příbuzné, ponech.${KIND[kingdom].captive ? ' Fotku ze zoo nebo zahrady, která na první pohled vypadá jako z volné přírody, ponech.' : ''} ${KIND[kingdom].shells || ''}
 
 Zapiš nástrojem Write do ${root}/data/${slug}/review/${id}.json jen tento JSON (pole může být prázdné):
 {"reject_photos": [{"species_id": "Q1", "i": 0, "why": "krátký důvod"}]}
@@ -261,7 +275,7 @@ function run({ slug, kingdom, stage }, id) {
   if (stage === 'language') return agent(languagePrompt(slug, id), { label: `jazyk:${slug}:${id}`, phase: 'Jazyk' })
   if (stage === 'continents') return agent(continentsPrompt(slug, id), { label: `kontinenty:${slug}:${id}`, phase: 'Kontinenty', model: 'sonnet' })
   const prompt = id.startsWith('f_') ? factReviewPrompt(slug, id) : id.startsWith('w_') ? wildPrompt(slug, kingdom, id)
-    : id.startsWith('h_') ? restorePrompt(slug, kingdom, id) : photoReviewPrompt(slug, kingdom, id)
+    : id.startsWith('h_') || id.startsWith('s_') ? restorePrompt(slug, kingdom, id) : photoReviewPrompt(slug, kingdom, id)
   return agent(prompt, { label: `kontrola:${slug}:${id}`, phase: 'Přísná kontrola' })
 }
 

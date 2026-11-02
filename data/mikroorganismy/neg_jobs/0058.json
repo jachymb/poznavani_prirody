@@ -1,0 +1,170 @@
+{
+ "facts": [
+  {
+   "id": "Q160821#0",
+   "species": "Vibrio cholerae",
+   "text": "Tento druh je původcem nemoci cholera.",
+   "quote": "Vibrio cholerae je původce cholery."
+  },
+  {
+   "id": "Q148731#1",
+   "species": "Aliivibrio fischeri",
+   "text": "Tento druh žije v mořské vodě.",
+   "quote": "která se vyskytuje v mořské vodě"
+  },
+  {
+   "id": "Q6646558#0",
+   "species": "Listonella anguillarum",
+   "text": "Způsobuje onemocnění ryb.",
+   "quote": "je zodpovědná za onemocnění ryb"
+  },
+  {
+   "id": "Q148731#0",
+   "species": "Aliivibrio fischeri",
+   "text": "Tento druh žije v symbióze s olihní sepiolou kropenatou.",
+   "quote": "Bakterie proslula svým symbiotickým vztahem s olihní sepiolou kropenatou"
+  },
+  {
+   "id": "Q6646558#1",
+   "species": "Listonella anguillarum",
+   "text": "Žije v mořské vodě.",
+   "quote": "která žije v mořské vodě"
+  },
+  {
+   "id": "Q160821#1",
+   "species": "Vibrio cholerae",
+   "text": "Přenáší se fekálně-orální cestou.",
+   "quote": "Přenáší se fekálně-orální cestou."
+  }
+ ],
+ "candidates": {
+  "Q129496606": {
+   "name": "Leishmania martiniquensis",
+   "latin": "Leishmania martiniquensis",
+   "family": "Trypanozomy",
+   "lead": "Leishmania martiniquensis je parazitický prvok infikující převážně psy, koně a skot. Způsobuje zoonotické onemocnění, což znamená, že může být přenášeno ze zvířat na lidi. Primárně se tento parazit vyskytuje v Thajsku, Myanmaru a Severní Americe, zaznamenán byl však i v Německu, Švýcarsku a Česku. Parazit je přenášen drobným krev sajícím hmyzem, jako je např. tiplík.\nV Česku byly popsány případy leishmaniózy u koní v Olomouckém, Pardubickém a Ústeckém kraji, a jeden případ byl i zaznamenán v rak",
+   "facts": [
+    "Přenáší ho drobný hmyz, který sává krev, například tiplík.",
+    "Nakazí převážně psy, koně a skot.",
+    "Přímo se nepřenáší z koně na člověka.",
+    "U koní způsobuje pupínky nebo uzly."
+   ]
+  },
+  "Q155891": {
+   "name": "Mycobacterium leprae",
+   "latin": "Mycobacterium leprae",
+   "family": "Mycobacteriaceae",
+   "lead": "Mycobatecterium leprae je bakterie, která se většinou vyskytuje v teplých tropických zemích, způsobující lepru („Hansenova nemoc“). Je to intracelulární, pleomorfní, acidorezistentní bakterie. M. leprae je aerobní bacillus obklopený charakteristickým voskovým povlakem, jenž je unikátní pro mykobakterie. Ve velikosti a tvaru se velmi podobá Mycobacterium tuberculosis.\nTato bakterie se vyskytovala například v Anglii. Byla objevena roku 1873 norským lékařem Gerhardem Armauerem Hansenem (1841–1912),",
+   "facts": [
+    "Způsobuje nemoc, které se říká Hansenova.",
+    "Tento druh se nejčastěji vyskytuje v teplých tropických zemích."
+   ]
+  },
+  "Q221179": {
+   "name": "Streptococcus pneumoniae",
+   "latin": "Streptococcus pneumoniae",
+   "family": "Streptococcaceae",
+   "lead": "Streptococcus pneumoniae, též pneumokok, je grampozitivní alfa-hemolytický, aerotolerantní anaerobní kok z rodu Streptococcus. Tato bakterie je významným lidským patogenem, byla identifikována jako hlavní příčina pneumonie konce 19. století a je předmětem mnoha studií humorální imunity.\nNavzdory svému názvu tento mikrob způsobuje, kromě pneumonie, řadu dalších onemocnění, jako je akutní sinusitida, zánět středního ucha, meningitida, bakteriémie, sepse, osteomyelitida, septická artritida, endokar",
+   "facts": [
+    "Žije v horních cestách dýchacích u dětí.",
+    "Tento druh je nejčastější příčinou bakteriální meningitidy u dětí."
+   ]
+  },
+  "Q517258": {
+   "name": "Enterokok",
+   "latin": "Enterococcus",
+   "family": "Enterococcaceae",
+   "lead": "Enterokok (Enterococcus) je rozsáhlý rod bakterií mléčného kvašení z kmene Firmicutes. Jsou to grampozitivní koky, které se často vyskytují v párech či krátkých řetězcích. Jsou fakultativně anaerobní organismy – mohou žít v prostředí na kyslík jak chudém, tak bohatém.\nTento rod bakterií je vzhledově podobný streptokokům a jeho příslušníci byli do roku 1984 klasifikováni jako streptokoky skupiny D, o samostatnosti rodu rozhodla až analýza rodové DNA.\nProdukují želatinázu (jedna z kolagenáz), adhe",
+   "facts": [
+    "Tento druh může způsobit zánět močových cest.",
+    "Tento druh se běžně vyskytuje v lidské střevní mikroflóře."
+   ]
+  },
+  "Q3018329": {
+   "name": "Orientia tsutsugamushi",
+   "latin": "Orientia tsutsugamushi",
+   "family": "Rickettsiaceae",
+   "lead": "Orientia tsutsugamushi (dříve Rickettsia tsutsugamushi) je obligátní intracelulární parazitická gramnegativní bakterie z řádu Rickettsiales způsobující nemoc zvanou cucugamuši neboli křovinný tyfus, někdy také nazývanou japonská říční horečka. Bakterie je přenášena larvami roztočů rodu Leptotrombidium.\n\n\n== Taxonomie ==\nBakterie byla původně klasifikována jako Theileria tsutsugamushi, ale v roce 1995 byla překlasifikována na Orientia tsutsugamushi, vzhledem k významně odlišným fenotypovým i geno",
+   "facts": [
+    "Způsobuje nemoc zvanou křovinný tyfus.",
+    "Tento druh přenášejí larvy roztočů."
+   ]
+  },
+  "Q2658061": {
+   "name": "Sarcocystis",
+   "latin": "Sarcocystis",
+   "family": "Sarcocystidae",
+   "lead": "Sarcocystis (ze starořeckého σάρξ (sáarx) – maso a κύστις (kúystis) – měchýř), česky jako svalovky, je rod parazitických, obligátně dvouhostitelských kokcidií. Jejich definitivními hostiteli jsou masožravci – např. savci, dravci a sovy, hadi, apod. Nejméně dva známé druhy (S. suihominis a S. bovihominis) napadají jako definitivního hostitele člověka. Člověk však může vystupovat i v roli\nmezihostitele.\nJejich životní cyklus často zahrnuje predátora jako definitivního hostitele a jeho kořist jako ",
+   "facts": [
+    "Definitivními hostiteli jsou masožravci, například dravci a sovy.",
+    "Kořist slouží jako mezihostitel, predátor jako definitivní hostitel.",
+    "Cysty najdeme ve svalech mezihostitele, třeba v jazyku nebo srdci.",
+    "Člověk se může nakazit jedením syrového masa.",
+    "Důkladným vařením masa se nákaze dá zabránit.",
+    "Nákazy jsou časté u domácích zvířat, třeba skotu nebo ovcí."
+   ]
+  },
+  "Q288725": {
+   "name": "Trepka zelená",
+   "latin": "Paramecium bursaria",
+   "family": "Parameciidae",
+   "lead": "Trepka zelená (Paramecium bursaria) je mikroskopický nálevník. Je příbuzná trepce velké. Jako jediná z rodu trepek tvoří v symbiotické vztahy se zelenými řasami rodu Chlorella, které žijí v její cytoplazmě a poskytují ji potravu výměnou za možnost pohybu a ochranu. Trepka zelená je 80–150 μm dlouhá s širokými buněčnými ústy a dvěma kontraktilními vakuolami, jedním jádrem a makronukleem.",
+   "facts": [
+    "Měří 80 až 150 mikrometrů."
+   ]
+  },
+  "Q11353967": {
+   "name": "Brucella pinnipediae",
+   "latin": "Brucella pinnipediae",
+   "family": "Brucellaceae",
+   "lead": "Brucella pinnipediae je gramnegativní kokovitá bakterie z rodu Brucella. Jedná se o nepohyblivé, striktně aerobní, kataláza pozitivní bakterie. Je původcem brucelózy u mořských savců, zejména u delfínů, velryb, tuleňů a lachtanů. Možnost přenosu na člověka není dostatečně známa, nicméně v roce 1999 byl zdokumentován první případ infekce jednoho laboratorního pracovníka v Anglii, který se nakazil\npři manipulaci s bakteriemi Brucella spp. izolovaných z tuleňů.",
+   "facts": [
+    "Jeden laboratorní pracovník se nakazil při práci s bakteriemi z tuleňů."
+   ]
+  },
+  "Q5201274": {
+   "name": "Cystoisospora",
+   "latin": "Cystoisospora",
+   "family": "Sarcocystidae",
+   "lead": "Cystoisospora je rod jednohostitelských kokcidií, které ale mohou tvořit spící stadia v jiném než definitivním hostiteli.\nRod Cystoisospora vznikl vydělením z rodu Isospora na základě některých morfologických odlišností (cystoisospory nemají Stiedova tělíska), díky zvláštnostem v životním cyklu a také proto, že recentní analýzy DNA naznačují bližší příbuznost cystoisospor s dalšími rody čeledi Sarcocystidae než s isosporami (čeleď Eimeriidae)\n\n\n== Morfologie oocyst ==\nOocysty jsou kulovité, spor",
+   "facts": [
+    "Spící stadia tvoří nejčastěji v hlodavcích.",
+    "Některé druhy způsobují průjmy a zpomalení růstu."
+   ]
+  },
+  "Q1756496": {
+   "name": "Blastocystis",
+   "latin": "Blastocystis",
+   "family": "Blastocystidae",
+   "lead": "Blastocystis (Blastocystis sp.) je rod jednobuněčných parazitárních organismů, aktuálně zařazený do kmene Stramenopila (Heterokonta). Jedná se o organismus s nízkou hostitelskou specificitou. Mezi jeho hostitele patří hmyz, plazi, ptáci a savci včetně člověka. Infekce probíhá orálně; parazit se dostává trávicím traktem do tlustého střeva, kde se rozmnožuje.\n\n\n== Historie ==\nV roce 1849 během epidemie cholery v Londýně dva britští badatelé, Frederick Brittan a Joseph Griffiths Swayne, nezávisle n",
+   "facts": [
+    "Parazituje na hmyzu, plazech, ptácích a savcích, včetně člověka.",
+    "Rozmnožuje se v tlustém střevě hostitele.",
+    "Nakazí se požitím kontaminované potraviny nebo vody.",
+    "Nejčastěji se nachází ve vzorcích lidské stolice.",
+    "Infekce častěji postihuje dospělé než děti.",
+    "Infekční cysta opouští tělo hostitele ve stolici."
+   ]
+  },
+  "Q139928": {
+   "name": "Yersinia pseudotuberculosis",
+   "latin": "Yersinia pseudotuberculosis",
+   "family": "Yersiniaceae",
+   "lead": "Bakterie Yersinia pseudotuberculosis (rod Yersinia, čeleď Enterobacteriaceae) je původcem pseudotuberkulózy – bakteriálního onemocnění savců i ptáků, které je charakterizováno akutní septikémií a tvorbou sýrovitých uzlů (kaseózních nodulů) ve viscerálních orgánech, připomínajících tuberkulózní granulomy.\n\n\n== Morfologie ==\nY. pseudotuberculosis představuje gramnegativní (G-) pleomorfní tyčky o průměrné velikosti 0,5 x 0,8-5,0 µm. Netvoří spory ani pouzdro. V zorném poli se nachází jednotlivě, ve",
+   "facts": [
+    "Způsobuje bakteriální onemocnění savců i ptáků.",
+    "Tento druh rychle hyne na slunečním světle, v suchu i v teple."
+   ]
+  },
+  "Q288311": {
+   "name": "Rhodococcus",
+   "latin": "Rhodococcus",
+   "family": "Nocardiaceae",
+   "lead": "Rhodococcus je rod bakterií, do kterého spadá asi 37 druhů. Jedná se o grampozitivní bakterie, které mohou mít tvar tyčinek i koků. Většina Rhodokoků se vyskytuje u zvířat a vzácně dochází k přenosu na člověka. Významným patogenem jsou zejména pro pacienty s rozvinutým AIDS. Hlavním zástupcem je Rhodococcus equi, který se často vyskytuje u koní. U imunosuprimovaných osob vyvolává často pneumonie.\nFaktorem virulence je jeho pouzdro a enzym cholesteroloxidáza, která lyzuje buněčné membrány.",
+   "facts": [
+    "Většina těchto bakterií žije u zvířat a jen vzácně přechází na člověka.",
+    "Často způsobuje zápal plic u lidí se slabou imunitou."
+   ]
+  }
+ }
+}

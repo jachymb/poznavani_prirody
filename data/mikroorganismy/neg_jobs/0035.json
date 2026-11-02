@@ -1,0 +1,158 @@
+{
+ "facts": [
+  {
+   "id": "Q1796255#1",
+   "species": "Oscillatoria princeps",
+   "text": "Její vlákna mají velmi širokou buněčnou stěnu.",
+   "quote": "Její dlouhá vlákna mají velice širokou buněčnou stěnu"
+  },
+  {
+   "id": "Q310362#1",
+   "species": "Lyngbya",
+   "text": "Vlákna se nevětví a mají zhruba stejnou šířku po celé délce.",
+   "quote": "Nevětví se a vlákno má po celé délce přibližně stejnou šířku."
+  },
+  {
+   "id": "Q1796255#0",
+   "species": "Oscillatoria princeps",
+   "text": "Pohybuje se klouzavým pohybem.",
+   "quote": "Pohybuje se klouzavým pohybem"
+  },
+  {
+   "id": "Q310362#0",
+   "species": "Lyngbya",
+   "text": "Některé druhy tvoří jedovaté látky, které mohou způsobit zdravotní potíže.",
+   "quote": "Cyanotoxiny některých druhů mohou způsobovat zdravotní potíže."
+  }
+ ],
+ "candidates": {
+  "Q131268": {
+   "name": "Clostridium botulinum",
+   "latin": "Clostridium botulinum",
+   "family": "Clostridiaceae",
+   "lead": "Clostridium botulinum je velká grampozitivní tyčinkovitá bakterie, která produkuje neurotoxin botulotoxin, způsobující ochrnutí svalů označované jako botulismus. Tento toxin je také hlavní složkou v botoxových injekcích používaných k odstraňování vrásek. C. botulinum je sporulující anaerob, tvořící oválné subterminální endospory. Běžně se vyskytuje v půdě. Její rozměry jsou asi 1 x 10 μm. Bakterie\nje pohyblivá.\n\n\n== Mikrobiologie ==\nC. botulinum je tyčinkovitý mikroorganismus. Je obligatorně ana",
+   "facts": [
+    "Běžně se vyskytuje v půdě.",
+    "Produkuje neurotoxin, který způsobuje ochrnutí svalů.",
+    "Měří asi 1 x 10 mikrometrů.",
+    "Za nepříznivých podmínek tvoří endospory, aby přežila."
+   ]
+  },
+  "Q830142": {
+   "name": "Rhizobium",
+   "latin": "Rhizobium",
+   "family": "Rhizobiaceae",
+   "lead": "Rhizobium je rod gramnegativních půdních bakterií z řádu Rhizobiales, které fixují dusík. Patří mezi tzv. hlízkové bakterie, vyskytují se v hlízkách bobovitých rostlin.\nRhizobium a příbuzné rody (Bradyrhizobium, Sinorhizobium) patří do skupiny α-proteobakterií. Jsou to tyčinkovité pohyblivé bakterie, které vstupují do vnitřního prostředí kořenového vlášení a stimulují vytvoření morfologických struktur zvaných noduly či česky hlízky, uvnitř kterých pak fixace dusíku probíhá.\n\n\n== Druhy ==",
+   "facts": [
+    "Žije v hlízkách bobovitých rostlin.",
+    "Fixuje dusík uvnitř hlízek."
+   ]
+  },
+  "Q134950": {
+   "name": "Vápenatka mnohohlavá",
+   "latin": "Physarum polycephalum",
+   "family": "Physaridae",
+   "lead": "Vápenatka mnohohlavá (Physarum polycephalum) je měňavkovitý prvok řazený do kmene hlenky, říše Amoebozoa. Tvoří nápadné plazmódium žluté barvy.\n\n\n== Výskyt a potrava ==\nVápenatka se živí bakteriemi, houbami, ale také drobnými kusy organického materiálu. Je to tedy heterotrofní organismus, který má významnou roli i v rozkladu látek v lesích. Najdeme ji proto v temných vlhkých částech lesů mírného pásu, ale může se přesunout do slunnějších míst, pokud tvoří plodnici.\n\n\n== Životní cyklus ==\nVegetat",
+   "facts": [
+    "Živí se bakteriemi, houbami a drobnými kusy organického materiálu.",
+    "Některá plazmódia měla plochu 5,54 metru čtverečního."
+   ]
+  },
+  "Q870849": {
+   "name": "Brucella ovis",
+   "latin": "Brucella ovis",
+   "family": "Brucellaceae",
+   "lead": "Brucella ovis je gramnegativní kokovitá bakterie z rodu Brucella. Jedná se o nepohyblivé, striktně aerobní bakterie. V porovnání s ostatními zástupci rodu Brucella jsou nejméně metabolicky aktivní. K infekci jsou vnímavé pouze ovce, na člověka se nepřenáší. Bakterie B. ovis způsobují brucelózu ovcí, u samců označovanou také jako infekční epididymitida beranů. U beranů dochází k zánětům varlat a\nnadvarlat, u březích bahnic je napadána placenta a dochází k potratům.",
+   "facts": [
+    "Nakazí jen ovce, na člověka se nepřenáší.",
+    "U březích ovcí způsobuje potraty."
+   ]
+  },
+  "Q68528412": {
+   "name": "Cryptobia helicis",
+   "latin": "Cryptobia helicis",
+   "family": "Cryptobiidae",
+   "lead": "Cryptobia helicis je symbiontem plicnatých plžů (Pulmonata) a patří do třídy kinetoplastida. Byla objevena americkým paleontologem, parazitologem a anatomem Josephem Leidym.\n\n\n== Objev ==\nCryptobia helicis objevil a popsal v roce 1846 Joseph Leidy. Nalezl ho v materiálu odebraného z rozmnožovacího ústrojí tří druhů suchozemských plicnatých plžů, které nasbíral v okolí Filadelfie v Pensylvánii (USA).\n\n\n== Morfologie ==\nVelikost C. helicis se pohybuje od 11,25 × 1,25 μm do 27 × 2,25 μm. Tělo má le",
+   "facts": [
+    "Tento druh žije v symbióze s plicnatými plži.",
+    "Živí se bakteriemi."
+   ]
+  },
+  "Q137103": {
+   "name": "Bordetella pertussis",
+   "latin": "Bordetella pertussis",
+   "family": "Alcaligenaceae",
+   "lead": "Bordetella pertussis je gramnegativní nepohyblivý striktně aerobní kokobacil bez pouzdra. Způsobuje závažné onemocnění respiračního traktu zvané černý kašel. Je náročný na kultivaci a roste až po třech dnech.\n\n\n== Historie ==\nČerný kašel je relativně nové onemocnění. Jako první popsal onemocnění francouzský lékař Guillaume de Baillou po epidemii v roce 1578. Původce onemocnění poté izolovali a identifikovali Jules Bordet a Octave Gengou.\n\n\n== Taxonomie ==\nRod Bordetella obsahuje devět druhů, B. ",
+   "facts": [
+    "Způsobuje černý kašel, závažné onemocnění dýchacích cest.",
+    "Jeho hostitelem je jen člověk, mimo něj nepřežije.",
+    "Pěstování je náročné, roste až po třech dnech.",
+    "Nepohybuje se a nemá pouzdro."
+   ]
+  },
+  "Q1950818": {
+   "name": "Leishmania tropica",
+   "latin": "Leishmania tropica",
+   "family": "Trypanozomy",
+   "lead": "Leishmania tropica je parazitickým prvokem způsobujícím kožní leishmaniózu. Je přenášena při kousnutí hmyzím vektorem rodu Phlebotomus. Dříve se předpokládalo, že se jedná pouze o antroponózu (onemocnění postihující výhradně člověka), v současnosti byla prokázána přítomnost zvířecích rezervoárů, jimiž mohou být například psi nebo damani na některých místech v Izraeli.\n\n\n== Morfologie ==\nCelá třída Kinetoplastea je charakterizovaná přítomností kinetoplastu, úseku mitochondrie s velkým obsahem DNA",
+   "facts": [
+    "Přenáší ji kousnutí hmyzu.",
+    "Na některých místech mohou být rezervoárem nákazy psi."
+   ]
+  },
+  "Q132592": {
+   "name": "Klebsiella pneumoniae",
+   "latin": "Klebsiella pneumoniae",
+   "family": "Enterobacteriaceae",
+   "lead": "Klebsiella pneumoniae je gramnegativní, nepohyblivá, zapouzdřená, laktózu fermentující, fakultativně anaerobní tyčinkovitá bakterie tvořící součást běžné flóry v ústech, trávicím traktu a na kůži. Je klinicky nejvýznamnějším členem rodu Klebsiella z čeledi Enterobacteriaceae. Je blízkou příbuznou bakterie K. oxytoca, od které se liší svou indol-negativitou a schopností růst jak na melezitóze, tak\nna 3-hydroxybutyrátu. Přirozeně se vyskytuje v půdě a zhruba 30 % kmenů dokáže za anaerobních podmín",
+   "facts": [
+    "Tento druh způsobuje mnoho infekcí, které lidé získají v nemocnici.",
+    "Zhruba 30 % kmenů tohoto druhu umí vázat dusík bez kyslíku."
+   ]
+  },
+  "Q220392": {
+   "name": "Zooxanthela",
+   "latin": "Zooxanthellae",
+   "family": "Symbiodiniaceae",
+   "lead": "Zooxanthela je označení pro jednobuněčnou fotosyntetizující řasu především z řádu obrněnek (Dinoflagellata) a někdy rozsivek (Bacillariophyceae), které žijí v endosymbióze s různými živočichy.\nMezi živočichy, kteří mají zooxanthely, patří mřížovci, korálnatci, medúzy, mlži a někteří zadožábří.\nNěkdy se řadí do společného rodu Symbiodinium, který je pravděpodobně monofyletický.\nPodobný termín je zoochlorella, endosymbiotický organismus z rodu Chlorella (zelené řasy).",
+   "facts": [
+    "Žije v symbióze s korálnatci, medúzami a mlži.",
+    "Tento druh je jednobuněčná řasa, která fotosyntetizuje."
+   ]
+  },
+  "Q140004": {
+   "name": "Serratia marcescens",
+   "latin": "Serratia marcescens",
+   "family": "Yersiniaceae",
+   "lead": "Serratia marcescens je druh tyčinkovité, gramnegativní bakterie z čeledi Yersiniaceae. Je to fakultativní anaerobní bakterie a oportunistický patogen u lidí. Objevil ji Bartolomeo Bizio v Itálii roku 1819. S. marcescens se běžně podílí na infekcích získaných v nemocnicích (HAI), nazývaných také nozokomiální infekce, zejména na infekcích získaných z katetru, infekcích močových cest a infekcích ran,\na je zodpovědná za 1,4 % případů HAI ve Spojených státech. Běžně se vyskytuje v dýchacích a močovýc",
+   "facts": [
+    "Živí se mastnými látkami, například zbytky mýdla.",
+    "U lidí může způsobit infekce močových cest, dýchacích cest a ran.",
+    "Může způsobit smrtelnou nemoc bource morušového.",
+    "Je zodpovědná za 1,4 % infekcí získaných v nemocnicích ve Spojených státech."
+   ]
+  },
+  "Q1954952": {
+   "name": "Micrococcus",
+   "latin": "Micrococcus",
+   "family": "Micrococcaceae",
+   "lead": "Micrococcus je rod grampozitivních bakterií z kmene Actinobacteria, které mají buňky asi 0,5–3 µm. Jejich kokovité buňky jsou zpravidla uspořádané v tetrádách (po čtyřech). Je pro ně typický velký obsah GC, až 65–75 %. V buňce bývají často přítomné plazmidy.\n\n\n== Výskyt ==\nDruhy rodu Micrococcus se vyskytují se v různých prostředích, včetně vody, prachu a půdy. Mimo to se však vyskytují na lidské pokožce, v mléčných a jiných živočišných produktech i v pivu. Přestože jsou nesporulující, mohou pře",
+   "facts": [
+    "Většinou žijí jako komenzálové.",
+    "Některé mohou vyvolat nemoc, hlavně u lidí se sníženou imunitou."
+   ]
+  },
+  "Q131238": {
+   "name": "Bacillus subtilis",
+   "latin": "Bacillus subtilis",
+   "family": "Bacillaceae",
+   "lead": "Bacillus subtilis (česky někdy bacil senný) je grampozitivní sporulující aerobní bakterie. Je nepatogenní a žije v půdě.\nPatří mezi bakterie, které na těžký nedostatek výživných látek odpovídají tvorbou endospóry – morfologicky odlišného typu buňky. Termín endospóra je v užším smyslu vyhrazen pro útvary tvořené bacily a klostridiemi, ačkoli podobné spóry produkují i streptomycety. Endospóra je metabolicky stagnující a vůči podmínkám prostředí velmi odolná buňka schopná přežít teplotní extrémy, s",
+   "facts": [
+    "Žije v půdě.",
+    "Nezpůsobuje nemoci.",
+    "Při nedostatku živin vytvoří odolnou endospóru.",
+    "Využívá se v průmyslu k výrobě proteinů."
+   ]
+  }
+ }
+}

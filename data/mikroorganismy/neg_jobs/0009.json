@@ -1,0 +1,154 @@
+{
+ "facts": [
+  {
+   "id": "Q2133435#1",
+   "species": "Zrněnka",
+   "text": "Tento druh má kulový tvar, aby neztrácel vodu.",
+   "quote": "Zrněnky mají kulový tvar, aby neztrácely vodu."
+  },
+  {
+   "id": "Q2133435#0",
+   "species": "Zrněnka",
+   "text": "Tento druh tvoří zelené povlaky na kůře stromů nebo na skalách.",
+   "quote": "Žije na skalách nebo kůře stromů, kde vytváří zelené povlaky."
+  }
+ ],
+ "candidates": {
+  "Q12043982": {
+   "name": "Paulinella chromatophora",
+   "latin": "Paulinella chromatophora",
+   "family": "Paulinellidae",
+   "lead": "Paulinella chromatophora je prvok z kmene Cercozoa, třídy Silicofilosea (Imbricatea). Bylo prokázáno, že její plastidy (zvané cyanely) získal tento druh pohlcením sinice, ale zcela nezávisle od primární endosymbiotické události, díky níž má plastidy většina ostatních fotosyntetitujících eukaryot.\nJednalo se pravděpodobně o sinici z příbuzenstva rodů Prochlorococcus a Synechococcus, jak vyplývá ze sekvenace DNA z této unikátní cyanely, jejíž genom stále činí asi 14 000 bází.\nBlízce příbuznými dru",
+   "facts": [
+    "Tento druh získal plastidy pohlcením sinice.",
+    "Blízce příbuzné druhy mají také cyanely."
+   ]
+  },
+  "Q870849": {
+   "name": "Brucella ovis",
+   "latin": "Brucella ovis",
+   "family": "Brucellaceae",
+   "lead": "Brucella ovis je gramnegativní kokovitá bakterie z rodu Brucella. Jedná se o nepohyblivé, striktně aerobní bakterie. V porovnání s ostatními zástupci rodu Brucella jsou nejméně metabolicky aktivní. K infekci jsou vnímavé pouze ovce, na člověka se nepřenáší. Bakterie B. ovis způsobují brucelózu ovcí, u samců označovanou také jako infekční epididymitida beranů. U beranů dochází k zánětům varlat a\nnadvarlat, u březích bahnic je napadána placenta a dochází k potratům.",
+   "facts": [
+    "Nakazí jen ovce, na člověka se nepřenáší.",
+    "U březích ovcí způsobuje potraty."
+   ]
+  },
+  "Q137103": {
+   "name": "Bordetella pertussis",
+   "latin": "Bordetella pertussis",
+   "family": "Alcaligenaceae",
+   "lead": "Bordetella pertussis je gramnegativní nepohyblivý striktně aerobní kokobacil bez pouzdra. Způsobuje závažné onemocnění respiračního traktu zvané černý kašel. Je náročný na kultivaci a roste až po třech dnech.\n\n\n== Historie ==\nČerný kašel je relativně nové onemocnění. Jako první popsal onemocnění francouzský lékař Guillaume de Baillou po epidemii v roce 1578. Původce onemocnění poté izolovali a identifikovali Jules Bordet a Octave Gengou.\n\n\n== Taxonomie ==\nRod Bordetella obsahuje devět druhů, B. ",
+   "facts": [
+    "Způsobuje černý kašel, závažné onemocnění dýchacích cest.",
+    "Jeho hostitelem je jen člověk, mimo něj nepřežije.",
+    "Pěstování je náročné, roste až po třech dnech.",
+    "Nepohybuje se a nemá pouzdro."
+   ]
+  },
+  "Q131003": {
+   "name": "Toxoplasma gondii",
+   "latin": "Toxoplasma gondii",
+   "family": "Sarcocystidae",
+   "lead": "Toxoplasma gondii (Nicolle et Manceaux, 1908) čili kokcidie kočičí  je vnitrobuněčný parazitický prvok, vícehostitelská kokcidie, která parazituje v buňkách zvířat i člověka. Jejím definitivním hostitelem jsou kočkovité šelmy, mezihostitelem se může stát většina teplokrevných živočichů včetně člověka. Způsobuje toxoplazmózu (přičemž infikovanému plodu těhotné ženy hrozí úmrtí nebo vznik vážných\nvrozených vývojových vad). Nemocným s HIV může způsobit akutní zánět mozku. Rovněž může způsobit abort",
+   "facts": [
+    "Parazituje v buňkách zvířat i člověka.",
+    "Definitivním hostitelem jsou kočkovité šelmy.",
+    "Mezihostitelem může být většina teplokrevných živočichů.",
+    "Může způsobit abort u ovcí a koz."
+   ]
+  },
+  "Q131488": {
+   "name": "Campylobacter",
+   "latin": "Campylobacter",
+   "family": "Campylobacteraceae",
+   "lead": "Campylobacter je rod termofilních, podmíněně patogenních bakterií. Mají velmi široké hostitelské spektrum. Vyskytují se v trávicím traktu člověka i téměř u všech domácích a u velkého počtu divoce žijících zvířat. Pro dospělou drůbež jsou většinou nepatogenní, přesto je drůbež považována za primárního rezervoárového hostitele. U člověka jsou patogenní invazivní kmeny kampylobakterů příčinou\nalimentární intoxikace, projevující se jako střevní infekce připomínající salmonelózu. Přenášejí se nepřímo",
+   "facts": [
+    "Žijí v trávicím traktu člověka i u téměř všech domácích zvířat.",
+    "Drůbež je hlavní hostitel, i když jí většinou neškodí.",
+    "U lidí způsobují střevní infekci podobnou salmonelóze.",
+    "Přenášejí se potravinami a vodou, i přímým kontaktem."
+   ]
+  },
+  "Q131268": {
+   "name": "Clostridium botulinum",
+   "latin": "Clostridium botulinum",
+   "family": "Clostridiaceae",
+   "lead": "Clostridium botulinum je velká grampozitivní tyčinkovitá bakterie, která produkuje neurotoxin botulotoxin, způsobující ochrnutí svalů označované jako botulismus. Tento toxin je také hlavní složkou v botoxových injekcích používaných k odstraňování vrásek. C. botulinum je sporulující anaerob, tvořící oválné subterminální endospory. Běžně se vyskytuje v půdě. Její rozměry jsou asi 1 x 10 μm. Bakterie\nje pohyblivá.\n\n\n== Mikrobiologie ==\nC. botulinum je tyčinkovitý mikroorganismus. Je obligatorně ana",
+   "facts": [
+    "Běžně se vyskytuje v půdě.",
+    "Produkuje neurotoxin, který způsobuje ochrnutí svalů.",
+    "Měří asi 1 x 10 mikrometrů.",
+    "Za nepříznivých podmínek tvoří endospory, aby přežila."
+   ]
+  },
+  "Q2658061": {
+   "name": "Sarcocystis",
+   "latin": "Sarcocystis",
+   "family": "Sarcocystidae",
+   "lead": "Sarcocystis (ze starořeckého σάρξ (sáarx) – maso a κύστις (kúystis) – měchýř), česky jako svalovky, je rod parazitických, obligátně dvouhostitelských kokcidií. Jejich definitivními hostiteli jsou masožravci – např. savci, dravci a sovy, hadi, apod. Nejméně dva známé druhy (S. suihominis a S. bovihominis) napadají jako definitivního hostitele člověka. Člověk však může vystupovat i v roli\nmezihostitele.\nJejich životní cyklus často zahrnuje predátora jako definitivního hostitele a jeho kořist jako ",
+   "facts": [
+    "Definitivními hostiteli jsou masožravci, například dravci a sovy.",
+    "Kořist slouží jako mezihostitel, predátor jako definitivní hostitel.",
+    "Cysty najdeme ve svalech mezihostitele, třeba v jazyku nebo srdci.",
+    "Člověk se může nakazit jedením syrového masa.",
+    "Důkladným vařením masa se nákaze dá zabránit.",
+    "Nákazy jsou časté u domácích zvířat, třeba skotu nebo ovcí."
+   ]
+  },
+  "Q131027": {
+   "name": "Měňavka úplavičná",
+   "latin": "Entamoeba histolytica",
+   "family": "Entamoebidae",
+   "lead": "Měňavka úplavičná (Entamoeba histolytica) je parazitický prvok z říše Amoebozoa. Způsobuje lidskou měňavkovou úplavici a dále např. onemocnění jater. Vyskytuje se kosmopolitně, nejvíce však v rozvojových zemích (Mexiko, Vietnam, Indie, Egypt), kde je rozšířená kvůli špatné hygieně a teplému a vlhkému klimatu. Hlavním hostitelem je člověk, ale infikováni mohou být vzácně i psi, kočky a hlodavci.\nPřenáší se alimentární cestou značně odolnými cystami (fekálním znečištěním potravin a pitné vody). Ne",
+   "facts": [
+    "Tento druh se většinou živí bakteriemi ve střevě.",
+    "Parazituje hlavně na člověku."
+   ]
+  },
+  "Q309465": {
+   "name": "Clostridium perfringens",
+   "latin": "Clostridium perfringens",
+   "family": "Clostridiaceae",
+   "lead": "Clostridium perfringens (dříve též C. welchii) je grampozitivní tyčinkovitá anaerobní sporulující bakterie z rodu Clostridium. C. perfringens je v přírodě všudypřítomná a je běžně obsažena v rozkládající se vegetaci, mořském sedimentu, trávicí soustavě člověka i jiných obratlovců, na tělech hmyzu a v půdě.\n\n\n== Infekční charakteristika ==\nClostridium perfringens se běžně vyskytuje v infekcích jako benigní složka normální flóry. V tomto případě je její role při onemocnění malá.\nInfekce C. perfrin",
+   "facts": [
+    "Tento druh je nejčastějším bakteriálním původcem plynaté sněti.",
+    "Nemoc se objeví 6 až 24 hodin po požití.",
+    "Vytváří toxin, který zabíjí buňky.",
+    "Žije v půdě, v rozkládající se vegetaci i na tělech hmyzu."
+   ]
+  },
+  "Q135175": {
+   "name": "Nocardia",
+   "latin": "Nocardia",
+   "family": "Nocardiaceae",
+   "lead": "Nocardia (nokardie) je rod grampozitivních aerobních bakterií, tyčinkovitého tvaru, z kmene aktinobakterií. Často však tvoří vláknité vzdušné mycelium. Jejich buněčná stěna je podobná stěně mykobakterií.\nŘadíme k nim asi 85 druhů. Nokardie se vyskytují po celém světě především v půdě bohaté na humus.\nNěkteré z nokardií jsou oportunisticky patogenní (původci nokardióz). Nokardie, které infikují člověka, se do těla dostávají z půdy. V ohrožení onemocnění jsou zejména pacienti se sníženou imunitou ",
+   "facts": [
+    "Vyskytuje se po celém světě, především v půdě bohaté na humus.",
+    "Některé druhy způsobují nemoci u lidí."
+   ]
+  },
+  "Q1141979": {
+   "name": "Haemophilus influenzae",
+   "latin": "Haemophilus influenzae",
+   "family": "Q142666",
+   "lead": "Haemophilus influenzae je gramnegativní fakultativně anaerobní nepohyblivý opouzdřený kokobacil. Způsobuje hemofilovou nákazu.\n\n\n== Faktory virulence ==\nMezi hlavní faktor virulence patří pouzdro, které zvyšuje invazivitu H. influenzae. Za rozvoj zánětu je zodpovědný endotoxin Lipopolysacharid (LPS). Pomocí pilů a adhezinů je schopný adherovat na sliznice. IgA proteáza štěpí IgA slizniční protilátky.\n\n\n== Patogenita ==\nPůvodně byl považován za původce chřipky (od toho jeho název). Přenáší se kap",
+   "facts": [
+    "Způsobuje zánět mozkových blan, hlavně u dětí.",
+    "Přenáší se kapénkovou infekcí."
+   ]
+  },
+  "Q154625": {
+   "name": "Neisseria meningitidis",
+   "latin": "Neisseria meningitidis",
+   "family": "Neisseriaceae",
+   "lead": "Neisseria meningitidis (též meningococcus, meningokok) je gramnegativní diplokokální bakterie, původce jednoho typu meningitidy. Infikuje jen člověka, neexistuje žádný jiný přirozený rezervoár. Meningitida způsobená touto bakterií je také jedinou, která vyvolává epidemii.\nNeisseria meningitidis může obývat u některých lidí nosohltan a nevyvolávat žádné příznaky onemocnění. Nosiči jsou proti ní imunní, ale onemocnění se může přenést na jiné osoby. Po infikování je klinický obraz pestrý, od nasofa",
+   "facts": [
+    "Infikuje jen člověka.",
+    "U některých lidí žije v nosohltanu bez příznaků.",
+    "Přenáší se kapénkově.",
+    "Měří přibližně 1 μm."
+   ]
+  }
+ }
+}

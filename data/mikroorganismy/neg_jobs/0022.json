@@ -1,0 +1,168 @@
+{
+ "facts": [
+  {
+   "id": "Q311376#0",
+   "species": "Plasmodium vivax",
+   "text": "Přenáší ho komár, když kousne člověka.",
+   "quote": "K infekci dochází při kousnutí infikovaným komárem, který ve svých slinách přenese sporozoity do krevního oběhu člověka."
+  },
+  {
+   "id": "Q311376#1",
+   "species": "Plasmodium vivax",
+   "text": "Napadá mladé červené krvinky.",
+   "quote": "Merozoiti se uvolňují do krevního oběhu a napadají mladé červené krvinky (retikulocyty)."
+  },
+  {
+   "id": "Q311383#0",
+   "species": "Plasmodium falciparum",
+   "text": "Přenášejí ho samičky komárů.",
+   "quote": "začíná infikací samičky komára z rodu Anopheles, Culex nebo Aedes"
+  },
+  {
+   "id": "Q311376#3",
+   "species": "Plasmodium vivax",
+   "text": "Část parazitů zůstává v játrech a nemoc se může vrátit i po letech.",
+   "quote": "Někteří však zůstávají v játrech jako hypnozoiti, kteří mohou po týdnech až letech reaktivovat infekci."
+  },
+  {
+   "id": "Q311376#2",
+   "species": "Plasmodium vivax",
+   "text": "Způsobuje horečku, která se opakuje každých 48 hodin.",
+   "quote": "Napadené krvinky praskají synchronizovaně každých 48 hodin, což způsobuje tzv. malarickou horečku."
+  },
+  {
+   "id": "Q311383#1",
+   "species": "Plasmodium falciparum",
+   "text": "Tropická malárie ročně zabije více než 400 000 lidí.",
+   "quote": "má podle Světové zdravotnické organizace WHO ročně na svědomí více než 400 000 lidských životů"
+  }
+ ],
+ "candidates": {
+  "Q3614869": {
+   "name": "Nostoc azollae",
+   "latin": "Anabaena azollae",
+   "family": "Nostocaceae",
+   "lead": "Nostoc azollae (dříve Anabaena azollae) je gramnegativní fotosyntetizující bakterie ze třídy sinic (Cyanobacteria). Tento mikroorganismus tvoří symbiotické vztahy s drobnými kapradinami druhu azola (Azolla), díky čemuž hraje významnou roli při fixaci dusíku a jeho recyklaci v životním prostředí.\n\n\n== Historie objevu ==\nPrvní izolace sinice Nostoc azollae byla provedena roku 1979 z rostliny druhu Azolla caroliniana. Původně byla klasifikována jako Anabaena azollae (rod Anabaena), avšak na základě",
+   "facts": [
+    "Žije v symbióze s drobnými kapradinami.",
+    "Žije uvnitř listových dutin kapradiny.",
+    "Kapradina dodává sinici sacharidy.",
+    "Přenáší se z jedné kapradiny na druhou."
+   ]
+  },
+  "Q1950818": {
+   "name": "Leishmania tropica",
+   "latin": "Leishmania tropica",
+   "family": "Trypanozomy",
+   "lead": "Leishmania tropica je parazitickým prvokem způsobujícím kožní leishmaniózu. Je přenášena při kousnutí hmyzím vektorem rodu Phlebotomus. Dříve se předpokládalo, že se jedná pouze o antroponózu (onemocnění postihující výhradně člověka), v současnosti byla prokázána přítomnost zvířecích rezervoárů, jimiž mohou být například psi nebo damani na některých místech v Izraeli.\n\n\n== Morfologie ==\nCelá třída Kinetoplastea je charakterizovaná přítomností kinetoplastu, úseku mitochondrie s velkým obsahem DNA",
+   "facts": [
+    "Přenáší ji kousnutí hmyzu.",
+    "Na některých místech mohou být rezervoárem nákazy psi."
+   ]
+  },
+  "Q12043723": {
+   "name": "Panoženka měňavková",
+   "latin": "Mastigamoeba aspera",
+   "family": "Mastigamoebidae",
+   "lead": "Panoženka měňavková (Mastigamoeba aspera) tvoří přechod mezi bičíkovci a kořenonožci. Vedle mohutného bičíku má na těle i panožky. Žije na dně vod.",
+   "facts": [
+    "Má mohutný bičík a panožky.",
+    "Žije na dně vod."
+   ]
+  },
+  "Q130971": {
+   "name": "Mycobacterium tuberculosis",
+   "latin": "Mycobacterium tuberculosis",
+   "family": "Mycobacteriaceae",
+   "lead": "Mycobacterium tuberculosis (MTB) je patogenní bakterie z rodu Mycobacterium. Způsobuje většinu případů tuberkulózy. Poprvé byla objevena Robertem Kochem v roce 1882. Má neobvyklý voskový plášť na povrchu buňky (především z kyseliny mykolové), který je nepropustný pro Gramovo barvení; místo něj se proto používají acid-fast techniky. M. tuberculosis je vysoce aerobní, bakterie potřebuje vysoké\nhladiny kyslíku. Primárně je tato bakterie patogenem v dýchací ústrojí savců, napadá plíce, kde způsobuje",
+   "facts": [
+    "Způsobuje většinu případů tuberkulózy.",
+    "Napadá hlavně plíce savců.",
+    "Dělí se přibližně jednou za 15 až 20 hodin.",
+    "Množí se uvnitř makrofágů."
+   ]
+  },
+  "Q104443866": {
+   "name": "Nannochloropsis gaditana",
+   "latin": "Nannochloropsis gaditana",
+   "family": "Eustigmataceae",
+   "lead": "Nannochloropsis gaditana je fotosyntetizující mikroskopická řasa, zástupce rodu Nannochloropsis. Patří do třídy Eustigmatophyceae, což je skupina organismů vzniklých sekundární endosymbiózou červené řasy eukaryotní hostitelskou buňkou. Je považována za jednu z nejzajímavějších mořských řas, které jsou schopny produkovat biopaliva a mohou být součástí potravinových aditiv a to v důsledku vysoké\nrůstové rychlosti a schopnosti akumulovat velké množství lipidů.\n\n\n== Charakteristika ==\nN. gaditana je",
+   "facts": [
+    "Žije ve sladkých, brakických i slaných vodách.",
+    "Studuje se kvůli možné výrobě biopaliv.",
+    "Buňky mají průměr 2 až 3 μm.",
+    "Zkoumá se jako krmivo pro ryby v chovu."
+   ]
+  },
+  "Q78611696": {
+   "name": "Chaos carolinensis",
+   "latin": "Chaos carolinense",
+   "family": "Amoebidae",
+   "lead": "Chaos carolinensis nebo Chaos carolinense (měňavka karolínská) je druh velké volně žijící améby z říše Amoebozoa. Její buňky jsou mnohojaderné se složitou buněčnou strukturou a velikostní až 5 mm, čímž patří k jedním z největších známých jednobuněčných organismů.\n\n\n== Historie ==\nDruh byl objeven v 19. století v Severní Karolíně, podle čehož nese druhové jméno, a dlouhou dobu byl zaměňován s Chaos chaos nebo Amoeba proteus. Až molekulární analýzy ribozomální RNA potvrdily, že se jedná o samostat",
+   "facts": [
+    "Tento druh loví malé prvoky a bakterie.",
+    "Dokáže přežít až několik týdnů bez potravy."
+   ]
+  },
+  "Q12043982": {
+   "name": "Paulinella chromatophora",
+   "latin": "Paulinella chromatophora",
+   "family": "Paulinellidae",
+   "lead": "Paulinella chromatophora je prvok z kmene Cercozoa, třídy Silicofilosea (Imbricatea). Bylo prokázáno, že její plastidy (zvané cyanely) získal tento druh pohlcením sinice, ale zcela nezávisle od primární endosymbiotické události, díky níž má plastidy většina ostatních fotosyntetitujících eukaryot.\nJednalo se pravděpodobně o sinici z příbuzenstva rodů Prochlorococcus a Synechococcus, jak vyplývá ze sekvenace DNA z této unikátní cyanely, jejíž genom stále činí asi 14 000 bází.\nBlízce příbuznými dru",
+   "facts": [
+    "Tento druh získal plastidy pohlcením sinice.",
+    "Blízce příbuzné druhy mají také cyanely."
+   ]
+  },
+  "Q1950752": {
+   "name": "Leishmania donovani",
+   "latin": "Leishmania donovani",
+   "family": "Trypanozomy",
+   "lead": "Leishmania donovani je komplex příbuzných druhů protozoitních flagellátů z rodu Leishmania. Jejím jediným rezervoárem je člověk, u něhož způsobuje viscerální leishmaniózu, také známou jako nemoc kala-azar. Přenáší se infekčním kousnutím hmyzího vektoru, samičkou flebotoma (Phlebotomus).\n\n\n== Morfologie ==\nLeishmanie vytvářejí dvě morfologická stadia. Vnitrobuněční amastigoti, jejichž tvar je kulatý s velmi krátkým bičíkem nevyčnívajícím z periflagelární kapsy (proto vzniká dojem, že bičík schází",
+   "facts": [
+    "Přenáší ho samička flebotoma při kousnutí.",
+    "Způsobuje nemoc kala-azar."
+   ]
+  },
+  "Q116504956": {
+   "name": "Medakamo hakoo",
+   "latin": "Medakamo hakoo",
+   "family": "Coccomyxaceae",
+   "lead": "Medakamo hakoo je zelená sladkovodní řasa, objevená v roce 2015 vědci z Tokijské univerzity v domácím akváriu. Buňky této řasy měří přibližně jeden mikrometr, což ji řadí mezi nejmenší autotrofní organismy.\n\n\n== Objev ==\nObjev Medakamo hakoo byl náhodný, když si profesor Tsuneyoshi Kuroiwa z Tokijské univerzity všiml, že voda v nádrži jeho rybiček druhu medaka náhle zezelenala. Po prozkoumání pod mikroskopem odhalil růst velmi malých řas. Na základě tohoto objevu strávil tým z Katedry integrovan",
+   "facts": [
+    "Tento druh fixuje oxid uhličitý fotosyntézou.",
+    "Buňky tohoto druhu měří přibližně jeden mikrometr."
+   ]
+  },
+  "Q31856": {
+   "name": "Pseudomonas aeruginosa",
+   "latin": "Pseudomonas aeruginosa",
+   "family": "Pseudomonadaceae",
+   "lead": "Pseudomonas aeruginosa (syn. Bacterium pyocyaneum) je pohyblivá gramnegativní bakterie se slizovou vrstvou patřící do skupiny fluorescenčních pseudomonád. Jako potenciální patogen vyvolává řadu onemocnění, jako je zánět močových cest, středního ucha či hnisání popálenin.\n\n\n== Faktory virulence ==\nProdukuje exotoxin A, který blokuje proteosyntézu. Alginát působí jako adhezivní faktor. Pyocyanin tvoří volné kyslíkové radikály. Pyoverdin je zodpovědný za vázání železa a zelenomodré zbarvení kolonií",
+   "facts": [
+    "Vyvolává zánět močových cest a středního ucha.",
+    "Produkuje exotoxin A, který blokuje tvorbu bílkovin."
+   ]
+  },
+  "Q1114305": {
+   "name": "Haemophilus ducreyi",
+   "latin": "Haemophilus ducreyi",
+   "family": "Q142666",
+   "lead": "Haemophilus ducreyi je gramnegativní kokobacil, která je původcem sexuálně přenosné nemoci měkký vřed, známé též pod názvy ulcus molle či chankroid. Bakterie má tvar tyčky o délce 1,5–2,0 µm a je citlivá na zvýšenou teplotu a vyschnutí.\nPoprvé byla prokázána v roce 1889 italským vědcem Augusto Ducreyim.",
+   "facts": [
+    "Způsobuje sexuálně přenosnou nemoc měkký vřed.",
+    "Bakterie má tvar tyčky dlouhé 1,5–2,0 µm."
+   ]
+  },
+  "Q3021915": {
+   "name": "Váleč koulivý",
+   "latin": "Volvox globator",
+   "family": "Volvocaceae",
+   "lead": "Váleč koulivý (Volvox globator) je známá sladkovodní zelená řasa z řádu Volvocales, která tvoří kulovitá cenobia, tedy zvláštní koloniální útvary tvořené stejně starými buňkami a rozmnožující se tvorbou dceřiných cenobií.\n\n\n== Stavba cenobia a rozmnožování ==\nCenobium je kulovitého tvaru a naplněné slizem. Jednotlivé buňky jsou přizpůsobené k určité funkci: na povrchu koule jsou buňky s bičíky (každá buňka má bičíky dva) a uvnitř se nacházejí bezbičíkaté buňky. Je známo pohlavní i nepohlavní roz",
+   "facts": [
+    "Tento druh žije v relativně čistých vodách.",
+    "Tento druh tvoří kulovité kolonie."
+   ]
+  }
+ }
+}

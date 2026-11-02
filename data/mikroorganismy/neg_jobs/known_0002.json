@@ -1,0 +1,188 @@
+{
+ "facts": [
+  {
+   "id": "Q156007#1",
+   "species": "Treponema pallidum",
+   "text": "Jeho genom má 1,14 milionu párů bází.",
+   "quote": "Obsahuje 1,14 milionů párů bází."
+  },
+  {
+   "id": "Q153875#0",
+   "species": "Yersinia pestis",
+   "text": "Tento druh se přenáší blechami, které napadají hlodavce.",
+   "quote": "Y. pestis se přenáší blechami (druhy Pulex irritans, Xenopsylla cheopis) napadajícími hlodavce, hlavně krysy."
+  },
+  {
+   "id": "Q180556#2",
+   "species": "Helicobacter pylori",
+   "text": "Přenáší se slinami nebo výkaly nakaženého člověka.",
+   "quote": "při přímém kontaktu úst se slinami nebo výkaly nakaženého jednotlivce"
+  },
+  {
+   "id": "Q188121#1",
+   "species": "Staphylococcus aureus",
+   "text": "Může způsobit otravu z jídla, třeba z majonézových salátů.",
+   "quote": "jedná se o otravu z potravy kontaminované termostabilním enterotoxinem B (majonézové saláty, sekaná atd.)"
+  },
+  {
+   "id": "Q130971#2",
+   "species": "Mycobacterium tuberculosis",
+   "text": "Dělí se přibližně jednou za 15 až 20 hodin.",
+   "quote": "se dělí přibližně jednou za 15–20 hodin"
+  },
+  {
+   "id": "Q188121#3",
+   "species": "Staphylococcus aureus",
+   "text": "Přibližně 90 % těchto bakterií je odolných vůči běžnému penicilinu.",
+   "quote": "Přibližně 90 % stafylokoků je rezistentních na běžný penicilin."
+  },
+  {
+   "id": "Q25419#5",
+   "species": "Escherichia coli",
+   "text": "Za dobrých podmínek se dělí zhruba každých 20 minut.",
+   "quote": "Při optimálních podmínkách (37 °C, dostatek živin) je doba generace zhruba 20 min."
+  }
+ ],
+ "candidates": {
+  "Q156007": {
+   "name": "Treponema pallidum",
+   "latin": "Treponema pallidum",
+   "family": "Treponemataceae",
+   "lead": "Treponema pallidum je gramnegativní bakterie z kmene spirochét. Tento druh zahrnuje několik poddruhů, zejména však T. pallidum pallidum, původce syfilidy; T. pallidum pertenue, původce frambezie a T. pallidum endemicum, který způsobuje endemickou syfilitidu. Původce onemocnění pinta (Treponema carateum) bývá řazen do samostatného druhu.\nTreponema pallidum je pohyblivá spirocheta, která se nejčastěji přenáší pohlavním stykem. Do těla se dostává otvory v epitelu pohlavních orgánů. Také však docház",
+   "facts": [
+    "Způsobuje syfilis.",
+    "Jeho genom má 1,14 milionu párů bází."
+   ]
+  },
+  "Q131273": {
+   "name": "Naegleria fowleri",
+   "latin": "Naegleria fowleri",
+   "family": "Vahlkampfiidae",
+   "lead": "Naeglerie zhoubná (Naegleria fowleri, slovensky slzovička zhubná)  je jednobuněčný organismus z kmene Heterolobosea, fakultativní parazit, u lidí způsobuje tzv. primární amébovou meningoencefalitidu (PAM).\nPrimárně žije ve sladké vodě, toleruje vysoké teploty až do 45 °C, jaké panují např. v okolí výpustí z elektráren, v termálních pramenech, či v mělkých vodních nádržích během léta.\n\n\n== Patogeneze ==\n\n\n=== Životní cyklus v těle ===\n\nLidé se mohou nakazit tak, že jim tento prvok pronikne do těl",
+   "facts": [
+    "Žije především ve sladké vodě.",
+    "Toleruje teploty až do 45 °C.",
+    "Občas parazituje na lidech.",
+    "V Česku se nejspíš nejvíc vyskytuje od června do srpna."
+   ]
+  },
+  "Q131027": {
+   "name": "Měňavka úplavičná",
+   "latin": "Entamoeba histolytica",
+   "family": "Entamoebidae",
+   "lead": "Měňavka úplavičná (Entamoeba histolytica) je parazitický prvok z říše Amoebozoa. Způsobuje lidskou měňavkovou úplavici a dále např. onemocnění jater. Vyskytuje se kosmopolitně, nejvíce však v rozvojových zemích (Mexiko, Vietnam, Indie, Egypt), kde je rozšířená kvůli špatné hygieně a teplému a vlhkému klimatu. Hlavním hostitelem je člověk, ale infikováni mohou být vzácně i psi, kočky a hlodavci.\nPřenáší se alimentární cestou značně odolnými cystami (fekálním znečištěním potravin a pitné vody). Ne",
+   "facts": [
+    "Tento druh se většinou živí bakteriemi ve střevě.",
+    "Parazituje hlavně na člověku."
+   ]
+  },
+  "Q25419": {
+   "name": "Escherichia coli",
+   "latin": "Escherichia coli",
+   "family": "Enterobacteriaceae",
+   "lead": "Escherichia coli (původním názvem Bacterium coli) je gramnegativní, fakultativně anaerobní, spory netvořící tyčinkovitá bakterie, pohybující se pomocí bičíků. Náleží do čeledi Enterobacteriaceae, jež také zahrnuje mnoho rodů patogenních mikroorganismů.\nE. coli patří ke střevní mikroflóře teplokrevných živočichů včetně člověka, proto je její přítomnost v pitné vodě indikátorem fekálního znečištění. Člověku je jako součást přirozené mikroflóry prospěšná, neboť produkuje řadu látek, které brání roz",
+   "facts": [
+    "Žije ve střevech teplokrevných živočichů, včetně člověka.",
+    "Patogenní kmeny způsobují u člověka průjmy.",
+    "Často způsobuje infekce získané v nemocnicích.",
+    "Využívá se v biotechnologiích a genovém inženýrství.",
+    "Dokáže vyrábět textilní barvivo indigo.",
+    "Za dobrých podmínek se dělí zhruba každých 20 minut."
+   ]
+  },
+  "Q160821": {
+   "name": "Vibrio cholerae",
+   "latin": "Vibrio cholerae",
+   "family": "Vibrionaceae",
+   "lead": "Vibrio cholerae je původce cholery. Je to gramnegativní, dlouhá, fakultativně anaerobní pohyblivá tyčinka.\n\n\n== Faktory virulence ==\nVibrio cholerae produkuje enterotoxin choleragen, který není invazivní, pouze adheruje na epitel střeva. ZOT toxin (zonulae occludentes toxin) rozrušuje tight junction (zonulae occludentes) mezi enterocyty.\n\n\n== Patogenita ==\nPřenáší se fekálně-orální cestou. Způsobuje průjmy vypadající jako rýžová voda. Zejména u dětí hrozí smrt z dehydratace a ztráta elektrolytů.",
+   "facts": [
+    "Tento druh je původcem nemoci cholera.",
+    "Přenáší se fekálně-orální cestou."
+   ]
+  },
+  "Q180556": {
+   "name": "Helicobacter pylori",
+   "latin": "Helicobacter pylori",
+   "family": "Helicobacteraceae",
+   "lead": "Helicobacter pylori (název složen ze slov: „helix“–šroubovice, „bacter“–bakterie, „pylorus“–vrátník) je druh mikroaerofilní gramnegativní patogenní bakterie, jež napadá sliznici žaludku. Odhaduje se, že je ve vyspělých zemích touto bakterií infikována více než polovina dospělých po 60 letech věku,[zdroj?] ačkoliv nemusí vždy vyvolat onemocnění. Způsobuje zejména žaludeční vředy, má však zřejmě na\nsvědomí i různé gastritidy, adenokarcinom žaludku či lymfomy mízní tkáně v žaludku.\n\n\n== Historie ob",
+   "facts": [
+    "Napadá sliznici žaludku.",
+    "Způsobuje žaludeční vředy.",
+    "Přenáší se slinami nebo výkaly nakaženého člověka.",
+    "Rozkládá močovinu v lidském žaludku.",
+    "Na povrchu má 4 až 6 bičíků.",
+    "Měří 2,8 až 3,3 mikrometru na délku.",
+    "Žije i v žaludcích psů a jiných savců.",
+    "Tvoří toxin, který ničí buňky žaludku."
+   ]
+  },
+  "Q153875": {
+   "name": "Yersinia pestis",
+   "latin": "Yersinia pestis",
+   "family": "Yersiniaceae",
+   "lead": "Yersinia pestis (původně Pasteurella pestis) je patogenní gramnegativní bakterie z čeledi Yersiniaceae . Jedná se o fakultativní anaerobní bakterii, která je přenositelná na zvíře i na člověka.\nLidské infekce Yersinií pestis, způsobující mor, se projevují ve třech hlavních formách, které souvisí s místem vstupu infekce do těla. Rozlišujeme formu dýmějovou, septickou (sepse, otrava krve) a plicní. Všechny tyto tři formy jsou odpovědné za vysokou úmrtnost během epidemií v lidské historii, včetně t",
+   "facts": [
+    "Tento druh se přenáší blechami, které napadají hlodavce.",
+    "Tento druh v přírodě udržují některé druhy hlodavců.",
+    "Mor může způsobit zhroucení celé kolonie psounů.",
+    "Mor škodí i jiným savcům než člověku.",
+    "Způsobuje mor u lidí.",
+    "Při Černé smrti zemřela nejméně třetina evropské populace."
+   ]
+  },
+  "Q1061596": {
+   "name": "Lactobacillus",
+   "latin": "Lactobacillus",
+   "family": "Lactobacillaceae",
+   "lead": "Lactobacillus je rod grampozitivních, fakultativně anaerobních či mikroaerofilních bakterií z kmene Firmicutes. Jsou známé tím, že rozkládají laktózu a jiné cukry na kyselinu mléčnou. Jsou běžně přítomné v různých prostředích a obvykle nejsou patogenní. Například u lidí jsou součástí mikroflóry v trávicí soustavě a ve vagíně. Mnoho druhů se účastní rozkladu zbytků rostlinných těl v přírodě.\nNěkteré laktobacily se používají při výrobě jogurtu, sýra, kysaného zelí, nakládaných okurek, piva, cideru",
+   "facts": [
+    "Rozkládají laktózu a jiné cukry na kyselinu mléčnou.",
+    "Podílejí se na tvorbě zubního kazu."
+   ]
+  },
+  "Q221179": {
+   "name": "Streptococcus pneumoniae",
+   "latin": "Streptococcus pneumoniae",
+   "family": "Streptococcaceae",
+   "lead": "Streptococcus pneumoniae, též pneumokok, je grampozitivní alfa-hemolytický, aerotolerantní anaerobní kok z rodu Streptococcus. Tato bakterie je významným lidským patogenem, byla identifikována jako hlavní příčina pneumonie konce 19. století a je předmětem mnoha studií humorální imunity.\nNavzdory svému názvu tento mikrob způsobuje, kromě pneumonie, řadu dalších onemocnění, jako je akutní sinusitida, zánět středního ucha, meningitida, bakteriémie, sepse, osteomyelitida, septická artritida, endokar",
+   "facts": [
+    "Žije v horních cestách dýchacích u dětí.",
+    "Tento druh je nejčastější příčinou bakteriální meningitidy u dětí."
+   ]
+  },
+  "Q130971": {
+   "name": "Mycobacterium tuberculosis",
+   "latin": "Mycobacterium tuberculosis",
+   "family": "Mycobacteriaceae",
+   "lead": "Mycobacterium tuberculosis (MTB) je patogenní bakterie z rodu Mycobacterium. Způsobuje většinu případů tuberkulózy. Poprvé byla objevena Robertem Kochem v roce 1882. Má neobvyklý voskový plášť na povrchu buňky (především z kyseliny mykolové), který je nepropustný pro Gramovo barvení; místo něj se proto používají acid-fast techniky. M. tuberculosis je vysoce aerobní, bakterie potřebuje vysoké\nhladiny kyslíku. Primárně je tato bakterie patogenem v dýchací ústrojí savců, napadá plíce, kde způsobuje",
+   "facts": [
+    "Způsobuje většinu případů tuberkulózy.",
+    "Napadá hlavně plíce savců.",
+    "Dělí se přibližně jednou za 15 až 20 hodin.",
+    "Množí se uvnitř makrofágů."
+   ]
+  },
+  "Q614156": {
+   "name": "Bacillus anthracis",
+   "latin": "Bacillus anthracis",
+   "family": "Bacillaceae",
+   "lead": "Bacillus anthracis je grampozitivní fakultativně anaerobní bakterie tyčinkovitého tvaru z rodu Bacillus. Je známá především jako původce onemocnění anthrax, v přírodě je to však půdní bakterie, která tvoří spory. Rozměry jejích buněk jsou 1 × 3–8 µm (poměrně velké).\n\n\n== Anthrax ==\n\nBacillus anthracis byla první bakterie, která byla na základě Kochových postulátů identifikována jako patogenní, tzn. byla dána do souvislosti s konkrétním lidským onemocněním. Primárně je tato bakterie patogenem býl",
+   "facts": [
+    "Napadá hlavně býložravé savce.",
+    "V přírodě žije v půdě."
+   ]
+  },
+  "Q131003": {
+   "name": "Toxoplasma gondii",
+   "latin": "Toxoplasma gondii",
+   "family": "Sarcocystidae",
+   "lead": "Toxoplasma gondii (Nicolle et Manceaux, 1908) čili kokcidie kočičí  je vnitrobuněčný parazitický prvok, vícehostitelská kokcidie, která parazituje v buňkách zvířat i člověka. Jejím definitivním hostitelem jsou kočkovité šelmy, mezihostitelem se může stát většina teplokrevných živočichů včetně člověka. Způsobuje toxoplazmózu (přičemž infikovanému plodu těhotné ženy hrozí úmrtí nebo vznik vážných\nvrozených vývojových vad). Nemocným s HIV může způsobit akutní zánět mozku. Rovněž může způsobit abort",
+   "facts": [
+    "Parazituje v buňkách zvířat i člověka.",
+    "Definitivním hostitelem jsou kočkovité šelmy.",
+    "Mezihostitelem může být většina teplokrevných živočichů.",
+    "Může způsobit abort u ovcí a koz."
+   ]
+  }
+ }
+}

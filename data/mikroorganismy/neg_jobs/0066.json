@@ -1,0 +1,172 @@
+{
+ "facts": [
+  {
+   "id": "Q115528#2",
+   "species": "Borrelia",
+   "text": "Buňky jsou dlouhé 8 až 30 mikrometrů.",
+   "quote": "Dlouhé buňky bakterií mají rozměry 0,2 až 0,5 × 8 až 30 (33) µm."
+  },
+  {
+   "id": "Q115528#1",
+   "species": "Borrelia",
+   "text": "Způsobují několik bakteriálních nemocí.",
+   "quote": "Bakterie rodu Borrelia jsou původcem několika bakteriálních nemocí"
+  },
+  {
+   "id": "Q115528#3",
+   "species": "Borrelia",
+   "text": "Pohyb zajišťují podélná vlákna.",
+   "quote": "podélně uspořádaná filamenta, která zajišťují pohyblivost bakteriálních buněk"
+  },
+  {
+   "id": "Q156007#1",
+   "species": "Treponema pallidum",
+   "text": "Jeho genom má 1,14 milionu párů bází.",
+   "quote": "Obsahuje 1,14 milionů párů bází."
+  },
+  {
+   "id": "Q156007#0",
+   "species": "Treponema pallidum",
+   "text": "Způsobuje syfilis.",
+   "quote": "původce syfilidy"
+  },
+  {
+   "id": "Q115528#0",
+   "species": "Borrelia",
+   "text": "Jejich přenašeči jsou cizopasní členovci.",
+   "quote": "Borelie bývají přenášeny cizopasnými členovci"
+  }
+ ],
+ "candidates": {
+  "Q1190338": {
+   "name": "Měňavka velká",
+   "latin": "Amoeba proteus",
+   "family": "Amoebidae",
+   "lead": "Měňavka velká (Amoeba proteus) je typický zástupce měňavek z říše Amoebozoa. Patří mezi heterotrofní jednobuněčné organismy, jejichž tvar se neustále mění (plazma se přelévá z místa na místo).\n\n\n== Historie ==\nPrvním popisovatelem této améby (měňavky) je pravděpodobně popis Augusta Johanna Rösela von Rosenhofa, který v roce 1755 publikoval kresby améboidního prvoka, kterého nazval „malý Proteus“. Následně různí autoři přiřadili Röselův organismus a další améboidní prvoky různá jména: Carl Linnae",
+   "facts": [
+    "Živí se jednobuněčnými řasami a malými prvoky.",
+    "Dosahuje velikosti až 1 mm, vidíme ji pouhým okem.",
+    "Žije na dně sladkých vod, například v rybnících a bažinách.",
+    "Má deset nebo více panožek."
+   ]
+  },
+  "Q11353905": {
+   "name": "Brucella abortus",
+   "latin": "Brucella abortus",
+   "family": "Brucellaceae",
+   "lead": "Brucella abortus je gram-negativní kokovitá bakterie z rodu Brucella. Jedná se o nepohyblivou, striktně aerobní, kataláza pozitivní bakterii, která se kultivuje na tryptonovém nebo Brucella agaru při atmosféře 5-10 % CO2. Je původcem brucelózy skotu (též infekční zmetání skotu nebo Bangova vlnitá horečka). K infekci jsou vnímaví kromě skotu také další přežvýkavci (bizon, buvol, velbloud, ovce,\nkoza, jelenovití), ale také kůň, drůbež, pes a člověk. Česká republika je od roku 1964 prostá bovinní b",
+   "facts": [
+    "Způsobuje u skotu nemoc zvanou infekční zmetání.",
+    "Mohou se nakazit i kůň, drůbež, pes a člověk."
+   ]
+  },
+  "Q148710": {
+   "name": "Šroubatka",
+   "latin": "Spirogyra",
+   "family": "Zygnemataceae",
+   "lead": "Šroubatka (Spirogyra) je rod vláknitých zelených řas pojmenovaných podle charakteristického uspořádání chloroplastů do šroubovice. Šroubatky patří do třídy spájivek, pro kterou je společný charakteristický druh pohlavního rozmnožování, tzv. spájení.\nŠroubatky sloužily jako raný modelový organismus pro studium chloroplastů. Roku 1882 Theodor Wilhelm Engelmann prokázal, že fotosyntéza probíhá na chloroplastech. Pozoroval malé bakterie pohybující se za zdrojem kyslíku. Na povrchu šroubatky se bakte",
+   "facts": [
+    "Chloroplasty jsou uspořádané do šroubovice.",
+    "Na tomto druhu se shlukují bakterie tam, kde vzniká kyslík."
+   ]
+  },
+  "Q131273": {
+   "name": "Naegleria fowleri",
+   "latin": "Naegleria fowleri",
+   "family": "Vahlkampfiidae",
+   "lead": "Naeglerie zhoubná (Naegleria fowleri, slovensky slzovička zhubná)  je jednobuněčný organismus z kmene Heterolobosea, fakultativní parazit, u lidí způsobuje tzv. primární amébovou meningoencefalitidu (PAM).\nPrimárně žije ve sladké vodě, toleruje vysoké teploty až do 45 °C, jaké panují např. v okolí výpustí z elektráren, v termálních pramenech, či v mělkých vodních nádržích během léta.\n\n\n== Patogeneze ==\n\n\n=== Životní cyklus v těle ===\n\nLidé se mohou nakazit tak, že jim tento prvok pronikne do těl",
+   "facts": [
+    "Žije především ve sladké vodě.",
+    "Toleruje teploty až do 45 °C.",
+    "Občas parazituje na lidech.",
+    "V Česku se nejspíš nejvíc vyskytuje od června do srpna."
+   ]
+  },
+  "Q131452": {
+   "name": "Streptococcus mutans",
+   "latin": "Streptococcus mutans",
+   "family": "Streptococcaceae",
+   "lead": "Streptococcus mutans je druh bakterie, která obvykle žije v ústní dutině člověka. Tato bakterie je fakultativně anaerobní grampozitivní kok, který se přichycuje především na zubech lidí a vylučuje žíravou kyselinu. Toto přichycení umožňuje sacharidový polymer, který tvoří hlavní součást zubního plaku. Bakterie Streptococcus mutans se obvykle přenášejí z dospělých na děti a po přesunu se v ústech\nusadí a napadají nově se vytvářející zuby. Bakterie Streptococcus mutans se množí při teplotě 18–40 s",
+   "facts": [
+    "Žije obvykle v ústní dutině člověka.",
+    "Množí se při teplotě 18–40 stupňů Celsia."
+   ]
+  },
+  "Q155630": {
+   "name": "Lamblie střevní",
+   "latin": "Giardia lamblia",
+   "family": "Hexamitidae",
+   "lead": "Lamblie střevní (Giardia intestinalis, G. lamblia nebo G. duodenalis) je parazitický prvok z řádu diplomonád. V širším pojetí se jedná o několik druhů, které lze od sebe odlišit na základě charakteristických morfologických znaků u trofozoitů. Onemocnění způsobené lambliemi se označuje jako giardióza či lamblióza.\n\n\n== Popis ==\nLamblie nemá buněčná ústa a živí se tak pouze pinocytoticky. Také má jen redukované mitochondrie: označují se jako mitozomy a neobsahují na rozdíl od mitochondrií genom. N",
+   "facts": [
+    "Tento druh má dvě jádra.",
+    "Tento druh má 6 předních a 2 zadní bičíky.",
+    "Tento druh tvoří cysty, které přežijí ve studené vodě týdny až měsíce."
+   ]
+  },
+  "Q1114305": {
+   "name": "Haemophilus ducreyi",
+   "latin": "Haemophilus ducreyi",
+   "family": "Q142666",
+   "lead": "Haemophilus ducreyi je gramnegativní kokobacil, která je původcem sexuálně přenosné nemoci měkký vřed, známé též pod názvy ulcus molle či chankroid. Bakterie má tvar tyčky o délce 1,5–2,0 µm a je citlivá na zvýšenou teplotu a vyschnutí.\nPoprvé byla prokázána v roce 1889 italským vědcem Augusto Ducreyim.",
+   "facts": [
+    "Způsobuje sexuálně přenosnou nemoc měkký vřed.",
+    "Bakterie má tvar tyčky dlouhé 1,5–2,0 µm."
+   ]
+  },
+  "Q142705": {
+   "name": "Stenotrophomonas maltophilia",
+   "latin": "Stenotrophomonas maltophilia",
+   "family": "Lysobacteraceae",
+   "lead": "Stenotrophomonas maltophilia je aerobní, nefermentativní, gramnegativní bakterie. Je to nepříliš častý bakteriální patogen lidí způsobující obtížně léčitelné infekce. Původně byl pojmenován Bacterium bookeri, následně přejmenován na Pseudomonas maltophilia. S. maltophilia byl také zahrnut do rodu Xanthomonas, než se v roce 1993 stal typovým druhem rodu Stenotrophomonas.\nS. maltophilia je o něco menší (0,7–1,8  × 0,4–0,7 μm) než ostatní zástupci rodu. Jde o pohyblivé bakterie vybavené polárním bi",
+   "facts": [
+    "Vzácně se vyskytuje i u papouška vlnkovaného.",
+    "Je všudypřítomná ve vlhku, v půdě i v rostlinách.",
+    "Používá se i v biotechnologiích."
+   ]
+  },
+  "Q310362": {
+   "name": "Lyngbya",
+   "latin": "Lyngbya",
+   "family": "Oscillatoriaceae",
+   "lead": "Lyngbya je rod sinic z řádu Oscillatoriales s vláknitou stélkou v pevném obalu a bez heterocytů. Nevětví se a vlákno má po celé délce přibližně stejnou šířku. Jejich slizový obal má bezbarvou nebo nažloutlou barvu. Cyanotoxiny některých druhů mohou způsobovat zdravotní potíže.",
+   "facts": [
+    "Některé druhy tvoří jedovaté látky, které mohou způsobit zdravotní potíže.",
+    "Vlákna se nevětví a mají zhruba stejnou šířku po celé délce."
+   ]
+  },
+  "Q131904999": {
+   "name": "Isospora jaracimrmani",
+   "latin": "Isospora jaracimrmani",
+   "family": "Eimeriidae",
+   "lead": "Isospora jaracimrmani je druh kokcidie patřící do rodu Isospora. Tento druh byl pojmenován roku 1995 po univerzálním českém géniovi Járovi Cimrmanovi, po němž byly pojmenovány i další druhy, např. štírů (Heterometrus cimrmani, Parabuthus cimrmani, Butheoloides cimrmani), ostružiníku (Rubus jarae-cimrmanii) nebo houby (Collybiopsis cimrmanii).[zdroj?]\nI. jaracimrmani je endoparazit, infikuje trávicí trakt chameleona jemenského (Chamaeleo calyptratus) a vyznačuje se vysokou hostitelskou specifitou",
+   "facts": [
+    "Žije jako parazit v trávicím traktu chameleona jemenského.",
+    "Infekce může chameleonovi způsobit průjmy a hubnutí.",
+    "Ven z chameleona se dostává trusem.",
+    "Tento druh se přirozeně vyskytuje v Jemenu a Saúdské Arábii."
+   ]
+  },
+  "Q131003": {
+   "name": "Toxoplasma gondii",
+   "latin": "Toxoplasma gondii",
+   "family": "Sarcocystidae",
+   "lead": "Toxoplasma gondii (Nicolle et Manceaux, 1908) čili kokcidie kočičí  je vnitrobuněčný parazitický prvok, vícehostitelská kokcidie, která parazituje v buňkách zvířat i člověka. Jejím definitivním hostitelem jsou kočkovité šelmy, mezihostitelem se může stát většina teplokrevných živočichů včetně člověka. Způsobuje toxoplazmózu (přičemž infikovanému plodu těhotné ženy hrozí úmrtí nebo vznik vážných\nvrozených vývojových vad). Nemocným s HIV může způsobit akutní zánět mozku. Rovněž může způsobit abort",
+   "facts": [
+    "Parazituje v buňkách zvířat i člověka.",
+    "Definitivním hostitelem jsou kočkovité šelmy.",
+    "Mezihostitelem může být většina teplokrevných živočichů.",
+    "Může způsobit abort u ovcí a koz."
+   ]
+  },
+  "Q81062864": {
+   "name": "Anabaena flos-aquae",
+   "latin": "Anabaena flos-aquae",
+   "family": "Nostocaceae",
+   "lead": "Anabaena flos-aquae je druh sinice z rodu Anabaena.\n\n\n== Popis ==\nTato vláknitá sinice je schopná klouzavého pohybu. Produkuje některé cyanotoxiny (anatoxin-α) a mnohdy způsobuje při přemnožení vodní květ. Jedovatost jejích toxinů byla prokázána i experimenty na myších, které umírají po injekci extraktu z těchto sinic po 10–24 hodinách.\nUvažovalo se o využití této sinice k výrobě speciálních vzduchových měchýřků na buněčné úrovni, které by se přidávaly při kultivaci buněčných linií do suspenze, ",
+   "facts": [
+    "Tento druh tvoří některé jedovaté toxiny.",
+    "Tento druh je vláknitý a umí klouzavě pohybovat."
+   ]
+  }
+ }
+}

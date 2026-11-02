@@ -1,0 +1,158 @@
+{
+ "facts": [
+  {
+   "id": "Q31856#0",
+   "species": "Pseudomonas aeruginosa",
+   "text": "Vyvolává zánět močových cest a středního ucha.",
+   "quote": "Jako potenciální patogen vyvolává řadu onemocnění, jako je zánět močových cest, středního ucha či hnisání popálenin."
+  },
+  {
+   "id": "Q31856#1",
+   "species": "Pseudomonas aeruginosa",
+   "text": "Produkuje exotoxin A, který blokuje tvorbu bílkovin.",
+   "quote": "Produkuje exotoxin A, který blokuje proteosyntézu."
+  },
+  {
+   "id": "Q3241189#0",
+   "species": "Acinetobacter baumannii",
+   "text": "Žije běžně ve vodě, půdě i ve zdravotnických zařízeních.",
+   "quote": "vyskytující se zcela běžně v přírodě ve vodě, půdě, či v zdravotnických zařízeních"
+  },
+  {
+   "id": "Q3241189#1",
+   "species": "Acinetobacter baumannii",
+   "text": "U oslabených nebo starých lidí může způsobit zápal plic.",
+   "quote": "u oslabených, či starých jedinců může avšak vyvolati zápal plic, sepsi a záněty"
+  }
+ ],
+ "candidates": {
+  "Q148561": {
+   "name": "Bartonella quintana",
+   "latin": "Bartonella quintana",
+   "family": "Bartonellaceae",
+   "lead": "Bartonella quintana, původně známá jako Rochalimaea quintana, je mikroorganismus přenášen vší šatní (pediculus humanus corporis). Tato bakterie je původcem tzv. zákopové horečky. Jméno onemocnění pochází z období první světové války, kdy bylo nakaženo více než 1 milion vojáků.\n\n\n== Charakteristika ==\nAerobní gram-negativní kultivačně náročná tyčka (bacillus).\n\n\n== Patofyziologie ==\nBakterie jsou schopny adherovat na erytrocyty a endoteliální buňky a následně do nich vstupovat jako intracelulární",
+   "facts": [
+    "Tento druh se přenáší vší šatní.",
+    "Způsobuje zákopovou horečku."
+   ]
+  },
+  "Q4978547": {
+   "name": "Brucella canis",
+   "latin": "Brucella canis",
+   "family": "Brucellaceae",
+   "lead": "Brucella canis je druh gramnegativních bakterií z čeledi Brucellaceae způsobující brucelózu psů. Jedná se o tyčinky nebo koky, nepohyblivé, kataláza pozitivní. Vnímavý k bakterii je pes a všechny volně žijící šelmy z čeledi psovitých. K infekci je vnímavý i člověk. Bakterie B. canis byla poprvé popsána v roce 1968 v USA, kde byla příčinou hromadných potratů chovaných bíglů.",
+   "facts": [
+    "Vnímaví k němu jsou psi a volně žijící psovité šelmy."
+   ]
+  },
+  "Q1190338": {
+   "name": "Měňavka velká",
+   "latin": "Amoeba proteus",
+   "family": "Amoebidae",
+   "lead": "Měňavka velká (Amoeba proteus) je typický zástupce měňavek z říše Amoebozoa. Patří mezi heterotrofní jednobuněčné organismy, jejichž tvar se neustále mění (plazma se přelévá z místa na místo).\n\n\n== Historie ==\nPrvním popisovatelem této améby (měňavky) je pravděpodobně popis Augusta Johanna Rösela von Rosenhofa, který v roce 1755 publikoval kresby améboidního prvoka, kterého nazval „malý Proteus“. Následně různí autoři přiřadili Röselův organismus a další améboidní prvoky různá jména: Carl Linnae",
+   "facts": [
+    "Živí se jednobuněčnými řasami a malými prvoky.",
+    "Dosahuje velikosti až 1 mm, vidíme ji pouhým okem.",
+    "Žije na dně sladkých vod, například v rybnících a bažinách.",
+    "Má deset nebo více panožek."
+   ]
+  },
+  "Q517258": {
+   "name": "Enterokok",
+   "latin": "Enterococcus",
+   "family": "Enterococcaceae",
+   "lead": "Enterokok (Enterococcus) je rozsáhlý rod bakterií mléčného kvašení z kmene Firmicutes. Jsou to grampozitivní koky, které se často vyskytují v párech či krátkých řetězcích. Jsou fakultativně anaerobní organismy – mohou žít v prostředí na kyslík jak chudém, tak bohatém.\nTento rod bakterií je vzhledově podobný streptokokům a jeho příslušníci byli do roku 1984 klasifikováni jako streptokoky skupiny D, o samostatnosti rodu rozhodla až analýza rodové DNA.\nProdukují želatinázu (jedna z kolagenáz), adhe",
+   "facts": [
+    "Tento druh může způsobit zánět močových cest.",
+    "Tento druh se běžně vyskytuje v lidské střevní mikroflóře."
+   ]
+  },
+  "Q129496606": {
+   "name": "Leishmania martiniquensis",
+   "latin": "Leishmania martiniquensis",
+   "family": "Trypanozomy",
+   "lead": "Leishmania martiniquensis je parazitický prvok infikující převážně psy, koně a skot. Způsobuje zoonotické onemocnění, což znamená, že může být přenášeno ze zvířat na lidi. Primárně se tento parazit vyskytuje v Thajsku, Myanmaru a Severní Americe, zaznamenán byl však i v Německu, Švýcarsku a Česku. Parazit je přenášen drobným krev sajícím hmyzem, jako je např. tiplík.\nV Česku byly popsány případy leishmaniózy u koní v Olomouckém, Pardubickém a Ústeckém kraji, a jeden případ byl i zaznamenán v rak",
+   "facts": [
+    "Přenáší ho drobný hmyz, který sává krev, například tiplík.",
+    "Nakazí převážně psy, koně a skot.",
+    "Přímo se nepřenáší z koně na člověka.",
+    "U koní způsobuje pupínky nebo uzly."
+   ]
+  },
+  "Q11353967": {
+   "name": "Brucella pinnipediae",
+   "latin": "Brucella pinnipediae",
+   "family": "Brucellaceae",
+   "lead": "Brucella pinnipediae je gramnegativní kokovitá bakterie z rodu Brucella. Jedná se o nepohyblivé, striktně aerobní, kataláza pozitivní bakterie. Je původcem brucelózy u mořských savců, zejména u delfínů, velryb, tuleňů a lachtanů. Možnost přenosu na člověka není dostatečně známa, nicméně v roce 1999 byl zdokumentován první případ infekce jednoho laboratorního pracovníka v Anglii, který se nakazil\npři manipulaci s bakteriemi Brucella spp. izolovaných z tuleňů.",
+   "facts": [
+    "Jeden laboratorní pracovník se nakazil při práci s bakteriemi z tuleňů."
+   ]
+  },
+  "Q188121": {
+   "name": "Staphylococcus aureus",
+   "latin": "Staphylococcus aureus",
+   "family": "Staphylococcaceae",
+   "lead": "Staphylococcus aureus (také zlatý stafylokok) je grampozitivní bakterie patřící do rodu stafylokoků. Objevil ji v roce 1880 skotský chirurg Alexander Ogston v hnisu z otevřených poranění a o čtyři roky později ji německý bakteriolog F. Rosenbach dal latinský název. Způsobuje velmi často různé infekce v rozsahu od mírných zánětů kůže a měkkých tkání až po život ohrožující sepse („otravy krve“,\nsměřující až do septického šoku spojeného se selháváním orgánů), syndrom toxického šoku a nekrotizující ",
+   "facts": [
+    "Asi 20–50 % lidí jsou přenašeči této bakterie.",
+    "Může způsobit otravu z jídla, třeba z majonézových salátů.",
+    "Velmi často způsobuje infekce kůže a měkkých tkání.",
+    "Přibližně 90 % těchto bakterií je odolných vůči běžnému penicilinu."
+   ]
+  },
+  "Q1153950": {
+   "name": "Hepatozoon",
+   "latin": "Hepatozoon",
+   "family": "Hepatozoidae",
+   "lead": "Hepatozoon je rod patřící do skupiny chromalveolata a kmenu apikomplexa, která zahrnuje přes 300 druhů obligátních parazitů napadajících krvinky červené (erytrocyty) i bílé (leukocyty). Tento druh parazita byl popsán u všech skupin tetrapodních obratlovců, stejně jako u celé řady hematofágního hmyzu, kterého může využít jako vektor přenosu i jako definitivního hostitele. Tento rod se vyznačuje\nzdaleka největší biodiverzitou a prevalencí ze všech hemogregarin. Mají zajímavý životní cyklus, ve kte",
+   "facts": [
+    "Napadá červené i bílé krvinky.",
+    "Mezihostitelem mohou být klíšťata a hmyz.",
+    "Zvíře se nakazí, když sežere infikované klíště.",
+    "Velmi často se vyskytuje u obojživelníků a plazů."
+   ]
+  },
+  "Q132434": {
+   "name": "Acetobacter",
+   "latin": "Acetobacter",
+   "family": "Acetobacteria",
+   "lead": "Acetobacter je rod aerobních bakterií ze skupiny Alphaproteobacteria. Získává energii oxidací alkoholu na kyselinu octovou. Acetobacter aceti je také význačným acidofilem.",
+   "facts": [
+    "Získává energii z alkoholu, který mění na kyselinu octovou.",
+    "Dobře snáší kyselé prostředí."
+   ]
+  },
+  "Q131129": {
+   "name": "Neisseria gonorrhoeae",
+   "latin": "Neisseria gonorrhoeae",
+   "family": "Neisseriaceae",
+   "lead": "Neisseria gonorrhoeae je gramnegativní bakterie z kmene proteobakterií, která vyvolává pohlavně přenosnou chorobu kapavku. Jsou to velmi choulostivé a kultivačně náročné diplokoky. Jednotlivé koky mají tvar kávového zrna. Kapavka u muže probíhá obvykle jako hnisavá uretritida a u ženy jako cervicitida.\n\n\n== Diagnostika ==\nPři podezření na kapavku prokazujeme N. gonorrhoeae ve výtěru z pochvy, děložního hrdla a močové trubice, obvykle také z rekta; u muže pak z močové trubice a rekta.",
+   "facts": [
+    "Způsobuje pohlavně přenosnou nemoc zvanou kapavka.",
+    "Jednotlivé bakterie mají tvar kávového zrna."
+   ]
+  },
+  "Q131003": {
+   "name": "Toxoplasma gondii",
+   "latin": "Toxoplasma gondii",
+   "family": "Sarcocystidae",
+   "lead": "Toxoplasma gondii (Nicolle et Manceaux, 1908) čili kokcidie kočičí  je vnitrobuněčný parazitický prvok, vícehostitelská kokcidie, která parazituje v buňkách zvířat i člověka. Jejím definitivním hostitelem jsou kočkovité šelmy, mezihostitelem se může stát většina teplokrevných živočichů včetně člověka. Způsobuje toxoplazmózu (přičemž infikovanému plodu těhotné ženy hrozí úmrtí nebo vznik vážných\nvrozených vývojových vad). Nemocným s HIV může způsobit akutní zánět mozku. Rovněž může způsobit abort",
+   "facts": [
+    "Parazituje v buňkách zvířat i člověka.",
+    "Definitivním hostitelem jsou kočkovité šelmy.",
+    "Mezihostitelem může být většina teplokrevných živočichů.",
+    "Může způsobit abort u ovcí a koz."
+   ]
+  },
+  "Q134275": {
+   "name": "Chlamydophila psittaci",
+   "latin": "Chlamydophila psittaci",
+   "family": "Chlamydiaceae",
+   "lead": "Chlamydophila psittaci (dříve Chlamydia psittaci) je velmi malá patogenní bakterie ze skupiny chlamydií, která způsobuje epizootické nákazy u zvířat a psitakózu u člověka. Je to obligátní vnitrobuněčný parazit. Jejím přírodním rezervoárem jsou především ptáci (včetně městských holubů). Lidé se mohou infikovat právě požitím či vdechnutím ptačích tělních tekutin, například moči, slin a trusu.\nInkubační doba je 1-2 týdny, prvotními příznaky jsou bolesti v krku, horečky, bolesti svalů, kloubů, silné",
+   "facts": [
+    "Přirozeně ji nosí hlavně ptáci.",
+    "Inkubační doba bývá 1 až 2 týdny."
+   ]
+  }
+ }
+}

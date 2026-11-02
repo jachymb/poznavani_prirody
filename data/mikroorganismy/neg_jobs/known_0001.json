@@ -1,0 +1,266 @@
+{
+ "facts": [
+  {
+   "id": "Q180556#3",
+   "species": "Helicobacter pylori",
+   "text": "Rozkládá močovinu v lidském žaludku.",
+   "quote": "Ureáza rozkládá močovinu přítomnou v lidském žaludku"
+  },
+  {
+   "id": "Q221179#0",
+   "species": "Streptococcus pneumoniae",
+   "text": "Žije v horních cestách dýchacích u dětí.",
+   "quote": "Streptococcus pneumoniae je usídlena v horních cestách dýchacích u dětí."
+  },
+  {
+   "id": "Q131027#0",
+   "species": "Měňavka úplavičná",
+   "text": "Tento druh se většinou živí bakteriemi ve střevě.",
+   "quote": "Většina améb (forma minuta) se živí bakteriemi ve střevě"
+  },
+  {
+   "id": "Q130971#3",
+   "species": "Mycobacterium tuberculosis",
+   "text": "Množí se uvnitř makrofágů.",
+   "quote": "Bakterie se následně nekontrolovatelně množí uvnitř makrofágu."
+  },
+  {
+   "id": "Q221179#1",
+   "species": "Streptococcus pneumoniae",
+   "text": "Tento druh je nejčastější příčinou bakteriální meningitidy u dětí.",
+   "quote": "S. pneumoniae je nejčastější příčinou bakteriální meningitidy u dospělých, dětí a psů."
+  },
+  {
+   "id": "Q131273#0",
+   "species": "Naegleria fowleri",
+   "text": "Žije především ve sladké vodě.",
+   "quote": "Primárně žije ve sladké vodě"
+  },
+  {
+   "id": "Q1061596#0",
+   "species": "Lactobacillus",
+   "text": "Rozkládají laktózu a jiné cukry na kyselinu mléčnou.",
+   "quote": "Jsou známé tím, že rozkládají laktózu a jiné cukry na kyselinu mléčnou."
+  },
+  {
+   "id": "Q180556#0",
+   "species": "Helicobacter pylori",
+   "text": "Napadá sliznici žaludku.",
+   "quote": "napadá sliznici žaludku"
+  },
+  {
+   "id": "Q153875#5",
+   "species": "Yersinia pestis",
+   "text": "Při Černé smrti zemřela nejméně třetina evropské populace.",
+   "quote": "Černé smrti, jež zahubila nejméně třetinu evropské populace"
+  },
+  {
+   "id": "Q188121#0",
+   "species": "Staphylococcus aureus",
+   "text": "Asi 20–50 % lidí jsou přenašeči této bakterie.",
+   "quote": "Přenašečství se vyskytuje asi u 20–50 % populace"
+  },
+  {
+   "id": "Q25419#2",
+   "species": "Escherichia coli",
+   "text": "Často způsobuje infekce získané v nemocnicích.",
+   "quote": "Často způsobuje nosokomiální infekce, tj. infekce získané v nemocnicích."
+  },
+  {
+   "id": "Q1061596#1",
+   "species": "Lactobacillus",
+   "text": "Podílejí se na tvorbě zubního kazu.",
+   "quote": "Naopak je známo, že se laktobacily účastní tvorby zubního kazu."
+  },
+  {
+   "id": "Q131003#1",
+   "species": "Toxoplasma gondii",
+   "text": "Definitivním hostitelem jsou kočkovité šelmy.",
+   "quote": "Jejím definitivním hostitelem jsou kočkovité šelmy"
+  },
+  {
+   "id": "Q614156#1",
+   "species": "Bacillus anthracis",
+   "text": "V přírodě žije v půdě.",
+   "quote": "v přírodě je to však půdní bakterie"
+  },
+  {
+   "id": "Q130971#0",
+   "species": "Mycobacterium tuberculosis",
+   "text": "Způsobuje většinu případů tuberkulózy.",
+   "quote": "Způsobuje většinu případů tuberkulózy."
+  },
+  {
+   "id": "Q156007#0",
+   "species": "Treponema pallidum",
+   "text": "Způsobuje syfilis.",
+   "quote": "původce syfilidy"
+  },
+  {
+   "id": "Q25419#3",
+   "species": "Escherichia coli",
+   "text": "Využívá se v biotechnologiích a genovém inženýrství.",
+   "quote": "což je důvodem jejího využití v biotechnologiích a genovém inženýrství"
+  },
+  {
+   "id": "Q131003#2",
+   "species": "Toxoplasma gondii",
+   "text": "Mezihostitelem může být většina teplokrevných živočichů.",
+   "quote": "mezihostitelem se může stát většina teplokrevných živočichů včetně člověka"
+  },
+  {
+   "id": "Q180556#1",
+   "species": "Helicobacter pylori",
+   "text": "Způsobuje žaludeční vředy.",
+   "quote": "Způsobuje zejména žaludeční vředy"
+  },
+  {
+   "id": "Q180556#4",
+   "species": "Helicobacter pylori",
+   "text": "Na povrchu má 4 až 6 bičíků.",
+   "quote": "Na svém povrchu má 4 až 6 bičíků"
+  }
+ ],
+ "candidates": {
+  "Q25419": {
+   "name": "Escherichia coli",
+   "latin": "Escherichia coli",
+   "family": "Enterobacteriaceae",
+   "lead": "Escherichia coli (původním názvem Bacterium coli) je gramnegativní, fakultativně anaerobní, spory netvořící tyčinkovitá bakterie, pohybující se pomocí bičíků. Náleží do čeledi Enterobacteriaceae, jež také zahrnuje mnoho rodů patogenních mikroorganismů.\nE. coli patří ke střevní mikroflóře teplokrevných živočichů včetně člověka, proto je její přítomnost v pitné vodě indikátorem fekálního znečištění. Člověku je jako součást přirozené mikroflóry prospěšná, neboť produkuje řadu látek, které brání roz",
+   "facts": [
+    "Žije ve střevech teplokrevných živočichů, včetně člověka.",
+    "Patogenní kmeny způsobují u člověka průjmy.",
+    "Často způsobuje infekce získané v nemocnicích.",
+    "Využívá se v biotechnologiích a genovém inženýrství.",
+    "Dokáže vyrábět textilní barvivo indigo.",
+    "Za dobrých podmínek se dělí zhruba každých 20 minut."
+   ]
+  },
+  "Q156007": {
+   "name": "Treponema pallidum",
+   "latin": "Treponema pallidum",
+   "family": "Treponemataceae",
+   "lead": "Treponema pallidum je gramnegativní bakterie z kmene spirochét. Tento druh zahrnuje několik poddruhů, zejména však T. pallidum pallidum, původce syfilidy; T. pallidum pertenue, původce frambezie a T. pallidum endemicum, který způsobuje endemickou syfilitidu. Původce onemocnění pinta (Treponema carateum) bývá řazen do samostatného druhu.\nTreponema pallidum je pohyblivá spirocheta, která se nejčastěji přenáší pohlavním stykem. Do těla se dostává otvory v epitelu pohlavních orgánů. Také však docház",
+   "facts": [
+    "Způsobuje syfilis.",
+    "Jeho genom má 1,14 milionu párů bází."
+   ]
+  },
+  "Q160821": {
+   "name": "Vibrio cholerae",
+   "latin": "Vibrio cholerae",
+   "family": "Vibrionaceae",
+   "lead": "Vibrio cholerae je původce cholery. Je to gramnegativní, dlouhá, fakultativně anaerobní pohyblivá tyčinka.\n\n\n== Faktory virulence ==\nVibrio cholerae produkuje enterotoxin choleragen, který není invazivní, pouze adheruje na epitel střeva. ZOT toxin (zonulae occludentes toxin) rozrušuje tight junction (zonulae occludentes) mezi enterocyty.\n\n\n== Patogenita ==\nPřenáší se fekálně-orální cestou. Způsobuje průjmy vypadající jako rýžová voda. Zejména u dětí hrozí smrt z dehydratace a ztráta elektrolytů.",
+   "facts": [
+    "Tento druh je původcem nemoci cholera.",
+    "Přenáší se fekálně-orální cestou."
+   ]
+  },
+  "Q236001": {
+   "name": "Krásnoočko",
+   "latin": "Euglena",
+   "family": "Euglenidae",
+   "lead": "Krásnoočko (Euglena) je rod jednobuněčných bičíkatých organismů na pomezí mezi prvoky a řasami, dnes však řazený do kmene Euglenozoa, říše Excavata.\n\n\n== Popis ==\nBuňka krásnoočka je kryta jemnou pružnou blanou zvanou pelikula, díky které může krásnoočko měnit svůj tvar. Pohyb mu umožňuje bičík. Prostřednictvím bičíku rychle plave a změnou svého tvaru se dokáže protáhnout mezi překážkami. Blízko místa, ze kterého vyrůstá bičík, má útvar zvaný stigma – červenou světločivnou skvrnu, jejíž pomocí k",
+   "facts": [
+    "Plave rychle pomocí bičíku.",
+    "Ve tmě, bez fotosyntézy, se živí organickými částicemi."
+   ]
+  },
+  "Q180556": {
+   "name": "Helicobacter pylori",
+   "latin": "Helicobacter pylori",
+   "family": "Helicobacteraceae",
+   "lead": "Helicobacter pylori (název složen ze slov: „helix“–šroubovice, „bacter“–bakterie, „pylorus“–vrátník) je druh mikroaerofilní gramnegativní patogenní bakterie, jež napadá sliznici žaludku. Odhaduje se, že je ve vyspělých zemích touto bakterií infikována více než polovina dospělých po 60 letech věku,[zdroj?] ačkoliv nemusí vždy vyvolat onemocnění. Způsobuje zejména žaludeční vředy, má však zřejmě na\nsvědomí i různé gastritidy, adenokarcinom žaludku či lymfomy mízní tkáně v žaludku.\n\n\n== Historie ob",
+   "facts": [
+    "Napadá sliznici žaludku.",
+    "Způsobuje žaludeční vředy.",
+    "Přenáší se slinami nebo výkaly nakaženého člověka.",
+    "Rozkládá močovinu v lidském žaludku.",
+    "Na povrchu má 4 až 6 bičíků.",
+    "Měří 2,8 až 3,3 mikrometru na délku.",
+    "Žije i v žaludcích psů a jiných savců.",
+    "Tvoří toxin, který ničí buňky žaludku."
+   ]
+  },
+  "Q188121": {
+   "name": "Staphylococcus aureus",
+   "latin": "Staphylococcus aureus",
+   "family": "Staphylococcaceae",
+   "lead": "Staphylococcus aureus (také zlatý stafylokok) je grampozitivní bakterie patřící do rodu stafylokoků. Objevil ji v roce 1880 skotský chirurg Alexander Ogston v hnisu z otevřených poranění a o čtyři roky později ji německý bakteriolog F. Rosenbach dal latinský název. Způsobuje velmi často různé infekce v rozsahu od mírných zánětů kůže a měkkých tkání až po život ohrožující sepse („otravy krve“,\nsměřující až do septického šoku spojeného se selháváním orgánů), syndrom toxického šoku a nekrotizující ",
+   "facts": [
+    "Asi 20–50 % lidí jsou přenašeči této bakterie.",
+    "Může způsobit otravu z jídla, třeba z majonézových salátů.",
+    "Velmi často způsobuje infekce kůže a měkkých tkání.",
+    "Přibližně 90 % těchto bakterií je odolných vůči běžnému penicilinu."
+   ]
+  },
+  "Q153875": {
+   "name": "Yersinia pestis",
+   "latin": "Yersinia pestis",
+   "family": "Yersiniaceae",
+   "lead": "Yersinia pestis (původně Pasteurella pestis) je patogenní gramnegativní bakterie z čeledi Yersiniaceae . Jedná se o fakultativní anaerobní bakterii, která je přenositelná na zvíře i na člověka.\nLidské infekce Yersinií pestis, způsobující mor, se projevují ve třech hlavních formách, které souvisí s místem vstupu infekce do těla. Rozlišujeme formu dýmějovou, septickou (sepse, otrava krve) a plicní. Všechny tyto tři formy jsou odpovědné za vysokou úmrtnost během epidemií v lidské historii, včetně t",
+   "facts": [
+    "Tento druh se přenáší blechami, které napadají hlodavce.",
+    "Tento druh v přírodě udržují některé druhy hlodavců.",
+    "Mor může způsobit zhroucení celé kolonie psounů.",
+    "Mor škodí i jiným savcům než člověku.",
+    "Způsobuje mor u lidí.",
+    "Při Černé smrti zemřela nejméně třetina evropské populace."
+   ]
+  },
+  "Q614156": {
+   "name": "Bacillus anthracis",
+   "latin": "Bacillus anthracis",
+   "family": "Bacillaceae",
+   "lead": "Bacillus anthracis je grampozitivní fakultativně anaerobní bakterie tyčinkovitého tvaru z rodu Bacillus. Je známá především jako původce onemocnění anthrax, v přírodě je to však půdní bakterie, která tvoří spory. Rozměry jejích buněk jsou 1 × 3–8 µm (poměrně velké).\n\n\n== Anthrax ==\n\nBacillus anthracis byla první bakterie, která byla na základě Kochových postulátů identifikována jako patogenní, tzn. byla dána do souvislosti s konkrétním lidským onemocněním. Primárně je tato bakterie patogenem býl",
+   "facts": [
+    "Napadá hlavně býložravé savce.",
+    "V přírodě žije v půdě."
+   ]
+  },
+  "Q131003": {
+   "name": "Toxoplasma gondii",
+   "latin": "Toxoplasma gondii",
+   "family": "Sarcocystidae",
+   "lead": "Toxoplasma gondii (Nicolle et Manceaux, 1908) čili kokcidie kočičí  je vnitrobuněčný parazitický prvok, vícehostitelská kokcidie, která parazituje v buňkách zvířat i člověka. Jejím definitivním hostitelem jsou kočkovité šelmy, mezihostitelem se může stát většina teplokrevných živočichů včetně člověka. Způsobuje toxoplazmózu (přičemž infikovanému plodu těhotné ženy hrozí úmrtí nebo vznik vážných\nvrozených vývojových vad). Nemocným s HIV může způsobit akutní zánět mozku. Rovněž může způsobit abort",
+   "facts": [
+    "Parazituje v buňkách zvířat i člověka.",
+    "Definitivním hostitelem jsou kočkovité šelmy.",
+    "Mezihostitelem může být většina teplokrevných živočichů.",
+    "Může způsobit abort u ovcí a koz."
+   ]
+  },
+  "Q221179": {
+   "name": "Streptococcus pneumoniae",
+   "latin": "Streptococcus pneumoniae",
+   "family": "Streptococcaceae",
+   "lead": "Streptococcus pneumoniae, též pneumokok, je grampozitivní alfa-hemolytický, aerotolerantní anaerobní kok z rodu Streptococcus. Tato bakterie je významným lidským patogenem, byla identifikována jako hlavní příčina pneumonie konce 19. století a je předmětem mnoha studií humorální imunity.\nNavzdory svému názvu tento mikrob způsobuje, kromě pneumonie, řadu dalších onemocnění, jako je akutní sinusitida, zánět středního ucha, meningitida, bakteriémie, sepse, osteomyelitida, septická artritida, endokar",
+   "facts": [
+    "Žije v horních cestách dýchacích u dětí.",
+    "Tento druh je nejčastější příčinou bakteriální meningitidy u dětí."
+   ]
+  },
+  "Q130971": {
+   "name": "Mycobacterium tuberculosis",
+   "latin": "Mycobacterium tuberculosis",
+   "family": "Mycobacteriaceae",
+   "lead": "Mycobacterium tuberculosis (MTB) je patogenní bakterie z rodu Mycobacterium. Způsobuje většinu případů tuberkulózy. Poprvé byla objevena Robertem Kochem v roce 1882. Má neobvyklý voskový plášť na povrchu buňky (především z kyseliny mykolové), který je nepropustný pro Gramovo barvení; místo něj se proto používají acid-fast techniky. M. tuberculosis je vysoce aerobní, bakterie potřebuje vysoké\nhladiny kyslíku. Primárně je tato bakterie patogenem v dýchací ústrojí savců, napadá plíce, kde způsobuje",
+   "facts": [
+    "Způsobuje většinu případů tuberkulózy.",
+    "Napadá hlavně plíce savců.",
+    "Dělí se přibližně jednou za 15 až 20 hodin.",
+    "Množí se uvnitř makrofágů."
+   ]
+  },
+  "Q1061596": {
+   "name": "Lactobacillus",
+   "latin": "Lactobacillus",
+   "family": "Lactobacillaceae",
+   "lead": "Lactobacillus je rod grampozitivních, fakultativně anaerobních či mikroaerofilních bakterií z kmene Firmicutes. Jsou známé tím, že rozkládají laktózu a jiné cukry na kyselinu mléčnou. Jsou běžně přítomné v různých prostředích a obvykle nejsou patogenní. Například u lidí jsou součástí mikroflóry v trávicí soustavě a ve vagíně. Mnoho druhů se účastní rozkladu zbytků rostlinných těl v přírodě.\nNěkteré laktobacily se používají při výrobě jogurtu, sýra, kysaného zelí, nakládaných okurek, piva, cideru",
+   "facts": [
+    "Rozkládají laktózu a jiné cukry na kyselinu mléčnou.",
+    "Podílejí se na tvorbě zubního kazu."
+   ]
+  }
+ }
+}

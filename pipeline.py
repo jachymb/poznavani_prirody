@@ -61,12 +61,17 @@ CLASSES = {
     "ostatni_houby": ("Q764", "Ostatní houby", "houby"),
     # Sekce Extra: druhy i rody, i bez českého jména. Má přednost před ostatními skupinami a do žádné říše se nepočítá.
     "vyhynula_zvirata": ("", "Vyhynulá zvířata", "vyhynule"),
-    "mikroorganismy": ("Q10876 Q10872 Q137323 Q473809 Q5368723 Q499091 Q11299399 Q21588562 Q129012 Q180148 Q5194 Q190115 Q144474 Q132609 Q1151744",
-                       "Mikroorganismy", "mikroorganismy"),
+    # bakterie, archea, prvoci a řasy, drobní živočichové, mikroskopické zelené řasy; kvasinky a plísně
+    "mikroorganismy": ("Q10876 Q10872 Q137323 Q473809 Q5368723 Q499091 Q11299399 Q21588562 Q129012 Q180148 Q5194 Q190115 Q144474 Q132609 Q1151744"
+                       " Q508019 Q843136 Q335130 Q141280 Q473747 Q132652 Q131260", "Mikroorganismy", "mikroorganismy"),
 }
 EXTRA = {"vyhynula_zvirata", "mikroorganismy"}
 EXTRA_EXCLUDE = {"Q184573"}  # hnědé řasy patří do SAR, ale mikroskopické nejsou
 EXTRA_EXCLUDE_IDS = {"Q1738729"}  # urnička pohárová je houba, Wikidata ji chybně řadí mezi prvoky
+EXTRA_INCLUDE_IDS = {"mikroorganismy": {"Q1135851", "Q26816853"}}  # plíseň šedá, Candida auris: jinde ve stromu
+# Mikroorganismy bez článku o druhu nebo rodu: náhradou je obsáhlý článek o vyšším taxonu („Želvuška – Tardigrada spp.“).
+EXTRA_HIGHER = {"Q5194": "Želvuška", "Q180148": "Vířník", "Q430301": "Pijavenka", "Q190115": "Břichobrvka", "Q107027": "Dírkonošec",
+                "Q107920": "Mřížovec", "Q162678": "Rozsivka", "Q1647990": "Kokolitka"}
 EXTINCT = "Q23038290 Q237350"  # fosilní taxon (P31), vyhynulý (P141)
 EXTRA_RANKS = "wd:Q7432 wd:Q34740"  # druh, rod: dinosauři a mnoho mikroorganismů mají český článek jen o rodu
 # Skupiny ve hře: smí obsahovat jen druhy, které do taxonu opravdu patří, podle jejich stromu na Wikidatech.
@@ -369,11 +374,13 @@ def extra_members(slug):
             found |= {r["s"]["value"].rsplit("/", 1)[1] for r in rows}
         for root in EXTRA_EXCLUDE:
             found -= {r["s"]["value"].rsplit("/", 1)[1] for r in sparql(f"SELECT DISTINCT ?s WHERE {{ ?s wdt:P171+ wd:{root}. {article} }}")}
-        found = sorted(found)
+        found = sorted(found | EXTRA_INCLUDE_IDS.get(slug, set()))
     # rod, jehož druh má vlastní článek, by se ve hře ukázal dvakrát
     parents = parent_map(found)
     direct = {p for s in found for p in parents.get(s, [])}
     result = {"members": [s for s in found if s not in direct and s not in EXTRA_EXCLUDE_IDS]}
+    if slug == "mikroorganismy":  # vyšší taxony až po vyřazení rodů s druhy: vířníci jsou nadřazení pijavenkám a zůstávají oba
+        result["members"] += sorted(EXTRA_HIGHER)
     if slug == "vyhynula_zvirata":  # kvůli emoji: dinosauři mimo ptáky 🦖, ptáci 🐦
         result["birds"] = [s for s in result["members"] if has_ancestor(s, "Q5113", parents)]
         result["dinosaurs"] = [s for s in result["members"] if has_ancestor(s, "Q430", parents) and s not in result["birds"]]
@@ -477,7 +484,7 @@ def fetch_species(slug, sid, sp):
     photos = download_photos(thumbs, sid, candidates or commons_candidates(sp["commons"] or sp["latin"], relaxed=relaxed))
     if not photos:
         return "photoless"
-    name = re.sub(r"\s*\(.*\)$", "", sp["title"])
+    name = sp.get("name") or re.sub(r"\s*\(.*\)$", "", sp["title"])
     target = 2 if len(text) < 3000 else 4 if len(text) < 8000 else 6 if len(text) < 20000 else 8
     head = [f"NÁZEV: {name}", f"LATINSKY: {sp['latin']}", f"POČET TVRZENÍ: {target}", "FOTKY:"]
     head += [f"  {i}: data/{slug}/thumbs/{sid}_{i}.jpg | soubor: {p['file']} | popis: {p['desc']}" for i, p in enumerate(photos)]
@@ -500,6 +507,8 @@ def fetch(slug):
     existing = json.loads(species_file.read_text("utf-8")) if species_file.exists() else {}
     if slug in EXTRA:  # Extra má přednost: druh z jiné skupiny se zpracuje znovu tady, s pravidly pro Extra
         listed = species_details([s for s in extra_members(slug)["members"] if s not in existing])
+        for sid in set(listed) & set(EXTRA_HIGHER):
+            listed[sid].update(name=EXTRA_HIGHER[sid], latin=listed[sid]["latin"] + " spp.")
     else:
         listed = list_species(CLASSES[slug][0].split(), others | set(existing))
     found = {k: v for k, v in listed.items() if not v["latin"].startswith(EXCLUDE) and (v["title"] != v["latin"] or k in LATIN_ONLY or slug in EXTRA)}
@@ -726,8 +735,10 @@ def text_problem(text, sp):
 
 
 def restored_photos(base):
-    """Fotky, které opakovaná kontrola (úlohy h_) vrátila: dřív je zamítlo jen lidské prostředí kolem volně žijícího zvířete."""
-    return {(d["species_id"], d["i"]) for file in sorted((base / "review").glob("h_*.json")) for d in read_json(file).get("restore_photos", [])}
+    """Fotky, které opakovaná kontrola vrátila: úlohy h_ (zamítlo je jen lidské prostředí kolem volně žijícího zvířete)
+    a s_ (zamítla je jen to, že ukazují schránku, u živočichů žijících ve schránce)."""
+    files = sorted([*(base / "review").glob("h_*.json"), *(base / "review").glob("s_*.json")])
+    return {(d["species_id"], d["i"]) for file in files for d in read_json(file).get("restore_photos", [])}
 
 
 def article_body(file):
@@ -953,6 +964,45 @@ def sync_human_review(slug, batch=30):
     for n in range(0, len(items), batch):
         (jobs_dir / f"h_{start + n // batch:04}.json").write_text(json.dumps(items[n:n + batch], ensure_ascii=False, indent=1), encoding="utf-8")
     print(f"{slug}: fotek k opětovnému posouzení prostředí {len(items)}")
+
+
+SHELL_ONLY = re.compile(r"ulit|lastur|schránk|mušl|skořáp|zavřen", re.I)
+NOT_IN_NATURE = re.compile(r"muze|sbír|sbirk|preparát|exponát|etiket|ruce|ruka|ruku|dlan|stůl|stole|ubrus|pozadí|studi|tabul|krabič", re.I)
+
+
+def sync_shell_review(slug, batch=30):
+    """Jednorázově znovu posoudí fotky zamítnuté jen proto, že ukazují schránku nebo zavřeného mlže (měkkýši, korýši)."""
+    if slug not in ("mekkysi", "korysi", "ostatni_bezobratli", "ostatni_zivocichove"):
+        return
+    base, species_file, _, _, facts_dir, _, _ = paths(slug)
+    species = json.loads(species_file.read_text("utf-8"))
+    jobs_dir = base / "review_jobs"
+    done = {(item["species_id"], item["i"]) for job in jobs_dir.glob("s_*.json") for item in read_json(job)}
+    rejected = {}
+
+    def note(sid, i, why):
+        why = why or ""
+        if sid in species and 0 <= i < len(species[sid]["photos"]) and (sid, i) not in done and SHELL_ONLY.search(why) and not NOT_IN_NATURE.search(why):
+            rejected.setdefault((sid, i), why)
+
+    for file in sorted(facts_dir.glob("*.json")):
+        for p in read_json(file).get("photos", []):
+            if not p.get("ok"):
+                note(file.stem, p["i"], p.get("why"))
+    for file in sorted((base / "more_photos").glob("*.json")):
+        for p in read_json(file).get("photos", []):
+            if not p.get("ok"):
+                note(file.stem.split("_")[0], p["i"], p.get("why"))
+    for file in sorted((base / "review").glob("*.json")):
+        for d in read_json(file).get("reject_photos", []):
+            note(d["species_id"], d["i"], d.get("why"))
+    items = [{"species_id": sid, "i": i, "species": species[sid]["name"], "latin": species[sid]["latin"], "file": species[sid]["photos"][i]["file"],
+              "desc": species[sid]["photos"][i]["desc"], "image": f"data/{slug}/thumbs/{sid}_{i}.jpg", "rejected": why}
+             for (sid, i), why in sorted(rejected.items()) if (base / "thumbs" / f"{sid}_{i}.jpg").exists()]
+    start = next_job_number(jobs_dir, "s_")
+    for n in range(0, len(items), batch):
+        (jobs_dir / f"s_{start + n // batch:04}.json").write_text(json.dumps(items[n:n + batch], ensure_ascii=False, indent=1), encoding="utf-8")
+    print(f"{slug}: fotek schránek k opětovnému posouzení {len(items)}")
 
 
 def sync_needy_negatives(slug, batch=20, candidates=12, minimum=3, rounds=2):
@@ -1309,4 +1359,5 @@ def write_game_data():
 if __name__ == "__main__":
     sys.stdout.reconfigure(encoding="utf-8")
     {"fetch": fetch, "photos": more_photos, "retry": retry_photos, "fill": fill_photos, "wild": sync_wild_review, "human": sync_human_review,
+     "shells": sync_shell_review,
      "foreign": fetch_foreign, "next": next_batch, "todo": todo, "build": build, "popularity": popularity}[sys.argv[1]](sys.argv[2])

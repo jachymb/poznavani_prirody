@@ -1,0 +1,155 @@
+{
+ "facts": [
+  {
+   "id": "Q2442109#0",
+   "species": "Propionibacterium acnes",
+   "text": "Živí se mastnými kyselinami z kožního mazu.",
+   "quote": "Živí se mastnými kyselinami obsaženými v kožním mazu z mazových žláz."
+  },
+  {
+   "id": "Q2442109#1",
+   "species": "Propionibacterium acnes",
+   "text": "Když se ucpe mazová žláza, přemnoží se a tvoří akné.",
+   "quote": "Ucpe-li se vývod mazové žlázy, tato anaerobní bakterie se přemnoží a vylučuje chemické látky, které narušují stěnu póru, umožňuje bakteriím jako Staphylococcus aureus šířit se do kůže a tvoří ložiska akné"
+  }
+ ],
+ "candidates": {
+  "Q180556": {
+   "name": "Helicobacter pylori",
+   "latin": "Helicobacter pylori",
+   "family": "Helicobacteraceae",
+   "lead": "Helicobacter pylori (název složen ze slov: „helix“–šroubovice, „bacter“–bakterie, „pylorus“–vrátník) je druh mikroaerofilní gramnegativní patogenní bakterie, jež napadá sliznici žaludku. Odhaduje se, že je ve vyspělých zemích touto bakterií infikována více než polovina dospělých po 60 letech věku,[zdroj?] ačkoliv nemusí vždy vyvolat onemocnění. Způsobuje zejména žaludeční vředy, má však zřejmě na\nsvědomí i různé gastritidy, adenokarcinom žaludku či lymfomy mízní tkáně v žaludku.\n\n\n== Historie ob",
+   "facts": [
+    "Napadá sliznici žaludku.",
+    "Způsobuje žaludeční vředy.",
+    "Přenáší se slinami nebo výkaly nakaženého člověka.",
+    "Rozkládá močovinu v lidském žaludku.",
+    "Na povrchu má 4 až 6 bičíků.",
+    "Měří 2,8 až 3,3 mikrometru na délku.",
+    "Žije i v žaludcích psů a jiných savců.",
+    "Tvoří toxin, který ničí buňky žaludku."
+   ]
+  },
+  "Q155630": {
+   "name": "Lamblie střevní",
+   "latin": "Giardia lamblia",
+   "family": "Hexamitidae",
+   "lead": "Lamblie střevní (Giardia intestinalis, G. lamblia nebo G. duodenalis) je parazitický prvok z řádu diplomonád. V širším pojetí se jedná o několik druhů, které lze od sebe odlišit na základě charakteristických morfologických znaků u trofozoitů. Onemocnění způsobené lambliemi se označuje jako giardióza či lamblióza.\n\n\n== Popis ==\nLamblie nemá buněčná ústa a živí se tak pouze pinocytoticky. Také má jen redukované mitochondrie: označují se jako mitozomy a neobsahují na rozdíl od mitochondrií genom. N",
+   "facts": [
+    "Tento druh má dvě jádra.",
+    "Tento druh má 6 předních a 2 zadní bičíky.",
+    "Tento druh tvoří cysty, které přežijí ve studené vodě týdny až měsíce."
+   ]
+  },
+  "Q2658061": {
+   "name": "Sarcocystis",
+   "latin": "Sarcocystis",
+   "family": "Sarcocystidae",
+   "lead": "Sarcocystis (ze starořeckého σάρξ (sáarx) – maso a κύστις (kúystis) – měchýř), česky jako svalovky, je rod parazitických, obligátně dvouhostitelských kokcidií. Jejich definitivními hostiteli jsou masožravci – např. savci, dravci a sovy, hadi, apod. Nejméně dva známé druhy (S. suihominis a S. bovihominis) napadají jako definitivního hostitele člověka. Člověk však může vystupovat i v roli\nmezihostitele.\nJejich životní cyklus často zahrnuje predátora jako definitivního hostitele a jeho kořist jako ",
+   "facts": [
+    "Definitivními hostiteli jsou masožravci, například dravci a sovy.",
+    "Kořist slouží jako mezihostitel, predátor jako definitivní hostitel.",
+    "Cysty najdeme ve svalech mezihostitele, třeba v jazyku nebo srdci.",
+    "Člověk se může nakazit jedením syrového masa.",
+    "Důkladným vařením masa se nákaze dá zabránit.",
+    "Nákazy jsou časté u domácích zvířat, třeba skotu nebo ovcí."
+   ]
+  },
+  "Q3497618": {
+   "name": "Eimeria maxima",
+   "latin": "Eimeria maxima",
+   "family": "Eimeriidae",
+   "lead": "Eimeria maxima je kokcidie kura domácího. Parazituje ve střední části tenkého střeva, od duodenální kličky až po divertikulum žloutkového váčku, ale po silné infekci se mohou změny nacházet v průběhu celého střeva. Pro E. maxima jsou typické velké, nažloutlé až hnědavé oocysty, dosahující v průměru 30,5 x 20,7 µm. Odlišuje se od E. necatrix nepřítomností velkých schizontů v otiskových preparátech\nz postižených míst sliznice střeva a od E. brunetti velkými oocystami a vzhledem lézí.\nE. maxima je ",
+   "facts": [
+    "Parazituje ve střední části tenkého střeva kuřat.",
+    "Z jedné pozřené oocysty může vzniknout až 12 000 oocyst."
+   ]
+  },
+  "Q153875": {
+   "name": "Yersinia pestis",
+   "latin": "Yersinia pestis",
+   "family": "Yersiniaceae",
+   "lead": "Yersinia pestis (původně Pasteurella pestis) je patogenní gramnegativní bakterie z čeledi Yersiniaceae . Jedná se o fakultativní anaerobní bakterii, která je přenositelná na zvíře i na člověka.\nLidské infekce Yersinií pestis, způsobující mor, se projevují ve třech hlavních formách, které souvisí s místem vstupu infekce do těla. Rozlišujeme formu dýmějovou, septickou (sepse, otrava krve) a plicní. Všechny tyto tři formy jsou odpovědné za vysokou úmrtnost během epidemií v lidské historii, včetně t",
+   "facts": [
+    "Tento druh se přenáší blechami, které napadají hlodavce.",
+    "Tento druh v přírodě udržují některé druhy hlodavců.",
+    "Mor může způsobit zhroucení celé kolonie psounů.",
+    "Mor škodí i jiným savcům než člověku.",
+    "Způsobuje mor u lidí.",
+    "Při Černé smrti zemřela nejméně třetina evropské populace."
+   ]
+  },
+  "Q148710": {
+   "name": "Šroubatka",
+   "latin": "Spirogyra",
+   "family": "Zygnemataceae",
+   "lead": "Šroubatka (Spirogyra) je rod vláknitých zelených řas pojmenovaných podle charakteristického uspořádání chloroplastů do šroubovice. Šroubatky patří do třídy spájivek, pro kterou je společný charakteristický druh pohlavního rozmnožování, tzv. spájení.\nŠroubatky sloužily jako raný modelový organismus pro studium chloroplastů. Roku 1882 Theodor Wilhelm Engelmann prokázal, že fotosyntéza probíhá na chloroplastech. Pozoroval malé bakterie pohybující se za zdrojem kyslíku. Na povrchu šroubatky se bakte",
+   "facts": [
+    "Chloroplasty jsou uspořádané do šroubovice.",
+    "Na tomto druhu se shlukují bakterie tam, kde vzniká kyslík."
+   ]
+  },
+  "Q131029": {
+   "name": "Shigella",
+   "latin": "Shigella",
+   "family": "Enterobacteriaceae",
+   "lead": "Shigella je rod gramnegativních, nesporulujících tyčinkovitých bakterií. Rod byl pojmenován po japonském bakteriologovi Kiyoshi Shigovi (1871–1957), který ho objevil v roce 1897. Bakterie jsou původci onemocnění shigelóza, tedy bacilární úplavice. Tato nemoc byla dosud zaznamenána jen u goril a lidí. Odhaduje se, že ročně způsobuje Shigella celosvětově 80–165 milionů případů, z čehož zřejmě až 600\n000 postižených zemře. V Česku bývá ročně zaznamenáno asi 400 případů tohoto onemocnění (zvláště u ",
+   "facts": [
+    "Způsobuje nemoc zvanou úplavice.",
+    "Zdrojem infekce bývá nakažená potrava, hlavně mléko a voda."
+   ]
+  },
+  "Q3021915": {
+   "name": "Váleč koulivý",
+   "latin": "Volvox globator",
+   "family": "Volvocaceae",
+   "lead": "Váleč koulivý (Volvox globator) je známá sladkovodní zelená řasa z řádu Volvocales, která tvoří kulovitá cenobia, tedy zvláštní koloniální útvary tvořené stejně starými buňkami a rozmnožující se tvorbou dceřiných cenobií.\n\n\n== Stavba cenobia a rozmnožování ==\nCenobium je kulovitého tvaru a naplněné slizem. Jednotlivé buňky jsou přizpůsobené k určité funkci: na povrchu koule jsou buňky s bičíky (každá buňka má bičíky dva) a uvnitř se nacházejí bezbičíkaté buňky. Je známo pohlavní i nepohlavní roz",
+   "facts": [
+    "Tento druh žije v relativně čistých vodách.",
+    "Tento druh tvoří kulovité kolonie."
+   ]
+  },
+  "Q3018329": {
+   "name": "Orientia tsutsugamushi",
+   "latin": "Orientia tsutsugamushi",
+   "family": "Rickettsiaceae",
+   "lead": "Orientia tsutsugamushi (dříve Rickettsia tsutsugamushi) je obligátní intracelulární parazitická gramnegativní bakterie z řádu Rickettsiales způsobující nemoc zvanou cucugamuši neboli křovinný tyfus, někdy také nazývanou japonská říční horečka. Bakterie je přenášena larvami roztočů rodu Leptotrombidium.\n\n\n== Taxonomie ==\nBakterie byla původně klasifikována jako Theileria tsutsugamushi, ale v roce 1995 byla překlasifikována na Orientia tsutsugamushi, vzhledem k významně odlišným fenotypovým i geno",
+   "facts": [
+    "Způsobuje nemoc zvanou křovinný tyfus.",
+    "Tento druh přenášejí larvy roztočů."
+   ]
+  },
+  "Q1114305": {
+   "name": "Haemophilus ducreyi",
+   "latin": "Haemophilus ducreyi",
+   "family": "Q142666",
+   "lead": "Haemophilus ducreyi je gramnegativní kokobacil, která je původcem sexuálně přenosné nemoci měkký vřed, známé též pod názvy ulcus molle či chankroid. Bakterie má tvar tyčky o délce 1,5–2,0 µm a je citlivá na zvýšenou teplotu a vyschnutí.\nPoprvé byla prokázána v roce 1889 italským vědcem Augusto Ducreyim.",
+   "facts": [
+    "Způsobuje sexuálně přenosnou nemoc měkký vřed.",
+    "Bakterie má tvar tyčky dlouhé 1,5–2,0 µm."
+   ]
+  },
+  "Q836301": {
+   "name": "Brucella suis",
+   "latin": "Brucella suis",
+   "family": "Brucellaceae",
+   "lead": "Brucella suis je gram-negativní kokovitá bakterie z rodu Brucella. Jedná se o nepohyblivou, striktně aerobní, kataláza pozitivní bakterii, která se kultivuje na tryptonovém nebo Brucella agaru či Farezově půdě při atmosféře 10 % CO2. Je původcem brucelózy prasat, ale i dalších zvířat. Vyskytuje v celkem 5 různých biovarech. K infekci je vnímavý i člověk, pro něhož jsou velmi patogenní biovary 1 a\n3. V České republice se vyskytuje u zajíců v některých oblastech B. suis biovar 2. U prasat V ČR byl",
+   "facts": [
+    "Způsobuje nemoc prasat i dalších zvířat.",
+    "V Česku se vyskytuje u zajíců v některých oblastech."
+   ]
+  },
+  "Q6823576": {
+   "name": "Methanobacterium",
+   "latin": "Methanobacterium",
+   "family": "Methanobacteriaceae",
+   "lead": "Methanobacterium je prokaryotní jednobuněčný organismus zařazený do domény Archaea, kmen Euryarchaeota. Jedná se o striktně anaerobní mikroorganismus, který se vyskytuje např. v trávicím traktu přežvýkavců či ve vodních sedimentech. Methanogenní archea hrají nezbytnou roli v cyklu uhlíku. Jsou totiž zodpovědné za poslední krok mineralizace organické hmoty za anaerobních podmínek za vzniku methanu.\n\n\n== Charakteristika ==\nZástupci rodu Methanobacterium jsou zakřivené či rovné, dlouhé až vláknité ",
+   "facts": [
+    "Vyskytuje se v trávicím traktu přežvýkavců.",
+    "Jako zdroj energie využívá vodík.",
+    "Pomáhá vyrábět methan v bioplynových stanicích.",
+    "Žije ve spolupráci s jinými mikroorganismy v bioplynových stanicích."
+   ]
+  }
+ }
+}

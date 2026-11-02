@@ -1,0 +1,251 @@
+{
+ "facts": [
+  {
+   "id": "Q131029#0",
+   "species": "Shigella",
+   "text": "Způsobuje nemoc zvanou úplavice.",
+   "quote": "Bakterie jsou původci onemocnění shigelóza, tedy bacilární úplavice."
+  },
+  {
+   "id": "Q135177#0",
+   "species": "Yersinia enterocolitica",
+   "text": "Často způsobuje nemoci lidí z vepřového masa, nepasterizovaného mléka nebo ústřic.",
+   "quote": "Je častým původcem alimentárních onemocnění lidí v souvislosti s konzumací vepřového masa, nepasterizovaného mléka, případně ústřic."
+  },
+  {
+   "id": "Q153875#5",
+   "species": "Yersinia pestis",
+   "text": "Při Černé smrti zemřela nejméně třetina evropské populace.",
+   "quote": "Černé smrti, jež zahubila nejméně třetinu evropské populace"
+  },
+  {
+   "id": "Q140004#2",
+   "species": "Serratia marcescens",
+   "text": "Může způsobit smrtelnou nemoc bource morušového.",
+   "quote": "Může způsobovat smrtelná onemocnění bource morušového"
+  },
+  {
+   "id": "Q140004#3",
+   "species": "Serratia marcescens",
+   "text": "Je zodpovědná za 1,4 % infekcí získaných v nemocnicích ve Spojených státech.",
+   "quote": "je zodpovědná za 1,4 % případů HAI ve Spojených státech"
+  },
+  {
+   "id": "Q62895951#1",
+   "species": "Enterobacter aerogenes",
+   "text": "Kazí javorovou šťávu a sirup.",
+   "quote": "E. aerogenes může způsobit kažení javorové šťávy a sirupu."
+  },
+  {
+   "id": "Q135177#1",
+   "species": "Yersinia enterocolitica",
+   "text": "Dokáže růst i v chladničce.",
+   "quote": "je schopna růstu v chladničkových teplotách"
+  },
+  {
+   "id": "Q132592#1",
+   "species": "Klebsiella pneumoniae",
+   "text": "Zhruba 30 % kmenů tohoto druhu umí vázat dusík bez kyslíku.",
+   "quote": "zhruba 30 % kmenů dokáže za anaerobních podmínek fixovat dusík"
+  },
+  {
+   "id": "Q139928#0",
+   "species": "Yersinia pseudotuberculosis",
+   "text": "Způsobuje bakteriální onemocnění savců i ptáků.",
+   "quote": "bakteriálního onemocnění savců i ptáků"
+  },
+  {
+   "id": "Q153875#4",
+   "species": "Yersinia pestis",
+   "text": "Způsobuje mor u lidí.",
+   "quote": "Lidské infekce Yersinií pestis, způsobující mor"
+  },
+  {
+   "id": "Q25419#0",
+   "species": "Escherichia coli",
+   "text": "Žije ve střevech teplokrevných živočichů, včetně člověka.",
+   "quote": "E. coli patří ke střevní mikroflóře teplokrevných živočichů včetně člověka"
+  },
+  {
+   "id": "Q132592#0",
+   "species": "Klebsiella pneumoniae",
+   "text": "Tento druh způsobuje mnoho infekcí, které lidé získají v nemocnici.",
+   "quote": "Mnoho z těchto infekcí lidé získávají při hospitalizaci v nemocnici"
+  },
+  {
+   "id": "Q25419#1",
+   "species": "Escherichia coli",
+   "text": "Patogenní kmeny způsobují u člověka průjmy.",
+   "quote": "Pokud se bakterie dostane do intestinálního traktu člověka, vyvolává infekce provázené průjmy."
+  },
+  {
+   "id": "Q62895951#0",
+   "species": "Enterobacter aerogenes",
+   "text": "Žije v lidském trávicím ústrojí, zdravým lidem nezpůsobuje nemoc.",
+   "quote": "E. aerogenes je obecně rozšířen v lidské trávicí soustavě a u zdravých lidí nezpůsobuje onemocnění."
+  },
+  {
+   "id": "Q139928#1",
+   "species": "Yersinia pseudotuberculosis",
+   "text": "Tento druh rychle hyne na slunečním světle, v suchu i v teple.",
+   "quote": "je rychle inaktivována slunečním světlem, suchem, teplem"
+  },
+  {
+   "id": "Q25419#2",
+   "species": "Escherichia coli",
+   "text": "Často způsobuje infekce získané v nemocnicích.",
+   "quote": "Často způsobuje nosokomiální infekce, tj. infekce získané v nemocnicích."
+  },
+  {
+   "id": "Q25419#5",
+   "species": "Escherichia coli",
+   "text": "Za dobrých podmínek se dělí zhruba každých 20 minut.",
+   "quote": "Při optimálních podmínkách (37 °C, dostatek živin) je doba generace zhruba 20 min."
+  },
+  {
+   "id": "Q131029#1",
+   "species": "Shigella",
+   "text": "Zdrojem infekce bývá nakažená potrava, hlavně mléko a voda.",
+   "quote": "Zdrojem infekce bývá nemocný nebo nakažená potrava a tekutiny, především mléko a voda."
+  },
+  {
+   "id": "Q140004#0",
+   "species": "Serratia marcescens",
+   "text": "Živí se mastnými látkami, například zbytky mýdla.",
+   "quote": "mastnými látkami, jako jsou zbytky mýdla"
+  },
+  {
+   "id": "Q25419#3",
+   "species": "Escherichia coli",
+   "text": "Využívá se v biotechnologiích a genovém inženýrství.",
+   "quote": "což je důvodem jejího využití v biotechnologiích a genovém inženýrství"
+  }
+ ],
+ "candidates": {
+  "Q292015": {
+   "name": "Listeria monocytogenes",
+   "latin": "Listeria monocytogenes",
+   "family": "Listeriaceae",
+   "lead": "Listeria monocytogenes je malá grampozitivní, pohyblivá nesporulující bakterie z čeledi Listeriaceae. Jako saprofyt a epifyt kolonizuje trávicí trakt člověka i zvířat, žije také ve vodě, bahně nebo půdě, je schopna kontaminovat potraviny a krmiva a jako potenciální patogen je původce onemocnění lidí i zvířat, listeriózy. V Evropě a USA způsobuje listerie nejvíce úmrtí ze všech známých\npotravinových patogenů.\n\n\n== Popis ==\nL. monocytogenes je kataláza pozitivní, malá a krátká grampozitivní tyčink",
+   "facts": [
+    "Tento druh se dokáže množit i při 4 °C.",
+    "Tento druh je parazit, který se množí uvnitř buněk hostitele.",
+    "Tento druh způsobuje nemoc lidí i zvířat.",
+    "Tento druh žije volně v půdě, ve vodě i na rostlinách."
+   ]
+  },
+  "Q156007": {
+   "name": "Treponema pallidum",
+   "latin": "Treponema pallidum",
+   "family": "Treponemataceae",
+   "lead": "Treponema pallidum je gramnegativní bakterie z kmene spirochét. Tento druh zahrnuje několik poddruhů, zejména však T. pallidum pallidum, původce syfilidy; T. pallidum pertenue, původce frambezie a T. pallidum endemicum, který způsobuje endemickou syfilitidu. Původce onemocnění pinta (Treponema carateum) bývá řazen do samostatného druhu.\nTreponema pallidum je pohyblivá spirocheta, která se nejčastěji přenáší pohlavním stykem. Do těla se dostává otvory v epitelu pohlavních orgánů. Také však docház",
+   "facts": [
+    "Způsobuje syfilis.",
+    "Jeho genom má 1,14 milionu párů bází."
+   ]
+  },
+  "Q18645284": {
+   "name": "Prochlorococcus",
+   "latin": "Prochlorococcus",
+   "family": "Prochlorococcaceae",
+   "lead": "Prochlorococcus je rod velmi malých (0.6 µm) mořských sinic, které uvnitř svých buněk obsahují pro sinice neobvyklý chlorofyl b. Řadí se k fotosyntetizujícímu mořskému pikoplanktonu. Je to pravděpodobně nejrozšířenější (počtem odhadovaných jedinců) fotosyntetizující organismus na Zemi vůbec.\n\n\n== Historie výzkumu ==\nPřestože zprávy o existenci sinic s chlorofylem b byly již dříve,, Prochlorococcus byl popsán až v roce 1986 Sallie W. (Penny) Chisholmovou z Massachusettského technologického instit",
+   "facts": [
+    "Tento druh vytvoří až 20 % kyslíku, který vzniká fotosyntézou.",
+    "Tvoří významnou součást potravního řetězce v oceánu."
+   ]
+  },
+  "Q309465": {
+   "name": "Clostridium perfringens",
+   "latin": "Clostridium perfringens",
+   "family": "Clostridiaceae",
+   "lead": "Clostridium perfringens (dříve též C. welchii) je grampozitivní tyčinkovitá anaerobní sporulující bakterie z rodu Clostridium. C. perfringens je v přírodě všudypřítomná a je běžně obsažena v rozkládající se vegetaci, mořském sedimentu, trávicí soustavě člověka i jiných obratlovců, na tělech hmyzu a v půdě.\n\n\n== Infekční charakteristika ==\nClostridium perfringens se běžně vyskytuje v infekcích jako benigní složka normální flóry. V tomto případě je její role při onemocnění malá.\nInfekce C. perfrin",
+   "facts": [
+    "Tento druh je nejčastějším bakteriálním původcem plynaté sněti.",
+    "Nemoc se objeví 6 až 24 hodin po požití.",
+    "Vytváří toxin, který zabíjí buňky.",
+    "Žije v půdě, v rozkládající se vegetaci i na tělech hmyzu."
+   ]
+  },
+  "Q131129": {
+   "name": "Neisseria gonorrhoeae",
+   "latin": "Neisseria gonorrhoeae",
+   "family": "Neisseriaceae",
+   "lead": "Neisseria gonorrhoeae je gramnegativní bakterie z kmene proteobakterií, která vyvolává pohlavně přenosnou chorobu kapavku. Jsou to velmi choulostivé a kultivačně náročné diplokoky. Jednotlivé koky mají tvar kávového zrna. Kapavka u muže probíhá obvykle jako hnisavá uretritida a u ženy jako cervicitida.\n\n\n== Diagnostika ==\nPři podezření na kapavku prokazujeme N. gonorrhoeae ve výtěru z pochvy, děložního hrdla a močové trubice, obvykle také z rekta; u muže pak z močové trubice a rekta.",
+   "facts": [
+    "Způsobuje pohlavně přenosnou nemoc zvanou kapavka.",
+    "Jednotlivé bakterie mají tvar kávového zrna."
+   ]
+  },
+  "Q520210": {
+   "name": "Vlčí mléko červené",
+   "latin": "Lycogala epidendrum",
+   "family": "Enteridiidae",
+   "lead": "Vlčí mléko červené (Lycogala epidendrum), synonymem pýchavička vlčí mléko je hlenka řazená v současnosti mezi Amoebozoa. Jde o jednu z nejznámějších a běžně se vyskytujících zástupců hlenek.\n\n\n== Rozšíření a výživa ==\nVlčí mléko červené se vyskytuje většinou po celý rok. Největší aktivitu vykazuje od července do října. Nalezneme jej na vlhkých, tlejících pařezech, větvích či kůře, kde vytváří malé kolonie. Živí se bakteriemi, výtrusy jiných hub a ostatními mikroorganismy.\n\n\n== Anatomie a morfolo",
+   "facts": [
+    "Živí se bakteriemi a výtrusy jiných hub.",
+    "Plodnice mají průměr 0,3 až 1,5 cm."
+   ]
+  },
+  "Q133186": {
+   "name": "Bacteroides",
+   "latin": "Bacteroides",
+   "family": "Bacteroidaceae",
+   "lead": "Bacteroides je rod gramnegativních anaerobních nesporolujících bakterií tyčinkovitého tvaru. Jsou velmi rezistentní ke žluči, málo štěpí cukry. Obsah GC bází je 40–48 %. Bacteroides obsahují v membráně sfingolipidy, v buněčné stěně kyselinu diaminopimelovou.\nNormálně jsou Bacteroides mutualistické druhy, významné součásti normální lidské střevní mikroflóry. Hrají roli v trávení složitých molekul. Bacteroides vyvolávají nekrotické záněty, léčí se antibiotiky. Jsou však rezistentní na ampicilin a ",
+   "facts": [
+    "Žije ve střevě člověka a pomáhá mu trávit."
+   ]
+  },
+  "Q311435": {
+   "name": "Herminiimonas glaciei",
+   "latin": "Herminiimonas glaciei",
+   "family": "Oxalobacteraceae",
+   "lead": "Herminiimonas glaciei je druh ultramikrobakterie z čeledi Oxalobacteraceae. Tyto malé gramnegativní bakterie mají na konci jejich tyčinkovitých těl mnoho dlouhých bičíků. Herminiimonas glaciei je velká od 0,5–0,9 do 0,3–0,4 µm, což je 10–50krát méně, než bakterie Escherichia coli. Tato mikrobakterie byla objevena v roce 2009, a to ve 120 000 let starém grónském ledu v hloubce 3042 m.",
+   "facts": [
+    "Tento druh byl objeven v roce 2009 v 120 000 let starém grónském ledu.",
+    "Tento druh má na konci tyčinkovitého těla mnoho dlouhých bičíků."
+   ]
+  },
+  "Q131065": {
+   "name": "Chlamydia trachomatis",
+   "latin": "Chlamydia trachomatis",
+   "family": "Chlamydiaceae",
+   "lead": "Chlamydia trachomatis jsou gramnegativní bakterie, které parazitují uvnitř vnímavých buněk sliznic. Jedná se o jednoho ze tří původců chlamydiózy. Bakterie má dvoufázový životní cyklus, který se odehrává mimo i uvnitř buňky. Cyklus je ukončen prasknutím buňky a výsevem infekčních tělísek, které infikují další buňky. Tento cyklus trvá obvykle 48 až 72 hodin. Chlamydia trachomatis se přenáší\npohlavním stykem a může u mužů i u žen způsobit vážné zdravotní komplikace.\n\n\n== Příznaky ==\nMezi příznaky ",
+   "facts": [
+    "Parazituje uvnitř vnímavých buněk sliznic.",
+    "Přenáší se pohlavním stykem."
+   ]
+  },
+  "Q154625": {
+   "name": "Neisseria meningitidis",
+   "latin": "Neisseria meningitidis",
+   "family": "Neisseriaceae",
+   "lead": "Neisseria meningitidis (též meningococcus, meningokok) je gramnegativní diplokokální bakterie, původce jednoho typu meningitidy. Infikuje jen člověka, neexistuje žádný jiný přirozený rezervoár. Meningitida způsobená touto bakterií je také jedinou, která vyvolává epidemii.\nNeisseria meningitidis může obývat u některých lidí nosohltan a nevyvolávat žádné příznaky onemocnění. Nosiči jsou proti ní imunní, ale onemocnění se může přenést na jiné osoby. Po infikování je klinický obraz pestrý, od nasofa",
+   "facts": [
+    "Infikuje jen člověka.",
+    "U některých lidí žije v nosohltanu bez příznaků.",
+    "Přenáší se kapénkově.",
+    "Měří přibližně 1 μm."
+   ]
+  },
+  "Q56290719": {
+   "name": "Clostridioides difficile",
+   "latin": "Clostridioides difficile",
+   "family": "Peptostreptococcaceae",
+   "lead": "Clostridioides difficile, starší název Clostridium difficile (z řeckého κλωστήρ, kloster, vřeteno a latinského dis- + facilis, obtížný, nesnadný), též „CDF/cdf“ nebo „C. diff“, je grampozitivní bakterie z rodu Clostridium, která způsobuje průjem nebo jiná onemocnění trávicího traktu v situacích, kdy je běžná střevní mikroflóra potlačena antibiotiky.\nKlostridia jsou anaerobní sporulující tyčinky. C. difficile je nejzávažnějším původcem průjmů spjatých s antibiotiky (ADD) a může způsobovat pseudom",
+   "facts": [
+    "Způsobuje průjem v trávicím traktu, když jsou střevní bakterie potlačeny antibiotiky.",
+    "Tento druh uvolňuje toxiny, které mohou způsobit nadýmání a průjem."
+   ]
+  },
+  "Q2697755": {
+   "name": "Aeromonas hydrophila",
+   "latin": "Aeromonas hydrophila",
+   "family": "Aeromonadaceae",
+   "lead": "Aeromonas hydrophila je heterotrofní, gramnegativní bakterie, která se vyskytuje především v oblastech s teplejším podnebím. Je možné ji najít v sladké, slané, mořské, brakické, chlorované i nechlorované vodě. Aeromonas hydrophila přežívá jak v aerobním, tak i anaerobním prostředí. Živnou půdou jí může být želatina a hemoglobin. Bakterie byla izolována u lidí a u živočichů v 50. letech 20.\nstoletí. Je značně rezistentní, především vůči chloru, mrazu a chladu.",
+   "facts": [
+    "Najdeme ji ve sladké, slané i mořské vodě.",
+    "Je odolná vůči chloru, mrazu a chladu."
+   ]
+  }
+ }
+}
