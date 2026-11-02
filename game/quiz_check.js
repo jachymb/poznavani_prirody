@@ -27,6 +27,7 @@ assert(window.Quiz.isDull({ text: "Kvete od června do srpna." }) && !window.Qui
   assert(window.Quiz.atLevel([mammals], "advanced")[0].species.some((s) => s.order === "letouni"), "pokročilý zná i netopýry");
   const europe = window.Quiz.inContinents([mammals], new Set(["EU"]));
   assert(window.Quiz.atLevel(europe, "beginner")[0].species.some((s) => s.order === "letouni"), "začátečník v Evropě zná netopýra");
+  assert(classes.find((c) => c.slug === "mekkysi").species.filter((s) => s.clade === "mlži").every((s) => s.emoji === "🦪"), "všichni mlži mají 🦪");
   const promptsOf = (slug) => new Set(Array.from({ length: 300 }, () => window.Quiz.makeQuestion([classes.find((c) => c.slug === slug)]).prompt));
   const extinct = promptsOf("vyhynula_zvirata");
   assert(extinct.has("Který druh je na obrázku?") && extinct.has("Najdi na obrázcích:") && ![...extinct].some((p) => p.includes("fot")), "vyhynulá zvířata mají obrázky");

@@ -350805,7 +350805,7 @@ window.GAME_DATA = [
         ],
         "pop": 21,
         "clade": "plži",
-        "emoji": "🐌"
+        "emoji": "🐚"
       },
       {
         "id": "Q1404905",
@@ -350913,7 +350913,7 @@ window.GAME_DATA = [
         ],
         "pop": 28,
         "clade": "plži",
-        "emoji": "🐌"
+        "emoji": "🐚"
       },
       {
         "id": "Q1500654",
@@ -351104,7 +351104,7 @@ window.GAME_DATA = [
         ],
         "pop": 20,
         "clade": "plži",
-        "emoji": "🐌"
+        "emoji": "🐚"
       },
       {
         "id": "Q151201",
@@ -351224,7 +351224,7 @@ window.GAME_DATA = [
         ],
         "pop": 21,
         "clade": "plži",
-        "emoji": "🐌"
+        "emoji": "🐚"
       },
       {
         "id": "Q1632342",
@@ -351990,7 +351990,7 @@ window.GAME_DATA = [
         ],
         "pop": 12,
         "clade": "plži",
-        "emoji": "🐌"
+        "emoji": "🐚"
       },
       {
         "id": "Q1940276",
@@ -352485,7 +352485,7 @@ window.GAME_DATA = [
         ],
         "pop": 12,
         "clade": "plži",
-        "emoji": "🐌"
+        "emoji": "🐚"
       },
       {
         "id": "Q245314",
@@ -352699,7 +352699,7 @@ window.GAME_DATA = [
         ],
         "pop": 18,
         "clade": "plži",
-        "emoji": "🐌"
+        "emoji": "🐚"
       },
       {
         "id": "Q26908",
@@ -353405,7 +353405,7 @@ window.GAME_DATA = [
         ],
         "pop": 29,
         "clade": "plži",
-        "emoji": "🐌"
+        "emoji": "🐚"
       },
       {
         "id": "Q651332",
@@ -353488,7 +353488,7 @@ window.GAME_DATA = [
         ],
         "pop": 29,
         "clade": "plži",
-        "emoji": "🐌"
+        "emoji": "🐚"
       },
       {
         "id": "Q651361",
@@ -353690,7 +353690,7 @@ window.GAME_DATA = [
         ],
         "pop": 11,
         "clade": "plži",
-        "emoji": "🐌"
+        "emoji": "🐚"
       },
       {
         "id": "Q728187",
@@ -353875,7 +353875,7 @@ window.GAME_DATA = [
         ],
         "pop": 36,
         "clade": "mlži",
-        "emoji": "🐌"
+        "emoji": "🦪"
       },
       {
         "id": "Q756724",

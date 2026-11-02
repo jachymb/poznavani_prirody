@@ -1401,7 +1401,7 @@ def write_game_data():
         add_easter_egg(groups[EASTER_EGG["class"]]["species"])
     for group in [*groups.values(), *others.values()]:
         for s in group["species"]:
-            s["emoji"] = species_emoji(group["slug"], {**s, "clade": clade.get(s["id"])})
+            s["emoji"] = species_emoji(group["slug"], {**s, "clade": clade.get(s["id"]) or s.get("clade")})
     classes = [g for g in [*groups.values(), *others.values()] if len(g["species"]) >= MIN_CLASS_SPECIES]
     # odsazené kvůli ručnímu čtení a čitelným rozdílům v gitu, build.js odsazení při kompilaci odstraní
     (ROOT / "game" / "data.js").write_text("window.GAME_DATA = " + json.dumps(classes, ensure_ascii=False, indent=2) + ";\n", encoding="utf-8")

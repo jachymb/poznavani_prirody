@@ -108,8 +108,8 @@ RULES = {
     ],
     "mekkysi": [
         (name("Praménka|Písečník"), "🐌"), (order("chobotnice"), "🐙"), (order("sépie", "Sepiolida"), "🦑"), (order("Nautilida"), "🐚"),
-        (order("Pectinida", "Cardiida", "Unionoida", "Pterioida", "Q132678", "Venerida", "Mytilida", "Ostreida"), "🦪"),
-        (order("Q1187122", "Q980146", "Q58192325", "Patellida", "Chitonida"), "🐚"),
+        (lambda s: s.get("clade") == "mlži", "🦪"),
+        (order("Littorinimorpha", "Neogastropoda", "Trochida", "Patellida", "Chitonida"), "🐚"),
         (ANY, "🐌"),
     ],
     "ostatni_zivocichove": [
