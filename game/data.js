@@ -414419,8 +414419,7 @@ window.GAME_DATA = [
               "Q1156618",
               "Q11879787",
               "Q1937687",
-              "Q292408",
-              "Q3490169"
+              "Q292408"
             ]
           }
         ],
@@ -414539,8 +414538,6 @@ window.GAME_DATA = [
             "text": "Tvoří zelené polštáře o průměru až půl metru.",
             "cat": "vzhled",
             "not": [
-              "Q146224",
-              "Q150994",
               "Q179213"
             ]
           },
