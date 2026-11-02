@@ -1,0 +1,241 @@
+{
+ "facts": [
+  {
+   "id": "Q5194#1",
+   "species": "Želvuška",
+   "text": "Některé druhy se živí hlísticemi a vířníky.",
+   "quote": "Dravá želvuška Milnesium tardigradum se zase živí hlísticemi a vířníky"
+  },
+  {
+   "id": "Q180148#5",
+   "species": "Vířník",
+   "text": "Nejčastěji dorůstají velikosti jedné až několika desetin milimetru.",
+   "quote": "Typičtí vířníci jsou mikroskopičtí tvorové dosahující nejčastěji velikosti jedné až několika desetin milimetru"
+  },
+  {
+   "id": "Q5194#3",
+   "species": "Želvuška",
+   "text": "Některé mořské druhy parazitují na svijonožcích.",
+   "quote": "Zatímco některé mořské druhy parazitují na pokožce sumýšů či svijonožců"
+  },
+  {
+   "id": "Q190115#4",
+   "species": "Břichobrvka",
+   "text": "Daří se jim v sedimentech na dně mořského a sladkovodního prostředí.",
+   "quote": "kterým se daří v sedimentech na dně mořského a sladkovodního prostředí"
+  },
+  {
+   "id": "Q719725#2",
+   "species": "Saccharomyces cerevisiae",
+   "text": "Tento druh má 6275 genů.",
+   "quote": "a z 6275 genů"
+  },
+  {
+   "id": "Q162678#0",
+   "species": "Rozsivka",
+   "text": "Tento druh má dvoudílnou schránku z oxidu křemičitého.",
+   "quote": "Je tvořena polymerizovaným oxidem křemičitým"
+  },
+  {
+   "id": "Q107027#2",
+   "species": "Dírkonošec",
+   "text": "Pomáhají datovat stáří hornin.",
+   "quote": "Díky nim máme materiál pro datování stáří"
+  },
+  {
+   "id": "Q5194#4",
+   "species": "Želvuška",
+   "text": "Některé druhy se přichycují ke stejnonožcům.",
+   "quote": "jiné tvoří komensální vazby se stejnonožci, na kterých žijí přichyceni na pleopodech"
+  },
+  {
+   "id": "Q107027#4",
+   "species": "Dírkonošec",
+   "text": "Žijí ve všech mořských hloubkách.",
+   "quote": "pokrývají všechny mořské hloubkové zóny"
+  },
+  {
+   "id": "Q162678#2",
+   "species": "Rozsivka",
+   "text": "Tento druh může žít přisedle na kamenech, dřevu, rostlinách nebo živočichech.",
+   "quote": "Mohou žít také přisedle na pevných podkladech ve vodě, jako jsou kameny, dřevo, rostliny či živočichové."
+  },
+  {
+   "id": "Q180148#2",
+   "species": "Vířník",
+   "text": "Některé žijí na žábrách ryb.",
+   "quote": "Na žábrách ryb žije jako komenzál nebo parazit Encentrum kozminskii."
+  },
+  {
+   "id": "Q719725#3",
+   "species": "Saccharomyces cerevisiae",
+   "text": "Až 31 % jeho genů může být podobných lidským genům.",
+   "quote": "homologní s lidskými geny."
+  },
+  {
+   "id": "Q5194#5",
+   "species": "Želvuška",
+   "text": "Aktivní život trvá asi 18 až 30 měsíců.",
+   "quote": "Aktivní délka života se odhaduje na 18−30 měsíců"
+  }
+ ],
+ "candidates": {
+  "Q25419": {
+   "name": "Escherichia coli",
+   "latin": "Escherichia coli",
+   "family": "Enterobacteriaceae",
+   "lead": "Escherichia coli (původním názvem Bacterium coli) je gramnegativní, fakultativně anaerobní, spory netvořící tyčinkovitá bakterie, pohybující se pomocí bičíků. Náleží do čeledi Enterobacteriaceae, jež také zahrnuje mnoho rodů patogenních mikroorganismů.\nE. coli patří ke střevní mikroflóře teplokrevných živočichů včetně člověka, proto je její přítomnost v pitné vodě indikátorem fekálního znečištění. Člověku je jako součást přirozené mikroflóry prospěšná, neboť produkuje řadu látek, které brání roz",
+   "facts": [
+    "Žije ve střevech teplokrevných živočichů, včetně člověka.",
+    "Patogenní kmeny způsobují u člověka průjmy.",
+    "Často způsobuje infekce získané v nemocnicích.",
+    "Využívá se v biotechnologiích a genovém inženýrství.",
+    "Dokáže vyrábět textilní barvivo indigo.",
+    "Za dobrých podmínek se dělí zhruba každých 20 minut."
+   ]
+  },
+  "Q162678": {
+   "name": "Rozsivka",
+   "latin": "Diatomea spp.",
+   "family": "",
+   "lead": "Rozsivky (Diatomeae, syn Bacillariophyceae) jsou velkou skupinou jednobuněčných fotosyntetizujících organismů s dvojdílnou křemičitou schránkou, tradičně řazenou mezi hnědé řasy.\n\n\n== Základní informace ==\nRozsivky jsou jednobuněčné řasy s dvojdílnou křemičitou schránkou. Skupinu tvoří 285 rodů obsahujících 10 až 12 tisíc druhů (Round et al. 1990).\nJejich fotosyntetickými barvivy jsou chlorofyly a a c, fukoxanthin. Chloroplasty mají čtyři obalné membrány a tylakoidy jsou uspořádány v trojicích. ",
+   "facts": [
+    "Tento druh má dvoudílnou schránku z oxidu křemičitého.",
+    "Tento druh je velmi významným primárním producentem.",
+    "Tento druh může žít přisedle na kamenech, dřevu, rostlinách nebo živočichech.",
+    "Tento druh je dominantní skupinou mořského planktonu."
+   ]
+  },
+  "Q107027": {
+   "name": "Dírkonošec",
+   "latin": "Foraminifera spp.",
+   "family": "",
+   "lead": "Dírkonošci (Foraminifera, tedy v překladu „otvůrky nesoucí“) jsou jednobuněční mořští prvoci z říše Rhizaria. Vytvářejí vápnité, často velmi zdobné schránky s mnoha drobnými otvůrky, z nichž vychází panožky. Jednobuněčnou nebo vícebuněčnou schránku vyplňuje protoplazma, která z něj částečně vystupuje ústím nebo drobnými póry. Dírkovci se vyskytují od prvohor dodnes. Mnohé rody se v určitých\nobdobích mimořádně rozšířily, jejich schránky měly podíl na tvorbě hornin (rod Fusulina v karbonu, Discocy",
+   "facts": [
+    "Některé druhy žijí v symbióze s řasami zooxantelami.",
+    "Živí se fytoplanktonem a zooplanktonem.",
+    "Pomáhají datovat stáří hornin.",
+    "Jsou vhodnými indikátory znečištění.",
+    "Žijí ve všech mořských hloubkách.",
+    "Schránka má jednu nebo více komůrek."
+   ]
+  },
+  "Q180556": {
+   "name": "Helicobacter pylori",
+   "latin": "Helicobacter pylori",
+   "family": "Helicobacteraceae",
+   "lead": "Helicobacter pylori (název složen ze slov: „helix“–šroubovice, „bacter“–bakterie, „pylorus“–vrátník) je druh mikroaerofilní gramnegativní patogenní bakterie, jež napadá sliznici žaludku. Odhaduje se, že je ve vyspělých zemích touto bakterií infikována více než polovina dospělých po 60 letech věku,[zdroj?] ačkoliv nemusí vždy vyvolat onemocnění. Způsobuje zejména žaludeční vředy, má však zřejmě na\nsvědomí i různé gastritidy, adenokarcinom žaludku či lymfomy mízní tkáně v žaludku.\n\n\n== Historie ob",
+   "facts": [
+    "Napadá sliznici žaludku.",
+    "Způsobuje žaludeční vředy.",
+    "Přenáší se slinami nebo výkaly nakaženého člověka.",
+    "Rozkládá močovinu v lidském žaludku.",
+    "Na povrchu má 4 až 6 bičíků.",
+    "Měří 2,8 až 3,3 mikrometru na délku.",
+    "Žije i v žaludcích psů a jiných savců.",
+    "Tvoří toxin, který ničí buňky žaludku."
+   ]
+  },
+  "Q180148": {
+   "name": "Vířník",
+   "latin": "Rotifera spp.",
+   "family": "",
+   "lead": "Vířníci (Rotatoria, Rotifera s.s.) je parafyletická skupina převážně sladkovodních, pseudocelních prvoústých živočichů s mikroskopickým tělem rozčleněným na hlavu, trup a nohu s nápadným obrveným vířivým aparátem v přední části. Někdy jsou mezi ně zahrnováni vrtejši, kteří jsou z fylogenetického hlediska podskupina vířníků extrémně pozměněná parazitismem. V tomto širším pojetí jsou vířníci\n(Syndermata, Rotifera s.l.) monofyletickou skupinou (kmenem), která je charakterizovaná především syncytiál",
+   "facts": [
+    "Obvykle se živí řasami, prvoky a bakteriemi.",
+    "Někteří jsou predátoři drobných živočichů.",
+    "Některé žijí na žábrách ryb.",
+    "Někteří parazitují na vodních bezobratlých.",
+    "Dospělci se dožívají jen několika týdnů.",
+    "Nejčastěji dorůstají velikosti jedné až několika desetin milimetru.",
+    "Většina druhů žije ve sladké vodě.",
+    "Mohou sloužit jako indikátory znečištění vody."
+   ]
+  },
+  "Q719725": {
+   "name": "Saccharomyces cerevisiae",
+   "latin": "Saccharomyces cerevisiae",
+   "family": "Saccharomycetaceae",
+   "lead": "Saccharomyces cerevisiae (pivní, pekařská nebo vinná kvasinka) je druh kvasinky z oddělení vřeckovýtrusných hub, která je člověkem v kvasných procesech používána už od neolitu. Pro kvašení byly nejdříve využívány kvasinky přirozeně se vyskytující na povrchu ovoce nebo na slupkách bobulí révy vinné a není jasné kdy došlo k „domestikaci“ těchto kvasinek. Kvasinky saccharomyces cerevisiae je možné\nrozdělit do geneticky spřízněných kmenů podle toho, jaký substrát kvasí, přičemž hlavní jsou pivní, pe",
+   "facts": [
+    "Buňky tohoto druhu jsou oválné až kulovité, velké 5–10 mikrometrů.",
+    "Tento druh je modelový organismus pro studium lidských nemocí.",
+    "Tento druh má 6275 genů.",
+    "Až 31 % jeho genů může být podobných lidským genům."
+   ]
+  },
+  "Q131003": {
+   "name": "Toxoplasma gondii",
+   "latin": "Toxoplasma gondii",
+   "family": "Sarcocystidae",
+   "lead": "Toxoplasma gondii (Nicolle et Manceaux, 1908) čili kokcidie kočičí  je vnitrobuněčný parazitický prvok, vícehostitelská kokcidie, která parazituje v buňkách zvířat i člověka. Jejím definitivním hostitelem jsou kočkovité šelmy, mezihostitelem se může stát většina teplokrevných živočichů včetně člověka. Způsobuje toxoplazmózu (přičemž infikovanému plodu těhotné ženy hrozí úmrtí nebo vznik vážných\nvrozených vývojových vad). Nemocným s HIV může způsobit akutní zánět mozku. Rovněž může způsobit abort",
+   "facts": [
+    "Parazituje v buňkách zvířat i člověka.",
+    "Definitivním hostitelem jsou kočkovité šelmy.",
+    "Mezihostitelem může být většina teplokrevných živočichů.",
+    "Může způsobit abort u ovcí a koz."
+   ]
+  },
+  "Q153875": {
+   "name": "Yersinia pestis",
+   "latin": "Yersinia pestis",
+   "family": "Yersiniaceae",
+   "lead": "Yersinia pestis (původně Pasteurella pestis) je patogenní gramnegativní bakterie z čeledi Yersiniaceae . Jedná se o fakultativní anaerobní bakterii, která je přenositelná na zvíře i na člověka.\nLidské infekce Yersinií pestis, způsobující mor, se projevují ve třech hlavních formách, které souvisí s místem vstupu infekce do těla. Rozlišujeme formu dýmějovou, septickou (sepse, otrava krve) a plicní. Všechny tyto tři formy jsou odpovědné za vysokou úmrtnost během epidemií v lidské historii, včetně t",
+   "facts": [
+    "Tento druh se přenáší blechami, které napadají hlodavce.",
+    "Tento druh v přírodě udržují některé druhy hlodavců.",
+    "Mor může způsobit zhroucení celé kolonie psounů.",
+    "Mor škodí i jiným savcům než člověku.",
+    "Způsobuje mor u lidí.",
+    "Při Černé smrti zemřela nejméně třetina evropské populace."
+   ]
+  },
+  "Q130971": {
+   "name": "Mycobacterium tuberculosis",
+   "latin": "Mycobacterium tuberculosis",
+   "family": "Mycobacteriaceae",
+   "lead": "Mycobacterium tuberculosis (MTB) je patogenní bakterie z rodu Mycobacterium. Způsobuje většinu případů tuberkulózy. Poprvé byla objevena Robertem Kochem v roce 1882. Má neobvyklý voskový plášť na povrchu buňky (především z kyseliny mykolové), který je nepropustný pro Gramovo barvení; místo něj se proto používají acid-fast techniky. M. tuberculosis je vysoce aerobní, bakterie potřebuje vysoké\nhladiny kyslíku. Primárně je tato bakterie patogenem v dýchací ústrojí savců, napadá plíce, kde způsobuje",
+   "facts": [
+    "Způsobuje většinu případů tuberkulózy.",
+    "Napadá hlavně plíce savců.",
+    "Dělí se přibližně jednou za 15 až 20 hodin.",
+    "Množí se uvnitř makrofágů."
+   ]
+  },
+  "Q190115": {
+   "name": "Břichobrvka",
+   "latin": "Gastrotricha spp.",
+   "family": "",
+   "lead": "Břichobrvky (Gastrotricha) jsou kmen velmi drobných volně žijících vodních živočichů (mořských i sladkovodních), který zahrnuje více než 900 popsaných druhů, z toho v Česku jich žije asi 30.\nDorůstají nejvýše 4 mm, jejich tělo je protáhlé, dvoustranně souměrné, dorzoventrálně zploštělé.\nJsou kosmopolitně rozšířené, v moři jsou většinou v písku, ve sladkých vodách jsou převážně bentické a perifytické, méně se vyskytují v planktonu.\nRozmnožují se hermafroditicky, některé partenogenezí.\nČlení se do",
+   "facts": [
+    "Živí se mikrořasami a bakteriemi.",
+    "Loví ho volně žijící ploštěnci a masožraví nálevníci.",
+    "Dorůstají nejvýše 4 mm.",
+    "Pohlavní dospělosti dosahují za přibližně tři dny.",
+    "Daří se jim v sedimentech na dně mořského a sladkovodního prostředí."
+   ]
+  },
+  "Q188121": {
+   "name": "Staphylococcus aureus",
+   "latin": "Staphylococcus aureus",
+   "family": "Staphylococcaceae",
+   "lead": "Staphylococcus aureus (také zlatý stafylokok) je grampozitivní bakterie patřící do rodu stafylokoků. Objevil ji v roce 1880 skotský chirurg Alexander Ogston v hnisu z otevřených poranění a o čtyři roky později ji německý bakteriolog F. Rosenbach dal latinský název. Způsobuje velmi často různé infekce v rozsahu od mírných zánětů kůže a měkkých tkání až po život ohrožující sepse („otravy krve“,\nsměřující až do septického šoku spojeného se selháváním orgánů), syndrom toxického šoku a nekrotizující ",
+   "facts": [
+    "Asi 20–50 % lidí jsou přenašeči této bakterie.",
+    "Může způsobit otravu z jídla, třeba z majonézových salátů.",
+    "Velmi často způsobuje infekce kůže a měkkých tkání.",
+    "Přibližně 90 % těchto bakterií je odolných vůči běžnému penicilinu."
+   ]
+  },
+  "Q131027": {
+   "name": "Měňavka úplavičná",
+   "latin": "Entamoeba histolytica",
+   "family": "Entamoebidae",
+   "lead": "Měňavka úplavičná (Entamoeba histolytica) je parazitický prvok z říše Amoebozoa. Způsobuje lidskou měňavkovou úplavici a dále např. onemocnění jater. Vyskytuje se kosmopolitně, nejvíce však v rozvojových zemích (Mexiko, Vietnam, Indie, Egypt), kde je rozšířená kvůli špatné hygieně a teplému a vlhkému klimatu. Hlavním hostitelem je člověk, ale infikováni mohou být vzácně i psi, kočky a hlodavci.\nPřenáší se alimentární cestou značně odolnými cystami (fekálním znečištěním potravin a pitné vody). Ne",
+   "facts": [
+    "Tento druh se většinou živí bakteriemi ve střevě.",
+    "Parazituje hlavně na člověku."
+   ]
+  }
+ }
+}

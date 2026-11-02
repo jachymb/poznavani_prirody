@@ -270319,6 +270319,7 @@ window.GAME_DATA = [
               "Q234014",
               "Q26387",
               "Q26821893",
+              "Q385764",
               "Q643373",
               "Q748495",
               "Q76098",
@@ -271290,12 +271291,6 @@ window.GAME_DATA = [
           }
         ],
         "facts": [
-          {
-            "id": "Q162274#0",
-            "text": "Živí se lovem menších korýšů.",
-            "cat": "potrava",
-            "not": []
-          },
           {
             "id": "Q162274#1",
             "text": "Obvykle měří asi 23 cm.",
@@ -272789,18 +272784,6 @@ window.GAME_DATA = [
               "Q135004",
               "Q203572",
               "Q3541",
-              "Q729207",
-              "Q798246",
-              "Q861586"
-            ]
-          },
-          {
-            "id": "Q192167#1",
-            "text": "Dožívá se až 50 let.",
-            "cat": "čísla",
-            "not": [
-              "Q1142975",
-              "Q203572",
               "Q729207",
               "Q798246",
               "Q861586"
@@ -276194,12 +276177,6 @@ window.GAME_DATA = [
             "not": []
           },
           {
-            "id": "Q2542507#1",
-            "text": "Větší jedinci preferují malé ryby.",
-            "cat": "potrava",
-            "not": []
-          },
-          {
             "id": "Q2542507#3",
             "text": "Dožívá se až 42 let.",
             "cat": "čísla",
@@ -276378,6 +276355,7 @@ window.GAME_DATA = [
               "Q1410142",
               "Q2701687",
               "Q3442",
+              "Q385764",
               "Q522309",
               "Q962972"
             ]
@@ -282225,6 +282203,7 @@ window.GAME_DATA = [
               "Q131431",
               "Q2162265",
               "Q3764497",
+              "Q385764",
               "Q4889552",
               "Q747794"
             ]
@@ -284106,17 +284085,6 @@ window.GAME_DATA = [
               "Q782345",
               "Q798246"
             ]
-          },
-          {
-            "id": "Q826713#3",
-            "text": "Na bocích těla má vlnité zelenomodré pásky.",
-            "cat": "vzhled",
-            "not": [
-              "Q74411",
-              "Q782345",
-              "Q798246",
-              "Q827441"
-            ]
           }
         ],
         "continents": [
@@ -284903,6 +284871,7 @@ window.GAME_DATA = [
             "not": [
               "Q1142975",
               "Q278307",
+              "Q385764",
               "Q93675"
             ]
           },
@@ -350812,7 +350781,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q139053#0",
-            "text": "Ulita je šedohnědá a dosahuje až 18 cm.",
+            "text": "Ulita je šedohnědá a měří až 18 cm.",
             "cat": "čísla",
             "not": [
               "Q1006379",
@@ -350822,7 +350791,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q139053#1",
-            "text": "Původně žila u pobřeží Japonska a východní Číny.",
+            "text": "Pochází z pobřeží Japonska a východní Číny.",
             "cat": "výskyt",
             "not": [
               "Q1404905",
@@ -351113,7 +351082,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q1507512#0",
-            "text": "Má jed, který způsobuje svalovou slabost a ochrnutí.",
+            "text": "Jed tohoto druhu způsobuje svalovou slabost, ochrnutí i zástavu dechu.",
             "cat": "účinky",
             "not": [
               "Q1006379",
@@ -351615,7 +351584,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q1757231#0",
-            "text": "Umí plavat tím, že vypuzuje vodu.",
+            "text": "Na kratší vzdálenosti umí plavat vypuzováním vody.",
             "cat": "chování",
             "not": [
               "Q245314",
@@ -352252,7 +352221,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q21124#1",
-            "text": "Mláďata žijí 2–3 týdny volně ve vodě, pak klesnou ke dnu.",
+            "text": "Larvy žijí 2–3 týdny volně ve vodě, pak klesnou ke dnu.",
             "cat": "mláďata",
             "not": [
               "Q1500654",
@@ -353007,7 +352976,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q376050#1",
-            "text": "Žije v Atlantském oceánu podél západní Evropy.",
+            "text": "Žije v Atlantském oceánu u pobřeží západní Evropy.",
             "cat": "výskyt",
             "not": [
               "Q175818",
@@ -626079,10 +626048,22 @@ window.GAME_DATA = [
         "wiki": "https://cs.wikipedia.org/wiki/Mihule_mo%C5%99sk%C3%A1",
         "photos": [
           {
+            "page": "https://commons.wikimedia.org/wiki/File:Petromyzon_marinus_134876525.jpg",
+            "author": "Houston Porter",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Petromyzon_marinus_134876525.jpg/500px-Petromyzon_marinus_134876525.jpg"
+          },
+          {
             "page": "https://commons.wikimedia.org/wiki/File:Petromyzon_marinus_282284066.jpg",
             "author": "Stephanie Tran",
             "license": "CC BY 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Petromyzon_marinus_282284066.jpg/500px-Petromyzon_marinus_282284066.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Petromyzon_marinus_3074887.jpg",
+            "author": "Jessica Newbern",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Petromyzon_marinus_3074887.jpg/500px-Petromyzon_marinus_3074887.jpg"
           }
         ],
         "facts": [

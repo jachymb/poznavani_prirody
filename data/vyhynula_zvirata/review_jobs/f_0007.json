@@ -1,0 +1,691 @@
+[
+ {
+  "id": "Q131153#0",
+  "species": "Cryptoclidus",
+  "latin": "Cryptoclidus",
+  "text": "Tento druh se živil rybami a hlavonožci.",
+  "quote": "živil se rybami a hlavonožci",
+  "claimed_false_for": {
+   "Q132604": "Gomphotherium (Gomphotherium)",
+   "Q27075029": "Papoušek překrásný (Psephotellus pulcherrimus)",
+   "Q749836": "Jelen Schomburgkův (Rucervus schomburgki)"
+  }
+ },
+ {
+  "id": "Q131155#0",
+  "species": "Afrovenator",
+  "latin": "Afrovenator abakensis",
+  "text": "Tento druh dosahoval délky kolem 8 metrů.",
+  "quote": "dosahujícího délky kolem 8 metrů",
+  "claimed_false_for": {
+   "Q130966": "Spinosaurus (Spinosaurus)",
+   "Q134320": "Xiongguanlong (Xiongguanlong)",
+   "Q136872": "Marshosaurus (Marshosaurus)",
+   "Q285364": "Adamantisaurus (Adamantisaurus)",
+   "Q30116769": "Lucianovenator (Lucianovenator)"
+  }
+ },
+ {
+  "id": "Q131155#1",
+  "species": "Afrovenator",
+  "latin": "Afrovenator abakensis",
+  "text": "Tento druh žil na území dnešní severní Afriky.",
+  "quote": "na území dnešní severní Afriky",
+  "claimed_false_for": {
+   "Q131213": "Eustreptospondylus (Eustreptospondylus)",
+   "Q132521": "Linheraptor (Linheraptor)",
+   "Q132881": "Diamantinasaurus (Diamantinasaurus)",
+   "Q1442152": "Beishanlong grandis (Beishanlong grandis)",
+   "Q191968": "Holub stěhovavý (Ectopistes migratorius)",
+   "Q1955124": "Phenacodus (Phenacodus)",
+   "Q2361675": "Itemirus (Itemirus)",
+   "Q23807302": "Apatoraptor (Apatoraptor)",
+   "Q735811": "Ornithopsis (Ornithopsis)",
+   "Q912836": "Kruhoočko velké (Zosterops strenuus)"
+  }
+ },
+ {
+  "id": "Q131158#0",
+  "species": "Shantungosaurus",
+  "latin": "Shantungosaurus",
+  "text": "Tento druh žil v období pozdní křídy.",
+  "quote": "Žil v období pozdní křídy na území dnešní Číny",
+  "claimed_false_for": {
+   "Q131715": "Concavenator (Concavenator)",
+   "Q131760": "Dacentrurus (Dacentrurus)",
+   "Q135094": "Pachycrocuta (Pachycrocuta)",
+   "Q29947914": "Borealopelta (Borealopelta)",
+   "Q310503": "Pakicetus (Pakicetus)",
+   "Q74029713": "Gnathovorax (Gnathovorax)"
+  }
+ },
+ {
+  "id": "Q131158#1",
+  "species": "Shantungosaurus",
+  "latin": "Shantungosaurus",
+  "text": "Největší jedinci přesáhli délku 16 metrů.",
+  "quote": "Největší jedinci pak přesáhli délku 16 metrů",
+  "claimed_false_for": {
+   "Q131085": "Dryosaurus (Dryosaurus)",
+   "Q131235": "Anchiornis huxleyi (Anchiornis huxleyi)",
+   "Q131410": "Dicraeosaurus (Dicraeosaurus)",
+   "Q133138": "Wannanosaurus (Wannanosaurus)",
+   "Q134139": "Mymoorapelta (Mymoorapelta)",
+   "Q134984": "Gigantspinosaurus (Gigantspinosaurus)",
+   "Q14317199": "Canardia (Canardia)",
+   "Q18510952": "Hypsilophodon (Hypsilophodon)",
+   "Q19888319": "Pulmonoscorpius (Pulmonoscorpius)",
+   "Q21122031": "Morrosaurus (Morrosaurus)",
+   "Q5285248": "Djarthia (Djarthia murgonensis)"
+  }
+ },
+ {
+  "id": "Q131161#0",
+  "species": "Stygimoloch",
+  "latin": "Stygimoloch",
+  "text": "Jeho lebka měřila téměř 50 cm.",
+  "quote": "celá lebka, která měří téměř 50 cm",
+  "claimed_false_for": {
+   "Q2572225": "Ophiderpeton (Ophiderpeton)",
+   "Q516014": "Ajkaceratops kozmai (Ajkaceratops kozmai)"
+  }
+ },
+ {
+  "id": "Q131161#1",
+  "species": "Stygimoloch",
+  "latin": "Stygimoloch",
+  "text": "Pochází z konce období křídy.",
+  "quote": "na konci období křídy",
+  "claimed_false_for": {
+   "Q1068038": "Gazela dlouhorohá (Gazella saudiya)",
+   "Q131088": "Lesothosaurus (Lesothosaurus)",
+   "Q131788": "Sharovipteryx (Sharovipteryx)",
+   "Q132401": "Pikaia (Pikaia)",
+   "Q134292": "Echinodon (Echinodon)",
+   "Q135656": "Mongolosaurus (Mongolosaurus)",
+   "Q138023": "Chungkingosaurus (Chungkingosaurus)",
+   "Q1705570": "Bolong (Bolong)",
+   "Q21945702": "Sirindhorna (Sirindhorna)"
+  }
+ },
+ {
+  "id": "Q131163#0",
+  "species": "Thylacosmilus",
+  "latin": "Thylacosmilus",
+  "text": "Loví kopytníky a větší hlodavce.",
+  "quote": "Jeho kořistí byli různí kopytníci (např. zástupci čeledi Proterotheriidae a menší notounguláti), větší hlodavci",
+  "claimed_false_for": {
+   "Q106805159": "Tlatolophus (Tlatolophus)",
+   "Q120743561": "Oblitosaurus (Oblitosaurus)",
+   "Q134755": "Charnia (Charnia)",
+   "Q2265006": "Linhenykus (Linhenykus)",
+   "Q3621452": "Archaebalaenoptera castriarquati (Archaebalaenoptera castriarquati)",
+   "Q46995838": "Sibirotitan (Sibirotitan)"
+  }
+ },
+ {
+  "id": "Q131166#0",
+  "species": "Cryolophosaurus ellioti",
+  "latin": "Cryolophosaurus ellioti",
+  "text": "Tento druh byl masožravý dinosaurus.",
+  "quote": "byl druh masožravého dinosaura",
+  "claimed_false_for": {
+   "Q128233": "Diictodon (Diictodon)",
+   "Q130737": "Moschops (Moschops)",
+   "Q131096": "Saurolophus (Saurolophus)",
+   "Q133863": "Lexovisaurus (Lexovisaurus)",
+   "Q14483": "Styracosaurus (Styracosaurus)",
+   "Q1698713": "Mamut kolumbuský (Mammuthus columbi)",
+   "Q222191": "Hyracotherium (Hyracotherium)",
+   "Q310517": "Paranthropus aethiopicus (Paranthropus aethiopicus)"
+  }
+ },
+ {
+  "id": "Q131166#1",
+  "species": "Cryolophosaurus ellioti",
+  "latin": "Cryolophosaurus ellioti",
+  "text": "Tento druh byl objeven na Antarktidě v roce 1991.",
+  "quote": "objeveného na území Antarktidy v roce 1991",
+  "claimed_false_for": {
+   "Q131006": "Baryonyx (Baryonyx)",
+   "Q131400": "Chirostenotes (Chirostenotes)",
+   "Q137246": "Macrurosaurus (Macrurosaurus)",
+   "Q14326": "Apatosaurus (Apatosaurus)",
+   "Q14400": "Allosaurus (Allosaurus)",
+   "Q15972921": "Petrobrasaurus (Petrobrasaurus)",
+   "Q168903": "Pratur (Bos primigenius)",
+   "Q18510952": "Hypsilophodon (Hypsilophodon)",
+   "Q189193": "Alka velká (Pinguinus impennis)",
+   "Q192272": "Mastodont (Mammut)",
+   "Q1930333": "Machairasaurus (Machairasaurus)",
+   "Q1930353": "Paludititan (Paludititan)",
+   "Q19792280": "Llallawavis (Llallawavis scagliai)",
+   "Q21711013": "Paleorhinus (Paleorhinus)",
+   "Q2420570": "Fruitafossor (Fruitafossor)",
+   "Q285008": "Laločník ostrozobý (Heteralocha acutirostris)",
+   "Q309467": "Gallimimus (Gallimimus)",
+   "Q310434": "Gigantopithecus (Gigantopithecus)",
+   "Q310517": "Paranthropus aethiopicus (Paranthropus aethiopicus)",
+   "Q3493376": "Pararhabdodon (Pararhabdodon)",
+   "Q37395": "Anomalocaris (Anomalocaris)",
+   "Q921551": "Kol (Kol)"
+  }
+ },
+ {
+  "id": "Q131167#0",
+  "species": "Rahonavis",
+  "latin": "Rahonavis",
+  "text": "Tento druh žil na severozápadě dnešního Madagaskaru.",
+  "quote": "na území dnešního severozápadního Madagaskaru",
+  "claimed_false_for": {
+   "Q131782": "Procerosaurus (Tanystropheus)",
+   "Q132547": "Euhelopus (Euhelopus)",
+   "Q133177": "Rinchenia (Rinchenia)",
+   "Q136254": "Shanag (Shanag)",
+   "Q1821811": "Koparion (Koparion)",
+   "Q20717918": "Enigmosaurus mongoliensis (Enigmosaurus mongoliensis)",
+   "Q2671476": "Ostafrikasaurus (Ostafrikasaurus)",
+   "Q309392": "Coelophysis (Coelophysis)",
+   "Q626336": "Araripesaurus (Araripesaurus)",
+   "Q627974": "Chondrosteosaurus (Chondrosteosaurus)",
+   "Q64836111": "Vespersaurus (Vespersaurus)",
+   "Q97149323": "Aratasaurus (Aratasaurus)"
+  }
+ },
+ {
+  "id": "Q131167#1",
+  "species": "Rahonavis",
+  "latin": "Rahonavis",
+  "text": "Kosti měl duté, jako dnešní ptáci.",
+  "quote": "V kostech rahonavise byly identifikovány četné dutiny (kosti byly do značné míry pneumatizované), což dokládá někdejší přítomnost vzdušných vaků a velmi výkonné dýchací soustavy, typické dnes pro ptáky",
+  "claimed_false_for": {
+   "Q140791": "Machimosaurus (Machimosaurus)",
+   "Q2076664": "Arctotherium (Arctotherium)",
+   "Q310945": "Australopithecus bahrelghazali (Australopithecus bahrelghazali)"
+  }
+ },
+ {
+  "id": "Q131170#0",
+  "species": "Muttaburrasaurus",
+  "latin": "Muttaburrasaurus",
+  "text": "Tento druh byl dlouhý kolem 8 až 9 metrů.",
+  "quote": "dlouhým kolem 8 až 9 metrů",
+  "claimed_false_for": {
+   "Q130222784": "Sasayamagnomus (Sasayamagnomus)",
+   "Q131601": "Einiosaurus (Einiosaurus)",
+   "Q133402": "Tethyshadros (Tethyshadros)",
+   "Q135295": "Khaan (Khaan)",
+   "Q135602": "Paranthodon (Paranthodon)",
+   "Q137591": "Niobrarasaurus (Niobrarasaurus)",
+   "Q138520": "Sarcolestes (Sarcolestes)",
+   "Q1955067": "Jeyawati (Jeyawati)",
+   "Q2324017": "Andrewsornis (Andrewsornis)",
+   "Q43502": "Dronte mauricijský (Raphus cucullatus)"
+  }
+ },
+ {
+  "id": "Q131170#1",
+  "species": "Muttaburrasaurus",
+  "latin": "Muttaburrasaurus",
+  "text": "Tento druh měl ostré zuby na sekání rostlinné potravy.",
+  "quote": "Zuby byly ostré, uzpůsobené na sekání rostlinné potravy",
+  "claimed_false_for": {
+   "Q132313": "Panderichthys (Panderichthys)",
+   "Q132734216": "Huadanosaurus (Huadanosaurus)"
+  }
+ },
+ {
+  "id": "Q131174#0",
+  "species": "Alioramus",
+  "latin": "Alioramus",
+  "text": "Tento druh se živil jako aktivní predátor a jedl i mršiny.",
+  "quote": "Alioramus se živil jako aktivní predátor, mohl se však živit také mršinami.",
+  "claimed_false_for": {
+   "Q132494": "Chialingosaurus (Chialingosaurus)",
+   "Q133039": "Janenschia (Janenschia)",
+   "Q133148": "Zizhongosaurus (Zizhongosaurus)",
+   "Q14330": "Diplodocus (Diplodocus)",
+   "Q4769855": "Anodontosaurus (Anodontosaurus)",
+   "Q888114": "Dinheirosaurus (Dinheirosaurus lourinhanensis)"
+  }
+ },
+ {
+  "id": "Q131174#1",
+  "species": "Alioramus",
+  "latin": "Alioramus",
+  "text": "Jeho fosílie se našly v Mongolsku, v poušti Gobi.",
+  "quote": "Fosilní nálezy tohoto druhu dinosaura pocházejí z Asie (Mongolsko, poušť Gobi).",
+  "claimed_false_for": {
+   "Q1013728": "Eudibamus (Eudibamus)",
+   "Q131134": "Sarcosuchus (Sarcosuchus)",
+   "Q132891": "Juravenator (Juravenator)",
+   "Q133237": "Scleromochlus (Scleromochlus)",
+   "Q134407": "Phiomia (Phiomia)",
+   "Q142971": "Stegopelta (Stegopelta)",
+   "Q20718358": "Hagryphus giganteus (Hagryphus giganteus)",
+   "Q2147651": "Ozraptor (Ozraptor)",
+   "Q2973290": "Cionodon (Cionodon)",
+   "Q38903321": "Bruhathkayosaurus matleyi (Bruhathkayosaurus)"
+  }
+ },
+ {
+  "id": "Q131177#0",
+  "species": "Supersaurus",
+  "latin": "Supersaurus",
+  "text": "Podle nových zjištění dosahovala délka asi 39 až 42 metrů.",
+  "quote": "délka supersaura dosahovala asi 39 až 42 metrů",
+  "claimed_false_for": {
+   "Q1013728": "Eudibamus (Eudibamus)",
+   "Q130885": "Euoplocephalus (Euoplocephalus)",
+   "Q131124": "Ouranosaurus (Ouranosaurus)",
+   "Q131134": "Sarcosuchus (Sarcosuchus)",
+   "Q132647": "Rhamphorhynchus (Rhamphorhynchus)",
+   "Q132683": "Lambeosaurus (Lambeosaurus)",
+   "Q132891": "Juravenator (Juravenator)",
+   "Q133203": "Camptosaurus (Camptosaurus)",
+   "Q133237": "Scleromochlus (Scleromochlus)",
+   "Q134407": "Phiomia (Phiomia)",
+   "Q142971": "Stegopelta (Stegopelta)",
+   "Q205935": "Pes bojovný (Dusicyon australis)",
+   "Q20718358": "Hagryphus giganteus (Hagryphus giganteus)",
+   "Q2147651": "Ozraptor (Ozraptor)",
+   "Q242358": "Lev americký (Panthera atrox)",
+   "Q27444": "Borogovia (Borogovia)",
+   "Q2973290": "Cionodon (Cionodon)",
+   "Q310537": "Microraptor (Microraptor)",
+   "Q310826": "Australopithecus sediba (Australopithecus sediba)",
+   "Q320632": "Ropucha zlatá (Incilius periglenes)",
+   "Q43502": "Dronte mauricijský (Raphus cucullatus)",
+   "Q55949103": "Choyrodon (Choyrodon)",
+   "Q733644": "Hesperornis (Hesperornis)"
+  }
+ },
+ {
+  "id": "Q131177#1",
+  "species": "Supersaurus",
+  "latin": "Supersaurus",
+  "text": "Jeho fosílie byly objeveny v roce 1972 v Coloradu.",
+  "quote": "objevený v americkém státě Colorado v roce 1972",
+  "claimed_false_for": {
+   "Q131070": "Oviraptor (Oviraptor)",
+   "Q131078": "Corythosaurus (Corythosaurus)",
+   "Q131106": "Elasmosaurus (Elasmosaurus)",
+   "Q131379": "Sinosauropteryx (Sinosauropteryx)",
+   "Q131475": "Ichthyostega (Ichthyostega)",
+   "Q132647": "Rhamphorhynchus (Rhamphorhynchus)",
+   "Q133062": "Hypselosaurus (Hypselosaurus)",
+   "Q14431": "Carcharodontosaurus (Carcharodontosaurus)",
+   "Q1704984": "Pamparaptor (Pamparaptor)",
+   "Q18729819": "Jiangxisaurus (Jiangxisaurus)",
+   "Q187484": "Koroun bezzubý (Hydrodamalis gigas)",
+   "Q20853534": "Pulanesaura (Pulanesaura)",
+   "Q287975": "Liopleurodon (Liopleurodon)",
+   "Q310531": "Paranthropus boisei (Paranthropus boisei)",
+   "Q310535": "Struthiomimus (Struthiomimus)",
+   "Q376401": "Deinotherium (Deinotherium)",
+   "Q44884994": "Halszkaraptor (Halszkaraptor)",
+   "Q47410261": "Caihong (Caihong)",
+   "Q593763": "Zanabazar (Zanabazar)",
+   "Q733377": "Křepelka novozélandská (Coturnix novaezelandiae)",
+   "Q968771": "Kritosaurus (Kritosaurus)"
+  }
+ },
+ {
+  "id": "Q131179#0",
+  "species": "Leaellynasaura",
+  "latin": "Leaellynasaura",
+  "text": "Lovili ho menší a střední masožraví dinosauři.",
+  "quote": "Mezi predátory, kteří tohoto menšího dinosaura lovili, patřili teropodní dinosauři menší a střední velikosti",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q131179#1",
+  "species": "Leaellynasaura",
+  "latin": "Leaellynasaura",
+  "text": "Možná ho lovili i obří obojživelníci.",
+  "quote": "a možná také obří temnospondylní obojživelníci",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q131185#1",
+  "species": "Aucasaurus",
+  "latin": "Aucasaurus",
+  "text": "Žil na území dnešní Argentiny.",
+  "quote": "na území dnešní Argentiny",
+  "claimed_false_for": {
+   "Q115813367": "Janavis (Janavis)",
+   "Q128233": "Diictodon (Diictodon)",
+   "Q130737": "Moschops (Moschops)",
+   "Q131145": "Staurikosaurus (Staurikosaurus)",
+   "Q133863": "Lexovisaurus (Lexovisaurus)",
+   "Q15137014": "Lythronax (Lythronax)",
+   "Q2648713": "Velocipes (Velocipes)",
+   "Q2701043": "Juratyrant (Juratyrant langhami)",
+   "Q309975": "Oxyura vantetsi (Oxyura vantetsi)",
+   "Q762052": "Rhamphocephalus (Rhamphocephalus)"
+  }
+ },
+ {
+  "id": "Q131188#0",
+  "species": "Heterodontosaurus",
+  "latin": "Heterodontosaurus",
+  "text": "V období sucha vyhrabával kořínky.",
+  "quote": "kterými během období sucha vyhrabával kořínky",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q131188#1",
+  "species": "Heterodontosaurus",
+  "latin": "Heterodontosaurus",
+  "text": "Tento druh měl tři typy zubů.",
+  "quote": "chrupu se třemi typy zubů",
+  "claimed_false_for": {
+   "Q131586": "Chasmosaurus (Chasmosaurus)",
+   "Q131602": "Brachyceratops (Brachyceratops)",
+   "Q132966": "Animantarx (Animantarx)",
+   "Q18915569": "Tatankaceratops (Tatankaceratops)",
+   "Q21871534": "Ischioceratops (Ischioceratops)",
+   "Q2272018": "Medusaceratops (Medusaceratops lokii)",
+   "Q2303736": "Arenysaurus (Arenysaurus)",
+   "Q35973533": "Patagotitan mayorum (Patagotitan mayorum)",
+   "Q58179217": "Crittendenceratops (Crittendenceratops)"
+  }
+ },
+ {
+  "id": "Q131197#0",
+  "species": "Masiakasaurus",
+  "latin": "Masiakasaurus",
+  "text": "Tento druh byl pravděpodobně kořistí krokodýlů a velkých masožravců.",
+  "quote": "Masiakasaurus nejspíše sám sloužil jako kořist krokodýlů a ostatních velkých masožravců",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q131197#1",
+  "species": "Masiakasaurus",
+  "latin": "Masiakasaurus",
+  "text": "Předními zuby pravděpodobně probodával drobnou kořist, například ryby.",
+  "quote": "Vystrčené přední zuby nejpravděpodobněji sloužily k probodnutí drobné kořisti, jakou byli ryby",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q131202#0",
+  "species": "Suchomimus",
+  "latin": "Suchomimus",
+  "text": "Tento druh se pravděpodobně živil rybami a občas menšími dinosaury.",
+  "quote": "se pravděpodobně živil rybami a příležitostně menšími druhy dinosaurů",
+  "claimed_false_for": {
+   "Q131644": "Barapasaurus (Barapasaurus)",
+   "Q210348": "Losillasaurus (Losillasaurus)",
+   "Q73556": "Anabisetia (Anabisetia)"
+  }
+ },
+ {
+  "id": "Q131202#1",
+  "species": "Suchomimus",
+  "latin": "Suchomimus",
+  "text": "Tento druh měl v čelistech až kolem 100 zubů.",
+  "quote": "Suchomimus měl v čelistech až kolem 100 zubů.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q131205#1",
+  "species": "Quetzalcoatlus",
+  "latin": "Quetzalcoatlus",
+  "text": "Rozpětí křídel bylo zhruba třikrát větší než u kondora andského.",
+  "quote": "Rozpětí křídel tohoto pterosaura bylo zhruba třikrát větší než u největšího létajícího ptáka současnosti, kondora andského.",
+  "claimed_false_for": {
+   "Q130966": "Spinosaurus (Spinosaurus)",
+   "Q131006": "Baryonyx (Baryonyx)",
+   "Q131067": "Ornithomimus (Ornithomimus)",
+   "Q131424": "Tapejara (Tapejara)",
+   "Q131673": "Nanotyrannus (Nanotyrannus)",
+   "Q131678": "Nosorožec jednorohý (Elasmotherium)",
+   "Q132573": "Dsungaripterus (Dsungaripterus)",
+   "Q132575": "Thalassodromeus (Thalassodromeus)",
+   "Q133000": "Sordes (Sordes)",
+   "Q133223": "Deinosuchus (Deinosuchus)",
+   "Q133296": "Purussaurus (Purussaurus)",
+   "Q133376": "Helicoprion (Helicoprion)",
+   "Q135001": "Didelphodon (Didelphodon)",
+   "Q135246": "Germanodactylus (Germanodactylus)",
+   "Q242358": "Lev americký (Panthera atrox)",
+   "Q245262": "Edmontonia (Edmontonia)",
+   "Q309467": "Gallimimus (Gallimimus)",
+   "Q312131": "Mosasaurus (Mosasaurus)",
+   "Q31650": "Nemicolopterus (Nemicolopterus)",
+   "Q37395": "Anomalocaris (Anomalocaris)",
+   "Q42649831": "Argentinadraco (Argentinadraco)",
+   "Q838117": "Kormorán Stellerův (Urile perspicillatus)",
+   "Q857081": "Plesiosaurus (Plesiosaurus)",
+   "Q962878": "Huanhepterus (Huanhepterus)"
+  }
+ },
+ {
+  "id": "Q131205#2",
+  "species": "Quetzalcoatlus",
+  "latin": "Quetzalcoatlus",
+  "text": "Tento druh byl při chůzi po zemi vyšší než dnešní žirafy.",
+  "quote": "Když dospělý kvecalkoatlus kráčel po zemi, pak dosahoval výšky až kolem 6 metrů (více než u současných žiraf).",
+  "claimed_false_for": {
+   "Q131006": "Baryonyx (Baryonyx)",
+   "Q131568": "Pachyrhinosaurus (Pachyrhinosaurus)",
+   "Q131932": "Incisivosaurus (Incisivosaurus)",
+   "Q132573": "Dsungaripterus (Dsungaripterus)",
+   "Q133035": "Nyctosaurus (Nyctosaurus)",
+   "Q14384": "Triceratops (Triceratops)",
+   "Q14405": "Deinonychus (Deinonychus)",
+   "Q1578419": "Ornithodesmus (Ornithodesmus)",
+   "Q18325158": "Panguraptor (Panguraptor)",
+   "Q191339": "Massospondylus (Massospondylus)",
+   "Q2018521": "Lycorhinus (Lycorhinus)",
+   "Q310527": "Australopithecus garhi (Australopithecus garhi)",
+   "Q40752": "Gorgosaurus (Gorgosaurus)",
+   "Q477223": "Veslonos čínský (Psephurus gladius)",
+   "Q575699": "Potápka skořicovohrdlá (Tachybaptus rufolavatus)",
+   "Q626336": "Araripesaurus (Araripesaurus)",
+   "Q988142": "Plataleorhynchus (Plataleorhynchus)"
+  }
+ },
+ {
+  "id": "Q131205#3",
+  "species": "Quetzalcoatlus",
+  "latin": "Quetzalcoatlus",
+  "text": "Tento druh se zřejmě vyskytoval na většině území Severní Ameriky.",
+  "quote": "Vyskytoval se však zřejmě na většině území Severní Ameriky",
+  "claimed_false_for": {
+   "Q123102": "Vakovlk tasmánský (Thylacinus cynocephalus)",
+   "Q131046": "Plateosaurus (Plateosaurus)",
+   "Q131070": "Oviraptor (Oviraptor)",
+   "Q131094": "Kentrosaurus (Kentrosaurus)",
+   "Q131475": "Ichthyostega (Ichthyostega)",
+   "Q131932": "Incisivosaurus (Incisivosaurus)",
+   "Q132573": "Dsungaripterus (Dsungaripterus)",
+   "Q133271": "Cearadactylus (Cearadactylus)",
+   "Q134884": "Basilosaurus (Basilosaurus)",
+   "Q15179026": "Katepensaurus (Katepensaurus)",
+   "Q1578419": "Ornithodesmus (Ornithodesmus)",
+   "Q18325158": "Panguraptor (Panguraptor)",
+   "Q2018521": "Lycorhinus (Lycorhinus)",
+   "Q310529": "Paranthropus robustus (Paranthropus robustus)",
+   "Q626336": "Araripesaurus (Araripesaurus)",
+   "Q733150": "Varanus priscus (Varanus priscus)",
+   "Q772364": "Stegodon (Stegodon)",
+   "Q899129": "Brasileodactylus (Brasileodactylus)",
+   "Q988142": "Plataleorhynchus (Plataleorhynchus)"
+  }
+ },
+ {
+  "id": "Q131208#0",
+  "species": "Ophthalmosaurus",
+  "latin": "Ophthalmosaurus",
+  "text": "Rodí živá mláďata.",
+  "quote": "a rodil živá mláďata",
+  "claimed_false_for": {
+   "Q131245": "Dimorphodon (Dimorphodon)",
+   "Q132414": "Maiasaura (Maiasaura)",
+   "Q132530": "Asilisaurus (Asilisaurus)",
+   "Q136920": "Struthiosaurus (Struthiosaurus)",
+   "Q570439": "Špaček dudkovitý (Fregilupus varius)",
+   "Q899557": "Cumnoria (Cumnoria)"
+  }
+ },
+ {
+  "id": "Q131208#1",
+  "species": "Ophthalmosaurus",
+  "latin": "Ophthalmosaurus",
+  "text": "Loví hlavně ryby.",
+  "quote": "byl to masožravec, který lovil zejména ryby",
+  "claimed_false_for": {
+   "Q1274400": "Machairodus (Machairodus)",
+   "Q131700": "Oreopithecus bambolii (Oreopithecus bambolii)",
+   "Q132414": "Maiasaura (Maiasaura)",
+   "Q132530": "Asilisaurus (Asilisaurus)",
+   "Q13418266": "Archicebus achilles (Archicebus achilles)",
+   "Q136920": "Struthiosaurus (Struthiosaurus)",
+   "Q570439": "Špaček dudkovitý (Fregilupus varius)",
+   "Q599076": "Trogosus (Trogosus)",
+   "Q899557": "Cumnoria (Cumnoria)"
+  }
+ },
+ {
+  "id": "Q131211#0",
+  "species": "Irritator",
+  "latin": "Irritator",
+  "text": "Jeho kořistí byly ryby a jiní vodní živočichové.",
+  "quote": "lovili zde ryby i jiné vodní živočichy",
+  "claimed_false_for": {
+   "Q131091": "Amphicoelias (Amphicoelias)",
+   "Q131177": "Supersaurus (Supersaurus)",
+   "Q131971": "Procoptodon (Procoptodon)",
+   "Q1362710": "Bellusaurus sui (Bellusaurus sui)",
+   "Q18510922": "Amargasaurus (Amargasaurus)",
+   "Q98873781": "Narindasaurus (Narindasaurus)"
+  }
+ },
+ {
+  "id": "Q131211#1",
+  "species": "Irritator",
+  "latin": "Irritator",
+  "text": "Tento druh trávil značnou část života ve vodě.",
+  "quote": "trávili značnou část života ve vodě",
+  "claimed_false_for": {
+   "Q1144395": "Dromiceiomimus (Dromiceiomimus)",
+   "Q131166": "Cryolophosaurus ellioti (Cryolophosaurus ellioti)",
+   "Q134334": "Cerasinops (Cerasinops)",
+   "Q20672342": "Silesaurus (Silesaurus)",
+   "Q27826636": "Tongtianlong (Tongtianlong)",
+   "Q310434": "Gigantopithecus (Gigantopithecus)",
+   "Q5285248": "Djarthia (Djarthia murgonensis)"
+  }
+ },
+ {
+  "id": "Q131213#0",
+  "species": "Eustreptospondylus",
+  "latin": "Eustreptospondylus",
+  "text": "Živil se především býložravými dinosaury.",
+  "quote": "Jeho potravu tvořili především býložraví dinosauři",
+  "claimed_false_for": {
+   "Q131490": "Nothronychus (Nothronychus)",
+   "Q131518": "Euparkeria (Euparkeria)",
+   "Q132600": "Epidexipteryx (Epidexipteryx)",
+   "Q2149327": "Ectoconus (Ectoconus)",
+   "Q287975": "Liopleurodon (Liopleurodon)",
+   "Q588058": "Australodocus (Australodocus)",
+   "Q61732425": "Mnyamawamtuka (Mnyamawamtuka)"
+  }
+ },
+ {
+  "id": "Q131213#1",
+  "species": "Eustreptospondylus",
+  "latin": "Eustreptospondylus",
+  "text": "Tento druh žil v západní Evropě asi před 165 miliony lety.",
+  "quote": "žijícího na území západní Evropy přibližně před 165 miliony let",
+  "claimed_false_for": {
+   "Q133193": "Hippidion (Hippidion)",
+   "Q135718": "Trigonias (Trigonias)",
+   "Q13616328": "Overosaurus (Overosaurus)",
+   "Q1654983": "Daxiatitan (Daxiatitan)",
+   "Q17363721": "Changyuraptor (Changyuraptor)",
+   "Q20728010": "Suskityrannus (Suskityrannus)",
+   "Q2324017": "Andrewsornis (Andrewsornis)",
+   "Q310537": "Microraptor (Microraptor)",
+   "Q3301304": "Hesperornithoides (Hesperornithoides)",
+   "Q38830623": "Soriatitan (Soriatitan)",
+   "Q81482": "Haplocheirus (Haplocheirus)"
+  }
+ },
+ {
+  "id": "Q131216#1",
+  "species": "Saurophaganax",
+  "latin": "Saurophaganax",
+  "text": "Pozůstatky se našly v Morrisonském souvrství.",
+  "quote": "známých z bohatého Morrisonského souvrství",
+  "claimed_false_for": {
+   "Q12681153": "Aorun (Aorun)",
+   "Q131232": "Moeritheriidae (Moeritherium)",
+   "Q131253": "Pentaceratops (Pentaceratops)",
+   "Q131673": "Nanotyrannus (Nanotyrannus)",
+   "Q131680": "Lystrosaurus (Lystrosaurus)",
+   "Q133383": "Eusthenopteron (Eusthenopteron)",
+   "Q134290": "Triadobatrachus massinoti (Triadobatrachus)",
+   "Q150218": "Zuolong (Zuolong)",
+   "Q2078471": "Carniadactylus (Carniadactylus rosenfeldi)",
+   "Q311286": "Alxasaurus (Alxasaurus)",
+   "Q44533656": "Ostromia (Ostromia)"
+  }
+ },
+ {
+  "id": "Q131225#0",
+  "species": "Beipiaosaurus",
+  "latin": "Beipiaosaurus",
+  "text": "Tento druh měl tělo pokryté peřím.",
+  "quote": "Nejdůležitějším znakem beipiaosaura byla přítomnost pernatého pokryvu těla",
+  "claimed_false_for": {
+   "Q131249": "Futalognkosaurus (Futalognkosaurus)",
+   "Q131404": "Shunosaurus (Shunosaurus)",
+   "Q132927": "Spriggina (Spriggina)",
+   "Q135001": "Didelphodon (Didelphodon)",
+   "Q519430": "Sanpasaurus (Sanpasaurus)"
+  }
+ },
+ {
+  "id": "Q131225#1",
+  "species": "Beipiaosaurus",
+  "latin": "Beipiaosaurus",
+  "text": "Tento druh vážil kolem 40 až 48 kilogramů.",
+  "quote": "vážil kolem 40 až 48 kg",
+  "claimed_false_for": {
+   "Q131278": "Australovenator wintonensis (Australovenator wintonensis)",
+   "Q132760": "Atsinganosaurus (Atsinganosaurus)",
+   "Q133158": "Puertasaurus (Puertasaurus)",
+   "Q133675": "Rebbachisaurus (Rebbachisaurus)",
+   "Q13851602": "Microcoelus (Microcoelus)",
+   "Q139951": "Hoplitosaurus (Hoplitosaurus)",
+   "Q149083": "Sinosaurus (Sinosaurus)",
+   "Q1655776": "Lourinhanosaurus (Lourinhanosaurus antunesi)",
+   "Q1778244": "Kodymirus vagans (Kodymirus vagans)",
+   "Q31881": "Rajasaurus (Rajasaurus)",
+   "Q58179217": "Crittendenceratops (Crittendenceratops)"
+  }
+ },
+ {
+  "id": "Q131232#0",
+  "species": "Moeritheriidae",
+  "latin": "Moeritherium",
+  "text": "Pochází z období třetihorního eocénu, asi před 37 až 35 miliony let.",
+  "quote": "žili v období třetihorního eocénu (asi před 37 až 35 miliony let)",
+  "claimed_false_for": {
+   "Q131595": "Arrhinoceratops (Arrhinoceratops)",
+   "Q132525": "Petrolacosaurus (Petrolacosaurus)",
+   "Q132604": "Gomphotherium (Gomphotherium)",
+   "Q132817": "Platybelodon (Platybelodon)",
+   "Q133070": "Bahariasaurus (Bahariasaurus)",
+   "Q134781": "Amebelodon (Amebelodon)",
+   "Q14455": "Pachycephalosaurus (Pachycephalosaurus)",
+   "Q192272": "Mastodont (Mammut)",
+   "Q685786": "Thylacoleo carnifex (Thylacoleo carnifex)",
+   "Q772364": "Stegodon (Stegodon)",
+   "Q862063": "Kvakoš rodrigueský (Nycticorax megacephalus)"
+  }
+ }
+]

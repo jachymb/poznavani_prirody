@@ -1,0 +1,554 @@
+[
+ {
+  "id": "Q180148#3",
+  "species": "Vířník",
+  "latin": "Rotifera spp.",
+  "text": "Někteří parazitují na vodních bezobratlých.",
+  "quote": "ektokomenzálové až ektoparazité nejrůznějších vodních bezobratlých, zejména členovců a kroužkovců",
+  "claimed_false_for": {
+   "Q116504956": "Medakamo hakoo (Medakamo hakoo)",
+   "Q146310": "Pyrococcus furiosus (Pyrococcus furiosus)",
+   "Q310363": "Coccomyxa (Coccomyxa)",
+   "Q311435": "Herminiimonas glaciei (Herminiimonas glaciei)"
+  }
+ },
+ {
+  "id": "Q180148#4",
+  "species": "Vířník",
+  "latin": "Rotifera spp.",
+  "text": "Dospělci se dožívají jen několika týdnů.",
+  "quote": "Dospělci se dožívají se jen několika týdnů",
+  "claimed_false_for": {
+   "Q5194": "Želvuška (Tardigrada spp.)"
+  }
+ },
+ {
+  "id": "Q180148#5",
+  "species": "Vířník",
+  "latin": "Rotifera spp.",
+  "text": "Nejčastěji dorůstají velikosti jedné až několika desetin milimetru.",
+  "quote": "Typičtí vířníci jsou mikroskopičtí tvorové dosahující nejčastěji velikosti jedné až několika desetin milimetru",
+  "claimed_false_for": {
+   "Q116504956": "Medakamo hakoo (Medakamo hakoo)",
+   "Q130971": "Mycobacterium tuberculosis (Mycobacterium tuberculosis)",
+   "Q131003": "Toxoplasma gondii (Toxoplasma gondii)",
+   "Q131027": "Měňavka úplavičná (Entamoeba histolytica)",
+   "Q131649": "Corynebacterium diphtheriae (Corynebacterium diphtheriae)",
+   "Q146310": "Pyrococcus furiosus (Pyrococcus furiosus)",
+   "Q153875": "Yersinia pestis (Yersinia pestis)",
+   "Q180556": "Helicobacter pylori (Helicobacter pylori)",
+   "Q188121": "Staphylococcus aureus (Staphylococcus aureus)",
+   "Q25419": "Escherichia coli (Escherichia coli)",
+   "Q311435": "Herminiimonas glaciei (Herminiimonas glaciei)",
+   "Q719725": "Saccharomyces cerevisiae (Saccharomyces cerevisiae)",
+   "Q830142": "Rhizobium (Rhizobium)"
+  }
+ },
+ {
+  "id": "Q180148#6",
+  "species": "Vířník",
+  "latin": "Rotifera spp.",
+  "text": "Většina druhů žije ve sladké vodě.",
+  "quote": "Většina z více než 2000 popsaných druhů vířníků žije v různorodých sladkovodních biotopech",
+  "claimed_false_for": {
+   "Q107027": "Dírkonošec (Foraminifera spp.)",
+   "Q131065": "Chlamydia trachomatis (Chlamydia trachomatis)",
+   "Q221179": "Streptococcus pneumoniae (Streptococcus pneumoniae)",
+   "Q2658061": "Sarcocystis (Sarcocystis)"
+  }
+ },
+ {
+  "id": "Q180148#7",
+  "species": "Vířník",
+  "latin": "Rotifera spp.",
+  "text": "Mohou sloužit jako indikátory znečištění vody.",
+  "quote": "Dále mohou vířníci sloužit i jako indikátory znečištění vod",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q180556#4",
+  "species": "Helicobacter pylori",
+  "latin": "Helicobacter pylori",
+  "text": "Na povrchu má 4 až 6 bičíků.",
+  "quote": "Na svém povrchu má 4 až 6 bičíků",
+  "claimed_false_for": {
+   "Q1135851": "Plíseň šedá (Botrytis cinerea)",
+   "Q132014": "Kropidlák černý (Aspergillus niger)",
+   "Q137096": "Aspergillus flavus (Aspergillus flavus)",
+   "Q137155": "Penicillium chrysogenum (Penicillium chrysogenum)",
+   "Q719725": "Saccharomyces cerevisiae (Saccharomyces cerevisiae)"
+  }
+ },
+ {
+  "id": "Q188121#2",
+  "species": "Staphylococcus aureus",
+  "latin": "Staphylococcus aureus",
+  "text": "Velmi často způsobuje infekce kůže a měkkých tkání.",
+  "quote": "Způsobuje velmi často různé infekce v rozsahu od mírných zánětů kůže a měkkých tkání",
+  "claimed_false_for": {
+   "Q1135851": "Plíseň šedá (Botrytis cinerea)",
+   "Q132014": "Kropidlák černý (Aspergillus niger)",
+   "Q137096": "Aspergillus flavus (Aspergillus flavus)",
+   "Q137155": "Penicillium chrysogenum (Penicillium chrysogenum)",
+   "Q719725": "Saccharomyces cerevisiae (Saccharomyces cerevisiae)"
+  }
+ },
+ {
+  "id": "Q190115#0",
+  "species": "Břichobrvka",
+  "latin": "Gastrotricha spp.",
+  "text": "Živí se mikrořasami a bakteriemi.",
+  "quote": "Živí se mikrořasami, bakteriemi a malými protisty",
+  "claimed_false_for": {
+   "Q130971": "Mycobacterium tuberculosis (Mycobacterium tuberculosis)",
+   "Q131003": "Toxoplasma gondii (Toxoplasma gondii)",
+   "Q135368": "Saccharomyces boulardii (Saccharomyces boulardii)",
+   "Q1500736": "Kropidlovec černavý (Rhizopus stolonifer)",
+   "Q153875": "Yersinia pestis (Yersinia pestis)",
+   "Q1543914": "Batrachochytrium dendrobatidis (Batrachochytrium dendrobatidis)",
+   "Q180556": "Helicobacter pylori (Helicobacter pylori)",
+   "Q188121": "Staphylococcus aureus (Staphylococcus aureus)",
+   "Q26816853": "Candidozyma auris (Candida auris)",
+   "Q292015": "Listeria monocytogenes (Listeria monocytogenes)",
+   "Q310443": "Candida albicans (Candida albicans)",
+   "Q3394798": "Plíseň hlavičková (Mucor mucedo)",
+   "Q5222586": "Kluyveromyces marxianus fragilis B03999 (Kluyveromyces marxianus)",
+   "Q719725": "Saccharomyces cerevisiae (Saccharomyces cerevisiae)"
+  }
+ },
+ {
+  "id": "Q190115#1",
+  "species": "Břichobrvka",
+  "latin": "Gastrotricha spp.",
+  "text": "Loví ho volně žijící ploštěnci a masožraví nálevníci.",
+  "quote": "následně jsou loveni malou makrofaunou, zejména volně žijícími ploštěnci, nebo masožravými nálevníky.",
+  "claimed_false_for": {
+   "Q130971": "Mycobacterium tuberculosis (Mycobacterium tuberculosis)",
+   "Q153875": "Yersinia pestis (Yersinia pestis)",
+   "Q180556": "Helicobacter pylori (Helicobacter pylori)",
+   "Q188121": "Staphylococcus aureus (Staphylococcus aureus)"
+  }
+ },
+ {
+  "id": "Q190115#2",
+  "species": "Břichobrvka",
+  "latin": "Gastrotricha spp.",
+  "text": "Dorůstají nejvýše 4 mm.",
+  "quote": "Dorůstají nejvýše 4 mm",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q190115#3",
+  "species": "Břichobrvka",
+  "latin": "Gastrotricha spp.",
+  "text": "Pohlavní dospělosti dosahují za přibližně tři dny.",
+  "quote": "pohlavní dospělosti dosahují již za přibližně tři dny",
+  "claimed_false_for": {
+   "Q116504956": "Medakamo hakoo (Medakamo hakoo)",
+   "Q131065": "Chlamydia trachomatis (Chlamydia trachomatis)",
+   "Q142705": "Stenotrophomonas maltophilia (Stenotrophomonas maltophilia)",
+   "Q221179": "Streptococcus pneumoniae (Streptococcus pneumoniae)",
+   "Q2666248": "Ferroplasma (Ferroplasma)",
+   "Q310363": "Coccomyxa (Coccomyxa)",
+   "Q3614869": "Nostoc azollae (Anabaena azollae)"
+  }
+ },
+ {
+  "id": "Q190115#4",
+  "species": "Břichobrvka",
+  "latin": "Gastrotricha spp.",
+  "text": "Daří se jim v sedimentech na dně mořského a sladkovodního prostředí.",
+  "quote": "kterým se daří v sedimentech na dně mořského a sladkovodního prostředí",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q2133435#0",
+  "species": "Zrněnka",
+  "latin": "Pleurococcus",
+  "text": "Tvoří zelené povlaky na kůře stromů nebo na skalách.",
+  "quote": "Žije na skalách nebo kůře stromů, kde vytváří zelené povlaky.",
+  "claimed_false_for": {
+   "Q1135851": "Plíseň šedá (Botrytis cinerea)",
+   "Q132014": "Kropidlák černý (Aspergillus niger)",
+   "Q137096": "Aspergillus flavus (Aspergillus flavus)",
+   "Q137155": "Penicillium chrysogenum (Penicillium chrysogenum)",
+   "Q719725": "Saccharomyces cerevisiae (Saccharomyces cerevisiae)"
+  }
+ },
+ {
+  "id": "Q221179#0",
+  "species": "Streptococcus pneumoniae",
+  "latin": "Streptococcus pneumoniae",
+  "text": "Žije v horních cestách dýchacích u dětí.",
+  "quote": "Streptococcus pneumoniae je usídlena v horních cestách dýchacích u dětí.",
+  "claimed_false_for": {
+   "Q135368": "Saccharomyces boulardii (Saccharomyces boulardii)",
+   "Q1500736": "Kropidlovec černavý (Rhizopus stolonifer)",
+   "Q1543914": "Batrachochytrium dendrobatidis (Batrachochytrium dendrobatidis)",
+   "Q162678": "Rozsivka (Diatomea spp.)",
+   "Q180148": "Vířník (Rotifera spp.)",
+   "Q3394798": "Plíseň hlavičková (Mucor mucedo)",
+   "Q430301": "Pijavenka (Bdelloidea spp.)",
+   "Q5194": "Želvuška (Tardigrada spp.)",
+   "Q5222586": "Kluyveromyces marxianus fragilis B03999 (Kluyveromyces marxianus)"
+  }
+ },
+ {
+  "id": "Q25419#5",
+  "species": "Escherichia coli",
+  "latin": "Escherichia coli",
+  "text": "Za dobrých podmínek se dělí zhruba každých 20 minut.",
+  "quote": "Při optimálních podmínkách (37 °C, dostatek živin) je doba generace zhruba 20 min.",
+  "claimed_false_for": {
+   "Q1135851": "Plíseň šedá (Botrytis cinerea)",
+   "Q132014": "Kropidlák černý (Aspergillus niger)",
+   "Q137096": "Aspergillus flavus (Aspergillus flavus)",
+   "Q137155": "Penicillium chrysogenum (Penicillium chrysogenum)",
+   "Q719725": "Saccharomyces cerevisiae (Saccharomyces cerevisiae)"
+  }
+ },
+ {
+  "id": "Q26816853#0",
+  "species": "Candidozyma auris",
+  "latin": "Candida auris",
+  "text": "Přežívá na nemocničním vybavení a stěnách.",
+  "quote": "přežívá na nemocničním vybavení, stěnách apod.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q26816853#1",
+  "species": "Candidozyma auris",
+  "latin": "Candida auris",
+  "text": "Může způsobit infekci krevního oběhu.",
+  "quote": "k infekci krevního oběhu, centrálního nervového systému a vnitřních orgánů.",
+  "claimed_false_for": {
+   "Q133548": "Desulforudis audaxviator (Desulforudis audaxviator)",
+   "Q190115": "Břichobrvka (Gastrotricha spp.)",
+   "Q81062864": "Anabaena flos-aquae (Anabaena flos-aquae)"
+  }
+ },
+ {
+  "id": "Q26816853#2",
+  "species": "Candidozyma auris",
+  "latin": "Candida auris",
+  "text": "Roste i při teplotách 40 až 42 °C.",
+  "quote": "při neobvykle vysokých teplotách (40–42 stupňů Celsia)",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q26816853#3",
+  "species": "Candidozyma auris",
+  "latin": "Candida auris",
+  "text": "Tento druh se daří v teplejším prostředí s vysokým obsahem soli.",
+  "quote": "se daří v teplejším prostředí s vysokým obsahem soli",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q26816853#4",
+  "species": "Candidozyma auris",
+  "latin": "Candida auris",
+  "text": "Přilne k lidské kůži i k neživým površím.",
+  "quote": "usnadňuje houbě přilnutí k lidské kůži, neživým povrchům",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q26816853#5",
+  "species": "Candidozyma auris",
+  "latin": "Candida auris",
+  "text": "Peroxid vodíku ho účinně ničí na površích v nemocnicích.",
+  "quote": "Peroxid vodíku účinně ničí C. auris na površích v nemocnicích",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q309972#0",
+  "species": "Chlorella vulgaris",
+  "latin": "Chlorella vulgaris",
+  "text": "Získává energii ze slunečního záření.",
+  "quote": "Energii, která je potřebná pro syntézu nových sloučenin, získávají řasy ze slunečního záření",
+  "claimed_false_for": {
+   "Q135368": "Saccharomyces boulardii (Saccharomyces boulardii)",
+   "Q1500736": "Kropidlovec černavý (Rhizopus stolonifer)",
+   "Q1543914": "Batrachochytrium dendrobatidis (Batrachochytrium dendrobatidis)",
+   "Q180148": "Vířník (Rotifera spp.)",
+   "Q26816853": "Candidozyma auris (Candida auris)",
+   "Q292015": "Listeria monocytogenes (Listeria monocytogenes)",
+   "Q310443": "Candida albicans (Candida albicans)",
+   "Q3394798": "Plíseň hlavičková (Mucor mucedo)",
+   "Q430301": "Pijavenka (Bdelloidea spp.)",
+   "Q5194": "Želvuška (Tardigrada spp.)",
+   "Q5222586": "Kluyveromyces marxianus fragilis B03999 (Kluyveromyces marxianus)"
+  }
+ },
+ {
+  "id": "Q310363#0",
+  "species": "Coccomyxa",
+  "latin": "Coccomyxa",
+  "text": "Podílí se na stavbě některých lišejníků.",
+  "quote": "se jako fotobiont podílí na stavbě některých lišejníků",
+  "claimed_false_for": {
+   "Q135368": "Saccharomyces boulardii (Saccharomyces boulardii)",
+   "Q1500736": "Kropidlovec černavý (Rhizopus stolonifer)",
+   "Q1543914": "Batrachochytrium dendrobatidis (Batrachochytrium dendrobatidis)",
+   "Q162678": "Rozsivka (Diatomea spp.)",
+   "Q180148": "Vířník (Rotifera spp.)",
+   "Q26816853": "Candidozyma auris (Candida auris)",
+   "Q292015": "Listeria monocytogenes (Listeria monocytogenes)",
+   "Q310443": "Candida albicans (Candida albicans)",
+   "Q3394798": "Plíseň hlavičková (Mucor mucedo)",
+   "Q430301": "Pijavenka (Bdelloidea spp.)",
+   "Q5194": "Želvuška (Tardigrada spp.)",
+   "Q5222586": "Kluyveromyces marxianus fragilis B03999 (Kluyveromyces marxianus)"
+  }
+ },
+ {
+  "id": "Q310443#0",
+  "species": "Candida albicans",
+  "latin": "Candida albicans",
+  "text": "Někdy způsobuje u lidí ústní a genitální houbové infekce.",
+  "quote": "Candida albicans je druh kvasinky, jenž někdy u lidí způsobuje ústní a genitální houbové infekce.",
+  "claimed_false_for": {
+   "Q131452": "Streptococcus mutans (Streptococcus mutans)",
+   "Q133548": "Desulforudis audaxviator (Desulforudis audaxviator)",
+   "Q139227": "Burkholderia cepacia (Burkholderia cepacia)",
+   "Q153875": "Yersinia pestis (Yersinia pestis)",
+   "Q190115": "Břichobrvka (Gastrotricha spp.)",
+   "Q1950752": "Leishmania donovani (Leishmania donovani)",
+   "Q311376": "Plasmodium vivax (Plasmodium vivax)",
+   "Q81062864": "Anabaena flos-aquae (Anabaena flos-aquae)"
+  }
+ },
+ {
+  "id": "Q310443#1",
+  "species": "Candida albicans",
+  "latin": "Candida albicans",
+  "text": "U 80 % lidí za normálních okolností neškodí.",
+  "quote": "Za normálních okolností u 80 % populace neškodí.",
+  "claimed_false_for": {
+   "Q153875": "Yersinia pestis (Yersinia pestis)",
+   "Q1950752": "Leishmania donovani (Leishmania donovani)",
+   "Q311376": "Plasmodium vivax (Plasmodium vivax)"
+  }
+ },
+ {
+  "id": "Q310443#2",
+  "species": "Candida albicans",
+  "latin": "Candida albicans",
+  "text": "Běžně žije ve střevech a v ústech.",
+  "quote": "Candida albicans je typickým druhem střevní a ústní mikroflóry.",
+  "claimed_false_for": {
+   "Q132014": "Kropidlák černý (Aspergillus niger)",
+   "Q133548": "Desulforudis audaxviator (Desulforudis audaxviator)",
+   "Q190115": "Břichobrvka (Gastrotricha spp.)",
+   "Q1950752": "Leishmania donovani (Leishmania donovani)",
+   "Q311376": "Plasmodium vivax (Plasmodium vivax)",
+   "Q81062864": "Anabaena flos-aquae (Anabaena flos-aquae)"
+  }
+ },
+ {
+  "id": "Q310443#3",
+  "species": "Candida albicans",
+  "latin": "Candida albicans",
+  "text": "Při oslabené imunitě se infekce šíří po celém těle.",
+  "quote": "Při oslabení obranného systému se houbová infekce šíří do celého organizmu a napadá vnitřní orgány.",
+  "claimed_false_for": {
+   "Q133548": "Desulforudis audaxviator (Desulforudis audaxviator)",
+   "Q190115": "Břichobrvka (Gastrotricha spp.)",
+   "Q81062864": "Anabaena flos-aquae (Anabaena flos-aquae)"
+  }
+ },
+ {
+  "id": "Q3394798#0",
+  "species": "Plíseň hlavičková",
+  "latin": "Mucor mucedo",
+  "text": "Roste na koňském trusu a na hnoji.",
+  "quote": "Roste na koňském trusu a na hnoji.",
+  "claimed_false_for": {
+   "Q1152218": "Acanthamoeba (Acanthamoeba)",
+   "Q155891": "Mycobacterium leprae (Mycobacterium leprae)",
+   "Q1950715": "Leishmania major (Leishmania major)",
+   "Q2442109": "Propionibacterium acnes (Cutibacterium acnes)"
+  }
+ },
+ {
+  "id": "Q430301#0",
+  "species": "Pijavenka",
+  "latin": "Bdelloidea spp.",
+  "text": "Cizí geny pravděpodobně získávají od bakterií, hub, řas i prvoků.",
+  "quote": "bakterií, hub, řas i prvoků.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q5194#0",
+  "species": "Želvuška",
+  "latin": "Tardigrada spp.",
+  "text": "Býložravé druhy pojídají mech a řasy.",
+  "quote": "býložravé želvušky pojídají mech, řasy a buňky rostlin",
+  "claimed_false_for": {
+   "Q130971": "Mycobacterium tuberculosis (Mycobacterium tuberculosis)",
+   "Q131003": "Toxoplasma gondii (Toxoplasma gondii)",
+   "Q131027": "Měňavka úplavičná (Entamoeba histolytica)",
+   "Q131649": "Corynebacterium diphtheriae (Corynebacterium diphtheriae)",
+   "Q146310": "Pyrococcus furiosus (Pyrococcus furiosus)",
+   "Q153875": "Yersinia pestis (Yersinia pestis)",
+   "Q180556": "Helicobacter pylori (Helicobacter pylori)",
+   "Q188121": "Staphylococcus aureus (Staphylococcus aureus)",
+   "Q311435": "Herminiimonas glaciei (Herminiimonas glaciei)",
+   "Q719725": "Saccharomyces cerevisiae (Saccharomyces cerevisiae)",
+   "Q830142": "Rhizobium (Rhizobium)"
+  }
+ },
+ {
+  "id": "Q5194#1",
+  "species": "Želvuška",
+  "latin": "Tardigrada spp.",
+  "text": "Některé druhy se živí hlísticemi a vířníky.",
+  "quote": "Dravá želvuška Milnesium tardigradum se zase živí hlísticemi a vířníky",
+  "claimed_false_for": {
+   "Q116504956": "Medakamo hakoo (Medakamo hakoo)",
+   "Q130971": "Mycobacterium tuberculosis (Mycobacterium tuberculosis)",
+   "Q131003": "Toxoplasma gondii (Toxoplasma gondii)",
+   "Q131065": "Chlamydia trachomatis (Chlamydia trachomatis)",
+   "Q153875": "Yersinia pestis (Yersinia pestis)",
+   "Q162678": "Rozsivka (Diatomea spp.)",
+   "Q180556": "Helicobacter pylori (Helicobacter pylori)",
+   "Q188121": "Staphylococcus aureus (Staphylococcus aureus)",
+   "Q221179": "Streptococcus pneumoniae (Streptococcus pneumoniae)",
+   "Q25419": "Escherichia coli (Escherichia coli)",
+   "Q2666248": "Ferroplasma (Ferroplasma)",
+   "Q310363": "Coccomyxa (Coccomyxa)",
+   "Q3614869": "Nostoc azollae (Anabaena azollae)",
+   "Q719725": "Saccharomyces cerevisiae (Saccharomyces cerevisiae)"
+  }
+ },
+ {
+  "id": "Q5194#2",
+  "species": "Želvuška",
+  "latin": "Tardigrada spp.",
+  "text": "Jeho predátory jsou pavouci a roztoči.",
+  "quote": "roztoči, pavouci, vířníci, chvostoskoci, hmyzí larvy nebo jiné želvušky",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q5194#3",
+  "species": "Želvuška",
+  "latin": "Tardigrada spp.",
+  "text": "Některé mořské druhy parazitují na svijonožcích.",
+  "quote": "Zatímco některé mořské druhy parazitují na pokožce sumýšů či svijonožců",
+  "claimed_false_for": {
+   "Q116504956": "Medakamo hakoo (Medakamo hakoo)",
+   "Q130971": "Mycobacterium tuberculosis (Mycobacterium tuberculosis)",
+   "Q131003": "Toxoplasma gondii (Toxoplasma gondii)",
+   "Q131065": "Chlamydia trachomatis (Chlamydia trachomatis)",
+   "Q153875": "Yersinia pestis (Yersinia pestis)",
+   "Q180556": "Helicobacter pylori (Helicobacter pylori)",
+   "Q188121": "Staphylococcus aureus (Staphylococcus aureus)",
+   "Q221179": "Streptococcus pneumoniae (Streptococcus pneumoniae)",
+   "Q25419": "Escherichia coli (Escherichia coli)",
+   "Q2666248": "Ferroplasma (Ferroplasma)",
+   "Q310363": "Coccomyxa (Coccomyxa)",
+   "Q3614869": "Nostoc azollae (Anabaena azollae)",
+   "Q719725": "Saccharomyces cerevisiae (Saccharomyces cerevisiae)"
+  }
+ },
+ {
+  "id": "Q5194#4",
+  "species": "Želvuška",
+  "latin": "Tardigrada spp.",
+  "text": "Některé druhy se přichycují ke stejnonožcům.",
+  "quote": "jiné tvoří komensální vazby se stejnonožci, na kterých žijí přichyceni na pleopodech",
+  "claimed_false_for": {
+   "Q130971": "Mycobacterium tuberculosis (Mycobacterium tuberculosis)",
+   "Q131003": "Toxoplasma gondii (Toxoplasma gondii)",
+   "Q153875": "Yersinia pestis (Yersinia pestis)",
+   "Q180556": "Helicobacter pylori (Helicobacter pylori)",
+   "Q188121": "Staphylococcus aureus (Staphylococcus aureus)",
+   "Q25419": "Escherichia coli (Escherichia coli)",
+   "Q719725": "Saccharomyces cerevisiae (Saccharomyces cerevisiae)"
+  }
+ },
+ {
+  "id": "Q5194#5",
+  "species": "Želvuška",
+  "latin": "Tardigrada spp.",
+  "text": "Aktivní život trvá asi 18 až 30 měsíců.",
+  "quote": "Aktivní délka života se odhaduje na 18−30 měsíců",
+  "claimed_false_for": {
+   "Q130971": "Mycobacterium tuberculosis (Mycobacterium tuberculosis)",
+   "Q153875": "Yersinia pestis (Yersinia pestis)",
+   "Q180148": "Vířník (Rotifera spp.)",
+   "Q180556": "Helicobacter pylori (Helicobacter pylori)",
+   "Q188121": "Staphylococcus aureus (Staphylococcus aureus)",
+   "Q25419": "Escherichia coli (Escherichia coli)"
+  }
+ },
+ {
+  "id": "Q5194#6",
+  "species": "Želvuška",
+  "latin": "Tardigrada spp.",
+  "text": "Při vyschnutí dokáže přežít i roky.",
+  "quote": "Ve stavu anhydrobiózy mohou želvušky přežít i roky",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q5222586#0",
+  "species": "Kluyveromyces marxianus fragilis B03999",
+  "latin": "Kluyveromyces marxianus",
+  "text": "Kvasí laktózu a tvoří kyselinu mléčnou.",
+  "quote": "Kvasí laktózu s produkcí kyseliny mléčné.",
+  "claimed_false_for": {
+   "Q1190338": "Měňavka velká (Amoeba proteus)",
+   "Q3021915": "Váleč koulivý (Volvox globator)",
+   "Q3512031": "Brucella melitensis (Brucella melitensis)",
+   "Q6823576": "Methanobacterium (Methanobacterium)",
+   "Q719725": "Saccharomyces cerevisiae (Saccharomyces cerevisiae)"
+  }
+ },
+ {
+  "id": "Q5222586#1",
+  "species": "Kluyveromyces marxianus fragilis B03999",
+  "latin": "Kluyveromyces marxianus",
+  "text": "Tento druh je odolný proti antibiotikům i žaludečním šťávám.",
+  "quote": "Je zvláště odolný proti působení antibiotik i žaludečním šťávám.",
+  "claimed_false_for": {
+   "Q3021915": "Váleč koulivý (Volvox globator)"
+  }
+ },
+ {
+  "id": "Q5233857#0",
+  "species": "Theileria",
+  "latin": "Theileria",
+  "text": "Jsou to jednobuněční prvoci, kteří žijí jen jako parazité.",
+  "quote": "Jsou to jednobuněční prvoci s obligátně parazitickým způsobem života.",
+  "claimed_false_for": {
+   "Q135368": "Saccharomyces boulardii (Saccharomyces boulardii)",
+   "Q1500736": "Kropidlovec černavý (Rhizopus stolonifer)",
+   "Q1543914": "Batrachochytrium dendrobatidis (Batrachochytrium dendrobatidis)",
+   "Q162678": "Rozsivka (Diatomea spp.)",
+   "Q180148": "Vířník (Rotifera spp.)",
+   "Q26816853": "Candidozyma auris (Candida auris)",
+   "Q310443": "Candida albicans (Candida albicans)",
+   "Q3394798": "Plíseň hlavičková (Mucor mucedo)",
+   "Q430301": "Pijavenka (Bdelloidea spp.)",
+   "Q5194": "Želvuška (Tardigrada spp.)",
+   "Q5222586": "Kluyveromyces marxianus fragilis B03999 (Kluyveromyces marxianus)"
+  }
+ },
+ {
+  "id": "Q719725#0",
+  "species": "Saccharomyces cerevisiae",
+  "latin": "Saccharomyces cerevisiae",
+  "text": "Buňky tohoto druhu jsou oválné až kulovité, velké 5–10 mikrometrů.",
+  "quote": "Buňky S. cerevisiae jsou oválné až kulovité, velké 5–10 mikrometrů.",
+  "claimed_false_for": {
+   "Q107027": "Dírkonošec (Foraminifera spp.)",
+   "Q1190338": "Měňavka velká (Amoeba proteus)",
+   "Q131027": "Měňavka úplavičná (Entamoeba histolytica)",
+   "Q180148": "Vířník (Rotifera spp.)",
+   "Q190115": "Břichobrvka (Gastrotricha spp.)",
+   "Q236001": "Krásnoočko (Euglena)",
+   "Q292015": "Listeria monocytogenes (Listeria monocytogenes)",
+   "Q3512031": "Brucella melitensis (Brucella melitensis)",
+   "Q5194": "Želvuška (Tardigrada spp.)"
+  }
+ }
+]

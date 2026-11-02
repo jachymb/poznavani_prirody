@@ -1,0 +1,180 @@
+{
+ "facts": [
+  {
+   "id": "Q135368#1",
+   "species": "Saccharomyces boulardii",
+   "text": "Lépe snáší žaludeční kyseliny než běžná kvasinka.",
+   "quote": "Také lépe snáší teplotu lidského těla, žaludeční kyseliny a trávicí enzymy než S. cerevisiae."
+  },
+  {
+   "id": "Q135368#2",
+   "species": "Saccharomyces boulardii",
+   "text": "U zdravých lidí zůstává v trávicím ústrojí a nešíří se do těla.",
+   "quote": "U zdravých lidí se ukázalo, že S. boulardii není patogenní a zůstává v gastrointestinálním traktu, místo aby se šířila do jiných částí těla."
+  },
+  {
+   "id": "Q135368#3",
+   "species": "Saccharomyces boulardii",
+   "text": "Vytváří látky, které tlumí škodlivé bakterie a jejich jedy.",
+   "quote": "Jak S. boulardii, tak běžná S. cerevisiae produkují proteiny, které inhibují patogenní bakterie a jejich toxiny"
+  },
+  {
+   "id": "Q5222586#0",
+   "species": "Kluyveromyces marxianus fragilis B03999",
+   "text": "Tento druh kvasí laktózu a tvoří kyselinu mléčnou.",
+   "quote": "Kvasí laktózu s produkcí kyseliny mléčné."
+  },
+  {
+   "id": "Q5222586#1",
+   "species": "Kluyveromyces marxianus fragilis B03999",
+   "text": "Tento druh je odolný proti antibiotikům i žaludečním šťávám.",
+   "quote": "Je zvláště odolný proti působení antibiotik i žaludečním šťávám."
+  },
+  {
+   "id": "Q135175#1",
+   "species": "Nocardia",
+   "text": "Některé druhy způsobují nemoci u lidí.",
+   "quote": "Některé z nokardií jsou oportunisticky patogenní (původci nokardióz)."
+  },
+  {
+   "id": "Q154625#0",
+   "species": "Neisseria meningitidis",
+   "text": "Infikuje jen člověka.",
+   "quote": "Infikuje jen člověka"
+  },
+  {
+   "id": "Q141236#0",
+   "species": "Vakovka lidská",
+   "text": "Žije hlavně v tlustém střevě prasat domácích.",
+   "quote": "Balantidium coli se vyskytuje převážně v tlustém střevě prasat domácích"
+  },
+  {
+   "id": "Q131271#2",
+   "species": "Streptococcus pyogenes",
+   "text": "Tento druh tvoří toxiny, které způsobují spálovou vyrážku.",
+   "quote": "erytrogenní (pyrogenní) toxiny způsobují spálový exantém"
+  },
+  {
+   "id": "Q25419#5",
+   "species": "Escherichia coli",
+   "text": "Za dobrých podmínek se dělí zhruba každých 20 minut.",
+   "quote": "Při optimálních podmínkách (37 °C, dostatek živin) je doba generace zhruba 20 min."
+  },
+  {
+   "id": "Q188121#2",
+   "species": "Staphylococcus aureus",
+   "text": "Velmi často způsobuje infekce kůže a měkkých tkání.",
+   "quote": "Způsobuje velmi často různé infekce v rozsahu od mírných zánětů kůže a měkkých tkání"
+  },
+  {
+   "id": "Q134950#0",
+   "species": "Vápenatka mnohohlavá",
+   "text": "Živí se bakteriemi, houbami a drobnými kusy organického materiálu.",
+   "quote": "Vápenatka se živí bakteriemi, houbami, ale také drobnými kusy organického materiálu."
+  },
+  {
+   "id": "Q146310#3",
+   "species": "Pyrococcus furiosus",
+   "text": "Tento druh byl poprvé izolován z horkých mořských sedimentů.",
+   "quote": "byl poprvé izolován z horkých mořských sedimentů"
+  },
+  {
+   "id": "Q2133435#0",
+   "species": "Zrněnka",
+   "text": "Tento druh tvoří zelené povlaky na kůře stromů nebo na skalách.",
+   "quote": "Žije na skalách nebo kůře stromů, kde vytváří zelené povlaky."
+  },
+  {
+   "id": "Q131065#1",
+   "species": "Chlamydia trachomatis",
+   "text": "Přenáší se pohlavním stykem.",
+   "quote": "pohlavním stykem a může u mužů i u žen způsobit vážné zdravotní komplikace."
+  },
+  {
+   "id": "Q130971#0",
+   "species": "Mycobacterium tuberculosis",
+   "text": "Způsobuje většinu případů tuberkulózy.",
+   "quote": "Způsobuje většinu případů tuberkulózy."
+  },
+  {
+   "id": "Q146310#1",
+   "species": "Pyrococcus furiosus",
+   "text": "Jako zdroj uhlíku dává přednost sacharidům, například škrobu.",
+   "quote": "preference sacharidů (škrobu, oligosacharidů) jako zdroje uhlíku"
+  },
+  {
+   "id": "Q26816853#3",
+   "species": "Candidozyma auris",
+   "text": "Tento druh se daří v teplejším prostředí s vysokým obsahem soli.",
+   "quote": "se daří v teplejším prostředí s vysokým obsahem soli"
+  },
+  {
+   "id": "Q131273#2",
+   "species": "Naegleria fowleri",
+   "text": "Občas parazituje na lidech.",
+   "quote": "fakultativní parazit, u lidí způsobuje"
+  },
+  {
+   "id": "Q180556#4",
+   "species": "Helicobacter pylori",
+   "text": "Na povrchu má 4 až 6 bičíků.",
+   "quote": "Na svém povrchu má 4 až 6 bičíků"
+  }
+ ],
+ "candidates": {
+  "Q719725": {
+   "name": "Saccharomyces cerevisiae",
+   "latin": "Saccharomyces cerevisiae",
+   "family": "Saccharomycetaceae",
+   "lead": "Saccharomyces cerevisiae (pivní, pekařská nebo vinná kvasinka) je druh kvasinky z oddělení vřeckovýtrusných hub, která je člověkem v kvasných procesech používána už od neolitu. Pro kvašení byly nejdříve využívány kvasinky přirozeně se vyskytující na povrchu ovoce nebo na slupkách bobulí révy vinné a není jasné kdy došlo k „domestikaci“ těchto kvasinek. Kvasinky saccharomyces cerevisiae je možné\nrozdělit do geneticky spřízněných kmenů podle toho, jaký substrát kvasí, přičemž hlavní jsou pivní, pe",
+   "facts": [
+    "Buňky tohoto druhu jsou oválné až kulovité, velké 5–10 mikrometrů.",
+    "Tento druh je modelový organismus pro studium lidských nemocí.",
+    "Tento druh má 6275 genů.",
+    "Až 31 % jeho genů může být podobných lidským genům."
+   ]
+  },
+  "Q132014": {
+   "name": "Kropidlák černý",
+   "latin": "Aspergillus niger",
+   "family": "Aspergillaceae",
+   "lead": "Kropidlák černý (Aspergillus niger) je houba patřící mezi nejrozšířenější druhy rodu Aspergillus. Způsobuje chorobu nazývanou „černá plíseň“ na ovoci a zelenině, např. na hroznovém víně, cibuli nebo arašídech, a je častým kontaminantem potravin. Tato plíseň je velmi rozšířená v půdě a často se objevuje i ve vnitřním prostředí, kde si její černé kolonie lze plést s koloniemi plísně Stachybotrys\n(též se označuje jako „černá plíseň“).\nU některéch kmenů A. niger se zjistilo, že produkují silné mykot",
+   "facts": [
+    "Často znečišťuje potraviny.",
+    "Využívá se k průmyslové výrobě kyseliny citronové."
+   ]
+  },
+  "Q137096": {
+   "name": "Aspergillus flavus",
+   "latin": "Aspergillus flavus",
+   "family": "Aspergillaceae",
+   "lead": "Aspergillus flavus (kropidlák žlutý) je houba patřící do rodu Aspergillus. Je to plíseň běžně rozšířená v životním prostředí a způsobuje problémy při skladování obilí. Může být lidským patogenem způsobujícím aspergilózu plic a někdy také rohovky, vnějšího ucha nebo nosní klenby. Mnoho kmenů produkuje významná množství aflatoxinu, karcinogenní a akutně toxické sloučeniny. Spory A. flavus jsou\nalergenní. A. flavus někdy způsobuje ztráty v líhních bource morušového.\n\n\n== Onemocnění člověka ==\nA. fl",
+   "facts": [
+    "Vyskytuje se zvláště na kukuřici a arašídech.",
+    "Někdy způsobuje ztráty v líhních bource morušového."
+   ]
+  },
+  "Q137155": {
+   "name": "Penicillium chrysogenum",
+   "latin": "Penicillium chrysogenum",
+   "family": "Aspergillaceae",
+   "lead": "Penicillium chrysogenum (dříve též Penicillium notatum) je běžný druh plísní z rodu štětičkovec (Penicillium), který roste např. ve vlhkých či vodou poškozených budovách, ale také na některých zkažených potravinách. Některé látky (sekundární metabolity), které se v tomto druhu plísní vyskytují, jej proslavily: zejména různá beta-laktamová antibiotika, jako je penicilin; dále ovšem také roquefortin\nC, meleagrin, chrysogin, xanthocilliny, sekalonové kyseliny, sorrentanon, sorbicillin a PR-toxin.\n\n",
+   "facts": [
+    "Roste ve vlhkých nebo vodou poškozených budovách.",
+    "Spory mohou některým lidem způsobit alergii."
+   ]
+  },
+  "Q1135851": {
+   "name": "Plíseň šedá",
+   "latin": "Botrytis cinerea",
+   "family": "hlízenkovité",
+   "lead": "Plíseň šedá (Botrytis cinerea) je nepohlavní stadium životního cyklu hub Botryotinia fuckeliana, které se rozmnožují výhradně nepohlavně.\nJe známo přibližně 50 druhů rodu Botrytis, přičemž B. cinerea má nejširší okruh hostitelů.\nIdentifikace plísně šedé není obtížná. Vytváří zpočátku bílý až šedý, později šedohnědý povlak, povrchové nebo intramatrikální hyfy jsou hyalinní (průsvitné) až hnědé. Konidiofory jsou přímé bezbarvé, s přibývajícím stářím hnědnou. Ve vrcholové části se dichotomicky větv",
+   "facts": [
+    "Napadá hlavně oslabené rostliny.",
+    "Mezi nejvýznamnější hostitele patří réva vinná.",
+    "Na výsevu způsobuje padání klíčních rostlin.",
+    "Šíří se hlavně ve vlhku a za deště."
+   ]
+  }
+ }
+}
