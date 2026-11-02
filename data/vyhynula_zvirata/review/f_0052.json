@@ -1,0 +1,29 @@
+{"drop_facts": [
+{"id": "Q311123#2", "why": "citace říká vlhčí (srovnání), tvrzení z toho dělá vlhkou krajinu"},
+{"id": "Q311212#1", "why": "sporný údaj: odhady hmotnosti se liší (asi 11 až 20 t), článek sám uvádí i 16,4 t"},
+{"id": "Q311260#0", "why": "hmotnost se v článku týká jedné obří repliky kostry, ne celého druhu; druh je navíc taxonomicky sporný"},
+{"id": "Q311260#1", "why": "počátek pozdního pleistocénu je pro desetileté dítě nesrozumitelný"},
+{"id": "Q311286#0", "why": "nemá jasný podmět (samotné Žil...)"},
+{"id": "Q312054#0", "why": "3,5 m je rozpětí paroží, ne jeho délka; zároveň mají paroží jen samci"},
+{"id": "Q312131#0", "why": "nemá podmět a přítomný čas u vyhynulého zvířete"},
+{"id": "Q312131#1", "why": "sporná horní mez: novější odhady největších jedinců jsou výrazně nižší (asi 11 až 13 m)"},
+{"id": "Q312222#2", "why": "prostředí je sporné (lesnatá krajina vs. travnatější biotop), lužní les je navíc pro dítě málo srozumitelný"},
+{"id": "Q312222#4", "why": "posun citace a nesrozumitelné: úzkonosé opice, žil mezi místo patřily k obyvatelům"},
+{"id": "Q312222#6", "why": "údaj o jedné samici Ardi zobecněn na celý druh"},
+{"id": "Q312222#7", "why": "krkolomné (mozek jako samice), údaj o lebeční kapacitě samic zobecněn na celý druh"},
+{"id": "Q31650#0", "why": "známý exemplář mohl být mládě jiného druhu, velikost nelze zobecnit na celý druh"}
+], "drop_pairs": [
+{"id": "Q311123#0", "species": "Q57461643"},
+{"id": "Q311123#0", "species": "Q612928"},
+{"id": "Q311123#0", "species": "Q9051224"},
+{"id": "Q311281#1", "species": "Q132552"},
+{"id": "Q311286#1", "species": "Q134305"},
+{"id": "Q311479#1", "species": "Q131776"},
+{"id": "Q311479#1", "species": "Q690567"},
+{"id": "Q311481#1", "species": "Q133863"},
+{"id": "Q312054#1", "species": "Q1055883"},
+{"id": "Q312054#1", "species": "Q1068038"},
+{"id": "Q312222#0", "species": "Q134308"},
+{"id": "Q312222#0", "species": "Q292104"},
+{"id": "Q312222#5", "species": "Q310531"}
+]}

@@ -1,0 +1,41 @@
+{
+ "drop_facts": [
+  {"id": "Q3029892#0", "why": "strava je jen dohad (v článku pravděpodobně hledal potravu), podaná jako jistota; sporné"},
+  {"id": "Q305519#1", "why": "krkolomné (měli následky na), bez jasného vztahu k druhu, nedává smysl bez článku"},
+  {"id": "Q3083026#1", "why": "chybí podmět; údaj o délce je navíc sporný"},
+  {"id": "Q3087702#0", "why": "nesmyslná formulace: živit se rytím a zkoumáním břehů"},
+  {"id": "Q309392#0", "why": "zastaralé: Revueltosaurus ani Technosaurus nejsou podle dnešních poznatků býložraví dinosauři"},
+  {"id": "Q309392#3", "why": "není jasné, čí rychlost; nedává smysl bez článku"},
+  {"id": "Q310387#0", "why": "chybí podmět, přítomný čas u vyhynulého druhu"},
+  {"id": "Q310387#1", "why": "není jasné, čí hmotnost; přirovnání ke slonu není v citaci"},
+  {"id": "Q310434#0", "why": "posouvá význam: citace říká mohl se živit, chybí podmět, přítomný čas"},
+  {"id": "Q310434#1", "why": "posouvá význam: mnohem vážnější není největší; není jasné, čí konkurencí"},
+  {"id": "Q310434#2", "why": "není jasné, čí výška; odhady se liší, údaj je sporný"},
+  {"id": "Q310434#3", "why": "není jasné, čí vymření; nedává smysl bez článku"},
+  {"id": "Q310503#0", "why": "chybí podmět, přítomný čas u vyhynulého druhu"},
+  {"id": "Q310517#1", "why": "chybí podmět"},
+  {"id": "Q310517#2", "why": "chybí podmět (jeho potravy), nedává smysl bez článku"},
+  {"id": "Q310517#3", "why": "chybí podmět"},
+  {"id": "Q310520#2", "why": "chybí podmět"}
+ ],
+ "drop_pairs": [
+  {"id": "Q3011777#0", "species": "Q10668640"},
+  {"id": "Q3011777#0", "species": "Q121095909"},
+  {"id": "Q309466#1", "species": "Q131586"},
+  {"id": "Q309466#1", "species": "Q131602"},
+  {"id": "Q309466#1", "species": "Q2272018"},
+  {"id": "Q309466#1", "species": "Q58179217"},
+  {"id": "Q309466#2", "species": "Q132313"},
+  {"id": "Q309975#1", "species": "Q2268858"},
+  {"id": "Q310503#1", "species": "Q14403"},
+  {"id": "Q310517#0", "species": "Q131791"},
+  {"id": "Q310517#0", "species": "Q14505128"},
+  {"id": "Q310517#0", "species": "Q239272"},
+  {"id": "Q310517#0", "species": "Q50928574"},
+  {"id": "Q310517#4", "species": "Q133863"},
+  {"id": "Q310517#4", "species": "Q239272"},
+  {"id": "Q310517#4", "species": "Q310529"},
+  {"id": "Q310517#4", "species": "Q310531"},
+  {"id": "Q310517#4", "species": "Q57273328"}
+ ]
+}
