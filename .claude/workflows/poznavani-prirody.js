@@ -125,6 +125,19 @@ const foreignFactsPrompt = (slug, kingdom, id) => `Pracuješ na dětské výukov
 
 Jako výsledek vrať jen slovo HOTOVO.`
 
+// Druhý pokus u druhů, kterým přísná kontrola vyřadila všechna tvrzení: autor vidí proč a má víc jazykových verzí.
+const foreignMorePrompt = (slug, kingdom, id) => `Pracuješ na dětské výukové hře o přírodě pro děti od 10 let. Projekt je v adresáři ${root}. Tento druh ve hře nemá ani jedno tvrzení, zkoušíš to podruhé.
+
+1. Přečti ${root}/data/${slug}/foreign/${id}.txt: hlavička s názvem, pod ní články z různých Wikipedií, každý začíná řádkem „=== ZDROJ: … ===“.
+2. Přečti ${root}/data/${slug}/foreign_more_jobs/${id}.json: "rejected" jsou věty, které kontrola nebo program dřív zamítly, s důvodem. Stejnou chybu neopakuj a takové věty nepiš znovu. „prozrazuje název“ znamená, že věta obsahuje slovo příbuzné českému jménu druhu.
+3. ${FACT_RULES(kingdom)}
+   Napiš 1 až 3 nové, jasně doložené věty, raději méně a správně. Musí dávat smysl samostatně, bez znalosti článku, a mít podmět nebo slovesný tvar v jednotném čísle. Překládej věrně, nic nepřidávej ani nezobecňuj, pozor na chybný překlad. Lokální údaje a laboratorní pokusy vynech.
+   U každé věty uveď "quote": DOSLOVNÝ úsek zdroje v PŮVODNÍM jazyce, program ho ve zdroji hledá.
+4. Zapiš nástrojem Write do ${root}/data/${slug}/foreign_more/${id}.json jen tento JSON; když žádný zdroj nic bezpečného nenabízí, je "facts" prázdný seznam:
+{"facts": [{"text": "česká věta", "quote": "doslovný úsek zdroje", "category": "..."}]}
+
+Jako výsledek vrať jen slovo HOTOVO.`
+
 // Fotky živočichů zamítnuté podle pravidla, které bylo příliš přísné: h_ lidské prostředí kolem volně žijícího zvířete,
 // s_ jen schránka u živočichů, kteří ve schránce žijí.
 const RESTORE = {
@@ -324,6 +337,7 @@ Zapiš nástrojem Write do ${root}/data/pronoun/found/${id}.json jen tento JSON 
 {"fixes": [{"id": "Q1#0", "text": "Loví ho výr velký a tchoř."}]}
 Vrať jen slovo HOTOVO.`
 function run({ slug, kingdom, stage }, id) {
+  if (stage === 'foreign_more') return ask(foreignMorePrompt(slug, kingdom, id), { label: `cizí 2:${slug}:${id}`, phase: 'Fakta a fotky' })
   if (stage === 'pronoun') return ask(pronounPrompt(id), { label: `zájmena:${id}`, phase: 'Jazyk', model: 'sonnet' })
   if (stage === 'names')return ask(namesPrompt(id), { label: `jména:${id}`, phase: 'Česká jména', model: 'sonnet' })
   if (stage === 'names_check') return ask(namesCheckPrompt(id), { label: `ověření jmen:${id}`, phase: 'Česká jména' })

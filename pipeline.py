@@ -1088,6 +1088,43 @@ def sync_needy_negatives(slug, batch=20, candidates=12, minimum=3, rounds=5):
     print(f"{slug}: druhů s málo nepravdivými tvrzeními {len(needy)}, nových úloh need_: {n - first}")
 
 
+def sync_cross_negatives(batch=20, candidates=12, minimum=3):
+    """Hra bere špatné odpovědi jen ze skupiny ve hře: druhy s málo nepravdivými větami z ní posoudí vůči větám téže skupiny,
+    i ze zdrojových skupin jiných, než je jejich (tresky vůči rybám). Úloha cross_ patří skupině, které patří věty."""
+    data = (ROOT / "game" / "data.js").read_text("utf-8")
+    source = {sid: slug for slug in CLASSES if paths(slug)[1].exists() for sid in json.loads(paths(slug)[1].read_text("utf-8"))}
+    loaded = {}
+
+    def load(slug):
+        return loaded.setdefault(slug, load_facts(slug))
+
+    for c in json.loads(data[data.index("["):data.rindex("]") + 1]):
+        false_count = Counter(q for s in c["species"] for f in s["facts"] for q in f["not"])
+        needy = defaultdict(list)
+        for s in c["species"]:
+            if not s.get("egg") and false_count[s["id"]] < minimum:
+                needy[source[s["id"]]].append(s["id"])
+        for slug, ids in needy.items():
+            owners = defaultdict(list)
+            for s in c["species"]:
+                if not s.get("egg"):
+                    owners[source[s["id"]]] += [f["id"] for f in s["facts"]]
+            for owner, fact_ids in sorted(owners.items(), key=lambda kv: -len(kv[1]))[:2]:
+                if len(fact_ids) < batch // 2:  # z pár vět se tři nepravdivé nesloží
+                    continue
+                species, facts, _ = load(owner)
+                own_species, own_facts, _ = load(slug)
+                by_id = {f["id"]: f for v in facts.values() for f in v["facts"]}
+                jobs_dir = paths(owner)[5]
+                for i in range(0, len(ids), candidates):
+                    group = ids[i:i + candidates]
+                    pool = [f for f in fact_ids if f in by_id and f.split("#")[0] not in group]
+                    chunk = random.Random(f"{owner}{slug}{i}").sample(pool, min(len(pool), batch))
+                    name = f"cross_{next_job_number(jobs_dir, 'cross_'):04}.json"
+                    write_neg_job(jobs_dir / name, [by_id[f] for f in chunk], group, {**species, **own_species}, {**facts, **own_facts}, paths(slug)[2])
+                    print(f"{owner}/{name}: {len(group)} druhů z {slug} ({c['slug']}), {len(chunk)} vět", flush=True)
+
+
 BOT_WIKIS = {"ceb", "war", "arz", "azb", "nan", "simple"}  # strojově založené pahýly nebo zjednodušená angličtina
 NOT_WIKIPEDIA = {"commons", "species", "meta", "wikidata", "mediawiki", "sources", "outreach", "incubator"}
 FOREIGN_END = re.compile(r"^==\s*(References|Notes|See also|External links|Further reading|Sources|Bibliography|Einzelnachweise|Literatur|Weblinks|"
@@ -1182,6 +1219,7 @@ def sync_review(slug, fact_batch=40, photo_batch=30):
     done_photos = {(item["species_id"], item["i"]) for item in done if "species_id" in item}
     done_pairs = {(item["id"], q) for item in done if "id" in item for q in item["claimed_false_for"]}
     quotes = {f["id"]: f["quote"] for v in facts.values() for f in v["facts"]}
+    labels = {q: v for job in (base / "neg_jobs").glob("cross_*.json") for q, v in read_json(job)["candidates"].items()} | built
     fact_items = []
     for s in built.values():
         for f in s["facts"]:
@@ -1189,7 +1227,7 @@ def sync_review(slug, fact_batch=40, photo_batch=30):
             pairs = [q for q in f["not"] if (f["id"], q) not in done_pairs]
             if f["id"] not in done_facts or pairs:
                 fact_items.append({"id": f["id"], "species": s["name"], "latin": s["latin"], "text": f["text"], "quote": quotes[f["id"]],
-                                   "claimed_false_for": {q: f"{built[q]['name']} ({built[q]['latin']})" for q in pairs}})
+                                   "claimed_false_for": {q: f"{labels[q]['name']} ({labels[q]['latin']})" for q in pairs}})
     photo_items = [
         {"species_id": sid, "i": i, "species": built[sid]["name"], "latin": built[sid]["latin"], "file": species[sid]["photos"][i]["file"],
          "desc": species[sid]["photos"][i]["desc"], "image": f"data/{slug}/thumbs/{sid}_{i}.jpg"}
@@ -1251,11 +1289,13 @@ def sync_language(slug, batch=40):
 def build(slug):
     base, _, _, _, _, _, neg_dir = paths(slug)
     species, facts, dropped = load_facts(slug)
-    false_for, bad = defaultdict(set), {}
+    false_for, bad, cross = defaultdict(set), {}, set()
     for file in sorted(neg_dir.glob("*.json")):
         for r in read_json(file)["results"]:
             false_for[r["id"]] |= set(r.get("false_for", []))
-            if r.get("bad") and not file.stem.startswith(("peer_", "known_", "need_")):  # kvalitu tvrzení už posoudil první průchod
+            if file.stem.startswith("cross_"):
+                cross |= set(r.get("false_for", []))
+            if r.get("bad") and not file.stem.startswith(("peer_", "known_", "need_", "cross_")):  # kvalitu tvrzení už posoudil první průchod
                 bad[r["id"]] = r.get("why", "")
     unreviewed = [f["id"] for v in facts.values() if v["photos"] for f in v["facts"] if f["id"] not in false_for]
     print("Zahozeno krokem 1:", dict(dropped), "\nZahozeno kontrolou v kroku 2:", len(bad), "\nBez kontroly (zahozeno):", len(unreviewed))
@@ -1307,7 +1347,7 @@ def build(slug):
         for f in v["facts"]:
             if f["id"] not in bad:
                 texts.setdefault(plain_text(f["text"]), f)
-        kept = [{"id": f["id"], "text": text, "cat": f["category"], "not": sorted((false_for[f["id"]] & alive) - {sid}), "reviewed": f["id"] in reviewed} for text, f in texts.items()]
+        kept = [{"id": f["id"], "text": text, "cat": f["category"], "not": sorted((false_for[f["id"]] & (alive | cross)) - {sid}), "reviewed": f["id"] in reviewed} for text, f in texts.items()]
         # sledovací parametry v adrese fotky jen zvětšují data.js
         photos = [{**{k: sp["photos"][i][k] for k in ("page", "author", "license")}, "url": sp["photos"][i]["url"].split("?")[0], "i": i,
                    "reviewed": (sid, i) in reviewed} for i in v["photos"]][:GAME_PHOTOS]

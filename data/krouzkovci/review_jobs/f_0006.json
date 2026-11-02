@@ -1,0 +1,352 @@
+[
+ {
+  "id": "Q1051334#0",
+  "species": "Pijavka koňská",
+  "latin": "Haemopis sanguisuga",
+  "text": "Živí se drobnými bezobratlými živočichy.",
+  "quote": "její potravou jsou drobní bezobratlí živočichové",
+  "claimed_false_for": {
+   "Q144410": "Bochnatka americká (Pectinatella magnifica)"
+  }
+ },
+ {
+  "id": "Q1051334#1",
+  "species": "Pijavka koňská",
+  "latin": "Haemopis sanguisuga",
+  "text": "Loví i mladé obojživelníky a jejich pulce.",
+  "quote": "Za oběť mohou padnout zejména mladí obojživelníci po přechodu na souš nebo jejich pulci.",
+  "claimed_false_for": {
+   "Q1133152": "Ostrorep americký (Limulus polyphemus)",
+   "Q144410": "Bochnatka americká (Pectinatella magnifica)",
+   "Q301019": "Mihule říční (Lampetra fluviatilis)",
+   "Q385764": "Mihule mořská (Petromyzon marinus)",
+   "Q798246": "Mihule potoční (Lampetra planeri)"
+  }
+ },
+ {
+  "id": "Q1171262#x0",
+  "species": "Rournatec paví",
+  "latin": "Sabella pavonina",
+  "text": "Žije uvnitř hladké trubice z jemných částeček bahna nebo písku slepených hlenem.",
+  "quote": "The worm lives inside a smooth tube of fine mud or sand particles held together with mucus.",
+  "claimed_false_for": {
+   "Q1133152": "Ostrorep americký (Limulus polyphemus)",
+   "Q1319163": "Stonoha obrovská (Scolopendra gigantea)",
+   "Q144410": "Bochnatka americká (Pectinatella magnifica)",
+   "Q1534556": "Sumka zlatoústá (Polycarpa aurata)",
+   "Q301019": "Mihule říční (Lampetra fluviatilis)",
+   "Q3624860": "Sumka obecná (Ascidia mentula)",
+   "Q367643": "Strašník dalmatský (Scutigera coleoptrata)",
+   "Q385764": "Mihule mořská (Petromyzon marinus)",
+   "Q790637": "Stonožka škvorová (Lithobius forficatus)",
+   "Q798246": "Mihule potoční (Lampetra planeri)",
+   "Q837241": "Zřasenka středomořská (Botryllus schlosseri)"
+  }
+ },
+ {
+  "id": "Q1171262#x1",
+  "species": "Rournatec paví",
+  "latin": "Sabella pavonina",
+  "text": "Pomocí řasinek na chapadlech žene vodu korunou a zachytává z ní drobnou potravu.",
+  "quote": "using cilia on the radioles to circulate water through the crown. Small food particles are carried down the radioles to the",
+  "claimed_false_for": {
+   "Q1133152": "Ostrorep americký (Limulus polyphemus)",
+   "Q1140786": "Hvězdice amurská (Asterias amurensis)",
+   "Q1319163": "Stonoha obrovská (Scolopendra gigantea)",
+   "Q1534556": "Sumka zlatoústá (Polycarpa aurata)",
+   "Q301019": "Mihule říční (Lampetra fluviatilis)",
+   "Q3624860": "Sumka obecná (Ascidia mentula)",
+   "Q367643": "Strašník dalmatský (Scutigera coleoptrata)",
+   "Q385764": "Mihule mořská (Petromyzon marinus)",
+   "Q790637": "Stonožka škvorová (Lithobius forficatus)",
+   "Q798246": "Mihule potoční (Lampetra planeri)",
+   "Q837241": "Zřasenka středomořská (Botryllus schlosseri)"
+  }
+ },
+ {
+  "id": "Q1171262#x2",
+  "species": "Rournatec paví",
+  "latin": "Sabella pavonina",
+  "text": "Koruna chapadel je velmi citlivá a při pohybu nebo stínu se rychle stáhne.",
+  "quote": "The crown is highly sensitive to light and pressure and quickly retracts in response to motion or shadow.",
+  "claimed_false_for": {
+   "Q1133152": "Ostrorep americký (Limulus polyphemus)",
+   "Q1140786": "Hvězdice amurská (Asterias amurensis)",
+   "Q1319163": "Stonoha obrovská (Scolopendra gigantea)",
+   "Q1534556": "Sumka zlatoústá (Polycarpa aurata)",
+   "Q3624860": "Sumka obecná (Ascidia mentula)",
+   "Q367643": "Strašník dalmatský (Scutigera coleoptrata)",
+   "Q790637": "Stonožka škvorová (Lithobius forficatus)",
+   "Q837241": "Zřasenka středomořská (Botryllus schlosseri)"
+  }
+ },
+ {
+  "id": "Q133020#0",
+  "species": "Riftie hlubinná",
+  "latin": "Riftia pachyptila",
+  "text": "Bakterie v těle tohoto druhu mění plyny z vody na organické látky.",
+  "quote": "chemosynteticky (oxidací sulfanu) plyny přijaté z vody na organické látky",
+  "claimed_false_for": {
+   "Q1140786": "Hvězdice amurská (Asterias amurensis)",
+   "Q1319163": "Stonoha obrovská (Scolopendra gigantea)",
+   "Q144410": "Bochnatka americká (Pectinatella magnifica)",
+   "Q367643": "Strašník dalmatský (Scutigera coleoptrata)",
+   "Q790637": "Stonožka škvorová (Lithobius forficatus)"
+  }
+ },
+ {
+  "id": "Q133020#1",
+  "species": "Riftie hlubinná",
+  "latin": "Riftia pachyptila",
+  "text": "Nemá trávicí soustavu.",
+  "quote": "Nemá trávicí soustavu",
+  "claimed_false_for": {
+   "Q1133152": "Ostrorep americký (Limulus polyphemus)",
+   "Q1140786": "Hvězdice amurská (Asterias amurensis)",
+   "Q1319163": "Stonoha obrovská (Scolopendra gigantea)",
+   "Q144410": "Bochnatka americká (Pectinatella magnifica)",
+   "Q301019": "Mihule říční (Lampetra fluviatilis)",
+   "Q367643": "Strašník dalmatský (Scutigera coleoptrata)",
+   "Q385764": "Mihule mořská (Petromyzon marinus)",
+   "Q790637": "Stonožka škvorová (Lithobius forficatus)"
+  }
+ },
+ {
+  "id": "Q134912#0",
+  "species": "Nitěnka obecná",
+  "latin": "Tubifex tubifex",
+  "text": "Živí se organickými zbytky a bakteriemi z bahna.",
+  "quote": "Živí se organickými zbytky a bakteriemi z bahna.",
+  "claimed_false_for": {
+   "Q1319163": "Stonoha obrovská (Scolopendra gigantea)",
+   "Q367643": "Strašník dalmatský (Scutigera coleoptrata)",
+   "Q790637": "Stonožka škvorová (Lithobius forficatus)"
+  }
+ },
+ {
+  "id": "Q1410121#0",
+  "species": "Hermodice ohnivá",
+  "latin": "Hermodice carunculata",
+  "text": "Měří obvykle asi 15 cm, někdy až dvakrát tolik.",
+  "quote": "Obvykle bývá 15 cm dlouhý, může však dosáhnout až dvojnásobné délky.",
+  "claimed_false_for": {
+   "Q1133152": "Ostrorep americký (Limulus polyphemus)",
+   "Q144410": "Bochnatka americká (Pectinatella magnifica)",
+   "Q367643": "Strašník dalmatský (Scutigera coleoptrata)",
+   "Q385764": "Mihule mořská (Petromyzon marinus)",
+   "Q790637": "Stonožka škvorová (Lithobius forficatus)"
+  }
+ },
+ {
+  "id": "Q1410121#2",
+  "species": "Hermodice ohnivá",
+  "latin": "Hermodice carunculata",
+  "text": "Loví hvězdice a ježovky.",
+  "quote": "Jsou aktivní lovci hvězdic a ježovek",
+  "claimed_false_for": {
+   "Q1319163": "Stonoha obrovská (Scolopendra gigantea)",
+   "Q144410": "Bochnatka americká (Pectinatella magnifica)",
+   "Q301019": "Mihule říční (Lampetra fluviatilis)",
+   "Q367643": "Strašník dalmatský (Scutigera coleoptrata)",
+   "Q385764": "Mihule mořská (Petromyzon marinus)",
+   "Q790637": "Stonožka škvorová (Lithobius forficatus)",
+   "Q798246": "Mihule potoční (Lampetra planeri)"
+  }
+ },
+ {
+  "id": "Q1410121#3",
+  "species": "Hermodice ohnivá",
+  "latin": "Hermodice carunculata",
+  "text": "Má různé barvy: červenou, žlutou, zelenou nebo bílou.",
+  "quote": "Barva hermodice ohnivé je různá, od červenavé a žlutavé přes zelenavou, šedavou až bílou s perlovým leskem.",
+  "claimed_false_for": {
+   "Q1319163": "Stonoha obrovská (Scolopendra gigantea)",
+   "Q301019": "Mihule říční (Lampetra fluviatilis)",
+   "Q367643": "Strašník dalmatský (Scutigera coleoptrata)",
+   "Q385764": "Mihule mořská (Petromyzon marinus)",
+   "Q790637": "Stonožka škvorová (Lithobius forficatus)",
+   "Q798246": "Mihule potoční (Lampetra planeri)"
+  }
+ },
+ {
+  "id": "Q1410121#4",
+  "species": "Hermodice ohnivá",
+  "latin": "Hermodice carunculata",
+  "text": "Napadá korály a sasanky.",
+  "quote": "napadají korály a sasanky",
+  "claimed_false_for": {
+   "Q1133152": "Ostrorep americký (Limulus polyphemus)",
+   "Q1319163": "Stonoha obrovská (Scolopendra gigantea)",
+   "Q301019": "Mihule říční (Lampetra fluviatilis)",
+   "Q367643": "Strašník dalmatský (Scutigera coleoptrata)",
+   "Q385764": "Mihule mořská (Petromyzon marinus)",
+   "Q790637": "Stonožka škvorová (Lithobius forficatus)",
+   "Q798246": "Mihule potoční (Lampetra planeri)"
+  }
+ },
+ {
+  "id": "Q1434787#0",
+  "species": "Rournatec ozdobný",
+  "latin": "Spirobranchus giganteus",
+  "text": "Živí se drobnými organismy a planktonem.",
+  "quote": "Své rozvětvené zakončení těla využívá pro pasivní přijímání potravy v podobě volně se vznášejících drobných organismů a planktonu.",
+  "claimed_false_for": {
+   "Q1133152": "Ostrorep americký (Limulus polyphemus)"
+  }
+ },
+ {
+  "id": "Q1501422#1",
+  "species": "Žížala hnojní",
+  "latin": "Eisenia fetida",
+  "text": "Specializuje se na rozklad organického odpadu.",
+  "quote": "specializující se na dekompozici organického odpadu",
+  "claimed_false_for": {
+   "Q1319163": "Stonoha obrovská (Scolopendra gigantea)",
+   "Q301019": "Mihule říční (Lampetra fluviatilis)",
+   "Q367643": "Strašník dalmatský (Scutigera coleoptrata)",
+   "Q385764": "Mihule mořská (Petromyzon marinus)",
+   "Q790637": "Stonožka škvorová (Lithobius forficatus)",
+   "Q798246": "Mihule potoční (Lampetra planeri)"
+  }
+ },
+ {
+  "id": "Q1569834#0",
+  "species": "Afroditka plstnatá",
+  "latin": "Aphrodita aculeata",
+  "text": "Zahrabává se do písku přední částí napřed.",
+  "quote": "Zahrabává se do písku přední částí napřed",
+  "claimed_false_for": {
+   "Q144410": "Bochnatka americká (Pectinatella magnifica)"
+  }
+ },
+ {
+  "id": "Q1569834#1",
+  "species": "Afroditka plstnatá",
+  "latin": "Aphrodita aculeata",
+  "text": "Živí se malými bezobratlými, jako jsou nereidky.",
+  "quote": "živí se malými bezobratlými jako jsou nereidky",
+  "claimed_false_for": {
+   "Q144410": "Bochnatka americká (Pectinatella magnifica)",
+   "Q1534556": "Sumka zlatoústá (Polycarpa aurata)",
+   "Q301019": "Mihule říční (Lampetra fluviatilis)",
+   "Q3624860": "Sumka obecná (Ascidia mentula)",
+   "Q385764": "Mihule mořská (Petromyzon marinus)",
+   "Q798246": "Mihule potoční (Lampetra planeri)",
+   "Q837241": "Zřasenka středomořská (Botryllus schlosseri)"
+  }
+ },
+ {
+  "id": "Q21155#0",
+  "species": "Pískovník rybářský",
+  "latin": "Arenicola marina",
+  "text": "Dožívá se nejméně 5 až 6 let.",
+  "quote": "Dožívají se nejméně 5–6 let.",
+  "claimed_false_for": {
+   "Q144410": "Bochnatka americká (Pectinatella magnifica)"
+  }
+ },
+ {
+  "id": "Q21155#5",
+  "species": "Pískovník rybářský",
+  "latin": "Arenicola marina",
+  "text": "Je důležitou potravou pro platýse a některé pobřežní ptáky.",
+  "quote": "Je důležitým zdrojem potravy pro platýse a několik druhů pobřežních ptáků.",
+  "claimed_false_for": {
+   "Q1319163": "Stonoha obrovská (Scolopendra gigantea)",
+   "Q367643": "Strašník dalmatský (Scutigera coleoptrata)",
+   "Q790637": "Stonožka škvorová (Lithobius forficatus)"
+  }
+ },
+ {
+  "id": "Q21155#6",
+  "species": "Pískovník rybářský",
+  "latin": "Arenicola marina",
+  "text": "Živí se odumřelými částečkami a drobnými organismy v sedimentu.",
+  "quote": "Červ se živí organickým detritem i mikroflórou a mikrofaunou obsaženou v sedimentu.",
+  "claimed_false_for": {
+   "Q1319163": "Stonoha obrovská (Scolopendra gigantea)",
+   "Q144410": "Bochnatka americká (Pectinatella magnifica)",
+   "Q367643": "Strašník dalmatský (Scutigera coleoptrata)",
+   "Q790637": "Stonožka škvorová (Lithobius forficatus)"
+  }
+ },
+ {
+  "id": "Q30041#0",
+  "species": "Pijavka lékařská",
+  "latin": "Hirudo medicinalis",
+  "text": "Živí se krví teplokrevných živočichů.",
+  "quote": "Její potravou je krev teplokrevných živočichů",
+  "claimed_false_for": {
+   "Q1534556": "Sumka zlatoústá (Polycarpa aurata)",
+   "Q301019": "Mihule říční (Lampetra fluviatilis)",
+   "Q3624860": "Sumka obecná (Ascidia mentula)",
+   "Q385764": "Mihule mořská (Petromyzon marinus)",
+   "Q798246": "Mihule potoční (Lampetra planeri)",
+   "Q837241": "Zřasenka středomořská (Botryllus schlosseri)"
+  }
+ },
+ {
+  "id": "Q30092#0",
+  "species": "Žížala obecná",
+  "latin": "Lumbricus terrestris",
+  "text": "Dorůstá délky přibližně 9 až 30 cm.",
+  "quote": "Dorůstá délky přibližně 9 až 30 cm.",
+  "claimed_false_for": {
+   "Q1140786": "Hvězdice amurská (Asterias amurensis)"
+  }
+ },
+ {
+  "id": "Q30092#1",
+  "species": "Žížala obecná",
+  "latin": "Lumbricus terrestris",
+  "text": "Chybějící konec těla doroste.",
+  "quote": "Konec těla žížale doroste.",
+  "claimed_false_for": {
+   "Q144410": "Bochnatka americká (Pectinatella magnifica)"
+  }
+ },
+ {
+  "id": "Q30092#3",
+  "species": "Žížala obecná",
+  "latin": "Lumbricus terrestris",
+  "text": "Je potravou pro ptáky, savce i plazy.",
+  "quote": "Žížala se stává obživou pro širokou škálu různých živočichů, především ptáků, savců, plazů, obojživelníků, ale i různých bezobratlých.",
+  "claimed_false_for": {
+   "Q144410": "Bochnatka americká (Pectinatella magnifica)"
+  }
+ },
+ {
+  "id": "Q30092#4",
+  "species": "Žížala obecná",
+  "latin": "Lumbricus terrestris",
+  "text": "Jí především tlející listí.",
+  "quote": "Tu tvoří především tlející listí",
+  "claimed_false_for": {
+   "Q1133152": "Ostrorep americký (Limulus polyphemus)",
+   "Q144410": "Bochnatka americká (Pectinatella magnifica)",
+   "Q1534556": "Sumka zlatoústá (Polycarpa aurata)",
+   "Q301019": "Mihule říční (Lampetra fluviatilis)",
+   "Q3624860": "Sumka obecná (Ascidia mentula)",
+   "Q385764": "Mihule mořská (Petromyzon marinus)",
+   "Q798246": "Mihule potoční (Lampetra planeri)",
+   "Q837241": "Zřasenka středomořská (Botryllus schlosseri)"
+  }
+ },
+ {
+  "id": "Q5130403#1",
+  "species": "Roupice bělavá",
+  "latin": "Enchytraeus albidus",
+  "text": "Žije ve svrchních vrstvách půdy.",
+  "quote": "žije ve svrchních vrstvách půdy",
+  "claimed_false_for": {
+   "Q1133152": "Ostrorep americký (Limulus polyphemus)",
+   "Q144410": "Bochnatka americká (Pectinatella magnifica)",
+   "Q1534556": "Sumka zlatoústá (Polycarpa aurata)",
+   "Q301019": "Mihule říční (Lampetra fluviatilis)",
+   "Q3624860": "Sumka obecná (Ascidia mentula)",
+   "Q385764": "Mihule mořská (Petromyzon marinus)",
+   "Q798246": "Mihule potoční (Lampetra planeri)",
+   "Q837241": "Zřasenka středomořská (Botryllus schlosseri)"
+  }
+ }
+]
