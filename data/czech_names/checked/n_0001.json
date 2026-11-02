@@ -1,0 +1,8 @@
+{
+"Q386672": {"ok": true, "name": "Straka ostroocasá", "why": "API GBIF (Catalogue of Life, ces) pro Ptilostomus afer a Wikidata P1843 s odkazem na IOC World Bird List"},
+"Q131238": {"ok": false, "why": "nepotvrzeno nezávisle: uvádí jen cs.wikipedia (a to je stejný zdroj jako nápověda), její citace BioLib nešla otevřít kvůli kontrole provozu; Wikidata, GBIF, WikiSkripta ani Wikislovník jméno nemají a vyhledávání bylo vyčerpané; nejde o důkaz, že je jméno chybné, stojí za opakování přes BioLib"},
+"Q1589721": {"ok": true, "name": "Straka vruboocasá", "why": "API GBIF (Catalogue of Life, ces) pro Temnurus temnurus a Wikidata P1843 s odkazem na IOC World Bird List"},
+"Q1589744": {"ok": true, "name": "Sojka černá", "why": "záznam iDigBio (cs) a API GBIF (Catalogue of Life, ces) pro Platysmurus leucopterus, Wikidata P1843 s odkazem na IOC World Bird List"},
+"Q374328": {"ok": true, "name": "Sojka modrá", "why": "nejde o opravu tvaru, ale o výměnu za alternativu kolegy: 'Sojka modrá' má iDigBio (cs), Wikidata P1843 s odkazem na IOC a cs.wikipedia; navržené 'Sojka modrohlavá' má cs.wikipedia jen jako synonymum a Wikidata jako alias, iDigBio ho neuvádí"},
+"Q131129": {"ok": true, "name": "Gonokok", "why": "drmax.cz: 'diplokokem Neisseria gonorrhoeae (gonokok)' a 'Gonokok napadá povrch sliznice'; odkazované PDF SZÚ se nepodařilo otevřít (DNS), citace kolegy tedy není přímo ověřena; běžné české triviální jméno, ne jen pozměněná latina druhového jména"}
+}

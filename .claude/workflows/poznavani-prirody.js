@@ -2,7 +2,7 @@ export const meta = {
   name: 'poznavani-prirody',
   description: 'Subagenti zpracují všechny stažené třídy: fakta a fotky, negativní tvrzení, přísnou kontrolu a kontinenty',
   whenToUse: 'args: {root, batches} z výstupu "pipeline.py next" (spouštěj opakovaně, dokud next nevrátí prázdné batches).',
-  phases: [{ title: 'Fakta a fotky' }, { title: 'Další fotky' }, { title: 'Negativní tvrzení' }, { title: 'Přísná kontrola' }, { title: 'Kontinenty' }, { title: 'Jazyk' }],
+  phases: [{ title: 'Fakta a fotky' }, { title: 'Další fotky' }, { title: 'Negativní tvrzení' }, { title: 'Přísná kontrola' }, { title: 'Kontinenty' }, { title: 'Jazyk' }, { title: 'Česká jména' }],
 }
 
 const { root } = args
@@ -269,7 +269,36 @@ Jako výsledek vrať jen slovo HOTOVO.`
 // Pojistka pro dávku se špatným id: subagent nesmí vyrobit výstup k úloze, která neexistuje.
 const GUARD = '\n\nPokud soubor, který máš podle zadání přečíst (úloha nebo článek), neexistuje, nic nezapisuj a vrať jen slovo CHYBÍ.'
 const ask = (prompt, opts) => agent(prompt + GUARD, opts)
+const namesPrompt = (id) => `Hledáš ustálená česká jména taxonů pro dětský přírodovědný kvíz. Vědecké jméno ve hře už je, chybí české.
+
+Přečti ${root}/data/czech_names/jobs/${id}.json. Každá položka má "id", "latin", "group" (skupina ve hře), "hints" (popisek a aliasy z Wikidat a přesměrování na české Wikipedii, nemusí být správné) a "lead" (začátek článku).
+
+Pro každou položku ověř nápovědy a hledej dál: BioLib (https://www.biolib.cz/cz/formsearch/?action=execute&searcharea=1&string=<latinské jméno>), vyhledávání na webu (česky, s latinským jménem v uvozovkách) a české odborné zdroje: univerzity, ústavy, muzea, zoologické a botanické zahrady, SZÚ, nemocnice, odborné časopisy, slovníky a encyklopedie. Jen s Wikipedií si nevystačíš, článek jméno často neuvádí. U taxonu, kde po jednom hledání nic nenajdeš (typicky málo známé rody dinosaurů), se nezdržuj a vrať null.
+
+Přijmi jméno jen tehdy, když je v důvěryhodném zdroji doložené pro přesně tento taxon, a uveď ten zdroj.
+- Dobré příklady: Saccharomyces cerevisiae = kvasinka pivní, Staphylococcus aureus = zlatý stafylokok, Streptococcus pneumoniae = pneumokok, Pterodactylus = pterodaktyl. Počítá se i ustálené laické jméno: Smilodon = šavlozubý tygr, Megaloceros giganteus = jelen obrovský. Citace musí jméno opravdu obsahovat a spojovat ho s tímto taxonem.
+- Počeštěný tvar rodu přijmi, jen když se v českých textech opravdu používá a liší se od latiny víc než velkým písmenem (pterodaktyl ano; „triceratops“ je totéž co Triceratops, tedy null).
+- Nikdy si jméno nevymýšlej ani nepřekládej z latiny nebo angličtiny. Strojově přeložené stránky, e-shopy, doplňky stravy a neověřené blogy nestačí.
+- Název nemoci, skupiny nebo jiného taxonu není jméno druhu („pneumokoková infekce“ ne). Stejně tak zastaralé synonymum, které dnes nikdo neužívá, není dobrá volba.
+- Má-li taxon víc jmen, vyber nejběžnější a ostatní dej do "alt". Jméno piš v 1. pádě jednotného čísla s velkým prvním písmenem.
+
+Zapiš nástrojem Write do ${root}/data/czech_names/found/${id}.json jen tento JSON s položkou pro každé id; když jméno není doložené, hodnota je null:
+{"Q1": {"name": "Kvasinka pivní", "alt": ["Kvasinka pekařská"], "url": "https://…", "quote": "krátká doslovná citace ze zdroje s českým jménem"}, "Q2": null}
+Vrať jen slovo HOTOVO.`
+const namesCheckPrompt = (id) => `Přísně a nezávisle ověř česká jména taxonů pro dětský přírodovědný kvíz. Nevěř kolegovi, který je našel.
+
+Přečti ${root}/data/czech_names/found/${id}.json (id → jméno, alternativy, odkaz a citace, null přeskoč) a ${root}/data/czech_names/jobs/${id}.json (vědecká jména). U každého nalezeného jména otevři odkaz nebo si jméno ověř jiným důvěryhodným českým zdrojem. Zamítni jméno, které:
+- ve zdroji není, nebo patří jinému taxonu (vyššímu, nižšímu, příbuznému), případně je to název nemoci nebo skupiny;
+- je jen překladem, výmyslem nebo strojovým překladem, případně pochází z nedůvěryhodné stránky;
+- se od latiny liší jen velkým písmenem nebo koncovkou a v češtině se běžně neužívá;
+- není v 1. pádě jednotného čísla s velkým prvním písmenem. Když je jen špatný tvar, oprav ho v "name" a schval.
+
+Zapiš nástrojem Write do ${root}/data/czech_names/checked/${id}.json jen JSON s položkou pro každé nalezené jméno:
+{"Q1": {"ok": true, "name": "Kvasinka pivní", "why": "BioLib i učebnice mikrobiologie"}, "Q2": {"ok": false, "why": "stránka uvádí jiný druh"}}
+Vrať jen slovo HOTOVO.`
 function run({ slug, kingdom, stage }, id) {
+  if (stage === 'names') return ask(namesPrompt(id), { label: `jména:${id}`, phase: 'Česká jména', model: 'sonnet' })
+  if (stage === 'names_check') return ask(namesCheckPrompt(id), { label: `ověření jmen:${id}`, phase: 'Česká jména' })
   if (stage === 'facts') return ask(factsPrompt(slug, kingdom, id), { label: `fakta:${slug}:${id}`, phase: 'Fakta a fotky', model: 'haiku' })
   // překlad a výběr z cizího jazyka potřebuje víc než lehký model
   if (stage === 'foreign') return ask(foreignFactsPrompt(slug, kingdom, id), { label: `cizí:${slug}:${id}`, phase: 'Fakta a fotky', model: 'sonnet' })

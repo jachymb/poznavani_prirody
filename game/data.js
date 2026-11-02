@@ -104761,7 +104761,7 @@ window.GAME_DATA = [
       },
       {
         "id": "Q1589721",
-        "name": "Temnurus",
+        "name": "Straka vruboocasá",
         "latin": "Temnurus temnurus",
         "family": "krkavcovití",
         "order": "pěvci",
@@ -104822,7 +104822,7 @@ window.GAME_DATA = [
       },
       {
         "id": "Q1589744",
-        "name": "Platysmurus",
+        "name": "Sojka černá",
         "latin": "Platysmurus leucopterus",
         "family": "krkavcovití",
         "order": "pěvci",
@@ -167047,7 +167047,7 @@ window.GAME_DATA = [
       },
       {
         "id": "Q374328",
-        "name": "Gymnorhinus",
+        "name": "Sojka modrá",
         "latin": "Gymnorhinus cyanocephalus",
         "family": "krkavcovití",
         "order": "pěvci",
@@ -168278,7 +168278,7 @@ window.GAME_DATA = [
       },
       {
         "id": "Q386672",
-        "name": "Ptilostomus",
+        "name": "Straka ostroocasá",
         "latin": "Ptilostomus afer",
         "family": "krkavcovití",
         "order": "pěvci",
@@ -626372,7 +626372,7 @@ window.GAME_DATA = [
       },
       {
         "id": "Q1152218",
-        "name": "Acanthamoeba",
+        "name": "Akantaméba",
         "latin": "Acanthamoeba",
         "family": "Acanthamoebidae",
         "order": "Centramoebida",
@@ -626413,7 +626413,7 @@ window.GAME_DATA = [
       },
       {
         "id": "Q115528",
-        "name": "Borrelia",
+        "name": "Borelie",
         "latin": "Borrelia",
         "family": "Borreliaceae",
         "order": "spirochéty",
@@ -626752,7 +626752,7 @@ window.GAME_DATA = [
       },
       {
         "id": "Q130971",
-        "name": "Mycobacterium tuberculosis",
+        "name": "Kochův bacil",
         "latin": "Mycobacterium tuberculosis",
         "family": "Mycobacteriaceae",
         "order": "Mycobacteriales",
@@ -627068,7 +627068,7 @@ window.GAME_DATA = [
       },
       {
         "id": "Q131129",
-        "name": "Neisseria gonorrhoeae",
+        "name": "Gonokok",
         "latin": "Neisseria gonorrhoeae",
         "family": "Neisseriaceae",
         "order": "Neisseriales",
@@ -627326,7 +627326,7 @@ window.GAME_DATA = [
       },
       {
         "id": "Q131273",
-        "name": "Naegleria fowleri",
+        "name": "Naeglerie zhoubná",
         "latin": "Naegleria fowleri",
         "family": "Vahlkampfiidae",
         "order": "Schizopyrenida",
@@ -628236,7 +628236,7 @@ window.GAME_DATA = [
       },
       {
         "id": "Q137096",
-        "name": "Aspergillus flavus",
+        "name": "Kropidlák žlutý",
         "latin": "Aspergillus flavus",
         "family": "Aspergillaceae",
         "order": "plesnivkotvaré",
@@ -629042,7 +629042,7 @@ window.GAME_DATA = [
       },
       {
         "id": "Q154625",
-        "name": "Neisseria meningitidis",
+        "name": "Meningokok",
         "latin": "Neisseria meningitidis",
         "family": "Neisseriaceae",
         "order": "Neisseriales",
@@ -629825,7 +629825,7 @@ window.GAME_DATA = [
       },
       {
         "id": "Q188121",
-        "name": "Staphylococcus aureus",
+        "name": "Zlatý stafylokok",
         "latin": "Staphylococcus aureus",
         "family": "Staphylococcaceae",
         "order": "Caryophanales",
@@ -630087,7 +630087,7 @@ window.GAME_DATA = [
       },
       {
         "id": "Q1950752",
-        "name": "Leishmania donovani",
+        "name": "Ničivka útrobní",
         "latin": "Leishmania donovani",
         "family": "Trypanozomy",
         "order": "trypanosomy",
@@ -630136,7 +630136,7 @@ window.GAME_DATA = [
       },
       {
         "id": "Q1950818",
-        "name": "Leishmania tropica",
+        "name": "Ničivka kožní",
         "latin": "Leishmania tropica",
         "family": "Trypanozomy",
         "order": "trypanosomy",
@@ -630331,7 +630331,7 @@ window.GAME_DATA = [
       },
       {
         "id": "Q221179",
-        "name": "Streptococcus pneumoniae",
+        "name": "Pneumokok",
         "latin": "Streptococcus pneumoniae",
         "family": "Streptococcaceae",
         "order": "Lactobacillales",
@@ -631632,7 +631632,7 @@ window.GAME_DATA = [
       },
       {
         "id": "Q310443",
-        "name": "Candida albicans",
+        "name": "Kandida bělostná",
         "latin": "Candida albicans",
         "family": "Debaryomycetaceae",
         "order": "Serinales",
@@ -633195,7 +633195,7 @@ window.GAME_DATA = [
       },
       {
         "id": "Q719725",
-        "name": "Saccharomyces cerevisiae",
+        "name": "Kvasinka pivní",
         "latin": "Saccharomyces cerevisiae",
         "family": "Saccharomycetaceae",
         "order": "kvasinkotvaré",
@@ -634482,7 +634482,7 @@ window.GAME_DATA = [
       },
       {
         "id": "Q107685",
-        "name": "Australopithecus afarensis",
+        "name": "Australopiték afarský",
         "latin": "Australopithecus afarensis",
         "family": "hominidé",
         "order": "primáti",
@@ -635507,7 +635507,7 @@ window.GAME_DATA = [
       },
       {
         "id": "Q1164873",
-        "name": "Panthera gombaszoegensis",
+        "name": "Jaguár evropský",
         "latin": "Panthera gombaszoegensis",
         "family": "kočkovití",
         "order": "šelmy",
@@ -641847,7 +641847,7 @@ window.GAME_DATA = [
       },
       {
         "id": "Q131558",
-        "name": "Uintatherium",
+        "name": "Uintatérium",
         "latin": "Uintatherium",
         "family": "Uintatheriidae",
         "order": "Dinocerata",
@@ -646666,7 +646666,7 @@ window.GAME_DATA = [
       },
       {
         "id": "Q132606",
-        "name": "Homotherium",
+        "name": "Dýkozubec",
         "latin": "Homotherium",
         "family": "kočkovití",
         "order": "šelmy",
@@ -668729,7 +668729,7 @@ window.GAME_DATA = [
       },
       {
         "id": "Q239272",
-        "name": "Australopithecus africanus",
+        "name": "Australopiték africký",
         "latin": "Australopithecus africanus",
         "family": "hominidé",
         "order": "primáti",
@@ -668748,33 +668748,7 @@ window.GAME_DATA = [
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Australopithecus_africanus_-_Cast_of_taung_child.jpg/500px-Australopithecus_africanus_-_Cast_of_taung_child.jpg"
           }
         ],
-        "facts": [
-          {
-            "id": "Q239272#4",
-            "text": "Tento druh žil v jižní Africe před 3 až 2 miliony let.",
-            "cat": "výskyt",
-            "not": [
-              "Q130902",
-              "Q130921",
-              "Q131067",
-              "Q131264",
-              "Q131583",
-              "Q131700",
-              "Q131791",
-              "Q133157",
-              "Q134170",
-              "Q13418266",
-              "Q203583",
-              "Q222191",
-              "Q3222766",
-              "Q383329",
-              "Q50928574",
-              "Q614603",
-              "Q733377",
-              "Q840036"
-            ]
-          }
-        ],
+        "facts": [],
         "continents": [
           "AF"
         ],
@@ -673442,7 +673416,7 @@ window.GAME_DATA = [
       },
       {
         "id": "Q309490",
-        "name": "Pterodactylus",
+        "name": "Pterodaktyl",
         "latin": "Pterodactylus",
         "family": "Pterodactylidae",
         "order": "ptakoještěři",
@@ -673688,7 +673662,7 @@ window.GAME_DATA = [
       },
       {
         "id": "Q310517",
-        "name": "Paranthropus aethiopicus",
+        "name": "Australopiték etiopský",
         "latin": "Paranthropus aethiopicus",
         "family": "hominidé",
         "order": "primáti",
@@ -673766,7 +673740,7 @@ window.GAME_DATA = [
       },
       {
         "id": "Q310520",
-        "name": "Australopithecus anamensis",
+        "name": "Australopiték turkanský",
         "latin": "Australopithecus anamensis",
         "family": "hominidé",
         "order": "primáti",
@@ -673880,7 +673854,7 @@ window.GAME_DATA = [
       },
       {
         "id": "Q310529",
-        "name": "Paranthropus robustus",
+        "name": "Australopiték robustní",
         "latin": "Paranthropus robustus",
         "family": "hominidé",
         "order": "primáti",
@@ -673992,7 +673966,7 @@ window.GAME_DATA = [
       },
       {
         "id": "Q310531",
-        "name": "Paranthropus boisei",
+        "name": "Australopiték východoafrický",
         "latin": "Paranthropus boisei",
         "family": "hominidé",
         "order": "primáti",
@@ -677595,7 +677569,7 @@ window.GAME_DATA = [
       },
       {
         "id": "Q468586",
-        "name": "Miracinonyx",
+        "name": "Americký gepard",
         "latin": "Miracinonyx",
         "family": "kočkovití",
         "order": "šelmy",
@@ -682105,7 +682079,7 @@ window.GAME_DATA = [
       },
       {
         "id": "Q731948",
-        "name": "Brachylophosaurus canadensis",
+        "name": "Brachylofosaurus",
         "latin": "Brachylophosaurus canadensis",
         "family": "Hadrosauridae",
         "order": "ptakopánví",

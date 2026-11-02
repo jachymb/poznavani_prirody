@@ -1,0 +1,62 @@
+{
+ "Toxoplasma gondii": {
+  "name": "Kokcidie kočičí",
+  "why": "zdroj sám uvádí, že se jméno málo používá"
+ },
+ "Lactobacillus": {
+  "name": "Laktobacil",
+  "why": "Nálezce uvádí jen nápovědu z Wikidat bez zdroje; tvar 'laktobacil' nedoložen: česká Wikipedie má jen množné 'laktobacily', Wikislovník 'laktobacilus' a heslo 'laktobacil' nemá (404); vyhledávání dál nešlo, vyčerpán limit"
+ },
+ "Bacillus subtilis": {
+  "name": "Bacil senný",
+  "why": "nepotvrzeno nezávisle: uvádí jen cs.wikipedia (a to je stejný zdroj jako nápověda), její citace BioLib nešla otevřít kvůli kontrole provozu; Wikidata, GBIF, WikiSkripta ani Wikislovník jméno nemají a vyhledávání bylo vyčerpané; nejde o důkaz, že je jméno chybné, stojí za opakování přes BioLib"
+ },
+ "Theileria": {
+  "name": "Mořivka",
+  "why": "Nepotvrzeno, nikoli vyvráceno: mořivku pro rod Theileria uvádí jen česká Wikipedie, a to bez zdroje u jména (citovaný Volf je u jiného odstavce). Druhý důvěryhodný zdroj se nenašel: dvě hledání v českých zdrojích ho nepřinesla, BioLib vrátil bezpečnostní kontrolu a další hledání zastavil vyčerpaný limit WebSearch. Lze ověřit ručně v BioLibu nebo v knize Volf, Paraziti a jejich biologie."
+ },
+ "Pythium oligandrum": {
+  "name": "Chytrá houba",
+  "why": "Není jméno taxonu, ale přezdívka spojená s přípravkem Polyversum: ceskestavby.cz píše jen, že se organismu též říká chytrá houba, a sám upozorňuje, že nejde o houbu, ale o řasovku. Česká Wikipedie, Wikidata ani Seznam Zprávy tento název neuvádějí; pro dětský kvíz je navíc zavádějící."
+ },
+ "Archaeopteryx": {
+  "name": "Prapták",
+  "why": "Není doloženo jako vlastní jméno rodu: cs.wikipedie má jen přesměrování a v textu popisně 'fosilní prapták', Živa 2008 'Prapták archeopteryx' jako přívlastek, Živa 2004 výraz nepoužívá a jmenuje rod archeopteryx; Wikidata cs štítek na stránce neukázala. Další hledání nebylo možné (vyčerpaný limit vyhledávání)."
+ },
+ "Smilodon": {
+  "name": "Šavlozubý tygr",
+  "why": "Lidový název celé skupiny, ne rodu: cs.wikipedie přesměrovává 'Šavlozubý tygr' na podčeleď Machairodontinae a uvádí, že označení není vědecky přesné; článek Smilodon píše 'tzv. šavlozubých tygrů z podčeledi Machairodontinae'."
+ },
+ "Megaloceros giganteus": {
+  "name": "Obří jelen",
+  "why": "jediný doklad 'obří jelen' je atlas.sofon.cz bez uvedeného provozovatele, autorů i zdrojů, patrně doslovný překlad 'giant deer'; cs.wikipedia uvádí pro druh 'irský los' a 'veledaněk', ne 'obří jelen'; alternativa 'Jelen obrovský' na odkazu není a nepodařilo se ji doložit (BioLib nedostupný, vyhledávání vyčerpané)"
+ },
+ "Australopithecus garhi": {
+  "name": "Australopiték dlouhonohý",
+  "why": "cs.wikipedia výslovně uvádí jen 'návrh českého odborného názvu' (Vančata 2003, s. 18), ustálené užití nedoloženo; BioLib nešel otevřít (bezpečnostní kontrola)"
+ },
+ "Kenyanthropus platyops": {
+  "name": "Australopiték ploskolící",
+  "why": "jen návrh názvu"
+ },
+ "Palorchestes": {
+  "name": "Vakotapír",
+  "why": "Jediný výskyt je novinářská přezdívka v článku ČT24 (v textu v uvozovkách, kalk angl. marsupial tapir); článek jinak užívá rod Palorchestes, česká Wikipedie ani jiný český zdroj název neuvádějí, nejde o zavedené jméno"
+ },
+ "Suskityrannus": {
+  "name": "Tyranský kojot",
+  "why": "Wikidata nemají české označení ani alias; česká Wikipedie uvádí „tyranský kojot“ jen v závorce jako překlad významu rodového jména Suskityrannus, článek i taxobox užívají latinské jméno. Jde o překlad, ne o ustálené české jméno. Webové vyhledávání nebylo dostupné (vyčerpaný limit), ověřeno jen z těchto dvou stránek."
+ },
+ "Canis edwardii": {
+  "name": "Vlk Edwardův",
+  "why": "Uvedený odkaz neexistuje (cs.wikipedia nemá stránku Vlk Edwardův, jen článek nadepsaný latinsky Canis edwardii). Jméno je jen v jeho první větě a článek je podle vlastní poznámky překladem z anglické Wikipedie bez dalších referencí, takže jde patrně o překlad 'Edward's wolf'. Wikidata mají česky jen Canis edwardii. Nezávislý český zdroj se nenašel, ale ověření bylo omezené: webové vyhledávání bylo vyčerpané a BioLib vrátil jen bezpečnostní kontrolu."
+ },
+ "Guizhouichthyosaurus": {
+  "name": "Ryboještěr z Kuej-čou",
+  "why": "Česká Wikipedie uvádí 'ryboještěr z Kuej-čou' jen jako překlad významu vědeckého jména v závorce, taxobox český název nemá, Wikidata cs label ani alias nemají; webové hledání nebylo dostupné (vyčerpaný limit), jiný zdroj nedoložen"
+ },
+ "Kank": {
+  "name": "Starší Nandu",
+  "why": "Česká Wikipedie (Kank (dinosaurus)) uvádí 'starší nandu' jen jako význam jména v mytologii Tehuelčů, taxobox český název nemá, Wikidata cs label ani alias nemají; webové hledání nebylo dostupné (vyčerpaný limit), jiný zdroj nedoložen"
+ }
+}

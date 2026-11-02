@@ -46,6 +46,8 @@ Savci navíc procházejí negativním krokem vůči podobným druhům z užší 
 
 Sekce **Extra** (pod houbami, jen jako výběr jedné skupiny) má dvě skupiny: **Vyhynulá zvířata** (fosilní taxony a vyhynulé druhy živočichů na Wikidatech) a **Mikroorganismy** (bakterie, archea, prvoci, rozsivky, mikroskopické zelené řasy, hlenky a další, kořeny v `CLASSES`). Berou druhy i rody, i bez českého jména, a mají přednost: druh, který do nich patří, se zpracuje jen tam a do žádné říše se nepočítá. Seznam členů je v `data/<skupina>/members.json`. Fotky smí být u vyhynulých fosílie, exponáty a rekonstrukce, u mikroorganismů snímky z mikroskopu a vizualizace; tvrzení se získávají stejně jako u ostatních. Mikroorganismy zahrnují i kvasinky a plísně a jako výjimku i obsáhlé články o vyšších taxonech bez článků o druzích (`EXTRA_HIGHER`, např. „Želvuška – Tardigrada spp.“).
 
+Česká jména druhů, které mají jen latinský název článku, se dohledávají zvlášť: subagent je hledá v BioLibu a českých odborných zdrojích, jiný je nezávisle ověří (workflow, kroky `names` a `names_check`). Přijatá jména s odkazem jsou v `data/czech_names/names.json`, zamítnutá s důvodem v `rejected.json`; do hry jdou přes `species.json`.
+
 U živočichů, kteří žijí převážně ve schránce (plži, mlži, svijonožci, ramenonožci), projde i celá schránka nebo zavřený mlž v přírodě; fotky zamítnuté dřív jen kvůli tomu jednorázově znovu posoudí `python pipeline.py shells <skupina>` (úlohy `s_`).
 
 Skupiny ve hře určuje `GAME_GROUPS` podle stromu druhu na Wikidatech. Dvouděložné se dál dělí podle řádu (APG IV) na superrosidy („Příbuzné růžím“), superasteridy („Příbuzné slunečnicím“) a ostatní dvouděložné. Zastaralé nebo chybějící řády z Wikidat nahrazuje `MODERN_ORDERS` a `FAMILY_ORDERS`.
