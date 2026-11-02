@@ -1,0 +1,428 @@
+[
+ {
+  "id": "Q125236#1",
+  "species": "Žralok černocípý",
+  "latin": "Carcharhinus limbatus",
+  "text": "Samice rodí 1 až 10 mláďat každý druhý rok.",
+  "quote": "samice rodí 1 až 10 mláďat každý druhý rok",
+  "claimed_false_for": {
+   "Q1262285": "Chiméra běloskvrnná (Hydrolagus colliei)",
+   "Q29243": "Žralůček okatý (Hemiscyllium ocellatum)",
+   "Q641642": "Rejnok ostnatý (Raja clavata)"
+  }
+ },
+ {
+  "id": "Q163523#0",
+  "species": "Žralok spanilý",
+  "latin": "Carcharhinus amblyrhynchos",
+  "text": "Může dorůst až do délky 2,6 metru.",
+  "quote": "Dosahuje délky až 2,6 metru",
+  "claimed_false_for": {
+   "Q833586": "Žralok velrybář (Carcharhinus obscurus)"
+  }
+ },
+ {
+  "id": "Q169468#x0",
+  "species": "Žralok zebrovitý",
+  "latin": "Stegostoma fasciatum",
+  "text": "Tento druh je aktivní v noci a přes den odpočívá na mořském dně.",
+  "quote": "Zebra sharks are nocturnal and spend most of the day resting motionless on the sea floor.",
+  "claimed_false_for": {
+   "Q129026": "Žralok bílý (Carcharodon carcharias)",
+   "Q185260": "Žralok veliký (Cetorhinus maximus)",
+   "Q192158": "Žralok mako (Isurus oxyrinchus)",
+   "Q318090": "Žralok dlouhoploutvý (Carcharhinus longimanus)",
+   "Q80378": "Žralok obrovský (Rhincodon typus)"
+  }
+ },
+ {
+  "id": "Q169468#x1",
+  "species": "Žralok zebrovitý",
+  "latin": "Stegostoma fasciatum",
+  "text": "Živí se hlavně měkkýši se schránkou, ale i korýši a drobnými rybami.",
+  "quote": "The zebra shark feeds primarily on shelled molluscs, though it also takes crustaceans, small bony fishes, and possibly sea snakes.",
+  "claimed_false_for": {
+   "Q129026": "Žralok bílý (Carcharodon carcharias)",
+   "Q185260": "Žralok veliký (Cetorhinus maximus)",
+   "Q192158": "Žralok mako (Isurus oxyrinchus)",
+   "Q252029": "Žralok hedvábný (Carcharhinus falciformis)",
+   "Q26337": "Žralok modrý (Prionace glauca)",
+   "Q31788": "Wobegong queenslandský (Orectolobus ornatus)",
+   "Q318090": "Žralok dlouhoploutvý (Carcharhinus longimanus)",
+   "Q586662": "Psohlav obecný (Galeorhinus galeus)",
+   "Q592165": "Žralok Perezův (Carcharhinus perezi)",
+   "Q618595": "Liškoun obecný (Alopias vulpinus)",
+   "Q80378": "Žralok obrovský (Rhincodon typus)",
+   "Q833586": "Žralok velrybář (Carcharhinus obscurus)"
+  }
+ },
+ {
+  "id": "Q169468#x2",
+  "species": "Žralok zebrovitý",
+  "latin": "Stegostoma fasciatum",
+  "text": "Parazitují na něm čtyři druhy tasemnic.",
+  "quote": "Known parasites of the zebra shark include four species of tapeworms in the genus Pedibothrium.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q169468#x4",
+  "species": "Žralok zebrovitý",
+  "latin": "Stegostoma fasciatum",
+  "text": "Dožívá se ve volné přírodě odhadem 25 až 30 let.",
+  "quote": "Their lifespan has been estimated to be 25–30 years in the wild.",
+  "claimed_false_for": {
+   "Q129026": "Žralok bílý (Carcharodon carcharias)",
+   "Q185260": "Žralok veliký (Cetorhinus maximus)",
+   "Q26337": "Žralok modrý (Prionace glauca)",
+   "Q370444": "Žralok malohlavý (Somniosus microcephalus)",
+   "Q80378": "Žralok obrovský (Rhincodon typus)"
+  }
+ },
+ {
+  "id": "Q169468#x5",
+  "species": "Žralok zebrovitý",
+  "latin": "Stegostoma fasciatum",
+  "text": "Mláďata mají světlé svislé pruhy na hnědém podkladu.",
+  "quote": "light vertical stripes on a brown background",
+  "claimed_false_for": {
+   "Q129026": "Žralok bílý (Carcharodon carcharias)",
+   "Q185260": "Žralok veliký (Cetorhinus maximus)",
+   "Q190469": "Žralok bělavý (Carcharhinus leucas)",
+   "Q192158": "Žralok mako (Isurus oxyrinchus)",
+   "Q252029": "Žralok hedvábný (Carcharhinus falciformis)",
+   "Q26337": "Žralok modrý (Prionace glauca)",
+   "Q318090": "Žralok dlouhoploutvý (Carcharhinus longimanus)",
+   "Q370444": "Žralok malohlavý (Somniosus microcephalus)",
+   "Q586662": "Psohlav obecný (Galeorhinus galeus)",
+   "Q592165": "Žralok Perezův (Carcharhinus perezi)",
+   "Q618595": "Liškoun obecný (Alopias vulpinus)",
+   "Q726384": "Žralok černoploutvý (Carcharhinus melanopterus)",
+   "Q756859": "Žralok vouskatý (Ginglymostoma cirratum)",
+   "Q756964": "Trnucha atlantská (Dasyatis sabina)",
+   "Q80378": "Žralok obrovský (Rhincodon typus)",
+   "Q926676": "Siba deskozubá (Myliobatis aquila)"
+  }
+ },
+ {
+  "id": "Q185260#x0",
+  "species": "Žralok veliký",
+  "latin": "Cetorhinus maximus",
+  "text": "Zachycuje plankton žaberními tyčinkami.",
+  "quote": "The gill rakers, dark and bristle-like, are used to catch plankton as water filters through the mouth and over the gills.",
+  "claimed_false_for": {
+   "Q1274522": "Liškoun pelagický (Alopias pelagicus)",
+   "Q129026": "Žralok bílý (Carcharodon carcharias)",
+   "Q163523": "Žralok spanilý (Carcharhinus amblyrhynchos)",
+   "Q169468": "Žralok zebrovitý (Stegostoma fasciatum)",
+   "Q188212": "Žralok tygří (Galeocerdo cuvier)",
+   "Q190469": "Žralok bělavý (Carcharhinus leucas)",
+   "Q192158": "Žralok mako (Isurus oxyrinchus)",
+   "Q26337": "Žralok modrý (Prionace glauca)",
+   "Q29150": "Polorejnok kalifornský (Squatina californica)",
+   "Q318090": "Žralok dlouhoploutvý (Carcharhinus longimanus)",
+   "Q370444": "Žralok malohlavý (Somniosus microcephalus)",
+   "Q618595": "Liškoun obecný (Alopias vulpinus)",
+   "Q625161": "Žralok písečný (Carcharias taurus)",
+   "Q686123": "Světloun australský (Oxynotus bruniensis)",
+   "Q726384": "Žralok černoploutvý (Carcharhinus melanopterus)",
+   "Q873701": "Kladivoun bronzový (Sphyrna lewini)",
+   "Q934615": "Různozubec sanfranciský (Heterodontus francisci)"
+  }
+ },
+ {
+  "id": "Q185260#x1",
+  "species": "Žralok veliký",
+  "latin": "Cetorhinus maximus",
+  "text": "Mláďata se rodí plně vyvinutá a jsou dlouhá 1,5 až 2 metry.",
+  "quote": "born fully developed at 1.5–2 m",
+  "claimed_false_for": {
+   "Q163523": "Žralok spanilý (Carcharhinus amblyrhynchos)",
+   "Q169468": "Žralok zebrovitý (Stegostoma fasciatum)",
+   "Q188212": "Žralok tygří (Galeocerdo cuvier)",
+   "Q190469": "Žralok bělavý (Carcharhinus leucas)",
+   "Q192158": "Žralok mako (Isurus oxyrinchus)",
+   "Q26337": "Žralok modrý (Prionace glauca)",
+   "Q29150": "Polorejnok kalifornský (Squatina californica)",
+   "Q318090": "Žralok dlouhoploutvý (Carcharhinus longimanus)",
+   "Q625161": "Žralok písečný (Carcharias taurus)",
+   "Q686123": "Světloun australský (Oxynotus bruniensis)",
+   "Q726384": "Žralok černoploutvý (Carcharhinus melanopterus)",
+   "Q80378": "Žralok obrovský (Rhincodon typus)",
+   "Q873701": "Kladivoun bronzový (Sphyrna lewini)",
+   "Q934615": "Různozubec sanfranciský (Heterodontus francisci)"
+  }
+ },
+ {
+  "id": "Q185260#x2",
+  "species": "Žralok veliký",
+  "latin": "Cetorhinus maximus",
+  "text": "Požírají ho kosatky.",
+  "quote": "Killer whales have been observed feeding on basking sharks",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q185260#x3",
+  "species": "Žralok veliký",
+  "latin": "Cetorhinus maximus",
+  "text": "Bývají na něm přisáté mihule.",
+  "quote": "Lampreys are often seen attached to them",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q185260#x4",
+  "species": "Žralok veliký",
+  "latin": "Cetorhinus maximus",
+  "text": "Dožívá se odhadem asi 50 let.",
+  "quote": "experts estimate it to be about 50 years",
+  "claimed_false_for": {
+   "Q1274522": "Liškoun pelagický (Alopias pelagicus)",
+   "Q26337": "Žralok modrý (Prionace glauca)",
+   "Q370444": "Žralok malohlavý (Somniosus microcephalus)",
+   "Q726384": "Žralok černoploutvý (Carcharhinus melanopterus)",
+   "Q80378": "Žralok obrovský (Rhincodon typus)",
+   "Q873701": "Kladivoun bronzový (Sphyrna lewini)"
+  }
+ },
+ {
+  "id": "Q185260#x5",
+  "species": "Žralok veliký",
+  "latin": "Cetorhinus maximus",
+  "text": "Dokáže vyskočit celý z vody.",
+  "quote": "it can breach jump entirely out of the water",
+  "claimed_false_for": {
+   "Q169468": "Žralok zebrovitý (Stegostoma fasciatum)",
+   "Q29150": "Polorejnok kalifornský (Squatina californica)",
+   "Q686123": "Světloun australský (Oxynotus bruniensis)",
+   "Q934615": "Různozubec sanfranciský (Heterodontus francisci)"
+  }
+ },
+ {
+  "id": "Q192158#3",
+  "species": "Žralok mako",
+  "latin": "Isurus oxyrinchus",
+  "text": "Jí hlavně hlavonožce a kostnaté ryby.",
+  "quote": "Hlavní složkou potravy jsou hlavonožci, kostnaté ryby včetně makrel, tuňáků",
+  "claimed_false_for": {
+   "Q29243": "Žralůček okatý (Hemiscyllium ocellatum)",
+   "Q641642": "Rejnok ostnatý (Raja clavata)",
+   "Q926676": "Siba deskozubá (Myliobatis aquila)"
+  }
+ },
+ {
+  "id": "Q29121#1",
+  "species": "Žralok slepooký",
+  "latin": "Brachaelurus waddi",
+  "text": "Přežije až 18 hodin mimo vodu.",
+  "quote": "Tento druh může přežít až 18 hodin na suchu",
+  "claimed_false_for": {
+   "Q833586": "Žralok velrybář (Carcharhinus obscurus)"
+  }
+ },
+ {
+  "id": "Q312293#0",
+  "species": "Žralok šedý",
+  "latin": "Hexanchus griseus",
+  "text": "Živí se rejnoky, olihněmi, rybami i tuleni.",
+  "quote": "Živí se rejnoky, olihněmi, rybami a dokonce i tuleni.",
+  "claimed_false_for": {
+   "Q1262285": "Chiméra běloskvrnná (Hydrolagus colliei)",
+   "Q29243": "Žralůček okatý (Hemiscyllium ocellatum)",
+   "Q641642": "Rejnok ostnatý (Raja clavata)",
+   "Q926676": "Siba deskozubá (Myliobatis aquila)"
+  }
+ },
+ {
+  "id": "Q318090#0",
+  "species": "Žralok dlouhoploutvý",
+  "latin": "Carcharhinus longimanus",
+  "text": "Žije ve volné vodě daleko od břehů.",
+  "quote": "pelagický (žijící ve volné vodě daleko od břehů a dna)",
+  "claimed_false_for": {
+   "Q1262285": "Chiméra běloskvrnná (Hydrolagus colliei)",
+   "Q29243": "Žralůček okatý (Hemiscyllium ocellatum)",
+   "Q31788": "Wobegong queenslandský (Orectolobus ornatus)",
+   "Q641642": "Rejnok ostnatý (Raja clavata)",
+   "Q926676": "Siba deskozubá (Myliobatis aquila)"
+  }
+ },
+ {
+  "id": "Q338891#2",
+  "species": "Kladivoun tiburo",
+  "latin": "Sphyrna tiburo",
+  "text": "Jí hlavně korýše, menší ryby a hlavonožce.",
+  "quote": "kterou tvoří především korýši, dále také menší druhy ryb a hlavonožců",
+  "claimed_false_for": {
+   "Q1274522": "Liškoun pelagický (Alopias pelagicus)"
+  }
+ },
+ {
+  "id": "Q469958#3",
+  "species": "Trnucha americká",
+  "latin": "Dasyatis americana",
+  "text": "Rodí 2 až 10 živých mláďat.",
+  "quote": "Samice po 4,5 až 7,5 měsících rodí 2 až 10 živých mláďat",
+  "claimed_false_for": {
+   "Q1262285": "Chiméra běloskvrnná (Hydrolagus colliei)",
+   "Q29243": "Žralůček okatý (Hemiscyllium ocellatum)",
+   "Q641642": "Rejnok ostnatý (Raja clavata)"
+  }
+ },
+ {
+  "id": "Q592165#0",
+  "species": "Žralok Perezův",
+  "latin": "Carcharhinus perezi",
+  "text": "Živí se rybami, rejnoky a hlavonožci.",
+  "quote": "Živí se rybami, rejnoky a hlavonožci.",
+  "claimed_false_for": {
+   "Q29243": "Žralůček okatý (Hemiscyllium ocellatum)",
+   "Q926676": "Siba deskozubá (Myliobatis aquila)"
+  }
+ },
+ {
+  "id": "Q641642#1",
+  "species": "Rejnok ostnatý",
+  "latin": "Raja clavata",
+  "text": "Samice za rok vyprodukuje až 150 vajec.",
+  "quote": "Samice za rok vyprodukuje až 150 vajec umístěných v pouzdru.",
+  "claimed_false_for": {
+   "Q31788": "Wobegong queenslandský (Orectolobus ornatus)",
+   "Q833586": "Žralok velrybář (Carcharhinus obscurus)"
+  }
+ },
+ {
+  "id": "Q686123#1",
+  "species": "Světloun australský",
+  "latin": "Oxynotus bruniensis",
+  "text": "Dosahuje délky okolo 70 centimetrů.",
+  "quote": "Dosahuje délky okolo 70 centimetrů",
+  "claimed_false_for": {
+   "Q1262285": "Chiméra běloskvrnná (Hydrolagus colliei)",
+   "Q1274522": "Liškoun pelagický (Alopias pelagicus)",
+   "Q29243": "Žralůček okatý (Hemiscyllium ocellatum)",
+   "Q586662": "Psohlav obecný (Galeorhinus galeus)",
+   "Q833586": "Žralok velrybář (Carcharhinus obscurus)"
+  }
+ },
+ {
+  "id": "Q695344#3",
+  "species": "Žralok lagunový",
+  "latin": "Triaenodon obesus",
+  "text": "Málokdy přesáhne délku 1,6 metru.",
+  "quote": "málokdy přesáhne délku 1,6 m",
+  "claimed_false_for": {
+   "Q31788": "Wobegong queenslandský (Orectolobus ornatus)",
+   "Q833586": "Žralok velrybář (Carcharhinus obscurus)"
+  }
+ },
+ {
+  "id": "Q695344#4",
+  "species": "Žralok lagunový",
+  "latin": "Triaenodon obesus",
+  "text": "Samice rodí jedno až šest mláďat.",
+  "quote": "Poté samice rodí 1–6 mláďat.",
+  "claimed_false_for": {
+   "Q1262285": "Chiméra běloskvrnná (Hydrolagus colliei)",
+   "Q29243": "Žralůček okatý (Hemiscyllium ocellatum)",
+   "Q641642": "Rejnok ostnatý (Raja clavata)"
+  }
+ },
+ {
+  "id": "Q80378#3",
+  "species": "Žralok obrovský",
+  "latin": "Rhincodon typus",
+  "text": "Samice rodí v jednom vrhu až 300 mláďat.",
+  "quote": "V jednom vrhu samice rodí i 300 mláďat",
+  "claimed_false_for": {
+   "Q31788": "Wobegong queenslandský (Orectolobus ornatus)",
+   "Q833586": "Žralok velrybář (Carcharhinus obscurus)"
+  }
+ },
+ {
+  "id": "Q833586#x0",
+  "species": "Žralok velrybář",
+  "latin": "Carcharhinus obscurus",
+  "text": "Březost trvá 22 až 24 měsíců.",
+  "quote": "females bear litters of 3–14 young after a gestation period of 22–24 months",
+  "claimed_false_for": {
+   "Q1126782": "Žralok bělocípý (Carcharhinus albimarginatus)",
+   "Q125236": "Žralok černocípý (Carcharhinus limbatus)",
+   "Q188212": "Žralok tygří (Galeocerdo cuvier)",
+   "Q190469": "Žralok bělavý (Carcharhinus leucas)",
+   "Q206495": "Žralok citronový (Negaprion brevirostris)",
+   "Q26337": "Žralok modrý (Prionace glauca)",
+   "Q338891": "Kladivoun tiburo (Sphyrna tiburo)",
+   "Q469958": "Trnucha americká (Dasyatis americana)",
+   "Q641642": "Rejnok ostnatý (Raja clavata)",
+   "Q695344": "Žralok lagunový (Triaenodon obesus)",
+   "Q757353": "Kladivoun velký (Sphyrna mokarran)"
+  }
+ },
+ {
+  "id": "Q833586#x1",
+  "species": "Žralok velrybář",
+  "latin": "Carcharhinus obscurus",
+  "text": "Dospělosti dosahuje až kolem 20 let věku.",
+  "quote": "adulthood until around 20 years of age.",
+  "claimed_false_for": {
+   "Q1126782": "Žralok bělocípý (Carcharhinus albimarginatus)",
+   "Q125236": "Žralok černocípý (Carcharhinus limbatus)",
+   "Q188212": "Žralok tygří (Galeocerdo cuvier)",
+   "Q190469": "Žralok bělavý (Carcharhinus leucas)",
+   "Q206495": "Žralok citronový (Negaprion brevirostris)",
+   "Q26337": "Žralok modrý (Prionace glauca)",
+   "Q338891": "Kladivoun tiburo (Sphyrna tiburo)",
+   "Q469958": "Trnucha americká (Dasyatis americana)",
+   "Q641642": "Rejnok ostnatý (Raja clavata)",
+   "Q695344": "Žralok lagunový (Triaenodon obesus)",
+   "Q757353": "Kladivoun velký (Sphyrna mokarran)"
+  }
+ },
+ {
+  "id": "Q833586#x2",
+  "species": "Žralok velrybář",
+  "latin": "Carcharhinus obscurus",
+  "text": "Slouží jako hostitel přilnavců.",
+  "quote": "The dusky shark is one of the hosts of the sharksucker (Echeneis naucrates).",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q833586#x3",
+  "species": "Žralok velrybář",
+  "latin": "Carcharhinus obscurus",
+  "text": "Dospělí jedinci nemají téměř žádné přirozené nepřátele.",
+  "quote": "Full-grown dusky sharks have no significant natural predators.",
+  "claimed_false_for": {
+   "Q469958": "Trnucha americká (Dasyatis americana)"
+  }
+ },
+ {
+  "id": "Q833586#x4",
+  "species": "Žralok velrybář",
+  "latin": "Carcharhinus obscurus",
+  "text": "Mláďata se živí hlavně drobnou kořistí, například sardinkami a kalmary.",
+  "quote": "Newborn and juvenile sharks subsist mainly on small pelagic prey such as sardines and squid",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q833586#x5",
+  "species": "Žralok velrybář",
+  "latin": "Carcharhinus obscurus",
+  "text": "Při tazích urazí až 3 800 km.",
+  "quote": "undertaking recorded movements of up to 3,800 km (2,400 mi)",
+  "claimed_false_for": {
+   "Q695344": "Žralok lagunový (Triaenodon obesus)"
+  }
+ },
+ {
+  "id": "Q873701#3",
+  "species": "Kladivoun bronzový",
+  "latin": "Sphyrna lewini",
+  "text": "Dospělí jedinci jedí i menší žraloky a rejnoky.",
+  "quote": "stejně jako menší druhy žraloků a rejnoků",
+  "claimed_false_for": {
+   "Q1262285": "Chiméra běloskvrnná (Hydrolagus colliei)",
+   "Q29243": "Žralůček okatý (Hemiscyllium ocellatum)",
+   "Q926676": "Siba deskozubá (Myliobatis aquila)"
+  }
+ }
+]

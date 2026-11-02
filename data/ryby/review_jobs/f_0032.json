@@ -1,0 +1,590 @@
+[
+ {
+  "id": "Q1000274#1",
+  "species": "Pilníkotrn skvrnitý",
+  "latin": "Cantherhines pardalis",
+  "text": "Často pluje kolem korálových útesů, kde hledá potravu a úkryt.",
+  "quote": "Často pluje kolem korálových útesů, kde vyhledává potravu a úkryt",
+  "claimed_false_for": {
+   "Q10866107": "Čichavec šedý (Trichopodus trichopterus)",
+   "Q1090773": "Bojovnice smaragdová (Betta smaragdina)",
+   "Q1230573": "Čichavec medový (Trichogaster chuna)",
+   "Q536224": "Okounek černý (Micropterus dolomieu)",
+   "Q755105": "Okounek pstruhový (Micropterus salmoides)"
+  }
+ },
+ {
+  "id": "Q1021931#0",
+  "species": "Chňapálek zlatohřbetý",
+  "latin": "Caesio xanthonota",
+  "text": "Živí se zooplanktonem.",
+  "quote": "živý se zooplanktonem",
+  "claimed_false_for": {
+   "Q2067460": "Panchax prstencový (Epiplatys annulatus)",
+   "Q744000": "Nebehled obecný (Uranoscopus scaber)",
+   "Q900868": "Bodlok žlutý (Zebrasoma flavescens)",
+   "Q910363": "Pelamida obecná (Sarda sarda)"
+  }
+ },
+ {
+  "id": "Q1043491#1",
+  "species": "Pyskoun žlutolící",
+  "latin": "Choerodon anchorago",
+  "text": "Za 20 minut dokáže rozbít a sníst až tři škeble.",
+  "quote": "Během 20 minut dokáže pyskoun takto rozbít a sníst až 3 škeble.",
+  "claimed_false_for": {
+   "Q2249706": "Ploskozubec tupohlavý (Chlorurus sordidus)"
+  }
+ },
+ {
+  "id": "Q1070009#3",
+  "species": "Mnohopilák velký",
+  "latin": "Stereolepis gigas",
+  "text": "Odhaduje se, že některé exempláře žijí 75 let nebo déle.",
+  "quote": "Některé z největších exemplářů však přesahují 210 cm a odhaduje se, že je jim 75 let nebo více.",
+  "claimed_false_for": {
+   "Q3760715": "Razbora Hengelova (Trigonostigma hengeli)",
+   "Q550170": "Ouklejka pruhovaná (Alburnoides bipunctatus)",
+   "Q637598": "Parmička duhová (Puntius titteya)",
+   "Q908440": "Gara rudohnědá (Garra rufa)"
+  }
+ },
+ {
+  "id": "Q10866107#0",
+  "species": "Čichavec šedý",
+  "latin": "Trichopodus trichopterus",
+  "text": "Potřebuje volný přístup k vodní hladině, kde přijímá vzdušný kyslík.",
+  "quote": "potřebuje mít volný přístup k vodní hladině, u které přijímá atmosférický kyslík nutný k dýchání",
+  "claimed_false_for": {
+   "Q93675": "Štika americká (Esox americanus)"
+  }
+ },
+ {
+  "id": "Q1126155#6",
+  "species": "Klaun očkatý",
+  "latin": "Amphiprion ocellaris",
+  "text": "Sliz na kůži chrání tento druh před žahavými buňkami sasanky.",
+  "quote": "Samotného klauna chrání před žahavými buňkami vrstva slizu na kůži",
+  "claimed_false_for": {
+   "Q1135526": "Platýs limanda (Limanda limanda)",
+   "Q1577680": "Anténovec vláknovitý (Brachyplatystoma filamentosum)",
+   "Q27336": "Slimule živorodá (Zoarces viviparus)",
+   "Q3761965": "Pancéřníček napský (Corydoras napoensis)",
+   "Q387344": "Keříčkovec červenolemý (Clarias gariepinus)",
+   "Q519849": "Tetra černá (Gymnocorymbus ternetzi)",
+   "Q965336": "Pancéřníček Sterbův (Corydoras sterbai)"
+  }
+ },
+ {
+  "id": "Q1135526#0",
+  "species": "Platýs limanda",
+  "latin": "Limanda limanda",
+  "text": "Dospělí se živí plži, mlži, červy, korýši a malými rybami.",
+  "quote": "dospělí jedinci se živí plži a mlži s měkkými ulitami, červy, drobnými korýši a malými rybami.",
+  "claimed_false_for": {
+   "Q798246": "Mihule potoční (Lampetra planeri)"
+  }
+ },
+ {
+  "id": "Q1135526#1",
+  "species": "Platýs limanda",
+  "latin": "Limanda limanda",
+  "text": "Žije ve vodách Atlantiku, Bílého a Severního moře.",
+  "quote": "Vyskytuje se v evropských vodách jmenovitě v Atlantského oceánu, Bílého a Severního moře.",
+  "claimed_false_for": {
+   "Q1043491": "Pyskoun žlutolící (Choerodon anchorago)",
+   "Q179377": "Pyskoun vlnkovaný (Cheilinus undulatus)",
+   "Q491934": "Kaproun obecný (Amia calva)",
+   "Q617967": "Parmička středomořská (Barbus meridionalis)",
+   "Q739380": "Pangas velký (Pangasianodon gigas)",
+   "Q798246": "Mihule potoční (Lampetra planeri)",
+   "Q841996": "Štíhlotělka stříkavá (Copella arnoldi)"
+  }
+ },
+ {
+  "id": "Q1156826#x0",
+  "species": "Hadohlavec skvrnitý",
+  "latin": "Channa argus",
+  "text": "Živí se hlavně rybami, ale i korýši, jinými bezobratlými a obojživelníky.",
+  "quote": "it is primarily piscivorous, but is known to eat crustaceans, other invertebrates, and amphibians.",
+  "claimed_false_for": {
+   "Q1162971": "Plata skvrnitá (Xiphophorus maculatus)",
+   "Q1230573": "Čichavec medový (Trichogaster chuna)",
+   "Q1519624": "Čichavec pruhovaný (Trichogaster fasciata)",
+   "Q1536867": "Čichavec tmavohnědý (Sphaerichthys osphromenoides)",
+   "Q218891": "Čichavec líbající (Helostoma temminckii)",
+   "Q24049404": "Čichavec pyskatý (Trichogaster labiosa)",
+   "Q2702953": "Razborka bornejská (Boraras brigittae)"
+  }
+ },
+ {
+  "id": "Q1156826#x1",
+  "species": "Hadohlavec skvrnitý",
+  "latin": "Channa argus",
+  "text": "Dokáže několik dní žít mimo vodu.",
+  "quote": "This unusual respiratory system allows it to live outside of water for several days.",
+  "claimed_false_for": {
+   "Q1162971": "Plata skvrnitá (Xiphophorus maculatus)",
+   "Q2702953": "Razborka bornejská (Boraras brigittae)",
+   "Q633957": "Tuňák pruhovaný (Katsuwonus pelamis)",
+   "Q747645": "Jeseter ruský (Acipenser gueldenstaedtii)"
+  }
+ },
+ {
+  "id": "Q1156826#x2",
+  "species": "Hadohlavec skvrnitý",
+  "latin": "Channa argus",
+  "text": "Rodiče hlídají jikry.",
+  "quote": "The eggs are guarded by the parents until egg absorption",
+  "claimed_false_for": {
+   "Q1162971": "Plata skvrnitá (Xiphophorus maculatus)",
+   "Q2702953": "Razborka bornejská (Boraras brigittae)",
+   "Q633957": "Tuňák pruhovaný (Katsuwonus pelamis)",
+   "Q747645": "Jeseter ruský (Acipenser gueldenstaedtii)",
+   "Q93675": "Štika americká (Esox americanus)"
+  }
+ },
+ {
+  "id": "Q1156826#x3",
+  "species": "Hadohlavec skvrnitý",
+  "latin": "Channa argus",
+  "text": "Samice naklade až 100 000 jiker za rok.",
+  "quote": "a female can lay 100,000 eggs a year",
+  "claimed_false_for": {
+   "Q1090773": "Bojovnice smaragdová (Betta smaragdina)",
+   "Q1162971": "Plata skvrnitá (Xiphophorus maculatus)",
+   "Q1230573": "Čichavec medový (Trichogaster chuna)",
+   "Q1519624": "Čichavec pruhovaný (Trichogaster fasciata)",
+   "Q1536867": "Čichavec tmavohnědý (Sphaerichthys osphromenoides)",
+   "Q24049404": "Čichavec pyskatý (Trichogaster labiosa)",
+   "Q2702953": "Razborka bornejská (Boraras brigittae)"
+  }
+ },
+ {
+  "id": "Q1156826#x4",
+  "species": "Hadohlavec skvrnitý",
+  "latin": "Channa argus",
+  "text": "Mláďata se nejdřív živí zooplanktonem.",
+  "quote": "Les jeunes commencent d'abord par manger du zooplancton",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1156826#x5",
+  "species": "Hadohlavec skvrnitý",
+  "latin": "Channa argus",
+  "text": "Mimo domovinu téměř nemá predátory.",
+  "quote": "ils n'ont pratiquement pas de prédateurs",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1162971#0",
+  "species": "Plata skvrnitá",
+  "latin": "Xiphophorus maculatus",
+  "text": "Většinu potravy tvoří rostliny.",
+  "quote": "Je všežravá s převahou rostlinné potravy.",
+  "claimed_false_for": {
+   "Q1265801": "Mořan světlopruhý (Diplodus annularis)",
+   "Q2067460": "Panchax prstencový (Epiplatys annulatus)",
+   "Q214415": "Tuňák obecný (Thunnus thynnus)",
+   "Q744000": "Nebehled obecný (Uranoscopus scaber)",
+   "Q910363": "Pelamida obecná (Sarda sarda)",
+   "Q941448": "Bičonoš zobanovitý (Zanclus cornutus)"
+  }
+ },
+ {
+  "id": "Q1340577#3",
+  "species": "Živorodka Wingeova",
+  "latin": "Poecilia wingei",
+  "text": "Dospívá velmi rychle, během několika týdnů.",
+  "quote": "dospívají velmi rychle, během několika týdnů",
+  "claimed_false_for": {
+   "Q214415": "Tuňák obecný (Thunnus thynnus)",
+   "Q910363": "Pelamida obecná (Sarda sarda)"
+  }
+ },
+ {
+  "id": "Q135004#0",
+  "species": "Krunýřovec skvrnitý",
+  "latin": "Ancistrus cirrhosus",
+  "text": "Tělo kryje mnoho kostěných destiček.",
+  "quote": "Tělo kryjí četné kostěné destičky.",
+  "claimed_false_for": {
+   "Q1513246": "Veleparma thajská (Catlocarpio siamensis)",
+   "Q183407": "Cejnek malý (Blicca bjoerkna)",
+   "Q1835588": "Chňapálek zlatopruhý (Caesio caerulaurea)",
+   "Q198568": "Ostrucha křivočará (Pelecus cultratus)",
+   "Q2033056": "Plotice Meidingerova (Rutilus meidingeri)",
+   "Q2687823": "Kanic motýlovitý (Caesioperca lepidoptera)",
+   "Q2741221": "Mahsír obří (Tor putitora)",
+   "Q3760715": "Razbora Hengelova (Trigonostigma hengeli)",
+   "Q550170": "Ouklejka pruhovaná (Alburnoides bipunctatus)",
+   "Q637598": "Parmička duhová (Puntius titteya)",
+   "Q908440": "Gara rudohnědá (Garra rufa)"
+  }
+ },
+ {
+  "id": "Q1378206#1",
+  "species": "Kanic šestipruhý",
+  "latin": "Grammistes sexlineatus",
+  "text": "Dorůstá délky až 25 cm.",
+  "quote": "Rybky dorůstají délky až 25 cm",
+  "claimed_false_for": {
+   "Q3760715": "Razbora Hengelova (Trigonostigma hengeli)",
+   "Q637598": "Parmička duhová (Puntius titteya)"
+  }
+ },
+ {
+  "id": "Q1410632#0",
+  "species": "Pecilka pestrá",
+  "latin": "Micropoecilia picta",
+  "text": "Samice rodí 11–25 živých mláďat.",
+  "quote": "Samice rodí 11–25 živých mláďat.",
+  "claimed_false_for": {
+   "Q1265801": "Mořan světlopruhý (Diplodus annularis)",
+   "Q1955023": "Pražman rifový (Calamus nodosus)",
+   "Q2067460": "Panchax prstencový (Epiplatys annulatus)",
+   "Q214415": "Tuňák obecný (Thunnus thynnus)",
+   "Q744000": "Nebehled obecný (Uranoscopus scaber)",
+   "Q900868": "Bodlok žlutý (Zebrasoma flavescens)",
+   "Q910363": "Pelamida obecná (Sarda sarda)",
+   "Q941448": "Bičonoš zobanovitý (Zanclus cornutus)",
+   "Q969159": "Pražman duhový (Calamus penna)"
+  }
+ },
+ {
+  "id": "Q1429252#1",
+  "species": "Limie Perugiova",
+  "latin": "Limia perugiae",
+  "text": "Tento druh je všežravý, jí rostliny i drobné živé krmivo.",
+  "quote": "Jedná se o všežravou rybu, přijímá tedy umělé vločkové krmivo, mražené krmivo, drobné živé krmivo (nítěnky, plankton), rostlinnou potravu, řasy.",
+  "claimed_false_for": {
+   "Q93675": "Štika americká (Esox americanus)"
+  }
+ },
+ {
+  "id": "Q143503#1",
+  "species": "Zubatec obecný",
+  "latin": "Dentex dentex",
+  "text": "Může dosáhnout délky jednoho metru.",
+  "quote": "Může dosáhnout délky jednoho metru a váhy 16 kg.",
+  "claimed_false_for": {
+   "Q1265801": "Mořan světlopruhý (Diplodus annularis)",
+   "Q1955023": "Pražman rifový (Calamus nodosus)",
+   "Q2067460": "Panchax prstencový (Epiplatys annulatus)",
+   "Q3757835": "Limie modrá (Limia tridens)",
+   "Q3768219": "Mečovka trpasličí (Xiphophorus pygmaeus)",
+   "Q744000": "Nebehled obecný (Uranoscopus scaber)",
+   "Q900868": "Bodlok žlutý (Zebrasoma flavescens)",
+   "Q922646": "Alfaro ostrobřiché (Alfaro cultratus)",
+   "Q941448": "Bičonoš zobanovitý (Zanclus cornutus)",
+   "Q969159": "Pražman duhový (Calamus penna)"
+  }
+ },
+ {
+  "id": "Q14505073#x0",
+  "species": "Čichavec perleťový",
+  "latin": "Trichopodus leerii",
+  "text": "Žije v nížinných bažinách s kyselou vodou.",
+  "quote": "It occurs in lowland swamps with acidic water.",
+  "claimed_false_for": {
+   "Q633957": "Tuňák pruhovaný (Katsuwonus pelamis)",
+   "Q747645": "Jeseter ruský (Acipenser gueldenstaedtii)"
+  }
+ },
+ {
+  "id": "Q14505073#x1",
+  "species": "Čichavec perleťový",
+  "latin": "Trichopodus leerii",
+  "text": "K dýchání využívá vzduch z hladiny.",
+  "quote": "використовують для дихання атмосферне повітря",
+  "claimed_false_for": {
+   "Q1162971": "Plata skvrnitá (Xiphophorus maculatus)",
+   "Q2702953": "Razborka bornejská (Boraras brigittae)",
+   "Q633957": "Tuňák pruhovaný (Katsuwonus pelamis)",
+   "Q747645": "Jeseter ruský (Acipenser gueldenstaedtii)"
+  }
+ },
+ {
+  "id": "Q14505073#x2",
+  "species": "Čichavec perleťový",
+  "latin": "Trichopodus leerii",
+  "text": "Samec staví na hladině hnízdo z bublinek vzduchu obalených slinami.",
+  "quote": "Самець будує на поверхні води гніздо з обмащених слиною бульбашок повітря",
+  "claimed_false_for": {
+   "Q1162971": "Plata skvrnitá (Xiphophorus maculatus)",
+   "Q1536867": "Čichavec tmavohnědý (Sphaerichthys osphromenoides)",
+   "Q2137399": "Hadohlavec duhový (Channa bleheri)",
+   "Q218891": "Čichavec líbající (Helostoma temminckii)",
+   "Q2702953": "Razborka bornejská (Boraras brigittae)",
+   "Q628790": "Hadohlavec červený (Channa micropeltes)",
+   "Q633957": "Tuňák pruhovaný (Katsuwonus pelamis)",
+   "Q747645": "Jeseter ruský (Acipenser gueldenstaedtii)"
+  }
+ },
+ {
+  "id": "Q14505073#x3",
+  "species": "Čichavec perleťový",
+  "latin": "Trichopodus leerii",
+  "text": "Dorůstá nejvýše 12 centimetrů.",
+  "quote": "Максимально риби сягають завдовжки 12 см",
+  "claimed_false_for": {
+   "Q218891": "Čichavec líbající (Helostoma temminckii)",
+   "Q628790": "Hadohlavec červený (Channa micropeltes)",
+   "Q633957": "Tuňák pruhovaný (Katsuwonus pelamis)",
+   "Q747645": "Jeseter ruský (Acipenser gueldenstaedtii)"
+  }
+ },
+ {
+  "id": "Q14505073#x4",
+  "species": "Čichavec perleťový",
+  "latin": "Trichopodus leerii",
+  "text": "Břišní ploutve jsou tenké jako nitky a slouží jako orgány hmatu.",
+  "quote": "черевні тонкі, як ниточки, і дуже довгі, являють собою своєрідні органи дотику",
+  "claimed_false_for": {
+   "Q1162971": "Plata skvrnitá (Xiphophorus maculatus)",
+   "Q2137399": "Hadohlavec duhový (Channa bleheri)",
+   "Q2702953": "Razborka bornejská (Boraras brigittae)",
+   "Q628790": "Hadohlavec červený (Channa micropeltes)",
+   "Q633957": "Tuňák pruhovaný (Katsuwonus pelamis)",
+   "Q747645": "Jeseter ruský (Acipenser gueldenstaedtii)"
+  }
+ },
+ {
+  "id": "Q14505073#x5",
+  "species": "Čichavec perleťový",
+  "latin": "Trichopodus leerii",
+  "text": "Při jednom tření se obvykle nakladou 600 až 700 jiker.",
+  "quote": "За нерест зазвичай відкладається 600—700 ікринок",
+  "claimed_false_for": {
+   "Q1162971": "Plata skvrnitá (Xiphophorus maculatus)",
+   "Q633957": "Tuňák pruhovaný (Katsuwonus pelamis)",
+   "Q747645": "Jeseter ruský (Acipenser gueldenstaedtii)"
+  }
+ },
+ {
+  "id": "Q146641#0",
+  "species": "Candát obecný",
+  "latin": "Sander lucioperca",
+  "text": "Dospělý dravec se živí výhradně menšími rybami.",
+  "quote": "výhradně drobnější druhy ryb",
+  "claimed_false_for": {
+   "Q132895": "Vřeténka pestrá (Callionymus lyra)",
+   "Q1429252": "Limie Perugiova (Limia perugiae)",
+   "Q162274": "Trnohřbet obrněný (Enoplosus armatus)",
+   "Q182976": "Plotice obecná (Rutilus rutilus)",
+   "Q188387": "Sardel obecná (Engraulis encrasicolus)",
+   "Q200473": "Ouklej obecná (Alburnus alburnus)",
+   "Q2020774": "Kanic písmenkový (Serranus scriba)",
+   "Q203572": "Koljuška tříostná (Gasterosteus aculeatus)",
+   "Q2090926": "Soltýn tmavopruhý (Sphyraena jello)",
+   "Q214278": "Střevle potoční (Phoxinus phoxinus)",
+   "Q237619": "Hrouzek obecný (Gobio gobio)",
+   "Q2478695": "Cípal sladkovodní (Agonostomus monticola)",
+   "Q2482211": "Kanic jednoskvrnnný (Caesioperca rasor)",
+   "Q26821893": "Jelec tloušť (Squalius cephalus)",
+   "Q2683765": "Chňapálek měsíční (Caesio lunaris)",
+   "Q74411": "Lates stříbřitý (Lates calcarifer)",
+   "Q934761": "Vlkouš obecný (Anarhichas lupus)"
+  }
+ },
+ {
+  "id": "Q146641#1",
+  "species": "Candát obecný",
+  "latin": "Sander lucioperca",
+  "text": "Mladí se živí planktonem, měkkýši a dalšími bezobratlými.",
+  "quote": "V mládí se živí především planktonem, měkkýši a dalšími bezobratlými.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q146641#2",
+  "species": "Candát obecný",
+  "latin": "Sander lucioperca",
+  "text": "Samec hlídá snůšku a chrání ji před predátory, dokud se nevylíhnou.",
+  "quote": "Samec snůšku hlídá a chrání před případnými predátory až do vylíhnutí potěru.",
+  "claimed_false_for": {
+   "Q182976": "Plotice obecná (Rutilus rutilus)",
+   "Q187981": "Ježdík obecný (Gymnocephalus cernua)",
+   "Q188387": "Sardel obecná (Engraulis encrasicolus)",
+   "Q188879": "Losos obecný (Salmo salar)",
+   "Q200473": "Ouklej obecná (Alburnus alburnus)",
+   "Q2090926": "Soltýn tmavopruhý (Sphyraena jello)",
+   "Q214278": "Střevle potoční (Phoxinus phoxinus)",
+   "Q237619": "Hrouzek obecný (Gobio gobio)",
+   "Q26821893": "Jelec tloušť (Squalius cephalus)",
+   "Q2683765": "Chňapálek měsíční (Caesio lunaris)",
+   "Q269781": "Tuňák žlutoploutvý (Thunnus albacares)",
+   "Q74411": "Lates stříbřitý (Lates calcarifer)"
+  }
+ },
+ {
+  "id": "Q146641#3",
+  "species": "Candát obecný",
+  "latin": "Sander lucioperca",
+  "text": "Nejstarší známý jedinec se dožil 25 let.",
+  "quote": "Nejstarší známý exemplář měl 25 let.",
+  "claimed_false_for": {
+   "Q1429252": "Limie Perugiova (Limia perugiae)",
+   "Q182976": "Plotice obecná (Rutilus rutilus)",
+   "Q187981": "Ježdík obecný (Gymnocephalus cernua)",
+   "Q188387": "Sardel obecná (Engraulis encrasicolus)",
+   "Q200473": "Ouklej obecná (Alburnus alburnus)",
+   "Q203572": "Koljuška tříostná (Gasterosteus aculeatus)",
+   "Q214278": "Střevle potoční (Phoxinus phoxinus)",
+   "Q237619": "Hrouzek obecný (Gobio gobio)"
+  }
+ },
+ {
+  "id": "Q1519624#0",
+  "species": "Čichavec pruhovaný",
+  "latin": "Trichogaster fasciata",
+  "text": "Pochází ze sladkých vod Indie, Bangladéše a Myanmaru.",
+  "quote": "Pochází ze sladkých vod Indie, Bangladéše a Myanmaru.",
+  "claimed_false_for": {
+   "Q164327": "Mečoun obecný (Xiphias gladius)",
+   "Q223289": "Lodivod mořský (Naucrates ductor)",
+   "Q2249706": "Ploskozubec tupohlavý (Chlorurus sordidus)",
+   "Q3233228": "Chňapal podélnopruhý (Lutjanus synagris)",
+   "Q348917": "Koruška americká (Thaleichthys pacificus)",
+   "Q461432": "Lufara dravá (Pomatomus saltatrix)",
+   "Q536224": "Okounek černý (Micropterus dolomieu)",
+   "Q755105": "Okounek pstruhový (Micropterus salmoides)",
+   "Q919271": "Kněžík duhový (Coris julis)"
+  }
+ },
+ {
+  "id": "Q1522625#x0",
+  "species": "Stříkoun lapavý",
+  "latin": "Toxotes jaculatrix",
+  "text": "Plive proud vody a sestřeluje tak kořist.",
+  "quote": "It is best known for its ability to spit a jet of water to \"shoot down\" prey.",
+  "claimed_false_for": {
+   "Q1544489": "Tetra paraguayská (Moenkhausia sanctaefilomenae)",
+   "Q162274": "Trnohřbet obrněný (Enoplosus armatus)",
+   "Q214278": "Střevle potoční (Phoxinus phoxinus)",
+   "Q2165517": "Klipka čtyřoká (Chaetodon capistratus)",
+   "Q2612847": "Chňapálek vysokotělý (Caesio cuning)",
+   "Q2688707": "Klipka rudoskvrnná (Chaetodon paucifasciatus)",
+   "Q3541": "Skalára vysoká (Pterophyllum altum)",
+   "Q654583": "Ostroretka stěhovavá (Chondrostoma nasus)",
+   "Q76098": "Amur bílý (Ctenopharyngodon idella)"
+  }
+ },
+ {
+  "id": "Q1522625#x1",
+  "species": "Stříkoun lapavý",
+  "latin": "Toxotes jaculatrix",
+  "text": "Větší jedinci zasáhnou kořist ze vzdálenosti 2 až 3 metrů.",
+  "quote": "Larger specimens may be able to hit prey 2 to 3 metres",
+  "claimed_false_for": {
+   "Q1544489": "Tetra paraguayská (Moenkhausia sanctaefilomenae)",
+   "Q162274": "Trnohřbet obrněný (Enoplosus armatus)",
+   "Q214278": "Střevle potoční (Phoxinus phoxinus)",
+   "Q2165517": "Klipka čtyřoká (Chaetodon capistratus)",
+   "Q2612847": "Chňapálek vysokotělý (Caesio cuning)",
+   "Q2688707": "Klipka rudoskvrnná (Chaetodon paucifasciatus)",
+   "Q3541": "Skalára vysoká (Pterophyllum altum)",
+   "Q654583": "Ostroretka stěhovavá (Chondrostoma nasus)",
+   "Q76098": "Amur bílý (Ctenopharyngodon idella)"
+  }
+ },
+ {
+  "id": "Q1522625#x3",
+  "species": "Stříkoun lapavý",
+  "latin": "Toxotes jaculatrix",
+  "text": "Skáče z vody a chytá kořist z nízko visících větví.",
+  "quote": "capture prey by jumping out of the water and seizing it from low overhanging branches",
+  "claimed_false_for": {
+   "Q1544489": "Tetra paraguayská (Moenkhausia sanctaefilomenae)",
+   "Q162274": "Trnohřbet obrněný (Enoplosus armatus)",
+   "Q214278": "Střevle potoční (Phoxinus phoxinus)",
+   "Q2165517": "Klipka čtyřoká (Chaetodon capistratus)",
+   "Q2612847": "Chňapálek vysokotělý (Caesio cuning)",
+   "Q2688707": "Klipka rudoskvrnná (Chaetodon paucifasciatus)",
+   "Q3541": "Skalára vysoká (Pterophyllum altum)",
+   "Q654583": "Ostroretka stěhovavá (Chondrostoma nasus)",
+   "Q76098": "Amur bílý (Ctenopharyngodon idella)"
+  }
+ },
+ {
+  "id": "Q1522625#x4",
+  "species": "Stříkoun lapavý",
+  "latin": "Toxotes jaculatrix",
+  "text": "Mláďata tvoří malá hejna, ve kterých se učí mířit.",
+  "quote": "Young archerfish form small schools while learning aim",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q1522625#x5",
+  "species": "Stříkoun lapavý",
+  "latin": "Toxotes jaculatrix",
+  "text": "Hlavním prostředím jsou mangrovová ústí řek.",
+  "quote": "Mangrove estuaries are its primary habitat",
+  "claimed_false_for": {
+   "Q1544489": "Tetra paraguayská (Moenkhausia sanctaefilomenae)",
+   "Q214278": "Střevle potoční (Phoxinus phoxinus)",
+   "Q2165517": "Klipka čtyřoká (Chaetodon capistratus)",
+   "Q2612847": "Chňapálek vysokotělý (Caesio cuning)",
+   "Q2688707": "Klipka rudoskvrnná (Chaetodon paucifasciatus)",
+   "Q3541": "Skalára vysoká (Pterophyllum altum)",
+   "Q654583": "Ostroretka stěhovavá (Chondrostoma nasus)",
+   "Q76098": "Amur bílý (Ctenopharyngodon idella)"
+  }
+ },
+ {
+  "id": "Q1543756#0",
+  "species": "Muréna šedá",
+  "latin": "Gymnothorax griseus",
+  "text": "Dorůstá až 65 cm.",
+  "quote": "Dosahuje velikosti až 65 cm.",
+  "claimed_false_for": {
+   "Q2156896": "Hadař příčnopruhý (Myrichthys colubrinus)",
+   "Q2530772": "Jehlice obecná (Ablennes hians)",
+   "Q2561751": "Hadař mramorovaný (Callechelys marmorata)",
+   "Q28532237": "Kýlnatka tamilská (Laubuka dadiburjori)",
+   "Q376480": "Jeseter jadranský (Acipenser naccarii)",
+   "Q387352": "Lezec obojživelný (Periophthalmus barbarus)",
+   "Q475211": "Losos keta (Oncorhynchus keta)",
+   "Q592876": "Jeseter bílý (Acipenser transmontanus)",
+   "Q673380": "Losos gorbuša (Oncorhynchus gorbuscha)",
+   "Q76115": "Tolstolobik bílý (Hypophthalmichthys molitrix)",
+   "Q833503": "Losos čavyča (Oncorhynchus tshawytscha)",
+   "Q846857": "Jeseter hladký (Acipenser nudiventris)"
+  }
+ },
+ {
+  "id": "Q1543756#1",
+  "species": "Muréna šedá",
+  "latin": "Gymnothorax griseus",
+  "text": "Ukrývá se v dírách v korálových útesech.",
+  "quote": "využívá skrýší v korálových útesech, zalézá do děr",
+  "claimed_false_for": {
+   "Q28532237": "Kýlnatka tamilská (Laubuka dadiburjori)",
+   "Q376480": "Jeseter jadranský (Acipenser naccarii)",
+   "Q475211": "Losos keta (Oncorhynchus keta)",
+   "Q592876": "Jeseter bílý (Acipenser transmontanus)",
+   "Q673380": "Losos gorbuša (Oncorhynchus gorbuscha)",
+   "Q76115": "Tolstolobik bílý (Hypophthalmichthys molitrix)",
+   "Q833503": "Losos čavyča (Oncorhynchus tshawytscha)",
+   "Q846857": "Jeseter hladký (Acipenser nudiventris)"
+  }
+ },
+ {
+  "id": "Q1544489#0",
+  "species": "Tetra paraguayská",
+  "latin": "Moenkhausia sanctaefilomenae",
+  "text": "Dorůstá do délky až 7 cm.",
+  "quote": "Dorůstá délky až 7 cm",
+  "claimed_false_for": {
+   "Q1049325": "Rozedranec skvrnoploutvý (Antennatus nummifer)",
+   "Q1135526": "Platýs limanda (Limanda limanda)",
+   "Q1577680": "Anténovec vláknovitý (Brachyplatystoma filamentosum)",
+   "Q2131058": "Ropušnička kolébavá (Ablabys taenianotus)",
+   "Q27336": "Slimule živorodá (Zoarces viviparus)",
+   "Q387344": "Keříčkovec červenolemý (Clarias gariepinus)",
+   "Q458204": "Paropušnice proměnlivá (Pteroidichthys amboinensis)",
+   "Q652129": "Perutýn paprsčitý (Pterois radiata)",
+   "Q913943": "Čtverzubec stříbropásý (Lagocephalus sceleratus)",
+   "Q965336": "Pancéřníček Sterbův (Corydoras sterbai)"
+  }
+ }
+]

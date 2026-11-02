@@ -325,8 +325,8 @@ def extra_members(slug):
     if slug == "vyhynula_zvirata":
         fossil, extinct = EXTINCT.split()
         candidates = set()
-        for condition in (f"?s wdt:P31 wd:{fossil}.", f"?s wdt:P141 wd:{extinct}."):  # dohromady dotaz vyprší
-            rows = sparql(f"""SELECT DISTINCT ?s WHERE {{ hint:Query hint:optimizer "None". {article} {condition} }}""")
+        for condition in (f"?s wdt:P31 wd:{fossil}.", f"?s wdt:P141 wd:{extinct}."):  # dohromady nebo od článků dotaz vyprší
+            rows = sparql(f"SELECT DISTINCT ?s WHERE {{ {condition} {article} }}")
             candidates |= {r["s"]["value"].rsplit("/", 1)[1] for r in rows}
         candidates = sorted(candidates)
         animals = {r["s"]["value"].rsplit("/", 1)[1] for r in sparql_by_species(candidates, lambda v: f"SELECT ?s WHERE {{ VALUES ?s {{ {v} }} ?s wdt:P171+ wd:Q729 }}")}

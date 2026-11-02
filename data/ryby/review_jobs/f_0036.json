@@ -1,0 +1,321 @@
+[
+ {
+  "id": "Q842956#0",
+  "species": "Kranas obecný",
+  "latin": "Trachurus trachurus",
+  "text": "Tento druh se dožívá až 40 let.",
+  "quote": "Atlantiku byl zaznamenán věk 40 let",
+  "claimed_false_for": {
+   "Q1090773": "Bojovnice smaragdová (Betta smaragdina)"
+  }
+ },
+ {
+  "id": "Q861586#1",
+  "species": "Krásnotělka modrooká",
+  "latin": "Priapella intermedia",
+  "text": "Samice rodí 5 až 20 mláďat, která hned loví potravu.",
+  "quote": "Samice rodí 5–20 mláďat velikosti 7 mm, které ihned loví potravu.",
+  "claimed_false_for": {
+   "Q93675": "Štika americká (Esox americanus)"
+  }
+ },
+ {
+  "id": "Q861586#2",
+  "species": "Krásnotělka modrooká",
+  "latin": "Priapella intermedia",
+  "text": "Loví hmyz, který letí blízko hladiny.",
+  "quote": "Zdržuje se poblíž hladiny, kde loví hmyz skokem z vody, který letí blízko k povrchu.",
+  "claimed_false_for": {
+   "Q1265801": "Mořan světlopruhý (Diplodus annularis)",
+   "Q1955023": "Pražman rifový (Calamus nodosus)",
+   "Q214415": "Tuňák obecný (Thunnus thynnus)",
+   "Q744000": "Nebehled obecný (Uranoscopus scaber)",
+   "Q900868": "Bodlok žlutý (Zebrasoma flavescens)",
+   "Q910363": "Pelamida obecná (Sarda sarda)",
+   "Q941448": "Bičonoš zobanovitý (Zanclus cornutus)",
+   "Q969159": "Pražman duhový (Calamus penna)"
+  }
+ },
+ {
+  "id": "Q863850#x0",
+  "species": "Pancéřníček skvrnitý",
+  "latin": "Corydoras paleatus",
+  "text": "Živí se červy, korýši, hmyzem a rostlinnou potravou.",
+  "quote": "feeds on worms, crustaceans, insects, and plant matter.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q863850#x1",
+  "species": "Pancéřníček skvrnitý",
+  "latin": "Corydoras paleatus",
+  "text": "Vydává zvuky pohybem prsních ploutví.",
+  "quote": "H. paleatum has been known to produce sound; it does this by the abduction of its pectoral fins.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q863850#x2",
+  "species": "Pancéřníček skvrnitý",
+  "latin": "Corydoras paleatus",
+  "text": "Dožívá se až 12 let v ideálních podmínkách.",
+  "quote": "Ils peuvent vivre plus de 10 ans, jusqu'à 12 ans en conditions idéales.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q863850#x3",
+  "species": "Pancéřníček skvrnitý",
+  "latin": "Corydoras paleatus",
+  "text": "Potravu hledá prohrabáváním dna.",
+  "quote": "fouille le sol à la recherche de sa nourriture",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q882644#3",
+  "species": "Sumeček velký",
+  "latin": "Ictalurus furcatus",
+  "text": "Na jaře migruje proti proudu řek do míst, kde se rozmnožuje.",
+  "quote": "V závislosti na teplotě migrují zjara proti proudu do míst, kde se vytírají.",
+  "claimed_false_for": {
+   "Q2131058": "Ropušnička kolébavá (Ablabys taenianotus)",
+   "Q458204": "Paropušnice proměnlivá (Pteroidichthys amboinensis)"
+  }
+ },
+ {
+  "id": "Q882644#5",
+  "species": "Sumeček velký",
+  "latin": "Ictalurus furcatus",
+  "text": "Mimo přirozený areál ohrožuje místní ryby a bezobratlé tím, že je loví.",
+  "quote": "je považován za invazní druh ohrožující místní druhy ryb i bezobratlých predací",
+  "claimed_false_for": {
+   "Q76115": "Tolstolobik bílý (Hypophthalmichthys molitrix)"
+  }
+ },
+ {
+  "id": "Q882668#1",
+  "species": "Marlín modrý",
+  "latin": "Makaira nigricans",
+  "text": "Loví i v temných hlubinách oceánu.",
+  "quote": "Díky schopnosti regulovat teplotu oční sítnice dokáže zachytit kořist i v temných hloubkách oceánu.",
+  "claimed_false_for": {
+   "Q10866107": "Čichavec šedý (Trichopodus trichopterus)",
+   "Q1090773": "Bojovnice smaragdová (Betta smaragdina)",
+   "Q1230573": "Čichavec medový (Trichogaster chuna)",
+   "Q2249706": "Ploskozubec tupohlavý (Chlorurus sordidus)",
+   "Q536224": "Okounek černý (Micropterus dolomieu)",
+   "Q755105": "Okounek pstruhový (Micropterus salmoides)",
+   "Q919271": "Kněžík duhový (Coris julis)"
+  }
+ },
+ {
+  "id": "Q882668#2",
+  "species": "Marlín modrý",
+  "latin": "Makaira nigricans",
+  "text": "Loví menší ryby, například tuňáka pruhovaného nebo pražmu obecnou.",
+  "quote": "Loví menší ryby, jako je tuňák pruhovaný, tuňák nepravý, zlak nachový, pamakrela hadovitá nebo pražma obecná",
+  "claimed_false_for": {
+   "Q10866107": "Čichavec šedý (Trichopodus trichopterus)",
+   "Q1090773": "Bojovnice smaragdová (Betta smaragdina)",
+   "Q1230573": "Čichavec medový (Trichogaster chuna)",
+   "Q2249706": "Ploskozubec tupohlavý (Chlorurus sordidus)",
+   "Q348917": "Koruška americká (Thaleichthys pacificus)",
+   "Q536224": "Okounek černý (Micropterus dolomieu)",
+   "Q755105": "Okounek pstruhový (Micropterus salmoides)",
+   "Q919271": "Kněžík duhový (Coris julis)",
+   "Q93675": "Štika americká (Esox americanus)"
+  }
+ },
+ {
+  "id": "Q900344#0",
+  "species": "Ostnatec velký",
+  "latin": "Trachinus draco",
+  "text": "Žije od mělkých vod až do hloubky 150 metrů.",
+  "quote": "Ostnatec velký se prokazatelně vyskytuje od mělkých vod až do hloubky 150 metrů",
+  "claimed_false_for": {
+   "Q1513246": "Veleparma thajská (Catlocarpio siamensis)",
+   "Q183407": "Cejnek malý (Blicca bjoerkna)",
+   "Q198568": "Ostrucha křivočará (Pelecus cultratus)",
+   "Q2033056": "Plotice Meidingerova (Rutilus meidingeri)",
+   "Q2741221": "Mahsír obří (Tor putitora)",
+   "Q3760715": "Razbora Hengelova (Trigonostigma hengeli)",
+   "Q550170": "Ouklejka pruhovaná (Alburnoides bipunctatus)",
+   "Q637598": "Parmička duhová (Puntius titteya)",
+   "Q908440": "Gara rudohnědá (Garra rufa)"
+  }
+ },
+ {
+  "id": "Q900868#x0",
+  "species": "Bodlok žlutý",
+  "latin": "Zebrasoma flavescens",
+  "text": "Živí se hlavně řasami.",
+  "quote": "It is mainly herbivorous and eats filamentous algae.",
+  "claimed_false_for": {
+   "Q2660517": "Pancéřníček brazilský (Callichthys callichthys)",
+   "Q304256": "Rájovec dlouhoploutvý (Macropodus opercularis)",
+   "Q737579": "Jeseter krátkorypý (Acipenser brevirostrum)",
+   "Q842956": "Kranas obecný (Trachurus trachurus)",
+   "Q847501": "Pomec císařský (Pomacanthus imperator)",
+   "Q919271": "Kněžík duhový (Coris julis)",
+   "Q941448": "Bičonoš zobanovitý (Zanclus cornutus)"
+  }
+ },
+ {
+  "id": "Q900868#x1",
+  "species": "Bodlok žlutý",
+  "latin": "Zebrasoma flavescens",
+  "text": "Čistí mořské želvy od řas na jejich krunýřích.",
+  "quote": "yellow tangs provide cleaner services to marine turtles, by removing algal growth from their shells.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q900868#x2",
+  "species": "Bodlok žlutý",
+  "latin": "Zebrasoma flavescens",
+  "text": "Jeho přirozenými predátory jsou větší ryby, žraloci, krabi a chobotnice.",
+  "quote": "Natural predators include larger fish, sharks, crabs, and octopuses.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q900868#x3",
+  "species": "Bodlok žlutý",
+  "latin": "Zebrasoma flavescens",
+  "text": "V přírodě se dožívá více než 40 let.",
+  "quote": "In the wild, yellow tangs can live for over 40 years.",
+  "claimed_false_for": {
+   "Q128785": "Bodlok běloprsý (Acanthurus leucosternon)",
+   "Q304256": "Rájovec dlouhoploutvý (Macropodus opercularis)"
+  }
+ },
+ {
+  "id": "Q908440#1",
+  "species": "Gara rudohnědá",
+  "latin": "Garra rufa",
+  "text": "Může dorůst až do délky 14 cm.",
+  "quote": "Může dorůst maximální délky 14 cm.",
+  "claimed_false_for": {
+   "Q2156896": "Hadař příčnopruhý (Myrichthys colubrinus)",
+   "Q2530772": "Jehlice obecná (Ablennes hians)",
+   "Q2561751": "Hadař mramorovaný (Callechelys marmorata)",
+   "Q376480": "Jeseter jadranský (Acipenser naccarii)",
+   "Q475211": "Losos keta (Oncorhynchus keta)",
+   "Q592876": "Jeseter bílý (Acipenser transmontanus)",
+   "Q673380": "Losos gorbuša (Oncorhynchus gorbuscha)",
+   "Q76115": "Tolstolobik bílý (Hypophthalmichthys molitrix)",
+   "Q833503": "Losos čavyča (Oncorhynchus tshawytscha)",
+   "Q846857": "Jeseter hladký (Acipenser nudiventris)"
+  }
+ },
+ {
+  "id": "Q917705#0",
+  "species": "Štika muskalunga",
+  "latin": "Esox masquinongy",
+  "text": "Dožívá se až 30 let.",
+  "quote": "Mohou se dožít až 30 let",
+  "claimed_false_for": {
+   "Q93675": "Štika americká (Esox americanus)"
+  }
+ },
+ {
+  "id": "Q922646#1",
+  "species": "Alfaro ostrobřiché",
+  "latin": "Alfaro cultratus",
+  "text": "Samička porodí až 50 mláďat.",
+  "quote": "samička vrhne až 50 mladých",
+  "claimed_false_for": {
+   "Q10866107": "Čichavec šedý (Trichopodus trichopterus)",
+   "Q1090773": "Bojovnice smaragdová (Betta smaragdina)",
+   "Q1230573": "Čichavec medový (Trichogaster chuna)",
+   "Q164327": "Mečoun obecný (Xiphias gladius)",
+   "Q223289": "Lodivod mořský (Naucrates ductor)",
+   "Q2249706": "Ploskozubec tupohlavý (Chlorurus sordidus)",
+   "Q3233228": "Chňapal podélnopruhý (Lutjanus synagris)",
+   "Q348917": "Koruška americká (Thaleichthys pacificus)",
+   "Q461432": "Lufara dravá (Pomatomus saltatrix)",
+   "Q536224": "Okounek černý (Micropterus dolomieu)",
+   "Q755105": "Okounek pstruhový (Micropterus salmoides)",
+   "Q919271": "Kněžík duhový (Coris julis)"
+  }
+ },
+ {
+  "id": "Q93675#0",
+  "species": "Štika americká",
+  "latin": "Esox americanus",
+  "text": "Běžně dosahuje délky kolem 30 cm.",
+  "quote": "Štika americká běžně dosahuje délky těla kolem 30 cm",
+  "claimed_false_for": {
+   "Q491934": "Kaproun obecný (Amia calva)"
+  }
+ },
+ {
+  "id": "Q945616#1",
+  "species": "Rozedranec pihovitý",
+  "latin": "Antennarius coccineus",
+  "text": "Samice kladou jikry do velké vznášející se želatinové hmoty.",
+  "quote": "Samice kladou pelagické jikry do velké vznášející se želatinové hmoty.",
+  "claimed_false_for": {
+   "Q1577680": "Anténovec vláknovitý (Brachyplatystoma filamentosum)",
+   "Q27336": "Slimule živorodá (Zoarces viviparus)",
+   "Q3761965": "Pancéřníček napský (Corydoras napoensis)",
+   "Q387344": "Keříčkovec červenolemý (Clarias gariepinus)",
+   "Q519849": "Tetra černá (Gymnocorymbus ternetzi)",
+   "Q965336": "Pancéřníček Sterbův (Corydoras sterbai)"
+  }
+ },
+ {
+  "id": "Q963321#x0",
+  "species": "Limie černopruhá",
+  "latin": "Limia nigrofasciata",
+  "text": "Živí se výhradně detritem a řasami, živočišnou potravu nepřijímá.",
+  "quote": "feeding exclusively on detritus and algae, taking no animal food items",
+  "claimed_false_for": {
+   "Q1130760": "Jehla mořská (Syngnathus typhle)",
+   "Q133444": "Pangas vláknoploutvý (Pangasius sanitwongsei)",
+   "Q188879": "Losos obecný (Salmo salar)",
+   "Q2006774": "Mečovka horská (Xiphophorus nezahualcoyotl)",
+   "Q265715": "Plata pestrá (Xiphophorus variatus)",
+   "Q3233721": "Mečovka Montezumova (Xiphophorus montezumae)",
+   "Q3768219": "Mečovka trpasličí (Xiphophorus pygmaeus)",
+   "Q550211": "Hlavatka obecná (Hucho hucho)"
+  }
+ },
+ {
+  "id": "Q963321#x1",
+  "species": "Limie černopruhá",
+  "latin": "Limia nigrofasciata",
+  "text": "Samice rodí 15 až 30 živých mláďat.",
+  "quote": "Females deliver 15–30 live young",
+  "claimed_false_for": {
+   "Q133444": "Pangas vláknoploutvý (Pangasius sanitwongsei)",
+   "Q188879": "Losos obecný (Salmo salar)",
+   "Q265715": "Plata pestrá (Xiphophorus variatus)",
+   "Q550211": "Hlavatka obecná (Hucho hucho)"
+  }
+ },
+ {
+  "id": "Q963321#x2",
+  "species": "Limie černopruhá",
+  "latin": "Limia nigrofasciata",
+  "text": "Vyskytuje se pouze v jezeře Miragoâne na Haiti.",
+  "quote": "exclusively inhabits Lake Miragoâne",
+  "claimed_false_for": {
+   "Q1130760": "Jehla mořská (Syngnathus typhle)",
+   "Q133444": "Pangas vláknoploutvý (Pangasius sanitwongsei)",
+   "Q188879": "Losos obecný (Salmo salar)",
+   "Q2006774": "Mečovka horská (Xiphophorus nezahualcoyotl)",
+   "Q244221": "Heterandrie trpasličí (Heterandria formosa)",
+   "Q265715": "Plata pestrá (Xiphophorus variatus)",
+   "Q3233721": "Mečovka Montezumova (Xiphophorus montezumae)",
+   "Q3768219": "Mečovka trpasličí (Xiphophorus pygmaeus)",
+   "Q550211": "Hlavatka obecná (Hucho hucho)",
+   "Q923248": "Živorodka velkoploutvá (Poecilia velifera)"
+  }
+ },
+ {
+  "id": "Q963321#x3",
+  "species": "Limie černopruhá",
+  "latin": "Limia nigrofasciata",
+  "text": "Obvykle tvoří velká hejna.",
+  "quote": "The fish are notably social and usually form large schools.",
+  "claimed_false_for": {
+   "Q550211": "Hlavatka obecná (Hucho hucho)"
+  }
+ }
+]

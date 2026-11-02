@@ -1,0 +1,576 @@
+[
+ {
+  "id": "Q617967#1",
+  "species": "Parmička středomořská",
+  "latin": "Barbus meridionalis",
+  "text": "Žije v horních a středních částech toků s čistou, okysličenou a rychle proudící vodou.",
+  "quote": "Parma středomořská se vyskytuje v horních a středních částech toků s čistou, okysličenou a rychle proudící vodou.",
+  "claimed_false_for": {
+   "Q132895": "Vřeténka pestrá (Callionymus lyra)",
+   "Q1835588": "Chňapálek zlatopruhý (Caesio caerulaurea)",
+   "Q2687823": "Kanic motýlovitý (Caesioperca lepidoptera)",
+   "Q637598": "Parmička duhová (Puntius titteya)"
+  }
+ },
+ {
+  "id": "Q628790#1",
+  "species": "Hadohlavec červený",
+  "latin": "Channa micropeltes",
+  "text": "V bahnitých vodách dokáže dýchat kyslík ze vzduchu.",
+  "quote": "V bahnitých vodách dokáže dýchat atmosférický kyslík.",
+  "claimed_false_for": {
+   "Q1049325": "Rozedranec skvrnoploutvý (Antennatus nummifer)",
+   "Q1135526": "Platýs limanda (Limanda limanda)",
+   "Q2131058": "Ropušnička kolébavá (Ablabys taenianotus)",
+   "Q27336": "Slimule živorodá (Zoarces viviparus)",
+   "Q458204": "Paropušnice proměnlivá (Pteroidichthys amboinensis)",
+   "Q652129": "Perutýn paprsčitý (Pterois radiata)",
+   "Q913943": "Čtverzubec stříbropásý (Lagocephalus sceleratus)"
+  }
+ },
+ {
+  "id": "Q633957#0",
+  "species": "Tuňák pruhovaný",
+  "latin": "Katsuwonus pelamis",
+  "text": "Plave ve velkých hejnech, v nichž může být až 50 000 ryb.",
+  "quote": "Ve velkých hejnech čítajících až 50 000 ryb plave blízko pod hladinou.",
+  "claimed_false_for": {
+   "Q146641": "Candát obecný (Sander lucioperca)",
+   "Q522735": "Kostlín obrovský (Atractosteus spatula)",
+   "Q744000": "Nebehled obecný (Uranoscopus scaber)"
+  }
+ },
+ {
+  "id": "Q637598#x0",
+  "species": "Parmička duhová",
+  "latin": "Puntius titteya",
+  "text": "Tvoří hejna.",
+  "quote": "The cherry barb is a schooling fish",
+  "claimed_false_for": {
+   "Q945616": "Rozedranec pihovitý (Antennarius coccineus)"
+  }
+ },
+ {
+  "id": "Q637598#x1",
+  "species": "Parmička duhová",
+  "latin": "Puntius titteya",
+  "text": "Samice naklade 200 až 300 jiker a rozptýlí je po rostlinách a dně.",
+  "quote": "The female will spawn 200 to 300 eggs and scatter them on plants and the substrate.",
+  "claimed_false_for": {
+   "Q2542507": "Chňapal žlutoploutvý (Lutjanus apodus)",
+   "Q81110": "Kapr obecný (Cyprinus carpio)",
+   "Q945616": "Rozedranec pihovitý (Antennarius coccineus)"
+  }
+ },
+ {
+  "id": "Q637598#x2",
+  "species": "Parmička duhová",
+  "latin": "Puntius titteya",
+  "text": "Dorůstá délky asi 5 centimetrů.",
+  "quote": "It reaches 5 cm (2 in) in length.",
+  "claimed_false_for": {
+   "Q182976": "Plotice obecná (Rutilus rutilus)",
+   "Q183407": "Cejnek malý (Blicca bjoerkna)",
+   "Q200473": "Ouklej obecná (Alburnus alburnus)",
+   "Q2033056": "Plotice Meidingerova (Rutilus meidingeri)",
+   "Q2148124": "Klipka žebrovaná (Chaetodon austriacus)",
+   "Q2542507": "Chňapal žlutoploutvý (Lutjanus apodus)",
+   "Q26821893": "Jelec tloušť (Squalius cephalus)",
+   "Q728408": "Sekavec písečný (Cobitis taenia)",
+   "Q752178": "Blatňák tmavý (Umbra krameri)",
+   "Q81110": "Kapr obecný (Cyprinus carpio)",
+   "Q945616": "Rozedranec pihovitý (Antennarius coccineus)"
+  }
+ },
+ {
+  "id": "Q637598#x3",
+  "species": "Parmička duhová",
+  "latin": "Puntius titteya",
+  "text": "Žije v silně zastíněných, mělkých a klidných vodách.",
+  "quote": "natural habitat is a heavily shaded, shallow, and calm water body",
+  "claimed_false_for": {
+   "Q2148124": "Klipka žebrovaná (Chaetodon austriacus)",
+   "Q2542507": "Chňapal žlutoploutvý (Lutjanus apodus)",
+   "Q945616": "Rozedranec pihovitý (Antennarius coccineus)"
+  }
+ },
+ {
+  "id": "Q673380#0",
+  "species": "Losos gorbuša",
+  "latin": "Oncorhynchus gorbuscha",
+  "text": "Žije převážně v chladných vodách.",
+  "quote": "Žije převážně v chladných vodách v teplotním rozmezí 5,6 až 14,6 °C",
+  "claimed_false_for": {
+   "Q272188": "Mečovka mexická (Xiphophorus hellerii)",
+   "Q963331": "Žirardinka lesklá (Girardinus metallicus)"
+  }
+ },
+ {
+  "id": "Q673380#1",
+  "species": "Losos gorbuša",
+  "latin": "Oncorhynchus gorbuscha",
+  "text": "Nejlépe mu vyhovuje teplota 10,1 °C.",
+  "quote": "za nejlepší teplotu se považuje hodnota 10,1 °C",
+  "claimed_false_for": {
+   "Q272188": "Mečovka mexická (Xiphophorus hellerii)",
+   "Q963331": "Žirardinka lesklá (Girardinus metallicus)"
+  }
+ },
+ {
+  "id": "Q685364#1",
+  "species": "Dánio perlové",
+  "latin": "Danio margaritatus",
+  "text": "Žije v malých a mělkých jezírkách v travnaté krajině.",
+  "quote": "malých a mělkých jezírkách v travnaté krajině",
+  "claimed_false_for": {
+   "Q1049325": "Rozedranec skvrnoploutvý (Antennatus nummifer)",
+   "Q1135526": "Platýs limanda (Limanda limanda)",
+   "Q2131058": "Ropušnička kolébavá (Ablabys taenianotus)",
+   "Q458204": "Paropušnice proměnlivá (Pteroidichthys amboinensis)",
+   "Q652129": "Perutýn paprsčitý (Pterois radiata)",
+   "Q913943": "Čtverzubec stříbropásý (Lagocephalus sceleratus)"
+  }
+ },
+ {
+  "id": "Q7045#x0",
+  "species": "Pilobřich ostnitý",
+  "latin": "Zeus faber",
+  "text": "Živí se hlavně drobnými hejnovými rybami, někdy i hlavonožci a korýši.",
+  "quote": "It primarily eats small schooling fish, though may also feed on cephalopods and crustaceans.",
+  "claimed_false_for": {
+   "Q1142975": "Medaka japonská (Oryzias latipes)",
+   "Q131431": "Neonka obecná (Paracheirodon innesi)",
+   "Q2162265": "Útesník stejnobarvý (Abudefduf concolor)",
+   "Q3764497": "Mečovka Cortezova (Xiphophorus cortezi)",
+   "Q747794": "Piskoř pruhovaný (Misgurnus fossilis)"
+  }
+ },
+ {
+  "id": "Q7045#x1",
+  "species": "Pilobřich ostnitý",
+  "latin": "Zeus faber",
+  "text": "Hlavními predátory jsou žraloci a velké kostnaté ryby.",
+  "quote": "Its main predators are sharks such as the dusky shark, and large bony fish.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q7045#x2",
+  "species": "Pilobřich ostnitý",
+  "latin": "Zeus faber",
+  "text": "Kořist nejdřív vystopuje, pak vysune čelist a nasaje ji.",
+  "quote": "The John Dory catches prey by stalking it, then extending its jaw forward in a tube-like structure to suck prey items in.",
+  "claimed_false_for": {
+   "Q1142975": "Medaka japonská (Oryzias latipes)",
+   "Q131431": "Neonka obecná (Paracheirodon innesi)",
+   "Q3764497": "Mečovka Cortezova (Xiphophorus cortezi)",
+   "Q747794": "Piskoř pruhovaný (Misgurnus fossilis)"
+  }
+ },
+ {
+  "id": "Q7045#x3",
+  "species": "Pilobřich ostnitý",
+  "latin": "Zeus faber",
+  "text": "Skvrna na boku mate kořist.",
+  "quote": "The eye spot on the flanks also confuses prey, which can then be sucked into its mouth.",
+  "claimed_false_for": {
+   "Q1142975": "Medaka japonská (Oryzias latipes)",
+   "Q131431": "Neonka obecná (Paracheirodon innesi)",
+   "Q205015": "Ďas mořský (Lophius piscatorius)",
+   "Q214034": "Platýs bradavičnatý (Platichthys flesus)",
+   "Q747794": "Piskoř pruhovaný (Misgurnus fossilis)"
+  }
+ },
+ {
+  "id": "Q7045#x4",
+  "species": "Pilobřich ostnitý",
+  "latin": "Zeus faber",
+  "text": "Dorůstá až 90 cm a váhy 8 kg.",
+  "quote": "grows to a maximum size of 90 cm (35 in) and a maximum weight of 8 kg (18 lb)",
+  "claimed_false_for": {
+   "Q10866107": "Čichavec šedý (Trichopodus trichopterus)",
+   "Q1090773": "Bojovnice smaragdová (Betta smaragdina)",
+   "Q1142975": "Medaka japonská (Oryzias latipes)",
+   "Q1230573": "Čichavec medový (Trichogaster chuna)",
+   "Q131431": "Neonka obecná (Paracheirodon innesi)",
+   "Q214034": "Platýs bradavičnatý (Platichthys flesus)",
+   "Q2162265": "Útesník stejnobarvý (Abudefduf concolor)",
+   "Q2249706": "Ploskozubec tupohlavý (Chlorurus sordidus)",
+   "Q2330446": "Odranec pravý (السمكة الصخرية المرجانية)",
+   "Q2478695": "Cípal sladkovodní (Agonostomus monticola)",
+   "Q348917": "Koruška americká (Thaleichthys pacificus)",
+   "Q3764497": "Mečovka Cortezova (Xiphophorus cortezi)",
+   "Q458204": "Paropušnice proměnlivá (Pteroidichthys amboinensis)",
+   "Q4889552": "Cichlida ocasooká (Cichla ocellaris)",
+   "Q747794": "Piskoř pruhovaný (Misgurnus fossilis)",
+   "Q919271": "Kněžík duhový (Coris julis)"
+  }
+ },
+ {
+  "id": "Q7045#x5",
+  "species": "Pilobřich ostnitý",
+  "latin": "Zeus faber",
+  "text": "Snáší jikry, které se stávají součástí planktonu.",
+  "quote": "They lay pelagic eggs, which become part of the plankton.",
+  "claimed_false_for": {
+   "Q1142975": "Medaka japonská (Oryzias latipes)",
+   "Q131431": "Neonka obecná (Paracheirodon innesi)",
+   "Q2162265": "Útesník stejnobarvý (Abudefduf concolor)",
+   "Q3764497": "Mečovka Cortezova (Xiphophorus cortezi)",
+   "Q4889552": "Cichlida ocasooká (Cichla ocellaris)",
+   "Q522735": "Kostlín obrovský (Atractosteus spatula)",
+   "Q747794": "Piskoř pruhovaný (Misgurnus fossilis)"
+  }
+ },
+ {
+  "id": "Q723654#4",
+  "species": "Siven americký",
+  "latin": "Salvelinus fontinalis",
+  "text": "Loví i měkkýše, korýše a žáby.",
+  "quote": "v menší míře loví měkkýše, korýše a žáby",
+  "claimed_false_for": {
+   "Q627960": "Lipan podhorní (Thymallus thymallus)"
+  }
+ },
+ {
+  "id": "Q728408#1",
+  "species": "Sekavec písečný",
+  "latin": "Cobitis taenia",
+  "text": "Žije v pomalu tekoucích a mělkých vodách.",
+  "quote": "Žije obvykle v pomalu tekoucích a mělkých vodách",
+  "claimed_false_for": {
+   "Q132895": "Vřeténka pestrá (Callionymus lyra)",
+   "Q1835588": "Chňapálek zlatopruhý (Caesio caerulaurea)",
+   "Q2687823": "Kanic motýlovitý (Caesioperca lepidoptera)",
+   "Q2741221": "Mahsír obří (Tor putitora)",
+   "Q550170": "Ouklejka pruhovaná (Alburnoides bipunctatus)"
+  }
+ },
+ {
+  "id": "Q729207#1",
+  "species": "Parmička čtyřpruhá",
+  "latin": "Puntius tetrazona",
+  "text": "Dorůstá obvykle do 5 až 6 centimetrů.",
+  "quote": "může dorůstat délky asi 5–6 centimetrů, výjimečně až 10 centimetrů",
+  "claimed_false_for": {
+   "Q164327": "Mečoun obecný (Xiphias gladius)",
+   "Q223289": "Lodivod mořský (Naucrates ductor)",
+   "Q2249706": "Ploskozubec tupohlavý (Chlorurus sordidus)",
+   "Q3233228": "Chňapal podélnopruhý (Lutjanus synagris)",
+   "Q348917": "Koruška americká (Thaleichthys pacificus)",
+   "Q461432": "Lufara dravá (Pomatomus saltatrix)",
+   "Q536224": "Okounek černý (Micropterus dolomieu)",
+   "Q755105": "Okounek pstruhový (Micropterus salmoides)",
+   "Q919271": "Kněžík duhový (Coris julis)"
+  }
+ },
+ {
+  "id": "Q737579#1",
+  "species": "Jeseter krátkorypý",
+  "latin": "Acipenser brevirostrum",
+  "text": "Klade vajíčka na horních tocích řek.",
+  "quote": "Vajíčka jsou kladena na horních tocích řek",
+  "claimed_false_for": {
+   "Q164327": "Mečoun obecný (Xiphias gladius)",
+   "Q223289": "Lodivod mořský (Naucrates ductor)",
+   "Q2249706": "Ploskozubec tupohlavý (Chlorurus sordidus)",
+   "Q3233228": "Chňapal podélnopruhý (Lutjanus synagris)",
+   "Q461432": "Lufara dravá (Pomatomus saltatrix)",
+   "Q919271": "Kněžík duhový (Coris julis)"
+  }
+ },
+ {
+  "id": "Q737579#3",
+  "species": "Jeseter krátkorypý",
+  "latin": "Acipenser brevirostrum",
+  "text": "Dnes žije jen na 41 oddělených místech podél východního pobřeží Severní Ameriky.",
+  "quote": "V současnosti se populace těchto jeseterů vyskytuje pouze fragmentovaně na 41 místech podél celého východního pobřeží",
+  "claimed_false_for": {
+   "Q1049325": "Rozedranec skvrnoploutvý (Antennatus nummifer)",
+   "Q1135526": "Platýs limanda (Limanda limanda)",
+   "Q1577680": "Anténovec vláknovitý (Brachyplatystoma filamentosum)",
+   "Q2131058": "Ropušnička kolébavá (Ablabys taenianotus)",
+   "Q27336": "Slimule živorodá (Zoarces viviparus)",
+   "Q3761965": "Pancéřníček napský (Corydoras napoensis)",
+   "Q387344": "Keříčkovec červenolemý (Clarias gariepinus)",
+   "Q458204": "Paropušnice proměnlivá (Pteroidichthys amboinensis)",
+   "Q519849": "Tetra černá (Gymnocorymbus ternetzi)",
+   "Q652129": "Perutýn paprsčitý (Pterois radiata)",
+   "Q913943": "Čtverzubec stříbropásý (Lagocephalus sceleratus)",
+   "Q965336": "Pancéřníček Sterbův (Corydoras sterbai)"
+  }
+ },
+ {
+  "id": "Q741269#0",
+  "species": "Pancéřníček zelený",
+  "latin": "Corydoras aeneus",
+  "text": "Dorůstá až 7 cm a dožívá se až 10 let.",
+  "quote": "Dorůstají velikosti až 7 cm a dožívají se až 10 let.",
+  "claimed_false_for": {
+   "Q1513246": "Veleparma thajská (Catlocarpio siamensis)",
+   "Q183407": "Cejnek malý (Blicca bjoerkna)",
+   "Q1835588": "Chňapálek zlatopruhý (Caesio caerulaurea)",
+   "Q198568": "Ostrucha křivočará (Pelecus cultratus)",
+   "Q2033056": "Plotice Meidingerova (Rutilus meidingeri)",
+   "Q2687823": "Kanic motýlovitý (Caesioperca lepidoptera)",
+   "Q2741221": "Mahsír obří (Tor putitora)",
+   "Q550170": "Ouklejka pruhovaná (Alburnoides bipunctatus)",
+   "Q908440": "Gara rudohnědá (Garra rufa)"
+  }
+ },
+ {
+  "id": "Q741269#2",
+  "species": "Pancéřníček zelený",
+  "latin": "Corydoras aeneus",
+  "text": "Tento druh je všežravec a sbírá potravu hlavně ze dna.",
+  "quote": "Jsou to všežravci a potravu sbírají hlavně ze dna.",
+  "claimed_false_for": {
+   "Q1049325": "Rozedranec skvrnoploutvý (Antennatus nummifer)",
+   "Q1577680": "Anténovec vláknovitý (Brachyplatystoma filamentosum)",
+   "Q164327": "Mečoun obecný (Xiphias gladius)",
+   "Q2249706": "Ploskozubec tupohlavý (Chlorurus sordidus)",
+   "Q3233228": "Chňapal podélnopruhý (Lutjanus synagris)",
+   "Q461432": "Lufara dravá (Pomatomus saltatrix)",
+   "Q536224": "Okounek černý (Micropterus dolomieu)",
+   "Q652129": "Perutýn paprsčitý (Pterois radiata)",
+   "Q755105": "Okounek pstruhový (Micropterus salmoides)"
+  }
+ },
+ {
+  "id": "Q754450#0",
+  "species": "Hlaváč černý",
+  "latin": "Gobius niger",
+  "text": "Dorůstá nejvýš do 18 centimetrů.",
+  "quote": "Dorůstá maximální délky 18 cm (TL)",
+  "claimed_false_for": {
+   "Q164327": "Mečoun obecný (Xiphias gladius)",
+   "Q223289": "Lodivod mořský (Naucrates ductor)",
+   "Q2249706": "Ploskozubec tupohlavý (Chlorurus sordidus)",
+   "Q3233228": "Chňapal podélnopruhý (Lutjanus synagris)",
+   "Q348917": "Koruška americká (Thaleichthys pacificus)",
+   "Q461432": "Lufara dravá (Pomatomus saltatrix)",
+   "Q536224": "Okounek černý (Micropterus dolomieu)",
+   "Q755105": "Okounek pstruhový (Micropterus salmoides)",
+   "Q919271": "Kněžík duhový (Coris julis)"
+  }
+ },
+ {
+  "id": "Q755105#x0",
+  "species": "Okounek pstruhový",
+  "latin": "Micropterus salmoides",
+  "text": "Samec hlídá hnízdo, dokud se nevylíhnou vajíčka.",
+  "quote": "The male will then guard the nest until the eggs hatch",
+  "claimed_false_for": {
+   "Q1130118": "Očnatec obecný (Sarpa salpa)",
+   "Q1140081": "Úhoř japonský (Anguilla japonica)",
+   "Q627960": "Lipan podhorní (Thymallus thymallus)",
+   "Q694527": "Plachetník širokoploutvý (Istiophorus platypterus)",
+   "Q882668": "Marlín modrý (Makaira nigricans)"
+  }
+ },
+ {
+  "id": "Q755105#x1",
+  "species": "Okounek pstruhový",
+  "latin": "Micropterus salmoides",
+  "text": "V přírodě se dožívá průměrně 10 až 16 let.",
+  "quote": "They have an average lifespan of 10 to 16 years in the wild.",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q755105#x2",
+  "species": "Okounek pstruhový",
+  "latin": "Micropterus salmoides",
+  "text": "Mláďata jsou kořistí volavek, štik a úhořů.",
+  "quote": "young, including great blue herons, larger bass, northern pike, walleye, muskellunge, yellow perch, channel catfish, northern water snakes, crappie, common carp, and American eels",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q755105#x3",
+  "species": "Okounek pstruhový",
+  "latin": "Micropterus salmoides",
+  "text": "Dospělí jedinci jsou obvykle vrcholoví predátoři ve svém prostředí.",
+  "quote": "Adult largemouth are generally apex predators within their habitat",
+  "claimed_false_for": {
+   "Q10866107": "Čichavec šedý (Trichopodus trichopterus)",
+   "Q1130118": "Očnatec obecný (Sarpa salpa)",
+   "Q1139189": "Ostenec oranžovoproužkatý (Balistapus undulatus)",
+   "Q311170": "Tlamoun nilský (Oreochromis niloticus)",
+   "Q627960": "Lipan podhorní (Thymallus thymallus)",
+   "Q826713": "Slunečnice pestrá (Lepomis gibbosus)"
+  }
+ },
+ {
+  "id": "Q755105#x4",
+  "species": "Okounek pstruhový",
+  "latin": "Micropterus salmoides",
+  "text": "Dospělí se živí menšími rybami, červy, šneky, žábami a hady.",
+  "quote": "Adults consume smaller fish (bluegill, banded killifish, minnows, juvenile bass), shad, worms, snails,",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q755105#x5",
+  "species": "Okounek pstruhový",
+  "latin": "Micropterus salmoides",
+  "text": "Největší zaznamenaná délka dosahuje 75 cm.",
+  "quote": "with a maximum recorded length of 29.5 inches (75 cm)",
+  "claimed_false_for": {
+   "Q10866107": "Čichavec šedý (Trichopodus trichopterus)",
+   "Q1130118": "Očnatec obecný (Sarpa salpa)",
+   "Q1139189": "Ostenec oranžovoproužkatý (Balistapus undulatus)",
+   "Q311170": "Tlamoun nilský (Oreochromis niloticus)",
+   "Q627960": "Lipan podhorní (Thymallus thymallus)",
+   "Q826713": "Slunečnice pestrá (Lepomis gibbosus)"
+  }
+ },
+ {
+  "id": "Q756771#0",
+  "species": "Jeseter sibiřský",
+  "latin": "Acipenser baerii",
+  "text": "Dorůstá do délky 2 až 2,5 metru.",
+  "quote": "Dorůstá maximální délky 200 až 250 cm a hmotnosti 100 až 200 kg.",
+  "claimed_false_for": {
+   "Q1049325": "Rozedranec skvrnoploutvý (Antennatus nummifer)",
+   "Q1135526": "Platýs limanda (Limanda limanda)",
+   "Q2131058": "Ropušnička kolébavá (Ablabys taenianotus)",
+   "Q27336": "Slimule živorodá (Zoarces viviparus)",
+   "Q3761965": "Pancéřníček napský (Corydoras napoensis)",
+   "Q387344": "Keříčkovec červenolemý (Clarias gariepinus)",
+   "Q458204": "Paropušnice proměnlivá (Pteroidichthys amboinensis)",
+   "Q519849": "Tetra černá (Gymnocorymbus ternetzi)",
+   "Q652129": "Perutýn paprsčitý (Pterois radiata)",
+   "Q913943": "Čtverzubec stříbropásý (Lagocephalus sceleratus)",
+   "Q965336": "Pancéřníček Sterbův (Corydoras sterbai)"
+  }
+ },
+ {
+  "id": "Q76098#2",
+  "species": "Amur bílý",
+  "latin": "Ctenopharyngodon idella",
+  "text": "Živí se převážně vodními rostlinami a vláknitými řasami.",
+  "quote": "Později postupně přechází na rostlinnou stravu, kterou tvoří převážně vodní rostliny a vláknité řasy.",
+  "claimed_false_for": {
+   "Q2156896": "Hadař příčnopruhý (Myrichthys colubrinus)",
+   "Q2530772": "Jehlice obecná (Ablennes hians)",
+   "Q2561751": "Hadař mramorovaný (Callechelys marmorata)",
+   "Q376480": "Jeseter jadranský (Acipenser naccarii)",
+   "Q387352": "Lezec obojživelný (Periophthalmus barbarus)",
+   "Q475211": "Losos keta (Oncorhynchus keta)",
+   "Q592876": "Jeseter bílý (Acipenser transmontanus)",
+   "Q673380": "Losos gorbuša (Oncorhynchus gorbuscha)",
+   "Q833503": "Losos čavyča (Oncorhynchus tshawytscha)",
+   "Q846857": "Jeseter hladký (Acipenser nudiventris)"
+  }
+ },
+ {
+  "id": "Q76115#x0",
+  "species": "Tolstolobik bílý",
+  "latin": "Hypophthalmichthys molitrix",
+  "text": "Živí se filtrováním planktonu z vody.",
+  "quote": "is a filter feeder",
+  "claimed_false_for": {
+   "Q2148124": "Klipka žebrovaná (Chaetodon austriacus)",
+   "Q2542507": "Chňapal žlutoploutvý (Lutjanus apodus)",
+   "Q728408": "Sekavec písečný (Cobitis taenia)",
+   "Q752178": "Blatňák tmavý (Umbra krameri)",
+   "Q945616": "Rozedranec pihovitý (Antennarius coccineus)"
+  }
+ },
+ {
+  "id": "Q76115#x1",
+  "species": "Tolstolobik bílý",
+  "latin": "Hypophthalmichthys molitrix",
+  "text": "Nemá žaludek.",
+  "quote": "have no stomachs",
+  "claimed_false_for": {
+   "Q2148124": "Klipka žebrovaná (Chaetodon austriacus)",
+   "Q2542507": "Chňapal žlutoploutvý (Lutjanus apodus)",
+   "Q752178": "Blatňák tmavý (Umbra krameri)",
+   "Q945616": "Rozedranec pihovitý (Antennarius coccineus)"
+  }
+ },
+ {
+  "id": "Q76115#x2",
+  "species": "Tolstolobik bílý",
+  "latin": "Hypophthalmichthys molitrix",
+  "text": "Při vyplašení vyskakuje z vody až do výšky 3 metrů.",
+  "quote": "it can leap up to 10 ft (3.0 m) into the air",
+  "claimed_false_for": {
+   "Q2148124": "Klipka žebrovaná (Chaetodon austriacus)",
+   "Q728408": "Sekavec písečný (Cobitis taenia)",
+   "Q752178": "Blatňák tmavý (Umbra krameri)",
+   "Q945616": "Rozedranec pihovitý (Antennarius coccineus)"
+  }
+ },
+ {
+  "id": "Q76115#x3",
+  "species": "Tolstolobik bílý",
+  "latin": "Hypophthalmichthys molitrix",
+  "text": "Tam, kam byl zavlečen, soutěží o potravu s původními rybami živícími se planktonem.",
+  "quote": "it is thought to compete with native planktivorous fishes",
+  "claimed_false_for": {}
+ },
+ {
+  "id": "Q76115#x5",
+  "species": "Tolstolobik bílý",
+  "latin": "Hypophthalmichthys molitrix",
+  "text": "Ve své původní oblasti migruje proti proudu řeky k tření.",
+  "quote": "migrate upstream for spawning",
+  "claimed_false_for": {
+   "Q2148124": "Klipka žebrovaná (Chaetodon austriacus)",
+   "Q2542507": "Chňapal žlutoploutvý (Lutjanus apodus)",
+   "Q728408": "Sekavec písečný (Cobitis taenia)",
+   "Q752178": "Blatňák tmavý (Umbra krameri)",
+   "Q945616": "Rozedranec pihovitý (Antennarius coccineus)"
+  }
+ },
+ {
+  "id": "Q798246#2",
+  "species": "Mihule potoční",
+  "latin": "Lampetra planeri",
+  "text": "Žije několik let v měkkém dně, než dospěje.",
+  "quote": "které se ihned zavrtávají do měkkého říčního dna, kde stráví několik let v larválním stadiu",
+  "claimed_false_for": {
+   "Q1265801": "Mořan světlopruhý (Diplodus annularis)",
+   "Q1955023": "Pražman rifový (Calamus nodosus)",
+   "Q2067460": "Panchax prstencový (Epiplatys annulatus)",
+   "Q214415": "Tuňák obecný (Thunnus thynnus)",
+   "Q3757835": "Limie modrá (Limia tridens)",
+   "Q3768219": "Mečovka trpasličí (Xiphophorus pygmaeus)",
+   "Q744000": "Nebehled obecný (Uranoscopus scaber)",
+   "Q900868": "Bodlok žlutý (Zebrasoma flavescens)",
+   "Q910363": "Pelamida obecná (Sarda sarda)",
+   "Q922646": "Alfaro ostrobřiché (Alfaro cultratus)",
+   "Q941448": "Bičonoš zobanovitý (Zanclus cornutus)",
+   "Q969159": "Pražman duhový (Calamus penna)"
+  }
+ },
+ {
+  "id": "Q827142#0",
+  "species": "Veslonos americký",
+  "latin": "Polyodon spathula",
+  "text": "Živí se zejména zooplanktonem.",
+  "quote": "Živí se zejména zooplanktonem, ale žere i korýše a mlže.",
+  "claimed_false_for": {
+   "Q300955": "Jeseter velký (Acipenser sturio)"
+  }
+ },
+ {
+  "id": "Q842647#0",
+  "species": "Mořčák pruhovaný",
+  "latin": "Morone saxatilis",
+  "text": "Žije v mořské vodě, ale k rozmnožování připlouvá do sladké vody.",
+  "quote": "žije v mořské vodě, ale na rozmnožování pluje do sladké vody.",
+  "claimed_false_for": {
+   "Q1049325": "Rozedranec skvrnoploutvý (Antennatus nummifer)",
+   "Q1135526": "Platýs limanda (Limanda limanda)",
+   "Q2131058": "Ropušnička kolébavá (Ablabys taenianotus)",
+   "Q27336": "Slimule živorodá (Zoarces viviparus)",
+   "Q3761965": "Pancéřníček napský (Corydoras napoensis)",
+   "Q387344": "Keříčkovec červenolemý (Clarias gariepinus)",
+   "Q458204": "Paropušnice proměnlivá (Pteroidichthys amboinensis)",
+   "Q519849": "Tetra černá (Gymnocorymbus ternetzi)",
+   "Q652129": "Perutýn paprsčitý (Pterois radiata)",
+   "Q913943": "Čtverzubec stříbropásý (Lagocephalus sceleratus)",
+   "Q965336": "Pancéřníček Sterbův (Corydoras sterbai)"
+  }
+ }
+]

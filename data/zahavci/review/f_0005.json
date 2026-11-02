@@ -1,0 +1,19 @@
+{"drop_facts": [
+ {"id": "Q2470250#x3", "why": "vynechává 'mírné' pálení, 'Její' bez jasného podmětu, část 'vážně neublíží' platí i pro jiné druhy"},
+ {"id": "Q445245#x0", "why": "sporné: světélkování korunovky je modré, červené záblesky a dorozumívání nejsou ověřené"},
+ {"id": "Q445245#x1", "why": "odborné názvy (křídlonožci, obunožci) nesrozumitelné pro děti; 'hlavně' z jediné studie"},
+ {"id": "Q445245#x3", "why": "mění horní mez 'as deep as 150 m' na typickou hodnotu; údaj z jednoho fjordu"},
+ {"id": "Q445245#x4", "why": "sporný superlativ, největší vajíčka ze všech žahavců není spolehlivě ověřeno"},
+ {"id": "Q580826#x0", "why": "'matky' zavádějící: mláďata v těle nosí i samci, rozmnožování je zčásti nepohlavní"}
+],
+"drop_pairs": [
+ {"id": "Q1192350#1", "species": "Q445245"},
+ {"id": "Q445245#x2", "species": "Q1192350"},
+ {"id": "Q445245#x2", "species": "Q1888438"},
+ {"id": "Q445245#x2", "species": "Q522939"},
+ {"id": "Q445245#x2", "species": "Q935234"},
+ {"id": "Q580826#x5", "species": "Q1888438"},
+ {"id": "Q580826#x5", "species": "Q2470250"},
+ {"id": "Q580826#x5", "species": "Q384085"},
+ {"id": "Q580826#x5", "species": "Q935234"}
+]}
