@@ -25,21 +25,27 @@ assert(window.Quiz.isDull({ text: "Kvete od června do srpna." }) && !window.Qui
   }
   const mammals = classes.find((c) => c.slug === "savci");
   assert(window.Quiz.atLevel([mammals], "advanced")[0].species.some((s) => s.order === "letouni"), "pokročilý zná i netopýry");
-  const europe = window.Quiz.inContinents([mammals], new Set(["EU"]));
+  const europe = window.Quiz.inRegions([mammals], "EU");
   assert(window.Quiz.atLevel(europe, "beginner")[0].species.some((s) => s.order === "letouni"), "začátečník v Evropě zná netopýra");
+  const czech = window.Quiz.atLevel(window.Quiz.inRegions([mammals], "CZ"), "beginner")[0].species.map((s) => s.name);
+  assert(czech.includes("Liška obecná") && !czech.includes("Medvěd lední"), "v Česku jen druhy, které tu žijí");
+  for (const kingdom of ["zivocichove", "rostliny", "houby"]) {
+    const here = window.Quiz.atLevel(window.Quiz.inRegions(classes.filter((c) => c.kingdom === kingdom), "CZ"), "beginner");
+    assert(window.Quiz.makeQuestion(here, { level: "beginner" }), `${kingdom}: v Česku jde hrát i na začátečníka`);
+  }
   const europeNames = new Set(window.Quiz.atLevel(europe, "beginner")[0].species.map((s) => s.name));
   assert(europeNames.has("Veverka obecná") && europeNames.has("Liška obecná") && !europeNames.has("Myš domácí"), "v Evropě mají přednost evropské druhy");
-  const world = window.Quiz.inContinents(classes, new Set(["EU", "AS", "AF", "NA", "SA", "AN", "OC"]));
+  const world = window.Quiz.inRegions(classes, window.Quiz.WORLD);
   for (const [i, c] of classes.entries()) {
     const ids = (cls) => window.Quiz.atLevel([cls], "beginner")[0].species.map((s) => s.id).join();
     assert.strictEqual(ids(world[i]), ids(c), `${c.slug}: celý svět je beze změny`);
   }
   assert(classes.find((c) => c.slug === "mekkysi").species.filter((s) => s.clade === "mlži").every((s) => s.emoji === "🦪"), "všichni mlži mají 🦪");
   for (const level of ["beginner", "advanced", "expert"]) {
-    const here = window.Quiz.atLevel(window.Quiz.inContinents(classes.filter((c) => c.kingdom === "zivocichove"), new Set(["AF"])), level);
+    const here = window.Quiz.atLevel(window.Quiz.inRegions(classes.filter((c) => c.kingdom === "zivocichove"), "AF"), level);
     for (let i = 0; i < 500; i++) {
       const q = window.Quiz.makeQuestion(here, { level });
-      for (const o of q.options) assert(!o.species || o.species.egg || o.species.continents.includes("AF"), `${level}: ${o.species && o.species.name} není z vybraného kontinentu`);
+      for (const o of q.options) assert(!o.species || o.species.egg || o.species.regions.includes("AF"), `${level}: ${o.species && o.species.name} není z vybrané oblasti`);
     }
   }
   const promptsOf = (slug) => new Set(Array.from({ length: 300 }, () => window.Quiz.makeQuestion([classes.find((c) => c.slug === slug)]).prompt));
@@ -50,7 +56,7 @@ assert(window.Quiz.isDull({ text: "Kvete od června do srpna." }) && !window.Qui
   const amphibians = [classes.find((c) => c.slug === "obojzivelnici")];
   const frogs = Array.from({ length: 3000 }, () => window.Quiz.makeQuestion(amphibians).target.order === "žáby").filter(Boolean).length;
   assert(frogs < 2000, `žáby nevytlačí ostatní obojživelníky (${frogs} z 3000)`);
-  const sharks = window.Quiz.inContinents([classes.find((c) => c.slug === "paryby")], new Set(["EU"]));
+  const sharks = window.Quiz.inRegions([classes.find((c) => c.slug === "paryby")], "EU");
   assert(window.Quiz.atLevel(sharks, "beginner")[0].species.some((s) => s.clade === "rejnoci"), "začátečník v Evropě zná i rejnoka");
   for (const c of classes) {
     const limit = Math.max(8, Math.ceil(c.species.length * (c.kingdom === "houby" ? 0.06 : 0.03)));
@@ -171,14 +177,15 @@ for (const kingdom of ["zivocichove", "rostliny", "houby"]) {
 }
 for (const cls of classes) {
   assert(cls.species.every((s) => s.latin), "každý druh má latinský název");
-  assert(cls.species.every((s) => s.continents.length), "každý druh má kontinent");
-  for (const code of ["EU", "AF", "OC"]) {
-    const narrowed = window.Quiz.inContinents([cls], new Set([code]));
+  assert(cls.species.every((s) => s.regions.length), "každý druh má geo region");
+  assert(cls.species.every((s) => !s.regions.includes("CZ") || s.regions.includes("EU")), "Česko je část Evropy");
+  for (const code of ["EU", "CZ", "AF", "OC"]) {
+    const narrowed = window.Quiz.inRegions([cls], code);
     for (let i = 0; i < 500; i++) {
       const q = window.Quiz.makeQuestion(narrowed);
       if (!q) break;
       const shown = [q.target, ...q.options.map((o) => o.species).filter(Boolean)];
-      assert(shown.every((s) => s.continents.includes(code)), "otázka obsahuje jen druhy z vybraného kontinentu");
+      assert(shown.every((s) => s.regions.includes(code)), "otázka obsahuje jen druhy z vybraného kontinentu");
     }
   }
   const urls = cls.species.flatMap((s) => s.photos.map((p) => p.url));

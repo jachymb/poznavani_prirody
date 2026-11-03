@@ -21,8 +21,8 @@
   button:focus-visible, a:focus-visible { outline: 3px solid var(--sun); outline-offset: 2px; }
   .lead { color: var(--soft); font-size: 20px; }
 
-  .continents { border: 0; margin: 20px 0 0; padding: 14px; background: var(--card); border-radius: 22px; min-width: 0; }
-  .continents legend { float: left; width: 100%; padding: 0; margin-bottom: 8px; font-weight: 700; }
+  .regions { border: 0; margin: 20px 0 0; padding: 14px; background: var(--card); border-radius: 22px; min-width: 0; }
+  .regions legend { float: left; width: 100%; padding: 0; margin-bottom: 8px; font-weight: 700; }
   .world { display: block; clear: both; width: 100%; height: auto; }
   .world path { fill: var(--land); stroke: var(--land); stroke-width: 1; cursor: pointer; }
   .world path:hover { filter: brightness(1.12); }
@@ -168,8 +168,11 @@
   ];
   // Zvláštní skupiny jen ve výběru jedné skupiny: jejich druhy se do žádné říše nepočítají.
   const EXTRA = { id: "extra", label: "Extra", icon: "✨" };
-  const CONTINENTS = [
+  // Geo regiony: celý svět, kontinenty a Česko jako část Evropy (na mapě zvětšené, aby se na něj dalo kliknout).
+  const WORLD = { code: window.Quiz.WORLD, name: "🌍 Celý svět" };
+  const REGIONS = [
     { code: "EU", name: "Evropa", color: "#3f7fb5" },
+    { code: "CZ", name: "Česko", color: "#c8463c", within: "EU" },
     { code: "AS", name: "Asie", color: "#d9822b" },
     { code: "AF", name: "Afrika", color: "#c4a21f" },
     { code: "NA", name: "Severní Amerika", color: "#3f9652" },
@@ -219,7 +222,7 @@
     else icon.textContent = GROUP_ICONS[slug] || "";
     return icon;
   }
-  const selected = new Set(CONTINENTS.map((c) => c.code));
+  let region = WORLD.code;
   const app = document.getElementById("app");
   const scrollBehavior = () => (window.matchMedia("(prefers-reduced-motion: reduce)").matches ? "auto" : "smooth");
   const MAX_PHOTO_FAILURES = 3;
@@ -231,8 +234,7 @@
     advanced: ["Pokročilý", "známé druhy, možnosti z příbuzných skupin"],
     expert: ["Znalec", "všechny druhy, možnosti z blízkých příbuzných"],
   };
-  const continentNames = (codes) => (codes.length === CONTINENTS.length ? "celý svět"
-    : CONTINENTS.filter((c) => codes.includes(c.code)).map((c) => c.name).join(", "));
+  const regionName = (code) => (code === WORLD.code ? "celý svět" : REGIONS.find((r) => r.code === code).name);
 
   function el(tag, props = {}, ...children) {
     const node = document.createElement(tag);
@@ -247,7 +249,7 @@
 
   function classesOf(kingdom) {
     const all = (window.GAME_DATA || []).filter((c) => c.kingdom === kingdom);
-    const here = window.Quiz.inContinents(all, selected);
+    const here = window.Quiz.inRegions(all, region);
     return window.Quiz.atLevel(here, level).filter((c) => c.species.length);
   }
 
@@ -260,7 +262,7 @@
     return el("button", { class: "kingdom", disabled: !playable, onclick: () => startGame(k) },
       el("span", { class: "icon" }, k.icon),
       k.label,
-      el("small", {}, playable ? `${names} · ${count} druhů` : hasData ? "Na vybraných kontinentech málo druhů" : "Už brzy"));
+      el("small", {}, playable ? `${names} · ${count} druhů` : hasData ? "Ve vybrané oblasti málo druhů" : "Už brzy"));
   }
 
   const GROUP_WARNINGS = {
@@ -292,48 +294,45 @@
   }
 
   // Mapa je pro myš a dotyk; pro klávesnici a čtečky slouží zaškrtávací políčka pod ní.
-  function continentPicker(onChange) {
+  function regionPicker(onChange) {
     const { width, height, paths } = window.WORLD_MAP;
     const svg = document.createElementNS("http://www.w3.org/2000/svg", "svg");
     svg.setAttribute("viewBox", `0 0 ${width} ${height}`);
     svg.setAttribute("aria-hidden", "true");
     svg.setAttribute("class", "world");
-    const isWorld = () => selected.size === CONTINENTS.length;
     const radios = new Map();
-    // Vybraný je celý svět, nebo právě jeden kontinent.
+    // Na mapě svítí vybraný region; s celým světem všechno, s Evropou i Česko, které je její částí.
+    const lit = (r) => region === WORLD.code || region === r.code || region === r.within;
     const choose = (code) => {
-      selected.clear();
-      for (const c of CONTINENTS) {
-        if (!code || c.code === code) selected.add(c.code);
-      }
-      for (const c of CONTINENTS) svg.querySelector(`[data-code="${c.code}"]`).classList.toggle("off", !selected.has(c.code));
-      for (const [key, radio] of radios) radio.checked = key === (code || "world");
+      region = code;
+      for (const r of REGIONS) svg.querySelector(`[data-code="${r.code}"]`).classList.toggle("off", !lit(r));
+      for (const [key, radio] of radios) radio.checked = key === code;
       onChange();
     };
-    for (const { code, name, color } of CONTINENTS) {
+    for (const area of REGIONS) {
+      const { code, name, color } = area;
       const path = document.createElementNS("http://www.w3.org/2000/svg", "path");
       path.setAttribute("d", paths[name]);
       path.setAttribute("data-code", code);
       path.style.setProperty("--land", color);
-      path.classList.toggle("off", !selected.has(code));
+      path.classList.toggle("off", !lit(area));
       const title = document.createElementNS("http://www.w3.org/2000/svg", "title");
       title.textContent = name;
       path.append(title);
-      // druhé kliknutí na vybraný kontinent vrací celý svět
-      path.addEventListener("click", () => choose(selected.size === 1 && selected.has(code) ? null : code));
+      // druhé kliknutí na vybraný region vrací celý svět
+      path.addEventListener("click", () => choose(region === code ? WORLD.code : code));
       svg.append(path);
     }
     const chip = (key, name, color) => {
-      const checked = key === "world" ? isWorld() : !isWorld() && selected.has(key);
-      const radio = el("input", { type: "radio", name: "continent", checked, onchange: () => choose(key === "world" ? null : key) });
+      const radio = el("input", { type: "radio", name: "region", checked: key === region, onchange: () => choose(key) });
       if (color) radio.style.accentColor = color;
       radios.set(key, radio);
       return el("label", { class: "chip" }, radio, name);
     };
-    return el("fieldset", { class: "continents" },
-      el("legend", {}, "Kde mají druhy žít? Vyber kontinent na mapě, nebo celý svět."),
+    return el("fieldset", { class: "regions" },
+      el("legend", {}, "Kde mají druhy žít? Vyber kontinent nebo Česko na mapě, nebo celý svět."),
       svg,
-      el("div", { class: "chips" }, chip("world", "🌍 Celý svět"), ...CONTINENTS.map((c) => chip(c.code, c.name, c.color))));
+      el("div", { class: "chips" }, ...[WORLD, ...REGIONS].map((r) => chip(r.code, r.name, r.color))));
   }
 
   function gameOptions(onChange) {
@@ -361,7 +360,7 @@
     app.replaceChildren(
       el("h1", {}, "Poznávání přírody"),
       el("p", { class: "lead" }, "Poznáš, kdo je kdo? Vyber si, co chceš objevovat."),
-      continentPicker(renderKingdoms),
+      regionPicker(renderKingdoms),
       gameOptions(renderKingdoms),
       kingdoms,
       classes,
@@ -378,7 +377,7 @@
       kingdom,
       classSlug,
       classes,
-      settings: `Obtížnost: ${LEVELS[level][0]} · Kontinenty: ${continentNames([...selected])}`,
+      settings: `Obtížnost: ${LEVELS[level][0]} · Oblast: ${regionName(region)}`,
       only,
       // malá třída nemá dost druhů na celé kolo, ať se v něm neopakují
       total: only ? only.size : Math.min(ROUND, available),
@@ -505,7 +504,7 @@
     const shown = q.photo ? [q.photo] : q.options.map((o) => o.photo).filter(Boolean);
     const fact = q.bonusFact;
     const lastOne = game.asked >= game.total;
-    const lives = CONTINENTS.filter((c) => q.target.continents.includes(c.code)).map((c) => c.name).join(", ");
+    const lives = REGIONS.filter((r) => q.target.regions.includes(r.code)).map((r) => r.name).join(", ");
     const next = el("button", { class: "primary", onclick: nextQuestion }, lastOne ? "Ukázat výsledek" : "Další otázka →");
     const correctOption = q.options.find((o) => window.Quiz.isCorrect(q, o));
     const verdict = right ? "Správně! 🎉" : `Tentokrát ne. Správně je: ${q.type === "findFact" ? correctOption.text : q.target.name}`;

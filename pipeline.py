@@ -223,7 +223,7 @@ EASTER_EGG = {
         "wiki": "https://cs.wikipedia.org/wiki/%C4%8Clov%C4%9Bk_moudr%C3%BD",
         "photos": [{"url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Akha_cropped_hires.JPG", "page": "https://commons.wikimedia.org/wiki/File:Akha_cropped_hires.JPG",
                     "author": "Weltenbummler84", "license": "CC BY-SA 2.0 de"}],
-        "continents": ["EU", "AS", "AF", "NA", "SA", "AN", "OC"], "pop": 0, "egg": True,
+        "regions": ["EU", "CZ", "AS", "AF", "NA", "SA", "AN", "OC"], "pop": 0, "egg": True,
     },
     "facts": [
         ("Dospělý jedinec má obvykle 32 zubů.", "čísla", ["Lev", "Vlk obecný", "Liška obecná", "Slon africký", "Medvěd hnědý"]),
@@ -248,6 +248,8 @@ WANTED_PHOTOS = 2  # s menším počtem schválených fotek se hledají další
 GAME_PHOTOS = 10  # nejvýš tolik schválených fotek jednoho druhu, doplňuje se do něj z Commons
 CATEGORIES = {"vzhled", "potrava", "výskyt", "chování", "mláďata", "čísla", "vztahy", "růst", "využití", "jedovatost", "účinky", "vymření"}
 CONTINENTS = ("EU", "AS", "AF", "NA", "SA", "AN", "OC")
+# Geo regiony ve hře: kontinenty a Česko jako část Evropy (rozhodnutí subagentů v data/czech_region/found/ a checked/)
+CZECH_DIR = ROOT / "data" / "czech_region"
 MIN_CLASS_SPECIES = 4  # méně druhů nestačí na otázku se čtyřmi možnostmi
 BAD_FILE = re.compile(
     r"map|range|distribution|areal|rozsir|rozšíř|status|logo|icon|skull|lebk|skelet|skeleton|dead|killed|mrtv"
@@ -1364,6 +1366,12 @@ def build(slug):
     for file in sorted((base / "continents").glob("*.json")):
         for sid, codes in read_json(file).items():
             where[sid] = [c for c in CONTINENTS if c in codes]
+    czech = {sid: yes for f in sorted((CZECH_DIR / "found").glob("*.json")) for sid, yes in read_json(f).items()}
+    # hraniční případy (rozpor s počtem nálezů v GBIF) nezávisle ověřil silnější model, jeho úsudek platí
+    czech.update((sid, v["cz"]) for f in sorted((CZECH_DIR / "checked").glob("*.json")) for sid, v in read_json(f).items())
+    for sid, codes in where.items():
+        if "EU" in codes and czech.get(sid):
+            codes.insert(1, "CZ")
     out = []
     known = json.loads((base / "sitelinks.json").read_text("utf-8")) if (base / "sitelinks.json").exists() else {}
     # co ještě neprošlo přísnou kontrolou, je v built.json kvůli jejím úlohám, ale do hry nesmí
@@ -1383,12 +1391,12 @@ def build(slug):
                    "reviewed": (sid, i) in reviewed} for i in v["photos"]][:GAME_PHOTOS]
         out.append({"id": sid, "name": sp["name"], "latin": sp["latin"], "family": sp["family"], "order": sp["order"],
                     "wiki": "https://cs.wikipedia.org/wiki/" + urllib.parse.quote(sp["title"].replace(" ", "_")),
-                    "photos": photos, "facts": kept, "continents": where.get(sid, []), "pop": known.get(sid, 0),
+                    "photos": photos, "facts": kept, "regions": where.get(sid, []), "pop": known.get(sid, 0),
                     "len": article_length(base / "articles" / f"{sid}.txt")})
     (base / "built.json").write_text(json.dumps({"slug": slug, "name": CLASSES[slug][1], "kingdom": CLASSES[slug][2], "species": out}, ensure_ascii=False), encoding="utf-8")
     write_game_data()
     t4 = sum(len(f["not"]) >= 3 for s in out for f in s["facts"])
-    print(f"Hotovo: {len(out)} druhů, {sum(len(s['facts']) for s in out)} tvrzení, z toho {t4} použitelných pro otázku typu 4, bez kontinentu {sum(not s['continents'] for s in out)}.")
+    print(f"Hotovo: {len(out)} druhů, {sum(len(s['facts']) for s in out)} tvrzení, z toho {t4} použitelných pro otázku typu 4, bez kontinentu {sum(not s['regions'] for s in out)}.")
 
 
 def popularity(slug, batch=300):
@@ -1451,7 +1459,7 @@ def write_game_data():
                 continue
             s["facts"] = [f for f in s["facts"] if f.pop("reviewed", False)]
             s["photos"] = [{k: v for k, v in p.items() if k not in ("reviewed", "i")} for p in s["photos"] if p.get("reviewed")]
-            if s["continents"] and s["photos"]:
+            if s["regions"] and s["photos"]:
                 s["latin"] = s["latin"] or LATIN_NAMES.get(s["id"], "")
                 s["order"] = modern_order(s["order"], s["family"])
                 own = set(roots.get(s["id"], []))

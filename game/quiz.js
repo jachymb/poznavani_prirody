@@ -188,10 +188,11 @@
     if (!cache.has(species)) cache.set(species, computeWeights(species, regional));
     return cache.get(species);
   }
-  // Na jednom kontinentu mají přednost druhy, které jinde nežijí: zubr před myší domácí, okapi před kosatkou.
+  // V jednom geo regionu mají přednost druhy, které jinde nežijí: zubr před myší domácí, okapi před kosatkou.
   // Váha i známost se dělí počtem kontinentů druhu na třetinu, víc by z Evropy vytlačilo kosa, čápa i lišku.
   const REGIONAL = 1 / 3;
-  const regionalShare = (s, regional) => (regional ? s.continents.length ** -REGIONAL : 1);
+  const CONTINENTS = new Set(["EU", "AS", "AF", "NA", "SA", "AN", "OC"]);
+  const regionalShare = (s, regional) => (regional ? s.regions.filter((r) => CONTINENTS.has(r)).length ** -REGIONAL : 1);
   // Dlouhý český článek: druh, který české děti spíš znají (jabloň, prvosenka), před světovou plodinou se stručným článkem.
   // Délka ve znacích se čtvrtou odmocninou: článek 5× delší než obvykle (2000 znaků) dá jen 1,5× víc, kratší než 500 se nepočítá.
   const ARTICLE_LENGTH = 2000;
@@ -243,12 +244,14 @@
   // Je možnost správná? Správně je právě ta, která nese cílový druh.
   const isCorrect = (q, option) => option.species === q.target;
 
-  // Třídy zúžené na druhy, které žijí aspoň na jednom z vybraných kontinentů. Celý svět zůstává bez zvýhodnění.
-  const ALL_CONTINENTS = 7;
-  const inContinents = (classes, selected) => classes.map((c) => ({
+  // Třídy zúžené na druhy z jednoho geo regionu: celý svět (patří do něj všechny druhy), kontinent, nebo Česko jako část Evropy.
+  // Celý svět zůstává bez zvýhodnění místních druhů.
+  const WORLD = "WORLD";
+  const inRegion = (s, region) => region === WORLD || s.regions.includes(region);
+  const inRegions = (classes, region) => classes.map((c) => ({
     ...c,
-    species: c.species.filter((s) => s.continents.some((code) => selected.has(code))),
-    regional: selected.size < ALL_CONTINENTS,
+    species: c.species.filter((s) => inRegion(s, region)),
+    regional: region !== WORLD,
   }));
 
   // Hledané druhy podle úrovně: nejznámější z každé třídy (a vzácný vtípek, ten má vlastní nízkou váhu). Celá třída zůstává
@@ -267,5 +270,5 @@
     return { ...c, wide: c.species, species: [...new Set([...known, ...c.species.filter((s) => s.egg)])] };
   });
 
-  window.Quiz = { makeQuestion, isCorrect, inContinents, atLevel, tooSimilar, isDull, mentions, OTHER_SPECIES, MAKERS };
+  window.Quiz = { makeQuestion, isCorrect, WORLD, inRegion, inRegions, atLevel, tooSimilar, isDull, mentions, OTHER_SPECIES, MAKERS };
 })();

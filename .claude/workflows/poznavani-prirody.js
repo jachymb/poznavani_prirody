@@ -373,7 +373,34 @@ Neměň nic jiného: slovosled, volbu slov, styl, interpunkci ani obsah. Věta s
 Zapiš nástrojem Write do ${root}/data/grammar/found/${id}.json jen tento JSON (bez nálezu prázdný seznam):
 {"fixes": [{"id": "Q1#0", "text": "Loví hlavně noční motýly a dvoukřídlý hmyz.", "why": "akuzativ plurálu od motýl je motýly"}]}
 Vrať jen slovo HOTOVO.`
+const czechPrompt = (id) => `Pro dětský kvíz o přírodě rozhodni, které druhy patří do oblasti Česko (Česká republika). Hra v ní ukazuje jen druhy, které tu dítě může potkat.
+
+Přečti ${root}/data/czech_region/jobs/${id}.json. Každá položka má "id", "name", "latin", "group" (skupina ve hře), "continents" a "gbif": počet nálezů v Česku v databázi GBIF bez zoologických a botanických zahrad (null = údaj není). GBIF je jen vodítko: obsahuje i ojedinělé zatoulané jedince a utečence, a u málo sledovaných skupin (houby, hmyz, mikroorganismy) nálezy chybějí, i když druh v Česku žije.
+
+Pravidla (stejná jako u kontinentů):
+- Ano, když druh v Česku žije ve volné přírodě: původní, nebo zavlečený, který se tu trvale usadil či zdivočel. U ptáků stačí pravidelné hnízdění, tah nebo zimování, ojedinělý zatoulaný jedinec nestačí.
+- Ano u rostliny, která se v Česku běžně pěstuje venku (pole, sady, zahrady, parky, lesní výsadby). Ne u pokojových a skleníkových rostlin.
+- Ne, když druh žije v Česku jen v zajetí: zoo, chov, akvárium, terárium, domácí mazlíček. Domácí zvíře (kůň, pes) patří tam, kde se běžně chová venku na statcích a pastvinách, stejně jako na kontinenty podle původu a zdivočelých populací.
+- Vyhynulé druhy a fosílie: ano, když se jejich fosílie nebo pozůstatky našly na území Česka nebo tu prokazatelně žily.
+- Mikroorganismy a cizopasníci: ano, když se v Česku běžně vyskytují (v přírodě, u lidí nebo zvířat).
+- Mořské druhy ne, Česko nemá moře.
+Když si nejsi jistý, rozhodni podle převažujících znalostí; nevymýšlej výskyt jen podle příbuzných druhů.
+
+Zapiš nástrojem Write do ${root}/data/czech_region/found/${id}.json jen tento JSON s položkou pro každý druh:
+{"Q1": true, "Q2": false}
+Vrať jen slovo HOTOVO.`
+const czechCheckPrompt = (id) => `Nezávisle a přísně ověř zařazení druhů do oblasti Česko v dětském kvízu o přírodě. Kolega rozhodl a jeho úsudek odporuje počtu nálezů v databázi GBIF, proto ho nepřebírej.
+
+Přečti ${root}/data/czech_region/check_jobs/${id}.json. Každá položka má "id", "name", "latin", "group", "gbif" (počet nálezů v Česku bez zoo a botanických zahrad, null = údaj není) a "first" (původní rozhodnutí). Ověř si výskyt i na webu (BioLib, Pladias, AOPK, ČSO, Česká mykologická společnost, odborné zdroje).
+
+Pravidla: ano, když druh v Česku žije ve volné přírodě (původní, nebo trvale usazený či zdivočelý zavlečený), u ptáků pravidelně hnízdí, táhne nebo zimuje (i v malém počtu); ano u rostliny běžně pěstované venku. Ne u ojedinělých zatoulanců, utečenců ze zajetí, druhů jen v zajetí, pokojových a skleníkových rostlin a mořských druhů. Vyhynulé druhy: ano, když se v Česku našly jejich fosílie. Mikroorganismy a cizopasníci: ano, když se v Česku běžně vyskytují. U málo sledovaných skupin (houby, hmyz, mikroorganismy) chybějící nález v GBIF neznamená, že druh v Česku není.
+
+Zapiš nástrojem Write do ${root}/data/czech_region/checked/${id}.json jen tento JSON s položkou pro každý druh:
+{"Q1": {"cz": true, "why": "krátký důvod se zdrojem"}, "Q2": {"cz": false, "why": "…"}}
+Vrať jen slovo HOTOVO.`
 function run({ slug, kingdom, stage }, id) {
+  if (stage === 'czech_check') return ask(czechCheckPrompt(id), { label: `ověření česka:${id}`, phase: 'Kontinenty' })
+  if (stage === 'czech') return ask(czechPrompt(id), { label: `česko:${id}`, phase: 'Kontinenty', model: 'sonnet' })
   if (stage === 'grammar') return ask(grammarPrompt(id), { label: `gramatika:${id}`, phase: 'Jazyk', model: 'sonnet' })
   if (stage === 'same') return ask(samePrompt(id), { label: `stejný význam:${id}`, phase: 'Jazyk', model: 'sonnet' })
   if (stage === 'continents_check') return ask(continentCheckPrompt(id), { label: `kontrola kontinentů:${id}`, phase: 'Kontinenty', model: 'sonnet' })
