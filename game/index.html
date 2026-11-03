@@ -78,7 +78,9 @@
   .tile { position: relative; padding: 0; overflow: hidden; text-align: center; }
   .tile .mark { position: absolute; top: 6px; right: 6px; margin: 0; padding: 2px 5px; background: var(--card); border-radius: 10px; }
   .tile img { display: block; width: 100%; aspect-ratio: 4 / 3; object-fit: contain; background: #eef2e6; }
-  .tile span { display: block; padding: 8px; font-size: 16px; user-select: text; -webkit-user-select: text; cursor: text; }
+  .tile span { display: block; padding: 8px; font-size: 16px; }
+  /* jméno druhu jde označit a zkopírovat i v tlačítku, tažení myší není odpověď */
+  .answer .name, .tile span { user-select: text; -webkit-user-select: text; cursor: text; }
   .tile .latin { display: block; }
   .result .settings { margin: -4px 0 18px; font-size: 15px; color: var(--soft); }
   .answer.good { border-color: var(--good); background: var(--good-bg); }
@@ -438,7 +440,7 @@
         : q.type === "findSpecies"
           ? el("button", { class: "answer tile", onclick }, photoEl(option.photo, "", "", failed), el("span", {}, ...speciesName(option.species)))
           : q.type === "findName"
-            ? el("button", { class: "answer", onclick }, ...speciesName(option.species))
+            ? el("button", { class: "answer", onclick }, el("span", { class: "name" }, ...speciesName(option.species)))
             : el("button", { class: "answer", onclick }, option.text);
       button.option = option;
       return button;
@@ -485,12 +487,14 @@
         button.prepend(el("span", { class: "mark", ariaLabel: correct ? "správně" : "špatně" }, correct ? "✅" : "❌"));
       }
       // Celá odpovězená možnost (fotka i jméno) otevře článek na Wikipedii. Není to <a>, protože text v odkazu nejde označit
-      // tažením myši; kliknutí, které skončí označeným textem, proto nic neotevře.
+      // tažením myši; tažení (i mimo text) proto nic neotevře, jen obyčejné kliknutí.
       if (speciesChoice) {
         const open = () => window.open(option.species.wiki, "_blank", "noopener");
+        let downAt = [0, 0];
         button.replaceWith(el("div", {
           class: `${button.className} wiki`, role: "link", tabIndex: 0, title: "Přečíst na Wikipedii",
-          onclick: () => String(window.getSelection()) || open(),
+          onmousedown: (e) => { downAt = [e.clientX, e.clientY]; },
+          onclick: (e) => Math.hypot(e.clientX - downAt[0], e.clientY - downAt[1]) > 5 || String(window.getSelection()) || open(),
           onkeydown: (e) => e.key === "Enter" && open(),
         }, button.querySelector(".mark"), button.querySelector("img"), el("span", { class: "name" }, ...speciesName(option.species))));
       }
