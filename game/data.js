@@ -368313,7 +368313,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS"
         ],
         "pop": 40,
@@ -369104,10 +369103,7 @@ window.GAME_DATA = [
           }
         ],
         "regions": [
-          "EU",
-          "CZ",
-          "NA",
-          "OC"
+          "EU"
         ],
         "pop": 22,
         "len": 1767,
@@ -369901,8 +369897,6 @@ window.GAME_DATA = [
           }
         ],
         "regions": [
-          "EU",
-          "CZ",
           "NA"
         ],
         "pop": 35,
@@ -370575,8 +370569,7 @@ window.GAME_DATA = [
           }
         ],
         "regions": [
-          "EU",
-          "CZ"
+          "EU"
         ],
         "pop": 44,
         "len": 2199,
@@ -370993,7 +370986,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS"
         ],
         "pop": 53,
@@ -371064,8 +371056,9 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
-          "AS"
+          "AS",
+          "AF",
+          "OC"
         ],
         "pop": 59,
         "len": 3697,
@@ -371153,8 +371146,7 @@ window.GAME_DATA = [
         "regions": [
           "EU",
           "CZ",
-          "NA",
-          "OC"
+          "NA"
         ],
         "pop": 48,
         "len": 13635,
@@ -371337,7 +371329,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "NA"
         ],
@@ -371427,8 +371418,6 @@ window.GAME_DATA = [
           }
         ],
         "regions": [
-          "EU",
-          "CZ",
           "NA"
         ],
         "pop": 55,
@@ -371616,10 +371605,7 @@ window.GAME_DATA = [
         "regions": [
           "EU",
           "AS",
-          "AF",
-          "NA",
-          "SA",
-          "OC"
+          "AF"
         ],
         "pop": 60,
         "len": 6890,
@@ -371676,8 +371662,7 @@ window.GAME_DATA = [
           }
         ],
         "regions": [
-          "EU",
-          "CZ"
+          "EU"
         ],
         "pop": 55,
         "len": 1566,
@@ -371819,8 +371804,8 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
-          "AS"
+          "AS",
+          "AF"
         ],
         "pop": 46,
         "len": 1825,
@@ -371863,7 +371848,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "NA"
         ],
@@ -371956,8 +371940,6 @@ window.GAME_DATA = [
           }
         ],
         "regions": [
-          "EU",
-          "CZ",
           "NA"
         ],
         "pop": 50,
@@ -372250,8 +372232,6 @@ window.GAME_DATA = [
           }
         ],
         "regions": [
-          "EU",
-          "CZ",
           "NA"
         ],
         "pop": 69,
@@ -372351,7 +372331,6 @@ window.GAME_DATA = [
           }
         ],
         "regions": [
-          "EU",
           "NA",
           "OC"
         ],
@@ -372873,10 +372852,7 @@ window.GAME_DATA = [
           }
         ],
         "regions": [
-          "EU",
-          "CZ",
-          "AS",
-          "NA"
+          "AS"
         ],
         "pop": 62,
         "len": 10471,
@@ -373016,8 +372992,7 @@ window.GAME_DATA = [
           }
         ],
         "regions": [
-          "EU",
-          "CZ",
+          "AF",
           "NA"
         ],
         "pop": 46,
@@ -373070,10 +373045,7 @@ window.GAME_DATA = [
           }
         ],
         "regions": [
-          "EU",
-          "CZ",
-          "AS",
-          "NA"
+          "AS"
         ],
         "pop": 39,
         "len": 2045,
@@ -373330,8 +373302,8 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
-          "NA"
+          "NA",
+          "OC"
         ],
         "pop": 42,
         "len": 3015,
@@ -373831,7 +373803,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "NA"
         ],
         "pop": 44,
@@ -374110,7 +374081,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "NA"
         ],
         "pop": 32,
@@ -374243,6 +374213,7 @@ window.GAME_DATA = [
           }
         ],
         "regions": [
+          "EU",
           "AS"
         ],
         "pop": 28,
@@ -374328,7 +374299,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "NA"
         ],
@@ -376760,7 +376730,9 @@ window.GAME_DATA = [
         "regions": [
           "EU",
           "CZ",
-          "AS"
+          "AS",
+          "AF",
+          "NA"
         ],
         "pop": 52,
         "len": 4915,
@@ -378525,7 +378497,8 @@ window.GAME_DATA = [
           }
         ],
         "regions": [
-          "AS"
+          "AS",
+          "NA"
         ],
         "pop": 13,
         "len": 2476,
@@ -378886,7 +378859,11 @@ window.GAME_DATA = [
           }
         ],
         "regions": [
-          "NA"
+          "EU",
+          "AS",
+          "AF",
+          "NA",
+          "SA"
         ],
         "pop": 28,
         "len": 9122,
@@ -379093,7 +379070,9 @@ window.GAME_DATA = [
           }
         ],
         "regions": [
-          "AS"
+          "EU",
+          "AS",
+          "NA"
         ],
         "pop": 35,
         "len": 3134,
@@ -379846,7 +379825,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AF"
         ],
         "pop": 41,
@@ -380155,10 +380133,7 @@ window.GAME_DATA = [
           }
         ],
         "regions": [
-          "EU",
-          "CZ",
-          "AS",
-          "NA"
+          "AS"
         ],
         "pop": 37,
         "len": 6017,
@@ -380243,6 +380218,7 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
+          "AS",
           "AF"
         ],
         "pop": 27,
@@ -381790,7 +381766,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS"
         ],
         "pop": 30,
@@ -383517,7 +383492,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "NA"
         ],
@@ -384223,6 +384197,7 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
+          "CZ",
           "AS",
           "AF",
           "NA",
@@ -385076,7 +385051,8 @@ window.GAME_DATA = [
           }
         ],
         "regions": [
-          "EU"
+          "EU",
+          "CZ"
         ],
         "pop": 3,
         "len": 2221,
@@ -388475,7 +388451,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS"
         ],
         "pop": 17,
@@ -389553,7 +389528,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "NA"
         ],
@@ -390412,7 +390386,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "NA"
         ],
@@ -391164,7 +391137,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "NA"
         ],
         "pop": 37,
@@ -397427,7 +397399,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "AF",
           "NA",
@@ -400025,6 +399996,7 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
+          "CZ",
           "AS",
           "AF",
           "NA",
@@ -400662,6 +400634,7 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
+          "CZ",
           "AS",
           "NA"
         ],
@@ -400893,6 +400866,7 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
+          "CZ",
           "AS"
         ],
         "pop": 18,
@@ -401066,7 +401040,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "AF",
           "NA"
@@ -401369,7 +401342,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "NA",
           "SA"
@@ -404911,6 +404883,7 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
+          "CZ",
           "AS",
           "AF"
         ],
@@ -407629,6 +407602,7 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
+          "CZ",
           "AS",
           "AF"
         ],
@@ -411682,6 +411656,7 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
+          "CZ",
           "AS"
         ],
         "pop": 27,
@@ -412421,8 +412396,7 @@ window.GAME_DATA = [
           }
         ],
         "regions": [
-          "EU",
-          "CZ"
+          "EU"
         ],
         "pop": 26,
         "len": 1040,
@@ -412487,7 +412461,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS"
         ],
         "pop": 21,
@@ -413206,7 +413179,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "NA"
         ],
@@ -413981,7 +413953,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS"
         ],
         "pop": 25,
@@ -414119,7 +414090,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "AF",
           "NA",
@@ -414501,7 +414471,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AF"
         ],
         "pop": 21,
@@ -415514,7 +415483,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS"
         ],
         "pop": 15,
@@ -415946,7 +415914,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS"
         ],
         "pop": 18,
@@ -416305,7 +416272,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "NA"
         ],
@@ -416376,7 +416342,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "NA",
           "OC"
@@ -416557,7 +416522,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS"
         ],
         "pop": 19,
@@ -416851,7 +416815,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AF",
           "NA",
           "SA",
@@ -418038,7 +418001,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "AF",
           "NA",
@@ -419124,7 +419086,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "AF",
           "NA",
@@ -419983,7 +419944,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS"
         ],
         "pop": 16,
@@ -422625,7 +422585,8 @@ window.GAME_DATA = [
           }
         ],
         "regions": [
-          "EU"
+          "EU",
+          "CZ"
         ],
         "pop": 6,
         "len": 1963,
@@ -423076,7 +423037,8 @@ window.GAME_DATA = [
           }
         ],
         "regions": [
-          "EU"
+          "EU",
+          "CZ"
         ],
         "pop": 11,
         "len": 2317,
@@ -424663,7 +424625,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "NA"
         ],
@@ -424924,7 +424885,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "AF",
           "NA",
@@ -427791,7 +427751,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "AF",
           "NA",
@@ -428594,7 +428553,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS"
         ],
         "pop": 13,
@@ -465729,7 +465687,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "NA"
         ],
         "pop": 42,
@@ -465972,7 +465929,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "NA"
         ],
@@ -466226,7 +466182,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "NA"
         ],
         "pop": 29,
@@ -466335,7 +466290,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "NA"
         ],
         "pop": 9,
@@ -467097,7 +467051,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS"
         ],
         "pop": 11,
@@ -468281,7 +468234,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS"
         ],
         "pop": 28,
@@ -468569,7 +468521,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "NA"
         ],
         "pop": 13,
@@ -468645,8 +468596,7 @@ window.GAME_DATA = [
           }
         ],
         "regions": [
-          "EU",
-          "CZ"
+          "EU"
         ],
         "pop": 10,
         "len": 2554,
@@ -469083,7 +469033,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "NA"
         ],
         "pop": 13,
@@ -469518,7 +469467,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "NA",
           "SA",
@@ -470767,7 +470715,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "NA"
         ],
         "pop": 22,
@@ -470906,7 +470853,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "NA"
         ],
@@ -471543,7 +471489,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "NA"
         ],
@@ -471643,7 +471588,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "NA"
         ],
@@ -471819,7 +471763,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "NA"
         ],
@@ -476611,7 +476554,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "AF"
         ],
@@ -477568,7 +477510,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS"
         ],
         "pop": 43,
@@ -478430,7 +478371,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "NA"
         ],
         "pop": 32,
@@ -478502,7 +478442,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "NA"
         ],
         "pop": 32,
@@ -480204,7 +480143,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "NA"
         ],
         "pop": 21,
@@ -480813,7 +480751,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "NA"
         ],
@@ -481120,7 +481057,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS"
         ],
         "pop": 8,
@@ -481330,7 +481266,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "AF",
           "NA",
@@ -481561,7 +481496,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "AF",
           "NA",
@@ -481650,7 +481584,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "AF",
           "NA",
@@ -482152,7 +482085,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "AF",
           "NA",
@@ -482239,7 +482171,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "AF",
           "NA",
@@ -482336,7 +482267,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "NA"
         ],
@@ -484405,7 +484335,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "NA"
         ],
@@ -484841,7 +484770,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS"
         ],
         "pop": 52,
@@ -485729,7 +485657,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "AF",
           "NA",
@@ -486148,7 +486075,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "NA"
         ],
@@ -487134,7 +487060,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "NA",
           "SA"
@@ -487198,7 +487123,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "NA"
         ],
@@ -487499,7 +487423,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "NA"
         ],
@@ -488508,7 +488431,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "NA"
         ],
@@ -488992,7 +488914,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "NA"
         ],
         "pop": 40,
@@ -492061,7 +491982,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "NA"
         ],
         "pop": 27,
@@ -492844,7 +492764,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS"
         ],
         "pop": 25,
@@ -493260,7 +493179,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "AF",
           "NA",
@@ -493950,7 +493868,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "NA",
           "OC"
@@ -494480,7 +494397,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "AF"
         ],
@@ -494564,7 +494480,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS"
         ],
         "pop": 22,
@@ -494655,7 +494570,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "NA"
         ],
@@ -495083,6 +494997,7 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
+          "CZ",
           "AS",
           "NA"
         ],
@@ -496419,7 +496334,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "AF"
         ],
@@ -497371,7 +497285,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS"
         ],
         "pop": 21,
@@ -498040,8 +497953,7 @@ window.GAME_DATA = [
           }
         ],
         "regions": [
-          "EU",
-          "CZ"
+          "EU"
         ],
         "pop": 38,
         "len": 1818,
@@ -498277,7 +498189,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AF",
           "SA",
           "OC"
@@ -498459,7 +498370,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "AF",
           "NA",
@@ -500421,7 +500331,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "NA"
         ],
         "pop": 14,
@@ -500591,7 +500500,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS"
         ],
         "pop": 27,
@@ -501552,7 +501460,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "NA",
           "OC"
@@ -501686,7 +501593,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS"
         ],
         "pop": 70,
@@ -502139,7 +502045,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "NA"
         ],
@@ -502266,7 +502171,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "NA"
         ],
         "pop": 40,
@@ -502864,7 +502768,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "NA"
         ],
         "pop": 48,
@@ -503284,7 +503187,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS"
         ],
         "pop": 45,
@@ -503346,7 +503248,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "AF"
         ],
@@ -503423,7 +503324,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS"
         ],
         "pop": 43,
@@ -503886,7 +503786,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "NA"
         ],
@@ -505524,6 +505423,7 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
+          "CZ",
           "AS",
           "NA",
           "OC"
@@ -505947,7 +505847,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "NA"
         ],
         "pop": 20,
@@ -506212,7 +506111,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "NA"
         ],
         "pop": 19,
@@ -507609,7 +507507,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "NA"
         ],
@@ -507870,7 +507767,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "NA"
         ],
@@ -509278,7 +509174,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS"
         ],
         "pop": 7,
@@ -509472,7 +509367,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "NA"
         ],
         "pop": 30,
@@ -509878,7 +509772,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "AF",
           "NA",
@@ -510164,7 +510057,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "NA"
         ],
         "pop": 33,
@@ -510806,7 +510698,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "NA"
         ],
         "pop": 29,
@@ -511082,7 +510973,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "AF",
           "NA",
@@ -512217,7 +512107,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS"
         ],
         "pop": 33,
@@ -513137,7 +513026,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "NA"
         ],
@@ -513293,7 +513181,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS"
         ],
         "pop": 65,
@@ -514414,6 +514301,7 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
+          "CZ",
           "AS",
           "AF"
         ],
@@ -514621,7 +514509,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "NA"
         ],
@@ -517155,6 +517042,7 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
+          "CZ",
           "AS",
           "AF",
           "NA",
@@ -518698,7 +518586,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "NA"
         ],
@@ -518769,7 +518656,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "NA"
         ],
@@ -518915,7 +518801,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "NA"
         ],
         "pop": 51,
@@ -520989,7 +520874,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "AF",
           "NA"
@@ -521342,7 +521226,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "AF",
           "NA"
@@ -521665,7 +521548,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "NA"
         ],
@@ -522052,7 +521934,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS"
         ],
         "pop": 30,
@@ -522874,7 +522755,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "NA"
         ],
@@ -523111,7 +522991,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS"
         ],
         "pop": 17,
@@ -523640,7 +523519,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS"
         ],
         "pop": 24,
@@ -524559,7 +524437,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "NA"
         ],
@@ -524755,7 +524632,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS"
         ],
         "pop": 16,
@@ -525031,7 +524907,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "NA"
         ],
@@ -525403,7 +525278,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "AF",
           "NA",
@@ -527164,7 +527038,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "AF",
           "NA"
@@ -529210,7 +529083,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS"
         ],
         "pop": 18,
@@ -529723,7 +529595,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "AF",
           "NA",
@@ -530045,7 +529916,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "AF",
           "NA",
@@ -532731,7 +532601,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "NA"
         ],
@@ -533832,7 +533701,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AF",
           "NA",
           "SA",
@@ -533891,7 +533759,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "NA"
         ],
         "pop": 25,
@@ -534003,7 +533870,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "NA"
         ],
@@ -534206,7 +534072,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "NA"
         ],
@@ -534345,7 +534210,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "NA"
         ],
@@ -534496,7 +534360,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS"
         ],
         "pop": 18,
@@ -534554,8 +534417,7 @@ window.GAME_DATA = [
           }
         ],
         "regions": [
-          "EU",
-          "CZ"
+          "EU"
         ],
         "pop": 26,
         "len": 1109,
@@ -534631,7 +534493,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS"
         ],
         "pop": 10,
@@ -535282,7 +535143,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "NA"
         ],
@@ -536029,7 +535889,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "NA"
         ],
         "pop": 25,
@@ -536980,7 +536839,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "NA"
         ],
@@ -537369,7 +537227,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "NA"
         ],
@@ -537532,7 +537389,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "NA"
         ],
         "pop": 29,
@@ -538017,7 +537873,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AF"
         ],
         "pop": 15,
@@ -539209,7 +539064,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "NA"
         ],
         "pop": 18,
@@ -541756,7 +541610,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "NA"
         ],
@@ -543397,7 +543250,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "NA"
         ],
         "pop": 21,
@@ -549246,8 +549098,7 @@ window.GAME_DATA = [
           }
         ],
         "regions": [
-          "EU",
-          "CZ"
+          "EU"
         ],
         "pop": 3,
         "len": 1243,
@@ -549427,7 +549278,8 @@ window.GAME_DATA = [
           }
         ],
         "regions": [
-          "EU"
+          "EU",
+          "CZ"
         ],
         "pop": 4,
         "len": 3065,
@@ -549625,7 +549477,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "NA"
         ],
         "pop": 31,
@@ -549806,7 +549657,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS"
         ],
         "pop": 19,
@@ -551126,7 +550976,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "NA"
         ],
         "pop": 24,
@@ -551526,7 +551375,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "NA"
         ],
@@ -552756,7 +552604,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "NA"
         ],
@@ -552828,7 +552675,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "NA"
         ],
@@ -553077,7 +552923,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "NA"
         ],
@@ -553501,7 +553346,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "NA"
         ],
@@ -554555,7 +554399,8 @@ window.GAME_DATA = [
           }
         ],
         "regions": [
-          "EU"
+          "EU",
+          "CZ"
         ],
         "pop": 8,
         "len": 3066,
@@ -554713,7 +554558,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AF"
         ],
         "pop": 38,
@@ -555233,7 +555077,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "AF",
           "NA",
@@ -555527,7 +555370,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "NA"
         ],
@@ -555675,7 +555517,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "AF",
           "NA",
@@ -555806,7 +555647,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "NA"
         ],
@@ -557395,7 +557235,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "NA"
         ],
@@ -559641,7 +559480,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "NA"
         ],
         "pop": 36,
@@ -560856,7 +560694,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "NA"
         ],
@@ -561294,7 +561131,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "AF",
           "NA",
@@ -562139,7 +561975,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "AF"
         ],
@@ -562637,7 +562472,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AF",
           "NA"
         ],
@@ -563181,7 +563015,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "NA"
         ],
@@ -563525,7 +563358,8 @@ window.GAME_DATA = [
           }
         ],
         "regions": [
-          "EU"
+          "EU",
+          "CZ"
         ],
         "pop": 9,
         "len": 3929,
@@ -564292,7 +564126,8 @@ window.GAME_DATA = [
           }
         ],
         "regions": [
-          "EU"
+          "EU",
+          "CZ"
         ],
         "pop": 7,
         "len": 3019,
@@ -569475,6 +569310,7 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
+          "CZ",
           "AS",
           "NA"
         ],
@@ -570110,8 +569946,7 @@ window.GAME_DATA = [
           }
         ],
         "regions": [
-          "EU",
-          "CZ"
+          "EU"
         ],
         "pop": 32,
         "len": 1441,
@@ -570388,7 +570223,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "NA"
         ],
@@ -573295,7 +573129,8 @@ window.GAME_DATA = [
           }
         ],
         "regions": [
-          "EU"
+          "EU",
+          "CZ"
         ],
         "pop": 52,
         "len": 2911,
@@ -573940,7 +573775,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AF",
           "NA",
           "OC"
@@ -574871,7 +574705,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "AF",
           "NA",
@@ -575636,7 +575469,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "AF",
           "NA",
@@ -575776,7 +575608,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "SA",
           "OC"
@@ -576790,7 +576621,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "AF",
           "NA",
@@ -577649,6 +577479,7 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
+          "CZ",
           "AS",
           "AF"
         ],
@@ -578756,8 +578587,7 @@ window.GAME_DATA = [
           }
         ],
         "regions": [
-          "EU",
-          "CZ"
+          "EU"
         ],
         "pop": 21,
         "len": 1431,
@@ -578828,8 +578658,7 @@ window.GAME_DATA = [
           }
         ],
         "regions": [
-          "EU",
-          "CZ"
+          "EU"
         ],
         "pop": 17,
         "len": 252,
@@ -579153,7 +578982,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "NA"
         ],
@@ -581733,8 +581561,7 @@ window.GAME_DATA = [
           }
         ],
         "regions": [
-          "EU",
-          "CZ"
+          "EU"
         ],
         "pop": 37,
         "len": 1128,
@@ -582698,7 +582525,8 @@ window.GAME_DATA = [
           }
         ],
         "regions": [
-          "EU"
+          "EU",
+          "CZ"
         ],
         "pop": 14,
         "len": 3915,
@@ -583135,7 +582963,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "AF",
           "NA",
@@ -584315,7 +584142,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "NA"
         ],
@@ -586941,7 +586767,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "OC"
         ],
@@ -587993,7 +587818,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "AF",
           "NA",
@@ -588636,7 +588460,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "AF",
           "NA",
@@ -589043,7 +588866,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "NA",
           "SA",
@@ -589239,7 +589061,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "NA"
         ],
@@ -589286,7 +589107,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "AF",
           "NA"
@@ -589539,8 +589359,7 @@ window.GAME_DATA = [
           }
         ],
         "regions": [
-          "EU",
-          "CZ"
+          "EU"
         ],
         "pop": 37,
         "len": 2874,
@@ -589653,7 +589472,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "NA"
         ],
@@ -589792,7 +589610,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "NA"
         ],
         "pop": 42,
@@ -590062,7 +589879,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "NA"
         ],
         "pop": 27,
@@ -591186,7 +591002,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "AF",
           "NA"
@@ -591337,7 +591152,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "NA"
         ],
         "pop": 30,
@@ -591589,7 +591403,8 @@ window.GAME_DATA = [
           }
         ],
         "regions": [
-          "EU"
+          "EU",
+          "CZ"
         ],
         "pop": 24,
         "len": 3421,
@@ -591743,7 +591558,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "AF",
           "NA",
@@ -592243,7 +592057,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "NA"
         ],
@@ -594103,7 +593916,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "NA"
         ],
@@ -595048,7 +594860,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "NA"
         ],
         "pop": 17,
@@ -595320,7 +595131,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "NA"
         ],
@@ -595478,7 +595288,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "AF",
           "NA",
@@ -596080,6 +595889,7 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
+          "CZ",
           "AF",
           "NA",
           "OC"
@@ -596444,7 +596254,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AF",
           "NA",
           "OC"
@@ -596512,7 +596321,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "NA"
         ],
         "pop": 25,
@@ -596649,7 +596457,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "NA"
         ],
@@ -597874,7 +597681,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "NA"
         ],
         "pop": 13,
@@ -599672,7 +599478,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "NA"
         ],
@@ -601933,6 +601738,7 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
+          "CZ",
           "AS",
           "AF",
           "NA"
@@ -602714,7 +602520,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "AF",
           "NA",
@@ -603851,7 +603656,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS"
         ],
         "pop": 29,
@@ -605922,7 +605726,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "NA"
         ],
         "pop": 17,
@@ -606297,7 +606100,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "NA"
         ],
@@ -606813,7 +606615,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "NA"
         ],
@@ -606888,7 +606689,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "NA"
         ],
         "pop": 40,
@@ -607847,7 +607647,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "NA"
         ],
@@ -607998,7 +607797,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "AF"
         ],
@@ -609033,7 +608831,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS"
         ],
         "pop": 21,
@@ -609546,7 +609343,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "NA",
           "OC"
         ],
@@ -611139,7 +610935,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "NA"
         ],
@@ -611568,6 +611363,7 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
+          "CZ",
           "AS",
           "AF",
           "NA",
@@ -611940,7 +611736,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS"
         ],
         "pop": 19,
@@ -613386,7 +613181,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "NA"
         ],
         "pop": 14,
@@ -613728,7 +613522,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "NA"
         ],
         "pop": 5,
@@ -613878,7 +613671,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "AF",
           "NA"
@@ -613982,7 +613774,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AF",
           "OC"
         ],
@@ -614633,7 +614424,8 @@ window.GAME_DATA = [
           }
         ],
         "regions": [
-          "EU"
+          "EU",
+          "CZ"
         ],
         "pop": 11,
         "len": 3029,
@@ -615336,7 +615128,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "NA"
         ],
@@ -615503,7 +615294,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "NA"
         ],
         "pop": 27,
@@ -616101,7 +615891,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "NA"
         ],
         "pop": 5,
@@ -616182,7 +615971,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "NA"
         ],
         "pop": 11,
@@ -616253,7 +616041,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "NA"
         ],
         "pop": 12,
@@ -616500,7 +616287,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "AF",
           "NA",
@@ -617018,7 +616804,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "NA"
         ],
@@ -617547,7 +617332,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "NA"
         ],
@@ -617951,7 +617735,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "NA"
         ],
@@ -619002,7 +618785,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "NA"
         ],
@@ -620069,7 +619851,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "NA",
           "OC"
@@ -620220,7 +620001,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "NA"
         ],
         "pop": 16,
@@ -620663,7 +620443,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AF"
         ],
         "pop": 39,
@@ -620932,7 +620711,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "AF",
           "NA",
@@ -621000,7 +620778,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "AF",
           "NA"
@@ -621503,7 +621280,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "AF",
           "NA",
@@ -622939,7 +622715,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "NA"
         ],
         "pop": 15,
@@ -623000,7 +622775,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "AF",
           "NA",
@@ -623204,7 +622978,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "AF",
           "NA",
@@ -623364,7 +623137,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "AF",
           "NA"
@@ -624317,6 +624089,7 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
+          "CZ",
           "NA"
         ],
         "pop": 8,
@@ -624969,7 +624742,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "NA"
         ],
@@ -626016,7 +625788,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AF",
           "NA",
           "SA",
@@ -626863,8 +626634,7 @@ window.GAME_DATA = [
           }
         ],
         "regions": [
-          "EU",
-          "CZ"
+          "EU"
         ],
         "pop": 14,
         "len": 2155,
@@ -628161,7 +627931,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "AF",
           "NA",
@@ -628439,7 +628208,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "NA"
         ],
@@ -629930,7 +629698,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "NA"
         ],
         "pop": 5,
@@ -630643,7 +630410,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "NA"
         ],
@@ -630846,7 +630612,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "NA"
         ],
         "pop": 15,
@@ -630979,7 +630744,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "NA"
         ],
@@ -634046,7 +633810,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "NA",
           "OC"
@@ -634330,7 +634093,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "AF"
         ],
@@ -635261,8 +635023,7 @@ window.GAME_DATA = [
           }
         ],
         "regions": [
-          "EU",
-          "CZ"
+          "EU"
         ],
         "pop": 43,
         "len": 2304,
@@ -635361,8 +635122,7 @@ window.GAME_DATA = [
           }
         ],
         "regions": [
-          "EU",
-          "CZ"
+          "EU"
         ],
         "pop": 34,
         "len": 1834,
@@ -635471,7 +635231,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "AF",
           "NA"
@@ -635780,7 +635539,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS"
         ],
         "pop": 36,
@@ -636129,7 +635887,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AF"
         ],
         "pop": 29,
@@ -636573,7 +636330,8 @@ window.GAME_DATA = [
         ],
         "facts": [],
         "regions": [
-          "EU"
+          "EU",
+          "CZ"
         ],
         "pop": 6,
         "len": 317,
@@ -636749,8 +636507,7 @@ window.GAME_DATA = [
           }
         ],
         "regions": [
-          "EU",
-          "CZ"
+          "EU"
         ],
         "pop": 15,
         "len": 1681,
@@ -637127,6 +636884,7 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
+          "CZ",
           "AS"
         ],
         "pop": 2,
@@ -638248,7 +638006,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "AF",
           "NA"
@@ -638321,7 +638078,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "NA"
         ],
@@ -638517,7 +638273,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AF",
           "NA",
           "SA",
@@ -638753,7 +638508,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "NA"
         ],
@@ -638822,7 +638576,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "NA"
         ],
@@ -640037,7 +639790,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "NA"
         ],
@@ -641092,8 +640844,7 @@ window.GAME_DATA = [
           }
         ],
         "regions": [
-          "EU",
-          "CZ"
+          "EU"
         ],
         "pop": 19,
         "len": 2687,
@@ -641607,7 +641358,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "AF",
           "NA",
@@ -641784,8 +641534,7 @@ window.GAME_DATA = [
           }
         ],
         "regions": [
-          "EU",
-          "CZ"
+          "EU"
         ],
         "pop": 19,
         "len": 1359,
@@ -642960,7 +642709,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "AF",
           "NA"
@@ -643655,7 +643403,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "NA"
         ],
         "pop": 10,
@@ -643750,7 +643497,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "NA"
         ],
@@ -643969,7 +643715,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "AS",
           "AF",
           "NA",
@@ -644503,7 +644248,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "NA"
         ],
         "pop": 28,
@@ -646052,6 +645796,7 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
+          "CZ",
           "AS"
         ],
         "pop": 27,
@@ -646503,7 +646248,6 @@ window.GAME_DATA = [
         ],
         "regions": [
           "EU",
-          "CZ",
           "NA"
         ],
         "pop": 44,

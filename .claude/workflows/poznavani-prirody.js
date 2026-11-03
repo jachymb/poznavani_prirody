@@ -280,7 +280,7 @@ Přečti ${root}/data/${slug}/continent_jobs/${id}.json. Každá položka má "i
 Kódy: EU Evropa, AS Asie, AF Afrika, NA Severní Amerika (včetně Střední Ameriky a Karibiku), SA Jižní Amerika, AN Antarktida (včetně okolních subantarktických ostrovů a moří), OC Austrálie a Oceánie (včetně Nového Zélandu a Nové Guineje).
 Pravidla:
 - Uveď všechny kontinenty, kde druh dnes žije ve volné přírodě, včetně trvale usazených populací zavlečených člověkem.
-- Vyhynulý druh zařaď tam, kde žil. Domácí nebo chovaný živočich patří tam, odkud pochází, a tam, kde žije zdivočele ve volné přírodě, ne tam, kde žije jen v zajetí (na farmě, v chovu, doma, v zoo). Pěstovaný druh rostliny zařaď tam, kde je běžně pěstován.
+- Vyhynulý druh zařaď tam, kde žil. Domácí nebo chovaný živočich patří tam, odkud pochází, a tam, kde žije zdivočele ve volné přírodě, ne tam, kde žije jen v zajetí (na farmě, v chovu, doma, v zoo). Rostlina patří do oblasti, když tam 1) roste divoce, 2) je zavlečená a zdivočelá nebo zdomácnělá, nebo 3) se tam běžně pěstuje jako hospodářská rostlina (pole, sady, vinice, lesní hospodářství). Pěstování jen pro okrasu (parky, zahrady, arboreta) nebo pro výzkum nestačí.
 - Madagaskar patří k AF, Sibiř a Dálný východ k AS, evropská část Ruska k EU, Sumatra, Borneo a Jáva k AS.
 - Mořský druh zařaď ke kontinentům, u jejichž pobřeží žije. Kosmopolitní druh dostane všechny, kde opravdu žije (AN jen tehdy, když tam skutečně žije).
 - Každý druh musí mít aspoň jeden kód. Nepřiřazuj kontinenty jen podle odhadu z příbuzných.
@@ -293,6 +293,7 @@ Jako výsledek vrať jen slovo HOTOVO.`
 // Lehký model na čtení jednoho článku; negativní úsudek a kontinenty stojí na širší znalosti, proto silnější model.
 // Přísná kontrola běží na výchozím modelu relace.
 // Pojistka pro dávku se špatným id: subagent nesmí vyrobit výstup k úloze, která neexistuje.
+const RULE = 'Rostlina patří do oblasti, když tam 1) roste divoce, 2) je zavlečená a zdivočelá nebo zdomácnělá, nebo 3) se tam běžně pěstuje jako hospodářská rostlina (pole, sady, vinice, lesní hospodářství). Pěstování jen pro okrasu (parky, zahrady, arboreta) nebo pro výzkum nestačí.'
 const GUARD = '\n\nPokud soubor, který máš podle zadání přečíst (úloha nebo článek), neexistuje, nic nezapisuj a vrať jen slovo CHYBÍ.'
 const ask = (prompt, opts) => agent(prompt + GUARD, opts)
 const namesPrompt = (id) => `Hledáš ustálená česká jména taxonů pro dětský přírodovědný kvíz. Vědecké jméno ve hře už je, chybí české.
@@ -379,7 +380,7 @@ Přečti ${root}/data/czech_region/jobs/${id}.json. Každá položka má "id", "
 
 Pravidla (stejná jako u kontinentů):
 - Ano, když druh v Česku žije ve volné přírodě: původní, nebo zavlečený, který se tu trvale usadil či zdivočel. U ptáků stačí pravidelné hnízdění, tah nebo zimování, ojedinělý zatoulaný jedinec nestačí.
-- Ano u rostliny, která se v Česku běžně pěstuje venku (pole, sady, zahrady, parky, lesní výsadby). Ne u pokojových a skleníkových rostlin.
+- Rostlina patří do oblasti, když tam 1) roste divoce, 2) je zavlečená a zdivočelá nebo zdomácnělá, nebo 3) se tam běžně pěstuje jako hospodářská rostlina (pole, sady, vinice, lesní hospodářství). Pěstování jen pro okrasu (parky, zahrady, arboreta) nebo pro výzkum nestačí.
 - Ne, když druh žije v Česku jen v zajetí: zoo, chov, akvárium, terárium, domácí mazlíček. Domácí zvíře (kůň, pes) patří tam, kde se běžně chová venku na statcích a pastvinách, stejně jako na kontinenty podle původu a zdivočelých populací.
 - Vyhynulé druhy a fosílie: ano, když se jejich fosílie nebo pozůstatky našly na území Česka nebo tu prokazatelně žily.
 - Mikroorganismy a cizopasníci: ano, když se v Česku běžně vyskytují (v přírodě, u lidí nebo zvířat).
@@ -393,12 +394,34 @@ const czechCheckPrompt = (id) => `Nezávisle a přísně ověř zařazení druh�
 
 Přečti ${root}/data/czech_region/check_jobs/${id}.json. Každá položka má "id", "name", "latin", "group", "gbif" (počet nálezů v Česku bez zoo a botanických zahrad, null = údaj není) a "first" (původní rozhodnutí). Ověř si výskyt i na webu (BioLib, Pladias, AOPK, ČSO, Česká mykologická společnost, odborné zdroje).
 
-Pravidla: ano, když druh v Česku žije ve volné přírodě (původní, nebo trvale usazený či zdivočelý zavlečený), u ptáků pravidelně hnízdí, táhne nebo zimuje (i v malém počtu); ano u rostliny běžně pěstované venku. Ne u ojedinělých zatoulanců, utečenců ze zajetí, druhů jen v zajetí, pokojových a skleníkových rostlin a mořských druhů. Vyhynulé druhy: ano, když se v Česku našly jejich fosílie. Mikroorganismy a cizopasníci: ano, když se v Česku běžně vyskytují. U málo sledovaných skupin (houby, hmyz, mikroorganismy) chybějící nález v GBIF neznamená, že druh v Česku není.
+Pravidla: ano, když druh v Česku žije ve volné přírodě (původní, nebo trvale usazený či zdivočelý zavlečený), u ptáků pravidelně hnízdí, táhne nebo zimuje (i v malém počtu); Rostlina patří do oblasti, když tam 1) roste divoce, 2) je zavlečená a zdivočelá nebo zdomácnělá, nebo 3) se tam běžně pěstuje jako hospodářská rostlina (pole, sady, vinice, lesní hospodářství). Pěstování jen pro okrasu (parky, zahrady, arboreta) nebo pro výzkum nestačí. Ne u ojedinělých zatoulanců, utečenců ze zajetí, druhů jen v zajetí, pokojových a skleníkových rostlin a mořských druhů. Vyhynulé druhy: ano, když se v Česku našly jejich fosílie. Mikroorganismy a cizopasníci: ano, když se v Česku běžně vyskytují. U málo sledovaných skupin (houby, hmyz, mikroorganismy) chybějící nález v GBIF neznamená, že druh v Česku není.
 
 Zapiš nástrojem Write do ${root}/data/czech_region/checked/${id}.json jen tento JSON s položkou pro každý druh:
 {"Q1": {"cz": true, "why": "krátký důvod se zdrojem"}, "Q2": {"cz": false, "why": "…"}}
 Vrať jen slovo HOTOVO.`
+const czechPlantPrompt = (id) => `Přísně ověř, které rostliny patří do oblasti Česko v dětském kvízu o přírodě. Dosavadní zařazení bylo moc volné (do Česka se dostal sekvojovec jen z parků) a některé druhy chyběly (leknín bělostný).
+
+Přečti ${root}/data/czech_region/plant_jobs/${id}.json. Každá položka má "id", "name", "latin", "gbif" (počet nálezů v Česku v GBIF bez botanických zahrad, null = údaj není) a "now" (dosavadní rozhodnutí).
+
+Pravidlo: ${RULE}
+Zdroje: česká Wikipedie, Pladias (databáze české flóry), BioLib; když nejsou jasné, pozorování na iNaturalist z Česka (https://www.inaturalist.org/observations?place_id=8264&taxon_name=<latinské jméno>, pozorování označená jako pěstovaná se nepočítají). Původní i zdomácnělé druhy české květeny jsou ano, i když jsou vzácné.
+
+Zapiš nástrojem Write do ${root}/data/czech_region/plant_checked/${id}.json jen tento JSON s položkou pro každý druh:
+{"Q1": {"cz": true, "why": "krátký důvod se zdrojem"}, "Q2": {"cz": false, "why": "…"}}
+Vrať jen slovo HOTOVO.`
+const plantRegionsPrompt = (id) => `Přísně ověř kontinenty výskytu rostlin v dětském kvízu o přírodě. Dosavadní pravidlo počítalo i místa, kde se druh pěstuje jen pro okrasu.
+
+Přečti ${root}/data/plant_regions/jobs/${id}.json. Každá položka má "id", "name", "latin" a "continents" (dosavadní kódy). Kódy: EU Evropa, AS Asie, AF Afrika, NA Severní Amerika (včetně Střední Ameriky a Karibiku), SA Jižní Amerika, AN Antarktida, OC Austrálie a Oceánie (včetně Nového Zélandu a Nové Guineje).
+
+Pravidlo: ${RULE}
+Ověř si to v Plants of the World Online (POWO, původní a zavlečený výskyt), na Wikipedii a v dalších odborných zdrojích. Každý druh musí mít aspoň jeden kód (kde je původní).
+
+Zapiš nástrojem Write do ${root}/data/plant_regions/found/${id}.json jen tento JSON s položkou pro každý druh:
+{"Q1": {"continents": ["NA"], "why": "krátký důvod se zdrojem"}}
+Vrať jen slovo HOTOVO.`
 function run({ slug, kingdom, stage }, id) {
+  if (stage === 'czech_plants') return ask(czechPlantPrompt(id), { label: `česko rostliny:${id}`, phase: 'Kontinenty' })
+  if (stage === 'plant_regions') return ask(plantRegionsPrompt(id), { label: `kontinenty rostlin:${id}`, phase: 'Kontinenty' })
   if (stage === 'czech_check') return ask(czechCheckPrompt(id), { label: `ověření česka:${id}`, phase: 'Kontinenty' })
   if (stage === 'czech') return ask(czechPrompt(id), { label: `česko:${id}`, phase: 'Kontinenty', model: 'sonnet' })
   if (stage === 'grammar') return ask(grammarPrompt(id), { label: `gramatika:${id}`, phase: 'Jazyk', model: 'sonnet' })

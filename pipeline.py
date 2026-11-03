@@ -1366,9 +1366,16 @@ def build(slug):
     for file in sorted((base / "continents").glob("*.json")):
         for sid, codes in read_json(file).items():
             where[sid] = [c for c in CONTINENTS if c in codes]
+    # rostliny přísněji: divoce, zdomácnělé, nebo běžně pěstované hospodářsky; okrasné nestačí (zatím cypřišovité)
+    for f in sorted((ROOT / "data" / "plant_regions" / "found").glob("*.json")):
+        for sid, v in read_json(f).items():
+            if sid in where:
+                where[sid] = [c for c in CONTINENTS if c in v["continents"]]
     czech = {sid: yes for f in sorted((CZECH_DIR / "found").glob("*.json")) for sid, yes in read_json(f).items()}
-    # hraniční případy (rozpor s počtem nálezů v GBIF) nezávisle ověřil silnější model, jeho úsudek platí
-    czech.update((sid, v["cz"]) for f in sorted((CZECH_DIR / "checked").glob("*.json")) for sid, v in read_json(f).items())
+    # hraniční případy (rozpor s počtem nálezů v GBIF) a pak všechny rostliny podle přísnějšího pravidla
+    # nezávisle ověřil silnější model; pozdější úsudek platí
+    for folder in ("checked", "plant_checked"):
+        czech.update((sid, v["cz"]) for f in sorted((CZECH_DIR / folder).glob("*.json")) for sid, v in read_json(f).items())
     for sid, codes in where.items():
         if "EU" in codes and czech.get(sid):
             codes.insert(1, "CZ")
