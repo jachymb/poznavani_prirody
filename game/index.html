@@ -401,6 +401,12 @@
     );
   }
 
+  // Tažení myší (označení jména ke zkopírování) není kliknutí. Pozná se podle pohybu, ne podle označeného textu:
+  // ten může zůstat označený odjinud a kliknutí na fotku by pak nefungovalo. Klávesnice (detail 0) je vždy kliknutí.
+  let pressedAt = [0, 0];
+  document.addEventListener("mousedown", (e) => { pressedAt = [e.clientX, e.clientY]; }, true);
+  const dragged = (e) => e.detail > 0 && Math.hypot(e.clientX - pressedAt[0], e.clientY - pressedAt[1]) > 5;
+
   const announce = (text) => { document.getElementById("announce").textContent = text; };
   // Druh bez českého jména má jako jméno latinský název, ten se nemá opakovat.
   const speciesName = (s) => (s.name === s.latin ? [el("i", { lang: "la" }, s.latin)] : [s.name, " ", el("i", { class: "latin", lang: "la" }, s.latin)]);
@@ -434,7 +440,7 @@
     q.shownAt = performance.now();
     const failed = () => photoFailed(q);
     const answers = q.options.map((option, i) => {
-      const onclick = () => answer(q, option, answers, card);
+      const onclick = (e) => dragged(e) || answer(q, option, answers, card);
       const button = q.type === "findPhoto"
         ? el("button", { class: "answer tile", onclick }, photoEl(option.photo, `${q.picture || "Fotka"} ${i + 1}`, "", failed))
         : q.type === "findSpecies"
@@ -469,8 +475,8 @@
   }
 
   function answer(q, chosen, answers, card) {
-    // Dvojklik na „Další otázka“ nesmí rovnou odpovědět na novou otázku. Tažení myší, které označí jméno druhu, není odpověď.
-    if (performance.now() - q.shownAt < 400 || q.done || String(window.getSelection())) return;
+    // Dvojklik na „Další otázka“ nesmí rovnou odpovědět na novou otázku.
+    if (performance.now() - q.shownAt < 400 || q.done) return;
     q.done = true;
     game.photoFailures = 0;
     const right = window.Quiz.isCorrect(q, chosen);
@@ -486,15 +492,12 @@
       if (correct || option === chosen) {
         button.prepend(el("span", { class: "mark", ariaLabel: correct ? "správně" : "špatně" }, correct ? "✅" : "❌"));
       }
-      // Celá odpovězená možnost (fotka i jméno) otevře článek na Wikipedii. Není to <a>, protože text v odkazu nejde označit
-      // tažením myši; tažení (i mimo text) proto nic neotevře, jen obyčejné kliknutí.
+      // Celá odpovězená možnost (fotka i jméno) otevře článek na Wikipedii. Není to <a>, protože text v odkazu nejde označit tažením.
       if (speciesChoice) {
         const open = () => window.open(option.species.wiki, "_blank", "noopener");
-        let downAt = [0, 0];
         button.replaceWith(el("div", {
           class: `${button.className} wiki`, role: "link", tabIndex: 0, title: "Přečíst na Wikipedii",
-          onmousedown: (e) => { downAt = [e.clientX, e.clientY]; },
-          onclick: (e) => Math.hypot(e.clientX - downAt[0], e.clientY - downAt[1]) > 5 || String(window.getSelection()) || open(),
+          onclick: (e) => dragged(e) || open(),
           onkeydown: (e) => e.key === "Enter" && open(),
         }, button.querySelector(".mark"), button.querySelector("img"), el("span", { class: "name" }, ...speciesName(option.species))));
       }
