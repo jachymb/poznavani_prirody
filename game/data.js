@@ -457002,7 +457002,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q133573#x4",
-            "text": "Obsahuje alkaloidy, které mohou způsobovat halucinace.",
+            "text": "Obsahuje alkaloidy, které mohou působit na lidské tělo i mysl.",
             "cat": "účinky",
             "not": [
               "Q108684",
@@ -587691,7 +587691,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q271937#4",
-            "text": "Obsahuje meskalin, který vyvolává halucinace.",
+            "text": "Obsahuje psychedelické alkaloidy.",
             "cat": "účinky",
             "not": [
               "Q147159",
