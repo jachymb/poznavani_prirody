@@ -1160,6 +1160,24 @@ window.GAME_DATA = [
             "author": "Davidvraju",
             "license": "CC0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/House_Shrew_-David_Raju.jpg/500px-House_Shrew_-David_Raju.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Suncu_murin_041203_133_tdp.jpg",
+            "author": "W.A Djatmiko ( Wie146 )",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Suncu_murin_041203_133_tdp.jpg/500px-Suncu_murin_041203_133_tdp.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Suncus_murinus_Shrew.jpg",
+            "author": "Shyamal",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Suncus_murinus_Shrew.jpg/500px-Suncus_murinus_Shrew.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Musara%C3%B1a_casera_(Suncus_murinus),_Curepipe,_Mauricio,_2025-09-25,_DD_04.jpg",
+            "author": "Diego Delso",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Musara%C3%B1a_casera_%28Suncus_murinus%29%2C_Curepipe%2C_Mauricio%2C_2025-09-25%2C_DD_04.jpg/500px-Musara%C3%B1a_casera_%28Suncus_murinus%29%2C_Curepipe%2C_Mauricio%2C_2025-09-25%2C_DD_04.jpg"
           }
         ],
         "facts": [
@@ -2418,6 +2436,18 @@ window.GAME_DATA = [
             "author": "Adamantios",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Macropus-parma-parma-wallaby.jpg/500px-Macropus-parma-parma-wallaby.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Parma_wallaby444.jpg",
+            "author": "Benjamint444",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Parma_wallaby444.jpg/500px-Parma_wallaby444.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Parma_Wallaby_(Macropus_parma).jpg",
+            "author": "Brian Gratwicke from DC, USA",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Parma_Wallaby_%28Macropus_parma%29.jpg/500px-Parma_Wallaby_%28Macropus_parma%29.jpg"
           }
         ],
         "facts": [
@@ -10189,6 +10219,18 @@ window.GAME_DATA = [
             "author": "Joey Makalintal from Pennsylvania, USA",
             "license": "CC BY 2.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Rhynchocyon_petersi_from_side.jpg/500px-Rhynchocyon_petersi_from_side.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Macroscelididae_Rhynchocyon_petersi_1.jpg",
+            "author": "NasserHalaweh",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Macroscelididae_Rhynchocyon_petersi_1.jpg/500px-Macroscelididae_Rhynchocyon_petersi_1.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Black_and_rufous_giant_elephant-shrew_(Rhynchocyon_petersi)_3.jpg",
+            "author": "Cliff",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Black_and_rufous_giant_elephant-shrew_%28Rhynchocyon_petersi%29_3.jpg/500px-Black_and_rufous_giant_elephant-shrew_%28Rhynchocyon_petersi%29_3.jpg"
           }
         ],
         "facts": [
@@ -18714,6 +18756,18 @@ window.GAME_DATA = [
             "author": "Jacky Judas",
             "license": "CC BY 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Papio_hamadryas_222958368.jpg/500px-Papio_hamadryas_222958368.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Papio_hamadryas_258448410.jpg",
+            "author": "Tony King",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Papio_hamadryas_258448410.jpg/500px-Papio_hamadryas_258448410.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Monkey_in_the_Taif.jpg",
+            "author": "Ankbout",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Monkey_in_the_Taif.jpg/500px-Monkey_in_the_Taif.jpg"
           }
         ],
         "facts": [
@@ -18874,6 +18928,24 @@ window.GAME_DATA = [
             "author": "Carlos Guilherme Rodrigues",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Carlos_Guilherme_Rodrigues_%2876515283%29.jpeg/500px-Carlos_Guilherme_Rodrigues_%2876515283%29.jpeg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Said_red-nose-day,_man%3F%3F%3F_(15583038206).jpg",
+            "author": "Rolf Dietrich Brecher from Germany",
+            "license": "CC BY-SA 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Said_red-nose-day%2C_man%3F%3F%3F_%2815583038206%29.jpg/500px-Said_red-nose-day%2C_man%3F%3F%3F_%2815583038206%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:%E5%8C%97%E4%BA%AC%E5%8A%A8%E7%89%A9%E5%9B%AD%E7%9A%84%E5%B1%B1%E9%AD%88.jpg",
+            "author": "李巍",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/%E5%8C%97%E4%BA%AC%E5%8A%A8%E7%89%A9%E5%9B%AD%E7%9A%84%E5%B1%B1%E9%AD%88.jpg/500px-%E5%8C%97%E4%BA%AC%E5%8A%A8%E7%89%A9%E5%9B%AD%E7%9A%84%E5%B1%B1%E9%AD%88.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Mandrill_and_flower.jpg",
+            "author": "Brocken Inaglory",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Mandrill_and_flower.jpg/500px-Mandrill_and_flower.jpg"
           }
         ],
         "facts": [
@@ -19049,6 +19121,12 @@ window.GAME_DATA = [
             "author": "Lilly M",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Cervus_nippon_002.jpg/500px-Cervus_nippon_002.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:HB2A4181-CR3_DxO_DeepPRIME_5030.jpg",
+            "author": "Olga Havlíčková",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/HB2A4181-CR3_DxO_DeepPRIME_5030.jpg/500px-HB2A4181-CR3_DxO_DeepPRIME_5030.jpg"
           }
         ],
         "facts": [
@@ -19142,6 +19220,12 @@ window.GAME_DATA = [
             "author": "Rawpixel Ltd",
             "license": "CC BY 2.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Fishing_Cat_%282006%29_by_Jessie_Cohen._Original_from_Smithsonian%27s_National_Zoo._Digitally_enhanced_by_rawpixel._%2851128404161%29.jpg/500px-Fishing_Cat_%282006%29_by_Jessie_Cohen._Original_from_Smithsonian%27s_National_Zoo._Digitally_enhanced_by_rawpixel._%2851128404161%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Prionailurus_viverrinus_07.jpg",
+            "author": "Michael Bentley",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Prionailurus_viverrinus_07.jpg/500px-Prionailurus_viverrinus_07.jpg"
           }
         ],
         "facts": [
@@ -20184,6 +20268,30 @@ window.GAME_DATA = [
             "author": "NAPARAZZI",
             "license": "CC BY-SA 2.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Bongo_%2801%29.jpg/500px-Bongo_%2801%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Bongo_003.jpg",
+            "author": "Ltshears",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Bongo_003.jpg/500px-Bongo_003.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Bongo3.jpg",
+            "author": "Ltshears",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Bongo3.jpg/500px-Bongo3.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Bongo_002.jpg",
+            "author": "Ltshears",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Bongo_002.jpg/500px-Bongo_002.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Baby_Bongo_at_the_Louisville_Zoo.jpg",
+            "author": "Trisha Shears Ltshears from Louisville, Kentucky, United States",
+            "license": "CC BY-SA 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Baby_Bongo_at_the_Louisville_Zoo.jpg/500px-Baby_Bongo_at_the_Louisville_Zoo.jpg"
           }
         ],
         "facts": [
@@ -21018,6 +21126,12 @@ window.GAME_DATA = [
             "author": "Francisco Sánchez Karste",
             "license": "CC BY 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Caenolestes_fuliginosus_514773594.jpg/500px-Caenolestes_fuliginosus_514773594.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Caenolestes_fuliginosus.jpg",
+            "author": "Francisco Sánchez Karste",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Caenolestes_fuliginosus.jpg/500px-Caenolestes_fuliginosus.jpg"
           }
         ],
         "facts": [
@@ -21396,6 +21510,24 @@ window.GAME_DATA = [
             "author": "Fernando Flores",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Rabipelado_Didelphis_Marsupialis_%2828574977%29.jpeg/500px-Rabipelado_Didelphis_Marsupialis_%2828574977%29.jpeg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Didelphis_marsupialis_bragan%C3%A7a-PA-brazil.jpg",
+            "author": "Umehlig",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Didelphis_marsupialis_bragan%C3%A7a-PA-brazil.jpg/500px-Didelphis_marsupialis_bragan%C3%A7a-PA-brazil.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Rabipelao.jpg",
+            "author": "Juan Tello",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Rabipelao.jpg/500px-Rabipelao.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Didelphis_marsupialis_-_Barrancabermeja,_Santander,_Colombia_-_2_Jun_2025_-_1.jpg",
+            "author": "Diferoch",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Didelphis_marsupialis_-_Barrancabermeja%2C_Santander%2C_Colombia_-_2_Jun_2025_-_1.jpg/500px-Didelphis_marsupialis_-_Barrancabermeja%2C_Santander%2C_Colombia_-_2_Jun_2025_-_1.jpg"
           }
         ],
         "facts": [
@@ -21639,6 +21771,12 @@ window.GAME_DATA = [
             "author": "Rennett Stowe from USA",
             "license": "CC BY 2.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Allen%27s_Swamp_Monkey_%2835039622760%29.jpg/500px-Allen%27s_Swamp_Monkey_%2835039622760%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:AllensSwampMonkeyOregonZoo.jpg",
+            "author": "User:Cacophony",
+            "license": "CC BY 2.5",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/AllensSwampMonkeyOregonZoo.jpg/500px-AllensSwampMonkeyOregonZoo.jpg"
           }
         ],
         "facts": [
@@ -22807,6 +22945,24 @@ window.GAME_DATA = [
             "author": "Mike Doherty",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Risso%27s_Dolphin_in_Monterey_Bay_%28cropped%29.jpg/500px-Risso%27s_Dolphin_in_Monterey_Bay_%28cropped%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Grampus_griseus_7402615.jpg",
+            "author": "William Terry Hunefeld",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Grampus_griseus_7402615.jpg/500px-Grampus_griseus_7402615.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Risso%27s_Dolphin_in_Monterey_Bay.jpg",
+            "author": "Mike Doherty",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Risso%27s_Dolphin_in_Monterey_Bay.jpg/500px-Risso%27s_Dolphin_in_Monterey_Bay.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Grampus_griseus_7402615_(cropped).jpg",
+            "author": "William Terry Hunefeld",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Grampus_griseus_7402615_%28cropped%29.jpg/500px-Grampus_griseus_7402615_%28cropped%29.jpg"
           }
         ],
         "facts": [
@@ -24528,6 +24684,18 @@ window.GAME_DATA = [
             "author": "Stanislaw Szydlo",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Kret_mole.jpg/500px-Kret_mole.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Talpa_europaea_(Freising,_Deutschland)_5.jpg",
+            "author": "Christoph Moning",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Talpa_europaea_%28Freising%2C_Deutschland%29_5.jpg/500px-Talpa_europaea_%28Freising%2C_Deutschland%29_5.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Mr_Mole.jpg",
+            "author": "Mick E. Talbot",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Mr_Mole.jpg/500px-Mr_Mole.jpg"
           }
         ],
         "facts": [
@@ -26764,6 +26932,12 @@ window.GAME_DATA = [
             "author": "Pailoolom",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Binturong_feeding_on_fig_fruits_in_Khao_Yai_National_Park.jpg/500px-Binturong_feeding_on_fig_fruits_in_Khao_Yai_National_Park.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Binturong_diatas_pohon.jpg",
+            "author": "Joni Manurung",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Binturong_diatas_pohon.jpg/500px-Binturong_diatas_pohon.jpg"
           }
         ],
         "facts": [
@@ -29112,6 +29286,24 @@ window.GAME_DATA = [
             "author": "Editinf",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Kiang%28Equus_kiang%29_Leh_Ladakh.jpg/500px-Kiang%28Equus_kiang%29_Leh_Ladakh.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Kiang_576998200.jpg",
+            "author": "no rights reserved",
+            "license": "CC0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Kiang_576998200.jpg/500px-Kiang_576998200.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Kaing_By_Stanzon_(Stakpa).jpg",
+            "author": "Stanzinnamgail",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Kaing_By_Stanzon_%28Stakpa%29.jpg/500px-Kaing_By_Stanzon_%28Stakpa%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Kyang_at_Tsomoriri.jpg",
+            "author": "Jacques Pire",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Kyang_at_Tsomoriri.jpg/500px-Kyang_at_Tsomoriri.jpg"
           }
         ],
         "facts": [
@@ -29503,6 +29695,18 @@ window.GAME_DATA = [
             "author": "Charles J. Sharp",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Sambar_%28Cervus_unicolor_unicolor%29_male.jpg/500px-Sambar_%28Cervus_unicolor_unicolor%29_male.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Sambar_Deer,_female._Servus_unicolor_-_Flickr_-_gailhampshire_(1).jpg",
+            "author": "gailhampshire from Cradley, Malvern, U.K",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Sambar_Deer%2C_female._Servus_unicolor_-_Flickr_-_gailhampshire_%281%29.jpg/500px-Sambar_Deer%2C_female._Servus_unicolor_-_Flickr_-_gailhampshire_%281%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Sambhar_deer_(32872029808).jpg",
+            "author": "Kandukuru Nagarjun from Bangalore, India",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Sambhar_deer_%2832872029808%29.jpg/500px-Sambhar_deer_%2832872029808%29.jpg"
           }
         ],
         "facts": [
@@ -31985,6 +32189,18 @@ window.GAME_DATA = [
             "author": "PJeganathan",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Pygmy_Hog_Research_and_Breeding_Centre_IMG_3749.jpg/500px-Pygmy_Hog_Research_and_Breeding_Centre_IMG_3749.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Pygmy_Hog_Research_and_Breeding_Centre_IMG_3698.jpg",
+            "author": "PJeganathan",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Pygmy_Hog_Research_and_Breeding_Centre_IMG_3698.jpg/500px-Pygmy_Hog_Research_and_Breeding_Centre_IMG_3698.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Pygmy_Hog_Research_and_Breeding_Centre_IMG_3700.jpg",
+            "author": "PJeganathan",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Pygmy_Hog_Research_and_Breeding_Centre_IMG_3700.jpg/500px-Pygmy_Hog_Research_and_Breeding_Centre_IMG_3700.jpg"
           }
         ],
         "facts": [
@@ -32932,6 +33148,18 @@ window.GAME_DATA = [
             "author": "Carlos Henrique Luz Nunes de Almeida",
             "license": "CC BY 3.0",
             "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Lycalopex_vetulus_Carlos_Henrique_1.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Lycalopex_vetulus_in_Bacury_Lodge,_Anhembi_3.jpg",
+            "author": "Steven Whitebread",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Lycalopex_vetulus_in_Bacury_Lodge%2C_Anhembi_3.jpg/500px-Lycalopex_vetulus_in_Bacury_Lodge%2C_Anhembi_3.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Raposinha_do_campo_(Lycalopex_vetulus).jpg",
+            "author": "Anderson Bueno Martins",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Raposinha_do_campo_%28Lycalopex_vetulus%29.jpg/500px-Raposinha_do_campo_%28Lycalopex_vetulus%29.jpg"
           }
         ],
         "facts": [
@@ -38522,6 +38750,18 @@ window.GAME_DATA = [
             "author": "International Rhino Foundation",
             "license": "CC BY 2.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Sumatran_rhinoceros_resting.jpg/500px-Sumatran_rhinoceros_resting.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Sumatran_Rhinoceros_at_Sumatran_Rhino_Sanctuary_Lampung_Indonesia_2013_(cropped).JPG",
+            "author": "26Isabella",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Sumatran_Rhinoceros_at_Sumatran_Rhino_Sanctuary_Lampung_Indonesia_2013_%28cropped%29.JPG/500px-Sumatran_Rhinoceros_at_Sumatran_Rhino_Sanctuary_Lampung_Indonesia_2013_%28cropped%29.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Sumatran_Rhinoceros_Way_Kambas_2008.jpg",
+            "author": "Willem v Strien",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Sumatran_Rhinoceros_Way_Kambas_2008.jpg/500px-Sumatran_Rhinoceros_Way_Kambas_2008.jpg"
           }
         ],
         "facts": [
@@ -41358,6 +41598,18 @@ window.GAME_DATA = [
             "author": "ShenandoahNPS",
             "license": "Public domain",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Spotted_Skunk_%2845518356292%29.jpg/500px-Spotted_Skunk_%2845518356292%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Eastern_Spotted_Skunk_(48934800418).jpg",
+            "author": "U.S. Fish and Wildlife Service - Midwest Region",
+            "license": "Public domain",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Eastern_Spotted_Skunk_%2848934800418%29.jpg/500px-Eastern_Spotted_Skunk_%2848934800418%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Eastern_Spotted_Skunk_(48934800418)_(cropped).jpg",
+            "author": "U.S. Fish and Wildlife Service - Midwest Region",
+            "license": "Public domain",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Eastern_Spotted_Skunk_%2848934800418%29_%28cropped%29.jpg/500px-Eastern_Spotted_Skunk_%2848934800418%29_%28cropped%29.jpg"
           }
         ],
         "facts": [
@@ -41826,6 +42078,24 @@ window.GAME_DATA = [
             "author": "User:Shankar Raman",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Rustyspottedcat.jpg/500px-Rustyspottedcat.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:%E0%B0%A4%E0%B1%86%E0%B0%B2%E0%B0%82%E0%B0%97%E0%B0%BE%E0%B0%A3_%E0%B0%A8%E0%B0%B2%E0%B1%8D%E0%B0%B2%E0%B0%AE%E0%B0%B2%E0%B1%8D%E0%B0%B2_%E0%B0%AF%E0%B1%8A%E0%B0%95%E0%B1%8D%E0%B0%95_%E0%B0%85%E0%B0%82%E0%B0%A4%E0%B1%81_%E0%B0%9A%E0%B0%BF%E0%B0%95%E0%B1%8D%E0%B0%95%E0%B0%A8%E0%B0%BF_%E0%B0%B0%E0%B0%B9%E0%B0%B8%E0%B1%8D%E0%B0%AF%E0%B0%BE%E0%B0%B2_%E0%B0%85%E0%B0%A6%E0%B1%8D%E0%B0%AD%E0%B1%81%E0%B0%A4%E0%B0%BE%E0%B0%B2%E0%B0%95%E0%B1%81_%E0%B0%AA%E0%B1%8D%E0%B0%B0%E0%B0%A4%E0%B1%80%E0%B0%95_03.jpg",
+            "author": "Shiv's fotografia",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/%E0%B0%A4%E0%B1%86%E0%B0%B2%E0%B0%82%E0%B0%97%E0%B0%BE%E0%B0%A3_%E0%B0%A8%E0%B0%B2%E0%B1%8D%E0%B0%B2%E0%B0%AE%E0%B0%B2%E0%B1%8D%E0%B0%B2_%E0%B0%AF%E0%B1%8A%E0%B0%95%E0%B1%8D%E0%B0%95_%E0%B0%85%E0%B0%82%E0%B0%A4%E0%B1%81_%E0%B0%9A%E0%B0%BF%E0%B0%95%E0%B1%8D%E0%B0%95%E0%B0%A8%E0%B0%BF_%E0%B0%B0%E0%B0%B9%E0%B0%B8%E0%B1%8D%E0%B0%AF%E0%B0%BE%E0%B0%B2_%E0%B0%85%E0%B0%A6%E0%B1%8D%E0%B0%AD%E0%B1%81%E0%B0%A4%E0%B0%BE%E0%B0%B2%E0%B0%95%E0%B1%81_%E0%B0%AA%E0%B1%8D%E0%B0%B0%E0%B0%A4%E0%B1%80%E0%B0%95_03.jpg/500px-thumbnail.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Screenshot_20230306_161304_Gallery.jpg",
+            "author": "Shiv's fotografia",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Screenshot_20230306_161304_Gallery.jpg/500px-Screenshot_20230306_161304_Gallery.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Rusty_spotted_cat_2,_crop.jpg",
+            "author": "Davidvraju",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Rusty_spotted_cat_2%2C_crop.jpg/500px-Rusty_spotted_cat_2%2C_crop.jpg"
           }
         ],
         "facts": [
@@ -42978,6 +43248,24 @@ window.GAME_DATA = [
             "author": "D. Gordon E. Robertson",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Bushbuck_female.jpg/500px-Bushbuck_female.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Oh_Deer.jpg",
+            "author": "Gofei6629",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Oh_Deer.jpg/500px-Oh_Deer.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Tragelaphus_scriptus_474363866.jpg",
+            "author": "martin ingemansson",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Tragelaphus_scriptus_474363866.jpg/500px-Tragelaphus_scriptus_474363866.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:A_Cute_Bushbuck_in_the_Bush.jpg",
+            "author": "Suglo20",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/A_Cute_Bushbuck_in_the_Bush.jpg/500px-A_Cute_Bushbuck_in_the_Bush.jpg"
           }
         ],
         "facts": [
@@ -46290,6 +46578,42 @@ window.GAME_DATA = [
             "author": "Ipaat .",
             "license": "Public domain",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Uakari_male.jpg/500px-Uakari_male.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Cacajao_calvus_206605203.jpg",
+            "author": "Whaldener Endo",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Cacajao_calvus_206605203.jpg/500px-Cacajao_calvus_206605203.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Cacajao_calvus_278826311.jpg",
+            "author": "Thiago Bicudo",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Cacajao_calvus_278826311.jpg/500px-Cacajao_calvus_278826311.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Cacajao_calvus_Amazonia.jpg",
+            "author": "Aaron Martin",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Cacajao_calvus_Amazonia.jpg/500px-Cacajao_calvus_Amazonia.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Cacajao_calvus_Amazonia_2.jpg",
+            "author": "Aaron Martin",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Cacajao_calvus_Amazonia_2.jpg/500px-Cacajao_calvus_Amazonia_2.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Cacajao_calvus_red_uakari.jpg",
+            "author": "Brian Ritchie",
+            "license": "CC BY-SA 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Cacajao_calvus_red_uakari.jpg/500px-Cacajao_calvus_red_uakari.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Cacajao_calvus_Amazonia_3.jpg",
+            "author": "Aaron Martin",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Cacajao_calvus_Amazonia_3.jpg/500px-Cacajao_calvus_Amazonia_3.jpg"
           }
         ],
         "facts": [
@@ -52089,6 +52413,12 @@ window.GAME_DATA = [
             "author": "Kathleen Dobson",
             "license": "CC BY 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Aplodontia_rufa_75985702.jpg/500px-Aplodontia_rufa_75985702.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Mountain_Beaver,_Mount_Rainier_National_Park_(6b47bd0dae0b4dea8d5bff273d3a4e44).jpg",
+            "author": "Loren Lane ( MORA )",
+            "license": "Public domain",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Mountain_Beaver%2C_Mount_Rainier_National_Park_%286b47bd0dae0b4dea8d5bff273d3a4e44%29.jpg/500px-Mountain_Beaver%2C_Mount_Rainier_National_Park_%286b47bd0dae0b4dea8d5bff273d3a4e44%29.jpg"
           }
         ],
         "facts": [
@@ -56365,6 +56695,12 @@ window.GAME_DATA = [
             "author": "Mount Rainier National Park from Ashford, WA, United States",
             "license": "Public domain",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Fishers_%2814791070753%29.jpg/500px-Fishers_%2814791070753%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Fisher_walking_in_snow_-_DPLA_-_9f57e455a05a76917b98033b2234a79d.jpg",
+            "author": "Garst, Warren, 1922-2016, photographer",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Fisher_walking_in_snow_-_DPLA_-_9f57e455a05a76917b98033b2234a79d.jpg/500px-Fisher_walking_in_snow_-_DPLA_-_9f57e455a05a76917b98033b2234a79d.jpg"
           }
         ],
         "facts": [
@@ -57013,6 +57349,24 @@ window.GAME_DATA = [
             "author": "Paulo Mascaretti",
             "license": "CC0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Saguinus_mystax_-_Paulo_Mascaretti_-_544416493.jpeg/500px-Saguinus_mystax_-_Paulo_Mascaretti_-_544416493.jpeg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Saguinus_mystax_1zz.jpg",
+            "author": "Photo by David J. Stang",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Saguinus_mystax_1zz.jpg/500px-Saguinus_mystax_1zz.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Saguinus_mystax_Prague_04.jpg",
+            "author": "MarvinCZ",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Saguinus_mystax_Prague_04.jpg/500px-Saguinus_mystax_Prague_04.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Saguinus_mystax_3zz.jpg",
+            "author": "Photo by David J. Stang",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Saguinus_mystax_3zz.jpg/500px-Saguinus_mystax_3zz.jpg"
           }
         ],
         "facts": [
@@ -60716,6 +61070,12 @@ window.GAME_DATA = [
             "author": "D. Gordon E. Robertson",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Visayan_Spotted_Deer_%28Rusa_alfredi%29.jpg/500px-Visayan_Spotted_Deer_%28Rusa_alfredi%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Cervus_alfredi4.jpg",
+            "author": "Magalhães",
+            "license": "Public domain",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Cervus_alfredi4.jpg/500px-Cervus_alfredi4.jpg"
           }
         ],
         "facts": [
@@ -61083,6 +61443,36 @@ window.GAME_DATA = [
             "author": "Simon J. Tonge",
             "license": "CC BY 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Pteropus_vampyrus_headshot.jpeg/500px-Pteropus_vampyrus_headshot.jpeg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Pteropus_vampyrus_435399937.jpg",
+            "author": "Justin Philbois",
+            "license": "CC0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Pteropus_vampyrus_435399937.jpg/500px-Pteropus_vampyrus_435399937.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Pteropus_vampyrus_435399917.jpg",
+            "author": "Justin Philbois",
+            "license": "CC0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Pteropus_vampyrus_435399917.jpg/500px-Pteropus_vampyrus_435399917.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:%D0%9A%D0%B0%D0%BB%D0%BE%D0%BD%D0%B3.jpg",
+            "author": "DaryaDarkina2019",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/%D0%9A%D0%B0%D0%BB%D0%BE%D0%BD%D0%B3.jpg/500px-%D0%9A%D0%B0%D0%BB%D0%BE%D0%BD%D0%B3.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Pteropus_vampyrus.jpg",
+            "author": "Masteraah",
+            "license": "CC BY-SA 2.0 de",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Pteropus_vampyrus.jpg/500px-Pteropus_vampyrus.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Philippine_Giant_Fruit_Bat_Pteropus_vampyrus_lanensis_(16523314302).jpg",
+            "author": "Len Worthington",
+            "license": "CC BY-SA 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Philippine_Giant_Fruit_Bat_Pteropus_vampyrus_lanensis_%2816523314302%29.jpg/500px-Philippine_Giant_Fruit_Bat_Pteropus_vampyrus_lanensis_%2816523314302%29.jpg"
           }
         ],
         "facts": [
@@ -61413,6 +61803,12 @@ window.GAME_DATA = [
             "author": "Vassil",
             "license": "CC0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Potamochoerus_porcus_Zoo_Amneville_28092014_2.jpg/500px-Potamochoerus_porcus_Zoo_Amneville_28092014_2.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Gfp-red-river-hog.jpg",
+            "author": "Yinan Chen",
+            "license": "Public Domain",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Gfp-red-river-hog.jpg/500px-Gfp-red-river-hog.jpg"
           }
         ],
         "facts": [
@@ -61802,6 +62198,12 @@ window.GAME_DATA = [
             "author": "Eduardo Chacón-Madrigal",
             "license": "CC BY 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Chironectes_minimus_91742388.jpg/500px-Chironectes_minimus_91742388.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Chironectes_minimus_135211886.jpg",
+            "author": "Pedro Aguilar",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Chironectes_minimus_135211886.jpg/500px-Chironectes_minimus_135211886.jpg"
           }
         ],
         "facts": [
@@ -62818,6 +63220,18 @@ window.GAME_DATA = [
             "author": "James Eaton",
             "license": "CC0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Pentalagus_furnessi_-_James_Eaton_-_725746717.jpeg/500px-Pentalagus_furnessi_-_James_Eaton_-_725746717.jpeg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Pentalagus_furnessi_-_James_Eaton_-_725746683.jpeg",
+            "author": "James Eaton",
+            "license": "CC0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Pentalagus_furnessi_-_James_Eaton_-_725746683.jpeg/500px-Pentalagus_furnessi_-_James_Eaton_-_725746683.jpeg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Pentalagus_furnessi_-_James_Eaton_-_725746685.jpeg",
+            "author": "James Eaton",
+            "license": "CC0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Pentalagus_furnessi_-_James_Eaton_-_725746685.jpeg/500px-Pentalagus_furnessi_-_James_Eaton_-_725746685.jpeg"
           }
         ],
         "facts": [
@@ -63891,6 +64305,18 @@ window.GAME_DATA = [
             "author": "Juan Cruzado Cortés",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Diphylla_ecaudata_61783011.jpg/500px-Diphylla_ecaudata_61783011.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Diphylla_ecaudata_-_Justin_Philbois_-_579605862.jpeg",
+            "author": "Justin Philbois",
+            "license": "CC0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Diphylla_ecaudata_-_Justin_Philbois_-_579605862.jpeg/500px-Diphylla_ecaudata_-_Justin_Philbois_-_579605862.jpeg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Diphylla_ecaudata_59191101.jpg",
+            "author": "Juan Cruzado Cortés",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Diphylla_ecaudata_59191101.jpg/500px-Diphylla_ecaudata_59191101.jpg"
           }
         ],
         "facts": [
@@ -65437,6 +65863,12 @@ window.GAME_DATA = [
             "author": "Peterwchen",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Rhus_typhina-Peromyscus_leucopus-female.jpg/500px-Rhus_typhina-Peromyscus_leucopus-female.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:White-footed_Mouse,_Quetico.jpg",
+            "author": "D. Gordon E. Robertson",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/White-footed_Mouse%2C_Quetico.jpg/500px-White-footed_Mouse%2C_Quetico.jpg"
           }
         ],
         "facts": [
@@ -67274,6 +67706,12 @@ window.GAME_DATA = [
             "author": "Auster99",
             "license": "CC BY 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Hairy-Nosed_Otter.jpg/500px-Hairy-Nosed_Otter.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Hairy-nosed_Otter_Danum_Valley.jpg",
+            "author": "Auster99",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Hairy-nosed_Otter_Danum_Valley.jpg/500px-Hairy-nosed_Otter_Danum_Valley.jpg"
           }
         ],
         "facts": [
@@ -70887,6 +71325,12 @@ window.GAME_DATA = [
             "author": "Ben P",
             "license": "CC BY 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Leontopithecus_chrysomelas_329325273.jpg/500px-Leontopithecus_chrysomelas_329325273.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Deux_tamarins-lions_%C3%A0_t%C3%AAte_dor%C3%A9e.jpg",
+            "author": "Dinkum",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Deux_tamarins-lions_%C3%A0_t%C3%AAte_dor%C3%A9e.jpg/500px-Deux_tamarins-lions_%C3%A0_t%C3%AAte_dor%C3%A9e.jpg"
           }
         ],
         "facts": [
@@ -71227,6 +71671,12 @@ window.GAME_DATA = [
             "author": "Scott Harris",
             "license": "CC BY 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Tlacuatzin_canescens_252672430.jpg/500px-Tlacuatzin_canescens_252672430.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Tlacuatzin_canescens_canescens_2178402.jpg",
+            "author": "Jorge Armín Escalante Pasos",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Tlacuatzin_canescens_canescens_2178402.jpg/500px-Tlacuatzin_canescens_canescens_2178402.jpg"
           }
         ],
         "facts": [
@@ -73616,6 +74066,42 @@ window.GAME_DATA = [
             "author": "Clément Bardot",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Saki_%C3%A0_face_blanche.jpg/500px-Saki_%C3%A0_face_blanche.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Pithecia_pithecia_-_Karlsruhe_Zoo_01.jpg",
+            "author": "H. Zell",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Pithecia_pithecia_-_Karlsruhe_Zoo_01.jpg/500px-Pithecia_pithecia_-_Karlsruhe_Zoo_01.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:P._pithecia,_Krefeld_(DE)_--_2023_--_0054.jpg",
+            "author": "Anil Öztas",
+            "license": "FAL",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/P._pithecia%2C_Krefeld_%28DE%29_--_2023_--_0054.jpg/500px-P._pithecia%2C_Krefeld_%28DE%29_--_2023_--_0054.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:P._pithecia,_Krefeld_(DE)_--_2023_--_0060.jpg",
+            "author": "Anil Öztas",
+            "license": "FAL",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/P._pithecia%2C_Krefeld_%28DE%29_--_2023_--_0060.jpg/500px-P._pithecia%2C_Krefeld_%28DE%29_--_2023_--_0060.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:P._pithecia,_Krefeld_(DE)_--_2023_--_0059.jpg",
+            "author": "Anil Öztas",
+            "license": "FAL",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/P._pithecia%2C_Krefeld_%28DE%29_--_2023_--_0059.jpg/500px-P._pithecia%2C_Krefeld_%28DE%29_--_2023_--_0059.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Pithecia_pithecia_-_Karlsruhe_Zoo_02.jpg",
+            "author": "H. Zell",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Pithecia_pithecia_-_Karlsruhe_Zoo_02.jpg/500px-Pithecia_pithecia_-_Karlsruhe_Zoo_02.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:P._pithecia,_Krefeld_(DE)_--_2023_--_0063.jpg",
+            "author": "Anil Öztas",
+            "license": "FAL",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/P._pithecia%2C_Krefeld_%28DE%29_--_2023_--_0063.jpg/500px-P._pithecia%2C_Krefeld_%28DE%29_--_2023_--_0063.jpg"
           }
         ],
         "facts": [
@@ -74353,6 +74839,18 @@ window.GAME_DATA = [
             "author": "Julian Pietragalla",
             "license": "CC BY 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Capromys_pilorides_396148933.jpg/500px-Capromys_pilorides_396148933.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Capromys_pilorides_26734271.jpg",
+            "author": "Thibaud Aronson",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Capromys_pilorides_26734271.jpg/500px-Capromys_pilorides_26734271.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Capromys_pilorides_69594652.jpg",
+            "author": "gery-dupas",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Capromys_pilorides_69594652.jpg/500px-Capromys_pilorides_69594652.jpg"
           }
         ],
         "facts": [
@@ -75053,6 +75551,12 @@ window.GAME_DATA = [
             "author": "Bjørn Christian Tørrissen",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Portrait_of_a_Douc.jpg/500px-Portrait_of_a_Douc.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Pygathrix_nemaeus_365027497.jpg",
+            "author": "Chris Oldnall",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Pygathrix_nemaeus_365027497.jpg/500px-Pygathrix_nemaeus_365027497.jpg"
           }
         ],
         "facts": [
@@ -77469,6 +77973,18 @@ window.GAME_DATA = [
             "author": "Peggy Motsch",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Cephus.JPG/500px-Cephus.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Blaumaulmeerkatze_Cercopithecus_cephus_Tierpark_Hellabrunn-7.jpg",
+            "author": "Rufus46",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Blaumaulmeerkatze_Cercopithecus_cephus_Tierpark_Hellabrunn-7.jpg/500px-Blaumaulmeerkatze_Cercopithecus_cephus_Tierpark_Hellabrunn-7.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Blaumaulmeerkatze_Cercopithecus_cephus_Tierpark_Hellabrunn-1.jpg",
+            "author": "Rufus46",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Blaumaulmeerkatze_Cercopithecus_cephus_Tierpark_Hellabrunn-1.jpg/500px-Blaumaulmeerkatze_Cercopithecus_cephus_Tierpark_Hellabrunn-1.jpg"
           }
         ],
         "facts": [
@@ -78680,6 +79196,24 @@ window.GAME_DATA = [
             "author": "Helgen K, Pinto C, Kays R, Helgen L, Tsuchiya M, Quinn A, Wilson D, Maldonado J",
             "license": "CC BY 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Bassaricyon_gabbii.jpg/500px-Bassaricyon_gabbii.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Bushy_tailed_olingo-2.jpg",
+            "author": "Bushy_tailed_olingo.jpg : Jeremy Gatten derivative work: WolfmanSF ( talk )",
+            "license": "CC BY-SA 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Bushy_tailed_olingo-2.jpg/500px-Bushy_tailed_olingo-2.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Bassaricyon_gabbii_89638928.jpg",
+            "author": "Thomas Galewski",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Bassaricyon_gabbii_89638928.jpg/500px-Bassaricyon_gabbii_89638928.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Bassaricyon_gabbii_6739932.jpg",
+            "author": "Lena Struwe",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Bassaricyon_gabbii_6739932.jpg/500px-Bassaricyon_gabbii_6739932.jpg"
           }
         ],
         "facts": [
@@ -85744,6 +86278,24 @@ window.GAME_DATA = [
             "author": "JJ Harrison",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Western_Parotia_displaying_0A2A4405.jpg/500px-Western_Parotia_displaying_0A2A4405.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Western_Parotia_displaying_0A2A4392.jpg",
+            "author": "JJ Harrison",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Western_Parotia_displaying_0A2A4392.jpg/500px-Western_Parotia_displaying_0A2A4392.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Western_Parotia_displaying_0A2A4456.jpg",
+            "author": "JJ Harrison",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Western_Parotia_displaying_0A2A4456.jpg/500px-Western_Parotia_displaying_0A2A4456.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Western_Parotia_female_0A2A9357_(cropped).jpg",
+            "author": "JJ Harrison",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Western_Parotia_female_0A2A9357_%28cropped%29.jpg/500px-Western_Parotia_female_0A2A9357_%28cropped%29.jpg"
           }
         ],
         "facts": [
@@ -86512,6 +87064,12 @@ window.GAME_DATA = [
             "author": "Jay Paul Campaner Mantuon",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Southern_Rufous_Hornbill.jpg/500px-Southern_Rufous_Hornbill.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Buceros_hydrocorax_-Zoo_de_La_Palmyre,_Les_Mathes,_France-8a.jpg",
+            "author": "Tony Brierton from Still here..., Ireland",
+            "license": "CC BY-SA 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Buceros_hydrocorax_-Zoo_de_La_Palmyre%2C_Les_Mathes%2C_France-8a.jpg/500px-Buceros_hydrocorax_-Zoo_de_La_Palmyre%2C_Les_Mathes%2C_France-8a.jpg"
           }
         ],
         "facts": [
@@ -90586,6 +91144,42 @@ window.GAME_DATA = [
             "author": "Gusmonkeyboy na projektu Wikipedie v jazyce angličtina",
             "license": "Public domain",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/NZ_Shore_Plover.jpg/500px-NZ_Shore_Plover.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Thinornis_novaeseelandiae_14360621.jpg",
+            "author": "Peter de Lange",
+            "license": "CC0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Thinornis_novaeseelandiae_14360621.jpg/500px-Thinornis_novaeseelandiae_14360621.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Thinornis_novaeseelandiae,_Rangatira,_Chatham_Islands_2.jpg",
+            "author": "pjd1",
+            "license": "CC0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Thinornis_novaeseelandiae%2C_Rangatira%2C_Chatham_Islands_2.jpg/500px-Thinornis_novaeseelandiae%2C_Rangatira%2C_Chatham_Islands_2.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Charadrius_novaeseelandiae_80015100.jpg",
+            "author": "Christopher Stephens",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Charadrius_novaeseelandiae_80015100.jpg/500px-Charadrius_novaeseelandiae_80015100.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Shore_Plover.JPG",
+            "author": "Onereddog na projektu Wikipedie v jazyce angličtina",
+            "license": "Public domain",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Shore_Plover.JPG/500px-Shore_Plover.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Thinornis_novaeseelandiae_11959712.jpg",
+            "author": "Shaun Lee",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Thinornis_novaeseelandiae_11959712.jpg/500px-Thinornis_novaeseelandiae_11959712.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Thinornis_novaeseelandiae_11959710.jpg",
+            "author": "Shaun Lee",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Thinornis_novaeseelandiae_11959710.jpg/500px-Thinornis_novaeseelandiae_11959710.jpg"
           }
         ],
         "facts": [
@@ -93651,6 +94245,24 @@ window.GAME_DATA = [
             "author": "OKNZ",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Auckland_Island_Snipe._Enderby_Island._Nov_24._Oscar_Thomas.jpg/500px-Auckland_Island_Snipe._Enderby_Island._Nov_24._Oscar_Thomas.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Coenocorypha_aucklandica_meinertzhagenae_387315409.jpg",
+            "author": "Mark Fraser",
+            "license": "CC0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Coenocorypha_aucklandica_meinertzhagenae_387315409.jpg/500px-Coenocorypha_aucklandica_meinertzhagenae_387315409.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Coenocorypha_aucklandica_meinertzhagenae_387315413.jpg",
+            "author": "Mark Fraser",
+            "license": "CC0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Coenocorypha_aucklandica_meinertzhagenae_387315413.jpg/500px-Coenocorypha_aucklandica_meinertzhagenae_387315413.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Coenocorypha_aucklandica_meinertzhagenae_387315409_(cropped).jpg",
+            "author": "Mark Fraser",
+            "license": "CC0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Coenocorypha_aucklandica_meinertzhagenae_387315409_%28cropped%29.jpg/500px-Coenocorypha_aucklandica_meinertzhagenae_387315409_%28cropped%29.jpg"
           }
         ],
         "facts": [
@@ -94111,6 +94723,12 @@ window.GAME_DATA = [
             "author": "Department of Conservation",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Hutton%27s_shearwater_%28DOC%29.jpeg/500px-Hutton%27s_shearwater_%28DOC%29.jpeg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Hutton%27s_Shearwater_-_Kaikorua_-_New_Zealand_(39153723791).jpg",
+            "author": "Francesco Veronesi from Italy",
+            "license": "CC BY-SA 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Hutton%27s_Shearwater_-_Kaikorua_-_New_Zealand_%2839153723791%29.jpg/500px-Hutton%27s_Shearwater_-_Kaikorua_-_New_Zealand_%2839153723791%29.jpg"
           }
         ],
         "facts": [
@@ -97374,6 +97992,24 @@ window.GAME_DATA = [
             "author": "Danmantle",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Gould%27s_Petrel-off_Southport_Qld-15April2012.jpg/500px-Gould%27s_Petrel-off_Southport_Qld-15April2012.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Gould%27s_Petrel_0A2A1313.jpg",
+            "author": "JJ Harrison",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Gould%27s_Petrel_0A2A1313.jpg/500px-Gould%27s_Petrel_0A2A1313.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Gould%27s_Petrel_0A2A1313_(cropped).jpg",
+            "author": "JJ Harrison",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Gould%27s_Petrel_0A2A1313_%28cropped%29.jpg/500px-Gould%27s_Petrel_0A2A1313_%28cropped%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Pterodroma_leucoptera_-_Southport_-_Christopher_Watson_(cropped).jpg",
+            "author": "Christopher Watson",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Pterodroma_leucoptera_-_Southport_-_Christopher_Watson_%28cropped%29.jpg/500px-Pterodroma_leucoptera_-_Southport_-_Christopher_Watson_%28cropped%29.jpg"
           }
         ],
         "facts": [
@@ -98859,6 +99495,12 @@ window.GAME_DATA = [
             "author": "Gabrielly Sousa de Moaes",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Aratinga_jandaya%2C_Reserva_Extrativista_de_Recanto_das_Araras_de_Terra_Ronca%2C_Brasil.jpg/500px-Aratinga_jandaya%2C_Reserva_Extrativista_de_Recanto_das_Araras_de_Terra_Ronca%2C_Brasil.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Janday_Conure_Kuranda-1_(8251141250).jpg",
+            "author": "Sheba_Also 43,000 photos",
+            "license": "CC BY-SA 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Janday_Conure_Kuranda-1_%288251141250%29.jpg/500px-Janday_Conure_Kuranda-1_%288251141250%29.jpg"
           }
         ],
         "facts": [
@@ -106737,6 +107379,18 @@ window.GAME_DATA = [
             "author": "Stefan Brending ( 2eight )",
             "license": "CC BY-SA 3.0 de",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/2024_Pagodroma_nivea_-_Schneesturmvogel_-_by_2eight_-_9SC6654.jpg/500px-2024_Pagodroma_nivea_-_Schneesturmvogel_-_by_2eight_-_9SC6654.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Snow_Petrel_in_flight_(32050984205).jpg",
+            "author": "Paul Balfe",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Snow_Petrel_in_flight_%2832050984205%29.jpg/500px-Snow_Petrel_in_flight_%2832050984205%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:P%C3%A9trel_des_neiges_avec_poussin.jpg",
+            "author": "This illustration is part of Matthieu Weber 's travels . If you see a media on h",
+            "license": "Public domain",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/P%C3%A9trel_des_neiges_avec_poussin.jpg/500px-P%C3%A9trel_des_neiges_avec_poussin.jpg"
           }
         ],
         "facts": [
@@ -131147,6 +131801,18 @@ window.GAME_DATA = [
             "author": "Ron Knight from Seaford, East Sussex, United Kingdom",
             "license": "CC BY 2.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Aquatic_Warbler_%28Acrocephalus_paludicola%29_%2814366200414%29.jpg/500px-Aquatic_Warbler_%28Acrocephalus_paludicola%29_%2814366200414%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Aquatic_Warbler_(Acrocephalus_paludicola)_(14363772751).jpg",
+            "author": "Ron Knight from Seaford, East Sussex, United Kingdom",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Aquatic_Warbler_%28Acrocephalus_paludicola%29_%2814363772751%29.jpg/500px-Aquatic_Warbler_%28Acrocephalus_paludicola%29_%2814363772751%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Waterrietzanger-3_(28031946423).jpg",
+            "author": "yves hoebeke",
+            "license": "CC BY-SA 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Waterrietzanger-3_%2828031946423%29.jpg/500px-Waterrietzanger-3_%2828031946423%29.jpg"
           }
         ],
         "facts": [
@@ -134034,6 +134700,12 @@ window.GAME_DATA = [
             "author": "Alan Bell",
             "license": "CC BY 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Phonygammus_keraudrenii_537417868.jpg/500px-Phonygammus_keraudrenii_537417868.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Trumpet_Manucode_Lockhart_QLD.jpg",
+            "author": "Tom Field",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Trumpet_Manucode_Lockhart_QLD.jpg/500px-Trumpet_Manucode_Lockhart_QLD.jpg"
           }
         ],
         "facts": [
@@ -138215,6 +138887,18 @@ window.GAME_DATA = [
             "author": "Francesco Veronesi from Italy",
             "license": "CC BY-SA 2.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/White-tailed_Sea-Eagle_-_Hokkaido_-_Japan_S4E9284_%2815437353795%29.jpg/500px-White-tailed_Sea-Eagle_-_Hokkaido_-_Japan_S4E9284_%2815437353795%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:%D0%9E%D1%80%D0%BB%D0%B0%D0%BD-%D0%B1%D0%B5%D0%BB%D0%BE%D1%85%D0%B2%D0%BE%D1%81%D1%82_(Haliaeetus_albicilla)_-_White-tailed_Eagle_4.jpg",
+            "author": "Мухаммадсолех Оев",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/%D0%9E%D1%80%D0%BB%D0%B0%D0%BD-%D0%B1%D0%B5%D0%BB%D0%BE%D1%85%D0%B2%D0%BE%D1%81%D1%82_%28Haliaeetus_albicilla%29_-_White-tailed_Eagle_4.jpg/500px-%D0%9E%D1%80%D0%BB%D0%B0%D0%BD-%D0%B1%D0%B5%D0%BB%D0%BE%D1%85%D0%B2%D0%BE%D1%81%D1%82_%28Haliaeetus_albicilla%29_-_White-tailed_Eagle_4.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Merikotka_pa_2.jpg",
+            "author": "Merikotka_pa.jpg : Aaltonen Petteri derivative work: Ximonic ( talk )",
+            "license": "CC BY-SA 2.5",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Merikotka_pa_2.jpg/500px-Merikotka_pa_2.jpg"
           }
         ],
         "facts": [
@@ -141815,6 +142499,12 @@ window.GAME_DATA = [
             "author": "Chalcopsitta_atra_-two_perching-8a.jpg : elvranharris derivative work: Snowmanra",
             "license": "CC BY-SA 2.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Chalcopsitta_atra_-two_perching-8a-1c.jpg/500px-Chalcopsitta_atra_-two_perching-8a-1c.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Black_lory_(Chalcopsitta_atra),_Gembira_Loka_Zoo,_Yogyakarta_2015-03-15_01.jpg",
+            "author": "Crisco 1492",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Black_lory_%28Chalcopsitta_atra%29%2C_Gembira_Loka_Zoo%2C_Yogyakarta_2015-03-15_01.jpg/500px-Black_lory_%28Chalcopsitta_atra%29%2C_Gembira_Loka_Zoo%2C_Yogyakarta_2015-03-15_01.jpg"
           }
         ],
         "facts": [
@@ -149512,6 +150202,30 @@ window.GAME_DATA = [
             "author": "Stephan Sprinz",
             "license": "CC BY 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Heidelerche_%28Lullula_arborea%29_im_NSG_%22Elmpter_Schwalmbruch%22.jpg/500px-Heidelerche_%28Lullula_arborea%29_im_NSG_%22Elmpter_Schwalmbruch%22.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Lullula_arborea_-_Woodlark,_Adana_2016-12-18_01-3.jpg",
+            "author": "Zeynel Cebeci",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Lullula_arborea_-_Woodlark%2C_Adana_2016-12-18_01-3.jpg/500px-Lullula_arborea_-_Woodlark%2C_Adana_2016-12-18_01-3.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:%C5%A0kovr%C3%A1nok_stromov%C3%BD_(Lullula_arborea).jpg",
+            "author": "Andrej Chudy",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/%C5%A0kovr%C3%A1nok_stromov%C3%BD_%28Lullula_arborea%29.jpg/500px-%C5%A0kovr%C3%A1nok_stromov%C3%BD_%28Lullula_arborea%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Lullula_arborea,_Alaudidae.jpg",
+            "author": "K.B. Simoglou",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Lullula_arborea%2C_Alaudidae.jpg/500px-Lullula_arborea%2C_Alaudidae.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Lullula_arborea_-_Orman_toygar%C4%B1_01.jpg",
+            "author": "Zeynel Cebeci",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Lullula_arborea_-_Orman_toygar%C4%B1_01.jpg/500px-Lullula_arborea_-_Orman_toygar%C4%B1_01.jpg"
           }
         ],
         "facts": [
@@ -152755,6 +153469,12 @@ window.GAME_DATA = [
             "author": "Liza del Rosario",
             "license": "CC BY 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Mindanao_Broadbill.jpg/500px-Mindanao_Broadbill.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Visayan_Broadbill_F.jpg",
+            "author": "Chetatata",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Visayan_Broadbill_F.jpg/500px-Visayan_Broadbill_F.jpg"
           }
         ],
         "facts": [
@@ -155622,6 +156342,24 @@ window.GAME_DATA = [
             "author": "Ómar Runólfsson",
             "license": "CC BY 2.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Chlidonias_niger_-Iceland_-flying-8_%284%29.jpg/500px-Chlidonias_niger_-Iceland_-flying-8_%284%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Black_Tern_(7337778278).jpg",
+            "author": "Kurt Bauschardt from Edmonton, Canada",
+            "license": "CC BY-SA 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Black_Tern_%287337778278%29.jpg/500px-Black_Tern_%287337778278%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Chlidonias_niger_BduF2.jpg",
+            "author": "Cephas",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Chlidonias_niger_BduF2.jpg/500px-Chlidonias_niger_BduF2.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Zwarte-stern-4_(28615362806).jpg",
+            "author": "yves hoebeke",
+            "license": "CC BY-SA 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Zwarte-stern-4_%2828615362806%29.jpg/500px-Zwarte-stern-4_%2828615362806%29.jpg"
           }
         ],
         "facts": [
@@ -160398,6 +161136,30 @@ window.GAME_DATA = [
             "author": "USFWS Pacific",
             "license": "Public domain",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Midway_2022_%2852363026475%29.jpg/500px-Midway_2022_%2852363026475%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Starr_080605-6432_Verbesina_encelioides.jpg",
+            "author": "Forest & Kim Starr",
+            "license": "CC BY 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Starr_080605-6432_Verbesina_encelioides.jpg/500px-Starr_080605-6432_Verbesina_encelioides.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Starr_080606-6852_Boerhavia_repens.jpg",
+            "author": "Forest & Kim Starr",
+            "license": "CC BY 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Starr_080606-6852_Boerhavia_repens.jpg/500px-Starr_080606-6852_Boerhavia_repens.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Starr-150403-0286-Brassica_juncea-Sooty_Terns_settling_down-Southeast_Eastern_Island-Midway_Atoll_(25276107705).jpg",
+            "author": "Forest and Kim Starr",
+            "license": "CC BY 3.0 us",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Starr-150403-0286-Brassica_juncea-Sooty_Terns_settling_down-Southeast_Eastern_Island-Midway_Atoll_%2825276107705%29.jpg/500px-Starr-150403-0286-Brassica_juncea-Sooty_Terns_settling_down-Southeast_Eastern_Island-Midway_Atoll_%2825276107705%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:TRINTA-R%C3%89IS-DAS-ROCAS_na_Ilha_da_Trindade_-_2022_(52551310766).jpg",
+            "author": "Marinha do Brasil",
+            "license": "CC BY-SA 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/TRINTA-R%C3%89IS-DAS-ROCAS_na_Ilha_da_Trindade_-_2022_%2852551310766%29.jpg/500px-TRINTA-R%C3%89IS-DAS-ROCAS_na_Ilha_da_Trindade_-_2022_%2852551310766%29.jpg"
           }
         ],
         "facts": [
@@ -169959,6 +170721,36 @@ window.GAME_DATA = [
             "author": "Steve Garvie from Dunfermline, Fife, Scotland",
             "license": "CC BY-SA 2.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Flickr_-_Rainbirder_-_Black_Egret_%28Egretta_ardesiaca%29.jpg/500px-Flickr_-_Rainbirder_-_Black_Egret_%28Egretta_ardesiaca%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Black_heron,_Egretta_ardesiaca,_at_Marievale_Nature_Reserve,_Gauteng,_South_Africa._(28293689569).jpg",
+            "author": "Derek Keats from Johannesburg, South Africa",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Black_heron%2C_Egretta_ardesiaca%2C_at_Marievale_Nature_Reserve%2C_Gauteng%2C_South_Africa._%2828293689569%29.jpg/500px-Black_heron%2C_Egretta_ardesiaca%2C_at_Marievale_Nature_Reserve%2C_Gauteng%2C_South_Africa._%2828293689569%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Black_heron,_Egretta_ardesiaca,_at_Marievale_Nature_Reserve,_Gauteng,_South_Africa._(25201552257).jpg",
+            "author": "Derek Keats from Johannesburg, South Africa",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Black_heron%2C_Egretta_ardesiaca%2C_at_Marievale_Nature_Reserve%2C_Gauteng%2C_South_Africa._%2825201552257%29.jpg/500px-Black_heron%2C_Egretta_ardesiaca%2C_at_Marievale_Nature_Reserve%2C_Gauteng%2C_South_Africa._%2825201552257%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Black_heron,_Egretta_ardesiaca,_at_Marievale_Nature_Reserve,_Gauteng,_South_Africa._(28293691829).jpg",
+            "author": "Derek Keats from Johannesburg, South Africa",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Black_heron%2C_Egretta_ardesiaca%2C_at_Marievale_Nature_Reserve%2C_Gauteng%2C_South_Africa._%2828293691829%29.jpg/500px-Black_heron%2C_Egretta_ardesiaca%2C_at_Marievale_Nature_Reserve%2C_Gauteng%2C_South_Africa._%2828293691829%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Egretta_ardesiaca_117592939.jpg",
+            "author": "Jean-Paul Boerekamps",
+            "license": "CC0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Egretta_ardesiaca_117592939.jpg/500px-Egretta_ardesiaca_117592939.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Black_heron,_Egretta_ardesiaca,_at_Marievale_Nature_Reserve,_Gauteng,_South_Africa_(30243510745).jpg",
+            "author": "Derek Keats from Johannesburg, South Africa",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Black_heron%2C_Egretta_ardesiaca%2C_at_Marievale_Nature_Reserve%2C_Gauteng%2C_South_Africa_%2830243510745%29.jpg/500px-Black_heron%2C_Egretta_ardesiaca%2C_at_Marievale_Nature_Reserve%2C_Gauteng%2C_South_Africa_%2830243510745%29.jpg"
           }
         ],
         "facts": [
@@ -176080,6 +176872,12 @@ window.GAME_DATA = [
             "author": "Darren Obbard",
             "license": "CC BY 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Anorrhinus_galeritus_260745728_%28cropped%29.jpg/500px-Anorrhinus_galeritus_260745728_%28cropped%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Anorrhinus_galeritus_260745728.jpg",
+            "author": "Darren Obbard",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Anorrhinus_galeritus_260745728.jpg/500px-Anorrhinus_galeritus_260745728.jpg"
           }
         ],
         "facts": [
@@ -181541,6 +182339,12 @@ window.GAME_DATA = [
             "author": "Joseph C Boone",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Satin_Bowerbird_JCB.jpg/500px-Satin_Bowerbird_JCB.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Satin_Bowerbird_nest.jpg",
+            "author": "Summ",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Satin_Bowerbird_nest.jpg/500px-Satin_Bowerbird_nest.jpg"
           }
         ],
         "facts": [
@@ -186253,6 +187057,18 @@ window.GAME_DATA = [
             "author": "JJ Harrison",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Black_Sicklebill_female_0A2A5486_%28cropped%29.jpg/500px-Black_Sicklebill_female_0A2A5486_%28cropped%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Black_Sicklebill_male_0A2A1965.jpg",
+            "author": "JJ Harrison",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Black_Sicklebill_male_0A2A1965.jpg/500px-Black_Sicklebill_male_0A2A1965.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Black_Sicklebill_male_displaying_0A2A1820.jpg",
+            "author": "JJ Harrison",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Black_Sicklebill_male_displaying_0A2A1820.jpg/500px-Black_Sicklebill_male_displaying_0A2A1820.jpg"
           }
         ],
         "facts": [
@@ -187342,6 +188158,18 @@ window.GAME_DATA = [
             "author": "Pavel Hrdlička (Czech Wikipedia user Packa )",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Garrulax_courtoisi%2C_Prague_Zoo.jpg/500px-Garrulax_courtoisi%2C_Prague_Zoo.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Blaukappenh%C3%A4herling_(Pterorhinus_courtoisi)_im_Loriversum_(Zoo_Leipzig).jpg",
+            "author": "JensKunstfreund",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Blaukappenh%C3%A4herling_%28Pterorhinus_courtoisi%29_im_Loriversum_%28Zoo_Leipzig%29.jpg/500px-Blaukappenh%C3%A4herling_%28Pterorhinus_courtoisi%29_im_Loriversum_%28Zoo_Leipzig%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Blue-crowned_Laughingthrush_RWD6.jpg",
+            "author": "DickDaniels ( http://carolinabirds.org/ )",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Blue-crowned_Laughingthrush_RWD6.jpg/500px-Blue-crowned_Laughingthrush_RWD6.jpg"
           }
         ],
         "facts": [
@@ -201047,6 +201875,18 @@ window.GAME_DATA = [
             "author": "Francesco Veronesi from Italy",
             "license": "CC BY-SA 2.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Grey_Peacock-pheasant_-_Kang-Kra_Khan%2C_Thailand_H8O5535_%2815362061647%29.jpg/500px-Grey_Peacock-pheasant_-_Kang-Kra_Khan%2C_Thailand_H8O5535_%2815362061647%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Polyplectron_bicalcaratum_-Birmingham_Nature_Centre,_Cannon_Hill_Park,_England-8a.jpg",
+            "author": "Tony Hisgett from Birmingham, UK",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Polyplectron_bicalcaratum_-Birmingham_Nature_Centre%2C_Cannon_Hill_Park%2C_England-8a.jpg/500px-Polyplectron_bicalcaratum_-Birmingham_Nature_Centre%2C_Cannon_Hill_Park%2C_England-8a.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Polyplectron_bicalcaratum_-Birmingham_Nature_Centre,_England-8a.jpg",
+            "author": "Tony Hisgett from Birmingham, UK",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Polyplectron_bicalcaratum_-Birmingham_Nature_Centre%2C_England-8a.jpg/500px-Polyplectron_bicalcaratum_-Birmingham_Nature_Centre%2C_England-8a.jpg"
           }
         ],
         "facts": [
@@ -208706,6 +209546,12 @@ window.GAME_DATA = [
             "author": "domdomegg",
             "license": "CC BY 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Brown_Iory_%28Chalcopsitta_duivenbodei%29_%281%29.jpg/500px-Brown_Iory_%28Chalcopsitta_duivenbodei%29_%281%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Brown_parrot_with_yellow_markings_(25282367505).jpg",
+            "author": "Thomas Quine",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Brown_parrot_with_yellow_markings_%2825282367505%29.jpg/500px-Brown_parrot_with_yellow_markings_%2825282367505%29.jpg"
           }
         ],
         "facts": [
@@ -210337,6 +211183,24 @@ window.GAME_DATA = [
             "author": "Jason Crotty",
             "license": "CC BY 2.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/White-cheeked_Pintail%2C_St._Thomas%2C_US_Virgin_Islands.jpg/500px-White-cheeked_Pintail%2C_St._Thomas%2C_US_Virgin_Islands.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Anas_bahamensis_qtl1.jpg",
+            "author": "Quartl",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Anas_bahamensis_qtl1.jpg/500px-Anas_bahamensis_qtl1.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Duck_pato_005eue.jpg",
+            "author": "Luis Miguel Bugallo Sánchez ( Lmbuga Commons )( Lmbuga Galipedia ) Publicada por",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Duck_pato_005eue.jpg/500px-Duck_pato_005eue.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Oiseau27092008a.jpg",
+            "author": "Sylfred1977",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Oiseau27092008a.jpg/500px-Oiseau27092008a.jpg"
           }
         ],
         "facts": [
@@ -210562,6 +211426,12 @@ window.GAME_DATA = [
             "author": "Peter Tan",
             "license": "CC BY-SA 2.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Psittrichas_fulgidus_-Jurong_Bird_Park-8a.jpg/500px-Psittrichas_fulgidus_-Jurong_Bird_Park-8a.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:1_pesquet%27s_parrot_bird_paradise_2025.jpg",
+            "author": "Chensiyuan",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/1_pesquet%27s_parrot_bird_paradise_2025.jpg/500px-1_pesquet%27s_parrot_bird_paradise_2025.jpg"
           }
         ],
         "facts": [
@@ -216148,6 +217018,18 @@ window.GAME_DATA = [
             "author": "Eos_bornea_-Buffalo_Zoo-8c.jpg : Nathan Strang from Buffalo, USA derivative work",
             "license": "CC BY 2.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Eos_bornea_-Buffalo_Zoo-8c-3c.jpg/500px-Eos_bornea_-Buffalo_Zoo-8c-3c.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Eos_bornea_-Busch_Gardens,_Tampa,_Florida-8a.jpg",
+            "author": "Ricardo Mangual from KISSIMMEE, US",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Eos_bornea_-Busch_Gardens%2C_Tampa%2C_Florida-8a.jpg/500px-Eos_bornea_-Busch_Gardens%2C_Tampa%2C_Florida-8a.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Red_Lory_(Eos_bornea)_-looking_upwards.jpg",
+            "author": "shahram sharif",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Red_Lory_%28Eos_bornea%29_-looking_upwards.jpg/500px-Red_Lory_%28Eos_bornea%29_-looking_upwards.jpg"
           }
         ],
         "facts": [
@@ -216517,6 +217399,36 @@ window.GAME_DATA = [
             "author": "Mathdesm na projektu Wikipedie v jazyce angličtina",
             "license": "Public domain",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Vermilon_Cardinal.JPG/500px-Vermilon_Cardinal.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Cardinales_phoeniceus_female.jpg",
+            "author": "Anderson2411",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Cardinales_phoeniceus_female.jpg/500px-Cardinales_phoeniceus_female.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Cardinalis_phoenicius_Cardenal_guajiro_Vermilion_Cardinal_(female)_(6839648958).jpg",
+            "author": "Félix Uribe from Rionegro, Antioquia, Colombia",
+            "license": "CC BY-SA 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Cardinalis_phoenicius_Cardenal_guajiro_Vermilion_Cardinal_%28female%29_%286839648958%29.jpg/500px-Cardinalis_phoenicius_Cardenal_guajiro_Vermilion_Cardinal_%28female%29_%286839648958%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Cardinalis_phoeniceus_255952838.jpg",
+            "author": "Guy Babineau",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Cardinalis_phoeniceus_255952838.jpg/500px-Cardinalis_phoeniceus_255952838.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Vermilion_Cardinal_-_Cardenal_Coriano_(Cardinalis_phoeniceus)_(%E2%99%80)_(22929042416).jpg",
+            "author": "Fernando Flores from Caracas, Venezuela",
+            "license": "CC BY-SA 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Vermilion_Cardinal_-_Cardenal_Coriano_%28Cardinalis_phoeniceus%29_%28%E2%99%80%29_%2822929042416%29.jpg/500px-Vermilion_Cardinal_-_Cardenal_Coriano_%28Cardinalis_phoeniceus%29_%28%E2%99%80%29_%2822929042416%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Cardinalis_phoeniceus_63825119.jpg",
+            "author": "William Stephens",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Cardinalis_phoeniceus_63825119.jpg/500px-Cardinalis_phoeniceus_63825119.jpg"
           }
         ],
         "facts": [
@@ -219910,6 +220822,12 @@ window.GAME_DATA = [
             "author": "Tokumi",
             "license": "Copyrighted free use",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Wiki-utou1.jpg/500px-Wiki-utou1.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Cerorhinca_monocerata_-Protection_Island_National_Wildlife_Refuge,_Jefferson_County,_Washington,_USA-8.jpg",
+            "author": "Dow Lambert of U.S. Fish & Wildlife Service - Pacific Region's",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Cerorhinca_monocerata_-Protection_Island_National_Wildlife_Refuge%2C_Jefferson_County%2C_Washington%2C_USA-8.jpg/500px-Cerorhinca_monocerata_-Protection_Island_National_Wildlife_Refuge%2C_Jefferson_County%2C_Washington%2C_USA-8.jpg"
           }
         ],
         "facts": [
@@ -221722,6 +222640,12 @@ window.GAME_DATA = [
             "author": "Jim McCulloch",
             "license": "CC BY 2.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Chimney_swift_overhead.jpg/500px-Chimney_swift_overhead.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Chaetura_pelagica,_by_Lake_Erie,_Cleveland,_Ohio,_USA_339593191_(cropped).jpg",
+            "author": "Adam Jackson",
+            "license": "CC0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Chaetura_pelagica%2C_by_Lake_Erie%2C_Cleveland%2C_Ohio%2C_USA_339593191_%28cropped%29.jpg/500px-Chaetura_pelagica%2C_by_Lake_Erie%2C_Cleveland%2C_Ohio%2C_USA_339593191_%28cropped%29.jpg"
           }
         ],
         "facts": [
@@ -229556,6 +230480,12 @@ window.GAME_DATA = [
             "author": "Rainforestindian94",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Derbyan_Parakeet.jpg/500px-Derbyan_Parakeet.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Psittacula_derbiana_-Hangzhou,_Zhejiang,_China_-male-8a.jpg",
+            "author": "Michael Vito from South Orange, NJ, USA",
+            "license": "CC BY-SA 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Psittacula_derbiana_-Hangzhou%2C_Zhejiang%2C_China_-male-8a.jpg/500px-Psittacula_derbiana_-Hangzhou%2C_Zhejiang%2C_China_-male-8a.jpg"
           }
         ],
         "facts": [
@@ -230180,6 +231110,18 @@ window.GAME_DATA = [
             "author": "BS Thurner Hof",
             "license": "Public domain",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Chamaelio_calyptratus.jpg/500px-Chamaelio_calyptratus.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Chamaeleo_calyptratus_03.jpg",
+            "author": "Σ64",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Chamaeleo_calyptratus_03.jpg/500px-Chamaeleo_calyptratus_03.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Chamaeleo_calyptratus_(6337087575).jpg",
+            "author": "Ruben Undheim from Trondheim, Norway",
+            "license": "CC BY-SA 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Chamaeleo_calyptratus_%286337087575%29.jpg/500px-Chamaeleo_calyptratus_%286337087575%29.jpg"
           }
         ],
         "facts": [
@@ -230356,6 +231298,36 @@ window.GAME_DATA = [
             "author": "JonRichfield",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Naja_nivea_IMG_0166s.JPG/500px-Naja_nivea_IMG_0166s.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Naja_nivea_in_a_brown,_unspeckled_colour_IMG_0804.JPG",
+            "author": "JonRichfield",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Naja_nivea_in_a_brown%2C_unspeckled_colour_IMG_0804.JPG/500px-Naja_nivea_in_a_brown%2C_unspeckled_colour_IMG_0804.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Naja_nivea,_Cape_Cobra_IMG_0167s.JPG",
+            "author": "JonRichfield",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Naja_nivea%2C_Cape_Cobra_IMG_0167s.JPG/500px-Naja_nivea%2C_Cape_Cobra_IMG_0167s.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Naja_nivea_hooding_while_swimming_2_-_Sonja_van_Zyl,_crop.jpg",
+            "author": "JonRichfield",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Naja_nivea_hooding_while_swimming_2_-_Sonja_van_Zyl%2C_crop.jpg/500px-Naja_nivea_hooding_while_swimming_2_-_Sonja_van_Zyl%2C_crop.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Naja_nivea_in_a_dark_brown_and_yellow_speckled_pattern_IMG_0846.JPG",
+            "author": "JonRichfield",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Naja_nivea_in_a_dark_brown_and_yellow_speckled_pattern_IMG_0846.JPG/500px-Naja_nivea_in_a_dark_brown_and_yellow_speckled_pattern_IMG_0846.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Naja_nivea_Cape_Cobra_IMG_8281c.jpg",
+            "author": "JonRichfield",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Naja_nivea_Cape_Cobra_IMG_8281c.jpg/500px-Naja_nivea_Cape_Cobra_IMG_8281c.jpg"
           }
         ],
         "facts": [
@@ -230686,6 +231658,36 @@ window.GAME_DATA = [
             "author": "Lennart Hudel",
             "license": "CC BY 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Rhacodactylus_leachianus_34130915.jpg/500px-Rhacodactylus_leachianus_34130915.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Rhacodactylus_leachianus_33600269.jpg",
+            "author": "Lennart Hudel",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Rhacodactylus_leachianus_33600269.jpg/500px-Rhacodactylus_leachianus_33600269.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Rhacodactylus_leachianus_33611972.jpg",
+            "author": "Lennart Hudel",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Rhacodactylus_leachianus_33611972.jpg/500px-Rhacodactylus_leachianus_33611972.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Rhacodactylus_leachianus_33604753.jpg",
+            "author": "Lennart Hudel",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Rhacodactylus_leachianus_33604753.jpg/500px-Rhacodactylus_leachianus_33604753.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Rhacodactylus_leachianus_33601357.jpg",
+            "author": "Lennart Hudel",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Rhacodactylus_leachianus_33601357.jpg/500px-Rhacodactylus_leachianus_33601357.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Rhacodactylus_leachianus_33610943.jpg",
+            "author": "Lennart Hudel",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Rhacodactylus_leachianus_33610943.jpg/500px-Rhacodactylus_leachianus_33610943.jpg"
           }
         ],
         "facts": [
@@ -233256,6 +234258,24 @@ window.GAME_DATA = [
             "author": "Matjazgregoric",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Madagascar_ground_boa%2C_Acrantophis_madagascariensis.jpg/500px-Madagascar_ground_boa%2C_Acrantophis_madagascariensis.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Boa_de_Madagascar_meridional_(Acrantophis_madagascariensis),_Parque_Nacional_de_Lokobe,_Nosy_Be,_Madagascar,_2025-09-21,_DD_69.jpg",
+            "author": "Diego Delso",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Boa_de_Madagascar_meridional_%28Acrantophis_madagascariensis%29%2C_Parque_Nacional_de_Lokobe%2C_Nosy_Be%2C_Madagascar%2C_2025-09-21%2C_DD_69.jpg/500px-Boa_de_Madagascar_meridional_%28Acrantophis_madagascariensis%29%2C_Parque_Nacional_de_Lokobe%2C_Nosy_Be%2C_Madagascar%2C_2025-09-21%2C_DD_69.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Madagascar_ground_boa_(Acrantophis_madagascariensis)_Lokobe.jpg",
+            "author": "Charles J. Sharp",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Madagascar_ground_boa_%28Acrantophis_madagascariensis%29_Lokobe.jpg/500px-Madagascar_ground_boa_%28Acrantophis_madagascariensis%29_Lokobe.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Boa_de_Madagascar_meridional_(Acrantophis_madagascariensis),_Parque_Nacional_de_Lokobe,_Nosy_Be,_Madagascar,_2025-09-21,_DD_68.jpg",
+            "author": "Diego Delso",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Boa_de_Madagascar_meridional_%28Acrantophis_madagascariensis%29%2C_Parque_Nacional_de_Lokobe%2C_Nosy_Be%2C_Madagascar%2C_2025-09-21%2C_DD_68.jpg/500px-Boa_de_Madagascar_meridional_%28Acrantophis_madagascariensis%29%2C_Parque_Nacional_de_Lokobe%2C_Nosy_Be%2C_Madagascar%2C_2025-09-21%2C_DD_68.jpg"
           }
         ],
         "facts": [
@@ -233849,6 +234869,24 @@ window.GAME_DATA = [
             "author": "Ad031259",
             "license": "CC BY 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Indian_Gharial.jpg/500px-Indian_Gharial.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Gharial_(Gavialis_gangeticus)_male_(19991050442).jpg",
+            "author": "Bernard DUPONT from FRANCE",
+            "license": "CC BY-SA 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Gharial_%28Gavialis_gangeticus%29_male_%2819991050442%29.jpg/500px-Gharial_%28Gavialis_gangeticus%29_male_%2819991050442%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:SaurabhSawant_Gharial_Chambal_MG_0987.jpg",
+            "author": "Saurabhsawantphoto",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/SaurabhSawant_Gharial_Chambal_MG_0987.jpg/500px-SaurabhSawant_Gharial_Chambal_MG_0987.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:The_Gharial_(2988815177).jpg",
+            "author": "Karunakar Rayker from India",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/The_Gharial_%282988815177%29.jpg/500px-The_Gharial_%282988815177%29.jpg"
           }
         ],
         "facts": [
@@ -233892,6 +234930,12 @@ window.GAME_DATA = [
             "author": "Benjamint444",
             "license": "GFDL 1.2",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Spiny-tailed-monitor.jpg/500px-Spiny-tailed-monitor.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Varanus_acanthurus_451913567.jpg",
+            "author": "Hugo Innes",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Varanus_acanthurus_451913567.jpg/500px-Varanus_acanthurus_451913567.jpg"
           }
         ],
         "facts": [
@@ -235412,6 +236456,12 @@ window.GAME_DATA = [
             "author": "Thomas Brown",
             "license": "CC BY 2.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Loggerhead_Sea_Turtle_%28Caretta_caretta%29_%286161219761%29.jpg/500px-Loggerhead_Sea_Turtle_%28Caretta_caretta%29_%286161219761%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Female_Loggerhead_Sea_Turtle_-_DPLA_-_44b2e90288e1d2970cace797672fa3cd.jpg",
+            "author": "Department of the Interior. U.S. Fish and Wildlife Service. National Conservatio",
+            "license": "Public domain",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Female_Loggerhead_Sea_Turtle_-_DPLA_-_44b2e90288e1d2970cace797672fa3cd.jpg/500px-Female_Loggerhead_Sea_Turtle_-_DPLA_-_44b2e90288e1d2970cace797672fa3cd.jpg"
           }
         ],
         "facts": [
@@ -238072,6 +239122,18 @@ window.GAME_DATA = [
             "author": "No machine-readable author provided. Danleo~commonswiki assumed (based on copyri",
             "license": "CC BY 2.5",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Reticulated_Python_01.jpg/500px-Reticulated_Python_01.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Ticks_on_a_reticulated_python.jpeg",
+            "author": "Sundar",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Ticks_on_a_reticulated_python.jpeg/500px-Ticks_on_a_reticulated_python.jpeg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Reticulated_Python_(Broghammerus_reticulatus)_(7857095204).jpg",
+            "author": "Bernard DUPONT from FRANCE",
+            "license": "CC BY-SA 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Reticulated_Python_%28Broghammerus_reticulatus%29_%287857095204%29.jpg/500px-Reticulated_Python_%28Broghammerus_reticulatus%29_%287857095204%29.jpg"
           }
         ],
         "facts": [
@@ -238335,6 +239397,18 @@ window.GAME_DATA = [
             "author": "Bidgee",
             "license": "CC BY 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Common_snakeneck_turtle_%28Chelodina_longicollis%29_2.jpg/500px-Common_snakeneck_turtle_%28Chelodina_longicollis%29_2.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Eastern_Long-neck-Turtle-with-algae,-Vic,-3.1.2008.jpg",
+            "author": "jjron",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Eastern_Long-neck-Turtle-with-algae%2C-Vic%2C-3.1.2008.jpg/500px-Eastern_Long-neck-Turtle-with-algae%2C-Vic%2C-3.1.2008.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Common_snakeneck_turtle_(Chelodina_longicollis)_1.jpg",
+            "author": "Bidgee",
+            "license": "CC BY 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Common_snakeneck_turtle_%28Chelodina_longicollis%29_1.jpg/500px-Common_snakeneck_turtle_%28Chelodina_longicollis%29_1.jpg"
           }
         ],
         "facts": [
@@ -238808,6 +239882,18 @@ window.GAME_DATA = [
             "author": "USFWSmidwest",
             "license": "Public domain",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Ornate_Box_Turtle_%2826591080763%29.jpg/500px-Ornate_Box_Turtle_%2826591080763%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:ORNATE_BOX_TURTLE_(Terrapene_ornata)_(10-22-2014)_san_rafael_grasslands,_santa_cruz_co,_az_-02_(15604234472).jpg",
+            "author": "ALAN SCHMIERER",
+            "license": "CC0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/ORNATE_BOX_TURTLE_%28Terrapene_ornata%29_%2810-22-2014%29_san_rafael_grasslands%2C_santa_cruz_co%2C_az_-02_%2815604234472%29.jpg/500px-ORNATE_BOX_TURTLE_%28Terrapene_ornata%29_%2810-22-2014%29_san_rafael_grasslands%2C_santa_cruz_co%2C_az_-02_%2815604234472%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:TURTLE,_ORNATE_BOX_(Terrapene_ornata)_(9-12-11)_blue_have_road,_patagonia,_scc,_az_-01_(6141167379).jpg",
+            "author": "ALAN SCHMIERER",
+            "license": "CC0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/TURTLE%2C_ORNATE_BOX_%28Terrapene_ornata%29_%289-12-11%29_blue_have_road%2C_patagonia%2C_scc%2C_az_-01_%286141167379%29.jpg/500px-TURTLE%2C_ORNATE_BOX_%28Terrapene_ornata%29_%289-12-11%29_blue_have_road%2C_patagonia%2C_scc%2C_az_-01_%286141167379%29.jpg"
           }
         ],
         "facts": [
@@ -238969,6 +240055,24 @@ window.GAME_DATA = [
             "author": "Tisha Mukherjee",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Oriental_rat_snake_by_Tisha_Mukherjee_04.jpg/500px-Oriental_rat_snake_by_Tisha_Mukherjee_04.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Oriental_rat_snake_in_Rabindra_Sarobar_April_2024_by_Tisha_Mukherjee_02.jpg",
+            "author": "Tisha Mukherjee",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Oriental_rat_snake_in_Rabindra_Sarobar_April_2024_by_Tisha_Mukherjee_02.jpg/500px-Oriental_rat_snake_in_Rabindra_Sarobar_April_2024_by_Tisha_Mukherjee_02.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Love_thy_neighbors.jpg",
+            "author": "Dhana1311",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Love_thy_neighbors.jpg/500px-Love_thy_neighbors.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Indian_rat_snake,Ptyas_mucosa,_territorial_Fight.jpg",
+            "author": "Shino jacob koottanad",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Indian_rat_snake%2CPtyas_mucosa%2C_territorial_Fight.jpg/500px-Indian_rat_snake%2CPtyas_mucosa%2C_territorial_Fight.jpg"
           }
         ],
         "facts": [
@@ -239021,6 +240125,12 @@ window.GAME_DATA = [
             "author": "coenobita",
             "license": "CC BY 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Acrochordus_granulatus_14797439.jpg/500px-Acrochordus_granulatus_14797439.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Acrochordus_granulatus_63934438.jpg",
+            "author": "Kai Squires",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Acrochordus_granulatus_63934438.jpg/500px-Acrochordus_granulatus_63934438.jpg"
           }
         ],
         "facts": [
@@ -239456,6 +240566,12 @@ window.GAME_DATA = [
             "author": "Ltshears - Trisha M Shears",
             "license": "Public domain",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Cuban_Crocodile_Image_003.jpg/500px-Cuban_Crocodile_Image_003.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Cuban-crocodile.JPG",
+            "author": "No machine-readable author provided. Friman assumed (based on copyright claims).",
+            "license": "Public domain",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Cuban-crocodile.JPG/500px-Cuban-crocodile.JPG"
           }
         ],
         "facts": [
@@ -241921,6 +243037,30 @@ window.GAME_DATA = [
             "author": "Ganjar Cahyadi",
             "license": "CC BY 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Rhabdophis_subminiatus_462288825.jpg/500px-Rhabdophis_subminiatus_462288825.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Red-necked_keelback_(Rhabdophis_siamensis).jpg",
+            "author": "Broobas",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Red-necked_keelback_%28Rhabdophis_siamensis%29.jpg/500px-Red-necked_keelback_%28Rhabdophis_siamensis%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Red-necked_Keelback_(Rhabdophis_helleri)_%E7%B4%85%E8%84%96%E6%B8%B8%E8%9B%872.jpg",
+            "author": "Thomas Brown",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Red-necked_Keelback_%28Rhabdophis_helleri%29_%E7%B4%85%E8%84%96%E6%B8%B8%E8%9B%872.jpg/500px-Red-necked_Keelback_%28Rhabdophis_helleri%29_%E7%B4%85%E8%84%96%E6%B8%B8%E8%9B%872.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Red-necked_Keelback_(Rhabdophis_helleri)_%E7%B4%85%E8%84%96%E6%B8%B8%E8%9B%877.jpg",
+            "author": "Thomas Brown",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Red-necked_Keelback_%28Rhabdophis_helleri%29_%E7%B4%85%E8%84%96%E6%B8%B8%E8%9B%877.jpg/500px-Red-necked_Keelback_%28Rhabdophis_helleri%29_%E7%B4%85%E8%84%96%E6%B8%B8%E8%9B%877.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Red-necked_Keelback_(Rhabdophis_helleri)_%E7%B4%85%E8%84%96%E6%B8%B8%E8%9B%875.jpg",
+            "author": "Thomas Brown",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Red-necked_Keelback_%28Rhabdophis_helleri%29_%E7%B4%85%E8%84%96%E6%B8%B8%E8%9B%875.jpg/500px-Red-necked_Keelback_%28Rhabdophis_helleri%29_%E7%B4%85%E8%84%96%E6%B8%B8%E8%9B%875.jpg"
           }
         ],
         "facts": [
@@ -243134,6 +244274,12 @@ window.GAME_DATA = [
             "author": "Brown R, Siler C, Oliveros C, Welton L, Rock A, Swab J, Van Weerd M, van Beijnen",
             "license": "CC BY 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Crocodylus_mindorensis_basking_on_a_log_in_the_Dunoy_Lake%2C_Barangay_Dibuluan_-_ZooKeys-266-001-g103.jpg/500px-Crocodylus_mindorensis_basking_on_a_log_in_the_Dunoy_Lake%2C_Barangay_Dibuluan_-_ZooKeys-266-001-g103.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Crocodylus_mindorensis_basking_on_a_rock_in_the_Disulap_River,_Barangay_Disulap_-_ZooKeys-266-001-g102.jpg",
+            "author": "Brown R, Siler C, Oliveros C, Welton L, Rock A, Swab J, Van Weerd M, van Beijnen",
+            "license": "CC BY 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Crocodylus_mindorensis_basking_on_a_rock_in_the_Disulap_River%2C_Barangay_Disulap_-_ZooKeys-266-001-g102.jpg/500px-Crocodylus_mindorensis_basking_on_a_rock_in_the_Disulap_River%2C_Barangay_Disulap_-_ZooKeys-266-001-g102.jpg"
           }
         ],
         "facts": [
@@ -250749,6 +251895,12 @@ window.GAME_DATA = [
             "author": "Holger Krisp",
             "license": "CC BY 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Mamba_Dendroaspis_angusticeps.jpg/500px-Mamba_Dendroaspis_angusticeps.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Eastern_green_mamba_(Dendroaspis_angusticeps),_Kenya.jpg",
+            "author": "Hobbyfotowiki",
+            "license": "CC0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Eastern_green_mamba_%28Dendroaspis_angusticeps%29%2C_Kenya.jpg/500px-Eastern_green_mamba_%28Dendroaspis_angusticeps%29%2C_Kenya.jpg"
           }
         ],
         "facts": [
@@ -251181,6 +252333,18 @@ window.GAME_DATA = [
             "author": "Marius Burger",
             "license": "CC0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Homopus_areolatus_-_Marius_Burger_-_184380989.jpeg/500px-Homopus_areolatus_-_Marius_Burger_-_184380989.jpeg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Homopus_areolatus_-_Marius_Burger_-_184380975.jpeg",
+            "author": "Marius Burger",
+            "license": "CC0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Homopus_areolatus_-_Marius_Burger_-_184380975.jpeg/500px-Homopus_areolatus_-_Marius_Burger_-_184380975.jpeg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Homopus_areolatus_-_Henry_de_Lange_-_11651282.jpeg",
+            "author": "Henry de Lange",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Homopus_areolatus_-_Henry_de_Lange_-_11651282.jpeg/500px-Homopus_areolatus_-_Henry_de_Lange_-_11651282.jpeg"
           }
         ],
         "facts": [
@@ -252740,6 +253904,36 @@ window.GAME_DATA = [
             "author": "JulianAlper",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/African_Softshell_Turtle.jpg/500px-African_Softshell_Turtle.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:African-Softshell-Turtle-On-The-Rock---Alexander-river---Israel.JPG",
+            "author": "Dan Schwartz",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/African-Softshell-Turtle-On-The-Rock---Alexander-river---Israel.JPG/500px-African-Softshell-Turtle-On-The-Rock---Alexander-river---Israel.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Trionyx_triunguis_(29681221995).jpg",
+            "author": "USFWS Headquarters",
+            "license": "Public domain",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Trionyx_triunguis_%2829681221995%29.jpg/500px-Trionyx_triunguis_%2829681221995%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:AfricanSoftshellTurtle-Open-mouthed.jpg",
+            "author": "JulianAlper",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/AfricanSoftshellTurtle-Open-mouthed.jpg/500px-AfricanSoftshellTurtle-Open-mouthed.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:African-Softshell-Turtle---Alexander-river---Israel.JPG",
+            "author": "Dan Schwartz",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/African-Softshell-Turtle---Alexander-river---Israel.JPG/500px-African-Softshell-Turtle---Alexander-river---Israel.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:African_Softshell_Turtles.jpg",
+            "author": "JulianAlper",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/African_Softshell_Turtles.jpg/500px-African_Softshell_Turtles.jpg"
           }
         ],
         "facts": [
@@ -253840,6 +255034,12 @@ window.GAME_DATA = [
             "author": "TimVickers",
             "license": "Public domain",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Paleosuchus_palpebrosus_%282%29.jpg/500px-Paleosuchus_palpebrosus_%282%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Paleosuchus_palpebrosus_18607447.jpg",
+            "author": "Vincent A. Vos",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Paleosuchus_palpebrosus_18607447.jpg/500px-Paleosuchus_palpebrosus_18607447.jpg"
           }
         ],
         "facts": [
@@ -254700,6 +255900,24 @@ window.GAME_DATA = [
             "author": "Wildfeuer",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/2009-03-13Crotalus_basiliscus225.jpg/500px-2009-03-13Crotalus_basiliscus225.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Crotalus_basiliscus_4300317.jpg",
+            "author": "Alan Rockefeller",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Crotalus_basiliscus_4300317.jpg/500px-Crotalus_basiliscus_4300317.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Crotalus_basiliscus_4300315.jpg",
+            "author": "Alan Rockefeller",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Crotalus_basiliscus_4300315.jpg/500px-Crotalus_basiliscus_4300315.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Crotalus_basiliscus_144469777.jpg",
+            "author": "Alan Rockefeller",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Crotalus_basiliscus_144469777.jpg/500px-Crotalus_basiliscus_144469777.jpg"
           }
         ],
         "facts": [
@@ -255622,6 +256840,18 @@ window.GAME_DATA = [
             "author": "USFWSmidwest",
             "license": "Public domain",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Up_close_Wood_Turtle_%2826955957333%29.jpg/500px-Up_close_Wood_Turtle_%2826955957333%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Iowaherps-glyptemys_insculpta.jpg",
+            "author": "Don F Becker",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Iowaherps-glyptemys_insculpta.jpg/500px-Iowaherps-glyptemys_insculpta.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Very_old_adult_Wood_turtle_Great_Swamp_National_Wildlife_Refuge_(6762039909).jpg",
+            "author": "U. S. Fish and Wildlife Service - Northeast Region",
+            "license": "Public domain",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Very_old_adult_Wood_turtle_Great_Swamp_National_Wildlife_Refuge_%286762039909%29.jpg/500px-Very_old_adult_Wood_turtle_Great_Swamp_National_Wildlife_Refuge_%286762039909%29.jpg"
           }
         ],
         "facts": [
@@ -256104,6 +257334,12 @@ window.GAME_DATA = [
             "author": "Bernard DUPONT from FRANCE",
             "license": "CC BY-SA 2.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Four-lined_Snake_%28Elaphe_quatuorlineata%29_%28Captive_specimen%29_%2830474530948%29.jpg/500px-Four-lined_Snake_%28Elaphe_quatuorlineata%29_%28Captive_specimen%29_%2830474530948%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Elaphe_quatuorlineata.jpg",
+            "author": "Carlo Catoni",
+            "license": "CC BY-SA 2.5",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Elaphe_quatuorlineata.jpg/500px-Elaphe_quatuorlineata.jpg"
           }
         ],
         "facts": [
@@ -256992,6 +258228,12 @@ window.GAME_DATA = [
             "author": "Jos1950",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Leguaan-LagoEnriquilo-IMG87.jpg/500px-Leguaan-LagoEnriquilo-IMG87.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Rhinocerous_iguana_Cyclura_cornuta_no.4.jpg",
+            "author": "Serge Aucoin",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Rhinocerous_iguana_Cyclura_cornuta_no.4.jpg/500px-Rhinocerous_iguana_Cyclura_cornuta_no.4.jpg"
           }
         ],
         "facts": [
@@ -263029,6 +264271,12 @@ window.GAME_DATA = [
             "author": "TimVickers",
             "license": "Public domain",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Theloderma_corticale_%282%29.jpg/500px-Theloderma_corticale_%282%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Theloderma_corticale_C%C3%BAc_Ph%C6%B0%C6%A1ng_06.jpg",
+            "author": "Caitlin 0000",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Theloderma_corticale_C%C3%BAc_Ph%C6%B0%C6%A1ng_06.jpg/500px-Theloderma_corticale_C%C3%BAc_Ph%C6%B0%C6%A1ng_06.jpg"
           }
         ],
         "facts": [
@@ -263115,6 +264363,12 @@ window.GAME_DATA = [
             "author": "Mauricio Rivera Correa",
             "license": "CC BY-SA 2.5",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Centrolene_prosoblepon01.jpg/500px-Centrolene_prosoblepon01.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Emerald_Glass_Frog_(Centrolene_prosoblepon)..jpg",
+            "author": "Brian Gratwicke",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Emerald_Glass_Frog_%28Centrolene_prosoblepon%29..jpg/500px-Emerald_Glass_Frog_%28Centrolene_prosoblepon%29..jpg"
           }
         ],
         "facts": [
@@ -264886,6 +266140,12 @@ window.GAME_DATA = [
             "author": "Piet Spaans",
             "license": "CC BY-SA 2.5",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/MesotritonAlpestrisAdultLandPhase.JPG/500px-MesotritonAlpestrisAdultLandPhase.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Alpine_newt%27s_on_a_rock_(Ichthyosaura_alpestris).JPG",
+            "author": "Andrea massagli",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Alpine_newt%27s_on_a_rock_%28Ichthyosaura_alpestris%29.JPG/500px-Alpine_newt%27s_on_a_rock_%28Ichthyosaura_alpestris%29.JPG"
           }
         ],
         "facts": [
@@ -265607,6 +266867,18 @@ window.GAME_DATA = [
             "author": "Benny Trapp",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Benny_Trapp_Bombina_bombina_Rotbauchunke.jpg/500px-Benny_Trapp_Bombina_bombina_Rotbauchunke.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Bombina_bombina_in_Austria.jpg",
+            "author": "Henderl",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Bombina_bombina_in_Austria.jpg/500px-Bombina_bombina_in_Austria.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Bombina_bombina_von_Leandro_Bergmann.jpg",
+            "author": "Bergmann, Leandro",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Bombina_bombina_von_Leandro_Bergmann.jpg/500px-Bombina_bombina_von_Leandro_Bergmann.jpg"
           }
         ],
         "facts": [
@@ -265681,6 +266953,18 @@ window.GAME_DATA = [
             "author": "Dave Maguire",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Pyxicephalus_adspersus02.jpg/500px-Pyxicephalus_adspersus02.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Pyxicephalus_adspersus04.jpg",
+            "author": "Dave Maguire",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Pyxicephalus_adspersus04.jpg/500px-Pyxicephalus_adspersus04.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Pyxicephalus_adspersus03.jpg",
+            "author": "Dave Maguire",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Pyxicephalus_adspersus03.jpg/500px-Pyxicephalus_adspersus03.jpg"
           }
         ],
         "facts": [
@@ -266037,6 +267321,18 @@ window.GAME_DATA = [
             "author": "Javier Ábalos Alvarez from Madrid, España",
             "license": "CC BY-SA 2.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Pleurodeles_waltl_%286411330129%29.jpg/500px-Pleurodeles_waltl_%286411330129%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Pleurodeles_waltl_455676315.jpg",
+            "author": "Diego González Dopico",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Pleurodeles_waltl_455676315.jpg/500px-Pleurodeles_waltl_455676315.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Pleurodeles_waltl_(6411333161).jpg",
+            "author": "Javier Ábalos Alvarez from Madrid, España",
+            "license": "CC BY-SA 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Pleurodeles_waltl_%286411333161%29.jpg/500px-Pleurodeles_waltl_%286411333161%29.jpg"
           }
         ],
         "facts": [
@@ -270832,6 +272128,30 @@ window.GAME_DATA = [
             "author": "Diego Delso",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Dragonet_com%C3%BAn_%28Callionymus_lyra%29%2C_Parque_natural_de_la_Arr%C3%A1bida%2C_Portugal%2C_2023-07-28%2C_DD_18.jpg/500px-Dragonet_com%C3%BAn_%28Callionymus_lyra%29%2C_Parque_natural_de_la_Arr%C3%A1bida%2C_Portugal%2C_2023-07-28%2C_DD_18.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Callionymus_lyra_02.jpg",
+            "author": "TinoStrauss",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Callionymus_lyra_02.jpg/500px-Callionymus_lyra_02.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Dragonet_com%C3%BAn_(Callionymus_lyra),_Parque_natural_de_la_Arr%C3%A1bida,_Portugal,_2021-09-09,_DD_63.jpg",
+            "author": "Diego Delso",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Dragonet_com%C3%BAn_%28Callionymus_lyra%29%2C_Parque_natural_de_la_Arr%C3%A1bida%2C_Portugal%2C_2021-09-09%2C_DD_63.jpg/500px-Dragonet_com%C3%BAn_%28Callionymus_lyra%29%2C_Parque_natural_de_la_Arr%C3%A1bida%2C_Portugal%2C_2021-09-09%2C_DD_63.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Dragonet_com%C3%BAn_(Callionymus_lyra),_Parque_natural_de_la_Arr%C3%A1bida,_Portugal,_2023-07-28,_DD_17.jpg",
+            "author": "Diego Delso",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Dragonet_com%C3%BAn_%28Callionymus_lyra%29%2C_Parque_natural_de_la_Arr%C3%A1bida%2C_Portugal%2C_2023-07-28%2C_DD_17.jpg/500px-Dragonet_com%C3%BAn_%28Callionymus_lyra%29%2C_Parque_natural_de_la_Arr%C3%A1bida%2C_Portugal%2C_2023-07-28%2C_DD_17.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Dragonet_com%C3%BAn_(Callionymus_lyra),_Parque_natural_de_la_Arr%C3%A1bida,_Portugal,_2021-09-08,_DD_40.jpg",
+            "author": "Diego Delso",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Dragonet_com%C3%BAn_%28Callionymus_lyra%29%2C_Parque_natural_de_la_Arr%C3%A1bida%2C_Portugal%2C_2021-09-08%2C_DD_40.jpg/500px-Dragonet_com%C3%BAn_%28Callionymus_lyra%29%2C_Parque_natural_de_la_Arr%C3%A1bida%2C_Portugal%2C_2021-09-08%2C_DD_40.jpg"
           }
         ],
         "facts": [
@@ -275430,6 +276750,12 @@ window.GAME_DATA = [
             "author": "Chris Taklis",
             "license": "CC BY 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Conger_conger_55103542.jpg/500px-Conger_conger_55103542.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Observation_d%27un_congre_(Conger_conger)_par_390_m_de_fond_(Ifremer_00621-73303).jpg",
+            "author": "",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Observation_d%27un_congre_%28Conger_conger%29_par_390_m_de_fond_%28Ifremer_00621-73303%29.jpg/500px-Observation_d%27un_congre_%28Conger_conger%29_par_390_m_de_fond_%28Ifremer_00621-73303%29.jpg"
           }
         ],
         "facts": [
@@ -279776,6 +281102,18 @@ window.GAME_DATA = [
             "author": "Felipe cancian",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Bonito-2.JPG/500px-Bonito-2.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Salminus_brasiliensis_565771871.jpg",
+            "author": "Donald Davesne",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Salminus_brasiliensis_565771871.jpg/500px-Salminus_brasiliensis_565771871.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Dourado_no_Rio_da_Prata.JPG",
+            "author": "Jonas Techy Potrich",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Dourado_no_Rio_da_Prata.JPG/500px-Dourado_no_Rio_da_Prata.JPG"
           }
         ],
         "facts": [
@@ -280123,6 +281461,12 @@ window.GAME_DATA = [
             "author": "Liné1",
             "license": "CC BY 2.5",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Osteoglossum_bicirrhosum01.jpg/500px-Osteoglossum_bicirrhosum01.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Osteoglossidae_Osteoglossum_bicirrhosum_(5806482933).jpg",
+            "author": "Clinton & Charles Robertson from RAF Lakenheath, UK & San Marcos, TX, USA & UK",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Osteoglossidae_Osteoglossum_bicirrhosum_%285806482933%29.jpg/500px-Osteoglossidae_Osteoglossum_bicirrhosum_%285806482933%29.jpg"
           }
         ],
         "facts": [
@@ -283709,6 +285053,12 @@ window.GAME_DATA = [
             "author": "Bernard Picton",
             "license": "CC BY 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Zeus_faber_111122633.jpg/500px-Zeus_faber_111122633.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Saint-Pierre_(Zeus_faber)_(Ifremer_00555-66734_-_44451).jpg",
+            "author": "Olivier Dugornay (Ifremer)",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Saint-Pierre_%28Zeus_faber%29_%28Ifremer_00555-66734_-_44451%29.jpg/500px-Saint-Pierre_%28Zeus_faber%29_%28Ifremer_00555-66734_-_44451%29.jpg"
           }
         ],
         "facts": [
@@ -285999,6 +287349,12 @@ window.GAME_DATA = [
             "author": "Peter Southwood",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Trachurus_trachurus_DSC02845.JPG/500px-Trachurus_trachurus_DSC02845.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Trachurus_trachurus_France.jpg",
+            "author": "jujurenoult",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Trachurus_trachurus_France.jpg/500px-Trachurus_trachurus_France.jpg"
           }
         ],
         "facts": [
@@ -286184,6 +287540,18 @@ window.GAME_DATA = [
             "author": "Ewout Knoester",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Epinephelus_lanceolatus_38673596_%28closeup%29.jpg/500px-Epinephelus_lanceolatus_38673596_%28closeup%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Epinephelus_lanceolatus_38673596_(0).jpg",
+            "author": "Ewout Knoester",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Epinephelus_lanceolatus_38673596_%280%29.jpg/500px-Epinephelus_lanceolatus_38673596_%280%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Epinephelus-lanceolatus.jpg",
+            "author": "Christo.j.brown",
+            "license": "CC0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Epinephelus-lanceolatus.jpg/500px-Epinephelus-lanceolatus.jpg"
           }
         ],
         "facts": [
@@ -287166,6 +288534,12 @@ window.GAME_DATA = [
             "author": "James St. John",
             "license": "CC BY 2.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Esox_masquinongy_%28muskellunge%29_3.jpg/500px-Esox_masquinongy_%28muskellunge%29_3.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Esox_masquinongy.jpg",
+            "author": "Engbretson, Eric / U.S. Fish and Wildlife Service",
+            "license": "Public domain",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Esox_masquinongy.jpg/500px-Esox_masquinongy.jpg"
           }
         ],
         "facts": [
@@ -292010,6 +293384,18 @@ window.GAME_DATA = [
             "author": "Ed Bierman from CA, usa",
             "license": "CC BY 2.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Heterodontus_francisci_catalina.jpg/500px-Heterodontus_francisci_catalina.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Heterodontus_francisci_channel.jpg",
+            "author": "John",
+            "license": "CC BY-SA 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Heterodontus_francisci_channel.jpg/500px-Heterodontus_francisci_channel.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Heterodontus_francisci_2.jpg",
+            "author": "Ed Bierman from CA, usa",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Heterodontus_francisci_2.jpg/500px-Heterodontus_francisci_2.jpg"
           }
         ],
         "facts": [
@@ -295856,6 +297242,24 @@ window.GAME_DATA = [
             "author": "entomart",
             "license": "Attribution",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Diprion_pini_-_metamorphosis_B_-_06_-_female_%2814_july_2010%29.jpg/500px-Diprion_pini_-_metamorphosis_B_-_06_-_female_%2814_july_2010%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Diprion_pini_2_beentree.jpg",
+            "author": "Beentree",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Diprion_pini_2_beentree.jpg/500px-Diprion_pini_2_beentree.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Diprion_pini_-_metamorphosis_B_-_02_-_larva_before_pupation_(01_july_2010).jpg",
+            "author": "entomart",
+            "license": "Attribution",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Diprion_pini_-_metamorphosis_B_-_02_-_larva_before_pupation_%2801_july_2010%29.jpg/500px-Diprion_pini_-_metamorphosis_B_-_02_-_larva_before_pupation_%2801_july_2010%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Diprion_pini_-_metamorphosis_B_-_01_-_larva_before_pupation_(01_july_2010).jpg",
+            "author": "entomart",
+            "license": "Attribution",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Diprion_pini_-_metamorphosis_B_-_01_-_larva_before_pupation_%2801_july_2010%29.jpg/500px-Diprion_pini_-_metamorphosis_B_-_01_-_larva_before_pupation_%2801_july_2010%29.jpg"
           }
         ],
         "facts": [
@@ -298393,6 +299797,12 @@ window.GAME_DATA = [
             "author": "Hectonichus",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Chrysomelidae_-_Pyrrhalta_viburni.JPG/500px-Chrysomelidae_-_Pyrrhalta_viburni.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Pyrrhalta_viburni_(Viburnum_leaf_beetle),_Elst_(Gld),_the_Netherlands.jpg",
+            "author": "Bj.schoenmakers",
+            "license": "CC0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Pyrrhalta_viburni_%28Viburnum_leaf_beetle%29%2C_Elst_%28Gld%29%2C_the_Netherlands.jpg/500px-Pyrrhalta_viburni_%28Viburnum_leaf_beetle%29%2C_Elst_%28Gld%29%2C_the_Netherlands.jpg"
           }
         ],
         "facts": [
@@ -299957,6 +301367,18 @@ window.GAME_DATA = [
             "author": "Sandy Rae",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Coccinella_%28Spilota%29_undecimpunctata_%2811-spot_ladybird%29.jpg/500px-Coccinella_%28Spilota%29_undecimpunctata_%2811-spot_ladybird%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Coccinella_undecimpunctata_undecimpunctata_in_copula.jpg",
+            "author": "Simon Thevenin",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Coccinella_undecimpunctata_undecimpunctata_in_copula.jpg/500px-Coccinella_undecimpunctata_undecimpunctata_in_copula.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Coccinella_undecimpunctata_-_49225159101.jpg",
+            "author": "Gilles San Martin",
+            "license": "CC BY-SA 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Coccinella_undecimpunctata_-_49225159101.jpg/500px-Coccinella_undecimpunctata_-_49225159101.jpg"
           }
         ],
         "facts": [
@@ -300638,6 +302060,24 @@ window.GAME_DATA = [
             "author": "Hectonichus",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Formicidae_-_Lasius_%28Dendrolasius%29_fuliginosus_%28Queen%29.JPG/500px-Formicidae_-_Lasius_%28Dendrolasius%29_fuliginosus_%28Queen%29.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Lasius_fuliginosus_ants_(33570367148).jpg",
+            "author": "Lukas Large from Stourbridge, United Kingdom",
+            "license": "CC BY-SA 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Lasius_fuliginosus_ants_%2833570367148%29.jpg/500px-Lasius_fuliginosus_ants_%2833570367148%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Lasius_fuliginosus_117409398.jpg",
+            "author": "Michael Knapp",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Lasius_fuliginosus_117409398.jpg/500px-Lasius_fuliginosus_117409398.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Lasius_fuliginosus_am_Nesteingang.jpg",
+            "author": "Quazzle",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Lasius_fuliginosus_am_Nesteingang.jpg/500px-Lasius_fuliginosus_am_Nesteingang.jpg"
           }
         ],
         "facts": [
@@ -301868,6 +303308,12 @@ window.GAME_DATA = [
             "author": "Graham Wise from Brisbane, Australia",
             "license": "CC BY 2.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Oreophoetes_peruana_%2814863969417%29.jpg/500px-Oreophoetes_peruana_%2814863969417%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Oreophoetes_peruana_-_inat_45201013.jpg",
+            "author": "Graham Wise vyobrazené místo: Pastaza, Ecuador ( 2°27′41″S 76°59′16″W ﻿ / ﻿ 2.46",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Oreophoetes_peruana_-_inat_45201013.jpg/500px-Oreophoetes_peruana_-_inat_45201013.jpg"
           }
         ],
         "facts": [
@@ -302054,6 +303500,18 @@ window.GAME_DATA = [
             "author": "Harald Süpfle",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Aglia_tau_-_male_3_%28HS%29.jpg/500px-Aglia_tau_-_male_3_%28HS%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Aglia_tau_%E2%99%82_-_Tau_Emperor_(male)_-_%D0%9F%D0%B0%D0%B2%D0%BB%D0%B8%D0%BD%D0%BE%D0%B3%D0%BB%D0%B0%D0%B7%D0%BA%D0%B0_%D1%80%D1%8B%D0%B6%D0%B0%D1%8F_(%D1%81%D0%B0%D0%BC%D0%B5%D1%86)_(40518925994).jpg",
+            "author": "Ilia Ustyantsev from Russia",
+            "license": "CC BY-SA 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Aglia_tau_%E2%99%82_-_Tau_Emperor_%28male%29_-_%D0%9F%D0%B0%D0%B2%D0%BB%D0%B8%D0%BD%D0%BE%D0%B3%D0%BB%D0%B0%D0%B7%D0%BA%D0%B0_%D1%80%D1%8B%D0%B6%D0%B0%D1%8F_%28%D1%81%D0%B0%D0%BC%D0%B5%D1%86%29_%2840518925994%29.jpg/500px-Aglia_tau_%E2%99%82_-_Tau_Emperor_%28male%29_-_%D0%9F%D0%B0%D0%B2%D0%BB%D0%B8%D0%BD%D0%BE%D0%B3%D0%BB%D0%B0%D0%B7%D0%BA%D0%B0_%D1%80%D1%8B%D0%B6%D0%B0%D1%8F_%28%D1%81%D0%B0%D0%BC%D0%B5%D1%86%29_%2840518925994%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Aglia_tau_%E2%99%80_-_Tau_Emperor_(female)_-_%D0%9F%D0%B0%D0%B2%D0%BB%D0%B8%D0%BD%D0%BE%D0%B3%D0%BB%D0%B0%D0%B7%D0%BA%D0%B0_%D1%80%D1%8B%D0%B6%D0%B0%D1%8F_(%D1%81%D0%B0%D0%BC%D0%BA%D0%B0)_(41233982881).jpg",
+            "author": "Ilia Ustyantsev from Russia",
+            "license": "CC BY-SA 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Aglia_tau_%E2%99%80_-_Tau_Emperor_%28female%29_-_%D0%9F%D0%B0%D0%B2%D0%BB%D0%B8%D0%BD%D0%BE%D0%B3%D0%BB%D0%B0%D0%B7%D0%BA%D0%B0_%D1%80%D1%8B%D0%B6%D0%B0%D1%8F_%28%D1%81%D0%B0%D0%BC%D0%BA%D0%B0%29_%2841233982881%29.jpg/500px-Aglia_tau_%E2%99%80_-_Tau_Emperor_%28female%29_-_%D0%9F%D0%B0%D0%B2%D0%BB%D0%B8%D0%BD%D0%BE%D0%B3%D0%BB%D0%B0%D0%B7%D0%BA%D0%B0_%D1%80%D1%8B%D0%B6%D0%B0%D1%8F_%28%D1%81%D0%B0%D0%BC%D0%BA%D0%B0%29_%2841233982881%29.jpg"
           }
         ],
         "facts": [
@@ -305724,6 +307182,12 @@ window.GAME_DATA = [
             "author": "5snake5",
             "license": "CC0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Carabus_violaceus_-_Goldleiste_20060906.jpg/500px-Carabus_violaceus_-_Goldleiste_20060906.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Violettjooksik,_Carabus_violaceus.jpg",
+            "author": "Veljo Runnel",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Violettjooksik%2C_Carabus_violaceus.jpg/500px-Violettjooksik%2C_Carabus_violaceus.jpg"
           }
         ],
         "facts": [
@@ -308682,6 +310146,12 @@ window.GAME_DATA = [
             "author": "François-Xavier Taxil",
             "license": "CC BY 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Aeshna_subarctica_-_Hochmoor-Mosaikjungfer_171779559.jpg/500px-Aeshna_subarctica_-_Hochmoor-Mosaikjungfer_171779559.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Aeshna_subarctica_w_Hochmoor-Mosaikjungfer_Wachendorf-Lingen_Arnold_Sennhauser.JPG",
+            "author": "Arnold Sennhauser",
+            "license": "CC BY 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Aeshna_subarctica_w_Hochmoor-Mosaikjungfer_Wachendorf-Lingen_Arnold_Sennhauser.JPG/500px-Aeshna_subarctica_w_Hochmoor-Mosaikjungfer_Wachendorf-Lingen_Arnold_Sennhauser.JPG"
           }
         ],
         "facts": [
@@ -310990,6 +312460,18 @@ window.GAME_DATA = [
             "author": "Nagy Sándor m&m (NagySandor.EU)",
             "license": "CC BY 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Cydalima_perspectalis%2C_brown_variant%2C_Hungary.jpg/500px-Cydalima_perspectalis%2C_brown_variant%2C_Hungary.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Unidentified-butterfly-20190610-145410.jpg",
+            "author": "Tobias \"ToBeFree\" Frei",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Unidentified-butterfly-20190610-145410.jpg/500px-Unidentified-butterfly-20190610-145410.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Buchsbaumz%C3%BCnsler_auf_Hauswand.jpg",
+            "author": "User:Tobias1984",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Buchsbaumz%C3%BCnsler_auf_Hauswand.jpg/500px-Buchsbaumz%C3%BCnsler_auf_Hauswand.jpg"
           }
         ],
         "facts": [
@@ -311852,6 +313334,18 @@ window.GAME_DATA = [
             "author": "L. Shyamal",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/ApisLaboriosa2.jpg/500px-ApisLaboriosa2.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Apis_laboriosa_446459363.jpg",
+            "author": "Dutta Roy Sagnik",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Apis_laboriosa_446459363.jpg/500px-Apis_laboriosa_446459363.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Apis_laboriosa_365338291.jpg",
+            "author": "Tristan Jobin",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Apis_laboriosa_365338291.jpg/500px-Apis_laboriosa_365338291.jpg"
           }
         ],
         "facts": [
@@ -314861,6 +316355,36 @@ window.GAME_DATA = [
             "author": "Ivar Leidus",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Bombus_pratorum_%28male%29_-_Knautia_arvensis_-_Keila.jpg/500px-Bombus_pratorum_%28male%29_-_Knautia_arvensis_-_Keila.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Bombus_pratorum_01.JPG",
+            "author": "Sanja565658",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Bombus_pratorum_01.JPG/500px-Bombus_pratorum_01.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Bombus_(Pyrobombus)_pratorum_(male)_-_Early_bumblebee_-_Flickr_-_S._Rae.jpg",
+            "author": "S. Rae from Scotland, UK",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Bombus_%28Pyrobombus%29_pratorum_%28male%29_-_Early_bumblebee_-_Flickr_-_S._Rae.jpg/500px-Bombus_%28Pyrobombus%29_pratorum_%28male%29_-_Early_bumblebee_-_Flickr_-_S._Rae.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Markhumle_(Bombus_pratorum)_(5722021637).jpg",
+            "author": "Kjetil Fjellheim from Bergen, Norway",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Markhumle_%28Bombus_pratorum%29_%285722021637%29.jpg/500px-Markhumle_%28Bombus_pratorum%29_%285722021637%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Bombus_(Pyrobombus)_pratorum_-_Flickr_-_S._Rae.jpg",
+            "author": "S. Rae from Scotland, UK",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Bombus_%28Pyrobombus%29_pratorum_-_Flickr_-_S._Rae.jpg/500px-Bombus_%28Pyrobombus%29_pratorum_-_Flickr_-_S._Rae.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Bombus_pratorum_male_(49212737902).jpg",
+            "author": "gailhampshire from Cradley, Malvern, U.K",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Bombus_pratorum_male_%2849212737902%29.jpg/500px-Bombus_pratorum_male_%2849212737902%29.jpg"
           }
         ],
         "facts": [
@@ -315735,6 +317259,30 @@ window.GAME_DATA = [
             "author": "Christian Pirkl",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Agriades_optilete_294A0076_Styria_Austria.jpg/500px-Agriades_optilete_294A0076_Styria_Austria.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Agriades_optilete_%E2%99%82_-_Cranberry_blue_(male)_-_%D0%A2%D0%BE%D1%80%D1%84%D1%8F%D0%BD%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B3%D0%BE%D0%BB%D1%83%D0%B1%D1%8F%D0%BD%D0%BA%D0%B0_(%D1%81%D0%B0%D0%BC%D0%B5%D1%86)_(28906743448).jpg",
+            "author": "Ilia Ustyantsev from Russia",
+            "license": "CC BY-SA 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Agriades_optilete_%E2%99%82_-_Cranberry_blue_%28male%29_-_%D0%A2%D0%BE%D1%80%D1%84%D1%8F%D0%BD%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B3%D0%BE%D0%BB%D1%83%D0%B1%D1%8F%D0%BD%D0%BA%D0%B0_%28%D1%81%D0%B0%D0%BC%D0%B5%D1%86%29_%2828906743448%29.jpg/500px-Agriades_optilete_%E2%99%82_-_Cranberry_blue_%28male%29_-_%D0%A2%D0%BE%D1%80%D1%84%D1%8F%D0%BD%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B3%D0%BE%D0%BB%D1%83%D0%B1%D1%8F%D0%BD%D0%BA%D0%B0_%28%D1%81%D0%B0%D0%BC%D0%B5%D1%86%29_%2828906743448%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Agriades_optilete_%E2%99%82_-_Cranberry_blue_(male)_-_%D0%A2%D0%BE%D1%80%D1%84%D1%8F%D0%BD%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B3%D0%BE%D0%BB%D1%83%D0%B1%D1%8F%D0%BD%D0%BA%D0%B0_(%D1%81%D0%B0%D0%BC%D0%B5%D1%86)_(40969557850).jpg",
+            "author": "Ilia Ustyantsev from Russia",
+            "license": "CC BY-SA 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Agriades_optilete_%E2%99%82_-_Cranberry_blue_%28male%29_-_%D0%A2%D0%BE%D1%80%D1%84%D1%8F%D0%BD%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B3%D0%BE%D0%BB%D1%83%D0%B1%D1%8F%D0%BD%D0%BA%D0%B0_%28%D1%81%D0%B0%D0%BC%D0%B5%D1%86%29_%2840969557850%29.jpg/500px-Agriades_optilete_%E2%99%82_-_Cranberry_blue_%28male%29_-_%D0%A2%D0%BE%D1%80%D1%84%D1%8F%D0%BD%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B3%D0%BE%D0%BB%D1%83%D0%B1%D1%8F%D0%BD%D0%BA%D0%B0_%28%D1%81%D0%B0%D0%BC%D0%B5%D1%86%29_%2840969557850%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Agriades_optilete_%E2%99%82_-_Cranberry_blue_(male)_-_%D0%A2%D0%BE%D1%80%D1%84%D1%8F%D0%BD%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B3%D0%BE%D0%BB%D1%83%D0%B1%D1%8F%D0%BD%D0%BA%D0%B0_(%D1%81%D0%B0%D0%BC%D0%B5%D1%86)_(39225258760).jpg",
+            "author": "Ilia Ustyantsev from Russia",
+            "license": "CC BY-SA 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Agriades_optilete_%E2%99%82_-_Cranberry_blue_%28male%29_-_%D0%A2%D0%BE%D1%80%D1%84%D1%8F%D0%BD%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B3%D0%BE%D0%BB%D1%83%D0%B1%D1%8F%D0%BD%D0%BA%D0%B0_%28%D1%81%D0%B0%D0%BC%D0%B5%D1%86%29_%2839225258760%29.jpg/500px-Agriades_optilete_%E2%99%82_-_Cranberry_blue_%28male%29_-_%D0%A2%D0%BE%D1%80%D1%84%D1%8F%D0%BD%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B3%D0%BE%D0%BB%D1%83%D0%B1%D1%8F%D0%BD%D0%BA%D0%B0_%28%D1%81%D0%B0%D0%BC%D0%B5%D1%86%29_%2839225258760%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Hochmoor-Bl%C3%A4uling_(Plebejus_optilete)_(2).jpg",
+            "author": "Hajotthu",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Hochmoor-Bl%C3%A4uling_%28Plebejus_optilete%29_%282%29.jpg/500px-Hochmoor-Bl%C3%A4uling_%28Plebejus_optilete%29_%282%29.jpg"
           }
         ],
         "facts": [
@@ -326066,6 +327614,12 @@ window.GAME_DATA = [
             "author": "Ltshears",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/TaxicabBeetle_PachnodaPeregrina.jpg/500px-TaxicabBeetle_PachnodaPeregrina.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Pachnoda_marginata_peregrina_(Congo_chafer).jpg",
+            "author": "Nhobgood Nick Hobgood",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Pachnoda_marginata_peregrina_%28Congo_chafer%29.jpg/500px-Pachnoda_marginata_peregrina_%28Congo_chafer%29.jpg"
           }
         ],
         "facts": [
@@ -330704,6 +332258,24 @@ window.GAME_DATA = [
             "author": "Frank Vassen from Brussels, Belgium",
             "license": "CC BY 2.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Winterhafte_%28Boreus_hyemalis%29_bei_der_Paarung_im_Schnee%2C_Holzwarchetal_bei_M%C3%BCrringen%2C_Ostbelgien_%2850797298666%29.jpg/500px-Winterhafte_%28Boreus_hyemalis%29_bei_der_Paarung_im_Schnee%2C_Holzwarchetal_bei_M%C3%BCrringen%2C_Ostbelgien_%2850797298666%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Boreus_hyemalis_female02.jpg",
+            "author": "Gilles San Martin",
+            "license": "CC BY-SA 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Boreus_hyemalis_female02.jpg/500px-Boreus_hyemalis_female02.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Boreus_hyemalis_female1.jpg",
+            "author": "Gilles San Martin",
+            "license": "CC BY-SA 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Boreus_hyemalis_female1.jpg/500px-Boreus_hyemalis_female1.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Boreus_hyemalis.jpg",
+            "author": "Marco de Haas",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Boreus_hyemalis.jpg/500px-Boreus_hyemalis.jpg"
           }
         ],
         "facts": [
@@ -331136,6 +332708,18 @@ window.GAME_DATA = [
             "author": "Mikael Mildén",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Endromis_versicolora_-_Sk%C3%A4ckspinnare.jpg/500px-Endromis_versicolora_-_Sk%C3%A4ckspinnare.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Endromis_versicolora_%E2%99%82_-_Kentish_glory_(male)_-_%D0%91%D0%B5%D1%80%D1%91%D0%B7%D0%BE%D0%B2%D1%8B%D0%B9_%D1%88%D0%B5%D0%BB%D0%BA%D0%BE%D0%BF%D1%80%D1%8F%D0%B4_(%D1%81%D0%B0%D0%BC%D0%B5%D1%86)_(25986437737).jpg",
+            "author": "Ilia Ustyantsev from Russia",
+            "license": "CC BY-SA 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Endromis_versicolora_%E2%99%82_-_Kentish_glory_%28male%29_-_%D0%91%D0%B5%D1%80%D1%91%D0%B7%D0%BE%D0%B2%D1%8B%D0%B9_%D1%88%D0%B5%D0%BB%D0%BA%D0%BE%D0%BF%D1%80%D1%8F%D0%B4_%28%D1%81%D0%B0%D0%BC%D0%B5%D1%86%29_%2825986437737%29.jpg/500px-Endromis_versicolora_%E2%99%82_-_Kentish_glory_%28male%29_-_%D0%91%D0%B5%D1%80%D1%91%D0%B7%D0%BE%D0%B2%D1%8B%D0%B9_%D1%88%D0%B5%D0%BB%D0%BA%D0%BE%D0%BF%D1%80%D1%8F%D0%B4_%28%D1%81%D0%B0%D0%BC%D0%B5%D1%86%29_%2825986437737%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Endromis_versicolora_01_(HS).JPG",
+            "author": "Harald Süpfle",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Endromis_versicolora_01_%28HS%29.JPG/500px-Endromis_versicolora_01_%28HS%29.JPG"
           }
         ],
         "facts": [
@@ -334857,6 +336441,42 @@ window.GAME_DATA = [
             "author": "Ben Sale from Stevenage, UK",
             "license": "CC BY 2.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Copper_Underwing_%2851364324040%29.jpg/500px-Copper_Underwing_%2851364324040%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:(2297)_Copper_Underwing_(Amphipyra_pyramidea)_(29832794680).jpg",
+            "author": "Ben Sale from UK",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/%282297%29_Copper_Underwing_%28Amphipyra_pyramidea%29_%2829832794680%29.jpg/500px-%282297%29_Copper_Underwing_%28Amphipyra_pyramidea%29_%2829832794680%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:(2297)_Copper_Underwing_(Amphipyra_pyramidea)_(3814269992).jpg",
+            "author": "Ben Sale from UK",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/%282297%29_Copper_Underwing_%28Amphipyra_pyramidea%29_%283814269992%29.jpg/500px-%282297%29_Copper_Underwing_%28Amphipyra_pyramidea%29_%283814269992%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Amphipyra_pyramidea_8425.jpg",
+            "author": "",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Amphipyra_pyramidea_8425.jpg/500px-Amphipyra_pyramidea_8425.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Copper_Underwing_(53076150838).jpg",
+            "author": "Ben Sale from Stevenage, UK",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Copper_Underwing_%2853076150838%29.jpg/500px-Copper_Underwing_%2853076150838%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:(2297)_Copper_Underwing_(Amphipyra_pyramidea)_(5985848528).jpg",
+            "author": "Ben Sale from UK",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/%282297%29_Copper_Underwing_%28Amphipyra_pyramidea%29_%285985848528%29.jpg/500px-%282297%29_Copper_Underwing_%28Amphipyra_pyramidea%29_%285985848528%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Amphipyra_pyramidea_(2940211501).jpg",
+            "author": "Donald Hobern from Copenhagen, Denmark",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Amphipyra_pyramidea_%282940211501%29.jpg/500px-Amphipyra_pyramidea_%282940211501%29.jpg"
           }
         ],
         "facts": [
@@ -344613,6 +346233,18 @@ window.GAME_DATA = [
             "author": "Andreas Eichler",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/2013.06.04.-20-Viernheimer_Heide_Viernheim-Vierpunktspringspinne-Sitticus_pubescens-Weibchen.jpg/500px-2013.06.04.-20-Viernheimer_Heide_Viernheim-Vierpunktspringspinne-Sitticus_pubescens-Weibchen.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Sitticus_pubescens_(52270491095).jpg",
+            "author": "Ben Sale from Stevenage, UK",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Sitticus_pubescens_%2852270491095%29.jpg/500px-Sitticus_pubescens_%2852270491095%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:2013.06.04.-21-Viernheimer_Heide_Viernheim-Vierpunktspringspinne-Sitticus_pubescens-Weibchen.jpg",
+            "author": "Andreas Eichler",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/2013.06.04.-21-Viernheimer_Heide_Viernheim-Vierpunktspringspinne-Sitticus_pubescens-Weibchen.jpg/500px-2013.06.04.-21-Viernheimer_Heide_Viernheim-Vierpunktspringspinne-Sitticus_pubescens-Weibchen.jpg"
           }
         ],
         "facts": [
@@ -344876,6 +346508,18 @@ window.GAME_DATA = [
             "author": "xpda",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Steatoda_triangulosa_P1240431a.jpg/500px-Steatoda_triangulosa_P1240431a.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Steatoda_triangulosa_couple.jpg",
+            "author": "Syrio",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Steatoda_triangulosa_couple.jpg/500px-Steatoda_triangulosa_couple.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Linyphiidae_fg01.jpg",
+            "author": "Fritz Geller-Grimm",
+            "license": "CC BY-SA 2.5",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Linyphiidae_fg01.jpg/500px-Linyphiidae_fg01.jpg"
           }
         ],
         "facts": [
@@ -345001,6 +346645,30 @@ window.GAME_DATA = [
             "author": "Dariusz Kowalczyk",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Cyclosa_conica_2.jpg/500px-Cyclosa_conica_2.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Trashline_Orbweaver_-_Flickr_-_treegrow_(4).jpg",
+            "author": "Katja Schulz from Washington, D. C., USA",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Trashline_Orbweaver_-_Flickr_-_treegrow_%284%29.jpg/500px-Trashline_Orbweaver_-_Flickr_-_treegrow_%284%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Cyclosa_Conica_Spider.jpg",
+            "author": "BAKRAOUI Bilel",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Cyclosa_Conica_Spider.jpg/500px-Cyclosa_Conica_Spider.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:500px_photo_(36079880).jpeg",
+            "author": "Canapin",
+            "license": "CC BY 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/500px_photo_%2836079880%29.jpeg/500px-500px_photo_%2836079880%29.jpeg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Trashline_Orbweaver_-_Flickr_-_treegrow_(3).jpg",
+            "author": "Katja Schulz from Washington, D. C., USA",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Trashline_Orbweaver_-_Flickr_-_treegrow_%283%29.jpg/500px-Trashline_Orbweaver_-_Flickr_-_treegrow_%283%29.jpg"
           }
         ],
         "facts": [
@@ -345473,6 +347141,18 @@ window.GAME_DATA = [
             "author": "Thierry Arbault",
             "license": "CC BY 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Lycosa_tarantula_france.jpg/500px-Lycosa_tarantula_france.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Tarantula.jpg",
+            "author": "Danyel Maus",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Tarantula.jpg/500px-Tarantula.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Lycosa_tarentula_09924.jpg",
+            "author": "R. Benezet",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Lycosa_tarentula_09924.jpg/500px-Lycosa_tarentula_09924.jpg"
           }
         ],
         "facts": [
@@ -349538,6 +351218,12 @@ window.GAME_DATA = [
             "author": "Norbert Gürtler",
             "license": "Public domain",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Eresus_moravicus.jpg/500px-Eresus_moravicus.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Stepnik_moravsky_(Eresus_moravicus).jpg",
+            "author": "Jan Šindelář",
+            "license": "CC BY 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Stepnik_moravsky_%28Eresus_moravicus%29.jpg/500px-Stepnik_moravsky_%28Eresus_moravicus%29.jpg"
           }
         ],
         "facts": [
@@ -349720,6 +351406,18 @@ window.GAME_DATA = [
             "author": "Alan Rockefeller",
             "license": "CC BY 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Centruroides_exilicauda_32446410.jpg/500px-Centruroides_exilicauda_32446410.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Centruroides_exilicauda_32446450.jpg",
+            "author": "Alan Rockefeller",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Centruroides_exilicauda_32446450.jpg/500px-Centruroides_exilicauda_32446450.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Centruroides_exilicauda_8430477.jpg",
+            "author": "James M. Maley",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Centruroides_exilicauda_8430477.jpg/500px-Centruroides_exilicauda_8430477.jpg"
           }
         ],
         "facts": [
@@ -351514,6 +353212,12 @@ window.GAME_DATA = [
             "author": "Gilles San Martin from Namur, Belgium",
             "license": "CC BY-SA 2.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Varroa_destructor_on_a_bee_nymph_%285048094767%29.jpg/500px-Varroa_destructor_on_a_bee_nymph_%285048094767%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Varroa_destructor_on_the_head_of_bee_nymph_(5048084493).jpg",
+            "author": "Gilles San Martin from Namur, Belgium",
+            "license": "CC BY-SA 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Varroa_destructor_on_the_head_of_bee_nymph_%285048084493%29.jpg/500px-Varroa_destructor_on_the_head_of_bee_nymph_%285048084493%29.jpg"
           }
         ],
         "facts": [
@@ -351682,6 +353386,36 @@ window.GAME_DATA = [
             "author": "S. Rae from Scotland, UK",
             "license": "CC BY 2.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Araneus_quadratus_-_Flickr_-_S._Rae.jpg/500px-Araneus_quadratus_-_Flickr_-_S._Rae.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Araneus_quadradus_294A1175_Ges%C3%A4use.jpg",
+            "author": "Christian Pirkl",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Araneus_quadradus_294A1175_Ges%C3%A4use.jpg/500px-Araneus_quadradus_294A1175_Ges%C3%A4use.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:%D0%9F%D0%B0%D1%83%D0%BA_%D0%B2_%D0%94%D0%BE%D0%BD%D0%B5%D1%86%D0%BA%D0%B5_8.jpg",
+            "author": "Andrey Butko",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/%D0%9F%D0%B0%D1%83%D0%BA_%D0%B2_%D0%94%D0%BE%D0%BD%D0%B5%D1%86%D0%BA%D0%B5_8.jpg/500px-%D0%9F%D0%B0%D1%83%D0%BA_%D0%B2_%D0%94%D0%BE%D0%BD%D0%B5%D1%86%D0%BA%D0%B5_8.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Araneus_quadratus_rlp.jpg",
+            "author": "Karrierestute",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Araneus_quadratus_rlp.jpg/500px-Araneus_quadratus_rlp.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Araneus_quadratus_06.JPG",
+            "author": "AfroBrazilian",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Araneus_quadratus_06.JPG/500px-Araneus_quadratus_06.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Araneus_quadratus_-_img_14119.jpg",
+            "author": "Pmau",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Araneus_quadratus_-_img_14119.jpg/500px-Araneus_quadratus_-_img_14119.jpg"
           }
         ],
         "facts": [
@@ -352171,6 +353905,24 @@ window.GAME_DATA = [
             "author": "Yair Goldstof",
             "license": "CC BY 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Deathstalker-israel.jpg/500px-Deathstalker-israel.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Deathstalker_(7169672743).jpg",
+            "author": "Alastair Rae from London, United Kingdom",
+            "license": "CC BY-SA 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Deathstalker_%287169672743%29.jpg/500px-Deathstalker_%287169672743%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Deathstalker_(Leiurus_quinquestriatus)_4.jpg",
+            "author": "מינוזיג",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Deathstalker_%28Leiurus_quinquestriatus%29_4.jpg/500px-Deathstalker_%28Leiurus_quinquestriatus%29_4.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Deathstalker_(Leiurus_quinquestriatus)_1.jpg",
+            "author": "מינוזיג",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Deathstalker_%28Leiurus_quinquestriatus%29_1.jpg/500px-Deathstalker_%28Leiurus_quinquestriatus%29_1.jpg"
           }
         ],
         "facts": [
@@ -352871,6 +354623,24 @@ window.GAME_DATA = [
             "author": "Thomas Galewski",
             "license": "CC BY 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Pecten_maximus_470495021.jpg/500px-Pecten_maximus_470495021.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Coquille_Saint-Jacques_(Pecten_maximus)_en_rade_de_Brest_(Ifremer_00644-75660_-_35515).jpg",
+            "author": "Olivier Dugornay",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Coquille_Saint-Jacques_%28Pecten_maximus%29_en_rade_de_Brest_%28Ifremer_00644-75660_-_35515%29.jpg/500px-Coquille_Saint-Jacques_%28Pecten_maximus%29_en_rade_de_Brest_%28Ifremer_00644-75660_-_35515%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Coquille_Saint-Jacques_(Pecten_maximus)_en_rade_de_Brest_(Ifremer_00644-75660_-_30460).jpg",
+            "author": "Olivier Dugornay",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Coquille_Saint-Jacques_%28Pecten_maximus%29_en_rade_de_Brest_%28Ifremer_00644-75660_-_30460%29.jpg/500px-Coquille_Saint-Jacques_%28Pecten_maximus%29_en_rade_de_Brest_%28Ifremer_00644-75660_-_30460%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Pecten_maximus_411155556.jpg",
+            "author": "Luke Lythgoe",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Pecten_maximus_411155556.jpg/500px-Pecten_maximus_411155556.jpg"
           }
         ],
         "facts": [
@@ -353118,6 +354888,18 @@ window.GAME_DATA = [
             "author": "David Burdick, NOAA",
             "license": "Public domain",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Charonia_tritonis_in_Guam.jpg/500px-Charonia_tritonis_in_Guam.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Triton%27s_trumpet_03.jpg",
+            "author": "Milorad Mikota",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Triton%27s_trumpet_03.jpg/500px-Triton%27s_trumpet_03.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Triton%27s_trumpet_02.jpg",
+            "author": "Milorad Mikota",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Triton%27s_trumpet_02.jpg/500px-Triton%27s_trumpet_02.jpg"
           }
         ],
         "facts": [
@@ -354504,6 +356286,18 @@ window.GAME_DATA = [
             "author": "3268zauber",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Red_slug_%28Arion_rufus%29.JPG/500px-Red_slug_%28Arion_rufus%29.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Arion_rufus_04(js),_Lodz_(Poland).jpg",
+            "author": "Jerzystrzelecki",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Arion_rufus_04%28js%29%2C_Lodz_%28Poland%29.jpg/500px-Arion_rufus_04%28js%29%2C_Lodz_%28Poland%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Red_Slug_in_Marburg_Hessen_Germany.jpg",
+            "author": "© Colin Erickson",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Red_Slug_in_Marburg_Hessen_Germany.jpg/500px-Red_Slug_in_Marburg_Hessen_Germany.jpg"
           }
         ],
         "facts": [
@@ -355600,6 +357394,12 @@ window.GAME_DATA = [
             "author": "Bj.schoenmakers",
             "license": "CC0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Planorbarius_corneus_%28Great_Ramshorn_Snail%29%2C_Elst_%28Gld%29%2C_the_Netherlands.jpg/500px-Planorbarius_corneus_%28Great_Ramshorn_Snail%29%2C_Elst_%28Gld%29%2C_the_Netherlands.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Planorbarius_corneus_Zatoczek_rogowy_2026-07-18_Ruda_Milicka_02.jpg",
+            "author": "Agnieszka Kwiecień, Nova",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Planorbarius_corneus_Zatoczek_rogowy_2026-07-18_Ruda_Milicka_02.jpg/500px-Planorbarius_corneus_Zatoczek_rogowy_2026-07-18_Ruda_Milicka_02.jpg"
           }
         ],
         "facts": [
@@ -357304,6 +359104,12 @@ window.GAME_DATA = [
             "author": "Slimguy04",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/2014_08_01_Wasserschnecke2.JPG/500px-2014_08_01_Wasserschnecke2.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Lymnaea_stagnalis_Arboretum_de_Paris.jpg",
+            "author": "Chaoborus",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Lymnaea_stagnalis_Arboretum_de_Paris.jpg/500px-Lymnaea_stagnalis_Arboretum_de_Paris.jpg"
           }
         ],
         "facts": [
@@ -357357,6 +359163,12 @@ window.GAME_DATA = [
             "author": "Famartin",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/2025-04-12_12_12_23_A_Giant_Pacific_Octopus_at_the_Adventure_Aquarium_in_Camden%2C_Camden_County%2C_New_Jersey.jpg/500px-2025-04-12_12_12_23_A_Giant_Pacific_Octopus_at_the_Adventure_Aquarium_in_Camden%2C_Camden_County%2C_New_Jersey.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Sanc1689_-_Flickr_-_NOAA_Photo_Library.jpg",
+            "author": "Linda Snook.",
+            "license": "Public domain",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Sanc1689_-_Flickr_-_NOAA_Photo_Library.jpg/500px-Sanc1689_-_Flickr_-_NOAA_Photo_Library.jpg"
           }
         ],
         "facts": [
@@ -357684,6 +359496,30 @@ window.GAME_DATA = [
             "author": "Lorenz Seebauer",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Kamberkrebs.jpg/500px-Kamberkrebs.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Kamberkrebs_Faxonius_limosus_syn_Orconectes_limosus.jpg",
+            "author": "Holger Krisp",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Kamberkrebs_Faxonius_limosus_syn_Orconectes_limosus.jpg/500px-Kamberkrebs_Faxonius_limosus_syn_Orconectes_limosus.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Spiny_Cheek_Crayfish_with_eggs.jpg",
+            "author": "Lorenz Seebauer",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Spiny_Cheek_Crayfish_with_eggs.jpg/500px-Spiny_Cheek_Crayfish_with_eggs.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Kamberkrebs_mit_Eiern.jpg",
+            "author": "Lorenz Seebauer",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Kamberkrebs_mit_Eiern.jpg/500px-Kamberkrebs_mit_Eiern.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Kamberkrebs_Faxonius_limosus_syn_Orconectes_limosus_2.jpg",
+            "author": "Holger Krisp",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Kamberkrebs_Faxonius_limosus_syn_Orconectes_limosus_2.jpg/500px-Kamberkrebs_Faxonius_limosus_syn_Orconectes_limosus_2.jpg"
           }
         ],
         "facts": [
@@ -358871,6 +360707,12 @@ window.GAME_DATA = [
             "author": "Ecomare/Salko de Wolf",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Ecomare_-_gewone_garnalen_%28gewone-garnalen-in-zand--sdw_05%29.jpg/500px-Ecomare_-_gewone_garnalen_%28gewone-garnalen-in-zand--sdw_05%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Crangon_crangon_348671330.jpg",
+            "author": "Demian Hiß",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Crangon_crangon_348671330.jpg/500px-Crangon_crangon_348671330.jpg"
           }
         ],
         "facts": [
@@ -359266,6 +361108,18 @@ window.GAME_DATA = [
             "author": "Lorenz Seebauer",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Galizischer_Sumpfkrebs_%28Nahaufnahme%29.jpg/500px-Galizischer_Sumpfkrebs_%28Nahaufnahme%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Galizischer_Sumpfkrebs.jpg",
+            "author": "Lorenz Seebauer",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Galizischer_Sumpfkrebs.jpg/500px-Galizischer_Sumpfkrebs.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Astacus_leptodactylus_Blausteinsee_04.jpg",
+            "author": "",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Astacus_leptodactylus_Blausteinsee_04.jpg/500px-Astacus_leptodactylus_Blausteinsee_04.jpg"
           }
         ],
         "facts": [
@@ -359453,6 +361307,12 @@ window.GAME_DATA = [
             "author": "MdE",
             "license": "CC BY-SA 3.0 de",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Procambarus_sp_marmor_Jungtier_1.jpg/500px-Procambarus_sp_marmor_Jungtier_1.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Marmorkrebs_Lorenz_Seebauer_SingliserSee_Germany.jpg",
+            "author": "Lorenz Seebauer",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Marmorkrebs_Lorenz_Seebauer_SingliserSee_Germany.jpg/500px-Marmorkrebs_Lorenz_Seebauer_SingliserSee_Germany.jpg"
           }
         ],
         "facts": [
@@ -360979,6 +362839,12 @@ window.GAME_DATA = [
             "author": "Tilo Podner",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Abies_nephrolepis_cone.JPG/500px-Abies_nephrolepis_cone.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Abies_nephrolepis_(Khingan_Fir,_Manchurian_Fir,_Khinghan_Fir,_Siberian_White_Fir,_Amur_Fir,_White-bark_Pine)_(33077931945).jpg",
+            "author": "Plant Image Library from Boston, USA",
+            "license": "CC BY-SA 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Abies_nephrolepis_%28Khingan_Fir%2C_Manchurian_Fir%2C_Khinghan_Fir%2C_Siberian_White_Fir%2C_Amur_Fir%2C_White-bark_Pine%29_%2833077931945%29.jpg/500px-Abies_nephrolepis_%28Khingan_Fir%2C_Manchurian_Fir%2C_Khinghan_Fir%2C_Siberian_White_Fir%2C_Amur_Fir%2C_White-bark_Pine%29_%2833077931945%29.jpg"
           }
         ],
         "facts": [
@@ -361955,6 +363821,12 @@ window.GAME_DATA = [
             "author": "Daderot",
             "license": "CC0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Keteleeria_davidiana_-_Quarryhill_Botanical_Garden_-_DSC03433.JPG/500px-Keteleeria_davidiana_-_Quarryhill_Botanical_Garden_-_DSC03433.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Keteleeria_davidiana_var._formosana_leaves_in_Higashiyama_Zoo_and_Botanical_Gardens,_Nagoya.jpg",
+            "author": "M108t",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Keteleeria_davidiana_var._formosana_leaves_in_Higashiyama_Zoo_and_Botanical_Gardens%2C_Nagoya.jpg/500px-Keteleeria_davidiana_var._formosana_leaves_in_Higashiyama_Zoo_and_Botanical_Gardens%2C_Nagoya.jpg"
           }
         ],
         "facts": [
@@ -362938,6 +364810,12 @@ window.GAME_DATA = [
             "author": "Krzysztof Ziarnek, Kenraiz",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Pinus_peuce_kz05.jpg/500px-Pinus_peuce_kz05.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Oldest_Pinus_peuce.jpg",
+            "author": "Ksenija Putilin",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Oldest_Pinus_peuce.jpg/500px-Oldest_Pinus_peuce.jpg"
           }
         ],
         "facts": [
@@ -364742,6 +366620,42 @@ window.GAME_DATA = [
             "author": "Krzysztof Ziarnek, Kenraiz",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Azgour_%28Marrakesh-Safi%2C_Morocco%29_113.jpg/500px-Azgour_%28Marrakesh-Safi%2C_Morocco%29_113.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Asni_(Marrakesh-Safi,_Morocco)_283.jpg",
+            "author": "Krzysztof Ziarnek, Kenraiz",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Asni_%28Marrakesh-Safi%2C_Morocco%29_283.jpg/500px-Asni_%28Marrakesh-Safi%2C_Morocco%29_283.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Asni_(Marrakesh-Safi,_Morocco)_290.jpg",
+            "author": "Krzysztof Ziarnek, Kenraiz",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Asni_%28Marrakesh-Safi%2C_Morocco%29_290.jpg/500px-Asni_%28Marrakesh-Safi%2C_Morocco%29_290.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Asni_(Marrakesh-Safi,_Morocco)_282.jpg",
+            "author": "Krzysztof Ziarnek, Kenraiz",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Asni_%28Marrakesh-Safi%2C_Morocco%29_282.jpg/500px-Asni_%28Marrakesh-Safi%2C_Morocco%29_282.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Imintanoute_(Marrakesh-Safi,_Morocco)_389.jpg",
+            "author": "Krzysztof Ziarnek, Kenraiz",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Imintanoute_%28Marrakesh-Safi%2C_Morocco%29_389.jpg/500px-Imintanoute_%28Marrakesh-Safi%2C_Morocco%29_389.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Azgour_(Marrakesh-Safi,_Morocco)_116.jpg",
+            "author": "Krzysztof Ziarnek, Kenraiz",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Azgour_%28Marrakesh-Safi%2C_Morocco%29_116.jpg/500px-Azgour_%28Marrakesh-Safi%2C_Morocco%29_116.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Azgour_(Marrakesh-Safi,_Morocco)_084.jpg",
+            "author": "Krzysztof Ziarnek, Kenraiz",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Azgour_%28Marrakesh-Safi%2C_Morocco%29_084.jpg/500px-Azgour_%28Marrakesh-Safi%2C_Morocco%29_084.jpg"
           }
         ],
         "facts": [
@@ -364915,6 +366829,24 @@ window.GAME_DATA = [
             "author": "Silversyrpher from Scotland, UK",
             "license": "CC BY 2.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Pinus_ayacahuite_cones_1.jpg/500px-Pinus_ayacahuite_cones_1.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Pinus_ayacahuite_at_the_New_York_Botanical_Garden_02.jpg",
+            "author": "KATHERINE WAGNER-REISS",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Pinus_ayacahuite_at_the_New_York_Botanical_Garden_02.jpg/500px-Pinus_ayacahuite_at_the_New_York_Botanical_Garden_02.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Pinus_ayacahuite_(Mexican_White_Pine)_(30487351023).jpg",
+            "author": "S. Rae from Scotland, UK",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Pinus_ayacahuite_%28Mexican_White_Pine%29_%2830487351023%29.jpg/500px-Pinus_ayacahuite_%28Mexican_White_Pine%29_%2830487351023%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Pinus_ayacahuite_kz01.jpg",
+            "author": "Krzysztof Ziarnek, Kenraiz",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Pinus_ayacahuite_kz01.jpg/500px-Pinus_ayacahuite_kz01.jpg"
           }
         ],
         "facts": [
@@ -365648,6 +367580,18 @@ window.GAME_DATA = [
             "author": "Inti-sol",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Abies_mariesii3.JPG/500px-Abies_mariesii3.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Abies_mariesii_Akira_Takiguchi.jpg",
+            "author": "Akira Takiguchi at Flickr",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Abies_mariesii_Akira_Takiguchi.jpg/500px-Abies_mariesii_Akira_Takiguchi.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Abies_mariesii_080812.JPG",
+            "author": "Qwert1234",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Abies_mariesii_080812.JPG/500px-Abies_mariesii_080812.JPG"
           }
         ],
         "facts": [
@@ -365717,6 +367661,18 @@ window.GAME_DATA = [
             "author": "scott.zona on Flickr",
             "license": "CC BY 2.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Sciadopitys_verticillata_scottzona.jpg/500px-Sciadopitys_verticillata_scottzona.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Senryu-ji_kouyamaki_ac.jpg",
+            "author": "Asturio Cantabrio",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Senryu-ji_kouyamaki_ac.jpg/500px-Senryu-ji_kouyamaki_ac.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Sciadopitys_verticillata_(leaf_s2).jpg",
+            "author": "Alpsdake",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Sciadopitys_verticillata_%28leaf_s2%29.jpg/500px-Sciadopitys_verticillata_%28leaf_s2%29.jpg"
           }
         ],
         "facts": [
@@ -365808,6 +367764,12 @@ window.GAME_DATA = [
             "author": "ColinFine",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Montezuma_Pine_at_Sheffield_Park.jpg/500px-Montezuma_Pine_at_Sheffield_Park.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Pinus_montezumae,_Mesa_del_Oso,_Nuevo_Le%C3%B3n_1.jpg",
+            "author": "annikaml",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Pinus_montezumae%2C_Mesa_del_Oso%2C_Nuevo_Le%C3%B3n_1.jpg/500px-Pinus_montezumae%2C_Mesa_del_Oso%2C_Nuevo_Le%C3%B3n_1.jpg"
           }
         ],
         "facts": [
@@ -368532,6 +370494,12 @@ window.GAME_DATA = [
             "author": "Ping an Chang",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/%E9%9B%B2%E5%8D%97%E9%9B%B2%E6%9D%89_20190928194851_02.jpg/500px-%E9%9B%B2%E5%8D%97%E9%9B%B2%E6%9D%89_20190928194851_02.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Picea_asperata_-_Botanischer_Garten,_Frankfurt_am_Main_-_DSC03296.JPG",
+            "author": "Daderot",
+            "license": "CC0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Picea_asperata_-_Botanischer_Garten%2C_Frankfurt_am_Main_-_DSC03296.JPG/500px-Picea_asperata_-_Botanischer_Garten%2C_Frankfurt_am_Main_-_DSC03296.JPG"
           }
         ],
         "facts": [
@@ -370328,6 +372296,18 @@ window.GAME_DATA = [
             "author": "Cbarlow",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Torreya-seeds.jpg/500px-Torreya-seeds.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Torreya_taxifolia_new_growth.jpg",
+            "author": "Cbarlow",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Torreya_taxifolia_new_growth.jpg/500px-Torreya_taxifolia_new_growth.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Torreya_taxifolia_Franklin,_NC.jpg",
+            "author": "Cbarlow",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Torreya_taxifolia_Franklin%2C_NC.jpg/500px-Torreya_taxifolia_Franklin%2C_NC.jpg"
           }
         ],
         "facts": [
@@ -371415,6 +373395,12 @@ window.GAME_DATA = [
             "author": "Montréalais",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Siberian-larch.jpg/500px-Siberian-larch.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B5%D1%81%D1%82%D1%8C.%D0%9D%D0%B0%D1%87%D0%B0%D0%BB%D0%BE_%D0%B7%D0%B8%D0%BC%D1%8B._-_panoramio.jpg",
+            "author": "mansyr haricov",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/%D0%A1%D0%B2%D0%B5%D0%B6%D0%B5%D1%81%D1%82%D1%8C.%D0%9D%D0%B0%D1%87%D0%B0%D0%BB%D0%BE_%D0%B7%D0%B8%D0%BC%D1%8B._-_panoramio.jpg/500px-%D0%A1%D0%B2%D0%B5%D0%B6%D0%B5%D1%81%D1%82%D1%8C.%D0%9D%D0%B0%D1%87%D0%B0%D0%BB%D0%BE_%D0%B7%D0%B8%D0%BC%D1%8B._-_panoramio.jpg"
           }
         ],
         "facts": [
@@ -374008,6 +375994,30 @@ window.GAME_DATA = [
             "author": "Jpaganpr",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Zamia_pumila_macho.JPG/500px-Zamia_pumila_macho.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Zamia-pumilaSubsp-pumila_FosterBG-Honolulu_Cutler_20170103_155811.jpg",
+            "author": "wlcutler",
+            "license": "CC BY-SA 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Zamia-pumilaSubsp-pumila_FosterBG-Honolulu_Cutler_20170103_155811.jpg/500px-Zamia-pumilaSubsp-pumila_FosterBG-Honolulu_Cutler_20170103_155811.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Zamia_pumila_002.jpg",
+            "author": "No machine-readable author provided. Valérie75 assumed (based on copyright claim",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Zamia_pumila_002.jpg/500px-Zamia_pumila_002.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Zamia_pumila_kz1.jpg",
+            "author": "Krzysztof Ziarnek, Kenraiz",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Zamia_pumila_kz1.jpg/500px-Zamia_pumila_kz1.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Zamia_pumila_hembra.JPG",
+            "author": "Jpaganpr",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Zamia_pumila_hembra.JPG/500px-Zamia_pumila_hembra.JPG"
           }
         ],
         "facts": [
@@ -374054,6 +376064,24 @@ window.GAME_DATA = [
             "author": "Donald Albury",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Coontie_male_plant_with_cones.jpg/500px-Coontie_male_plant_with_cones.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Coontie_open_seed_cone_1.jpg",
+            "author": "Donald Albury",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Coontie_open_seed_cone_1.jpg/500px-Coontie_open_seed_cone_1.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Starr_980529-4276_Zamia_integrifolia.jpg",
+            "author": "Forest & Kim Starr",
+            "license": "CC BY 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Starr_980529-4276_Zamia_integrifolia.jpg/500px-Starr_980529-4276_Zamia_integrifolia.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Zamia_integrifolia_kz03.jpg",
+            "author": "Krzysztof Ziarnek, Kenraiz",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Zamia_integrifolia_kz03.jpg/500px-Zamia_integrifolia_kz03.jpg"
           }
         ],
         "facts": [
@@ -374417,6 +376445,18 @@ window.GAME_DATA = [
             "author": "PeregrinusX - myself",
             "license": "CC BY-SA 3.0",
             "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Bowenia_Serrulata_in_Prague_Botanical_Garden_DSC_0079.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Bowenia_serrulata_6.JPG",
+            "author": "Tanetahi",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Bowenia_serrulata_6.JPG/500px-Bowenia_serrulata_6.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Bowenia_serrulata_4.JPG",
+            "author": "Tanetahi",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Bowenia_serrulata_4.JPG/500px-Bowenia_serrulata_4.JPG"
           }
         ],
         "facts": [
@@ -374495,6 +376535,12 @@ window.GAME_DATA = [
             "author": "KATHERINE WAGNER-REISS",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Zamiafurfuracea3.jpg/500px-Zamiafurfuracea3.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Zamiafurfuracea4.jpg",
+            "author": "KATHERINE WAGNER-REISS",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Zamiafurfuracea4.jpg/500px-Zamiafurfuracea4.jpg"
           }
         ],
         "facts": [
@@ -374556,6 +376602,12 @@ window.GAME_DATA = [
             "author": "Scott Zona from Miami, Florida, USA",
             "license": "CC BY 2.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Mauritia_flexuosa_%28Scott_Zona%29_001.jpg/500px-Mauritia_flexuosa_%28Scott_Zona%29_001.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Mauritia_flexuosa_0.jpg",
+            "author": "Xemenendura",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Mauritia_flexuosa_0.jpg/500px-Mauritia_flexuosa_0.jpg"
           }
         ],
         "facts": [
@@ -376731,6 +378783,30 @@ window.GAME_DATA = [
             "author": "Stefan.lefnaer",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Bolboschoenus_planiculmis_sl13.jpg/500px-Bolboschoenus_planiculmis_sl13.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Bolboschoenus_planiculmis_sl14.jpg",
+            "author": "Stefan.lefnaer",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Bolboschoenus_planiculmis_sl14.jpg/500px-Bolboschoenus_planiculmis_sl14.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Bolboschoenus_planiculmis_sl9.jpg",
+            "author": "Stefan.lefnaer",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Bolboschoenus_planiculmis_sl9.jpg/500px-Bolboschoenus_planiculmis_sl9.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Bolboschoenus_planiculmis_sl71.jpg",
+            "author": "Stefan.lefnaer",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Bolboschoenus_planiculmis_sl71.jpg/500px-Bolboschoenus_planiculmis_sl71.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Bolboschoenus_planiculmis_sl79.jpg",
+            "author": "Stefan.lefnaer",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Bolboschoenus_planiculmis_sl79.jpg/500px-Bolboschoenus_planiculmis_sl79.jpg"
           }
         ],
         "facts": [
@@ -377979,6 +380055,30 @@ window.GAME_DATA = [
             "author": "",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Chamorchis_alpina_plant.jpg/500px-Chamorchis_alpina_plant.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Chamorchis_alpina_230705b_(cropped).jpg",
+            "author": "Bernd Haynold",
+            "license": "CC BY-SA 2.5",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Chamorchis_alpina_230705b_%28cropped%29.jpg/500px-Chamorchis_alpina_230705b_%28cropped%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Chamorchis_alpina_02.jpg",
+            "author": "Joachim Lutz",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Chamorchis_alpina_02.jpg/500px-Chamorchis_alpina_02.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Chamorchis_alpina_060707.jpg",
+            "author": "Bernd Haynold",
+            "license": "CC BY 2.5",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Chamorchis_alpina_060707.jpg/500px-Chamorchis_alpina_060707.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Chamorchis_alpina01.jpg",
+            "author": "Meneerke bloem",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Chamorchis_alpina01.jpg/500px-Chamorchis_alpina01.jpg"
           }
         ],
         "facts": [
@@ -379294,6 +381394,12 @@ window.GAME_DATA = [
             "author": "Stefan.lefnaer",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Vulpia_myuros_sl11.jpg/500px-Vulpia_myuros_sl11.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Vulpia_myuros_sl31.jpg",
+            "author": "Stefan.lefnaer",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Vulpia_myuros_sl31.jpg/500px-Vulpia_myuros_sl31.jpg"
           }
         ],
         "facts": [
@@ -380302,6 +382408,12 @@ window.GAME_DATA = [
             "author": "Kurt Stüber [1]",
             "license": "CC BY-SA 3.0",
             "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Typha_minima0.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Typha_minima_(6982918754).jpg",
+            "author": "Radio Tonreg from Vienna, Austria",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Typha_minima_%286982918754%29.jpg/500px-Typha_minima_%286982918754%29.jpg"
           }
         ],
         "facts": [
@@ -381006,6 +383118,36 @@ window.GAME_DATA = [
             "author": "Stefan Didam - Schmallenberg",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Knabenkraut_2011.jpg/500px-Knabenkraut_2011.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:H%C3%B6xter_-_2022-05-07_-_NSG_Stockberg_(DSC_6444).jpg",
+            "author": "Tsungam",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/H%C3%B6xter_-_2022-05-07_-_NSG_Stockberg_%28DSC_6444%29.jpg/500px-H%C3%B6xter_-_2022-05-07_-_NSG_Stockberg_%28DSC_6444%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:H%C3%B6xter_-_2022-05-07_-_NSG_Stockberg_(DSC_6489).jpg",
+            "author": "Tsungam",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/H%C3%B6xter_-_2022-05-07_-_NSG_Stockberg_%28DSC_6489%29.jpg/500px-H%C3%B6xter_-_2022-05-07_-_NSG_Stockberg_%28DSC_6489%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Dreiz%C3%A4hniges_Knabenkraut_aufgenommen_in_Nordhessen.jpg",
+            "author": "McMartyGC",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Dreiz%C3%A4hniges_Knabenkraut_aufgenommen_in_Nordhessen.jpg/500px-Dreiz%C3%A4hniges_Knabenkraut_aufgenommen_in_Nordhessen.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:%D0%9D%D0%B5%D0%BE%D1%82%D0%B8%D0%BD%D0%B5%D1%8F_%D1%82%D1%80%D0%B5%D1%85%D0%B7%D1%83%D0%B1%D1%87%D0%B0%D1%82%D0%B0%D1%8F_%D0%BE%D0%BA%D0%BE%D0%BB%D0%BE_%D1%81%D0%B5%D0%BB%D0%B0_%D0%91%D0%BE%D0%B3%D0%B0%D1%82%D0%BE%D0%B2%D0%BA%D0%B0,_%D0%BA%D0%A0%D0%AB%D0%9C.jpg",
+            "author": "Шубенкина Елена Юрьевна",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/%D0%9D%D0%B5%D0%BE%D1%82%D0%B8%D0%BD%D0%B5%D1%8F_%D1%82%D1%80%D0%B5%D1%85%D0%B7%D1%83%D0%B1%D1%87%D0%B0%D1%82%D0%B0%D1%8F_%D0%BE%D0%BA%D0%BE%D0%BB%D0%BE_%D1%81%D0%B5%D0%BB%D0%B0_%D0%91%D0%BE%D0%B3%D0%B0%D1%82%D0%BE%D0%B2%D0%BA%D0%B0%2C_%D0%BA%D0%A0%D0%AB%D0%9C.jpg/500px-%D0%9D%D0%B5%D0%BE%D1%82%D0%B8%D0%BD%D0%B5%D1%8F_%D1%82%D1%80%D0%B5%D1%85%D0%B7%D1%83%D0%B1%D1%87%D0%B0%D1%82%D0%B0%D1%8F_%D0%BE%D0%BA%D0%BE%D0%BB%D0%BE_%D1%81%D0%B5%D0%BB%D0%B0_%D0%91%D0%BE%D0%B3%D0%B0%D1%82%D0%BE%D0%B2%D0%BA%D0%B0%2C_%D0%BA%D0%A0%D0%AB%D0%9C.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Neotinea_tridentata_(subsp._tridentata)_sl4.jpg",
+            "author": "Stefan.lefnaer",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Neotinea_tridentata_%28subsp._tridentata%29_sl4.jpg/500px-Neotinea_tridentata_%28subsp._tridentata%29_sl4.jpg"
           }
         ],
         "facts": [
@@ -382142,6 +384284,18 @@ window.GAME_DATA = [
             "author": "Photo by and (c)2008 Derek Ramsey ( Ram-Man )",
             "license": "GFDL 1.2",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Garden_Hyacinth_Hyacinthus_orientalis_%27Blue_Jacket%27_Flower_2000px.jpg/500px-Garden_Hyacinth_Hyacinthus_orientalis_%27Blue_Jacket%27_Flower_2000px.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Hyacinthus_orientalis_-_Kanagawa_-_2026_March_18.jpeg",
+            "author": "Nesnad",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Hyacinthus_orientalis_-_Kanagawa_-_2026_March_18.jpeg/500px-Hyacinthus_orientalis_-_Kanagawa_-_2026_March_18.jpeg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Hyacinthus_-_S%C3%BCmb%C3%BCl_03.jpg",
+            "author": "Zeynel Cebeci",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Hyacinthus_-_S%C3%BCmb%C3%BCl_03.jpg/500px-Hyacinthus_-_S%C3%BCmb%C3%BCl_03.jpg"
           }
         ],
         "facts": [
@@ -382359,6 +384513,48 @@ window.GAME_DATA = [
             "author": "Ivar Leidus",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Platanthera_bifolia_-_kahelehine_k%C3%A4okeel.jpg/500px-Platanthera_bifolia_-_kahelehine_k%C3%A4okeel.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Platanthera_bifolia_2012-06-10_73.jpg",
+            "author": "Björn Sothmann",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Platanthera_bifolia_2012-06-10_73.jpg/500px-Platanthera_bifolia_2012-06-10_73.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Platanthera_bifolia_27.jpg",
+            "author": "Joachim Lutz",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Platanthera_bifolia_27.jpg/500px-Platanthera_bifolia_27.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:PR_Dolnon%C4%9Bm%C4%8Dansk%C3%A9_louky,_vemen%C3%ADk_dvoulist%C3%BD_(1).jpg",
+            "author": "Palickap",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/PR_Dolnon%C4%9Bm%C4%8Dansk%C3%A9_louky%2C_vemen%C3%ADk_dvoulist%C3%BD_%281%29.jpg/500px-PR_Dolnon%C4%9Bm%C4%8Dansk%C3%A9_louky%2C_vemen%C3%ADk_dvoulist%C3%BD_%281%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Platanthera_bifolia_(plant).jpg",
+            "author": "Hans Hillewaert",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Platanthera_bifolia_%28plant%29.jpg/500px-Platanthera_bifolia_%28plant%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Viry,_France_-_panoramio_(31).jpg",
+            "author": "Björn S.",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Viry%2C_France_-_panoramio_%2831%29.jpg/500px-Viry%2C_France_-_panoramio_%2831%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Platanthera_bifolia_sl11.jpg",
+            "author": "Stefan.lefnaer",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Platanthera_bifolia_sl11.jpg/500px-Platanthera_bifolia_sl11.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Platanthera_bifolia_21.jpg",
+            "author": "Joachim Lutz",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Platanthera_bifolia_21.jpg/500px-Platanthera_bifolia_21.jpg"
           }
         ],
         "facts": [
@@ -384527,6 +386723,24 @@ window.GAME_DATA = [
             "author": "Isidre blanc",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/ANACAMPTIS_PYRAMIDALIS_-_MORROCURT_-_IB-368_%28Flor_caputxina%29.JPG/500px-ANACAMPTIS_PYRAMIDALIS_-_MORROCURT_-_IB-368_%28Flor_caputxina%29.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Inflorescence_of_Anacamptis_pyramidalis_18.jpg",
+            "author": "Krzysztof Golik",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Inflorescence_of_Anacamptis_pyramidalis_18.jpg/500px-Inflorescence_of_Anacamptis_pyramidalis_18.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Anacamptis-pyramidalis_2012.jpg",
+            "author": "JLPC",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Anacamptis-pyramidalis_2012.jpg/500px-Anacamptis-pyramidalis_2012.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Anacamptis_pyramidalis_2_RF.jpg",
+            "author": "Robert Flogaus-Faust",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Anacamptis_pyramidalis_2_RF.jpg/500px-Anacamptis_pyramidalis_2_RF.jpg"
           }
         ],
         "facts": [
@@ -384791,6 +387005,12 @@ window.GAME_DATA = [
             "author": "James K. Lindsey",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Carex.echinata.2.jpg/500px-Carex.echinata.2.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Carex_echinata_sl8.jpg",
+            "author": "Stefan.lefnaer",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Carex_echinata_sl8.jpg/500px-Carex_echinata_sl8.jpg"
           }
         ],
         "facts": [
@@ -386806,6 +389026,12 @@ window.GAME_DATA = [
             "author": "Kristian Peters -- Fabelfroh 15:48, 20 October 2006 (UTC)",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Cladium_mariscus_blatt.jpeg/500px-Cladium_mariscus_blatt.jpeg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Cladium_mariscus_kz09.jpg",
+            "author": "Kenraiz",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Cladium_mariscus_kz09.jpg/500px-Cladium_mariscus_kz09.jpg"
           }
         ],
         "facts": [
@@ -387044,6 +389270,30 @@ window.GAME_DATA = [
             "author": "Kristian Peters -- Fabelfroh 11:03, 8 May 2007 (UTC)",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Carex_pilulifera_habitus.jpeg/500px-Carex_pilulifera_habitus.jpeg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Pill_Sedge_Carex_pilulifera_(6526008499).jpg",
+            "author": "Len Worthington",
+            "license": "CC BY-SA 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Pill_Sedge_Carex_pilulifera_%286526008499%29.jpg/500px-Pill_Sedge_Carex_pilulifera_%286526008499%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Carex_pilulifera_kz02.jpg",
+            "author": "Krzysztof Ziarnek, Kenraiz",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Carex_pilulifera_kz02.jpg/500px-Carex_pilulifera_kz02.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Carex_pilulifera_kz14.jpg",
+            "author": "Krzysztof Ziarnek, Kenraiz",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Carex_pilulifera_kz14.jpg/500px-Carex_pilulifera_kz14.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Carex_pilulifera_sl6.jpg",
+            "author": "Stefan.lefnaer",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Carex_pilulifera_sl6.jpg/500px-Carex_pilulifera_sl6.jpg"
           }
         ],
         "facts": [
@@ -389755,6 +392005,36 @@ window.GAME_DATA = [
             "author": "Bernd Haynold",
             "license": "CC BY 2.5",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Pseudorchis_albida_010706a.jpg/500px-Pseudorchis_albida_010706a.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Pseudorchis_albida01.jpg",
+            "author": "Meneerke bloem",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Pseudorchis_albida01.jpg/500px-Pseudorchis_albida01.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Pseudorchis_albida_(14996972312).jpg",
+            "author": "Björn S...",
+            "license": "CC BY-SA 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Pseudorchis_albida_%2814996972312%29.jpg/500px-Pseudorchis_albida_%2814996972312%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Pseudorchis_albida_(14811607519).jpg",
+            "author": "Björn S...",
+            "license": "CC BY-SA 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Pseudorchis_albida_%2814811607519%29.jpg/500px-Pseudorchis_albida_%2814811607519%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Pseudorchis-albida-Weisszuengel_(cropped).jpg",
+            "author": "Holger Krisp",
+            "license": "CC BY 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Pseudorchis-albida-Weisszuengel_%28cropped%29.jpg/500px-Pseudorchis-albida-Weisszuengel_%28cropped%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Pseudorchis-albida-Weisszuengel.jpg",
+            "author": "Holger Krisp",
+            "license": "CC BY 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Pseudorchis-albida-Weisszuengel.jpg/500px-Pseudorchis-albida-Weisszuengel.jpg"
           }
         ],
         "facts": [
@@ -391696,6 +393976,18 @@ window.GAME_DATA = [
             "author": "Krzysztof Ziarnek, Kenraiz",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Carex_strigosa_kz13.jpg/500px-Carex_strigosa_kz13.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Carex_strigosa_kz04.jpg",
+            "author": "Krzysztof Ziarnek, Kenraiz",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Carex_strigosa_kz04.jpg/500px-Carex_strigosa_kz04.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Carex_strigosa_kz05.jpg",
+            "author": "Krzysztof Ziarnek, Kenraiz",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Carex_strigosa_kz05.jpg/500px-Carex_strigosa_kz05.jpg"
           }
         ],
         "facts": [
@@ -392349,6 +394641,12 @@ window.GAME_DATA = [
             "author": "Stan Shebs",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Lilium_candidum_2.jpg/500px-Lilium_candidum_2.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Feh%C3%A9r_liliom_(1).jpg",
+            "author": "Elekes Andor",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Feh%C3%A9r_liliom_%281%29.jpg/500px-Feh%C3%A9r_liliom_%281%29.jpg"
           }
         ],
         "facts": [
@@ -393925,6 +396223,12 @@ window.GAME_DATA = [
             "author": "Alain Bigou",
             "license": "CC BY-SA 2.0 fr",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Calamagrostis_villosa_flower_%2802%29.jpg/500px-Calamagrostis_villosa_flower_%2802%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Calamagrostis_villosa_sl35.jpg",
+            "author": "Stefan.lefnaer",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Calamagrostis_villosa_sl35.jpg/500px-Calamagrostis_villosa_sl35.jpg"
           }
         ],
         "facts": [
@@ -394341,6 +396645,42 @@ window.GAME_DATA = [
             "author": "Opzwartbeek",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Arundo_donax_%28%CE%A0%CE%B5%CE%BB%CE%BF%CF%80%CF%8C%CE%BD%CE%BD%CE%B7%CF%83%CE%BF%CF%82%29.jpg/500px-Arundo_donax_%28%CE%A0%CE%B5%CE%BB%CE%BF%CF%80%CF%8C%CE%BD%CE%BD%CE%B7%CF%83%CE%BF%CF%82%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:%E0%B4%86%E0%B4%B1%E0%B5%8D%E0%B4%B1%E0%B5%81%E0%B4%95%E0%B4%B0%E0%B4%BF%E0%B4%AE%E0%B5%8D%E0%B4%AA%E0%B5%8D_(Arundo_donax).jpg",
+            "author": "George Muttathil Pulikurumba",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/%E0%B4%86%E0%B4%B1%E0%B5%8D%E0%B4%B1%E0%B5%81%E0%B4%95%E0%B4%B0%E0%B4%BF%E0%B4%AE%E0%B5%8D%E0%B4%AA%E0%B5%8D_%28Arundo_donax%29.jpg/500px-%E0%B4%86%E0%B4%B1%E0%B5%8D%E0%B4%B1%E0%B5%81%E0%B4%95%E0%B4%B0%E0%B4%BF%E0%B4%AE%E0%B5%8D%E0%B4%AA%E0%B5%8D_%28Arundo_donax%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Giant_Reed_(Carrizo_Asi%C3%A1tico_Gigante)_(Arundo_donax)_-_Santa_Pola,_Spain_2024-02-04.jpg",
+            "author": "Ryan Hodnett",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Giant_Reed_%28Carrizo_Asi%C3%A1tico_Gigante%29_%28Arundo_donax%29_-_Santa_Pola%2C_Spain_2024-02-04.jpg/500px-Giant_Reed_%28Carrizo_Asi%C3%A1tico_Gigante%29_%28Arundo_donax%29_-_Santa_Pola%2C_Spain_2024-02-04.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Carrizo_(Arundo_donax)_en_Guanajuato.jpg",
+            "author": "Juan Carlos Fonseca Mata",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Carrizo_%28Arundo_donax%29_en_Guanajuato.jpg/500px-Carrizo_%28Arundo_donax%29_en_Guanajuato.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Giant_Reed_(Canna_Comune)_(Arundo_donax)_-_Rome,_Italy_2024-03-02.jpg",
+            "author": "Ryan Hodnett",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Giant_Reed_%28Canna_Comune%29_%28Arundo_donax%29_-_Rome%2C_Italy_2024-03-02.jpg/500px-Giant_Reed_%28Canna_Comune%29_%28Arundo_donax%29_-_Rome%2C_Italy_2024-03-02.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Arundo_donax_AJT_Johnsingh_DSCN9344.JPG",
+            "author": "A. J. T. Johnsingh, WWF-India and NCF",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Arundo_donax_AJT_Johnsingh_DSCN9344.JPG/500px-Arundo_donax_AJT_Johnsingh_DSCN9344.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Arundo_donax_sl9.jpg",
+            "author": "Stefan.lefnaer",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Arundo_donax_sl9.jpg/500px-Arundo_donax_sl9.jpg"
           }
         ],
         "facts": [
@@ -394851,6 +397191,42 @@ window.GAME_DATA = [
             "author": "Orchi",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Orchis_morio_Saarland_11.jpg/500px-Orchis_morio_Saarland_11.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:20260517_Anacamptis_morio_02.jpg",
+            "author": "Flocci Nivis",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/20260517_Anacamptis_morio_02.jpg/500px-20260517_Anacamptis_morio_02.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:20230521_Anacamptis_morio_06.jpg",
+            "author": "Flocci Nivis",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/20230521_Anacamptis_morio_06.jpg/500px-20230521_Anacamptis_morio_06.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Orchis_bouffon_FR_2013.jpg",
+            "author": "JLPC",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Orchis_bouffon_FR_2013.jpg/500px-Orchis_bouffon_FR_2013.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:20230521_Anacamptis_morio_02.jpg",
+            "author": "Flocci Nivis",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/20230521_Anacamptis_morio_02.jpg/500px-20230521_Anacamptis_morio_02.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Anacamptis_morio_TK_2021-05-01_11.jpg",
+            "author": "T. Kebert",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Anacamptis_morio_TK_2021-05-01_11.jpg/500px-Anacamptis_morio_TK_2021-05-01_11.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:20230521_Anacamptis_morio_03.jpg",
+            "author": "Flocci Nivis",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/20230521_Anacamptis_morio_03.jpg/500px-20230521_Anacamptis_morio_03.jpg"
           }
         ],
         "facts": [
@@ -395158,6 +397534,12 @@ window.GAME_DATA = [
             "author": "AnRo0002",
             "license": "CC0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/20170713Allium_vineale3.jpg/500px-20170713Allium_vineale3.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Field_or_Wild_Garlic_(Allium_vineale)_-_Flickr_-_Jay_Sturner_(2).jpg",
+            "author": "Jay Sturner from USA",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Field_or_Wild_Garlic_%28Allium_vineale%29_-_Flickr_-_Jay_Sturner_%282%29.jpg/500px-Field_or_Wild_Garlic_%28Allium_vineale%29_-_Flickr_-_Jay_Sturner_%282%29.jpg"
           }
         ],
         "facts": [
@@ -396946,6 +399328,18 @@ window.GAME_DATA = [
             "author": "Carl E Lewis",
             "license": "CC BY 2.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Epipremnum_aureum1542991393.jpg/500px-Epipremnum_aureum1542991393.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Epipremnum_aureum,_AJT_Johnsingh._IMG_9014.jpg",
+            "author": "A. J. T. Johnsingh, WWF-India and NCF",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Epipremnum_aureum%2C_AJT_Johnsingh._IMG_9014.jpg/500px-Epipremnum_aureum%2C_AJT_Johnsingh._IMG_9014.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Pothos.jpg",
+            "author": "Filo gèn'",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Pothos.jpg/500px-Pothos.jpg"
           }
         ],
         "facts": [
@@ -398063,6 +400457,12 @@ window.GAME_DATA = [
             "author": "Stefan.lefnaer",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Leersia_oryzoides_sl38.jpg/500px-Leersia_oryzoides_sl38.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Leersia_oryzoides_sl1.jpg",
+            "author": "Stefan.lefnaer",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Leersia_oryzoides_sl1.jpg/500px-Leersia_oryzoides_sl1.jpg"
           }
         ],
         "facts": [
@@ -398199,6 +400599,12 @@ window.GAME_DATA = [
             "author": "Stefan.lefnaer",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Festuca_valesiaca_s._str._sl4.jpg/500px-Festuca_valesiaca_s._str._sl4.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Festuca_valesiaca_s._str._sl3.jpg",
+            "author": "Stefan.lefnaer",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Festuca_valesiaca_s._str._sl3.jpg/500px-Festuca_valesiaca_s._str._sl3.jpg"
           }
         ],
         "facts": [
@@ -398573,6 +400979,42 @@ window.GAME_DATA = [
             "author": "R. BENEZET",
             "license": "CC BY 2.5",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Limodorum_abortivum-1759.JPG/500px-Limodorum_abortivum-1759.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:20220530_112817_Limodorum_abortivum_(L.)_Sw.jpg",
+            "author": "Sdjurovic",
+            "license": "CC0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/20220530_112817_Limodorum_abortivum_%28L.%29_Sw.jpg/500px-20220530_112817_Limodorum_abortivum_%28L.%29_Sw.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Limodorum_abortivum_1.jpg",
+            "author": "Franz Xaver",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Limodorum_abortivum_1.jpg/500px-Limodorum_abortivum_1.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Limodorum_abortivum_kz03.jpg",
+            "author": "Krzysztof Ziarnek, Kenraiz",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Limodorum_abortivum_kz03.jpg/500px-Limodorum_abortivum_kz03.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Limodorum_abortivum_Mallorca_02.jpg",
+            "author": "Orchi",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Limodorum_abortivum_Mallorca_02.jpg/500px-Limodorum_abortivum_Mallorca_02.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Limodorum_abortivum_Orchi_2013-04-16_017.jpg",
+            "author": "Orchi",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Limodorum_abortivum_Orchi_2013-04-16_017.jpg/500px-Limodorum_abortivum_Orchi_2013-04-16_017.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Limodorum_Abortivum_11.jpg",
+            "author": "Joachim Lutz",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Limodorum_Abortivum_11.jpg/500px-Limodorum_Abortivum_11.jpg"
           }
         ],
         "facts": [
@@ -398933,6 +401375,12 @@ window.GAME_DATA = [
             "author": "Matt Lavin from Bozeman, Montana, USA",
             "license": "CC BY-SA 2.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Agrostis_stolonifera_%283820200587%29.jpg/500px-Agrostis_stolonifera_%283820200587%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Agrostis_stolonifera_inflorescens_(2).jpg",
+            "author": "Matt Lavin",
+            "license": "CC BY-SA 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Agrostis_stolonifera_inflorescens_%282%29.jpg/500px-Agrostis_stolonifera_inflorescens_%282%29.jpg"
           }
         ],
         "facts": [
@@ -399035,6 +401483,12 @@ window.GAME_DATA = [
             "author": "Harry Rose (macleaygrassman)",
             "license": "CC BY 2.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Panicum_capillare_%287185671675%29.jpg/500px-Panicum_capillare_%287185671675%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Panicum_capillare_sl16.jpg",
+            "author": "Stefan.lefnaer",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Panicum_capillare_sl16.jpg/500px-Panicum_capillare_sl16.jpg"
           }
         ],
         "facts": [
@@ -399680,6 +402134,12 @@ window.GAME_DATA = [
             "author": "Patrick Hacker",
             "license": "CC BY 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Carex_ornithopoda_flower_%2806%29.jpeg/500px-Carex_ornithopoda_flower_%2806%29.jpeg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Carex_ornithopoda_flower_(04).jpg",
+            "author": "Andrea Moro",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Carex_ornithopoda_flower_%2804%29.jpg/500px-Carex_ornithopoda_flower_%2804%29.jpg"
           }
         ],
         "facts": [
@@ -399859,6 +402319,18 @@ window.GAME_DATA = [
             "author": "Anne LaBastille",
             "license": "Public domain",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Blue_Flag-Adirondack-554579.jpg/500px-Blue_Flag-Adirondack-554579.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:2026-05-23_15_01_38_Northern_Blue_Flag_blooming_along_the_edge_of_the_pond_within_Ann_M._Banchoff_Park_in_the_Mountainview_section_of_Ewing_Township,_Mercer_County,_New_Jersey.jpg",
+            "author": "Famartin",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/2026-05-23_15_01_38_Northern_Blue_Flag_blooming_along_the_edge_of_the_pond_within_Ann_M._Banchoff_Park_in_the_Mountainview_section_of_Ewing_Township%2C_Mercer_County%2C_New_Jersey.jpg/500px-thumbnail.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:2026-06-05_11_38_43_Northern_Blue_Flag_blooming_along_the_stream_within_Ann_M._Banchoff_Park_in_the_Mountainview_section_of_Ewing_Township,_Mercer_County,_New_Jersey.jpg",
+            "author": "Famartin",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/2026-06-05_11_38_43_Northern_Blue_Flag_blooming_along_the_stream_within_Ann_M._Banchoff_Park_in_the_Mountainview_section_of_Ewing_Township%2C_Mercer_County%2C_New_Jersey.jpg/500px-thumbnail.jpg"
           }
         ],
         "facts": [
@@ -401021,6 +403493,18 @@ window.GAME_DATA = [
             "author": "( Hans Hillewaert )",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Ophrys_speculum_%28flower_%26_buds%29.jpg/500px-Ophrys_speculum_%28flower_%26_buds%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Ophrys_speculum_kz01.jpg",
+            "author": "Krzysztof Ziarnek, Kenraiz",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Ophrys_speculum_kz01.jpg/500px-Ophrys_speculum_kz01.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:%CE%9F%CF%86%CF%81%CF%8D%CF%82_%CE%B7_%CE%BA%CE%B1%CF%84%CE%BF%CF%80%CF%84%CF%81%CE%B9%CE%BA%CE%AE_(Ophrys_speculum)_(cropped).jpg",
+            "author": "Stamatios Stamatellos",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/%CE%9F%CF%86%CF%81%CF%8D%CF%82_%CE%B7_%CE%BA%CE%B1%CF%84%CE%BF%CF%80%CF%84%CF%81%CE%B9%CE%BA%CE%AE_%28Ophrys_speculum%29_%28cropped%29.jpg/500px-%CE%9F%CF%86%CF%81%CF%8D%CF%82_%CE%B7_%CE%BA%CE%B1%CF%84%CE%BF%CF%80%CF%84%CF%81%CE%B9%CE%BA%CE%AE_%28Ophrys_speculum%29_%28cropped%29.jpg"
           }
         ],
         "facts": [
@@ -402671,6 +405155,24 @@ window.GAME_DATA = [
             "author": "DenesFeri",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Asparagales_-_Allium_cepa_1_-_2011.07.11.jpg/500px-Asparagales_-_Allium_cepa_1_-_2011.07.11.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Cebollas_en_el_Cam%C3%AD_de_Farin%C3%B3s.JPG",
+            "author": "Dorieo",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Cebollas_en_el_Cam%C3%AD_de_Farin%C3%B3s.JPG/500px-Cebollas_en_el_Cam%C3%AD_de_Farin%C3%B3s.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Oignons-FR-2013.jpg",
+            "author": "JLPC",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Oignons-FR-2013.jpg/500px-Oignons-FR-2013.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Allium_in_Georgia_(country)_4.jpg",
+            "author": "MIKHEIL",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Allium_in_Georgia_%28country%29_4.jpg/500px-Allium_in_Georgia_%28country%29_4.jpg"
           }
         ],
         "facts": [
@@ -404657,6 +407159,30 @@ window.GAME_DATA = [
             "author": "Jay Sturner from USA",
             "license": "CC BY 2.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Muskingum_Sedge%2C_Swamp_Oval_Sedge_%28Carex_muskingumensis%29_along_Meadow_Lake_at_the_Morton_Arboretum_-_Flickr_-_Jay_Sturner.jpg/500px-Muskingum_Sedge%2C_Swamp_Oval_Sedge_%28Carex_muskingumensis%29_along_Meadow_Lake_at_the_Morton_Arboretum_-_Flickr_-_Jay_Sturner.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Carex_muskingumensis_%27Ice_Fountains%27_kz02.jpg",
+            "author": "Krzysztof Ziarnek, Kenraiz",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Carex_muskingumensis_%27Ice_Fountains%27_kz02.jpg/500px-Carex_muskingumensis_%27Ice_Fountains%27_kz02.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Carex_muskingumensis_%27Aureovariegata%27_kz01.jpg",
+            "author": "Krzysztof Ziarnek, Kenraiz",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Carex_muskingumensis_%27Aureovariegata%27_kz01.jpg/500px-Carex_muskingumensis_%27Aureovariegata%27_kz01.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Carex_muskingumensis_%27Ice_Fountains%27_kz01.jpg",
+            "author": "Krzysztof Ziarnek, Kenraiz",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Carex_muskingumensis_%27Ice_Fountains%27_kz01.jpg/500px-Carex_muskingumensis_%27Ice_Fountains%27_kz01.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Carex_muskingumensis_%27Ice_Fountains%27_2020-07-31_01.jpg",
+            "author": "Agnieszka Kwiecień, Nova",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Carex_muskingumensis_%27Ice_Fountains%27_2020-07-31_01.jpg/500px-Carex_muskingumensis_%27Ice_Fountains%27_2020-07-31_01.jpg"
           }
         ],
         "facts": [
@@ -406596,6 +409122,12 @@ window.GAME_DATA = [
             "author": "Christian Fischer",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/PotamogetonNatans2.jpg/500px-PotamogetonNatans2.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Potamogeton_natans_Rdestnica_p%C5%82ywaj%C4%85ca_Widawa_2017-06-16_01.jpg",
+            "author": "Agnieszka Kwiecień, Nova",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Potamogeton_natans_Rdestnica_p%C5%82ywaj%C4%85ca_Widawa_2017-06-16_01.jpg/500px-Potamogeton_natans_Rdestnica_p%C5%82ywaj%C4%85ca_Widawa_2017-06-16_01.jpg"
           }
         ],
         "facts": [
@@ -407955,6 +410487,18 @@ window.GAME_DATA = [
             "author": "Alberto Romeo albertoromeo@neomedia.it http://www.romeofotosub.it",
             "license": "CC BY-SA 2.5",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Posidonia_2_Alberto_Romeo.jpg/500px-Posidonia_2_Alberto_Romeo.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Posidonia_oceanica_Cabo_Palos.jpg",
+            "author": "Nanosanchez",
+            "license": "Public domain",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Posidonia_oceanica_Cabo_Palos.jpg/500px-Posidonia_oceanica_Cabo_Palos.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Posidonia.jpg",
+            "author": "albert kok",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Posidonia.jpg/500px-Posidonia.jpg"
           }
         ],
         "facts": [
@@ -408747,6 +411291,30 @@ window.GAME_DATA = [
             "author": "Ivar Leidus",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Dactylorhiza_fuchsii_-_v%C3%B6%C3%B6thuul-s%C3%B5rmk%C3%A4pp_Pakri.jpg/500px-Dactylorhiza_fuchsii_-_v%C3%B6%C3%B6thuul-s%C3%B5rmk%C3%A4pp_Pakri.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Box_Hill,_Common_spotted_orchid.jpg",
+            "author": "AndyScott",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Box_Hill%2C_Common_spotted_orchid.jpg/500px-Box_Hill%2C_Common_spotted_orchid.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Dactylorhiza_fuchsii_24.jpg",
+            "author": "Joachim Lutz",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Dactylorhiza_fuchsii_24.jpg/500px-Dactylorhiza_fuchsii_24.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Mergelhalde_(NSG-HA_080)_mit_Fuchs%27_Knabenkraut_02.jpg",
+            "author": "Puusterke",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Mergelhalde_%28NSG-HA_080%29_mit_Fuchs%27_Knabenkraut_02.jpg/500px-Mergelhalde_%28NSG-HA_080%29_mit_Fuchs%27_Knabenkraut_02.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Dactylorhiza_fuchsii_41.jpg",
+            "author": "Joachim Lutz",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Dactylorhiza_fuchsii_41.jpg/500px-Dactylorhiza_fuchsii_41.jpg"
           }
         ],
         "facts": [
@@ -409420,6 +411988,18 @@ window.GAME_DATA = [
             "author": "Dreizung",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Coco_de_Mer_male_inflorescence.JPG/500px-Coco_de_Mer_male_inflorescence.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Vallee_de_Mai_-_Coco_de_mer_(3).JPG",
+            "author": "Remi Jouan",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Vallee_de_Mai_-_Coco_de_mer_%283%29.JPG/500px-Vallee_de_Mai_-_Coco_de_mer_%283%29.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Seychelles-palmera1.jpg",
+            "author": "No machine-readable author provided. Jolle~commonswiki assumed (based on copyrig",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Seychelles-palmera1.jpg/500px-Seychelles-palmera1.jpg"
           }
         ],
         "facts": [
@@ -411232,6 +413812,30 @@ window.GAME_DATA = [
             "author": "Geoff Gallice from Gainesville, FL, USA",
             "license": "CC BY 2.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Flickr_-_ggallice_-_Saw_palmetto.jpg/500px-Flickr_-_ggallice_-_Saw_palmetto.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:SerenoraRepensHabitatPuntaGorda.jpg",
+            "author": "CoolGuySlate",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/SerenoraRepensHabitatPuntaGorda.jpg/500px-SerenoraRepensHabitatPuntaGorda.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Serenoa_repens_347902910.jpg",
+            "author": "Alex Abair",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Serenoa_repens_347902910.jpg/500px-Serenoa_repens_347902910.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Serenoa_repens_16zz.jpg",
+            "author": "Photo by David J. Stang",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Serenoa_repens_16zz.jpg/500px-Serenoa_repens_16zz.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Serenoa_repens_25zz.jpg",
+            "author": "Photo by David J. Stang",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Serenoa_repens_25zz.jpg/500px-Serenoa_repens_25zz.jpg"
           }
         ],
         "facts": [
@@ -414105,6 +416709,18 @@ window.GAME_DATA = [
             "author": "Ayotte, Gilles, 1948-",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Polystichum_braunii_15-p.bot-polys.brau-002.jpg/500px-Polystichum_braunii_15-p.bot-polys.brau-002.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Polystichum_braunii_15-p.bot-polys.brau-010.jpg",
+            "author": "Ayotte, Gilles, 1948-",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Polystichum_braunii_15-p.bot-polys.brau-010.jpg/500px-Polystichum_braunii_15-p.bot-polys.brau-010.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Polystichum_braunii,_Pancake_Bay.jpg",
+            "author": "Fungus Guy",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Polystichum_braunii%2C_Pancake_Bay.jpg/500px-Polystichum_braunii%2C_Pancake_Bay.jpg"
           }
         ],
         "facts": [
@@ -415884,6 +418500,12 @@ window.GAME_DATA = [
             "author": "Krzysztof Ziarnek, Kenraiz",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Equisetum_variegatum_kz07.jpg/500px-Equisetum_variegatum_kz07.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Equisetum_variegatum_kz06.jpg",
+            "author": "Krzysztof Ziarnek, Kenraiz",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Equisetum_variegatum_kz06.jpg/500px-Equisetum_variegatum_kz06.jpg"
           }
         ],
         "facts": [
@@ -416122,6 +418744,12 @@ window.GAME_DATA = [
             "author": "weisserstier from Wien, Austria",
             "license": "CC BY 2.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/130706_Schrems_A_121_%289227198134%29.jpg/500px-130706_Schrems_A_121_%289227198134%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Eq_fluviatile_kz2.jpg",
+            "author": "Kenraiz , Krzysztof Ziarnek",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Eq_fluviatile_kz2.jpg/500px-Eq_fluviatile_kz2.jpg"
           }
         ],
         "facts": [
@@ -416349,6 +418977,18 @@ window.GAME_DATA = [
             "author": "Björn S...",
             "license": "CC BY-SA 2.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Star_Moss_-_Tortula_ruralis_%2815791219159%29.jpg/500px-Star_Moss_-_Tortula_ruralis_%2815791219159%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Syntrichia_ruralis_125825512.jpg",
+            "author": "Stephen James McWilliam",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Syntrichia_ruralis_125825512.jpg/500px-Syntrichia_ruralis_125825512.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Syntrichia_ruralis_116530896.jpg",
+            "author": "Alexis",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Syntrichia_ruralis_116530896.jpg/500px-Syntrichia_ruralis_116530896.jpg"
           }
         ],
         "facts": [
@@ -416912,6 +419552,12 @@ window.GAME_DATA = [
             "author": "Topi Pigula",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Topi_Pigula_plonik_chluponosy_foto_k_projektu_Fotofata_2012.jpg/500px-Topi_Pigula_plonik_chluponosy_foto_k_projektu_Fotofata_2012.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Esporangios_Polytrichum_piliferum_2010-4-08_SierraMadrona.jpg",
+            "author": "Javier martin",
+            "license": "Public domain",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Esporangios_Polytrichum_piliferum_2010-4-08_SierraMadrona.jpg/500px-Esporangios_Polytrichum_piliferum_2010-4-08_SierraMadrona.jpg"
           }
         ],
         "facts": [
@@ -417102,6 +419748,12 @@ window.GAME_DATA = [
             "author": "Nefronus",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Leucobryum_glaucum_habitus.jpg/500px-Leucobryum_glaucum_habitus.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Leucobryum_glaucum_(c,_145632-482732)_7338.JPG",
+            "author": "HermannSchachner",
+            "license": "CC0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Leucobryum_glaucum_%28c%2C_145632-482732%29_7338.JPG/500px-Leucobryum_glaucum_%28c%2C_145632-482732%29_7338.JPG"
           }
         ],
         "facts": [
@@ -417276,6 +419928,12 @@ window.GAME_DATA = [
             "author": "Des Callaghan",
             "license": "CC0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Hamatocaulis_vernicosus.jpg/500px-Hamatocaulis_vernicosus.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Hamatocaulis_vernicosus_(a,_132947-473407)_2098.JPG",
+            "author": "HermannSchachner",
+            "license": "CC0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Hamatocaulis_vernicosus_%28a%2C_132947-473407%29_2098.JPG/500px-Hamatocaulis_vernicosus_%28a%2C_132947-473407%29_2098.JPG"
           }
         ],
         "facts": [
@@ -417328,6 +419986,12 @@ window.GAME_DATA = [
             "author": "HermannSchachner",
             "license": "CC0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Pleurozium_schreberi_%28a%2C_144656-474757%29_6681.jpg/500px-Pleurozium_schreberi_%28a%2C_144656-474757%29_6681.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Pleurozium_schreberi_TK_2023-04-16_1.jpg",
+            "author": "T. Kebert",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Pleurozium_schreberi_TK_2023-04-16_1.jpg/500px-Pleurozium_schreberi_TK_2023-04-16_1.jpg"
           }
         ],
         "facts": [
@@ -418354,6 +421018,12 @@ window.GAME_DATA = [
             "author": "HermannSchachner",
             "license": "CC0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Isothecium_alopecuroides_%28b%2C_144634-474755%29_4629.jpg/500px-Isothecium_alopecuroides_%28b%2C_144634-474755%29_4629.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Larger_mouse-tail_moss_(50415574928).jpg",
+            "author": "hedera.baltica from Wrocław, Poland",
+            "license": "CC BY-SA 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Larger_mouse-tail_moss_%2850415574928%29.jpg/500px-Larger_mouse-tail_moss_%2850415574928%29.jpg"
           }
         ],
         "facts": [
@@ -419883,6 +422553,30 @@ window.GAME_DATA = [
             "author": "Nicolò Parrino",
             "license": "CC BY 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Imperator_luteocupreus_6.jpg/500px-Imperator_luteocupreus_6.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Imperator_luteocupreus_2.jpg",
+            "author": "Davide Puddu",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Imperator_luteocupreus_2.jpg/500px-Imperator_luteocupreus_2.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Imperator_luteocupreus_4.jpg",
+            "author": "Davide Puddu",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Imperator_luteocupreus_4.jpg/500px-Imperator_luteocupreus_4.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Boletus_luteocupreus_Bert%C3%A8a_%26_Estad%C3%A9s_(15636326558).jpg",
+            "author": "GLJIVARSKO DRUSTVO NIS from Serbia",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Boletus_luteocupreus_Bert%C3%A8a_%26_Estad%C3%A9s_%2815636326558%29.jpg/500px-Boletus_luteocupreus_Bert%C3%A8a_%26_Estad%C3%A9s_%2815636326558%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Imperator_luteocupreus_03.jpg",
+            "author": "milos_gajic",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Imperator_luteocupreus_03.jpg/500px-Imperator_luteocupreus_03.jpg"
           }
         ],
         "facts": [
@@ -419945,6 +422639,18 @@ window.GAME_DATA = [
             "author": "Peter de Lange",
             "license": "CC0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Xerocomellus_ripariellus_6718121.jpg/500px-Xerocomellus_ripariellus_6718121.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Xerocomellus_ripariellus_6718103.jpg",
+            "author": "Peter de Lange",
+            "license": "CC0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Xerocomellus_ripariellus_6718103.jpg/500px-Xerocomellus_ripariellus_6718103.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Xerocomellus_ripariellus_6718123.jpg",
+            "author": "Peter de Lange",
+            "license": "CC0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Xerocomellus_ripariellus_6718123.jpg/500px-Xerocomellus_ripariellus_6718123.jpg"
           }
         ],
         "facts": [
@@ -420436,6 +423142,18 @@ window.GAME_DATA = [
             "author": "Svencapoeira",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Kuuse-limanutt1.jpg/500px-Kuuse-limanutt1.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Hygrophorus_piceae_(15667213687).jpg",
+            "author": "Claude PAGE",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Hygrophorus_piceae_%2815667213687%29.jpg/500px-Hygrophorus_piceae_%2815667213687%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Hygrophorus_piceae.jpg",
+            "author": "Claude PAGE",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Hygrophorus_piceae.jpg/500px-Hygrophorus_piceae.jpg"
           }
         ],
         "facts": [
@@ -420589,6 +423307,12 @@ window.GAME_DATA = [
             "author": "Xth-Floor",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Vrbensk%C3%A9_rybn%C3%ADky_-_Aureoboletus_gentilis_01.jpg/500px-Vrbensk%C3%A9_rybn%C3%ADky_-_Aureoboletus_gentilis_01.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Aureoboletus_gentilis.jpg",
+            "author": "Claude PAGE",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Aureoboletus_gentilis.jpg/500px-Aureoboletus_gentilis.jpg"
           }
         ],
         "facts": [
@@ -420653,6 +423377,18 @@ window.GAME_DATA = [
             "author": "Henk Monster",
             "license": "CC BY 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Some_balcony_structured_Spongipellis_pachyodon_%28Spongy_Toothed_Polypore%2C_D%3D_Breitstacheliger_Schwammporling%2C_F%3D_Polyporus_dent%C3%A9%2C_NL%3D_Getande_kaaszwam%29_%28the_%22first%22_at_Schaarsbergen%29_with_the_teeth_and_edge_curtains_qui_-_panoramio.jpg/500px-thumbnail.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Polypore_dent%C3%A9.jpg",
+            "author": "Raymond Trencavel",
+            "license": "CC0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Polypore_dent%C3%A9.jpg/500px-Polypore_dent%C3%A9.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Detail_of_Spongipellis_pachyodon_(Spongy_Toothed_Polypore,_D%3D_Breitstacheliger_Schwammporling,_F%3D_Polyporus_dent%C3%A9,_NL%3D_Getande_kaaszwam)_of_the_preceeding_picture._The_tooths_are_quite_visible_-_panoramio.jpg",
+            "author": "Henk Monster",
+            "license": "CC BY 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Detail_of_Spongipellis_pachyodon_%28Spongy_Toothed_Polypore%2C_D%3D_Breitstacheliger_Schwammporling%2C_F%3D_Polyporus_dent%C3%A9%2C_NL%3D_Getande_kaaszwam%29_of_the_preceeding_picture._The_tooths_are_quite_visible_-_panoramio.jpg/500px-thumbnail.jpg"
           }
         ],
         "facts": [
@@ -421185,6 +423921,12 @@ window.GAME_DATA = [
             "author": "This image was created by user Alok Mahendroo (alok) at Mushroom Observer , a so",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/2010-09-04_Ramariopsis_crocea_%28Pers.%29_Corner_110488.jpg/500px-2010-09-04_Ramariopsis_crocea_%28Pers.%29_Corner_110488.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Ramariopsis_crocea.jpg",
+            "author": "Claude PAGE",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Ramariopsis_crocea.jpg/500px-Ramariopsis_crocea.jpg"
           }
         ],
         "facts": [
@@ -422262,6 +425004,12 @@ window.GAME_DATA = [
             "author": "Jerzy Opioła",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Chroogomphus_helveticus_NT3_%281%29.jpg/500px-Chroogomphus_helveticus_NT3_%281%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Chroogomphus_helveticus.jpg",
+            "author": "Claude PAGE",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Chroogomphus_helveticus.jpg/500px-Chroogomphus_helveticus.jpg"
           }
         ],
         "facts": [
@@ -422855,6 +425603,12 @@ window.GAME_DATA = [
             "author": "Andreas Kunze",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/2006-09-03_Tylopilus_porphyrosporus_1.jpg/500px-2006-09-03_Tylopilus_porphyrosporus_1.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Tahmpuravik2.jpg",
+            "author": "Svencapoeira",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Tahmpuravik2.jpg/500px-Tahmpuravik2.jpg"
           }
         ],
         "facts": [
@@ -423166,6 +425920,18 @@ window.GAME_DATA = [
             "author": "Holger Krisp",
             "license": "CC BY 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Kalkliebender_Filz-Saftling_Hygrocybe_calciphila.JPG/500px-Kalkliebender_Filz-Saftling_Hygrocybe_calciphila.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Hygrocybe_calciphila.jpg",
+            "author": "Claude PAGE",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Hygrocybe_calciphila.jpg/500px-Hygrocybe_calciphila.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Hygrocybe_calciphila_(49001267218).jpg",
+            "author": "Claude PAGE",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Hygrocybe_calciphila_%2849001267218%29.jpg/500px-Hygrocybe_calciphila_%2849001267218%29.jpg"
           }
         ],
         "facts": [
@@ -423203,6 +425969,48 @@ window.GAME_DATA = [
             "author": "linkie",
             "license": "CC BY 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Ramaria_formosa_101440924.jpg/500px-Ramaria_formosa_101440924.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Krumbach-Moor-Pilze-93.JPG",
+            "author": "Asurnipal",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Krumbach-Moor-Pilze-93.JPG/500px-Krumbach-Moor-Pilze-93.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Krumbach-Moor-Pilze-96.JPG",
+            "author": "Asurnipal",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Krumbach-Moor-Pilze-96.JPG/500px-Krumbach-Moor-Pilze-96.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Ramaria_formosa_BS6.jpg",
+            "author": "Jerzy Opioła",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Ramaria_formosa_BS6.jpg/500px-Ramaria_formosa_BS6.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Atzapar_ederra_albotik.jpg",
+            "author": "Jose Angel Urquia Goitia",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Atzapar_ederra_albotik.jpg/500px-Atzapar_ederra_albotik.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Atzapar_ederra_goitik.jpg",
+            "author": "Jose Angel Urquia Goitia",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Atzapar_ederra_goitik.jpg/500px-Atzapar_ederra_goitik.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Ramaria_formosa_group_(4037905896).jpg",
+            "author": "Jason Hollinger",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Ramaria_formosa_group_%284037905896%29.jpg/500px-Ramaria_formosa_group_%284037905896%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:2010-07-28_Ramaria_formosa_(Pers.)_Qu%C3%A9l_95684.jpg",
+            "author": "This image was created by user Steve Nelsen (sfnelsen) at Mushroom Observer , a ",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/2010-07-28_Ramaria_formosa_%28Pers.%29_Qu%C3%A9l_95684.jpg/500px-2010-07-28_Ramaria_formosa_%28Pers.%29_Qu%C3%A9l_95684.jpg"
           }
         ],
         "facts": [
@@ -424250,6 +427058,12 @@ window.GAME_DATA = [
             "author": "Dušan Vučić",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Pisolithus_arhizus_%282%29.jpg/500px-Pisolithus_arhizus_%282%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Pisolithus_tinctorius_(Pers.)_Coker_%26_Couch_(1928)_Gasteromycetes_(16239809126).jpg",
+            "author": "Len Worthington",
+            "license": "CC BY-SA 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Pisolithus_tinctorius_%28Pers.%29_Coker_%26_Couch_%281928%29_Gasteromycetes_%2816239809126%29.jpg/500px-Pisolithus_tinctorius_%28Pers.%29_Coker_%26_Couch_%281928%29_Gasteromycetes_%2816239809126%29.jpg"
           }
         ],
         "facts": [
@@ -425264,6 +428078,12 @@ window.GAME_DATA = [
             "author": "GLJIVARSKO DRUSTVO NIS from Serbia",
             "license": "CC BY 2.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Russula_solaris_Ferd._%26_Winge_%2811196442413%29.jpg/500px-Russula_solaris_Ferd._%26_Winge_%2811196442413%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Russula_solaris_(48992055023).jpg",
+            "author": "Claude PAGE",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Russula_solaris_%2848992055023%29.jpg/500px-Russula_solaris_%2848992055023%29.jpg"
           }
         ],
         "facts": [
@@ -425905,6 +428725,12 @@ window.GAME_DATA = [
             "author": "This image was created by user Eva Skific (Evica) at Mushroom Observer , a sourc",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Lactarius_resimus_%28Fr.%29_Fr_670327.jpg/500px-Lactarius_resimus_%28Fr.%29_Fr_670327.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Lactarius_resimus1.jpg",
+            "author": "Игорь Лебединский",
+            "license": "CC BY 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Lactarius_resimus1.jpg/500px-Lactarius_resimus1.jpg"
           }
         ],
         "facts": [
@@ -425997,6 +428823,24 @@ window.GAME_DATA = [
             "author": "No machine-readable author provided. Archenzo assumed (based on copyright claims",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Entoloma_Sinuatum_1.JPG/500px-Entoloma_Sinuatum_1.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Entoloma_sinuatum_9.jpg",
+            "author": "Allar Antson",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Entoloma_sinuatum_9.jpg/500px-Entoloma_sinuatum_9.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Riesen-R%C3%B6tling_Entoloma_sinuatum.JPG",
+            "author": "Holger Krisp",
+            "license": "CC BY 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Riesen-R%C3%B6tling_Entoloma_sinuatum.JPG/500px-Riesen-R%C3%B6tling_Entoloma_sinuatum.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Roetling_Riesen_(8).JPG",
+            "author": "Thomas Pruß",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Roetling_Riesen_%288%29.JPG/500px-Roetling_Riesen_%288%29.JPG"
           }
         ],
         "facts": [
@@ -426753,6 +429597,12 @@ window.GAME_DATA = [
             "author": "Holger Krisp",
             "license": "CC BY 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Kupferrote_Gelbfu%C3%9F_Chroogomphus_rutilus.jpg/500px-Kupferrote_Gelbfu%C3%9F_Chroogomphus_rutilus.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Chroogomphus_rutilus_(Schaeff.)_O.K._Mill._(11033350254).jpg",
+            "author": "GLJIVARSKO DRUSTVO NIS from Serbia",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Chroogomphus_rutilus_%28Schaeff.%29_O.K._Mill._%2811033350254%29.jpg/500px-Chroogomphus_rutilus_%28Schaeff.%29_O.K._Mill._%2811033350254%29.jpg"
           }
         ],
         "facts": [
@@ -426929,6 +429779,30 @@ window.GAME_DATA = [
             "author": "Slick",
             "license": "CC0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Pilze_2010-09-25-4309.jpg/500px-Pilze_2010-09-25-4309.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Mycena_pura_(6)_(31226738641).jpg",
+            "author": "Dr. Hans-Günter Wagner",
+            "license": "CC BY-SA 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Mycena_pura_%286%29_%2831226738641%29.jpg/500px-Mycena_pura_%286%29_%2831226738641%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Some_nice_coloured_Mycena_pura_(gewoon_elfenschermpje)_at_Bronbeek_Arnhem_-_panoramio.jpg",
+            "author": "Henk Monster",
+            "license": "CC BY 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Some_nice_coloured_Mycena_pura_%28gewoon_elfenschermpje%29_at_Bronbeek_Arnhem_-_panoramio.jpg/500px-Some_nice_coloured_Mycena_pura_%28gewoon_elfenschermpje%29_at_Bronbeek_Arnhem_-_panoramio.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Two_mycena_pura.jpg",
+            "author": "Casey Helton",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Two_mycena_pura.jpg/500px-Two_mycena_pura.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Lilla_m%C3%BCtsik.jpg",
+            "author": "Svencapoeira",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Lilla_m%C3%BCtsik.jpg/500px-Lilla_m%C3%BCtsik.jpg"
           }
         ],
         "facts": [
@@ -429126,6 +432000,18 @@ window.GAME_DATA = [
             "author": "Jerzy Opioła",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Russula_badia_a1_%283%29.jpg/500px-Russula_badia_a1_%283%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Russula_badia.jpg",
+            "author": "Claude PAGE",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Russula_badia.jpg/500px-Russula_badia.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Russula_badia_(15878190142).jpg",
+            "author": "Claude PAGE",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Russula_badia_%2815878190142%29.jpg/500px-Russula_badia_%2815878190142%29.jpg"
           }
         ],
         "facts": [
@@ -431090,6 +433976,12 @@ window.GAME_DATA = [
             "author": "EnricGracia",
             "license": "CC0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Rubroboletus_lupinus.jpg/500px-Rubroboletus_lupinus.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:BoletusLupinus01_cropped.jpg",
+            "author": "Alessandro Scotti",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/BoletusLupinus01_cropped.jpg/500px-BoletusLupinus01_cropped.jpg"
           }
         ],
         "facts": [
@@ -432267,6 +435159,12 @@ window.GAME_DATA = [
             "author": "This image was created by user Ron Pastorino (Ronpast) at Mushroom Observer , a ",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/2011-09-17_Lactarius_turpis_%28Weinm.%29_Fr_169821.jpg/500px-2011-09-17_Lactarius_turpis_%28Weinm.%29_Fr_169821.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Ugly_Milk-cap_-_Lactarius_turpis_(38631376581).jpg",
+            "author": "Björn S...",
+            "license": "CC BY-SA 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Ugly_Milk-cap_-_Lactarius_turpis_%2838631376581%29.jpg/500px-Ugly_Milk-cap_-_Lactarius_turpis_%2838631376581%29.jpg"
           }
         ],
         "facts": [
@@ -432892,6 +435790,18 @@ window.GAME_DATA = [
             "author": "Jason Hollinger",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Suillus_lakei_50606.jpg/500px-Suillus_lakei_50606.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Western_Painted_Suillus_(229561438).jpg",
+            "author": "Katja Schulz from Washington, D. C., USA",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Western_Painted_Suillus_%28229561438%29.jpg/500px-Western_Painted_Suillus_%28229561438%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Suillus_lakei_49012.jpg",
+            "author": "Johannes Harnisch (Johann)",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Suillus_lakei_49012.jpg/500px-Suillus_lakei_49012.jpg"
           }
         ],
         "facts": [
@@ -432939,6 +435849,12 @@ window.GAME_DATA = [
             "author": "This image was created by user Ron Pastorino (Ronpast) at Mushroom Observer , a ",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/2012-06-24_Leccinellum_crocipodium_%28Letell.%29_Bresinsky_%26_Manfr._Binder_236436.jpg/500px-2012-06-24_Leccinellum_crocipodium_%28Letell.%29_Bresinsky_%26_Manfr._Binder_236436.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Leccinellum_crocipodium.jpg",
+            "author": "Alexey Sergeev (asergeev)",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Leccinellum_crocipodium.jpg/500px-Leccinellum_crocipodium.jpg"
           }
         ],
         "facts": [
@@ -432975,6 +435891,18 @@ window.GAME_DATA = [
             "author": "ИринаЯ",
             "license": "CC0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/%D0%93%D1%80%D0%B8%D0%B1_%D0%A0%D1%8F%D0%B4%D0%BE%D0%B2%D0%BA%D0%B0_%D0%BB%D0%B8%D0%BB%D0%BE%D0%B2%D0%BE%D0%BD%D0%BE%D0%B3%D0%B0%D1%8F_%282%29_16-11-2025_%D0%A1%D0%B0%D1%80%D0%B0%D1%82%D0%BE%D0%B2.jpg/500px-%D0%93%D1%80%D0%B8%D0%B1_%D0%A0%D1%8F%D0%B4%D0%BE%D0%B2%D0%BA%D0%B0_%D0%BB%D0%B8%D0%BB%D0%BE%D0%B2%D0%BE%D0%BD%D0%BE%D0%B3%D0%B0%D1%8F_%282%29_16-11-2025_%D0%A1%D0%B0%D1%80%D0%B0%D1%82%D0%BE%D0%B2.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Lilafu%C3%9F-R%C3%B6telritterling-1.jpg",
+            "author": "Th. Kuhnigk",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Lilafu%C3%9F-R%C3%B6telritterling-1.jpg/500px-Lilafu%C3%9F-R%C3%B6telritterling-1.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Lepista_personata_a1_(2).JPG",
+            "author": "Jerzy Opioła",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Lepista_personata_a1_%282%29.JPG/500px-Lepista_personata_a1_%282%29.JPG"
           }
         ],
         "facts": [
@@ -433477,6 +436405,12 @@ window.GAME_DATA = [
             "author": "",
             "license": "CC BY-SA 2.0 de",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Boletus_erythropus1.jpg/500px-Boletus_erythropus1.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Neoboletus_luridiformis_(36559509650).jpg",
+            "author": "Björn S...",
+            "license": "CC BY-SA 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Neoboletus_luridiformis_%2836559509650%29.jpg/500px-Neoboletus_luridiformis_%2836559509650%29.jpg"
           }
         ],
         "facts": [
@@ -433545,6 +436479,12 @@ window.GAME_DATA = [
             "author": "Björn S...",
             "license": "CC BY-SA 2.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Boletus_reticulatus_%2829088912892%29.jpg/500px-Boletus_reticulatus_%2829088912892%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Boletus_reticulatus_-_panoramio_(9).jpg",
+            "author": "Björn S.",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Boletus_reticulatus_-_panoramio_%289%29.jpg/500px-Boletus_reticulatus_-_panoramio_%289%29.jpg"
           }
         ],
         "facts": [
@@ -433664,6 +436604,24 @@ window.GAME_DATA = [
             "author": "H. Krisp",
             "license": "CC BY 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Anh%C3%A4ngsel-R%C3%B6hrling_Boletus_appendiculatus-crop.jpg/500px-Anh%C3%A4ngsel-R%C3%B6hrling_Boletus_appendiculatus-crop.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Butyriboletus_appendiculatus_4.jpg",
+            "author": "Allar Antson",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Butyriboletus_appendiculatus_4.jpg/500px-Butyriboletus_appendiculatus_4.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Lu%C4%8Dn%C3%AD_-_Boletus_appendiculatus_01.jpg",
+            "author": "Xth-Floor",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Lu%C4%8Dn%C3%AD_-_Boletus_appendiculatus_01.jpg/500px-Lu%C4%8Dn%C3%AD_-_Boletus_appendiculatus_01.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Butyriboletus_appendiculatus_13.jpg",
+            "author": "Rita Lüder",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Butyriboletus_appendiculatus_13.jpg/500px-Butyriboletus_appendiculatus_13.jpg"
           }
         ],
         "facts": [
@@ -433726,6 +436684,42 @@ window.GAME_DATA = [
             "author": "Davide Puddu",
             "license": "CC BY 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Suillellus_queletii_8.jpg/500px-Suillellus_queletii_8.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Suillellus_queletii_393826.jpg",
+            "author": "This image was created by user zaca at Mushroom Observer , a source for mycologi",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Suillellus_queletii_393826.jpg/500px-Suillellus_queletii_393826.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Suillellus_queletii_1.jpg",
+            "author": "sarahfaulwetter",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Suillellus_queletii_1.jpg/500px-Suillellus_queletii_1.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Suillellus_queletii_14.jpg",
+            "author": "tarareare",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Suillellus_queletii_14.jpg/500px-Suillellus_queletii_14.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Suillellus_queletii_19.jpg",
+            "author": "Xavier Heral",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Suillellus_queletii_19.jpg/500px-Suillellus_queletii_19.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Suillellus_queletii_single.jpg",
+            "author": "mycobel",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Suillellus_queletii_single.jpg/500px-Suillellus_queletii_single.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Suillellus_queletii_393825.jpg",
+            "author": "This image was created by user zaca at Mushroom Observer , a source for mycologi",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Suillellus_queletii_393825.jpg/500px-Suillellus_queletii_393825.jpg"
           }
         ],
         "facts": [
@@ -437237,6 +440231,12 @@ window.GAME_DATA = [
             "author": "This image was created by user Gerhard Koller (Gerhard) at Mushroom Observer , a",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/2012-08-05_Mycena_pelianthina_%28Fr.%29_Qu%C3%A9l_270606.jpg/500px-2012-08-05_Mycena_pelianthina_%28Fr.%29_Qu%C3%A9l_270606.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Mycena_pelianthina_(15698413480).jpg",
+            "author": "Claude PAGE",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Mycena_pelianthina_%2815698413480%29.jpg/500px-Mycena_pelianthina_%2815698413480%29.jpg"
           }
         ],
         "facts": [
@@ -438106,6 +441106,18 @@ window.GAME_DATA = [
             "author": "This image was created by user Gerhard Koller (Gerhard) at Mushroom Observer , a",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/2008-10-10_Russula_amethystina_Qu%C3%A9l_68718.jpg/500px-2008-10-10_Russula_amethystina_Qu%C3%A9l_68718.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Russula_amethystina_(52440332389).jpg",
+            "author": "Claude PAGE",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Russula_amethystina_%2852440332389%29.jpg/500px-Russula_amethystina_%2852440332389%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Russula_amethystina_(52411424390).jpg",
+            "author": "Claude PAGE",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Russula_amethystina_%2852411424390%29.jpg/500px-Russula_amethystina_%2852411424390%29.jpg"
           }
         ],
         "facts": [
@@ -438827,6 +441839,12 @@ window.GAME_DATA = [
             "author": "caspar s",
             "license": "CC BY 2.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Tricholoma_matsutake_%289627995451%29.jpg/500px-Tricholoma_matsutake_%289627995451%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:M%C3%A4nniheinik2.jpg",
+            "author": "Svencapoeira",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/M%C3%A4nniheinik2.jpg/500px-M%C3%A4nniheinik2.jpg"
           }
         ],
         "facts": [
@@ -439314,6 +442332,12 @@ window.GAME_DATA = [
             "author": "Waldemar Czerniawski",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Albatrellus_confluens_1a.jpg/500px-Albatrellus_confluens_1a.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Albatrellus_confluens_2a.jpg",
+            "author": "Waldemar Czerniawski",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Albatrellus_confluens_2a.jpg/500px-Albatrellus_confluens_2a.jpg"
           }
         ],
         "facts": [
@@ -441434,6 +444458,12 @@ window.GAME_DATA = [
             "author": "James Lindsey",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Russula.nigricans.-.lindsey.jpg/500px-Russula.nigricans.-.lindsey.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Russula_nigricans_(29445500303).jpg",
+            "author": "Dr. Hans-Günter Wagner",
+            "license": "CC BY-SA 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Russula_nigricans_%2829445500303%29.jpg/500px-Russula_nigricans_%2829445500303%29.jpg"
           }
         ],
         "facts": [
@@ -442857,6 +445887,24 @@ window.GAME_DATA = [
             "author": "A_regalis.jpg : Deutsche Gesellschaft für Mykologie derivative work: Ak ccm ( ta",
             "license": "CC BY 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/2000_Amanita_regalis_cropped.jpg/500px-2000_Amanita_regalis_cropped.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Brauner_Fliegenpilz_(Amanita_regalis)_im_Fichtelseemoor_%C3%B6stlich_des_Sees_3.jpg",
+            "author": "Stephan van Helden",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Brauner_Fliegenpilz_%28Amanita_regalis%29_im_Fichtelseemoor_%C3%B6stlich_des_Sees_3.jpg/500px-Brauner_Fliegenpilz_%28Amanita_regalis%29_im_Fichtelseemoor_%C3%B6stlich_des_Sees_3.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Brauner_Fliegenpilz_(Amanita_regalis)_im_Fichtelseemoor_%C3%B6stlich_des_Sees.jpg",
+            "author": "Stephan van Helden",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Brauner_Fliegenpilz_%28Amanita_regalis%29_im_Fichtelseemoor_%C3%B6stlich_des_Sees.jpg/500px-Brauner_Fliegenpilz_%28Amanita_regalis%29_im_Fichtelseemoor_%C3%B6stlich_des_Sees.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Amanita_regalis_52330.jpg",
+            "author": "This image was created by user Mikael at Mushroom Observer , a source for mycolo",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Amanita_regalis_52330.jpg/500px-Amanita_regalis_52330.jpg"
           }
         ],
         "facts": [
@@ -442983,6 +446031,30 @@ window.GAME_DATA = [
             "author": "This image was created by user amadej trnkoczy (amadej) at Mushroom Observer , a",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/2009-10-09_Boletus_luridus_Schaeff_60178.jpg/500px-2009-10-09_Boletus_luridus_Schaeff_60178.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Suillellus_luridus_(37130330340).jpg",
+            "author": "Björn S...",
+            "license": "CC BY-SA 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Suillellus_luridus_%2837130330340%29.jpg/500px-Suillellus_luridus_%2837130330340%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Suillellus_luridus_(37130329930).jpg",
+            "author": "Björn S...",
+            "license": "CC BY-SA 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Suillellus_luridus_%2837130329930%29.jpg/500px-Suillellus_luridus_%2837130329930%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Boletus-luridus-2188.jpg",
+            "author": "Mars 2002",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Boletus-luridus-2188.jpg/500px-Boletus-luridus-2188.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Offermannsheide_27.07.2017_Lurid_Bolete_-_Suillellus_luridus_(36910122752).jpg",
+            "author": "Björn S...",
+            "license": "CC BY-SA 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Offermannsheide_27.07.2017_Lurid_Bolete_-_Suillellus_luridus_%2836910122752%29.jpg/500px-Offermannsheide_27.07.2017_Lurid_Bolete_-_Suillellus_luridus_%2836910122752%29.jpg"
           }
         ],
         "facts": [
@@ -443688,6 +446760,12 @@ window.GAME_DATA = [
             "author": "This image was created by user James Baker (cepecity) at Mushroom Observer , a s",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/2012-10-26_Hygrophorus_penarioides_Jacobsson_%26_E._Larss_323249.jpg/500px-2012-10-26_Hygrophorus_penarioides_Jacobsson_%26_E._Larss_323249.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Hygrophorus_penarioides_(20759762854).jpg",
+            "author": "Claude PAGE",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Hygrophorus_penarioides_%2820759762854%29.jpg/500px-Hygrophorus_penarioides_%2820759762854%29.jpg"
           }
         ],
         "facts": [
@@ -444282,6 +447360,24 @@ window.GAME_DATA = [
             "author": "This image was created by user John Kirkpatrick (natashadak) at Mushroom Observe",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/2007-12-23_Pluteus_cervinus_%28Schaeff.%29_P._Kumm_10099_crop.jpg/500px-2007-12-23_Pluteus_cervinus_%28Schaeff.%29_P._Kumm_10099_crop.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Pluteus_cervinus_T64.1.jpg",
+            "author": "Jerzy Opioła",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Pluteus_cervinus_T64.1.jpg/500px-Pluteus_cervinus_T64.1.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Pluteus_cervinus_581240983.jpg",
+            "author": "Matej Frančeškin",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Pluteus_cervinus_581240983.jpg/500px-Pluteus_cervinus_581240983.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:2025-11-04_D500-1570_Achim-Lammerts_Pluteus-cervinus-agg.jpg",
+            "author": "Achim Lammerts (Syntaxys)",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/2025-11-04_D500-1570_Achim-Lammerts_Pluteus-cervinus-agg.jpg/500px-2025-11-04_D500-1570_Achim-Lammerts_Pluteus-cervinus-agg.jpg"
           }
         ],
         "facts": [
@@ -444571,6 +447667,24 @@ window.GAME_DATA = [
             "author": "natureluvr01",
             "license": "CC BY 2.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Lactarius_lignyotus_%287996922924%29.jpg/500px-Lactarius_lignyotus_%287996922924%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Must_riisikas.jpg",
+            "author": "Svencapoeira",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Must_riisikas.jpg/500px-Must_riisikas.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Lactarius_lignyotus_a1_(3).JPG",
+            "author": "Jerzy Opioła",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Lactarius_lignyotus_a1_%283%29.JPG/500px-Lactarius_lignyotus_a1_%283%29.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Lactarius_lignyotus3.jpg",
+            "author": "Игорь Лебединский",
+            "license": "CC BY 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Lactarius_lignyotus3.jpg/500px-Lactarius_lignyotus3.jpg"
           }
         ],
         "facts": [
@@ -444849,6 +447963,18 @@ window.GAME_DATA = [
             "author": "Σ64",
             "license": "CC BY 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Suillus_luteus_01.jpg/500px-Suillus_luteus_01.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Suillus_luteus_9.jpg",
+            "author": "bjoerns",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Suillus_luteus_9.jpg/500px-Suillus_luteus_9.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Suillus_luteus_7.jpg",
+            "author": "mswiseman",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Suillus_luteus_7.jpg/500px-Suillus_luteus_7.jpg"
           }
         ],
         "facts": [
@@ -445108,6 +448234,18 @@ window.GAME_DATA = [
             "author": "Jerzy Opioła",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Suillus_grevillei_2_G6.jpg/500px-Suillus_grevillei_2_G6.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Suillus_grevilei_(38290078226).jpg",
+            "author": "Dr. Hans-Günter Wagner",
+            "license": "CC BY-SA 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Suillus_grevilei_%2838290078226%29.jpg/500px-Suillus_grevilei_%2838290078226%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:G%C3%B6teborg_10.08.2017_Larch_Bolete_-_Suillus_grevillei_(37217471706).jpg",
+            "author": "Björn S...",
+            "license": "CC BY-SA 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/G%C3%B6teborg_10.08.2017_Larch_Bolete_-_Suillus_grevillei_%2837217471706%29.jpg/500px-G%C3%B6teborg_10.08.2017_Larch_Bolete_-_Suillus_grevillei_%2837217471706%29.jpg"
           }
         ],
         "facts": [
@@ -448096,6 +451234,18 @@ window.GAME_DATA = [
             "author": "Björn Sothmann",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Gruga-0014.jpg/500px-Gruga-0014.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Pucciniastrum_epilobii_(16).jpeg",
+            "author": "bjoerns",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Pucciniastrum_epilobii_%2816%29.jpeg/500px-Pucciniastrum_epilobii_%2816%29.jpeg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Landschaftspark-0009.jpg",
+            "author": "Björn Sothmann",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Landschaftspark-0009.jpg/500px-Landschaftspark-0009.jpg"
           }
         ],
         "facts": [
@@ -448286,6 +451436,12 @@ window.GAME_DATA = [
             "author": "Bonnie Semmling",
             "license": "CC BY 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Cryphonectria_parasitica_260022484.jpg/500px-Cryphonectria_parasitica_260022484.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Cryphonectria_parasitica_tree_bark.jpg",
+            "author": "Pennsylvania Department of Conservation and Natural Resources - Forestry",
+            "license": "CC BY 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Cryphonectria_parasitica_tree_bark.jpg/500px-Cryphonectria_parasitica_tree_bark.jpg"
           }
         ],
         "facts": [
@@ -450954,6 +454110,12 @@ window.GAME_DATA = [
             "author": "Bauer Karl",
             "license": "CC BY 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Echter_Mehltau_der_Rebe.jpg/500px-Echter_Mehltau_der_Rebe.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Maladeye_farineuse_roejh%C3%A9ns.jpg",
+            "author": "Lucyin",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Maladeye_farineuse_roejh%C3%A9ns.jpg/500px-Maladeye_farineuse_roejh%C3%A9ns.jpg"
           }
         ],
         "facts": [
@@ -451795,6 +454957,12 @@ window.GAME_DATA = [
             "author": "This image was created by user thinker at Mushroom Observer , a source for mycol",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Helvella_costifera_246766.jpg/500px-Helvella_costifera_246766.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Helvella_costifera.jpg",
+            "author": "Claude PAGE",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Helvella_costifera.jpg/500px-Helvella_costifera.jpg"
           }
         ],
         "facts": [
@@ -454499,6 +457667,36 @@ window.GAME_DATA = [
             "author": "Katja Schulz from Washington, D. C., USA",
             "license": "CC BY 2.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Southern_Red_Oak_%2831143292975%29.jpg/500px-Southern_Red_Oak_%2831143292975%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Southern_Red_Oak_-_Flickr_-_treegrow_(1).jpg",
+            "author": "Katja Schulz from Washington, D. C., USA",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Southern_Red_Oak_-_Flickr_-_treegrow_%281%29.jpg/500px-Southern_Red_Oak_-_Flickr_-_treegrow_%281%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Southern_Red_Oak_(31143290635).jpg",
+            "author": "Katja Schulz from Washington, D. C., USA",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Southern_Red_Oak_%2831143290635%29.jpg/500px-Southern_Red_Oak_%2831143290635%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Quercus_falcata_(5)_Maise_Nationale_Plantentuin.jpg",
+            "author": "Homoarborea",
+            "license": "CC0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Quercus_falcata_%285%29_Maise_Nationale_Plantentuin.jpg/500px-Quercus_falcata_%285%29_Maise_Nationale_Plantentuin.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Quercus_falcata_(6)_Meise_Nationale_Plantentuin.jpg",
+            "author": "Homoarborea",
+            "license": "CC0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Quercus_falcata_%286%29_Meise_Nationale_Plantentuin.jpg/500px-Quercus_falcata_%286%29_Meise_Nationale_Plantentuin.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Quercus_falcata_(2)_Meise_Nationale_Plantentuin.jpg",
+            "author": "Homoarborea",
+            "license": "CC0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Quercus_falcata_%282%29_Meise_Nationale_Plantentuin.jpg/500px-Quercus_falcata_%282%29_Meise_Nationale_Plantentuin.jpg"
           }
         ],
         "facts": [
@@ -459262,6 +462460,18 @@ window.GAME_DATA = [
             "author": "Sangfroid",
             "license": "Public domain",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Trichosanthes_Cucumerina_aka_Snake_Gourd.jpeg/500px-Trichosanthes_Cucumerina_aka_Snake_Gourd.jpeg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Patole_ou_papangay_(_fleurs).jpg",
+            "author": "Claudia Rahary Soa",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Patole_ou_papangay_%28_fleurs%29.jpg/500px-Patole_ou_papangay_%28_fleurs%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Jungli_Padwal_(Marathi-_%E0%A4%9C%E0%A4%82%E0%A4%97%E0%A4%B2%E0%A5%80_%E0%A4%AA%E0%A4%A1%E0%A4%B5%E0%A4%B2)_(3936804422).jpg",
+            "author": "Dinesh Valke from Thane, India",
+            "license": "CC BY-SA 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Jungli_Padwal_%28Marathi-_%E0%A4%9C%E0%A4%82%E0%A4%97%E0%A4%B2%E0%A5%80_%E0%A4%AA%E0%A4%A1%E0%A4%B5%E0%A4%B2%29_%283936804422%29.jpg/500px-Jungli_Padwal_%28Marathi-_%E0%A4%9C%E0%A4%82%E0%A4%97%E0%A4%B2%E0%A5%80_%E0%A4%AA%E0%A4%A1%E0%A4%B5%E0%A4%B2%29_%283936804422%29.jpg"
           }
         ],
         "facts": [
@@ -459932,6 +463142,18 @@ window.GAME_DATA = [
             "author": "Forest and Kim Starr",
             "license": "CC BY 3.0 us",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Starr-140222-0335-Banisteriopsis_caapi-leaves-Haiku-Maui_%2825240510635%29.jpg/500px-Starr-140222-0335-Banisteriopsis_caapi-leaves-Haiku-Maui_%2825240510635%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Flor_de_ayahuasca_(Banisteriopsis_caapi).jpg",
+            "author": "Pisofrix",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Flor_de_ayahuasca_%28Banisteriopsis_caapi%29.jpg/500px-Flor_de_ayahuasca_%28Banisteriopsis_caapi%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:3209-Banisteriopsis_caapi-Teplice_BZ.jpg",
+            "author": "Vojtěch Zavadil",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/3209-Banisteriopsis_caapi-Teplice_BZ.jpg/500px-3209-Banisteriopsis_caapi-Teplice_BZ.jpg"
           }
         ],
         "facts": [
@@ -461219,6 +464441,24 @@ window.GAME_DATA = [
             "author": "KENPEI",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Quercus_dentata1.jpg/500px-Quercus_dentata1.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Daimyo_Oak_20161015_IMG_0629.jpg",
+            "author": "あおもりくま,Aomorikuma",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Daimyo_Oak_20161015_IMG_0629.jpg/500px-Daimyo_Oak_20161015_IMG_0629.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Quercus_dentata_(44354176202).jpg",
+            "author": "LiCheng Shih",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Quercus_dentata_%2844354176202%29.jpg/500px-Quercus_dentata_%2844354176202%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Quercus_dentata_-_Dawes_Arboretum_-_DSC02842.JPG",
+            "author": "Daderot",
+            "license": "CC0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Quercus_dentata_-_Dawes_Arboretum_-_DSC02842.JPG/500px-Quercus_dentata_-_Dawes_Arboretum_-_DSC02842.JPG"
           }
         ],
         "facts": [
@@ -464019,6 +467259,24 @@ window.GAME_DATA = [
             "author": "Димитър Найденов / Dimìtar Nàydenov",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/%D0%A7%D0%B5%D1%80%D0%BD%D0%B0_%D1%82%D0%BE%D0%BF%D0%BE%D0%BB%D0%B0.jpg/500px-%D0%A7%D0%B5%D1%80%D0%BD%D0%B0_%D1%82%D0%BE%D0%BF%D0%BE%D0%BB%D0%B0.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:PopulusNigra2a.jpg",
+            "author": "Christian Fischer",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/PopulusNigra2a.jpg/500px-PopulusNigra2a.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Topol_Ohrazenice,_south.jpg",
+            "author": "wikipedista Utar z české Wikipedie",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Topol_Ohrazenice%2C_south.jpg/500px-Topol_Ohrazenice%2C_south.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Hrbkuv_topol-IV-10-2020-velka_lecice.jpg",
+            "author": "The photonaut",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Hrbkuv_topol-IV-10-2020-velka_lecice.jpg/500px-Hrbkuv_topol-IV-10-2020-velka_lecice.jpg"
           }
         ],
         "facts": [
@@ -464424,6 +467682,18 @@ window.GAME_DATA = [
             "author": "Sten Porse",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Ulmus-minor-foliage-mosaic.JPG/500px-Ulmus-minor-foliage-mosaic.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:AZ0118._Ulmus_minor._Ravelston_Park,_Edinburgh_(02).jpg",
+            "author": "Tom elm",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/AZ0118._Ulmus_minor._Ravelston_Park%2C_Edinburgh_%2802%29.jpg/500px-AZ0118._Ulmus_minor._Ravelston_Park%2C_Edinburgh_%2802%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:2012_The_Elm_Tree_from_C%C4%83peni_(K%C3%B6pec)_RO.jpg",
+            "author": "Romanian Environmental Partnership Foundation",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/2012_The_Elm_Tree_from_C%C4%83peni_%28K%C3%B6pec%29_RO.jpg/500px-2012_The_Elm_Tree_from_C%C4%83peni_%28K%C3%B6pec%29_RO.jpg"
           }
         ],
         "facts": [
@@ -465941,6 +469211,24 @@ window.GAME_DATA = [
             "author": "AnRo0002",
             "license": "CC0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/20140124Corylus_colurna4.jpg/500px-20140124Corylus_colurna4.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Corylus_colurna_RBG1.jpg",
+            "author": "Mykola Swarnyk",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Corylus_colurna_RBG1.jpg/500px-Corylus_colurna_RBG1.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Corylus_colurna_L._03.jpg",
+            "author": "Lalakmus",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Corylus_colurna_L._03.jpg/500px-Corylus_colurna_L._03.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:A%C4%9Fa%C3%A7_f%C4%B1nd%C4%B1%C4%9F%C4%B1-2.JPG",
+            "author": "Karduelis",
+            "license": "Public domain",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/A%C4%9Fa%C3%A7_f%C4%B1nd%C4%B1%C4%9F%C4%B1-2.JPG/500px-A%C4%9Fa%C3%A7_f%C4%B1nd%C4%B1%C4%9F%C4%B1-2.JPG"
           }
         ],
         "facts": [
@@ -465996,6 +469284,12 @@ window.GAME_DATA = [
             "author": "User:BotBln",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Ostrya_virginiana_BotGardBln07122011E.JPG/500px-Ostrya_virginiana_BotGardBln07122011E.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Fleurs_de_l%27ostryer_de_Virginie_(Ostrya_virginiana).jpg",
+            "author": "Maxime Laterreur",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Fleurs_de_l%27ostryer_de_Virginie_%28Ostrya_virginiana%29.jpg/500px-Fleurs_de_l%27ostryer_de_Virginie_%28Ostrya_virginiana%29.jpg"
           }
         ],
         "facts": [
@@ -468413,6 +471707,42 @@ window.GAME_DATA = [
             "author": "brewbooks from near Seattle, USA",
             "license": "CC BY-SA 2.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Luetkea_pectinata_%28partridgefoot%29_%287992401214%29.jpg/500px-Luetkea_pectinata_%28partridgefoot%29_%287992401214%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Luetkea_pectinata_18407.JPG",
+            "author": "Walter Siegmund (talk)",
+            "license": "CC BY 2.5",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Luetkea_pectinata_18407.JPG/500px-Luetkea_pectinata_18407.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Luetkea_pectinata_0187.JPG",
+            "author": "Walter Siegmund (talk)",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Luetkea_pectinata_0187.JPG/500px-Luetkea_pectinata_0187.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Luetkea_pectinata_-_Flickr_-_aspidoscelis_(3).jpg",
+            "author": "Patrick Alexander from Las Cruces, NM",
+            "license": "CC0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Luetkea_pectinata_-_Flickr_-_aspidoscelis_%283%29.jpg/500px-Luetkea_pectinata_-_Flickr_-_aspidoscelis_%283%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Luetkea_pectinata_0181.JPG",
+            "author": "Walter Siegmund (talk)",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Luetkea_pectinata_0181.JPG/500px-Luetkea_pectinata_0181.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Partridge-foot_-_Flickr_-_brewbooks.jpg",
+            "author": "brewbooks from near Seattle, USA",
+            "license": "CC BY-SA 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Partridge-foot_-_Flickr_-_brewbooks.jpg/500px-Partridge-foot_-_Flickr_-_brewbooks.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Luetkea_pectinata_18408.JPG",
+            "author": "Walter Siegmund (talk)",
+            "license": "CC BY 2.5",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Luetkea_pectinata_18408.JPG/500px-Luetkea_pectinata_18408.JPG"
           }
         ],
         "facts": [
@@ -471554,6 +474884,18 @@ window.GAME_DATA = [
             "author": "Guillaume Baviere from Copenhagen, Denmark",
             "license": "CC BY-SA 2.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Zealand_2015-08-09_%2821390277156%29.jpg/500px-Zealand_2015-08-09_%2821390277156%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Acer_pseudoplatanus_(8).JPG",
+            "author": "Marija Gajić",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Acer_pseudoplatanus_%288%29.JPG/500px-Acer_pseudoplatanus_%288%29.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Denmark_2017-05-28_(35442462920).jpg",
+            "author": "Guillaume Baviere from Uppsala, Sweden",
+            "license": "CC BY-SA 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Denmark_2017-05-28_%2835442462920%29.jpg/500px-Denmark_2017-05-28_%2835442462920%29.jpg"
           }
         ],
         "facts": [
@@ -471921,6 +475263,18 @@ window.GAME_DATA = [
             "author": "Димитър Найденов / Dimìtar Nàydenov",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/%D0%A6%D0%B5%D1%80_-_%D0%B6%D0%B5%D0%BD%D1%81%D0%BA%D0%B8_%D1%86%D0%B2%D0%B5%D1%82%D0%BE%D0%B2%D0%B5.jpg/500px-%D0%A6%D0%B5%D1%80_-_%D0%B6%D0%B5%D0%BD%D1%81%D0%BA%D0%B8_%D1%86%D0%B2%D0%B5%D1%82%D0%BE%D0%B2%D0%B5.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Quercus_cerris_IMG_5583.jpg",
+            "author": "Sdjurovic",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Quercus_cerris_IMG_5583.jpg/500px-Quercus_cerris_IMG_5583.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Quercus_cerris_bark_BG_1.jpg",
+            "author": "Димитър Найденов / Dimìtar Nàydenov",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Quercus_cerris_bark_BG_1.jpg/500px-Quercus_cerris_bark_BG_1.jpg"
           }
         ],
         "facts": [
@@ -472195,6 +475549,24 @@ window.GAME_DATA = [
             "author": "B.navez",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Morus_alba_fruits.jpg/500px-Morus_alba_fruits.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Gorskii_20118u.jpg",
+            "author": "Sergej Michajlovič Prokudin-Gorskij",
+            "license": "Public domain",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Gorskii_20118u.jpg/500px-Gorskii_20118u.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Morus_alba_3.jpg",
+            "author": "Penarc",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Morus_alba_3.jpg/500px-Morus_alba_3.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Morus_Alba_3_2012-07-28.jpg",
+            "author": "F ASTILY",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Morus_Alba_3_2012-07-28.jpg/500px-Morus_Alba_3_2012-07-28.jpg"
           }
         ],
         "facts": [
@@ -475285,6 +478657,24 @@ window.GAME_DATA = [
             "author": "あおもりくま,(Aomorikuma)",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Parthenocissus_tricuspidata_IMG_4671.jpg/500px-Parthenocissus_tricuspidata_IMG_4671.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Parthenocissus_tricuspidata-IMG_20170405_161053.jpg",
+            "author": "Sun Jiao (Interaccoonale)",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Parthenocissus_tricuspidata-IMG_20170405_161053.jpg/500px-Parthenocissus_tricuspidata-IMG_20170405_161053.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Fall_leaves_(5994722735).jpg",
+            "author": "Jinterwas",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Fall_leaves_%285994722735%29.jpg/500px-Fall_leaves_%285994722735%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Parthenocissus_-_Vigne_vierge.jpg",
+            "author": "Axdae",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Parthenocissus_-_Vigne_vierge.jpg/500px-Parthenocissus_-_Vigne_vierge.jpg"
           }
         ],
         "facts": [
@@ -476484,6 +479874,30 @@ window.GAME_DATA = [
             "author": "TeunSpaans na projektu Wikipedie v jazyce nizozemština",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/TrifoliumDubium-bloem-hr.jpg/500px-TrifoliumDubium-bloem-hr.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Trifolium_dubium_sl31.jpg",
+            "author": "Stefan.lefnaer",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Trifolium_dubium_sl31.jpg/500px-Trifolium_dubium_sl31.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:20130617Trifolium_dubium2.jpg",
+            "author": "AnRo0002",
+            "license": "CC0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/20130617Trifolium_dubium2.jpg/500px-20130617Trifolium_dubium2.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Trifolium_dubium_RF.jpg",
+            "author": "Robert Flogaus-Faust",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Trifolium_dubium_RF.jpg/500px-Trifolium_dubium_RF.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Trifolium_dubium_2_RF.jpg",
+            "author": "Robert Flogaus-Faust",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Trifolium_dubium_2_RF.jpg/500px-Trifolium_dubium_2_RF.jpg"
           }
         ],
         "facts": [
@@ -478933,6 +482347,18 @@ window.GAME_DATA = [
             "author": "Димитър Найденов / Dimìtar Nàydenov",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/%D0%A1%D0%BA%D0%B0%D0%BB%D0%B5%D0%BD_%D0%B4%D1%8A%D0%B1_5.jpg/500px-%D0%A1%D0%BA%D0%B0%D0%BB%D0%B5%D0%BD_%D0%B4%D1%8A%D0%B1_5.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:%D0%A1%D0%BA%D0%B0%D0%BB%D0%B5%D0%BD_%D0%B4%D1%8A%D0%B1,_%D0%A1%D0%B0%D0%BA%D0%B0%D1%80_5.jpg",
+            "author": "Димитър Найденов / Dimìtar Nàydenov",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/%D0%A1%D0%BA%D0%B0%D0%BB%D0%B5%D0%BD_%D0%B4%D1%8A%D0%B1%2C_%D0%A1%D0%B0%D0%BA%D0%B0%D1%80_5.jpg/500px-%D0%A1%D0%BA%D0%B0%D0%BB%D0%B5%D0%BD_%D0%B4%D1%8A%D0%B1%2C_%D0%A1%D0%B0%D0%BA%D0%B0%D1%80_5.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Pfaueninsel-Trauben-Eiche-quer-2025-07.jpg",
+            "author": "HubertSt",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Pfaueninsel-Trauben-Eiche-quer-2025-07.jpg/500px-Pfaueninsel-Trauben-Eiche-quer-2025-07.jpg"
           }
         ],
         "facts": [
@@ -479150,6 +482576,18 @@ window.GAME_DATA = [
             "author": "Stefan.lefnaer",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Arabidopsis_thaliana_sl1.jpg/500px-Arabidopsis_thaliana_sl1.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Arabidopsis_thaliana_sl9.jpg",
+            "author": "Stefan.lefnaer",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Arabidopsis_thaliana_sl9.jpg/500px-Arabidopsis_thaliana_sl9.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Arabidopsis_thaliana_2019-04-15_9815.jpg",
+            "author": "Salicyna",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Arabidopsis_thaliana_2019-04-15_9815.jpg/500px-Arabidopsis_thaliana_2019-04-15_9815.jpg"
           }
         ],
         "facts": [
@@ -486787,6 +490225,30 @@ window.GAME_DATA = [
             "author": "Me",
             "license": "Public domain",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Bolletjesraket_19-05-2006_12.28.38.JPG/500px-Bolletjesraket_19-05-2006_12.28.38.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Rapistrum_rugosum_subsp._rugosum_sl3.jpg",
+            "author": "Stefan.lefnaer",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Rapistrum_rugosum_subsp._rugosum_sl3.jpg/500px-Rapistrum_rugosum_subsp._rugosum_sl3.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Rapistrum_rugosum_plant2_(14945435105).jpg",
+            "author": "Harry Rose from South West Rocks, Australia",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Rapistrum_rugosum_plant2_%2814945435105%29.jpg/500px-Rapistrum_rugosum_plant2_%2814945435105%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Rapistrum_rugosum_subsp._rugosum_sl2.jpg",
+            "author": "Stefan.lefnaer",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Rapistrum_rugosum_subsp._rugosum_sl2.jpg/500px-Rapistrum_rugosum_subsp._rugosum_sl2.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Rapistrum_rugosum_plant8_(14944918132).jpg",
+            "author": "Harry Rose from South West Rocks, Australia",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Rapistrum_rugosum_plant8_%2814944918132%29.jpg/500px-Rapistrum_rugosum_plant8_%2814944918132%29.jpg"
           }
         ],
         "facts": [
@@ -487280,6 +490742,18 @@ window.GAME_DATA = [
             "author": "Петроченко Віктор Іванович",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Prunus_tenella_21%2801%29._Verkhnya_Khortytsia.jpg/500px-Prunus_tenella_21%2801%29._Verkhnya_Khortytsia.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Prunus_tenella_08(01-2)._Khortytsia.jpg",
+            "author": "Петроченко Віктор Іванович",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Prunus_tenella_08%2801-2%29._Khortytsia.jpg/500px-Prunus_tenella_08%2801-2%29._Khortytsia.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:%D0%9C%D0%B8%D0%B3%D0%B4%D0%B0%D0%BB%D1%8C_%D1%81%D1%82%D0%B5%D0%BF%D0%BE%D0%B2%D0%B8%D0%B9._%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D1%81%D0%B0.jpg",
+            "author": "Петроченко Віктор Іванович",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/%D0%9C%D0%B8%D0%B3%D0%B4%D0%B0%D0%BB%D1%8C_%D1%81%D1%82%D0%B5%D0%BF%D0%BE%D0%B2%D0%B8%D0%B9._%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D1%81%D0%B0.jpg/500px-%D0%9C%D0%B8%D0%B3%D0%B4%D0%B0%D0%BB%D1%8C_%D1%81%D1%82%D0%B5%D0%BF%D0%BE%D0%B2%D0%B8%D0%B9._%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D1%81%D0%B0.jpg"
           }
         ],
         "facts": [
@@ -489031,6 +492505,12 @@ window.GAME_DATA = [
             "author": "Alvesgaspar ( talk )",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Ficus_November_2008-1.jpg/500px-Ficus_November_2008-1.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Ficus_elastica_280260150.jpg",
+            "author": "Felix E. Klee",
+            "license": "CC0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Ficus_elastica_280260150.jpg/500px-Ficus_elastica_280260150.jpg"
           }
         ],
         "facts": [
@@ -490944,6 +494424,30 @@ window.GAME_DATA = [
             "author": "Gmihail na projektu Wikipedie v jazyce srbština",
             "license": "CC BY-SA 3.0 rs",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Acer_monspessulanum_%283%29.jpg/500px-Acer_monspessulanum_%283%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Acer_monspessulanum_kz11.jpg",
+            "author": "Krzysztof Ziarnek, Kenraiz",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Acer_monspessulanum_kz11.jpg/500px-Acer_monspessulanum_kz11.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Acer_monspessulanum_kz01.jpg",
+            "author": "Krzysztof Ziarnek, Kenraiz",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Acer_monspessulanum_kz01.jpg/500px-Acer_monspessulanum_kz01.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Acer_monspessulanum_kz10.jpg",
+            "author": "Krzysztof Ziarnek, Kenraiz",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Acer_monspessulanum_kz10.jpg/500px-Acer_monspessulanum_kz10.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Acer_monspessulanum_in_botanical_garden_of_UKW_Bydgoszcz_(5).jpg",
+            "author": "Tournasol7",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Acer_monspessulanum_in_botanical_garden_of_UKW_Bydgoszcz_%285%29.jpg/500px-Acer_monspessulanum_in_botanical_garden_of_UKW_Bydgoszcz_%285%29.jpg"
           }
         ],
         "facts": [
@@ -497167,6 +500671,30 @@ window.GAME_DATA = [
             "author": "Tournasol7",
             "license": "CC BY 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Diplotaxis_tenuifolia_in_Cardona_%284%29.jpg/500px-Diplotaxis_tenuifolia_in_Cardona_%284%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:%D7%98%D7%95%D7%A8%D7%99%D7%99%D7%9D_%D7%A6%D7%A8%D7%99-%D7%A2%D7%9C%D7%99%D7%9D_%D7%AA%D7%A7%D7%A8%D7%99%D7%91_%D7%A4%D7%A8%D7%97.jpg",
+            "author": "Ariesaada",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/%D7%98%D7%95%D7%A8%D7%99%D7%99%D7%9D_%D7%A6%D7%A8%D7%99-%D7%A2%D7%9C%D7%99%D7%9D_%D7%AA%D7%A7%D7%A8%D7%99%D7%91_%D7%A4%D7%A8%D7%97.jpg/500px-%D7%98%D7%95%D7%A8%D7%99%D7%99%D7%9D_%D7%A6%D7%A8%D7%99-%D7%A2%D7%9C%D7%99%D7%9D_%D7%AA%D7%A7%D7%A8%D7%99%D7%91_%D7%A4%D7%A8%D7%97.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Diplotaxis_tenuifolia_kz06.jpg",
+            "author": "Krzysztof Ziarnek, Kenraiz",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Diplotaxis_tenuifolia_kz06.jpg/500px-Diplotaxis_tenuifolia_kz06.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Diplotaxis_tenuifolia_sl9.jpg",
+            "author": "Stefan.lefnaer",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Diplotaxis_tenuifolia_sl9.jpg/500px-Diplotaxis_tenuifolia_sl9.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:20140920Diplotaxis_tenuifolia.jpg",
+            "author": "AnRo0002",
+            "license": "CC0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/20140920Diplotaxis_tenuifolia.jpg/500px-20140920Diplotaxis_tenuifolia.jpg"
           }
         ],
         "facts": [
@@ -497560,6 +501088,12 @@ window.GAME_DATA = [
             "author": "Dan Keck from Ohio",
             "license": "CC0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/American_Linden_or_Basswood_%2834058252623%29.jpg/500px-American_Linden_or_Basswood_%2834058252623%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Basswood_(Tilia_americana)_-_Flickr_-_wackybadger_(1).jpg",
+            "author": "Joshua Mayer from Madison, WI, USA",
+            "license": "CC BY-SA 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Basswood_%28Tilia_americana%29_-_Flickr_-_wackybadger_%281%29.jpg/500px-Basswood_%28Tilia_americana%29_-_Flickr_-_wackybadger_%281%29.jpg"
           }
         ],
         "facts": [
@@ -497691,6 +501225,24 @@ window.GAME_DATA = [
             "author": "Michael H. Lemmer",
             "license": "CC BY-SA 2.5",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Erophila-verna140406-800-a.jpg/500px-Erophila-verna140406-800-a.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Draba_verna_Wiosn%C3%B3wka_pospolita_2023-04-15_So%C5%82tysowice_01.jpg",
+            "author": "Agnieszka Kwiecień, Nova",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Draba_verna_Wiosn%C3%B3wka_pospolita_2023-04-15_So%C5%82tysowice_01.jpg/500px-Draba_verna_Wiosn%C3%B3wka_pospolita_2023-04-15_So%C5%82tysowice_01.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Draba_verna_Wiosn%C3%B3wka_pospolita_2023-04-15_So%C5%82tysowice_02.jpg",
+            "author": "Agnieszka Kwiecień, Nova",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Draba_verna_Wiosn%C3%B3wka_pospolita_2023-04-15_So%C5%82tysowice_02.jpg/500px-Draba_verna_Wiosn%C3%B3wka_pospolita_2023-04-15_So%C5%82tysowice_02.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Draba_verna_2019-03-30_8474.jpg",
+            "author": "Salicyna",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Draba_verna_2019-03-30_8474.jpg/500px-Draba_verna_2019-03-30_8474.jpg"
           }
         ],
         "facts": [
@@ -497996,6 +501548,12 @@ window.GAME_DATA = [
             "author": "Jim Morefield from Nevada, USA",
             "license": "CC BY-SA 2.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Tumblemustard%2C_Sisymbrium_altissimum_%2816151628240%29.jpg/500px-Tumblemustard%2C_Sisymbrium_altissimum_%2816151628240%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Sisymbrium_altissimum_1.jpg",
+            "author": "Thayne Tuason",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Sisymbrium_altissimum_1.jpg/500px-Sisymbrium_altissimum_1.jpg"
           }
         ],
         "facts": [
@@ -500293,6 +503851,18 @@ window.GAME_DATA = [
             "author": "Jamesuc2010",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Hoja_toromiro.jpg/500px-Hoja_toromiro.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Sophora_toromiro_2c.JPG",
+            "author": "Consultaplantas",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Sophora_toromiro_2c.JPG/500px-Sophora_toromiro_2c.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Sophora_toromiro_(4976907867).jpg",
+            "author": "David Eickhoff from Pearl City, Hawaii, USA",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Sophora_toromiro_%284976907867%29.jpg/500px-Sophora_toromiro_%284976907867%29.jpg"
           }
         ],
         "facts": [
@@ -501737,6 +505307,12 @@ window.GAME_DATA = [
             "author": "Douglas Goldman",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/QuercusMontana7.jpg/500px-QuercusMontana7.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Chestnut_Oak_in_Weiser_State_Forest.JPG",
+            "author": "Jakec",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Chestnut_Oak_in_Weiser_State_Forest.JPG/500px-Chestnut_Oak_in_Weiser_State_Forest.JPG"
           }
         ],
         "facts": [
@@ -501935,6 +505511,30 @@ window.GAME_DATA = [
             "author": "Leo Michels",
             "license": "CC0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Polygala_chamaebuxus_IP0805024.jpg/500px-Polygala_chamaebuxus_IP0805024.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Polygala_chamaebuxus_Santa_Colomba_02.jpg",
+            "author": "Syrio",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Polygala_chamaebuxus_Santa_Colomba_02.jpg/500px-Polygala_chamaebuxus_Santa_Colomba_02.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Polygala_chamaebuxus.jpg",
+            "author": "Franz Xaver",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Polygala_chamaebuxus.jpg/500px-Polygala_chamaebuxus.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Polygala_chamaebuxus1.JPG",
+            "author": "Petr Filippov",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Polygala_chamaebuxus1.JPG/500px-Polygala_chamaebuxus1.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Polygala_chamaebuxus-5036_-_Flickr_-_Ragnhild_%26_Neil_Crawford.jpg",
+            "author": "Ragnhild&Neil Crawford from Sweden",
+            "license": "CC BY-SA 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Polygala_chamaebuxus-5036_-_Flickr_-_Ragnhild_%26_Neil_Crawford.jpg/500px-Polygala_chamaebuxus-5036_-_Flickr_-_Ragnhild_%26_Neil_Crawford.jpg"
           }
         ],
         "facts": [
@@ -503011,6 +506611,18 @@ window.GAME_DATA = [
             "author": "Thamizhpparithi Maari",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/A_closeup_of_Lawsonia_inermis.JPG/500px-A_closeup_of_Lawsonia_inermis.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Lawsonia_inermis_flower.jpg",
+            "author": "Tu7uh",
+            "license": "CC BY 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Lawsonia_inermis_flower.jpg/500px-Lawsonia_inermis_flower.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Henna_seeds.jpg",
+            "author": "Elavarasi.v",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Henna_seeds.jpg/500px-Henna_seeds.jpg"
           }
         ],
         "facts": [
@@ -503721,6 +507333,12 @@ window.GAME_DATA = [
             "author": "WAqil (WMYS)",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Pokok_Tarap_%28Artocarpus_odoratissimus_tree%29_%284%29.jpg/500px-Pokok_Tarap_%28Artocarpus_odoratissimus_tree%29_%284%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Pokok_Tarap_(Artocarpus_odoratissimus_tree)_(5).jpg",
+            "author": "WAqil (WMYS)",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Pokok_Tarap_%28Artocarpus_odoratissimus_tree%29_%285%29.jpg/500px-Pokok_Tarap_%28Artocarpus_odoratissimus_tree%29_%285%29.jpg"
           }
         ],
         "facts": [
@@ -506048,6 +509666,18 @@ window.GAME_DATA = [
             "author": "Bruce Marlin",
             "license": "CC BY-SA 2.5",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Acer_saccharum.jpg/500px-Acer_saccharum.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Acer_saccharum_ssp._saccharum_(1)_bloei_Meise_Nat._Plantentuin.jpg",
+            "author": "Homoarborea",
+            "license": "CC0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Acer_saccharum_ssp._saccharum_%281%29_bloei_Meise_Nat._Plantentuin.jpg/500px-Acer_saccharum_ssp._saccharum_%281%29_bloei_Meise_Nat._Plantentuin.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Acer_saccharum_15-p.bot-a.saccharum-068.jpg",
+            "author": "Ayotte, Gilles, 1948-",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Acer_saccharum_15-p.bot-a.saccharum-068.jpg/500px-Acer_saccharum_15-p.bot-a.saccharum-068.jpg"
           }
         ],
         "facts": [
@@ -506165,6 +509795,24 @@ window.GAME_DATA = [
             "author": "Lucarelli",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Quercus_ilex%2C_Livorno.JPG/500px-Quercus_ilex%2C_Livorno.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Carrasca_al_despoblat_morisc_de_l%27Atzuvieta.JPG",
+            "author": "Joanbanjo",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Carrasca_al_despoblat_morisc_de_l%27Atzuvieta.JPG/500px-Carrasca_al_despoblat_morisc_de_l%27Atzuvieta.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Encina_octocentenaria_04.jpg",
+            "author": "Centenoyespelta",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Encina_octocentenaria_04.jpg/500px-Encina_octocentenaria_04.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Encina_octocentenaria_03.jpg",
+            "author": "Centenoyespelta",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Encina_octocentenaria_03.jpg/500px-Encina_octocentenaria_03.jpg"
           }
         ],
         "facts": [
@@ -508119,6 +511767,24 @@ window.GAME_DATA = [
             "author": "Stefan.lefnaer",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Pisum_sativum_var._sativum_sl16.jpg/500px-Pisum_sativum_var._sativum_sl16.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:03062009-Pois_de_printemps_jaune_(OVATION)_Cl_J_Weber03_(23457073923).jpg",
+            "author": "INRA DIST from France",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/03062009-Pois_de_printemps_jaune_%28OVATION%29_Cl_J_Weber03_%2823457073923%29.jpg/500px-03062009-Pois_de_printemps_jaune_%28OVATION%29_Cl_J_Weber03_%2823457073923%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:03092003-fleurdepoisDOVE_(24057766996).jpg",
+            "author": "INRA DIST from France",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/03092003-fleurdepoisDOVE_%2824057766996%29.jpg/500px-03092003-fleurdepoisDOVE_%2824057766996%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Pisum_sativum_var._sativum_sl14.jpg",
+            "author": "Stefan.lefnaer",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Pisum_sativum_var._sativum_sl14.jpg/500px-Pisum_sativum_var._sativum_sl14.jpg"
           }
         ],
         "facts": [
@@ -510431,6 +514097,36 @@ window.GAME_DATA = [
             "author": "Felagund",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Tipuana_tipu_fruit_and_foliage.JPG/500px-Tipuana_tipu_fruit_and_foliage.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:T.tipu-fl-2.jpg",
+            "author": "Philmarin",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/T.tipu-fl-2.jpg/500px-T.tipu-fl-2.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Tipuana_tipu_kedumim_3.JPG",
+            "author": "Daniel Ventura",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Tipuana_tipu_kedumim_3.JPG/500px-Tipuana_tipu_kedumim_3.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:%E5%A4%A7%E7%8F%AD%E6%9C%A8_Tipuana_tipu_-%E9%A6%99%E6%B8%AF%E8%BF%AA%E6%AC%A3%E6%B9%96_Inspiration_Lake,_Hong_Kong-_(9216084112).jpg",
+            "author": "阿橋 HQ",
+            "license": "CC BY-SA 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/%E5%A4%A7%E7%8F%AD%E6%9C%A8_Tipuana_tipu_-%E9%A6%99%E6%B8%AF%E8%BF%AA%E6%AC%A3%E6%B9%96_Inspiration_Lake%2C_Hong_Kong-_%289216084112%29.jpg/500px-%E5%A4%A7%E7%8F%AD%E6%9C%A8_Tipuana_tipu_-%E9%A6%99%E6%B8%AF%E8%BF%AA%E6%AC%A3%E6%B9%96_Inspiration_Lake%2C_Hong_Kong-_%289216084112%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Tipuana_tipu_Flowerts_2.jpg",
+            "author": "Jan Smith from Brisbane, Australia",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Tipuana_tipu_Flowerts_2.jpg/500px-Tipuana_tipu_Flowerts_2.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Tipuana_tipu_Giza_Zoo_by_Hatem_Moushir_3.JPG",
+            "author": "Hatem Moushir",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Tipuana_tipu_Giza_Zoo_by_Hatem_Moushir_3.JPG/500px-Tipuana_tipu_Giza_Zoo_by_Hatem_Moushir_3.JPG"
           }
         ],
         "facts": [
@@ -513942,6 +517638,30 @@ window.GAME_DATA = [
             "author": "Estrella230",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Pied_d%27oseille.jpg/500px-Pied_d%27oseille.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Hibiscus_sabdariffa_L._%C2%BF_var._ruber_A._Howard_%26_G._Howard_%3F_(50527773242).jpg",
+            "author": "Dinesh Valke from Thane, India",
+            "license": "CC BY-SA 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Hibiscus_sabdariffa_L._%C2%BF_var._ruber_A._Howard_%26_G._Howard_%3F_%2850527773242%29.jpg/500px-Hibiscus_sabdariffa_L._%C2%BF_var._ruber_A._Howard_%26_G._Howard_%3F_%2850527773242%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Hibicus_sabdariffa-xavier_cottage-yercaud-salem-India.JPG",
+            "author": "Yercaud-elango",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Hibicus_sabdariffa-xavier_cottage-yercaud-salem-India.JPG/500px-Hibicus_sabdariffa-xavier_cottage-yercaud-salem-India.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Rosella_-_panoramio.jpg",
+            "author": "Rodney Damián",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Rosella_-_panoramio.jpg/500px-Rosella_-_panoramio.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Hibiscus_sabdariffa_fruits.jpg",
+            "author": "Vijayanrajapuram",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Hibiscus_sabdariffa_fruits.jpg/500px-Hibiscus_sabdariffa_fruits.jpg"
           }
         ],
         "facts": [
@@ -514031,6 +517751,24 @@ window.GAME_DATA = [
             "author": "Walter Siegmund (talk)",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Chorispora_tenella_4225.JPG/500px-Chorispora_tenella_4225.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Chorispora_tenella_2.jpg",
+            "author": "Stan Shebs",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Chorispora_tenella_2.jpg/500px-Chorispora_tenella_2.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Chorispora_tenella_along_Apple_Capital_Loop_Trail.jpg",
+            "author": "Thayne Tuason",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Chorispora_tenella_along_Apple_Capital_Loop_Trail.jpg/500px-Chorispora_tenella_along_Apple_Capital_Loop_Trail.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Chorispora_tenella_5.jpg",
+            "author": "Stan Shebs",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Chorispora_tenella_5.jpg/500px-Chorispora_tenella_5.jpg"
           }
         ],
         "facts": [
@@ -514090,6 +517828,18 @@ window.GAME_DATA = [
             "author": "Krzysztof Ziarnek, Kenraiz",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Carya_illinoinensis_kz3.jpg/500px-Carya_illinoinensis_kz3.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Starr_070112-3420_Carya_pecan.jpg",
+            "author": "Forest & Kim Starr",
+            "license": "CC BY 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Starr_070112-3420_Carya_pecan.jpg/500px-Starr_070112-3420_Carya_pecan.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Starr-110601-6048-Carya_illinoinensis-trunk_and_bark-Keokea-Maui_(25096614565).jpg",
+            "author": "Forest and Kim Starr",
+            "license": "CC BY 3.0 us",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Starr-110601-6048-Carya_illinoinensis-trunk_and_bark-Keokea-Maui_%2825096614565%29.jpg/500px-Starr-110601-6048-Carya_illinoinensis-trunk_and_bark-Keokea-Maui_%2825096614565%29.jpg"
           }
         ],
         "facts": [
@@ -517543,6 +521293,12 @@ window.GAME_DATA = [
             "author": "homeredwardprice",
             "license": "CC BY 2.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Quercus_nigra_Water_Oak_catkins.jpg/500px-Quercus_nigra_Water_Oak_catkins.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Water_Oak_-_Flickr_-_ETXshutter.jpg",
+            "author": "Andy Wells from Republic of Texas",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Water_Oak_-_Flickr_-_ETXshutter.jpg/500px-Water_Oak_-_Flickr_-_ETXshutter.jpg"
           }
         ],
         "facts": [
@@ -519482,6 +523238,30 @@ window.GAME_DATA = [
             "author": "Photo by David J. Stang",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Spirea_x_bumalda_Goldmound_1zz.jpg/500px-Spirea_x_bumalda_Goldmound_1zz.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Ruhland,_Ortrander_Str._5,_Rote_Sommerspiere,_Bl%C3%BCten_am_Zweig,_Fr%C3%BChsommer,_01.jpg",
+            "author": "Wilhelm Zimmerling PAR",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Ruhland%2C_Ortrander_Str._5%2C_Rote_Sommerspiere%2C_Bl%C3%BCten_am_Zweig%2C_Fr%C3%BChsommer%2C_01.jpg/500px-Ruhland%2C_Ortrander_Str._5%2C_Rote_Sommerspiere%2C_Bl%C3%BCten_am_Zweig%2C_Fr%C3%BChsommer%2C_01.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Ruhland,_Ortrander_Str._5,_Rote_Sommerspiere,_Bl%C3%BCten,_Fr%C3%BChsommer,_02.jpg",
+            "author": "Wilhelm Zimmerling PAR",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Ruhland%2C_Ortrander_Str._5%2C_Rote_Sommerspiere%2C_Bl%C3%BCten%2C_Fr%C3%BChsommer%2C_02.jpg/500px-Ruhland%2C_Ortrander_Str._5%2C_Rote_Sommerspiere%2C_Bl%C3%BCten%2C_Fr%C3%BChsommer%2C_02.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Ruhland,_Ortrander_Str._5,_Rote_Sommerspiere,_Bl%C3%BCten,_Fr%C3%BChsommer,_03.jpg",
+            "author": "Wilhelm Zimmerling PAR",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Ruhland%2C_Ortrander_Str._5%2C_Rote_Sommerspiere%2C_Bl%C3%BCten%2C_Fr%C3%BChsommer%2C_03.jpg/500px-Ruhland%2C_Ortrander_Str._5%2C_Rote_Sommerspiere%2C_Bl%C3%BCten%2C_Fr%C3%BChsommer%2C_03.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Ruhland,_Ortrander_Str._5,_Rote_Sommerspiere,_Bl%C3%BCten,_Fr%C3%BChsommer,_01.jpg",
+            "author": "Wilhelm Zimmerling PAR",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Ruhland%2C_Ortrander_Str._5%2C_Rote_Sommerspiere%2C_Bl%C3%BCten%2C_Fr%C3%BChsommer%2C_01.jpg/500px-Ruhland%2C_Ortrander_Str._5%2C_Rote_Sommerspiere%2C_Bl%C3%BCten%2C_Fr%C3%BChsommer%2C_01.jpg"
           }
         ],
         "facts": [
@@ -522268,6 +526048,18 @@ window.GAME_DATA = [
             "author": "LiCheng Shih",
             "license": "CC BY 2.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Entada_rheedei_%2837114079106%29.jpg/500px-Entada_rheedei_%2837114079106%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Garabi_(Marathi-_%E0%A4%97%E0%A4%BE%E0%A4%B0%E0%A4%AC%E0%A5%80)_(5553668960).jpg",
+            "author": "Dinesh Valke from Thane, India",
+            "license": "CC BY-SA 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Garabi_%28Marathi-_%E0%A4%97%E0%A4%BE%E0%A4%B0%E0%A4%AC%E0%A5%80%29_%285553668960%29.jpg/500px-Garabi_%28Marathi-_%E0%A4%97%E0%A4%BE%E0%A4%B0%E0%A4%AC%E0%A5%80%29_%285553668960%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Nicker_Bean_(8365346960).jpg",
+            "author": "Dinesh Valke from Thane, India",
+            "license": "CC BY-SA 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Nicker_Bean_%288365346960%29.jpg/500px-Nicker_Bean_%288365346960%29.jpg"
           }
         ],
         "facts": [
@@ -523773,6 +527565,18 @@ window.GAME_DATA = [
             "author": "Alex Popovkin, Bahia, Brazil from Brazil",
             "license": "CC BY 2.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Psidium_guineense_Sw._-_Flickr_-_Alex_Popovkin%2C_Bahia%2C_Brazil_%283%29.jpg/500px-Psidium_guineense_Sw._-_Flickr_-_Alex_Popovkin%2C_Bahia%2C_Brazil_%283%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Psidium_guineense_-_Eli_-_411447422.jpeg",
+            "author": "Eli",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Psidium_guineense_-_Eli_-_411447422.jpeg/500px-Psidium_guineense_-_Eli_-_411447422.jpeg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Psidium_guineense,_ara%C3%A7%C3%A1_-_Flickr_-_Tarciso_Le%C3%A3o.jpg",
+            "author": "Tarciso Leão from Saint Paul, MN",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Psidium_guineense%2C_ara%C3%A7%C3%A1_-_Flickr_-_Tarciso_Le%C3%A3o.jpg/500px-Psidium_guineense%2C_ara%C3%A7%C3%A1_-_Flickr_-_Tarciso_Le%C3%A3o.jpg"
           }
         ],
         "facts": [
@@ -524209,6 +528013,24 @@ window.GAME_DATA = [
             "author": "12Sequoia34",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Pistacia_terebinthus2.jpg/500px-Pistacia_terebinthus2.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Pistacia_terebinthus._Carnapiu_blanqueru_(groma).jpg",
+            "author": "SABENCIA Bertu Ordiales",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Pistacia_terebinthus._Carnapiu_blanqueru_%28groma%29.jpg/500px-Pistacia_terebinthus._Carnapiu_blanqueru_%28groma%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Pistacia_terebinthus_20150813a.jpg",
+            "author": "Luis Fernández García",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Pistacia_terebinthus_20150813a.jpg/500px-Pistacia_terebinthus_20150813a.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Pistachier_t%C3%A9r%C3%A9binthe_(Pistacia_terebinthus_L.)_2.jpg",
+            "author": "Pistachier_térébinthe_(Pistacia_terebinthus_L.).jpg : Gérard JOYON derivative wo",
+            "license": "CC BY 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Pistachier_t%C3%A9r%C3%A9binthe_%28Pistacia_terebinthus_L.%29_2.jpg/500px-Pistachier_t%C3%A9r%C3%A9binthe_%28Pistacia_terebinthus_L.%29_2.jpg"
           }
         ],
         "facts": [
@@ -526316,6 +530138,18 @@ window.GAME_DATA = [
             "author": "Sun Jiao (Interaccoonale)",
             "license": "CC BY 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Boehmeria_nivea-IMG_20181019_103621.jpg/500px-Boehmeria_nivea-IMG_20181019_103621.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Boehmeria_nivea_kz3.jpg",
+            "author": "Krzysztof Ziarnek, Kenraiz",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Boehmeria_nivea_kz3.jpg/500px-Boehmeria_nivea_kz3.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Boehmeria_nivea_leaves.jpg",
+            "author": "Shih-Shiuan Kao",
+            "license": "CC BY-SA 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Boehmeria_nivea_leaves.jpg/500px-Boehmeria_nivea_leaves.jpg"
           }
         ],
         "facts": [
@@ -526606,6 +530440,18 @@ window.GAME_DATA = [
             "author": "Fungus Guy",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/White_birch_catkin_%28Whitefish_I%29.JPG/500px-White_birch_catkin_%28Whitefish_I%29.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Paper_Birch_Leaves_(5166681247).jpg",
+            "author": "daryl_mitchell from Saskatoon, Saskatchewan, Canada",
+            "license": "CC BY-SA 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Paper_Birch_Leaves_%285166681247%29.jpg/500px-Paper_Birch_Leaves_%285166681247%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Betula_papyrifera_15-p.bot-bet.papyr-032.jpg",
+            "author": "Ayotte, Gilles, 1948-",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Betula_papyrifera_15-p.bot-bet.papyr-032.jpg/500px-Betula_papyrifera_15-p.bot-bet.papyr-032.jpg"
           }
         ],
         "facts": [
@@ -527466,6 +531312,18 @@ window.GAME_DATA = [
             "author": "Zakaria Tunsung",
             "license": "CC0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Tamarind_Plant.jpg/500px-Tamarind_Plant.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Tamarind_Tree_at_Suryapet.jpg",
+            "author": "Harsha099",
+            "license": "CC0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Tamarind_Tree_at_Suryapet.jpg/500px-Tamarind_Tree_at_Suryapet.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Tamarind_fruits_(Tamarindus_indica).jpg",
+            "author": "HannoSEA",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Tamarind_fruits_%28Tamarindus_indica%29.jpg/500px-Tamarind_fruits_%28Tamarindus_indica%29.jpg"
           }
         ],
         "facts": [
@@ -528936,6 +532794,12 @@ window.GAME_DATA = [
             "author": "Krzysztof Ziarnek, Kenraiz",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Quercus_frainetto_kz07.jpg/500px-Quercus_frainetto_kz07.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:%D0%91%D0%BB%D0%B0%D0%B3%D1%83%D0%BD_10.jpg",
+            "author": "Utar Sigmal",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/%D0%91%D0%BB%D0%B0%D0%B3%D1%83%D0%BD_10.jpg/500px-%D0%91%D0%BB%D0%B0%D0%B3%D1%83%D0%BD_10.jpg"
           }
         ],
         "facts": [
@@ -532072,6 +535936,30 @@ window.GAME_DATA = [
             "author": "Agnieszka Kwiecień, Nova",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Hoya_multiflora_Hoja_2010-08-01_02.jpg/500px-Hoya_multiflora_Hoja_2010-08-01_02.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Hoya_multiflora_Blume_(51849656286).jpg",
+            "author": "Dinesh Valke from Thane, India",
+            "license": "CC BY-SA 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Hoya_multiflora_Blume_%2851849656286%29.jpg/500px-Hoya_multiflora_Blume_%2851849656286%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Hoya_multiflora_Blume_(51851630106).jpg",
+            "author": "Dinesh Valke from Thane, India",
+            "license": "CC BY-SA 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Hoya_multiflora_Blume_%2851851630106%29.jpg/500px-Hoya_multiflora_Blume_%2851851630106%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Hoya_multiflora_Blume_(51852286835).jpg",
+            "author": "Dinesh Valke from Thane, India",
+            "license": "CC BY-SA 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Hoya_multiflora_Blume_%2851852286835%29.jpg/500px-Hoya_multiflora_Blume_%2851852286835%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Hoya_multiflora_Blume_(51851956744).jpg",
+            "author": "Dinesh Valke from Thane, India",
+            "license": "CC BY-SA 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Hoya_multiflora_Blume_%2851851956744%29.jpg/500px-Hoya_multiflora_Blume_%2851851956744%29.jpg"
           }
         ],
         "facts": [
@@ -533005,6 +536893,12 @@ window.GAME_DATA = [
             "author": "Krzysztof Golik",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Viburnum_japonicum_in_Christchurch_Botanic_Gardens_02.jpg/500px-Viburnum_japonicum_in_Christchurch_Botanic_Gardens_02.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Viburnum_japonicum_kz1.jpg",
+            "author": "Krzysztof Ziarnek, Kenraiz",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Viburnum_japonicum_kz1.jpg/500px-Viburnum_japonicum_kz1.jpg"
           }
         ],
         "facts": [
@@ -535573,6 +539467,24 @@ window.GAME_DATA = [
             "author": "Elektryczne jabłko",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Viburnum-x-pragense-01.JPG/500px-Viburnum-x-pragense-01.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Viburnum_%C3%97_pragense_Kalina_praska_2021-04-24_01.jpg",
+            "author": "Agnieszka Kwiecień, Nova",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Viburnum_%C3%97_pragense_Kalina_praska_2021-04-24_01.jpg/500px-Viburnum_%C3%97_pragense_Kalina_praska_2021-04-24_01.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Viburnum_pragense_2020-06-23_9614.jpg",
+            "author": "Salicyna",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Viburnum_pragense_2020-06-23_9614.jpg/500px-Viburnum_pragense_2020-06-23_9614.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Viburnum_%C3%97_pragense_Kalina_praska_2021-04-24_02.jpg",
+            "author": "Agnieszka Kwiecień, Nova",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Viburnum_%C3%97_pragense_Kalina_praska_2021-04-24_02.jpg/500px-Viburnum_%C3%97_pragense_Kalina_praska_2021-04-24_02.jpg"
           }
         ],
         "facts": [
@@ -538716,6 +542628,24 @@ window.GAME_DATA = [
             "author": "Photo by David J. Stang",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Capsicum_baccatum_Aji_1zz.jpg/500px-Capsicum_baccatum_Aji_1zz.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Capsicum_baccatum_-_Parc_Floral.jpg",
+            "author": "Dinkum",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Capsicum_baccatum_-_Parc_Floral.jpg/500px-Capsicum_baccatum_-_Parc_Floral.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Capsicum_baccatum_Peru_Yellow_1zz.jpg",
+            "author": "Photo by David J. Stang",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Capsicum_baccatum_Peru_Yellow_1zz.jpg/500px-Capsicum_baccatum_Peru_Yellow_1zz.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Planta_de_aj%C3%AD_ayucllo_%C3%B3_chinto_en_Takiwasi,_Tarapoto,_Per%C3%BA.jpg",
+            "author": "Kristi Denby/Archivo Centro Takiwasi",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Planta_de_aj%C3%AD_ayucllo_%C3%B3_chinto_en_Takiwasi%2C_Tarapoto%2C_Per%C3%BA.jpg/500px-Planta_de_aj%C3%AD_ayucllo_%C3%B3_chinto_en_Takiwasi%2C_Tarapoto%2C_Per%C3%BA.jpg"
           }
         ],
         "facts": [
@@ -540591,6 +544521,18 @@ window.GAME_DATA = [
             "author": "Photo by David J. Stang",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Dracaena_marginata_38zz.jpg/500px-Dracaena_marginata_38zz.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Starr_061231-3033_Dracaena_marginata.jpg",
+            "author": "Forest & Kim Starr",
+            "license": "CC BY 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Starr_061231-3033_Dracaena_marginata.jpg/500px-Starr_061231-3033_Dracaena_marginata.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Starr_080417-4080_Dracaena_marginata.jpg",
+            "author": "Forest & Kim Starr",
+            "license": "CC BY 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Starr_080417-4080_Dracaena_marginata.jpg/500px-Starr_080417-4080_Dracaena_marginata.jpg"
           }
         ],
         "facts": [
@@ -545919,6 +549861,18 @@ window.GAME_DATA = [
             "author": "Adonis Andrade",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Manilkara_zapota_236342060.jpg/500px-Manilkara_zapota_236342060.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Manilkara_zapota_441065950.jpg",
+            "author": "Eric Knight",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Manilkara_zapota_441065950.jpg/500px-Manilkara_zapota_441065950.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Manilkara_zapota_236391827.jpg",
+            "author": "carlos-campos",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Manilkara_zapota_236391827.jpg/500px-Manilkara_zapota_236391827.jpg"
           }
         ],
         "facts": [
@@ -547103,6 +551057,12 @@ window.GAME_DATA = [
             "author": "Annabell Hormann / korina.info",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Korina_2013-07-06_Artemisia_tournefortiana.jpg/500px-Korina_2013-07-06_Artemisia_tournefortiana.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Korina_2013-07-06_Artemisia_tournefortiana_6.jpg",
+            "author": "Annabell Hormann / korina.info",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Korina_2013-07-06_Artemisia_tournefortiana_6.jpg/500px-Korina_2013-07-06_Artemisia_tournefortiana_6.jpg"
           }
         ],
         "facts": [
@@ -548725,6 +552685,18 @@ window.GAME_DATA = [
             "author": "Wisniowy",
             "license": "Public domain",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Kwiatek_wisnia6522.JPG/500px-Kwiatek_wisnia6522.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Wall_Lettuce_(Mycelis_muralis)_-_Ullensvang,_Norway_2021-07-28.jpg",
+            "author": "Ryan Hodnett",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Wall_Lettuce_%28Mycelis_muralis%29_-_Ullensvang%2C_Norway_2021-07-28.jpg/500px-Wall_Lettuce_%28Mycelis_muralis%29_-_Ullensvang%2C_Norway_2021-07-28.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Lactuca_muralis_sl2.jpg",
+            "author": "Stefan.lefnaer",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Lactuca_muralis_sl2.jpg/500px-Lactuca_muralis_sl2.jpg"
           }
         ],
         "facts": [
@@ -550008,6 +553980,24 @@ window.GAME_DATA = [
             "author": "KENPEI",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Serissa_japonica1.jpg/500px-Serissa_japonica1.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Serissa_foetida_blossom.jpg",
+            "author": "Carsten Niehaus ( User:Lumbar )",
+            "license": "Public domain",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Serissa_foetida_blossom.jpg/500px-Serissa_foetida_blossom.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Starr-110307-2880-Serissa_foetida-flowers_and_leaves-Kula_Botanical_Garden-Maui_(24960803352).jpg",
+            "author": "Forest and Kim Starr",
+            "license": "CC BY 3.0 us",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Starr-110307-2880-Serissa_foetida-flowers_and_leaves-Kula_Botanical_Garden-Maui_%2824960803352%29.jpg/500px-Starr-110307-2880-Serissa_foetida-flowers_and_leaves-Kula_Botanical_Garden-Maui_%2824960803352%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Hoa_b%E1%BA%A1ch_tuy%E1%BA%BFt_mai.jpg",
+            "author": "Hải Vũ Thanh",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Hoa_b%E1%BA%A1ch_tuy%E1%BA%BFt_mai.jpg/500px-Hoa_b%E1%BA%A1ch_tuy%E1%BA%BFt_mai.jpg"
           }
         ],
         "facts": [
@@ -552628,6 +556618,18 @@ window.GAME_DATA = [
             "author": "Tippitiwichet",
             "license": "CC BY 2.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Closeup_of_Drosera_capensis_2.jpg/500px-Closeup_of_Drosera_capensis_2.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Drosera_capensis_in_Jardin_des_Plantes_de_Toulouse_03.jpg",
+            "author": "Krzysztof Golik",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Drosera_capensis_in_Jardin_des_Plantes_de_Toulouse_03.jpg/500px-Drosera_capensis_in_Jardin_des_Plantes_de_Toulouse_03.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:D_capensis_kromme_river.jpg",
+            "author": "Tony Rebelo",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/D_capensis_kromme_river.jpg/500px-D_capensis_kromme_river.jpg"
           }
         ],
         "facts": [
@@ -555095,6 +559097,24 @@ window.GAME_DATA = [
             "author": "Sten Porse",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Pseudolysimachion-longifolium-spikes.JPG/500px-Pseudolysimachion-longifolium-spikes.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Veronica_longifolia_Przetacznik_d%C5%82ugolistny_2020-07-12_06.jpg",
+            "author": "Agnieszka Kwiecień, Nova",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Veronica_longifolia_Przetacznik_d%C5%82ugolistny_2020-07-12_06.jpg/500px-Veronica_longifolia_Przetacznik_d%C5%82ugolistny_2020-07-12_06.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:%D0%92%D0%B5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D1%86%D0%B2%D0%B5%D1%82%D1%91%D1%82_(%D0%A1%D0%B0%D1%80%D0%B0%D1%82%D0%BE%D0%B2).jpg",
+            "author": "ИринаЯ",
+            "license": "CC0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/%D0%92%D0%B5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D1%86%D0%B2%D0%B5%D1%82%D1%91%D1%82_%28%D0%A1%D0%B0%D1%80%D0%B0%D1%82%D0%BE%D0%B2%29.jpg/500px-%D0%92%D0%B5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D1%86%D0%B2%D0%B5%D1%82%D1%91%D1%82_%28%D0%A1%D0%B0%D1%80%D0%B0%D1%82%D0%BE%D0%B2%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Veronica_longifolia_Oulu,_Finland_29.06.2013.jpg",
+            "author": "Matti Virtala",
+            "license": "CC0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Veronica_longifolia_Oulu%2C_Finland_29.06.2013.jpg/500px-Veronica_longifolia_Oulu%2C_Finland_29.06.2013.jpg"
           }
         ],
         "facts": [
@@ -558623,6 +562643,12 @@ window.GAME_DATA = [
             "author": "Fornax",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Spergularia_salina2_W.jpg/500px-Spergularia_salina2_W.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Spergularia_marina_on_sand.JPG",
+            "author": "Rosser1954",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Spergularia_marina_on_sand.JPG/500px-Spergularia_marina_on_sand.JPG"
           }
         ],
         "facts": [
@@ -562656,6 +566682,12 @@ window.GAME_DATA = [
             "author": "Ruppia2000",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Fig._12_Limosella_aquatica.jpg/500px-Fig._12_Limosella_aquatica.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Limosella_aquatica_sl80.jpg",
+            "author": "Stefan.lefnaer",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Limosella_aquatica_sl80.jpg/500px-Limosella_aquatica_sl80.jpg"
           }
         ],
         "facts": [
@@ -562989,6 +567021,18 @@ window.GAME_DATA = [
             "author": "Paulis",
             "license": "CC BY 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Marienstern_Klostergarten_21.jpg/500px-Marienstern_Klostergarten_21.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Ruhland,_Ortrander_Str._5,_Kletter-Hortensie,_Bl%C3%BCten,_Fr%C3%BChsommer,_01.jpg",
+            "author": "Wilhelm Zimmerling PAR",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Ruhland%2C_Ortrander_Str._5%2C_Kletter-Hortensie%2C_Bl%C3%BCten%2C_Fr%C3%BChsommer%2C_01.jpg/500px-Ruhland%2C_Ortrander_Str._5%2C_Kletter-Hortensie%2C_Bl%C3%BCten%2C_Fr%C3%BChsommer%2C_01.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Ruhland,_Ortrander_Str._5,_Kletter-Hortensie,_Bl%C3%BCten,_Fr%C3%BChsommer,_02.jpg",
+            "author": "Wilhelm Zimmerling PAR",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Ruhland%2C_Ortrander_Str._5%2C_Kletter-Hortensie%2C_Bl%C3%BCten%2C_Fr%C3%BChsommer%2C_02.jpg/500px-Ruhland%2C_Ortrander_Str._5%2C_Kletter-Hortensie%2C_Bl%C3%BCten%2C_Fr%C3%BChsommer%2C_02.jpg"
           }
         ],
         "facts": [
@@ -572220,6 +576264,18 @@ window.GAME_DATA = [
             "author": "Stefan.lefnaer",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Amaranthus_powellii_subsp._powellii_sl9.jpg/500px-Amaranthus_powellii_subsp._powellii_sl9.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Amaranthus_powellii_-_inflorescence_(18556033299).jpg",
+            "author": "NY State IPM Program at Cornell University from New York, USA",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Amaranthus_powellii_-_inflorescence_%2818556033299%29.jpg/500px-Amaranthus_powellii_-_inflorescence_%2818556033299%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Amaranthus_powellii_-_whole_plant_(18742228395).jpg",
+            "author": "NY State IPM Program at Cornell University from New York, USA",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Amaranthus_powellii_-_whole_plant_%2818742228395%29.jpg/500px-Amaranthus_powellii_-_whole_plant_%2818742228395%29.jpg"
           }
         ],
         "facts": [
@@ -572282,6 +576338,18 @@ window.GAME_DATA = [
             "author": "Wouter Hagens",
             "license": "Public domain",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Lonicera_nitida_A.jpg/500px-Lonicera_nitida_A.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Lonicera_nitida_in_the_garden_of_the_Musee_d%27Histoire_naturelle_in_Nimes.jpg",
+            "author": "Krzysztof Golik",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Lonicera_nitida_in_the_garden_of_the_Musee_d%27Histoire_naturelle_in_Nimes.jpg/500px-Lonicera_nitida_in_the_garden_of_the_Musee_d%27Histoire_naturelle_in_Nimes.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Boxleaf_Honeysuckle_(Lonicera_nitida)_(3907165157).jpg",
+            "author": "AnemoneProjectors ( talk )",
+            "license": "CC BY-SA 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Boxleaf_Honeysuckle_%28Lonicera_nitida%29_%283907165157%29.jpg/500px-Boxleaf_Honeysuckle_%28Lonicera_nitida%29_%283907165157%29.jpg"
           }
         ],
         "facts": [
@@ -576369,6 +580437,12 @@ window.GAME_DATA = [
             "author": "HermannSchachner",
             "license": "CC0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Loranthus_europaeus_%28Riemenmistel%29_IMG_0679.JPG/500px-Loranthus_europaeus_%28Riemenmistel%29_IMG_0679.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Loranthus_europaeus_(6796550383).jpg",
+            "author": "Radio Tonreg from Vienna, Austria",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Loranthus_europaeus_%286796550383%29.jpg/500px-Loranthus_europaeus_%286796550383%29.jpg"
           }
         ],
         "facts": [
@@ -576866,6 +580940,12 @@ window.GAME_DATA = [
             "author": "Stefan.lefnaer",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Veronica_teucrium_sl25.jpg/500px-Veronica_teucrium_sl25.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Atlas_roslin_pl_Przetacznik_pag%C3%B3rkowy_1680_8529.jpg",
+            "author": "Joanna Boisse",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Atlas_roslin_pl_Przetacznik_pag%C3%B3rkowy_1680_8529.jpg/500px-Atlas_roslin_pl_Przetacznik_pag%C3%B3rkowy_1680_8529.jpg"
           }
         ],
         "facts": [
@@ -578785,6 +582865,12 @@ window.GAME_DATA = [
             "author": "Michael Becker",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Chenopodium_polyspermum_2005.08.21_15.19.27-p8210052.jpg/500px-Chenopodium_polyspermum_2005.08.21_15.19.27-p8210052.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Lipandra_polysperma_kz05.jpg",
+            "author": "Krzysztof Ziarnek, Kenraiz",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Lipandra_polysperma_kz05.jpg/500px-Lipandra_polysperma_kz05.jpg"
           }
         ],
         "facts": [
@@ -586425,6 +590511,30 @@ window.GAME_DATA = [
             "author": "Stefan.lefnaer",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Seseli_annuum_sl28.jpg/500px-Seseli_annuum_sl28.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Seseli_annuum_kz10.jpg",
+            "author": "Krzysztof Ziarnek, Kenraiz",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Seseli_annuum_kz10.jpg/500px-Seseli_annuum_kz10.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Seseli_annuum_sl13.jpg",
+            "author": "Stefan.lefnaer",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Seseli_annuum_sl13.jpg/500px-Seseli_annuum_sl13.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Seseli_annuum_eF.jpg",
+            "author": "Fornax",
+            "license": "Public domain",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Seseli_annuum_eF.jpg/500px-Seseli_annuum_eF.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Seseli_annuum_sl7.jpg",
+            "author": "Stefan.lefnaer",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Seseli_annuum_sl7.jpg/500px-Seseli_annuum_sl7.jpg"
           }
         ],
         "facts": [
@@ -590295,6 +594405,30 @@ window.GAME_DATA = [
             "author": "Joanna Boisse",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Atlas_roslin_pl_Kminek_zwyczajny_1512_6635.jpg/500px-Atlas_roslin_pl_Kminek_zwyczajny_1512_6635.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Kminek_zwyczajny._Carum_carvi._01.jpg",
+            "author": "Niepokój Zbigniew",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Kminek_zwyczajny._Carum_carvi._01.jpg/500px-Kminek_zwyczajny._Carum_carvi._01.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Carum_carvi_2.JPG",
+            "author": "Rolf Engstrand",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Carum_carvi_2.JPG/500px-Carum_carvi_2.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Atlas_roslin_pl_Kminek_zwyczajny_5735_6635.jpg",
+            "author": "Joanna Boisse",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Atlas_roslin_pl_Kminek_zwyczajny_5735_6635.jpg/500px-Atlas_roslin_pl_Kminek_zwyczajny_5735_6635.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Atlas_roslin_pl_Kminek_zwyczajny_5739_6635.jpg",
+            "author": "Joanna Boisse",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Atlas_roslin_pl_Kminek_zwyczajny_5739_6635.jpg/500px-Atlas_roslin_pl_Kminek_zwyczajny_5739_6635.jpg"
           }
         ],
         "facts": [
@@ -592803,6 +596937,30 @@ window.GAME_DATA = [
             "author": "Krzysztof Ziarnek, Kenraiz",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Salicornia_europaea_kz10.jpg/500px-Salicornia_europaea_kz10.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Salicornia_(Scharh%C3%B6rn)_2.jpg",
+            "author": "Aeroid",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Salicornia_%28Scharh%C3%B6rn%29_2.jpg/500px-Salicornia_%28Scharh%C3%B6rn%29_2.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Salicornia_europaea_kz06.jpg",
+            "author": "Krzysztof Ziarnek, Kenraiz",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Salicornia_europaea_kz06.jpg/500px-Salicornia_europaea_kz06.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Europ%C3%A4ischer_Queller_(Salicornia_europaea)_im_Herbst_01.jpg",
+            "author": "Stephan Sprinz",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Europ%C3%A4ischer_Queller_%28Salicornia_europaea%29_im_Herbst_01.jpg/500px-Europ%C3%A4ischer_Queller_%28Salicornia_europaea%29_im_Herbst_01.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Salicornia_europaea_53313229.jpg",
+            "author": "Jens-Christian Svenning",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Salicornia_europaea_53313229.jpg/500px-Salicornia_europaea_53313229.jpg"
           }
         ],
         "facts": [
@@ -595077,6 +599235,12 @@ window.GAME_DATA = [
             "author": "H. Zell",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Dodecatheon_meadia_01.JPG/500px-Dodecatheon_meadia_01.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Primula_meadia_kz02.jpg",
+            "author": "Krzysztof Ziarnek, Kenraiz",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Primula_meadia_kz02.jpg/500px-Primula_meadia_kz02.jpg"
           }
         ],
         "facts": [
@@ -595217,6 +599381,18 @@ window.GAME_DATA = [
             "author": "阿橋 HQ",
             "license": "CC BY-SA 2.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/%E9%AC%BC%E6%A4%92_Capsicum_chinense_%27Naga_Jolokia%27_-%E9%A6%99%E6%B8%AF%E5%8C%97%E5%8D%80%E8%8A%B1%E9%B3%A5%E8%9F%B2%E9%AD%9A%E5%B1%95_North_District_Flower_Show%2C_Hong_Kong-_%2815925330187%29.jpg/500px-%E9%AC%BC%E6%A4%92_Capsicum_chinense_%27Naga_Jolokia%27_-%E9%A6%99%E6%B8%AF%E5%8C%97%E5%8D%80%E8%8A%B1%E9%B3%A5%E8%9F%B2%E9%AD%9A%E5%B1%95_North_District_Flower_Show%2C_Hong_Kong-_%2815925330187%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Cheiro_roxa1.jpg",
+            "author": "Mptu22",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Cheiro_roxa1.jpg/500px-Cheiro_roxa1.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Capsicum_chinense_fruit.jpg",
+            "author": "Filo gèn'",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Capsicum_chinense_fruit.jpg/500px-Capsicum_chinense_fruit.jpg"
           }
         ],
         "facts": [
@@ -595355,6 +599531,30 @@ window.GAME_DATA = [
             "author": "Photograph by Mike Peel ( www.mikepeel.net ).",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/At_Fort_Canning_2023_100.jpg/500px-At_Fort_Canning_2023_100.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Capsicum_frutescens_@_Grand_Bassin_02.jpg",
+            "author": "Rémih",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Capsicum_frutescens_%40_Grand_Bassin_02.jpg/500px-Capsicum_frutescens_%40_Grand_Bassin_02.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Pimenta_Malagueta_-_panoramio.jpg",
+            "author": "Claudio Oliveira Lim…",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Pimenta_Malagueta_-_panoramio.jpg/500px-Pimenta_Malagueta_-_panoramio.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Capsicum_frutescens,_Burdwan,_West_Bengal,_India_03_05_2013.jpg",
+            "author": "Joydeep",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Capsicum_frutescens%2C_Burdwan%2C_West_Bengal%2C_India_03_05_2013.jpg/500px-Capsicum_frutescens%2C_Burdwan%2C_West_Bengal%2C_India_03_05_2013.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Capsicum_frutescens--_Tabasco_Pepper_(25960478663).jpg",
+            "author": "Dick Culbert from Gibsons, B.C., Canada",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Capsicum_frutescens--_Tabasco_Pepper_%2825960478663%29.jpg/500px-Capsicum_frutescens--_Tabasco_Pepper_%2825960478663%29.jpg"
           }
         ],
         "facts": [
@@ -596313,6 +600513,12 @@ window.GAME_DATA = [
             "author": "CRCHF",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/JatJipLaan.jpg/500px-JatJipLaan.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Aspidistra_elatior_var_attenuata_%E8%9C%98%E8%9B%9B%E6%8A%B1%E8%9B%8B_(%E5%A4%A9%E5%95%8F).jpg",
+            "author": "天問 小窩",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Aspidistra_elatior_var_attenuata_%E8%9C%98%E8%9B%9B%E6%8A%B1%E8%9B%8B_%28%E5%A4%A9%E5%95%8F%29.jpg/500px-Aspidistra_elatior_var_attenuata_%E8%9C%98%E8%9B%9B%E6%8A%B1%E8%9B%8B_%28%E5%A4%A9%E5%95%8F%29.jpg"
           }
         ],
         "facts": [
@@ -601336,6 +605542,24 @@ window.GAME_DATA = [
             "author": "AnRo0002",
             "license": "CC0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/20160910Polygonum_arenastrum1.jpg/500px-20160910Polygonum_arenastrum1.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:%D7%90%D7%A8%D7%9B%D7%95%D7%91%D7%99%D7%AA_%D7%94%D7%A6%D7%99%D7%A4%D7%95%D7%A8%D7%99%D7%9D_%D7%A4%D7%A8%D7%97.jpg",
+            "author": "Ariesaada",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/%D7%90%D7%A8%D7%9B%D7%95%D7%91%D7%99%D7%AA_%D7%94%D7%A6%D7%99%D7%A4%D7%95%D7%A8%D7%99%D7%9D_%D7%A4%D7%A8%D7%97.jpg/500px-%D7%90%D7%A8%D7%9B%D7%95%D7%91%D7%99%D7%AA_%D7%94%D7%A6%D7%99%D7%A4%D7%95%D7%A8%D7%99%D7%9D_%D7%A4%D7%A8%D7%97.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:PolygonumArenastrum.jpg",
+            "author": "Christian Fischer",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/PolygonumArenastrum.jpg/500px-PolygonumArenastrum.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Polygonum_arenastrum_ssp._microspermum_Lechkiesbank.jpg",
+            "author": "Fabiologist",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Polygonum_arenastrum_ssp._microspermum_Lechkiesbank.jpg/500px-Polygonum_arenastrum_ssp._microspermum_Lechkiesbank.jpg"
           }
         ],
         "facts": [
@@ -609569,6 +613793,12 @@ window.GAME_DATA = [
             "author": "Krzysztof Ziarnek, Kenraiz",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Drosophyllum_lusitanicum_kz03.jpg/500px-Drosophyllum_lusitanicum_kz03.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Conical_Flower_(26422241811).jpg",
+            "author": "incidencematrix",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Conical_Flower_%2826422241811%29.jpg/500px-Conical_Flower_%2826422241811%29.jpg"
           }
         ],
         "facts": [
@@ -612139,6 +616369,12 @@ window.GAME_DATA = [
             "author": "Rasbak 13:13, 20 May 2007 (UTC)",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Iceberg_lettuce_%28IJssla_krop%29.jpg/500px-Iceberg_lettuce_%28IJssla_krop%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:La_laitue_03.jpg",
+            "author": "Alpha0111",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/La_laitue_03.jpg/500px-La_laitue_03.jpg"
           }
         ],
         "facts": [
@@ -616413,6 +620649,36 @@ window.GAME_DATA = [
             "author": "Stefan.lefnaer",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Cuscuta_campestris_sl33.jpg/500px-Cuscuta_campestris_sl33.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Cuscuta_campestris_sl16.jpg",
+            "author": "Stefan.lefnaer",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Cuscuta_campestris_sl16.jpg/500px-Cuscuta_campestris_sl16.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Cuscuta_campestris_(17056662205).jpg",
+            "author": "Dick Culbert from Gibsons, B.C., Canada",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Cuscuta_campestris_%2817056662205%29.jpg/500px-Cuscuta_campestris_%2817056662205%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Cuscuta_campestris_sl86.jpg",
+            "author": "Stefan.lefnaer",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Cuscuta_campestris_sl86.jpg/500px-Cuscuta_campestris_sl86.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Cuscuta_campestris_sl8.jpg",
+            "author": "Stefan.lefnaer",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Cuscuta_campestris_sl8.jpg/500px-Cuscuta_campestris_sl8.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Cuscuta_campestris_sl85.jpg",
+            "author": "Stefan.lefnaer",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Cuscuta_campestris_sl85.jpg/500px-Cuscuta_campestris_sl85.jpg"
           }
         ],
         "facts": [
@@ -622367,6 +626633,30 @@ window.GAME_DATA = [
             "author": "Sage Ross",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Berberis_thunbergii_in_Pennwood_State_Park.jpg/500px-Berberis_thunbergii_in_Pennwood_State_Park.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Berberis_thunbergii_in_Pennwood_State_Park_-_2.jpg",
+            "author": "Sage Ross",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Berberis_thunbergii_in_Pennwood_State_Park_-_2.jpg/500px-Berberis_thunbergii_in_Pennwood_State_Park_-_2.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Berberis_thunbergii_SCA-02979.JPG",
+            "author": "R. A. Nonenmacher",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Berberis_thunbergii_SCA-02979.JPG/500px-Berberis_thunbergii_SCA-02979.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Berberis_thunbergii_634529260.jpg",
+            "author": "Alex Abair",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Berberis_thunbergii_634529260.jpg/500px-Berberis_thunbergii_634529260.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:D%C5%99i%C5%A1%C5%A5%C3%A1l_thunberg%C5%AFv.jpg",
+            "author": "Jakub Valach",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/D%C5%99i%C5%A1%C5%A5%C3%A1l_thunberg%C5%AFv.jpg/500px-D%C5%99i%C5%A1%C5%A5%C3%A1l_thunberg%C5%AFv.jpg"
           }
         ],
         "facts": [
@@ -624995,6 +629285,12 @@ window.GAME_DATA = [
             "author": "Niepokój Zbigniew",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Gunera%2C_Parzeplin._01.jpg/500px-Gunera%2C_Parzeplin._01.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Gunnera.manicata.jpg",
+            "author": "Chris.urs-o",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Gunnera.manicata.jpg/500px-Gunnera.manicata.jpg"
           }
         ],
         "facts": [
@@ -625483,6 +629779,30 @@ window.GAME_DATA = [
             "author": "J.claude",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Petit_Pigamon_Mondelange_2007.jpg/500px-Petit_Pigamon_Mondelange_2007.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D0%B8%D1%81%D1%82%D0%BD%D0%B8%D0%BA_%D0%B6%D1%91%D0%BB%D1%82%D1%8B%D0%B9_KR_03.JPG",
+            "author": "Лобачев Владимир",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D0%B8%D1%81%D1%82%D0%BD%D0%B8%D0%BA_%D0%B6%D1%91%D0%BB%D1%82%D1%8B%D0%B9_KR_03.JPG/500px-%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D0%B8%D1%81%D1%82%D0%BD%D0%B8%D0%BA_%D0%B6%D1%91%D0%BB%D1%82%D1%8B%D0%B9_KR_03.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Thalictrum_minus_2.jpg",
+            "author": "Franz Xaver",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Thalictrum_minus_2.jpg/500px-Thalictrum_minus_2.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Thalictrum_minus_subsp._minus_sl23.jpg",
+            "author": "Stefan.lefnaer",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Thalictrum_minus_subsp._minus_sl23.jpg/500px-Thalictrum_minus_subsp._minus_sl23.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D0%B8%D1%81%D1%82%D0%BD%D0%B8%D0%BA_%D0%B6%D1%91%D0%BB%D1%82%D1%8B%D0%B9_KR_01.jpg",
+            "author": "Лобачев Владимир",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D0%B8%D1%81%D1%82%D0%BD%D0%B8%D0%BA_%D0%B6%D1%91%D0%BB%D1%82%D1%8B%D0%B9_KR_01.jpg/500px-%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D0%B8%D1%81%D1%82%D0%BD%D0%B8%D0%BA_%D0%B6%D1%91%D0%BB%D1%82%D1%8B%D0%B9_KR_01.jpg"
           }
         ],
         "facts": [
@@ -625956,6 +630276,12 @@ window.GAME_DATA = [
             "author": "John Robert McPherson",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Grevillea_robusta_inflorescences_Palm_Beach_Gold_Coast_Queensland_IMG_0054_%283%29.jpg/500px-Grevillea_robusta_inflorescences_Palm_Beach_Gold_Coast_Queensland_IMG_0054_%283%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Silky_Oak_Spikes.jpg",
+            "author": "Rryann0",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Silky_Oak_Spikes.jpg/500px-Silky_Oak_Spikes.jpg"
           }
         ],
         "facts": [
@@ -627235,6 +631561,24 @@ window.GAME_DATA = [
             "author": "Yuriy75",
             "license": "Public domain",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Clematis_orientalis%3B_Baikonur_03.jpg/500px-Clematis_orientalis%3B_Baikonur_03.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Clematis_orientalis_subsp._wightiana_(2275118800).jpg",
+            "author": "Dinesh Valke from Thane, India",
+            "license": "CC BY-SA 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Clematis_orientalis_subsp._wightiana_%282275118800%29.jpg/500px-Clematis_orientalis_subsp._wightiana_%282275118800%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Clematis_orientalis_vine_flowering_in_Semey_Ormany.jpg",
+            "author": "Ruslan Kastani",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Clematis_orientalis_vine_flowering_in_Semey_Ormany.jpg/500px-Clematis_orientalis_vine_flowering_in_Semey_Ormany.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD,_%D0%98%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%B1%D0%BE%D1%82%D1%81%D0%B0%D0%B4,_%D0%BA%D0%BB%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%81_%D0%B2%D0%BE%D1%81%D1%82%D0%BE%D1%87%D0%BD%D1%8B%D0%B9.jpg",
+            "author": "ElenaLitera",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD%2C_%D0%98%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%B1%D0%BE%D1%82%D1%81%D0%B0%D0%B4%2C_%D0%BA%D0%BB%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%81_%D0%B2%D0%BE%D1%81%D1%82%D0%BE%D1%87%D0%BD%D1%8B%D0%B9.jpg/500px-%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD%2C_%D0%98%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%B1%D0%BE%D1%82%D1%81%D0%B0%D0%B4%2C_%D0%BA%D0%BB%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%81_%D0%B2%D0%BE%D1%81%D1%82%D0%BE%D1%87%D0%BD%D1%8B%D0%B9.jpg"
           }
         ],
         "facts": [
@@ -628564,6 +632908,18 @@ window.GAME_DATA = [
             "author": "Jerzy Strzelecki",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Ranunculus_asiaticus%2C_Crete_02%28js%29.jpg/500px-Ranunculus_asiaticus%2C_Crete_02%28js%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Red_flowers6.jpg",
+            "author": "Mahmoud burnat محمود برناط",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Red_flowers6.jpg/500px-Red_flowers6.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Persian_Buttercup_06.jpg",
+            "author": "SuperJew",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Persian_Buttercup_06.jpg/500px-Persian_Buttercup_06.jpg"
           }
         ],
         "facts": [
@@ -632042,6 +636398,24 @@ window.GAME_DATA = [
             "author": "Yercaud-elango",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Cinnamomum_verum-1-The_regent_hill-yercaud-salem-India.JPG/500px-Cinnamomum_verum-1-The_regent_hill-yercaud-salem-India.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Cinnamomum_verum_young_leaves_at_Thattekkadu_(1).jpg",
+            "author": "Vinayaraj",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Cinnamomum_verum_young_leaves_at_Thattekkadu_%281%29.jpg/500px-Cinnamomum_verum_young_leaves_at_Thattekkadu_%281%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Cinnamon_%E0%B4%95%E0%B4%B1%E0%B5%81%E0%B4%B5_03.JPG",
+            "author": "കാക്കര",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Cinnamon_%E0%B4%95%E0%B4%B1%E0%B5%81%E0%B4%B5_03.JPG/500px-Cinnamon_%E0%B4%95%E0%B4%B1%E0%B5%81%E0%B4%B5_03.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Cinnamomum-verum-SF25285-03.jpg",
+            "author": "Steve Fitzgerald",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Cinnamomum-verum-SF25285-03.jpg/500px-Cinnamomum-verum-SF25285-03.jpg"
           }
         ],
         "facts": [
@@ -632261,6 +636635,12 @@ window.GAME_DATA = [
             "author": "Ks.mini",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Annona_reticulata_flower_1.JPG/500px-Annona_reticulata_flower_1.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Lavaniyam_(Sanskrit-_%E0%A4%B2%E0%A4%B5%E0%A4%A8%E0%A5%80%E0%A4%AF%E0%A4%AE%E0%A5%8D)_(3363295794).jpg",
+            "author": "Dinesh Valke from Thane, India",
+            "license": "CC BY-SA 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Lavaniyam_%28Sanskrit-_%E0%A4%B2%E0%A4%B5%E0%A4%A8%E0%A5%80%E0%A4%AF%E0%A4%AE%E0%A5%8D%29_%283363295794%29.jpg/500px-Lavaniyam_%28Sanskrit-_%E0%A4%B2%E0%A4%B5%E0%A4%A8%E0%A5%80%E0%A4%AF%E0%A4%AE%E0%A5%8D%29_%283363295794%29.jpg"
           }
         ],
         "facts": [
@@ -633355,6 +637735,12 @@ window.GAME_DATA = [
             "author": "DPDx-CDC",
             "license": "Public domain",
             "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Clonorchis_sinensis_adult.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Clonorchis_wm_Posterior_image.jpg",
+            "author": "The Other 95%",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Clonorchis_wm_Posterior_image.jpg/500px-Clonorchis_wm_Posterior_image.jpg"
           }
         ],
         "facts": [
@@ -633489,6 +637875,24 @@ window.GAME_DATA = [
             "author": "Delorieux for Johann Gottfried Bremser",
             "license": "Public domain",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Trichuris_trichiura%2C_male.jpg/500px-Trichuris_trichiura%2C_male.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Trichuris_trichiura_(YPM_IZ_097920).jpeg",
+            "author": "Daniel J. Drew",
+            "license": "CC0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Trichuris_trichiura_%28YPM_IZ_097920%29.jpeg/500px-Trichuris_trichiura_%28YPM_IZ_097920%29.jpeg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Trichuris_trichiura_(Male).jpg",
+            "author": "Punlop Anusonpornperm",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Trichuris_trichiura_%28Male%29.jpg/500px-Trichuris_trichiura_%28Male%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Male_Trichuris_trichiura.jpg",
+            "author": "Leonardo M. Lustosa",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Male_Trichuris_trichiura.jpg/500px-Male_Trichuris_trichiura.jpg"
           }
         ],
         "facts": [
@@ -633649,6 +638053,36 @@ window.GAME_DATA = [
             "author": "Flukeman",
             "license": "CC BY 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Fresh_toxocra_eggs_close-up.jpg/500px-Fresh_toxocra_eggs_close-up.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Toxocara_larva_hatching_(15679888006).jpg",
+            "author": "SuSanA Secretariat",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Toxocara_larva_hatching_%2815679888006%29.jpg/500px-Toxocara_larva_hatching_%2815679888006%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Toxocara_Larva_(15518236248).jpg",
+            "author": "SuSanA Secretariat",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Toxocara_Larva_%2815518236248%29.jpg/500px-Toxocara_Larva_%2815518236248%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:T._canis_adult_worms_wiki.JPG",
+            "author": "Flukeman",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/T._canis_adult_worms_wiki.JPG/500px-T._canis_adult_worms_wiki.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Fresh_toxocra_eggs.jpg",
+            "author": "Flukeman",
+            "license": "CC BY 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Fresh_toxocra_eggs.jpg/500px-Fresh_toxocra_eggs.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Toxocara-canis-adults.jpg",
+            "author": "Alan R Walker",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Toxocara-canis-adults.jpg/500px-Toxocara-canis-adults.jpg"
           }
         ],
         "facts": [
@@ -633716,6 +638150,18 @@ window.GAME_DATA = [
             "author": "DPDx-CDC",
             "license": "Public domain",
             "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Paragonimus_westermani_adult.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Paragonimus.jpg",
+            "author": "zh:User:Droxiang",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Paragonimus.jpg/500px-Paragonimus.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Paragonimiasis_-_Case_285.jpg",
+            "author": "Yale Rosen from USA",
+            "license": "CC BY-SA 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Paragonimiasis_-_Case_285.jpg/500px-Paragonimiasis_-_Case_285.jpg"
           }
         ],
         "facts": [
@@ -633861,6 +638307,18 @@ window.GAME_DATA = [
             "author": "CDC, Public Health Image Library (PHIL)",
             "license": "Public domain",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Schistosoma_haematobium_egg_4843_lores.jpg/500px-Schistosoma_haematobium_egg_4843_lores.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Schistosoma_haematobium_egg.jpg",
+            "author": "Luca Oddone",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Schistosoma_haematobium_egg.jpg/500px-Schistosoma_haematobium_egg.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Schistosoma_haematobium_egg_2.jpg",
+            "author": "Luca Oddone",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Schistosoma_haematobium_egg_2.jpg/500px-Schistosoma_haematobium_egg_2.jpg"
           }
         ],
         "facts": [
@@ -633926,6 +638384,24 @@ window.GAME_DATA = [
             "author": "Joelmills",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Microfilaria.jpg/500px-Microfilaria.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Microfilaria_of_Dirofilaria_immitis_(Heartworms)_Surrounded_by_Neoplastic_Lymphocytes_1.jpg",
+            "author": "Lance Wheeler",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Microfilaria_of_Dirofilaria_immitis_%28Heartworms%29_Surrounded_by_Neoplastic_Lymphocytes_1.jpg/500px-Microfilaria_of_Dirofilaria_immitis_%28Heartworms%29_Surrounded_by_Neoplastic_Lymphocytes_1.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Microfilaria_of_Dirofilaria_immitis_(Heartworms)_Surrounded_by_Neoplastic_Lymphocytes_2.jpg",
+            "author": "Lance Wheeler",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Microfilaria_of_Dirofilaria_immitis_%28Heartworms%29_Surrounded_by_Neoplastic_Lymphocytes_2.jpg/500px-Microfilaria_of_Dirofilaria_immitis_%28Heartworms%29_Surrounded_by_Neoplastic_Lymphocytes_2.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Dirofilaria-immitis-dog-heart.jpg",
+            "author": "Alan R Walker",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Dirofilaria-immitis-dog-heart.jpg/500px-Dirofilaria-immitis-dog-heart.jpg"
           }
         ],
         "facts": [
@@ -634200,6 +638676,24 @@ window.GAME_DATA = [
             "author": "Thomas Hahmann",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Succinea_mit_Leucocholoridium.jpg/500px-Succinea_mit_Leucocholoridium.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Oxyloma_elegans_infected-pjt.jpg",
+            "author": "pjt56 --- If you use the picture outside Wikipedia I would appreciate a short e-",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Oxyloma_elegans_infected-pjt.jpg/500px-Oxyloma_elegans_infected-pjt.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Leucochloridium_paradoxum_01.JPG",
+            "author": "AfroBrazilian",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Leucochloridium_paradoxum_01.JPG/500px-Leucochloridium_paradoxum_01.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Leucochloridiumparadoxum.jpg",
+            "author": "Eveline van der Jagt",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Leucochloridiumparadoxum.jpg/500px-Leucochloridiumparadoxum.jpg"
           }
         ],
         "facts": [
@@ -634396,6 +638890,12 @@ window.GAME_DATA = [
             "author": "Joel Mills",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Toxascaris_leonina.JPG/500px-Toxascaris_leonina.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Huevo_de_toxascaris_con_luz_polarizada_y_campo_oscuro.jpg",
+            "author": "Brandon Antonio Segura Torres & Priscilla Vieto Bonilla",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Huevo_de_toxascaris_con_luz_polarizada_y_campo_oscuro.jpg/500px-Huevo_de_toxascaris_con_luz_polarizada_y_campo_oscuro.jpg"
           }
         ],
         "facts": [
@@ -634570,6 +639070,24 @@ window.GAME_DATA = [
             "author": "CDC",
             "license": "Public domain",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Dracunculus_medinensis.jpg/500px-Dracunculus_medinensis.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Dracunculus_medinensis_(Guinea_worm)_removal_(MIS_67-1563-4),_National_Museum_of_Health_and_Medicine_(4951110357).jpg",
+            "author": "National Museum of Health and Medicine",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Dracunculus_medinensis_%28Guinea_worm%29_removal_%28MIS_67-1563-4%29%2C_National_Museum_of_Health_and_Medicine_%284951110357%29.jpg/500px-Dracunculus_medinensis_%28Guinea_worm%29_removal_%28MIS_67-1563-4%29%2C_National_Museum_of_Health_and_Medicine_%284951110357%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:4951113771_b76622322c_bdracunculose.jpg",
+            "author": "Otis Historical Archives of “National Museum of Health & Medicine” (OTIS Archive",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/4951113771_b76622322c_bdracunculose.jpg/500px-4951113771_b76622322c_bdracunculose.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Dracunculus_medinensis_(Guinea_worm)_removal_(MIS_67-1563-2),_National_Museum_of_Health_and_Medicine_(4951694688).jpg",
+            "author": "National Museum of Health and Medicine",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Dracunculus_medinensis_%28Guinea_worm%29_removal_%28MIS_67-1563-2%29%2C_National_Museum_of_Health_and_Medicine_%284951694688%29.jpg/500px-Dracunculus_medinensis_%28Guinea_worm%29_removal_%28MIS_67-1563-2%29%2C_National_Museum_of_Health_and_Medicine_%284951694688%29.jpg"
           }
         ],
         "facts": [
@@ -634750,6 +639268,36 @@ window.GAME_DATA = [
             "author": "division, CSIRO",
             "license": "CC BY 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/CSIRO_ScienceImage_10819_The_tail_ends_of_11_Haemonchus_contortus_barbers_pole_worm_adult_females_The_worms_are_all_taken_from_one_sheep_infected_with_a_single_strain_of_this_worm_species.jpg/500px-thumbnail.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Haemonchus_contortus_(YPM_IZ_095254).jpeg",
+            "author": "Daniel J. Drew",
+            "license": "CC0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Haemonchus_contortus_%28YPM_IZ_095254%29.jpeg/500px-Haemonchus_contortus_%28YPM_IZ_095254%29.jpeg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Haemonchus_contortus_(YPM_IZ_101909).jpeg",
+            "author": "Daniel J. Drew",
+            "license": "CC0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Haemonchus_contortus_%28YPM_IZ_101909%29.jpeg/500px-Haemonchus_contortus_%28YPM_IZ_101909%29.jpeg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Haemonchus_contortus_(YPM_IZ_095252).jpeg",
+            "author": "Daniel J. Drew",
+            "license": "CC0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Haemonchus_contortus_%28YPM_IZ_095252%29.jpeg/500px-Haemonchus_contortus_%28YPM_IZ_095252%29.jpeg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Haemonchus_contortus_adult_and_eggs.jpg",
+            "author": "Oregon State University",
+            "license": "CC BY-SA 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Haemonchus_contortus_adult_and_eggs.jpg/500px-Haemonchus_contortus_adult_and_eggs.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Haemonchus_contortus_(YPM_IZ_101907).jpeg",
+            "author": "Daniel J. Drew",
+            "license": "CC0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Haemonchus_contortus_%28YPM_IZ_101907%29.jpeg/500px-Haemonchus_contortus_%28YPM_IZ_101907%29.jpeg"
           }
         ],
         "facts": [
@@ -635512,6 +640060,36 @@ window.GAME_DATA = [
             "author": "Joel Mills",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Canine_hookworm_egg_1.JPG/500px-Canine_hookworm_egg_1.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Ancylostoma_caninum_(YPM_IZ_093190).jpeg",
+            "author": "Daniel J. Drew",
+            "license": "CC0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Ancylostoma_caninum_%28YPM_IZ_093190%29.jpeg/500px-Ancylostoma_caninum_%28YPM_IZ_093190%29.jpeg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Ancylostoma_caninum_(YPM_IZ_093196).jpeg",
+            "author": "Daniel J. Drew",
+            "license": "CC0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Ancylostoma_caninum_%28YPM_IZ_093196%29.jpeg/500px-Ancylostoma_caninum_%28YPM_IZ_093196%29.jpeg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Ancylostoma_caninum_(YPM_IZ_093191).jpeg",
+            "author": "Daniel J. Drew",
+            "license": "CC0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Ancylostoma_caninum_%28YPM_IZ_093191%29.jpeg/500px-Ancylostoma_caninum_%28YPM_IZ_093191%29.jpeg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Ancylostoma_caninum_(YPM_IZ_093171).jpeg",
+            "author": "Daniel J. Drew",
+            "license": "CC0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Ancylostoma_caninum_%28YPM_IZ_093171%29.jpeg/500px-Ancylostoma_caninum_%28YPM_IZ_093171%29.jpeg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Hookworm_egg_20060418.jpg",
+            "author": "Joel Mills ( Joelmills na projektu Wikipedie v jazyce angličtina )",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Hookworm_egg_20060418.jpg/500px-Hookworm_egg_20060418.jpg"
           }
         ],
         "facts": [
@@ -636000,6 +640578,18 @@ window.GAME_DATA = [
             "author": "Veronidae",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Fasciola_hepatica_%28Linnaeus%2C_1758%29_2013_000.jpg/500px-Fasciola_hepatica_%28Linnaeus%2C_1758%29_2013_000.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:PSM_V23_D762_Egg_of_the_liver_fluke.jpg",
+            "author": "Neznámý Unknown author",
+            "license": "Public domain",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/PSM_V23_D762_Egg_of_the_liver_fluke.jpg/500px-PSM_V23_D762_Egg_of_the_liver_fluke.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Fasciola_hepatica_wm_(3)_anterior.jpg",
+            "author": "The Other 95%",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Fasciola_hepatica_wm_%283%29_anterior.jpg/500px-Fasciola_hepatica_wm_%283%29_anterior.jpg"
           }
         ],
         "facts": [
@@ -636402,6 +640992,18 @@ window.GAME_DATA = [
             "author": "Ajay Kumar Chaurasiya",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Egg_of_roundworm.jpg/500px-Egg_of_roundworm.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Ascaris_lumbricoides1.jpg",
+            "author": "Delorieux for Johann Gottfried Bremser",
+            "license": "Public domain",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Ascaris_lumbricoides1.jpg/500px-Ascaris_lumbricoides1.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Egg_of_Ascaris_lumbricoides.jpg",
+            "author": "Ajay Kumar Chaurasiya",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Egg_of_Ascaris_lumbricoides.jpg/500px-Egg_of_Ascaris_lumbricoides.jpg"
           }
         ],
         "facts": [
@@ -637065,6 +641667,12 @@ window.GAME_DATA = [
             "author": "",
             "license": "Public domain",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Echinococcus_multilocularis.jpg/500px-Echinococcus_multilocularis.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Echinococcus-multilocularis-adult.jpg",
+            "author": "Alan R Walker",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Echinococcus-multilocularis-adult.jpg/500px-Echinococcus-multilocularis-adult.jpg"
           }
         ],
         "facts": [
@@ -637302,6 +641910,24 @@ window.GAME_DATA = [
             "author": "",
             "license": "Public domain",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Gravid_proglottid_from_the_cestode_Taenia_saginata_5259_lores.jpg/500px-Gravid_proglottid_from_the_cestode_Taenia_saginata_5259_lores.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Taenia_saginata_immature_proglottid.jpg",
+            "author": "The Other 95%",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Taenia_saginata_immature_proglottid.jpg/500px-Taenia_saginata_immature_proglottid.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:T.saginata-egg.jpg",
+            "author": "Stefan Walkowski",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/T.saginata-egg.jpg/500px-T.saginata-egg.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Unbewaffneter_Bandwurm-drawing_rotate.jpg",
+            "author": "Dennis Myts",
+            "license": "Public domain",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Unbewaffneter_Bandwurm-drawing_rotate.jpg/500px-Unbewaffneter_Bandwurm-drawing_rotate.jpg"
           }
         ],
         "facts": [
@@ -637416,6 +642042,30 @@ window.GAME_DATA = [
             "author": "Joel Mills",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Dipylidium_caninum_ovum_1.JPG/500px-Dipylidium_caninum_ovum_1.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Dipylidium-adult.jpg",
+            "author": "Alan R Walker",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Dipylidium-adult.jpg/500px-Dipylidium-adult.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Dipylidium_caninum_ovum.JPG",
+            "author": "",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Dipylidium_caninum_ovum.JPG/500px-Dipylidium_caninum_ovum.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Vier_solitaire_tch%C3%A9n_Dipylidium_caninum.jpg",
+            "author": "Lucyin",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Vier_solitaire_tch%C3%A9n_Dipylidium_caninum.jpg/500px-Vier_solitaire_tch%C3%A9n_Dipylidium_caninum.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Vier_solitaire_tch%C3%A9n_grandeur_cl%C3%A9_oto.jpg",
+            "author": "Lucyin",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Vier_solitaire_tch%C3%A9n_grandeur_cl%C3%A9_oto.jpg/500px-Vier_solitaire_tch%C3%A9n_grandeur_cl%C3%A9_oto.jpg"
           }
         ],
         "facts": [
@@ -638951,6 +643601,12 @@ window.GAME_DATA = [
             "author": "Photo Credit: Content Providers(s):",
             "license": "Public domain",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Streptococcus_pyogenes_01.jpg/500px-Streptococcus_pyogenes_01.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Streptococcus_Pyogenes_(Group_A_Strep)_(52602981880).jpg",
+            "author": "NIAID",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Streptococcus_Pyogenes_%28Group_A_Strep%29_%2852602981880%29.jpg/500px-Streptococcus_Pyogenes_%28Group_A_Strep%29_%2852602981880%29.jpg"
           }
         ],
         "facts": [
@@ -639613,6 +644269,12 @@ window.GAME_DATA = [
             "author": "Julie6301",
             "license": "CC BY-SA 3.0",
             "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Bifidobacterium_longum_en_microscopie_%C3%A9lectronique.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Representative_morphologic_characteristics_of_B._longum_subsp._longum_strains.jpg",
+            "author": "Li Zhao, Song Wang, Jiahuan Dong, Jialu Shi, Jiaqi Guan, Deyu Liu, Fei Liu, Bail",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Representative_morphologic_characteristics_of_B._longum_subsp._longum_strains.jpg/500px-Representative_morphologic_characteristics_of_B._longum_subsp._longum_strains.jpg"
           }
         ],
         "facts": [
@@ -639818,6 +644480,18 @@ window.GAME_DATA = [
             "author": "Bruno in Columbus ( talk )",
             "license": "Public domain",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Dictyostelium_Late_Aggregation_2.JPG/500px-Dictyostelium_Late_Aggregation_2.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Dictyostelium_discoideum_fb_3.jpg",
+            "author": "Tyler Larsen",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Dictyostelium_discoideum_fb_3.jpg/500px-Dictyostelium_discoideum_fb_3.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Dictyostelium_discoideum_24.jpg",
+            "author": "Usman Bashir",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Dictyostelium_discoideum_24.jpg/500px-Dictyostelium_discoideum_24.jpg"
           }
         ],
         "facts": [
@@ -639978,6 +644652,18 @@ window.GAME_DATA = [
             "author": "Lebrac",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Schleimpilz_Nov_07.jpg/500px-Schleimpilz_Nov_07.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Physarum_polycephalum_2.jpg",
+            "author": "Seiya Ishibashi",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Physarum_polycephalum_2.jpg/500px-Physarum_polycephalum_2.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:R%C3%A9seau_veineux_physarum_polycephalum_2.jpg",
+            "author": "Tim Tim (VD fr)",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/R%C3%A9seau_veineux_physarum_polycephalum_2.jpg/500px-R%C3%A9seau_veineux_physarum_polycephalum_2.jpg"
           }
         ],
         "facts": [
@@ -640020,6 +644706,30 @@ window.GAME_DATA = [
             "author": "Ajay Kumar Chaurasiya",
             "license": "CC BY 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Nocardia_in_modified_Ziehl-Neelsen_staining.jpg/500px-Nocardia_in_modified_Ziehl-Neelsen_staining.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Nocardia_nepalensis_stereomicroscopy.jpg",
+            "author": "Broneps1",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Nocardia_nepalensis_stereomicroscopy.jpg/500px-Nocardia_nepalensis_stereomicroscopy.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Nocardia_species_CNA_plate_approximately_five_days_old.jpg",
+            "author": "Michaelphillipr",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Nocardia_species_CNA_plate_approximately_five_days_old.jpg/500px-Nocardia_species_CNA_plate_approximately_five_days_old.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Nocardia_species_colony_morphology_on_blood_agar.jpg",
+            "author": "Ajay Kumar Chaurasiya",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Nocardia_species_colony_morphology_on_blood_agar.jpg/500px-Nocardia_species_colony_morphology_on_blood_agar.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Norcardia_Bacteria_under_the_Microscope.jpg",
+            "author": "Siduduziwe Nxumalo",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Norcardia_Bacteria_under_the_Microscope.jpg/500px-Norcardia_Bacteria_under_the_Microscope.jpg"
           }
         ],
         "facts": [
@@ -640464,6 +645174,18 @@ window.GAME_DATA = [
             "author": "de:Benutzer:Brudersohn",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Serratia_marcescens.jpg/500px-Serratia_marcescens.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Streak_plate_with_Serratia_marcescens1.jpg",
+            "author": "Rosanna Hartline ( RosieScienceGal )",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Streak_plate_with_Serratia_marcescens1.jpg/500px-Streak_plate_with_Serratia_marcescens1.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Serratia_marcescens_growth_on_MHA.jpg",
+            "author": "Ajay Kumar Chaurasiya",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Serratia_marcescens_growth_on_MHA.jpg/500px-Serratia_marcescens_growth_on_MHA.jpg"
           }
         ],
         "facts": [
@@ -640613,6 +645335,12 @@ window.GAME_DATA = [
             "author": "Dukas.ju",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/DSC_0701_Steno.jpg/500px-DSC_0701_Steno.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Pentagon_streaking_on_petriplate.jpg",
+            "author": "Angel Mathew",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Pentagon_streaking_on_petriplate.jpg/500px-Pentagon_streaking_on_petriplate.jpg"
           }
         ],
         "facts": [
@@ -641301,6 +646029,24 @@ window.GAME_DATA = [
             "author": "",
             "license": "Public domain",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/M_leprae_ziehl_nielsen2.jpg/500px-M_leprae_ziehl_nielsen2.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Mycobacterium_leprae_in_Magnification_of_2000X.jpg",
+            "author": "Ajay Kumar Chaurasiya",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Mycobacterium_leprae_in_Magnification_of_2000X.jpg/500px-Mycobacterium_leprae_in_Magnification_of_2000X.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Mycobacterium_leprae_in_Magnification_of_1000X.jpg",
+            "author": "Ajay Kumar Chaurasiya",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Mycobacterium_leprae_in_Magnification_of_1000X.jpg/500px-Mycobacterium_leprae_in_Magnification_of_1000X.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Mycobacterium_leprae_in_Ziehl-Neelsen_stained_smear_of_sputum.jpg",
+            "author": "Ajay Kumar Chaurasiya",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Mycobacterium_leprae_in_Ziehl-Neelsen_stained_smear_of_sputum.jpg/500px-Mycobacterium_leprae_in_Ziehl-Neelsen_stained_smear_of_sputum.jpg"
           }
         ],
         "facts": [
@@ -641735,6 +646481,18 @@ window.GAME_DATA = [
             "author": "Frank Fox",
             "license": "CC BY-SA 3.0 de",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Mikrofoto.de-Brachionus_quadridentatus_6.jpg/500px-Mikrofoto.de-Brachionus_quadridentatus_6.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Rotifer_-_microscopic_view_40X.jpg",
+            "author": "Juan Carlos Fonseca Mata",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Rotifer_-_microscopic_view_40X.jpg/500px-Rotifer_-_microscopic_view_40X.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:%D0%96%D0%B8%D0%B2%D0%BE%D1%80%D0%BE%D0%B4%D1%8F%D1%89%D0%B0%D1%8F_%D0%BA%D0%BE%D0%BB%D0%BE%D0%B2%D1%80%D0%B0%D1%82%D0%BA%D0%B0.jpg",
+            "author": "Anatoly Mikhaltsov",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/%D0%96%D0%B8%D0%B2%D0%BE%D1%80%D0%BE%D0%B4%D1%8F%D1%89%D0%B0%D1%8F_%D0%BA%D0%BE%D0%BB%D0%BE%D0%B2%D1%80%D0%B0%D1%82%D0%BA%D0%B0.jpg/500px-%D0%96%D0%B8%D0%B2%D0%BE%D1%80%D0%BE%D0%B4%D1%8F%D1%89%D0%B0%D1%8F_%D0%BA%D0%BE%D0%BB%D0%BE%D0%B2%D1%80%D0%B0%D1%82%D0%BA%D0%B0.jpg"
           }
         ],
         "facts": [
@@ -641942,6 +646700,24 @@ window.GAME_DATA = [
             "author": "Luke Thompson from Chisholm Lab and Nikki Watson from Whitehead, MIT",
             "license": "CC0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Prochlorococcus_marinus.jpg/500px-Prochlorococcus_marinus.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Prochlorococcus_MED4_EM_Dividing.jpg",
+            "author": "Chisholm Lab",
+            "license": "CC0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Prochlorococcus_MED4_EM_Dividing.jpg/500px-Prochlorococcus_MED4_EM_Dividing.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Prochlorococcus_MIT9215_SEM.jpg",
+            "author": "Chisholm Lab",
+            "license": "CC0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Prochlorococcus_MIT9215_SEM.jpg/500px-Prochlorococcus_MIT9215_SEM.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Prochlorococcus_marinus_(cropped).jpg",
+            "author": "Luke Thompson from Chisholm Lab and Nikki Watson from Whitehead, MIT",
+            "license": "CC0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Prochlorococcus_marinus_%28cropped%29.jpg/500px-Prochlorococcus_marinus_%28cropped%29.jpg"
           }
         ],
         "facts": [
@@ -642317,6 +647093,12 @@ window.GAME_DATA = [
             "author": "Ajay Kumar Chaurasiya",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Amastigotes_of_Leishmania_donovani.jpg/500px-Amastigotes_of_Leishmania_donovani.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Amastogotes_of_Leishmania_donovani.jpg",
+            "author": "Ajay Kumar Chaurasiya",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Amastogotes_of_Leishmania_donovani.jpg/500px-Amastogotes_of_Leishmania_donovani.jpg"
           }
         ],
         "facts": [
@@ -642366,6 +647148,24 @@ window.GAME_DATA = [
             "author": "Abanima na projektu Wikipedie v jazyce arabština",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Leishmania_amastigotes.jpg/500px-Leishmania_amastigotes.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Leishmania_tropica_(259_20)_Cultured.jpg",
+            "author": "Doc. RNDr. Josef Reischig, CSc.",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Leishmania_tropica_%28259_20%29_Cultured.jpg/500px-Leishmania_tropica_%28259_20%29_Cultured.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Promastigotes_of_Leishmania_tropica.jpg",
+            "author": "Abanima",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Promastigotes_of_Leishmania_tropica.jpg/500px-Promastigotes_of_Leishmania_tropica.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Leishmania_tropica_(259_19)_Cultured.jpg",
+            "author": "Doc. RNDr. Josef Reischig, CSc.",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Leishmania_tropica_%28259_19%29_Cultured.jpg/500px-Leishmania_tropica_%28259_19%29_Cultured.jpg"
           }
         ],
         "facts": [
@@ -642469,6 +647269,12 @@ window.GAME_DATA = [
             "author": "Aung",
             "license": "Public domain",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Pleurococcus1pl.jpg/500px-Pleurococcus1pl.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Pleurococcus2pl.jpg",
+            "author": "Aung",
+            "license": "Public domain",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Pleurococcus2pl.jpg/500px-Pleurococcus2pl.jpg"
           }
         ],
         "facts": [
@@ -642586,6 +647392,18 @@ window.GAME_DATA = [
             "author": "HansN.",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Streptococcus_pneumoniae_on_agar_plates.jpg/500px-Streptococcus_pneumoniae_on_agar_plates.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Streptococcus_pneumoniae_columbia_agar.jpg",
+            "author": "Nathan Reading on Flickr",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Streptococcus_pneumoniae_columbia_agar.jpg/500px-Streptococcus_pneumoniae_columbia_agar.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:DiplococcusCSF_(cropped).jpg",
+            "author": "J3D3",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/DiplococcusCSF_%28cropped%29.jpg/500px-DiplococcusCSF_%28cropped%29.jpg"
           }
         ],
         "facts": [
@@ -643274,6 +648092,24 @@ window.GAME_DATA = [
             "author": "HonzaXJ",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Trapka_velka_Paramecium_caudatum.jpg/500px-Trapka_velka_Paramecium_caudatum.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Grupo_de_Paramecium_caudatum.jpg",
+            "author": "HernanToro",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Grupo_de_Paramecium_caudatum.jpg/500px-Grupo_de_Paramecium_caudatum.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Paramecium-ru.jpg",
+            "author": "HonzaXJ , russian text: Юкатан",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Paramecium-ru.jpg/500px-Paramecium-ru.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Kinglooma_toitumine.jpg",
+            "author": "HonzaXJ, Taivo (překlad)",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Kinglooma_toitumine.jpg/500px-Kinglooma_toitumine.jpg"
           }
         ],
         "facts": [
@@ -643546,6 +648382,24 @@ window.GAME_DATA = [
             "author": "Bob Blaylock ( talk )",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/20090719_062218_ParameciumBursaria.jpg/500px-20090719_062218_ParameciumBursaria.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Paramecium_bursaria_-_160x_-_II_(13263097105).jpg",
+            "author": "Picturepest",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Paramecium_bursaria_-_160x_-_II_%2813263097105%29.jpg/500px-Paramecium_bursaria_-_160x_-_II_%2813263097105%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Paramecium_bursaria_-_160x_-_I_(13263447114).jpg",
+            "author": "Picturepest",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Paramecium_bursaria_-_160x_-_I_%2813263447114%29.jpg/500px-Paramecium_bursaria_-_160x_-_I_%2813263447114%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Paramecium_bursaria_-_400x_(13263096305).jpg",
+            "author": "Picturepest",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Paramecium_bursaria_-_400x_%2813263096305%29.jpg/500px-Paramecium_bursaria_-_400x_%2813263096305%29.jpg"
           }
         ],
         "facts": [
@@ -644163,6 +649017,30 @@ window.GAME_DATA = [
             "author": "Dr Graham Beards",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Candida_albicans_2.jpg/500px-Candida_albicans_2.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Microscope_view_of_Candida_albicans_21.jpg",
+            "author": "Korinna",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Microscope_view_of_Candida_albicans_21.jpg/500px-Microscope_view_of_Candida_albicans_21.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Microscope_view_of_Candida_albicans_12.jpg",
+            "author": "Korinna",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Microscope_view_of_Candida_albicans_12.jpg/500px-Microscope_view_of_Candida_albicans_12.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Yeast_cells_of_Candida_albicans_in_Gram_staining_of_culture_microscopy.jpg",
+            "author": "Ajay Kumar Chaurasiya",
+            "license": "CC0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Yeast_cells_of_Candida_albicans_in_Gram_staining_of_culture_microscopy.jpg/500px-Yeast_cells_of_Candida_albicans_in_Gram_staining_of_culture_microscopy.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Candida_albicans_-_Gram_stain.jpg",
+            "author": "Dr Graham Beards",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Candida_albicans_-_Gram_stain.jpg/500px-Candida_albicans_-_Gram_stain.jpg"
           }
         ],
         "facts": [
@@ -644222,6 +649100,24 @@ window.GAME_DATA = [
             "author": "Stefan Walkowski",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/P._vivax_-_schizonts.jpg/500px-P._vivax_-_schizonts.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Plasmodium_vivax_with_characteristic_Schuffners_Dots.jpg",
+            "author": "Dr Osaro Erhabor",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Plasmodium_vivax_with_characteristic_Schuffners_Dots.jpg/500px-Plasmodium_vivax_with_characteristic_Schuffners_Dots.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Malaria_in_Peripheral_Blood_(6288574405).jpg",
+            "author": "Ed Uthman from Houston, TX, USA",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Malaria_in_Peripheral_Blood_%286288574405%29.jpg/500px-Malaria_in_Peripheral_Blood_%286288574405%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Plasmodium_vivax_(14402388635).jpg",
+            "author": "Michael Wunderli",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Plasmodium_vivax_%2814402388635%29.jpg/500px-Plasmodium_vivax_%2814402388635%29.jpg"
           }
         ],
         "facts": [
@@ -644386,6 +649282,24 @@ window.GAME_DATA = [
             "author": "HansN.",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Pseudomonas_aeruginosa_pigment_production.jpg/500px-Pseudomonas_aeruginosa_pigment_production.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Pseudomonas_aeruginosa_colony_morphology_on_blood_agar.jpg",
+            "author": "Ajay Kumar Chaurasiya",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Pseudomonas_aeruginosa_colony_morphology_on_blood_agar.jpg/500px-Pseudomonas_aeruginosa_colony_morphology_on_blood_agar.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Pseudomonas_aeruginosa_SEM.jpg",
+            "author": "Photo Credit: Janice Haney Carr Content Providers(s): CDC/ Janice Haney Carr",
+            "license": "Public domain",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Pseudomonas_aeruginosa_SEM.jpg/500px-Pseudomonas_aeruginosa_SEM.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Pseudomonas_aeruginosa_(eingef%C3%A4rbt).jpg",
+            "author": "HaefnerP",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Pseudomonas_aeruginosa_%28eingef%C3%A4rbt%29.jpg/500px-Pseudomonas_aeruginosa_%28eingef%C3%A4rbt%29.jpg"
           }
         ],
         "facts": [
@@ -644444,6 +649358,42 @@ window.GAME_DATA = [
             "author": "Photo Credit: Janice Carr",
             "license": "Public domain",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Acinetobacter_baumannii%2C_SEM%2C_9330_lores.JPG/500px-Acinetobacter_baumannii%2C_SEM%2C_9330_lores.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Acinetobacter_baumannii_complex_colony_morphology_on_MacConkey_medium.jpg",
+            "author": "Ajay Kumar Chaurasiya",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Acinetobacter_baumannii_complex_colony_morphology_on_MacConkey_medium.jpg/500px-Acinetobacter_baumannii_complex_colony_morphology_on_MacConkey_medium.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Acinetobacter_baumannii_complex_growth_on_MacConkey_agar.jpg",
+            "author": "Ajay Kumar Chaurasiya",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Acinetobacter_baumannii_complex_growth_on_MacConkey_agar.jpg/500px-Acinetobacter_baumannii_complex_growth_on_MacConkey_agar.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Acinetobacter_baumannii_Complex_on_MacConkey_Agar.jpg",
+            "author": "Ajay Kumar Chaurasiya",
+            "license": "CC0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Acinetobacter_baumannii_Complex_on_MacConkey_Agar.jpg/500px-Acinetobacter_baumannii_Complex_on_MacConkey_Agar.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Acinetobacter_baumannii_Complex_on_Blood_Agar_from_Sputum_Culture.jpg",
+            "author": "Ajay Kumar Chaurasiya",
+            "license": "CC0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Acinetobacter_baumannii_Complex_on_Blood_Agar_from_Sputum_Culture.jpg/500px-Acinetobacter_baumannii_Complex_on_Blood_Agar_from_Sputum_Culture.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Acinetobacter_growth_on_MacConkey_agar.jpg",
+            "author": "Ajay Kumar Chaurasiya",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Acinetobacter_growth_on_MacConkey_agar.jpg/500px-Acinetobacter_growth_on_MacConkey_agar.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Acinetobacter_baumannii_growth_on_CLED_medium.jpg",
+            "author": "Ajay Kumar Chaurasiya",
+            "license": "CC0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Acinetobacter_baumannii_growth_on_CLED_medium.jpg/500px-Acinetobacter_baumannii_growth_on_CLED_medium.jpg"
           }
         ],
         "facts": [
@@ -646301,6 +651251,18 @@ window.GAME_DATA = [
             "author": "Neznámý Unknown author",
             "license": "Public domain",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Caenorhabditis_elegans.jpg/500px-Caenorhabditis_elegans.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Fluorescence_microscopic_nematode.jpg",
+            "author": "Dineshbabudb",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Fluorescence_microscopic_nematode.jpg/500px-Fluorescence_microscopic_nematode.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Caenorhabditis_elegans_under_a_light_microscope_02.jpg",
+            "author": "Gannu03",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Caenorhabditis_elegans_under_a_light_microscope_02.jpg/500px-Caenorhabditis_elegans_under_a_light_microscope_02.jpg"
           }
         ],
         "facts": [
@@ -646617,6 +651579,12 @@ window.GAME_DATA = [
             "author": "Berman DS, Sumida SS, Henrici AC, Scott D, Reisz RR and Martens T",
             "license": "CC BY 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Eudibamus_fossil_and_skeleton.jpg/500px-Eudibamus_fossil_and_skeleton.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Detail_of_Eudibamus_cursoris_habitat_diorama_(European_Taxidermy_Championships_2025).jpg",
+            "author": "TB0815",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Detail_of_Eudibamus_cursoris_habitat_diorama_%28European_Taxidermy_Championships_2025%29.jpg/500px-Detail_of_Eudibamus_cursoris_habitat_diorama_%28European_Taxidermy_Championships_2025%29.jpg"
           }
         ],
         "facts": [
@@ -646847,6 +651815,30 @@ window.GAME_DATA = [
             "author": "Hiart",
             "license": "CC0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Phaeornis_myadestina_Stejn%2C_Bishop_Museum%2C_Honolulu.JPG/500px-Phaeornis_myadestina_Stejn%2C_Bishop_Museum%2C_Honolulu.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Naturalis_Biodiversity_Center_-_RMNH.AVES.110024_-_Myadestes_myadestinus_(Stejneger,_1887)_-_Kamao_or_Large_Kauai_Thrush_-_specimen_-_lateral_view.jpeg",
+            "author": "Stejneger, 1887",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Naturalis_Biodiversity_Center_-_RMNH.AVES.110024_-_Myadestes_myadestinus_%28Stejneger%2C_1887%29_-_Kamao_or_Large_Kauai_Thrush_-_specimen_-_lateral_view.jpeg/500px-Naturalis_Biodiversity_Center_-_RMNH.AVES.110024_-_Myadestes_myadestinus_%28Stejneger%2C_1887%29_-_Kamao_or_Large_Kauai_Thrush_-_specimen_-_lateral_view.jpeg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Naturalis_Biodiversity_Center_-_RMNH.AVES.110025_-_Myadestes_myadestinus_(Stejneger,_1887)_-_Kamao_or_Large_Kauai_Thrush_-_specimen_-_dorsal_view.jpeg",
+            "author": "Stejneger, 1887",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Naturalis_Biodiversity_Center_-_RMNH.AVES.110025_-_Myadestes_myadestinus_%28Stejneger%2C_1887%29_-_Kamao_or_Large_Kauai_Thrush_-_specimen_-_dorsal_view.jpeg/500px-Naturalis_Biodiversity_Center_-_RMNH.AVES.110025_-_Myadestes_myadestinus_%28Stejneger%2C_1887%29_-_Kamao_or_Large_Kauai_Thrush_-_specimen_-_dorsal_view.jpeg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Naturalis_Biodiversity_Center_-_RMNH.AVES.110024_-_Myadestes_myadestinus_(Stejneger,_1887)_-_Kamao_or_Large_Kauai_Thrush_-_specimen_-_dorsal_view.jpeg",
+            "author": "Stejneger, 1887",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Naturalis_Biodiversity_Center_-_RMNH.AVES.110024_-_Myadestes_myadestinus_%28Stejneger%2C_1887%29_-_Kamao_or_Large_Kauai_Thrush_-_specimen_-_dorsal_view.jpeg/500px-Naturalis_Biodiversity_Center_-_RMNH.AVES.110024_-_Myadestes_myadestinus_%28Stejneger%2C_1887%29_-_Kamao_or_Large_Kauai_Thrush_-_specimen_-_dorsal_view.jpeg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Naturalis_Biodiversity_Center_-_RMNH.AVES.110025_-_Myadestes_myadestinus_(Stejneger,_1887)_-_Kamao_or_Large_Kauai_Thrush_-_specimen_-_lateral_view.jpeg",
+            "author": "Stejneger, 1887",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Naturalis_Biodiversity_Center_-_RMNH.AVES.110025_-_Myadestes_myadestinus_%28Stejneger%2C_1887%29_-_Kamao_or_Large_Kauai_Thrush_-_specimen_-_lateral_view.jpeg/500px-Naturalis_Biodiversity_Center_-_RMNH.AVES.110025_-_Myadestes_myadestinus_%28Stejneger%2C_1887%29_-_Kamao_or_Large_Kauai_Thrush_-_specimen_-_lateral_view.jpeg"
           }
         ],
         "facts": [
@@ -646945,6 +651937,30 @@ window.GAME_DATA = [
             "author": "Prolagussardus",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Prolagus3.jpg/500px-Prolagus3.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Squelette_de_prolagus.jpg",
+            "author": "Auteur inconnu",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Squelette_de_prolagus.jpg/500px-Squelette_de_prolagus.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Skull_of_Prolagus_sardus,_Pleistocene,_Corsica.jpg",
+            "author": "Cardioceras",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Skull_of_Prolagus_sardus%2C_Pleistocene%2C_Corsica.jpg/500px-Skull_of_Prolagus_sardus%2C_Pleistocene%2C_Corsica.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Prolagus_sardus.jpg",
+            "author": "Tiia Monto",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Prolagus_sardus.jpg/500px-Prolagus_sardus.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Ricostruzione_dello_scheletro_di_Prolagus_Sardus.JPG",
+            "author": "Alessandra Imbellone",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Ricostruzione_dello_scheletro_di_Prolagus_Sardus.JPG/500px-Ricostruzione_dello_scheletro_di_Prolagus_Sardus.JPG"
           }
         ],
         "facts": [
@@ -647008,6 +652024,36 @@ window.GAME_DATA = [
             "author": "Anonymous, perhaps Thomas Watling",
             "license": "Public domain",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Lord_Howe_swamphen_colour_stages.jpg/500px-Lord_Howe_swamphen_colour_stages.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Liverpool_white_swamphen.jpg",
+            "author": "Vertebrate Zoology Curator",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Liverpool_white_swamphen.jpg/500px-Liverpool_white_swamphen.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:NML-VZ_D3213_Porphyrio_stanleyi.jpg",
+            "author": "Vertebrate Zoology Curator",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/NML-VZ_D3213_Porphyrio_stanleyi.jpg/500px-NML-VZ_D3213_Porphyrio_stanleyi.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Lord_Howe_swamphen.jpg",
+            "author": "Henrik Grønvold",
+            "license": "Public domain",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Lord_Howe_swamphen.jpg/500px-Lord_Howe_swamphen.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:SLNSW_479457_Ground_bird_Norfolk_Island.jpg",
+            "author": "",
+            "license": "Public domain",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/SLNSW_479457_Ground_bird_Norfolk_Island.jpg/500px-SLNSW_479457_Ground_bird_Norfolk_Island.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:PorphyrioStanleyiKeulemans.jpg",
+            "author": "John Gerrard Keulemans",
+            "license": "Public domain",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/PorphyrioStanleyiKeulemans.jpg/500px-PorphyrioStanleyiKeulemans.jpg"
           }
         ],
         "facts": [
@@ -647052,6 +652098,18 @@ window.GAME_DATA = [
             "author": "James St. John",
             "license": "CC BY 2.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Bison_latifrons_fossil_buffalo_%28Pleistocene%3B_North_America%29_7_%2815257780319%29.jpg/500px-Bison_latifrons_fossil_buffalo_%28Pleistocene%3B_North_America%29_7_%2815257780319%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Bison_latifrons_life_restoration_National_Park_Service_(cropped).jpg",
+            "author": "NPS image",
+            "license": "Public domain",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Bison_latifrons_life_restoration_National_Park_Service_%28cropped%29.jpg/500px-Bison_latifrons_life_restoration_National_Park_Service_%28cropped%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Bison_latifrons.JPG",
+            "author": "Ghedoghedo",
+            "license": "Public domain",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Bison_latifrons.JPG/500px-Bison_latifrons.JPG"
           }
         ],
         "facts": [
@@ -647690,6 +652748,18 @@ window.GAME_DATA = [
             "author": "Chartep",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/AL_444-2_skull.jpg/500px-AL_444-2_skull.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:20260307_%E2%80%9ELucy%E2%80%9C_(Australopithecus_afarensis)_Nationalmuseum_Prag_anagoria.jpg",
+            "author": "anagoria",
+            "license": "CC BY 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/20260307_%E2%80%9ELucy%E2%80%9C_%28Australopithecus_afarensis%29_Nationalmuseum_Prag_anagoria.jpg/500px-20260307_%E2%80%9ELucy%E2%80%9C_%28Australopithecus_afarensis%29_Nationalmuseum_Prag_anagoria.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Australopithecus_afarensis_skull.jpg",
+            "author": "Tiia Monto",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Australopithecus_afarensis_skull.jpg/500px-Australopithecus_afarensis_skull.jpg"
           }
         ],
         "facts": [
@@ -648594,6 +653664,12 @@ window.GAME_DATA = [
             "author": "Jeyradan",
             "license": "Public domain",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/DromiceiomimusSkull.JPG/500px-DromiceiomimusSkull.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Dromiceiomimus_03747.JPG",
+            "author": "Conty",
+            "license": "CC BY 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Dromiceiomimus_03747.JPG/500px-Dromiceiomimus_03747.JPG"
           }
         ],
         "facts": [
@@ -648951,6 +654027,12 @@ window.GAME_DATA = [
             "author": "GabrielNU",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Patagonykuspuertai.jpg/500px-Patagonykuspuertai.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Patagonykuspuertai_(flipped).jpg",
+            "author": "GabrielNU",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Patagonykuspuertai_%28flipped%29.jpg/500px-Patagonykuspuertai_%28flipped%29.jpg"
           }
         ],
         "facts": [
@@ -649104,6 +654186,12 @@ window.GAME_DATA = [
             "author": "Joseph Banks",
             "license": "Public domain",
             "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Cyanoramphus_zealandicus.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Cyanoramphus_zealandicus_1849_2.jpg",
+            "author": "Marc Athanase Parfait Œillet Des Murs",
+            "license": "Public domain",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Cyanoramphus_zealandicus_1849_2.jpg/500px-Cyanoramphus_zealandicus_1849_2.jpg"
           }
         ],
         "facts": [
@@ -649172,6 +654260,24 @@ window.GAME_DATA = [
             "author": "",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Plesiadapis_sp._-_MUSE.JPG/500px-Plesiadapis_sp._-_MUSE.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Plesiadapis3_NT.jpg",
+            "author": "Nobu Tamura Email:nobu.tamura@yahoo.com http://spinops.blogspot.com/ http://pale",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Plesiadapis3_NT.jpg/500px-Plesiadapis3_NT.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Plesiadapis_cookei_cast.jpg",
+            "author": "Bloopityboop",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Plesiadapis_cookei_cast.jpg/500px-Plesiadapis_cookei_cast.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Plesiadapis_tricuspidens_Cernay-Berru.jpg",
+            "author": "Ghedo",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Plesiadapis_tricuspidens_Cernay-Berru.jpg/500px-Plesiadapis_tricuspidens_Cernay-Berru.jpg"
           }
         ],
         "facts": [
@@ -649227,6 +654333,24 @@ window.GAME_DATA = [
             "author": "Ghedoghedo",
             "license": "Public domain",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Proganochelys.JPG/500px-Proganochelys.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Proganochelys_model.jpg",
+            "author": "Ghedoghedo",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Proganochelys_model.jpg/500px-Proganochelys_model.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Proganochelys_shell,_from_Abel,_O._(1919)._Die_St%C3%A4mme_der_Wirbeltiere.jpg",
+            "author": "Othenio Abel",
+            "license": "Public domain",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Proganochelys_shell%2C_from_Abel%2C_O._%281919%29._Die_St%C3%A4mme_der_Wirbeltiere.jpg/500px-Proganochelys_shell%2C_from_Abel%2C_O._%281919%29._Die_St%C3%A4mme_der_Wirbeltiere.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Proganochelys_quenstedti_1.JPG",
+            "author": "Ghedoghedo",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Proganochelys_quenstedti_1.JPG/500px-Proganochelys_quenstedti_1.JPG"
           }
         ],
         "facts": [
@@ -649839,6 +654963,24 @@ window.GAME_DATA = [
             "author": "Kuebi = Armin Kübelbeck",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Diplocynodon_darwini_01.jpg/500px-Diplocynodon_darwini_01.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Liaoning_Palaeontological_Museum_20250103_113444.jpg",
+            "author": "Dlyj0604",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Liaoning_Palaeontological_Museum_20250103_113444.jpg/500px-Liaoning_Palaeontological_Museum_20250103_113444.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Diplocynodon_darwini-Messel_Pit.JPG",
+            "author": "Nachosan",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Diplocynodon_darwini-Messel_Pit.JPG/500px-Diplocynodon_darwini-Messel_Pit.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Diplocynodon_darwini.jpg",
+            "author": "Ghedoghedo",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Diplocynodon_darwini.jpg/500px-Diplocynodon_darwini.jpg"
           }
         ],
         "facts": [
@@ -651156,6 +656298,30 @@ window.GAME_DATA = [
             "author": "Christophe Hendrickx",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Abelisaurus_skull.jpg/500px-Abelisaurus_skull.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Abelisaurus_BW.jpg",
+            "author": "Nobu Tamura ( https://spinops.blogspot.com )",
+            "license": "CC BY 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Abelisaurus_BW.jpg/500px-Abelisaurus_BW.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Abelisaurus_model_-_Castilla-La_Mancha_Paleontological_Museum_(Cuenca,_Spain)_03.jpg",
+            "author": "PePeEfe",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Abelisaurus_model_-_Castilla-La_Mancha_Paleontological_Museum_%28Cuenca%2C_Spain%29_03.jpg/500px-Abelisaurus_model_-_Castilla-La_Mancha_Paleontological_Museum_%28Cuenca%2C_Spain%29_03.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Abelisaurus.JPG",
+            "author": "Martin J. Kevil",
+            "license": "Public domain",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Abelisaurus.JPG/500px-Abelisaurus.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Holotipo_de_Abelisaurus_comahuensis.jpg",
+            "author": "Museo Provincial Carlos Ameghino",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Holotipo_de_Abelisaurus_comahuensis.jpg/500px-Holotipo_de_Abelisaurus_comahuensis.jpg"
           }
         ],
         "facts": [
@@ -651593,6 +656759,12 @@ window.GAME_DATA = [
             "author": "Jeyradan",
             "license": "Public domain",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Eoraptor1.JPG/500px-Eoraptor1.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Eoraptor_lunensis_recon.jpg",
+            "author": "Ildarotyrannus",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Eoraptor_lunensis_recon.jpg/500px-Eoraptor_lunensis_recon.jpg"
           }
         ],
         "facts": [
@@ -651677,6 +656849,18 @@ window.GAME_DATA = [
             "author": "Андрей Белов",
             "license": "CC BY 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Baryonyx_life_restoration.jpg/500px-Baryonyx_life_restoration.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Moulage_d%27une_griffe_de_baryonyx.JPG",
+            "author": "Thesupermat",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Moulage_d%27une_griffe_de_baryonyx.JPG/500px-Moulage_d%27une_griffe_de_baryonyx.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Baryonyx_in_Japan.jpg",
+            "author": "★Kumiko★",
+            "license": "CC BY-SA 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Baryonyx_in_Japan.jpg/500px-Baryonyx_in_Japan.jpg"
           }
         ],
         "facts": [
@@ -651724,6 +656908,18 @@ window.GAME_DATA = [
             "author": "Famille Wielosz-Caron",
             "license": "CC BY 2.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Acrocanthosaurus_skeleton_%281%29.jpg/500px-Acrocanthosaurus_skeleton_%281%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Sketch_acrocanthosaurus.jpg",
+            "author": "",
+            "license": "Public domain",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Sketch_acrocanthosaurus.jpg/500px-Sketch_acrocanthosaurus.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Acrocanthosaurus_9583.JPG",
+            "author": "Conty",
+            "license": "Public domain",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Acrocanthosaurus_9583.JPG/500px-Acrocanthosaurus_9583.JPG"
           }
         ],
         "facts": [
@@ -651912,6 +657108,12 @@ window.GAME_DATA = [
             "author": "James St. John",
             "license": "CC BY 2.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Dunkleosteus_terrelli_%28fossil_fish%29_%28Cleveland_Shale_Member%2C_Ohio_Shale%2C_Upper_Devonian%3B_Rocky_River_Valley%2C_Cleveland%2C_Ohio%2C_USA%29_16_%2833289195654%29.jpg/500px-Dunkleosteus_terrelli_%28fossil_fish%29_%28Cleveland_Shale_Member%2C_Ohio_Shale%2C_Upper_Devonian%3B_Rocky_River_Valley%2C_Cleveland%2C_Ohio%2C_USA%29_16_%2833289195654%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Dunkleosteus_terrelli_(fossil_fish)_(Cleveland_Shale_Member,_Ohio_Shale,_Upper_Devonian;_Rocky_River_Valley,_Cleveland,_Ohio,_USA)_28_(34131614015).jpg",
+            "author": "James St. John",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Dunkleosteus_terrelli_%28fossil_fish%29_%28Cleveland_Shale_Member%2C_Ohio_Shale%2C_Upper_Devonian%3B_Rocky_River_Valley%2C_Cleveland%2C_Ohio%2C_USA%29_28_%2834131614015%29.jpg/500px-Dunkleosteus_terrelli_%28fossil_fish%29_%28Cleveland_Shale_Member%2C_Ohio_Shale%2C_Upper_Devonian%3B_Rocky_River_Valley%2C_Cleveland%2C_Ohio%2C_USA%29_28_%2834131614015%29.jpg"
           }
         ],
         "facts": [
@@ -652216,6 +657418,42 @@ window.GAME_DATA = [
             "author": "Wolfgang Sauber",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/NHM_-_Caudipteryx_zoui.jpg/500px-NHM_-_Caudipteryx_zoui.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Caudipteryx_zoui_-_IMG_0687.jpg",
+            "author": "Daderot",
+            "license": "Public domain",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Caudipteryx_zoui_-_IMG_0687.jpg/500px-Caudipteryx_zoui_-_IMG_0687.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Caudipteryx_zoui_443.jpg",
+            "author": "Ghedoghedo",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Caudipteryx_zoui_443.jpg/500px-Caudipteryx_zoui_443.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Dinosauria_-_Caudipteryx.jpg",
+            "author": "Tylwyth Eldar",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Dinosauria_-_Caudipteryx.jpg/500px-Dinosauria_-_Caudipteryx.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Caudipteryx_zoui,_feathered_dinosaur_plate,_Early_Cretaceous,_Yixian_Formation,_Liaoning,_China_-_Houston_Museum_of_Natural_Science_-_DSC01866.JPG",
+            "author": "Daderot",
+            "license": "CC0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Caudipteryx_zoui%2C_feathered_dinosaur_plate%2C_Early_Cretaceous%2C_Yixian_Formation%2C_Liaoning%2C_China_-_Houston_Museum_of_Natural_Science_-_DSC01866.JPG/500px-Caudipteryx_zoui%2C_feathered_dinosaur_plate%2C_Early_Cretaceous%2C_Yixian_Formation%2C_Liaoning%2C_China_-_Houston_Museum_of_Natural_Science_-_DSC01866.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Caudipteryx_zoui_in_Wien.JPG",
+            "author": "A,Ocram",
+            "license": "Public domain",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Caudipteryx_zoui_in_Wien.JPG/500px-Caudipteryx_zoui_in_Wien.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Caudipteryx.jpg",
+            "author": "Gary Todd",
+            "license": "CC0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Caudipteryx.jpg/500px-Caudipteryx.jpg"
           }
         ],
         "facts": [
@@ -652563,6 +657801,24 @@ window.GAME_DATA = [
             "author": "Nobu Tamura (nobu.tamura@yahoo.com)",
             "license": "CC BY-SA 4.0",
             "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Dryosaurus_NT.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Dryosaurus_elderae_(ornithopod_dinosaur_skull)_(Morrison_Formation,_Upper_Jurassic;_Carnegie_Quarry,_Dinosaur_National_Monument,_Utah,_USA)_2_(48695847672).jpg",
+            "author": "James St. John",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Dryosaurus_elderae_%28ornithopod_dinosaur_skull%29_%28Morrison_Formation%2C_Upper_Jurassic%3B_Carnegie_Quarry%2C_Dinosaur_National_Monument%2C_Utah%2C_USA%29_2_%2848695847672%29.jpg/500px-Dryosaurus_elderae_%28ornithopod_dinosaur_skull%29_%28Morrison_Formation%2C_Upper_Jurassic%3B_Carnegie_Quarry%2C_Dinosaur_National_Monument%2C_Utah%2C_USA%29_2_%2848695847672%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Dryosaurus_altus_skull_Beneski.jpg",
+            "author": "Jonathan Chen",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Dryosaurus_altus_skull_Beneski.jpg/500px-Dryosaurus_altus_skull_Beneski.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Dryosaurus_skull_dinosaur_national_monument.jpg",
+            "author": "Jens Lallensack",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Dryosaurus_skull_dinosaur_national_monument.jpg/500px-Dryosaurus_skull_dinosaur_national_monument.jpg"
           }
         ],
         "facts": [
@@ -652612,6 +657868,18 @@ window.GAME_DATA = [
             "author": "Ghedo",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Lesothosaurus_sp_skull_3894.jpg/500px-Lesothosaurus_sp_skull_3894.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Lesothosaurus_diagnosticus_skull_5.JPG",
+            "author": "Ghedoghedo",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Lesothosaurus_diagnosticus_skull_5.JPG/500px-Lesothosaurus_diagnosticus_skull_5.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Lesothosaurus_diagnosticus.jpg",
+            "author": "Ghedoghedo",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Lesothosaurus_diagnosticus.jpg/500px-Lesothosaurus_diagnosticus.jpg"
           }
         ],
         "facts": [
@@ -653069,6 +658337,18 @@ window.GAME_DATA = [
             "author": "No machine-readable author provided. ArthurWeasley~commonswiki assumed (based on",
             "license": "CC BY 2.5",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Elasmosaurus2.jpg/500px-Elasmosaurus2.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Elasmosaurus_platyurus.jpg",
+            "author": "Dimitri Bogdanov",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Elasmosaurus_platyurus.jpg/500px-Elasmosaurus_platyurus.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Elasmosaurus.jpg",
+            "author": "Corbin Rainbolt",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Elasmosaurus.jpg/500px-Elasmosaurus.jpg"
           }
         ],
         "facts": [
@@ -653143,6 +658423,18 @@ window.GAME_DATA = [
             "author": "Nobu Tamura ( http://spinops.blogspot.com )",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Ouranosaurus.jpg/500px-Ouranosaurus.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Ouranosaurus_nigeriensisNV.jpg",
+            "author": "Offy",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Ouranosaurus_nigeriensisNV.jpg/500px-Ouranosaurus_nigeriensisNV.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Ouranosaurus_-_Museo_di_Storia_Naturale_di_Venezia.jpg",
+            "author": "DagdaMor",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Ouranosaurus_-_Museo_di_Storia_Naturale_di_Venezia.jpg/500px-Ouranosaurus_-_Museo_di_Storia_Naturale_di_Venezia.jpg"
           }
         ],
         "facts": [
@@ -653388,6 +658680,36 @@ window.GAME_DATA = [
             "author": "Ryan Somma",
             "license": "CC BY-SA 2.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Deinocheirus_mirificus.jpg/500px-Deinocheirus_mirificus.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Deinocheirus_mount.jpg",
+            "author": "ケラトプスユウタ",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Deinocheirus_mount.jpg/500px-Deinocheirus_mount.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Deinocheirus3NHM.jpg",
+            "author": "No machine-readable author provided. Vasilis~commonswiki assumed (based on copyr",
+            "license": "Public domain",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Deinocheirus3NHM.jpg/500px-Deinocheirus3NHM.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Deinocheirus.001_-_Natural_History_Museum_of_London.JPG",
+            "author": "Fernando Losada Rodríguez",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Deinocheirus.001_-_Natural_History_Museum_of_London.JPG/500px-Deinocheirus.001_-_Natural_History_Museum_of_London.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Deinocheirus.jpg",
+            "author": "Jacek Plewa",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Deinocheirus.jpg/500px-Deinocheirus.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Deinocheirus_forelimbs_at_NHM.jpg",
+            "author": "en:User:Ballista",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Deinocheirus_forelimbs_at_NHM.jpg/500px-Deinocheirus_forelimbs_at_NHM.jpg"
           }
         ],
         "facts": [
@@ -653766,6 +659088,30 @@ window.GAME_DATA = [
             "author": "Jose manuel canete",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Thylacosmilus_3D_model.jpg/500px-Thylacosmilus_3D_model.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Thylacosmilus_NT_small.jpg",
+            "author": "Nobu Tamura email:nobu.tamura@yahoo.com http://spinops.blogspot.com/",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Thylacosmilus_NT_small.jpg/500px-Thylacosmilus_NT_small.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Thylacosmilus-bpk.jpg",
+            "author": "Baperookamo",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Thylacosmilus-bpk.jpg/500px-Thylacosmilus-bpk.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Thylacosmilus_(Recreacion).jpg",
+            "author": "Jose manuel canete",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Thylacosmilus_%28Recreacion%29.jpg/500px-Thylacosmilus_%28Recreacion%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Thylacosmilus.jpg",
+            "author": "Jose manuel canete",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Thylacosmilus.jpg/500px-Thylacosmilus.jpg"
           }
         ],
         "facts": [
@@ -653882,6 +659228,12 @@ window.GAME_DATA = [
             "author": "Nobu Tamura ( http://spinops.blogspot.com )",
             "license": "CC BY 3.0",
             "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Rahonavis_NT.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Rahonavis_BW.jpg",
+            "author": "Nobu Tamura ( http://spinops.blogspot.com )",
+            "license": "CC BY 2.5",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Rahonavis_BW.jpg/500px-Rahonavis_BW.jpg"
           }
         ],
         "facts": [
@@ -654528,6 +659880,12 @@ window.GAME_DATA = [
             "author": "Fred Wierum",
             "license": "CC BY 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Irritator_Life_Reconstruction.jpg/500px-Irritator_Life_Reconstruction.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Irritator_by_Abelov.jpg",
+            "author": "Андрей Белов",
+            "license": "CC BY 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Irritator_by_Abelov.jpg/500px-Irritator_by_Abelov.jpg"
           }
         ],
         "facts": [
@@ -654665,6 +660023,18 @@ window.GAME_DATA = [
             "author": "LadyofHats",
             "license": "Public domain",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Moeritherium_lyonsi_skull.JPG/500px-Moeritherium_lyonsi_skull.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Moeritherium_lyonsi_(fossil_mammal)_(Eocene)_(32167459460).jpg",
+            "author": "James St. John",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Moeritherium_lyonsi_%28fossil_mammal%29_%28Eocene%29_%2832167459460%29.jpg/500px-Moeritherium_lyonsi_%28fossil_mammal%29_%28Eocene%29_%2832167459460%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Moeritherium_lyonsi_recon_du_crane.jpg",
+            "author": "Ghedo",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Moeritherium_lyonsi_recon_du_crane.jpg/500px-Moeritherium_lyonsi_recon_du_crane.jpg"
           }
         ],
         "facts": [
@@ -655053,6 +660423,24 @@ window.GAME_DATA = [
             "author": "Nobu Tamura ( http://spinops.blogspot.com )",
             "license": "CC BY 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Pentaceratops_BW.jpg/500px-Pentaceratops_BW.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Pentaceratops_BW_flipped.jpg",
+            "author": "Nobu Tamura ( http://spinops.blogspot.com )",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Pentaceratops_BW_flipped.jpg/500px-Pentaceratops_BW_flipped.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Pentaceratops_skull_profile_0870.JPG",
+            "author": "Conty",
+            "license": "Public domain",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Pentaceratops_skull_profile_0870.JPG/500px-Pentaceratops_skull_profile_0870.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Pentaceratops_sternbergii.jpg",
+            "author": "Sampson SD, Loewen MA, Farke AA, Roberts EM, Forster CA, et al.",
+            "license": "CC BY 2.5",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Pentaceratops_sternbergii.jpg/500px-Pentaceratops_sternbergii.jpg"
           }
         ],
         "facts": [
@@ -655213,6 +660601,42 @@ window.GAME_DATA = [
             "author": "Laikayiu",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Sinornithosaurus_millenii_2.JPG/500px-Sinornithosaurus_millenii_2.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Life_reconstruction_Sinornithosaurus_millenii.jpg",
+            "author": "Anonymous Dinonerd",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Life_reconstruction_Sinornithosaurus_millenii.jpg/500px-Life_reconstruction_Sinornithosaurus_millenii.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Sinornithosaurus_millenii_fossil.jpg",
+            "author": "Gary Todd",
+            "license": "CC0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Sinornithosaurus_millenii_fossil.jpg/500px-Sinornithosaurus_millenii_fossil.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Sinornithosaurus_millenii-001.JPG",
+            "author": "Hectonichus",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Sinornithosaurus_millenii-001.JPG/500px-Sinornithosaurus_millenii-001.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Sinornithosaurus_millenii_reconstruction.jpg",
+            "author": "D. Gordon E. Robertson",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Sinornithosaurus_millenii_reconstruction.jpg/500px-Sinornithosaurus_millenii_reconstruction.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Dave-Geological_Museum_of_China.jpg",
+            "author": "Jonathan Chen",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Dave-Geological_Museum_of_China.jpg/500px-Dave-Geological_Museum_of_China.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Liaoning_Palaeontological_Museum_20250103_125238.jpg",
+            "author": "Dlyj0604",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Liaoning_Palaeontological_Museum_20250103_125238.jpg/500px-Liaoning_Palaeontological_Museum_20250103_125238.jpg"
           }
         ],
         "facts": [
@@ -655258,6 +660682,18 @@ window.GAME_DATA = [
             "author": "Nobumichi Tamura",
             "license": "CC BY 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Placerias_BW.jpg/500px-Placerias_BW.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Placerias_Mar_2025.jpg",
+            "author": "TerribleReptiles77",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Placerias_Mar_2025.jpg/500px-Placerias_Mar_2025.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Placerias1DB.jpg",
+            "author": "Dimitri Bogdanov",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Placerias1DB.jpg/500px-Placerias1DB.jpg"
           }
         ],
         "facts": [
@@ -655355,6 +660791,24 @@ window.GAME_DATA = [
             "author": "Nobu Tamura ( http://spinops.blogspot.com )",
             "license": "CC BY 2.5",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Diplocaulus_BW.jpg/500px-Diplocaulus_BW.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Diplocaulus_-_Natural_history_museum_of_Geneva.jpg",
+            "author": "adrigu",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Diplocaulus_-_Natural_history_museum_of_Geneva.jpg/500px-Diplocaulus_-_Natural_history_museum_of_Geneva.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Gfp-boomerang-headed-amphibian.jpg",
+            "author": "Yinan Chen",
+            "license": "Public Domain",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Gfp-boomerang-headed-amphibian.jpg/500px-Gfp-boomerang-headed-amphibian.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Diplocaulus.jpg",
+            "author": "Alvaro miguel pascale",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Diplocaulus.jpg/500px-Diplocaulus.jpg"
           }
         ],
         "facts": [
@@ -655530,6 +660984,18 @@ window.GAME_DATA = [
             "author": "No machine-readable author provided. ArthurWeasley~commonswiki assumed (based on",
             "license": "CC BY 2.5",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Agilisaurus2.jpg/500px-Agilisaurus2.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Agilisaurus.jpg",
+            "author": "",
+            "license": "CC BY 2.5",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Agilisaurus.jpg/500px-Agilisaurus.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:%E5%8A%B3%E6%B0%8F%E7%81%B5%E9%BE%9904910.jpg",
+            "author": "Augusthaiho",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/%E5%8A%B3%E6%B0%8F%E7%81%B5%E9%BE%9904910.jpg/500px-%E5%8A%B3%E6%B0%8F%E7%81%B5%E9%BE%9904910.jpg"
           }
         ],
         "facts": [
@@ -655597,6 +661063,12 @@ window.GAME_DATA = [
             "author": "BaryTyrannus",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Tyrannotitan_Chubutensis_Reconstruction_.jpg/500px-Tyrannotitan_Chubutensis_Reconstruction_.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Tyrannotitan_Chubutensis_Reconstruction.jpg",
+            "author": "BaryTyrannus",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Tyrannotitan_Chubutensis_Reconstruction.jpg/500px-Tyrannotitan_Chubutensis_Reconstruction.jpg"
           }
         ],
         "facts": [
@@ -655772,6 +661244,18 @@ window.GAME_DATA = [
             "author": "Laikayiu",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Sinosauropteryx_prima.JPG/500px-Sinosauropteryx_prima.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Sinosauropteryx_prima,_feathered_dinosaur_plate,_Early_Cretaceous,_Yixian_Formation,_Liaoning,_China_-_Houston_Museum_of_Natural_Science_-_DSC01872.JPG",
+            "author": "Daderot",
+            "license": "CC0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Sinosauropteryx_prima%2C_feathered_dinosaur_plate%2C_Early_Cretaceous%2C_Yixian_Formation%2C_Liaoning%2C_China_-_Houston_Museum_of_Natural_Science_-_DSC01872.JPG/500px-Sinosauropteryx_prima%2C_feathered_dinosaur_plate%2C_Early_Cretaceous%2C_Yixian_Formation%2C_Liaoning%2C_China_-_Houston_Museum_of_Natural_Science_-_DSC01872.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Sinosauropteryx_prima_feathered_dinosaur_(Yixian_Formation,_Lower_Cretaceous;_Sihetun_Quarry,_Liaoning_Province,_northeastern_China)_(15189586090).jpg",
+            "author": "James St. John",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Sinosauropteryx_prima_feathered_dinosaur_%28Yixian_Formation%2C_Lower_Cretaceous%3B_Sihetun_Quarry%2C_Liaoning_Province%2C_northeastern_China%29_%2815189586090%29.jpg/500px-Sinosauropteryx_prima_feathered_dinosaur_%28Yixian_Formation%2C_Lower_Cretaceous%3B_Sihetun_Quarry%2C_Liaoning_Province%2C_northeastern_China%29_%2815189586090%29.jpg"
           }
         ],
         "facts": [
@@ -655954,6 +661438,12 @@ window.GAME_DATA = [
             "author": "Daderot",
             "license": "CC0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Shunosaurus_-_Finnish_Museum_of_Natural_History.jpg/500px-Shunosaurus_-_Finnish_Museum_of_Natural_History.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Zigong_Dinosaur_Museum_Shunosaurus_skull_top.jpg",
+            "author": "Zhangzhugang",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Zigong_Dinosaur_Museum_Shunosaurus_skull_top.jpg/500px-Zigong_Dinosaur_Museum_Shunosaurus_skull_top.jpg"
           }
         ],
         "facts": [
@@ -656403,6 +661893,36 @@ window.GAME_DATA = [
             "author": "Ryan Somma",
             "license": "CC BY-SA 2.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Seymouria1.jpg/500px-Seymouria1.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:The_dinosaur_book_-_the_ruling_reptiles_and_their_relatives_(1951)_(19777733854).jpg",
+            "author": "Internet Archive Book Images",
+            "license": "No restrictions",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/The_dinosaur_book_-_the_ruling_reptiles_and_their_relatives_%281951%29_%2819777733854%29.jpg/500px-The_dinosaur_book_-_the_ruling_reptiles_and_their_relatives_%281951%29_%2819777733854%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Gfp-seymouria.jpg",
+            "author": "Yinan Chen",
+            "license": "Public Domain",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Gfp-seymouria.jpg/500px-Gfp-seymouria.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Seymouria2.jpg",
+            "author": "Dimitri Bogdanov",
+            "license": "CC BY 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Seymouria2.jpg/500px-Seymouria2.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Seymouria2_(flipped).jpg",
+            "author": "Dimitri Bogdanov",
+            "license": "CC BY 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Seymouria2_%28flipped%29.jpg/500px-Seymouria2_%28flipped%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Seymouria_model_WMNH.jpg",
+            "author": "Neil Pezzoni",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Seymouria_model_WMNH.jpg/500px-Seymouria_model_WMNH.jpg"
           }
         ],
         "facts": [
@@ -656451,6 +661971,18 @@ window.GAME_DATA = [
             "author": "Dimitri Bogdanov",
             "license": "Public domain",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/TylosaurusDB2.jpg/500px-TylosaurusDB2.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Tylosaurus_skull_in_the_Smithsonian.jpg",
+            "author": "Eden, Janine and Jim",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Tylosaurus_skull_in_the_Smithsonian.jpg/500px-Tylosaurus_skull_in_the_Smithsonian.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Tylosaurus_(10436664033).jpg",
+            "author": "Gary Todd from Xinzheng, China",
+            "license": "CC0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Tylosaurus_%2810436664033%29.jpg/500px-Tylosaurus_%2810436664033%29.jpg"
           }
         ],
         "facts": [
@@ -656681,6 +662213,18 @@ window.GAME_DATA = [
             "author": "Dr. Günter Bechly",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Ichthyostega_model.jpg/500px-Ichthyostega_model.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:IchthyostegaModel.jpg",
+            "author": "Jon Houseman",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/IchthyostegaModel.jpg/500px-IchthyostegaModel.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Ichthyostega_sp._-_MUSE.jpg",
+            "author": "",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Ichthyostega_sp._-_MUSE.jpg/500px-Ichthyostega_sp._-_MUSE.jpg"
           }
         ],
         "facts": [
@@ -656778,6 +662322,30 @@ window.GAME_DATA = [
             "author": "Nobu Tamura ( http://spinops.blogspot.com )",
             "license": "CC BY 2.5",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Tiktaalik_BW.jpg/500px-Tiktaalik_BW.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Tiktaalik_model_at_the_Harvard_Museum_of_Natural_History.jpg",
+            "author": "Ryan Schwark",
+            "license": "CC0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Tiktaalik_model_at_the_Harvard_Museum_of_Natural_History.jpg/500px-Tiktaalik_model_at_the_Harvard_Museum_of_Natural_History.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Tiktaalik_reconstruction_3.jpg",
+            "author": "Bloopityboop",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Tiktaalik_reconstruction_3.jpg/500px-Tiktaalik_reconstruction_3.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Tiktaalik_Warsaw1.jpg",
+            "author": "Shalom",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Tiktaalik_Warsaw1.jpg/500px-Tiktaalik_Warsaw1.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Tiktaalik_swimming.JPG",
+            "author": "Conty",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Tiktaalik_swimming.JPG/500px-Tiktaalik_swimming.JPG"
           }
         ],
         "facts": [
@@ -656940,6 +662508,24 @@ window.GAME_DATA = [
             "author": "Original uploader was ДиБгд (dmitrchel@mail.ru)",
             "license": "Public domain",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Torvosaurus_tanner_DBi.jpg/500px-Torvosaurus_tanner_DBi.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Torvosaurus_gurneyi.jpg",
+            "author": "Foolp",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Torvosaurus_gurneyi.jpg/500px-Torvosaurus_gurneyi.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Torvosaurus_tanneri_3D_model.jpg",
+            "author": "Петр Меньшиков",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Torvosaurus_tanneri_3D_model.jpg/500px-Torvosaurus_tanneri_3D_model.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Torvosaurus.jpg",
+            "author": "No machine-readable author provided. ArthurWeasley~commonswiki assumed (based on",
+            "license": "CC BY 2.5",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Torvosaurus.jpg/500px-Torvosaurus.jpg"
           }
         ],
         "facts": [
@@ -657418,6 +663004,18 @@ window.GAME_DATA = [
             "author": "Esv - Eduard Solà Vázquez",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Pachyrhinosaurus_skull.jpg/500px-Pachyrhinosaurus_skull.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Royal_Tyrrell_Iddesleigh_Pachyrhinosaurus_(2).jpg",
+            "author": "Bloopityboop",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Royal_Tyrrell_Iddesleigh_Pachyrhinosaurus_%282%29.jpg/500px-Royal_Tyrrell_Iddesleigh_Pachyrhinosaurus_%282%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Pachyrhinosaurus_sp._(TMP_2002.076.0001),_Royal_Tyrrell_Museum,_Drumheller,_Alberta,_2025-07-13_02.jpg",
+            "author": "Chris Woodrich",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Pachyrhinosaurus_sp._%28TMP_2002.076.0001%29%2C_Royal_Tyrrell_Museum%2C_Drumheller%2C_Alberta%2C_2025-07-13_02.jpg/500px-Pachyrhinosaurus_sp._%28TMP_2002.076.0001%29%2C_Royal_Tyrrell_Museum%2C_Drumheller%2C_Alberta%2C_2025-07-13_02.jpg"
           }
         ],
         "facts": [
@@ -657611,6 +663209,24 @@ window.GAME_DATA = [
             "author": "D. Gordon E. Robertson",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Anchiceratops_ornatus_skeleton.jpg/500px-Anchiceratops_ornatus_skeleton.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Anchiceratops_04625.JPG",
+            "author": "Conty",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Anchiceratops_04625.JPG/500px-Anchiceratops_04625.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:AnchiceratopsDinoMcanb.jpg",
+            "author": "Photnart",
+            "license": "CC0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/AnchiceratopsDinoMcanb.jpg/500px-AnchiceratopsDinoMcanb.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Anchiceratops_UMMNH.jpg",
+            "author": "Jonathan Chen",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Anchiceratops_UMMNH.jpg/500px-Anchiceratops_UMMNH.jpg"
           }
         ],
         "facts": [
@@ -657654,6 +663270,12 @@ window.GAME_DATA = [
             "author": "DiBgd na projektu Wikipedie v jazyce angličtina",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/AlamosaurusDB.jpg/500px-AlamosaurusDB.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Alamosaurus_sanjuanensis_life_restoration.jpg",
+            "author": "Anonymous Dinonerd",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Alamosaurus_sanjuanensis_life_restoration.jpg/500px-Alamosaurus_sanjuanensis_life_restoration.jpg"
           }
         ],
         "facts": [
@@ -657903,6 +663525,24 @@ window.GAME_DATA = [
             "author": "Nobu Tamura ( http://spinops.blogspot.com )",
             "license": "CC BY 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Arrhinoceratops_BW.jpg/500px-Arrhinoceratops_BW.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:ROM_-_Arrhinoceratops_Brachyops.jpg",
+            "author": "Staka",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/ROM_-_Arrhinoceratops_Brachyops.jpg/500px-ROM_-_Arrhinoceratops_Brachyops.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Arrhinoceratops_head_bw.jpg",
+            "author": "No machine-readable author provided. Esv assumed (based on copyright claims).",
+            "license": "Public domain",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Arrhinoceratops_head_bw.jpg/500px-Arrhinoceratops_head_bw.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Arrhinoceratops.jpg",
+            "author": "No machine-readable author provided. ArthurWeasley~commonswiki assumed (based on",
+            "license": "CC BY 2.5",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Arrhinoceratops.jpg/500px-Arrhinoceratops.jpg"
           }
         ],
         "facts": [
@@ -658014,6 +663654,12 @@ window.GAME_DATA = [
             "author": "Claire H. from New York City, USA",
             "license": "CC BY-SA 2.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Brachyceratops_montanensis.jpg/500px-Brachyceratops_montanensis.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Dibujo_de_Brachyceratops_by_Andr%C3%A9s_Felippe_Lasso_Arellano.jpg",
+            "author": "Nobu Tamura ( http://spinops.blogspot.com ), traced by AndreXs5",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Dibujo_de_Brachyceratops_by_Andr%C3%A9s_Felippe_Lasso_Arellano.jpg/500px-Dibujo_de_Brachyceratops_by_Andr%C3%A9s_Felippe_Lasso_Arellano.jpg"
           }
         ],
         "facts": [
@@ -658176,6 +663822,12 @@ window.GAME_DATA = [
             "author": "Ghedoghedo",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Dryopithecus_fontani_3.JPG/500px-Dryopithecus_fontani_3.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:DryopithecusDB15.jpg",
+            "author": "DiBgd",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/DryopithecusDB15.jpg/500px-DryopithecusDB15.jpg"
           }
         ],
         "facts": [
@@ -658341,6 +663993,12 @@ window.GAME_DATA = [
             "author": "Strange Biology",
             "license": "CC BY 2.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Scutellosaurus_skeleton.jpg/500px-Scutellosaurus_skeleton.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Nobu_Tamura%27s_Scutellosaurus_Mirrored.jpg",
+            "author": "Nobu Tamura",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Nobu_Tamura%27s_Scutellosaurus_Mirrored.jpg/500px-Nobu_Tamura%27s_Scutellosaurus_Mirrored.jpg"
           }
         ],
         "facts": [
@@ -658379,6 +664037,12 @@ window.GAME_DATA = [
             "author": "User:Captmondo",
             "license": "Copyrighted free use",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/HuayangosaurusTaibaii-PaleozoologicalMuseumOfChina-May23-08.jpg/500px-HuayangosaurusTaibaii-PaleozoologicalMuseumOfChina-May23-08.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Huayangosaurus_BW.jpg",
+            "author": "Nobu Tamura ( http://spinops.blogspot.com )",
+            "license": "CC BY 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Huayangosaurus_BW.jpg/500px-Huayangosaurus_BW.jpg"
           }
         ],
         "facts": [
@@ -658488,6 +664152,12 @@ window.GAME_DATA = [
             "author": "James St. John",
             "license": "CC BY 2.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Nanotyrannus_lancensis_skull.jpg/500px-Nanotyrannus_lancensis_skull.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Nanotyrannus.jpg",
+            "author": "BossiAlex",
+            "license": "FAL",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Nanotyrannus.jpg/500px-Nanotyrannus.jpg"
           }
         ],
         "facts": [
@@ -658762,6 +664432,24 @@ window.GAME_DATA = [
             "author": "Nobu Tamura ( http://spinops.blogspot.com )",
             "license": "CC BY 2.5",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Edaphosaurus_BW.jpg/500px-Edaphosaurus_BW.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Edaphosaurus_boanerges_(fossil_reptile)_(Nocona_Formation,_Lower_Permian;_Archer_County,_Texas,_USA)_2.jpg",
+            "author": "James St. John",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Edaphosaurus_boanerges_%28fossil_reptile%29_%28Nocona_Formation%2C_Lower_Permian%3B_Archer_County%2C_Texas%2C_USA%29_2.jpg/500px-Edaphosaurus_boanerges_%28fossil_reptile%29_%28Nocona_Formation%2C_Lower_Permian%3B_Archer_County%2C_Texas%2C_USA%29_2.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Edaphosaurus_boanerges_(fossil_reptile)_(Nocona_Formation,_Lower_Permian;_Archer_County,_Texas,_USA)_3.jpg",
+            "author": "James St. John",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Edaphosaurus_boanerges_%28fossil_reptile%29_%28Nocona_Formation%2C_Lower_Permian%3B_Archer_County%2C_Texas%2C_USA%29_3.jpg/500px-Edaphosaurus_boanerges_%28fossil_reptile%29_%28Nocona_Formation%2C_Lower_Permian%3B_Archer_County%2C_Texas%2C_USA%29_3.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Edaphosaurus_reconstruction_-_Museo_de_la_Miner%C3%ADa_y_el_Carbon%C3%ADfero_-_Puertollano_001.jpg",
+            "author": "PePeEfe",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Edaphosaurus_reconstruction_-_Museo_de_la_Miner%C3%ADa_y_el_Carbon%C3%ADfero_-_Puertollano_001.jpg/500px-Edaphosaurus_reconstruction_-_Museo_de_la_Miner%C3%ADa_y_el_Carbon%C3%ADfero_-_Puertollano_001.jpg"
           }
         ],
         "facts": [
@@ -658857,6 +664545,12 @@ window.GAME_DATA = [
             "author": "",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Glyptodon.jpg/500px-Glyptodon.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Repr%C3%A9sentation_Glyptodon_clavipes.jpg",
+            "author": "Ins.brb",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Repr%C3%A9sentation_Glyptodon_clavipes.jpg/500px-Repr%C3%A9sentation_Glyptodon_clavipes.jpg"
           }
         ],
         "facts": [
@@ -659056,6 +664750,12 @@ window.GAME_DATA = [
             "author": "",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Archaeornithomimus_2.JPG/500px-Archaeornithomimus_2.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Archaeornithomimus.jpg",
+            "author": "Kabacchi",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Archaeornithomimus.jpg/500px-Archaeornithomimus.jpg"
           }
         ],
         "facts": [
@@ -659299,6 +664999,12 @@ window.GAME_DATA = [
             "author": "Emőke Dénes",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/E_-_Arsinoitherium_zitteli_3.jpg/500px-E_-_Arsinoitherium_zitteli_3.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Arsinoitherium_BW.jpg",
+            "author": "Nobu Tamura ( http://spinops.blogspot.com )",
+            "license": "CC BY 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Arsinoitherium_BW.jpg/500px-Arsinoitherium_BW.jpg"
           }
         ],
         "facts": [
@@ -659599,6 +665305,18 @@ window.GAME_DATA = [
             "author": "bertknot",
             "license": "CC BY-SA 2.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Livyatan_skull.jpg/500px-Livyatan_skull.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Hellevoetsluis;_Historyland;_Oeroceaan;_schedel,_roofpotvis_1.jpg",
+            "author": "Michael de Wouter",
+            "license": "CC0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Hellevoetsluis%3B_Historyland%3B_Oeroceaan%3B_schedel%2C_roofpotvis_1.jpg/500px-Hellevoetsluis%3B_Historyland%3B_Oeroceaan%3B_schedel%2C_roofpotvis_1.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Livyatan_melvillei_multiview_rev.jpg",
+            "author": "Darius Nau",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Livyatan_melvillei_multiview_rev.jpg/500px-Livyatan_melvillei_multiview_rev.jpg"
           }
         ],
         "facts": [
@@ -659931,6 +665649,18 @@ window.GAME_DATA = [
             "author": "Nobu Tamura ( http://spinops.blogspot.com )",
             "license": "CC BY 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Darwinopterus_NT.jpg/500px-Darwinopterus_NT.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Darwinopterus_linglongtaensis_Holotype_IVPP.jpg",
+            "author": "Jonathan Chen",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Darwinopterus_linglongtaensis_Holotype_IVPP.jpg/500px-Darwinopterus_linglongtaensis_Holotype_IVPP.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Darwinopterus-Paleozoological_Museum_of_China.jpg",
+            "author": "Jonathan Chen",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Darwinopterus-Paleozoological_Museum_of_China.jpg/500px-Darwinopterus-Paleozoological_Museum_of_China.jpg"
           }
         ],
         "facts": [
@@ -659972,6 +665702,12 @@ window.GAME_DATA = [
             "author": "FunkMonk",
             "license": "CC BY 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Riojasaurus_skull.jpg/500px-Riojasaurus_skull.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Riojasaurus.jpg",
+            "author": "Ornitholestes",
+            "license": "Public domain",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Riojasaurus.jpg/500px-Riojasaurus.jpg"
           }
         ],
         "facts": [
@@ -660027,6 +665763,12 @@ window.GAME_DATA = [
             "author": "Nobu Tamura ( http://spinops.blogspot.com )",
             "license": "CC BY 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Montanoceratops_BW.jpg/500px-Montanoceratops_BW.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Montanoceratops_BW_flipped.jpg",
+            "author": "Nobu Tamura ( http://spinops.blogspot.com )",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Montanoceratops_BW_flipped.jpg/500px-Montanoceratops_BW_flipped.jpg"
           }
         ],
         "facts": [
@@ -660176,6 +665918,12 @@ window.GAME_DATA = [
             "author": "Ghedoghedo",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Zupaysaurus_skull.jpg/500px-Zupaysaurus_skull.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Zupaysaurus_(flipped).jpg",
+            "author": "FunkMonk",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Zupaysaurus_%28flipped%29.jpg/500px-Zupaysaurus_%28flipped%29.jpg"
           }
         ],
         "facts": [
@@ -660423,6 +666171,18 @@ window.GAME_DATA = [
             "author": "Nobu Tamura ( http://spinops.blogspot.ca/ )",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Morganucodon_watsoni_life_restoration.jpg/500px-Morganucodon_watsoni_life_restoration.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Morganucodon_stripes.jpg",
+            "author": "Theodolite",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Morganucodon_stripes.jpg/500px-Morganucodon_stripes.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Amgueddfa_Cymru_-_Morganucodon_(model)_-_211774.jpeg",
+            "author": "",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Amgueddfa_Cymru_-_Morganucodon_%28model%29_-_211774.jpeg/500px-Amgueddfa_Cymru_-_Morganucodon_%28model%29_-_211774.jpeg"
           }
         ],
         "facts": [
@@ -660647,6 +666407,12 @@ window.GAME_DATA = [
             "author": "James St. John",
             "license": "CC BY 2.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Saurornitholestes_langstoni_skull.jpg/500px-Saurornitholestes_langstoni_skull.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Saurornitholestes_Royal_Tyrrell.jpg",
+            "author": "Lewis Kelly",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Saurornitholestes_Royal_Tyrrell.jpg/500px-Saurornitholestes_Royal_Tyrrell.jpg"
           }
         ],
         "facts": [
@@ -660838,6 +666604,24 @@ window.GAME_DATA = [
             "author": "Tyler Rhodes",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Panderichthys.jpg/500px-Panderichthys.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Panderichthys_BW_flipped.jpg",
+            "author": "Nobu Tamura ( http://spinops.blogspot.com )",
+            "license": "CC BY 2.5",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Panderichthys_BW_flipped.jpg/500px-Panderichthys_BW_flipped.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Panderichthys_fish.JPG",
+            "author": "Conty",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Panderichthys_fish.JPG/500px-Panderichthys_fish.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Panderichthys12DB.jpg",
+            "author": "Dimitri Bogdanov",
+            "license": "CC BY 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Panderichthys12DB.jpg/500px-Panderichthys12DB.jpg"
           }
         ],
         "facts": [
@@ -661077,6 +666861,30 @@ window.GAME_DATA = [
             "author": "",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Hallucigenia_sparsa_-_MUSE.jpg/500px-Hallucigenia_sparsa_-_MUSE.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Hallucigenia_sparsa_2025.jpg",
+            "author": "Prehistorica CM",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Hallucigenia_sparsa_2025.jpg/500px-Hallucigenia_sparsa_2025.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:USNM_PAL_83935_Hallucigenia_sparsa_Image_3.jpg",
+            "author": "Han Zeng",
+            "license": "CC0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/USNM_PAL_83935_Hallucigenia_sparsa_Image_3.jpg/500px-USNM_PAL_83935_Hallucigenia_sparsa_Image_3.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:USNM_PAL_83935_Hallucigenia_sparsa_Image_1.jpg",
+            "author": "Han Zeng",
+            "license": "CC0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/USNM_PAL_83935_Hallucigenia_sparsa_Image_1.jpg/500px-USNM_PAL_83935_Hallucigenia_sparsa_Image_1.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:USNM_PAL_83935_Hallucigenia_sparsa_Image_2.jpg",
+            "author": "Han Zeng",
+            "license": "CC0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/USNM_PAL_83935_Hallucigenia_sparsa_Image_2.jpg/500px-USNM_PAL_83935_Hallucigenia_sparsa_Image_2.jpg"
           }
         ],
         "facts": [
@@ -661418,6 +667226,12 @@ window.GAME_DATA = [
             "author": "Eduard Solà",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Anserimimusbcn3.JPG/500px-Anserimimusbcn3.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Anserimimusbcn4.jpg",
+            "author": "Eduard Solà",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Anserimimusbcn4.jpg/500px-Anserimimusbcn4.jpg"
           }
         ],
         "facts": [
@@ -661607,6 +667421,18 @@ window.GAME_DATA = [
             "author": "Ornitholestes",
             "license": "Public domain",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Linheraptor.jpg/500px-Linheraptor.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Linharaptor_exquistus.jpg",
+            "author": "★Kumiko★ from Tokyo, Japan",
+            "license": "CC BY-SA 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Linharaptor_exquistus.jpg/500px-Linharaptor_exquistus.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Linheraptor_skull.jpg",
+            "author": "Carpenter, Kenneth",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Linheraptor_skull.jpg/500px-Linheraptor_skull.jpg"
           }
         ],
         "facts": [
@@ -661935,6 +667761,18 @@ window.GAME_DATA = [
             "author": "Nobu Tamura ( http://spinops.blogspot.com )",
             "license": "CC BY 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Agujaceratops_BW.jpg/500px-Agujaceratops_BW.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Agujaceratops_life_restoration_flipped.jpg",
+            "author": "Lineart by Robinson Kunz ( https://teratophoneus.deviantart.com/ ) Color by Rebe",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Agujaceratops_life_restoration_flipped.jpg/500px-Agujaceratops_life_restoration_flipped.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Agujaceratops_life_restoration.jpg",
+            "author": "Lineart by Robinson Kunz ( https://teratophoneus.deviantart.com/ ) Color by Rebe",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Agujaceratops_life_restoration.jpg/500px-Agujaceratops_life_restoration.jpg"
           }
         ],
         "facts": [
@@ -662002,6 +667840,36 @@ window.GAME_DATA = [
             "author": "Nobu Tamura ( https://spinops.blogspot.com )",
             "license": "CC BY 2.5",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Fukuiraptor_BW.jpg/500px-Fukuiraptor_BW.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:%E7%A6%8F%E4%BA%95%E9%A7%85%E3%81%AE%E3%83%95%E3%82%AF%E3%82%A4%E3%83%A9%E3%83%97%E3%83%88%E3%83%AB%E3%81%AE%E9%AA%A8%E6%A0%BC.jpg",
+            "author": "GIGA146587",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/%E7%A6%8F%E4%BA%95%E9%A7%85%E3%81%AE%E3%83%95%E3%82%AF%E3%82%A4%E3%83%A9%E3%83%97%E3%83%88%E3%83%AB%E3%81%AE%E9%AA%A8%E6%A0%BC.jpg/500px-%E7%A6%8F%E4%BA%95%E9%A7%85%E3%81%AE%E3%83%95%E3%82%AF%E3%82%A4%E3%83%A9%E3%83%97%E3%83%88%E3%83%AB%E3%81%AE%E9%AA%A8%E6%A0%BC.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:%E7%A6%8F%E4%BA%95%E7%9C%8C%E7%AB%8B%E6%81%90%E7%AB%9C%E5%8D%9A%E7%89%A9%E9%A4%A8%E3%81%AE%E3%83%95%E3%82%AF%E3%82%A4%E3%83%A9%E3%83%97%E3%83%88%E3%83%AB%E3%81%AE%E3%82%A2%E3%83%8B%E3%83%9E%E3%83%88%E3%83%AD%E3%83%8B%E3%82%AF%E3%82%B9.jpg",
+            "author": "GIGA146587",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/%E7%A6%8F%E4%BA%95%E7%9C%8C%E7%AB%8B%E6%81%90%E7%AB%9C%E5%8D%9A%E7%89%A9%E9%A4%A8%E3%81%AE%E3%83%95%E3%82%AF%E3%82%A4%E3%83%A9%E3%83%97%E3%83%88%E3%83%AB%E3%81%AE%E3%82%A2%E3%83%8B%E3%83%9E%E3%83%88%E3%83%AD%E3%83%8B%E3%82%AF%E3%82%B9.jpg/500px-%E7%A6%8F%E4%BA%95%E7%9C%8C%E7%AB%8B%E6%81%90%E7%AB%9C%E5%8D%9A%E7%89%A9%E9%A4%A8%E3%81%AE%E3%83%95%E3%82%AF%E3%82%A4%E3%83%A9%E3%83%97%E3%83%88%E3%83%AB%E3%81%AE%E3%82%A2%E3%83%8B%E3%83%9E%E3%83%88%E3%83%AD%E3%83%8B%E3%82%AF%E3%82%B9.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Fukuiraptor_Animatronics.jpg",
+            "author": "Fred Cherrygarden",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Fukuiraptor_Animatronics.jpg/500px-Fukuiraptor_Animatronics.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Fukuiraptor.jpg",
+            "author": "Eight heads serpent",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Fukuiraptor.jpg/500px-Fukuiraptor.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Fukuiraptor_statue.jpg",
+            "author": "Eight heads serpent",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Fukuiraptor_statue.jpg/500px-Fukuiraptor_statue.jpg"
           }
         ],
         "facts": [
@@ -662262,6 +668130,30 @@ window.GAME_DATA = [
             "author": "Nobu Tamura ( http://spinops.blogspot.com )",
             "license": "CC BY 2.5",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Shonisaurus_BW_2.jpg/500px-Shonisaurus_BW_2.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Shonisaurus_popularisDB.jpg",
+            "author": "Creator: Dmitry Bogdanov",
+            "license": "CC BY 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Shonisaurus_popularisDB.jpg/500px-Shonisaurus_popularisDB.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Shonisaurus_popularis.jpg",
+            "author": "Petr Menshikov ( https://twitter.com/Petr75113553 ; https://vk.com/prehistoricpr",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Shonisaurus_popularis.jpg/500px-Shonisaurus_popularis.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Shonisaurus_popularisDB_cropped.jpg",
+            "author": "Remove cropped from file name and see original file",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Shonisaurus_popularisDB_cropped.jpg/500px-Shonisaurus_popularisDB_cropped.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Shonisaurus_BW.jpg",
+            "author": "No machine-readable author provided. ArthurWeasley~commonswiki assumed (based on",
+            "license": "CC BY 2.5",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Shonisaurus_BW.jpg/500px-Shonisaurus_BW.jpg"
           }
         ],
         "facts": [
@@ -662378,6 +668270,30 @@ window.GAME_DATA = [
             "author": "Nobu Tamura ( http://spinops.blogspot.com )",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Wiwaxia_NT.jpg/500px-Wiwaxia_NT.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:NMNH-USNMPAL83938Wiwaxia2.jpg",
+            "author": "Bruce Martin",
+            "license": "CC0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/NMNH-USNMPAL83938Wiwaxia2.jpg/500px-NMNH-USNMPAL83938Wiwaxia2.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Wiwaxia_5C_crop.jpg",
+            "author": "Martin R. Smith",
+            "license": "CC0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Wiwaxia_5C_crop.jpg/500px-Wiwaxia_5C_crop.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Wiwaxia_Smithsonian.JPG",
+            "author": "Jstuby na projektu Wikipedie v jazyce angličtina",
+            "license": "Public domain",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Wiwaxia_Smithsonian.JPG/500px-Wiwaxia_Smithsonian.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:WiwaxiaCorrugata-ROM-June11-10.jpg",
+            "author": "Captmondo",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/WiwaxiaCorrugata-ROM-June11-10.jpg/500px-WiwaxiaCorrugata-ROM-June11-10.jpg"
           }
         ],
         "facts": [
@@ -662568,6 +668484,24 @@ window.GAME_DATA = [
             "author": "H. Zell",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Dsungaripterus_weii_01.jpg/500px-Dsungaripterus_weii_01.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Dsungaripterus_skeleton_at_the_Geological_Museum_of_China.jpg",
+            "author": "BleachedRice",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Dsungaripterus_skeleton_at_the_Geological_Museum_of_China.jpg/500px-Dsungaripterus_skeleton_at_the_Geological_Museum_of_China.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Dsungaripterus_weii_holotype_at_IVPP.jpg",
+            "author": "BleachedRice",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Dsungaripterus_weii_holotype_at_IVPP.jpg/500px-Dsungaripterus_weii_holotype_at_IVPP.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Zhejiang_natural_museum_Hangzhou_20240803_120917.jpg",
+            "author": "Dlyj0604",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Zhejiang_natural_museum_Hangzhou_20240803_120917.jpg/500px-Zhejiang_natural_museum_Hangzhou_20240803_120917.jpg"
           }
         ],
         "facts": [
@@ -662612,6 +668546,12 @@ window.GAME_DATA = [
             "author": "Dimitri Bogdanov",
             "license": "Public domain",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Thalassodromeus_sethi_DB.jpg/500px-Thalassodromeus_sethi_DB.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Cast_of_Thalassodromeus_sethi_-_Pterosaurs_Flight_in_the_Age_of_Dinosaurs.jpg",
+            "author": "Tim Evanson",
+            "license": "CC BY-SA 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Cast_of_Thalassodromeus_sethi_-_Pterosaurs_Flight_in_the_Age_of_Dinosaurs.jpg/500px-Cast_of_Thalassodromeus_sethi_-_Pterosaurs_Flight_in_the_Age_of_Dinosaurs.jpg"
           }
         ],
         "facts": [
@@ -663023,6 +668963,18 @@ window.GAME_DATA = [
             "author": "Nobu Tamura email:nobu.tamura@yahoo.com http://spinops.blogspot.com/",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Gomphotherium_NT_small.jpg/500px-Gomphotherium_NT_small.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Gomphotherium_mandible_and_tusk_-_Cleveland_Museum_of_Natural_History_-_2014-12-26_(20267008393).jpg",
+            "author": "Tim Evanson from Cleveland Heights, Ohio, USA",
+            "license": "CC BY-SA 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Gomphotherium_mandible_and_tusk_-_Cleveland_Museum_of_Natural_History_-_2014-12-26_%2820267008393%29.jpg/500px-Gomphotherium_mandible_and_tusk_-_Cleveland_Museum_of_Natural_History_-_2014-12-26_%2820267008393%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Gomphotherium_model.jpg",
+            "author": "Hunsvotti",
+            "license": "CC0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Gomphotherium_model.jpg/500px-Gomphotherium_model.jpg"
           }
         ],
         "facts": [
@@ -663094,6 +669046,18 @@ window.GAME_DATA = [
             "author": "User:Captmondo",
             "license": "Copyrighted free use",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/HomotheriumCrenatidens-PaleozoologicalMuseumOfChina-May23-08.jpg/500px-HomotheriumCrenatidens-PaleozoologicalMuseumOfChina-May23-08.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Homobeardium.jpg",
+            "author": "Paloolalooza",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Homobeardium.jpg/500px-Homobeardium.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:20260307_S%C3%A4belzahnkatze_(Machairodontinae)_Nationalmuseum_Prag_anagoria.jpg",
+            "author": "anagoria",
+            "license": "CC BY 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/20260307_S%C3%A4belzahnkatze_%28Machairodontinae%29_Nationalmuseum_Prag_anagoria.jpg/500px-20260307_S%C3%A4belzahnkatze_%28Machairodontinae%29_Nationalmuseum_Prag_anagoria.jpg"
           }
         ],
         "facts": [
@@ -663215,6 +669179,12 @@ window.GAME_DATA = [
             "author": "Derdadort",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Proceratosaurus_holotype.JPG/500px-Proceratosaurus_holotype.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Proceratosaurus_restoration.jpg",
+            "author": "ABelov2014 ( https://abelov2014.deviantart.com/ )",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Proceratosaurus_restoration.jpg/500px-Proceratosaurus_restoration.jpg"
           }
         ],
         "facts": [
@@ -663262,6 +669232,12 @@ window.GAME_DATA = [
             "author": "Ghedoghedo",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Liliensternus_liliensterni.JPG/500px-Liliensternus_liliensterni.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Lilliensternus_liliensterni.jpg",
+            "author": "Tiia Monto",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Lilliensternus_liliensterni.jpg/500px-Lilliensternus_liliensterni.jpg"
           }
         ],
         "facts": [
@@ -663456,6 +669432,12 @@ window.GAME_DATA = [
             "author": "",
             "license": "CC BY-SA 2.5",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Daspletosaurus_FMNH.jpg/500px-Daspletosaurus_FMNH.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Daspletosaurus_torosus_by_durbed.jpg",
+            "author": "Durbed",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Daspletosaurus_torosus_by_durbed.jpg/500px-Daspletosaurus_torosus_by_durbed.jpg"
           }
         ],
         "facts": [
@@ -663500,6 +669482,30 @@ window.GAME_DATA = [
             "author": "",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/The_Childrens_Museum_of_Indianapolis_-_Psittacosaurus_skeleton_cast.jpg/500px-The_Childrens_Museum_of_Indianapolis_-_Psittacosaurus_skeleton_cast.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Life_restoration_of_Psittacosaurus_neimongoliensis.jpg",
+            "author": "Anonymous Dinonerd",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Life_restoration_of_Psittacosaurus_neimongoliensis.jpg/500px-Life_restoration_of_Psittacosaurus_neimongoliensis.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Life_reconstruction_of_Psittacosaurus_sinensis.jpg",
+            "author": "Anonymous Dinonerd",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Life_reconstruction_of_Psittacosaurus_sinensis.jpg/500px-Life_reconstruction_of_Psittacosaurus_sinensis.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Psittacosaurus_IMG_5150_Beijing_Museum_of_Natural_History.jpg",
+            "author": "Bjoertvedt",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Psittacosaurus_IMG_5150_Beijing_Museum_of_Natural_History.jpg/500px-Psittacosaurus_IMG_5150_Beijing_Museum_of_Natural_History.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Dinosaur_Egg_Museum,_Xixia_Dinosaur_Park-_Psittacosaurus_Skeleton_01.jpg",
+            "author": "Gary Todd",
+            "license": "CC0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Dinosaur_Egg_Museum%2C_Xixia_Dinosaur_Park-_Psittacosaurus_Skeleton_01.jpg/500px-Dinosaur_Egg_Museum%2C_Xixia_Dinosaur_Park-_Psittacosaurus_Skeleton_01.jpg"
           }
         ],
         "facts": [
@@ -663537,6 +669543,12 @@ window.GAME_DATA = [
             "author": "Robin Zebrowski",
             "license": "CC BY 2.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Lambeosaurus_ROM.jpg/500px-Lambeosaurus_ROM.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Lambeosaurus2-v2.jpg",
+            "author": "Original uploader was Debivort at en.wikipedia",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Lambeosaurus2-v2.jpg/500px-Lambeosaurus2-v2.jpg"
           }
         ],
         "facts": [
@@ -663757,6 +669769,24 @@ window.GAME_DATA = [
             "author": "Dimitri Bogdanov",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Diadectes1DB.jpg/500px-Diadectes1DB.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Diadectes_absitus_paleontological_reconstruction_by_Sebastian_Brandt_(Reco-Brandt).jpg",
+            "author": "TB0815",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Diadectes_absitus_paleontological_reconstruction_by_Sebastian_Brandt_%28Reco-Brandt%29.jpg/500px-Diadectes_absitus_paleontological_reconstruction_by_Sebastian_Brandt_%28Reco-Brandt%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Diadectes1DB_(flipped).jpg",
+            "author": "Dimitri Bogdanov",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Diadectes1DB_%28flipped%29.jpg/500px-Diadectes1DB_%28flipped%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Diadectes_BW.jpg",
+            "author": "Nobu Tamura ( http://spinops.blogspot.com )",
+            "license": "CC BY 2.5",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Diadectes_BW.jpg/500px-Diadectes_BW.jpg"
           }
         ],
         "facts": [
@@ -663865,6 +669895,12 @@ window.GAME_DATA = [
             "author": "Heinrich Harder (1858-1935)",
             "license": "Public domain",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Paleomastodon.jpg/500px-Paleomastodon.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Palaeomastodon_beadnelli_1.jpg",
+            "author": "Ghedoghedo",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Palaeomastodon_beadnelli_1.jpg/500px-Palaeomastodon_beadnelli_1.jpg"
           }
         ],
         "facts": [
@@ -663979,6 +670015,30 @@ window.GAME_DATA = [
             "author": "Theklan",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Megazostrodon_sp._Natural_History_Museum_-_London.jpg/500px-Megazostrodon_sp._Natural_History_Museum_-_London.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Artificial_Megazostrodon.jpg",
+            "author": "Tiia Monto",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Artificial_Megazostrodon.jpg/500px-Artificial_Megazostrodon.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Megazostrodon_restoration.jpg",
+            "author": "Ghedoghedo",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Megazostrodon_restoration.jpg/500px-Megazostrodon_restoration.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Megazostrodon_sp._(Natural_History_Museum)_-_London,_England_2023-10-30.jpg",
+            "author": "Ryan Hodnett",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Megazostrodon_sp._%28Natural_History_Museum%29_-_London%2C_England_2023-10-30.jpg/500px-Megazostrodon_sp._%28Natural_History_Museum%29_-_London%2C_England_2023-10-30.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:E_-_Megazostrodon_-_4.jpg",
+            "author": "Emőke Dénes",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/E_-_Megazostrodon_-_4.jpg/500px-E_-_Megazostrodon_-_4.jpg"
           }
         ],
         "facts": [
@@ -664038,6 +670098,30 @@ window.GAME_DATA = [
             "author": "",
             "license": "Public domain",
             "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/WPHubeiPlatybeladon.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Cenozoic_Elephant_Jawbone_%26_Tusk_(10096864934).jpg",
+            "author": "Gary Todd from Xinzheng, China",
+            "license": "CC0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Cenozoic_Elephant_Jawbone_%26_Tusk_%2810096864934%29.jpg/500px-Cenozoic_Elephant_Jawbone_%26_Tusk_%2810096864934%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Platybelodon_mandible.jpg",
+            "author": "幽灵巴尼",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Platybelodon_mandible.jpg/500px-Platybelodon_mandible.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Platybelodon.jpg",
+            "author": "Margret Flinsch",
+            "license": "Public domain",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Platybelodon.jpg/500px-Platybelodon.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Platybelodon_NNHM.jpg",
+            "author": "Jonathan Chen",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Platybelodon_NNHM.jpg/500px-Platybelodon_NNHM.jpg"
           }
         ],
         "facts": [
@@ -664075,6 +670159,30 @@ window.GAME_DATA = [
             "author": "Greygirlbeast",
             "license": "CC BY-SA 3.0",
             "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Ichthyornis_yale.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Ichthyornis_dispar_skull_and_neck.jpg",
+            "author": "Ghedo",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Ichthyornis_dispar_skull_and_neck.jpg/500px-Ichthyornis_dispar_skull_and_neck.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Ichthyornis_restoration.jpeg",
+            "author": "El fosilmaníaco",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Ichthyornis_restoration.jpeg/500px-Ichthyornis_restoration.jpeg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Ichthyornis.jpg",
+            "author": "ArthurWeasley",
+            "license": "CC BY 2.5",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Ichthyornis.jpg/500px-Ichthyornis.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:PSM_V36_D400_Restored_ichthyornis_victor.jpg",
+            "author": "Otto Meyer",
+            "license": "Public domain",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/PSM_V36_D400_Restored_ichthyornis_victor.jpg/500px-PSM_V36_D400_Restored_ichthyornis_victor.jpg"
           }
         ],
         "facts": [
@@ -664535,6 +670643,36 @@ window.GAME_DATA = [
             "author": "Ghedoghedo",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Juravenator_starkae.JPG/500px-Juravenator_starkae.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Der_Juravenator_starki_aus_Schamhaupten_bei_Eichst%C3%A4tt.jpg",
+            "author": "Chrisi1964",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Der_Juravenator_starki_aus_Schamhaupten_bei_Eichst%C3%A4tt.jpg/500px-Der_Juravenator_starki_aus_Schamhaupten_bei_Eichst%C3%A4tt.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Juravenator_Starki.jpg",
+            "author": "Superikonoskop",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Juravenator_Starki.jpg/500px-Juravenator_Starki.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Juravenator_starki_head_-_Eichstaett,_Jura-Museum.jpg",
+            "author": "Ghedoghedo",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Juravenator_starki_head_-_Eichstaett%2C_Jura-Museum.jpg/500px-Juravenator_starki_head_-_Eichstaett%2C_Jura-Museum.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Juravenator_starki_head_45342.jpg",
+            "author": "Ghedoghedo",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Juravenator_starki_head_45342.jpg/500px-Juravenator_starki_head_45342.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Juravenator_starkae_head.jpg",
+            "author": "Ghedoghedo",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Juravenator_starkae_head.jpg/500px-Juravenator_starkae_head.jpg"
           }
         ],
         "facts": [
@@ -664583,6 +670721,30 @@ window.GAME_DATA = [
             "author": "Verisimilus na projektu Wikipedie v jazyce angličtina",
             "license": "CC BY 2.5",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Spriggina_flounensi_C.jpg/500px-Spriggina_flounensi_C.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Spriggina_floundersi_454.jpg",
+            "author": "Ghedoghedo",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Spriggina_floundersi_454.jpg/500px-Spriggina_floundersi_454.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Spriggina,_Ediacaran_metazoan,_Vendian,_Ediacara_Hills,_south_Australia_-_Houston_Museum_of_Natural_Science_-_DSC01385.JPG",
+            "author": "Daderot",
+            "license": "CC0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Spriggina%2C_Ediacaran_metazoan%2C_Vendian%2C_Ediacara_Hills%2C_south_Australia_-_Houston_Museum_of_Natural_Science_-_DSC01385.JPG/500px-Spriggina%2C_Ediacaran_metazoan%2C_Vendian%2C_Ediacara_Hills%2C_south_Australia_-_Houston_Museum_of_Natural_Science_-_DSC01385.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Spriggina_floundersi_(TMP_1993.140.0010),_Royal_Tyrrell_Museum,_Drumheller,_Alberta,_2025-07-13.jpg",
+            "author": "Chris Woodrich",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Spriggina_floundersi_%28TMP_1993.140.0010%29%2C_Royal_Tyrrell_Museum%2C_Drumheller%2C_Alberta%2C_2025-07-13.jpg/500px-Spriggina_floundersi_%28TMP_1993.140.0010%29%2C_Royal_Tyrrell_Museum%2C_Drumheller%2C_Alberta%2C_2025-07-13.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Spriggina_-_Redpath_Museum_-_McGill_University_-_Montreal,_Canada_-_DSC07915.jpg",
+            "author": "Daderot",
+            "license": "CC0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Spriggina_-_Redpath_Museum_-_McGill_University_-_Montreal%2C_Canada_-_DSC07915.jpg/500px-Spriggina_-_Redpath_Museum_-_McGill_University_-_Montreal%2C_Canada_-_DSC07915.jpg"
           }
         ],
         "facts": [
@@ -664678,6 +670840,18 @@ window.GAME_DATA = [
             "author": "Tommy from Arad",
             "license": "CC BY 2.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Peteinosaurus_fossil.jpg/500px-Peteinosaurus_fossil.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Peteinosaurus_zambelli.jpg",
+            "author": "GabrieMacrothorax",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Peteinosaurus_zambelli.jpg/500px-Peteinosaurus_zambelli.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Peteinosaurus1.jpg",
+            "author": "T-rex-wiki",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Peteinosaurus1.jpg/500px-Peteinosaurus1.jpg"
           }
         ],
         "facts": [
@@ -665090,6 +671264,24 @@ window.GAME_DATA = [
             "author": "Nobu Tamura ( http://spinops.blogspot.com )",
             "license": "CC BY 2.5",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Rugops_BW.jpg/500px-Rugops_BW.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Rugops_restoration.jpg",
+            "author": "Ippei Ogiwara from Tokyo, Japan",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Rugops_restoration.jpg/500px-Rugops_restoration.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Rugops_restoration.JPG",
+            "author": "Conty",
+            "license": "Public domain",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Rugops_restoration.JPG/500px-Rugops_restoration.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Rugops_skull_white_background.jpg",
+            "author": "Mariomassone",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Rugops_skull_white_background.jpg/500px-Rugops_skull_white_background.jpg"
           }
         ],
         "facts": [
@@ -665151,6 +671343,18 @@ window.GAME_DATA = [
             "author": "Debivort na projektu Wikipedie v jazyce angličtina",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Charonosaurus-v3.jpg/500px-Charonosaurus-v3.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Charonosaurus_skull_365.JPG",
+            "author": "Ghedoghedo",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Charonosaurus_skull_365.JPG/500px-Charonosaurus_skull_365.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Charonosaurus_skull_2_356.JPG",
+            "author": "Ghedoghedo",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Charonosaurus_skull_2_356.JPG/500px-Charonosaurus_skull_2_356.JPG"
           }
         ],
         "facts": [
@@ -665277,6 +671481,12 @@ window.GAME_DATA = [
             "author": "User:Piotrus",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Dinosaurs_at_CMNH_48.JPG/500px-Dinosaurs_at_CMNH_48.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Nyctosaurus_gracilis_(1).jpg",
+            "author": "Matt Mechtley from Tempe, Arizona, USA",
+            "license": "CC BY-SA 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Nyctosaurus_gracilis_%281%29.jpg/500px-Nyctosaurus_gracilis_%281%29.jpg"
           }
         ],
         "facts": [
@@ -665428,6 +671638,18 @@ window.GAME_DATA = [
             "author": "Nobu Tamura ( http://spinops.blogspot.com )",
             "license": "CC BY 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Fruitadens_NT.jpg/500px-Fruitadens_NT.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Fruitadens_model_fruita_1.jpg",
+            "author": "Jens Lallensack",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Fruitadens_model_fruita_1.jpg/500px-Fruitadens_model_fruita_1.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Fruitadens_model_fruita_2.jpg",
+            "author": "Jens Lallensack",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Fruitadens_model_fruita_2.jpg/500px-Fruitadens_model_fruita_2.jpg"
           }
         ],
         "facts": [
@@ -665574,6 +671796,12 @@ window.GAME_DATA = [
             "author": "Federico benzan",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Bahariasaurus_ingens%2C_like_megaraptora.jpg/500px-Bahariasaurus_ingens%2C_like_megaraptora.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:BahariasaurusNV_(flipped).jpg",
+            "author": "Foolp",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/BahariasaurusNV_%28flipped%29.jpg/500px-BahariasaurusNV_%28flipped%29.jpg"
           }
         ],
         "facts": [
@@ -665932,6 +672160,12 @@ window.GAME_DATA = [
             "author": "Nobu Tamura ( http://spinops.blogspot.com )",
             "license": "CC BY 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Miragaia_BW.jpg/500px-Miragaia_BW.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Miragaia_longicollum_model,_Dino_Parque,_Lourinh%C3%A3,_Portugal_julesvernex2.jpg",
+            "author": "Jules Verne Times Two",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Miragaia_longicollum_model%2C_Dino_Parque%2C_Lourinh%C3%A3%2C_Portugal_julesvernex2.jpg/500px-Miragaia_longicollum_model%2C_Dino_Parque%2C_Lourinh%C3%A3%2C_Portugal_julesvernex2.jpg"
           }
         ],
         "facts": [
@@ -666518,6 +672752,12 @@ window.GAME_DATA = [
             "author": "",
             "license": "CC BY-SA 2.5",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Buitreraptor_skeleton1.jpg/500px-Buitreraptor_skeleton1.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:BuitreraptorNV.jpg",
+            "author": "Foolp",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/BuitreraptorNV.jpg/500px-BuitreraptorNV.jpg"
           }
         ],
         "facts": [
@@ -666812,6 +673052,12 @@ window.GAME_DATA = [
             "author": "Steveoc 86",
             "license": "CC BY 2.5",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Harpymimus_steveoc.jpg/500px-Harpymimus_steveoc.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Harpymimus_holotype.jpg",
+            "author": "★Kumiko★ from Tokyo, Japan",
+            "license": "CC BY-SA 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Harpymimus_holotype.jpg/500px-Harpymimus_holotype.jpg"
           }
         ],
         "facts": [
@@ -666856,6 +673102,18 @@ window.GAME_DATA = [
             "author": "Nobu Tamura",
             "license": "CC BY 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Prenoceratops_BW.jpg/500px-Prenoceratops_BW.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:The_Childrens_Museum_of_Indianapolis_-_Prenoceratops_pieganensis.jpg",
+            "author": "",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/The_Childrens_Museum_of_Indianapolis_-_Prenoceratops_pieganensis.jpg/500px-The_Childrens_Museum_of_Indianapolis_-_Prenoceratops_pieganensis.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:The_Childrens_Museum_of_Indianapolis_-_Prenoceratops_pieganensis_-2.jpg",
+            "author": "",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/The_Childrens_Museum_of_Indianapolis_-_Prenoceratops_pieganensis_-2.jpg/500px-The_Childrens_Museum_of_Indianapolis_-_Prenoceratops_pieganensis_-2.jpg"
           }
         ],
         "facts": [
@@ -667081,6 +673339,12 @@ window.GAME_DATA = [
             "author": "",
             "license": "CC BY 2.5",
             "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Rinchenia_mongoliensis_profile1.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:LACM_Rinchenia_mongoliensis_(cast).jpg",
+            "author": "Bloopityboop",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/LACM_Rinchenia_mongoliensis_%28cast%29.jpg/500px-LACM_Rinchenia_mongoliensis_%28cast%29.jpg"
           }
         ],
         "facts": [
@@ -667194,6 +673458,12 @@ window.GAME_DATA = [
             "author": "Ghedoghedo",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Hippidion_23.JPG/500px-Hippidion_23.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Em_-_Hippidion_sp._-_2.jpg",
+            "author": "Emőke Dénes",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Em_-_Hippidion_sp._-_2.jpg/500px-Em_-_Hippidion_sp._-_2.jpg"
           }
         ],
         "facts": [
@@ -667446,6 +673716,24 @@ window.GAME_DATA = [
             "author": "Ryan Somma",
             "license": "CC BY-SA 2.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Andrewsarchus_mongoliensis.jpg/500px-Andrewsarchus_mongoliensis.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Andrewsarchus09DB.jpg",
+            "author": "Dimitri Bogdanov",
+            "license": "Public domain",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Andrewsarchus09DB.jpg/500px-Andrewsarchus09DB.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Andrewsarchus_life_restoration.jpg",
+            "author": "Mario Lanzas",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Andrewsarchus_life_restoration.jpg/500px-Andrewsarchus_life_restoration.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Andrewsarchus_mongoliensis_skull.JPG",
+            "author": "Ghedoghedo",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Andrewsarchus_mongoliensis_skull.JPG/500px-Andrewsarchus_mongoliensis_skull.JPG"
           }
         ],
         "facts": [
@@ -667817,6 +674105,12 @@ window.GAME_DATA = [
             "author": "Iziko South African Museum in July, 2018 – 53.jpg : Jnanaranjan sahu derivative ",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Iziko_South_African_Museum_in_July%2C_2018_%E2%80%93_53_retouched.jpg/500px-Iziko_South_African_Museum_in_July%2C_2018_%E2%80%93_53_retouched.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Anteosaurus_magnificus.jpg",
+            "author": "Богданов dmitrchel@mail.ru",
+            "license": "Public domain",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Anteosaurus_magnificus.jpg/500px-Anteosaurus_magnificus.jpg"
           }
         ],
         "facts": [
@@ -668051,6 +674345,12 @@ window.GAME_DATA = [
             "author": "Ghedo",
             "license": "Public domain",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Chalicotherium_paris.jpg/500px-Chalicotherium_paris.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Chalicotherium_brevirostris_DB24.jpg",
+            "author": "ДиБгд",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Chalicotherium_brevirostris_DB24.jpg/500px-Chalicotherium_brevirostris_DB24.jpg"
           }
         ],
         "facts": [
@@ -668514,6 +674814,18 @@ window.GAME_DATA = [
             "author": "Erik Drost",
             "license": "CC BY 2.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Haplocanthosaurus_in_Cleveland_Museum_of_Natural_History.jpg/500px-Haplocanthosaurus_in_Cleveland_Museum_of_Natural_History.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Haplocanthosaurus_vernal_1.jpg",
+            "author": "Jens Lallensack",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Haplocanthosaurus_vernal_1.jpg/500px-Haplocanthosaurus_vernal_1.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Haplocanthosaurus_delfsi.jpg",
+            "author": "stu_spivack",
+            "license": "CC BY-SA 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Haplocanthosaurus_delfsi.jpg/500px-Haplocanthosaurus_delfsi.jpg"
           }
         ],
         "facts": [
@@ -668976,6 +675288,18 @@ window.GAME_DATA = [
             "author": "Heinrich Harder (1858-1935)",
             "license": "Public domain",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Entelodon_Sp_Illustration.jpg/500px-Entelodon_Sp_Illustration.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Geology_(1907)_(14589956977).jpg",
+            "author": "Internet Archive Book Images",
+            "license": "No restrictions",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Geology_%281907%29_%2814589956977%29.jpg/500px-Geology_%281907%29_%2814589956977%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:The_age_of_mammals_in_Europe,_Asia_and_North_America_(1910)_(17918577626).jpg",
+            "author": "Internet Archive Book Images",
+            "license": "No restrictions",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/The_age_of_mammals_in_Europe%2C_Asia_and_North_America_%281910%29_%2817918577626%29.jpg/500px-The_age_of_mammals_in_Europe%2C_Asia_and_North_America_%281910%29_%2817918577626%29.jpg"
           }
         ],
         "facts": [
@@ -669032,6 +675356,12 @@ window.GAME_DATA = [
             "author": "Franz Nopcsa",
             "license": "Public domain",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Telmatosaurus.jpg/500px-Telmatosaurus.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Telmatosaurus1.jpg",
+            "author": "User:Ghedo",
+            "license": "CC BY 2.5",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Telmatosaurus1.jpg/500px-Telmatosaurus1.jpg"
           }
         ],
         "facts": [
@@ -669140,6 +675470,12 @@ window.GAME_DATA = [
             "author": "Nobu Tamura",
             "license": "CC BY 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Palorchestes_BW.jpg/500px-Palorchestes_BW.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Palorchestes_skull.jpg",
+            "author": "the paleobear",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Palorchestes_skull.jpg/500px-Palorchestes_skull.jpg"
           }
         ],
         "facts": [
@@ -669216,6 +675552,42 @@ window.GAME_DATA = [
             "author": "Ghedoghedo",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Xaveropterus_head.jpg/500px-Xaveropterus_head.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Sciurumimus.jpg",
+            "author": "Arkady Rose",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Sciurumimus.jpg/500px-Sciurumimus.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Sciurumimus_restoration.jpg",
+            "author": "IJReid",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Sciurumimus_restoration.jpg/500px-Sciurumimus_restoration.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Sciurumimus_on_beach.jpg",
+            "author": "Emily Willoughby (e.deinonychus@gmail.com, http://emilywilloughby.com )",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Sciurumimus_on_beach.jpg/500px-Sciurumimus_on_beach.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Peinten_dinosaur_fossil-2.jpg",
+            "author": "Peinten_dinosaur_fossil.JPG : Toter Alter Mann ( talk ) Peinten_dinosaur_fossil_",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Peinten_dinosaur_fossil-2.jpg/500px-Peinten_dinosaur_fossil-2.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Sciurumimus_albersdoerfi_38.jpg",
+            "author": "Ghedoghedo",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Sciurumimus_albersdoerfi_38.jpg/500px-Sciurumimus_albersdoerfi_38.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Sciuruminus_albersdoerferi_Solnhofen.jpg",
+            "author": "Mizwa",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Sciuruminus_albersdoerferi_Solnhofen.jpg/500px-Sciuruminus_albersdoerferi_Solnhofen.jpg"
           }
         ],
         "facts": [
@@ -669270,6 +675642,36 @@ window.GAME_DATA = [
             "author": "Ghedoghedo",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Megantereon_cultridens_skull_34.jpg/500px-Megantereon_cultridens_skull_34.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Fossils_at_Hezheng_Paleozoological_Museum_28.jpg",
+            "author": "STW932",
+            "license": "CC0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Fossils_at_Hezheng_Paleozoological_Museum_28.jpg/500px-Fossils_at_Hezheng_Paleozoological_Museum_28.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Megantereon_megantereon_7.JPG",
+            "author": "Ghedoghedo",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Megantereon_megantereon_7.JPG/500px-Megantereon_megantereon_7.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Megantereon_cultridens.jpg",
+            "author": "frank wouters",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Megantereon_cultridens.jpg/500px-Megantereon_cultridens.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Megantereon_model_2.jpg",
+            "author": "Ghedoghedo",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Megantereon_model_2.jpg/500px-Megantereon_model_2.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Megantereon_model.jpg",
+            "author": "Ghedoghedo",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Megantereon_model.jpg/500px-Megantereon_model.jpg"
           }
         ],
         "facts": [
@@ -669492,6 +675894,24 @@ window.GAME_DATA = [
             "author": "Dimitri Bogdanov",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/PlioplatecarpusDB.jpg/500px-PlioplatecarpusDB.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Plioplatecarpus_primaevus_life_reconstruction.jpg",
+            "author": "Fishboy86164577",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Plioplatecarpus_primaevus_life_reconstruction.jpg/500px-Plioplatecarpus_primaevus_life_reconstruction.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:WLA_hmns_Plioplatecarpus.jpg",
+            "author": "Wikipedia Loves Art participant \" The_Wookies \"",
+            "license": "CC BY 2.5",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/WLA_hmns_Plioplatecarpus.jpg/500px-WLA_hmns_Plioplatecarpus.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Plioplatecarpus_HMNS.jpg",
+            "author": "Marc Majcher from Austin, TX, USA",
+            "license": "CC BY-SA 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Plioplatecarpus_HMNS.jpg/500px-Plioplatecarpus_HMNS.jpg"
           }
         ],
         "facts": [
@@ -669946,6 +676366,36 @@ window.GAME_DATA = [
             "author": "Nobu Tamura ( http://spinops.blogspot.com )",
             "license": "CC BY 3.0",
             "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Unenlagia_comahuensis.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Dans_l%27ombre_des_dinosaures_-_crane_Unenlagia_-_06.jpg",
+            "author": "Thesupermat",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Dans_l%27ombre_des_dinosaures_-_crane_Unenlagia_-_06.jpg/500px-Dans_l%27ombre_des_dinosaures_-_crane_Unenlagia_-_06.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Dans_l%27ombre_des_dinosaures_-_crane_Unenlagia_-_07.jpg",
+            "author": "Thesupermat",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Dans_l%27ombre_des_dinosaures_-_crane_Unenlagia_-_07.jpg/500px-Dans_l%27ombre_des_dinosaures_-_crane_Unenlagia_-_07.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Unenlagia_Comahuensis_(3)_-_pht.jpg",
+            "author": "Cangadoba",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Unenlagia_Comahuensis_%283%29_-_pht.jpg/500px-Unenlagia_Comahuensis_%283%29_-_pht.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Unenlagia_comahuensis_DSC_6205.jpg",
+            "author": "Eva K.",
+            "license": "GFDL 1.2",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Unenlagia_comahuensis_DSC_6205.jpg/500px-Unenlagia_comahuensis_DSC_6205.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Unenlagia_comahuensis_DSC_6215.jpg",
+            "author": "Eva K.",
+            "license": "GFDL 1.2",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Unenlagia_comahuensis_DSC_6215.jpg/500px-Unenlagia_comahuensis_DSC_6215.jpg"
           }
         ],
         "facts": [
@@ -669995,6 +676445,24 @@ window.GAME_DATA = [
             "author": "Carpenter, Kenneth",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Polcanthus_material.jpg/500px-Polcanthus_material.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Bulletin_-_United_States_National_Museum_(1914)_(20504962485).jpg",
+            "author": "Internet Archive Book Images",
+            "license": "No restrictions",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Bulletin_-_United_States_National_Museum_%281914%29_%2820504962485%29.jpg/500px-Bulletin_-_United_States_National_Museum_%281914%29_%2820504962485%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Geological_magazine_(1905)_(14597727427).jpg",
+            "author": "Internet Archive Book Images",
+            "license": "No restrictions",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Geological_magazine_%281905%29_%2814597727427%29.jpg/500px-Geological_magazine_%281905%29_%2814597727427%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Polacanthus_skeleton.jpg",
+            "author": "Baron Nopsca d. 1933",
+            "license": "Public domain",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Polacanthus_skeleton.jpg/500px-Polacanthus_skeleton.jpg"
           }
         ],
         "facts": [
@@ -670202,6 +676670,12 @@ window.GAME_DATA = [
             "author": "User:Karkemish",
             "license": "CC BY 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Alvarezsaurus_calvoi.jpg/500px-Alvarezsaurus_calvoi.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Alvarezsaurus_calvoi_Japan.jpg",
+            "author": "★Kumiko★ from Tokyo, Japan",
+            "license": "CC BY-SA 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Alvarezsaurus_calvoi_Japan.jpg/500px-Alvarezsaurus_calvoi_Japan.jpg"
           }
         ],
         "facts": [
@@ -670526,6 +677000,24 @@ window.GAME_DATA = [
             "author": "Ghedoghedo",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Prenocephale_prenes.JPG/500px-Prenocephale_prenes.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Prenocephale.jpg",
+            "author": "",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Prenocephale.jpg/500px-Prenocephale.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Prenocephale_prenesNV.jpg",
+            "author": "Foolp",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Prenocephale_prenesNV.jpg/500px-Prenocephale_prenesNV.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Prenocephale_bickering_(cropped_%2B_fix).jpg",
+            "author": "AntoninJury",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Prenocephale_bickering_%28cropped_%2B_fix%29.jpg/500px-Prenocephale_bickering_%28cropped_%2B_fix%29.jpg"
           }
         ],
         "facts": [
@@ -670670,6 +677162,18 @@ window.GAME_DATA = [
             "author": "DiBgd na projektu Wikipedie v jazyce angličtina",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Crassygyrinus_scoticusDB.jpg/500px-Crassygyrinus_scoticusDB.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Crassygyrinus224.jpg",
+            "author": "ДиБгд",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Crassygyrinus224.jpg/500px-Crassygyrinus224.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Crassygyrinus_scoticusDB_(flipped).jpg",
+            "author": "DiBgd na projektu Wikipedie v jazyce angličtina",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Crassygyrinus_scoticusDB_%28flipped%29.jpg/500px-Crassygyrinus_scoticusDB_%28flipped%29.jpg"
           }
         ],
         "facts": [
@@ -670803,6 +677307,30 @@ window.GAME_DATA = [
             "author": "Ghedoghedo",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Eucladoceros_dicranios.JPG/500px-Eucladoceros_dicranios.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Evolution_in_the_past_BHL20676429.jpg",
+            "author": "Alice B. Woodward, written by Knipe, Henry Robert.",
+            "license": "Public domain",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Evolution_in_the_past_BHL20676429.jpg/500px-Evolution_in_the_past_BHL20676429.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Eucladoceros_dicraniosDB26.jpg",
+            "author": "ДиБгд",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Eucladoceros_dicraniosDB26.jpg/500px-Eucladoceros_dicraniosDB26.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Eucladoceros_ctenoides_3.JPG",
+            "author": "Ghedoghedo",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Eucladoceros_ctenoides_3.JPG/500px-Eucladoceros_ctenoides_3.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Eucladoceros_tegulensis_Teylers.JPG",
+            "author": "Ghedoghedo",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Eucladoceros_tegulensis_Teylers.JPG/500px-Eucladoceros_tegulensis_Teylers.JPG"
           }
         ],
         "facts": [
@@ -670901,6 +677429,12 @@ window.GAME_DATA = [
             "author": "Eduardo Ascarrunz; Jean-Claude Rage; Pierre Legreneur; Michel Laurin:",
             "license": "CC BY 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Triadobatrachus_fossil_slabs.jpg/500px-Triadobatrachus_fossil_slabs.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Triadobatrachus_massinoti.JPG",
+            "author": "Ghedoghedo",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Triadobatrachus_massinoti.JPG/500px-Triadobatrachus_massinoti.JPG"
           }
         ],
         "facts": [
@@ -671092,6 +677626,30 @@ window.GAME_DATA = [
             "author": "",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Esqueleto_de_Santanaraptor_MN_01.jpg/500px-Esqueleto_de_Santanaraptor_MN_01.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Santanaraptor_placidus.jpg",
+            "author": "FunkMonk",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Santanaraptor_placidus.jpg/500px-Santanaraptor_placidus.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Santanaraplor_placidus,_Museu_de_Paleontologia_da_URCA.jpg",
+            "author": "Allan Patrick from Mossoró, Brasil",
+            "license": "CC BY-SA 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Santanaraplor_placidus%2C_Museu_de_Paleontologia_da_URCA.jpg/500px-Santanaraplor_placidus%2C_Museu_de_Paleontologia_da_URCA.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Esqueleto_de_Santanaraptor_MN_02.jpg",
+            "author": "",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Esqueleto_de_Santanaraptor_MN_02.jpg/500px-Esqueleto_de_Santanaraptor_MN_02.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Santanaraptor_skeleton_-_Museu_Nacional,_Rio_de_Janeiro.jpg",
+            "author": "Edwardliu2013",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Santanaraptor_skeleton_-_Museu_Nacional%2C_Rio_de_Janeiro.jpg/500px-Santanaraptor_skeleton_-_Museu_Nacional%2C_Rio_de_Janeiro.jpg"
           }
         ],
         "facts": [
@@ -671140,6 +677698,12 @@ window.GAME_DATA = [
             "author": "Jens Lallensack",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Utahceratops_gettyi_3_salt_lake_city.jpg/500px-Utahceratops_gettyi_3_salt_lake_city.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Utahceratops_BW.jpg",
+            "author": "Nobu Tamura ( http://spinops.blogspot.com )",
+            "license": "CC BY 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Utahceratops_BW.jpg/500px-Utahceratops_BW.jpg"
           }
         ],
         "facts": [
@@ -671610,6 +678174,24 @@ window.GAME_DATA = [
             "author": "Tylwyth Eldar",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Dinosauria_-_Iberomesornis_romerali.jpg/500px-Dinosauria_-_Iberomesornis_romerali.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Iberomesornis_romerali_98544.jpg",
+            "author": "Ghedo",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Iberomesornis_romerali_98544.jpg/500px-Iberomesornis_romerali_98544.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Iberomesornis-modelB.jpg",
+            "author": "José-Manuel Benito Álvarez (España) —> Locutus Borg, modified by Rajoch",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Iberomesornis-modelB.jpg/500px-Iberomesornis-modelB.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Iberomesornis-model.jpg",
+            "author": "José-Manuel Benito Álvarez (España) —> Locutus Borg",
+            "license": "Public domain",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Iberomesornis-model.jpg/500px-Iberomesornis-model.jpg"
           }
         ],
         "facts": [
@@ -672201,6 +678783,18 @@ window.GAME_DATA = [
             "author": "Macrophyseter",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Clidastes_AMNH_FR_192.jpg/500px-Clidastes_AMNH_FR_192.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Clidastes_paleoart.jpg",
+            "author": "Corbin Rainbolt",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Clidastes_paleoart.jpg/500px-Clidastes_paleoart.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Clidastes_liodontus.jpg",
+            "author": "Ryan Somma",
+            "license": "CC BY-SA 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Clidastes_liodontus.jpg/500px-Clidastes_liodontus.jpg"
           }
         ],
         "facts": [
@@ -673339,6 +679933,36 @@ window.GAME_DATA = [
             "author": "",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Charnia_masoni_-_MUSE.jpg/500px-Charnia_masoni_-_MUSE.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Charnia_NT.jpg",
+            "author": "Nobu Tamura ( http://spinops.blogspot.com/ )",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Charnia_NT.jpg/500px-Charnia_NT.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Charnia_masoni_Charnwood.JPG",
+            "author": "Ghedoghedo",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Charnia_masoni_Charnwood.JPG/500px-Charnia_masoni_Charnwood.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Charnia_masoni.jpg",
+            "author": "Kjoonlee",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Charnia_masoni.jpg/500px-Charnia_masoni.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Charnia_masoni_(cast),_Wrexham_Museum.JPG",
+            "author": "Rept0n1x",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Charnia_masoni_%28cast%29%2C_Wrexham_Museum.JPG/500px-Charnia_masoni_%28cast%29%2C_Wrexham_Museum.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Charnia_masoni_456.jpg",
+            "author": "Ghedoghedo",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Charnia_masoni_456.jpg/500px-Charnia_masoni_456.jpg"
           }
         ],
         "facts": [
@@ -673410,6 +680034,24 @@ window.GAME_DATA = [
             "author": "Mario Lanzas",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Pliosaurus_restoration_2019.jpg/500px-Pliosaurus_restoration_2019.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:PliosaurusDB12.jpg",
+            "author": "Dimitri Bogdanov",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/PliosaurusDB12.jpg/500px-PliosaurusDB12.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Pliosaurus_in_Bristol_Museum.jpg",
+            "author": "Tiia Monto",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Pliosaurus_in_Bristol_Museum.jpg/500px-Pliosaurus_in_Bristol_Museum.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Doris_the_Pliosaurus_1.jpg",
+            "author": "Dms.roberts",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Doris_the_Pliosaurus_1.jpg/500px-Doris_the_Pliosaurus_1.jpg"
           }
         ],
         "facts": [
@@ -673559,6 +680201,18 @@ window.GAME_DATA = [
             "author": "Lineart by Teratophoneus of Deviant Art ( https://teratophoneus.deviantart.com )",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Turanoceratops_tardabilis_life_restoration.jpg/500px-Turanoceratops_tardabilis_life_restoration.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Turanoceratops_tardabilis_life_restoration_flipped.jpg",
+            "author": "Lineart by Teratophoneus of Deviant Art ( https://teratophoneus.deviantart.com )",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Turanoceratops_tardabilis_life_restoration_flipped.jpg/500px-Turanoceratops_tardabilis_life_restoration_flipped.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Turanoceratops_tardabilis_life_restoration_(flipped).jpg",
+            "author": "Lineart by Teratophoneus of Deviant Art ( https://teratophoneus.deviantart.com )",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Turanoceratops_tardabilis_life_restoration_%28flipped%29.jpg/500px-Turanoceratops_tardabilis_life_restoration_%28flipped%29.jpg"
           }
         ],
         "facts": [
@@ -673820,6 +680474,12 @@ window.GAME_DATA = [
             "author": "ArthurWeasley email:aweasley@hotmail.com",
             "license": "CC BY 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Guiyu_BW.jpg/500px-Guiyu_BW.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Guiyu_-_Baoding.jpg",
+            "author": "Jonathan Chen",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Guiyu_-_Baoding.jpg/500px-Guiyu_-_Baoding.jpg"
           }
         ],
         "facts": [
@@ -674004,6 +680664,12 @@ window.GAME_DATA = [
             "author": "Antonio R. Mihaila",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Gigantspinosaurus_sichuanensis.jpg/500px-Gigantspinosaurus_sichuanensis.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Gigantspinosaurus_05387.JPG",
+            "author": "Conty",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Gigantspinosaurus_05387.JPG/500px-Gigantspinosaurus_05387.JPG"
           }
         ],
         "facts": [
@@ -674454,6 +681120,18 @@ window.GAME_DATA = [
             "author": "Smokeybjb",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Simosuchus.jpg/500px-Simosuchus.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Simosuchus_mount.jpg",
+            "author": "Bernard Sandler",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Simosuchus_mount.jpg/500px-Simosuchus_mount.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:August_1,_2012_-_Simosuchus_clarki_Skull_on_Display_at_the_Royal_Ontario_Museum_(FMNH_PR_2597).jpg",
+            "author": "CaptMondo",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/August_1%2C_2012_-_Simosuchus_clarki_Skull_on_Display_at_the_Royal_Ontario_Museum_%28FMNH_PR_2597%29.jpg/500px-August_1%2C_2012_-_Simosuchus_clarki_Skull_on_Display_at_the_Royal_Ontario_Museum_%28FMNH_PR_2597%29.jpg"
           }
         ],
         "facts": [
@@ -674783,6 +681461,12 @@ window.GAME_DATA = [
             "author": "Nobu Tamura ( http://spinops.blogspot.com )",
             "license": "CC BY 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Ekaltadeta_ima.jpg/500px-Ekaltadeta_ima.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Ekaltadeta-bpk.jpg",
+            "author": "Baperookamo",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Ekaltadeta-bpk.jpg/500px-Ekaltadeta-bpk.jpg"
           }
         ],
         "facts": [
@@ -674892,6 +681576,18 @@ window.GAME_DATA = [
             "author": "Levi B. Martinez-Reza",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/PawpawsaurusMM1.jpg/500px-PawpawsaurusMM1.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Pawpawsaurus.jpg",
+            "author": "Levi bernardo",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Pawpawsaurus.jpg/500px-Pawpawsaurus.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:PawpawsaurusMM2.jpg",
+            "author": "Levi bernardo",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/PawpawsaurusMM2.jpg/500px-PawpawsaurusMM2.jpg"
           }
         ],
         "facts": [
@@ -675562,6 +682258,30 @@ window.GAME_DATA = [
             "author": "FunkMonk",
             "license": "CC BY 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Taniwhasaurus_antarcticus.jpg/500px-Taniwhasaurus_antarcticus.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Taniwhasaurus_mount_skull.jpg",
+            "author": "Jens Lallensack",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Taniwhasaurus_mount_skull.jpg/500px-Taniwhasaurus_mount_skull.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Taniwhasaurus_Skull_(43288373681).jpg",
+            "author": "Eden, Janine and Jim from New York City",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Taniwhasaurus_Skull_%2843288373681%29.jpg/500px-Taniwhasaurus_Skull_%2843288373681%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Taniwhasaurus_mount_front.jpg",
+            "author": "Jens Lallensack",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Taniwhasaurus_mount_front.jpg/500px-Taniwhasaurus_mount_front.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Taniwhasaurus_Field_Museum.jpg",
+            "author": "Eden, Janine and Jim",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Taniwhasaurus_Field_Museum.jpg/500px-Taniwhasaurus_Field_Museum.jpg"
           }
         ],
         "facts": [
@@ -675834,6 +682554,12 @@ window.GAME_DATA = [
             "author": "Daderot",
             "license": "CC0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Marshosaurus_bicentissimus_skull_cast_-_Natural_History_Museum_of_Utah_-_DSC07218.JPG/500px-Marshosaurus_bicentissimus_skull_cast_-_Natural_History_Museum_of_Utah_-_DSC07218.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Marshosaurus_restoration.jpg",
+            "author": "Dennonychus",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Marshosaurus_restoration.jpg/500px-Marshosaurus_restoration.jpg"
           }
         ],
         "facts": [
@@ -675886,6 +682612,12 @@ window.GAME_DATA = [
             "author": "Meridas (Vladimír Socha)",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Kostra_dysalotosaura.jpg/500px-Kostra_dysalotosaura.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Dysalotosaurus_paleontological_reconstruction_by_Sebastian_Brandt_(Reco-Brandt).jpg",
+            "author": "TB0815",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Dysalotosaurus_paleontological_reconstruction_by_Sebastian_Brandt_%28Reco-Brandt%29.jpg/500px-Dysalotosaurus_paleontological_reconstruction_by_Sebastian_Brandt_%28Reco-Brandt%29.jpg"
           }
         ],
         "facts": [
@@ -676023,6 +682755,18 @@ window.GAME_DATA = [
             "author": "Nobu Tamura ( http://spinops.blogspot.com )",
             "license": "CC BY 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Teratornis_BW.jpg/500px-Teratornis_BW.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Teratornis_skull.JPG",
+            "author": "Esv",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Teratornis_skull.JPG/500px-Teratornis_skull.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Teratornis_merr15.jpg",
+            "author": "DiBgd",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Teratornis_merr15.jpg/500px-Teratornis_merr15.jpg"
           }
         ],
         "facts": [
@@ -676464,6 +683208,18 @@ window.GAME_DATA = [
             "author": "Nobu Tamura ( http://spinops.blogspot.com )",
             "license": "CC BY 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Placodus_BW.jpg/500px-Placodus_BW.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Placodus_gigas_reconstruction_2.jpg",
+            "author": "Ghedo",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Placodus_gigas_reconstruction_2.jpg/500px-Placodus_gigas_reconstruction_2.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Placodus_gigas_reconstruction.jpg",
+            "author": "Ghedo",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Placodus_gigas_reconstruction.jpg/500px-Placodus_gigas_reconstruction.jpg"
           }
         ],
         "facts": [
@@ -676928,6 +683684,12 @@ window.GAME_DATA = [
             "author": "Nobu Tamura ( http://spinops.blogspot.com )",
             "license": "CC BY-SA 4.0",
             "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Macrauchenia_patachonica_NT.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Macrauchenia2.jpg",
+            "author": "Nobu Tamura",
+            "license": "CC BY 2.5",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Macrauchenia2.jpg/500px-Macrauchenia2.jpg"
           }
         ],
         "facts": [
@@ -676974,6 +683736,30 @@ window.GAME_DATA = [
             "author": "Nobu Tamura email:nobu.tamura@yahoo.com http://spinops.blogspot.com/ http://pale",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Cladoselache_NT_small.jpg/500px-Cladoselache_NT_small.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:The_Paleozoic_fishes_of_North_America_(Plate_XLVI)_BHL14700872.jpg",
+            "author": "Newberry, J. S.",
+            "license": "Public domain",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/The_Paleozoic_fishes_of_North_America_%28Plate_XLVI%29_BHL14700872.jpg/500px-The_Paleozoic_fishes_of_North_America_%28Plate_XLVI%29_BHL14700872.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Cladoselache_sp._(fossil_shark)_(Cleveland_Shale_Member,_Ohio_Shale,_Upper_Devonian;_Rocky_River_Valley,_Cleveland,_Ohio,_USA)_1_(33355976530).jpg",
+            "author": "James St. John",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Cladoselache_sp._%28fossil_shark%29_%28Cleveland_Shale_Member%2C_Ohio_Shale%2C_Upper_Devonian%3B_Rocky_River_Valley%2C_Cleveland%2C_Ohio%2C_USA%29_1_%2833355976530%29.jpg/500px-Cladoselache_sp._%28fossil_shark%29_%28Cleveland_Shale_Member%2C_Ohio_Shale%2C_Upper_Devonian%3B_Rocky_River_Valley%2C_Cleveland%2C_Ohio%2C_USA%29_1_%2833355976530%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Cladoselache_sp._(fossil_shark)_(Cleveland_Shale_Member,_Ohio_Shale,_Upper_Devonian;_Rocky_River_Valley,_Cleveland,_Ohio,_USA)_2_(33584261902).jpg",
+            "author": "James St. John",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Cladoselache_sp._%28fossil_shark%29_%28Cleveland_Shale_Member%2C_Ohio_Shale%2C_Upper_Devonian%3B_Rocky_River_Valley%2C_Cleveland%2C_Ohio%2C_USA%29_2_%2833584261902%29.jpg/500px-Cladoselache_sp._%28fossil_shark%29_%28Cleveland_Shale_Member%2C_Ohio_Shale%2C_Upper_Devonian%3B_Rocky_River_Valley%2C_Cleveland%2C_Ohio%2C_USA%29_2_%2833584261902%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Cladoselache_clarki_(Cleveland,_Ohio)_Naturhistorisches_Museum_Wenen_7-06-2023.jpg",
+            "author": "Paul Hermans",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Cladoselache_clarki_%28Cleveland%2C_Ohio%29_Naturhistorisches_Museum_Wenen_7-06-2023.jpg/500px-Cladoselache_clarki_%28Cleveland%2C_Ohio%29_Naturhistorisches_Museum_Wenen_7-06-2023.jpg"
           }
         ],
         "facts": [
@@ -677128,6 +683914,36 @@ window.GAME_DATA = [
             "author": "Mario Lanzas",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Pycnonemosaurus_restoration_2020.jpg/500px-Pycnonemosaurus_restoration_2020.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:R%C3%A9plica_osteol%C3%B3gica_do_Pycnonemosaurus_nevesi.01.jpg",
+            "author": "Paixao 677",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/R%C3%A9plica_osteol%C3%B3gica_do_Pycnonemosaurus_nevesi.01.jpg/500px-R%C3%A9plica_osteol%C3%B3gica_do_Pycnonemosaurus_nevesi.01.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:R%C3%A9plica_do_Pycnonemosaurus_Nevesi_(Museu_de_Hist%C3%B3ria_Natural_de_Mato_Grosso).jpg",
+            "author": "Juninwill",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/R%C3%A9plica_do_Pycnonemosaurus_Nevesi_%28Museu_de_Hist%C3%B3ria_Natural_de_Mato_Grosso%29.jpg/500px-R%C3%A9plica_do_Pycnonemosaurus_Nevesi_%28Museu_de_Hist%C3%B3ria_Natural_de_Mato_Grosso%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:R%C3%A9plica_do_Pycnonemosaurus_nevesi.jpg",
+            "author": "MHNMT",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/R%C3%A9plica_do_Pycnonemosaurus_nevesi.jpg/500px-R%C3%A9plica_do_Pycnonemosaurus_nevesi.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:R%C3%A9plica_osteol%C3%B3gica_do_Pycnonemosaurus_nevesi.03.jpg",
+            "author": "Paixao 677",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/R%C3%A9plica_osteol%C3%B3gica_do_Pycnonemosaurus_nevesi.03.jpg/500px-R%C3%A9plica_osteol%C3%B3gica_do_Pycnonemosaurus_nevesi.03.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:R%C3%A9plica_osteol%C3%B3gica_do_Pycnonemosaurus_nevesi.02.jpg",
+            "author": "Paixao 677",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/R%C3%A9plica_osteol%C3%B3gica_do_Pycnonemosaurus_nevesi.02.jpg/500px-R%C3%A9plica_osteol%C3%B3gica_do_Pycnonemosaurus_nevesi.02.jpg"
           }
         ],
         "facts": [
@@ -677346,6 +684162,24 @@ window.GAME_DATA = [
             "author": "Haplochromis",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Pelorovis_oldowayensis_2.jpg/500px-Pelorovis_oldowayensis_2.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Palontologiemo00pome_0107.jpg",
+            "author": "Ferrand del Imprimeur de Becquet, Paris",
+            "license": "Public domain",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Palontologiemo00pome_0107.jpg/500px-Palontologiemo00pome_0107.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Pelorovis_antiquus.jpg",
+            "author": "Lydekker, Richard",
+            "license": "Public domain",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Pelorovis_antiquus.jpg/500px-Pelorovis_antiquus.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Pelorovis_antiquus_2.jpg",
+            "author": "Lydekker, Richard",
+            "license": "Public domain",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Pelorovis_antiquus_2.jpg/500px-Pelorovis_antiquus_2.jpg"
           }
         ],
         "facts": [
@@ -677407,6 +684241,18 @@ window.GAME_DATA = [
             "author": "Nobu Tamura email:nobu.tamura@yahoo.com http://spinops.blogspot.com/",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Plotosaurus_NT_small.jpg/500px-Plotosaurus_NT_small.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Plotosaurus_Los_Angeles.jpg",
+            "author": "Gleep!! from USA",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Plotosaurus_Los_Angeles.jpg/500px-Plotosaurus_Los_Angeles.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Plotosaurus_bennisoni_profile_reconstruction.jpg",
+            "author": "Brennon Valdez ( LancianIdolatry )",
+            "license": "CC0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Plotosaurus_bennisoni_profile_reconstruction.jpg/500px-Plotosaurus_bennisoni_profile_reconstruction.jpg"
           }
         ],
         "facts": [
@@ -677564,6 +684410,30 @@ window.GAME_DATA = [
             "author": "Dimitri Bogdanov",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/GlobidensDB2.jpg/500px-GlobidensDB2.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Globidens_mosasaur_teeth_fossils,_Khouribga,_Morocco.jpg",
+            "author": "Adam Kelliher / Rubble Rock and Gem",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Globidens_mosasaur_teeth_fossils%2C_Khouribga%2C_Morocco.jpg/500px-Globidens_mosasaur_teeth_fossils%2C_Khouribga%2C_Morocco.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Globidens_aegyptiacus_Zdansky,_1934_7100.5121.jpg",
+            "author": "Géry PARENT",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Globidens_aegyptiacus_Zdansky%2C_1934_7100.5121.jpg/500px-Globidens_aegyptiacus_Zdansky%2C_1934_7100.5121.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Globidens_aegyptiacus_Zdansky,_1935.jpg",
+            "author": "Parent Géry",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Globidens_aegyptiacus_Zdansky%2C_1935.jpg/500px-Globidens_aegyptiacus_Zdansky%2C_1935.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Globidens_aegyptiacus_Zdansky,_1934_7100.5120.jpg",
+            "author": "Géry PARENT",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Globidens_aegyptiacus_Zdansky%2C_1934_7100.5120.jpg/500px-Globidens_aegyptiacus_Zdansky%2C_1934_7100.5120.jpg"
           }
         ],
         "facts": [
@@ -677885,6 +684755,12 @@ window.GAME_DATA = [
             "author": "ДиБгд na projektu Wikipedie v jazyce ruština Anatomical corrections by FunkMonk ",
             "license": "Public domain",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Apatosaurus33.jpg/500px-Apatosaurus33.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Apatosaurus_louisae_-_CM.jpg",
+            "author": "AbstractionBlue",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Apatosaurus_louisae_-_CM.jpg/500px-Apatosaurus_louisae_-_CM.jpg"
           }
         ],
         "facts": [
@@ -678483,6 +685359,24 @@ window.GAME_DATA = [
             "author": "Nobu Tamura ( http://spinops.blogspot.com )",
             "license": "CC BY 2.5",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Carcharodontosaurus_BW.jpg/500px-Carcharodontosaurus_BW.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Carcharodontosaurus_saharicus_skeletal.jpg",
+            "author": "Marco Auditore, published by Nizar Ibrahim, Paul C. Sereno, David J. Varricchio,",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Carcharodontosaurus_saharicus_skeletal.jpg/500px-Carcharodontosaurus_saharicus_skeletal.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Carchar1.jpg",
+            "author": "Původně soubor načetl ДиБгд na projektu Wikipedie v jazyce ruština",
+            "license": "Public domain",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Carchar1.jpg/500px-Carchar1.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Carcharodontosaurus_CGI.jpg",
+            "author": "Julian Johnson",
+            "license": "CC BY-SA 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Carcharodontosaurus_CGI.jpg/500px-Carcharodontosaurus_CGI.jpg"
           }
         ],
         "facts": [
@@ -679228,6 +686122,36 @@ window.GAME_DATA = [
             "author": "Skye McDavid",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Dicranurus_monstrosus_AMNH_FI_83817.jpg/500px-Dicranurus_monstrosus_AMNH_FI_83817.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Dicranurus_monstrosus,_Early_Devonian,_Ihandar_Formation,_Jbel_Issoumour,_MaOder_Region,_Morocco_-_Houston_Museum_of_Natural_Science_-_DSC02021.JPG",
+            "author": "Daderot",
+            "license": "CC0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Dicranurus_monstrosus%2C_Early_Devonian%2C_Ihandar_Formation%2C_Jbel_Issoumour%2C_MaOder_Region%2C_Morocco_-_Houston_Museum_of_Natural_Science_-_DSC02021.JPG/500px-Dicranurus_monstrosus%2C_Early_Devonian%2C_Ihandar_Formation%2C_Jbel_Issoumour%2C_MaOder_Region%2C_Morocco_-_Houston_Museum_of_Natural_Science_-_DSC02021.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Dicranurus_monstrosus,_Early_Devonian,_Ihandar_Formation,_Jbel_Issoumour,_MaOder_Region,_Morocco_-_Houston_Museum_of_Natural_Science_-_DSC01682.JPG",
+            "author": "Daderot",
+            "license": "CC0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Dicranurus_monstrosus%2C_Early_Devonian%2C_Ihandar_Formation%2C_Jbel_Issoumour%2C_MaOder_Region%2C_Morocco_-_Houston_Museum_of_Natural_Science_-_DSC01682.JPG/500px-Dicranurus_monstrosus%2C_Early_Devonian%2C_Ihandar_Formation%2C_Jbel_Issoumour%2C_MaOder_Region%2C_Morocco_-_Houston_Museum_of_Natural_Science_-_DSC01682.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Dicranurus_hamatus_elegantus_fossil_trilobite_(Haragan_Formation,_Lower_Devonian;_Coal_County,_southeastern_Oklahoma,_USA)_(15267315251).jpg",
+            "author": "James St. John",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Dicranurus_hamatus_elegantus_fossil_trilobite_%28Haragan_Formation%2C_Lower_Devonian%3B_Coal_County%2C_southeastern_Oklahoma%2C_USA%29_%2815267315251%29.jpg/500px-Dicranurus_hamatus_elegantus_fossil_trilobite_%28Haragan_Formation%2C_Lower_Devonian%3B_Coal_County%2C_southeastern_Oklahoma%2C_USA%29_%2815267315251%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Gfp-scary-looking-trilobite.jpg",
+            "author": "Yinan Chen",
+            "license": "Public Domain",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Gfp-scary-looking-trilobite.jpg/500px-Gfp-scary-looking-trilobite.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Dicranurus_(8013384494).jpg",
+            "author": "Gyik Toma (Tommy the paleobear) from Romania",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Dicranurus_%288013384494%29.jpg/500px-Dicranurus_%288013384494%29.jpg"
           }
         ],
         "facts": [
@@ -679353,6 +686277,24 @@ window.GAME_DATA = [
             "author": "This illustration was made by Citron You must credit this : Citron / CC-BY-SA-3.",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Scapanorhynchus.jpg/500px-Scapanorhynchus.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Scapanorhynchus_paleoart.jpg",
+            "author": "Corbin Rainbolt",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Scapanorhynchus_paleoart.jpg/500px-Scapanorhynchus_paleoart.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Scapanorhynchus_lewisii.jpg",
+            "author": "EvolutionIncarnate",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Scapanorhynchus_lewisii.jpg/500px-Scapanorhynchus_lewisii.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Scapanorhynchus_sp_Sahel_Alma_Santonian.jpg",
+            "author": "Ghedo",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Scapanorhynchus_sp_Sahel_Alma_Santonian.jpg/500px-Scapanorhynchus_sp_Sahel_Alma_Santonian.jpg"
           }
         ],
         "facts": [
@@ -680611,6 +687553,24 @@ window.GAME_DATA = [
             "author": "Ghedo",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Potamotherium_valetoni_skeleton.jpg/500px-Potamotherium_valetoni_skeleton.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Potamotherium_valetoni_saint_gerand_le_puy.JPG",
+            "author": "Ghedoghedo",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Potamotherium_valetoni_saint_gerand_le_puy.JPG/500px-Potamotherium_valetoni_saint_gerand_le_puy.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Potamotherium_valetoni_skull_45.jpg",
+            "author": "Ghedo",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Potamotherium_valetoni_skull_45.jpg/500px-Potamotherium_valetoni_skull_45.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Potamotherium_-_Gannat_-_Museo_Civico_di_Storia_Naturale_Giacomo_Doria_Genova.jpg",
+            "author": "DagdaMor",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Potamotherium_-_Gannat_-_Museo_Civico_di_Storia_Naturale_Giacomo_Doria_Genova.jpg/500px-Potamotherium_-_Gannat_-_Museo_Civico_di_Storia_Naturale_Giacomo_Doria_Genova.jpg"
           }
         ],
         "facts": [
@@ -682881,6 +689841,18 @@ window.GAME_DATA = [
             "author": "AStrangerintheAlps",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Carnotaurus_Skull.jpg/500px-Carnotaurus_Skull.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Carnotaurus_life_restoration_(mirrored).jpg",
+            "author": "Lida Xing and Yi Liu",
+            "license": "CC BY 2.5",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Carnotaurus_life_restoration_%28mirrored%29.jpg/500px-Carnotaurus_life_restoration_%28mirrored%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Carnotaurus_DB_2_white_background.jpg",
+            "author": "Original by Steveoc 86 altered by Mariomassone",
+            "license": "CC BY 2.5",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Carnotaurus_DB_2_white_background.jpg/500px-Carnotaurus_DB_2_white_background.jpg"
           }
         ],
         "facts": [
@@ -683636,6 +690608,18 @@ window.GAME_DATA = [
             "author": "Daderot",
             "license": "CC0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Hydrodamalis_gigas_skeleton_-_Finnish_Museum_of_Natural_History_-_DSC04529.JPG/500px-Hydrodamalis_gigas_skeleton_-_Finnish_Museum_of_Natural_History_-_DSC04529.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:The_Model_of_Steller%27s_sea_cow_(Hydrodamalis_gigas).jpg",
+            "author": "KKPCW",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/The_Model_of_Steller%27s_sea_cow_%28Hydrodamalis_gigas%29.jpg/500px-The_Model_of_Steller%27s_sea_cow_%28Hydrodamalis_gigas%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:The_Model_and_Skeleton_of_Steller%27s_sea_cow.jpg",
+            "author": "KKPCW",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/The_Model_and_Skeleton_of_Steller%27s_sea_cow.jpg/500px-The_Model_and_Skeleton_of_Steller%27s_sea_cow.jpg"
           }
         ],
         "facts": [
@@ -683752,6 +690736,18 @@ window.GAME_DATA = [
             "author": "Ghedoghedo",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Ticinosuchus_ferox.JPG/500px-Ticinosuchus_ferox.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Ticinosuchus_ferox_455.jpg",
+            "author": "Ghedoghedo",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Ticinosuchus_ferox_455.jpg/500px-Ticinosuchus_ferox_455.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Ticinosuchus_ferox_-_0576.jpg",
+            "author": "Amada44",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Ticinosuchus_ferox_-_0576.jpg/500px-Ticinosuchus_ferox_-_0576.jpg"
           }
         ],
         "facts": [
@@ -683825,6 +690821,24 @@ window.GAME_DATA = [
             "author": "Ghedoghedo",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Dakosaurus_maximus.JPG/500px-Dakosaurus_maximus.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Dakosaurus_maximus_BW.jpg",
+            "author": "User:ArthurWeasley",
+            "license": "CC BY 2.5",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Dakosaurus_maximus_BW.jpg/500px-Dakosaurus_maximus_BW.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Dakosaurus_BW.jpg",
+            "author": "User:ArthurWeasley",
+            "license": "CC BY 2.5",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Dakosaurus_BW.jpg/500px-Dakosaurus_BW.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Dakosaurus_model.jpg",
+            "author": "Ghedoghedo",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Dakosaurus_model.jpg/500px-Dakosaurus_model.jpg"
           }
         ],
         "facts": [
@@ -684119,6 +691133,12 @@ window.GAME_DATA = [
             "author": "Mauricio Antón",
             "license": "CC BY 2.5",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Woolly_rhinoceros_%28Coelodonta_antiquitatis%29_-_Mauricio_Ant%C3%B3n.jpg/500px-Woolly_rhinoceros_%28Coelodonta_antiquitatis%29_-_Mauricio_Ant%C3%B3n.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:20260307_Wollnashorn_(Coelodonta_antiquitatis)_Nationalmuseum_Prag_anagoria.jpg",
+            "author": "anagoria",
+            "license": "CC BY 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/20260307_Wollnashorn_%28Coelodonta_antiquitatis%29_Nationalmuseum_Prag_anagoria.jpg/500px-20260307_Wollnashorn_%28Coelodonta_antiquitatis%29_Nationalmuseum_Prag_anagoria.jpg"
           }
         ],
         "facts": [
@@ -684964,6 +691984,18 @@ window.GAME_DATA = [
             "author": "Didier Descouens",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Sahelanthropus_tchadensis_-_TM_266-01-060-1_Global_fond.jpg/500px-Sahelanthropus_tchadensis_-_TM_266-01-060-1_Global_fond.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Toumai_-_MCN_4129.jpg",
+            "author": "GuillaumeG",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Toumai_-_MCN_4129.jpg/500px-Toumai_-_MCN_4129.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Sahelanthropus_tchadensis_Toumai_IMG_5598_BMNH.jpg",
+            "author": "Bjoertvedt",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Sahelanthropus_tchadensis_Toumai_IMG_5598_BMNH.jpg/500px-Sahelanthropus_tchadensis_Toumai_IMG_5598_BMNH.jpg"
           }
         ],
         "facts": [
@@ -685940,6 +692972,12 @@ window.GAME_DATA = [
             "author": "ДиБгд",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Jaekelopterus_rhenaniae_reconstruction.jpg/500px-Jaekelopterus_rhenaniae_reconstruction.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Jaekelopterus.jpg",
+            "author": "Ghedoghedo",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Jaekelopterus.jpg/500px-Jaekelopterus.jpg"
           }
         ],
         "facts": [
@@ -686638,6 +693676,12 @@ window.GAME_DATA = [
             "author": "McBlackneck",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Dromornis_stirtoni.jpg/500px-Dromornis_stirtoni.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Dromornis_BW.jpg",
+            "author": "Nobu Tamura ( http://spinops.blogspot.de )",
+            "license": "CC BY 2.5",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Dromornis_BW.jpg/500px-Dromornis_BW.jpg"
           }
         ],
         "facts": [
@@ -686954,6 +693998,18 @@ window.GAME_DATA = [
             "author": "Junchang Lü & Stephen L. Brusatte",
             "license": "CC BY 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Zhenyuanlong.jpg/500px-Zhenyuanlong.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Zhenyuanlong_life_restoration_(white_background).jpg",
+            "author": "Emily Willoughby",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Zhenyuanlong_life_restoration_%28white_background%29.jpg/500px-Zhenyuanlong_life_restoration_%28white_background%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Zhenyuanlong_Chaoyang.jpg",
+            "author": "Jonathan Chen",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Zhenyuanlong_Chaoyang.jpg/500px-Zhenyuanlong_Chaoyang.jpg"
           }
         ],
         "facts": [
@@ -687153,6 +694209,12 @@ window.GAME_DATA = [
             "author": "Richard Lydekker (July 25, 1829 - April 16, 1914)",
             "license": "Public domain",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Lydekker_1893_Wealden_Sauropod_Vertebrae.jpg/500px-Lydekker_1893_Wealden_Sauropod_Vertebrae.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Xenoposeidon_Rebachisaurid_2017.jpg",
+            "author": "Levi bernardo",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Xenoposeidon_Rebachisaurid_2017.jpg/500px-Xenoposeidon_Rebachisaurid_2017.jpg"
           }
         ],
         "facts": [
@@ -687488,6 +694550,24 @@ window.GAME_DATA = [
             "author": "Jens L. Franzen, Philip D. Gingerich, Jörg Habersetzer1, Jørn H. Hurum, Wighart ",
             "license": "CC BY-SA 2.5",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Darwinius_masillae_PMO_214.214.jpg/500px-Darwinius_masillae_PMO_214.214.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Darwinius_masillae-reproductino_of_PMO_214.214-P4150749.jpg",
+            "author": "Rama",
+            "license": "CC BY-SA 3.0 fr",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Darwinius_masillae-reproductino_of_PMO_214.214-P4150749.jpg/500px-Darwinius_masillae-reproductino_of_PMO_214.214-P4150749.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Darwinius_masillae-Replica_-Messel_Pit.JPG",
+            "author": "Nachosan",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Darwinius_masillae-Replica_-Messel_Pit.JPG/500px-Darwinius_masillae-Replica_-Messel_Pit.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Darwinius_masillae_(cast)_at_G%C3%B6teborgs_Naturhistoriska_Museum_8864.jpg",
+            "author": "Gunnar Creutz",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Darwinius_masillae_%28cast%29_at_G%C3%B6teborgs_Naturhistoriska_Museum_8864.jpg/500px-Darwinius_masillae_%28cast%29_at_G%C3%B6teborgs_Naturhistoriska_Museum_8864.jpg"
           }
         ],
         "facts": [
@@ -687943,6 +695023,18 @@ window.GAME_DATA = [
             "author": "Nobu Tamura ( http://spinops.blogspot.com )",
             "license": "CC BY 2.5",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Longisquama_BW.jpg/500px-Longisquama_BW.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Longisquama_Skeletal_(Jaime_Headden,_2025).jpg",
+            "author": "Jaime Headden",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Longisquama_Skeletal_%28Jaime_Headden%2C_2025%29.jpg/500px-Longisquama_Skeletal_%28Jaime_Headden%2C_2025%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Longisquama_insignis_frill.jpg",
+            "author": "Oregon State University",
+            "license": "CC BY-SA 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Longisquama_insignis_frill.jpg/500px-Longisquama_insignis_frill.jpg"
           }
         ],
         "facts": [
@@ -688070,6 +695162,18 @@ window.GAME_DATA = [
             "author": "Greg Goebel from Loveland CO, USA",
             "license": "CC BY-SA 2.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Zuni_Coelurosaur.jpg/500px-Zuni_Coelurosaur.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:SuskiMountFront.jpg",
+            "author": "Definitely NOT Dilophosaurus",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/SuskiMountFront.jpg/500px-SuskiMountFront.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Suskityrannus_skull.jpg",
+            "author": "Harold9595959",
+            "license": "CC0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Suskityrannus_skull.jpg/500px-Suskityrannus_skull.jpg"
           }
         ],
         "facts": [
@@ -688760,6 +695864,18 @@ window.GAME_DATA = [
             "author": "Edwardliu2013",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Tupandactylus_skeleton_-_Museu_Nacional%2C_Rio_de_Janeiro.jpg/500px-Tupandactylus_skeleton_-_Museu_Nacional%2C_Rio_de_Janeiro.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Tupandactylus_navigans_Fm_Santana_Bacia_Araripe_Cretaceo.jpg",
+            "author": "GeoPotinga",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Tupandactylus_navigans_Fm_Santana_Bacia_Araripe_Cretaceo.jpg/500px-Tupandactylus_navigans_Fm_Santana_Bacia_Araripe_Cretaceo.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Tupandactylus_MN_01.jpg",
+            "author": "",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Tupandactylus_MN_01.jpg/500px-Tupandactylus_MN_01.jpg"
           }
         ],
         "facts": [
@@ -689186,6 +696302,18 @@ window.GAME_DATA = [
             "author": "H. Zell",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Acanthoceras_cenomanense_01.jpg/500px-Acanthoceras_cenomanense_01.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Wewelsburg,_die_Burg,_Kreismuseum,_Acanthoceras_rhotomagense.jpg",
+            "author": "Dguendel",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Wewelsburg%2C_die_Burg%2C_Kreismuseum%2C_Acanthoceras_rhotomagense.jpg/500px-Wewelsburg%2C_die_Burg%2C_Kreismuseum%2C_Acanthoceras_rhotomagense.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Acanthoceras_rhotomagense_1.JPG",
+            "author": "Ghedoghedo",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Acanthoceras_rhotomagense_1.JPG/500px-Acanthoceras_rhotomagense_1.JPG"
           }
         ],
         "facts": [
@@ -689613,6 +696741,18 @@ window.GAME_DATA = [
             "author": "Creator:Dmitry Bogdanov",
             "license": "CC BY 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Bakonydraco_as_tapejarid_DB.jpg/500px-Bakonydraco_as_tapejarid_DB.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:HNHM2.JPG",
+            "author": "Lrozsa",
+            "license": "Public domain",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/HNHM2.JPG/500px-HNHM2.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Bakonydraco_BW.jpg",
+            "author": "Nobu Tamura ( http://spinops.blogspot.com )",
+            "license": "CC BY 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Bakonydraco_BW.jpg/500px-Bakonydraco_BW.jpg"
           }
         ],
         "facts": [
@@ -690015,6 +697155,12 @@ window.GAME_DATA = [
             "author": "Lankester Edwin Ray",
             "license": "Public domain",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Pteraspis_rostrata.jpg/500px-Pteraspis_rostrata.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Pteraspis_crouchi.jpg",
+            "author": "Smokeybjb",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Pteraspis_crouchi.jpg/500px-Pteraspis_crouchi.jpg"
           }
         ],
         "facts": [
@@ -690125,6 +697271,12 @@ window.GAME_DATA = [
             "author": "Ghedoghedo",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Acinonyx_pardinensis_1.JPG/500px-Acinonyx_pardinensis_1.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Head_appearance_of_Acinonyx_pardinensis_2.jpg",
+            "author": "Dawid A. Iurino",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Head_appearance_of_Acinonyx_pardinensis_2.jpg/500px-Head_appearance_of_Acinonyx_pardinensis_2.jpg"
           }
         ],
         "facts": [
@@ -690656,6 +697808,30 @@ window.GAME_DATA = [
             "author": "Dimitri Bogdanov",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Metoposaurus_diagnosticus_kraselovi_1DB.jpg/500px-Metoposaurus_diagnosticus_kraselovi_1DB.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:MEPAN_metopozaur.jpg",
+            "author": "Hiuppo",
+            "license": "CC BY 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/MEPAN_metopozaur.jpg/500px-MEPAN_metopozaur.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Metopozaur_rekonstrukcja_Krasiej%C3%B3w2.JPG",
+            "author": "Shalom",
+            "license": "CC BY 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Metopozaur_rekonstrukcja_Krasiej%C3%B3w2.JPG/500px-Metopozaur_rekonstrukcja_Krasiej%C3%B3w2.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Metopozaur_rekonstrukcja_Krasiej%C3%B3w.JPG",
+            "author": "Shalom",
+            "license": "CC BY 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Metopozaur_rekonstrukcja_Krasiej%C3%B3w.JPG/500px-Metopozaur_rekonstrukcja_Krasiej%C3%B3w.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Czaszka_metopozaura.JPG",
+            "author": "Shalom",
+            "license": "CC BY 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Czaszka_metopozaura.JPG/500px-Czaszka_metopozaura.JPG"
           }
         ],
         "facts": [
@@ -691052,6 +698228,24 @@ window.GAME_DATA = [
             "author": "Didier Descouens",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Australopithecus_africanus_-_Cast_of_taung_child.jpg/500px-Australopithecus_africanus_-_Cast_of_taung_child.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Em_-_Australopithecus_africanus,_Mrs._Ples_-_2.jpg",
+            "author": "Emőke Dénes",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Em_-_Australopithecus_africanus%2C_Mrs._Ples_-_2.jpg/500px-Em_-_Australopithecus_africanus%2C_Mrs._Ples_-_2.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Em_-_Australopithecus_africanus,_Taung_Child_-_2.jpg",
+            "author": "Emőke Dénes",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Em_-_Australopithecus_africanus%2C_Taung_Child_-_2.jpg/500px-Em_-_Australopithecus_africanus%2C_Taung_Child_-_2.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Em_-_Australopithecus_africanus,_Taung_Child_-_1.jpg",
+            "author": "Emőke Dénes",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Em_-_Australopithecus_africanus%2C_Taung_Child_-_1.jpg/500px-Em_-_Australopithecus_africanus%2C_Taung_Child_-_1.jpg"
           }
         ],
         "facts": [
@@ -691787,6 +698981,12 @@ window.GAME_DATA = [
             "author": "Nobumichi Tamura",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Seitaad_NT.jpg/500px-Seitaad_NT.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Seitaad.jpg",
+            "author": "ケラトプスユウタ",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Seitaad.jpg/500px-Seitaad.jpg"
           }
         ],
         "facts": [
@@ -692261,6 +699461,36 @@ window.GAME_DATA = [
             "author": "Cougroyalty",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Borealosuchus_wilsoni_HMNS.jpg/500px-Borealosuchus_wilsoni_HMNS.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Borealosuchus.jpg",
+            "author": "Tim Evanson from Washington, D.C., United States of America",
+            "license": "CC BY-SA 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Borealosuchus.jpg/500px-Borealosuchus.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Borealosuchus_skull.jpg",
+            "author": "Smithsonian Institution",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Borealosuchus_skull.jpg/500px-Borealosuchus_skull.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Borealosuchus_wilsoni_1.jpg",
+            "author": "Smokeybjb",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Borealosuchus_wilsoni_1.jpg/500px-Borealosuchus_wilsoni_1.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Borealosuchus_wilsoni_fossil_crocodilian_(Green_River_Formation,_Lower_Eocene;_Fossil_Lake_Basin,_southwestern_Wyoming,_USA)_2_(15505873166).jpg",
+            "author": "James St. John",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Borealosuchus_wilsoni_fossil_crocodilian_%28Green_River_Formation%2C_Lower_Eocene%3B_Fossil_Lake_Basin%2C_southwestern_Wyoming%2C_USA%29_2_%2815505873166%29.jpg/500px-Borealosuchus_wilsoni_fossil_crocodilian_%28Green_River_Formation%2C_Lower_Eocene%3B_Fossil_Lake_Basin%2C_southwestern_Wyoming%2C_USA%29_2_%2815505873166%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Borealosuchus_wilsoni_(15529256785).jpg",
+            "author": "James St. John",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Borealosuchus_wilsoni_%2815529256785%29.jpg/500px-Borealosuchus_wilsoni_%2815529256785%29.jpg"
           }
         ],
         "facts": [
@@ -692507,6 +699737,12 @@ window.GAME_DATA = [
             "author": "Creator:Dmitry Bogdanov",
             "license": "CC BY 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Titanoides_primaevus.jpg/500px-Titanoides_primaevus.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Titanoides_primaevus_2.jpg",
+            "author": "Creator:Dmitry Bogdanov",
+            "license": "CC BY 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Titanoides_primaevus_2.jpg/500px-Titanoides_primaevus_2.jpg"
           }
         ],
         "facts": [
@@ -692677,6 +699913,18 @@ window.GAME_DATA = [
             "author": "Nobu Tamura ( https://spinops.blogspot.com )",
             "license": "CC BY 2.5",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Styxosaurus_BW.jpg/500px-Styxosaurus_BW.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Styxosaurus_CGI_cropped.jpg",
+            "author": "Julian Johnson",
+            "license": "CC BY-SA 2.5",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Styxosaurus_CGI_cropped.jpg/500px-Styxosaurus_CGI_cropped.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Styxosaurus_snowii_skull.jpg",
+            "author": "Neil Pezzoni",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Styxosaurus_snowii_skull.jpg/500px-Styxosaurus_snowii_skull.jpg"
           }
         ],
         "facts": [
@@ -692848,6 +700096,18 @@ window.GAME_DATA = [
             "author": "",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Jeholodens_jenkinsi.JPG/500px-Jeholodens_jenkinsi.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Jeholodens-Geological_Museum_of_China.jpg",
+            "author": "Jonathan Chen",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Jeholodens-Geological_Museum_of_China.jpg/500px-Jeholodens-Geological_Museum_of_China.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Jeholodens_jenkinsi_Chaoyang.jpg",
+            "author": "Jonathan Chen",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Jeholodens_jenkinsi_Chaoyang.jpg/500px-Jeholodens_jenkinsi_Chaoyang.jpg"
           }
         ],
         "facts": [
@@ -693066,6 +700326,30 @@ window.GAME_DATA = [
             "author": "Ghedoghedo",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Labidosaurus_hamatus_3.JPG/500px-Labidosaurus_hamatus_3.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Labidosaurus_flipped.jpg",
+            "author": "Smokeybjb",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Labidosaurus_flipped.jpg/500px-Labidosaurus_flipped.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Labidosaurus_hamatus.jpg",
+            "author": "А. Кац Biarmosuchus",
+            "license": "CC BY 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Labidosaurus_hamatus.jpg/500px-Labidosaurus_hamatus.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Labidosaurus_hamatus_1.JPG",
+            "author": "Ghedoghedo",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Labidosaurus_hamatus_1.JPG/500px-Labidosaurus_hamatus_1.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Labidosaurus_hamatus.JPG",
+            "author": "Ghedoghedo",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Labidosaurus_hamatus.JPG/500px-Labidosaurus_hamatus.JPG"
           }
         ],
         "facts": [
@@ -693875,6 +701159,12 @@ window.GAME_DATA = [
             "author": "48 hand-coloured lithographic plates by E. Blanchard and J. Daverne (pl.I-XV) or",
             "license": "Public domain",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Aratinga_chloroptera_maugei_2.jpg/500px-Aratinga_chloroptera_maugei_2.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Naturalis_Biodiversity_Center_-_RMNH.AVES.110079_-_Aratinga_chloroptera_maugei_(Souanc%C3%A9,_1856)_-_Puerto_Rico_Parakeet_-_specimen_-_lateral_view.jpeg",
+            "author": "Souancé, 1856",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Naturalis_Biodiversity_Center_-_RMNH.AVES.110079_-_Aratinga_chloroptera_maugei_%28Souanc%C3%A9%2C_1856%29_-_Puerto_Rico_Parakeet_-_specimen_-_lateral_view.jpeg/500px-Naturalis_Biodiversity_Center_-_RMNH.AVES.110079_-_Aratinga_chloroptera_maugei_%28Souanc%C3%A9%2C_1856%29_-_Puerto_Rico_Parakeet_-_specimen_-_lateral_view.jpeg"
           }
         ],
         "facts": [
@@ -693922,6 +701212,30 @@ window.GAME_DATA = [
             "author": "Jerrard, C. H. H. (Cyril Henry H.)",
             "license": "Public domain",
             "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Psephotus_pulcherrimus.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Naturalis_Biodiversity_Center_-_RMNH.AVES.110071_-_Psephotus_pulcherrimus_(Gould,_1845)_-_Paradise_Parrot_-_specimen_-_lateral_view.jpeg",
+            "author": "Gould, 1845",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Naturalis_Biodiversity_Center_-_RMNH.AVES.110071_-_Psephotus_pulcherrimus_%28Gould%2C_1845%29_-_Paradise_Parrot_-_specimen_-_lateral_view.jpeg/500px-Naturalis_Biodiversity_Center_-_RMNH.AVES.110071_-_Psephotus_pulcherrimus_%28Gould%2C_1845%29_-_Paradise_Parrot_-_specimen_-_lateral_view.jpeg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Naturalis_Biodiversity_Center_-_RMNH.AVES.110074_-_Psephotus_pulcherrimus_(Gould,_1845)_-_Paradise_Parrot_-_specimen_-_lateral_view.jpeg",
+            "author": "Gould, 1845",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Naturalis_Biodiversity_Center_-_RMNH.AVES.110074_-_Psephotus_pulcherrimus_%28Gould%2C_1845%29_-_Paradise_Parrot_-_specimen_-_lateral_view.jpeg/500px-Naturalis_Biodiversity_Center_-_RMNH.AVES.110074_-_Psephotus_pulcherrimus_%28Gould%2C_1845%29_-_Paradise_Parrot_-_specimen_-_lateral_view.jpeg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:ParadiseParrotDiorama.jpg",
+            "author": "Geekgecko",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/ParadiseParrotDiorama.jpg/500px-ParadiseParrotDiorama.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Paradise_parrot_at_Wondai,_Queensland,_ca._1920.jpg",
+            "author": "C.H.H. Jerrard",
+            "license": "CC0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Paradise_parrot_at_Wondai%2C_Queensland%2C_ca._1920.jpg/500px-Paradise_parrot_at_Wondai%2C_Queensland%2C_ca._1920.jpg"
           }
         ],
         "facts": [
@@ -694279,6 +701593,24 @@ window.GAME_DATA = [
             "author": "Wikipek",
             "license": "CC BY 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Dilophosaurus_wetherilli_1.jpg/500px-Dilophosaurus_wetherilli_1.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Dilophosaurus_skeleton_RTMoP.JPG",
+            "author": "Emily Willoughby",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Dilophosaurus_skeleton_RTMoP.JPG/500px-Dilophosaurus_skeleton_RTMoP.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Dilophosaurus_wetherilli.jpg",
+            "author": "Heather Kyoht Luterman",
+            "license": "CC BY 2.5",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Dilophosaurus_wetherilli.jpg/500px-Dilophosaurus_wetherilli.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Dilophosaurus_039AD.JPG",
+            "author": "Conty",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Dilophosaurus_039AD.JPG/500px-Dilophosaurus_039AD.JPG"
           }
         ],
         "facts": [
@@ -695364,6 +702696,24 @@ window.GAME_DATA = [
             "author": "Ghedoghedo",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Liopleurodon_ferox_Tubingen_2.JPG/500px-Liopleurodon_ferox_Tubingen_2.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Liopleurodon,_DinoPark_Vy%C5%A1kov.JPG",
+            "author": "DinoTeam",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Liopleurodon%2C_DinoPark_Vy%C5%A1kov.JPG/500px-Liopleurodon%2C_DinoPark_Vy%C5%A1kov.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Liopleurodon_EF.jpg",
+            "author": "El fosilmaníaco",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Liopleurodon_EF.jpg/500px-Liopleurodon_EF.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:M%C3%BCnchehagen,_31547_Rehburg-Loccum,_Germany_-_panoramio_(55).jpg",
+            "author": "Almondox",
+            "license": "CC BY 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/M%C3%BCnchehagen%2C_31547_Rehburg-Loccum%2C_Germany_-_panoramio_%2855%29.jpg/500px-M%C3%BCnchehagen%2C_31547_Rehburg-Loccum%2C_Germany_-_panoramio_%2855%29.jpg"
           }
         ],
         "facts": [
@@ -695733,6 +703083,24 @@ window.GAME_DATA = [
             "author": "User:Apokryltaros",
             "license": "CC BY 2.5",
             "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Gemuendina_stuertzi_by_avancna.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Gemuendina_stuertzi_cast_(cropped).jpg",
+            "author": "Bloopityboop",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Gemuendina_stuertzi_cast_%28cropped%29.jpg/500px-Gemuendina_stuertzi_cast_%28cropped%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Gemuendina_stuertzi_Bundebach.JPG",
+            "author": "Ghedoghedo",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Gemuendina_stuertzi_Bundebach.JPG/500px-Gemuendina_stuertzi_Bundebach.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Gemuendina_model_at_AMNH.jpg",
+            "author": "Ryan Schwark",
+            "license": "CC0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Gemuendina_model_at_AMNH.jpg/500px-Gemuendina_model_at_AMNH.jpg"
           }
         ],
         "facts": [
@@ -695934,6 +703302,30 @@ window.GAME_DATA = [
             "author": "Ryan Somma",
             "license": "CC BY-SA 2.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Cotylorhynchus_romeri.jpg/500px-Cotylorhynchus_romeri.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Cotylorhynchus_romeri_-_AMNH_-_DSC06317.JPG",
+            "author": "Daderot",
+            "license": "CC0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Cotylorhynchus_romeri_-_AMNH_-_DSC06317.JPG/500px-Cotylorhynchus_romeri_-_AMNH_-_DSC06317.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Cotylorhynchus_AMNH.jpg",
+            "author": "Jonathan Chen",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Cotylorhynchus_AMNH.jpg/500px-Cotylorhynchus_AMNH.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Cotylorhynchus_romeri_54.JPG",
+            "author": "Ghedoghedo",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Cotylorhynchus_romeri_54.JPG/500px-Cotylorhynchus_romeri_54.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Cotylorhynchus_romeri_-_Texas_-_Museo_Civico_die_Storia_Naturale_di_Milano.jpg",
+            "author": "DagdaMor",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Cotylorhynchus_romeri_-_Texas_-_Museo_Civico_die_Storia_Naturale_di_Milano.jpg/500px-Cotylorhynchus_romeri_-_Texas_-_Museo_Civico_die_Storia_Naturale_di_Milano.jpg"
           }
         ],
         "facts": [
@@ -696805,6 +704197,18 @@ window.GAME_DATA = [
             "author": "Greg from New York, NY, America",
             "license": "CC BY 2.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Barosaurus_mount_1.jpg/500px-Barosaurus_mount_1.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Barosaurus-sketch2.jpg",
+            "author": "Debivort at en.wikipedia",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Barosaurus-sketch2.jpg/500px-Barosaurus-sketch2.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Barosaurus-sketch3.jpg",
+            "author": "",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Barosaurus-sketch3.jpg/500px-Barosaurus-sketch3.jpg"
           }
         ],
         "facts": [
@@ -696888,6 +704292,24 @@ window.GAME_DATA = [
             "author": "James St. John",
             "license": "CC BY 2.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Coelophysis_bauri_mount.jpg/500px-Coelophysis_bauri_mount.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Coelophysis_bouri_cast,_USA_New_Mexico,_Ghost_Ranch,_225-220_million_years_ago,_cast_exchanged_with_American_Museum_of_Natural_History_-_Natural_History_Museum,_London_-_DSC05224.jpg",
+            "author": "Daderot",
+            "license": "CC0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Coelophysis_bouri_cast%2C_USA_New_Mexico%2C_Ghost_Ranch%2C_225-220_million_years_ago%2C_cast_exchanged_with_American_Museum_of_Natural_History_-_Natural_History_Museum%2C_London_-_DSC05224.jpg/500px-thumbnail.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Coelophysis_sp_skull_Harvard.jpg",
+            "author": "A Cynical Idealist",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Coelophysis_sp_skull_Harvard.jpg/500px-Coelophysis_sp_skull_Harvard.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Coelophysis_cast.jpg",
+            "author": "Thomas Quine",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Coelophysis_cast.jpg/500px-Coelophysis_cast.jpg"
           }
         ],
         "facts": [
@@ -697399,6 +704821,18 @@ window.GAME_DATA = [
             "author": "Michal Maňas",
             "license": "CC BY 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Gigantopithecus_blacki_restoration.jpg/500px-Gigantopithecus_blacki_restoration.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Gigantopithecus_mandible.jpg",
+            "author": "James St. John",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Gigantopithecus_mandible.jpg/500px-Gigantopithecus_mandible.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Gigantopithecusjaw.jpg",
+            "author": "Durova",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Gigantopithecusjaw.jpg/500px-Gigantopithecusjaw.jpg"
           }
         ],
         "facts": [
@@ -697523,6 +704957,30 @@ window.GAME_DATA = [
             "author": "Guérin Nicolas ( messages )",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Paranthropus_aethiopicus_face_%28University_of_Zurich%29.JPG/500px-Paranthropus_aethiopicus_face_%28University_of_Zurich%29.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Paranthropus_aethiopicus_fossil_(1).jpg",
+            "author": "Anup Sadi",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Paranthropus_aethiopicus_fossil_%281%29.jpg/500px-Paranthropus_aethiopicus_fossil_%281%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Em_-_Paranthropus_aethiopicus_-_1.jpg",
+            "author": "Emőke Dénes",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Em_-_Paranthropus_aethiopicus_-_1.jpg/500px-Em_-_Paranthropus_aethiopicus_-_1.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Em_-_Paranthropus_aethiopicus_-_2.jpg",
+            "author": "Emőke Dénes",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Em_-_Paranthropus_aethiopicus_-_2.jpg/500px-Em_-_Paranthropus_aethiopicus_-_2.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Black_shull_-_MCN_4137.jpg",
+            "author": "GuillaumeG",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Black_shull_-_MCN_4137.jpg/500px-Black_shull_-_MCN_4137.jpg"
           }
         ],
         "facts": [
@@ -697649,6 +705107,18 @@ window.GAME_DATA = [
             "author": "Ji-Elle",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Mus%C3%A9e_national_d%27Ethiopie-Australopithecus_garhi_%281%29.jpg/500px-Mus%C3%A9e_national_d%27Ethiopie-Australopithecus_garhi_%281%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Australopithecus_garhi-_white_background.jpg",
+            "author": "宜蘭第一公民",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Australopithecus_garhi-_white_background.jpg/500px-Australopithecus_garhi-_white_background.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Resti_di_australopithecus_garhi,_da_bouri_in_afar,_2,5_milioni_di_anni_fa.jpg",
+            "author": "Sailko",
+            "license": "CC BY 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Resti_di_australopithecus_garhi%2C_da_bouri_in_afar%2C_2%2C5_milioni_di_anni_fa.jpg/500px-Resti_di_australopithecus_garhi%2C_da_bouri_in_afar%2C_2%2C5_milioni_di_anni_fa.jpg"
           }
         ],
         "facts": [
@@ -697715,6 +705185,18 @@ window.GAME_DATA = [
             "author": "Daderot",
             "license": "CC0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Australopithecus_robustus_skull_-_Naturmuseum_Freiburg_-_DSC06768.jpg/500px-Australopithecus_robustus_skull_-_Naturmuseum_Freiburg_-_DSC06768.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Paranthropus_robustus_skull.jpg",
+            "author": "Tiia Monto",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Paranthropus_robustus_skull.jpg/500px-Paranthropus_robustus_skull.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Australopithecus_robustus.JPG",
+            "author": "Rémih",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Australopithecus_robustus.JPG/500px-Australopithecus_robustus.JPG"
           }
         ],
         "facts": [
@@ -698011,6 +705493,30 @@ window.GAME_DATA = [
             "author": "No machine-readable author provided. Dinos~commonswiki assumed (based on copyrig",
             "license": "CC BY-SA 2.5",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Microraptor_gui_%28dinos%29.jpg/500px-Microraptor_gui_%28dinos%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Microraptor_sp.jpg",
+            "author": "Ghedoghedo",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Microraptor_sp.jpg/500px-Microraptor_sp.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Dinosauria_-_Microraptor_01.jpg",
+            "author": "Tylwyth Eldar",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Dinosauria_-_Microraptor_01.jpg/500px-Dinosauria_-_Microraptor_01.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Microraptor_fossil1_white_background.JPG",
+            "author": "Matthew Martyniuk",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Microraptor_fossil1_white_background.JPG/500px-Microraptor_fossil1_white_background.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Microraptor_cast_in_Horniman_Museum.jpg",
+            "author": "Tom Page",
+            "license": "CC BY-SA 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Microraptor_cast_in_Horniman_Museum.jpg/500px-Microraptor_cast_in_Horniman_Museum.jpg"
           }
         ],
         "facts": [
@@ -698122,6 +705628,24 @@ window.GAME_DATA = [
             "author": "Tim Evanson",
             "license": "CC BY-SA 2.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Australopithecus_sediba_juvenile_male_skull_-_Smithsonian_Museum_of_Natural_History_-_2012-05-17.jpg/500px-Australopithecus_sediba_juvenile_male_skull_-_Smithsonian_Museum_of_Natural_History_-_2012-05-17.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Skull_of_Australopithecus_sediba_(replica)_-_Imago_Animi_2018.jpg",
+            "author": "Niccolò Caranti",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Skull_of_Australopithecus_sediba_%28replica%29_-_Imago_Animi_2018.jpg/500px-Skull_of_Australopithecus_sediba_%28replica%29_-_Imago_Animi_2018.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Australopithecus_sediba_(Fundort_Malapa).jpg",
+            "author": "Neanderthal-Museum, Mettmann",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Australopithecus_sediba_%28Fundort_Malapa%29.jpg/500px-Australopithecus_sediba_%28Fundort_Malapa%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Skull_reconstruction_of_Australopithecus_sediba.jpg",
+            "author": "Profberger",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Skull_reconstruction_of_Australopithecus_sediba.jpg/500px-Skull_reconstruction_of_Australopithecus_sediba.jpg"
           }
         ],
         "facts": [
@@ -698929,6 +706453,18 @@ window.GAME_DATA = [
             "author": "Ornitholestes",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Simolestes_vorax.jpg/500px-Simolestes_vorax.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Simolestes_skull_side.jpg",
+            "author": "DamnationDaniel",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Simolestes_skull_side.jpg/500px-Simolestes_skull_side.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Simolestes_skull_side1.jpg",
+            "author": "DamnationDaniel",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Simolestes_skull_side1.jpg/500px-Simolestes_skull_side1.jpg"
           }
         ],
         "facts": [
@@ -699197,6 +706733,30 @@ window.GAME_DATA = [
             "author": "Tobias Fluegel",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Ardipithecus_Gesamt.jpg/500px-Ardipithecus_Gesamt.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Resti_di_ardipithecus_ramidus_detto_ardi,_da_aramis_(afar),_4,4_milioni_di_anni_fa_02.jpg",
+            "author": "Sailko",
+            "license": "CC BY 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Resti_di_ardipithecus_ramidus_detto_ardi%2C_da_aramis_%28afar%29%2C_4%2C4_milioni_di_anni_fa_02.jpg/500px-Resti_di_ardipithecus_ramidus_detto_ardi%2C_da_aramis_%28afar%29%2C_4%2C4_milioni_di_anni_fa_02.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Resti_di_ardipithecus_ramidus_detto_ardi,_da_aramis_(afar),_4,4_milioni_di_anni_fa_01.jpg",
+            "author": "Sailko",
+            "license": "CC BY 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Resti_di_ardipithecus_ramidus_detto_ardi%2C_da_aramis_%28afar%29%2C_4%2C4_milioni_di_anni_fa_01.jpg/500px-Resti_di_ardipithecus_ramidus_detto_ardi%2C_da_aramis_%28afar%29%2C_4%2C4_milioni_di_anni_fa_01.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Ardipithecus_ramidus_6547.JPG",
+            "author": "Ghedoghedo",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Ardipithecus_ramidus_6547.JPG/500px-Ardipithecus_ramidus_6547.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Smac_Pal%C3%A4olithikum_015.jpg",
+            "author": "Einsamer Schütze",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Smac_Pal%C3%A4olithikum_015.jpg/500px-Smac_Pal%C3%A4olithikum_015.jpg"
           }
         ],
         "facts": [
@@ -699594,6 +707154,24 @@ window.GAME_DATA = [
             "author": "Ghedoghedo",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Bernissartia_fagesii.jpg/500px-Bernissartia_fagesii.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Belgian_croc2.jpg",
+            "author": "Andrawaag",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Belgian_croc2.jpg/500px-Belgian_croc2.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Bernissartia_fagesii_-_Bernissart_-_RBINS.jpg",
+            "author": "PePeEfe",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Bernissartia_fagesii_-_Bernissart_-_RBINS.jpg/500px-Bernissartia_fagesii_-_Bernissart_-_RBINS.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Bernissartia_fagesii_skull.JPG",
+            "author": "Ghedoghedo",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Bernissartia_fagesii_skull.JPG/500px-Bernissartia_fagesii_skull.JPG"
           }
         ],
         "facts": [
@@ -700747,6 +708325,30 @@ window.GAME_DATA = [
             "author": "Thomas Quine",
             "license": "CC BY 2.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Woolly_mammoth_model_Royal_BC_Museum_in_Victoria.jpg/500px-Woolly_mammoth_model_Royal_BC_Museum_in_Victoria.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Amgueddfa_Cymru_-_Mammuthus_primigenius_(cast)_-_211662.jpeg",
+            "author": "",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Amgueddfa_Cymru_-_Mammuthus_primigenius_%28cast%29_-_211662.jpeg/500px-Amgueddfa_Cymru_-_Mammuthus_primigenius_%28cast%29_-_211662.jpeg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:20260307_Wollhaarmammut_(Mammuthus_primigenius)_1_Nationalmuseum_Prag_anagoria.jpg",
+            "author": "anagoria",
+            "license": "CC BY 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/20260307_Wollhaarmammut_%28Mammuthus_primigenius%29_1_Nationalmuseum_Prag_anagoria.jpg/500px-20260307_Wollhaarmammut_%28Mammuthus_primigenius%29_1_Nationalmuseum_Prag_anagoria.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:20260307_Wollhaarmammut_(Mammuthus_primigenius)_2_Nationalmuseum_Prag_anagoria.jpg",
+            "author": "anagoria",
+            "license": "CC BY 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/20260307_Wollhaarmammut_%28Mammuthus_primigenius%29_2_Nationalmuseum_Prag_anagoria.jpg/500px-20260307_Wollhaarmammut_%28Mammuthus_primigenius%29_2_Nationalmuseum_Prag_anagoria.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:20260307_Wollhaarmammut_(Mammuthus_primigenius)_3_Nationalmuseum_Prag_anagoria.jpg",
+            "author": "anagoria",
+            "license": "CC BY 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/20260307_Wollhaarmammut_%28Mammuthus_primigenius%29_3_Nationalmuseum_Prag_anagoria.jpg/500px-20260307_Wollhaarmammut_%28Mammuthus_primigenius%29_3_Nationalmuseum_Prag_anagoria.jpg"
           }
         ],
         "facts": [
@@ -701245,6 +708847,24 @@ window.GAME_DATA = [
             "author": "NobuTamura email:nobu.tamura@yahoo.com palaeocritti",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Vagaceratops_NT.jpg/500px-Vagaceratops_NT.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:VagaceratopsCMNSkull.jpg",
+            "author": "LittleLazyLass",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/VagaceratopsCMNSkull.jpg/500px-VagaceratopsCMNSkull.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Vagaceratops_irvinensis,_skull.jpg",
+            "author": "D. Gordon E. Robertson",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Vagaceratops_irvinensis%2C_skull.jpg/500px-Vagaceratops_irvinensis%2C_skull.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:VagaceratopsCMNLifeSkull.jpg",
+            "author": "LittleLazyLass",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/VagaceratopsCMNLifeSkull.jpg/500px-VagaceratopsCMNLifeSkull.jpg"
           }
         ],
         "facts": [
@@ -702180,6 +709800,12 @@ window.GAME_DATA = [
             "author": "Amanda from Chicago, USA",
             "license": "CC BY 2.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Phorusrhacid_skeleton_white_background.jpg/500px-Phorusrhacid_skeleton_white_background.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Skeleton_of_Titanis_at_the_Florida_Museum_of_Natural_History.jpg",
+            "author": "Amanda from Chicago, USA",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Skeleton_of_Titanis_at_the_Florida_Museum_of_Natural_History.jpg/500px-Skeleton_of_Titanis_at_the_Florida_Museum_of_Natural_History.jpg"
           }
         ],
         "facts": [
@@ -702424,6 +710050,24 @@ window.GAME_DATA = [
             "author": "Nobu Tamura Email:nobu.tamura@yahoo.com http://spinops.blogspot.com/ http://pale",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Pisanosaurus_NT_small.jpg/500px-Pisanosaurus_NT_small.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:PisanosaurusROM1.JPG",
+            "author": "Eduard Solà",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/PisanosaurusROM1.JPG/500px-PisanosaurusROM1.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Pisanosaur.jpg",
+            "author": "Ornitholestes",
+            "license": "Public domain",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Pisanosaur.jpg/500px-Pisanosaur.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Pisanosaurus_mertii.jpg",
+            "author": "Петр Меньшиков",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Pisanosaurus_mertii.jpg/500px-Pisanosaurus_mertii.jpg"
           }
         ],
         "facts": [
@@ -702706,6 +710350,12 @@ window.GAME_DATA = [
             "author": "ДиБгд",
             "license": "CC BY 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Eoconodon_coryphaeusDB224_2.jpg/500px-Eoconodon_coryphaeusDB224_2.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Eoconodon_coryphaeusDB224.jpg",
+            "author": "ДиБгд",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Eoconodon_coryphaeusDB224.jpg/500px-Eoconodon_coryphaeusDB224.jpg"
           }
         ],
         "facts": [
@@ -703123,6 +710773,42 @@ window.GAME_DATA = [
             "author": "Sergiodlarosa",
             "license": "CC BY 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Canis_dirus_Sergiodlarosa.jpg/500px-Canis_dirus_Sergiodlarosa.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:The_American_Museum_journal_(c1900-(1918))_(Aenocyon_dirus).jpg",
+            "author": "Mariomassone , based on an original by Erwin S. Christman",
+            "license": "Public domain",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/The_American_Museum_journal_%28c1900-%281918%29%29_%28Aenocyon_dirus%29.jpg/500px-The_American_Museum_journal_%28c1900-%281918%29%29_%28Aenocyon_dirus%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:The_American_Museum_journal_(c1900-(1918))_(17537635834).jpg",
+            "author": "Internet Archive Book Images",
+            "license": "No restrictions",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/The_American_Museum_journal_%28c1900-%281918%29%29_%2817537635834%29.jpg/500px-The_American_Museum_journal_%28c1900-%281918%29%29_%2817537635834%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Aenocyon_dirus_restoration_%26_skeleton.jpg",
+            "author": "Erwin S. Christman",
+            "license": "Public domain",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Aenocyon_dirus_restoration_%26_skeleton.jpg/500px-Aenocyon_dirus_restoration_%26_skeleton.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Reconstruction_of_Canis_dirus_(dire_wolf)_(Pleistocene,_North_America)_2_(32194767411).jpg",
+            "author": "James St. John",
+            "license": "CC BY 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Reconstruction_of_Canis_dirus_%28dire_wolf%29_%28Pleistocene%2C_North_America%29_2_%2832194767411%29.jpg/500px-Reconstruction_of_Canis_dirus_%28dire_wolf%29_%28Pleistocene%2C_North_America%29_2_%2832194767411%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Canis_dirus_reconstruction.jpg",
+            "author": "Mariomassone",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Canis_dirus_reconstruction.jpg/500px-Canis_dirus_reconstruction.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Canis_dirus_3484.jpg",
+            "author": "Ghedoghedo",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Canis_dirus_3484.jpg/500px-Canis_dirus_3484.jpg"
           }
         ],
         "facts": [
@@ -703274,6 +710960,42 @@ window.GAME_DATA = [
             "author": "John Gerrard Keulemans",
             "license": "Public domain",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Alectroenas_nitidissima-John_Gerrard_Keulemans_improved.jpg/500px-Alectroenas_nitidissima-John_Gerrard_Keulemans_improved.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:MNHN-ZO-MO-2000-727_Columba_nitidissima_Scopoli,_1786_Syntype_5.jpg",
+            "author": "Scopoli, 1786",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/MNHN-ZO-MO-2000-727_Columba_nitidissima_Scopoli%2C_1786_Syntype_5.jpg/500px-MNHN-ZO-MO-2000-727_Columba_nitidissima_Scopoli%2C_1786_Syntype_5.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:MNHN-ZO-MO-2000-727_Columba_nitidissima_Scopoli,_1786_Syntype_3.jpg",
+            "author": "Scopoli, 1786",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/MNHN-ZO-MO-2000-727_Columba_nitidissima_Scopoli%2C_1786_Syntype_3.jpg/500px-MNHN-ZO-MO-2000-727_Columba_nitidissima_Scopoli%2C_1786_Syntype_3.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:MNHN-ZO-MO-2000-727_Columba_nitidissima_Scopoli,_1786_Syntype_1.jpg",
+            "author": "Scopoli, 1786",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/MNHN-ZO-MO-2000-727_Columba_nitidissima_Scopoli%2C_1786_Syntype_1.jpg/500px-MNHN-ZO-MO-2000-727_Columba_nitidissima_Scopoli%2C_1786_Syntype_1.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Mauritius_Blue_Pigeon_national_museum_of_scotland_2016.JPG",
+            "author": "Geni",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Mauritius_Blue_Pigeon_national_museum_of_scotland_2016.JPG/500px-Mauritius_Blue_Pigeon_national_museum_of_scotland_2016.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:MNHN-ZO-MO-2000-727_Columba_nitidissima_Scopoli,_1786_Syntype_4.jpg",
+            "author": "Scopoli, 1786",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/MNHN-ZO-MO-2000-727_Columba_nitidissima_Scopoli%2C_1786_Syntype_4.jpg/500px-MNHN-ZO-MO-2000-727_Columba_nitidissima_Scopoli%2C_1786_Syntype_4.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Columba_nitidissima.jpg",
+            "author": "Pierre Sonnerat",
+            "license": "Public domain",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Columba_nitidissima.jpg/500px-Columba_nitidissima.jpg"
           }
         ],
         "facts": [
@@ -703568,6 +711290,30 @@ window.GAME_DATA = [
             "author": "W. Granger",
             "license": "Public domain",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Sarkastodon_scull_AMNH.jpg/500px-Sarkastodon_scull_AMNH.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:SarkastodonDB.jpg",
+            "author": "Dimitri Bogdanov",
+            "license": "CC BY 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/SarkastodonDB.jpg/500px-SarkastodonDB.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:SarkastodonDB_2.jpg",
+            "author": "Dimitri Bogdanov",
+            "license": "CC BY 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/SarkastodonDB_2.jpg/500px-SarkastodonDB_2.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Sarkastodon-bpk.jpg",
+            "author": "Baperookamo",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Sarkastodon-bpk.jpg/500px-Sarkastodon-bpk.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Sarkastodon_mongoliensisDB24.jpg",
+            "author": "ДиБгд",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Sarkastodon_mongoliensisDB24.jpg/500px-Sarkastodon_mongoliensisDB24.jpg"
           }
         ],
         "facts": [
@@ -704006,6 +711752,18 @@ window.GAME_DATA = [
             "author": "Meridas (Vladimír Socha)",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Lebka_daspletosaura.jpg/500px-Lebka_daspletosaura.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Daspletosaurus_horneri_skeleton.jpg",
+            "author": "Fritzmann2002",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Daspletosaurus_horneri_skeleton.jpg/500px-Daspletosaurus_horneri_skeleton.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Daspletosaurus_skull_(1).jpg",
+            "author": "Tim Evanson from Washington, D.C., United States of America",
+            "license": "CC BY-SA 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Daspletosaurus_skull_%281%29.jpg/500px-Daspletosaurus_skull_%281%29.jpg"
           }
         ],
         "facts": [
@@ -704153,6 +711911,12 @@ window.GAME_DATA = [
             "author": "Bruce McAdam",
             "license": "CC BY-SA 2.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Xiaotingia_fossil.jpg/500px-Xiaotingia_fossil.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Xiaotingia_zhengi_Chaoyang.jpg",
+            "author": "Jonathan Chen",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Xiaotingia_zhengi_Chaoyang.jpg/500px-Xiaotingia_zhengi_Chaoyang.jpg"
           }
         ],
         "facts": [
@@ -704266,6 +712030,30 @@ window.GAME_DATA = [
             "author": "Michel Krafft",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Huppe_de_Bourbon-Etourneau_de_la_R%C3%A9union%2C_-_collection_d%27animaux_disparus%2C_Mus%C3%A9e_de_zoologie_de_Lausanne.jpg/500px-Huppe_de_Bourbon-Etourneau_de_la_R%C3%A9union%2C_-_collection_d%27animaux_disparus%2C_Mus%C3%A9e_de_zoologie_de_Lausanne.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Fregilupus_varius_-_John_Gerrard_Keulemans_improved.jpg",
+            "author": "John Gerrard Keulemans",
+            "license": "Public domain",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Fregilupus_varius_-_John_Gerrard_Keulemans_improved.jpg/500px-Fregilupus_varius_-_John_Gerrard_Keulemans_improved.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Centenaire_de_la_fondation_du_Mus%C3%A9um_d%27histoire_naturelle_10_juin_1793_-_10_juin_1893_-_volume_comm%C3%A9moratif_(1893)_(19965212764).jpg",
+            "author": "Muséum national d'histoire naturelle (France)",
+            "license": "No restrictions",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Centenaire_de_la_fondation_du_Mus%C3%A9um_d%27histoire_naturelle_10_juin_1793_-_10_juin_1893_-_volume_comm%C3%A9moratif_%281893%29_%2819965212764%29.jpg/500px-Centenaire_de_la_fondation_du_Mus%C3%A9um_d%27histoire_naturelle_10_juin_1793_-_10_juin_1893_-_volume_comm%C3%A9moratif_%281893%29_%2819965212764%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Barraband_Fregilupus.jpg",
+            "author": "Jacques Barraband",
+            "license": "Public domain",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Barraband_Fregilupus.jpg/500px-Barraband_Fregilupus.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Hoopoe_starling_Roussin.jpg",
+            "author": "Albert Roussin",
+            "license": "Public domain",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Hoopoe_starling_Roussin.jpg/500px-Hoopoe_starling_Roussin.jpg"
           }
         ],
         "facts": [
@@ -705478,6 +713266,12 @@ window.GAME_DATA = [
             "author": "Esv",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Dracovenator_snout.JPG/500px-Dracovenator_snout.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Dracovenator.jpg",
+            "author": "Ornitholestes",
+            "license": "Public domain",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Dracovenator.jpg/500px-Dracovenator.jpg"
           }
         ],
         "facts": [
@@ -706390,6 +714184,36 @@ window.GAME_DATA = [
             "author": "Tommy from Arad",
             "license": "CC BY 2.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Confuciusornis_male.jpg/500px-Confuciusornis_male.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Confuciusornis_pair.jpg",
+            "author": "PaleoEquii",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Confuciusornis_pair.jpg/500px-Confuciusornis_pair.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Confuciusornis_plumage_pattern.jpg",
+            "author": "Art by Velizar Simeonovski. Published by Quanguo Li​, Julia A. Clarke, Ke-Qin Ga",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Confuciusornis_plumage_pattern.jpg/500px-Confuciusornis_plumage_pattern.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Confuciusornis_sanctus_fossil_and_model.jpg",
+            "author": "Ghedoghedo",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Confuciusornis_sanctus_fossil_and_model.jpg/500px-Confuciusornis_sanctus_fossil_and_model.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Confuciusornis_sanctus_model_55.jpg",
+            "author": "Ghedoghedo",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Confuciusornis_sanctus_model_55.jpg/500px-Confuciusornis_sanctus_model_55.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Confuciusornis_sanctus_1.jpg",
+            "author": "Dr. Bernd Gross",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Confuciusornis_sanctus_1.jpg/500px-Confuciusornis_sanctus_1.jpg"
           }
         ],
         "facts": [
@@ -706806,6 +714630,30 @@ window.GAME_DATA = [
             "author": "John Gerrard Keulemans",
             "license": "Public domain",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Moho_nobilis-Keulemans.jpg/500px-Moho_nobilis-Keulemans.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:O_o_bird_(Moho_nobilis),_Bailey_House_Museum.JPG",
+            "author": "Wmpearl",
+            "license": "CC0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/O_o_bird_%28Moho_nobilis%29%2C_Bailey_House_Museum.JPG/500px-O_o_bird_%28Moho_nobilis%29%2C_Bailey_House_Museum.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Naturalis_Biodiversity_Center_-_RMNH.AVES.110045_-_Moho_nobilis_(Merrem,_1786)_-_Hawaii_O-o_-_specimen_-_lateral_view.jpeg",
+            "author": "Merrem, 1786",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Naturalis_Biodiversity_Center_-_RMNH.AVES.110045_-_Moho_nobilis_%28Merrem%2C_1786%29_-_Hawaii_O-o_-_specimen_-_lateral_view.jpeg/500px-Naturalis_Biodiversity_Center_-_RMNH.AVES.110045_-_Moho_nobilis_%28Merrem%2C_1786%29_-_Hawaii_O-o_-_specimen_-_lateral_view.jpeg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Naturalis_Biodiversity_Center_-_RMNH.AVES.110044_-_Moho_nobilis_(Merrem,_1786)_-_Hawaii_O-o_-_specimen_-_lateral_view.jpeg",
+            "author": "Merrem, 1786",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Naturalis_Biodiversity_Center_-_RMNH.AVES.110044_-_Moho_nobilis_%28Merrem%2C_1786%29_-_Hawaii_O-o_-_specimen_-_lateral_view.jpeg/500px-Naturalis_Biodiversity_Center_-_RMNH.AVES.110044_-_Moho_nobilis_%28Merrem%2C_1786%29_-_Hawaii_O-o_-_specimen_-_lateral_view.jpeg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Naturalis_Biodiversity_Center_-_RMNH.AVES.110044_-_Moho_nobilis_(Merrem,_1786)_-_Hawaii_O-o_-_specimen_-_dorsal_view.jpeg",
+            "author": "Merrem, 1786",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Naturalis_Biodiversity_Center_-_RMNH.AVES.110044_-_Moho_nobilis_%28Merrem%2C_1786%29_-_Hawaii_O-o_-_specimen_-_dorsal_view.jpeg/500px-Naturalis_Biodiversity_Center_-_RMNH.AVES.110044_-_Moho_nobilis_%28Merrem%2C_1786%29_-_Hawaii_O-o_-_specimen_-_dorsal_view.jpeg"
           }
         ],
         "facts": [
@@ -707205,6 +715053,12 @@ window.GAME_DATA = [
             "author": "Původně soubor načetl Apokryltaros na projektu Wikipedie v jazyce angličtina",
             "license": "CC BY 2.5",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Elephas_reckii.jpg/500px-Elephas_reckii.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Elephas_recki_4545.jpg",
+            "author": "Ghedo",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Elephas_recki_4545.jpg/500px-Elephas_recki_4545.jpg"
           }
         ],
         "facts": [
@@ -707443,6 +715297,18 @@ window.GAME_DATA = [
             "author": "Wilson44691",
             "license": "CC0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Onchopristis_numidus_052013.JPG/500px-Onchopristis_numidus_052013.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Onchopristis_rostral_teeth_fossils,_Kem_Kem_Group,_Morocco.jpg",
+            "author": "Adam Kelliher / Rubble Rock and Gem",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Onchopristis_rostral_teeth_fossils%2C_Kem_Kem_Group%2C_Morocco.jpg/500px-Onchopristis_rostral_teeth_fossils%2C_Kem_Kem_Group%2C_Morocco.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Onchopristis_numidus_(Haug_1905)_7100.5144.jpg",
+            "author": "Géry PARENT",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Onchopristis_numidus_%28Haug_1905%29_7100.5144.jpg/500px-Onchopristis_numidus_%28Haug_1905%29_7100.5144.jpg"
           }
         ],
         "facts": [
@@ -708047,6 +715913,18 @@ window.GAME_DATA = [
             "author": "Brenda",
             "license": "CC BY 2.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Roberta_Brachylophosaurus.jpg/500px-Roberta_Brachylophosaurus.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Royal_Tyrrell_Brachylophosaurus.jpg",
+            "author": "Bloopityboop",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Royal_Tyrrell_Brachylophosaurus.jpg/500px-Royal_Tyrrell_Brachylophosaurus.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Brachylophosaurus_skull_by_Nick_Longrich.jpg",
+            "author": "NickLongrich",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Brachylophosaurus_skull_by_Nick_Longrich.jpg/500px-Brachylophosaurus_skull_by_Nick_Longrich.jpg"
           }
         ],
         "facts": [
@@ -708721,6 +716599,24 @@ window.GAME_DATA = [
             "author": "Петр Меньшиков",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Enaliarctos_mealsi_Model.jpg/500px-Enaliarctos_mealsi_Model.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Enaliarctos_mealsi_NT(cropped).jpg",
+            "author": "Nobu Tamura",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Enaliarctos_mealsi_NT%28cropped%29.jpg/500px-Enaliarctos_mealsi_NT%28cropped%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Enaliarctos_mealsi_(white_background).JPG",
+            "author": "Ghedoghedo",
+            "license": "Public domain",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Enaliarctos_mealsi_%28white_background%29.JPG/500px-Enaliarctos_mealsi_%28white_background%29.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Enaliarctos_mealsi_cast_(cropped).jpg",
+            "author": "Bloopityboop",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Enaliarctos_mealsi_cast_%28cropped%29.jpg/500px-Enaliarctos_mealsi_cast_%28cropped%29.jpg"
           }
         ],
         "facts": [
@@ -708920,6 +716816,12 @@ window.GAME_DATA = [
             "author": "Nobu Tamura",
             "license": "CC BY 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Josephoartigasia_BW_flipped.jpg/500px-Josephoartigasia_BW_flipped.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Josephoartigasia_monesi.jpg",
+            "author": "Andrés Rinderknecht & Ernesto Blanco; Illustration: Gustavo Lecuona",
+            "license": "CC BY-SA 2.5",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Josephoartigasia_monesi.jpg/500px-Josephoartigasia_monesi.jpg"
           }
         ],
         "facts": [
@@ -709079,6 +716981,12 @@ window.GAME_DATA = [
             "author": "régine debatty",
             "license": "CC BY-SA 2.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Paraphysornis_model_Vienna.jpg/500px-Paraphysornis_model_Vienna.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Skelettrekonstruktion_von_Paraphysornis_noBG.jpg",
+            "author": "Quelle: Gastón Cuello / Freisteller, Bildbearbeitung & Retusche von Auge=mit",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Skelettrekonstruktion_von_Paraphysornis_noBG.jpg/500px-Skelettrekonstruktion_von_Paraphysornis_noBG.jpg"
           }
         ],
         "facts": [
@@ -709973,6 +717881,18 @@ window.GAME_DATA = [
             "author": "Nobu Tamura ( http://spinops.blogspot.com )",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Haplocheirus_NT.jpg/500px-Haplocheirus_NT.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Haplocheirus_Skull_(cropped).jpg",
+            "author": "★Kumiko★ from Tokyo, Japan",
+            "license": "CC BY-SA 2.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Haplocheirus_Skull_%28cropped%29.jpg/500px-Haplocheirus_Skull_%28cropped%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Haplocherius_sollers_TIV_400.JPG",
+            "author": "Conty",
+            "license": "CC BY 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Haplocherius_sollers_TIV_400.JPG/500px-Haplocherius_sollers_TIV_400.JPG"
           }
         ],
         "facts": [
@@ -710211,6 +718131,24 @@ window.GAME_DATA = [
             "author": "F.H. von Kittlitz",
             "license": "Public domain",
             "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Bonin_Thrush.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Naturalis_Biodiversity_Center_-_RMNH.AVES.89298_-_Zoothera_terrestris_(Kittlitz,_1831)_-_Bonin_Thrush_-_specimen_-_lateral_view.jpeg",
+            "author": "Kittlitz, 1831",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Naturalis_Biodiversity_Center_-_RMNH.AVES.89298_-_Zoothera_terrestris_%28Kittlitz%2C_1831%29_-_Bonin_Thrush_-_specimen_-_lateral_view.jpeg/500px-Naturalis_Biodiversity_Center_-_RMNH.AVES.89298_-_Zoothera_terrestris_%28Kittlitz%2C_1831%29_-_Bonin_Thrush_-_specimen_-_lateral_view.jpeg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Naturalis_Biodiversity_Center_-_RMNH.AVES.89298_-_Zoothera_terrestris_(Kittlitz,_1831)_-_Bonin_Thrush_-_specimen_-_dorsal_view.jpeg",
+            "author": "Kittlitz, 1831",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Naturalis_Biodiversity_Center_-_RMNH.AVES.89298_-_Zoothera_terrestris_%28Kittlitz%2C_1831%29_-_Bonin_Thrush_-_specimen_-_dorsal_view.jpeg/500px-Naturalis_Biodiversity_Center_-_RMNH.AVES.89298_-_Zoothera_terrestris_%28Kittlitz%2C_1831%29_-_Bonin_Thrush_-_specimen_-_dorsal_view.jpeg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Naturalis_Biodiversity_Center_-_RMNH.AVES.89298_-_Zoothera_terrestris_(Kittlitz,_1831)_-_Bonin_Thrush_-_specimen_-_ventral_view.jpeg",
+            "author": "Kittlitz, 1831",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Naturalis_Biodiversity_Center_-_RMNH.AVES.89298_-_Zoothera_terrestris_%28Kittlitz%2C_1831%29_-_Bonin_Thrush_-_specimen_-_ventral_view.jpeg/500px-Naturalis_Biodiversity_Center_-_RMNH.AVES.89298_-_Zoothera_terrestris_%28Kittlitz%2C_1831%29_-_Bonin_Thrush_-_specimen_-_ventral_view.jpeg"
           }
         ],
         "facts": [
@@ -710638,6 +718576,30 @@ window.GAME_DATA = [
             "author": "D. Gordon E. Robertson",
             "license": "CC BY-SA 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Champsosaurus_natator.jpg/500px-Champsosaurus_natator.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Champsosaurus_gigas_life_restoration_National_Park_Service_(cropped).jpg",
+            "author": "NPS image",
+            "license": "Public domain",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Champsosaurus_gigas_life_restoration_National_Park_Service_%28cropped%29.jpg/500px-Champsosaurus_gigas_life_restoration_National_Park_Service_%28cropped%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Image_from_page_191_of_%22Water_reptiles_of_the_past_and_present%22_(1914)_(14586353910).jpg",
+            "author": "Internet Archive Book Images",
+            "license": "No restrictions",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Image_from_page_191_of_%22Water_reptiles_of_the_past_and_present%22_%281914%29_%2814586353910%29.jpg/500px-Image_from_page_191_of_%22Water_reptiles_of_the_past_and_present%22_%281914%29_%2814586353910%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Champsosaurus_natator_(TMP_2006.000.0004),_Royal_Tyrrell_Museum,_Drumheller,_Alberta,_2025-07-13.jpg",
+            "author": "Chris Woodrich",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Champsosaurus_natator_%28TMP_2006.000.0004%29%2C_Royal_Tyrrell_Museum%2C_Drumheller%2C_Alberta%2C_2025-07-13.jpg/500px-Champsosaurus_natator_%28TMP_2006.000.0004%29%2C_Royal_Tyrrell_Museum%2C_Drumheller%2C_Alberta%2C_2025-07-13.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Large_williston_champsosaurus.jpg",
+            "author": "Anderson and Barnum Brown",
+            "license": "Public domain",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Large_williston_champsosaurus.jpg/500px-Large_williston_champsosaurus.jpg"
           }
         ],
         "facts": [
@@ -711144,6 +719106,12 @@ window.GAME_DATA = [
             "author": "Hiuppo",
             "license": "CC BY 3.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/MEPAN_Sivatherium.jpg/500px-MEPAN_Sivatherium.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:1907_500_sivatherium.jpg",
+            "author": "Heinrich Harder (1858-1935)",
+            "license": "Public domain",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/1907_500_sivatherium.jpg/500px-1907_500_sivatherium.jpg"
           }
         ],
         "facts": [
@@ -711394,6 +719362,18 @@ window.GAME_DATA = [
             "author": "Ghedoghedo",
             "license": "CC BY-SA 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Nothosaurus_mirabilis_455.jpg/500px-Nothosaurus_mirabilis_455.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Image_from_page_107_of_%22Water_reptiles_of_the_past_and_present%22_(1914)_(14586299810).jpg",
+            "author": "Internet Archive Book Images",
+            "license": "No restrictions",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Image_from_page_107_of_%22Water_reptiles_of_the_past_and_present%22_%281914%29_%2814586299810%29.jpg/500px-Image_from_page_107_of_%22Water_reptiles_of_the_past_and_present%22_%281914%29_%2814586299810%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Nothosaurus_mirabilis_01.jpg",
+            "author": "Model created by Adam Procházka , Baden-Baden, Germany for Staatliches Museum fü",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Nothosaurus_mirabilis_01.jpg/500px-Nothosaurus_mirabilis_01.jpg"
           }
         ],
         "facts": [
@@ -711464,6 +719444,42 @@ window.GAME_DATA = [
             "author": "Hiart",
             "license": "CC0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Chloridops_kona_Wilson%2C_Bishop_Museum%2C_Honolulu.JPG/500px-Chloridops_kona_Wilson%2C_Bishop_Museum%2C_Honolulu.JPG"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Chloridops_kona_S.B.Wilson,_1888_2433871981.jpg",
+            "author": "Naturalis Biodiversity Center (Palmer%20H.L.)",
+            "license": "CC0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Chloridops_kona_S.B.Wilson%2C_1888_2433871981.jpg/500px-Chloridops_kona_S.B.Wilson%2C_1888_2433871981.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Naturalis_Biodiversity_Center_-_RMNH.AVES.110016_-_Chloridops_kona_Wilson,_1888_-_Kona_Grosbeak_-_specimen_-_lateral_view.jpeg",
+            "author": "Wilson, 1888",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Naturalis_Biodiversity_Center_-_RMNH.AVES.110016_-_Chloridops_kona_Wilson%2C_1888_-_Kona_Grosbeak_-_specimen_-_lateral_view.jpeg/500px-Naturalis_Biodiversity_Center_-_RMNH.AVES.110016_-_Chloridops_kona_Wilson%2C_1888_-_Kona_Grosbeak_-_specimen_-_lateral_view.jpeg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Naturalis_Biodiversity_Center_-_RMNH.AVES.110016_-_Chloridops_kona_Wilson,_1888_-_Kona_Grosbeak_-_specimen_-_dorsal_view.jpeg",
+            "author": "Wilson, 1888",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Naturalis_Biodiversity_Center_-_RMNH.AVES.110016_-_Chloridops_kona_Wilson%2C_1888_-_Kona_Grosbeak_-_specimen_-_dorsal_view.jpeg/500px-Naturalis_Biodiversity_Center_-_RMNH.AVES.110016_-_Chloridops_kona_Wilson%2C_1888_-_Kona_Grosbeak_-_specimen_-_dorsal_view.jpeg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Naturalis_Biodiversity_Center_-_RMNH.AVES.110015_-_Chloridops_kona_Wilson,_1888_-_Kona_Grosbeak_-_specimen_-_lateral_view.jpeg",
+            "author": "Wilson, 1888",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Naturalis_Biodiversity_Center_-_RMNH.AVES.110015_-_Chloridops_kona_Wilson%2C_1888_-_Kona_Grosbeak_-_specimen_-_lateral_view.jpeg/500px-Naturalis_Biodiversity_Center_-_RMNH.AVES.110015_-_Chloridops_kona_Wilson%2C_1888_-_Kona_Grosbeak_-_specimen_-_lateral_view.jpeg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Naturalis_Biodiversity_Center_-_RMNH.AVES.110016_-_Chloridops_kona_Wilson,_1888_-_Kona_Grosbeak_-_specimen_-_ventral_view.jpeg",
+            "author": "Wilson, 1888",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Naturalis_Biodiversity_Center_-_RMNH.AVES.110016_-_Chloridops_kona_Wilson%2C_1888_-_Kona_Grosbeak_-_specimen_-_ventral_view.jpeg/500px-Naturalis_Biodiversity_Center_-_RMNH.AVES.110016_-_Chloridops_kona_Wilson%2C_1888_-_Kona_Grosbeak_-_specimen_-_ventral_view.jpeg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Naturalis_Biodiversity_Center_-_RMNH.AVES.110015_-_Chloridops_kona_Wilson,_1888_-_Kona_Grosbeak_-_specimen_-_ventral_view.jpeg",
+            "author": "Wilson, 1888",
+            "license": "CC BY-SA 3.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Naturalis_Biodiversity_Center_-_RMNH.AVES.110015_-_Chloridops_kona_Wilson%2C_1888_-_Kona_Grosbeak_-_specimen_-_ventral_view.jpeg/500px-Naturalis_Biodiversity_Center_-_RMNH.AVES.110015_-_Chloridops_kona_Wilson%2C_1888_-_Kona_Grosbeak_-_specimen_-_ventral_view.jpeg"
           }
         ],
         "facts": [
@@ -711837,6 +719853,12 @@ window.GAME_DATA = [
             "author": "John Gerrard Keulemans (1842-1912)",
             "license": "Public domain",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Keulemans_Mascarinus_1893.jpg/500px-Keulemans_Mascarinus_1893.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Mascarinus_mascarinus,_L%27Histoire_Naturelle_Des_Oiseaux.jpg",
+            "author": "Engraved by Jean-Baptiste Massard, son of the famous engraver Jean Massard after",
+            "license": "Public domain",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Mascarinus_mascarinus%2C_L%27Histoire_Naturelle_Des_Oiseaux.jpg/500px-Mascarinus_mascarinus%2C_L%27Histoire_Naturelle_Des_Oiseaux.jpg"
           }
         ],
         "facts": [
@@ -712763,6 +720785,24 @@ window.GAME_DATA = [
             "author": "Julien Renoult",
             "license": "CC BY 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Lampetra_planeri.jpg/500px-Lampetra_planeri.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Lampetra_planeri_76210056.jpg",
+            "author": "Julien Renoult",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Lampetra_planeri_76210056.jpg/500px-Lampetra_planeri_76210056.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Lampetra_planeri_76210273_(cropped).jpg",
+            "author": "Julien Renoult",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Lampetra_planeri_76210273_%28cropped%29.jpg/500px-Lampetra_planeri_76210273_%28cropped%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Lampetra_planeri_119292092.jpg",
+            "author": "Valentin Moser",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Lampetra_planeri_119292092.jpg/500px-Lampetra_planeri_119292092.jpg"
           }
         ],
         "facts": [
@@ -712852,6 +720892,18 @@ window.GAME_DATA = [
             "author": "U. S. Fish and Wildlife Service - Northeast Region",
             "license": "Public domain",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Horseshoe_Crabs_%284678537011%29.jpg/500px-Horseshoe_Crabs_%284678537011%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Horseshoe_Crabs_(4679168598).jpg",
+            "author": "U. S. Fish and Wildlife Service - Northeast Region",
+            "license": "Public domain",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Horseshoe_Crabs_%284679168598%29.jpg/500px-Horseshoe_Crabs_%284679168598%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Horseshoe_Crab_(4034754327).jpg",
+            "author": "U.S. Fish and Wildlife Service Northeast Region",
+            "license": "Public domain",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Horseshoe_Crab_%284034754327%29.jpg/500px-Horseshoe_Crab_%284034754327%29.jpg"
           }
         ],
         "facts": [
@@ -713092,6 +721144,24 @@ window.GAME_DATA = [
             "author": "no rights reserved",
             "license": "CC0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Magnificent_Sea_Anemone%2C_FGC4_2X7%2C_Padangbai%2C_Manggis%2C_Karangasem_Regency%2C_Bali_80871%2C_Indonesia_imported_from_iNaturalist_photo_241895024.jpg/500px-Magnificent_Sea_Anemone%2C_FGC4_2X7%2C_Padangbai%2C_Manggis%2C_Karangasem_Regency%2C_Bali_80871%2C_Indonesia_imported_from_iNaturalist_photo_241895024.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:An%C3%A9mona_magn%C3%ADfica_(Heteractis_magnifica),_Zanz%C3%ADbar,_Tanzania,_2024-05-30,_DD_49.jpg",
+            "author": "Diego Delso",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/An%C3%A9mona_magn%C3%ADfica_%28Heteractis_magnifica%29%2C_Zanz%C3%ADbar%2C_Tanzania%2C_2024-05-30%2C_DD_49.jpg/500px-An%C3%A9mona_magn%C3%ADfica_%28Heteractis_magnifica%29%2C_Zanz%C3%ADbar%2C_Tanzania%2C_2024-05-30%2C_DD_49.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:An%C3%A9mona_magn%C3%ADfica_(Radianthus_magnifica),_Zanz%C3%ADbar,_Tanzania,_2024-05-29,_DD_51.jpg",
+            "author": "Diego Delso",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/An%C3%A9mona_magn%C3%ADfica_%28Radianthus_magnifica%29%2C_Zanz%C3%ADbar%2C_Tanzania%2C_2024-05-29%2C_DD_51.jpg/500px-An%C3%A9mona_magn%C3%ADfica_%28Radianthus_magnifica%29%2C_Zanz%C3%ADbar%2C_Tanzania%2C_2024-05-29%2C_DD_51.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:An%C3%A9mona_magn%C3%ADfica_(Radianthus_magnifica),_Mauricio,_2025-09-23,_DD_22.jpg",
+            "author": "Diego Delso",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/An%C3%A9mona_magn%C3%ADfica_%28Radianthus_magnifica%29%2C_Mauricio%2C_2025-09-23%2C_DD_22.jpg/500px-An%C3%A9mona_magn%C3%ADfica_%28Radianthus_magnifica%29%2C_Mauricio%2C_2025-09-23%2C_DD_22.jpg"
           }
         ],
         "facts": [
@@ -713761,6 +721831,12 @@ window.GAME_DATA = [
             "author": "Ivo Rosa",
             "license": "CC BY 4.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Asterias_rubens_185993952.jpg/500px-Asterias_rubens_185993952.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Asterias_rubens_320901931.jpg",
+            "author": "Barnaby Walters",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Asterias_rubens_320901931.jpg/500px-Asterias_rubens_320901931.jpg"
           }
         ],
         "facts": [
@@ -715206,6 +723282,24 @@ window.GAME_DATA = [
             "author": "Donald Hobern from Copenhagen, Denmark",
             "license": "CC BY 2.0",
             "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Blaniulus_guttulatus_%2826468991025%29.jpg/500px-Blaniulus_guttulatus_%2826468991025%29.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Blaniulus_guttulatus_3377448.jpg",
+            "author": "Steve Kerr",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Blaniulus_guttulatus_3377448.jpg/500px-Blaniulus_guttulatus_3377448.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Blaniulus_guttulatus_3377478.jpg",
+            "author": "Steve Kerr",
+            "license": "CC BY 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Blaniulus_guttulatus_3377478.jpg/500px-Blaniulus_guttulatus_3377478.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Blaniulus_guttulatus_11521682.jpg",
+            "author": "Jeffrey Lee (he/him/his)",
+            "license": "CC0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Blaniulus_guttulatus_11521682.jpg/500px-Blaniulus_guttulatus_11521682.jpg"
           }
         ],
         "facts": [

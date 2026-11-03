@@ -620,7 +620,7 @@ def fill_photos(slug):
 
 
 def top_up_photos(slug):
-    """Druhům s jedinou schválenou fotkou hledá dál i v podkategoriích a podle latinského jména. Každý druh jen jednou."""
+    """Druhům s jednou nebo dvěma schválenými fotkami hledá dál i v podkategoriích a podle latinského jména. Každý druh jen jednou."""
     more_photos(slug, top_up=True)
 
 
@@ -636,7 +636,7 @@ def more_photos(slug, batch=25, retry=False, fill=False, top_up=False):
     built = base / "built.json"
     approved = {s["id"]: len(s["photos"]) for s in json.loads(built.read_text("utf-8"))["species"]} if built.exists() else {}
     if top_up:
-        targets = [s for s in facts if approved.get(s) == 1 and not job_of(s).exists()]
+        targets = [s for s in facts if 1 <= approved.get(s, 0) < 3 and not job_of(s).exists()]
     elif fill:
         wanted = {s: GAME_PHOTOS - approved.get(s, 0) for s in facts}
         targets = [s for s, n in wanted.items() if n > 0 and not job_of(s).exists()]
