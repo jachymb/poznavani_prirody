@@ -177,7 +177,7 @@
     { code: "AF", name: "Afrika", color: "#c4a21f" },
     { code: "NA", name: "Severní Amerika", color: "#3f9652" },
     { code: "SA", name: "Jižní Amerika", color: "#1f9a93" },
-    { code: "AN", name: "Antarktida a její ostrovy", color: "#7b93a8" },
+    { code: "AN", name: "Antarktida", hint: "Antarktida a subantarktické ostrovy", color: "#7b93a8" },
     { code: "OC", name: "Austrálie a Oceánie", color: "#a85a9f" },
   ];
   // Ikony skupin: emoji, kde existuje vhodná a široce podporovaná, jinak malá vlastní kresba.
@@ -310,29 +310,29 @@
       onChange();
     };
     for (const area of REGIONS) {
-      const { code, name, color } = area;
+      const { code, name, hint, color } = area;
       const path = document.createElementNS("http://www.w3.org/2000/svg", "path");
       path.setAttribute("d", paths[name]);
       path.setAttribute("data-code", code);
       path.style.setProperty("--land", color);
       path.classList.toggle("off", !lit(area));
       const title = document.createElementNS("http://www.w3.org/2000/svg", "title");
-      title.textContent = name;
+      title.textContent = hint || name;
       path.append(title);
       // druhé kliknutí na vybraný region vrací celý svět
       path.addEventListener("click", () => choose(region === code ? WORLD.code : code));
       svg.append(path);
     }
-    const chip = (key, name, color) => {
+    const chip = ({ code: key, name, hint, color }) => {
       const radio = el("input", { type: "radio", name: "region", checked: key === region, onchange: () => choose(key) });
       if (color) radio.style.accentColor = color;
       radios.set(key, radio);
-      return el("label", { class: "chip" }, radio, name);
+      return el("label", { class: "chip", title: hint || "" }, radio, name);
     };
     return el("fieldset", { class: "regions" },
       el("legend", {}, "Kde mají druhy žít? Vyber kontinent nebo Česko na mapě, nebo celý svět."),
       svg,
-      el("div", { class: "chips" }, ...[WORLD, ...REGIONS].map((r) => chip(r.code, r.name, r.color))));
+      el("div", { class: "chips" }, ...[WORLD, ...REGIONS].map(chip)));
   }
 
   function gameOptions(onChange) {
