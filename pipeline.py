@@ -481,6 +481,22 @@ def commons_candidates(category, known=(), limit=MAX_PHOTOS, relaxed=False):
     return image_records(good_files([f for f in files if f.replace(" ", "_") not in known], relaxed), limit, MIN_COMMONS_WIDTH)
 
 
+def wider_candidates(category, latin, known=(), limit=8, relaxed=False):
+    """Jako commons_candidates, navíc podkategorie a soubory, které latinské jméno zmiňují, jen ne v kategorii druhu."""
+    known = {f.replace(" ", "_") for f in known}
+    members = lambda cat, kind: wiki(host="commons.wikimedia.org", action="query", list="categorymembers", cmtitle=cat, cmtype=kind, cmlimit=200)["categorymembers"]  # noqa: E731
+    found = [members(f"Category:{category}", "file")] if category else []
+    found += [members(sub["title"], "file") for sub in (members(f"Category:{category}", "subcat")[:10] if category else [])]
+    found += [wiki(host="commons.wikimedia.org", action="query", list="search", srsearch=f'"{latin}"', srnamespace=6, srlimit=50)["search"]] if latin else []
+    files = []
+    for group in found:  # přednost mají soubory blíž druhu, uvnitř skupiny náhodně jako v commons_candidates
+        titles = [m["title"].removeprefix("File:") for m in group]
+        random.Random(latin).shuffle(titles)
+        files += titles
+    fresh = [f for f in dict.fromkeys(files) if f.replace(" ", "_") not in known]
+    return image_records(good_files(fresh, relaxed), limit, MIN_COMMONS_WIDTH)
+
+
 def image_records(good, limit, min_width=400):
     if not good:
         return []
@@ -603,18 +619,25 @@ def fill_photos(slug):
     more_photos(slug, fill=True)
 
 
-def more_photos(slug, batch=25, retry=False, fill=False):
+def top_up_photos(slug):
+    """Druhům s jedinou schválenou fotkou hledá dál i v podkategoriích a podle latinského jména. Každý druh jen jednou."""
+    more_photos(slug, top_up=True)
+
+
+def more_photos(slug, batch=25, retry=False, fill=False, top_up=False):
     """Druhům s málo schválenými fotkami přidá kandidáty z Commons a úlohy pro jejich posouzení. Každý druh jen jednou."""
     base, species_file, _, thumbs, *_ = paths(slug)
     (base / "photo_jobs").mkdir(exist_ok=True)
     (base / "more_photos").mkdir(exist_ok=True)
     species, facts, _ = load_facts(slug)
-    name = (lambda s: f"{s}_fill") if fill else (lambda s: s)
+    name = (lambda s: f"{s}_fill") if fill else (lambda s: f"{s}_top") if top_up else (lambda s: s)
     job_of = lambda s: base / "photo_jobs" / f"{name(s)}.json"
-    if fill:
-        # počítá se se schválením po přísné kontrole, ta je v built.json
-        built = base / "built.json"
-        approved = {s["id"]: len(s["photos"]) for s in json.loads(built.read_text("utf-8"))["species"]} if built.exists() else {}
+    # počítá se se schválením po přísné kontrole, ta je v built.json
+    built = base / "built.json"
+    approved = {s["id"]: len(s["photos"]) for s in json.loads(built.read_text("utf-8"))["species"]} if built.exists() else {}
+    if top_up:
+        targets = [s for s in facts if approved.get(s) == 1 and not job_of(s).exists()]
+    elif fill:
         wanted = {s: GAME_PHOTOS - approved.get(s, 0) for s in facts}
         targets = [s for s, n in wanted.items() if n > 0 and not job_of(s).exists()]
     elif retry:
@@ -628,6 +651,8 @@ def more_photos(slug, batch=25, retry=False, fill=False):
     def search(sid):
         sp = species[sid]
         known = [p["file"] for p in sp["photos"]]
+        if top_up:
+            return download_photos(thumbs, sid, wider_candidates(categories.get(sid), sp["latin"], known, relaxed=slug in EXTRA), len(known))
         limit = wanted[sid] if fill else MAX_PHOTOS * 2 if retry else MAX_PHOTOS
         return download_photos(thumbs, sid, commons_candidates(categories.get(sid) or sp["latin"], known, limit, slug in EXTRA), len(known))
 
@@ -1449,6 +1474,6 @@ def write_game_data():
 
 if __name__ == "__main__":
     sys.stdout.reconfigure(encoding="utf-8")
-    {"fetch": fetch, "photos": more_photos, "retry": retry_photos, "fill": fill_photos, "wild": sync_wild_review, "human": sync_human_review,
+    {"fetch": fetch, "photos": more_photos, "retry": retry_photos, "fill": fill_photos, "top": top_up_photos, "wild": sync_wild_review, "human": sync_human_review,
      "shells": sync_shell_review,
      "foreign": fetch_foreign, "next": next_batch, "todo": todo, "build": build, "popularity": popularity}[sys.argv[1]](sys.argv[2])
