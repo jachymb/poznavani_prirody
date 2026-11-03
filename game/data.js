@@ -565188,6 +565188,7 @@ window.GAME_DATA = [
               "Q156895",
               "Q156907",
               "Q158347",
+              "Q3772280",
               "Q48677",
               "Q9073225",
               "Q960124"
@@ -577371,7 +577372,9 @@ window.GAME_DATA = [
             "id": "Q165227#0",
             "text": "Plody jsou žluté až oranžové.",
             "cat": "vzhled",
-            "not": []
+            "not": [
+              "Q3772280"
+            ]
           },
           {
             "id": "Q165227#1",
@@ -599470,6 +599473,84 @@ window.GAME_DATA = [
         "emoji": "🌼"
       },
       {
+        "id": "Q3772280",
+        "name": "Cesmína wayusa",
+        "latin": "Ilex guayusa",
+        "family": "cesmínovité",
+        "order": "cesmínotvaré",
+        "wiki": "https://cs.wikipedia.org/wiki/Ilex_guayusa",
+        "photos": [
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:View_of_Ilex_guayusa_from_above.jpg",
+            "author": "Anna Premo",
+            "license": "FAL",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/View_of_Ilex_guayusa_from_above.jpg/500px-View_of_Ilex_guayusa_from_above.jpg"
+          },
+          {
+            "page": "https://commons.wikimedia.org/wiki/File:Hoja_de_Ilex_guayusa.jpg",
+            "author": "Pisofrix",
+            "license": "CC BY-SA 4.0",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Hoja_de_Ilex_guayusa.jpg/500px-Hoja_de_Ilex_guayusa.jpg"
+          }
+        ],
+        "facts": [
+          {
+            "id": "Q3772280#0",
+            "text": "Roste v nadmořské výšce mezi 200 a 2000 metry.",
+            "cat": "čísla",
+            "not": []
+          },
+          {
+            "id": "Q3772280#x0",
+            "text": "Listy obsahují kofein, který působí povzbudivě na nervovou soustavu.",
+            "cat": "účinky",
+            "not": [
+              "Q1341548",
+              "Q15520533",
+              "Q158449",
+              "Q161313",
+              "Q588939",
+              "Q611970"
+            ]
+          },
+          {
+            "id": "Q3772280#x3",
+            "text": "Rozmnožuje se většinou nepohlavně, například kořenovými výhony.",
+            "cat": "růst",
+            "not": []
+          },
+          {
+            "id": "Q3772280#x5",
+            "text": "Samčí a samičí květy rostou na různých stromech.",
+            "cat": "růst",
+            "not": [
+              "Q1341548",
+              "Q15520533",
+              "Q158449",
+              "Q161313"
+            ]
+          },
+          {
+            "id": "Q3772280#x6",
+            "text": "Dorůstá výšky 6 až 30 metrů.",
+            "cat": "čísla",
+            "not": [
+              "Q1341548",
+              "Q15520533",
+              "Q158449",
+              "Q161313",
+              "Q588939",
+              "Q611970"
+            ]
+          }
+        ],
+        "continents": [
+          "SA"
+        ],
+        "pop": 19,
+        "emoji": "🍵"
+      },
+      {
         "id": "Q37937",
         "name": "Povijnice batátová",
         "latin": "Ipomoea batatas",
@@ -601663,6 +601744,7 @@ window.GAME_DATA = [
             "not": [
               "Q124969",
               "Q140415",
+              "Q3772280",
               "Q913609"
             ]
           },

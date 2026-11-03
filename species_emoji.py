@@ -157,7 +157,7 @@ RULES = {
         # co se z rostliny vyrábí, je zábavnější než obecný list nebo kvítek
         (latin("Theobroma cacao"), "🍫"), (latin("Ilex paraguariensis"), "🧉"), (latin("Acer saccharum"), "🥞"),
         (latin("Cola acuminata|Cola nitida|Paullinia cupana"), "🥤"), (latin("Glycyrrhiza glabra|Stevia rebaudiana"), "🍬"),
-        (latin("Aspalathus linearis|Matricaria chamomilla"), "🍵"),
+        (latin("Aspalathus linearis|Matricaria chamomilla|Ilex guayusa"), "🍵"),
         (latin("Sesamum indicum"), "🥯"), (latin("Manihot esculenta"), "🧋"),
         (latin("Rheum rhabarbarum"), "🥧"), (latin("Capsicum annuum"), "🫑"),
         (latin("Solanum lycopersicum"), "🍅"), (latin("Solanum tuberosum"), "🍟"), (latin("Solanum melongena"), "🍆"),
