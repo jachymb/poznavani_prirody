@@ -27,6 +27,13 @@ assert(window.Quiz.isDull({ text: "Kvete od června do srpna." }) && !window.Qui
   assert(window.Quiz.atLevel([mammals], "advanced")[0].species.some((s) => s.order === "letouni"), "pokročilý zná i netopýry");
   const europe = window.Quiz.inContinents([mammals], new Set(["EU"]));
   assert(window.Quiz.atLevel(europe, "beginner")[0].species.some((s) => s.order === "letouni"), "začátečník v Evropě zná netopýra");
+  const europeNames = new Set(window.Quiz.atLevel(europe, "beginner")[0].species.map((s) => s.name));
+  assert(europeNames.has("Zubr evropský") && europeNames.has("Liška obecná") && !europeNames.has("Myš domácí"), "v Evropě mají přednost evropské druhy");
+  const world = window.Quiz.inContinents(classes, new Set(["EU", "AS", "AF", "NA", "SA", "AN", "OC"]));
+  for (const [i, c] of classes.entries()) {
+    const ids = (cls) => window.Quiz.atLevel([cls], "beginner")[0].species.map((s) => s.id).join();
+    assert.strictEqual(ids(world[i]), ids(c), `${c.slug}: celý svět je beze změny`);
+  }
   assert(classes.find((c) => c.slug === "mekkysi").species.filter((s) => s.clade === "mlži").every((s) => s.emoji === "🦪"), "všichni mlži mají 🦪");
   for (const level of ["beginner", "advanced", "expert"]) {
     const here = window.Quiz.atLevel(window.Quiz.inContinents(classes.filter((c) => c.kingdom === "zivocichove"), new Set(["AF"])), level);
@@ -46,8 +53,10 @@ assert(window.Quiz.isDull({ text: "Kvete od června do srpna." }) && !window.Qui
   const sharks = window.Quiz.inContinents([classes.find((c) => c.slug === "paryby")], new Set(["EU"]));
   assert(window.Quiz.atLevel(sharks, "beginner")[0].species.some((s) => s.clade === "rejnoci"), "začátečník v Evropě zná i rejnoka");
   for (const c of classes) {
-    const limit = Math.max(8, Math.ceil(c.species.length * 0.05));
-    assert(window.Quiz.atLevel([c], "beginner")[0].species.filter((s) => !s.egg).length <= limit, `${c.slug}: kvóty řádů nezvětší začátečníka`);
+    const limit = Math.max(8, Math.ceil(c.species.length * (c.kingdom === "houby" ? 0.1 : 0.05)));
+    const beginnerSize = window.Quiz.atLevel([c], "beginner")[0].species.filter((s) => !s.egg).length;
+    assert(beginnerSize <= limit, `${c.slug}: kvóty řádů nezvětší začátečníka`);
+    if (c.kingdom === "houby") assert(beginnerSize === limit && window.Quiz.atLevel([c], "advanced")[0].species.length === Math.max(12, Math.ceil(c.species.length * 0.5)), `${c.slug}: houby mají dvojnásobný díl`);
   }
   for (const [level, picked] of [["beginner", beginner], ["advanced", advanced]]) {
     const pool = new Set(picked[0].species.map((s) => s.id));

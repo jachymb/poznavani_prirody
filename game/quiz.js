@@ -2,6 +2,8 @@
 (function () {
   // Jaký díl nejznámějších druhů každé třídy se hraje a kolik druhů nejméně. Znalec hraje se všemi.
   const LEVEL_POOLS = { beginner: { share: 0.05, min: 8 }, advanced: { share: 0.25, min: 12 } };
+  // Hub je ve hře mnohem méně druhů než živočichů a rostlin, začátečník i pokročilý jich proto znají dvojnásobný díl.
+  const KINGDOM_SHARES = { houby: { beginner: 0.1, advanced: 0.5 } };
   // Tvrzení jen o období kvetení, růstu nebo o velikosti: pravdivá, ale špatně se pamatují a dítě je může jen hádat.
   const DULL = /^(tento druh )?((kvete|roste|vyrůstá|se objevuje|objevuje se|plodnice rost[eo]u?)\b.* (ledn|lede|únor|březn|břez|dubn|dube|květn|květe|červn|červe|srpn|srpe|září|říjn|říje|listop|prosin|jaře|létě|podzim)|(dorůstá|dosahuje|měří|má klobouk|klobouk měří|může dorůst)\b)/i;
   const DULL_WEIGHT = 0.15;
@@ -180,16 +182,22 @@
   const subgroup = (s) => `${group(s)}/${s.clade ? s.order : s.family}`;
   // Odmocnina tlumí známost a velikost třídy (velké třídy nevytlačí malé); skupina dostane podíl podle odmocniny své velikosti
   // a rozdělí ho stejně mezi podskupiny (žáby nevytlačí mloky, kočky ostatní šelmy).
-  const weightCache = new WeakMap();
-  function weights(species) {
-    if (!weightCache.has(species)) weightCache.set(species, computeWeights(species));
-    return weightCache.get(species);
+  const weightCache = { true: new WeakMap(), false: new WeakMap() };
+  function weights(species, regional = false) {
+    const cache = weightCache[regional];
+    if (!cache.has(species)) cache.set(species, computeWeights(species, regional));
+    return cache.get(species);
   }
-  function computeWeights(species) {
+  // Na jednom kontinentu mají přednost druhy, které jinde nežijí: zubr před myší domácí, okapi před kosatkou.
+  // Váha i známost se dělí počtem kontinentů druhu na třetinu, víc by z Evropy vytlačilo kosa, čápa i lišku.
+  const REGIONAL = 1 / 3;
+  const regionalShare = (s, regional) => (regional ? s.continents.length ** -REGIONAL : 1);
+  const fame = (s, regional) => (1 + (s.pop || 0)) * regionalShare(s, regional);
+  function computeWeights(species, regional) {
     const size = {}, spread = {};
     for (const s of species) for (const key of [group(s), subgroup(s)]) size[key] = (size[key] || 0) + 1;
     for (const [sub, top] of new Map(species.map((s) => [subgroup(s), group(s)]))) spread[top] = (spread[top] || 0) + Math.sqrt(size[sub]);
-    const base = (s) => Math.sqrt((1 + (s.pop || 0)) / species.length);
+    const base = (s) => Math.sqrt((1 + (s.pop || 0)) / species.length) * regionalShare(s, regional);
     const damped = (s) => (s.egg ? base(s) : (base(s) * Math.sqrt(size[group(s)])) / (Math.sqrt(size[subgroup(s)]) * spread[group(s)]));
     const scale = species.reduce((n, s) => n + base(s), 0) / species.reduce((n, s) => n + damped(s), 0);
     return new Map(species.map((s) => [s, s.egg ? base(s) : damped(s) * scale]));
@@ -198,7 +206,7 @@
   // classes: třídy jedné říše. skip: id druhů, které už v kole byly. only: jen tyto cílové druhy (opakování chyb).
   // level: beginner, advanced nebo expert určuje, z jak blízkých druhů jsou špatné odpovědi.
   function makeQuestion(classes, { skip = new Set(), only = null, level = "expert" } = {}) {
-    const all = classes.flatMap((c) => { const w = weights(c.species); return c.species.map((s) => [s, w.get(s), c.wide || c.species, c.slug]); })
+    const all = classes.flatMap((c) => { const w = weights(c.species, Boolean(c.regional)); return c.species.map((s) => [s, w.get(s), c.wide || c.species, c.slug]); })
       .filter(([s]) => !only || only.has(s.id));
     const fresh = all.filter(([s]) => !skip.has(s.id));
     for (const pool of [fresh, all]) {
@@ -230,10 +238,12 @@
   // Je možnost správná? Správně je právě ta, která nese cílový druh.
   const isCorrect = (q, option) => option.species === q.target;
 
-  // Třídy zúžené na druhy, které žijí aspoň na jednom z vybraných kontinentů.
+  // Třídy zúžené na druhy, které žijí aspoň na jednom z vybraných kontinentů. Celý svět zůstává bez zvýhodnění.
+  const ALL_CONTINENTS = 7;
   const inContinents = (classes, selected) => classes.map((c) => ({
     ...c,
     species: c.species.filter((s) => s.continents.some((code) => selected.has(code))),
+    regional: selected.size < ALL_CONTINENTS,
   }));
 
   // Hledané druhy podle úrovně: nejznámější z každé třídy (a vzácný vtípek, ten má vlastní nízkou váhu). Celá třída zůstává
@@ -243,8 +253,8 @@
   const atLevel = (classes, level) => classes.map((c) => {
     const pool = LEVEL_POOLS[level];
     if (!pool) return c;
-    const limit = Math.max(pool.min, Math.ceil(c.species.length * pool.share));
-    const ranked = [...c.species].sort((a, b) => (b.pop || 0) - (a.pop || 0));
+    const limit = Math.max(pool.min, Math.ceil(c.species.length * (KINGDOM_SHARES[c.kingdom]?.[level] ?? pool.share)));
+    const ranked = [...c.species].sort((a, b) => fame(b, c.regional) - fame(a, c.regional));
     const size = {}, taken = {}, perSpecies = (limit / ranked.length) * ORDER_QUOTA;
     for (const s of ranked) size[group(s)] = (size[group(s)] || 0) + 1;
     const known = new Set(ranked.filter((s) => (taken[group(s)] = (taken[group(s)] || 0) + 1) <= Math.round(size[group(s)] * perSpecies)));
