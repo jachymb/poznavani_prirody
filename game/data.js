@@ -379729,12 +379729,6 @@ window.GAME_DATA = [
             "not": []
           },
           {
-            "id": "Q157419#4",
-            "text": "Obsahuje látku DMT, která vyvolává krátkodobé halucinace.",
-            "cat": "účinky",
-            "not": []
-          },
-          {
             "id": "Q157419#5",
             "text": "Semena jedí zrnozobí ptáci.",
             "cat": "potrava",
@@ -527566,18 +527560,6 @@ window.GAME_DATA = [
               "Q3919027",
               "Q500",
               "Q9351122"
-            ]
-          },
-          {
-            "id": "Q94857#2",
-            "text": "Vyvolává halucinace.",
-            "cat": "účinky",
-            "not": [
-              "Q147159",
-              "Q15602001",
-              "Q161369",
-              "Q164246",
-              "Q2016755"
             ]
           }
         ],
