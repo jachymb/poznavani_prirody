@@ -73,7 +73,7 @@
   .answers.names { grid-template-columns: 1fr 1fr; }
   @media (max-width: 480px) { .answers.names { grid-template-columns: 1fr; } }
   .answer { width: 100%; background: var(--card); border: 3px solid var(--line); border-radius: 16px; padding: 12px 14px; font-weight: 700; text-align: left; min-height: 56px; }
-  .answer:not(:disabled):hover { border-color: var(--brand); }
+  button.answer:not(:disabled):hover { border-color: var(--brand); }
   .answer:disabled { cursor: default; }
   .tile { position: relative; padding: 0; overflow: hidden; text-align: center; }
   .tile .mark { position: absolute; top: 6px; right: 6px; margin: 0; padding: 2px 5px; background: var(--card); border-radius: 10px; }
@@ -85,6 +85,8 @@
   .answer.bad { border-color: var(--bad); background: var(--bad-bg); }
   .answer .mark { float: right; margin-left: 8px; user-select: none; -webkit-user-select: none; }
   .answer.dim { opacity: .75; }
+  .answer.wiki, .answer.wiki span { cursor: pointer; }
+  .answer.wiki .name { text-decoration: underline; }
 
   .feedback { margin-top: 14px; padding: 14px 16px; border-radius: 16px; }
   .feedback.good { background: var(--good-bg); }
@@ -473,6 +475,7 @@
     if (right) game.score++;
     if (right) burst(answers.find((b) => b.option === chosen), q.target.emoji);
     game.history.push({ species: q.target, right });
+    const speciesChoice = q.type !== "findFact";
     for (const button of answers) {
       const { option } = button;
       const correct = window.Quiz.isCorrect(q, option);
@@ -481,7 +484,16 @@
       if (correct || option === chosen) {
         button.prepend(el("span", { class: "mark", ariaLabel: correct ? "správně" : "špatně" }, correct ? "✅" : "❌"));
       }
-      if (q.type === "findPhoto") button.append(el("span", {}, ...speciesName(option.species)));
+      // Celá odpovězená možnost (fotka i jméno) otevře článek na Wikipedii. Není to <a>, protože text v odkazu nejde označit
+      // tažením myši; kliknutí, které skončí označeným textem, proto nic neotevře.
+      if (speciesChoice) {
+        const open = () => window.open(option.species.wiki, "_blank", "noopener");
+        button.replaceWith(el("div", {
+          class: `${button.className} wiki`, role: "link", tabIndex: 0, title: "Přečíst na Wikipedii",
+          onclick: () => String(window.getSelection()) || open(),
+          onkeydown: (e) => e.key === "Enter" && open(),
+        }, button.querySelector(".mark"), button.querySelector("img"), el("span", { class: "name" }, ...speciesName(option.species))));
+      }
     }
     const shown = q.photo ? [q.photo] : q.options.map((o) => o.photo).filter(Boolean);
     const fact = q.bonusFact;
@@ -495,10 +507,11 @@
       right || q.type === "findFact"
         ? el("h2", {}, verdict)
         : el("h2", {}, "Tentokrát ne. Správně je: ", ...speciesName(q.target)),
-      right ? el("p", {}, ...speciesName(q.target)) : null,
       fact ? el("p", {}, `Zajímavost: ${fact}`) : null,
       el("p", {}, `Kde žije: ${lives}`),
-      el("p", {}, el("a", { href: q.target.wiki, target: "_blank", rel: "noopener" }, "Přečti si víc na Wikipedii: ", ...speciesName(q.target))),
+      speciesChoice
+        ? el("p", {}, "Přečti si víc na Wikipedii kliknutím na jméno druhu.")
+        : el("p", {}, el("a", { href: q.target.wiki, target: "_blank", rel: "noopener" }, "Přečti si víc na Wikipedii: ", ...speciesName(q.target))),
       shown.length ? el("p", { class: "credit" }, "Foto: ", ...shown.flatMap((p, i) => (i ? [" · ", credit(p)] : [credit(p)]))) : null,
     );
     card.append(box, next);
