@@ -380390,7 +380390,7 @@ window.GAME_DATA = [
           "AF"
         ],
         "pop": 63,
-        "emoji": "🥘"
+        "emoji": "🪻"
       },
       {
         "id": "Q1504185",
@@ -463323,7 +463323,7 @@ window.GAME_DATA = [
           "OC"
         ],
         "pop": 59,
-        "emoji": "🌭"
+        "emoji": "🌼"
       },
       {
         "id": "Q146212",
@@ -516579,7 +516579,7 @@ window.GAME_DATA = [
           "OC"
         ],
         "pop": 61,
-        "emoji": "🌭"
+        "emoji": "🥬"
       },
       {
         "id": "Q384640",
@@ -539942,7 +539942,7 @@ window.GAME_DATA = [
           "NA"
         ],
         "pop": 104,
-        "emoji": "🍕"
+        "emoji": "🪻"
       },
       {
         "id": "Q1342885",
@@ -600244,7 +600244,7 @@ window.GAME_DATA = [
           "OC"
         ],
         "pop": 122,
-        "emoji": "🍕"
+        "emoji": "🪻"
       },
       {
         "id": "Q3894762",

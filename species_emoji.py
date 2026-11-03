@@ -157,8 +157,8 @@ RULES = {
         # co se z rostliny vyrábí, je zábavnější než obecný list nebo kvítek
         (latin("Theobroma cacao"), "🍫"), (latin("Ilex paraguariensis"), "🧉"), (latin("Acer saccharum"), "🥞"),
         (latin("Cola acuminata|Cola nitida|Paullinia cupana"), "🥤"), (latin("Glycyrrhiza glabra|Stevia rebaudiana"), "🍬"),
-        (latin("Aspalathus linearis|Matricaria chamomilla"), "🍵"), (latin("Sinapis alba|Brassica nigra"), "🌭"),
-        (latin("Sesamum indicum"), "🥯"), (latin("Manihot esculenta"), "🧋"), (latin("Ocimum basilicum|Origanum vulgare"), "🍕"),
+        (latin("Aspalathus linearis|Matricaria chamomilla"), "🍵"),
+        (latin("Sesamum indicum"), "🥯"), (latin("Manihot esculenta"), "🧋"),
         (latin("Rheum rhabarbarum"), "🥧"), (latin("Capsicum annuum"), "🫑"),
         (latin("Solanum lycopersicum"), "🍅"), (latin("Solanum tuberosum"), "🍟"), (latin("Solanum melongena"), "🍆"),
         (latin("Capsicum"), "🌶️"),
@@ -190,7 +190,7 @@ RULES = {
     "jednodelozne": [
         (latin("Triticum aestivum"), "🥖"), (latin("Triticum durum"), "🍝"), (latin("Triticum spelta|Secale cereale"), "🍞"),
         (latin("Oryza sativa"), "🍚"), (latin("Avena sativa|Avena nuda|Panicum miliaceum"), "🥣"), (latin("Saccharum officinarum"), "🍭"),
-        (latin("Vanilla planifolia"), "🍦"), (latin("Crocus sativus"), "🥘"),
+        (latin("Vanilla planifolia"), "🍦"),
         (latin("Zea"), "🌽"), (latin("Allium cepa|Allium porrum|Allium schoenoprasum|Allium fistulosum"), "🧅"), (latin("Allium"), "🧄"),
         (latin("Cocos"), "🥥"), (latin("Ananas"), "🍍"), (latin("Musa|Ensete"), "🍌"), (latin("Zingiber"), "🫚"),
         (latin("Tulipa|Lilium|Fritillaria|Erythronium"), "🌷"),
