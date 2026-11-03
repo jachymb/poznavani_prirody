@@ -205,10 +205,16 @@ RULES = {
         (ANY, "🌿"),
     ],
     "stopkovytrusne": [
-        (DEADLY_FUNGI, "☠️"), (latin("Amanita"), "🍄"), (ANY, "🍄‍🟫"),
+        (DEADLY_FUNGI, "☠️"), (name("Pýchavka|Prášivka"), "💨"), (name("Hvězdovka"), "⭐"), (name("Kuřátka"), "🪸"),
+        (latin("Auricularia auricula-judae"), "👂"), (latin("Pleurotus ostreatus"), "🦪"), (latin("Ustilago maydis"), "🌽"),
+        (latin("Phallus impudicus"), "🪰"), (latin("Psilocybe"), "🌈"),
+        (latin("Amanita"), "🍄"), (ANY, "🍄‍🟫"),
     ],
     "vreckovytrusne": [
-        (DEADLY_FUNGI, "☠️"), (ANY, "🍄‍🟫"),
+        (DEADLY_FUNGI, "☠️"), (latin("Claviceps purpurea"), "🌾"),
+        # lišejníky na kamenech a kůře; dutohlávky, hávnatka a pukléřka islandská rostou hlavně na zemi
+        (latin("Amandinea|Hypogymnia|Rhizocarpon|Lecanora|Vulpicida|Xanthoria|Evernia|Cladonia coniocraea"), "🪨"),
+        (ANY, "🍄‍🟫"),
     ],
 }
 
@@ -243,6 +249,9 @@ if __name__ == "__main__":
     assert species_emoji("stopkovytrusne", sp("Muchomůrka červená", "Amanita muscaria")) == "🍄"
     assert species_emoji("stopkovytrusne", sp("Muchomůrka zelená", "Amanita phalloides")) == "☠️"
     assert species_emoji("vreckovytrusne", sp("Ucháč obecný", "Gyromitra esculenta")) == "☠️"
+    assert species_emoji("stopkovytrusne", sp("Pýchavka obrovská", "Calvatia gigantea")) == "💨"
+    assert species_emoji("vreckovytrusne", sp("Terčovník zední", "Xanthoria parietina")) == "🪨"
+    assert species_emoji("vreckovytrusne", sp("Dutohlávka sobí", "Cladonia rangiferina")) == "🍄‍🟫"
     assert species_emoji("asteridy", sp("Cesmína paraguayská", "Ilex paraguariensis", "cesmínovité")) == "🧉"
     assert species_emoji("rosidy", sp("Kakaovník pravý", "Theobroma cacao", "slézovité")) == "🍫"
     assert species_emoji("rosidy", sp("Kakaovník velkokvětý", "Theobroma grandiflorum", "slézovité")) == "🌳"
