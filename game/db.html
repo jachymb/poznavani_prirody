@@ -231,7 +231,9 @@
         el("dt", {}, "Známost"), el("dd", {}, String(s.pop ?? "—")),
         el("dt", {}, "Nejnižší obtížnost"), el("dd", {}, el("table", { class: "levels" }, el("tbody", {},
           [["Celý svět", Object.keys(CONTINENTS)], ...Object.entries(CONTINENTS).map(([code, name]) => [name, [code]])]
-            .map(([label, codes]) => el("tr", {}, el("td", {}, label), el("td", {}, lowestLevel(s, codes))))))),
+            .map(([label, codes]) => el("tr", {}, el("td", {}, label), el("td", {}, lowestLevel(s, codes)))))),
+          el("p", { class: "note" }, s.cls.kingdom === "extra" ? "Extra se hraje jen jako jedna skupina."
+            : `Stejně pro hru na celou říši i jen na skupinu ${s.cls.name}: úrovně se počítají v každé skupině zvlášť.`)),
         s.egg ? [el("dt", {}, "Vtípek"), el("dd", {}, "ano (jen jako hledaný druh)")] : null,
       ),
 
