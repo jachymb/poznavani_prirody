@@ -229,6 +229,7 @@
         s.peers ? [el("dt", {}, "Užší skupina"), el("dd", {}, s.peers)] : null,
         el("dt", {}, "Kontinenty"), el("dd", {}, s.continents.map((c) => CONTINENTS[c] || c).join(", ") || "—"),
         el("dt", {}, "Známost"), el("dd", {}, String(s.pop ?? "—")),
+        el("dt", {}, "Délka článku"), el("dd", {}, s.len ? `${s.len} znaků` : "—"),
         el("dt", {}, "Nejnižší obtížnost"), el("dd", {}, el("table", { class: "levels" }, el("tbody", {},
           [["Celý svět", Object.keys(CONTINENTS)], ...Object.entries(CONTINENTS).map(([code, name]) => [name, [code]])]
             .map(([label, codes]) => el("tr", {}, el("td", {}, label), el("td", {}, lowestLevel(s, codes)))))),

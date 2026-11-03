@@ -1311,6 +1311,11 @@ def sync_language(slug, batch=40):
     print(f"K jazykové kontrole: {total} tvrzení")
 
 
+def article_length(file):
+    """Délka českého článku ve znacích bez hlavičky; hra podle ní zvýhodňuje druhy, o kterých česká Wikipedie píše hodně."""
+    return len(file.read_text("utf-8").split("\n---\n", 1)[-1]) if file.exists() else 0
+
+
 def build(slug):
     base, _, _, _, _, _, neg_dir = paths(slug)
     species, facts, dropped = load_facts(slug)
@@ -1378,7 +1383,8 @@ def build(slug):
                    "reviewed": (sid, i) in reviewed} for i in v["photos"]][:GAME_PHOTOS]
         out.append({"id": sid, "name": sp["name"], "latin": sp["latin"], "family": sp["family"], "order": sp["order"],
                     "wiki": "https://cs.wikipedia.org/wiki/" + urllib.parse.quote(sp["title"].replace(" ", "_")),
-                    "photos": photos, "facts": kept, "continents": where.get(sid, []), "pop": known.get(sid, 0)})
+                    "photos": photos, "facts": kept, "continents": where.get(sid, []), "pop": known.get(sid, 0),
+                    "len": article_length(base / "articles" / f"{sid}.txt")})
     (base / "built.json").write_text(json.dumps({"slug": slug, "name": CLASSES[slug][1], "kingdom": CLASSES[slug][2], "species": out}, ensure_ascii=False), encoding="utf-8")
     write_game_data()
     t4 = sum(len(f["not"]) >= 3 for s in out for f in s["facts"])

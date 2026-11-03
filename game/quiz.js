@@ -1,9 +1,9 @@
 // Losování otázek z databáze (game/data.js). Bez závislosti na stránce, aby šlo ověřit přes quiz_check.js.
 (function () {
   // Jaký díl nejznámějších druhů každé třídy se hraje a kolik druhů nejméně. Znalec hraje se všemi.
-  const LEVEL_POOLS = { beginner: { share: 0.05, min: 8 }, advanced: { share: 0.25, min: 12 } };
+  const LEVEL_POOLS = { beginner: { share: 0.03, min: 8 }, advanced: { share: 0.2, min: 12 } };
   // Hub je ve hře mnohem méně druhů než živočichů a rostlin, začátečník i pokročilý jich proto znají dvojnásobný díl.
-  const KINGDOM_SHARES = { houby: { beginner: 0.1, advanced: 0.5 } };
+  const KINGDOM_SHARES = { houby: { beginner: 0.06, advanced: 0.4 } };
   // Tvrzení jen o období kvetení, růstu nebo o velikosti: pravdivá, ale špatně se pamatují a dítě je může jen hádat.
   const DULL = /^(tento druh )?((kvete|roste|vyrůstá|se objevuje|objevuje se|plodnice rost[eo]u?)\b.* (ledn|lede|únor|březn|břez|dubn|dube|květn|květe|červn|červe|srpn|srpe|září|říjn|říje|listop|prosin|jaře|létě|podzim)|(dorůstá|dosahuje|měří|má klobouk|klobouk měří|může dorůst)\b)/i;
   const DULL_WEIGHT = 0.15;
@@ -192,12 +192,17 @@
   // Váha i známost se dělí počtem kontinentů druhu na třetinu, víc by z Evropy vytlačilo kosa, čápa i lišku.
   const REGIONAL = 1 / 3;
   const regionalShare = (s, regional) => (regional ? s.continents.length ** -REGIONAL : 1);
-  const fame = (s, regional) => (1 + (s.pop || 0)) * regionalShare(s, regional);
+  // Dlouhý český článek: druh, který české děti spíš znají (jabloň, prvosenka), před světovou plodinou se stručným článkem.
+  // Délka ve znacích se čtvrtou odmocninou: článek 5× delší než obvykle (2000 znaků) dá jen 1,5× víc, kratší než 500 se nepočítá.
+  const ARTICLE_LENGTH = 2000;
+  const lengthShare = (s) => (Math.max(s.len || ARTICLE_LENGTH, 500) / ARTICLE_LENGTH) ** 0.25;
+  const boost = (s, regional) => regionalShare(s, regional) * lengthShare(s);
+  const fame = (s, regional) => (1 + (s.pop || 0)) * boost(s, regional);
   function computeWeights(species, regional) {
     const size = {}, spread = {};
     for (const s of species) for (const key of [group(s), subgroup(s)]) size[key] = (size[key] || 0) + 1;
     for (const [sub, top] of new Map(species.map((s) => [subgroup(s), group(s)]))) spread[top] = (spread[top] || 0) + Math.sqrt(size[sub]);
-    const base = (s) => Math.sqrt((1 + (s.pop || 0)) / species.length) * regionalShare(s, regional);
+    const base = (s) => Math.sqrt((1 + (s.pop || 0)) / species.length) * boost(s, regional);
     const damped = (s) => (s.egg ? base(s) : (base(s) * Math.sqrt(size[group(s)])) / (Math.sqrt(size[subgroup(s)]) * spread[group(s)]));
     const scale = species.reduce((n, s) => n + base(s), 0) / species.reduce((n, s) => n + damped(s), 0);
     return new Map(species.map((s) => [s, s.egg ? base(s) : damped(s) * scale]));
