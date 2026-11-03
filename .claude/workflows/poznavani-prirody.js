@@ -350,7 +350,21 @@ Pravidla:
 Zapiš nástrojem Write do ${root}/data/continent_check/found/${id}.json jen tento JSON se změněnými položkami. Soubor zapiš vždy, když není co měnit, je "changes" prázdný seznam:
 {"changes": [{"id": "Q1", "continents": ["AS"], "why": "krátký důvod: co se změnilo a proč"}]}
 Vrať jen slovo HOTOVO.`
+const samePrompt = (id) => `Kontroluješ možnosti v dětském přírodovědném kvízu. U otázky „Která věta platí pro tento druh?“ vidí dítě jednu pravdivou větu a tři věty o jiných druzích. Když dvě možnosti říkají v podstatě totéž, působí to hloupě.
+
+Přečti ${root}/data/same_meaning/jobs/${id}.json. Každá položka má "target" (druh), "true" (id vět, které o něm platí) a "sentences" (věty, které se u tohoto druhu můžou v jedné otázce potkat, s "id" a "text").
+
+V každé položce najdi skupiny vět, které mají v podstatě stejný význam, takže kdyby platila jedna, platí i druhá a naopak. Příklady stejného významu:
+- „Je to jednoletá rostlina.“ a „Žije jen jeden rok.“
+- „Živí se hlavně hmyzem.“ a „Potravu tvoří především hmyz.“
+- „Je to noční živočich.“ a „Aktivní je hlavně v noci.“
+Nejsou stejné: věty s jinými čísly, měsíci nebo místy („Kvete v květnu.“ a „Kvete v červnu.“), věta obecnější a konkrétnější („Živí se hmyzem.“ a „Živí se mravenci.“) a věty o jiné vlastnosti. Stejná slova nestačí, rozhoduje význam. Většina vět žádný protějšek nemá, nevymýšlej skupiny tam, kde nejsou.
+
+Zapiš nástrojem Write do ${root}/data/same_meaning/found/${id}.json jen tento JSON (bez nálezu prázdný seznam), id ber přesně ze vstupu:
+{"groups": [["Q1#0", "Q2#3"]]}
+Vrať jen slovo HOTOVO.`
 function run({ slug, kingdom, stage }, id) {
+  if (stage === 'same') return ask(samePrompt(id), { label: `stejný význam:${id}`, phase: 'Jazyk', model: 'sonnet' })
   if (stage === 'continents_check') return ask(continentCheckPrompt(id), { label: `kontrola kontinentů:${id}`, phase: 'Kontinenty', model: 'sonnet' })
   if (stage === 'foreign_more') return ask(foreignMorePrompt(slug, kingdom, id), { label: `cizí 2:${slug}:${id}`, phase: 'Fakta a fotky' })
   if (stage === 'pronoun') return ask(pronounPrompt(id), { label: `zájmena:${id}`, phase: 'Jazyk', model: 'sonnet' })

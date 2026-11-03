@@ -38,6 +38,9 @@ SHARKS = ("žralouni", "obrouni", "malotlamci", "šedouni", "Ostrouni", "Různoz
 TREES = ("bukovité", "břízovité", "vrbovité", "jilmovité", "ořešákovité", "olivovníkovité", "platanovité", "lipovité", "zederachovité",
          "myrtovité", "dřínovité", "vavřínovité", "morušovníkovité", "jírovcovité", "šácholanovité", "proteovité", "láhevníkovité", "zapotovité",
          "ebenovité")
+# smrtelně jedovaté houby (amanitiny, orelanin, gyromitrin, imunitní reakce na čechratku)
+DEADLY_FUNGI = latin("Amanita phalloides|Amanita virosa|Amanita verna|Galerina marginata|Lepiota castanea|Cortinarius orellanus"
+                     "|Inosperma erubescens|Paxillus involutus|Gyromitra esculenta")
 
 RULES = {
     "savci": [
@@ -151,7 +154,13 @@ RULES = {
         (ANY, "🌿"),
     ],
     "dvoudelozne": [
-        (latin("Solanum lycopersicum"), "🍅"), (latin("Solanum tuberosum"), "🥔"), (latin("Solanum melongena"), "🍆"),
+        # co se z rostliny vyrábí, je zábavnější než obecný list nebo kvítek
+        (latin("Theobroma cacao"), "🍫"), (latin("Ilex paraguariensis"), "🧉"), (latin("Acer saccharum"), "🥞"),
+        (latin("Cola acuminata|Cola nitida|Paullinia cupana"), "🥤"), (latin("Glycyrrhiza glabra|Stevia rebaudiana"), "🍬"),
+        (latin("Aspalathus linearis|Matricaria chamomilla"), "🍵"), (latin("Sinapis alba|Brassica nigra"), "🌭"),
+        (latin("Sesamum indicum"), "🥯"), (latin("Manihot esculenta"), "🧋"), (latin("Ocimum basilicum|Origanum vulgare"), "🍕"),
+        (latin("Rheum rhabarbarum"), "🥧"), (latin("Capsicum annuum"), "🫑"),
+        (latin("Solanum lycopersicum"), "🍅"), (latin("Solanum tuberosum"), "🍟"), (latin("Solanum melongena"), "🍆"),
         (latin("Capsicum"), "🌶️"),
         (latin("Malus"), "🍎"), (latin("Pyrus|Cydonia"), "🍐"), (latin("Prunus persica"), "🍑"),
         (latin("Prunus avium|Prunus cerasus"), "🍒"), (latin("Prunus"), "🌸"), (latin("Fragaria"), "🍓"), (latin("Rosa"), "🌹"),
@@ -159,7 +168,7 @@ RULES = {
         (latin("Citrus limon|Citrus medica|Microcitrus"), "🍋"), (latin("Citrus"), "🍊"),
         (latin("Vitis"), "🍇"), (latin("Actinidia"), "🥝"), (latin("Persea"), "🥑"), (latin("Mangifera|Carica"), "🥭"),
         (latin("Olea"), "🫒"), (latin("Arachis"), "🥜"), (latin("Phaseolus|Vigna|Glycine|Lens|Cicer|Vicia faba|Lablab"), "🫘"),
-        (latin("Pisum"), "🫛"), (latin("Castanea|Juglans|Corylus"), "🌰"),
+        (latin("Pisum"), "🫛"), (latin("Castanea|Juglans|Corylus|Macadamia|Anacardium occidentale|Pistacia vera|Bertholletia"), "🌰"),
         (latin("Cucumis sativus"), "🥒"), (latin("Cucumis melo"), "🍈"), (latin("Citrullus"), "🍉"), (latin("Cucurbita"), "🎃"),
         (latin("Daucus"), "🥕"), (latin("Brassica oleracea"), "🥦"), (latin("Brassica|Lactuca|Spinacia|Beta"), "🥬"),
         (latin("Ipomoea batatas"), "🍠"), (latin("Coffea"), "☕"), (latin("Camellia sinensis"), "🍵"),
@@ -179,6 +188,9 @@ RULES = {
         (ANY, "🌿"),
     ],
     "jednodelozne": [
+        (latin("Triticum aestivum"), "🥖"), (latin("Triticum durum"), "🍝"), (latin("Triticum spelta|Secale cereale"), "🍞"),
+        (latin("Oryza sativa"), "🍚"), (latin("Avena sativa|Avena nuda|Panicum miliaceum"), "🥣"), (latin("Saccharum officinarum"), "🍭"),
+        (latin("Vanilla planifolia"), "🍦"), (latin("Crocus sativus"), "🥘"),
         (latin("Zea"), "🌽"), (latin("Allium cepa|Allium porrum|Allium schoenoprasum|Allium fistulosum"), "🧅"), (latin("Allium"), "🧄"),
         (latin("Cocos"), "🥥"), (latin("Ananas"), "🍍"), (latin("Musa|Ensete"), "🍌"), (latin("Zingiber"), "🫚"),
         (latin("Tulipa|Lilium|Fritillaria|Erythronium"), "🌷"),
@@ -193,10 +205,10 @@ RULES = {
         (ANY, "🌿"),
     ],
     "stopkovytrusne": [
-        (latin("Amanita"), "🍄"), (ANY, "🍄‍🟫"),
+        (DEADLY_FUNGI, "☠️"), (latin("Amanita"), "🍄"), (ANY, "🍄‍🟫"),
     ],
     "vreckovytrusne": [
-        (ANY, "🍄‍🟫"),
+        (DEADLY_FUNGI, "☠️"), (ANY, "🍄‍🟫"),
     ],
 }
 
@@ -229,5 +241,12 @@ if __name__ == "__main__":
     assert species_emoji("dvoudelozne", sp("Třešeň ptačí", "Prunus avium", "růžovité")) == "🍒"
     assert species_emoji("dvoudelozne", sp("Slivoň švestka", "Prunus domestica", "růžovité")) == "🌸"
     assert species_emoji("stopkovytrusne", sp("Muchomůrka červená", "Amanita muscaria")) == "🍄"
+    assert species_emoji("stopkovytrusne", sp("Muchomůrka zelená", "Amanita phalloides")) == "☠️"
+    assert species_emoji("vreckovytrusne", sp("Ucháč obecný", "Gyromitra esculenta")) == "☠️"
+    assert species_emoji("asteridy", sp("Cesmína paraguayská", "Ilex paraguariensis", "cesmínovité")) == "🧉"
+    assert species_emoji("rosidy", sp("Kakaovník pravý", "Theobroma cacao", "slézovité")) == "🍫"
+    assert species_emoji("rosidy", sp("Kakaovník velkokvětý", "Theobroma grandiflorum", "slézovité")) == "🌳"
+    assert species_emoji("jednodelozne", sp("Pšenice setá", "Triticum aestivum", "lipnicovité")) == "🥖"
+    assert species_emoji("asteridy", sp("Paprika křídlatá", "Capsicum baccatum", "lilkovité")) == "🌶️"
     assert species_emoji("neznámá", sp("X", "Y")) == FALLBACK
     print("OK")

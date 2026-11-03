@@ -126,7 +126,12 @@ for (const [slug, name] of [["jednodelozne", "Kukuřice setá"], ["jednodelozne"
 }
 const emojiOf = (name) => classes.flatMap((c) => c.species).find((s) => s.name === name)?.emoji;
 assert(classes.every((c) => c.species.every((s) => s.emoji)), "každý druh má emoji pro oslavu");
-for (const [name, emoji] of [["Lev", "🦁"], ["Liška obecná", "🦊"], ["Kosatka dravá", "🫍"], ["Jabloň domácí", "🍎"], ["Muchomůrka zelená", "🍄"]]) {
+{
+  const facts = classes.find((c) => c.slug === "asteridy").species.flatMap((s) => s.facts);
+  const key = (text) => facts.find((f) => f.text === text && f.not.includes("Q22701"))?.same; // špatné odpovědi u bezu černého
+  assert(key("Je to jednoletá rostlina.") && key("Je to jednoletá rostlina.") === key("Žije jen jeden rok."), "jednoletá rostlina a jeden rok jsou totéž");
+}
+for (const [name, emoji] of [["Lev", "🦁"], ["Liška obecná", "🦊"], ["Kosatka dravá", "🫍"], ["Jabloň domácí", "🍎"], ["Muchomůrka červená", "🍄"], ["Muchomůrka zelená", "☠️"], ["Kakaovník pravý", "🍫"]]) {
   assert.strictEqual(emojiOf(name), emoji, `${name} má emoji ${emoji}`);
 }
 for (const kingdom of ["zivocichove", "rostliny", "houby"]) {
@@ -170,6 +175,8 @@ for (const cls of classes) {
   const urls = cls.species.flatMap((s) => s.photos.map((p) => p.url));
   assert.strictEqual(new Set(urls).size, urls.length, "každá fotka patří jedinému druhu");
   const byId = new Map(cls.species.map((s) => [s.id, s]));
+  const sameKeys = new Map();
+  for (const f of cls.species.flatMap((s) => s.facts)) if (f.same) sameKeys.set(f.text, [...(sameKeys.get(f.text) || []), f.same]);
   for (let i = 0; i < 5000; i++) {
     const q = window.Quiz.makeQuestion([cls]);
     assert(q, "nepodařilo se vylosovat otázku");
@@ -180,6 +187,8 @@ for (const cls of classes) {
       for (const [i, a] of texts.entries()) {
         for (const b of texts.slice(i + 1)) assert(!window.Quiz.tooSimilar(a, b), `příliš podobné možnosti: ${a} / ${b}`);
       }
+      const keys = texts.flatMap((t) => [...new Set(sameKeys.get(t) || [])]);
+      assert.strictEqual(new Set(keys).size, keys.length, `dvě možnosti se stejným významem: ${texts.join(" / ")}`);
     }
     assert.strictEqual(q.options.filter((o) => window.Quiz.isCorrect(q, o)).length, 1, "právě jedna správná odpověď");
     assert(q.target.photos.length, "cílový druh bez fotky");

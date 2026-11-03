@@ -38,6 +38,8 @@
     if (!shorter) return true;
     return [...wordsA].filter((w) => wordsB.has(w)).length / shorter >= 0.6;
   }
+  // „Je to jednoletá rostlina.“ a „Žije jen jeden rok.“: stejný význam jinými slovy, klíč "same" z pipeline.py.
+  const sameMeaning = (a, b) => Boolean(a.same) && a.same === b.same;
 
   // Zmiňuje věta daný druh? Česky se názvy skloňují, proto stačí začátek rodového jména (kosatka, kosatky, kosatkou).
   // Omylem vyřazená možnost nevadí, věta o kosatce nabídnutá u kosatky by ale otázku prozradila.
@@ -111,14 +113,14 @@
     const correct = pickFact(target.facts);
     const wrong = shuffle(classmates.flatMap((s) =>
       s === target ? [] : s.facts
-        .filter((f) => f.not.includes(target.id) && f.text !== correct.text && !mentions(f.text, target) && !OTHER_SPECIES.test(f.text))
+        .filter((f) => f.not.includes(target.id) && f.text !== correct.text && !sameMeaning(f, correct) && !mentions(f.text, target) && !OTHER_SPECIES.test(f.text))
         .map((f) => [f, s])));
     // Věta o příbuzném se nedá vyloučit jen podle toho, že mluví o úplně jiném zvířeti nebo rostlině. Začátečníkovi to naopak pomůže.
     const order = ([f, s]) => closeness(target, s, level) * 10 + (f.cat === correct.cat ? 0 : 1) + (isDull(f) ? 2 : 0);
     const distractors = [];
     for (const [f] of wrong.sort((a, b) => order(a) - order(b))) {
       if (distractors.length === 3) break;
-      if (![correct, ...distractors].some((d) => tooSimilar(d.text, f.text))) distractors.push(f);
+      if (![correct, ...distractors].some((d) => tooSimilar(d.text, f.text) || sameMeaning(d, f))) distractors.push(f);
     }
     if (distractors.length < 3) return null;
     return {

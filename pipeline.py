@@ -1468,8 +1468,35 @@ def write_game_data():
         for s in group["species"]:
             s["emoji"] = species_emoji(group["slug"], {**s, "clade": clade.get(s["id"]) or s.get("clade")})
     classes = [g for g in [*groups.values(), *others.values()] if len(g["species"]) >= MIN_CLASS_SPECIES]
+    mark_same_meaning(classes)
     # odsazené kvůli ručnímu čtení a čitelným rozdílům v gitu, build.js odsazení při kompilaci odstraní
     (ROOT / "game" / "data.js").write_text("window.GAME_DATA = " + json.dumps(classes, ensure_ascii=False, indent=2) + ";\n", encoding="utf-8")
+
+
+def mark_same_meaning(classes):
+    """Věty se stejným významem (krok same ve workflow) dostanou společný klíč "same", hra je nenabídne v jedné otázce.
+    Co platí pro druh jedné z nich, platí i pro ostatní, takže jeho druh není u ostatních špatnou odpovědí."""
+    parent = {}
+
+    def root(x):
+        while parent.setdefault(x, x) != x:
+            x = parent[x]
+        return x
+
+    for file in sorted((ROOT / "data" / "same_meaning" / "found").glob("*.json")):
+        for group in read_json(file).get("groups", []):
+            for other in group[1:]:
+                parent[root(other)] = root(group[0])
+    for c in classes:
+        facts = [(s["id"], f) for s in c["species"] for f in s["facts"] if f["id"] in parent]
+        owners, size = defaultdict(set), Counter(root(f["id"]) for _, f in facts)
+        for sid, f in facts:
+            owners[root(f["id"])].add(sid)
+        for sid, f in facts:
+            key = root(f["id"])
+            if size[key] > 1:
+                f["same"] = key
+                f["not"] = [n for n in f["not"] if n not in owners[key]]
 
 
 if __name__ == "__main__":

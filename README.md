@@ -43,6 +43,7 @@ Každá skupina druhů v `CLASSES` v `pipeline.py` prochází těmito kroky:
 5. **Přísná kontrola:** silnější model znovu projde tvrzení, negativní úsudky a fotky.
 6. **Kontinenty:** subagent přiřadí druhům kontinenty výskytu. Počítá se život ve volné přírodě, tedy i zavlečené usazené a zdivočelé populace (buvol domácí v Austrálii), ne zvířata jen v zajetí, u domácích druhů navíc oblast původu.
 7. **Jazyk:** redaktor opraví nepřirozené věty a vyřadí věty, které u druhu říkají totéž. Oprava musí projít stejnými pravidly jako původní věta.
+8. **Stejný význam:** ke každému druhu dostane subagent všechny věty, které se u něj můžou potkat v otázce „Která věta platí?“, a najde mezi nimi věty se stejným významem jinými slovy („Je to jednoletá rostlina.“ a „Žije jen jeden rok.“; krok `same` ve workflow, výsledky v `data/same_meaning/`). Takové věty dostanou v `data.js` společný klíč `same`, hra je nenabídne v jedné otázce a druh jedné z nich není u ostatních špatnou odpovědí. Krok prošel jednorázově celou databází, nové druhy ho potřebují pustit znovu.
 
 Savci navíc procházejí negativním krokem vůči podobným druhům z užší skupiny (`MAMMAL_PEERS` v `pipeline.py`), hra z nich bere špatné odpovědi. Ruční opravy jsou v `manual.json` v adresářích jednotlivých kroků v `data/`.
 
