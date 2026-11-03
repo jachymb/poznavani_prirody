@@ -79,8 +79,8 @@
   .tile .mark { position: absolute; top: 6px; right: 6px; margin: 0; padding: 2px 5px; background: var(--card); border-radius: 10px; }
   .tile img { display: block; width: 100%; aspect-ratio: 4 / 3; object-fit: contain; background: #eef2e6; }
   .tile span { display: block; padding: 8px; font-size: 16px; }
-  /* jméno druhu jde označit a zkopírovat i v tlačítku, tažení myší není odpověď */
-  .answer .name, .tile span { user-select: text; -webkit-user-select: text; cursor: text; }
+  /* jméno druhu i věta jdou označit a zkopírovat i v tlačítku, tažení myší není odpověď */
+  .answer .name, .answer .copy, .tile span { user-select: text; -webkit-user-select: text; cursor: text; }
   .tile .latin { display: block; }
   .result .settings { margin: -4px 0 18px; font-size: 15px; color: var(--soft); }
   .answer.good { border-color: var(--good); background: var(--good-bg); }
@@ -447,7 +447,7 @@
           ? el("button", { class: "answer tile", onclick }, photoEl(option.photo, "", "", failed), el("span", {}, ...speciesName(option.species)))
           : q.type === "findName"
             ? el("button", { class: "answer", onclick }, el("span", { class: "name" }, ...speciesName(option.species)))
-            : el("button", { class: "answer", onclick }, option.text);
+            : el("button", { class: "answer", onclick }, el("span", { class: "copy" }, option.text));
       button.option = option;
       return button;
     });
