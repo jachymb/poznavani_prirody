@@ -41,6 +41,15 @@ TREES = ("bukovité", "břízovité", "vrbovité", "jilmovité", "ořešákovit�
 # smrtelně jedovaté houby (amanitiny, orelanin, gyromitrin, imunitní reakce na čechratku)
 DEADLY_FUNGI = latin("Amanita phalloides|Amanita virosa|Amanita verna|Galerina marginata|Lepiota castanea|Cortinarius orellanus"
                      "|Inosperma erubescens|Paxillus involutus|Gyromitra esculenta")
+# na začátku obou skupin hub: rosolovky a padlí jsou na Wikidatech v různých odděleních
+FUNGI = [
+    (DEADLY_FUNGI, "☠️"),
+    (name("Rosolovka mozkovitá|Mozkovka rosolovitá|Ucháč obrovský|Ucháč čepcovitý"), "🧠"), (name("Květnatec"), "🐙"),
+    # cizopasné houby podle napadené rostliny
+    (name("Padlí révové"), "🍇"), (name("Padlí jabloňové"), "🍎"), (name("Rez hrušňová"), "🍐"),
+    (name("Americké padlí angreštové"), "🫐"), (name("Suchá skvrnitost listů peckovin"), "🍒"), (name("Rez travní"), "🌾"),
+    (name("Rez vejmutovková"), "🌲"),
+]
 
 RULES = {
     "savci": [
@@ -205,13 +214,13 @@ RULES = {
         (ANY, "🌿"),
     ],
     "stopkovytrusne": [
-        (DEADLY_FUNGI, "☠️"), (name("Pýchavka|Prášivka"), "💨"), (name("Hvězdovka"), "⭐"), (name("Kuřátka"), "🪸"),
+        *FUNGI, (name("Pýchavka|Prášivka"), "💨"), (name("Hvězdovka|Hvězdák"), "⭐"), (name("Kuřátka"), "🪸"),
         (latin("Auricularia auricula-judae"), "👂"), (latin("Pleurotus ostreatus"), "🦪"), (latin("Ustilago maydis"), "🌽"),
         (latin("Phallus impudicus"), "🪰"), (latin("Psilocybe"), "🌈"),
         (latin("Amanita"), "🍄"), (ANY, "🍄‍🟫"),
     ],
     "vreckovytrusne": [
-        (DEADLY_FUNGI, "☠️"), (latin("Claviceps purpurea"), "🌾"),
+        *FUNGI, (latin("Claviceps purpurea"), "🌾"), (name("Smrž"), "🧽"), (name("Housenice"), "🐛"),
         # lišejníky na kamenech a kůře; dutohlávky, hávnatka a pukléřka islandská rostou hlavně na zemi
         (latin("Amandinea|Hypogymnia|Rhizocarpon|Lecanora|Vulpicida|Xanthoria|Evernia|Cladonia coniocraea"), "🪨"),
         (ANY, "🍄‍🟫"),
@@ -252,6 +261,8 @@ if __name__ == "__main__":
     assert species_emoji("stopkovytrusne", sp("Pýchavka obrovská", "Calvatia gigantea")) == "💨"
     assert species_emoji("vreckovytrusne", sp("Terčovník zední", "Xanthoria parietina")) == "🪨"
     assert species_emoji("vreckovytrusne", sp("Dutohlávka sobí", "Cladonia rangiferina")) == "🍄‍🟫"
+    assert species_emoji("vreckovytrusne", sp("Ucháč obrovský", "Gyromitra gigas")) == "🧠"
+    assert species_emoji("stopkovytrusne", sp("Rez hrušňová", "Gymnosporangium sabinae")) == "🍐"
     assert species_emoji("asteridy", sp("Cesmína paraguayská", "Ilex paraguariensis", "cesmínovité")) == "🧉"
     assert species_emoji("rosidy", sp("Kakaovník pravý", "Theobroma cacao", "slézovité")) == "🍫"
     assert species_emoji("rosidy", sp("Kakaovník velkokvětý", "Theobroma grandiflorum", "slézovité")) == "🌳"
