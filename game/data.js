@@ -56657,7 +56657,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q585476#1",
-            "text": "Loví hlavně noční motýle a dvoukřídlý hmyz.",
+            "text": "Loví hlavně noční motýly a dvoukřídlý hmyz.",
             "cat": "potrava",
             "not": [
               "Q159426",
@@ -99288,7 +99288,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q127216#8",
-            "text": "Někdy kradne ryby orlovci říčnímu.",
+            "text": "Někdy krade ryby orlovci říčnímu.",
             "cat": "vztahy",
             "not": [
               "Q246763",
@@ -147670,7 +147670,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q26685#4",
-            "text": "Živí se malými rybami, například sledi a šproti.",
+            "text": "Živí se malými rybami, například sledi a šproty.",
             "cat": "potrava",
             "not": [
               "Q1591254",
@@ -170841,7 +170841,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q420840#3",
-            "text": "Rád sedí na drátech plotů a elektrického vedení.",
+            "text": "Ráda sedí na drátech plotů a elektrického vedení.",
             "cat": "výskyt",
             "not": [
               "Q1272798",
@@ -172467,7 +172467,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q45974#1",
-            "text": "Hraje důležitou úlohu v kultuře některých austrálských kmenů.",
+            "text": "Hraje důležitou úlohu v kultuře některých australských kmenů.",
             "cat": "vztahy",
             "not": [
               "Q179359",
@@ -174093,7 +174093,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q477133#1",
-            "text": "Samci během námluv předvádí výrazné zásnubní lety.",
+            "text": "Samci během námluv předvádějí výrazné zásnubní lety.",
             "cat": "chování",
             "not": [
               "Q217494"
@@ -202689,7 +202689,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q754987#1",
-            "text": "Živí se hlavně hmyzem, například motýli, vážkami a brouky.",
+            "text": "Živí se hlavně hmyzem, například motýly, vážkami a brouky.",
             "cat": "potrava",
             "not": [
               "Q208405",
@@ -249678,7 +249678,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q578652#x2",
-            "text": "Ohrožují ho invazní hadi, kteří se na ostrov dostali s dovezenými olivovníky.",
+            "text": "Ohrožují ji invazní hadi, kteří se na ostrov dostali s dovezenými olivovníky.",
             "cat": "vztahy",
             "not": [
               "Q208796",
@@ -250654,7 +250654,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q619964#3",
-            "text": "Loví ještěrky, pro které je nebezpečný hlavně jeden z jeho jedů.",
+            "text": "Loví ještěrky, pro které je nebezpečný hlavně jeden z jejích jedů.",
             "cat": "potrava",
             "not": []
           }
@@ -252192,13 +252192,13 @@ window.GAME_DATA = [
           },
           {
             "id": "Q72105#x1",
-            "text": "Napadají ho například volavky, vodní hadi, lišky a mývalové.",
+            "text": "Napadají ji například volavky, vodní hadi, lišky a mývalové.",
             "cat": "vztahy",
             "not": []
           },
           {
             "id": "Q72105#x2",
-            "text": "Parazitují na něm pijavice a mouchy.",
+            "text": "Parazitují na ní pijavice a mouchy.",
             "cat": "vztahy",
             "not": []
           },
@@ -386495,7 +386495,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q158894#1",
-            "text": "Roste rád ve stínu lesů.",
+            "text": "Roste ráda ve stínu lesů.",
             "cat": "výskyt",
             "not": [
               "Q159953",
@@ -482189,7 +482189,7 @@ window.GAME_DATA = [
         "facts": [
           {
             "id": "Q159269#0",
-            "text": "Zůstává zelený po celý rok.",
+            "text": "Zůstává zelená po celý rok.",
             "cat": "vzhled",
             "not": [
               "Q146136",
@@ -577539,7 +577539,7 @@ window.GAME_DATA = [
           },
           {
             "id": "Q1661351#5",
-            "text": "Může být jedovatý.",
+            "text": "Může být jedovatá.",
             "cat": "jedovatost",
             "not": []
           }

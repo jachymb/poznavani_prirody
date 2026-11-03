@@ -363,7 +363,18 @@ Nejsou stejné: věty s jinými čísly, měsíci nebo místy („Kvete v květn
 Zapiš nástrojem Write do ${root}/data/same_meaning/found/${id}.json jen tento JSON (bez nálezu prázdný seznam), id ber přesně ze vstupu:
 {"groups": [["Q1#0", "Q2#3"]]}
 Vrať jen slovo HOTOVO.`
+const grammarPrompt = (id) => `Jsi jazykový korektor dětského přírodovědného kvízu. Hledáš jen chyby ve tvarech slov.
+
+Přečti ${root}/data/grammar/jobs/${id}.json. Každá položka má "id", "species" (o tomto druhu věta je) a "text".
+
+Oprav jen skutečné gramatické chyby ve tvarech slov: špatná pádová koncovka („loví noční motýle“ → „loví noční motýly“), shoda podmětu s přísudkem nebo přídavného jména s podstatným (rod, číslo, pád), špatný tvar zájmena a překlep, který mění tvar slova. Řiď se spisovnou češtinou podle Internetové jazykové příručky. Rod druhu poznáš z jeho českého jména ("species").
+Neměň nic jiného: slovosled, volbu slov, styl, interpunkci ani obsah. Věta s nezvyklým, ale správným tvarem (například „motýlech“, „ptáky“, „kořisti“) zůstává. Odborné a latinské názvy nech být. Když si nejsi jistý, že jde o chybu, nech větu být. Většina vět je v pořádku.
+
+Zapiš nástrojem Write do ${root}/data/grammar/found/${id}.json jen tento JSON (bez nálezu prázdný seznam):
+{"fixes": [{"id": "Q1#0", "text": "Loví hlavně noční motýly a dvoukřídlý hmyz.", "why": "akuzativ plurálu od motýl je motýly"}]}
+Vrať jen slovo HOTOVO.`
 function run({ slug, kingdom, stage }, id) {
+  if (stage === 'grammar') return ask(grammarPrompt(id), { label: `gramatika:${id}`, phase: 'Jazyk', model: 'sonnet' })
   if (stage === 'same') return ask(samePrompt(id), { label: `stejný význam:${id}`, phase: 'Jazyk', model: 'sonnet' })
   if (stage === 'continents_check') return ask(continentCheckPrompt(id), { label: `kontrola kontinentů:${id}`, phase: 'Kontinenty', model: 'sonnet' })
   if (stage === 'foreign_more') return ask(foreignMorePrompt(slug, kingdom, id), { label: `cizí 2:${slug}:${id}`, phase: 'Fakta a fotky' })
