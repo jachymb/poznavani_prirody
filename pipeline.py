@@ -688,12 +688,12 @@ def missing(slug, stage):
     if stage == "foreign":
         return [f.stem for f in sorted((base / "foreign").glob("*.txt")) if not has_valid_output(base / "foreign_facts" / f"{f.stem}.json")]
     jobs, results = {"photos": ("photo_jobs", "more_photos"), "negatives": ("neg_jobs", "neg"), "review": ("review_jobs", "review"),
-                     "continents": ("continent_jobs", "continents"), "language": ("language_jobs", "language")}[stage]
+                     "continents": ("continent_jobs", "continents"), "czech": ("czech_jobs", "czech"), "language": ("language_jobs", "language")}[stage]
     return [j.stem for j in sorted((base / jobs).glob("*.json")) if not has_valid_output(base / results / j.name)]
 
 
 def todo(slug):
-    for stage in ("facts", "photos", "foreign", "negatives", "review", "continents", "language"):
+    for stage in ("facts", "photos", "foreign", "negatives", "review", "continents", "czech", "language"):
         print(f"{stage}:", json.dumps(missing(slug, stage)))
 
 
@@ -710,7 +710,7 @@ def out_of_date(slug):
     built = base / "built.json"
     if not built.exists():
         return True
-    newest = max((f.stat().st_mtime for sub in ("facts", "more_photos", "foreign_facts", "neg", "review", "continents", "language")
+    newest = max((f.stat().st_mtime for sub in ("facts", "more_photos", "foreign_facts", "neg", "review", "continents", "czech", "language")
                   for f in (base / sub).glob("*.json")), default=0)
     return newest > built.stat().st_mtime
 
@@ -749,6 +749,11 @@ def class_batch(slug, limit):
     if stale:
         sync_continents(slug)
     found = batch("continents")
+    if found:
+        return found
+    if stale:
+        sync_czech(slug)
+    found = batch("czech")
     if found:
         return found
     if stale:
@@ -1318,6 +1323,69 @@ def article_length(file):
     return len(file.read_text("utf-8").split("\n---\n", 1)[-1]) if file.exists() else 0
 
 
+def continents_of(slug):
+    """Kontinenty druhů skupiny. Rostliny přepočítané podle přísnějšího pravidla (divoce, zdomácnělé, nebo běžně pěstované
+    hospodářsky; okrasné nestačí) v data/plant_regions/ mají přednost."""
+    where = {}
+    for file in sorted((paths(slug)[0] / "continents").glob("*.json")):
+        for sid, codes in read_json(file).items():
+            where[sid] = [c for c in CONTINENTS if c in codes]
+    for f in sorted((ROOT / "data" / "plant_regions" / "found").glob("*.json")):
+        for sid, v in read_json(f).items():
+            if sid in where:
+                where[sid] = [c for c in CONTINENTS if c in v["continents"]]
+    return where
+
+
+def czech_decisions(slug):
+    """Druh -> žije v Česku. Jednorázové rozhodnutí celé databáze v data/czech_region/ (první kolo, ověření hraničních případů,
+    rostliny podle přísnějšího pravidla; pozdější platí), pak krok czech skupiny pro nové druhy."""
+    czech = {sid: yes for f in sorted((CZECH_DIR / "found").glob("*.json")) for sid, yes in read_json(f).items()}
+    for folder in (CZECH_DIR / "checked", CZECH_DIR / "plant_checked", paths(slug)[0] / "czech"):
+        czech.update((sid, v["cz"]) for f in sorted(folder.glob("*.json")) for sid, v in read_json(f).items())
+    return czech
+
+
+GBIF_UA = {"User-Agent": "PoznavaniPrirody/0.1 (educational quiz)"}
+GBIF_BASIS = ("HUMAN_OBSERVATION", "PRESERVED_SPECIMEN", "MACHINE_OBSERVATION", "OCCURRENCE", "MATERIAL_SAMPLE", "OBSERVATION", "MATERIAL_CITATION")
+
+
+def gbif_czech_counts(sids, fossils=False):
+    """Počet nálezů v Česku v GBIF bez živých sbírek (zoo, botanické zahrady), fosílie jen u vyhynulých; None = údaj není."""
+    keys = {r["s"]["value"].rsplit("/", 1)[1]: r["k"]["value"] for r in sparql_by_species(sorted(sids), lambda v: f"SELECT ?s ?k WHERE {{ VALUES ?s {{ {v} }} ?s wdt:P846 ?k }}")}
+    basis = GBIF_BASIS + (("FOSSIL_SPECIMEN",) if fossils else ())
+
+    def count(sid):
+        if sid not in keys:
+            return sid, None
+        url = "https://api.gbif.org/v1/occurrence/search?" + urllib.parse.urlencode(
+            [("taxon_key", keys[sid]), ("country", "CZ"), ("limit", 0)] + [("basis_of_record", b) for b in basis])
+        try:
+            with urllib.request.urlopen(urllib.request.Request(url, headers=GBIF_UA), timeout=60) as r:
+                return sid, json.load(r)["count"]
+        except (urllib.error.HTTPError, *NETWORK_ERRORS):
+            return sid, None
+
+    with ThreadPoolExecutor(4) as pool:
+        return dict(pool.map(count, sids))
+
+
+def sync_czech(slug, batch=25):
+    """Úlohy kroku czech: druhy z Evropy, o kterých se ještě nerozhodlo, jestli žijí v Česku."""
+    base = paths(slug)[0]
+    (base / "czech_jobs").mkdir(exist_ok=True)
+    (base / "czech").mkdir(exist_ok=True)
+    decided = set(czech_decisions(slug)) | {item["id"] for job in jobs_in(base / "czech_jobs") for item in job}
+    where = continents_of(slug)
+    todo = [s for s in json.loads((base / "built.json").read_text("utf-8"))["species"] if "EU" in where.get(s["id"], []) and s["id"] not in decided]
+    gbif = gbif_czech_counts([s["id"] for s in todo], fossils=slug == "vyhynula_zvirata") if todo else {}
+    items = [{"id": s["id"], "name": s["name"], "latin": s["latin"], "group": CLASSES[slug][1], "gbif": gbif.get(s["id"])} for s in todo]
+    start = next_job_number(base / "czech_jobs", "cz_")
+    for n in range(0, len(items), batch):
+        (base / "czech_jobs" / f"cz_{start + n // batch:04}.json").write_text(json.dumps(items[n:n + batch], ensure_ascii=False, indent=1), encoding="utf-8")
+    print(f"Česko: {len(items)} nových druhů")
+
+
 def build(slug):
     base, _, _, _, _, _, neg_dir = paths(slug)
     species, facts, dropped = load_facts(slug)
@@ -1362,20 +1430,8 @@ def build(slug):
                 kept.setdefault(url(sid, i), i)
         v["photos"] = list(kept.values())
     alive = {s for s, v in facts.items() if v["photos"]}
-    where = {}
-    for file in sorted((base / "continents").glob("*.json")):
-        for sid, codes in read_json(file).items():
-            where[sid] = [c for c in CONTINENTS if c in codes]
-    # rostliny přísněji: divoce, zdomácnělé, nebo běžně pěstované hospodářsky; okrasné nestačí (zatím cypřišovité)
-    for f in sorted((ROOT / "data" / "plant_regions" / "found").glob("*.json")):
-        for sid, v in read_json(f).items():
-            if sid in where:
-                where[sid] = [c for c in CONTINENTS if c in v["continents"]]
-    czech = {sid: yes for f in sorted((CZECH_DIR / "found").glob("*.json")) for sid, yes in read_json(f).items()}
-    # hraniční případy (rozpor s počtem nálezů v GBIF) a pak všechny rostliny podle přísnějšího pravidla
-    # nezávisle ověřil silnější model; pozdější úsudek platí
-    for folder in ("checked", "plant_checked"):
-        czech.update((sid, v["cz"]) for f in sorted((CZECH_DIR / folder).glob("*.json")) for sid, v in read_json(f).items())
+    where = continents_of(slug)
+    czech = czech_decisions(slug)
     for sid, codes in where.items():
         if "EU" in codes and czech.get(sid):
             codes.insert(1, "CZ")

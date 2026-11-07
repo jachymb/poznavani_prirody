@@ -273,7 +273,7 @@ Zapiš nástrojem Write do souboru ${root}/data/${slug}/language/${id}.json jen 
 
 Jako výsledek vrať jen slovo HOTOVO.`
 
-const continentsPrompt = (slug, id) => `Pro dětský kvíz o přírodě přiřaď každému druhu kontinenty, kde žije.
+const continentsPrompt = (slug, kingdom, id) => `Pro dětský kvíz o přírodě přiřaď každému druhu kontinenty, kde žije.
 
 Přečti ${root}/data/${slug}/continent_jobs/${id}.json. Každá položka má "id", "name", "latin" a "excerpt" z české Wikipedie. Vycházej z výňatku a ze svých biologických znalostí; když si výňatek a znalosti odporují, drž se ověřených znalostí.
 
@@ -283,7 +283,8 @@ Pravidla:
 - Vyhynulý druh zařaď tam, kde žil. Domácí nebo chovaný živočich patří tam, odkud pochází, a tam, kde žije zdivočele ve volné přírodě, ne tam, kde žije jen v zajetí (na farmě, v chovu, doma, v zoo). Rostlina patří do oblasti, když tam 1) roste divoce, 2) je zavlečená a zdivočelá nebo zdomácnělá, nebo 3) se tam běžně pěstuje jako hospodářská rostlina (pole, sady, vinice, lesní hospodářství). Pěstování jen pro okrasu (parky, zahrady, arboreta) nebo pro výzkum nestačí.
 - Madagaskar patří k AF, Sibiř a Dálný východ k AS, evropská část Ruska k EU, Sumatra, Borneo a Jáva k AS.
 - Mořský druh zařaď ke kontinentům, u jejichž pobřeží žije. Kosmopolitní druh dostane všechny, kde opravdu žije (AN jen tehdy, když tam skutečně žije).
-- Každý druh musí mít aspoň jeden kód. Nepřiřazuj kontinenty jen podle odhadu z příbuzných.
+- Každý druh musí mít aspoň jeden kód. Nepřiřazuj kontinenty jen podle odhadu z příbuzných.${kingdom === 'rostliny' ? `
+- U rostlin si původní a zavlečený výskyt ověř v Plants of the World Online (POWO) a na Wikipedii. Okrasné pěstování nestačí: sekvojovec v evropských parcích Evropu nedostane.` : ''}
 
 Zapiš nástrojem Write do ${root}/data/${slug}/continents/${id}.json jen tento JSON s položkou pro každý druh:
 {"Q1": ["EU", "AS"], "Q2": ["AF"]}
@@ -374,7 +375,7 @@ Neměň nic jiného: slovosled, volbu slov, styl, interpunkci ani obsah. Věta s
 Zapiš nástrojem Write do ${root}/data/grammar/found/${id}.json jen tento JSON (bez nálezu prázdný seznam):
 {"fixes": [{"id": "Q1#0", "text": "Loví hlavně noční motýly a dvoukřídlý hmyz.", "why": "akuzativ plurálu od motýl je motýly"}]}
 Vrať jen slovo HOTOVO.`
-const czechPrompt = (id) => `Pro dětský kvíz o přírodě rozhodni, které druhy patří do oblasti Česko (Česká republika). Hra v ní ukazuje jen druhy, které tu dítě může potkat.
+const czechAllPrompt = (id) => `Pro dětský kvíz o přírodě rozhodni, které druhy patří do oblasti Česko (Česká republika). Hra v ní ukazuje jen druhy, které tu dítě může potkat.
 
 Přečti ${root}/data/czech_region/jobs/${id}.json. Každá položka má "id", "name", "latin", "group" (skupina ve hře), "continents" a "gbif": počet nálezů v Česku v databázi GBIF bez zoologických a botanických zahrad (null = údaj není). GBIF je jen vodítko: obsahuje i ojedinělé zatoulané jedince a utečence, a u málo sledovaných skupin (houby, hmyz, mikroorganismy) nálezy chybějí, i když druh v Česku žije.
 
@@ -409,9 +410,25 @@ Zdroje: česká Wikipedie, Pladias (databáze české flóry), BioLib; když nej
 Zapiš nástrojem Write do ${root}/data/czech_region/plant_checked/${id}.json jen tento JSON s položkou pro každý druh:
 {"Q1": {"cz": true, "why": "krátký důvod se zdrojem"}, "Q2": {"cz": false, "why": "…"}}
 Vrať jen slovo HOTOVO.`
+const czechPrompt = (slug, kingdom, id) => `Pro dětský kvíz o přírodě rozhodni, které druhy patří do oblasti Česko (Česká republika). Hra v ní ukazuje jen druhy, které tu dítě může potkat.
+
+Přečti ${root}/data/${slug}/czech_jobs/${id}.json. Každá položka má "id", "name", "latin", "group" a "gbif": počet nálezů v Česku v databázi GBIF bez zoologických a botanických zahrad (null = údaj není). GBIF je jen vodítko: obsahuje i zatoulané jedince a utečence a u málo sledovaných skupin nálezy chybějí.
+
+${kingdom === 'rostliny' ? `Pravidlo: ${RULE}
+Zdroje: česká Wikipedie, Pladias (databáze české flóry), BioLib; když nejsou jasné, pozorování na iNaturalist z Česka (https://www.inaturalist.org/observations?place_id=8264&taxon_name=<latinské jméno>, pozorování označená jako pěstovaná se nepočítají). Původní i zdomácnělé druhy české květeny jsou ano, i když jsou vzácné.` : `Pravidla:
+- Ano, když druh v Česku žije ve volné přírodě: původní, nebo zavlečený, který se tu trvale usadil či zdivočel. U ptáků stačí pravidelné hnízdění, tah nebo zimování (i v malém počtu), ojedinělý zatoulaný jedinec nestačí.
+- Ne, když druh žije v Česku jen v zajetí (zoo, chov, akvárium, terárium, domácí mazlíček) nebo jde o utečence. Domácí zvíře patří tam, kde se běžně chová venku na statcích a pastvinách.
+- Vyhynulé druhy: ano, když se jejich fosílie nebo pozůstatky našly na území Česka.
+- Mikroorganismy a cizopasníci: ano, když se v Česku běžně vyskytují (v přírodě, u lidí nebo zvířat). Mořské druhy ne.
+Zdroje: česká Wikipedie, BioLib, AOPK (portal.nature.cz), Česká společnost ornitologická, Česká mykologická společnost a další odborné zdroje.`}
+Nevymýšlej výskyt jen podle příbuzných druhů.
+
+Zapiš nástrojem Write do ${root}/data/${slug}/czech/${id}.json jen tento JSON s položkou pro každý druh:
+{"Q1": {"cz": true, "why": "krátký důvod se zdrojem"}, "Q2": {"cz": false, "why": "…"}}
+Vrať jen slovo HOTOVO.`
 const plantRegionsPrompt = (id) => `Přísně ověř kontinenty výskytu rostlin v dětském kvízu o přírodě. Dosavadní pravidlo počítalo i místa, kde se druh pěstuje jen pro okrasu.
 
-Přečti ${root}/data/plant_regions/jobs/${id}.json. Každá položka má "id", "name", "latin" a "continents" (dosavadní kódy). Kódy: EU Evropa, AS Asie, AF Afrika, NA Severní Amerika (včetně Střední Ameriky a Karibiku), SA Jižní Amerika, AN Antarktida, OC Austrálie a Oceánie (včetně Nového Zélandu a Nové Guineje).
+Přečti ${root}/data/plant_regions/jobs/${id}.json. Každá položka má "id", "name", "latin", "continents" (dosavadní kódy) a "cz" (true, když druh podle ověření stejným pravidlem patří do Česka; pak patří i do Evropy). Kódy: EU Evropa, AS Asie, AF Afrika, NA Severní Amerika (včetně Střední Ameriky a Karibiku), SA Jižní Amerika, AN Antarktida, OC Austrálie a Oceánie (včetně Nového Zélandu a Nové Guineje).
 
 Pravidlo: ${RULE}
 Ověř si to v Plants of the World Online (POWO, původní a zavlečený výskyt), na Wikipedii a v dalších odborných zdrojích. Každý druh musí mít aspoň jeden kód (kde je původní).
@@ -423,7 +440,8 @@ function run({ slug, kingdom, stage }, id) {
   if (stage === 'czech_plants') return ask(czechPlantPrompt(id), { label: `česko rostliny:${id}`, phase: 'Kontinenty' })
   if (stage === 'plant_regions') return ask(plantRegionsPrompt(id), { label: `kontinenty rostlin:${id}`, phase: 'Kontinenty' })
   if (stage === 'czech_check') return ask(czechCheckPrompt(id), { label: `ověření česka:${id}`, phase: 'Kontinenty' })
-  if (stage === 'czech') return ask(czechPrompt(id), { label: `česko:${id}`, phase: 'Kontinenty', model: 'sonnet' })
+  if (stage === 'czech_all') return ask(czechAllPrompt(id), { label: `česko:${id}`, phase: 'Kontinenty', model: 'sonnet' })
+  if (stage === 'czech') return ask(czechPrompt(slug, kingdom, id), { label: `česko:${slug}:${id}`, phase: 'Kontinenty' })
   if (stage === 'grammar') return ask(grammarPrompt(id), { label: `gramatika:${id}`, phase: 'Jazyk', model: 'sonnet' })
   if (stage === 'same') return ask(samePrompt(id), { label: `stejný význam:${id}`, phase: 'Jazyk', model: 'sonnet' })
   if (stage === 'continents_check') return ask(continentCheckPrompt(id), { label: `kontrola kontinentů:${id}`, phase: 'Kontinenty', model: 'sonnet' })
@@ -437,7 +455,8 @@ function run({ slug, kingdom, stage }, id) {
   if (stage === 'photos') return ask(photosPrompt(slug, kingdom, id), { label: `fotky:${slug}:${id}`, phase: 'Další fotky', model: 'haiku' })
   if (stage === 'negatives') return ask(negativesPrompt(slug, kingdom, id), { label: `neg:${slug}:${id}`, phase: 'Negativní tvrzení', model: 'sonnet' })
   if (stage === 'language') return ask(languagePrompt(slug, id), { label: `jazyk:${slug}:${id}`, phase: 'Jazyk' })
-  if (stage === 'continents') return ask(continentsPrompt(slug, id), { label: `kontinenty:${slug}:${id}`, phase: 'Kontinenty', model: 'sonnet' })
+  // u rostlin rozhoduje okrasné pěstování versus zdomácnění, to potřebuje silnější model s webem
+  if (stage === 'continents') return ask(continentsPrompt(slug, kingdom, id), { label: `kontinenty:${slug}:${id}`, phase: 'Kontinenty', ...(kingdom === 'rostliny' ? {} : { model: 'sonnet' }) })
   const prompt = id.startsWith('f_') ? factReviewPrompt(slug, id) : id.startsWith('w_') ? wildPrompt(slug, kingdom, id)
     : id.startsWith('h_') || id.startsWith('s_') ? restorePrompt(slug, kingdom, id) : photoReviewPrompt(slug, kingdom, id)
   return ask(prompt, { label: `kontrola:${slug}:${id}`, phase: 'Přísná kontrola' })
